@@ -1,4 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+
+
+   <teiHeader type="text">
+
+
+      <fileDesc>
+
+
+         <titleStmt>
+
+
+            <title>Southern Changes.  Volume 03, Number 2, 1981</title>
+
+
+            <author>Staff</author>
+
+
+            <respStmt>
+
+
+               <resp>Compiled and edited by</resp>
+
+
+               <name>staff</name>
+
+
+            </respStmt>
+
+
+         </titleStmt>
+
+
+         <extent/>
+
+
+         <publicationStmt>
+
+
+            <publisher>Lewis H. Beck Center</publisher>
+
+
+            <pubPlace>Emory University</pubPlace>
+
+
+            <address>
+
+
+               <addrLine>Atlanta, Georgia</addrLine>
+
+
+            </address>
+
+
+            <availability>
+
+
+               <p>1996 Emory University. Permission is granted to 
+
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to 
+
+
+the work claimed by Emory University for non-profit educational purposes, provided  
+
+
+this header is included in its entirety.  For inquiries about commercial uses, contact 
+
+
+either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
+
+
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+
+
+            </availability>
+
+
+            <date>2004</date>
+
+
+         </publicationStmt>
+
+
+         <seriesStmt>
+
+
+            <title>Southern Changes Web Project</title>
+
+
+         </seriesStmt>
+
+
+         <sourceDesc>
+
+
+            <bibl>Southern Changes.  Volume 03, Number 2. 1981</bibl>
+
+
+         </sourceDesc>
+
+
+      </fileDesc>
+
+
+      <encodingDesc>
+
+
+         <projectDesc>
+
+
+            <p>This text is produced in conjunction with the  
+
+
+Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
+
+
+         </projectDesc>
+
+
+      </encodingDesc>
+
+
+      <revisionDesc>
+
+
+         <change>
+
+
+            <date>2004</date>
+
+
+            <respStmt>
+
+
+               <name>Beck Center</name>
+
+
+               <resp>Staff</resp>
+
+
+            </respStmt>
+
+
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+
+
+         </change>
+
+
+      </revisionDesc>
+
+
+   </teiHeader>
+
+
+   <text>
+
+
+      <body>
+<div1 id="sc03-2.001" n="Southern Changes 3:2" type="Issue">
+<head>Southern Changes. Volume 3, Number 2, 1981</head>
+<p>
+<title>Southern Changes</title>. Volume 3, Number 2, 1981</p>
+
 <div2 id="sc03-2staff.001" n="EDITOR'S NOTE" type="Article">
 <head>EDITOR'S NOTE</head>
 <docAuthor>Staff</docAuthor>
@@ -40,7 +205,8 @@ Washington.</p>
 <p>As we celebrate this new beginning, I want to explain as clearly as my command of the language will allow what kind of governor I will try to be.</p>
 
 <p>Like anyone else, I will tend to make decisions that reflect the
-values and principles I have come to cherish over the years of living and struggling to grasp what understanding I can of the human condition.</p>
+values and principles I have come to cherish over the years of living
+and strugg ling to grasp what understanding I can of the human condition.</p>
 
 <p>For as long as I can remember, I have believed passionately in the cause of equal opportunity, and I will do what I can to advance it.</p>
 
@@ -191,6 +357,9 @@ cities and in suburban areas&#x2014;where the South's population is steadily
 growing. It is what professionals in the business of vote getting call
 "a growth pattern" and the basis for the Republican hopes for 1984 in
 the South.</p>
+<p rend="bold">More than two out of three of al the Black boxes
+surveyed showed Carter with better that 90 percent of the vote.</p>
+<p>ELECTION RESULTS'80</p>
 <pb n="8"/>
 <table rows="15" cols="5">
 <head rend="center">Chart 1<lb/> Presidential Elections in the South,
@@ -811,7 +980,7 @@ cannot develop a suitable plan. Legislation now before Congress would
 vest all responsibility for congressional reapportionment in
 independent commissions that would be established in each state.</p>
 
-<p><hi rend="bold"><head rend="center">The North Carolina Experience</head></hi></p>
+<p><hi rend="bold"><hi rend="center">The North Carolina Experience</hi></hi></p>
 
 <p>Factors unique to North Carolina also complicate the reapportionment
 process. As the Piedmont counties grow, for example, they are becoming
@@ -987,7 +1156,7 @@ compete with GPA, "but we would like to join hands with all
 woodcutters to make sure our efforts do not go to waste."</p>
 </div2>
 
-<div 2 id="sc03-2staff.009" n="Update: Alabama Legislature"
+<div2 id="sc03-2staff.009" n="Update: Alabama Legislature"
      type="Article">
 <head>Update: Alabama Legislature</head>
 <docAuthor>By SLRC Staff</docAuthor>
@@ -1007,5 +1176,5 @@ James said no
 <pb n="19"/>
 new tax proposals were needed and that "the ship of state" was leaky with misused funds and earmarked monies. The governor is asking the legislature to unfreeze funds designated for specific purposes by legislation and to establish an election on a constitutional amendment to release monies earmarked in the state constitution.</p>
 
-<p>If successful, James would unfreeze funds from the state income tax, license taxes, some sales taxes, and fines from state game and fish laws violations.</p></div>
+<p>If successful, James would unfreeze funds from the state income tax, license taxes, some sales taxes, and fines from state game and fish laws violations.</p></div2></div1></body></text></TEI.2>
 
