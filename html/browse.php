@@ -5,6 +5,7 @@
 // optionally, pass search terms for highlighting; for example;
 // browse.php?id=iln38.1068.002&term=lincoln  
 
+include_once("taminoConnection.class.php");
 include("common_functions.php");
 $id = $_GET["id"];
 $term = $_GET["term"];
