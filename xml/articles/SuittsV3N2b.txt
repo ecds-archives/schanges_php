@@ -183,3 +183,460 @@ Choices in 11 Southern States</head>
 <head>Chart 2: Reagan Votes in Standard Metropolitan Statistical Areas
 of 3 Southern States -Urban and Suburban Voting Patterns in 1980
 Election</head>
+<row role="label">
+<cell role="label"/>
+<cell role="label">Louisiana</cell>
+<cell role="label"/>
+</row>
+<row role="label">
+<cell role="label">SMSA/Counties</cell>
+<cell role="label">% of Total Votes for Reagan</cell>
+<cell role="label">No. of Reagan Voters</cell>
+</row>
+<row role="label">
+<cell role="label">Baton Rouge</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*East Baton Rouge</cell>
+<cell role="data">52.9%</cell>
+<cell role="data">60,032</cell>
+</row>
+<row role="label">
+<cell role="label">Lafayette</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Lafayette</cell>
+<cell role="data">58.7%</cell>
+<cell role="data">30,812</cell>
+</row>
+<row role="label">
+<cell role="label">Lake Charles</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Calcasieu</cell>
+<cell role="data">42.5%</cell>
+<cell role="data">27,360</cell>
+</row>
+<row role="label">
+<cell role="label">Monroe</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Quachita</cell>
+<cell role="data">63.5%</cell>
+<cell role="data">29,701</cell>
+</row>
+<row role="label">
+<cell role="label">New Orleans</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Jefferson</cell>
+<cell role="data">64.2%</cell>
+<cell role="data">99,915</cell>
+</row>
+<row role="data">
+<cell role="label">*Orleans</cell>
+<cell role="data">39.8%</cell>
+<cell role="data">73,712</cell>
+</row>
+<row role="data">
+<cell role="label">St. Bernard</cell>
+<cell role="data">61.3%</cell>
+<cell role="data">19,410</cell>
+</row>
+<row role="data">
+<cell role="label">St. Tammany</cell>
+<cell role="data">64.0%</cell>
+<cell role="data">27,214</cell>
+</row>
+<row role="label">
+<cell role="label">Shreveport</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Bossier</cell>
+<cell role="data">62.8%</cell>
+<cell role="data">16,515</cell>
+</row>
+<row role="data">
+<cell role="label">Caddo</cell>
+<cell role="data">55.7%</cell>
+<cell role="data">43,085</cell>
+</row>
+<row role="data">
+<cell role="label">TOTAL FOR SMSA's</cell>
+<cell role="data">53.7%</cell>
+<cell role="data">427,760</cell>
+</row>
+<row role="label">
+<cell role="label"/>
+<cell role="label">South Carolina</cell>
+<cell role="label"/>
+</row>
+<row role="label">
+<cell role="label">Charleston</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Berkeley</cell>
+<cell role="data">55.2%</cell>
+<cell role="data">12,510</cell>
+</row>
+<row role="data">
+<cell role="label">*Charleston</cell>
+<cell role="data">61.1%</cell>
+<cell role="data">60,894</cell>
+</row>
+<row role="label">
+<cell role="label">Columbia</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Aiken</cell>
+<cell role="data">57.7%</cell>
+<cell role="data">18,528</cell>
+</row>
+<row role="data">
+<cell role="label">Lexington</cell>
+<cell role="data">68.4%</cell>
+<cell role="data">28,271</cell>
+</row>
+<row role="data">
+<cell role="label">*Richland</cell>
+<cell role="data">50.5%</cell>
+<cell role="data">36,351</cell>
+</row>
+<row role="label">
+<cell role="label">Greenville</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Greenville</cell>
+<cell role="data">57.8%</cell>
+<cell role="data">46,198</cell>
+</row>
+<row role="data">
+<cell role="label">*Pickens</cell>
+<cell role="data">53.8.%</cell>
+<cell role="data">9,517</cell>
+</row>
+<row role="data">
+<cell role="label">TOTAL FOR SMSA's</cell>
+<cell role="data">58.1%</cell>
+<cell role="data">212,269</cell>
+</row>
+<row role="label">
+<cell role="label"/>
+<cell role="label">Texas</cell>
+<cell role="label"/>
+</row>
+<row role="label">
+<cell role="label">Abelene</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Jones</cell>
+<cell role="data">47.2%</cell>
+<cell role="data">2,777</cell>
+</row>
+<row role="data">
+<cell role="label">Taylor</cell>
+<cell role="data">62.0%</cell>
+<cell role="data">22,943</cell>
+</row>
+<row role="label">
+<cell role="label">Amarillo</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Potter</cell>
+<cell role="data">60.9%</cell>
+<cell role="data">16,327</cell>
+</row>
+<row role="data">
+<cell role="label">Randall</cell>
+<cell role="data">73.7%</cell>
+<cell role="data">23,136</cell>
+</row>
+<row role="label">
+<cell role="label">Austin</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Travis</cell>
+<cell role="data">49.4%</cell>
+<cell role="data">73,151</cell>
+</row>
+<row role="label">
+<cell role="label">Beaumont</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Jefferson</cell>
+<cell role="data">43.4%</cell>
+<cell role="data">36,763</cell>
+</row>
+<row role="data">
+<cell role="label">Liberty</cell>
+<cell role="data">51.3%</cell>
+<cell role="data">7,470</cell>
+</row>
+<row role="label">
+<cell role="label">Brownsville-Harlingten-San Benito</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Cameron</cell>
+<cell role="data">47.6%</cell>
+<cell role="data">22,041</cell>
+</row>
+<row role="label">
+<cell role="label">Bryan-College Station</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Brazos</cell>
+<cell role="data">60.3%</cell>
+<cell role="data">17,798</cell>
+</row>
+<row role="label">
+<cell role="label">Corpus Christi</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Nueces</cell>
+<cell role="data">45.6%</cell>
+<cell role="data">37,276</cell>
+</row>
+<row role="data">
+<cell role="label">San Patricio</cell>
+<cell role="data">46.6%</cell>
+<cell role="data">7,662</cell>
+</row>
+<row role="label">
+<cell role="label">Dallas-Fort Worth</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Collin</cell>
+<cell role="data">67.9%</cell>
+<cell role="data">36,559</cell>
+</row>
+<row role="data">
+<cell role="label">*Dallas</cell>
+<cell role="data">65.8%</cell>
+<cell role="data">359,518</cell>
+</row>
+<row role="data">
+<cell role="label">Denton</cell>
+<cell role="data">59.9%</cell>
+<cell role="data">29,908</cell>
+</row>
+<row role="data">
+<cell role="label">Ellis</cell>
+<cell role="data">51.3</cell>
+<cell role="data">10,050</cell>
+</row>
+<row role="data">
+<cell role="label">Grayson</cell>
+<cell role="data">53.7%</cell>
+<cell role="data">16,811</cell>
+</row>
+<row role="data">
+<cell role="label">Johnson</cell>
+<cell role="data">51.7%</cell>
+<cell role="data">11,411</cell>
+</row>
+<row role="data">
+<cell role="label">*Kaufman</cell>
+<cell role="data">46.8%</cell>
+<cell role="data">5,081</cell>
+</row>
+<row role="data">
+<cell role="label">Rockwall</cell>
+<cell role="data">65.3%</cell>
+<cell role="data">4,036</cell>
+</row>
+<row role="data">
+<cell role="label">*Tarrant</cell>
+<cell role="data">56.9%</cell>
+<cell role="data">173,466</cell>
+</row>
+<row role="label">
+<cell role="label">El Paso</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*El Paso</cell>
+<cell role="data">53.5%</cell>
+<cell role="data">53,276</cell>
+</row>
+<row role="label">
+<cell role="label">Houston</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Brazoria</cell>
+<cell role="data">58.1%</cell>
+<cell role="data">27,614</cell>
+</row>
+<row role="data">
+<cell role="label">Chambers</cell>
+<cell role="data">54.1%</cell>
+<cell role="data">3,140</cell>
+</row>
+<row role="data">
+<cell role="label">Fort Bend</cell>
+<cell role="data">65.9%</cell>
+<cell role="data">24,914</cell>
+</row>
+<row role="data">
+<cell role="label">*Harris</cell>
+<cell role="data">58.0%</cell>
+<cell role="data">416,965</cell>
+</row>
+<row role="data">
+<cell role="label">Montgomery</cell>
+<cell role="data">65.6%</cell>
+<cell role="data">26,237</cell>
+</row>
+<row role="label">
+<cell role="label">Laredo</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Webb</cell>
+<cell role="data">30.8</cell>
+<cell role="data">5,421</cell>
+</row>
+<row role="label">
+<cell role="label">Lubbock</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Lubbock</cell>
+<cell role="data">68.8%</cell>
+<cell role="data">46,711</cell>
+</row>
+<row role="label">
+<cell role="label">McAllen-Pharr-Edinburg</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Hidalgo</cell>
+<cell role="data">41.8%</cell>
+<cell role="data">25,499</cell>
+</row>
+<row role="label">
+<cell role="label">Midland</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Ector</cell>
+<cell role="data">72.4%</cell>
+<cell role="data">25,846</cell>
+</row>
+<row role="data">
+<cell role="label">*Midland</cell>
+<cell role="data">76.6%</cell>
+<cell role="data">25,027</cell>
+</row>
+<row role="label">
+<cell role="label">San Angelo</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Tom Green</cell>
+<cell role="data">60.1%</cell>
+<cell role="data">15,840</cell>
+</row>
+<row role="label">
+<cell role="label">San Antonio</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Bexar</cell>
+<cell role="data">49.9%</cell>
+<cell role="data">148,126</cell>
+</row>
+<row role="data">
+<cell role="label">Guadalupe</cell>
+<cell role="data">64.2%</cell>
+<cell role="data">9,901</cell>
+</row>
+<row role="label">
+<cell role="label">Texarkana</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*Bowie</cell>
+<cell role="data">54.8%</cell>
+<cell role="data">7,804</cell>
+</row>
+<row role="label">
+<cell role="label">Waco</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">*McLennan</cell>
+<cell role="data">53.1%</cell>
+<cell role="data">30,026</cell>
+</row>
+<row role="label">
+<cell role="label">Wichita Falls</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+<row role="data">
+<cell role="label">Archer</cell>
+<cell role="data">54.8%</cell>
+<cell role="data">7,804</cell>
+</row>
+<row role="data">
+<cell role="label">*Wichita</cell>
+<cell role="data">55.0%</cell>
+<cell role="data">22,884</cell>
+</row>
+<row role="data">
+<cell role="label">TOTAL FOR SMSA's</cell>
+<cell role="data">57.3%</cell>
+<cell role="data">1,837,357</cell>
+</row>
+<row role="label">
+<cell role="label">* Central City Counties</cell>
+<cell role="label"/>
+<cell role="label"/>
+</row>
+</table>
+</div2>
