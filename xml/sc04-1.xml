@@ -131,138 +131,161 @@ parliamentary rule to place H.R. 3112 on a special
 <cell role="data">1975</cell>
 <cell role="data">1981</cell>
 </row>
+
 <row role="label">
 <cell role="data"/>
 <cell role="data">House of Representatives</cell>
 <cell role="data">Butler Amendment</cell>
 <cell role="data">Butler Amendment</cell>
 </row>
+
 <row role="label">
 <cell role="data"/>
 <cell role="data">1981</cell>
 <cell role="data">Exempting Some States</cell>
 <cell role="data">Changing Bailout</cell>
 </row>
+
 <row role="label">
 <cell role="data"/>
 <cell role="data">Alabama</cell>
 <cell/>
 <cell/>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jack Edwards (R)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Dickenson (R)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bill Nichols (D)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
-<cell role="data">Torn Bevill (D)</cell>
+<cell role="data">Tom Bevill (D)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ronnie B. Flippo (D)</cell>
 <cell role="data"> - </cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Albert Smith (R)</cell>
 <cell role="data"> - </cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Richard Shelby (D)</cell>
 <cell role="data"> - </cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="label">
 <cell role="data"/>
 <cell role="data">Arkansas</cell>
 <cell/>
 <cell/>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bill Alexander (D)</cell>
 <cell role="data">?</cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ed Bethune (R)</cell>
 <cell role="data"> - </cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">John Hammerschmidt (R)</cell>
 <cell role="data">?</cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Beryl Anthony (D)</cell>
 <cell role="data"> - </cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="label">
 <cell role="data"/>
 <cell role="data">Florida</cell>
 <cell/>
 <cell/>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Earl Hutto (D)</cell>
 <cell role="data"> - </cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Don Fuqua (D)</cell>
 <cell role="data">G</cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Charles Bennett (D)</cell>
 <cell role="data">G</cell>
 <cell role="data">G</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bill Chappell (D)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bill McCollum (R)</cell>
 <cell role="data"> - </cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">C.W. Young (R)</cell>
 <cell role="data">B</cell>
 <cell role="data">B</cell>
 </row>
+
 <row role="data">
 <cell role="data"/>
 <cell role="data">Sam Gibbons (D)</cell>
@@ -294,31 +317,37 @@ parliamentary rule to place H.R. 3112 on a special
 <row role="data">
 <cell role="data"/>
 <cell role="data">Dan Mica (D)</cell>
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Clay Shaw (R)</cell>
--
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Lehman (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Claude Pepper (D)</cell>
-G 
--
+<cell role="data">G</cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Dante Fascell (D)</cell>
-G 
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -330,62 +359,72 @@ G
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bo Ginn(D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Charles Hatcher (D)</cell>
--
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jack Brinkley (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Elliot Levitas (D)</cell>
-G
-B 
+<cell role="data">G</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Wyche Fowler (D)</cell>
- -
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Newt Gingrich (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Larry McDonald (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Billy Evans (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ed Jenkins (D)</cell>
-- 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Doug Barnard (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -397,50 +436,58 @@ B
 <row role="data">
 <cell role="data"/>
 <cell role="data">Robert Livingston (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Lindy Boggs (D)</cell>
-B
-G 
+<cell role="data">B*</cell>
+<cell role="data">G </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">W.J. Tauzin (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Buddy Roemer (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jerry Huckaby (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">W. Henson Moore (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">John B. Breaux (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Gillis W. Long (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -452,32 +499,37 @@ G
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jamie Whitten (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">David Bowen (D)</cell>
-B
-B 
+<cell role="data">B*</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">G.V. Sonny Montgomery (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Dowdy (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Trent Lott (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -489,69 +541,81 @@ B
 <row role="data">
 <cell role="data"/>
 <cell role="data">Walter Jones (D)</cell>
-?
- - 
+<cell role="data">?</cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">L.H. Fountain (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Charles Whitley (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ike Andrews (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Stephen Neal (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Eugene Johnston (R)</cell>
- - 
-B
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
+
 <pb n="7"/>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Charles Rose (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">W.G. Hefner (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">James Martin (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">James Broyhill (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Hendon (R)</cell>
--
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -563,35 +627,44 @@ G
 <row role="data">
 <cell role="data"/>
 <cell role="data">Thomas Hartnett (R)</cell>
- - 
-B 
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Floyd Spence (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">Butler Derrick (D)</cell>
-B 
+<cell role="data">Butler Dernck (D)</cell>
+<cell role="data">B</cell>
+<cell role="data">?</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">Carroll Campbell (R) - B 
+<cell role="data">Carroll Campbell (R)</cell>
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ken Holland (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">John Napier (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -603,49 +676,58 @@ B
 <row role="data">
 <cell role="data"/>
 <cell role="data">James Quillen (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">John Duncan (R)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Marilyn Bouquard (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Albert Gore (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Boner (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Robin Beard (R)</cell>
-? 
+<cell role="data">?</cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ed Jones (D)</cell>
-G
-G 
+<cell role="data">G*</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Harold Ford (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -657,145 +739,170 @@ G
 <row role="data">
 <cell role="data"/>
 <cell role="data">Sam Hall (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Charles Wilson (D)</cell>
-?
-G 
+<cell role="data">?</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">James Collins (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ralph Hall (D)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jim Mattox (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Phil Gramm (D)</cell>
- - 
-B 
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Bill Archer (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jack Fields (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jack Brooks (D)</cell>
-B 
+<cell role="data">B</cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">J.J. Pickle (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Marvin Leath (D)</cell>
- - 
-B 
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jim Wright (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Jack Hightower (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Patman (D)</cell>
- - 
-B 
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">E. dela Garza (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Richard White (D)</cell>
-B
-G 
+<cell role="data">B</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
-<cell role="data">Charles Stenhoim (D)</cell>
- - 
-B 
+<cell role="data">Charles Stenholm (D)</cell>
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Mickey Leland (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Kent Hance (D)</cell>
- - 
-G 
+<cell role="data"> - </cell> 
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Henry Gonzalez (D)</cell>
-G
-G 
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Tom Loeffler (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Ronald Paul (R)</cell>
- 
+<cell role="data"> - </cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Abraham Kazen (D)</cell>
-G
-G 
-
+<cell role="data">G</cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Martin Frost (D)</cell>
- - 
-G 
+<cell role="data"> - </cell>
+<cell role="data">G</cell>
+</row>
 
 <row role="label">
 <cell role="data"/>
@@ -805,64 +912,75 @@ G
 </row>
 
 <row role="data">
-<cell role="data">
+<cell role="data"/>
 <cell role="data">Paul Trible (R)</cell>
- - 
-B 
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">G.W. Whitehurst (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Thomas Bliley (R)</cell>
- - 
-B 
+<cell role="data"> - </cell> 
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Robert Daniel (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Dan Daniel (D)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">M. Caldwell Butler (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">J. Kenneth Robinson (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Stanford Parris (R)</cell>
- - 
+<cell role="data"> - </cell>
+<cell role="data"> - </cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">William Wampler (R)</cell>
-B
-B 
+<cell role="data">B</cell>
+<cell role="data">B</cell>
+</row>
 
 <row role="data">
 <cell role="data"/>
 <cell role="data">Frank Wolf (R)</cell>
- - 
-B
-
+<cell role="data"> - </cell>
+<cell role="data">B</cell>
+</row>
+</table>
 
 <p>G = A vote for the Voting Rights Act or opposing changes to original bill.</p>
 
