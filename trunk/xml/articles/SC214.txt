@@ -1,67 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
 <TEI.2>
-<teiHeader type="text">
-<fileDesc>
-<titleStmt>
-<title>Southern Changes. Volume 21, Number 4, Winter 1999</title>
-<author>Staff</author>
-<respStmt>
-</titleStmt>
-<extent/>
-<publicationStmt>
-<publisher>Lewis H. Beck Center</publisher>
-<pubPlace>Emory University</pubPlace>
-<address>
-<addrLine>Atlanta, Georgia</addrLine>
-</address>
-<availability>
-<p>1996 Emory University. Permission is granted to download, transmit,
-or otherwise reproduce, distribute or display the contributions to the
-work claimed by Emory University for non-profit educational purposes,
-provided this header is included in its entirety. For inquiries about
-commercial uses, contact either: Southern Changes Web Project or Lewis
-H. Beck Center for Electronic collections and services, Emory
-University, Atlanta, Georgia 30322</p>
-</availability>
-<date>2004</date>
-</publicationStmt>
-<seriesStmt>
-<title>Southern Changes Web Project</title>
-</seriesStmt>
-<sourceDesc>
-<bibl>Southern Changes. Volume 21, Number 4. Fall 1999</bibl>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>This text is produced in conjunction with the Southern Changes Web
-Project at Emory University and the Southern Regional Council, 133
-Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-</projectDesc>
-</encodingDesc>
-<revisionDesc>
-<change>
-<date>2004</date>
-<respStmt>
-<name>Beck Center</name>
-<resp>Staff</resp>
-</respStmt>
-<item>SGML tags inserted in compliance with TEI guidelines using
-TEILITE</item>
-</change>
-</revisionDesc>
-</teiHeader>
-<text>
-<body>
-<div1 id="sc21-4.001" n="Southern Changes 21:4" type="Issue">
-<head>Southern Changes. Volume 21, Number 4, Winter 1999</head>
-<p>
-<title>Southern Changes.</title> Volume 21, Number 4, Winter 1999</p>
-<div2 id="sc21-4.002" n="Census 2000: One Census, Two Counts--The
+
+
+   <teiHeader type="text">
+
+
+      <fileDesc>
+
+
+         <titleStmt>
+
+
+            <title>Southern Changes.  Volume 21, Number 4, 1999</title>
+
+
+            <author>Staff</author>
+
+
+            <respStmt>
+
+
+               <resp>Compiled and edited by</resp>
+
+
+               <name>staff</name>
+
+
+            </respStmt>
+
+
+         </titleStmt>
+
+
+         <extent/>
+
+
+         <publicationStmt>
+
+
+            <publisher>Lewis H. Beck Center</publisher>
+
+
+            <pubPlace>Emory University</pubPlace>
+
+
+            <address>
+
+
+               <addrLine>Atlanta, Georgia</addrLine>
+
+
+            </address>
+
+
+            <availability>
+
+
+               <p>1996 Emory University. Permission is granted to 
+
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to 
+
+
+the work claimed by Emory University for non-profit educational purposes, provided  
+
+
+this header is included in its entirety.  For inquiries about commercial uses, contact 
+
+
+either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
+
+
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+
+
+            </availability>
+
+
+            <date>2003</date>
+
+
+         </publicationStmt>
+
+
+         <seriesStmt>
+
+
+            <title>Southern Changes Web Project</title>
+
+
+         </seriesStmt>
+
+
+         <sourceDesc>
+
+
+            <bibl>Southern Changes.  Volume 21, Number 4 1999</bibl>
+
+
+         </sourceDesc>
+
+
+      </fileDesc>
+
+
+      <encodingDesc>
+
+
+         <projectDesc>
+
+
+            <p>This text is produced in conjunction with the  
+
+
+Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
+
+
+         </projectDesc>
+
+
+      </encodingDesc>
+
+
+      <revisionDesc>
+
+
+         <change>
+
+
+            <date>2003</date>
+
+
+            <respStmt>
+
+
+               <name>Beck Center</name>
+
+
+               <resp>Staff</resp>
+
+
+            </respStmt>
+
+
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+
+
+         </change>
+
+
+      </revisionDesc>
+
+
+   </teiHeader>
+
+
+   <text>
+
+
+      <body>
+
+
+         <div1 id="v21-4.999" n="Southern Changes 21:4" type="Volume">
+
+
+            <head>Southern Changes.  Volume 21, Number 4, 1999</head>
+
+
+            <p> 
+
+
+               <title>Southern Changes.</title>  Volume 21, Number 4, 1999</p>
+ <div2 id="v21-4.999" n="Census 2000: One Census, Two Counts--The
 Politics Behind the Confusion" type="Article">
-<head>Census 2000: One Census, Two Counts--The Politics Behind the
-Confusion</head>
-<docAuthor>By Winnett Hagens</docAuthor>
-<docDate>Vol. 21, No. 4, Winter 1999</docDate>
+
+
+               <head>Census 2000: One Census, Two Counts--The
+Politics Behind the Confusion</head>
+
+
+               <docAuthor>By Winnett Hagens</docAuthor>
+
+
+               <docDate>Vol. 21, No. 4, 1999</docDate>
+<argument><p></p></argument>
 <p>Arguing the case for a statistical adjustment of the 1990 Census before the Supreme Court in the fall of 1995, U.S. Solicitor General Drew Days began his presentation with the observation that "the true total population of the United States is unknown and unknowable." Although the 1990 Census described itself as "better designed and executed than any previous Census," it also was the first Census ever to be less accurate than its predecessor. That year, the Census Bureau determined it had missed about 8.4 million people and double-counted 4.4 million others. As for 2000, according to Bureau Director Dr. Kenneth Pruitt, "the apportionment counts are not likely to be an improvement on the 1990 accuracy levels." Indeed, the undercount will be even higher.</p>
 <p rend="bold"><p rend="center">Causes of Growing Census Undercounts</p>
 <p>The Census is administered through mailed questionnaires. Every decade for the last thirty years, more and more people seem unable or unwilling to cooperate with the process. In 1970, the non-response rate was 15 percent; in 1980 it was 25 percent; in 1990, 37 percent; and, in 2000, estimates suggest that the rate will be between 39 and 40 percent.</p> 
