@@ -8,6 +8,7 @@ $url = 'http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
 for $b in input()/TEI.2//div1
 return <div1>
  {$b/@type}
+ {$b/@id}
  {$b/head}
  { for $c in $b/div2 return
    <div2>
