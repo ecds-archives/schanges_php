@@ -11,23 +11,34 @@ $term = $_GET["term"];
 $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
 
+$args = array('host' => "vip.library.emory.edu",
+		'db' => "SRC",
+	      //	      'debug' => true,
+		'coll' => 'schanges');
+$tamino = new taminoConnection($args);
 
 
 //$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
 //$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
-$url = 'http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
-for $b in input()/TEI.2//div1/div2
-where $b/@id = "$id"
+$url = "http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
+for \$b in input()/TEI.2//div1/div2
+where \$b/@id = '$id'
 return 
-$b'
+\$b";
 
+$rval = $tamino->xquery($query);
+if ($rval) {       // tamino Error code (0 = success)
+  print "<p>Error: failed to retrieve contents.<br>";
+  print "(Tamino error code $rval)</p>";
+  exit();
+} 
 
 $xsl_file = "browse.xsl";
 
 html_head("Browse - Article");
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+//include("xml/head.xml");
+//include("xml/sidebar.xml");
 ?>
 
    <div class="content"> 
