@@ -1,4 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 14, Number 4, 1992</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>1996 Emory University. Permission is granted to 
+download, transmit, or otherwise reproduce, distribute or display the contributions to 
+the work claimed by Emory University for non-profit educational purposes, provided  
+this header is included in its entirety.  For inquiries about commercial uses, contact 
+either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 14, Number 4. 1992</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the  
+Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
 <div1 id="sc14-4.001" n="Southern Changes 14:4" type="Issue">
 <head> Southern Changes. Volume 14, Number 4, December, 1992 </head>
 <p>
@@ -1082,4 +1137,4 @@ cessfully on drums, piano, and horns, as well as the skills needed to converse i
 should hearken joyfully to this "call to assembly"; but Alabamians in
 particular should be mighty proud of its author for writing it.</p>
 </div2>
-</div1>
+</div1></body></text></TEI.2>
