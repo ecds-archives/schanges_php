@@ -1,4 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+
+
+   <teiHeader type="text">
+
+
+      <fileDesc>
+
+
+         <titleStmt>
+
+
+            <title>Southern Changes.  Volume 04, Number 1, 1981</title>
+
+
+            <author>Staff</author>
+
+
+            <respStmt>
+
+
+               <resp>Compiled and edited by</resp>
+
+
+               <name>staff</name>
+
+
+            </respStmt>
+
+
+         </titleStmt>
+
+
+         <extent/>
+
+
+         <publicationStmt>
+
+
+            <publisher>Lewis H. Beck Center</publisher>
+
+
+            <pubPlace>Emory University</pubPlace>
+
+
+            <address>
+
+
+               <addrLine>Atlanta, Georgia</addrLine>
+
+
+            </address>
+
+
+            <availability>
+
+
+               <p>1996 Emory University. Permission is granted to 
+
+
+download, transmit, or otherwise reproduce, distribute or display the contributions to 
+
+
+the work claimed by Emory University for non-profit educational purposes, provided  
+
+
+this header is included in its entirety.  For inquiries about commercial uses, contact 
+
+
+either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
+
+
+collections and services, Emory University, Atlanta, Georgia 30322</p>
+
+
+            </availability>
+
+
+            <date>2004</date>
+
+
+         </publicationStmt>
+
+
+         <seriesStmt>
+
+
+            <title>Southern Changes Web Project</title>
+
+
+         </seriesStmt>
+
+
+         <sourceDesc>
+
+
+            <bibl>Southern Changes.  Volume 04, Number 1. 1981</bibl>
+
+
+         </sourceDesc>
+
+
+      </fileDesc>
+
+
+      <encodingDesc>
+
+
+         <projectDesc>
+
+
+            <p>This text is produced in conjunction with the  
+
+
+Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
+
+
+         </projectDesc>
+
+
+      </encodingDesc>
+
+
+      <revisionDesc>
+
+
+         <change>
+
+
+            <date>2004</date>
+
+
+            <respStmt>
+
+
+               <name>Beck Center</name>
+
+
+               <resp>Staff</resp>
+
+
+            </respStmt>
+
+
+            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
+
+
+         </change>
+
+
+      </revisionDesc>
+
+
+   </teiHeader>
+
+
+   <text>
+
+
+      <body>
+<div1 id="sc03-2.001" n="Southern Changes 4:1" type="Issue">
+<head>Southern Changes. Volume 4, Number 1, 1981</head>
+<p>
+<title>Southern Changes</title>. Volume 4, Number 1, 1981</p>
 <div1 id="v4-1.001" n="Southern Changes 4:1" type="Issue">
 <head>Southern Changes. Volume 4, Number 1, 1981</head>
 <p>
@@ -1372,8 +1536,8 @@ discriminatory purpose and effect.</p>
 <head>"Why the South Needs the Voting Rights Act"></head>
 <docAuthor>By Reubin O'D. Askew</docAuthor>
 <docDate>Vol. 4, No. 1, 1981, pp. 10-13</docDate>
-<argument>
-Reubin O'D. Askew was formerly governor of Florida and special trade representative for the United States in the Carter Administration. His remarks were presented at a conference on minority voting rights in the South on August 21, 1981.</argument>
+<argument><p>
+Reubin O'D. Askew was formerly governor of Florida and special trade representative for the United States in the Carter Administration. His remarks were presented at a conference on minority voting rights in the South on August 21, 1981.</p></argument>
 
 <p>With tear gas, with billy clubs, and with bullwhips, the eyes of America were opened at Selma, Alabama in 1965. The longstanding refusal of this nation to fulfill one of the most basic of its democratic commitments was revealed for all to see.</p>
 
@@ -1722,7 +1886,9 @@ be loud and fierce. The Legislative Black Caucus in Louisiana is preparing its o
 the Legislative Black Caucus' proposal to create a 70 percent black
 district that included parts of the Mississippi Delta and metropolitan
 Jackson. Instead the legislature left most Congressional boundaries
-near their present lines. The Delta is now represented by veteran
+near their present lines.</p>
+
+<p>The Delta is now represented by veteran
 Democrat David Bowen whose 1970 reapported district was 45 percent
 black. The legislature's reapportionment plan now provides a black
 population of nearly 50 percent. Because the number of voting age
@@ -2015,8 +2181,8 @@ objection. Crockett County, Texas, for example, now has a registration
 rate of 95.2 percent among Chicanos, and 93.6 percent of the Chicanos registered turned out to vote in a recent county commissioner race that was made possible by equitable districting lines under Section 5 of the VRA. Many other cities and counties such as Sonora, Dallas, Crockett County, Houston, and San Antonio have been similarly affected.</p>
 
 <p>The process that is unfolding before us is the process whereby America integrates a people, an immigrant working class, into our democratic electoral process. We have a long way to go; however, the progress afforded us under the protection of the Voting Rights Act gives cause for optimism. My optimism is not just for the Chicano people's political future, but for the future of our country. Indeed, I feel very strongly that the struggles we have gone through and those struggles of previous immigrant groups have helped this country stay true to its basic ideals. And important among those ideals is that America is a land of just laws that practices what it preaches .... and where in fact a group from humble circumstances can strive to and actually elect their own representatives.</p>
+<p rend="italic">William C. Velasquez gave testimony before the U.S. House Subcommittee on Civil and Constitutional Rights on May 6, 1981.</p>
 
-<p><hi rend="italic">William C. Velasquez gave testimony before the U.S. House Subcommittee on Civil and Constitutional Rights on May 6, 1981.</hi></p>
 
 <p><hi rend="bold">Georgia</hi></p>
 
@@ -2453,4 +2619,4 @@ introduction of the bill to renew the Voting Rights Act on April 6,
 challenged us to join with him in the historic pledge that "we shall
 overcome." This is not the time to retreat or to surrender.</p>
 </div2>
-</div1>
+</div1></div1></body></text></TEI.2>
