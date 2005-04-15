@@ -1,190 +1,69 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 22, Number 4, 2000</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
-download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
-the work claimed by Emory University for non-profit educational purposes, provided  
-
-
-this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
-either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
+download, transmit, or otherwise reproduce, distribute or display the
+contributions to the work claimed by Emory University for non-profit
+educational purposes, provided this header is included in its
+entirety.  For inquiries about commercial uses, contact either:
+Southern Changes Web Project or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2003</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 22, Number 4. 2000</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2003</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
-
-
          <div1 id="v22-4.001" n="Southern Changes 22:4" type="Volume">
-
-
             <head>Southern Changes.  Volume 22, Number 4, 2000</head>
-
-
             <p> 
-
-
                <title>Southern Changes.</title>  Volume 22, Number 4, 2000</p>
  <div2 id="v22-4.003" n="Redistricting for Inclusive Democracy" type="Article">
-
-
-               <head>Redistricting for Inclusive Democracy</head>
-
-
+              <head>Redistricting for Inclusive Democracy</head>
                <docAuthor>By Penda Hair</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p>Penda Hair is co-director of the Advancement Project in Washington, D.C., a public policy advocacy organization and resource center devoted to finding, creating, and promoting innovative and effective strategies to advance racial and social justice.</p></argument>
-
-
-
 <p>As a direct result of the Voting Rights Act of 1965, U.S. democracy is more inclusive now than at any time in its history. As our nation faces the next round of redistricting and celebrates the 35th anniversary of the Voting Rights Act, it is important to mark this progress. In 1965, no African American represented any Southern state in Congress. In Congress today, thirteen African Americans represent the states of Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, and Tennessee. The ability of Latinos, Asian Pacific Americans, Native Americans, and other minorites to elect representatives of their choice also has increased significantly. These improvements did not come about voluntarily, but derive largely from enforcement of the Voting Rights Act and particularly from the Act's pressure on jurisdictions to create single-member districts which provide minority constituencies an equal chance to elect their preferred candidates.</p>
 <p>Much of the progress in minority representation has occurred very recently and its hold is quite fragile. The Voting Rights Act remains a vital tool wherever racially polarized voting or other barriers prevent racial and ethnic minorities from exercising a full and equal political voice.</p>
 <p>The process of redistricting federal, state, and local voting districts usually is conducted in the year following the census, when new census data becomes available. The next round will commence in the spring of 2001.</p>
@@ -212,7 +91,7 @@ local governing bodies. It will be critical for residents to:</p>
 <p> &#x2022; Negotiate the drawing of district lines effectively</p>
 <p> &#x2022;	Use the media and other forms of advocacy to make the case for plans that are fair</p>
 <p> &#x2022; Work with districting officials and their staff members to influence the process.</p>
-<p rend="center"><hi rend="bold>Work Across Racial Lines</hi></p>
+<p rend="center"><hi rend="bold">Work Across Racial Lines</hi></p>
 <p>Redistricting and the creation and preservation of minority opportunity districts has the potential to be a "wedge" issue, dividing members of different racial groups. The need for multiracial cooperation and coalition building is an important part of the fight for fair minority representation.</p>
 <p>The Latino population has grown in numbers and political maturity, and is poised to make greater claims for equal representation. On a smaller scale, growth is occurring among Asian Pacific American population. Balancing these different cultures and needs will intensify the complexity of redrawing district lines.</p>
 <p>Building a solid multiracial coalition requires acknowledging the difficult issues. Multiracial cooperation can occur if attention is paid to the real causes of unfairness and the need to develop joint strategies. Communities must recognize the issues they have in common, but common interests cannot simply be assumed and conflicting interests cannot be ignored. Real cross-racial communication must occur, bringing data and the lived experiences of each group's members to the table. Such dialogue takes time and should be started immediately, so that a level of trust can be developed before the tough issues can be resolved.</p>
@@ -248,14 +127,8 @@ we have the opportunity to shape the electoral landscape in which
 public policy decisions are made.	</p>
  </div2>
  <div2 id="v22-4.004" n="Minority Vote Dilution Is Still Illegal" type="Article">
-
-
                <head>Minority Vote Dilution Is Still Illegal</head>
-
-
                <docAuthor>By Brenda Wright</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p>Brenda Wright is managing attorney for the National Voting Rights Institute in Boston, Massachusetts</p></argument>
 <p>The 1990 round of redistricting brought a significant increase in
@@ -384,15 +257,9 @@ white districts, remains to be seen.  </p>
 
 <div2 id="v22-4.006" n="The Department of Justice: 
 Enforcing the Voting Rights Ac" type="Article">
-
-
                <head>The Department of Justice: 
 Enforcing the Voting Rights Ac</head>
-
-
                <docAuthor>By Anita Hodgkiss</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p>Anita Hodgkiss is co-director of  the Voting Rights Project at the Lawyers Committee for Civil Rights Under Law in Washington, D.C.</p></argument>
 <p>The U.S. Department of Justice (DOJ) has the authority to take steps to protect voting rights when election district lines are changed. The Department can file a lawsuit in court under Section 2 of the Voting Rights Act to challenge racially discriminatory districts anywhere in the country. In certain states and local jurisdictions (see box on page 16), covered by Section 5 of the Voting Rights Act, all changes in laws affecting voting, including redistricting plans, must be submitted to DOJ or to the District Court for the D.C. Circuit, to be reviewed before they can be put into practice. DOJ has sixty days to review redistricting plans submitted under Section 5. The Department will then either grant "preclearance" giving the state or local jurisdiction the go ahead to implement the change, or the Department will object to a redistricting plan if it has the purpose or effect of making minority voters worse off. When DOJ objects to a plan, it does so by writing a letter to the jurisdiction, outlining the reasons why the new plan makes minority voters worse off. (Recent objection letters are available through the Department's website at: www.usdoj.gov/crt/voting/sec_5/obj_activ.htm.)</p>
@@ -542,7 +409,7 @@ U.S. Supreme Court's <hi rend="italic">Shaw v. Reno</hi> and <hi rend="italic">M
 
 <p rend="italic">The following comments were excerpted from the Center for Voting and Democracy's Spring 2000 youth essay contest which asked college and high school students to respond to the question, Why Don't Youth Vote? The writers quoted, mostly college students, suggested changes to the electoral system that might increase political participation among young people and explained their reasons for participating in or abstaining from our political and electoral systems.</p>
 
-<p rend="bold>"Jim C. Fung, born 1979, college student, Berkeley, California</p>
+<p rend="bold">"Jim C. Fung, born 1979, college student, Berkeley, California</p>
 <p>	Youth are disillusioned with politics for many of the same reasons that our parents are. If lobbyists and campaign contributors did not have more access to public officials than do regular citizens, if economic democracy in the workplace existed alongside what some would call the "illusion" of political democracy, if elected officials acted more on "bread and butter" economic issues, such as the increasing concentration of wealth and the lack of health insurance for many Americans, than on expanding the prison population and on the military-then most people of all ages would consider their votes much more meaningful.</p>
 <p>	Given the reality that youth tend to get most excited about issues rather than politicians, alternative electoral systems such as proportional representation, IRV, cumulative voting, and easier third-party ballot access, would only succeed in stimulating us if the third parties involved were ideologically oriented or issues-based parties rather than crass vote-maximizers. The issues of these parties would also need to be relevant to daily life-rather than visions of pie-in-the-sky utopianism. Many of the third parties in America today already fit this bill, addressing issues like the environment, workers' rights, and healthcare. In addition, judging from the example of European democracies using PR, the presence of such a system tends to encourage ideological or issues-based parties. Thus, an alternative electoral system should be seriously considered.</p>
 
@@ -583,14 +450,8 @@ fairrep@southerncouncil.org. Call 404-522-8764, or visit
 www.southerncouncil.org.</p>
 </div2>
 <div2 id="v22-4.009" n="Fair Policies through Effective Redistricting" type="Article">
-
-
                <head>Fair Policies through Effective Redistricting</head>
-
-
                <docAuthor>By Mike Sayer</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p></p></argument>
 <p>In 1992, a three-judge federal court in Mississippi approved a
@@ -654,18 +515,11 @@ exercises. Rather, redistricting is usually <hi rend="italic">result or outcome<
 </div2>
 <div2 id="v22-4.0011" n="Winning Fair Representation with 
 Alternative Voting Systems" type="Article">
-
-
                <head>Winning Fair Representation with 
 Alternative Voting Systems</head>
-
-
                <docAuthor>By Rob Richie</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p>Rob Richie is executive director of the Center for Voting and Democracy. For more information about the Center and proportional voting systems, visit www.fairvote.org.</p></argument>
-
 <p>Experts suggest that some 95 percent of black representation in the next decade will be won or lost in the upcoming redistricting. Without substantial numbers of black voters in districts, very few black candidates will win; the U.S. Senate is the most notorious example of the negative impact of racial block voting-with its lack of black or Latino members a direct consequence of no state having a black or Latino majority.</p>
 <p>Dependence on redistricting to provide representation to black people and other communities of color is based on three factors: white voters' general preference for white candidates; the fact that people of color are in the minority in most areas; and the general use in the United States of "winner-take-all" methods of voting in which a 50.1 percent majority in a given constituency wins all representation in its area.</p>
 <p>Policy makers have few short-term means to end racism, but through redistricting they have the power to turn blacks into majorities in certain electoral districts. They also have the power to address the third barrier to fair representation: winner-take-all elections. Systems that provide more complete representation of the electorate can allow more racial minorities to elect candidates. In such "proportional" systems, like-minded groupings of voters can pool their votes from across a constituency to elect candidates in accordance with their voting strength. A 50.1 percent electoral majority remains well-positioned to win the majority of seats, but it cannot shut out a substantial political minority. With proportional systems, many voters gain new power to elect the representation for which they currently are deprived due to their minority status in their area. As American society grows increasingly diverse and communities of interest increasingly develop along non-geographic lines, proportional voting systems are drawing even more attention. Freeing more voters to define their representation with their votes has fundamental appeal.</p>
@@ -764,15 +618,9 @@ bodies.</p>
 </div2>
 <div2 id="v22-4.0012" n="Redistricting in the Computer Age:
 A Review of Maptitude for Redistricting" type="Article">
-
-
                <head>Redistricting in the Computer Age:
 A Review of Maptitude for Redistricting</head>
-
-
                <docAuthor>By Mekonnen Gessesse</docAuthor>
-
-
                <docDate>Vol. 22, No. 4, 2000</docDate>
 <argument><p>Mekonnen Gessesse is a senior program officer in the Fair Representation Programs at the Southern Regional Council.</p></argument>
 <p>Gone are the days when paper, map markers, and desk calculators were used to draw redistricting plans. By the 1990s, personal computer or PC-based mapping became widespread. Geographic Information System (GIS) technology has combined hardware, software, and data to analyze and display spatial information on a computer screen that is easy to understand and manipulate. The PC-based GIS programs were introduced when the encoded geographic data known as the TIGER (Topologically Integrated Geographic Encoding and Referencing) system was introduced on CD-ROM disks providing easy access via DOS and Windows.</p>

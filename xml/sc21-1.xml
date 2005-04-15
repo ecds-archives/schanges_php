@@ -1,185 +1,66 @@
-<?xml version="1.0" encoding="raw-text"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 21, Number 1, 1999</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2004</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 21, Number 1 1999</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2004</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
-
-
          <div1 id="v21-1.999" n="Southern Changes 21:1" type="Volume">
-
-
             <head>Southern Changes.  Volume 21, Number 1, 1999</head>
-
-
             <p> 
-
-
                <title>Southern Changes.</title>  Volume 21, Number 1, 1999</p>
  <div2 id="v21-1.000" n="Reshaping Education Forty-Five Years After Brown" type="Article">
-
-
                <head>Reshaping Education Forty-Five Years After Brown</head>
-
-
                <docAuthor>By Wendy S. Johnson</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Wendy S. Johnson is executive director of the Southern Regional Council.</p></argument>
 <p>An SRC survey on racial attitudes found sixty percent of Americans rank improving schools and education as a top priority over any other issue. The reasons are many.  Education is the foundation for a decent job and livelihood and central to almost every other measure of a society's well-being.</p> 
@@ -197,15 +78,9 @@ education. Barbara Miner of <hi rend="italic">Rethinking Schools</hi> analyzes t
  </div2>
  <div2 id="v21-1.001" n="Lessons Learned:
 A Decade of Education Reform" type="Article">
-
-
                <head>Lessons Learned:
 A Decade of Education Reform</head>
-
-
                <docAuthor>By Sarah Ellen Torian</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Sarah Ellen Torian is program assistant in communications at the Southern Regional Council. SRC education staff contributed to this article: Marcia Klenbort, Anika Jones, Tenera McPherson, Robyn Davis, Gale Greenlee, and Reneé Wood.</p></argument>
 <p>"It's not a problem to be behind," George Washington Carver Middle School Principal Robert Markham constantly reminds students, teachers, and parents, "but it's an absolute sin to be behind and not try to catch up." Seeing Carver Middle School in Meridian, Mississippi, struggle to meet the needs of its majority-black students, many of whom receive free or reduced-cost lunches, Markham understands the challenge of engaging students. Markham looked beyond the negative media images of urban schools such as Carver that teach poor, black students without many black teachers or administrators to serve as positive role models when he became principal twelve years ago and set high expectations  for all of Carver's students. He promotes a "family" atmosphere in which parents, students, and school personnel are working toward the same goal-to have all students reading, writing, and computing on grade level by the time they finish seventh grade. </p>
@@ -273,14 +148,8 @@ would not have worked in the American South or in much of the country. First, it
 <p>Whether conflict is required or not, the education of <hi rend="italic">all</hi> of our children is the key to our nation's future. But more importantly, as Shirley Martin learned and now believes, a strong education is also the key to their futures. "I believe that we can change the future for our children," says Martin. "I know learning certainly changed my life." </p>
  </div2>
  <div2 id="v21-1.002" n="Tracking Hurts Children" type="Article">
-
-
                <head>Tracking Hurts Children</head>
-
-
                <docAuthor>By Marcia Klenbort</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Marcia Klenbort is director of education programs at the Southern Regional Council. For more information on C.A.R.E., call Jasmine Smith at 334-875-9264, or write to C.A.R.E. at 1 Union Street, Selma, AL 36701.</p></argument>
 <p><hi rend="italic">What is "tracking"?</hi> A high school sophomore who spent most of his schooling in low-level courses, says: "You live in the basement, you die in the basement. You know what I mean?"</p>
@@ -292,14 +161,8 @@ would not have worked in the American South or in much of the country. First, it
 <p>Jeanie Oakes' <hi rend="italic">Keeping Track: How Schools Structure Inequality (1985, Yale University Press, New Haven) is a classic study of tracking.</hi></p>
  </div2> 
 <div2 id="v21-1.003" n="The Right Attacks Public Schools" type="Article">
-
-
                <head>The Right Attacks Public Schools</head>
-
-
                <docAuthor>By Barbara Miner</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Barbara Miner is managing editor  of Rethinking Schools, a grassroots newspaper based in Milwaukee, WI.  This article is excerpted with permission from "Classroom Crusades: Responding to the Religious Right's Agenda for Public Schools," published by Rethinking Schools, Ltd. (www.rethinkingschools.org). For a free catalog call
 1-800-669-4192.</p></argument>
@@ -348,14 +211,8 @@ would not have worked in the American South or in much of the country. First, it
 <p>	Despite popular concern about the state of our public schools, there remains widespread and deep support for a public system of schools that provides an equal education for all-no matter how tarnished that ideal may be in reality. If the religious right were to win its agenda, that long-standing ideal would be abandoned. </p>
 </div2>
 <div2 id="v21-1.004" n="Promote Educational Success, Not Failure" type="Article">
-
-
                <head>Promote Educational Success, Not Failure</head>
-
-
                <docAuthor>By Gregory Malhoit</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Gregory Malhoit is director of the North Carolina Education and Law Project, a Raleigh-based education policy and legal advocacy center that promotes improved educational opportunities for at-risk students.</p></argument>
 <p>North Carolina's State Board of Education seems determined to adopt a "quick fix" education policy that could hold back thousands of students who fail state-administered multiple-choice tests.</p>
@@ -367,14 +224,8 @@ would not have worked in the American South or in much of the country. First, it
 <p>It's time for parents and the public to look beyond the political rhetoric and start asking some tough questions of our state's education leaders. In the rhetoric and debate over social promotion, our leaders seem to have lost sight of the fact that we are talking about children. Making judgments  about children's futures based on a bureaucratic benchmark of what is "above average" is just another way of denying our children the right to be human.</p>
 </div2>
  <div2 id="v21-1.005" n="Vouchers Push Moves South" type="Article">
-
-
                <head>Tracking Hurts Children</head>
-
-
                <docAuthor>By Ellen Spears</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Ellen Spears is managing editor of  Southern Changes.</p></argument>
 <p>Several Southern state legislatures are considering controversial school voucher proposals, which public education advocates call a thinly veiled ploy to undermine public school funding and secure public funding for religious schools. Bills introduced in Florida, Texas, and Georgia would deduct money from state school budgets to fund private school tuition and are being targeted at minorities and students at low performing schools, according to opponents of the initiatives.</p>
@@ -392,14 +243,8 @@ would not have worked in the American South or in much of the country. First, it
 <p>"The majority of public school students in Georgia could never take advantage of vouchers," Kintisch said, "because they live in rural areas without access to private schools. There could be no benefit for a public school student in a rural area, whether white or black, rich or poor." </p>
  </div2>
  <div2 id="v21-1.006" n="Education Is Key to Reducing Racial Inequality" type="Article">
-
-
                <head>Education Is Key to Reducing Racial Inequality</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Ellen Spears is managing editor of  Southern Changes.</p></argument>
 <p rend="italic">A national survey of racial attitudes conducted by John Doble Research Associates for the Southern Regional Council (see Southern Changes, Spring 1997 and Spring and Winter 1998) found that most Americans see education as crucial to overcoming racial inequality. The research included four focus groups of white Southerners and a national telephone survey of 1216 randomly selected adults. Tom W. Smith, Director of the General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data.  The research was supported by a grant from the Charles Stewart Mott Foundation. </p>
@@ -420,14 +265,8 @@ would not have worked in the American South or in much of the country. First, it
 <p rend="bold">College admissions policies were given particular attention in the study, which found that support for college admissions policies to aid black students gains considerably more ground when the implications of abandoning affirmative action are considered.  While only 45 percent favored the idea of reserving college openings for black students, many changed their minds and gave the proposal majority support (67 percent), if not doing so would mean black students will be badly underrepresented on campus. The 52 percent who opposed reserving openings for black students in the questions mentioning discrimination were asked if they would "still feel that way if it meant that black students who are likely to do well in college would be badly under-represented among students."  About 44 percent said "no" which means that after bringing up this consequence only 23 percent were still opposed to assisting black students in getting into college even if it led to black students being under-represented.  Respondents found combating discrimination and maintaining diversity about equally compelling as arguments for reserving college openings for black students. 	</p>
  </div2>
  <div2 id="v21-1.007" n="Schools in Conflict: A History Lesson" type="Article">
-
-
                <head>Schools in Conflict: A History Lesson</head>
-
-
                <docAuthor>By Leslie Dunbar</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Leslie Dunbar was executive director of the Southern Regional Council from 1961-1965. He lives in Durham, North Carolina.</p></argument>
 <p>The Supreme Court's school desegregation decision announced May 17, 1954 had been too long coming. The South's political order, aided by the nation's indifference to the ideals the decision professed, was the cause of the ensuing bitterness. It is not clear that the decision is fully yet accepted. </p>
@@ -483,15 +322,9 @@ South in 1961 under SRC's sponsorship. <hi rend="italic">New South</hi> was used
  </div2>
  <div2 id="v21-1.008" n="Title I Reauthorization:
 Renew Federal Support to Under-Resourced Schools" type="Article">
-
-
                <head>Title I Reauthorization:
 Renew Federal Support to Under-Resourced Schools</head>
-
-
                <docAuthor>By Dianne Pich&#x00E9;</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>Dianne M. Piché is a lawyer and writer specializing in
 civil rights and educational equity issues.  She directs the Citizens'
@@ -545,14 +378,8 @@ districts.</p>
 <p>	Despite the shortcomings of the Department of Education in implementing the new Title I, there is every reason to believe that the program can be successful in the future.  Since the process of reform contemplated is a long-term one, the five-year authorization period will expire before states have completed and implemented their reforms.  But the experience of several states and cities in carrying out measures called for by Title I has already yielded positive results in the improved achievement of disadvantaged youngsters.  Prospects for further gains will be enhanced by extending the 1994 reforms, increasing federal resources to improve teaching in high-poverty schools, and a commitment by the Clinton and subsequent  administration to implement the law, including a willingness to enforce its provisions where violations occur. </p>
  </div2>
  <div2 id="v21-1.009" n="Standards Reform: Focus on Learning for All" type="Article">
-
-
                <head>Standards Reform: Focus on Learning for All</head>
-
-
                <docAuthor>By M. Hayes Mizell</docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>M. Hayes Mizell directs the Program for Student Achievement for the Edna McConnell Clark Foundation. He was born in North Carolina. The Program for Student Achievement supports standards-based reform in San Diego and Long Beach, California; Minneapolis, Minnesota; Louisville, Kentucky; and Corpus Christi, Texas. For more information about the program, contact the Foundation at 212-551-9100.</p></argument>
 <p>During the past two decades, the South has emerged as the star graduate of the nation's remediation class. It ended up there after several centuries of making what a school counselor might euphemistically characterize as "bad decisions:" slavery, racial oppression, de jure segregation and massive resistance. But whether because of pathology or choice, the South had become rebellious and out of control. Striking the teacher was the last straw. It surprised no one when it flunked. Alone, down and out, with no money and no friends, it finally resorted to something it had avoided for centuries: learning. The more the South learned, and the more it used what it learned, the more self-confident it became. It discovered that skills have value, and folks who have money and want to make more money seek out skills. These skills, combined with the South's work ethic (it had never been afraid of hard work, it had just worked hard at the wrong things), made it prosperous and proud, embracing education almost as an article of faith.</p>
@@ -571,14 +398,8 @@ districts.</p>
 <p>In many ways, the new focus on standards represents the culmination of the South's long educational journey. While there are inequities, for the most part the region provides the basics of adequately funded education systems, literate teachers, comfortable school facilities, technology, and a wide variety of ancillary supports. There will always be a need to improve on these basics, but it is unlikely that by themselves they will significantly increase student learning. What is now emerging in the South is a four-part debate over (a) what all students should learn, (b) how well they should learn it, (c) how to determine what they have learned and how well, and (d) how to support and hold accountable school systems, schools, and teachers to help students perform at standard. There will be those who resist efforts to improve their performance because to do so they will have to develop new attitudes and behaviors based on the belief that nearly all children can perform at standard. Overcoming these obstacles will not be easy, but at long last the focus is on the right thing, not just the conditions of education but the results of education. </p>
  </div2>
  <div2 id="v21-1.010" n="Completing the Circle, Part II" type="Article">
-
-
                <head>Completing the Circle, Part II</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p></p></argument>
 <p>"How can I get a copy of that wonderful civil rights documentary series produced by the Southern Regional Council that I heard on public radio?" The most frequently asked question among the fifteen hundred email messages to the "Will the Circle Be Unbroken?" web site now has an answer.  </p>
@@ -605,15 +426,9 @@ districts.</p>
  </div2>
  <div2 id="v21-1.010" n="Grace and Guts
 Virginia Foster Durr 1903-1999" type="Article">
-
-
                <head>"Grace and Guts"
 Virginia Foster Durr 1903-1999</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 21, No. 1, 1999</docDate>
 <argument><p>H. Randall Williams is editor at Black Belt Press in Montgomery and a contributing editor to Southern Changes.</p></argument>
 <p>SRC Life Fellow Virginia Durr-born August 6, 1903- died February 24, 1999, in her sleep in a nursing home in Pennsylvania. She was one of the most outspoken white Southern progressives of the twentieth century and, though she never held elective office or any high position, one of its most influential. The wife of Clifford J. Durr and the sister-in-law of Hugo Black, she was the friend and confidante of Eleanor Roosevelt, Septima Clark, Rosa Parks, Myles Horton, E. D. Nixon, Martin Luther King, Jr., and many, many others.</p>
@@ -632,3 +447,6 @@ was a Council Member, and Virginia Durr was writing, under the by-lines of Eliza
 <p>Her funeral in Montgomery was attended by the present Governor of Alabama, a stark reminder of how she had endured and to a large extent prevailed over her political foes.</p>
  </div2>
 	 </div1>
+      </body>
+   </text>
+</TEI.2>

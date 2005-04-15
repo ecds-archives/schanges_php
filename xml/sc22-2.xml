@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
-
-
       <fileDesc>
          <titleStmt>
             <title>Southern Changes.  Volume 22, Number 2, 2000</title>
@@ -337,7 +336,7 @@ reform. </p>
      A large collection of Rays essays and letters can be found at: 
 
      http://home.earthlink.net/~neoludd/</p></argument>
-<p>(editors note: from 1989 to 1997, Ray's essays & letters were a regular feature on WORT-FM Community Radio in Madison, WI. After an absence of many years, I had an opportunity to do a piece on WORT, and asked Ray if he had any thoughts for his audience in Madison. He sent me the following.....) </p>
+<p>(editors note: from 1989 to 1997, Ray's essays &#x0026; letters were a regular feature on WORT-FM Community Radio in Madison, WI. After an absence of many years, I had an opportunity to do a piece on WORT, and asked Ray if he had any thoughts for his audience in Madison. He sent me the following.....) </p>
          
 <p>AS SOME OF YOU KNOW I've been in prison for political offenses since 1984. I was tried and acquitted of sedition. As the government stated in its indictment - our "revolutionary anti-imperialist organization" sought to challenge its authority to kill with impunity in Central America. I was convicted of bombing military facilities in an effort to expose U.S. war crimes against the people of El Salvador, Nicaragua and Guatemala. I was convicted of actions taken against American corporations whose power and products strengthened the racist apartheid system in South Africa.  </p>
 <p>FOR THIS I'm supposed to suffer and die in prison. The trial judge recommended that I never be paroled - that I remain in prison until "expiration" of my 45 year sentence, if I don't expire of something else doing that kind of time.  </p>
@@ -415,3 +414,6 @@ reducing recidivism rates, according to a recent study by <hi rend="itaqlic">Dru
 <p>       The recent Columbia University study demonstrated that 67 percent of death cases are overturned nationally, largely related to the issues raised here.  The Chicago Tribune study in June of the 131 executions during George W. Bush's tenure as governor of Texas revealed a cynical disregard for justice, and Finding Life on Death Row testifies to that same process in South Carolina, Alabama and Georgia.  This book combines the theoretical struggles over the death penalty with portraits of the humanity of those convicted under it.  It is compelling reading. It reminds us of our humanity and the humanity of others, and it reminds us of the forces of death that seek to crush that humanity.  It is realistic, difficult, and hopeful, and it asks us to take our stands and to be witnesses for life.</p>
 </div2>
 	 </div1>
+      </body>
+   </text>
+</TEI.2>

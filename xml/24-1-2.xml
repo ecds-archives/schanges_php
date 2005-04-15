@@ -1,185 +1,66 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 24, Number 1-2, 2002</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2003</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 24, Number 1-2 2002</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2003</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
-
-
          <div1 id="v24-1-2.002" n="Southern Changes 24:1-2" type="Volume">
-
-
             <head>Southern Changes.  Volume 24, Number 1-2, 2000</head>
-
-
             <p> 
-
-
                <title>Southern Changes.</title>  Volume 24, Number 1-2, 2002</p>
  <div2 id="v24-1-2.000" n="Legacy of Violence" type="Article">
-
-
                <head>Legacy of Violence</head>
-
-
                <docAuthor>By Wendy Johnson</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Wendy Johnson is executive director of the Southern Regional Council.</p></argument>
 
@@ -199,16 +80,10 @@ remembrance and reconciliation.  The challenge offered by the <hi rend="italic">
  <div2 id="v24-1-2.001" n="Return to Sender
 Confronting Lynching 
 and Our Haunted Landscapes" type="Article">
-
-
                <head>"Return to Sender"
 Confronting Lynching 
 and Our Haunted Landscapes</head>
-
-
                <docAuthor>By Mark Auslander</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Mark Auslander  teaches Anthropology and Sociology at Oxford College of Emory University and is a core faculty member at the Emory Center for Myth and Ritual in American Life (the MARIAL Center). With Rich Rusk of Moore's Ford Memorial Committee, he served as co-coordinator of, Lifting the Veil of Silence: A Workshop on Racial Violence and Reconciliation.
 For more information about the Moore's Ford Memorial Committee, visit: www.mooresford.net, email: richrusk@negia.net, or write to: 1851 Rays Church Road, Bishop, GA  30621-1206.
@@ -246,11 +121,7 @@ killings of three young circus workers by a crowd of five thousand persons, the 
 
 
                <head>Communities Lifting the Veil of Silence</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p></p></argument>
 <p rend="center"><hi rend="bold">The 1898 Foundation, Wilmington, NC</hi></p>
@@ -274,14 +145,8 @@ years until reporter Gary Moore published the story in the <hi rend="italic">St.
 <p>Since that time, survivors and their family members have been working to educate others about the events of the Rosewood Massacre and their relation to racial justice in the United States. Rosewood Bus Tours has carried more than 7,300 student, military group, family, church, and community groupss on an educational journey through Rosewood. With Florida Humanities Council funding, the Rosewood Traveling Exhibit was designed. And "Rosewood," produced by Warner Brothers was released in 1997, providing a Hollywood version of the story to a broad national audience. To learn more about the Rosewood Heritage Foundation, visit: www.displaysforschools.com/rosewood.html.</p>
  </div2>
  <div2 id="v24-1-2.003" n="Marge Baroni: The Awakening of Activism" type="Article">
-
-
                <head>Marge Baroni: The Awakening of Activism</head>
-
-
                <docAuthor>by Susan Stevenot Sullivan</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Susan Stevenot Sullivan lives in Atlanta, working as a writer and photographer with groups in ministry in the South. She was instrumental in the placement of Marge Baroni's papers in the archives at the University of Mississippi. </p></argument>
 <p>Marjorie Rushing Baroni (1942-1986) was in many ways an ordinary Southern woman of the last century. A housewife and resident of Natchez, Mississippi, she was neither wealthy nor famous. She was not killed in the civil rights days, nor were members of her family. She was willing, however, to live what she believed about the dignity of all people. She was an ordinary person who took an extraordinary stance for her time and paid a social and personal price for the rest of her life. </p>
@@ -290,9 +155,7 @@ years until reporter Gary Moore published the story in the <hi rend="italic">St.
 Rights in Mississippi</hi> by John Dittmer;<hi rend="italic">Silver
 Rights</hi> by Constance Curry; and <hi rend="italic">Civil Rights Chronicle</hi> by Clarice Campbell testify to the heroic actions of ordinary people who have helped transform life as it is now lived in the United States. The sacrifices of such people, many acting in isolation and in the face overwhelming pressure to be silent and conform, helped to construct platforms upon which the highly-publicized people and events featured in history books have stood. These stories bring us history with flesh and bone, with feelings and particularity.</p>
 <p>The central mystery for all such ordinary, extraordinary lives is "how" and "why." How is it that Mrs. Baroni stepped-out despite the risks involved, to live her belief that all people are equal in the sight of God? Why did she persist, risking her life and the lives of those she loved?</p>
-<p>The clues are in her life and her writings. They are uncovered in the remembrances of friends, family members, civil rights co-workers, and in the recorded history of the South. This article is a first attempt to scratch the surface of the mystery of Marjorie Rushing Baroni's life.</p>
-
-<p rend="center"><hi rend="bold">The Commerce of Natchez</hi></p>
+<p>The clues are in her life and her writings. They are uncovered in the remembrances of friends, family members, civil rights co-workers, and in the recorded history of the South. This article is a first attempt to scratch the surface of the mystery of Marjorie Rushing Baroni's life.</p><p rend="center"><hi rend="bold">The Commerce of Natchez</hi></p>
 <p>The world into which Marge Baroni was born had been built, long
 before, on the backs of slaves. According to Ronald L.F. Davis, in <hi
 rend="italic">The Black Experience in Natchez 1720-1880</hi>, by the 1790s slaves were arriving in Natchez in increasing numbers. He writes,  "With the development of the cotton gin, the trickle of slaves coming into the neighborhood became a cascade. By 1810, more than 8,000 slaves lived in Adams County... That number increased to 14,292 on the eve of the Civil War... The old Natchez district had become a slave-populated, plantation economy." </p>
@@ -338,14 +201,8 @@ the system of second-class status remained. Describing the evolution of 20th cen
 <p rend="bold">Sullivan continues to piece together Marge Baroni's story and would appreciate hearing from anyone who can add additional information (write to Susan Stevenot Sullivan    c/o Southern Changes at 133 Carnegie Way, NW, Suite 900, Atlanta, GA 30303)</p>
  </div2>
  <div2 id="v24-1-2.004" n="Race and Redistricting: Myths, Truths, and Facts" type="Article">
-
-
                <head>Race and Redistricting: Myths, Truths, and Facts</head>
-
-
                <docAuthor>By Todd A. Cox</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Todd A. Cox is an Assistant Counsel with the Washington, D.C. office of NAACP Legal Defense and Educational Fund. For more information about its political participation program or to request copies of publications, call: 1-800-221-7822.</p></argument>
 <p>Federal court decisions regarding redistricting over the past several years have caused some to question how district line drawers can create redistricting plans that will provide all voters equal opportunity to elect candidates of choice. Since Shaw v. Reno, the courts have clarified the criteria for drawing district lines and made it clear that race can be a factor in redistricting and these clarifications have supported lawmakers and grassroots organizers who sought redistricting plans that allow fair representation for minorities in many states and localities since 2000. </p>
@@ -386,14 +243,8 @@ redistricted to the needs of the minority community; and</p>
 <p>Redistricting offers a chance to maintain or alter the political dynamic on elected bodies. The right to vote is one of the most precious rights we enjoy in this country. Participating in redistricting gives true meaning to the right to vote by helping to create electoral plans that afford all voters an opportunity to participate in the political process.</p>
  </div2>
  <div2 id="v24-1-2.004" n="Lillian Smith Book Awards" type="Article">
-
-
                <head>Lillian Smith Book Awards</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>The 2002 Lillian Smith Book Awards will be held on October 18, 2002 at the Sheraton Colony  Square in midtown Atlanta. For more information, visit: www.southerncouncil.org/comm/smith.html.
 "Drapery Factory, Gulfport, Mississippi, 1956" Copyright 2000 by Natasha Trethewey. Reprinted from Domestic Work with the permission of Graywolf Press, St. Paul, Minnesota.</p></argument>
@@ -429,27 +280,15 @@ redistricted to the needs of the minority community; and</p>
 <p>What I love about Southern liberals, epitomized by the SRC, is that they are practical, hard-working, no-nonsense liberals and they have had to be. Down here, people committed to progress and justice had real dragons to slay and real crosses to bear. They didn't waste their time or energy on the nitpicking and backbiting that provides the Rush Limbaugh's of this world with easy charicatures of liberals. Down here, our liberals want your heart and your vote. They don't want to prune your vocabulary. Liberals are a minority in this country. We can't afford to squander our capital on the Lilliputian language wars. We can't afford to appear petty or ridiculous.</p>
  </div2>
  <div2 id="v24-1-2.005" n="REVIEWS" type="Title">
-
-
                <head>REVIEWS</head>
-
-
                <docAuthor></docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p></p></argument>
 <p></p>
  </div2>
  <div2 id="v24-1-2.004" n="RADICAL GIFT" type="Review">
-
-
                <head>RADICAL GIFT</head>
-
-
                <docAuthor>Reviewed by J. Todd Moye</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>J. Todd Moye is the director of the National Park Service's Tuskegee Airmen Oral History Project.</p></argument>
 <p>Robert P. Moses and Charles E. Cobb, Jr., Radical Equations: Math Literacy and Civil Rights. Boston: Beacon Press, 2001. With a foreword by David Dennis.</p>
@@ -470,14 +309,8 @@ education and economic access in the new century just as voter registration was 
 <p>Across America, low expectations for certain children are ensuring that high-paying careers will never be available to them unless school systems radically change the way they teach math and relate to students. Moses believes that "the absence of math literacy in urban and rural communities is an issue as urgent as the lack of black registered voters was in Mississippi in 1961." Read this book, and you will agree. In several years we may  consider Radical Equations, equal parts memoir and manifesto, the most important civil rights book of the new century.</p>
  </div2>
  <div2 id="v24-1-2.006" n="Recurring Deaths" type="Review">
-
-
                <head>Recurring Deaths</head>
-
-
                <docAuthor>Reviewed by Brenda Anderson</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Brenda Anderson is a history major at Yale University  in
 her senior year. Originally from Laredo, Texas, Anderson plans to
@@ -492,14 +325,8 @@ attend law school.</p></argument>
 <p>Along with Bowden's case, Loney narrates valuable stories of other men on death row that are very meaningful to him. By sharing a personal letter written after the execution of a dear friend, Loney tries to come to terms with the death of his close friend of many years. Coming to terms with our criminal justice system and realizing his important role in it, Loney has been deeply affected by the relationships he built with these men. Reading Loney's stories of death row will leave the reader concerned about our ideals in justice and their true ramifications in a society more and more obsessed with poetic justice. Loney points to an important facet of the criminal justice system that has been ignored for too long. Who are we killing? And what is our role in the process? Society alienates and dehumanizes those whom our state condemns to die. Randolph Loney bridges the gap and brings us face to face with the ultimate punishment we brutally inflict upon ourselves. Loney's touching account will broaden the reader's understanding of what our death penalty system really means and will help the reader realize the discriminatory flaws deeply embedded in the system.</p>
  </div2>
  <div2 id="v24-1-2.006" n="Justice Under Law" type="Review">
-
-
                <head>Justice Under Law</head>
-
-
                <docAuthor>Reviewed by Jack Bass</docAuthor>
-
-
                <docDate>Vol. 24, No. 1-2, 2002</docDate>
 <argument><p>Dr. Jack Bass is professor of humanities and social sciences at the College of Charleston. He is the author of Taming the Storm: The Life and Times of Judge Frank M. Johnson, Jr., and the South's Fight over Civil Rights, which won the 1994 Robert F. Kennedy Book Award grand prize, and author or co-author of six other books about civil rights and political change in the 20th century South. </p></argument>
 <p rend="bold">Frank M. Johnson, <hi rend="itlaic">Defending Constitutional Rights</hi>, Edited by Tony A. Freyer, Athens: University of Georgia Press, 2001.</p>
@@ -519,4 +346,6 @@ is another for him to exercise his judgment about what the political morality im
 <p>For readers interested in engaging a great mind at work, <hi rend="italic">Defending Constitutional Rights</hi> provides an opportunity to develop an understanding of what is required to create justice under law.</p>
  </div2>
 	 </div1>
-
+      </body>
+   </text>
+</TEI.2>

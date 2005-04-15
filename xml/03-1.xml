@@ -1,201 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 03, Number 1, 1980</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2004</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 03, Number 1. 1980</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2004</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
 <div1 id="sc03-1.001" n="Southern Changes 3:1" type="Issue">
 <head>Southern Changes. Volume 3, Number 1, 1980</head>
 <p>
-<title>Southern Changes</title>. Volume 3, Number 1, 1980</p>
-
-<div2 id="sc03-1jordan.002" n="Changing the Politics0 of Bitterness"
+<title>Southern Changes</title>. Volume 3, Number 1, 1980</p><div2 id="sc03-1jordan.002" n="Changing the Politics0 of Bitterness"
       type="Article">
 <head>CHANGING THE POLITICS OF BITTERNESS</head>
 <docAuthor>By Vernon Jordan</docAuthor>
 <docDate>Vol. 3, No. 1, 1980, p. 3</docDate>
-<argument><p>Vernon Jordan is president of the National Urban League, a native Southerner, and a former staff member of the Southern Regional Council.</p></argument>
-
-<p>The year 1980 was when we saw the growth of politicized religion&#x2014;a heady mixture of fundamentalist gospel with extreme right wing political ideology. It converts political issues into moral absolutes; honest disagreement over the issues becomes a sin, and tolerance for minorities an evil. I grew up in the church, read my Bible, and pray to my God, and I know God is not a right-winger. The true message of Christianity is brotherly love and compassion, not the hate and hardheartedness of our home-grown ayatollahs.</p>
-
-<p>Extremism doesn't exist in a vacuum; it needs a climate that sustains it. Just as fish need water, extremism needs a social climate that fosters a new politics of bitterness.</p>
-
-<p>And that's what we have today. A once-dominant America has had to face the fact that it lost a war against a small Asian country; that it is dependent on other small countries for raw materials; that it no longer rules the world's markets; that the once-mighty dollar is weak, and that social changes mean Blacks, women and other minorities claim rights and privileges once reserved for White males.</p>
-
-<p>An expanding economy and a reasonable rate of growth would enable most people to accept these inevitable changes. Growing interdependence at home and abroad would make sense to people who could count on tomorrow being better than today.</p>
-
-<p>But instead, America seems locked into a pattern of self-destructive recessions that weaken our productive capacity and throw millions out of work. We've had six major recessions in the past twenty-five years; three in the past ten years. No sooner do we climb out of one recession than another slams us down again.</p>
-
-<p>Along with this kind of insecurity recessions breed is the insecurity that comes with high inflation. More income buys less goods. Dreams of owning a home dry up. Savings vanish.</p>
-
+<argument><p>Vernon Jordan is president of the National Urban League,
+a native Southerner, and a former staff member of the Southern
+Regional Council.</p></argument>
+<p>The year 1980 was when we saw the
+growth of politicized religion&#x2014;a heady mixture of
+fundamentalist gospel with extreme right wing political ideology. It
+converts political issues into moral absolutes; honest disagreement
+over the issues becomes a sin, and tolerance for minorities an evil. I
+grew up in the church, read my Bible, and pray to my God, and I know
+God is not a right-winger. The true message of Christianity is
+brotherly love and compassion, not the hate and hardheartedness of our
+home-grown ayatollahs.</p>
+<p>Extremism doesn't exist in a vacuum; it
+needs a climate that sustains it. Just as fish need water, extremism
+needs a social climate that fosters a new politics of
+bitterness.</p>
+<p>And that's what we have today. A once-dominant
+America has had to face the fact that it lost a war against a small
+Asian country; that it is dependent on other small countries for raw
+materials; that it no longer rules the world's markets; that the
+once-mighty dollar is weak, and that social changes mean Blacks, women
+and other minorities claim rights and privileges once reserved for
+White males.</p>
+<p>An expanding economy and a reasonable rate of
+growth would enable most people to accept these inevitable
+changes. Growing interdependence at home and abroad would make sense
+to people who could count on tomorrow being better than
+today.</p>
+<p>But instead, America seems locked into a pattern of
+self-destructive recessions that weaken our productive capacity and
+throw millions out of work. We've had six major recessions in the past
+twenty-five years; three in the past ten years. No sooner do we climb
+out of one recession than another slams us down again.</p><p>Along
+with this kind of insecurity recessions breed is the insecurity that
+comes with high inflation. More income buys less goods. Dreams of
+owning a home dry up. Savings vanish.</p>
 <p>Recession-bred insecurity results in a society that is anxious,
-unwilling to accept social changes, and nostalgic for older times and values. It is a society fearful of the future, and fearful of its neighbors.</p>
-
-<p>But, America can change, and Black people need to help America to change. We may be the last people left who truly believe in the American Dream, in the principles of freedom and equality that made this nation so great. We've got to help other Americans regain their lost dream; we've got to help America overcome the selfishness and fear that grips it, and come back to the principles of justice and righteousness.</p>
-
-<p>In this year of doubt and confusion, we must remind a forgetting nation that this land is ours too, that we have lived here since before the Pilgrims landed, and we are here to stay. This nation too often forgets that this land is sprinkled with our sweat, watered with our tears, and fertilized with our blood. It too often forgets that we helped build America's power and glory, that we dug taters, toted cotton, lifted bales, sank the canals and laid the railroad tracks that linked ocean to ocean; that we've died in America's every war.</p>
-
+unwilling to accept social changes, and nostalgic for older times and
+values. It is a society fearful of the future, and fearful of its
+neighbors.</p>
+<p>But, America can change, and Black people need to
+help America to change. We may be the last people left who truly
+believe in the American Dream, in the principles of freedom and
+equality that made this nation so great. We've got to help other
+Americans regain their lost dream; we've got to help America overcome
+the selfishness and fear that grips it, and come back to the
+principles of justice and righteousness.</p><p>In this year of doubt
+and confusion, we must remind a forgetting nation that this land is
+ours too, that we have lived here since before the Pilgrims landed,
+and we are here to stay. This nation too often forgets that this land
+is sprinkled with our sweat, watered with our tears, and fertilized
+with our blood. It too often forgets that we helped build America's
+power and glory, that we dug taters, toted cotton, lifted bales, sank
+the canals and laid the railroad tracks that linked ocean to ocean;
+that we've died in America's every war.</p>
 <p>We've seen American change. We've made American change. And to that
 end let us neither stumble nor falter, rather let us mount up with
 wings as eagles, let us run and not be weary, and walk together
-children, and not faint.</p></div2>
-
-<div2 id="sc03-1deveaux.003" n="1981 Alabama and Georgia Legislatures: Revenue and
+children, and not faint.</p></div2><div2 id="sc03-1deveaux.003" n="1981 Alabama and Georgia Legislatures: Revenue and
       Spending Top Priorities" type="Article">
 <head>1981 Alabama and Georgia Legislatures: Revenue and Spending Top Priorities</head>
 <docAuthor>By Clint Deveaux</docAuthor>
@@ -1031,7 +956,7 @@ act as the South's new favorite son for as long as his constitution
 and the country's permit.</p>
 </div2>
 
-<div2 id="sc03-1staff.004" n="Conservative Republicans Take Washington Seats" type="Article">
+<div2 id="sc03-1staff.005" n="Conservative Republicans Take Washington Seats" type="Article">
 <head>Conservative Republicans Take Washington Seats</head>
 <docDate>Vol. 3, No. 1, 1980, p. 14</docDate>
 
@@ -1574,7 +1499,7 @@ Blacks and Whites held hands and swayed rhythmically as they sang,
 "Oh, oh, oh, deep in my heart, I do believe, we shall overcome some
 day . . . "</p>
 </div2>
-<div2 id="sc03-1greenhaw.007" n="Blacks Elected in wilcox County"
+<div2 id="sc03-1greenhaw.008" n="Blacks Elected in wilcox County"
       type="Article">
 <head>Blacks Elected in wilcox County</head>
 <docAuthor>by Randall Williams</docAuthor>

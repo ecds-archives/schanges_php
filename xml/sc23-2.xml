@@ -1,181 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 23, Number 2, 2001</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2003</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 23, Number 2. 2001</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2003</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
       <body>
-         <div1 id="v23-2.001" n="Southern Changes 23:2" type="Issue">
-
-            <head>Southern Changes.  Volume 23, Number 2, 2001</head>
-
-
+         <div1 id="v23-2.001" n="Southern Changes 23:2" type="Issue">            <head>Southern Changes.  Volume 23, Number 2, 2001</head>
             <p> 
-
-
                <title>Southern Changes.</title>  Volume 23, Number 2, 2001</p>
  <div2 id="v23-2.003" n="Election Reform: Going Anywhere?" type="Article">
-
-
                <head>Election Reform: Going Anywhere?</head>
-
-
                <docAuthor>By Wendy S. Johnson</docAuthor>
-
-
                <docDate>Vol. 23, No. 2, 2001</docDate>
 <argument><p>Wendy S. Johnson is executive director of the Southern Regional Council.</p></argument>
 
@@ -193,15 +77,9 @@ stunned a watchful and anxious nation as we learned about the severe ineptness a
  </div2>
  <div2 id="v23-2.004" n="Budget Woes and Partisan Politics 
 Block Election Reform" type="Article">
-
-
                <head>Budget Woes and Partisan Politics 
 Block Election Reform</head>
-
-
                <docAuthor>By Lisa Rab </docAuthor>
-
-
                <docDate>Vol. 23, No. 2, 2001</docDate>
 <argument><p>Lisa Rab is a journalism student at Emory University in Atlanta. This article contains information contributed by Catherine Wall.</p></argument>
 <p>Despite the initial scramble to introduce legislation responding to the election chaos in Florida, very few Southern states passed comprehensive election reform measures in 2001. </p>
@@ -326,15 +204,9 @@ Nashville newspaper, the <hi rend="italic">Tennessean</hi>. "Tennessee has almos
  </div2>
 <div2 id="v23-2.005" n="A Closer Look:
 The Florida and Georgia Experiences" type="Article">
-
-
                <head>A Closer Look:
 The Florida and Georgia Experiences</head>
-
-
                <docAuthor>By Catherine Wall</docAuthor>
-
-
                <docDate>Vol. 23, No. 2, 2001</docDate>
 <argument><p>Catherine Wall is a second-year student at the University of Texas Law School in Austin.</p></argument>
 <p>The 2001 state legislative sessions witnessed very little progress towards comprehensive election reform. Only two southern states-Florida and Georgia-passed meaningful legislation to repair the disfranchising, antiquated, and undemocratic electoral flaws that were made glaringly apparent by the  2000 election. Maryland is the only non-southern state to pass comprehensive reform.</p>
@@ -377,14 +249,8 @@ The Florida and Georgia Experiences</head>
 </div2>
 
 <div2 id="v23-2.006" n="Felon Disfranchisement Bars Many from Voting" type="Article">
-
-
                <head>Felon Disfranchisement Bars Many from Voting</head>
-
-
                <docAuthor>By Lisa Rab</docAuthor>
-
-
                <docDate>Vol. 23, No. 2, 2001</docDate>
 <argument><p>Lisa Rab is a journalism student at Emory University in Atlanta.</p></argument>
 <p>More than 200,000 people could not vote in Florida's presidential election last year because of laws barring ex-felons from voting. Similar laws across the country prevented 1.4 million people from casting their ballots, according to data compiled by the Sentencing Project, an independent criminal justice policy group. </p>
@@ -430,11 +296,7 @@ The Florida and Georgia Experiences</head>
 
 
                <head>Many Birminghams: Taking Segregationists Seriously</head>
-
-
                <docAuthor>Reviewed by David J. Garrow</docAuthor>
-
-
                <docDate>Vol. 23, No. 2, 2001</docDate>
 <argument><p></p><p>David Garrow is a Presidential Distinguished Professor at Emory University and is author of the Pulitzer Prize-winning biography of Martin Luther King, Jr., Bearing the Cross.</p></argument>
 <p rend="bold">REVIEWS</p>
@@ -523,15 +385,15 @@ in all cities, "segregation was imperative, for in a fully open,
 commingling world, whites feared that they themselves could descend
 into blackness." <hi rend="italic">Race Against Time</hi> does not discuss whether whites' expectation that desegregation would allow aspects of Black culture to be absorbed into white life indeed turned out to be quite correct, although not with all of the doleful effects that whites had imagined. Only a region-wide African-American uprising would show both the Klan and the clergy that racial equality would enrich and liberate the white South, not harm it.</p>
 <p rend="bold">Endnotes</p>
-<p rend="bold">1A new volume offers an admirable account of the two
+<p>1 A new volume offers an admirable account of the two
 constitutional test cases in which the U. S. Supreme Court upheld
 Title II of the 1964 Act: Richard C. Cortner, <hi rend="italic">Civil
 Rights and Public Accommodations: The Heart of Atlanta Motel and
 McClung Cases</hi> (University Press of Kansas, 2001).<hi rend="italic"> Katzenbach v. McClung</hi>, 379 U.S. 294 (1964), involved a well-known Birmingham restaurant, Ollie's Barbecue, operated by one Ollie McClung, and it continues in business today (albeit in a different location) under the management of Ollie McClung, Jr.</p>
-<p rend="italic">2McWhorter on National Public Radio's "Weekend All Things Considered," April 22, 2001. When she learned of Martin Luther King's assassination, "I remember thinking that the problems of the South would be over now . . . I really thought that he had caused all this trouble in the South. So that was-you know, I was pretty old by then."</p>
-<p rend="bold">3Bull Connor may not be quite as infamous as we
+<p>2 McWhorter on National Public Radio's "Weekend All Things Considered," April 22, 2001. When she learned of Martin Luther King's assassination, "I remember thinking that the problems of the South would be over now . . . I really thought that he had caused all this trouble in the South. So that was-you know, I was pretty old by then."</p>
+<p>3 Bull Connor may not be quite as infamous as we
 generally assume. See Carol Polsgrove, <hi rend="italic">Divided Minds: Intellectuals and the Civil Rights Movement</hi>. (W.W. Norton, 2001), p. 174: "When Birmingham Police Chief Bull Durham unleashed his dogs and fire hoses...." </p>
-<p rend="bold">4Andrew M. Manis's biography,  <hi rend="italic">A Fire
+<p>4 Andrew M. Manis's biography,  <hi rend="italic">A Fire
 You Can't Put Out: The Civil Rights Life of Birmingham's Reverend Fred
 Shuttlesworth</hi> (University of Alabama Press, 1999) is a superb
 portrait which offers much information about the Birmingham movement
@@ -543,29 +405,21 @@ the Civil Rights Struggle</hi> (University of North Carolina Press,
 example Adam Fairclough's review in <hi rend="italic">Alabama
 Review</hi>, July 1999, pp. 229-32, noting that "The most serious
 weakness of <hi rend="italic">But for Birmingham</hi> is the author's undisguised hostility towards Martin Luther King, Jr."</p>
-<p rend="bold">5Athan G. Theoharis's <hi rend="italic">J. Edgar Hoover, Sex, and Crime: An Historical Antidote</hi> (Ivan R. Dee, 1995) is an utterly comprehensive rebuttal of such claims by a highly knowledgeable historian. The Hoover-as-cross-dresser image, which is regrettably widespread in popular culture, falsely leads people to think of Hoover as a batty queen rather than a viciously dangerous yet exceptionally skillful ideological bureaucrat.</p>
-<p rend="bold">6See for example an article by a family friend who
+<p>5 Athan G. Theoharis's <hi rend="italic">J. Edgar Hoover, Sex, and Crime: An Historical Antidote</hi> (Ivan R. Dee, 1995) is an utterly comprehensive rebuttal of such claims by a highly knowledgeable historian. The Hoover-as-cross-dresser image, which is regrettably widespread in popular culture, falsely leads people to think of Hoover as a batty queen rather than a viciously dangerous yet exceptionally skillful ideological bureaucrat.</p>
+<p>6 See for example an article by a family friend who
 attended law school with Shores's grandson Arthur Shores Lee, who "would mention with pride his grandfather, now crippled with Alzheimer's." Paul South, "30 Years After Selma, We Must Continue to March Against Hate," <hi rend="italic">Norfolk Virginian-Pilot</hi>, March 12, 1995, p. B1.</p>
-<p rend="italic">7Howell Raines, "The Birmingham Bombing,"<hi rend="italic"> New York Times Magazine</hi>, July 24, 1983, pp. 12ff.</p>
-<p rend="bold">8Elizabeth H. Cobbs/Petric J. Smith, Long Time Coming: An Insider's Story of the Birmingham Church Bombing that Rocked the World (Crane Hill Publishers, 1994). Long Time Coming went virtually unreviewed in any print media. As the author's name itself signalled, soon after her 1977 testimony against Chambliss, Cobbs underwent sex change surgery and changed her name to Petric J. Smith. "Pete" Smith died in 1998 at age fifty-seven. See also Frank Sikora, Until Justice Rolls Down: The Birmingham Church Bombing Case (University of Alabama Press, 1991), a book lacking both source notes and bibliography, and which spoke erroneously of "Gail Tarrant." Diane McWhorter gave the Sikora book an appropriately dismissive brief notice in the New York Times Book Review, September 22, 1991, p. 53.</p>
-9Cobbs also said of Chambliss that "At least two of my young cousins were victims of his inappropriate fondling, and a male cousin told me, `I think he has tried to molest every child in the family-boys and girls." Long Time Coming, p. 54. Interestingly enough, similar allegations have been voiced against Bobby Frank Cherry, Chambliss's still-surviving Klan colleague whom most investigators believe personally planted the Sixteenth Street Baptist Church bomb, by both his stepdaughter, Gloria Ladow, and his granddaughter, Teresa Cherry Stacy. See Lee Hancock, " '63 Bombing Suspect Says Kin Are Lying; He Denies Bragging of Role in Death of 4 Girls During Civil Rights Struggle," Dallas Morning News, July 3, 1999, p. A1, Pamela Colloff's superb article on Cherry and his family, "The Sins of the Father," Texas Monthly, April 2000, pp. 132ff, and Carlton Stowers, "The Good Neighbor," Dallas Observer, May 25, 2000. Indicted in May 2000 along with fellow surviving Klansman Tommy Blanton for the Sixteenth Street bombing, Cherry's trial was severed from Blanton's, and postponed indefinitely, on the grounds that Cherry allegedly no longer possesses the mental capacity to assist in his own defense. See Kevin Sack, "A Bitter Alabama Cry: Slow Justice is No Justice," New York Times, April 13, 2001, p. A12 and Sack, "Church Bombing Figure Found to Be Incompetent," New York Times, July 17, 2001, p. A12. Blanton was found guilty after a remarkably quick trial. See Kevin Sack, "Ex-Klansman is Found Guilty in '63 Bombing," New York Times, May 2, 2001, p. A1.
-10(Princeton University Press, 1997).
-11Charles Marsh, "Rendezvous With the Wizard," Oxford American, October/November 1996, pp. 22-32.
-12Marsh's treatment of the Klansman includes apparent regard for what he terms "the level of theological realism in Bowers's analysis." God's Long Summer, p. 80.
-13Rick Bragg, "Jurors Convict Former Wizard in Klan Murder," New York Times, August 22, 1998, p. A1.
-14In 1965 in Alabama alone, two visiting white clergymen, Episcopalian Jonathan M. Daniels and Unitarian James J. Reeb, were killed by white racist assailants. See Charles W. Eagles's excellent Outside Agitator: Jon Daniels and the Civil Rights Movement in Alabama (University of North Carolina Press, 1993), and Duncan Howlett, No Greater Love: The James Reeb Story (Harper & Row, 1966).
-15"Meaningful change" in Birmingham, Bass contends, "occurred only at a gradual and moderate pace," and "inevitably, it was [local] citizens, both black and white, and not Martin Luther King and the SCLC [King's organization], that brought about the real transformation of the city." Blessed Are the Peacemakers, p. 226.
-16See John Dittmer's excellent Local People: The Struggle for Civil Rights in Mississippi (University of Illinois Press, 1994), pp. 353-62.	n
-
-
+<p>7 Howell Raines, "The Birmingham Bombing,"<hi rend="italic"> New York Times Magazine</hi>, July 24, 1983, pp. 12ff.</p>
+<p>8 Elizabeth H. Cobbs/Petric J. Smith, <title>Long Time Coming: An Insider's Story of the Birmingham Church Bombing that Rocked the World</title> (Crane Hill Publishers, 1994). Long Time Coming went virtually unreviewed in any print media. As the author's name itself signalled, soon after her 1977 testimony against Chambliss, Cobbs underwent sex change surgery and changed her name to Petric J. Smith. "Pete" Smith died in 1998 at age fifty-seven. See also Frank Sikora, Until Justice Rolls Down: The Birmingham Church Bombing Case (University of Alabama Press, 1991), a book lacking both source notes and bibliography, and which spoke erroneously of "Gail Tarrant." Diane McWhorter gave the Sikora book an appropriately dismissive brief notice in the New York Times Book Review, September 22, 1991, p. 53.</p>
+<p>9 Cobbs also said of Chambliss that "At least two of my young cousins were victims of his inappropriate fondling, and a male cousin told me, 'I think he has tried to molest every child in the family-boys and girls." <title>Long Time Coming</title>, p. 54. Interestingly enough, similar allegations have been voiced against Bobby Frank Cherry, Chambliss's still-surviving Klan colleague whom most investigators believe personally planted the Sixteenth Street Baptist Church bomb, by both his stepdaughter, Gloria Ladow, and his granddaughter, Teresa Cherry Stacy. See Lee Hancock, " '63 Bombing Suspect Says Kin Are Lying; He Denies Bragging of Role in Death of 4 Girls During Civil Rights Struggle," <title>Dallas Morning News</title>, July 3, 1999, p. A1, Pamela Colloff's superb article on Cherry and his family, "The Sins of the Father," <title>Texas Monthly</title>, April 2000, pp. 132ff, and Carlton Stowers, "The Good Neighbor," <title>Dallas Observer</title>, May 25, 2000. Indicted in May 2000 along with fellow surviving Klansman Tommy Blanton for the Sixteenth Street bombing, Cherry's trial was severed from Blanton's, and postponed indefinitely, on the grounds that Cherry allegedly no longer possesses the mental capacity to assist in his own defense. See Kevin Sack, "A Bitter Alabama Cry: Slow Justice is No Justice," <title>New York Times</title>, April 13, 2001, p. A12 and Sack, "Church Bombing Figure Found to Be Incompetent," <title>New York Times</title>, July 17, 2001, p. A12. Blanton was found guilty after a remarkably quick trial. See Kevin Sack, "Ex-Klansman is Found Guilty in '63 Bombing," <title>New York Times</title>, May 2, 2001, p. A1.</p>
+<p>10 (Princeton University Press, 1997).</p>
+<p>11 Charles Marsh, "Rendezvous With the Wizard," <title>Oxford American</title>, October/November 1996, pp. 22-32.</p>
+<p>12 Marsh's treatment of the Klansman includes apparent regard for what he terms "the level of theological realism in Bowers's analysis." <title>God's Long Summer</title>, p. 80.</p>
+<p>13 Rick Bragg, "Jurors Convict Former Wizard in Klan Murder," <title>New York Times</title>, August 22, 1998, p. A1.</p>
+<p>14 In 1965 in Alabama alone, two visiting white clergymen, Episcopalian Jonathan M. Daniels and Unitarian James J. Reeb, were killed by white racist assailants. See Charles W. Eagles's excellent <title>Outside Agitator: Jon Daniels and the Civil Rights Movement in Alabama</title> (University of North Carolina Press, 1993), and Duncan Howlett, <title>No Greater Love: The James Reeb Story</title> (Harper &#x0026; Row, 1966).</p>
+<p>15 "Meaningful change" in Birmingham, Bass contends, "occurred only at a gradual and moderate pace," and "inevitably, it was [local] citizens, both black and white, and not Martin Luther King and the SCLC [King's organization], that brought about the real transformation of the city." <title>Blessed Are the Peacemakers</title>, p. 226.</p>
+<p>16 See John Dittmer's excellent <title>Local People: The Struggle for Civil Rights in Mississippi</title> (University of Illinois Press, 1994), pp. 353-62.</p>
 </div2>
 </div1>
-
-
 </body>
-
-
 </text>
-
-
 </TEI.2>

@@ -1,163 +1,58 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 22, Number 1, 2000</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2004</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 22, Number 1. 2000</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2004</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
 <div1 id="sc22-1.000" n="Southern Changes 22:1" type="Issue">
 <head>Southern Changes. Volume 22, Number 1, Spring 2000</head>
@@ -477,9 +372,7 @@ type="Article">
 <p>A broad coalition, Floridians Representing Equity and Equality (FREE), is taking the offensive.  FREE helped to organize the March 8 rally and is gathering signatures for a pro-affirmative action ballot measure, possibly next year. Legislative proposals include two wage equity bills that make up the Fair Pay Act of 2000, but legislative outcomes are unpredictable since sixty-three of the 160 Florida legislators must retire this year due to term limits.  </p>
 <p>The real test of the state politics of affirmative action may come in November, when Florida's twenty-five electoral votes are at stake.  In neighboring Georgia, a Republican candidate's attack on affirmative action helped galvanize large black voter turnout, propelling Democratic Governor Roy Barnes to a win in 1998.</p>
 </div2>
-<div2 id="sc22-1.008" n="BOOKS
-
-Breaking the Wall of Resistance"
+<div2 id="sc22-1.008" n="BOOKS Breaking the Wall of Resistance"
 type="Article">
 <head>BOOKS
 

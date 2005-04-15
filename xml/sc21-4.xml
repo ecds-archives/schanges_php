@@ -1,188 +1,68 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
-
-
    <teiHeader type="text">
-
-
       <fileDesc>
-
-
          <titleStmt>
-
-
             <title>Southern Changes.  Volume 21, Number 4, 1999</title>
-
-
             <author>Staff</author>
-
-
             <respStmt>
-
-
                <resp>Compiled and edited by</resp>
-
-
                <name>staff</name>
-
-
             </respStmt>
-
-
          </titleStmt>
-
-
          <extent/>
-
-
          <publicationStmt>
-
-
             <publisher>Lewis H. Beck Center</publisher>
-
-
             <pubPlace>Emory University</pubPlace>
-
-
             <address>
-
-
                <addrLine>Atlanta, Georgia</addrLine>
-
-
             </address>
-
-
             <availability>
-
-
                <p>1996 Emory University. Permission is granted to 
-
-
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
-
-
 the work claimed by Emory University for non-profit educational purposes, provided  
-
-
 this header is included in its entirety.  For inquiries about commercial uses, contact 
-
-
 either: Southern Changes Web Project or Lewis H. Beck Center for Electronic 
-
-
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-
-
             </availability>
-
-
             <date>2003</date>
-
-
          </publicationStmt>
-
-
          <seriesStmt>
-
-
             <title>Southern Changes Web Project</title>
-
-
          </seriesStmt>
-
-
          <sourceDesc>
-
-
             <bibl>Southern Changes.  Volume 21, Number 4 1999</bibl>
-
-
          </sourceDesc>
-
-
       </fileDesc>
-
-
       <encodingDesc>
-
-
          <projectDesc>
-
-
             <p>This text is produced in conjunction with the  
-
-
 Southern Changes Web Project at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
-
-
          </projectDesc>
-
-
       </encodingDesc>
-
-
       <revisionDesc>
-
-
          <change>
-
-
             <date>2003</date>
-
-
             <respStmt>
-
-
                <name>Beck Center</name>
-
-
                <resp>Staff</resp>
-
-
             </respStmt>
-
-
             <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-
-
          </change>
-
-
       </revisionDesc>
-
-
    </teiHeader>
-
-
    <text>
-
-
       <body>
-
-
          <div1 id="v21-4.999" n="Southern Changes 21:4" type="Volume">
-
-
             <head>Southern Changes.  Volume 21, Number 4, 1999</head>
-
-
             <p> 
-
-
                <title>Southern Changes.</title>  Volume 21, Number 4, 1999</p>
  <div2 id="v21-4.000" n="Census 2000: One Census, Two Counts--The
 Politics Behind the Confusion" type="Article">
-
-
                <head>Census 2000: One Census, Two Counts--The
 Politics Behind the Confusion</head>
-
-
                <docAuthor>By Winnett Hagens</docAuthor>
-
-
                <docDate>Vol. 21, No. 4, 1999</docDate>
 <argument><p>Winnett Hagens is director of Fair Representation Programs at the
 Southern Regional Council.</p></argument>
@@ -217,7 +97,7 @@ Court prevailed (in <hi rend="italic">Department of Commerce et. al. v. United S
 <head>School of the Americas Protest</head>
 <docAuthor>By Gale Greenlee</docAuthor>
 <docDate>Vol. 21, No. 4, Winter 1999</docDate>
-<argument><p rend="italic">Gale Greenlee is a writer and editor at the</hi>
+<argument><p rend="italic">Gale Greenlee is a writer and editor at the
 Carolina Peacemaker in Greensboro, North Carolina.
 She served as a training and technical assistance coordinator for the
 Corporation for National Service's LEARNS program at the Southern
@@ -472,7 +352,7 @@ gender relationships. How, for example, the romantic idealism of
 street-corner doo-wop groups of the 50s often provided relief from an
 older, more macho, R and B ethos. He doesn't evade the misogyny of the blues attitude, but places  it within a larger patriarchal history while weighing the extreme economic and social pressures bearing down upon African-American men and women in the march out of Jim Crow.</p> 
 <p>What were the roles of musical artists in the freedom struggle? When and at what costs to their commercial careers did singers visibly march and protest? Why was it, asks Ward, that "in certain respects Joan Baez was more important and conspicuously committed to the early Movement than James Brown, while Harry Belafonte did more to assist the struggle for black freedom in practical terms than all the soul icons of the 1960s combined"?</p>
-<p>In approaching similar territory, Craig Werner points out that the increasing cross-over successes of Diana Ross and the Supremes led to Ross's safer approach to Holland-Dozier-Holland compositions. One result was that "millions of white teenagers loved the Supremes without feeling any need to change the way they dealt with the world." Ward presses further, foregrounding the "the basic disparity between white responses to black music, which could be extremely deep and passionate, and white understanding, sympathy and respect for the diverse realities of black culture and experience, which were rarely more than superficial. Black music was . . . enthusiastically admired when it fulfilled romanticized white expectations about black grace and ease with leisure, pleasure, sex and style. But this . . . required no real consideration of, or empathy with, the frequently unromantic circumstances from whence those qualities in black culture emerged." Ward takes this revelation and turns it upon such paternalistic social scenes as southern university all-white frat parties which featured black R&B bands.</p>
+<p>In approaching similar territory, Craig Werner points out that the increasing cross-over successes of Diana Ross and the Supremes led to Ross's safer approach to Holland-Dozier-Holland compositions. One result was that "millions of white teenagers loved the Supremes without feeling any need to change the way they dealt with the world." Ward presses further, foregrounding the "the basic disparity between white responses to black music, which could be extremely deep and passionate, and white understanding, sympathy and respect for the diverse realities of black culture and experience, which were rarely more than superficial. Black music was . . . enthusiastically admired when it fulfilled romanticized white expectations about black grace and ease with leisure, pleasure, sex and style. But this . . . required no real consideration of, or empathy with, the frequently unromantic circumstances from whence those qualities in black culture emerged." Ward takes this revelation and turns it upon such paternalistic social scenes as southern university all-white frat parties which featured black R&#x0026;B bands.</p>
 <p>While <hi rend="italic">Just My Soul Responding</hi> ends in the
 1970s, Werner extends <hi rend="italic">A Change Is Gonna Come</hi> through the heartless Reagan-Bush years and the emergence of rap's realistic reportage, and the shameless 90s in which Bill Clinton (not George) "abandoned all but rhetorical support for any sort of progressive agenda." If we've yet to arrive in funkatopia, the last decade has heard strong, new, women's voices-rappers, rockers, jazz singers, and transformers of the gospel impulse. Missy Elliott, Mary J. Blige, and Lauryn Hill take up the conversations with the ancestors. "It was never more important," concludes Werner, "to keep the conversation going than at the moments when it seemed to be going nowhere."</p>
 <p>As the Millennium turns, the long revolution, long haul, freedom highway-whatever you want to call it-awaits the next move. "You got to get behind the mule, every morning and plow," rasps Tom Waits, having learned a thing or two by way of Blind Willie Johnson, Rufus Thomas, Lightning Hopkins, John Coltrane, Elvis, Nina Simone, Mahalia, . . . .</p>	
@@ -509,7 +389,7 @@ four novels, including the recently published <hi rend="italic">Comfort and Joy<
 <head>Armed Self-Reliance</head>
 <docAuthor>Reviewed by Robin D. G. Kelley</docAuthor>
 <docDate>Vol. 21, No. 4, Winter 1999</docDate>
-<p>Timothy B. Tyson,<hi rend="italic"> Radio Free Dixie: Robert F. Williams & the Roots of Black Power.</hi>  (Chapel Hill: University of North Carolina Press, 1999).</p>
+<p>Timothy B. Tyson,<hi rend="italic"> Radio Free Dixie: Robert F. Williams &#x0026; the Roots of Black Power.</hi>  (Chapel Hill: University of North Carolina Press, 1999).</p>
 <p><hi rend="italic">Radio Free Dixie</hi> is one of the most important books on the black freedom movement written in the past decade.  Challenging much of the scholarship that dismisses Robert Williams (1925-1996) as a marginal figure, if not a dangerous "crank," Timothy Tyson takes a careful look at what Williams represented to a new generation of militants who emerged within the Civil Rights Movement.</p>
 <p>A native of Monroe, North Carolina, Robert F. Williams not only
 embodied old and established Black traditions of armed self-defense,
@@ -603,7 +483,7 @@ from the house  of Popham, the cub reporter in Brooklyn, the intrepid
 U.S. Marine in his father's image, the United Nations correspondent,
 the first <hi rend="italic">New York Times</hi> Southern
 correspondent, the beloved husband and father, the dutiful but not
-uncritical Catholic, the legendary managing editor of the <hi rend="italic">Chattanooga Times</hhi>.</p>
+uncritical Catholic, the legendary managing editor of the <hi rend="italic">Chattanooga Times</hi>.</p>
 <p>That was the formal John N. Popham of <hi rend="italic">The Times</hi>.  Far more complex was the man behind the name, variously and lovingly known as Johnny Popham, Honest John, Sir John, Saint Nicholas, or just plain Pop.</p>
 <p>From 1947 to 1958, he crisscrossed the South in a succession of hard-ridden Buick sedans, driving over 50,000 miles a year to report breaking news and to write "think pieces" for his New York editors.  He covered the first postwar stirrings of the civil rights revolution, and at every stop he took note of the men and women, black and white, who seemed to grasp the significance of social change.</p>
 <p>He quickly became the primary link between Southern and "outside" journalists, and between members of the press and a wide range of leaders in the fields of education, politics and religion.  He had a knack for making acquaintance across all the usual lines of division, and greeted his friends of all ages and both genders as "sweetheart" or "dawlin'."</p>
