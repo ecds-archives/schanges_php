@@ -1,9 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
             <title>Southern Changes.  Volume <!-- vol #here -->,
-	   Number <!-- issue # here -->: Electronic Edition</title>
+	   Number <!-- issue # here --></title>
             <author>Staff</author>
             <respStmt>
                <resp>Compiled and edited by</resp>

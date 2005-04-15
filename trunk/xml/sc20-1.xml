@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="raw-text"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -118,10 +119,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <p>The current state-by-state situation demonstrates that affirmative action opponents do not constitute a great tide sweeping the nation, precisely because they are not reflecting public opinion. (See survey article, page 22.) Law makers and pressure groups who are pushing to end affirmative action are facing stumbling blocks, not only from Democrats but from many Republicans as well as from businesses who do not want to alienate their public, and from voters who want to retain affirmative action or at least its effects of diversity and equity. As Brian Komar of the Leadership Conference on Civil Rights explains, <q direct="unspecified">"It is clear there is broad enough support among the American public to block or defeat extreme efforts seeking to eliminate affirmative action programs for women and people of color. It is unfair that current coverage does not reflect this reality."</q></p>
  
 </div2>  
-</div1>   
-</body>    
-</text>  
-</TEI.2>   
+
 
       <div2 id="v20-1.009" n="" type="Article">
                <head></head>
@@ -217,7 +215,7 @@ rend="italic">Wooden</hi> case, a Georgia lawsuit filed in 1997. Challenging bot
 SCLC in the suit, will determine the future of "fair access by
 African-American students to higher education." The suit alleges that
 the Board of Regents and Chancellor Stephen R. Portch failed to remove
-vestiges of <hi rend="italic>de jure</hi> segregation from the
+vestiges of <hi rend="italic">de jure</hi> segregation from the
 University System of Georgia. The Chancellor and Board of Regents, who continue to endorse the use of limited affirmative action in the system, contend that they have removed all vestiges of the "once upon a time" <hi rend="italic">de jure</hi> segregation. "This case is ahistorical," Orfield continues, "It assumes a different world than what actually exists."</p>
 <p rend="center"><hi rend="bold">Difficulties of Desegregation in Higher Education</hi></p>
 <p><hi rend="itlalic">Michael Wooden, et al. v. Board of Regents for the University System of Georgia</hi> represents a disturbing challenge to desegregation efforts that continues to confront all states, but especially those where segregation was formerly mandated by law; because of the individual's choice in whether and where to apply for higher education, the government and administrators have limited powers in bringing about integration in the university system. Unlike elementary and secondary school systems, compulsory attendance cannot be used to achieve integration in higher education. </p>
@@ -313,7 +311,7 @@ Rights</hi></p>
 <p>Faced with the prospect that Democrats who control the legislature would pass a damaging bill, leading civil rights attorneys drafted alternative language that aimed to  "do no harm." But Democrats altered the language before it was introduced, leaving local programs potentially vulnerable in court. "It's an unguided missile that we don't know where it's going to land," said Sen. Edward Boshears, (R-Brunswick) about the bill during Senate debate. </p>
 <p>Civil rights organizations spoke out against any language that fell short of extending opportunity, raising instead the need for comprehensive civil rights measures. "We had respect for the lobbyists, the legal minds, the advocates, and the legislators," said Concerned Black Clergy President Rev. Tim McDonald, "My strategy was to take it to the streets, to use the media to educate the public." </p>
 <p>The Southern Christian Leadership Conference focused its annual King Birthday march on the affirmative action fight, leading a diverse group into the Georgia capitol rotunda to protest ending affirmative action programs. The National Youth Connection, led by Morehouse College student Rev. Markel Hutchins, spearheaded a Stand for Affirmative Action rally January 22 of nearly a thousand students and allies supporting affirmative action from Centennial Park to Atlanta City Hall, in pouring rain. Concerned Black Clergy and other groups rallied in Ehrhart's home district in Cobb County on February 2. </p>
-<p>Major business leaders, who were crucial in the victory on  the Houston affirmative action initiative, were largely absent from the Georgia fight. But women were outspoken in support, including businesswoman Carolyn Stradley, owner of C & S Paving, who spoke out powerfully at a Trust Georgia's Women press conference. "I don't think that before affirmative action, a paving company run by a non-married woman would be considered for many contracts," insisted Stradley. </p>
+<p>Major business leaders, who were crucial in the victory on  the Houston affirmative action initiative, were largely absent from the Georgia fight. But women were outspoken in support, including businesswoman Carolyn Stradley, owner of C &#x0026; S Paving, who spoke out powerfully at a Trust Georgia's Women press conference. "I don't think that before affirmative action, a paving company run by a non-married woman would be considered for many contracts," insisted Stradley. </p>
 <p>The effort succeeded in part, said Elizabeth Appley, who lobbied on behalf of the Women's Policy Group and the Atlanta Board of Education, "because we were able to focus the attention of legislators and the public on the reality that all of our lives-crossing socio-economic, racial, ethnic, and geographic lines-are improved by supporting diversity, inclusion, and equal opportunity."</p>
 <p>With this legislative battle behind them, Georgia advocates are preparing for the next challenge. The Atlanta Public School system is under fire for its efforts to be inclusive in contracts and purchasing. A suit filed by Prior Tire Company is likely to come to trial the week of April 15 in Atlanta before Judge Julie Carnes at the Richard Russell Federal Building.</p>
 <p>	The fight has also awakened demand for a comprehensive civil rights bill, which would allow for victims of discrimination to recover costs of successful claims in state court and establish a state enforcement agency. </p>
@@ -414,7 +412,7 @@ and less effective in shaping the current public debate than their opponents. Fo
 <p><hi rend="bold">Myth</hi>: Unqualified people are hired and promoted for the sake of affirmative action.
 <hi rend="bold">Reality</hi>: It is illegal for affirmative action plans to compromise valid job or educational qualifications. Such plans must be flexible, realistic, reviewable, and fair. The Supreme Court has found that there are at least two bases for voluntary affirmative action by employers under Title VII: (1) to remedy a clear and convincing history of past discrimination, and (2) to cure a manifest imbalance in the employer's workforce. Affirmative action programs strive to hire the most qualified individuals, while achieving equality of opportunity.</p>
 
-<p><hi rend="bold>Myth</hi>: Affirmative action is not needed anymore.
+<p><hi rend="bold">Myth</hi>: Affirmative action is not needed anymore.
 <hi rend="bold">Reality</hi>: Although there have been gains in employment, entrepreneurship, and higher education by minorities and women, these groups still lag far behind white males. This is especially true in the nation's largest companies where African Americans hold .6 percent, Hispanics hold .4 percent, Asians hold .3 percent, and women hold 3-5 percent of senior management positions. In addition, minorities and women earn roughly 70 percent of what white males with equal qualifications in the same job earn. Minorities are less likely to go to college than whites, and although women make up nearly half of the student population at many institutions of higher education, they receive only 11 percent of the science and math degrees awarded and are less likely to earn advanced degrees than white males. Affirmative action is the only way to ensure  equal opportunity for minorities and women.</p>
 
 <p><hi rend="bold">Myth</hi>: Affirmative action guarantees success based on race, ethnicity, or gender.
@@ -465,7 +463,7 @@ New York, NY 10036
 212-944-9800
 http://www.aclu.org</p>
 
-<p red="bold">Americans for a Fair Chance</p>
+<p rend="bold">Americans for a Fair Chance</p>
 <p>1730 Rhode Island Avenue, N.W.
 Suite 303
 Washington, D.C. 20036
@@ -577,7 +575,7 @@ from college students and their parents, faculty members, and administrators to 
 <p><hi rend="bold">Eastland, Terry</hi>.<hi rend="italic"> Ending Affirmative Action: The Case for Colorblind Justice</hi>. Basic Books, 1996.</p>
 <p>Written in counterpoint to Bergmann's <hi rend="italic">In Defense of Affirmative Action</hi>, Eastman argues against affirmative action on three principles. One, affirmative action conflicts with the ideals of a color-blind society and is in fact "reverse discrimination." Secondly, affirmative action stigmatizes minorities, and therefore, prevents them from achieving true equality, and even moreso, engenders racial strife and bigotry. Thirdly, he claims affirmative action was intended as a temporary fix to facilitate the goals of equal opportunity and it has outserved its purpose. </p>
 
-<p><hi rend="bold">Edley, Christopher</hi>.<hi rend="italic"> Not all Black and White: Affirmative Action, Race and American Values</hi>. Hill & Wang, 1996.</p>
+<p><hi rend="bold">Edley, Christopher</hi>.<hi rend="italic"> Not all Black and White: Affirmative Action, Race and American Values</hi>. Hill &#x0026; Wang, 1996.</p>
 <p>Edley, who served as Special Counsel to President Clinton on
 affirmative action and co-authored a 1995 <hi
 rend="italic">Affirmative Action Review</hi> for the President, uses
@@ -608,7 +606,7 @@ which will not be realized <hi rend="italic">without</hi> affirmative action. </
 <p><hi rend="bold">Skrentny, John David</hi>.<hi rend="italic"> The Ironies of Affirmative Action: Politics, Culture, and Justice in America</hi>. Univ. of Chicago Press, 1996.</p>
 <p>Claiming to be neither on the Right nor the Left, Skrentny investigates the historical, sociological and cultural logic behind the debates surrounding affirmative action and race in this country. He seeks to understand how the assumptions and bases behind the beliefs both for and against affirmative action developed in order to provide insight into this very volatile debate. In doing so he uncovers some glaring ironies, including how policies to benefit a marginalized and disempowered group were enacted very quietly by the government in the 1960's without national debate. Another irony he addresses is that the Right has taken up the language of color-blindness, while the Left has abandoned this language for attentions to race.</p>
 
-<p><hi rend="bold">Thernstrom, Stephan and Abigail</hi>.  <hi rend="italic"> America in Black and White: One Nation, Indivisible</hi>. Simon & Schuster, 1997.</p>
+<p><hi rend="bold">Thernstrom, Stephan and Abigail</hi>.  <hi rend="italic"> America in Black and White: One Nation, Indivisible</hi>. Simon &#x0026; Schuster, 1997.</p>
 <p>The Thernstroms attempt to strike a death blow against affirmative
 action, and dare to compare their armchair study to Gunnar Myrdal's
 epic study of American race relations. But unlike Myrdal's exhaustive
@@ -628,7 +626,7 @@ the September 7, 1997, edition of <hi rend="title">The New York Times Book Revie
 <p><hi rend="bold">Tomasson, Richard, Faye Crosby, and Sharon Herzberger</hi>. Affirmative Action: The Pros And Cons of Policy and Practice. American University Press, 1996.</p>
 <p>In the first half of the book, authors Crosby and Herzberger present arguments for affirmative action, while in the second, Tomasson argues against affirmative action. Crosby and Herzberger refute anti-affirmative action rhetoric point by point, by clarifying the social and historical misconceptions of the policy, and by making use of studies which he believes prove that discrimination does exist. Tomasson bases his argument on the principles of a color-blind society.</p>
 
-<p><hi rend="bold">	Weiss, Robert</hi>. <hi rend="italic>"We Want Jobs": A History of Affirmative Action</hi>. Garland Publishers, 1997.</p>
+<p><hi rend="bold">	Weiss, Robert</hi>. <hi rend="italic">"We Want Jobs": A History of Affirmative Action</hi>. Garland Publishers, 1997.</p>
 <p>A comprehensive academic history of affirmative action, this text focuses on jobs and the impact of affirmative action on labor in the U.S. Weiss details the political and economic trajectory of affirmative action from the 1940's to the 1990's, through which civil rights groups passed from demands that the federal government secure African American freedom to demands that the government implement programs to ensure economic opportunity. He pays attention to broad definitions of affirmative action, and the ways it has been used to ensure opportunity for other minority groups.</p>
 
 <p><hi rend="bold">Zelnick, Bob</hi>. <hi rend="itlalic">Backfire: A Reporter's Look at Affirmative Action</hi>. Regnery Publishers, 1996.</p>
