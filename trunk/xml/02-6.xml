@@ -1,9 +1,71 @@
-<div1 id="v2-6.001" n="Southern Changes 2:6" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 2, Number 6</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 2, Number 6,  March-April 1980</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc02-6.001" n="Southern Changes 2:6" type="Issue">
 <head>Southern Changes. Volume 2, Number 6, 1980 </head>
 <p>
 <title>Southern Changes</title> Volume 2, Number 6, 1980</p>
 
-<div2 id="v2-6suitts.002" n="In This Issue" type="Article">
+<div2 id="sc02-6suitts.002" n="In This Issue" type="Article">
 <head>In This Issue</head>
 <docAuthor>By Steve Suitts </docAuthor>
 <docDate>Vol. 2, No. 6, 1980, pp. 2</docDate>
@@ -76,13 +138,13 @@ individuals see themselves as a community of people living in that
 territory and influenced by the past we know as the South.</p>
 </div2>
 
-<div2 id="v2-6wohlgemuth.003" n="The Fears of Race Relations: Confessions of a White Pastor" type="Article">
+<div2 id="sc02-6wohlgemuth.003" n="The Fears of Race Relations: Confessions of a White Pastor" type="Article">
 <head>The Fears of Race Relations: Confessions of a White Pastor</head>
 <docAuthor>By Paul F. Wohlgemuth</docAuthor>
 <docDate>Vol. 2, No. 6, pp. 4-6</docDate>
-<argument>Paul F. Wohlgemuth is a retired minister of the United
+<argument><p>Paul F. Wohlgemuth is a retired minister of the United
 Methodist Church. His last church was in the Ben Hill community in the
-Atlanta area.</argument>
+Atlanta area.</p></argument>
 
 <p>After serving 11 years as a pastor in two churches in racially changing areas I have concluded that nothing is more destructive to harmonious human relations than fear. I have analyzed my own feelings. I have observed and analyzed the words and actions of others. In all of these experiences and situations, attitudes and reactions, almost every time a racial problem is traced to its origin, it is found to be rooted in fear.</p>
 
@@ -161,7 +223,7 @@ publicity of openness becomes only a goad when dampened by a halfhearted welcome
 <p>Those who may still insist on ignoring fear as a barrier need only be reminded of the presence of racism all around us. To be sure, some progress has been made. Very few church doors are barred against Black worshippers today. Racial violence has subsided. But underneath the apparent calm there is still turbulence.</p>
 </div2>
 
-<div2 id="v2-6assensoh.004" n="An Observation on New Orleans" type="Article">
+<div2 id="sc02-6assensoh.004" n="An Observation on New Orleans" type="Article">
 <head>An Observation on New Orleans</head>
 <docAuthor>By A.B. Assensoh</docAuthor>
 <docDate>Vol. 2, No. 6, pp. 7</docDate>
@@ -181,13 +243,13 @@ publicity of openness becomes only a goad when dampened by a halfhearted welcome
 <p>When I first came to New Orleans from Stockholm, Sweden &#x2014; where I had lived for almost five years and had seen little or no racism - I did not know much about the local racial situation. One day, on a bus, therefore, I shifted from a seat to make room for a White boy standing to sit by me. Instead of sitting down, he said, "Thank you, I will stand here."</p>
 </div2>
 
-<div2 id="v2-6noland.005" n="French Images of the
+<div2 id="sc02-6noland.005" n="French Images of the
 American South" type="Article">
 <head>French Images of the
 American South</head>
 <docAuthor>By Thomas Noland</docAuthor>
 <docDate>Vol. 2, No. 6, pp. 8-13</docDate>
-<argument>Thomas Noland writes for the <hi rend="italic">Atlanta Constitution</hi> from Paris and teaches English at the American College.</argument>
+<argument><p>Thomas Noland writes for the <hi rend="italic">Atlanta Constitution</hi> from Paris and teaches English at the American College.</p></argument>
 
 <p>PARIS - As French television viewers watched in horror, 12 men
 leaped out of two vans and a car, crouched, and began firing guns at a
@@ -334,14 +396,13 @@ acquire is barely diffused beyond a closed circle of friends and associates. Mos
 <p>The shooting in Greensboro last November is more likely to shape the average Frenchman's impression of current Southern race relations than any single factor. His knowledge of the South is largely imagistic: a bulldog-faced Alabama governor blocking the schoolhouse door; firehoses sweeping back a crowd of Blacks who tumble and cover their eyes; a man, his voice like the waters, telling thousands of his dream; a body wrapped in blankets on the balcony of a Memphis motel - and now, the dead on a street of another Southern town that will never become a tourist mecca. School desegregation patterns and voter registration figures simply can't compete with that.</p>
 </div2>
 
-<div2 id="v2-6young.006" n="The Drama of Greensboro" type="Article">
+<div2 id="sc02-6young.006" n="The Drama of Greensboro" type="Article">
 <head>The Drama of Greensboro</head>
 <docAuthor>By Charles Young</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 14-19</docDate>The Drama of Greensboro
-<argument>(Publisher's Note: This is an excerpt from a book being written about the November 3, 1979 killings in Greensboro, N.C., of five members of the Communist Workers Party. Copyright 1980 by Charles Young. All rights reserved. No portion of this article may be reprinted without written permission of the author.)
-
-Charles Young is a free-lance writer based in Greensboro.
-</argument>
+<docDate>Vol. 2, No. 6, pp. 14-19</docDate>
+<argument><p>(Publisher's Note: This is an excerpt from a book being written about the November 3, 1979 killings in Greensboro, N.C., of five members of the Communist Workers Party. Copyright 1980 by Charles Young. All rights reserved. No portion of this article may be reprinted without written permission of the author.)</p>
+<p>Charles Young is a free-lance writer based in Greensboro.
+</p></argument>
 
 <p>Greensboro is the insurance capital of North Carolina, not a textile and tobacco town, as it was referred to in the national media back in November following the slaying of five leaders of the Communist Workers Party during the anti-Ku Klux Klan rally. The media may be excused its hasty retreat to historical stereotype, however, for the killings did take place in a Black neighborhood, and they were carried out by a band of raiding Klansmen. It is perhaps natural then, when viewing the incident from a distance, to assume that the attack falls into the pattern of old-fashioned Southern White-racists direct action. But the reality is a little more complicated than that.</p>
 
@@ -447,7 +508,7 @@ the facility had already been rented for the proposed date. Later it came to lig
 
 <p>After much agonizing and soul-searching, and with a little nudge from the federal judge who was to hear the suit, the city reversed itself. By this time, the city administration may have realized that its adversary role had provided the impetus which would surely result in a far larger turnout for the rally.</p>
 
-<p>0n Saturday morning, February 2, the cars and buses began rolling into the parking areas around the stadium early. They were coming from all over the eastern and southern parts of the country, and there were even some from the Midwest.</p>
+<p>On Saturday morning, February 2, the cars and buses began rolling into the parking areas around the stadium early. They were coming from all over the eastern and southern parts of the country, and there were even some from the Midwest.</p>
 
 <p>The day was bright and sunny and cold, with wind whipping across
 the asphalt
@@ -482,7 +543,7 @@ familiar face.</p>
 <p>Outside, night has fallen on Greensboro and all across the parking lot the buses are firing up for the return trip to the distant cities. Great clouds of diesel smoke rise in the cold night air, like curtains closing at the completion of a long and drawn-out melodrama.</p>
 </div2>
 
-<div2 id="v2-6greenhaw.007" n="A Year After Alabama's New Beginning" type="Article">
+<div2 id="sc02-6greenhaw.007" n="A Year After Alabama's New Beginning" type="Article">
 <head>A Year After Alabama's New Beginning</head>
 <docAuthor>By Wayne Greenhaw</docAuthor>
 <docDate>Vol. 2, No. 6, pp. 20-22</docDate>
@@ -523,14 +584,14 @@ legislatures, according to one Black Belt lawmaker. "We are in a hell of a shape
 <p>James had promised that he would lift the sales tax from food and drugs, but when the regular session of the legislature opened, the lawmakers had not seen the proposal. "We are going to do something," a lawmaker promised, "with or without the governor."</p>
 </div2>
 
-<div2 id="v2-6norwood.008" n="Economic Development
+<div2 id="sc02-6norwood.008" n="Economic Development
 Women's Earnings: A Ten Year Review" type="Article">
 <head>Economic Development
 Women's Earnings: A Ten Year Review</head>
 <docAuthor></docAuthor>
-<docDate>Vol. 2, No. 6, pp. 23,25</docDate>
-<argument>Taken from the publication, Women in the Labor Force: Some New Data Series written by Janet L. Norwood and Elizabeth Waidman.
-</argument>
+<docDate>Vol. 2, No. 6, pp. 23, 25</docDate>
+<argument><p>Taken from the publication, Women in the Labor Force: Some New Data Series written by Janet L. Norwood and Elizabeth Waidman.
+</p></argument>
 
 <p>The old saying that "the more things change, the more they stay the same" seems to apply to women's earnings in relation to men's no matter which earnings are examined. In 1939, median earnings for women who worked year round, full time in the experienced labor force were $788, or 58 percent of the median for men. Similar figures for 1977, the latest period for which earnings over an entire year are available, show median earnings of about $8,800 for women, or 59 percent of the median for men.</p>
 
@@ -565,7 +626,7 @@ self-confidence needed to seek aggressively the opportunities taken by men.</p>
 <p>Obviously no one can predict the future with certainty. No one knows the extent to which working women will move out of the traditional occupations; or the degree to which women will gain earnings parity with men; or if their recent labor force gains will moderate. Whatever the scenario, however, women are likely to remain a permanent and important part of the work force.</p>
 </div2>
 
-<div2 id="v2-6suitts.009" n="Republican-Southern Democrat Coalition in Congress" type="Article">
+<div2 id="sc02-6suitts.009" n="Republican-Southern Democrat Coalition in Congress" type="Article">
 <head>Republican-Southern Democrat Coalition in Congress</head>
 <docAuthor>By Steve Suitts</docAuthor>
 <docDate>Vol. 2, No. 6, pp. 23-25</docDate>
@@ -619,6 +680,8 @@ time as did Republicans Archer and Loeffler of Texas and Duncan of Tennessee.</p
 <p>The conservative coalition's victories last year came more often in the House. In 73 percent of the votes where Southern Democrats and Republicans joined forces in the House, the coalition won. In the Senate, 65 percent of the time the coalition prevailed.</p>
 </div2>
 </div1>
-
+      </body>
+   </text>
+</TEI.2>
 
 

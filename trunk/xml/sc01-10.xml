@@ -1,17 +1,79 @@
-<div1 id="v1-10.001" n="Southern Changes 1:10" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 1, Number 10</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 1, Number 10, July 1979</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc01-10.001" n="Southern Changes 1:10" type="Issue">
 <head>Southern Changes. Volume 1, Number 10, 1979</head>
 <p>
 <title>Southern Changes.</title>. Volume 1, Number 10, 1979</p>
 
-<div2 id="v1-10mcdonaldsmith.002" n="Minorities in Southern Television: Visibility But Little Control" type="Article">
+<div2 id="sc01-10mcdonaldsmith.002" n="Minorities in Southern Television: Visibility But Little Control" type="Article">
 <head>Minorities in Southern Television: Visibility But Little
 Control</head>
 <docAuthor>by Faye McDonald Smith</docAuthor>
 <docDate>Vol. 1, No. 10, 1979, pp. 3,26-29</docDate>
-<argument>
+<argument><p>
 Television producer Faye McDonald Smith works at WETV, Channel Thirty,
 in Atlanta.
-</argument>
+</p></argument>
 
 <p>The days are over - pretty much - when Black people would do a
 double take when they turned on the television set and saw one of
@@ -161,16 +223,16 @@ Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North
 Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia.</p> 
 </div2>
 
-<div2 id="v4-2fowler.003" n="The Progressive Farmer: A Long Row's Hoeing into Lespedeza" type="Article">
+<div2 id="sc01-10fowler.003" n="The Progressive Farmer: A Long Row's Hoeing into Lespedeza" type="Article">
 <head>The Progressive Farmer: A Long Row's Hoeing into
 Lespedeza</head>
 <docAuthor>By Cary Fowler</docAuthor>
 <docDate> Vol. 1, No. 10, 1979, pp. 4,29-32</docDate>
-<argument>
+<argument><p>
 Cary Fowler works at the Frank Porter Graham Agricultural Training
 Center in Anson County, North Carolina. He is author of the <hi rend="bold">Graham
 Center Seed Directory</hi>.
-</argument>
+</p></argument>
 
 <p>Southern politics in the 1880s was alive with the fever of a
 native-born Populism. Led by the Southern Alliance (renamed the
@@ -282,17 +344,17 @@ offered to the readers of her newspaper. "Farmers," she said, "should
 raise less corn and more hell."</p>
 </div2>
 
-<div2 id="v1-10tullos.005" n="Azalea Death Trip: A Journey Through the
+<div2 id="sc01-10tullos.005" n="Azalea Death Trip: A Journey Through the
 Land of Southern Living" type="Article">
 <head>Azalea Death Trip: A Journey Through the
 Land of <hi rend="bold">Southern Living</hi></head>
 <docAuthor>By Allen Tullos</docAuthor>
 <docDate>Vol. 1, No. 10, 1979, pp. 7-10,32</docDate>
-<argument>
+<argument><p>
 Allen Tullos is the editor of this special issue of Southern
 Changes. A native Alabamian, he currently lives in Chapel Hill, North
 Carolina.
-</argument>
+</p></argument>
 
 <p>In the beginning," it is written in <hi rend="bold">Southern Living</hi> magazine, "man created Florida "Later on, men got around to creating Puerto Vallarta, where "luxury hotels are beginning to change the red-tile and adobe skyline of this picturesque little fishing village on the west coast of Mexico." And, somewhere along the way, arose the Land of Oz, a theme park constructed by Grover and Harry Robbins' Carolina Caribbean Corporation atop North Carolina's Beech Mountain: "there was this wild top-of-the-world mountain that could overwhelm you, and the Robbins didn't want to see it forever wasted."</p>
 
@@ -322,7 +384,7 @@ the admen, human-centered needs are promised satisfaction through
 saleable goods and a lifestyle of comfortable non-controversy. It is
 no coincidence that ol' Alabama boy Emory Cunningham rose to the
 position of publisher through the ranks of advertising, first as ad<pb n="9"/>
-salesman for the <hi bold="italic">Progressive Farmer</hi>, then its ad manager, then to <hi rend="bold">Southern Living</hi> as advertising director. "Advertising," he has written, "is the fuel which powers our journey."</p>
+salesman for the <hi rend="italic">Progressive Farmer</hi>, then its ad manager, then to <hi rend="bold">Southern Living</hi> as advertising director. "Advertising," he has written, "is the fuel which powers our journey."</p>
 
 <p>That the fuel itself can become the chief purpose of the journey has not worried <hi rend="bold">SL</hi>'s engineers. That such a journey requires the exchange of distinctive landscapes, communities and regional cultures for the coins of entropy is evident even in the titles of <hi rend="bold">Southern Living</hi> articles: "Where Tradition Meets Its Match," "Blazing a Trail into Remotest Florida," "Shopping for Memories," "Tradition Is For Sale in the Ozarks." So well-fueled is <hi rend="bold">SL</hi> that it is often difficult to find the articles amidst the ads or, having found them, to distinguish between the two. "Why not," asks the bustling ghost of Henry Grady, "turn the entire South and Southwest into one vast theme park with turnstiles in Houston, Nashville and Richmond?"</p>
 
@@ -433,7 +495,7 @@ let's see, when I cameback out of the Service from the Korean War. I
 went back to Rice and I was still a freshman teacher. I was writing....</hi></p></q></p>
 </div2>
 
-<div2 id="v1-10gladney.004" n="Lillian Smith: The Winner Names the Age"
+<div2 id="sc01-10gladney.004" n="Lillian Smith: The Winner Names the Age"
 type="Article">
 <head>Lillian Smith: The Winner Names the Age</head>
 <docAuthor>By Rose Gladney</docAuthor>
@@ -492,12 +554,12 @@ consciousness: a perspective which continues to challenge the values
 of American culture as a whole.</p>
 </div2>
 
-<div2 id="v1-10derfner.006" n="A Bluffer's Guide to Recent Southern Fiction"
+<div2 id="sc01-10derfner.006" n="A Bluffer's Guide to Recent Southern Fiction"
 type="Article">
 <head>A Bluffer's Guide to Recent Southern Fiction</head>
 <docAuthor>By Mary Frances Derfner</docAuthor>
 <docDate>Vol. 1, No. 10, 1979 pp. 14-18</docDate>
-<argument>Mary Frances Derfner is currently  vice president of the Southern Regional Council and chairperson of next year's Lillian Smith Award committee.</argument>
+<argument><p>Mary Frances Derfner is currently  vice president of the Southern Regional Council and chairperson of next year's Lillian Smith Award committee.</p></argument>
 
 <p>In late 1975 and early 1976, several seemingly innocuous pieces of
 paper got me into grim trouble, which has continued unabated ever
@@ -684,12 +746,12 @@ that the basic themes of the South are almost unrecognizable in his
 stories. Yet they will be there." And they are.</p>
 </div2>
 
-<div2 id="v1-10noble.007" n="Southern Newspapers: Watching the Watchdogs"
+<div2 id="sc01-10noble.007" n="Southern Newspapers: Watching the Watchdogs"
 type="Article">
 <head>Southern Newspapers: Watching the Watchdogs</head>
 <docAuthor>By Larry Noble</docAuthor>
 <docDate>Vol. 1, No. 10, 1979 pp. 19-23</docDate>
-<argument>Larry Noble teaches political science at Atlanta University.</argument>
+<argument><p>Larry Noble teaches political science at Atlanta University.</p></argument>
 
 <p>Daily newspapers play a key role in the lives of the people of the South. The papers provide us with commercial and economic information, with information on political and non-political events, with entertainment information and entertainment itself. They also present us with advice on what positions we should take on public affairs and furnish a controlled forum of letters to the editor.</p>
 
@@ -798,9 +860,9 @@ Nashville (290), Tampa (267), Columbia (232), Richmond (221), Dallas
 <p>These newspapers are locally rooted economic institutions with strong interests in protecting their powerful positions. During the 1960s, they directed critical attention away from the actions of state and local governments, and focused instead on the national government. A pattern of newspaper behavior emerged revealing little coverage or criticism of local and state policymakers. In addition, these newspapers were covering only one segment of the community the white segment. These and other practices raise serious questions about the performance of these Southern daily newspapers during the 1960s.</p>
 
 <table rows="12" cols="8">
-<head><p>Attitudes shown by editorials and cartoons in selected Southern daily newspapers during the 1960's</p>
-<p>Liberal to Conservative, high to low, attitudes in editorials and
-cartoons, by percentage of agreement.</p></head>
+<head>Attitudes shown by editorials and cartoons in selected Southern daily newspapers during the 1960's<lb/>
+Liberal to Conservative, high to low, attitudes in editorials and
+cartoons, by percentage of agreement.</head>
 <row role="label">
 <cell>Paper</cell>
 <cell> Race</cell>
@@ -929,12 +991,12 @@ expression; 89 percent in favor of the Vietnam War; and 77 percent
 opposed to pro poverty and welfare policies.)</p>
 </div2>
 
-<div2 id="v1-10gutierrez.008" n="Book Review: THE CAJUNS Essays on Their History and Culture"
+<div2 id="sc01-10gutierrez.008" n="Book Review: THE CAJUNS Essays on Their History and Culture"
 type="Article">
 <head>Book Review: THE CAJUNS Essays on Their History and Culture</head>
 <docAuthor>By C. Paige Gutierrez</docAuthor>
 <docDate>Vol. 1, No. 10, 1979 pp. 24-25</docDate>
-<argument>Paige Gutierrez, a graduate student in cultural anthropology at the University of North Carolina, is presently doing field research in Breaux Bridge. Louisiana.</argument>
+<argument><p>Paige Gutierrez, a graduate student in cultural anthropology at the University of North Carolina, is presently doing field research in Breaux Bridge. Louisiana.</p></argument>
 
 <p>Glenn K. Conrad, ed. <hi rend="bold">The Cajuns: Essays on Their History and Culture</hi>. Published by the Center for Louisiana Studies University of South-western Louoisiana, Lafayette, 1978. Illustrated.</p>
 
@@ -991,3 +1053,6 @@ nation as a whole. Regionally produced books like  <hi rend="bold">The
 Cajuns</hi> accelerate this understanding.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>

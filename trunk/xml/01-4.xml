@@ -1,19 +1,82 @@
-<div1 id="v1-4.001" n="Southern Changes 1:4" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 1,
+	   Number 4</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 1, Number 4.  January, 1979</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc01-4.001" n="Southern Changes 1:4" type="Issue">
 <head>Southern Changes. Volume 1, Number 4, 1979 </head>
 <p>
 <title>Southern Changes</title> Volume 1, Number 4, 1978</p>
-<div2 id="v1-4.005" n="South Carolina Vendetta" type="Article">
+<div2 id="sc01-4.005" n="South Carolina Vendetta" type="Article">
 <head>South Carolina Vendetta</head>
 <docAuthor>By Marion Wright</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 4-7</docDate>
-<argument><hi rend="bold">Human Rights Odyssey</hi> was  published by Moore Publishing Company in 1978, Price $9.95.</argument>
+<argument><p><hi rend="bold">Human Rights Odyssey</hi> was  published by Moore Publishing Company in 1978, Price $9.95.</p></argument>
 
 
 <p>Editor's Note: "In recent years scholars have increasingly been turning their attention to Southern history. Tome after tome offers learned discourse on the profitability of slavery, the nature of the Black family, the causes and consequences of the Civil War, the reality of the New South, or the history of race relations in Dixie. Of growing interest is the story of the Southern White liberal. Who were the remarkable men and women who braved insults, suffered ostracism, risked losing their jobs and, in some cases, faced mobs to promote equal justice for all? Who sought to foster the climate of tolerance that would hasten the day when Dixie truly rejoined the Union? One such man is Marion Allen Wright, author of the speeches compiled in this book."</p>
 
 <p>This is the opening paragraph in the book <hi rend="italic">Human Rights Odyssey</hi> by Wright and Arnold Shankman. Wright was the president of the Southern Regional Council during some of the most turbulent years of the 1950s. His speeches often received very cool receptions. The speech excerpted here is about Federal Judge J. Waties Waring, a White Southern liberal like Wright, but who, unlike Wright, was ostracized because of his rulings on controversial issues. In many instances, these issues are still sources of controversy today.</p>
 
-<hi rend="bold">Introduction</hi>
+<p rend="bold">Introduction</p>
 
 <p>Probably no Southerner was more vilified because of his liberal
 racial stand than was J. Waties Waring of Charleston, South Carolina,
@@ -157,7 +220,7 @@ came as agreat surprise to find out ho many individual thinkers there were who w
 
 <p>Charleston may do it again.</p>
 
-<hi rend="bold">Aftermath of the Decision</hi>
+<p rend="bold">Aftermath of the Decision</p>
 
 <p>No one development more signified and quickened the pace of the New Reconstruction than did the Supreme Court's unanimous decision of May 17, 1954, against segregation in the public schools. The separate-but-equal doctrine, which dated from the decision in 1896 in Plessv v. Ferguson, had been under steady attack for two decades before 1954; a number of the Supreme Court's decisions from 1938 on, largely in the realm of state-supported higher education, had sharply limited and nibbled away at the PIessy formula. But the Court in 1954 met the issue head-on and, speaking with an impressive unanimity and moral authority, buried the legal fiction of separate-but-equal once and for all.</p>
 
@@ -176,12 +239,12 @@ people for thirty years and I wouldn't have believed if I hadn't seen it that th
 
 <p>It was precisely because such incidents did occur, Wright argued, that integration of schools was necessary, for this would foster democracy and would prove more beneficial to Whites than to Blacks. In February 1971, he noted:
 
-<q><p><hi rend="italic">It is as damaging to the personal it v to be shut in as to be shut out. Whites create ghettos /hr themselves. It is more important that the White Southerner know the black than that he know the European. Whites and blacks here are neighbors and neighbors must know each other if thei are to get along and build a better society. Such knowledge begins in the schools.</hi></p></q></p>
+<q><p rend="italic">It is as damaging to the personal it v to be shut in as to be shut out. Whites create ghettos /hr themselves. It is more important that the White Southerner know the black than that he know the European. Whites and blacks here are neighbors and neighbors must know each other if thei are to get along and build a better society. Such knowledge begins in the schools.</p></q></p>
 
 <p>Delay, gradualism would not work,for all the world, even the
 peoples of Latin America, Africa and Asis, were "aware of the shabby and fradulent tricks used to deny rights to people of color in the South, aware of burnings, boycotts, and bombings."</p>
 
-<q><p><hi rend="italic"/>You know a man can secure a reputation for wisdom merely by saving. Lets not move too rapidly. He can secure a reputation for goodness mereIi, hi saving This thing is wrong and some dai we must get rid of it.' Such men are the meanly wise, the feebly good. Bigotrt takes man i forms. In none is it more detestable than in the assertion that mere procrastination will accomplish the results which all good men seek.</p></q>
+<p><q><p rend="italic">You know a man can secure a reputation for wisdom merely by saving. Lets not move too rapidly. He can secure a reputation for goodness mereIi, hi saving This thing is wrong and some dai we must get rid of it.' Such men are the meanly wise, the feebly good. Bigotrt takes man i forms. In none is it more detestable than in the assertion that mere procrastination will accomplish the results which all good men seek.</p></q></p>
 
 <p>These words, spoken by Wright before the Men's Club of Trinity
 Episcopal Church in Buffalo, New York, on May 6, 1952, set forth a
@@ -190,11 +253,11 @@ plea for gradualism in re-adjusting Southern race
 relations. Gradualism was another term for non-action.</p>
 </div2>
 
-<div2 id="v1-4sparks.006" n="Fighting Discrimination in Macon: A Return to the Streets" type="Article">
+<div2 id="sc01-4sparks.006" n="Fighting Discrimination in Macon: A Return to the Streets" type="Article">
 <head>Fighting Discrimination in Macon: A Return to the Streets</head>
 <docAuthor>By Yvette Sparks</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 4-7</docDate>
-<argument>Yvette Spark is a  Macon, Georgia free-lance writer.</argument>
+<argument><p>Yvette Spark is a  Macon, Georgia free-lance writer.</p></argument>
 
 <p>During the height of the civil rights movement when the call for integration resounded throughout the country, Macon, Georgia heard the reverberating echo. The calls for equal access to lunch counters and front seats on buses were sounded there, too.</p>
 
@@ -264,7 +327,7 @@ employment opportunities for all citizens," said SCLC president Henry
 Ficklin.</p>
 </div2>
 
-<div2 id="v1-4powell.004" n="Texas Prisoners Rights On Trial"
+<div2 id="sc01-4powell.004" n="Texas Prisoners Rights On Trial"
 type="Article">
 <head>Texas Prisoners Rights on Trial</head>
 <docAuthor>By Bob Powell</docAuthor>
@@ -380,12 +443,12 @@ it is not a question of whether there are really abuses going on in
 prisons. The questions, after 10 years of prison litigation from<hi rend="italic">Landman</hi> to <hi rend="italic">Ruiz</hi>, are whether the rulings will be enforced.</p>
 </div2>
 
-<div2 id="v1-4burt.007" n="Bending With the Wind: A Lesson in Survival" type="Article">
+<div2 id="sc01-4burt.007" n="Bending With the Wind: A Lesson in Survival" type="Article">
 <head>Bending With the Wind: A Lesson in Survival</head>
 <docAuthor>By Al Burt</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 14-16</docDate>
-<argument>Al Burt is a roving columnist for the <hi
-rend="italic">Miami Herald.</hi></argument>
+<argument><p>Al Burt is a roving columnist for the <hi
+rend="italic">Miami Herald.</hi></p></argument>
 
 <p>In his 72 years. Virgil D. Hawkins has learned something about the ways to fight and to survive and sometimes to succeed. But he wonders whether he ever can explain these hard lessons to the young. Some want to listen, and some do not.</p>
 
@@ -470,7 +533,7 @@ almost in the same breath that he praises Uncle Tom and the
 way.</p>
 </div2>
 
-<div2 id="v1-4delaney.002" n="Legal Workers Battle for poor in
+<div2 id="sc01-4delaney.002" n="Legal Workers Battle for poor in
       Mississippi" type="Article">
 <head>Legal Workers Battle for poor in Mississippi</head>
 <docAuthor>By Joseph Delaney</docAuthor>
@@ -547,7 +610,7 @@ victims of this legacy of harassment. They are descendants of lawyers like Micha
 <p>The ordeal of NMRLS is not a blues story, however. Neither is the concern of the supporters who see this struggle as part of a national effort to protect First Amendment rights of lawyers and insure quality services for the poor and oppressed. It's a battle for justice that committed warriors are willing to wage, Myers says. The struggle is just beginning.</p>
 </div2>
 
-<div2 id="v1-4staff.008" n="HEALTH CARE" type="Article">
+<div2 id="sc01-4staff.008" n="HEALTH CARE" type="Article">
 <head>HEALTH CARE</head>
 <docAuthor>By SRC Staff</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 20-21</docDate>
@@ -610,7 +673,7 @@ program for migrants and rural citizens who need health care in
 distant locations.</p>
 </div2>
 
-<div2 id="v1-4staff.009" n="EDUCATION" type="Article">
+<div2 id="sc01-4staff.009" n="EDUCATION" type="Article">
 <head>EDUCATION</head>
 <docAuthor>By SRC Staff</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 22</docDate>
@@ -642,7 +705,7 @@ assistant. Write to : Georgia Close Up, 165 Walker St., S.W., Atlanta,
 Georgia 30313. (404) 586-0947 or 586-0007.</p>
 </div2>
 
-<div2 id="v1-4staff.010" n="SOUTHERN POLITICS" type="Article">
+<div2 id="sc01-4staff.010" n="SOUTHERN POLITICS" type="Article">
 <head>SOUTHERN POLITICS</head>
 <docAuthor>By Gordon Kenna</docAuthor>
 <docDate>Vol. 1, No. 4, 1979, pp. 23</docDate>
@@ -676,3 +739,6 @@ recent challenges to the committee chair system. On the Senate side, even in the
 <p>On balance it seems there may not be a great deal to cheer about, but there can be little remorse in the retirement of some senior Southerners who have spent their careers fighting against the interests of consumers, minorities and the poor.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>

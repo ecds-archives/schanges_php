@@ -1,9 +1,72 @@
-<div1 id="v1-6.001" n="Southern Changes 1:6" type="Volume">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 1,
+	   Number 6</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 1, Number 6.  March, 1979</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc01-6.001" n="Southern Changes 1:6" type="Issue">
 <head>Southern Changes. Volume 1, Number 6, 1979</head>
 <p>
 <title>Southern Changes</title>. Volume 1, Number 6, 1979</p>
 
-<div2 id="v1-6staff.003" n="Tribute to Gwendolyn Cherry" type="Article">
+<div2 id="sc01-6staff.003" n="Tribute to Gwendolyn Cherry" type="Article">
 <head>Tribute to Gwendolyn Cherry</head>
 <docAuthor>By Staff</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.2-3</docDate>
@@ -67,15 +130,15 @@ vision.
 </p>
 </div2>
 
-<div2 id="v1-6sun.004" n="A RETURN TO THE SUN" type="Article">
+<div2 id="sc01-6sun.004" n="A RETURN TO THE SUN" type="Article">
 <head>A RETURN TO THE SUN</head>
 <docAuthor>BY SUN and REP</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.4,12</docDate>
-<argument>SUN/REP is a new, non-profit, public interest organization
+<argument><p>SUN/REP is a new, non-profit, public interest organization
 committed to the advocacy and commercialization of appropriate
 technology in the Southeast United States. Direct your inquiries to:
 SUN/REP, Suite 412, 3110 Maple Dr., Atlanta, Georgia 30305. Phone:
-(404) 261-1764.</argument>
+(404) 261-1764.</p></argument>
 
 <p>Five thousand years ago men worshipped the sun. After a 50 century hiatus, man is turning his attention and hope - toward that same sun. Today, we are caught in the middle of the most sophisticated technological web ever spun on this earth. The spider is energy - fossil fuels like coal, oil and natural gas, and nuclear power. There is one possible avenue of escape - the sun, and its energy in the form of wind power, water power, biomass, geothermal energy and others.</p>
 
@@ -123,7 +186,7 @@ outside manipulation, and with the dignity that only comes with
 economic well-being and the pride of self-sufficiency.</p>
 </div2>
 
-<div2 id="v1-6sun.004" n="Black Farmers: A Vanishing Breed" type="Article">
+<div2 id="sc01-6sun.005" n="Black Farmers: A Vanishing Breed" type="Article">
 <head>Black Farmers: A Vanishing Breed</head>
 <docAuthor>by Robert M. Press</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.5-7</docDate>
@@ -266,12 +329,12 @@ their needs.</p>
 <p>ELF has been operating a tax watch to alert heirs of pending sales. In Mississippi, says Adams, fewer Blacks are losing their farmland today as a result of tax-sales.</p>
 </div2>
 
-<div2 id="v1-6grahamctr.007" n="Solar Greenhouses: A Method of Survival for Small Farmers" type="Interview">
+<div2 id="sc01-6grahamctr.007" n="Solar Greenhouses: A Method of Survival for Small Farmers" type="Interview">
 <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
 <docAuthor>By the Staff of the Graham Center</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.10-12</docDate>
-<argument>This article was prepared by the staff of the Graham Center.
-</argument>
+<argument><p>This article was prepared by the staff of the Graham Center.
+</p></argument>
 
 <p>Today, the American small farmer is an endangered species. As control of land and the farm economy has concentrated in fewer and fewer hands, one of the biggest migrations in human history has occurred during the past 40 years as millions of people have moved into urban areas. In 1977, American farms vanished at the rate of 500 a week. In the South, the nation's fastest growing area, change in rural patterns are especially dramatic. Estimates project that Black-owned land in the rural South is disappearing at the rate of 6000 acres per week. At the present rate of attrition, the Black Southern farmer may well be extinct by 1990.</p>
 
@@ -327,7 +390,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
 <p>The combination of financial incentives, newly-learned skills, and cooperative working arrangements applied to this model of accessible, low-cost technology have made solar greenhouses one modest, but realistic way that people in this community can help themselves survive as small farmers in the rural South.</p>
 </div2>
 
-<div2 id="v1-6hunter.006" n="Wilcox County-- A Day in Wilcox County:1967" type="Article">
+<div2 id="sc01-6hunter.006" n="Wilcox County-- A Day in Wilcox County:1967" type="Article">
 <head>Wilcox County-- A Day in Wilcox County:1967</head>
 <docAuthor>by Floyd Hunter</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.13-14</docDate>
@@ -346,7 +409,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
 <p>In order to gain some empirical, firsthand impressions of Wilcox County, I began a series of chain-referral interviews with five separate roadside storekeepers and restaurant operators upon entry into the County (as will be described later, I also interviewed four families in the land ownership establishment and three Negro families). These lower middle class, socially marginal men and women, well described by Faulkner, are good informants about power personnel superior to them and about the social and economic conditions generally. Their place and fortune are dependent upon the stability and/or shifts of the whole social system. They are upwardly mobile and have their eye out for the main chance, and they so instruct their children. The opinions of the storekeepers were in some instances reinforced by sideline opinions of the hot-stove league loafing about.</p>
 
 <p>There was general agreement that plantation farming is still the
-base of the establishment. A half-dozen family names were immediately given to me as being those of the landed establishment. Of these, in the time at my disposal, I was able to interview four. There were obviously a couple of dozen more families who could have served equally well as respondents</p>.
+base of the establishment. A half-dozen family names were immediately given to me as being those of the landed establishment. Of these, in the time at my disposal, I was able to interview four. There were obviously a couple of dozen more families who could have served equally well as respondents.</p>
 
 <p>My general, immediate impression from these interviews is that the squirearchy is firmly in command, but recognizes that it is being challenged by the Negro people. It considers the lower middle class an ally in keeping things as they are and wrongly does not consider these people a threat to plantation power. The older members of the ownership establishment are being replaced by those younger members who have been well indoctrinated for their positions; their indoctrination includes liberal doses of race superiority propaganda laced with the notions that rights of property, recognition, and privilege should be reserved for a few.</p>
 
@@ -404,13 +467,13 @@ on Professional Rights and Responsibilities, June 1967.</p>
 
 <p><hi rend="bold">Publisher's Note:</hi><hi rend="italic"> I was in no mood to he convinced when Bill Dow began to explain his idea last year. As he sat with his legs draped around one of my office chairs, I wondered what kind of bedside manner I was about to experience from this physician who prefers T-shirts and tennis shoes as work garments.</hi></p>
 
-<hi rend="italic"><p>There was a twinkle in his eyes, shielded only in
+<p rend="italic">There was a twinkle in his eyes, shielded only in
 part by the horned-rimmed glasses which kept poking back towards his forehead. Apparently, as a part of his ceremony, he scratched his head and asked, as if both of us might figure out the answer, "What could cut your heating bill 25-45 percent, produce some vegetables and fruit year-round, and only cost about $400?"</p>
 
-<p>"I thought we were going to talk about issues of health care or
+<p rend="italic">"I thought we were going to talk about issues of health care or
 jobs..."  Bill didn't wait for the completion of the sentence. Just as well. He asked another question more direct: "Why not attach a greenhouse to your home, grow some vegetables in it, and use the warm air to heat your house in the winter?"</p>
 
-<p>A greenhouse onto my house. Fine, Bill, but what does this have to do with heating bills and food? "It's all the same thing," he said, with an arch in his voice and a shift in his chair. I knew then that he was going to enjoy this conversation:</p></hi>
+<p rend="italic">A greenhouse onto my house. Fine, Bill, but what does this have to do with heating bills and food? "It's all the same thing," he said, with an arch in his voice and a shift in his chair. I knew then that he was going to enjoy this conversation:</p>
 
 <p><hi rend="bold">Suitts:</hi> Okay, let's see if you're serious. Give me the basics.</p>
 
@@ -518,13 +581,13 @@ Solar Greenhouse Book, James C. McCullogh; "Organic Gardening &#x0026;
 Farming" magazine. December 1977.</p>
 </div2>
 
-<div2 id="v1-6swift.002" n="A New Day in Wilcox County: 1978" type="Article">
+<div2 id="sc01-6swift.002" n="A New Day in Wilcox County: 1978" type="Article">
 <head>A New Day in Wilcox County: 1978</head>
 <docAuthor>By Harriet Swift</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp. 15,16,28</docDate>
-<argument>
+<argument><p>
 Harriet Swift is a copy editor at the Birmingham Post-Herald.
-</argument>
+</p></argument>
 
 <p>"Bad Wilcox," the civil rights workers used to call it.</p>
 
@@ -624,12 +687,12 @@ counties. Men and women who had fought the same long, harrowing battles and knew
 it," says Johnson confidently. "We're doing real well."</p>
 </div2>
 
-<div2 id="v1-6adamson.007" n="Problems  of Pain" type="Article">
+<div2 id="sc01-6adamson.007" n="Problems  of Pain" type="Article">
 <head>Problems  of Pain</head>
 <docAuthor>by June Adamson</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.17-18</docDate>
-<argument>
-June Adamson, a former working journalist, now teaches journalism at the University of Tennessee.</argument>
+<argument><p>
+June Adamson, a former working journalist, now teaches journalism at the University of Tennessee.</p></argument>
 <p>The X-rays had been taken and I lay on the emergency room cot in the curtained cubicle waiting for the doctor to see whether I had any reason to be in such pain. My car had gone into a skid on the icy interstate and I felt lucky to be alive. But the breath had been knocked out of me, and now there was this intolerable pain in my side and under by shoulder blade. It was a Sunday, and I felt grateful that an orthopedic specialist who was an acquaintance was willing to come to the hospital to help me.</p>
 
 <p>On the other side of the yellow curtain that separated the cots
@@ -683,12 +746,12 @@ was one of the doctors on emergency service. In an accent that told me his backg
 <p>I'd had a peek into the drama of an emergency room. My next few weeks were nothing to look forward to, but I knew my ribs would heal. But I'll never forget that young Black man and the kind of pain that would last for however much time he would live. And I had learned the pain of a new guilt. Even I, who had considered myself above it, had fallen into the trap of stereotyping.</p>
 </div2>
 
-<div2 id="v1-6looney.008" n="Segregation Order at Readsville Prison" type="Article">
+<div2 id="sc01-6looney.008" n="Segregation Order at Readsville Prison" type="Article">
 <head>Segregation Order at Readsville Prison</head>
 <docAuthor>by Ginny Looney</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.19-21</docDate>
-<argument>Ginny Looney is a researcher studying the effects of rape on women
-and the ways they resolse problems caused by the assault.</argument>
+<argument><p>Ginny Looney is a researcher studying the effects of rape on women
+and the ways they resolse problems caused by the assault.</p></argument>
 
 <p>In southeast Georgia last summer, the day before Independence Day, a decade of legal precedent was overturned at Georgia State Prison in Reidsville when U.S. District Judge Anthony Aliamo ordered the segregation of dormitories for a 60-day period. The segregation order, issued to cool tempers and ease the tension, came after one prisoner was killed and five others were wounded during a racial fight, one of a series of revengeful attacks since November 1976 that killed five inmates and injured 47. The court told prison officials to assign Black and White inmates to alternating dormitories in checkerboard fashion; the cell blocks, dining hall, recreation and work areas remained integrated.</p>
 
@@ -742,7 +805,7 @@ down violence, says Winter of the LDF. "If anything," says Passmore,
 "it created greater power struggles." Knowles of the National Prison
 Project says, "Once you segregate, you're only asking for suspicion,
 paranoia, hostility and accusations that one group is given privileges
-<p rend="21"/>
+<pb n="21"/>
 that the other isn't." Warden Balkcom insists, however, that the segregation had a quietening effect.</p>
 
 <p>Regardless of Balkcom's observation, the state's assignment to provide protection for every inmate may well prove as difficult to fulfill after the interlude of segregation as it was last summer. The obvious improvements have been made: the population has been reduced from 2,800 inmates to 2,100, and 125 additional guards have been hired. The state is under court order to maintain a 55 percent Black and 45 percent White population in the dormitories until single cells are constructed. But the problems of providing adequate facilities, meaningful activities and humane treatment at Georgia State Prison remain. The more immediate concern of dealing with people who may not want to sleep next to members of another race lingers. It is not clear that the state can fulfill its obligation.</p>
@@ -773,14 +836,14 @@ sue the state. In August, Hopper, the warden who recognized the inmate council, 
 <p>The one possibly hopeful result is that the state will finally abandon its unhealthy reliance on separation of the races as a means for overcoming racial antagonism. Surely the events of the past eight months have discredited such simplistic reasoning as integration causes racial violence, or segregation prevents it. If not, our public officials will be conceding that they lack control over the prisons and fostering inevitable triumph of racism.</p>
 </div2>
 
-<div2 id="v1-6hall.009" n="Games Prison Bureaucrats Play: The Story of the Olympic Prison" type="Article">
+<div2 id="sc01-6hall.009" n="Games Prison Bureaucrats Play: The Story of the Olympic Prison" type="Article">
 <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
 <docAuthor>by Andy Hall</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp.22-25</docDate>
-<argument>Andy Hall was a coordinator in Unitarian Unisersalist Service
+<argument><p>Andy Hall was a coordinator in Unitarian Unisersalist Service
 Committee's National Moratorium on Prison Construction, for the
 Washington, D.C., office for two-and-a-half years before moving to
-Atlanta recently to work for NMP in the Southern states.</argument>
+Atlanta recently to work for NMP in the Southern states.</p></argument>
 
 <p>In 11 short months the small village of Lake Placid, nestled high in the Adirondack mountain range of upstate New York, will provide the setting for the 13th Winter Olympiad. President Carter will preside at the opening ceremonies to symbolize the Olympic tradition, and, no doubt, to enunciate the desire of the American people for world peace and freedom for all people.</p>
 
@@ -906,7 +969,7 @@ conversion plan represents only one in a long line of new federal prisons, it no
 <p>The Olympic Prison has brought the spotlight to a critical national question: Should scarce public resources continue to be invested to build further to America's jail and prison capacity, or should the public and policymakers use the information and alternatives at hand to build paths away from the prisons? In just a few months, the world can learn whether "the land of the free" will open another lonely outpost in the American Gulag. Or will Jimmy Carter's words at the opening ceremonies about the Olympic tradition ring true? The STOP folks hope you won't sit and wait to find out.</p>
 </div2>
 
-<div2 id="v1-6johnston.010" n="URBAN AND RURAL DEVELOPMENT" type="Article">
+<div2 id="sc01-6johnston.010" n="URBAN AND RURAL DEVELOPMENT" type="Article">
 <head>URBAN AND RURAL DEVELOPMENT</head>
 <docAuthor>by Diane Johnston</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp. 26</docDate>
@@ -938,7 +1001,7 @@ effectively. Meanwhile, the future of the small farmer, and perhaps
 the American Agricultural Movement, remains uncertain.</p>
 </div2>
 
-<div2 id="v1-6staff.011" n="SOUTHERN WOMEN" type="Article">
+<div2 id="sc01-6staff.011" n="SOUTHERN WOMEN" type="Article">
 <head>SOUTHERN WOMEN</head>
 <docAuthor>by Staff</docAuthor>
 <docDate>Vol. 1, No. 6, 1979, pp. 27-28</docDate>
@@ -992,3 +1055,6 @@ institution loses one full-time student, it needs to attract nearly
 three part-time students to recoup revenue losses.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>
