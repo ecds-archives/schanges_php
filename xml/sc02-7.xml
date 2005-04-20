@@ -1,4 +1,66 @@
-<div1 id="v2-7.001" n="Southern Changes 2:7" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 2, Number 7</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 2, Number 7,  June 1980</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc02-7.001" n="Southern Changes 2:7" type="Issue">
 <head>Southern Changes. Volume 2, Number 7, 1980</head>
 <p>
 <title>Southern Changes</title>. Volume 2, Number 7, 1980</p>
@@ -23,7 +85,7 @@ way that reminded me of the sage of the backwoods country store who always seeme
 <p>I suppose it is a statement of the obvious that Bell Wiley made important contributions to the people and ideas of his own time. He was precise and prudent in his personal habits, generous in his love for the South, and stern in his demand that hatred and neglect be rooted out of Southern life. His books and the memory of his own life will keep those simple yet unreached ideals in the hearts and minds of many who were his students, readers, colleagues, and friends - all his admirers.</p>
 </div2>
 
-<div2 id="v2-7suitts.003" n="In this Issue"
+<div2 id="sc02-7suitts.003" n="In this Issue"
       type="Article">
 <head>In this Issue</head>
 <docAuthor>By Steve Suitts</docAuthor>
@@ -110,8 +172,8 @@ perspectives some confirmation that the South retains a reservoir of
 energy, faith and devotion offering a possibility that this region
 may yet find and hold on to a better sense of community then has ever
 been known or practiced on this soil.</p>
-
-<div2 id="v2-7powell.004" n="Survival Week Protests Budget Cuts"
+</div2>
+<div2 id="sc02-7powell.004" n="Survival Week Protests Budget Cuts"
       type="Article">
 <head>Survival Week Protests Budget Cuts</head>
 <docAuthor>Janis Sharp Powell</docAuthor>
@@ -242,7 +304,7 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
 <p>By whatever reasonable and realistic measure we may want to use, it is clear that this country has an enormous and not so invisible poor population&#x2014;one that probably exceeds 25 percent of the entire population. We cannot escape this fact, no matter how hard we try to pretend that such poverty is not there. Widespread poverty means continued misery for the poor themselves and a waste of general human potential for all of us. It stands as a continuing challenge to our democracy.</p>
 </div2>
 
-<div2 id="v2-7chaney.005" n="Political Changes in Terrible Terrell"
+<div2 id="sc02-7chaney.005" n="Political Changes in Terrible Terrell"
       type="Article">
 <head>Political Changes in Terrible Terrell</head>
 <docAuthor>By Betty Chaney</docAuthor>
@@ -352,7 +414,7 @@ Dawson that will draw back Blacks who left and attract new industry to
 give them jobs. How close they come to having their hopes realized is
 a page from Dawson's history yet to be written.</p>
 </div2>
-<div2 id="v02-7gordon.003" n="The Past Of Lowndes County's Future"
+<div2 id="sc02-7gordon.003" n="The Past Of Lowndes County's Future"
       type="Article">
 <head>The Past Of Lowndes County's Future</head>
 <docAuthor>By Tom Gordon</docAuthor>
@@ -482,12 +544,11 @@ which to work with Blacks, many of them carry a baggage of opinions and experien
 
 <p>In the view of many Lowndes' Blacks, White interest and commitment to the county would avert such a future. That White commitment, they say, also would have kept the courthouse from becoming a tattered shadow of its former self. White leaders, on the other hand, point to the planned petroleum refinery as a sign of better things to come. They also hope the future will bring another positive sign&#x2014;a federally-funded restoration of the courthouse.</p>
 
-<p>Neither of these developments will go a long way towards freeing most Lowndes citizens from their economic woes, but hopelessness is not a word that characterizes the mood of most residents nowadays. While Tom Coleman has his hopes, Mrs. Willia Gadson, a Black teacher in Hayneville High School probably spoke for most Blacks and Whites best. "As a whole Lowndes could be one of the best places in the world to live, ' she said recently. "It's too small to be divided."</p>
+<p>Neither of these developments will go a long way towards freeing most Lowndes citizens from their economic woes, but hopelessness is not a word that characterizes the mood of most residents nowadays. While Tom Coleman has his hopes, Mrs. Willia Gadson, a Black teacher in Hayneville High School probably spoke for most Blacks and Whites best. "As a whole Lowndes could be one of the best places in the world to live," she said recently. "It's too small to be divided."</p>
 
 <p>With a pause, she added, "In order to be free, you've got to free not just your person, but your mind."</p>
 </div2>
-<div2 id="v02-7greenhaw.004" n="Half Pints and Rain Barrels: Hunger in Alabama"
-      type="Article">
+<div2 id="sc02-7greenhaw.004" n="Half Pints and Rain Barrels: Hunger in Alabama"      type="Article">
 <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
 <docAuthor>By Wayne Greenhaw</docAuthor>
 <docDate> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
@@ -520,7 +581,7 @@ state senator Michael Figures took down her name and address. He said he would h
 <pb n="18"/>
 to her front porch by nightfall.</p>
 
-<p>0n the way north into Choctaw Indian country, Bill Edwards said
+<p>On the way north into Choctaw Indian country, Bill Edwards said
 that this is what his Coalition Against Hunger is all about. "We want
 to make the public aware that problems like this exist in our
 communities." And a man from the U.S. Department of Housing and Urban
@@ -645,7 +706,7 @@ murder. Hanlon testified during his polygraph examination that he saw Marrero sw
 charges of manslaughter and aggravated battery. Sgt. Ira Diggs and
 officer Michael Watts still face charges of manslaughter and
 aggravated battery. Officers Ubaldo Deltoro and Sgt. Herbert Evans
-Jr. are charged with accessory after the fact.</p>>
+Jr. are charged with accessory after the fact.</p>
 <pb n="22"/>
 <p>Some people in the Cuban community are raising money for the defense of officer Marrero, claiming because he is a minority he was given the heavier charge. The claim has gotten some support in the Black community. However, the Black community has called for murder charges against all of the officers involved in the beating. The McDuffie family has filed a multimillion dollar suit against the county.</p>
 
@@ -729,3 +790,6 @@ the 60s as the crowd moved toward the Justice Department building singing "We Sh
 <p>With sixteen people dead from the three days of disturbances in Miami, the U.S. Justice Department announced that it will seek civil rights indictments against the four policemen who were acquitted and a complete review of "past, present and future" reports of brutality by police and inaction by local judicial officers. The issues of "McDuffie" are now more than one case. They are the symbols of today's race relations.</p>
 </div2>
 </div1>
+</body>
+   </text>
+</TEI.2>

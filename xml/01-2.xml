@@ -1,14 +1,77 @@
-<div1 id="v1-2.001" n="Southern Changes 1:2" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 1,
+	   Number 2</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 1, Number 2.  October-November
+1978</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc01-2.001" n="Southern Changes 1:2" type="Issue">
 <head>Southern Changes. Volume 1, Number 2, 1978</head>
 <p>
 <title>Southern Changes</title>. Volume 1, Number 2, 1982</p>
 
-<div2 id="v1-2chaney.007" n="INTERCHANGE: IN THIS ISSUE"
+<div2 id="sc01-2chaney.007" n="INTERCHANGE: IN THIS ISSUE"
 type="Article">
 <head>INTERCHANGE: IN THIS ISSUE</head>
 <docAuthor>By Betty Norwood Chaney</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 2</docDate>
-<argument>Betty Norwood Chaney Editor</argument>
 
 <p>Southern Changes, for those of you who are reading our pages for
 the first time, marks the beginning of the Southern Regional Council's
@@ -39,12 +102,12 @@ to Voter Registration," the VEP head, herself a symbol of change - one of the fi
 <p>Finally, in the next few days and weeks, the South will have still another chance to redress the many years of denied opportunities to its women and Blacks. In a unique opportunity that probably comes only once in a century, more than 150 new federal judges will be appointed throughout the nation. Sixty of them will be added to the federal bench in the South, In "Soapbox," another of our regular departments, Steve Suitts examines the process by which these judges will be appointed. Under the patronage system that is in operation in the selection of the nominees, it is not very hopeful for minorities. Blacks and women will again be locked out unless Southerners of good will band together to make the changes happen. On this score, there is still . . . hope.</p>
 </div2>
 
-<div2 id="v1-2gates.004" n="Hilldrup's Dilemma Is Not All Black And White"
+<div2 id="sc01-2gates.004" n="Hilldrup's Dilemma Is Not All Black And White"
 type="Article">
 <head>Hilldrup's Dilemma Is Not All Black And White</head>
 <docAuthor>By Harvey Gates</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 3-4</docDate>
-<argument>Harvey Gates, a columnist for the <hi rend="italic">Atlanta Voice Newspaper</hi>, was the director of the Civil Agression Study Team at the Center for Research and Social Change at Emory University from 1966-69.</argument>
+<argument><p>Harvey Gates, a columnist for the <hi rend="italic">Atlanta Voice Newspaper</hi>, was the director of the Civil Agression Study Team at the Center for Research and Social Change at Emory University from 1966-69.</p></argument>
 
 <p>In the September issue of Southern Changes, Mr. Robert P. Hilldrup struck a cord sensitive to my paternal instincts with his article entitled: "My Sons Are Growing Up Racists."</p>
 
@@ -115,7 +178,7 @@ solution, but we are both concerned parents and on this score, at
 least, we are ahead of most of the others.</p>
 </div2>
 
-<div2 id="v1-2suitts.002" n="The Courtesy of Becoming A Federal Judge"
+<div2 id="sc01-2suitts.002" n="The Courtesy of Becoming A Federal Judge"
 type="Article">
 <head>The Courtesy of Becoming a Federal Judge</head>
 <docAuthor>By Steve Suitts</docAuthor>
@@ -179,7 +242,7 @@ as the one which suited Governor Coleman and his supporters years
 ago.</p>
 </div2>
 
-<div2 id="v1-2Bledsoe.003" n="Vivian Malone Jones and the VEP: From Integration to Voter Registration" type="Article">
+<div2 id="sc01-2Bledsoe.003" n="Vivian Malone Jones and the VEP: From Integration to Voter Registration" type="Article">
 <head>Vivian Malone Jones and the VEP: From Integration to Voter Registration</head>
 <docAuthor>By Christena Bledsoe</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 8-10</docDate>
@@ -299,12 +362,12 @@ as when she won the right to enter the University of Alabama. She notes that Jam
 <p>"I feel just the opposite. If I had to do it again, I would. There is absolutely no question in my mind ... I couldn't accept that condition anymore today than I could back in 1961 when Wallace was saying I couldn't go to that school."</p>
 </div2>
 
-<div2 id="v1-2briscoe.005" n="Atlanta Metro School Suit: A Search for Equality"
+<div2 id="sc01-2briscoe.005" n="Atlanta Metro School Suit: A Search for Equality"
 type="Article">
 <head>Atlanta Metro School Suit: A Search for Equality</head>
 <docAuthor>By Marcia Cross-Briscoe</docAuthor>
-<argument>Marcia Cross-Briscoe is a recent graduate of Emory University, majoring in English and Black Studies. She resides in Atlanta.
-</argument>
+<argument><p>Marcia Cross-Briscoe is a recent graduate of Emory University, majoring in English and Black Studies. She resides in Atlanta.
+</p></argument>
 
 
 <p>Atlanta may be "the city too busy to hate" but its process of desegregating its public school system reflects the trends of most communities in the South since the Brown decision in 1954. Between 1958 and 1973 five desegregation lawsuits were filed against school systems in metro Atlanta, and one is still pending in U.S. District Court for the Northern District of Georgia.</p>
@@ -358,14 +421,14 @@ future for education in the South which is based on innovations in
 learning rather than placement of bodies.</p>
 </div2>
 
-<div2 id="v1-2jbledsoe.006" n="Dooty's Last Stand"
+<div2 id="sc01-2jbledsoe.006" n="Dooty's Last Stand"
 type="Article">
 <head>Dooty's Last Stand</head>
 <docAuthor>By Jerry Bledsoe</docAuthor>
-<argument>
+<argument><p>
 Jerry Bledsoe, a free-lance writer and a staff columnist for the
 Charlotte Observer, has served as a contributing editor for <hi
-rend="italic">Esquire</hi> Magazine. He resides in Asheboro. North Carolina.</argument>
+rend="italic">Esquire</hi> Magazine. He resides in Asheboro. North Carolina.</p></argument>
 
 <p>She had thought this would be the day, and all morning Luemer Plumley, whom her sisters call Dooty, sat on the porch watching and waiting.</p>
 
@@ -397,7 +460,7 @@ trucks and jeeps, and some of them came carrying strange contraptions,
 great wings that they strapped to themselves so that they could leap
 off the cliffs at the top of the mountain and glide to landings on
 Highway 11, far below.</p>
-<hi rend="14"/>
+<pb n="14"/>
 <p>Back in the winter a jeep had come, filled with whooping people, sliding and spinning in the snow, pulling a sled wildly behind, and just in front of the house, a man had come flying headover-heels out of the jeep and landed on the bank in front of the house with a sickening thud. The jeep had gone on and left him, and Luemer and her sister watched, terrified, from behind the door as he struggled, cursing, in the ditch.</p>
 
 <p>"Every time he'd git up, he'd take the longest pause you've ever seen," Luemer would say, recalling the scene, "then he'd go back down again."</p>
@@ -450,7 +513,7 @@ that surely the men would come tomorrow and cut on the power so she
 wouldn't have to put up with that hot kitchen again.</p>
 </div2>
 
-<div2 id="v1-2cutler.008" n="'My Soul Is Rested' Stirs Unrest In Marketing"
+<div2 id="sc01-2cutler.008" n="'My Soul Is Rested' Stirs Unrest In Marketing"
 type="Article">
 <head>'My Soul Is Rested' Stirs Unrest In Marketing</head>
 <docAuthor>By Bill Cutler</docAuthor>
@@ -535,7 +598,7 @@ to 10 days. B. Dalton Booksellers downtown carried it, had sold it
 downtown had five in stock, had sold 10 to 20 since last fall, and
 could replenish their supply in "less than a week.' Doubleday had never stocked it, but had special-ordered several copies for customers, and UPS had shipped those in less than a week.</p>
 
-<hi rend="italic">Asked about sales of <hi rend="italic">My Soul Is Rested</hi> at Rich's, Faith Brunson said, "We don't give out that kind of information." Was the book in stock at Rich's? "The only way we can tell that is to do an instock count in 12 different stores." Was it in stock at the downtown store? "I don't know," said the downtown store's chief buyer.</hi>
+<p>Asked about sales of <hi rend="italic">My Soul Is Rested</hi> at Rich's, Faith Brunson said, "We don't give out that kind of information." Was the book in stock at Rich's? "The only way we can tell that is to do an instock count in 12 different stores." Was it in stock at the downtown store? "I don't know," said the downtown store's chief buyer.</p>
 
 <p>"I might as well be explicit about the import of this experience,"
 Howell Raines said, speaking very deliberately. "I think that Rich's
@@ -550,11 +613,11 @@ the book department at a time when Rich's was defending segregation
 may have been a factor in contributing to that negative feeling."</p>
 </div2>
 
-<div2 id="v1-2cole.009" n="THE CHAINS THAT BIND: ERA and the Southern Black Woman" type="Article">
+<div2 id="sc01-2cole.009" n="THE CHAINS THAT BIND: ERA and the Southern Black Woman" type="Article">
 <head>THE CHAINS THAT BIND: ERA and the Southern Black Woman</head>
 <docAuthor>By Sylvia Crudup Cole</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 19-21</docDate>
-<argument>Sylvia Crudup Cole is an education consultant with the State Department of Public Instruction in Raleigh, North Carolina.</argument>
+<argument><p>Sylvia Crudup Cole is an education consultant with the State Department of Public Instruction in Raleigh, North Carolina.</p></argument>
 
 <p>Congress voted recently to extend -the- period for the states to ratify the ERA until June 30, 1982. This action, however, did not have support of many Southern Congressmen. They showed the same hostility to the amendment already shown by Southern state legislators, whose lack of support has so far helped block ratification. Since 1972, 35 states have ratified the proposed federal constitutional amendment and only three are needed for ERA to become law. Of the 15 states left to ratify, 10 of them, astoundingly, are Southern.</p>
 
@@ -616,7 +679,7 @@ valuable tool for equality on all fronts and it is a movement which
 the Southern Black woman must join and embrace fully.</p>
 </div2>
 
-<div2 id="v1-2suitts.010" n="The Unchanged Patterns of Changing Migration" type="Article">
+<div2 id="sc01-2suitts.010" n="The Unchanged Patterns of Changing Migration" type="Article">
 <head>The Unchanged Patterns of Changing Migration</head>
 <docAuthor>By Steve Suitts</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 21-23</docDate>
@@ -673,7 +736,7 @@ one hand, a small child in the other, a Black woman walks to the
 counter. She is in Atlanta. She has arrived.</p>
 </div2>
 
-<div2 id="v1-2miller.011" n="ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport" type="Article">
+<div2 id="sc01-2miller.011" n="ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport" type="Article">
 <head>ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport</head>
 <docAuthor>By Dave Miller and Gordon Kenna</docAuthor>
 <docDate>Vol. 1, No. 2, 1978, pp. 24-25</docDate>
@@ -732,3 +795,6 @@ programs, and prove that minority participation goals can be reached
 in a business-like manner.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>

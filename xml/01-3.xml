@@ -1,8 +1,71 @@
-<div1 id="v1-3.001" n="Southern Changes 1:3" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 1,
+	   Number 3</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 1, Number 3.  December, 1978</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc01-3.001" n="Southern Changes 1:3" type="Issue">
 <head>Southern Changes. Volume 1, Number 3, 1978 </head>
 <p>
 <title>Southern Changes</title> Volume 1, Number 3, 1978</p>
-<div2 id="v1-3dunbar.003" n="Human Rights and the South" type="Article">
+<div2 id="sc01-3dunbar.003" n="Human Rights and the South" type="Article">
 <head>Human Rights and the South</head>
 <docAuthor>By Leslie Dunbar</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp. 3-5,28</docDate>
@@ -106,11 +169,11 @@ stood privately since 1865, for life, for the tenacious holding on to it and for
 <p>I To some it may seem ironic that "human rights" became the government's announced foreign policy when a Southern moderate became president. Let us now not stop to ponder causes for that, but only give thanks for the event, while we closely and critically watch for its carrying out. If that policy grows out of a truly Southern understanding of the rightful needs of humanity, it will everywhere stand for the protection of life and the equal claims of all to it. And if so, the South would have turned the burden of its history into a lovely gift to our republic, and to human kind.</p> 
 </div2>
 
-<div2 id="v1-3fiedler.006" n="The South's Clout After Its Retiring Congressmen" type="Article">
+<div2 id="sc01-3fiedler.006" n="The South's Clout After Its Retiring Congressmen" type="Article">
 <head>The South's Clout After Its Retiring Congressmen</head>
 <docAuthor>By Tom Fiedler</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp.6-7</docDate>
-<argument>Tom Fiedler is the Washington correspondent for the <hi rend="underline">Miami Herald.</hi></argument>
+<argument><p>Tom Fiedler is the Washington correspondent for the <hi rend="underline">Miami Herald.</hi></p></argument>
 
 <p>Early this year, when fighting erupted in the "new" civil war pitting the Sunbelt against the Frostbelt, the Southern Growth Policies Board packed up its research staff and moved north to Washington, D.C.</p>
 
@@ -186,7 +249,7 @@ years.</p>
 <p>"After all," Nunn said, "look who's in the White House."</p>
 </div2>
 
-<div2 id="v1-3srcstaff.005" n="Southern Elections: A State by State Version" type="Article">
+<div2 id="sc01-3srcstaff.005" n="Southern Elections: A State by State Version" type="Article">
 <head>Southern Elections: A State by State Version</head>
 <docAuthor>By SRC Staff</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp. 8-11, 25-29</docDate>
@@ -449,7 +512,7 @@ nomination and election. Most state elections will be held in two
 years.</p>
 </div2>
 
-<div2 id="v1-2dart.002" n="Tommy Lee Hines and the Cullman Saga" type="Article">
+<div2 id="sc01-2dart.002" n="Tommy Lee Hines and the Cullman Saga" type="Article">
 <head>Tommy Lee Hines and the Cullman Saga</head>
 <docAuthor>By Bob Dart</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp. 12-15</docDate>
@@ -586,7 +649,7 @@ courthouse and discussed how to handle the invasion of Black radicals they belie
       to bear," the convicted rapist - simply gazed mindlessly ahead.</p>
 </div2>
 
-<div2 id="v1-3norwoodchaney.004" n="Tupelo: Hometown in Turmoil" type="Article">
+<div2 id="sc01-3norwoodchaney.004" n="Tupelo: Hometown in Turmoil" type="Article">
 <head>Tupelo: Hometown in Turmoil</head>
 <docAuthor>By Betty Norwood Chaney</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp. 16-19</docDate>
@@ -687,18 +750,18 @@ plan for the city to be approved by the mayor and the board of aldermen. The pla
 is our town.</p>
 </div2>
 
-<div2 id="v1-3noland.007" n="The Dying Memory of Hugo Black" type="Article">
+<div2 id="sc01-3noland.007" n="The Dying Memory of Hugo Black" type="Article">
 <head>The Dying Memory of Hugo Black</head>
 <docAuthor>By Thomas Noland</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp.20-21</docDate>
-<argument>Thomas Noland is a staff writer for the <hi rend="underline">Anniston Star.</hi></argument>
-
-<hi rend="bold"><p>"Mr. Justice Black and myself were both natives of Clay County. Each of us dearly loved and revered our native origins and the peoples thereof. He brought to that community and that people very great honors and very great responsibilities to honor and respect his memory.</p>
+<argument><p>Thomas Noland is a staff writer for the <hi rend="underline">Anniston Star.</hi></p></argument>
+<epigraph rend="bold">
+<p>"Mr. Justice Black and myself were both natives of Clay County. Each of us dearly loved and revered our native origins and the peoples thereof. He brought to that community and that people very great honors and very great responsibilities to honor and respect his memory.</p>
 
 <p>"No other community of people ever has faced such a situation and such an opportunity in the history of our nation as far as I know. If we fail to do our part he is not necessarily disgraced as much as are we."</p>
 
-<p>-Barney Whatley, Hugo Black's first law partner, 1975.</p></hi>
-
+<p rend="right">--Barney Whatley, Hugo Black's first law partner, 1975.</p>
+</epigraph>
 <p>Southerners may disagree on how many Souths exist today, what with the media remaking Dixie, but few will deny there are at least two. One is Atlanta and Birmingham and Durham-Chapel Hill--the South of skyscrapers, of fine universities, of regional theatre and professional ballet; of Black public officials elected by a multi-racial constituency and of suburban apartments with names like Shadowood and Quail Ridge. The other, older and vaster, is the South of Clay County, Alabama.</p>
 
 <p>A hundred miles west of Atlanta, Highway 9 dips and rises through fields of soybeans and corn, past paintless and decaying farmhouses with kudzu growing in the doorways. It halves the brief one-story town of Lineville and six miles further south spills into Ashland. Mayor E. L. Wynn is fond of saying Ashland (population 3,000) has the highest altitude of any county seat in the state. That constitutes Ashland's only claim to fame in the eyes of most of its citizens. The phrase even appears on the town's stationery. But there is nothing on the stationery, or in city hall, or around the courthouse square, to indicate Ashland was the childhood home of Hugo La Fayette Black, probably the greatest Alabamian of this century and one of the 10 most influential justices ever to sit on the United States Supreme Court.</p>
@@ -792,11 +855,11 @@ yielded a grand total of $4,000. Flegel still wants to try to gather enough mone
 <p>A few years ago, when the project still seemed healthy, the Women's Study Club sold its little library on the courthouse square to an Ashland businessman. The club decided not to donate the profits to the Hugo Black Memorial Library-Museum, Inc. That should have told Flegel, Wilson and Toland something about forgive-and-forget in Clay County, Alabama. The other South, patient and unredeemed, endures.</p>
 </div2>
 
-<div2 id="v1-3williams.008" n="Southern Women" type="Article">
+<div2 id="sc01-3williams.008" n="Southern Women" type="Article">
 <head>Southern Women</head>
 <docAuthor>By Tina Williams</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp.23</docDate>
-<argument>Tina Williams was the coordinator for the YWCA Vocational Counseling Center Conference. She lives and works in Atlanta.</argument>
+<argument><p>Tina Williams was the coordinator for the YWCA Vocational Counseling Center Conference. She lives and works in Atlanta.</p></argument>
 
 <p>In Atlanta recently, the YWCA Vocational Counseling Center in conjunction with Project Focus, a CETA funded program offering vocational counseling to high school students, hosted a career conference, featuring a panel of professional Black women in mostly non-traditional career areas. The purpose of the conference was to expose the mostly Black female audience to information, resources and techniques for job hunting.</p>
 
@@ -819,11 +882,11 @@ nature in your community, write Tina Williams, P. 0. Box 743, Atlanta,
 Ga. 30303.</p>
 </div2>
 
-<div2 id="v1-3levinson.009" n="Economic Development" type="Article">
+<div2 id="sc01-3levinson.009" n="Economic Development" type="Article">
 <head>Economic Development</head>
 <docAuthor>By Mark Levinson</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp.24</docDate>
-<argument> Marc Levinson, former news editor of <hi rend="underline">Creative Loafing/The Atlantan</hi> is the coordinator of the Public Assistance Coalition in Atlanta and writes frequently for <hi rend="underline">Atlanta Magazine</hi>.</argument>
+<argument><p>Marc Levinson, former news editor of <hi rend="underline">Creative Loafing/The Atlantan</hi> is the coordinator of the Public Assistance Coalition in Atlanta and writes frequently for <hi rend="underline">Atlanta Magazine</hi>.</p></argument>
 
 <p>The debate over Aid to Families with Dependent Children (AFDC) is
 one of the perennial attractions of the Georgia legislature. Each
@@ -869,11 +932,11 @@ conscience of legislators. In 1978, the name of the game is
 organization.</p>
 </div2>
 
-<div2 id="v1-3Sailor.010" n="Health Care" type="Article">
+<div2 id="sc01-3Sailor.010" n="Health Care" type="Article">
 <head>Health Care</head>
 <docAuthor>By Ron Sailor</docAuthor>
 <docDate>Vol. 1, No. 3, 1978, pp.25</docDate>
-<argument>Ron Sailor is an editor for the <hi rend="underline">Atlanta Daily World</hi> and a commentator for WAOK Radio.</argument>
+<argument><p>Ron Sailor is an editor for the <hi rend="underline">Atlanta Daily World</hi> and a commentator for WAOK Radio.</p></argument>
 
 <p>Southwest Community Hospital currently has only 125 beds - but it wants to build a new wing with 75 additional medical-surgical beds. The construction request, however, has been repeatedly turned down by the state health planning and development agency whose approval the hospital must have if federal dollars are to be used in the construction.</p>
 
@@ -907,3 +970,6 @@ or historical reverence because as in the case of Southwest Community,
 they must fight to improve.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>

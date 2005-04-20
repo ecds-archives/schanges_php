@@ -1,8 +1,70 @@
-<div1 id="v2-1.001" n="Southern Changes 2:1" type="Issue">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<TEI.2>
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 2, Number 1</title>
+            <author>Staff</author>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
+Georgia</addrLine>
+            </address>
+            <availability>
+               <p>&#x00A9;2004 Emory
+University. Permission is granted to download, transmit, or otherwise
+reproduce, distribute or display the contributions to the work claimed
+by Emory University for non-profit educational purposes, provided
+this header is included in its entirety.  For inquiries about
+commercial uses, contact either: Southern Changes Web Project or Lewis
+H. Beck Center for Electronic collections and services, Emory
+University, Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2004</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Web Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>Southern Changes.  Volume 2, Number 1.  September 1979</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This text is produced in conjunction with the
+Southern Changes Web Project at Emory University and the Southern
+Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
+30303-1024</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2004</date>
+            <respStmt>
+               <name>Beck Center</name>
+               <resp>Staff</resp>
+            </respStmt>
+            <item>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div1 id="sc02-1.001" n="Southern Changes 2:1" type="Issue">
 <head>Southern Changes. Volume 2, Number 1, 1979</head>
 <p>
 <title>Southern Changes.</title>. Volume 2, Number 1, 1979</p>
-<div2 id="v2-1suitts.002" n="In this Issue"
+<div2 id="sc02-1suitts.002" n="In this Issue"
       type="Article">
 <head>In this Issue</head>
 <docAuthor>By Steve Suitts</docAuthor>
@@ -48,7 +110,7 @@ to see in  ourselves, our region, and our nation "the opposing qualities
 which make living in the South exciting and worrisome."</p>
 </div2>
 
-<div2 id="v2-1taff.003" n="In this Issue"
+<div2 id="sc02-1taff.003" n="In this Issue"
       type="Article">
 <head>The South's Economic Future</head>
 <docAuthor>By Staff</docAuthor>
@@ -164,7 +226,7 @@ each.
 </p>
 </div2>
 
-<div2 id="v2-1jordan.004" n="The Black Agenda For The 1980s"
+<div2 id="sc02-1jordan.004" n="The Black Agenda For The 1980s"
       type="Article">
 <head>The Black Agenda For The 1980s</head>
 <docAuthor>By Vernon Jordan</docAuthor>
@@ -306,13 +368,13 @@ faith in America and through their example and commitment, America's
 faith in itself.</p>
 </div2>
 
-<div2 id="v2-1hoffius.005" n="Preparing Women For Engineering Technology"
+<div2 id="sc02-1hoffius.005" n="Preparing Women For Engineering Technology"
       type="Article">
 <head>>Preparing Women For Engineering Technology</head>
 <docAuthor>By Steve Hoffius</docAuthor>
 <docDate>Vol. 2, No. 1, 1979, pp. 10-13</docDate>
-<argument>Steve Hoffius is a free-lance writer in Charleston, SC. He
-is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff member of <hi rend="italic">Southern Exposure</hi></argument>
+<argument><p>Steve Hoffius is a free-lance writer in Charleston, SC. He
+is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff member of <hi rend="italic">Southern Exposure</hi></p></argument>
 
 <p>Katherine Prior is a nurse, a long-time nurse. For 18 years she has worked at hospitals in the Carolinas, returned to classes for more education, and now is a licensed, practical nurse. She has never made more than $4.10 an hour.</p>
 
@@ -382,13 +444,13 @@ first year students, as a way of saying 'Look, I got through it. You can, too."<
 <p>Trident, however, needs the students no more than the students need the special training. Both Katherine and Pat admit that they would rather stay in nursing, if they could. But when 18 years experience produces no more than $4.10 an hour, it is inevitable that women will move from the field of nursing - or teaching or secretarial work or other low-paying jobs - into new areas. Thanks to affirmative action, jobs in skilled, high-paying trades are now available to women. And thanks to Trident's new program, women are receiving the push needed to fill those jobs.</p>
 </div2>
 
-<div2 id="v2-1chini.006" n="Harris Neck Battles U.S. Government"
+<div2 id="sc02-1chini.006" n="Harris Neck Battles U.S. Government"
       type="Article">
 <head>>Harris Neck Battles U.S. Government</head>
 <docAuthor>By Chini</docAuthor>
 <docDate>Vol. 2, No. 1, 1979, pp. 14-17</docDate>
-<argument>
-Chini is a member of the Southern Collective of African-American Writers.</argument>
+<argument><p>
+Chini is a member of the Southern Collective of African-American Writers.</p></argument>
 
 <p>For the people of a tiny fishing and farming community located on Georgia's rich Atlantic coast, standing up to the Klan and going to jail are but small prices to pay in their 37-year struggle with the United States government for reclamation of their community.</p>
 
@@ -460,12 +522,12 @@ Harris Neck residents were warned that the issue was "larger than they thought."
 
 <p>A long-time community resident, a child during the 1942 eviction, best sums up the "new" Harris Neck spirit, "I feel something is going to give. I feel good about it. I believe the Lord is going to look out for us. He's going to help us because we need this land. Our children need this land."</p></div2>
 
-<div2 id="v2-1gallman.007" n="The Continuing Saga of the KKK"
+<div2 id="sc02-1gallman.007" n="The Continuing Saga of the KKK"
       type="Article">
 <head>>The Continuing Saga of the KKK</head>
 <docAuthor>By Vanessa J Gallman</docAuthor>
 <docDate>Vol. 2, No. 1, 1979, pp. 18-21</docDate>
-<argument>Vanessa J. Galiman is an editor for the <hi rend="italic">Charlotte Observer</hi>.</argument>
+<argument><p>Vanessa J. Galiman is an editor for the <hi rend="italic">Charlotte Observer</hi>.</p></argument>
 
  <p><hi rend="bold">Publisher's Note:</hi><hi rend="italic"> The Ku Klux Klan traced the famous "Selma to Montgomery" march last month. While predicting a group of 2,000, the Klan leaders had fewer than sixty followers on US. highway 80; none the less, KKK related violence has grown over the past year without strong opposition from local authorities. In fact there has been only one recent prosecution of misconduct relating to Klan violence in the South - and then only by a federal prosecutor. This article by a Black editor of the Charlotte Observer looks at the Klan's activities and their meaning for present race relations.</hi></p>
 
@@ -539,12 +601,12 @@ with the Klan mentality, it's difficult to see an immediate reversal of the Klan
 <p>And in light of the Klan's history of hatred and violence, more people will die.</p>
 </div2>
 
-<div2 id="v2-1mullen.008" n="Southern Politics"
+<div2 id="sc02-1mullen.008" n="Southern Politics"
       type="Article">
 <head>>Southern Politics</head>
 <docAuthor>By Patric Mullen</docAuthor>
 <docDate>Vol. 2, No. 1, 1979, pp. 22</docDate>
-<argument>Patric Mullen is a staff member of the Legal Services of North Carolina.</argument>
+<argument><p>Patric Mullen is a staff member of the Legal Services of North Carolina.</p></argument>
 <p>By most press accounts the 1979 session of the North Carolina General Assembly was lack luster, if not dull. While North Carolina's deliberative body met for 108 legislative days and considered 2,480 bills, which resulted in 1,077 new laws, the mood in the legislative building was decidedly anti-growth in government. Governor Hunt presented a very modest legislative program with few new initiatives. Even before the session began in early January, the President of the Senate and the Speaker of the House were both talking about adjournment at the earliest possible date.</p>
 
 <p>From the perspective of the state press, the entire session might well be characterized as a slow news day. After all, North Carolinians can only stand so much public debate on the new state rock (granite) or the new state reptile (the box turtle). Having passed the seemingly obligatory resolution calling upon the U.S. Congress to submit a constitutional amendment to the states which would require a balanced federal budget (despite the fact that one out of every four dollars in the state budget comes from the feds), the General Assembly settled down to a sessionlong debate on rewriting the state bingo laws.</p>
@@ -577,7 +639,7 @@ discharge; eliminate the practice of spousal deeming; relieve parents of financi
 <p>Yet the message of the 1979 session suggests that client interests can be properly represented in the General Assembly; that LSNC can make a responsible contribution to the formulation of state public policy. This message is hardly a revelation and it most certainly will not make headlines but it does add credence to the proposition that client interests can be protected and advanced through the legislative process.</p>
 </div2>
 
-<div2 id="v2-1moon.009" n="Urban and Rural Development"
+<div2 id="sc02-1moon.009" n="Urban and Rural Development"
       type="Article">
 <head>>Urban and Rural Development</head>
 <docAuthor>By Harold Moon</docAuthor>
@@ -610,3 +672,6 @@ discharge; eliminate the practice of spousal deeming; relieve parents of financi
 <p>Unfortunately, unless momentum is gained, Washington observers expect the reporting requirements to be revised and the fair housing amendment to fail. For more information, write: Leadership Conference on Civil Rights, 2027 Massachusetts Avenue, N.W., Washington, D.C. 20036.</p>
 </div2>
 </div1>
+      </body>
+   </text>
+</TEI.2>

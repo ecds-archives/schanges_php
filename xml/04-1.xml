@@ -56,12 +56,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <body>
 <div1 id="sc03-2.001" n="Southern Changes 4:1" type="Issue">
 <head>Southern Changes. Volume 4, Number 1, 1981</head>
-<p>
-<title>Southern Changes</title>. Volume 4, Number 1, 1981</p>
-<div1 id="v4-1.001" n="Southern Changes 4:1" type="Issue">
-<head>Southern Changes. Volume 4, Number 1, 1981</head>
-<p>
-<title>Southern Changes</title>. Volume 4, Number 1, 1981</p>
+
 <div2 id="sc04-1suitts.002" n="Amended Act Passes..." type="Article">
 <head>Amended Act Passes...</head>
 <docAuthor>By Steve Suitts</docAuthor>
@@ -1371,7 +1366,7 @@ changes to original bill.</p>
 <p>B = A vote against passage of the Voting Rights Act or a vote supporting changes to original bill.</p>
 <p>- = Not a member of Congress or not voting.</p>
 <p>* = A vote that was "paired" with another member of Congress.</p>
-<p>** = Tunney motion was a vote to table the Stone amendment to only apply the Act's pre-clearance & examiner remedies in any state or subdivision where the Attorney General has filed suit under the Act alleging discrimination.</p>
+<p>** = Tunney motion was a vote to table the Stone amendment to only apply the Act's pre-clearance &#x0026; examiner remedies in any state or subdivision where the Attorney General has filed suit under the Act alleging discrimination.</p>
 <p>(R) = member of the Republican Party</p>
 <p>(D) = member of the Democratic Party</p>
 <p>(I) = independent of the two major parties</p>
@@ -1708,7 +1703,7 @@ view. One possibility under review would be to limit the preclearance requiremen
 
 <p>The lesson of the pre 1965 experience is that jurisdictions did not limit their efforts to discriminate to one type of voting practice. Congress determined that a preclearance mechanism that monitored all perspective voting changes was necessary to reach and correct discriminatory practices that kept cropping up to replace schemes that had been successfully challenged.</p>
 
-<hi rend="bold">Bail-Out</hi>
+<p rend="bold">Bail-Out</p>
 
 <p>I am aware that one of the topics being discussed most is the procedure for "bailing-out," that is, for terminating Section 5 coverage for a covered jurisdiction. There is a bail-out provision in the law as it stands, and it has always been there. Moreover, that bail-out procedure, in Section 4(a), has been used successfully by 24 jurisdictions since 1975.</p>
 
@@ -1924,9 +1919,9 @@ U.S. Justice Department and the courts are expected</p>
 <head>Court Grants Virginia A Third Swing At Redistricting</head>
 <docAuthor>By Woody Holton</docAuthor>
 <docDate>Vol. 4, No. 1, pp. 22-24</docDate>
-<argument>
+<argument><p>
 Woody Holton works for the Congress Watch newsletter and resides in
-McLean, Virginia.
+McLean, Virginia.</p>
 </argument>
 
 <p>Virginia's court legislative redistricting plan survived neither a court challange nor U.S. Justice Department "preclearance" required by the Voting Rights Act.</p>
@@ -2430,8 +2425,8 @@ this burden, but we deeply believe that it is theirs to carry.</p>
 <head>"Voting Rights Act is Needed in New York"></head>
 <docAuthor>By Robert Adams</docAuthor>
 <docDate>Vol. 4, No. 1, 1981, pp. 38-39</docDate>
-<argument>
-Robert Adams testified before Congress on June 10, 1981.</argument>
+<argument><p>
+Robert Adams testified before Congress on June 10, 1981.</p></argument>
 
 <p>I speak as the elected Attorney General of the State of New York&#x2014;a state which has three of its largest counties covered by the special provisions of the Voting Rights Act. I believe that extension of those provisions is essential.</p>
 
@@ -2514,4 +2509,4 @@ introduction of the bill to renew the Voting Rights Act on April 6,
 challenged us to join with him in the historic pledge that "we shall
 overcome." This is not the time to retreat or to surrender.</p>
 </div2>
-</div1></div1></body></text></TEI.2>
+</div1></body></text></TEI.2>
