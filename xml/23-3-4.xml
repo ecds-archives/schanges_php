@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="raw-text"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader>
@@ -63,35 +63,26 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
    <text>
 
 <body>
-         <div1 id="v23-3-4.000" n="Southern Changes 23:3-4"
+         <div1 id="sc23-3-4.000" n="Southern Changes 23:3-4"
 type="Issue">
-            <head>Southern Changes.  Volume 23, Number
-3-4, 2001</head>
-            <p> 
-               <title>Southern
-Changes.</title>  Volume 23, Number 3-4, 2001</p>
-            <div2
-id="v23-3-4.000" n="Democracy at Home" type="Article">
-
+            <head>Southern Changes.  Volume 23, Number 3-4, 2001</head>
+            <div2 id="sc23-3-4.johnson.001" n="Democracy at Home" type="Article">
 <head>Democracy at Home</head>
-               <docAuthor>Charles
-S. Johnson, III</docAuthor>
-               <docDate>Vol. 23, No. 3-4,
-2001</docDate>
+               <docAuthor>Charles S. Johnson, III</docAuthor>
+               <docDate>Vol. 23, No. 3-4, 2001</docDate>
 <argument><p>Charles S. Johnson, III, is president of
 the Southern Regional Council and an attorney in the law firm of
 Holland and Knight. </p></argument>
-<p>	Following the tragic
+<p>Following the tragic
 loss of thousands of lives in two of our most diverse cities, our
 nation is struggling with feelings of suspicion, insecurity, and
 fear. And many have responded by looking for scapegoats.  </p>
-<p>
-In Dallas, Texas, a Pakistani Muslim storeowner was recently shot and
+<p>In Dallas, Texas, a Pakistani Muslim storeowner was recently shot and
 killed.  An arrow was shot through the front window of a Muslim-owned
 laundromat in Green Cove, Florida.  Four men in the Atlanta area
 attempted to stab a Sudanese man, saying, "You killed our people in
 New York.  We want to kill you tonight."</p>
-<p>	But racial or
+<p>But racial or
 ethnically-based attacks such as we are currently experiencing are far
 from new in the South. We have seen such times before.  One such time
 was in the period immediately following the First World War, when
@@ -119,7 +110,7 @@ thought it did, we must support the strongest possible election reform
 legislation moving through Congress. Election fairness is a civil
 right linked to national policy on every domestic and international
 concern.</p>
-<p>	We also cannot abandon our efforts to improve
+<p>We also cannot abandon our efforts to improve
 race relations at home. It is critical to expand and intensify that
 work, giving greater recognition to the increasing diversity of our
 nation. In light of recent events, we must work to deter acts of hate
@@ -129,7 +120,7 @@ members at Auburn University and similar incidents at the University
 of Louisville and the University of Mississippi remind us that we
 cannot step back from efforts to heal longstanding racial divides and
 end inequalities.  </p>
-<p>	The U.N. World Conference Against
+<p>The U.N. World Conference Against
 Racism held in Durban, South Africa may have dropped out of
 consciousness since September 11th, but as long as inequalities
 remain, we cannot sideline the struggle against racism.	</p>
@@ -160,28 +151,23 @@ wish to consider a little dose of interracial- and
 interethnic-cooperation. Intergroup cooperation is the key to
 broadening civic participation and preserving democratic rights.
 </p>
-<p>	Justice, above all, is what we as a nation must
+<p>Justice, above all, is what we as a nation must
 pursue. This has been recognized since the days that the Republic was
 founded. Before the Constitution's signers wrote of domestic
 tranquility, before they wrote of promoting the general welfare, and
 even before they wrote of providing for the common defense, the
 authors of the Preamble wrote of a goal to establish justice.
 </p>
-<p>	The work of today's Southern Regional Council is in
+<p>The work of today's Southern Regional Council is in
 the tradition of our nation's historic pursuit of justice. The new
 realities which confront us as a result of recent events cannot and
 will not deter us in our quest.	</p>
 	    </div2>
-            <div2
-id="v23-3-4.001" n="One Nation, Unquestionable:
-The News Media
-Responds to September 11" type="Article">
-               <head>One
-Nation, Unquestionable:
-The News Media Responds to September
-11</head>
+            <div2 id="sc23-3-4.wehner.002" n="One Nation, Unquestionable:
+The News Media Responds to September 11" type="Article">
+               <head>One Nation, Unquestionable: The News Media
+	       Responds to September 11</head>
                <docAuthor>By Patrick Wehner</docAuthor>
-
 <docDate>Vol. 23, No. 3-4, 2001</docDate>
 <argument><p>Patrick Wehner
 is a postdoctoral fellow at the Center for Myth and Ritual in American
@@ -232,10 +218,10 @@ phrases like "The War on Terror" or "America's New War" accomplish
 little in distinguishing one news organization from another when
 everyone else is using them. So while the idea of branding the news
 surely captures the spirit of our market-driven society, it must also
-be said that sometimes a clich†Ðis just a clich†Ü even if it achieves
+be said that sometimes a clich&#x00E9; is just a clich&#x00E9; even if it achieves
 that status in record time. </p>
 <p>Despite their apparent emptiness,
-clich†ã have consequences. Swaggering taglines like "America Fights
+clich&#x00E9;s have consequences. Swaggering taglines like "America Fights
 Back," for example, seem to be encouraging viewers to put their feet
 up, adjust the surround sound, and enjoy the special effects. But it
 is the more innocuous slogans, the wildly popular "America Unites"
@@ -258,7 +244,7 @@ pushed.</p>
 <p>Ironically, in helping to harden collective longings
 into
 something-an accepted truth, an article of faith, a reassuring
-clich†Ýthat is no longer open to discussion, the major media have
+clich&#x00E9; that is no longer open to discussion, the major media have
 contributed to a climate where journalists are condemned for living up
 to their professional principles. Unpopular with the public even
 before September 11, reporters who have asked difficult questions
@@ -451,15 +437,9 @@ retrospect. The problem is, it's always hard to get changes made in
 midstream, when they would make the most impact."	</p>
 
 </div2>
-            <div2 id="v23-3-4.001" n="Hate in the
-News:
-Violence Against Arab Americans and Muslims" type="Article">
-
-<head>Hate in the News:
-Violence Against Arab Americans and
-Muslims</head>
-               <docAuthor></docAuthor>
-
+<div2 id="sc23-3-4.splc.003" n="Hate in the News: Violence Against Arab Americans and Muslims" type="Article">
+<head>Hate in the News: Violence Against Arab Americans and Muslims</head>
+               <docAuthor>Southern Poverty Law Center</docAuthor>
 <docDate>Vol. 23, No. 3-4, 2001</docDate>
 <argument><p>Sources:
 American-Arab Anti-Discrimination Committee (www.adc.org), the Council
@@ -628,14 +608,10 @@ off.</p>
 spat upon as they rode a subway near the White House.</p>
 
 </div2>
-            <div2 id="v23-3-4.002" n="Race, Class, and
-Reconciliaton" type="Article">
-               <head>Race, Class, and
-Reconciliaton</head>
-               <docAuthor>By Dan
-T. Carter</docAuthor>
-               <docDate>Vol. 23, No. 3-4,
-2001</docDate>
+<div2 id="sc23-3-4.carter.004" n="Race, Class, and Reconciliaton" type="Article">
+               <head>Race, Class, and Reconciliaton</head>
+               <docAuthor>By Dan T. Carter</docAuthor>
+               <docDate>Vol. 23, No. 3-4, 2001</docDate>
 <argument><p>Dan T. Carter is Educational Foundation
 Professor of History at the University of South Carolina.This article
 is adapted from a speech Carter presented at the Reconciliation
@@ -787,7 +763,7 @@ changing nature of our dilemmas is to recognize that racial ideas and
 attitudes increasingly reflect assumptions about class. In my Southern
 childhood the "single drop" theory of race was almost
 unchallenged. Black was black. We all know the once fashionable
-historical clich†Ðabout Brazilian race relations: that race was
+historical clich&#x00E9; about Brazilian race relations: that race was
 important, but "money whitened." Well, that wasn't really true about
 racial attitudes in Brazil, but there clearly was a difference between
 American and Latin societies. </p>
@@ -975,13 +951,12 @@ paternalistic language of "compassion": they will speak of something
 far more fundamental-justice.	</p>
 	    </div2>
 
-  <div2 id="v22-2.003" n="Southerners in South Africa:
+  <div2 id="sc23-3-4.robinson.005" n="Southerners in South Africa:
 The World Conference Against Racism" type="Article">
                <head>Southerners in South Africa:
 The World Conference Against Racism</head>
                <docAuthor>By Gwen Robinson</docAuthor>
-               <docDate>Vol. 23, No. 3-4,
-2001</docDate>
+               <docDate>Vol. 23, No. 3-4, 2001</docDate>
 <argument><p>Gwen Robinson is a community organizer and writer living in Atlanta.The Southern Education Foundation recently released a report on the relations between persons of European and African descent in Brazil, South Africa, and the United States, all of which have larger populations of poor, uneducated black people. The report documents the costs and consequences of racism. It can be downloaded free of charge at www.beyondracism.org. </p></argument>
 <p>On August 29th Rev. C.T. Vivian, the celebrated Atlanta civil rights activist, walked into the Non-Governmental Organization Forum (NGO) of the World Conference Against Racism, Racial Discrimination, Xenophobia, and Racial Intolerance in Durban, South Africa. Within minutes Rev. Vivian was surrounded by fellow activists, grassroots leaders and friends from around the South.  As he made his way to do an interview with South African Broadcasting, Rev. Vivian became the center of a group of friends from his generation of civil rights leaders in the U.S. South, admirers from younger generations in the U.S. and other countries, and reporters eager to hear his take on the U.N. Conference. While the United States government did not have a large, high-level (or, some would argue, positive) presence at the World Conference Against Racism (WCAR), Rev. Vivian and more than three hundred others from the U.S. South were there to make their voices heard.</p>
 <p>Southerners' experiences at the WCAR seem to fall into two categories: insiders and outsiders. For those people who were involved in the preparatory meetings that happened in the year before the conference, the World Conference was the culminating event in an ongoing process. There were major "prepcoms" (meetings to prepare the U.N. document on racism for the conference) in every region of the world. Southerners were represented at the meetings in Geneva, Switzerland; Santiago, Chile; and Quito, Ecuador among others. At the preparatory meetings the language for many issues was discussed, including whether the trans-Atlantic slave trade should be declared a crime, whether the treatment of dalits (the untouchables) in India should be included as racism, and whether Israel's actions towards the Palestinians should be included as the only nation specifically condemned for its actions.  </p>
@@ -1009,11 +984,9 @@ idea of a world where racism is cracked or eroded just a little bit is
 surely rebellious and alive.	</p>
   </div2>
 
-  <div2 id="v22-2.004" n="Race and Nation:
-Bridging Racial and Ethnic Communities" type="Article">
-               <head>Race and Nation:
-Bridging Racial and Ethnic Communities</head>
-               <docAuthor></docAuthor>
+  <div2 id="sc23-3-4.staff.006" n="Race and Nation: Bridging Racial and Ethnic Communities" type="Article">
+               <head>Race and Nation: Bridging Racial and Ethnic Communities</head>
+               <docAuthor>staff</docAuthor>
                <docDate>Vol. 23, No. 3-4,
 2001</docDate>
 <argument><p></p></argument>
@@ -1030,7 +1003,7 @@ Bridging Racial and Ethnic Communities</head>
 <p>&#x2022;Community/neighborhood relationships, problems and needs, including crime.</p>
 <p>Following is an excerpt from one of the interviews conducted by the SRC's Partnerships team. </p>
   </div2>
-<div2 id="v22-2.004" n="La naci&#x00F3;n y la raza: colaboraci&#x00F3;n entre comunidades &#x00E9;tnicas y raciales" type="Article">
+<div2 id="sc23-3-4.staff.011" n="La naci&#x00F3;n y la raza: colaboraci&#x00F3;n entre comunidades &#x00E9;tnicas y raciales" type="Article">
                <head>La naci&#x00F3;n y la raza: colaboraci&#x00F3;n entre comunidades &#x00E9;tnicas y raciales</head>
                <docAuthor></docAuthor>
                <docDate>Vol. 23, No. 3-4,
@@ -1045,17 +1018,17 @@ comprensi&#x00F3;n y colaboraci&#x00F3;n entre los  miembros de las
 comunidades anglosajona y afroamericana, aprendiendo acerca de los
 nuevos inmigrantes mientras se establecen y se adaptan a la vida en
 sur. El programa <hi rend="italic">Partnerships</hi> busca reunir a diversas comunidades para promover la formaci&#x00F3;n de colaboraciones multiraciales y multi&#x00E9;tnicas.</p>
-<p>El proyecto "La naci&#x00F3;n y la raza" combina la investigaci&#x00F3;n basada en la comunidad y la educaci&#x00F3;n popular, con el objeto de comprender mejor e influir en la din&#x00E1;mica racial y &#x00E9;tnica que est&#x00E1; cambiando en la regi&#x00F3;n. Esperamos poder llegar a comprender mejor dos tipos de situaciones: las experiencias de los inmigrantes reci&#x00E9;n llegados mientras se adaptan al sur y las actitudes que adoptan los residentes ya establecidos en relaci&#x00F3;n a los nuevos inmigrantes. La meta del proyecto consiste en identificar las &#x00E1;reas en las que ser&#x00ED;a posible colaborar, as’ como las &#x00E1;reas de conflicto entre los diversos grupos, y promover esfuerzos multiraciales y multi&#x00E9;tnicos para tratar de resolver las necesidades comunes.</p>
+<p>El proyecto "La naci&#x00F3;n y la raza" combina la investigaci&#x00F3;n basada en la comunidad y la educaci&#x00F3;n popular, con el objeto de comprender mejor e influir en la din&#x00E1;mica racial y &#x00E9;tnica que est&#x00E1; cambiando en la regi&#x00F3;n. Esperamos poder llegar a comprender mejor dos tipos de situaciones: las experiencias de los inmigrantes reci&#x00E9;n llegados mientras se adaptan al sur y las actitudes que adoptan los residentes ya establecidos en relaci&#x00F3;n a los nuevos inmigrantes. La meta del proyecto consiste en identificar las &#x00E1;reas en las que ser&#x00ED;a posible colaborar, as&#x00ED; como las &#x00E1;reas de conflicto entre los diversos grupos, y promover esfuerzos multiraciales y multi&#x00E9;tnicos para tratar de resolver las necesidades comunes.</p>
 <p>El proyecto "La naci&#x00F3;n y la raza" intenta adem&#x00E1;s analizar el contexto racial-&#x00E9;tnico que est&#x00E1; cambiando en el sur y utilizar ese conocimiento para construir una visi&#x00F3;n colectiva, establecer relaciones personales, y crear lazos entre organizaciones-lo cu&#x00E1;l resulta necesario para poder desarrollar un trabajo inclusivo de justicia racial y &#x00E9;tnica al nivel local y regional. </p>
 <p>En colaboraci&#x00E9;n con el Centro de Estudios de la Mujer (Center for Research on Women, CROW) de la universidad de Memphis y el Centro Highlander en New Market, Tennessee, que se dedican a estudiar la inmigraci&#x00F3;n en Tennessee, el SRC trabaja en el area metropolitana de Atlanta, Georgia. El Director del proyecto, Dwayne Patterson y la asociada Blanca Rojas, se re&#x00FA;nen con activistas locales y conducen la investigaci&#x00F3;n en el &#x00E1;rea de Chamblee/Doraville. Ya han realizado aproximadamente 50 entrevistas en ese &#x00E1;rea d&#x00F3;nde coexisten diversas culturas, que se extiende a lo largo de la carretera de Buford, en el condado de DeKalb-el cu&#x00E1;l se ha convertido en un centro econ&#x00F3;mico de gran alcance, con centenares de peque&#x00F1;os negocios cuyos due&#x00F1;os son de origen asi&#x00E1;tico y latino. A diferencia de lo que ocurre en las comunidades inmigrantes establecidas desde hace mucho tiempo en Nueva York y Los Angeles, en d&#x00F3;nde los diversos grupos &#x00E9;tnicos han tendido a establecer barrios distintivos, en el &#x00E1;rea de Chamblee/Doraville las personas y los negocios cuyos due&#x00F1;os son de origen asi&#x00E1;tico o latino se mezclan en contig&#x00FC;idad.</p>
 <p>Una de cada diez personas en el &#x00E1;rea metropolitana de Atlanta se autoidentifica como latina o de origen asi&#x00E1;tico. El Censo del 2000 demostr&#x00F3; que la poblaci&#x00F3;n hispana de Georgia ha aumentado m&#x00E1;s del 300%. Entre los estados del sur, Georgia se convirti&#x00F3; en el tercero con mayor poblaci&#x00F3;n hispana. Estos cambios demogr&#x00E1;ficos han convertido al condado de DeKalb en uno de los m&#x00E1;s diversos de la naci&#x00F3;n, con 55,3% de poblaci&#x00F3;n afroamericana, 37% de poblaci&#x00F3;n de origen anglosaj&#x00F3;n, 7,9% de poblaci&#x00F3;n de origen hispano y 4,6% de origen asi&#x00E1;tico. Debido a las oportunidades econ&#x00F3;micas, un n&#x00FA;mero creciente de hombres, mujeres y ni&#x00F1;os de M&#x00E9;jico y de otro pa&#x00ED;ses latinoamericanos y asi&#x00E1;ticos est&#x00E1; estableci&#x00E9;ndose en el &#x00E1;rea. Los immigrantes recientes residen en casas y apartamentos, y se emplean en la construcci&#x00F3;n, en puestos de servicio, y en muchas otras ocupaciones. Los ni&#x00F1;os asisten a las escuelas locales,y los adultos compran su comida, ropa, y otros productos en los almacenes locales.</p>
 <p>De acuerdo con el contenido de las primeras entrevistas, es posible identificar cuatro temas de inter&#x00E9;s particular: </p>
 <p>&#x2022;El acceso a la educaci&#x00F3;n, incluso los derechos de los estudiantes inmigrantes y programas que involucren a los padres.</p>
-<p>&#x2022;La representaci&#x00F3;n pol’tica y los derechos civiles de los inmigrantes, incluso la participaci&#x00F3;n en el censo, temas de partici&#x00F3;n de los distritos, el acceso a licencias para conducir, y las relaciones con la policia y el INS.</p>
+<p>&#x2022;La representaci&#x00F3;n pol&#x00ED;tica y los derechos civiles de los inmigrantes, incluso la participaci&#x00F3;n en el censo, temas de partici&#x00F3;n de los distritos, el acceso a licencias para conducir, y las relaciones con la policia y el INS.</p>
 <p>&#x2022;El empleo y el estatus econ&#x00F3;mico de los inmigrantes, incluso las relaciones laborales y la percepci&#x00F3;n de competencia por los puestos de empleo.</p>
 <p>&#x2022;Las relaciones comunitarias y barriales, los problemas y las necesidades de la comunidad, incluso el crimen.</p>
 </div2>	
-<div2 id="v22-2.005" n="Homero Le&#x00F3;n" type="Article">
+<div2 id="sc23-3-4.staff.007" n="Homero Le&#x00F3;n" type="Article">
                <head>Homero Le&#x00F3;n</head>
                <docAuthor></docAuthor>
                <docDate>Vol. 23, No. 3-4,
@@ -1065,11 +1038,11 @@ sur. El programa <hi rend="italic">Partnerships</hi> busca reunir a diversas com
 <p>My experiences growing up in Miami are varied because we arrived in early 1960 and were one of the first Cuban families to arrive in Miami. It was still pretty much an American town. I was just five years old and when I started school in the first grade, I couldn't speak English, not a word. It was a terrible experience but I remember it like it was yesterday, being in the classroom with all the English speakers. I'm sure I cried and I remember being scared. When I got to the second grade, the teachers took me aside and said they were going to fail me. They thought that I was a little slow, maybe a little retarded. So I failed the second grade. My problem was that I couldn't speak English-that was my "retardation." Now I am licensed to practice law in two states.</p>
 <p>The beginning was hard. My parents didn't speak English and although my father had a decent job in Cuba as a career military officer, he became a tomato picker in Homestead, Florida when we came here. My mother never learned English to this very day although she worked in the factories as a seamstress and has been in this country for about forty years. As more and more Cubans came and opened grocery stores, she would go to the grocery store where everyone spoke Spanish. Cubans opened banks and all kinds of businesses, so when she would go to a business, they spoke Spanish. She never had to learn English. Cubans own many television and radio stations, too!</p>
 <p>As the years went by, I learned English and for some reason I began to associate a lot with English-speaking folks. To this day, I never quite mastered how to read and write Spanish, always attending schools that taught English. I guess my parents wanted me to be successful so they figured if I became an Americano I would be more successful. I could "pass" by changing my name to Homer Leon. I became Homer Leon and I was a regular American kid.</p>
-<p>Life was easier being Homer Leon than being Homero Le—n, it really was. People treat you different. When you meet Americans and you say your name is Homer Leon, they treat you differently than when you say your name is Homero Le—n. You've got an instant connection with folks. They instantly connect with me as an American but if I say I am Homero Le—n immediately most people see me differently-even people who like Latinos. The conversation changes-"Oh, how is it being Latino?" I think they put you in a box. You eat tacos and you like Ricky Martin. But if you are Homer Leon you are a regular American, you watch regular TV and you are regular, you are just folks and normalcy is good. As I got older and went to college I became Homero Le—n again.</p>
+<p>Life was easier being Homer Leon than being Homero Le&#x00F3;n, it really was. People treat you different. When you meet Americans and you say your name is Homer Leon, they treat you differently than when you say your name is Homero Le&#x00F3;n. You've got an instant connection with folks. They instantly connect with me as an American but if I say I am Homero Le&#x00F3;n immediately most people see me differently-even people who like Latinos. The conversation changes-"Oh, how is it being Latino?" I think they put you in a box. You eat tacos and you like Ricky Martin. But if you are Homer Leon you are a regular American, you watch regular TV and you are regular, you are just folks and normalcy is good. As I got older and went to college I became Homero Le&#x00F3;n again.</p>
 <p>The average Cuban in Miami is a right wing Republican and I'm a
 leftist. I know some people who got beat up and killed-Cubans who were
 left and center. You are an endangered species if you are a left wing
-Cuban in Miami. So I was able to go underground as an American leftist-those <hi rend="italic">Americanos</hi> are all lefty <hi rend="italic">gringos</hi>. It is okay. It is tolerated with the <hi rend="italic">Americano</hi> but it isn't tolerated it with the Chicanos. I rejected my culture, because my culture was so right-wing conservative, oppressive, sexist and all those "wonderful" qualities. In Miami around the Cubans I was Homer Leon but when I went to Tallahassee, a Cuban was a rare thing in 1976. I discovered my ethnic roots and felt more comfortable. It was cool to be a Homero Le—n in Tallahassee. I didn't have to be a right-wing Cuban. I could just be a Cuban. I could be a left-wing Cuban and we were all lefties in college, so it was tolerable.</p>
+Cuban in Miami. So I was able to go underground as an American leftist-those <hi rend="italic">Americanos</hi> are all lefty <hi rend="italic">gringos</hi>. It is okay. It is tolerated with the <hi rend="italic">Americano</hi> but it isn't tolerated it with the Chicanos. I rejected my culture, because my culture was so right-wing conservative, oppressive, sexist and all those "wonderful" qualities. In Miami around the Cubans I was Homer Leon but when I went to Tallahassee, a Cuban was a rare thing in 1976. I discovered my ethnic roots and felt more comfortable. It was cool to be a Homero Le&#x00F3;n in Tallahassee. I didn't have to be a right-wing Cuban. I could just be a Cuban. I could be a left-wing Cuban and we were all lefties in college, so it was tolerable.</p>
 <p>I became a legal aid attorney and came to Atlanta, because I met an African-American woman-my ex-wife-who had lived here most of her life. We were in Orlando, Florida, but she considered Atlanta her home and was homesick. "The Civil Rights Movement never came to Orlando, Florida," she said. "They have no idea what African-American culture is in Orlando. I know there is some in Atlanta. I'm going back. Are you coming with me?" That was nine years ago.</p>
 <p>My wife at that time, moved me here to Atlanta and as far as cultural and everything else we moved into an African-American neighborhood. This was a first in my life because I had always lived in either Latino neighborhoods or mixed neighborhoods. We were living in Union City at that time but working in Atlanta and we started going to a Black church. At every event my then-wife took me to, I was the only light-skinned person there. I guess my moving to Atlanta and living in the circles I was living, I pretty much thought Atlanta was an African-American town-with a Black mayor and everybody I saw was African American. It was an African-American world as far as I was concerned. And it was good.</p>
 <p>Eventually, I did begin to see more Latinos. I moved to Newnan and I started seeing construction sites where everybody building houses was Latino. That was about six years ago. I remember one night when my washing machine had broken down, I went to the little corner Laundromat, a few blocks down from me. About 65 percent of the people there were Latino, doing their laundry-all were new to Georgia. I was surprised, but there it was. Immigration had really spread out.</p>
@@ -1077,7 +1050,7 @@ Cuban in Miami. So I was able to go underground as an American leftist-those <hi
 <p>I don't believe you should become an <hi rend="italic">Americano</hi> if you are Latino. I believe it is better to keep your culture, keep your language, your literature, your music, your food, to keep that is important. African Americans, I believe the same thing-I love Afro-centric things. It's wonderful stuff, and we all need it. It is beautiful. I'm totally against assimilation. Multiculturalism is the best for all of us. Tolerance and diversity are wonderful and enrich all our lives.</p>
 <p>Racism in the South is almost like an honored tradition; at least in the North they seem more ashamed of it, but here they say, "It was my daddy's culture; it is our heritage." Tolerance is not a southern virtue. I see it all around me, and that makes it more difficult to celebrate the beauty of diversity.	</p>
 </div2>
-<div2 id="v22-2.006" n="The Newest South:
+<div2 id="sc23-3-4.tobar.008" n="The Newest South:
 A Lotta Cultures Goin' On" type="Article">
                <head>The Newest South:
 A Lotta Cultures Goin' On</head>
@@ -1123,7 +1096,7 @@ editor of the Spanish-language weekly <hi rend="italic">La Voz Hispana</hi>. "A 
 <p>When the office finally opened earlier this year, one of the first calls Sims made was to the Mexican consul in New Orleans. She proposed to the diplomat that Mexico establish a consulate here. It would be the city's first foreign delegation.</p>
 <p rend="bold">After months of waiting, the city got a response, just the other day, in the form of a letter from Mexico City. Unfortunately, the text was in Spanish, and no one in Sims' office could understand it. So, she ran it through a computer translation program and managed to decipher the message: No consulate yet. But maybe soon.</p>
 </div2>
-<div2 id="v22-2.006" n="Latino Immigrants in Memphis:
+<div2 id="sc23-3-4.mendoza.008" n="Latino Immigrants in Memphis:
 Assessing the Economic Impact" type="Article">
                <head>Latino Immigrants in Memphis:
 Assessing the Economic Impact</head>
@@ -1163,14 +1136,8 @@ distribution center, so too do contemporary Latino immigrants
 contribute to regional economic development.	</p>
 </div2>
 
-<div2 id="v22-2.007" n="REVIEWS" type="Title">
-               <head>REVIEWS</head>
-               <docAuthor></docAuthor>
-               <docDate>Vol. 23, No. 3-4,
-2001</docDate>
-<p></p>
-</div2>
-<div2 id="v22-2.007" n="Looking for a Living Wage" type="Review">
+
+<div2 id="sc23-3-4.lang.009" n="Looking for a Living Wage" type="Review">
                <head>Looking for a Living Wage</head>
                <docAuthor>Reviewed by Amy Schrager Lang</docAuthor>
                <docDate>Vol. 23, No. 3-4,
@@ -1190,7 +1157,7 @@ workers, Ehrenreich not unreasonably asks why her fellow store clerks, maids, or
 <p>	But beyond all these, Ehrenreich hints at a broader and more disturbing explanation. Speaking of the economic behavior of low-wage workers, she suggests that "if low wage workers do not always behave in an economically rational way, that is, as free agents within a capitalist democracy, it is because they dwell in a place that is neither free nor in any way democratic." The place in which they do dwell is one in which the working poor, clothed in the stigmatizing uniforms of their menial trades, interrogated, tested, monitored, and policed, trade their civil rights-at the very least, their right to privacy and to free speech-for a not quite subsistence wage. That place is largely invisible from the gated community, the private school, the health club, or the upscale mall. Where once rich and poor shared public spaces and services, privatization has produced not merely an inequality but a parallel universe in which the poor, if they appear at all, hover on the far horizon. So distant and obscured are they, in fact, that it takes a well-funded explorer like Ehrenreich to make their plight visible at all.</p>
 <p><hi rend="italic">Nickel and Dimed</hi> is, as others have observed, the latest in a long line of what might be called imposture narratives: accounts of the experiences of a journalist who, for one reason or another but usually in order to expose a social evil, assumes the part of a suffering "Other"-a worker, an African American, a Jew. There is much to be said in reference to this genre about white, middle class arrogance, about the expropriation of the experiences of others, about the possibilities for misinterpretation and the opacity of class. To her credit, Ehrenreich says a part of it herself. Yet in the post-September world in which postal workers, but not Congressional aides die of anthrax because no one bothered to test them, in which terrorism provides the occasion or anyway the excuse for massive layoffs, in which wealth and poverty may take on new and unthought of significance, the value of Ehrenreich's account of a "culture of extreme inequality" far outweighs its occasional lapses.	</p>
 </div2>
-<div2 id="v22-2.007" n="Transformed Through Activism" type="Review">
+<div2 id="sc23-3-4.nasstrom.010" n="Transformed Through Activism" type="Review">
                <head>Transformed Through Activism</head>
                <docAuthor>By Kathryn L. Nasstrom</docAuthor>
                <docDate>Vol. 23, No. 3-4,
