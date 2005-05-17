@@ -4,7 +4,7 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>Southern Changes.  Volume 22, Number 3, 2001</title>
+            <title>Southern Changes.  Volume 22, Number 3, 2000</title>
             <author>Staff</author>
             <respStmt>
                <resp>Compiled and edited by</resp>
@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 21, Number 3. 1999</bibl>
+            <bibl>Southern Changes.  Volume 22, Number 3. 2000</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -54,11 +54,9 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="v22-3.001" n="Southern Changes 22:3" type="Volume">
+         <div1 id="sc22-3.001" n="Southern Changes 22:3" type="Volume">
             <head>Southern Changes.  Volume 22, Number 3, 2001</head>
-            <p> 
-               <title>Southern Changes.</title>  Volume 22, Number 3, 2001</p>
-            <div2 id="v22-3.002" n="Cells for Sale" type="Article">
+            <div2 id="sc22-3.002" n="Cells for Sale" type="Article">
                <head>Cells for Sale</head>
                <docAuthor>By SI KAHN</docAuthor>
                <docDate>Vol. 22, No. 3, 2001</docDate>
@@ -95,7 +93,7 @@ These three developments are much more related than any of us have realized. To 
 <p>But if for-profit private prisons become publicly unacceptable, politically risky, economically unfeasible, or even illegal, it will also create a different dynamic for elected officials. Without an easy way to build new prisons, to promote incarceration as the politically acceptable be-all and end-all for social problems, they may need to come to grips with the limits of the current criminal justice system. In such a situation, rights, reform, rehabilitation, and restorative justice again be come imaginable-but only in a public and publicly- accountable system of justice, as is not only appropriate but critical to a democratic society.</p>
 </div2>
 
-<div2 id="v22-3.003" n="Facing the Demon Head On: Institutional Racism and the Prison Industrial Complex" type="Article">
+<div2 id="sc22-3.003" n="Facing the Demon Head On: Institutional Racism and the Prison Industrial Complex" type="Article">
                <head>Facing the Demon Head On: Institutional Racism and the Prison Industrial Complex</head>
                <docAuthor>By MANNING MARABLE</docAuthor>
                <docDate>Vol. 22, No. 3, 2001</docDate>
