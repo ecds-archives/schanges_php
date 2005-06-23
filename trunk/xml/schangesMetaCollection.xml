@@ -1,47 +1,22 @@
 <cti:Collection xmlns:cti="http://chaucer.library.emory.edu/vendor_collection#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"	>
 <dc:title>
-Women's Genre Fiction: 1860 - 1920
+Southern Changes
 </dc:title>
 
 <dc:creator>
+Southern Regional Council
 </dc:creator>
 
 <dc:subject>
-Women authors, British--20th century--Fiction.
+Civil rights--Southern States--Periodicals.
 </dc:subject>
 <dc:subject>
-Women authors, British--19th century--Fiction.
+African Americans--Periodicals
 </dc:subject>
 <dc:subject>
-Women authors, American--20th century--Fiction.
+Southern States--Social conditions--Periodicals.
 </dc:subject>
-<dc:subject>
-Women authors, American--19th century--Fiction.
-</dc:subject>
-<dc:subject>
-Genre fiction.
-</dc:subject>
-<dc:subject>
-Mystery and detective stories.
-</dc:subject>
-<dc:subject>
-Romance fiction.
-</dc:subject>
-<dc:subject>
-Domestic fiction.
-</dc:subject>
-<dc:subject>
-Sentimentalism fiction.
-</dc:subject>
-<dc:subject>
-Horror fiction.
-</dc:subject>
-<dc:subject>
-Ghost stories.
-</dc:subject>
-<dc:subject>
-Crime fiction.
-</dc:subject>
+
 
 <dc:description>Funded by a three-year grant from the National
 Endowment for the Humanities, the Women's Genre Fiction
@@ -66,12 +41,13 @@ xml
 </dc:format>
 
 <dc:identifier>
-tgfw
+srcfw
 </dc:identifier>
 
 <dc:source>
 <rdf:Description>
 <dc:publisher>
+Southern Regional Council
 </dc:publisher>
 </rdf:Description>
 </dc:source>
@@ -86,7 +62,7 @@ en
 <dcterms:spatial>
 </dcterms:spatial>
 <dcterms:temporal>
-start=1860;end=1920;
+start=1979;end=2005;
 </dcterms:temporal>
 
 <dc:rights>
