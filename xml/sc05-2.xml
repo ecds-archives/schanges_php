@@ -63,11 +63,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc05-2.001" n="Southern Changes 5:2" type="Issue">
             <head>Southern Changes.  Volume 5, Number 2, 1983</head>
             <p>
-               <title>Southern Changes</title>.  Volume 5, Number 2, 1983</p>
+               <title>Southern Changes</title>.  Volume 5, Number 2,
+	       <date value="1983-03">1983</date></p>
             <div2 id="sc05-2paddock.002" n="Ethics and Equations" type="Article">
                <head>Ethics and Equations</head>
                <docAuthor>By POLLY PADDOCK</docAuthor>
-               <docDate>Vol. 5, No. 2, 1982, p. 7</docDate>
+               <docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate>
                <argument>
                   <p>Polly Paddock is an editorial page writer for the
 Charlotte <title>Observer.</title>
@@ -162,7 +163,7 @@ Hunt, Capitol Building, Raleigh, N.C. 27611.</p>
             <div2 id="sc05-2johnson.003" n="Money on the Mainline" type="Article">
                <head>Money on the Mainline</head>
                <docAuthor>By TIM JOHNSON</docAuthor>
-               <docDate>Vol. 5, No. 2, 1983, pp. 1-6</docDate>
+               <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate>
                <argument>
                   <p>Tim Johnson, who has worked for the Georgia Public
 Service Commission and the Consumers' Utility Counsel of Georgia, its
@@ -566,7 +567,7 @@ bought into Plant Vogtle on its own.</p>
                   <title>Almost Family.</title>  Roy Hoffman. The Dial Press,
 1983.</head>
                <docAuthor>By TRUDIER HARRIS</docAuthor>
-               <docDate>Vol. 5, No. 2, 1983, pp. 21-23</docDate>
+               <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate>
                <argument>
                   <p>Trudier Harris, who teaches English and folklore at the
 University of North Carolina at Chapel Hill, grew up in
@@ -712,7 +713,7 @@ knowing that there is much more to tell.</p>
                   <title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
 1982.</head>
                <docAuthor>By ROSE GLADNEY</docAuthor>
-               <docDate>Vol. 5, No. 2, 1983, pp. 23-24</docDate>
+               <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate>
                <argument>
                   <p>Rose Gladney is associate professor of American Studies
 at the University of Alabama in Tuscaloosa.</p>
@@ -887,7 +888,7 @@ sisterhood.</p>
                <head>Union Power, Soul Power: The Story of 1199B and Labor's Search
 for A Southern Strategy</head>
                <docAuthor>By LEON FINK</docAuthor>
-               <docDate>Vol. 5, No. 3, 1983, pp. 9-20</docDate>
+               <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 9-20</docDate>
                <argument>
                   <p>Leon Fink is assistant professor of history at the
 University of North Carolina at Chapel Hill. He is author of
@@ -1774,7 +1775,7 @@ formal voice for the region's working people.</p>
             <div2 id="sc05-2barber.007" n="Mississippi Makes Up Its Mind" type="Article">
                <head>Mississippi Makes Up Its Mind</head>
                <docAuthor>By RIMS BARBER</docAuthor>
-               <docDate>Vol. 5, No. 3, 1983, pp. 8-9</docDate>
+               <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 8-9</docDate>
                <argument>
                   <p>Rims Barber, a member of the Southern Regional Council,
 is project director for Childrens' Defense Fund in

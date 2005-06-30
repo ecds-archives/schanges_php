@@ -63,12 +63,12 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <body><div1 id="sc02-4.001" n="Southern Changes 2:4" type="Issue">
 <head>Southern Changes. Volume 2, Number 4, 1980 </head>
 <p>
-<title>Southern Changes</title> Volume 2, Number 4, 1980</p>
+<title>Southern Changes</title> Volume 2, Number 4, <date value="1980-01">1980</date></p>
 
 <div2 id="sc02-4chaney.002" n="In This Issue" type="Article">
 <head>In This Issue</head>
 <docAuthor>By Betty Norwood Chaney</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 2</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 2</docDate>
 
 <p>We are as wrought with opinion and reflection in this our first
 issue of the new year as we may heve been bereft of it last time. In
@@ -148,7 +148,7 @@ continue to form to confront the bad is some good news in itself</p>
 <div2 id="sc02-4staff.003" n="Too Poor for Food Stamps" type="Article">
 <head>Too Poor for Food Stamps</head>
 <docAuthor>By Staff</docAuthor>
-<docDate>Vol. 1, No. 4, 1980, pp. 3-4</docDate>
+<docDate value="1980-01">Vol. 1, No. 4, 1980, pp. 3-4</docDate>
 
 <p>Almost eight million poor Americans did not have ample food during
 this holiday season because of barriers and restrictions in the
@@ -192,7 +192,7 @@ Atlanta, Georgia 30303.</p>
 <div2 id="sc02-4lawproject.004" n="Mandatory Sentencing" type="Article">
 <head>Mandatory Sentencing</head>
 <docAuthor>By members of The Law Project</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 5-7</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 5-7</docDate>
 <argument><p>The preceding article was provided by members of The Law
 Project in Atlanta.</p></argument>
 
@@ -244,7 +244,7 @@ sentences below about six years and removes a good bit of the judges' discretion
 <div2 id="sc02-4wilayto.005" n="Fighting the Klan in the Military" type="Article">
 <head>Fighting the Klan in the Military</head>
 <docAuthor>By Phil Wilayto</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 8-11</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 8-11</docDate>
 <argument><p>Phil Wilayto is a shop steward and writer in the Tidewater
 area.</p></argument>
 
@@ -323,7 +323,7 @@ Klan", and the chants resounded off the walls of the resort motels, bars, and ca
 <div2 id="sc02-4phillips.006" n="Reflections on Racial Progress in Mississippi:1964 Freedom Summer and Rosedale Mississippi 1979" type="Article">
 <head>Reflections on Racial Progress in Mississippi:1964 Freedom Summer and Rosedale Mississippi 1979</head>
 <docAuthor>By Ivory Phillips</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 12-16</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 12-16</docDate>
 <argument><p>Ivory Phillips is chairman of the Social Science Department at Jackson State University.
 </p></argument>
 
@@ -442,7 +442,7 @@ place peacefully involving Blacks and Whites.</p>
 <div2 id="sc02-4gibson.007" n="Reflections on Racial Progress in Mississippi:'Freedom Summer' After Fifteen Years" type="Article">
 <head>Reflections on Racial Progress in Mississippi:'Freedom Summer' After Fifteen Years</head>
 <docAuthor>By Gordon D. Gibson</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 17-19</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 17-19</docDate>
 <argument><p>Gordon D. Gibson is a free lance writer and pastor of a Unitarian church in Jackson.
 </p></argument>
 
@@ -509,7 +509,7 @@ while the struggle continued at its greatest intensity, but have now claimed cen
 <head>Blacks Confronting Minority Problems in the Sunshine
 State</head>
 <docAuthor>By Al Burt</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 20-22</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 20-22</docDate>
 <argument><p>Al Burt is a roving columnist for the <hi rend="italic">Miami
 Herald</hi>.</p></argument>
 
@@ -569,7 +569,7 @@ screen out Blacks; that there be an annual report outlining affirmative action p
 <div2 id="sc02-4staff.008" n="Atlanta Community Food Bank" type="Article">
 <head>Atlanta Community Food Bank</head>
 <docAuthor>By Staff</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 22</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 22</docDate>
 
 <p>Every year 20 percent of the food in America is thrown away for
 such reasons as improperly labeled items, undersized or oversized
@@ -633,7 +633,7 @@ Southern Representatives Oppose Welfare Reform" type="Article">
 <head>Economic Development:
 Southern Representatives Oppose Welfare Reform</head>
 <docAuthor>By Steve Suitts</docAuthor>
-<docDate>Vol. 2, No. 4, 1980, pp. 24</docDate>
+<docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 24</docDate>
 
 <p>Proposing to increase present payments to the Southern poor, major welfare reform was passed in the U.S. House of Representatives on November 7th with strong opposition from a solid, Southern Congressional delegation.</p>
 

@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
          </seriesStmt>
          <sourceDesc>
             <bibl>Southern Changes.  Volume 5, Number 1.  January-February
-1989</bibl>
+1983</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -64,13 +64,14 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc05-1.001" n="Southern Changes 5:1" type="Issue">
             <head>Southern Changes.  Volume 5, Number 1, 1983</head>
             <p>
-               <title>Southern Changes</title>.  Volume 5, Number 1, 1983</p>
+               <title>Southern Changes</title>.  Volume 5, Number 1,
+	       <date value="1983-01">1983</date></p>
             <div2 id="sc05-1williams.002" n="Ronald Reagan and the New Republican South" type="Review">
                <head>
                   <title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
                <docAuthor>By RANDALL WILLIAMS</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 19-20</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
                <argument>
                   <p>Randall Williams, a writer and editor who lives in
 Montgomery, is a Yellow-dog Democrat.</p>
@@ -177,7 +178,7 @@ Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</head>
                <docAuthor>By DAVID E. WHISNANT</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 20-24</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
                <argument>
                   <p>David E. Whisnant is professor of American Studies at the
 University of Maryland, Baltimore County. He is the author of
@@ -547,7 +548,7 @@ Robertson and Willie Nelson.</p>
             <div2 id="sc05-1tullos.004" n="Dressed for the H Bomb" type="Article">
                <head>Figures of Speech--Dressed for the H Bomb</head>
                <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 1-4</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
                <argument>
                   <p>
                      <title>Figures of Speech</title> is an occasional feature
@@ -810,7 +811,7 @@ productivity. The bacon would yet come home to roost.</p>
 County.</title> John Rozier. The University of Georgia Press,
 1982.</head>
                <docAuthor>By LAWRENCE J. HANKS</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 16-18</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
                <argument>
                   <p>Lawrence J. Hanks is a graduate student in government at
 Harvard University. He is presently studying Hancock County as part of
@@ -1034,7 +1035,7 @@ diminishes the value of <title>Black Boss</title>.</p>
             <div2 id="sc05-1frederickson.006" n="Myra Page" type="Article">
                <head>Myra Page: Daughter of the South, Worker for Change</head>
                <docAuthor>By MARY FREDERICKSON</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
                <argument>
                   <p>Formerly a research fellow at the Wellesley College
 Center for Research on Women, Mary Frederickson is now assistant
@@ -1444,7 +1445,7 @@ full circle, and to come home.</p>
                <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
                <docAuthor>By Myra Page</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, p. 13</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
                <argument>
                   <p>Myra Page (Dorothy Markey) is currently completing an
 autobiographical novel about her early years in Newport News entitled
@@ -1548,7 +1549,7 @@ argument.</p>
             <div2 id="sc05-1staff.008" n="Lillian Smith Book Awards" type="Article">
                <head>The 1982 Lillian Smith Book Awards</head>
                <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 7-10</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
                <argument>
                   <p>Mary Frances Derfner is Vice-President of the Southern
 Regional Council and chairperson of the Smith Awards Committee. Other
@@ -1871,7 +1872,7 @@ that each of us must answer for himself.</q>
             <div2 id="sc05-1barber.009" n="Delta Politics and the Almost Possible" type="Article">
                <head>Delta Politics and the Almost Possible</head>
                <docAuthor>By RIMS BARBER</docAuthor>
-               <docDate>Vol. 5, No. 1, 1983, pp. 4-7</docDate>
+               <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
                <argument>
                   <p>Rims Barber is project director for the Childrens'
 Defense Fund in Mississippi. He is a member of the Southern Regional

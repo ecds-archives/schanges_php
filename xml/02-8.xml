@@ -63,13 +63,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <body>
 <div1 id="sc02-8.001" n="Southern Changes 2:8" type="Issue">
 <head>Southern Changes. Volume 2, Number 8, 1980</head>
-<p><title>Southern Changes</title>. Volume 2, Number 8, 1980</p>
+<p><title>Southern Changes</title>. Volume 2, Number 8, <date value="1980-07">1980</date></p>
 <div2 id="sc02-8morgan.002" n="EQUAL RIGHTS"
       type="Article">
 <head>EQUAL RIGHTS</head>
 <docAuthor>By Chuck
       Morgan</docAuthor>
-<docDate>Vol. 2, No. 8, 1980,
+<docDate value="1980-07">Vol. 2, No. 8, 1980,
       pp. 4-8</docDate>
 <argument><p>Charles Morgan, Jr. worked as an
       attorney for the American Civil Liberties Union [ACLU] for a
@@ -245,7 +245,7 @@ And there is no need of that: Free men set themselves free.</hi></p>
 
 <head>A Lawyer's Judgment for the 13th Amendment</head>
 
-<docDate>Vol. 2, No. 8, 1980, p. 8</docDate>
+<docDate value="1980-07">Vol. 2, No. 8, 1980, p. 8</docDate>
 <p>It is understandable that Blacks geared their pre-Brown legal struggle to the requirement of equal protection in the Fourteenth Amendment. In the years prior to 1954, federal and state statutes separated the Black and the denied from the White and the privileged. Blacks saw equal rights, not equality.</p>
 <p>Perhaps the Thirteenth Amendment, which addresses the continuing effects of past slavery, was ignored because of a lawyer's judgment. In 1954, it is more likely that governmental action to remove the vestiges of slavery was simply beyond the imagination of lawyers and judges. These vestiges of slavery visible in the status of Blacks in education, the economy, and most aspects of life, were too uncomfortable to be mentioned.</p>
 <p>Few in those years could envision a national debate over
@@ -287,7 +287,7 @@ that restricts the achievement of equality.</p>
 
 <docAuthor>John Marquerd</docAuthor>
 
-<docDate>Vol. 2, No. 8, 1980, pp. 9-10</docDate>
+<docDate value="1980-07">Vol. 2, No. 8, 1980, pp. 9-10</docDate>
 
 <argument><p><hi rend="italic">John Marquerd is the manager
 
@@ -380,7 +380,7 @@ have so much less.</p>
 
 <docAuthor>By Laughlin McDonald</docAuthor>
 
-<docDate>Vol. 2, No. 8, 1980, pp. 11-17</docDate>
+<docDate value="1980-07">Vol. 2, No. 8, 1980, pp. 11-17</docDate>
 
 <argument>
 
@@ -533,7 +533,7 @@ opportunity, and not simply a crisis.</p>
 
 <docAuthor>By John Vodicka</docAuthor>
 
-<docDate>Vol. 2, No. 8, 1980, pp.18-21</docDate>
+<docDate value="1980-07">Vol. 2, No. 8, 1980, pp.18-21</docDate>
 
 <argument><p>John Vodicka is a free-lance writer in New Orleans.
 
@@ -654,7 +654,7 @@ County.</p>
 
 <docAuthor>By Ron Taylor</docAuthor>
 
-<docDate>Vol. 2, No. 8, 1980, pp. 22-24</docDate>
+<docDate value="1980-07">Vol. 2, No. 8, 1980, pp. 22-24</docDate>
 
 <argument><p>Ron Taylor is a reporter for the Atlanta Journal.
 
