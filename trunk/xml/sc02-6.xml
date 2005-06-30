@@ -63,12 +63,12 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <body><div1 id="sc02-6.001" n="Southern Changes 2:6" type="Issue">
 <head>Southern Changes. Volume 2, Number 6, 1980 </head>
 <p>
-<title>Southern Changes</title> Volume 2, Number 6, 1980</p>
+<title>Southern Changes</title> Volume 2, Number 6, <date value="1980-03">1980</date></p>
 
 <div2 id="sc02-6suitts.002" n="In This Issue" type="Article">
 <head>In This Issue</head>
 <docAuthor>By Steve Suitts </docAuthor>
-<docDate>Vol. 2, No. 6, 1980, pp. 2</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 2</docDate>
 
 <p>Probably no more persuasive eveidence of the divided and changeing
 nature of the South can be found outside the region's historic symbols
@@ -141,7 +141,7 @@ territory and influenced by the past we know as the South.</p>
 <div2 id="sc02-6wohlgemuth.003" n="The Fears of Race Relations: Confessions of a White Pastor" type="Article">
 <head>The Fears of Race Relations: Confessions of a White Pastor</head>
 <docAuthor>By Paul F. Wohlgemuth</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 4-6</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 4-6</docDate>
 <argument><p>Paul F. Wohlgemuth is a retired minister of the United
 Methodist Church. His last church was in the Ben Hill community in the
 Atlanta area.</p></argument>
@@ -226,7 +226,7 @@ publicity of openness becomes only a goad when dampened by a halfhearted welcome
 <div2 id="sc02-6assensoh.004" n="An Observation on New Orleans" type="Article">
 <head>An Observation on New Orleans</head>
 <docAuthor>By A.B. Assensoh</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 7</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 7</docDate>
 <argument>
 <p>A.B. Assensoh, currently studying at Dillard University in New Orleans, is a professional journalist from Ghana in West Africa.</p>
 </argument>
@@ -248,7 +248,7 @@ American South" type="Article">
 <head>French Images of the
 American South</head>
 <docAuthor>By Thomas Noland</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 8-13</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 8-13</docDate>
 <argument><p>Thomas Noland writes for the <hi rend="italic">Atlanta Constitution</hi> from Paris and teaches English at the American College.</p></argument>
 
 <p>PARIS - As French television viewers watched in horror, 12 men
@@ -399,7 +399,7 @@ acquire is barely diffused beyond a closed circle of friends and associates. Mos
 <div2 id="sc02-6young.006" n="The Drama of Greensboro" type="Article">
 <head>The Drama of Greensboro</head>
 <docAuthor>By Charles Young</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 14-19</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 14-19</docDate>
 <argument><p>(Publisher's Note: This is an excerpt from a book being written about the November 3, 1979 killings in Greensboro, N.C., of five members of the Communist Workers Party. Copyright 1980 by Charles Young. All rights reserved. No portion of this article may be reprinted without written permission of the author.)</p>
 <p>Charles Young is a free-lance writer based in Greensboro.
 </p></argument>
@@ -546,7 +546,7 @@ familiar face.</p>
 <div2 id="sc02-6greenhaw.007" n="A Year After Alabama's New Beginning" type="Article">
 <head>A Year After Alabama's New Beginning</head>
 <docAuthor>By Wayne Greenhaw</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 20-22</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 20-22</docDate>
 <argument>
 <p>Wayne Greenhaw of Montgomery Alabama, is a free-lance writer and the author of several books.</p>
 </argument>
@@ -589,7 +589,7 @@ Women's Earnings: A Ten Year Review" type="Article">
 <head>Economic Development
 Women's Earnings: A Ten Year Review</head>
 <docAuthor></docAuthor>
-<docDate>Vol. 2, No. 6, pp. 23, 25</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 23, 25</docDate>
 <argument><p>Taken from the publication, Women in the Labor Force: Some New Data Series written by Janet L. Norwood and Elizabeth Waidman.
 </p></argument>
 
@@ -629,7 +629,7 @@ self-confidence needed to seek aggressively the opportunities taken by men.</p>
 <div2 id="sc02-6suitts.009" n="Republican-Southern Democrat Coalition in Congress" type="Article">
 <head>Republican-Southern Democrat Coalition in Congress</head>
 <docAuthor>By Steve Suitts</docAuthor>
-<docDate>Vol. 2, No. 6, pp. 23-25</docDate>
+<docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 23-25</docDate>
 
 <p>A majority of the Republicans and Southern Democrats formed in 1979 an effective, conservative voting bloc which moved Congress to revamp national priorities towards more spending for national defense and away from domestic programs. A Congressional Quarterly study in late January illustrates that when the Democrats of the South and the Republicans throughout the country voted together on issues, they were most likely to prevail. Last year in 70 percent of the roll call votes in which the coalition occurred, Republicans and Southern Democrats won. In 1978, the coalition had only a 52 percent rate of success.</p>
 

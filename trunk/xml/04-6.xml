@@ -64,14 +64,15 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc04-6.001" n="Southern Changes 4:6" type="Issue">
             <head>Southern Changes.  Volume 4, Number 6, 1982</head>
             <p>
-               <title>Southern Changes.</title>  Volume 4, Number 6, 1982</p>
+               <title>Southern Changes.</title>  Volume 4, Number 6,
+	       <date value="1982-11">1982</date></p>
             <div2 id="sc04-6tullos.002" n="Rockefeller Philanthropy and Public Health in the New South" type="Review">
                <head>
                   <title>The Germ of Laziness: Rockefeller Philanthropy and Public
 Health in the New South.</title> by John Ettling, Harvard University
 Press, 1981.</head>
                <docAuthor>By ALLEN TULLOS.</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 15-17</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 15-17</docDate>
                <p>Toward the end of his study of the Rockefeller Sanitary Commission
 for the Eradication of Hookworm Disease, John Ettling writes that "so
 large a hand has the [Rockefeller] Foundation had in shaping the
@@ -255,7 +256,7 @@ whites, could not allow.</p>
             <div2 id="sc04-6thrasher.003" n="Fifty Years With Highlander" type="Article">
                <head>Fifty Years With Highlander</head>
                <docAuthor>By SUE THRASHER</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 4-9</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate>
                <argument>
                   <p>Sue Thrasher is on the program staff at
 Highlander.</p>
@@ -657,7 +658,7 @@ Lincoln Brigade and died in the Spanish Civil War.</p>
             <div2 id="sc04-6suitts.004" n="Local Color Defaulting On Justice" type="Article">
                <head>Local Color Defaulting On Justice</head>
                <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 1-3</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate>
                <p>Long lines at the Supreme Court building in Washington are
 commonplace as tourists and school kids come daily to walk the halls
 and rummage the displays along its vacuous ground floor. Yet, many who
@@ -796,7 +797,7 @@ immobile Congress, O Ye, O Ye, God save this country.</p>
             <div2 id="sc04-6staff.005" n="Reapportionment Roundup" type="Article">
                <head>Reapportionment Roundup</head>
                <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 20-24</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 20-24</docDate>
                <argument>
                   <p>This report was prepared by the staff of the Southern
 Regional Council.</p>
@@ -1204,7 +1205,7 @@ incredible," remarks Jack Gravely, the head of the NAACP.</p>
             <div2 id="sc04-6arkansas.006" n="Denton and Helms" type="Article">
                <head>Denton and Helms: The Enemies Within.  Patriotism in Peace</head>
                <docAuthor>From the ARKANSAS GAZETTE</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, p. 9</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate>
                <p>Betty Bumpers' Peace Links may draw from a remarkable episode in
 the United States Senate impressive reassurance that it is gaining in
 effectiveness and influence. The Senate, only hours before adjourning,
@@ -1248,7 +1249,7 @@ groups are practicing patriotism of a high order.</p>
             <div2 id="sc04-6sitton.007" n="North Carolina Pays the Price" type="Article">
                <head>North Carolina Pays the Price</head>
                <docAuthor>By CLAUDE SITTON</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 9-11</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate>
                <argument>
                   <p>Claude Sitton its the editor of the <title>Raleigh News
 and Observer</title>.</p>
@@ -1349,7 +1350,7 @@ with Atomic Radiation.</title> By Harvey Wasserman and Norman Solomon
 with Robert Alverez and Eleanor Walters, New York: Dell Publishing
 Co., 1982, $12.95.</head>
                <docAuthor>By JOHN NORTHROP</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 19-20</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 19-20</docDate>
                <argument>
                   <p>John Northrop is a member of the Conservation Committee
 of the Birmingham Audubon Society.</p>
@@ -1484,7 +1485,7 @@ its high human costs?</p>
             <div2 id="sc04-6mcmillan.009" n="Beaufort Academy" type="Article">
                <head>Beaufort Academy--"None Ever Applied"</head>
                <docAuthor>By GEORGE MCMILLAN</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 3-4</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate>
                <argument>
                   <p>George McMillan its a freelance writer who lives in
 Frogmore, South Carolina.</p>
@@ -1631,7 +1632,7 @@ answer" on whether he was a John Birch member.</p>
             <div2 id="sc04-6connette.010" n="Worker Owned" type="Article">
                <head>Worker Owned: Some Southern Beginnings</head>
                <docAuthor>By WOODY CONNETTE</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 11-15</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate>
                <argument>
                   <p>Woody Connette is managing attorney at Legal Services of
 Southern Piedmont, Inc., in Concord, North Carolina.</p>
@@ -2078,7 +2079,7 @@ these worker owned businesses.</p>
                   <title>Bad Blood: The Tuskegee Syphilis Experiment. By James
 H. Jones.</title> New York: The Free Press, 1981. $14. 95.</head>
                <docAuthor>By BESS BEATTY</docAuthor>
-               <docDate>Vol. 4, No. 6, 1982, pp. 17-19</docDate>
+               <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 17-19</docDate>
                <argument>
                   <p>Bess Beatty is an assistant professor of history at
 Shorter College, Rome, Georgia.</p>

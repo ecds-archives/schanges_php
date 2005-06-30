@@ -63,14 +63,15 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc04-3.001" n="Southern Changes 4:3" type="Issue">
             <head>Southern Changes.  Volume 4, Number 3, 1982</head>
             <p>
-               <title>Southern Changes</title>.  Volume 4, Number 3, 1982</p>
+               <title>Southern Changes</title>.  Volume 4, Number 3,
+	       <date value="1982-06">1982</date></p>
             <div2 id="sc04-3tullos.002" n="Against the Grain" type="Review">
                <head>
                   <title>Against the Grain: Southern Radicals and Prophets,
 1929-1959.</title> Edited by Anthony P. Dunbar, Charlottesville:
 University Press of Virginia, 1981.</head>
                <docAuthor>ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 14-15</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 14-15</docDate>
                <p>The past remains as unpredictable as ever. As proof, we have Tony
 Dunbar's fine book, <title>Against the Grain</title>. From scattered,
 vagrant and half-forgotten sources, he has fashioned a story which is
@@ -162,7 +163,7 @@ thought and care.</p>
                   <title>Murder At Broad River Bridge.</title> By Bill Shipp,
 Atlanta: Peachtree Publishers, 1981, $8.95.</head>
                <docAuthor>By GRANT WILSON</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, p. 15</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 15</docDate>
                <argument>
                   <p>Grant Wilson is a freelance writer and an aspiring
 gentleman farmer in Kensington, Ga.</p>
@@ -204,7 +205,7 @@ again and again.</p>
             <div2 id="sc04-3tullos2.004" n="Figures of Speech" type="Article">
                <head>Figures of Speech--Can a Country Boy Survive?</head>
                <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 1-3</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 1-3</docDate>
                <p>You have to stay up awful late in Alabama nowadays to put nostalgia
 and melancholy under the table. In cahoots, Action News and the
 jukebox are blowing the null breath of extinction. Some of the good ol
@@ -371,7 +372,7 @@ Alabamians ought to consider in this season of survival.</p>
             <div2 id="sc04-3suitts.005" n="Reagan's Way of Eliminating Poverty" type="Article">
                <head>Reagan's Way of Eliminating Poverty</head>
                <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 11-12</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 11-12</docDate>
                <p>Last month the Census Bureau confirmed that Southerners remain
 closer kin to poverty than anyone else in the country. Southern
 states, as of 1980, continue to have the nation's highest rates of
@@ -461,7 +462,7 @@ increasingly generous by comparison.</p>
             <div2 id="sc04-3staff.006" n="The Race Toward Reapportionment" type="Article">
                <head>The Race Toward Reapportionment</head>
                <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 18-24</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 18-24</docDate>
                <argument>
                   <p>This report was prepared by the staff of the Southern
 Regional Council</p>
@@ -1135,7 +1136,7 @@ black leaders find the claims unpersuasive.</p>
             <div2 id="sc04-3israel.007" n="Ending the Short Stick In Mississippi's Woods" type="Article">
                <head>Ending the Short Stick In Mississippi's Woods</head>
                <docAuthor>By TOM ISRAEL and RANDAEL WILLIAMS</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 16-18</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 16-18</docDate>
                <argument>
                   <p>Tom Israel is the lead organizer for the United Wood
 cutters Association. This article is adapted from his remarks at a
@@ -1282,7 +1283,7 @@ example may be the first step on the road out of poverty.</p>
             <div2 id="sc04-3beecher.008" n="ENSLEY, ALABAMA" type="Article">
                <head>ENSLEY, ALABAMA: 1932</head>
                <docAuthor>By John Beecher</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, p. 17</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 17</docDate>
                <argument>
                   <p> From <title>Collected Poems</title>, 1924-1974 by John
 Beecher, New York: MacMillan, 1974.</p>
@@ -1323,7 +1324,7 @@ more </l>
             <div2 id="sc04-3dyer.009" n="The Lost Colony of North Carolina" type="Article">
                <head>The Lost Colony of North Carolina</head>
                <docAuthor>By DONNA DYER and FRANK ADAMS</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 3-11</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 3-11</docDate>
                <epigraph>
                   <p>"We don't have poverty in Hertford County. People live
 like that because they want to. They don't want it any other
@@ -2020,7 +2021,7 @@ and pay taxes.</p>
             <div2 id="sc04-3dowe.010" n="Paying the Price In Pickens County" type="Article">
                <head>Paying the Price In Pickens County</head>
                <docAuthor>By KELLY DOWE</docAuthor>
-               <docDate>Vol. 4, No. 3, 1982, pp. 13-14</docDate>
+               <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 13-14</docDate>
                <argument>
                   <p>Kelly Dowe its a freelance writer who lives in
 Birmingham, Alabama.</p>

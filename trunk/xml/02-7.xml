@@ -63,13 +63,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <body><div1 id="sc02-7.001" n="Southern Changes 2:7" type="Issue">
 <head>Southern Changes. Volume 2, Number 7, 1980</head>
 <p>
-<title>Southern Changes</title>. Volume 2, Number 7, 1980</p>
+<title>Southern Changes</title>. Volume 2, Number 7, <date value="1980-06">1980</date></p>
 
 <div2 id="sc02-7suitts.002" n="A Tribute to Bell Wiley"
       type="Article">
 <head>A Tribute to Bell Wiley</head>
 <docAuthor>By Steve Suitts</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, pp. 2</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2</docDate>
 
 <p>When I was at the University of Alabama I once had a theory that most professors and administrators showed up at meetings late because it was the custom of the university at that time to begin classes 10 minutes after the hour or half hour. With that impression of most college professors I was, of course, a bit surprised in a small way when Bell Wiley came to our meetings at the SRC offices usually ahead of time.</p>
 
@@ -89,7 +89,7 @@ way that reminded me of the sage of the backwoods country store who always seeme
       type="Article">
 <head>In this Issue</head>
 <docAuthor>By Steve Suitts</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, pp. 2-3</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2-3</docDate>
 
 <p>About this time of year in 1948 a simple, yet remarkable occurence
 took place in Richmond, Virginia. A Black man named Oliver Hill was
@@ -177,7 +177,7 @@ been known or practiced on this soil.</p>
       type="Article">
 <head>Survival Week Protests Budget Cuts</head>
 <docAuthor>Janis Sharp Powell</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, p. 4</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, p. 4</docDate>
 
 
 <p>"No cuts in poor people's programs" was the message being sent to Congress and the nation by the poor people and labor, civil rights, tenants and religious organizations involved in planning Survival Week.</p>
@@ -208,7 +208,7 @@ current rate of inflation, without an increase, the poor will have a
 <div2 id="sc02-7eisenberg.006" n="The Measure of Poverty" type="article">
 <head>The Measure of Poverty</head>
 <docAuthor>Pablo Einsenberg</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, pp. 5-6</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
 <argument>
 <p>This article is adapted from a publication of the Center for Community Change, a Washingtonbased organization assisting local community development in low-income urban and rural areas. Pablo Einsenberg is the Center's president.</p></argument>
 
@@ -308,7 +308,7 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
       type="Article">
 <head>Political Changes in Terrible Terrell</head>
 <docAuthor>By Betty Chaney</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, pp. 7-10</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 7-10</docDate>
 <argument>
 <p>Betty Chaney is senior editor of <hi rend="italic">Southern Changes</hi>.</p></argument>
 
@@ -418,7 +418,7 @@ a page from Dawson's history yet to be written.</p>
       type="Article">
 <head>The Past Of Lowndes County's Future</head>
 <docAuthor>By Tom Gordon</docAuthor>
-<docDate> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
+<docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
 <argument>
 <p>Tom Gordon is state editor of the <hi rend="italic">Anniston Star</hi> in Alabama.</p></argument>
 <p>HAYNEVILLE, ALA.&#x2014;The 124-year-old courthouse in this Black Belt town once was the political hub and social watering hole for White Lowndes countians. Remembered as stylish and attractive, the whitewashed building with green shutters not only housed most county government offices but also was the site of square dances, dress balls, and other items on the social calendars of the local White populace. The dances usually took place in the second floor's courtroom, where couples would reach from an inside staircase or from two winding outer stairways facing the courthouse square.</p>
@@ -551,7 +551,7 @@ which to work with Blacks, many of them carry a baggage of opinions and experien
 <div2 id="sc02-7greenhaw.004" n="Half Pints and Rain Barrels: Hunger in Alabama"      type="Article">
 <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
 <docAuthor>By Wayne Greenhaw</docAuthor>
-<docDate> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
+<docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
 <argument>
 <p>Wayne Greenhaw is a freelance journalist in Montgomery, Al. and is author of several books about Southern events and people.</p></argument>
 
@@ -659,7 +659,7 @@ and a rustied-out car in the front yard.</p>
       type="Article">
 <head>McDuffie: The Case Behind Miami's Riots</head>
 <docAuthor>By Patrice Gaines-Carter</docAuthor>
-<docDate>Vol. 2, No. 7, 1980, pp. 20-23</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 20-23</docDate>
 <argument><p>Patrice Gaines-Carter is a reporter for the Miami
 News.</p></argument>
 
@@ -771,7 +771,7 @@ still list as "accidental."</p>
 <div2 id="sc02-7sidebar.006" n="We Are Tired of Praying"
       type="Article">
 <head>"We Are Tired of Praying"</head>
-<docDate>Vol. 2, No. 7, 1980, p. 23</docDate>
+<docDate value="1980-06">Vol. 2, No. 7, 1980, p. 23</docDate>
 
 <p>On May 17, in Tampa, Florida, four Dade County police officers charged in the beating death of Black insurance executive Arthur McDuffie were found innocent of all charges by a six member, all-male White jury. The jury deliberated only two hours before returning their verdict. What could have been the end to a grizzly story of police violence and brutality turned out to be only another part of it. By ten o'clock that night the city of Miami was a battleground and the battle cry was "McDuffie."</p>
 

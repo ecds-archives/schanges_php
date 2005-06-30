@@ -32,7 +32,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 3, Number 2. 1981</bibl>
+            <bibl>Southern Changes.  Volume 3, Number
+	    2. February-March 1981</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -57,12 +58,12 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <div1 id="sc03-2.001" n="Southern Changes 3:2" type="Issue">
 <head>Southern Changes. Volume 3, Number 2, 1981</head>
 <p>
-<title>Southern Changes</title>. Volume 3, Number 2, 1981</p>
+<title>Southern Changes</title>. Volume 3, Number 2, <date value="1981-02">1981</date></p>
 
 <div2 id="sc03-2staff.001" n="EDITOR'S NOTE" type="Article">
 <head>EDITOR'S NOTE</head>
 <docAuthor>Staff</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 4-5</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 4-5</docDate>
 
 <p>Four states&#x2014;and only Arkansas in the South&#x2014;elect
 governors for merely a two-year term. More than most other high ranking
@@ -95,7 +96,7 @@ Washington.</p>
 <div2 id="sc03-2clinton.002" n="An Era of 'Pride and Hope' 1979" type="Article">
 <head>An Era of "Pride and Hope" 1979</head>
 <docAuthor>By Bill Clinton</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 4, 18</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 4, 18</docDate>
 
 <p>As we celebrate this new beginning, I want to explain as clearly as my command of the language will allow what kind of governor I will try to be.</p>
 
@@ -152,7 +153,7 @@ not fail! Thank you, and God bless you all.</p>
       Over' 1981" type="Article">
 <head>"The Era of Unchecked Government...Is Over" 1981</head>
 <docAuthor>By Frank White</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 5, 18</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 5, 18</docDate>
 
 <p>My election endorsed a new type of leadership for Arkansas. The challenge for the 80s is very clear: "The era of unchecked government fiscal expansion is over. Government is not, never was, and cannot be all things to all people."</p>
 
@@ -201,7 +202,7 @@ Washington office (of the state of Arkansas) is closed, allowing $187,000 saved 
 <div2 id="sc03-2suitts.004" n="Election Results '80" type="Article">
 <head>Election Results '80</head>
 <docAuthor>By Steve Suitts</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 6-9</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 6-9</docDate>
 
 <p><hi rend="bold">The Rise of Southern Suburban Politics</hi></p>
 
@@ -851,7 +852,7 @@ Patterns in 1980 Election</head>
 <div2 id="sc03-2presti.007" n="North Carolina Reapportionment: 1981 Version" type="Article">
 <head>North Carolina Reapportionment: 1981 Version</head>
 <docAuthor>By Susan M. Presti</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 10-11, 19</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 10-11, 19</docDate>
 <argument><p>Susan M. Presti is a staff member of the North Carolina
 Center for Public Policy Research, an independent research group. This
 article is reprinted from <hi rend="bold">N.C. Insight</hi>, the
@@ -921,7 +922,7 @@ it should be," says Brock.</p>
       Mississippi Legislature" type="Article">
 <head>The Good Ole Boys Club Prevails: Mississippi Legislature</head>
 <docAuthor>By D.O. Bell</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 12-13</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 12-13</docDate>
 <argument><p>D.O. Bell is a staff member of the Southern Regional
 Council's Southern Project for Fair, Open Government.</p></argument>
 
@@ -973,7 +974,7 @@ Backwoods: Woodcutters Organize (Part II)"
 <head>Big Profits and Little Pay in South's 
 Backwoods: Woodcutters Organize (Part II)</head>
 <docAuthor>By Wayne Greenhaw</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 14-17</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 14-17</docDate>
 <argument>
 <p>Wayne Greenhaw is a freelance journalist in Montgomery, Alabama and
 author of several Southern books. His final installment on the woodcutters will appear in the next issue.</p></argument>
@@ -1055,7 +1056,7 @@ woodcutters to make sure our efforts do not go to waste."</p>
      type="Article">
 <head>Update: Alabama Legislature</head>
 <docAuthor>By SLRC Staff</docAuthor>
-<docDate>Vol. 3, No. 2, 1981, pp. 18-19</docDate>
+<docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 18-19</docDate>
 
 <p>The Alabama legislature returned to Montgomery on February 3rd to face critical budget problems which have been plaguing the state for years. Tax revenues earmarked for many functions of state government, especially the education system, are failing to keep pace with inflation and Alabama's bare bones approach to government services is leading to drastic proposals to cutback public assistance and social welfare programs.</p>
 

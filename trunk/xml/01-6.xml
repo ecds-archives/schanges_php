@@ -64,12 +64,12 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <body><div1 id="sc01-6.001" n="Southern Changes 1:6" type="Issue">
 <head>Southern Changes. Volume 1, Number 6, 1979</head>
 <p>
-<title>Southern Changes</title>. Volume 1, Number 6, 1979</p>
+<title>Southern Changes</title>. Volume 1, Number 6, <date value="1979-03">1979</date></p>
 
 <div2 id="sc01-6staff.003" n="Tribute to Gwendolyn Cherry" type="Article">
 <head>Tribute to Gwendolyn Cherry</head>
 <docAuthor>By Staff</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.2-3</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.2-3</docDate>
 
 
 <p> On February 7, Gwen Cherry, the Vice-President of the Southern
@@ -133,7 +133,7 @@ vision.
 <div2 id="sc01-6sun.004" n="A RETURN TO THE SUN" type="Article">
 <head>A RETURN TO THE SUN</head>
 <docAuthor>BY SUN and REP</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.4,12</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.4,12</docDate>
 <argument><p>SUN/REP is a new, non-profit, public interest organization
 committed to the advocacy and commercialization of appropriate
 technology in the Southeast United States. Direct your inquiries to:
@@ -189,7 +189,7 @@ economic well-being and the pride of self-sufficiency.</p>
 <div2 id="sc01-6sun.005" n="Black Farmers: A Vanishing Breed" type="Article">
 <head>Black Farmers: A Vanishing Breed</head>
 <docAuthor>by Robert M. Press</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.5-7</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.5-7</docDate>
 
 <argument><p>Robert Press is a staff correspondent of <hi rend="italic">The Christian Science Monitor</hi>.</p>
 
@@ -332,7 +332,7 @@ their needs.</p>
 <div2 id="sc01-6grahamctr.007" n="Solar Greenhouses: A Method of Survival for Small Farmers" type="Interview">
 <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
 <docAuthor>By the Staff of the Graham Center</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.10-12</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.10-12</docDate>
 <argument><p>This article was prepared by the staff of the Graham Center.
 </p></argument>
 
@@ -393,7 +393,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
 <div2 id="sc01-6hunter.006" n="Wilcox County-- A Day in Wilcox County:1967" type="Article">
 <head>Wilcox County-- A Day in Wilcox County:1967</head>
 <docAuthor>by Floyd Hunter</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.13-14</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.13-14</docDate>
 
 
 <p><hi rend="bold">Editor's Note:</hi><hi rend="italic"> As part of a report by the National Education Association regarding conditions of teaching and learning in Wilcox County, Alabama, Floyd Hunter wrote that "Life in Wilcox County slays the same in spite of a lot of talk about 'progress' and 'change.' Substantively the Negro, as least common denominator in the social scale, stays put. Until there is an emerging newness in relation to his lot, no basic social change can actually be noted in Wilcox County."</hi></p>
@@ -584,7 +584,7 @@ Farming" magazine. December 1977.</p>
 <div2 id="sc01-6swift.002" n="A New Day in Wilcox County: 1978" type="Article">
 <head>A New Day in Wilcox County: 1978</head>
 <docAuthor>By Harriet Swift</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp. 15,16,28</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 15,16,28</docDate>
 <argument><p>
 Harriet Swift is a copy editor at the Birmingham Post-Herald.
 </p></argument>
@@ -690,7 +690,7 @@ it," says Johnson confidently. "We're doing real well."</p>
 <div2 id="sc01-6adamson.007" n="Problems  of Pain" type="Article">
 <head>Problems  of Pain</head>
 <docAuthor>by June Adamson</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.17-18</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.17-18</docDate>
 <argument><p>
 June Adamson, a former working journalist, now teaches journalism at the University of Tennessee.</p></argument>
 <p>The X-rays had been taken and I lay on the emergency room cot in the curtained cubicle waiting for the doctor to see whether I had any reason to be in such pain. My car had gone into a skid on the icy interstate and I felt lucky to be alive. But the breath had been knocked out of me, and now there was this intolerable pain in my side and under by shoulder blade. It was a Sunday, and I felt grateful that an orthopedic specialist who was an acquaintance was willing to come to the hospital to help me.</p>
@@ -749,7 +749,7 @@ was one of the doctors on emergency service. In an accent that told me his backg
 <div2 id="sc01-6looney.008" n="Segregation Order at Readsville Prison" type="Article">
 <head>Segregation Order at Readsville Prison</head>
 <docAuthor>by Ginny Looney</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.19-21</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.19-21</docDate>
 <argument><p>Ginny Looney is a researcher studying the effects of rape on women
 and the ways they resolse problems caused by the assault.</p></argument>
 
@@ -839,7 +839,7 @@ sue the state. In August, Hopper, the warden who recognized the inmate council, 
 <div2 id="sc01-6hall.009" n="Games Prison Bureaucrats Play: The Story of the Olympic Prison" type="Article">
 <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
 <docAuthor>by Andy Hall</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp.22-25</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp.22-25</docDate>
 <argument><p>Andy Hall was a coordinator in Unitarian Unisersalist Service
 Committee's National Moratorium on Prison Construction, for the
 Washington, D.C., office for two-and-a-half years before moving to
@@ -972,7 +972,7 @@ conversion plan represents only one in a long line of new federal prisons, it no
 <div2 id="sc01-6johnston.010" n="URBAN AND RURAL DEVELOPMENT" type="Article">
 <head>URBAN AND RURAL DEVELOPMENT</head>
 <docAuthor>by Diane Johnston</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp. 26</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 26</docDate>
 
 <p>". . . they were ready to face the odds and fight for what they fervently believe in - the future of the family farmer." That was how Atlanta Journal reporter Charles Seabrook described the atmosphere surrounding the American Agricultural Movement's (AAM) tractorcade to the nation's capitol this January. It was the farmers' second trip to Washington to protest what they felt were unjustly low farm incomes. En route in January, the Southern contingent of the AAM stopped by the Southern Regional Council's office to hold a press briefing for the Atlanta media. It was an attempt on their part to help the media understand their complaints and to offer them an opportunity to explain their position relative to the rest of the nation as consumers.</p>
 
@@ -1004,7 +1004,7 @@ the American Agricultural Movement, remains uncertain.</p>
 <div2 id="sc01-6staff.011" n="SOUTHERN WOMEN" type="Article">
 <head>SOUTHERN WOMEN</head>
 <docAuthor>by Staff</docAuthor>
-<docDate>Vol. 1, No. 6, 1979, pp. 27-28</docDate>
+<docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 27-28</docDate>
 
 <p>Women are now in the majority of college students in the South, according to an analysis by the Southern Regional Education Board (SREB) of preliminary statistics of last fall's collegiate enrollment.</p>
 

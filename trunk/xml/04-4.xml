@@ -64,12 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc04-4.001" n="Southern Changes 4:4-5" type="Issue">
             <head>Southern Changes.  Volume 4, Number 4-5, 1982</head>
             <p>
-               <title>Southern Changes</title>.  Volume 4, Number 4-5, 1982</p>
+               <title>Southern Changes</title>.  Volume 4, Number 4-5,
+	       <date value="1982-08">1982</date></p>
             <div2 id="sc04-4willingham.002" n="Black Political Participation in the 1980's" type="Article">
                <head>Black Political Participation in the 1980's: Challenged by
 Conservatism</head>
                <docAuthor>By ALEX WILLINGHAM</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 5-11</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 5-11</docDate>
                <argument>
                   <p>Alex Willingham has been Director of the Revenue Sharing
 Enforcement Project of the American Civil Liberties Union. He will
@@ -722,7 +723,7 @@ Georgia in 1982</title> (Atlanta: Southern Regional Council, 1982).</p>
             <div2 id="sc04-4schlesinger.003" n="Shaping the South's Pre-war Economy" type="Article">
                <head>Daddy's Missile: Shaping the South's Pre-war Economy</head>
                <docAuthor>By TOM SCHLESINGER</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate>
                <argument>
                   <p>Tom Schlesinger is a carpenter and freelance writer
 living in Tennessee. He currently works with the Highlander Center's
@@ -1410,7 +1411,7 @@ pages 15-17.</note>
             <div2 id="sc04-4piliawsky.005" n="From Black Agenda To National Policy" type="Article">
                <head>A Few Proposals: From Black Agenda To National Policy</head>
                <docAuthor>By MONTE PILIAWSKY</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 11-16</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 11-16</docDate>
                <argument>
                   <p>Monte Piliawsky is an associate professor of political
 science at Dillard University. He is author of <title>Exit 13:
@@ -1909,7 +1910,7 @@ The Search for Political Power</title>. New York: Longman, Inc.,
             <div2 id="sc04-4looney.006" n="Biting the Budget At Legal Services" type="Article">
                <head>Biting the Budget At Legal Services</head>
                <docAuthor>By GINNY LOONEY</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 19-22</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 19-22</docDate>
                <argument>
                   <p>Ginny Looney is a writer and researcher living in
 Atlanta. She is the author of <title>Preparing Students for Work: An
@@ -2191,7 +2192,7 @@ representation ultimately disable the work of Legal Services?</p>
             <div2 id="sc04-4hays.007" n="Laying By" type="Article">
                <head>Laying By</head>
                <docAuthor>Brooks Hays: 1898-1981</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 17-18</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 17-18</docDate>
                <argument>
                   <p>"Laying By" is an occasional feature of
 <title>Southern Changes</title> which commemorates special lives and
@@ -2381,7 +2382,7 @@ maintained.</p>
             <div2 id="sc04-4gaillard.008" n="Laments on the Demise of Tom Turnipseed" type="Article">
                <head>Laments on the Demise of Tom Turnipseed</head>
                <docAuthor>By FRYE GAILLARD</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, p. 31</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, p. 31</docDate>
                <argument>
                   <p>Frye Gaillard is an editorial page writer for the
 Charlotte <title>Observer,</title> where this article originally
@@ -2456,7 +2457,7 @@ wrong.</p>
             <div2 id="sc04-4dowe.009" n="More Than Steel Mills Are Silent" type="Article">
                <head>More Than Steel Mills Are Silent</head>
                <docAuthor>By KELLY DOWE</docAuthor>
-               <docDate>Vol. 4, No. 4, 1982, pp. 3-5</docDate>
+               <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 3-5</docDate>
                <argument>
                   <p>Kelly Dowe is a freelance writer living in Birmingham,
 Alabama.</p>

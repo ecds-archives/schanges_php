@@ -63,11 +63,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc04-2.001" n="Southern Changes 4:2" type="Issue">
             <head>Southern Changes.  Volume 4, Number 2, 1982</head>
             <p>
-               <title>Southern Changes</title>.  Volume 4, Number 2, 1982</p>
+               <title>Southern Changes</title>.  Volume 4, Number 2,
+	       <date value="1982-04">1982</date></p>
             <div2 id="sc04-2williams.002" n="Notes of a Klanwatcher" type="Article">
                <head>Notes of a Klanwatcher</head>
                <docAuthor>By RANDALL WILLIAMS</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, pp. 11-13</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 11-13</docDate>
                <argument>
                   <p>Randall Williams is an Alabama writer who its currently
 serving as director of the KLANWATCH project of the Southern Poverty
@@ -284,7 +285,7 @@ the Klan."</p>
             <div2 id="sc04-2wheeler.003" n="Fair Representation is Essential to Democracy" type="Article">
                <head>'Fair Representation is Essential to Democracy'</head>
                <docAuthor>By RAYMOND WHEELER</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, p. 10</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 10</docDate>
                <argument>
                   <p>The late Raymond Wheeler, a former president of the
 Southern Regional Council, made these comments to a North Carolina
@@ -381,7 +382,7 @@ will be solved.</p>
                   <title>Protest and Survive.</title> Edited by E.P. Thompson and
 Dan Smith, New York: Monthly Review Press, 1981 $4.95.</head>
                <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, p. 4</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 4</docDate>
                <argument>
                   <p>Allen Tullos is a native Alabamian who is now completing
 his doctoral dissertation in history at Yale University.</p>
@@ -440,7 +441,7 @@ in the streets protesting the U.S. war policy.</p>
             <div2 id="sc04-2suitts.005" n="The Reagan Impact On the South's Poor" type="Article">
                <head>The Reagan Impact On the South's Poor</head>
                <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, pp. 15-16</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 15-16</docDate>
                <argument>
                   <p>Steve Suitts is the executive director of the Southern
 Regional Council. This article is adapted from remarks at the Southern
@@ -576,7 +577,7 @@ the American character.</p>
             <div2 id="sc04-2staff.006" n="An Update on Voting Changes in the South" type="Article">
                <head>An Update on Voting Changes in the South</head>
                <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, pp. 5-11</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 5-11</docDate>
                <argument>
                   <p>This report was prepared by the staff of the Southern
 Regional Council.</p>
@@ -1146,7 +1147,7 @@ his group has drawn.</p>
             <div2 id="sc04-2moore.007" n="Remarks in Memory Of Lillian Smith" type="Article">
                <head>Remarks in Memory Of Lillian Smith</head>
                <docAuthor>By GENE GABRIEL MOORE</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, pp. 13-15</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 13-15</docDate>
                <argument>
                   <p>The articles below were excerpted from speeches delivered
 at the Atlanta Biltmore Hotel on Nov. 6, when the 1981 Lillian Smith
@@ -1391,7 +1392,7 @@ world again.</p>
             <div2 id="sc04-2dunbar.008" n="Democracy Looks At the New South" type="Article">
                <head>Democracy Looks At the New South</head>
                <docAuthor>By LESLIE DUNBAR</docAuthor>
-               <docDate>Vol. 4, No. 2, 1982, pp. 1-4</docDate>
+               <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 1-4</docDate>
                <argument>
                   <p>Dr. Leslie Dunbar is the former director of the Southern
 Regional Council and of the Field Foundation. He now works with the
