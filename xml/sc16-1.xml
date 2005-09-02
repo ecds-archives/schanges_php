@@ -57,14 +57,13 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <div1 id="sc16-1.001" n="Southern Changes 16:1" type="Issue">
 <head> Southern Changes. Volume 16, Number 1, Spring, 1994 </head>
 <p>
-<title> Southern Changes</title>. Volume 16, Number 1, Spring, 1994</p>
+<title> Southern Changes</title>. Volume 16, Number 1, Spring, <date value="1994-03">1994</date></p>
 
-<div2 id= "sc16-1guerrero.002" n="Ominous Crime Bill" type="Article">
+<div2 id="sc16-1.002" n="Ominous Crime Bill" type="Article">
 <head>Ominous Crime Bill</head>
-<docAuthor>By GENE GUERRERO</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 1-6</docDate>
+<byline>By <docAuthor><name reg="Guerrero, Gene">Gene Guerrero</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 1-6</docDate>
 
-<argument><p>Gene Guerrero is the field director of the American Civil Liberties Union's legislative office in Washington, D. C.</p></argument>
 
 <p>Congress is about to pass yet another massive, omnibus crime bill&#x2014;the most expensive and possibly the most destructive ever. Like its predecessors, this crime bill was primarily fashioned with an eye towards the coming elections. What few genuine reforms it does contain are due largely to three Southern members.</p>
 
@@ -77,7 +76,7 @@ drugs, there has been growing support for a more productive
 crime-fighting approach. Some 850 prominent Americans (142
 Southerners) in-
 
-<pb n="1"/>
+<pb n="2"/>
 
 cluding governors, prosecutors, judges, state legislators, and corrections officials signed a Campaign for an Effective Crime Policy manifesto last year urging a greater emphasis on crime prevention, sentencing reform, use of alternatives to incarceration, and drug treatment.</p>
 
@@ -104,7 +103,7 @@ in the charging, sentencing, and imposition of the death penalty."
 Nearly half of the federal prison population is
 
 
-<pb n="2"/>
+<pb n="3"/>
 
 black although African Americans comprise only 12 percent of the nation's population.</p>
 
@@ -145,7 +144,7 @@ prevention-minded programs are drops in the bucket compared to both
 the $15 billion for police and prisons, and to the enormous needs. And
 all of the bad clearly outweighed the little
 
-<pb n="3"/>
+<pb n="4"/>
 
 good. Yet only four Senators&#x2014;Democrats Simon (Ill.) and Feingold (Wis.), joined by Republicans Hatfield (Ore.) and Durenberger (Minn.), who oppose the death penalty&#x2014;voted against the Senate bill. Not only had reform efforts largely failed, but the Senate crime bill was a stunning setback.</p>
 
@@ -172,7 +171,7 @@ federal death penalty including offenses in which no one is
 killed. The Justice Department urged a narrowly drawn "three strikes"
 provision with only serious violent offenses counting as a
 
-<pb n="4"/>
+<pb n="5"/>
 
 strike. But the House, like the Senate, included serious drug offenses
 as a strike. The House did include a provision to allow federal prison
@@ -184,7 +183,7 @@ some circumstances. The House authorized $13.5 billion for prisons, more than do
 
 <p>Also adopted was a "safety valve" broader than the
 
-<pb n="5"/>
+<pb n="6"/>
 
 Senate provision to exclude minor, first offender, nonviolent drug offenders from mandatory minimum sentences&#x2014;a provision which may affect the sentences of several thousand current federal inmates. The House unanimously voted to ask the U.S. Sentencing Commission to recommend new similar penalties for the crack and powder forms of cocaine.</p>
 
@@ -237,16 +236,14 @@ slogans, it makes it easier to duck the tough <hi rend="italic">choices</hi> ...
 
 <p><hi rend="italic">For information on the Campaign for an
 Effective Crime Policy write to them at: 918 F St., NW #501,
-Washington, DC 20004</hi></p><pb n="6"/></div2>
+Washington, DC 20004</hi></p>
+<div3 id="sc16-1.022" type="About"><p>Gene Guerrero is the field director of the American Civil Liberties Union's legislative office in Washington, D. C.</p></div3>
+</div2>
 
-<div2 id= "sc16-1davenport.002" n="Guilty as Charged" type="Article">
+<div2 id="sc16-1.003" n="Guilty as Charged" type="Article">
 <head>Guilty as Charged</head>
-<docAuthor>By ELAINE DAVENPORT</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 8-11</docDate>
-
-<argument><p>Free-lance journalist and <title>Southern Changes</title> contributing
-editor Elaine Davenport is the associate producer of an upcoming HBO
-documentary on Medgar Evers.</p></argument>
+<byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 8-11</docDate>
 
 <p>In closing arguments at the January 27-February 5 trial of Byron de
 la Beckwith for the 1963 murder of Medgar Evers, Hinds County,
@@ -330,7 +327,7 @@ Office of Special Investigation looks for Nazi war criminals. The call
 to reopen or investigate cases has come from every quarter,
 even
 
-<pb n="8"/>
+<pb n="9"/>
 
 given that evidence may have disappeared and memories may have
 faded. "If you can ever solve a murder case, you should be able to
@@ -373,7 +370,7 @@ Varnado, Louisiana, and died instantly. He and his partner were the
 first black deputies in the sheriff's department of Washington Parish,
 known to have one of the largest Klan memberships per capita in
 
-<pb n="9"/>
+<pb n="10"/>
 
 the country. Police arrested Ernest Ray McElveen, who belonged to
 several segregationist groups, but charges were dismissed and the
@@ -404,7 +401,7 @@ Mississippi for the summer and had dared to whistle at Bryant's
 wife. Milam and Bryant were tried and found not guilty by an allmale,
 all-white jury who deliberated just
 
-<pb n="10"/>
+<pb n="11"/>
 
 over one hour. The case is
 considered pivotal because such an outrageous act against a young
@@ -436,16 +433,18 @@ as it has our family." And she reminded those who are still alive with
 a murder on their conscience to "always look over their shoulder
 because there may be someone like me and my family who will push to
 see that justice is done and never give up."</p>
-
-<div3 id= "sc16-1davenport.003" n="The Six New Witnesses" type="Article">
+<div3 id="sc16-1.023" type="About"><p>Free-lance journalist and <title>Southern Changes</title> contributing
+editor Elaine Davenport is the associate producer of an upcoming HBO
+documentary on Medgar Evers.</p></div3></div2>
+<div2 id="sc16-1.004" n="The Six New Witnesses" type="Article">
 <head>The Six New Witnesses</head>
-<docAuthor>By ELAINE DAVENPORT</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 10-11</docDate>
+<byline>By <docAuthor><name reg="DAVENPORT, ELAINE">ELAINE DAVENPORT</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 10-11</docDate>
 
-<argument><p>Highlights from the testimony of the six new witnesses in the Byron de la Beckwith trial, in the order in which they appeared before the court:</p></argument>
+<p>Highlights from the testimony of the six new witnesses in the Byron de la Beckwith trial, in the order in which they appeared before the court:</p>
 
 <p>In September 1966, Mary Ann Adams, 51, of Mississippi, went with a co-worker to a restaurant between Tchula and Greenwood in the Delta, where she met Beckwith: "He came to our table and was introduced as Byron de la Beckwith, the man who killed Medgar Evers. I refused to shake his hand and he got angry. He said he had not killed a man, but a 'damn chicken-stealing dog and you know what you have to do once they've tasted blood.' She told her mother, but not "the law" because she thought Beckwith couldn't be tried again. When she saw publicity about the case being reopened, she got in touch with Deputy District Attorney DeLaughter.</p>
-<lb/>
+
 <p>Dan Prince, 49, of Chattanooga, Tennessee, rented an apartment in
 Beckwith's home from November 1986 until he was evicted in August
 1987. On one occasion when they were both standing in Beckwith's front
@@ -453,9 +452,9 @@ yard, Beckwith told Prince that Beckwith had been tried twice in
 Mississippi "for killing that nigger. I had a job to do and I did it
 and I didn't suffer any more for it than my wife would when she was
 going to have a baby." The defense portrayed Prince as a drunk, and as someone who was trying to get back at Beckwith for evicting him.</p>
-<lb/>
+
 <p>Elluard Jenoal 'Dick' Davis, 60, of Orlando, Florida, a Klan member turned FBI informant. Davis met Beckwith October 21, 1969, in a restaurant in Winterhaven, Florida. Beckwith was selling boats. Beckwith discussed his arrest and trials and "'selective killings' and said he would never ask anyone to do anything he hadn't already done himself." Immediately, Davis typed up notes for an FBI report.</p>
-<lb/>
+
 <p>Peggy Morgan, 46, of Mobile, Alabama and her husband lived in
 Greenwood, Mississippi, and one Sunday, sometime between the mid-1960s
 and mid-1970s (she was unable to be more precise), the couple gave
@@ -468,7 +467,7 @@ Peggy sitting between her husband and Beckwith, who was in the
 passenger seat. Beckwith was concerned that no one know of his
 visit. "He said he had killed Medgar
 
-<pb n="10"/>
+<pb n="11"/>
 
 Evers, a nigger, and if this ever got out [about the trip to the
 penitentiary], he wasn't scared to kill again," she testified. Morgan
@@ -477,9 +476,9 @@ said Beckwith later told her again the trip "better not get out" which
 she had psychiatric problems and was on medication, that she had been
 subjected to abuse, and that her mother's death from freezing had
 traumatized her.</p>
-<lb/>
+
 <p>Delmar Dennis, 53, of Sevierville, Tennessee, a Klansman turned FBI informant, recounted the Aug. 8, 1965, meeting of Klan leaders in Byram, Mississippi, at which Beckwith said "killing that nigger didn't cause me any more physical harm than your wives did to have a baby for you."</p>
-<lb/>
+
 <p>In late 1979 Mark Reiley, 36, of Chicago, Illnois, had been a guard
 at the Earl K. Long Hospital in Baton Rouge, Louisiana, where Angola
 inmate Beckwith was staying. Beckwith called him "Young Blood" because
@@ -500,12 +499,13 @@ his conversations with Beckwith. When he realized it was important, he
 called the prosecutor in Jackson. At the end of the trial, District
 Attorney Ed Peters called Reiley&#x2014;a surprise witness with a
 detailed, coherent story&#x2014;his "cleanup
-hitter."</p><pb n="11"/></div3>
+hitter."</p>
+</div2>
 
-<div3 id= "sc16-1spears.003" n="Rosewood Massacre Survivors Win" type="Article">
+<div2 id="sc16-1.005" n="Rosewood Massacre Survivors Win" type="Article">
 <head>Rosewood Massacre Survivors Win</head>
-<docAuthor>By Ellen Spears</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, p. 12</docDate>
+<byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, p. 12</docDate>
 
 <p>Descendants of the black residents of Rosewood, Florida and survivors of the massacre that left at least eight dead and destroyed the town more than seventy years ago took their case to the state legislature in an effort to finally win compensation. At the close of the 1994 legislative session, they were victorious.</p>
 
@@ -518,17 +518,13 @@ hitter."</p><pb n="11"/></div3>
 <p>At the capitol in Tallahassee, the ten-year-old great-granddaughter
 of a Rosewood victim expressed the descendants' response to the vote,
 saying, "We stand strong, proud and free, for we are the Rosewood
-family."</p></div3>
-<pb n="12"/></div2>
+family."</p></div2>
 
-<div2 id= "sc16-1snodderly.002" n="What Will We Do With the Homeless?" type="Article">
+
+<div2 id="sc16-1.006" n="What Will We Do With the Homeless?" type="Article">
 <head>What Will We Do With the Homeless?</head>
-<docAuthor>By Ed Snodderly</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 14-15</docDate>
-
-<argument><p>Snodderly is a musician with The Brother Boys Band and an actor with
-The Road Company Theater of Johnson City, Tennessee. His notes are
-reprinted from <title>Now and Then</title>, a journal from and about Appalachia.</p></argument>
+<byline>By <docAuthor><name reg="Snodderly, Ed">Ed Snodderly</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 14-15</docDate>
 
 <p>ED SNODDERLY: Joyce Brookshire is a songwriter and singer whose family
 comes from north Georgia. Joyce started writing songs when she was ten
@@ -576,16 +572,19 @@ Maynard Jackson. He was not amused."</p>
 <p>"What Will We Do With the Homeless" is available on <hi rend="italic">MEZZANINE</hi>, a new
 recording by Elise Witt. To order, send $15 for CD or $10 for cassette
 to EMWorld Records, P.O. Box 116, Decatur, GA 30031.</p>
-<pb n="14"/></div2>
 
-<div2 id="sc16-1norrell.006" n="Whitewash" type="Review">
-<head>Whitewash<lb/><title>George Wallace:  American Populist</title>,
-<hi rend="bold">by Stephan Lesher (Addison Wesley, 1994, 587 pages).</hi></head>
-<docAuthor>Reviewed by ROBERT J. NORRELL</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 18-20</docDate>
+<div3 id="sc16-1.026" type="About"><p>Snodderly is a musician with The Brother Boys Band and an actor with
+The Road Company Theater of Johnson City, Tennessee. His notes are
+reprinted from <title>Now and Then</title>, a journal from and about Appalachia.</p></div3>
+</div2>
 
-<argument><p>Robert J. Norrell is professor of history at the University of Alabama and a member of the Southern Regional Council.</p></argument>
+<div2 id="sc16-1.007" n="Whitewash" type="Review">
+<head>Whitewash</head>
+<byline>Reviewed by <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 18-20</docDate>
 
+<bibl><title>George Wallace:  American Populist</title>,
+by Stephan Lesher (Addison Wesley, 1994, 587 pages).</bibl>
 <p>"Watch out for George Wallace," warned Wayne Greenhaw, an Alabama journalist, in his 1976 expose of the four-time Alabama governor's continuing political ambitions. The warning ought still to be in effect for those who care about how we understand recent Southern history, because Wallace is attempting to manipulate the politics of memory to the same selfish end that he manipulated the politics of race in the 1960s and 1970s.</p>
 
 <p>His newest instrument of manipulation is this biography by Stephan
@@ -605,7 +604,7 @@ transparent wrapping of the third-person to fool the uninformed reader.</p>
 
 <p>Lesher conveniently neglected to mention that he paid Wallace a large sum of money to "cooperate," a fact
 
-<pb n="18"/>
+<pb n="19"/>
 
 that he admitted to in <hi rend="italic">The New York Times</hi> when the great gray omniscience, perhaps embarrassed by its creampuff review, backtracked a little. By that time, George Wallace was sitting beside Lesher in Alabama malls autographing "their" book for shoppers.</p>
 
@@ -632,24 +631,32 @@ degree of Klan involvement. He distances Wallace from Asa Carter, the notorious 
 biography for which the only true source of information is George
 Wallace himself. Lesher quotes important
 
-<pb n="19"/>
+<pb n="20"/>
 
 people&#x2014;many of them still alive&#x2014;passing judgment on Wallace, and the footnotes reveal that Wallace's memory is the source of the quotes. As an as-told-to memoir, Wallace's views on his life would have been accepted as self-serving because all such books are that, but this masqueraded "biography" is contemptuous.</p>
 
 <p>Why get so exercised about a bad book when lots of bad books get published? Because the politics of memory about George Wallace is important today. His son of the same name is running for lieutenant governor of Alabama this year, capitalizing on his virtually 100-percent name recognition among voters. State politics remains full of people who learned the trade in the Wallace machine and now ply it for other candidates.</p>
 
-<p>For people so apprenticed, politics by definition is simply getting elected by whatever means the times allow and then using the office exclusively for self-aggrandizement. Politics so purely cynical teaches the public that there is no place for idealism or ethics in government. Thus politics and government are immoral&#x2014;and unworthy of our time, attention, or taxes. It seems to defy logic that citizens might act collectively through government to address serious problems. The cost of political cynicism is a huge penalty we pay every day, and that's why we must still watch out for George Wallace.</p></div2>
+<p>For people so apprenticed, politics by definition is simply getting
+elected by whatever means the times allow and then using the office
+exclusively for self-aggrandizement. Politics so purely cynical
+teaches the public that there is no place for idealism or ethics in
+government. Thus politics and government are immoral&#x2014;and
+unworthy of our time, attention, or taxes. It seems to defy logic that
+citizens might act collectively through government to address serious
+problems. The cost of political cynicism is a huge penalty we pay
+every day, and that's why we must still watch out for George
+Wallace.</p>
+<div3 id="sc16-1.027" type="About"><p>Robert J. Norrell is professor of history at the University of Alabama and a member of the Southern Regional Council.</p></div3></div2>
 
-<div2 id="sc16-1vodicka.006" n="A Lottery for the Poor" type="Review">
-<head>A Lottery for the Poor<lb/><title>Dead Man Walking:  An
+<div2 id="sc16-1.008" n="A Lottery for the Poor" type="Review">
+<head>A Lottery for the Poor</head>
+<byline>Reviewed by <docAuthor><name reg="Vodicka, John Cole">John Cole Vodicka</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 20-21</docDate>
+
+<bibl><title>Dead Man Walking:  An
 Eyewitness Account of the Death Penalty in the United States</title>,
-<hi rend="bold">by Sister Helen Prejean (Random House, 1993, 278 pages).</hi></head>
-<docAuthor>Reviewed by JOHN COLE VODICKA</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 20-21</docDate>
-
-<argument><p>John Cole Vodicka directs the Prison and Jail Project for
-Koinonia Partners in Americus, Georgia. He has actively been involved against the death penalty for more than twenty years.</p></argument>
-
+by Sister Helen Prejean (Random House, 1993, 278 pages).</bibl>
 <p>Not long ago I heard Danny Lyon, the Student Nonviolent Coordinating Committee photographer who chronicled much of the Southern civil rights movement in the early 1960s, describe his photographs of that era as "pictures that force us to remember, force us to confront and grapple with" an issue or event that we might otherwise choose to ignore or forget.</p>
 
 <p>Lyon's pictures&#x2014;of police dogs and white men assaulting African
@@ -671,7 +678,7 @@ subject that is too often debated in the abstract: the death penalty. The book i
 and come to know the issue in human terms, we are not entitled to have
 an opinion on capital punishment and call it just.</p>
 
-<pb n="20"/>
+<pb n="21"/>
 
 <p>"By choosing to kill," Prejean writes, "Americans diminish themselves financially, socially and spiritually." We legitimize retaliation as the way to deal with conflict, and we all pay a price when we allow state killing to be carried out in our names. In this sense the death penalty means cruel and unusual punishment not only for the condemned prisoner but for the innocent as well, for all of us. The picture Prejean lays before us shows that the death penalty only allows us to extend the pain, to continue to blame one another, to turn against one another, to hate better.</p>
 
@@ -692,16 +699,20 @@ v. Georgia</hi>, Supreme Court Justice Thurgood Marshall argued that "informed p
 
 <p><hi rend="italic">Dead Man Walking</hi> is a testimony to what one person can do affect change, to reshape the debate on an issue that tests the moral fiber of our society. Her book, though painful and difficult to read, ultimately reinforces the value and sanctity of human life.</p>
 
-<p><hi rend="italic">Dead Man Walking</hi> challenges the reader, forcing she or he to confront and grapple with an issue that, after reading Sister Helen Prejean's story, remains in the abstract no longer.</p></div2>
+<p><hi rend="italic">Dead Man Walking</hi> challenges the reader,
+forcing she or he to confront and grapple with an issue that, after
+reading Sister Helen Prejean's story, remains in the abstract no
+longer.</p>
+<div3 id="sc16-1.028" type="About"><p>John Cole Vodicka directs the Prison and Jail Project for
+Koinonia Partners in Americus, Georgia. He has actively been involved against the death penalty for more than twenty years.</p></div3></div2>
 
-<div2 id="sc16-1cooper.006" n="New York Lite" type="Review">
-<head>New York Lite<lb/><title>New York Days</title><hi rend="bold">by
-Willie Morris (Little, Brown and Company, 1993, 396 pages).</hi></head>
-<docAuthor>Reviewed by MICHAEL COOPER</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 22-23</docDate>
+<div2 id="sc16-1.009" n="New York Lite" type="Review">
+<head>New York Lite</head>
+<byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 22-23</docDate>
 
-<argument><p>Michael L. Cooper is a native of southeastern Kentucky who lives in New York City. His last book was <title>Playing America's Game: The Story of Negro League Baseball</title> (Lodestar/Dutton, 1993).</p></argument>
-
+<bibl><title>New York Days</title>by
+Willie Morris (Little, Brown and Company, 1993, 396 pages).</bibl>
 <p>Willie Morris's <hi rend="italic">New York Days</hi>, his
 thirteenth book, is fun to read because the writing is evocative,
 literate, and lyrical. This autobiography, which is intended as a
@@ -747,23 +758,23 @@ rend="italic">Absalom, Absalom!</hi>, Morris often muses about what
 the South is and what it means to be a Southerner. He does this mostly
 with other Southerners
 
-<pb n="22"/>
+<pb n="23"/>
 
 and once, Hamlet-like, on a late night stroll over the battlefields at Gettysburg National Park. Morris approvingly quotes Styron on the subject: "If you were born and reared in the South it is certain you will remain a Southerner as long as you live, no matter how far you've traveled or wherever you've made your home."</p>
 
 <p><hi rend="italic">New York Days</hi> ends with a chapter entitled "South Toward Home" where, back in Mississippi, the author concludes, "Sometimes I cannot live with its awful emotional burdens, its terrible racist hazards and human neglects, sometimes I can, but these forever drive me to words."</p>
 
-<p>And Willie Morris is very, very good with words.</p></div2>
+<p>And Willie Morris is very, very good with words.</p><div3 id="sc16-1.029" type="About"><p>Michael L. Cooper is a native of southeastern Kentucky who lives in New York City. His last book was <title>Playing America's Game: The Story of Negro League Baseball</title> (Lodestar/Dutton, 1993).</p></div3>
+</div2>
 
-<div2 id="sc16-1klenbort.006" n="Looking for the Morning" type="Review">
-<head>Looking for the Morning<lb/><title>Man and Mission, E.B. Gaston
-and the origins of the Fairhope Single Tax Colony</title>, <hi rend="bold">by
-Paul Mershon Gaston (Black Belt Press, 1993, 161 pages).</hi></head>
-<docAuthor>Reviewed by MARCIA KLENBORT</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 23-25</docDate>
+<div2 id="sc16-1.010" n="Looking for the Morning" type="Review">
+<head>Looking for the Morning</head>
+<byline>Reviewed by <docAuthor><name reg="Klenbort, Marcia">Marcia Klenbort</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 23-25</docDate>
 
-<argument><p>Marcia Klenbort sought out her own Fairhope roots in 1972. Her grandfather, a "raving idealist" who grew up on Chicago's north side, settled in Fairhope in 1904, but did not find his dreams there. Klenbort is director of education programs at the Southern Regional Council.</p></argument>
-
+<bibl><title>Man and Mission, E.B. Gaston
+and the origins of the Fairhope Single Tax Colony</title>, by
+Paul Mershon Gaston (Black Belt Press, 1993, 161 pages).</bibl>
 <p>The occasion for this splendid little book is the centennial anniversary of the Fairhope Single Tax Colony, which was founded as a utopian experiment on the shores of Mobile Bay in Baldwin County, Alabama, in November 1894, and which has continued there in one form or another until now. Paul Gaston, the author and a scholar in the field of American social history, is the grandson of E.B. Gaston, founder and secretary of the colony every year except two until 1936; and the son of C.A. Gaston, who served as the Colony's secretary for the next thirty-six years. Gaston has written about the Fairhope Colony before, and is working on what he calls "the big book" which will be the chronicle of the life and times of the Fairhope colony. So why this little volume now?</p>
 
 <p>Gaston, mindful that he rejected a legacy by not leading the
@@ -788,7 +799,7 @@ industries had no chance of achieving lives beyond subsistence levels. Industria
 <p>At a time when some experimental communities were foundering
 because of excessive demands on indi-
 
-<pb n="23"/>
+<pb n="24"/>
 
 vidual privacy, work choices, and individuality of their members, E.B. Gaston developed "cooperative individualism." Land would be owned in common, as would the best parts of land, like the beautiful bayfront park in Fairhope. Public utilities, insurance, schools, and libraries would also be held in common. Competition would be encouraged in production, but not in distribution, where Gaston envisioned cooperative merchandising.</p>
 
@@ -811,28 +822,36 @@ of tremendous energy, rebelliousness and ambition, and highly skilled in the cap
 <p>When Fairhopers arrived in 1894, Paul Gaston tell us, about 2,400
 people lived on the 112 square miles from
 
-<pb n="24"/>
+<pb n="25"/>
 
 Mobile Bay to the Fish River. About fifty-five percent were
-white. Blacks were immigrants from other parts of the South, including "a prominent group of mulattoes, descended from free people of color." Readers will be left wanting to hear more about life in the Fairhope colony, and will look forward to the "big book" Paul Gaston promises us. Until then, we can be pleased that Gaston has postponed telling the colony's story until another volume. (<hi rend="italic">Man and Mission</hi> ends in 1895.) The present volume has an unhurried feeling. We can linger in the preamble, and give the founding of the Fairhope Colony its due.</p></div2>
+white. Blacks were immigrants from other parts of the South, including
+"a prominent group of mulattoes, descended from free people of color."
+Readers will be left wanting to hear more about life in the Fairhope
+colony, and will look forward to the "big book" Paul Gaston promises
+us. Until then, we can be pleased that Gaston has postponed telling
+the colony's story until another volume. (<hi rend="italic">Man and
+Mission</hi> ends in 1895.) The present volume has an unhurried
+feeling. We can linger in the preamble, and give the founding of the
+Fairhope Colony its due.</p>
+<div3 id="sc16-1.030" type="About"><p>Marcia Klenbort sought out her own Fairhope roots in 1972. Her grandfather, a "raving idealist" who grew up on Chicago's north side, settled in Fairhope in 1904, but did not find his dreams there. Klenbort is director of education programs at the Southern Regional Council.</p></div3></div2>
 
-<div2 id="sc16-1sharpless.006" n="Bottom Rails" type="Review">
-<head>Bottom Rails<lb/><title>The Origins of Southern Sharecropping</title>, <hi rend="bold">by
-Edward Royce (Temple University Press, 1993, 279 pages).</hi></head>
-<docAuthor>Reviewed by REBECCA SHARPLESS</docAuthor>
-<docDate>Vol. 16, No. 1, 1994, pp. 25-27</docDate>
+<div2 id="sc16-1.011" n="Bottom Rails" type="Review">
+<head>Bottom Rails</head>
+<byline>Reviewed by <docAuthor><name reg="Sharpless, Rebecca">Rebecca Sharpless</name></docAuthor></byline>
+<docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 25-27</docDate>
 
-<argument><p>Rebecca Sharpless is the director of the Institute for Oral History at Baylor University in Waco, Texas.</p></argument>
-
+<bibl><title>The Origins of Southern Sharecropping</title>, by
+Edward Royce (Temple University Press, 1993, 279 pages).</bibl>
 <p>Statistics on the South today are as bleak as ever: the highest poverty rate in the U.S., the highest infant mortality rate, the highest school drop-out rate. And we ask: How did things ever get this bad? How did the South become the nation's poorest region?</p>
 
 <p>Historians of the South point to the aftermath of the Civil War in
 explaining the roots of some Southern poverty. In 1865, four million
 slaves were freed with no means of supporting themselves, and the region has been paying the price ever since. Out of the crumbling plantation system arose a form of agricultural labor known as the crop-lien system. Under the crop-lien system, a landless farmer and his family worked a designated plot of someone else's land in return for a portion of the crop. This organization of agriculture remained dominant throughout the South until the New Deal. (The term <hi rend="italic">crop lien</hi> encompasses two forms of agricultural labor: tenant farming, in which the farmer owns his own tools and receives three-quarters of the cash crop and two-thirds of the corn that he raises; and sharecropping, in which the farmer provides only his labor and that of his family, and receives half of the cash crop and corn in return. I will use the two interchangeably, as does Royce.)</p>
 
-<p>Historical discussions of how the crop-lien system arose often resemble the arguments regarding the number of angels that can dance on the head of a pin.<ref target="sc16-1sharplessn01">1</ref> In fact, two of the players in the struggle to find the origins of the system finally declared in frustration:
+<p>Historical discussions of how the crop-lien system arose often resemble the arguments regarding the number of angels that can dance on the head of a pin.<ref target="sc16-1.011n1">1</ref> In fact, two of the players in the struggle to find the origins of the system finally declared in frustration:
 
-<q>Despite the enormous amount of scholarship devoted directly or indirectly to this theme, historians cannot even agree on how to conceptualize either antebellum or postbellum southern society, much less on how to explain the transition from one to the other.<ref target="sc16-1sharplessn02">2</ref></q></p>
+<q>Despite the enormous amount of scholarship devoted directly or indirectly to this theme, historians cannot even agree on how to conceptualize either antebellum or postbellum southern society, much less on how to explain the transition from one to the other.<ref target="sc16-1.011n2">2</ref></q></p>
 
 <p>But the problem of the origins of the crop-lien system continues to
 tantalyze scholars. The newest addition into the mix is <hi
@@ -860,7 +879,7 @@ significant responsibility for denying freed slaves the "forty acres
 and a mule" which they so much wanted. Despite some attempts at land
 redistribution during and immediately after the Civil War, the
 
-<pb n="25"/>
+<pb n="26"/>
 
 federal government restored almost all confiscated lands to their previous owners by the end of 1865. With virtually all farmland in the hands of its antebellum owners and no money of their own, freedpeople had little opportunity to acquire land. The "best estimate" is that fewer than 5 percent of the former slaves had purchased land by the "first few years after the war." Their wishes to become independent land owners were thus a second constricted possibility.</p>
 
@@ -900,15 +919,19 @@ be commended especially for the agency which he attributes to freed
 slaves, but one of his central arguments remains unconvincing. In
 examining the roads not taken, he has cer-
 
-<pb n="26"/>
+<pb n="27"/>
 
 tainly gazed down some paths that others have overlooked. His
 perspective is different, but not superior to, many of the predecessors whom he attempts to revise.</p>
 
 <p rend="bold">Notes</p>
 
-<note id="sc16-1sharplessn01" n="1">Some of the most important works on the southern agricultural economy following the Civil War include: Stephen J. DeCanio, <title>Agriculture in the Postbellum South: The Economics of Production and Supply</title> (Cambridge: The MIT Press, 1974); Robert Higgs, <title>Competition and Coercion: Blacks in the American Economy, 1865-1914</title> (Cambridge: Cambridge University Press, 1977); Roger L. Ransom and Richard Sutch, <title>One Kind of Freedom: The Economic Consequences of Emancipation</title> (1977); Charles L. Flynn, Jr., <title>White Land, Black Labor: Caste and Class in Late Nineteenth-Century Georgia</title> (Baton Rouge: Louisiana State University Press, 1983); Thavolia Glymph and John J. Kushma, eds., <title>Essays on the Postbellum Southern Economy</title> (College Station, Texas: Texas A&#x0026;M University Press, 1985); and Gavin Wright, <title>Old South, New South: Revolutions in the Southern Economy Since the Civil War</title> (New York: Basic Books, 1986).</note>
+<note id="sc16-1.011n1" n="1">Some of the most important works on the southern agricultural economy following the Civil War include: Stephen J. DeCanio, <title>Agriculture in the Postbellum South: The Economics of Production and Supply</title> (Cambridge: The MIT Press, 1974); Robert Higgs, <title>Competition and Coercion: Blacks in the American Economy, 1865-1914</title> (Cambridge: Cambridge University Press, 1977); Roger L. Ransom and Richard Sutch, <title>One Kind of Freedom: The Economic Consequences of Emancipation</title> (1977); Charles L. Flynn, Jr., <title>White Land, Black Labor: Caste and Class in Late Nineteenth-Century Georgia</title> (Baton Rouge: Louisiana State University Press, 1983); Thavolia Glymph and John J. Kushma, eds., <title>Essays on the Postbellum Southern Economy</title> (College Station, Texas: Texas A&#x0026;M University Press, 1985); and Gavin Wright, <title>Old South, New South: Revolutions in the Southern Economy Since the Civil War</title> (New York: Basic Books, 1986).</note>
 
-<note id="sc16-1sharplessn02" n="2">Frederick A. Bode and Donald
-E. Ginter, <title>Farm Tenancy and the Census in Antebellum Georgia</title> (Athens: The University of Georgia Press, 1986), p. 1.</note></div2></div1></body></text></TEI.2>
+<note id="sc16-1.011n2" n="2">Frederick A. Bode and Donald
+E. Ginter, <title>Farm Tenancy and the Census in Antebellum
+Georgia</title> (Athens: The University of Georgia Press, 1986),
+p. 1.</note>
+<div3 id="sc16-1.031" type="About"><p>Rebecca Sharpless is the director of the Institute for Oral History at Baylor University in Waco, Texas.</p></div3>
+</div2></div1></body></text></TEI.2>
 

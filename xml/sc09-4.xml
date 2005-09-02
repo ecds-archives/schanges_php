@@ -63,18 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc09-4.001" n="Southern Changes 9:4" type="Issue">
             <head>Southern Changes.  Volume 9, Number 4, 1987</head>
             <p>
-               <title>Southern Changes</title>.  Volume 9, Number 4, 1987</p>
-            <div2 id="sc09-4kennedy.002" n="The South Revisited" type="Article">
+               <title>Southern Changes</title>.  Volume 9, Number 4,
+	       <date value="1987-10">1987</date></p>
+            <div2 id="sc09-4.002" n="The South Revisited" type="Article">
                <head>The South Revisited</head>
-               <docAuthor>By STETSON KENNEDY</docAuthor>
-               <docDate>Vol. 9, No. 4, 1987, pp. 4-7</docDate>
-               <argument>
-                  <p>Stetson Kennedy wrote extensively for the labor and black
-press, was Southeastern editorial director of CIO-PAC, and is the
-author of <title>Southern Exposure</title>, <title>Palmetto
-Country</title>, and <title>I Rode With the Klan.</title> He lives
-near Jacksonville, Fla.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
+               <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
+               
                <p>"One difference between you and most of the Southerners who
 pioneered in the reform movement of the Thirties and Forties is that
 you are still alive," one of the editors of <title>Southern
@@ -381,15 +376,19 @@ typical reaction of South Carolina state senator John D. Long:
 precinct meeting, we'll fight him at the county convention, we'll
 fight him at the enrollment books, and, by God, we'll fight him at the
 polls if I have to bite the dust as did my ancestors!" </p>
-            </div2>
-            <div2 id="sc09-4chestnut.003" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc09-4.022" type="About">
+                  <p>Stetson Kennedy wrote extensively for the labor and black
+press, was Southeastern editorial director of CIO-PAC, and is the
+author of <title>Southern Exposure</title>, <title>Palmetto
+Country</title>, and <title>I Rode With the Klan.</title> He lives
+near Jacksonville, Fla.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-4.003" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth: Wishing Justice for Bork</head>
-               <docAuthor>By J.L. Chestnut. Jr.</docAuthor>
-               <docDate>Vol. 9, No. 4, 1987, pp. 15-16</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer
-and writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut. Jr.</name></docAuthor></byline>
+               <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
+               
                <p>WASHINGTON-This unstable, political, kooky town is in an absolute
 frenzy, even if measured by its own unreal standards. My favorite
 Washington cab driver and political philosopher, Jack Curtis, who also
@@ -482,16 +481,17 @@ of the Supreme Court.</p>
                <p>I wish him hell.</p>
                <p>How about that, Mr. Jack Curtis?</p>
                <p>Peace. </p>
-            </div2>
-            <div2 id="sc09-4callahan.004" n="The Making of A Judge" type="Article">
+            
+	       <div3 id="sc09-4.023" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer
+and writer.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-4.004" n="The Making of A Judge" type="Article">
                <head>The Making of A Judge</head>
-               <docAuthor>By NANCY CALLAHAN</docAuthor>
-               <docDate>Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
-               <argument>
-                  <p>Nancy Callahan is a freelance writer from
-Montgomery. Her book, <title>The Freedom Quilting Bee</title>, will be
-published this fall by the University of Alabama Press.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Callahan, Nancy">Nancy Callahan</name></docAuthor></byline>
+               <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
+               
                <p>In 1816, North Carolina planter Joseph Gee bought a massive tract
 of land in a bend in the Alabama River, in Wilcox County. On his death
 in 1824, his plantation-Gee's Bend-fell to his nephews, Sterling and
@@ -908,11 +908,16 @@ you don't let people like that down. You don't get to a point and
 say,'I can't do it.' You look back at them and you say,
 'Whatever I want to do, I can do it, because look what they
 did.' And you just go on, and it's good. Yeah, it's good." </p>
-            </div2>
-            <div2 id="sc09-4staff.005" n="The Poverty of Reaganomics" type="Article">
+            <div3 id="sc09-4.024" type="About">
+                  <p>Nancy Callahan is a freelance writer from
+Montgomery. Her book, <title>The Freedom Quilting Bee</title>, will be
+published this fall by the University of Alabama Press.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-4.005" n="The Poverty of Reaganomics" type="Article">
                <head>The Poverty of Reaganomics</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 9, No. 4, 1987, pp. 1-2</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
                <p>In its twilight years the Reagan Administration is returning to its
 extravagant rhetoric about having created the "opportunity society."
 According to Administration officials--proud of low inflation and a
@@ -933,7 +938,7 @@ findings are summarized below:</p>
                <p>
                   <hi rend="bold">Young Men's Earnings</hi>
                </p>
-               <p>¥ Between 1973 and 1984, the average real annual earnings among
+               <p> Between 1973 and 1984, the average real annual earnings among
 males ages twenty through twenty-four fell by nearly thirty percent
 (from $11,572 to $8,072 in 1984 dollars). This sharp drop affected
 virtually all groups of young adult males, <sic>athough</sic> young
@@ -946,11 +951,11 @@ the three-person federal poverty line by 1984.</p>
                <p>
                   <hi rend="bold">Earnings, Education and Basic Skills</hi>
                </p>
-               <p>¥ Young men between the ages of twenty and twenty-four who had
+               <p> Young men between the ages of twenty and twenty-four who had
 not completed high school suffered the largest percentage drop in
 their real annual earnings during the 1973-1984 period--forty-two
 percent.</p>
-               <p>¥ The percentage of all male dropouts ages twenty 
+               <p> The percentage of all male dropouts ages twenty 
 <pb n="2"/>
 through
 twenty-four with earnings above the three-person poverty line dropped
@@ -958,24 +963,24 @@ by nearly half, from fifty-nine percent in 1973 to thirty-two percent
 in 1984. Only four in ten white male dropouts, fewer than three in ten
 Hispanic dropouts, and a shockingly low one in nine black dropouts
 earned enough in 1984 to support a family of three.</p>
-               <p>¥ The level of basic academic skills makes a difference even
+               <p> The level of basic academic skills makes a difference even
 among young adults with the same amount of schooling. High school
 dropouts with strong basic skills have average earnings more than
 twice as great as dropouts with weak basic skills. Similarly, high
 school graduates with basic skills ranking in the top fifth among
 their peers have earnings nearly double those of graduates falling in
 the lowest fifth.</p>
-               <p>¥ In 1973 young male college graduates earned twenty-five
+               <p> In 1973 young male college graduates earned twenty-five
 percent more than dropouts; by 1984 their average earnings were nearly
 twice those of dropouts.</p>
-               <p>¥ Because they are disproportionately poor and frequently reside
+               <p> Because they are disproportionately poor and frequently reside
 in communities with inferior schools, minority teenagers are
 particularly likely to leave school without the basic academic skills
 they need. Despite substantial gains that have narrowed the
 black/white achievement gap over the past decade, the average black
 seventeen-year-old now reads at the same level as the average white
 thirteen-year-old.</p>
-               <p>¥ Youths who by age eighteen have the weakest reading and math
+               <p> Youths who by age eighteen have the weakest reading and math
 skills (in the bottom fifth when compared to those with above-average
 basic skills) are nine times more likely to drop out of school before
 graduation; and five times more likely to be both out of work and out
@@ -985,14 +990,14 @@ drop in real annual earnings between 1973 and 1984. Young black high
 school graduates fared only slightly better, suffering a fifty-two
 percent loss in real earnings. In contrast, young black college
 graduates actually increased their earnings.</p>
-               <p>¥ The percentage of young black men working year-round has
+               <p> The percentage of young black men working year-round has
 fallen by one-third, from forty-eight percent in 1973 to thirty-two
 percent in 1984. Only twelve percent of black male high school
 dropouts ages twenty through twenty-four had no earnings in 1973. By
 1985 nearly half--forty-three percent--of all black male dropouts ages
 twenty through twenty-four failed to obtain any employment
 whatsoever.</p>
-               <p>¥ Among young black men who had dropped out of school, the
+               <p> Among young black men who had dropped out of school, the
 proportion with earnings above the three-person poverty line fell from
 forty-four percent in 1973 to twelve percent in 1984. The percentage
 of young black male high school graduates with such earnings also
@@ -1001,45 +1006,46 @@ period.</p>
                <p>
                   <hi rend="bold">Earnings and Marriage Rates</hi>
                </p>
-               <p>¥ As recently as 1974, roughly two in five young men ages twenty
+               <p> As recently as 1974, roughly two in five young men ages twenty
 through twenty-four were married. Over the next decade, however, the
 rate for such young men fell by half.</p>
-               <p>¥ Regardless of their race or level of educational attainment,
+               <p> Regardless of their race or level of educational attainment,
 young men ages twenty through twenty-four with earnings above the
 poverty threshold for a family of three remain three to four times
 more likely to marry than young adult males with below-poverty
 earnings.</p>
-               <p>¥ The decline in real earnings and resulting drop in marriage
+               <p> The decline in real earnings and resulting drop in marriage
 rates have been most severe among high school dropouts and graduates
 not going on to college--those young people who have tended in the
 past to marry and bear children earliest.</p>
-               <p>¥ As a result of declining marriage rates, a larger percentage
+               <p> As a result of declining marriage rates, a larger percentage
 of children now are born out-of-wedlock. In 1984, fifty-six percent of
 all births to teens and twenty-five percent of all births to women
 ages twenty through twenty-four were to unmarried women--a dramatic
 increase from 1970's thirty percent and nine percent respectively.</p>
-               <p>¥ Youths ages eighteen through twenty-three who have the weakest
+               <p> Youths ages eighteen through twenty-three who have the weakest
 reading and math skills (in the bottom fifth when compared to those
 with above-average basic skills) are eight times more likely to have
 children out-of-wedlock.</p>
                <p>
                   <hi rend="bold">Poverty Rates</hi>
                </p>
-               <p>¥ The poverty rate for families headed by a person younger than
+               <p> The poverty rate for families headed by a person younger than
 twenty-five has nearly doubled since 1973, reaching thirty percent by
 1985. Poverty rates among young white families more than doubled, from
 twelve percent in 1973 to twenty-five percent in 1985. Poverty rates
 among young black families were higher to begin with but still
 increased by nearly half, from forty-three percent in 1973 to
 sixty-two percent in 1985.</p>
-               <p>¥ Nearly one-half (forty-eight percent) of all children living
+               <p> Nearly one-half (forty-eight percent) of all children living
 in young families in 1985 were poor--nearly double the twenty-six
 percent rate in 1973.</p>
             </div2>
-            <div2 id="sc09-4ucatc.006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
+            <div2 id="sc09-4.006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
                <head>Tuscaloosa's Solid-Waste Turkey</head>
-               <docAuthor>By United Citizens Against Toxic Chemicals</docAuthor>
-               <docDate>Vol. 9, No. 4, 1987, 8-9</docDate>
+               <byline>By <docAuthor><name reg="United Citizens
+	       Against Toxic Chemicals">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
+               <docDate value="1987-10">Vol. 9, No. 4, 1987, 8-9</docDate>
                <p>Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows
 better. We are a citizens group from Tuscaloosa and we don't want you
@@ -1193,7 +1199,7 @@ start.</p>
                <p>United Citizens Against Toxic Waste is an affiliate of Citizen's
 Clearinghouse for Hazardous Wastes, Inc., P.O.  Box 926, Arlington, VA
 22216 (703-276-7070). This article is reprinted with permission from
-Everyone's Bach Yard, a newsletter published by CCHW. Three full-time
+Everyone's Back Yard, a newsletter published by CCHW. Three full-time
 CCHW field organizers help grasroots groups in the South fight a broad
 range of environmental hazards. The field organizers are: Linda King,
 P.O. Box 1608, Harvey, LA 70058 f 504-340 2321), Clay Carter,

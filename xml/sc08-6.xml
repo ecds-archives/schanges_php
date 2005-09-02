@@ -63,20 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc08-6.001" n="Southern Changes 8:6" type="Issue">
             <head>Southern Changes.  Volume 8, Number 6, 1986</head>
             <p>
-               <title>Southern Changes</title>.  Volume 8, Number 6, 1986</p>
-            <div2 id="sc08-6barak.002" n="Behind the Numbers on Black Crime" type="Article">
+               <title>Southern Changes</title>.  Volume 8, Number 6,
+	       <date value="1986-12">1986</date></p>
+            <div2 id="sc08-6.002" n="Behind the Numbers on Black Crime" type="Article">
                <head>Behind the Numbers on Black Crime</head>
-               <docAuthor>By GREGG BARAK</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 8-9</docDate>
-               <argument>
-                  <p>Gregg Barak is Chairman of the Department of Criminal
-Justice at Alabama State University, Montgomery, and is the author of
-<title>In Defense of Whom? A Critique of Criminal Justice
-Reform</title> (Cincinnatti: Anderson, 1980). This article is adapted
-from a speech delivered before the Alabama New South Coalition, a
-black political organization, in Birmingham in October
-1986.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Barak, Gregg">Gregg Barak</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 8-9</docDate>
+               
                <p>According to FBI figures for 1985, the four largest cities in
 Alabama--Birmingham, Mobile, Huntsville, and Montgomery--all
 registered increases in their crime rates that exceeded the national
@@ -234,22 +227,22 @@ well-being as threatened by isolated individuals and not by organized
 political, economic, and social relations, then all forms of crime and
 punishment as we have come to know them, will continue to eat away at
 the very foundations of this great society of ours.</p>
-            </div2>
-            <div2 id="sc08-6rosengarten.003" n="Sea Grass Baskets of the South Carolina Lowcountry" type="Article">
+            <div3 id="sc08-6.022" type="About">
+                  <p>Gregg Barak is Chairman of the Department of Criminal
+Justice at Alabama State University, Montgomery, and is the author of
+<title>In Defense of Whom? A Critique of Criminal Justice
+Reform</title> (Cincinnatti: Anderson, 1980). This article is adapted
+from a speech delivered before the Alabama New South Coalition, a
+black political organization, in Birmingham in October
+1986.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-6.003" n="Sea Grass Baskets of the South Carolina Lowcountry" type="Article">
                <head>Row Upon Row: Sea Grass Baskets of the South Carolina
 Lowcountry</head>
-               <docAuthor>By DALE ROSENGARTEN</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 17-24</docDate>
-               <argument>
-                  <p>Dale Rosengarten, of McClellanville, S.C., served as
-guest curator for the exhibition, "Row Upon Row: Seagrass Baskets of
-the South Carolina Lowcountry," presented by McKissick Museum at the
-University of South Carolina, Columbia, during, the fall of
-1986. Support for the exhibition and for the publication of the
-catalog, from which the present essay has been formed, was provided by
-the National Endowment for the Arts, Folk Arts Program and the South
-Carolina Arts Commission.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Rosengarten, Dale">Dale Rosengarten</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 17-24</docDate>
+               
                <p>Coiled sea grass basketry flourishes today in the tidewater region
 of South Carolina. In all seasons, or any given day, travellers to
 Charleston can find dozens of basketmakers from the surburban
@@ -686,16 +679,22 @@ sew a familiar form and transcend the insecurity of the moment. Making
 a basket takes self-discipline; it gives self-possession. Even if the
 basket serves someone else's purpose, the act of sewing connects the
 basketmaker to a proud inheritance that cannot be diminished.</p>
-            </div2>
-            <div2 id="sc08-6gaston.004" n="A Southerner in South Africa" type="Article">
+            <div3 id="sc08-6.023" type="About">
+                  <p>Dale Rosengarten, of McClellanville, S.C., served as
+guest curator for the exhibition, "Row Upon Row: Seagrass Baskets of
+the South Carolina Lowcountry," presented by McKissick Museum at the
+University of South Carolina, Columbia, during, the fall of
+1986. Support for the exhibition and for the publication of the
+catalog, from which the present essay has been formed, was provided by
+the National Endowment for the Arts, Folk Arts Program and the South
+Carolina Arts Commission.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-6.004" n="A Southerner in South Africa" type="Article">
                <head>A Southerner in South Africa</head>
-               <docAuthor>By PAUL M. GASTON</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 9-15</docDate>
-               <argument>
-                  <p>Paul M. Gaston, Professor of History at the University of
-Virginia, is president of the Southern Regional Council and a
-contributing editor of <title>Southern Changes</title>.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gaston, Paul M.">Paul M. Gaston</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 9-15</docDate>
+               
                <p>Few visitors return from South Africa these days with good news or
 give us much reason to be hopeful. Like those who have visited the
 country, most Americans fear and expect the worst from it. We are all
@@ -1171,16 +1170,17 @@ is abundant basis for optimism in South Africa. From the people who
 give rise to this optimism one can draw courage. One can also identify
 with them and look to them for guidance in the long struggles
 ahead.</p>
-            </div2>
-            <div2 id="sc08-6sullivan.005" n="Palmer Weber, 1914-1986" type="Article">
+            <div3 id="sc08-6.024" type="About">
+                  <p>Paul M. Gaston, Professor of History at the University of
+Virginia, is president of the Southern Regional Council and a
+contributing editor of <title>Southern Changes</title>.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-6.005" n="Palmer Weber, 1914-1986" type="Article">
                <head>Palmer Weber, 1914-1986</head>
-               <docAuthor>By PATRICIA SULLIVAN</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 5-7</docDate>
-               <argument>
-                  <p>Patricia Sullivan is associate director of the Center for
-the Study of Civil Rights and Lecturer in History, University of
-Virginia.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 5-7</docDate>
+               
                <p>In 1948, Palmer Weber and Louis Burnham organized Henry Wallace's
 third party campaign in the South. Building on earlier voter
 registration and education efforts, the Southern campaign focused
@@ -1380,15 +1380,17 @@ simple principle of human rights which is not so simple after all,
 considering it underlies the American revolution of 1776 and the whole
 panorama of colonial movements throughout the world today." During a
 half century of political activism, Palmer Weber never faltered.</p>
-            </div2>
-            <div2 id="sc08-6minor.006" n="Congressman Espy from Mississippi" type="Article">
+            <div3 id="sc08-6.025" type="About">
+                  <p>Patricia Sullivan is associate director of the Center for
+the Study of Civil Rights and Lecturer in History, University of
+Virginia.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-6.006" n="Congressman Espy from Mississippi" type="Article">
                <head>Congressman Espy from Mississippi</head>
-               <docAuthor>By BILL MINOR</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 1-3</docDate>
-               <argument>
-                  <p>Bill Minor, a veteran observer of Mississippi politics,
-lives in Jackson.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Minor, Bill">Bill Minor</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 1-3</docDate>
+               
                <p>A studious, mild-mannered Yazoo City attorney, thirty-two years
 old, wrote Mississippi political history on November 4, when he became
 the first black sent to the U.S. Congress from this state since
@@ -1515,15 +1517,16 @@ voters staying home.</p>
 numbers of 1984 strongly suggest that Espy may have to get twenty
 thousand more votes, black and/or white, if he is to prevail in a
 re-election bid during a presidential election year.</p>
-            </div2>
-            <div2 id="sc08-6dolman.007" n="Locking Up Liberty in the Atlanta Pen" type="Article">
+            <div3 id="sc08-6.026" type="About">
+                  <p>Bill Minor, a veteran observer of Mississippi politics,
+lives in Jackson.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-6.007" n="Locking Up Liberty in the Atlanta Pen" type="Article">
                <head>Locking Up Liberty in the Atlanta Pen</head>
-               <docAuthor>By JOE DOLMAN</docAuthor>
-               <docDate>Vol. 8, No. 6, 1986, pp. 3-5</docDate>
-               <argument>
-                  <p>Joe Dolman is an editorial writer for the Atlanta
-<title>Constitution</title>.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Dolman, Joe">Joe Dolman</name></docAuthor></byline>
+               <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 3-5</docDate>
+               
                <p>The granite fortress occupies the ridge on McDonough Boulevard with
 imperial authority. Its gray steel and concrete outer wall stands as
 tall as thirty-seven feet and as thick as four feet; it seals off
@@ -1668,7 +1671,11 @@ nightmare. It inflicts on the Cubans misery equal to anything Castro
 might have devised. At bottom, its policy expresses lack of confidence
 in some bedrock, American, tried-and-true constitutional
 principles. What is everyone so afraid of?</p>
-            </div2>
+            <div3 id="sc08-6.027" type="About">
+                  <p>Joe Dolman is an editorial writer for the Atlanta
+<title>Constitution</title>.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

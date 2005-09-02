@@ -64,17 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc12-4.001" n="Southern Changes 12:4" type="Issue">
             <head>Southern Changes.  Volume 12, Number 4, 1990</head>
             <p>
-               <title>Southern Changes</title>.  Volume 12, Number 4, 1990</p>
-            <div2 id="sc12-4willett.002" n="South of Art" type="Article">
+               <title>Southern Changes</title>.  Volume 12, Number 4,
+	       <date value="1990-09">1990</date></p>
+            <div2 id="sc12-4.002" n="South of Art" type="Article">
                <head>South of Art</head>
-               <docAuthor>By HENRY WILLETT</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 14-15</docDate>
-               <argument>
-                  <p>Hank Willett is the former regional representative to the
-Southern states for thc National Endowment for thc arts. He has
-recently left that position to organize and direct thc Alabama Center
-for Traditional Culture.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Willett, Henry">Henry Willett</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 14-15</docDate>
+               
                <p>In 1974, Walker Percy, with a bit of subtle equivocation, wrote,
 "Well, the so-called Southern thing is over and done with, I
 think." Of course he was wrong. The Southern thing is as strong as
@@ -167,11 +163,17 @@ marketed in a package of stereotypes, and sold for profit. And it will
 no doubt continue to be so expropriated until the region develops the
 will and the mechanisms for assuming the critical proprietorship of
 its own culture.</p>
-            </div2>
-            <div2 id="sc12-4suitts.003" n="Driving Mr. Walker" type="Article">
+            <div3 id="sc12-4.022" type="About">
+                  <p>Hank Willett is the former regional representative to the
+Southern states for thc National Endowment for thc arts. He has
+recently left that position to organize and direct thc Alabama Center
+for Traditional Culture.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.003" n="Driving Mr. Walker" type="Article">
                <head>Driving Mr. Walker</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 5-7</docDate>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 5-7</docDate>
                <p>I was taken for a ride on Memorial Day Sunday. At home without my
 family (off visiting relatives) I was sitting on my front porch when a
 stranger approached. Dressed in a golf shirt, shorts, and running
@@ -319,10 +321,10 @@ region where neighborliness cares for all.</p>
                <p>If Mr. Walker had returned my money, that would have been the real
 hoax.</p>
             </div2>
-            <div2 id="sc12-4katz.004" n="A Walk on the Supply Side" type="Article">
+            <div2 id="sc12-4.004" n="A Walk on the Supply Side" type="Article">
                <head>A Walk on the Supply Side</head>
-               <docAuthor>Michael B. Katz</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, p. 6</docDate>
+               <byline><docAuthor><name reg="Katz, Michael B.">Michael B. Katz</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, p. 6</docDate>
                <p>"One of the most enduring and indivious social categories is
 'stranger.' We engage the world as a series of concentric circles
 based on degrees of relation: family, friends, neighbors, community,
@@ -347,18 +349,14 @@ requires personal transformation, such as the acquisition of skills,
 commitment to the work ethic, or the practice of chastity. This
 "supply-side" view of poverty, often despite powerful evidence, has
 coursed through American social thought for centuries."</p>
-               <p>-from the introduction to <title>The Undeserving Poor</title>, by
+               <p>--from the introduction to <title>The Undeserving Poor</title>, by
 Michael B. Katz (Pantheon Books, 1989).</p>
             </div2>
-            <div2 id="sc12-4hall.005" n="Feud" type="Review">
+            <div2 id="sc12-4.005" n="Feud" type="Review">
                <head>Feud</head>
-               <docAuthor>Reviewed by SUZANNE M. HALL</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 18-19</docDate>
-               <argument>
-                  <p>Suzanne Hall is a
-member of the History faculty at Kennesaw State College in Marietta,
-Georgia.</p>
-               </argument>
+               <byline>Reviewed by <docAuthor><name reg="Hall, Suzanne M.">Suzanne M. Hall</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 18-19</docDate>
+               
                <p>A local, essentially family-based dispute arose after Ranel McCoy
 accused Floyd Hatfield, who was "Devil" Anse Hatfield's cousin, of
 stealing a hog. The two families, however, did not resort at once to
@@ -454,16 +452,18 @@ feud with its themes of honor and revenge. Waller tells a complex
 story in a captivating style which satisfies the needs of scholars and
 the general reading public. Her account of the feud is vastly more
 thought-provoking and entertaining than the Hatfield-McCoy myth. K</p>
-            </div2>
-            <div2 id="sc12-4finlator.006" n="A View from Death Row" type="Review">
-               <head>A View from Death Row. <title>Last Rights</title> by Joseph
-B. Ingle (Abingdon Press, 1990).</head>
-               <docAuthor>Reviewed by W.W. FINLATOR</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 16-17</docDate>
-               <argument>
-                  <p>W.W. Finlator, preacher, prophet, man of justice,  lives
-as he long has in Raleigh, North Carolina.</p>
-               </argument>
+            <div3 id="sc12-4.025" type="About">
+                  <p>Suzanne Hall is a
+member of the History faculty at Kennesaw State College in Marietta,
+Georgia.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.006" n="A View from Death Row" type="Review">
+               <head>A View from Death Row.</head> 
+               <byline>Reviewed by <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 16-17</docDate>
+               <bibl><title>Last Rights</title> by Joseph
+B. Ingle (Abingdon Press, 1990).</bibl>
                <p>Seldom do I have the honor to review a book written by a personal
 friend and respected colleague, and I welcome the opportunity to
 identify myself with the prison ministry of Joseph Ingle and his
@@ -565,17 +565,16 @@ live under a government that refuses to kill its citizens. And a major
 factor in this return to sanity and humanity could be these 13 souls
 who were put to death by the state and who Joe Ingle has here kept
 alive.</p>
-            </div2>
-            <div2 id="sc12-4davis.007" n="You Gotta Serve Somebody" type="Article">
+            <div3 id="sc12-4.026" type="About">
+                  <p>W.W. Finlator, preacher, prophet, man of justice,  lives
+as he long has in Raleigh, North Carolina.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.007" n="You Gotta Serve Somebody" type="Article">
                <head>You Gotta Serve Somebody</head>
-               <docAuthor>By MURPHY DAVIS</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 1-5</docDate>
-               <argument>
-                  <p>Murphy Davis is the Open Door Community's Southern Prison
-Ministry Director. This article is adapted from a symposium talk in
-May 1990 at Converse College. (Open Door Community, 910 Ponce de Leon
-Avenue, Atlanta, GA 30306-4212; (404)-874-9652.)</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Davis, Murphy">Murphy Davis</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 1-5</docDate>
+               
                <p>I want to begin by saying a word about my life in the Open Door
 Community since this so deeply affects anything else I would say.</p>
                <p>We are a residential Christian Community of 32 folks. We are
@@ -830,18 +829,18 @@ willful or unwitting ignorance--our silence and our inaction mean,
 literally and powerfully, service to a public policy that is 
 killing our neighbors at home and around the world.</p>
                <p>You gonna have to serve somebody.</p>
-            </div2>
-            <div2 id="sc12-4campbell.008" n="Mississippi and the WPA" type="Review">
+            <div3 id="sc12-4.027" type="About">
+                  <p>Murphy Davis is the Open Door Community's Southern Prison
+Ministry Director. This article is adapted from a symposium talk in
+May 1990 at Converse College. (Open Door Community, 910 Ponce de Leon
+Avenue, Atlanta, GA 30306-4212; (404)-874-9652.)</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.008" n="Mississippi and the WPA" type="Review">
                <head>Mississippi and the WPA</head>
-               <docAuthor>Reviewed by WILL CAMPBELL</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 20-23</docDate>
-               <argument>
-                  <p>Will Campbell's most recent book is Covenant, with
-photographs by AI Clayton. <title>Mississippi: The WPA Guide to the
-Magnolia State,</title> with a new introduction by Robert
-S. McElvaine, is available from the University Press of
-Mississippi.</p>
-               </argument>
+               <byline>Reviewed by <docAuthor><name reg="Campbell, Will">Will Campbell</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 20-23</docDate>
+               
                <p>If I were asked to name one agency of government which has done the
 most good in my lifetime I would not hesitate. The Works Progress
 Administration of the Great Depression. The WPA.</p>
@@ -1018,20 +1017,22 @@ together because that was what they did best and because there once
 existed a federal administration that believed in feeding the hungry
 and clothing the naked. As for me, I will be content knowing that the
 words were written and are once more available to us. </p>
-            </div2>
-            <div2 id="sc12-4bussey.009" n="Black and White and Rosy" type="Review">
-               <head>Black and White and Rosy. <title>Black, White, and Southern:
+            <div3 id="sc12-4.028" type="About">
+                  <p>Will Campbell's most recent book is Covenant, with
+photographs by AI Clayton. <title>Mississippi: The WPA Guide to the
+Magnolia State,</title> with a new introduction by Robert
+S. McElvaine, is available from the University Press of
+Mississippi.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.009" n="Black and White and Rosy" type="Review">
+               <head>Black and White and Rosy.</head>
+               <byline>Reviewed by <docAuthor><name reg="Bussey, Charles J.">Charles J. Bussey</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 17-18</docDate>
+               <bibl><title>Black, White, and Southern:
 Race Relations and Southern Culture, 1940 to the Present</title> by
 David R Goldfield (Baton Rogue: Louisiana State University Press,
-1990. xviii, pp. 321.)</head>
-               <docAuthor>Reviewed by CHARLES J. BUSSEY</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 17-18</docDate>
-               <argument>
-                  <p>Originally from Mississippi, Charles Bussey now  is on
-the History faculty of Western Kentucky University. He is  researching
-the life and work of Julius Richmond, the  architect and first
-director of Head Start.</p>
-               </argument>
+1990. xviii, pp. 321.)</bibl>
                <p>The American South reminds me of ancient Sparta. Both were
 entrapped by their past, by their fear of change, and by their using
 every means at their disposal to keep outside ideas and people
@@ -1117,20 +1118,18 @@ remains a dream, not a foreseeable reality.</p>
 people who seek to understand being black, white and southern. His
 bibliographical essay is thorough and provides a key starting point
 for any reader.</p>
-            </div2>
-            <div2 id="sc12-4bondi.010" n="Cooked Food" type="Article">
+            <div3 id="sc12-4.029" type="About">
+                  <p>Originally from Mississippi, Charles Bussey now  is on
+the History faculty of Western Kentucky University. He is  researching
+the life and work of Julius Richmond, the  architect and first
+director of Head Start.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-4.010" n="Cooked Food" type="Article">
                <head>Cooked Food</head>
-               <docAuthor>By ROBERTA BONDI</docAuthor>
-               <docDate>Vol. 12, No. 4, 1990, pp. 8-12</docDate>
-               <argument>
-                  <p>Roberta Bondi is professor of church history at the
-Candler School of Theology at Emory University. She is the author of
-<title>To Love as God Loved: Conversations with the Early
-Church</title> (Philadelphia: Fortress Press, 1987). Illustrations
-with this article are from John Egerton's <title>Southern
-Food</title> (New York: Knopf; 1987), photographed Al
-Clayton.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Bondi, Roberta">Roberta Bondi</name></docAuthor></byline>
+               <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 8-12</docDate>
+               
                <p>When Benjamin was five, he looked down at his plate one morning at
 breakfast. Then he looked up at me and asked, "Mama, when you were a
 little girl, did they have cooked food?" "Are you kidding?" I
@@ -1425,7 +1424,16 @@ Has she just taken away from me the power of my womanhood or has she
 set me free? Feeling a bit betrayed by the aunts I thought I had
 myself betrayed, I wonder over the mystery of time passing, and of
 cooked food. </p>
-            </div2>
+            <div3 id="sc12-4.030" type="About">
+                  <p>Roberta Bondi is professor of church history at the
+Candler School of Theology at Emory University. She is the author of
+<title>To Love as God Loved: Conversations with the Early
+Church</title> (Philadelphia: Fortress Press, 1987). Illustrations
+with this article are from John Egerton's <title>Southern
+Food</title> (New York: Knopf; 1987), photographed Al
+Clayton.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

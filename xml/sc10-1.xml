@@ -64,17 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc10-1.001" n="Southern Changes 10:1" type="Issue">
             <head>Southern Changes.  Volume 10, Number 1, 1988</head>
             <p>
-               <title>Southern Changes</title>.  Volume 10, Number 1, 1988</p>
-            <div2 id="sc10-1hannon.002" n="Women and the '88 Elections" type="Article">
+               <title>Southern Changes</title>.  Volume 10, Number 1,
+	       <date value="1988-01">1988</date></p>
+            <div2 id="sc10-1.002" n="Women and the '88 Elections" type="Article">
                <head>Women and the '88 Elections</head>
-               <docAuthor>By SHARRON HANNON</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, pp. 1-3</docDate>
-               <argument>
-                  <p>Sharron Hannon is a Georgia-based freelance writer, whose
-work has appeared in numerous publications. For the past four years,
-she has edited <title>Southern Feminist</title>, a newspaper covering
-women's rights issues.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hannon, Sharron">Sharron Hannon</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 1-3</docDate>
+               
                <p>What role will women play in the '88 elections? Will the "gender
 gap" resurface? Will it affect the outcome of the presidential
 race?</p>
@@ -260,20 +256,18 @@ still window-shopping when it comes to the presidential race.</p>
                <p>"If the candidates' melanges are on the mark," asks
 Natividad, "why are most women voters voting for a candidate called
 'undecided'?"</p>
-            </div2>
-            <div2 id="sc10-1wilson.003" n="In South Africa" type="Article">
+            <div3 id="sc10-1.022" type="About">
+                  <p>Sharron Hannon is a Georgia-based freelance writer, whose
+work has appeared in numerous publications. For the past four years,
+she has edited <title>Southern Feminist</title>, a newspaper covering
+women's rights issues.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-1.003" n="In South Africa" type="Article">
                <head>In South Africa--The Politics of an Inquiry for Change</head>
-               <docAuthor>By FRANCIS WILSON</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, pp. 4, 6-8</docDate>
-               <argument>
-                  <p>Dr. Francis Wilson was the banquet speaker at the 1987
-SRC annual meeting. A South African economist, Dr. Wilson is currently
-directing the Carnegie Inquiry into Poverty and Development in
-Southern Africa, a study involving scores of participants. The Inquiry
-aims to give voice and leverage to South Africa's "unheard voices,"
-the dispossessed black majority. Dr. Wilson's edited and condensed
-remarks follow.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Wilson, Francis">Francis Wilson</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 4, 6-8</docDate>
+               
                <p>It is very difficult to be balanced when one talks about South
 Africa On the one hand one can make it too horrendous for words. On
 the other hand one can oversimplify and say, 'Well, you know it's not
@@ -656,14 +650,21 @@ for next year.</p>
 our trees but we certainly need to plant them now, to provide fruit
 and shelter for our children and our children's children all over the
 world, but certainly in the two Souths.</p>
-            </div2>
-            <div2 id="sc10-1gladney.004" n="A Letter from Lillian Smith" type="Article">
+            <div3 id="sc10-1.023" type="About">
+                  <p>Dr. Francis Wilson was the banquet speaker at the 1987
+SRC annual meeting. A South African economist, Dr. Wilson is currently
+directing the Carnegie Inquiry into Poverty and Development in
+Southern Africa, a study involving scores of participants. The Inquiry
+aims to give voice and leverage to South Africa's "unheard voices,"
+the dispossessed black majority. Dr. Wilson's edited and condensed
+remarks follow.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-1.004" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
-               <docAuthor>Edited by ROSE GLADNEY</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, pp. 11-12</docDate>
-               <argument>
-                  <p>Rose Gladney is Assistant Professor of American Studies
-at the University of Alabama, Tuscaloosa.</p>
+               <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 11-12</docDate>
+               
                   <p>The following is the second of a series of letters selected from the
 correspondence of Lillian Smith to appear in <title>Southern
 Changes</title>. This issue's selection is from one of her letters to
@@ -694,7 +695,7 @@ specifically the anticipation of war, affected the creative activities
 of the camp and Smith's perspective on her work as writer as well as
 camp director. She knew then that war, like other forms of human
 segregation, is most destructive to our minds and hearts.</p>
-               </argument>
+               
                <p>September 19, 1940</p>
                <p>We had a good summer, smooth as far as the mechanics of camp were
 concerned. Less encouraging to me as I watched War creep into our
@@ -757,17 +758,15 @@ life she had felt about a summer...</p>
 us that it is difficult to hold on to those values one cherishes. It
 is not the physical part of war that sickens me as it is what is
 happening to our minds and feelings.</p>
-            </div2>
-            <div2 id="sc10-1rankin.005" n="Remembering 'Bud' Garrett" type="Article">
+            <div3 id="sc10-1.024" type="About">
+                  <p>Rose Gladney is Assistant Professor of American Studies
+at the University of Alabama, Tuscaloosa.</p></div3>
+</div2>
+            <div2 id="sc10-1.005" n="Remembering 'Bud' Garrett" type="Article">
                <head>Remembering 'Bud' Garrett</head>
-               <docAuthor>By TOM RANKIN and ELIZABETH PETERSON</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, pp. 12, 14-15</docDate>
-               <argument>
-                  <p>Tom Rankin is a folklorist and photographer and currently
-teaches photography at Emory University. Elizabeth Peterson works with
-the Texas Folklife Resources in Austin, Texas. Bob Fulcher of the
-Tennessee State' Parks also contributed to this piece.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Rankin, Tom">Tom Rankin</name> and <name reg="Peterson,  Elizabeth"> Elizabeth Peterson</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 12, 14-15</docDate>
+               
                <p>Robert "Bud" Garrett died on November 24,1987. Perhaps
 appropriately, he suffered a heart attack during his third game of the
 folk marble game "rolley hole" the day before Thanksgiving.</p>
@@ -842,12 +841,17 @@ in Nashville, the 1982 World's Fair in Knoxville, the Brandywine
 Festival in Delaware, and the Smithsonian Festival of American
 Folklife in Washington, D.C.</p>
                <p>Bud Garrett will be missed.</p>
-            </div2>
-            <div2 id="sc10-1clark.006" n="When 'Justice Rose Like Water'" type="Article">
+            <div3 id="sc10-1.025" type="About">
+                  <p>Tom Rankin is a folklorist and photographer and currently
+teaches photography at Emory University. Elizabeth Peterson works with
+the Texas Folklife Resources in Austin, Texas. Bob Fulcher of the
+Tennessee State' Parks also contributed to this piece.</p>
+               </div3></div2>
+            <div2 id="sc10-1.006" n="When 'Justice Rose Like Water'" type="Article">
                <head>When 'Justice Rose Like Water'</head>
-               <docAuthor>By SEPTIMA POINSETTE CLARK</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, p. 15</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Clark, Septima Poinsette">Septima Poinsette Clark</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 15</docDate>
+               
                   <p>Educator and activist Septima Clark, whose long,
 productive career placed her in the front lines of civil rights
 activities for six decades, died on December 15, 1987, in a nursing
@@ -857,7 +861,7 @@ the Southern Regional Council. Meanwhile, as ceremonies nationwide
 during January honor Martin Luther King, Jr., here is the text of a
 speech Clark gave at a King birthday celebration in Charleston in
 1980:</p>
-               </argument>
+               
                <p>I was born in 1898, and as a girl in Charleston, South Carolina,
 the church was very powerful. In the sanctuaries, Christians
 rejoiced. There they were deemed worthy to suffer for what they
@@ -899,14 +903,11 @@ duty to oppose it. Preserve the values of the faith for children yet
 unborn. The end of life is not to be happy, nor to achieve pleasure
 and avoid pain, but to do the will of God, come what may.</p>
             </div2>
-            <div2 id="sc10-1chestnut.007" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc10-1.007" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, p. 16</docDate>
-               <argument>
-                  <p>J.L. Chestnut Jr. is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 16</docDate>
+               
                <p>A powerful white Southern politician who for years has helped many
 black people, including this writer, sought last week to end an
 outrageous debate with 0a brother-in-law by asking me if I thought he
@@ -957,18 +958,22 @@ had been there all the time.</p>
 known that.</p>
                <p>He fooled himself; not me.</p>
                <p>Peace.</p>
-            </div2>
-            <div2 id="sc10-1staff.008" n="Scenes from the Office I" type="Article">
+            <div3 id="sc10-1.027" type="About">
+                  <p>J.L. Chestnut Jr. is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	    </div2>
+            <div2 id="sc10-1.008" n="Scenes from the Office I" type="Article">
                <head>Scenes from the Office: I. "The Pitfalls Facing Management"</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, p. 9</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 9</docDate>
+               
                   <p>Editor's note: The following memo was circulated by the
 corporate legal department of a large Atlanta business through all
 levels of management in 1987. The employee who provided <hi rend="italic">Southern Changes</hi> a copy of this memo requested that
 neither his/her name nor that of the company be
 mentioned.</p>
-               </argument>
+               
                <p>Procedure Where Labor Union Official Contacts Management
 Representative of [Company Name] for Recognition or Negotiation</p>
                <p>Over the past several years, unions have made unsuccessful efforts
@@ -1061,13 +1066,11 @@ matters is consistent with the laws and Company policies and
 procedures.</p>
                <p>-Corporate Legal Department</p>
             </div2>
-            <div2 id="sc10-1sharpless.009" n="Scenes from the Office II" type="Article">
+            <div2 id="sc10-1.009" n="Scenes from the Office II" type="Article">
                <head>Scenes from the Office: II. The Supervisor in the Computer</head>
-               <docAuthor>Interview by REBECCA SHARPLESS</docAuthor>
-               <docDate>Vol. 10, No. 1, 1988, pp. 10-11</docDate>
-               <argument>
-                  <p>Rebecca Sharpless is a student at Emory University's Graduate Institute of the Liberal Arts.</p>
-               </argument>
+               <byline>Interview by <docAuthor><name reg="Sharpless, Rebecca">Rebecca Sharpless</name></docAuthor></byline>
+               <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 10-11</docDate>
+               
                <p>Susan Lowe, age twenty-seven, works with 200 co-workers in the
 claims department of a large insurance firm in Atlanta. The claims
 department occupies an entire floor of a downtown high-rise office
@@ -1200,7 +1203,10 @@ little bit more. But then again, I was spending an extra hour or more
 a day in this stress-out situation. So I really don't think it helped,
 although it seemed to psychologically make me feel a little bit better
 that I wasn't so wired when I was there.</p>
-            </div2>
+            <div3 id="sc10-1.029" type="About">
+                  <p>Rebecca Sharpless is a student at Emory University's Graduate Institute of the Liberal Arts.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

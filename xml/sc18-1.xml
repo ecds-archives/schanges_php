@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 18, Number 1 1996</bibl>
+            <bibl>Southern Changes.  Volume 18, Number 1, Spring 1996</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -53,13 +54,15 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc18-1.996" n="Southern Changes 18:1" type="Issue">
+         <div1 id="sc18-1.001" n="Southern Changes 18:1" type="Issue">
             <head>Southern Changes.  Volume 18, Number 1, 1996</head>
-<div2 id="sc18-1.staff.001" n="Welfare Reform: States Race to the
+	    <p><title>Southern Changes</title>.  Volume 18, Number 1,
+	    <date value="1996-03">1996</date></p>
+<div2 id="sc18-1.002" n="Welfare Reform: States Race to the
 			       Bottom" type="article">
 <head>Welfare Reform: States Race to the Bottom</head>
-<docAuthor>staff</docAuthor>
-<docDate>Vol. 18, No. 1, 1996 pp. 1-2</docDate>
+<byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+<docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 1-2</docDate>
 <p>With the election season looming, and both Clinton and the Congress
 positioning on the welfare reform debate, agrement on a welfare
 reform package is now considered unlikely this year. But the real
@@ -99,15 +102,10 @@ organized in twelve Southern states, which privides views of state
 experts on mauor public issues. Copyrighted by the respective state
 forums, they are edited slightly to be as up to date as possible, and
 reprinted there with permission.</p></div2>
-<div2 id="sc18-1.bresette.001" n="Texas: Fundamentally Flawed" type="Article">
+<div2 id="sc18-1.003" n="Texas: Fundamentally Flawed" type="Article">
                <head>Texas: Fundamentally Flawed</head>
-               <docAuthor>By PATRICK BRESETTE</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 2-3</docDate>
-<argument><p>Patrick Bresette is assoicate director of the Center for
-Public Policy Priorities in Austin, Texas, a not-for-profit research
-and policy analysis organization focusing on programs that impact
-children and families.  The article was prepared for the Texas Lone
-Star Forum</p></argument>
+               <byline>By <docAuthor><name reg="Bresette, Patrick">Patrick Bresette</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 2-3</docDate>
 
 <p>The powerful impetus in Congress to reform this nation's welfare programs has rapidly degenerated into little more than an ideological contest, but one likely to yield disastrous consequences. Divorced from reality, ignoring current research, and focusing on all the wrong issues, Congress aims to implement welfare reform that would create vast inequities among the states and pro-vide little meaningful change.</p>
 
@@ -132,13 +130,19 @@ care and more money--not less. The work and child care provisions of the proposa
 
 <p>The welfare reform proposals are fundamentally flawed. Focused primarily on budget cutting, they shift responsibilities to the states with unrealistic expectations and inadequate resources. They would distribute funding in a manner that values poor children differently from state to state and ignores real reforms in education and training that could help welfare families become self-supporting.</p>
 
-<p>Congress has shirked the courage and leadership necessary to face the real and difficult realities of overhauling welfare.</p></div2>
+<p>Congress has shirked the courage and leadership necessary to face
+the real and difficult realities of overhauling welfare.</p>
+<div3 id="sc18-1.023" type="About"><p>Patrick Bresette is assoicate director of the Center for
+Public Policy Priorities in Austin, Texas, a not-for-profit research
+and policy analysis organization focusing on programs that impact
+children and families.  The article was prepared for the Texas Lone
+Star Forum</p></div3>
+</div2>
 
-<div2 id="sc18-1.huddleston.002" n="Arkansas: Flexibility for Failure" type="Article">
+<div2 id="sc18-1.004" n="Arkansas: Flexibility for Failure" type="Article">
                <head>Arkansas: Flexibility for Failure</head>
-               <docAuthor>By RICHARD HUDDLESTON</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 3-5</docDate>
-<argument><p>Richard Huddleston is a research analyst with Arkansas Advocates for Children and Families in Little Rock, Arkansas.</p></argument>
+               <byline>By <docAuthor><name reg="Huddleston, Richard">Richard Huddleston</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 3-5</docDate>
 <p>Courtesy of the Republican-controlled Congress, welfare reform block grants will soon be coming to Arkansas and other states. States will have unprecedented flexibility to set eligibility criteria, choose funding levels, and set program priorities.</p>
 
 <p>One common feature of these new block grant programs: states are
@@ -173,13 +177,14 @@ full-time minimum wage job <pb n="5"/>pays substantially less than the official 
 <p>In our rush to reform the welfare system, our approach must allow
 the public to participate in the debate, especially those directly
 affected by the change. If we do not do so, the reform process will
-surely fail.</p></div2>
+surely fail.</p>
+<div3 id="sc18-1.024" type="About"><p>Richard Huddleston is a research analyst with Arkansas Advocates for Children and Families in Little Rock, Arkansas.</p></div3>
+</div2>
 
-<div2 id="sc18-1.myers.003" n="Virginia: Stinginess Amid Wealth" type="Article">
+<div2 id="sc18-1.005" n="Virginia: Stinginess Amid Wealth" type="Article">
 <head>Virginia: Stinginess Amid Wealth</head>
-<docAuthor>By STEVEN L. MYERS</docAuthor>
-<docDate>Vol. 18, No. 1, 1996 pp. 5-6</docDate>
-<argument><p>Steven L. Myers is a staff attorney with the Virginia Poverty Law Center.</p></argument>
+<byline>By <docAuthor><name reg="Myers, Steven L.">By STEVEN L. MYERS</name></docAuthor></byline>
+<docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 5-6</docDate>
 <p>Despite its relative wealth, Virginia spends far less to assist its poor citizens, most of whom are children, than most other states. During the 1980s, the income disparity between rich and poor families was more pronounced in Virginia than in any other state. The average annual income of the top fifth of Virginia's families increased nearly $21,747 while the average annual income of the bottom fifth actually fell $1,813. By the end of the decade, Virginia had the eighth largest income disparity between rich and poor families in the United States.</p>
 
 <p>Only seven states have average annual family income greater than Virginia's but Virginia's average monthly welfare payment ($277 for a family with two children) ranks only thirty-sixth in the country. As a result of Virginia's failure to adjust for inflation, the maximum welfare payment for a family of three in Virginia actually lost 58 percent of its value from 1970 to 1994.</p>
@@ -208,13 +213,18 @@ one year of transitional child care assistance, former welfare recipients workin
 
 <p>Budget cuts considered each year also reflect little understanding of the relationship between welfare re-form and the working poor. Because part-time and low-wage jobs often do not include health insurance benefits, the prospect of losing Medicaid coverage deters welfare recipients from accepting employment. Although moving welfare recipients into jobs is a major goal of welfare reform, the governor proposed a budget amendment which would have eliminated Medicaid coverage for thirty-six thousand teenage children in working poor families. While the General Assembly defeated this proposal, similar proposals may be considered again next year. Such cuts would undermine welfare reform by forcing many working poor families onto welfare in order to secure health care for their children.</p>
 
-<p>As the debate on welfare reform continues, Virgin. ians must measure extravagant claims against the reality of limited funding. If we are serious about reforming the welfare system, we must support leaders who have the integrity to confront the cost of effective reforms honestly.</p></div2>
+<p>As the debate on welfare reform continues, Virgin. ians must
+measure extravagant claims against the reality of limited funding. If
+we are serious about reforming the welfare system, we must support
+leaders who have the integrity to confront the cost of effective
+reforms honestly.</p>
+<div3 id="sc18-1.025" type="About"><p>Steven L. Myers is a staff attorney with the Virginia Poverty Law Center.</p></div3>
+</div2>
 
-<div2 id="sc18-1.keller.004" n="Georgia: Scapegoats and Resentments" type="Article">
+<div2 id="sc18-1.006" n="Georgia: Scapegoats and Resentments" type="Article">
                <head>Georgia: Scapegoats and Resentments</head>
-               <docAuthor>By MARTI KELLER and LANE GOLDBERG</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 p. 6</docDate>
-<argument><p>Keller is the former executive director and Goldberg is a policy intern with the non-profit Georgians for Children.</p></argument>
+               <byline>By <docAuthor><name reg="Keller, Marti">Marti Keller</name> and <name reg="Goldberg, Lane">Lane Goldberg</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 p. 6</docDate>
 <p>The rhetoric surrounding the current debate over welfare reform plays on the growing insecurity in the U.S. today, appeals to our desire to find simple solutions to complex problems, and encourages us to seek scapegoats to bear the blame for the problems confronting our country.</p>
 
 <p>In Georgia, a survey commissioned by Senator Paul Coverdell (R-Ga.) revealed that many Georgia voters have great misconceptions of federal government spending. For example, of the six hundred respondents, a full 20 percent said that the government spends most of its money on welfare and food stamps. In reality Aid to Families with Dependent Children (AFDC) and food stamps amount to about 2.4 percent of total federal out-lays.</p>
@@ -236,13 +246,17 @@ lack education and training critical to helping then find and maintain employmen
 
 <p>If we refuse to invest in our families, not only will we continue to see our position in the world economy decline, but we will face the intensification of problems associated with poverty such as crime, substance abuse, births to teens, and underemployment. The money we might have spent to support our families and our economy will (as is frequently the case now) have to be spent to combat these social problems. The fears, anger, and resentment that have become woven into the fabric of our society will continue to grow and to disempower us and our children will disproportionately endure the consequences.</p>
 
-<p>We have a choice: we can continue to allow our fears and our insecurities to guide our welfare policies or, with courage and forethought, we can begin to accept realities and try to change them constructively.</p></div2>
+<p>We have a choice: we can continue to allow our fears and our
+insecurities to guide our welfare policies or, with courage and
+forethought, we can begin to accept realities and try to change them
+constructively.</p>
+<div3 id="sc18-1.026" type="About"><p>Keller is the former executive director and Goldberg is a policy intern with the non-profit Georgians for Children.</p></div3>
+</div2>
 
-<div2 id="sc18-1.quesenberry.005" n="Work First, People Last" type="Article">
+<div2 id="sc18-1.007" n="Work First, People Last" type="Article">
                <head>Work First, People Last</head>
-               <docAuthor>By PRESTON QUESENBERRY</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 p. 7</docDate>
-<argument><p>Preston Quesenberry is a graduate student at Emory University's Institute of Liberal Arts.</p></argument>
+               <byline>By <docAuthor><name reg="Quesenberry, Preston">Preston Quesenberry</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 p. 7</docDate>
 <p>In the name of "independence," and "responsibility," states around the nation have been implementing "Work First" programs designed to force welfare recipients into the workforce. While such programs are supported by their proponents as "giving families the help they need to become self-sufficient," they effectively entail using public dollars to coerce welfare recipients into the private sector's lowest-paying and least desirable occupations, with little hope of advancing from them. While welfare recipients are obviously not forced at gunpoint to engage in society's most-exploitative jobs, the time-limits and strict sanctions which accompany Work First legislation effectively coerce them with the threat of starvation.</p>
 
 <p>The federally-mandated Job Opportunity and Basic Skills (JOBS) programs had at least partially emphasized long-term training for work which really could provide participants with a modicum of independence and self-sufficiency. Thanks to federal waivers, however, the Southern states of Georgia, Mississippi, North Carolina, and Virginia have been revamping the JOBS programs and shifting the emphasis to getting welfare recipients into the workforce immediately. This fact is boldly proclaimed in government press releases boasting about the new programs, as in this statement from the office of North Carolina Governor Jim Hunt: "County departments of social services across North Carolina began shifting their welfare families from JOBS, a program that emphasized long-term training, to Work First, which emphasizes short-term training, work, and personal responsibility."</p>
@@ -257,13 +271,23 @@ matter how low paying, routinized, exploitative, or monotonous--has intrinsic va
 <p>So valued is work as an end in itself, that state governments are
 willing to subsidize the supply of human resources to low-wage employers not only indirectly through publicly funded medical insurance and child care, but also directly by <hi rend="italic">paying</hi> employers to hire welfare recipients. Both Mississippi and Virginia, for example, divert AFDC and Food Stamp benefits to pay employers one dollar for every hour that a former welfare recipient works for them.</p>
 
-<p>Instead of subsidizing private employers, perhaps states should guarantee a minimum standard of living. Instead of forcing "responsibility" on welfare recipients, perhaps they should force responsibility on private employers to provide a decent wage, health insurance, and reasonably attractive work. Furthermore, instead of taking the insufficiencies of the current JOBS program as proof that "education and training don't work," perhaps state governors and legislators should see them as proof that education and training programs require more funds and resources. This would be the true road to independence and self-sufficiency.</p></div2>
+<p>Instead of subsidizing private employers, perhaps states should
+guarantee a minimum standard of living. Instead of forcing
+"responsibility" on welfare recipients, perhaps they should force
+responsibility on private employers to provide a decent wage, health
+insurance, and reasonably attractive work. Furthermore, instead of
+taking the insufficiencies of the current JOBS program as proof that
+"education and training don't work," perhaps state governors and
+legislators should see them as proof that education and training
+programs require more funds and resources. This would be the true road
+to independence and self-sufficiency.</p>
+<div3 id="sc18-1.027" type="About"><p>Preston Quesenberry is a graduate student at Emory University's Institute of Liberal Arts.</p></div3>
+</div2>
 
-<div2 id="sc18-1.996" n="Voting Rights Assault: Heard This Song Before" type="Article">
+<div2 id="sc18-1.008" n="Voting Rights Assault: Heard This Song Before" type="Article">
                <head>Voting Rights Assault: Heard This Song Before</head>
-               <docAuthor>By THE REV. JOSEPH LOWERY</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 8-10</docDate>
-<argument><p>The Rev. Joseph Lowery is the president of the Southern Christian Leadership Conference. His remarks are edited from a speech on October 28, 1995, to a voting rights conference in New Orleans organized by the Lawyers' Committee for Civil Rights Under Law and the Southern Regional Council.</p></argument>
+               <byline>By The Rev. <docAuthor><name reg="Lowery, Joseph">Joseph Lowery</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 8-10</docDate>
 
 <p>In 1964, following the passage of the Public Accommodations Act, I
 was among a delegation that went with Martin King to see President Johnson
@@ -337,13 +361,14 @@ roll down by capillary action. Somebody must raise the level of
 consciousness, walk the walk and talk the talk, pay the price and make
 the sacrifice. We are committed in the context of non-violence through
 the political and economic resources we have. We must get back in
-motion with the fire in our belly.</p></div2>
+motion with the fire in our belly.</p>
+<div3 id="sc18-1.028" type="About"><p>The Rev. Joseph Lowery is the president of the Southern Christian Leadership Conference. His remarks are edited from a speech on October 28, 1995, to a voting rights conference in New Orleans organized by the Lawyers' Committee for Civil Rights Under Law and the Southern Regional Council.</p></div3>
+</div2>
 
-<div2 id="sc18-1.lee.006" n="Black Southern Churches Under Fire" type="Article">
+<div2 id="sc18-1.009" n="Black Southern Churches Under Fire" type="Article">
                <head>Black Southern Churches Under Fire</head>
-               <docAuthor>By BARRY E. LEE</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 11-13</docDate>
-<argument><p>Barry Lee is a graduate student in the Women's Studies Institute at Georgia State University.</p></argument>
+               <byline>By <docAuthor><name reg="Lee, Barry E.">Barry E. Lee</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 11-13</docDate>
 <p>Historically, the church has been the "soul of the black community," says the Reverend Joseph Lowery, president of the Southern Christian Leadership Conference. Since April of 1993, at least twenty-seven black churches (and at least one with a racially mixed congregation) in the South have burned under suspicious circumstances. According to the Center for Democratic Renewal (CDR), an Atlanta-based civil and human rights action research center which specializes in tracking hate crimes, the number increases to forty-five if acts of vandalism are included.</p>
 
 <p>This recent rash of church fires brings back haunting memories of the horror of the bombing of the Sixteenth Street Baptist Church in Birmingham on September 15, 1963, in which four black girls were murdered. The apparent rebirth of what many black community and civic leaders consider "domestic terrorism" has generated great consternation, national focus and a sense of urgency to end the fires.</p>
@@ -383,7 +408,7 @@ news. Multiracial and cross-regional support has been building to help fund the 
 at (404) 221-0025 to inquire about other ways to offer
 help. Information about the fires can be reported to the ATF Arson
 Hotline, (800) 366-9501.</p>
-<div3 id="sc18-1.lee.007" n="Black Church Burnings: A Chronology"
+<div3 id="sc18-1.037" n="Black Church Burnings: A Chronology"
       type="sidebar">
 <head>Black Church Burnings: A Chronology</head>
 <p><list type="unnumbered"><item>April 4, 1993--Springhill Freewill
@@ -430,17 +455,15 @@ Va.</item>
 </list></p>
 <p>Sources: Center for Democratic Renewal, USA Today</p>
 </div3>
+<div3 id="sc18-1.029" type="About"><p>Barry Lee is a graduate student in the Women's Studies Institute at Georgia State University.</p></div3>
 </div2>
 
-<div2 id="sc18-1.rouse.007" n="BOOKS: Freedom's Light" type="Review">
-<head>BOOKS</head>
-<head>Freedom's Light</head>
-<docAuthor>Reviewed by Jacqueline Rouse</docAuthor>
-<docDate>Vol. 18, No. 1, 1996 pp. 15-16</docDate>
-<argument><p>Jacqueline Rouse is associate professor of history at Georgia State University. She is author of Lugenia Burns Hope: Southern Reformer, published by University of Georgia Press, 1989, anda contributing author to Black Women in America: An Historical Encyclopedia.</p></argument>
+<div2 id="sc18-1.010" n="BOOKS: Freedom's Light" type="Review">
+<head>BOOKS: Freedom's Light</head>
+<byline>Reviewed by <docAuthor><name reg="Rouse, Jacqueline">Jacqueline Rouse</name></docAuthor></byline>
+<docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 15-16</docDate>
 
-
-<p><hi rend="italic">I've Got the Light of Freedom: The Organizing Tradition and the Mississippi Freedom Struggle</hi> by Charles M. Payne (Berkeley: University of California Press, 1995, 525 pages).</p>
+<bibl><title>I've Got the Light of Freedom: The Organizing Tradition and the Mississippi Freedom Struggle</title> by Charles M. Payne (Berkeley: University of California Press, 1995, 525 pages).</bibl>
 
 <p>In grasping the tradition of organizing in the state of Mississippi during the decade of the sixties, Charles Payne seeks to analyze two components: how a large group of people "who were historically dependent, mostly apolitical, and vulnerable to violence," were moved to become activists in changing the conditions in their lives. And, how a new generation of young civil rights workers became carriers of the tradition of organizing in rural Mississippi. Payne forces us into the deep piney woods and hilly terrains of southern Mississippi, in order for us to appreciate the longevity of resistance by a cadre of undaunted "race" men and women. By acknowledging these new "movement centers," he provides an essential link in the evolving historiography of the modern civil rights movement.</p>
 
@@ -533,25 +556,25 @@ professionalism, respect, and sensitivity. <hi rend="italic"> I've Got The Light
 Freedom</hi> will bring respect from colleagues and peers, but moreover, it
 will most likely generate a sense of gratitude from the subjects of
 this narrative.  For being able to make that leap, Charles Payne
-should be very proud of this award winning book.</p></div2>
+should be very proud of this award winning book.</p>
+<div3 id="sc18-1.030" type="About"><p>Jacqueline Rouse is associate professor of history at Georgia State University. She is author of Lugenia Burns Hope: Southern Reformer, published by University of Georgia Press, 1989, anda contributing author to Black Women in America: An Historical Encyclopedia.</p></div3>
+</div2>
 
-<div2 id="sc18-1.stanley.008" n="Anthologizing Appalachia" type="Review">
+<div2 id="sc18-1.011" n="Anthologizing Appalachia" type="Review">
                <head>Anthologizing Appalachia</head>
-               <docAuthor>Reviewed by Tal Stanley</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 17-18</docDate>
-<argument><p>Tal Stanley is a graduate student at Emory University in the Graduate Institute of the Liberal Arts.</p></argument>
-<p><hi rend="italic">Appalachia Inside Out.</hi> Volume I:<hi
-rend="italic">Conflict and Change;</hi> Volume II:<hi
-rend="italic">Culture and Custom.</hi> Edited by Robert J. Higgs,
+               <byline>Reviewed by <docAuthor><name reg="Stanley, Tal">Tal Stanley</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 17-18</docDate>
+<bibl><title>Appalachia Inside Out.</title> Volume I:<title>
+Conflict and Change;</title> Volume II:<title>Culture and Custom.</title> Edited by Robert J. Higgs,
 Ambrose N. Manning, and Jim Wayne Miller. (Knoxville University of
-Tennessee Press, 1995, 741 pages).</p>
+Tennessee Press, 1995, 741 pages).</bibl>
 
 <p>Attempting to anthologize creative and critical writing about a region as diverse and conflicted as Appalachia is a daunting task. How can the geography, grassroots politics, society, folk and popular cultures, collective struggles for social justice, fiction, cultural analysis, unrecorded lived experiences, and a host of other aspects of this region be anthologized in a way that gives justice to Appalachia's complexity?</p>
 
 <p>Such were the challenges facing the editors of the two-volume
-anthology, <hi rend="italic">Appalachia Inside Out</hi>.</p>
+anthology, <title>Appalachia Inside Out</title>.</p>
 
-<p><hi rend="italic">Inside Out</hi> is generally successful at facing the chal0lenges of anthologizing a growing body of writing about Appalachia. With more than two hundred critical essays, reviews, poems, short stories, autobiographies, articles, vignettes, and excerpts from longer works, the collection's greatest assets are its focus on more contemporary writing and the diversity of persons included. With selections from such writers as Booker T. Washington, "Mother" Jones, Pinckney Benedict, Myles Horton, Theodore Roosevelt, Lou Crabtree, David Whisnant, Tom Wolfe, Nikki Giovanni, Edward J. Cabbell, Marilou Awiakta, the editors offer a historical range of reflections on Appalachia's social and cultural diversity. This Appalachia appears not as an isolated backwater, but as a region shaped within the context of social and cultural forces broadly active throughout the South and the United States. Across this range of work there are Appalachian and non-Appalachian writers who complacently remain within the limits of regional stereotypes and the marginalizing conventions of race, class, and gender. There are other writers, both Appalachian and not, who question those easy answers and push us to think in new ways about ourselves, Appalachian regional identity, and political understandings of the region.</p>
+<p><title>Inside Out</title> is generally successful at facing the chal0lenges of anthologizing a growing body of writing about Appalachia. With more than two hundred critical essays, reviews, poems, short stories, autobiographies, articles, vignettes, and excerpts from longer works, the collection's greatest assets are its focus on more contemporary writing and the diversity of persons included. With selections from such writers as Booker T. Washington, "Mother" Jones, Pinckney Benedict, Myles Horton, Theodore Roosevelt, Lou Crabtree, David Whisnant, Tom Wolfe, Nikki Giovanni, Edward J. Cabbell, Marilou Awiakta, the editors offer a historical range of reflections on Appalachia's social and cultural diversity. This Appalachia appears not as an isolated backwater, but as a region shaped within the context of social and cultural forces broadly active throughout the South and the United States. Across this range of work there are Appalachian and non-Appalachian writers who complacently remain within the limits of regional stereotypes and the marginalizing conventions of race, class, and gender. There are other writers, both Appalachian and not, who question those easy answers and push us to think in new ways about ourselves, Appalachian regional identity, and political understandings of the region.</p>
 <pb n="18"/>
 <p>Of particular interest to persons working for social justice in the
 South and in Appalachia are essays by Steve Fisher, Marat Moore,
@@ -559,38 +582,39 @@ Laurie K. Lindberg, Mike Yarrow, Judith Fiene, Helen Lewis and Rich
 Kirby--to name several. A project of this scope cannot do
 everything and every significant aspect of Appalachian culture and
 experience cannot be given equal weight; however, largely missing from
-<hi rend="italic">Inside Out</hi> are writings that have emerged from grassroots struggles for social change.</p>
+<title>Inside Out</title> are writings that have emerged from grassroots struggles for social change.</p>
 
 <p>Good sources for these writings would have been the Appalachian
 Women's Alliance and the <hi rend="italic">Mountain Women's
-Journal</hi>, or even the old issues of <hi rend="italic">The Plow</hi>.</p>
+Journal</hi>, or even the old issues of <title>The Plow</title>.</p>
 
 <p>While several selections seem not to have been printed elsewhere,
-by concentrating on already published works, <hi rend="italic">Inside Out</hi> sometimes fails to represent the creative expressions of Appalachian collective politics. This is particularly damaging in the anthology's concluding chapter, "Regional Identity and The Future," for it is generally around questions about a place's future that these Appalachian collective politics and a sense of regional identity emerge. Instead, this chapter, like the anthology itself, is often constricted by abstract definitions of place and a lack of attention to more political visions of an Appalachian future.</p>
+by concentrating on already published works, <title>Inside Out</title> sometimes fails to represent the creative expressions of Appalachian collective politics. This is particularly damaging in the anthology's concluding chapter, "Regional Identity and The Future," for it is generally around questions about a place's future that these Appalachian collective politics and a sense of regional identity emerge. Instead, this chapter, like the anthology itself, is often constricted by abstract definitions of place and a lack of attention to more political visions of an Appalachian future.</p>
 
 <p>For this, readers should see other recent work such as <hi
 rend="italic">Fighting Back in Appalachia: Traditions of Resistance
 and Change</hi> (Steve Fisher, editor. Philadelphia: Temple University
-Press, 1993), and <hi rend="italic">It Comes From The People</hi> (Helen Lewis, Mary Ann Hinsdale, and Maxine Waller. Philadelphia: Temple University Press, 1995).</p>
+Press, 1993), and <title>It Comes From The People</title> (Helen Lewis, Mary Ann Hinsdale, and Maxine Waller. Philadelphia: Temple University Press, 1995).</p>
 
-<p>By and large, <hi rend="italic">Inside Out</hi> is a helpful addition to the Appalachia studies library. Sometimes with poignancy, sometimes with bitter satire, sometimes with insightful analysis, this anthology always refuses a "consensus view" of Appalachia culture.</p>
+<p>By and large, <title>Inside Out</title> is a helpful addition to the Appalachia studies library. Sometimes with poignancy, sometimes with bitter satire, sometimes with insightful analysis, this anthology always refuses a "consensus view" of Appalachia culture.</p>
 
 <p>This collection represents a regional culture shaped among a broad
 diversity of people, often divided and fragmented by racism, class
 prejudice, and traditional gender roles. Editors Higgs, Manning, and
 Miller have worked to complicate the easy definitions of Appalachian
-culture and stereotypes of Appalachia.</p></div2>
+culture and stereotypes of Appalachia.</p>
+<div3 id="sc18-1.031" type="About"><p>Tal Stanley is a graduate student at Emory University in the Graduate Institute of the Liberal Arts.</p></div3>
+</div2>
 
-<div2 id="sc18-1.amberg.009" n="Available Light" type="Review">
+<div2 id="sc18-1.012" n="Available Light" type="Review">
                <head>Available Light</head>
-               <docAuthor>Reviewed by Rob Amberg</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 18-20</docDate>
-<argument><p>Rob Amberg is a free-lance photographer living in Madison County, North Carolina. His latest project is documenting the coming of an interstate highway into his home county. Tom Rankin's work with Maggie Lee Sayre was first profiled in Southern Changes in April/May 1986.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Amberg, Rob">Rob Amberg</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 18-20</docDate>
 
-<p><hi rend="italic">'Deaf Maggie Lee Sayre'</hi>--<hi rend="italic">Photographs of a River Life</hi> by Maggie Lee Sayre; edited by Tom Rankin (University of Mississippi Press, 1995, 84 pages).</p>
+<p><title>'Deaf Maggie Lee Sayre'--Photographs of a River Life</title> by Maggie Lee Sayre; edited by Tom Rankin (University of Mississippi Press, 1995, 84 pages).</p>
 
 <p>One of my abiding passions is understanding how people find their
-place in the world and come to do their life's work. <hi rend="italic">'Deaf Maggie Lee Sayre'</hi> bears witness to a life story that is compelling, inspiring, and tragic.</p>
+place in the world and come to do their life's work. <title>'Deaf Maggie Lee Sayre'</title> bears witness to a life story that is compelling, inspiring, and tragic.</p>
 
 <p>Maggie Lee Sayre was born deaf on a houseboat near Paducah,
 Kentucky, in 1920. Her parents, Archie and Mae Sayre, were illiterate
@@ -621,7 +645,7 @@ who received one of the box cameras.  When Myrtle suddenly died in
 could sign with when they were on the houseboat. But she did inherit
 Myrtle's camera.</p>
 
-<p><hi rend="italic">'Deaf Maggie Lee Sayre'</hi>is clearly a book
+<p><title>'Deaf Maggie Lee Sayre'</title>is clearly a book
 about the past. That part of history that's more about the
 day-to-day of ordinary lives than it is the grand events that shped
 that world. Ms Sayre photographs to remember. These often exquisite
@@ -663,15 +687,16 @@ making whiskey although I'm sure this was an activity that was
 shielded from his daughter's life and camera. But I think I'm being
 picky. Ms. Sayre's motivation to photograph was not that of the
 documentarian, but of a participant in life wanting and choosing to
-remember.</p></div2>
+remember.</p>
+<div3 id="sc18-1.032" type="About"><p>Rob Amberg is a free-lance photographer living in Madison County, North Carolina. His latest project is documenting the coming of an interstate highway into his home county. Tom Rankin's work with Maggie Lee Sayre was first profiled in Southern Changes in April/May 1986.</p></div3>
+</div2>
 
-<div2 id="sc18-1.egerton.010" n="Ruin and Redemption" type="Review">
+<div2 id="sc18-1.014" n="Ruin and Redemption" type="Review">
                <head>Ruin and Redemption</head>
-               <docAuthor>Reviewed by John Egerton</docAuthor>
-               <docDate>Vol. 18, No. 1, 1996 pp. 20-21</docDate>
-<argument><p>John Egerton has written about the South for more than thirty-five years. His many current projects include writing a series of profiles of Nashvillians for The Tennessean, the city's daily hater.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+               <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 20-21</docDate>
 
-<p><hi rend="italic">Like Judgment Day: The Ruin and Redemption of a Town Called Rosewood</hi> by Michael D'Orso (Grosset-Putnam, 1996, 373 pages).</p>
+<bibl><title>Like Judgment Day: The Ruin and Redemption of a Town Called Rosewood</title> by Michael D'Orso (Grosset-Putnam, 1996, 373 pages).</bibl>
 
 <p>What happened in the backwoods village of Rosewood, Florida, a tiny hamlet of black sawmill workers, in January 1923 was not at all uncommon in the South of that time, it is horrifying to contemplate now.</p>
 
@@ -717,7 +742,7 @@ Al Lawson, a native of north Florida and chairman of the legislative black caucu
 <p>But it's all true, and D'Orso's sure-handed treatment
 of the fragmented but richly textured material combines
 the skills of investigative journalist, historian, and dramatist. Almost nothing makes better reading than forgotten history that
-explodes into the present with a dramatic new twist. Recognizing that this is just such a rare gem of a story, D'Orso spins it out to maximum effect. <hi rend="italic">Like Judgment Day</hi> is a classic example of superior nonfiction writing: more compelling than most histories because it is so personal and dramatic, more powerful than most novels because it is true.</p>
+explodes into the present with a dramatic new twist. Recognizing that this is just such a rare gem of a story, D'Orso spins it out to maximum effect. <title>Like Judgment Day</title> is a classic example of superior nonfiction writing: more compelling than most histories because it is so personal and dramatic, more powerful than most novels because it is true.</p>
 
 <p>In the spring of 1994, the Florida legislature passed a two million dollar claims bill compensating citizens who could be certified as injured parties in the 1923 Rosewood massacre. "The long silence has been broken," said Governor Lawton Chiles. He vowed that "this blind act of bigotry" would
 never be forgotten.</p>
@@ -728,5 +753,7 @@ rend="italic">Like Judgment Day</hi>, Rosewood certainly won't be
 forgotten anytime soon. And thanks to Michael D'Orso's splendid book,
 the ruin and redemption of a little town that time almost forgot are
 now a part of the permanent record of Southern and American
-history.</p></div2>
+history.</p>
+<div3 id="sc18-1.034" type="About"><p>John Egerton has written about the South for more than thirty-five years. His many current projects include writing a series of profiles of Nashvillians for The Tennessean, the city's daily hater.</p></div3>
+</div2>
 	 </div1></body></text></TEI.2>

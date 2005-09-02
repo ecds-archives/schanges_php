@@ -63,16 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc11-4.001" n="Southern Changes 11:4" type="Issue">
             <head>Southern Changes.  Volume 11, Number 4, 1989</head>
             <p>
-               <title>Southern Changes</title>.  Volume 11, Number 4, 1989</p>
-            <div2 id="sc11-4grant.002" n="Writing and Doing: Women in Civil Rights" type="Article">
+               <title>Southern Changes</title>.  Volume 11, Number 4,
+	       <date value="1989-07">1989</date></p>
+            <div2 id="sc11-4.002" n="Writing and Doing: Women in Civil Rights" type="Article">
                <head>Writing and Doing: Women in Civil Rights</head>
-               <docAuthor>By JOANNE GRANT</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 6</docDate>
-               <argument>
-                  <p>Joanne Grant is a writer and filmmaker. She edited the
-anthology, <title>Black Protest</title>, and produced the film,
-<title>Fundi</title>, on the life of Ella Baker.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Grant, Joanne">Joanne Grant</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 6</docDate>
+               
                <p>A spate of recent conferences has a common purpose: to assess the
 civil rights movement and place it in historical perspective. They
 have a common thesis as well--<hi rend="italic">la lutta continua</hi>,
@@ -140,17 +137,18 @@ exposed to the people who are doing."</p>
                <p>In general there was agreement that historiography needs the
 insights of activists and that local organizers could benefit from a
 historical perspective.</p>
-            </div2>
-            <div2 id="sc11-4dunbar.003" n="The Price of Empire" type="Review">
+            <div3 id="sc11-4.022" type="About">
+                  <p>Joanne Grant is a writer and filmmaker. She edited the
+anthology, <title>Black Protest</title>, and produced the film,
+<title>Fundi</title>, on the life of Ella Baker.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-4.003" n="The Price of Empire" type="Review">
                <head>
                   <title>The Price of Empire</title> by J. William Fulbright, with Seth P. Tillman. (Pantheon Books, 1989. xi, 243 pages. $17.95)</head>
-               <docAuthor>By LESLIE DUNBAR</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 27-28, 30</docDate>
-               <argument>
-                  <p>The degree or nature of Mr. Tillman's role is never
-described; all opinions, one assumes, are those of both men.</p>
-                  <p>Leslie Dunbar is the book editor of Southern Changes.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 27-28, 30</docDate>
+               
                <p>Radicals would do well to read this book by the Arkansas
 aristocrat; it could teach them not to be so restrained.</p>
                <p>Americans generally, and Southerners in particular, ought to read
@@ -333,19 +331,17 @@ still survive. Would that they might abound!</p>
 then choose our leaders." Plato would have agreed with him. So
 might Thomas Jefferson. So may we all, once we build a true democracy
 from which to choose.</p>
-            </div2>
-            <div2 id="sc11-4dreger.004" n="Hooked on the Drug Problem" type="Article">
+            <div3 id="sc11-4.023" type="About">
+                  <p>The degree or nature of Mr. Tillman's role is never
+described; all opinions, one assumes, are those of both men.</p>
+                  <p>Leslie Dunbar is the book editor of Southern Changes.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-4.004" n="Hooked on the Drug Problem" type="Article">
                <head>Hooked on the Drug Problem</head>
-               <docAuthor>By RALPH MASON DREGER</docAuthor> 
-                     <docDate>Vol. 11, No. 4, 1989, pp. 7-8</docDate>
-                           <argument>
-                              <p>Ralph Mason Dreger, a former member of the Southern
-Regional Council, is professor emeritus of psychology at Louisiana
-State University. Council members, life fellows, Associates and other
-members of the SRC extended family are invited to submit essays from
-<title>The South at Large.</title>
-                              </p>
-                           </argument>
+               <byline>By <docAuthor><name reg="Dreger, Ralph Mason">Ralph Mason Dreger</name></docAuthor></byline> 
+                     <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 7-8</docDate>
+                           
                            <p>How do we fight the drug problem? Well, first, it must be
 recognized that it is not "the drug problem," but a whole congeries of
 problems:</p>
@@ -486,11 +482,19 @@ civil rights. If you don't like my way to fight drugs, then use your
 best ingenuity to devise a better one, one that will not undercut our
 Constitution, one that is compassionate and just, and one that will be
 reasonably successful.</p>
-            </div2>
-            <div2 id="sc11-4davenport2.005" n="Mergers in South Texas Colleges" type="Article">
+            <div3 id="sc11-4.024" type="About">
+                              <p>Ralph Mason Dreger, a former member of the Southern
+Regional Council, is professor emeritus of psychology at Louisiana
+State University. Council members, life fellows, Associates and other
+members of the SRC extended family are invited to submit essays from
+<title>The South at Large.</title>
+                              </p>
+                           </div3>
+			 </div2>
+            <div2 id="sc11-4.005" n="Mergers in South Texas Colleges" type="Article">
                <head>Mergers in South Texas Colleges</head>
-               <docAuthor>By ELAINE DAVENPORT</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 24</docDate>
+               <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 24</docDate>
                <p>The largely Hispanic population of south Texas now has a better
 opportunity to get the same quality of higher education as Texans
 living in other parts of the state, thanks to several bills signed in
@@ -521,10 +525,10 @@ available for higher education in south Texas.</p>
                   <p>Uribe says the state must spend an additional $500 million to
 resolve the lawsuit.</p>
             </div2>
-           <div2 id="sc11-4davenport.006" n="Bear Poaching in North Carolina" type="Article">
+           <div2 id="sc11-4.006" n="Bear Poaching in North Carolina" type="Article">
                <head>Bear Poaching in North Carolina</head>
-               <docAuthor>by ELAINE DAVENPORT</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 21</docDate>
+               <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
                <p>Hundreds of black bears are being poached in the southern
 Appalachian Mountains for their heads, hides, teeth, claws, feet, pads
 and gall bladders. "When we caught him this one guy was carrying 29
@@ -552,10 +556,10 @@ protected areas. "The concern has been that the protected areas are
 like islands, not connected corridors, and the wildlife have few
 alternatives but to survive in those enclaves," says Wade.</p>
             </div2>
-            <div2 id="sc11-4clayton.007" n="Issues of Reliability and Validity" type="Article">
+            <div2 id="sc11-4.007" n="Issues of Reliability and Validity" type="Article">
                <head>Issues of Reliability and Validity</head>
-               <docAuthor>By AL CLAYTON</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 11</docDate>
+               <byline>By <docAuthor><name reg="Clayton, Al">Al Clayton</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 11</docDate>
                <p>Too often, standardized exams are not accurate even within the
 narrow range of things they are able to measure. The reasons for this
 problem can be found in the somewhat technical areas of test <hi rend="italic">reliability</hi> and <hi rend="italic">validity</hi>.</p>
@@ -634,10 +638,10 @@ decisions based on instruments that fail to measure what they claim to
 measure is a recipe for disaster for many children, most of ten those
 from low-income and minority-group backgrounds.</p>
             </div2>
-            <div2 id="sc11-4staff4.008" n="Kovach Named Nieman Curator" type="Article">
+            <div2 id="sc11-4.008" n="Kovach Named Nieman Curator" type="Article">
                <head>Kovach Named Nieman Curator</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 22</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 22</docDate>
                <p>Bill Kovach, the former editor of the <title>Atlanta
 Journal-Constitution</title>, is the new curator of the Harvard-based
 Nieman Foundation program of journalism fellowships.</p>
@@ -651,10 +655,10 @@ product. [<title>Southern Changes</title>, December 1988].</p>
 worked for the <title>Nashville Tennessean</title> and the
 <title>Press Chronicle</title> of Johnson City, Tenn.</p>
             </div2>
-            <div2 id="sc11-4staff3.009" n="He Is The Blues" type="Article">
+            <div2 id="sc11-4.009" n="He Is The Blues" type="Article">
                <head>He Is The Blues</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 22</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 22</docDate>
                <p>Erstwhile blues guitarist Lee Atwater, a former member of the
 Howard University board of trustees, is the subject of a new song,
 "The Man Who Would B.B. King," by Nashville song writers Marshall
@@ -709,10 +713,10 @@ target."</p>
                   <hi rend="italic">It just don't make sense to me.</hi>
                </p>
             </div2>
-            <div2 id="sc11-4staff2.010" n="Hormone-free Texas" type="Article">
+            <div2 id="sc11-4.010" n="Hormone-free Texas" type="Article">
                <head>Hormone-free Texas.  Beef Ships Out</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 21</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
                <p>Twenty tons of hormone-free Texas beef left the Port of Houston in
 late July on their way to European customers. The shipment was the
 first U.S. beef allowed into Europe since the federal government and
@@ -731,10 +735,10 @@ wrong. "From the outset, we felt that more was at stake than steak,
 and a whole lot more was at stake than growth hormones," he
 said.</p>
             </div2>
-            <div2 id="sc11-4staff1.011" n="Publications" type="Review">
+            <div2 id="sc11-4.011" n="Publications" type="Review">
                <head>Publications</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 20</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 20</docDate>
                <p>
                   <title>War at Home: Covert Action Against U.S. Activists and What
 We Can Do About It</title> by movement lawyer Brian Glick traces
@@ -783,17 +787,17 @@ environment. In all, 138 companies and 1,300 brand-name products are
 rated on 10 social criteria. The book is $4.95 from CEP; 30 Irving
 Place, New York, NY10003.0r call 1-800-826-4357.</p>
             </div2>
-            <div2 id="sc11-4staff.012" n="Contemporary Hate Activity" type="Article">
+            <div2 id="sc11-4.012" n="Contemporary Hate Activity" type="Article">
                <head>Contemporary Hate Activity</head>
-               <docAuthor>by STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 16-18</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 16-18</docDate>
+               
                   <p>EDITOR'S NOTE: As Stetson Kennedy points out<corr resp="encoder">[see "One Less Voice for Discrimination, Vol. 11
 No. 4]</corr>, the problems of bigotry, violence and discrimination
 remain very much a part of the U.S. landscape. The following incidents
 were compiled for <title>Southern Changes</title> by Leonard Zeskind,
 research director of the Center for Democratic Renewal.</p>
-               </argument>
+               
                <p>* Violence</p>
                <p>
                   <hi rend="bold">Asian beaten to death</hi>
@@ -1000,20 +1004,11 @@ rallied in Villa Rica, Ga., on Aug. 5 .  A man calling himself Bobby
 Norton has applied in Pulaski, Tenn., birthplace of the original KKK,
 for an Oct. 7 march permit on behalf of the Aryan Nations.</p>
             </div2>
-            <div2 id="sc11-4neill.013" n="Stopping the Overuse of Standardized Tests" type="Article">
+            <div2 id="sc11-4.013" n="Stopping the Overuse of Standardized Tests" type="Article">
                <head>Stopping the Overuse of Standardized Tests</head>
-               <docAuthor>By MONTY NEILL</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 9-10, 12-14</docDate>
-               <argument>
-                  <p>Monty Neill is the Associate Director of FairTest, the
-National Center for Fair &#x26;Open Testing. Documentation, as well as a
-more extensive discussion of most of the points in this article, can
-be found in <title>Fallout Prom the Testing Explosion: How 100 Million
-Standardized Exams Undermine Equality and Excellence in America's
-Public Schools</title>, by Noe Medina and D. Monty Neill, available
-for $8.95 from FairTest, 342 Broadway, Cambridge, MA 02139; (617)
-864-4810.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Neill, Monty">By MONTY NEILL</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 9-10, 12-14</docDate>
+               
                <p>During the past decade, a tidal wave of standardized testing has
 washed over the school systems of America. In its report,
 <title>Fallout From the Testing Explosion</title>, FairTest (the
@@ -1350,15 +1345,22 @@ testing reform should contact FairTest. We will put you in touch with
 local activists, send you information, and help you initiate and
 develop coalitions and campaigns to end the overuse, misuse and abuse
 of standardized testing.</p>
-            </div2>
-            <div2 id="sc11-4mcclullough.014" n="How Acre stopped testing in North Carolina" type="Article">
+            <div3 id="sc11-4.033" type="About">
+                  <p>Monty Neill is the Associate Director of FairTest, the
+National Center for Fair &#x26;Open Testing. Documentation, as well as a
+more extensive discussion of most of the points in this article, can
+be found in <title>Fallout Prom the Testing Explosion: How 100 Million
+Standardized Exams Undermine Equality and Excellence in America's
+Public Schools</title>, by Noe Medina and D. Monty Neill, available
+for $8.95 from FairTest, 342 Broadway, Cambridge, MA 02139; (617)
+864-4810.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-4.014" n="How Acre stopped testing in North Carolina" type="Article">
                <head>How Acre stopped testing in North Carolina</head>
-               <docAuthor>By PAGE McCULLOUGH</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 12-13</docDate>
-               <argument>
-                  <p>Reprinted from the <title>FairTest Examiner</title>,
-Spring 1988 quarterly newsletter of FairTest. A free sample copy is
-available from FairTest, 342 Broadway, Cambridge, MA 02139.</p>
+               <byline>By <docAuthor><name reg="McCullough, Page">Page McCullough</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 12-13</docDate>
+               
                   <p>In 1987, the North Carolina legislature voted against giving the
 California Achievement Test to first and second grade children.  In
 the following article, Page McCullough, the former executive director
@@ -1371,7 +1373,7 @@ tests. [In 1988, the state banned the use of standardized achievement
 tests in grades one and two and directed the Department of Education
 to construct developmentally appropriate individualized assessment
 instruments.]</p>
-               </argument>
+
                <p>The North Carolina campaign to stop norm referenced standardized
 testing in the first and second grades began in 1983 when the state's
 General Assembly voted to start using the California Achievement Test
@@ -1469,11 +1471,14 @@ monitor relevant state bodies, must find the persuasive arguments and
 evidence to influence decisionmakers, and must locate legislators
 willing to take the issue as their own. Finally, victories must be
 defended and hopefully expanded.</p>
-            </div2>
-            <div2 id="sc11-4land.015" n="H.L. Mitchell, 1906-1989" type="Article">
+            <div3 id="sc11-4.034" type="About">
+                  <p>Reprinted from the <title>FairTest Examiner</title>,
+Spring 1988 quarterly newsletter of FairTest. A free sample copy is
+available from FairTest, 342 Broadway, Cambridge, MA 02139.</p></div3></div2>
+            <div2 id="sc11-4.015" n="H.L. Mitchell, 1906-1989" type="Article">
                <head>H.L. Mitchell, 1906-1989</head>
-               <docAuthor>By MIKE LAND and RANDALL WILLIAMS</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 15</docDate>
+               <byline>By <docAuthor><name reg="Land, Mike">Mike Land</name> and <name reg="Williams,  Randall">Randall Williams</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 15</docDate>
                <p>H.L. Mitchell, co-founder of the Southern Tenant Farmers Union and
 a life-long Southern radical and activist, died August 1 in
 Montgomery, where he had lived in semi-retirement since 1973. He was
@@ -1534,26 +1539,14 @@ descendants who know of me still survive, may they some day look up in
 the sky, and if something gets in their eyes, they can then say:
 'There is that damned Mitchell again.'"</p>
             </div2>
-            <div2 id="sc11-4kennedy.016" n="One Less Voice for Discrimination" type="Article">
+            <div2 id="sc11-4.016" n="One Less Voice for Discrimination" type="Article">
                <head>One Less Voice for Discrimination</head>
-                     <docAuthor>By STETSON KENNEDY</docAuthor> 
-                     <docDate>Vol. 11, No. 4, 1989, p. 16</docDate>
-                     <argument>
-                        <p>With this issue, Stetson Kennedy joins <title>Southern
-Changes</title> as a contributing editor. His four books, which at
-mid-century raised the standard of total equality and called for an
-end to Jim Crow--<title>Palmetto Country</title> (1942);
-<title>Southern Exposure</title> (1946); <title>The Klan
-Unmasked</title> (1954);and <title>Jim Crow Guide</title> (1955)--are
-all being brought back into print by the University Presses of Florida
-(15 N.W. Fifteenth St., Gainesville, FL 32603). <title>Palmetto
-Country</title> has already appeared, and the others, as well as a new
-work on Reconstruction, <title>After Appomattox</title>, are scheduled
-for 1990.</p>
-                     </argument>
+                     <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline> 
+                     <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 16</docDate>
+                     
                      <p>Any time a racist organization or hate sheet goes out of business
 is a time for rejoicing. The recent obituary in <title>The
-Spotlight</title> announcing the demise of <title>The Citize</title>,
+Spotlight</title> announcing the demise of <title>The Citizen</title>,
 standardbearer of the White Citizens Councils which flourished at
 mid-century, makes very good reading indeed.</p>
                      <p>The appearance of these Councils on the local and state levels in
@@ -1613,13 +1606,26 @@ when he sang:</p>
 <l>some will rob you with a sixgun,</l>
 <l>some with a fountain pen.</l>
                         </lg>
-                        <p>But Woody was an activist, not a philosophe, and he wasn't buying
+                        <p>But Woody was an activist, not a philosopher, and he wasn't buying
 any.</p>
-            </div2>
-            <div2 id="sc11-4greenpeace.017" n="Louisiana, Third World Dumping Ground" type="Article">
+            <div3 id="sc11-4.036" type="About">
+                        <p>With this issue, Stetson Kennedy joins <title>Southern
+Changes</title> as a contributing editor. His four books, which at
+mid-century raised the standard of total equality and called for an
+end to Jim Crow--<title>Palmetto Country</title> (1942);
+<title>Southern Exposure</title> (1946); <title>The Klan
+Unmasked</title> (1954);and <title>Jim Crow Guide</title> (1955)--are
+all being brought back into print by the University Presses of Florida
+(15 N.W. Fifteenth St., Gainesville, FL 32603). <title>Palmetto
+Country</title> has already appeared, and the others, as well as a new
+work on Reconstruction, <title>After Appomattox</title>, are scheduled
+for 1990.</p>
+                     </div3>
+		   </div2>
+            <div2 id="sc11-4.017" n="Louisiana, Third World Dumping Ground" type="Article">
                <head>Louisiana, Third World Dumping Ground</head>
-               <docAuthor>by GREENPEACE</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 21</docDate>
+               <byline>By <docAuthor><name reg="Greenpeace">Greenpeace</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
                <p>Oh, for the good old days, when U.S. environmentalists and their
 gangs of regulators were ruining the economy by forcing well-meaning
 companies to take their business abroad. Now, according to a report in
@@ -1645,16 +1651,12 @@ unconcerned. The company's renewed interest in Pointe Coupee, said one
 state developmental official, "symbolizes Formosa's commitment to
 Louisiana."</p>
             </div2>
-            <div2 id="sc11-4suitts.018" n="Do the Right Thing" type="Review">
+            <div2 id="sc11-4.018" n="Do the Right Thing" type="Review">
                <head>Do the Right Thing.  <title>Do the Right Thing.</title>  Spike
 Lee.</head>
-                     <docAuthor>By STEVE SUITTS</docAuthor> 
-                     <docDate>Vol. 11, No. 4, 1989, p. 26</docDate>
-                     <argument>
-                        <p>Steve Suitts is publisher of <title>Southern
-Changes</title> and the executive director of the Southern Regional
-Council.</p>
-                     </argument>
+                     <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline> 
+                     <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 26</docDate>
+                     
                      <p>A scene late in Spike Lee's movie, <title>Do Thc Right
 Thing</title>, depicts white firefighters trying to hose down the
 blazes at Sal's Pizzeria, torched earlier in a small riot in the
@@ -1725,11 +1727,16 @@ generation of blacks to be born into the deadend and hopelessness of
 an underclass. For that, Spike Lee bluntly suggests we must all pay
 the price, one way or the other, one time or another. And, God help
 us, he is right.</p>
-            </div2>
-            <div2 id="sc11-4staff6.019" n="Ruling in McKinney Surplus Property Case" type="Article">
+            <div3 id="sc11-4.038" type="About">
+                        <p>Steve Suitts is publisher of <title>Southern
+Changes</title> and the executive director of the Southern Regional
+Council.</p>
+                     </div3>
+		   </div2>
+            <div2 id="sc11-4.019" n="Ruling in McKinney Surplus Property Case" type="Article">
                <head>Ruling in McKinney Surplus Property Case</head>
-               <docAuthor>by STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 23</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 23</docDate>
                <p>A homeless support group in Huntsville, Ala., has lost a federal
 court action aimed at forcing the U.S. Navy to make an unused
 warehouse available for shelter. However, the judge's ruling does
@@ -1752,10 +1759,10 @@ property in question was on land owned by the City of Huntsville and
 the Navy was thus justified in turning the building on the site over
 to the City.</p>
             </div2>
-            <div2 id="sc11-4staff5.020" n="Affordable Housing Shortage at Crisis Stage" type="Article">
+            <div2 id="sc11-4.020" n="Affordable Housing Shortage at Crisis Stage" type="Article">
                <head>Affordable Housing Shortage at Crisis Stage</head>
-               <docAuthor>by STAFF</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, p. 23</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 23</docDate>
                <p>A growing lack of affordable housing has reached a crisis stage for
 blacks and Hispanics, as well as for low income Americans in general,
 according to the Center on Budget and Policy Priorities.</p>
@@ -1804,14 +1811,11 @@ Kentucky and Mississippi were among the states receiving
 grants. Low-cost financing and other ways around the housing barrier
 are the typical approaches of such efforts.</p>
             </div2>
-            <div2 id="sc11-4chestnut.021" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc11-4.021" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 11, No. 4, 1989, pp. 32, 31</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and writer.</p>
-                  <p>Our columnist has been touring America.--Ed.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 32, 31</docDate>
+               
                <p>On a morning in the midst of the Bill Lucas furor, I completed an
 informal poll in the skyscraper building which houses both local
 governments here in the Motor City. A small army is employed
@@ -1939,7 +1943,11 @@ frontlash. In 1989, it is simply more difficult to be hypocritical
 about one's racism.</p>
                <p>So, a new racial word is invented--"backlash."</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc11-4.041" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and writer.</p>
+                  <p>Our columnist has been touring America.--Ed.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

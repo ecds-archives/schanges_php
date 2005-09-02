@@ -53,17 +53,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="v21-3.001" n="Southern Changes 21:3" type="Volume">
+         <div1 id="sc21-3.001" n="Southern Changes 21:3" type="Volume">
             <head>Southern Changes.  Volume 21, Number 3, <date value="1999-09">1999</date></head>
             <p> 
                <title>Southern Changes.</title>  Volume 21, Number 3, 1999</p>
-            <div2 id="v21-3.002" n="Covering Race: A Deep White Sleep" type="Article">
+            <div2 id="sc21-3.002" n="Covering Race: A Deep White Sleep" type="Article">
                <head>Covering Race: A Deep White Sleep</head>
-               <docAuthor>By LOREN GHIGLIONE</docAuthor>
+               <byline>By <docAuthor><name reg="GHIGLIONE, LOREN">LOREN GHIGLIONE</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 8-9</docDate>
-<argument><p>
-Loren Ghiglione, former director of the Journalism Program at Emory University, is now director of the Annenberg School of Communication's School of Journal ism at the University of Southern California in Los Angeles. He was president of the American Society of Newspaper Editors (ASNE) from1989-1990. This essay is excerpted
-from his talk at the "What's Right and Wrong about News Coverage of Race" panel held at Emory in February of 1999.  Photo of Harry Golden provided by the Charlotte-Mecklenberg Public Library. Photo of Robert Maynard provided by the Maynard Institute for Journalism Education.</p></argument>
 <p>Can three voices from the past help us improve press coverage of race? Recall the messages of three Americans: Harry Golden, Robert Maynard, and Ralph Ellison.
 Cigar-chomping humorist Harry Golden kept alive his Charlotte, North Carolina monthly, <title>The Carolina Israelite</title>, from 1942 to 1968, despite advertising boycotts orchestrated by white supremacists. He used wit to express his support for desegregation, earlier than most below the Mason-Dixon line. Recognizing that bank counters, supermarkets, and department stores allowed whites and blacks to stand in the same line, Golden proposed his "Vertical Negro Plan": Take the seats out of schools and have all students stand at their desks.</p>
 <p>Golden also implemented his "Out-of-Order Plan" by persuading a department store owner to turn off the water to a "White Only" fountain and slap on an "Out of Order" sign. Within three days Golden wrote, whites -- without even a whimper of complaint -- were drinking "segregated water" from the "Negro" fountain.
@@ -85,19 +82,18 @@ voted to achieving newsroom diversity.</p><pb n="9"/>
 <p>I remembered her words while reading a Sunday <title>New York Times</title> column by Jana Wolff, a white woman who adopted an African-American infant boy. <q direct="unspecified">"That's when I woke up from a deep, white sleep,"</q> Wolff wrote. <q direct="unspecified">"Suddenly racism, which had always existed outside my focus, became my focus. When children of color become your children, anonymous struggles become personal ones with names and faces that you know."</q></p>
 <p>I see the lip service paid to equality, diversity, and harmony as "the integration illusion," to quote Leonard Steinhorn and Barbara Diggs-Brown, authors of the recent book, <title>By the Color of Our Skin</title>. <q direct="unspecified">"Integration really means managed tokenism,"</q> they write. Whites still flee neighborhoods when African-Americans buy houses or register for school. White reporters -- and reporters of color -- still socialize separately, for the most part. Businesses, including news companies, still maintain management ghettoes for people of color in public relations or community relations. College life, religious life, virtually every part of life divides along racial lines. Integration depends on tireless effort. Few people seem willing to make that effort.</p>
 
+<div3 id="sc21-3.022" type="About"><p>
+Loren Ghiglione, former director of the Journalism Program at Emory University, is now director of the Annenberg School of Communication's School of Journalism at the University of Southern California in Los Angeles. He was president of the American Society of Newspaper Editors (ASNE) from1989-1990. This essay is excerpted
+from his talk at the "What's Right and Wrong about News Coverage of Race" panel held at Emory in February of 1999.  Photo of Harry Golden provided by the Charlotte-Mecklenberg Public Library. Photo of Robert Maynard provided by the Maynard Institute for Journalism Education.</p></div3>
 
 </div2>
 
-            <div2 id="v21-3.003" n="Deadly Cuts: Grady Hospital
+            <div2 id="sc21-3.003" n="Deadly Cuts: Grady Hospital
 and the National Health Care Crisis" type="Article">
                <head>Deadly Cuts: Grady Hospital
 and the National Health Care Crisis</head>
-               <docAuthor>By Murphy Davis</docAuthor>
+               <byline>By <docAuthor><name reg="Davis, Murphy">Murphy Davis</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 3-5</docDate>
-<argument><p>Reverend Murphy Davis is a partner at the Open Door
-Community, Inc., an Atlanta community of Christians who minister with
-the homeless and prisoners, particularly those on death row. Davis is
-the coordinator of the Southern Prison Ministry.</p></argument>
 <p>The county commissioner looked perplexed. "You understand, don't you, that we're the bottom of the food chain here. You're coming to us because you know who and where we are. But we're not the real cause of this crisis at Grady Hospital. It's much bigger than DeKalb and Fulton Counties."</p>
 <p>The commissioner is absolutely right and she is absolutely wrong. Grady, Atlanta's public hospital since 1892, is facing a $26.4 million deficit for the 1999 calendar year. To cut costs, the administration recommended to the Hospital Board that they begin to charge even the poorest of the poor a five dollar charge for each clinic visit and a ten dollar co-payment for each prescription and medical supply. This policy attempted to lay the budget problems on the backs of the city's poor. If enacted, it would amount to a death sentence for some Grady patients, especially the poorest many of whom are elderly and/or with chronic illnesses that require several medications to sustain life and health.</p>
 <p>The situation at Grady is a local problem with local causes. It is also a symptom of a national crisis with national causes. Local governments are responsible for the problem; local governments are victims of the problem. The health care crisis is a particular place where the national drama is being played out on a local level. Perhaps it might also be the place where we come together nationally and bring about significant change.</p>
@@ -137,14 +133,17 @@ as a resource for health care for the poor <hi rend="italic">and</hi> the excell
 <p>With our local partners, we must seek new ways to work together to advocate in Washington. The Balanced Budget Act will bring deeper cuts in the coming years. Our health care system is in serious trouble. We must stop the damage and move toward a national health insurance plan.</p>
 <p>We in the United States, spend some four thousand dollars per person per year for health care, more than any other people in the world. This is a cost nearly twice any other country and a much higher figure than other industrialized countries like Canada and Great Britain. And their expenditure pays for a health care system that provides access to care for everyone.</p>
 <p>The diverse and lively coalition that has formed around the Grady crisis is a long-haul group of committed activists. We are working and planning together with clarity that we have a long road ahead. We look forward to learning more of how this struggle has taken shape in other cities and regions. And we hope to be part of a growing movement that will struggle for not only a guarantee of decent health care for all God's children, but justice, housing, freedom, and peace for every woman, man, and child.</p>
+<div3 id="sc21-3.023" type="About"><p>Reverend Murphy Davis is a partner at the Open Door
+Community, Inc., an Atlanta community of Christians who minister with
+the homeless and prisoners, particularly those on death row. Davis is
+the coordinator of the Southern Prison Ministry.</p></div3>
 	    </div2>
 
 
-            <div2 id="v21-3.004" n="Teaching the Movement: 'Will the Circle Be Unbroken' Now Available with a Curriculum Guide" type="Article">
+            <div2 id="sc21-3.004" n="Teaching the Movement: 'Will the Circle Be Unbroken' Now Available with a Curriculum Guide" type="Article">
                <head>Teaching the Movement: "Will the Circle Be Unbroken" Now Available with a Curriculum Guide</head>
-               <docAuthor></docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 6-7</docDate>
-<argument><p>The Peabody Award-winning series, "Will the Circle Be Unbroken?" was first broadcast in 1997 on National Public Radio on more than 250 stations nationwide.  Due to the tremendous response from the listening public to that initial broadcast, the series was rebroadcast in 1998.</p></argument>
 
 <p>How many high school history courses fail to get past World War II to cover the Civil Rights Movement?  When courses do treat the Civil Rights Movement, how often do they focus on only a few prominent leaders and major events, giving little voice to the ordinary men and women across the South and their daily efforts that made the Movement?  </p>
 <p>Though a growing body of scholarship on the U.S. Civil Rights Movement has emerged in the past decade, there remains a disturbing absence of materials that make this crucial period of our history accessible to students.  Knowledge about this chapter in U.S. history is essential to understanding our diverse society today.  </p>
@@ -163,14 +162,14 @@ meaning of the U.S. Constitution was vastly expanded, and federal laws
 greatly enlarged individual liberties and protections. <pb n="7"/>As a consequence of the Civil Rights Movement, the nation's political system swelled with millions of new voters, and the American workplace expanded with the talent and productivity of workers with new opportunities.  </p>
 <p>At the heart of the Civil Rights Movement were literally thousands of men and women who did extraordinary deeds when faced with the personal dilemmas of segregation. In hundreds of local communities throughout the American South-over a period of decades-the Civil Rights Movement was a social phenomenon which drew its strengths and sufferance from the common condition of segregation throughout the region.  This common condition created, over the years, a sense of common purpose and, ultimately, common destiny for both black and white citizens.</p>
 <p>Interviews with people who participated in the Civil Rights Movement provide the content of the radio series. Hundreds of inspiring stories are connected and enlivened by music from the period, adding vitality and making the series more accessible to people, young and old. Almost every popular musical style of the period is used, including Blues, Rythym and Blues, Rock and Roll, Jazz, Country, Spirituals, Pop, and several "Movement" songs.  With rare power-the authentic movement for civil rights-the movement of the unnamed and uncelebrated, comes to life through the voices of those who acted to overthrow segregation and racial inequality. </p>
+<div3 id="sc21-3.024" type="About"><p>The Peabody Award-winning series, "Will the Circle Be Unbroken?" was first broadcast in 1997 on National Public Radio on more than 250 stations nationwide.  Due to the tremendous response from the listening public to that initial broadcast, the series was rebroadcast in 1998.</p></div3>
 </div2>
-            <div2 id="v21-3.005" n="Which Came First, 
+            <div2 id="sc21-3.005" n="Which Came First, 
 the Statue or the Oppression?" type="Article">
                <head>Which Came First, 
 the Statue or the Oppression?</head>
-               <docAuthor>By James W. Loewen</docAuthor>
+               <byline>By <docAuthor><name reg="Loewen, James W.">James W. Loewen</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 10, 27</docDate>
-<argument><p>Jim Loewen is the author of <title>Lies My Teacher Told Me: Everything Your High School History Textbook Got Wrong</title> and is coauthor of <title>Mississippi: Conflict and Change</title> which won a Lillian Smith Award in 1976. Loewen taught race relations at the University of Vermont and now lives in Washington, D.C. where he continues his research on how Americans remember their past</p></argument>
 <p rend="italic">Below is an excerpt from James Loewen's most recent book, <title>Lies Across America: What Our Historic Sites and Monuments Get Wrong</title>, published in October 1999 by New Press, 416 pages.</p>
 
 <p>Markers and monuments don't cause history. It's more the other way around; dominant groups use their power to erect historic markers and monuments that present history from their viewpoint. This process typically distorts the past to explain and celebrate their own domination. In turn, controlling what people say and think about the past is an important source of social power.  Thus monuments and markers do make a difference.  Perhaps George Orwell would not mind this rephrasing of his famous couplet: Who controls the present controls the landscape.  Who controls the landscape controls the future. </p>
@@ -186,15 +185,15 @@ statue and the town looks less traditionally Southern.<ref target="sc21-3.005n1"
 but was in place long before 1890-1920, the peak period for putting up
 Confederate memorials.</note>
 <note id="sc21-3.005n2" n="2"> "Confederate Section, Oakland Cemetery, Ouachita County," National Register of Historic Places Inventory (DC: National Park Service); Bureau of the Census, 1990 Census, AR (DC: GPO, 1992).</note>
+<div3 id="sc21-3.025" type="About"><p>Jim Loewen is the author of <title>Lies My Teacher Told Me: Everything Your High School History Textbook Got Wrong</title> and is coauthor of <title>Mississippi: Conflict and Change</title> which won a Lillian Smith Award in 1976. Loewen taught race relations at the University of Vermont and now lives in Washington, D.C. where he continues his research on how Americans remember their past</p></div3>
 	    </div2>
 
-            <div2 id="v21-3.006" n="Title I in Alabama:
+            <div2 id="sc21-3.006" n="Title I in Alabama:
 The Struggle to Meet Basic Needs" type="Article">
                <head>Title I in Alabama:
 The Struggle to Meet Basic Needs</head>
-               <docAuthor>Citizen's Commission on Civil Rights</docAuthor>
+               <byline><docAuthor><name reg="Citizen's Commission on Civil Rights">Citizen's Commission on Civil Rights</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 12-15</docDate>
-<argument><p>Excerpts from Title I  in Alabama: The Struggle to Meet Basic Needs were printed with permission from the Citizens' Commission on Civil Rights. One free copy of the study may be obtained by contacting the Commission at: 2000 M Street, NW, Suite 400, Washington, D.C. 20036; phone 202-659-5565; web site www.cccr.org.</p></argument>
 
 <p rend="italic">The Citizens' Commission for Civil Rights, a nonpartisan organization founded in 1982 to monitor Federal civil rights policies and practices,  has launched a study to assess the progress made by the federal government, the states, and four targeted communities in complying with the 1994 amendments to Title I contained in the Improving America's Schools Act. Below are excerpts from the second of several reports on this issue in which the Citizens' Commission highlights field research in high-poverty communities in Alabama, a state that was chosen because of its long and severe legacy of underfunding education and denying educational opportunities on the basis of race. The study was published in the summer of 1999.</p>
 
@@ -267,13 +266,13 @@ the SAT 9 does now.</p><pb n="14"/>
 <p rend="bold">The Public's Role</p>
 <p>&#x2022; Education reform and professional organizations, child advocates, and community groups should pay more attention to how Title I funds are used in districts and schools.</p>
 <p>Title I rules, regulations, applications, budgets, and school report cards-all of which are public documents-can be advocacy tools. Asking questions about Title I raises awareness. Principals and teachers often do not know what can be done with federal funds; school board members and parents may know even less. Federal law requires state education departments to investigate and respond to complaints about violations of Title I or misuse of funds. In addition, advocates can work with schools to involve parents in their children's education, to organize family literacy programs, and to support students' academic efforts. Alabama has momentous challenges ahead. Alabama has embraced high standards at the end of schooling-the high school diploma-but not at the beginning. Failure rates on the pilot tenth grade exam this year should not be used as a reason to back off standards. Standards for student achievement prior to high school are too low. Higher standards for all students, trained teachers who can enable students to meet the standards, and supports for student learning must exist at all ages from preschool to high school. Otherwise, state policy will perpetuate the cycle of poverty in Alabama in generation after generation.</p>
+<div3 id="sc21-3.026" type="About"><p>Excerpts from Title I  in Alabama: The Struggle to Meet Basic Needs were printed with permission from the Citizens' Commission on Civil Rights. One free copy of the study may be obtained by contacting the Commission at: 2000 M Street, NW, Suite 400, Washington, D.C. 20036; phone 202-659-5565; web site www.cccr.org.</p></div3>
 	    </div2>
  
-<div2 id="v21-3.007" n="Lillian Smith: A Struggle for Wholeness" type="Article">
+<div2 id="sc21-3.007" n="Lillian Smith: A Struggle for Wholeness" type="Article">
                <head>Lillian Smith: A Struggle for Wholeness</head>
-               <docAuthor>Staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 16-18</docDate>
-
 
 <p rend="italic">Internationally acclaimed as author of the controversial novel, Strange Fruit (1944), Lillian Smith was the most liberal and outspoken of white mid-twentieth century Southern writers on issues of social, and especially racial, injustice. When other Southern liberals such as Ralph McGill, Hodding Carter, Virginius Dabney, and Jonathan Daniels were charting a cautious course on racial change, Smith boldly and persistently called for an end to segregation. For such boldness she was often scorned by more moderate Southerners, threatened by arsonsists, and denied the critical attention she deserved as a writer. Yet she continued to write and speak for improved human relations and social justice throughout her life.</p>
 <p rend="italic">Born December 12, 1897, Lillian Smith grew up in Jasper, Florida, the daughter of a prominent business and civic leader. Smith's life as a daughter of upper-class whites in the small-town Deep South ended abruptly when her father lost his turpentine mills in 1915 and moved the family to their summer home in the mountains of Clayton, Georgia. Financially on her own, Smith's plans were altered when her parents, in ill health, asked her to direct their summer camp for girls. </p>
@@ -287,27 +286,25 @@ the SAT 9 does now.</p><pb n="14"/>
 <p>The great purpose of all of Lillian Smith's work was to demolish barriers between people-and racism and sexism as well as distinctions of class and religion built those walls. Her crusade against racism, then, was really a part of a larger crusade, against needless separation of any kind. The overriding theme of her work was a struggle against fragmentation, for wholeness. "My literary aim," she wrote an acquaintance in 1964, "has been to search and probe for the meaning of racism as a symptom of men's fear of the future, a symptom, too, of their fear of evolving into a more complex thinking human being." </p>
 <p>Smith originally entitled her first novel "Walls"-a book, never
 published, based on her China experience-but "Walls" could also have
-served as the title of her most notable book, <hi
-rend="italic">Killers of the Dream</hi>, her narrative of confession
+served as the title of her most notable book, <title>Killers of the Dream</title>, her narrative of confession
 (for her family and region as well as herself) and of
 conversion. Originally published in 1949, and issued in a revised
-edition in 1961, <hi rend="italic">Killers of the Dream</hi> was an
+edition in 1961, <title>Killers of the Dream</title> was an
 impassioned plea for racial harmony as well as a harsh depiction of
 southern life, "a schizophrenic invention without parallel," one
 reviewer wrote, "an insane dichotomy from the cradle to the grave."
 Smith herself said her book could have been produced only "in a tight,
 closed culture:" "A German, reared as a child in the Nazi days," might
-have <pb n="17"/>written it. But she had written the book, she insisted, not to expose the South so much as to understand it-and herself. Her intent, "as was [that in] <hi rend="italic">St. Augustine's Confessions</hi>," she explained, was "not to give answers but to find the big question s that I could and must live with in freedom." Indeed, her book was " a kind of existential confession: this is life in a segregated culture as I saw it, felt it, heard it, experienced it, and was shaped by it." Or, as she commented another time, "I had to write this book. It was like a ghost flitting in and out of my mind until I did." She "had to find out what life in a segregated culture" had done to her:" "I had to put down on paper these experiences so that I could see their meaning for me."</p>
-<p><hi rend="italic">Killers of the Dream</hi> had been a long time in
+have <pb n="17"/>written it. But she had written the book, she insisted, not to expose the South so much as to understand it-and herself. Her intent, "as was [that in] <title>St. Augustine's Confessions</title>," she explained, was "not to give answers but to find the big question s that I could and must live with in freedom." Indeed, her book was " a kind of existential confession: this is life in a segregated culture as I saw it, felt it, heard it, experienced it, and was shaped by it." Or, as she commented another time, "I had to write this book. It was like a ghost flitting in and out of my mind until I did." She "had to find out what life in a segregated culture" had done to her:" "I had to put down on paper these experiences so that I could see their meaning for me."</p>
+<p><title>Killers of the Dream</title> had been a long time in
 the making; much of what Smith had thought and written over the
 previous fifteen years prepared her for it. In 1936 she and her
 longtime companion, Paula Snelling, had begun a magazine, eventually
-called <hi rend="italic">South Today</hi>, in which she had pondered
-the sins of white southerners. Repeatedly she had written of the "racial fear and hatred" among southerners, the "profound guilt for our treatment of the Negro," and "the rationalizations by which the white man eases his guilt." Her own culpability she had proclaimed as freely as the seventeenth-century Puritans had confessed their sinfulness, declaring in an editorial entitled "Act of Penance": "We in the South who feel so much shame are not without sin....We can now perform the ancient rites of handwashing...but we shall not be free of guilt until we rid our region of inertia and ignorance and poverty." She was well aware of her evangelical tone, remarking in a letter in 1939, "we sound like missionaries with a powerful solemn purpose." As she went about the business of converting others, Smith was also intent upon transforming herself. Even the writing of her novel <hi rend="italic">Strange Fruit</hi> in the early 1940s had been "therapy" that "removed a long amnesia about my hometown." Smith "wrote down some things I did not know were true until I saw them staring back at me on the page."</p>
-<p>Smith later said that in writing <hi rend="italic">Killers of the
-Dream</hi> she explored "layers of [her] nature" she had never touched
-before, that "my beliefs changed as I wrote them down." <hi
-rend="italic">Killers</hi>, thus, was not only a book about her racial
+called <title>South Today</title>, in which she had pondered
+the sins of white southerners. Repeatedly she had written of the "racial fear and hatred" among southerners, the "profound guilt for our treatment of the Negro," and "the rationalizations by which the white man eases his guilt." Her own culpability she had proclaimed as freely as the seventeenth-century Puritans had confessed their sinfulness, declaring in an editorial entitled "Act of Penance": "We in the South who feel so much shame are not without sin....We can now perform the ancient rites of handwashing...but we shall not be free of guilt until we rid our region of inertia and ignorance and poverty." She was well aware of her evangelical tone, remarking in a letter in 1939, "we sound like missionaries with a powerful solemn purpose." As she went about the business of converting others, Smith was also intent upon transforming herself. Even the writing of her novel <title>Strange Fruit</title> in the early 1940s had been "therapy" that "removed a long amnesia about my hometown." Smith "wrote down some things I did not know were true until I saw them staring back at me on the page."</p>
+<p>Smith later said that in writing <title>Killers of the
+Dream</title> she explored "layers of [her] nature" she had never touched
+before, that "my beliefs changed as I wrote them down." <title>Killers</title>, thus, was not only a book about her racial
 conversion; the writing process was part <hi rend="italic">of</hi>  the conversion, part of the shedding of old beliefs, the transformation.</p>
 <p>Smith later maintained that her book, though a "personal memoir,"
 was also "Every Southerner's memoir," and writing in 1949 she seems to
@@ -315,93 +312,82 @@ assume that every white Southerner feels as she does about the
 "haunted" past:</p><pb n="18"/>
 <p>We defend the sins and sorrows of three hundred years as if each sin had been committed by us alone and each sorrow had cut across our heart....We have known guilt without understanding it....We southerners have identified with the long sorrowful past on such deep levels of love and hate and guilt that we do not know how to break old bonds without pulling our lives down.</p>
 <p>In the mid and late 1950s, in speeches and in essays, Smith
-continued to pursue the demon, segregation. In her 1955 treatise <hi rend="italic">Now Is the Time</hi>, she hailed the 1954 Supreme Court decision-which, she maintained, had "freed whites"-and urged southern leaders to end segregation immediately; her words met with publicly respectful but condescending remarks from Ralph McGill, Hodding Carter, and Howard Odum. Racial segregation, she asserted, was "a symbol of the deep pervasive illness in our culture that has dehumanized us all"; it represented "that estrangement from God which oppresses modern man; it subsumes all the fragmentations of modern times." Racial guilt continued to be Smith's central theme: "To stem our guilt, we began to defend the indefensible: we declared that God had made the white race superior to other races." The emerging Civil Rights Movement in the late 1950s and early 1960s, however, gave her great hope: "By the reiteration of those powerful words <hi rend="italic">love, compassion, redemption, grace</hi>, [it] is compelling us to search for truth, that of our region and of ourselves."</p>
-<p>Smith's concluding chapter in the 1961 <hi rend="italic">Killers of
-the Dream</hi>, then, transcended race; it moved further and further
+continued to pursue the demon, segregation. In her 1955 treatise <title>Now Is the Time</title>, she hailed the 1954 Supreme Court decision-which, she maintained, had "freed whites"-and urged southern leaders to end segregation immediately; her words met with publicly respectful but condescending remarks from Ralph McGill, Hodding Carter, and Howard Odum. Racial segregation, she asserted, was "a symbol of the deep pervasive illness in our culture that has dehumanized us all"; it represented "that estrangement from God which oppresses modern man; it subsumes all the fragmentations of modern times." Racial guilt continued to be Smith's central theme: "To stem our guilt, we began to defend the indefensible: we declared that God had made the white race superior to other races." The emerging Civil Rights Movement in the late 1950s and early 1960s, however, gave her great hope: "By the reiteration of those powerful words <hi rend="italic">love, compassion, redemption, grace</hi>, [it] is compelling us to search for truth, that of our region and of ourselves."</p>
+<p>Smith's concluding chapter in the 1961 <title>Killers of
+the Dream</title>, then, transcended race; it moved further and further
 into the realm of the spiritual, into a reflection on brokenness and
 healing and on man as a creature in a "dangerous state of flux," "only
 partially evolved," and in need of redemption. Transcendence and
-redemption were again Smith's themes the following year in <hi rend="italic">Our Faces, Our Words</hi>, also a tribute to the Civil Rights Movement and a work that is, in many ways, an extension of <hi rend="italic">Killers of the Dream</hi>. After telling the stories of several civil rights workers and sympathizers-including a white minister, plagued by conscience, who has determined that "some of us whites may need to die for our collective sins"-Smith speaks in the final chapter in her own voice. <hi rend="italic">"Redemption,"</hi> she affirms, was the goal of the early Civil Rights Movement: "There was a surge of joy, of adventure, yes; of courage....It was beautiful to see. Perhaps never in American history has there been a movement of such gayety and intellectual richness." Those associated with the movement were engaged in a "search for the good life which they hunger to substitute for the hollow thing-obsessed life too many of us have lived. And all of it streaked with a fine sense of humor and humility they express in prayer."</p>
+redemption were again Smith's themes the following year in <title>Our Faces, Our Words</title>, also a tribute to the Civil Rights Movement and a work that is, in many ways, an extension of <title>Killers of the Dream</title>. After telling the stories of several civil rights workers and sympathizers-including a white minister, plagued by conscience, who has determined that "some of us whites may need to die for our collective sins"-Smith speaks in the final chapter in her own voice. <title>"Redemption,"</title> she affirms, was the goal of the early Civil Rights Movement: "There was a surge of joy, of adventure, yes; of courage....It was beautiful to see. Perhaps never in American history has there been a movement of such gayety and intellectual richness." Those associated with the movement were engaged in a "search for the good life which they hunger to substitute for the hollow thing-obsessed life too many of us have lived. And all of it streaked with a fine sense of humor and humility they express in prayer."</p>
 </div2>
 
-<div2 id="v21-3.008" n="Contingent Lives" type="Review">
+<div2 id="sc21-3.008" n="Contingent Lives" type="Review">
 <head>BOOKS</head>               
 <head>Contingent Lives</head>
-               <docAuthor>Reviewed by Terry Easton</docAuthor>
+               <byline>Reviewed by <docAuthor><name reg="Easton, Terry">Terry Easton</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 19-21</docDate>
-<argument><p>Terry Easton is a graduate student in American Studies at Emory University in Atlanta, Georgia. His primary focus is labor history.</p></argument>
 
-<p>Rebecca Sharpless, <hi rend="italic">Fertile Ground, Narrow
-Choices: Women on Texas Cotton Farms, 1900-1940</hi>, Chapel Hill:
-University of North Carolina Press, 1999; Neil Foley, <hi rend="italic">The White Scourge: Mexicans, Blacks, and Poor Whites in Texas Cotton Culture</hi>, Berkeley: University of California Press, 1997.</p>
+<p><bibl>Rebecca Sharpless, <title>Fertile Ground, Narrow
+Choices: Women on Texas Cotton Farms, 1900-1940</title>, Chapel Hill:
+University of North Carolina Press, 1999</bibl>; <bibl>Neil Foley, <title>The White Scourge: Mexicans, Blacks, and Poor Whites in Texas Cotton Culture</title>, Berkeley: University of California Press, 1997</bibl>.</p>
 
 <p>Despite the fact that cotton production in the South has been a
 perennial subject of research, two recent books about cotton farming
-in central Texas, Rebecca Sharpless' <hi rend="italic">Fertile Ground,
-Narrow Choices</hi> and Neil Foley's <hi rend="italic">The White Scourge</hi>, bring attention to a Southern cotton region so far given scant review. Readers already attuned to the intricacies and iniquities of the post-Reconstruction era crop-lien system in Deep South states such as Alabama, Arkansas, Georgia, and Mississippi will find recognizable features in Sharpless' and Foley's accounts. Perhaps unrecognizable, however, will be Sharpless' and Foley's delineations of the unique intersections between race, class, and gender in twentieth century central Texas cotton farming. Most significant, both authors deftly illuminate the ways that the standard black and white, tenant and landowner model of Southern race and class relations fails to adequately describe the cultural milieu of King Cotton in Central Texas.</p>
+in central Texas, Rebecca Sharpless' <title>Fertile Ground, Narrow Choices</title> and Neil Foley's <title>The White Scourge</title>, bring attention to a Southern cotton region so far given scant review. Readers already attuned to the intricacies and iniquities of the post-Reconstruction era crop-lien system in Deep South states such as Alabama, Arkansas, Georgia, and Mississippi will find recognizable features in Sharpless' and Foley's accounts. Perhaps unrecognizable, however, will be Sharpless' and Foley's delineations of the unique intersections between race, class, and gender in twentieth century central Texas cotton farming. Most significant, both authors deftly illuminate the ways that the standard black and white, tenant and landowner model of Southern race and class relations fails to adequately describe the cultural milieu of King Cotton in Central Texas.</p>
 <p>Studying nearly identical geographic regions from roughly 1900 to 1940, Sharpless and Foley document similar facts about cotton farming in central Texas. Not only had Texas become the leading cotton-producing state in the nation by 1890, but by 1920 central Texas had become a highly racially-aware, multi-ethnic region comprised of African-Americans, Anglos, Czechoslovakians, Germans, Mexicans, and Mexican-Americans of various social classes including wage laborers, sharecroppers, tenants, and landowners. Moreover, marked by significant cultural and technological change, by the early 1940s cotton farming no longer held sway for many of the Texans who had once lived and died amidst the cyclical, often desperate rhythms of cotton cultivation.	</p>
 <p>Sharpless and Foley foreground different though concomitant reasons for the cultural and technological shift in central Texas cotton farming. Sharpless illuminates how, at least for those who could afford it, beginning gradually in the 1930s and then much more rapidly in the 1940s, the increasing use of the automobile shaped the cultural changes which occured in central Texas cotton farming during the first forty years of the twentieth century. The accompanying road improvements, the pull of people to cities and nearby market centers for entertainment and commercial consumptive practices, the greater access to labor-saving urban devices such as electricity and running water, and the growth of service-sector jobs and WWII industrial employment in towns and cities spurred rural-to-urban migration. </p>
-<p>Despite sharing these and many other factual similarities, <hi
-rend="italic">Fertile Ground, Narrow Choices</hi> and <hi
-rend="italic">The White Scourge</hi> differ thematically,
+<p>Despite sharing these and many other factual similarities, <title>Fertile Ground, Narrow Choices</title> and <title>The White Scourge</title> differ thematically,
 methodologically, and stylistically. Sharpless, for example, aims to
 document the daily lives of cotton-farming women of the Blackland
 Prairie, the "funnel-shaped expanse of chocolate-covered clay" in
 central Texas that connects San Antonio to Sherman, Paris, and other
-communities just north of Dallas. Sharpless organizes <hi
-rend="italic">Fertile Ground, <pb n=""/>Narrow Choices</hi> around women's participation in the commercial economy (as field worker), the domestic economy (as housewife), and the reproductive economy (as mother). Sharpless analyzes the physical conditions of women's daily lives to determine how a majority of them, especially those of the poorer tenant, sharecropping, and wage laboring classes coped with, among other things, the grim, daily reality of inordinately long workdays, shoddy housing, and insufficient or unhealthy supplies of food, water, and clothing.</p>
+communities just north of Dallas. Sharpless organizes <title>Fertile Ground, <pb n="20"/>Narrow Choices </title> around women's participation in the commercial economy (as field worker), the domestic economy (as housewife), and the reproductive economy (as mother). Sharpless analyzes the physical conditions of women's daily lives to determine how a majority of them, especially those of the poorer tenant, sharecropping, and wage laboring classes coped with, among other things, the grim, daily reality of inordinately long workdays, shoddy housing, and insufficient or unhealthy supplies of food, water, and clothing.</p>
 <p>Farm living was particularly harsh for children, and mothers did the best they could to provide ample food, clothing, and shelter for them. Blackland Prairie native Mary Ann Collier Campbell, for example, recalls that she and her siblings did not wear shoes from the time "the mesquite tree bloomed" until "the onset of winter." Bernice Bostick Weir remembers a specific incident in her childhood on the Prairie: "When we moved down on the creek, there wasn't any toilet. And so I don't know how long it was we lived there-we'd have to go out around in the bushes or a ditch or something." Inez Folley reveals that in her childhood strenuous labor permanently damaged her back: "And we had to bring water from the tank to the hogs. My brother was five years older than I, and we'd take a big tubfull of water and I'd hold one handle and he'd hold the other and so I know that's why I had a weak back, is because I lifted too much, too hard a load, when I was young. My back was still growing."</p>
 <p>In what can only be described as a cruel irony, Sharpless demonstrates how, for many, living on the nutrient-rich Blackland Prairie, a place where a one-crop export economy dependent on prices determined far away prevailed, the basic requirements of life often proved elusive. "In Hill Country," Sharpless writes, "a Mexican family of two children and three adults lived in a smokehouse with no floor or windows." In 1920, an African-American woman on the Prairie reported that her family had been eating only twice a day because they were trying to "stretch their meager portions of food." According to Sharpless, even though many tenants, sharecroppers, and laborers often moved in search of a better farming situation, they frequently ended the harvest just as they had begun it: "in debt and in want."</p>
 <p>Using autobiographies and memoirs, oral history interviews, and
 contemporary reports of rural reformers, Sharpless assembles a
 remarkable narrative of women who frequently worked from dawn to dusk
 as they "pulled in double harness" (worked at home and in the fields)
-to make life more bearable for their families and themselves. <hi rend="italic">Fertile Ground, Narrow Choices</hi> is particularly strong when Sharpless draws from the perspectives and experiences of African-American, Anglo, Czech, German, Mexican, and Mexican-American women of the landowning, tenant, sharecropping, and laboring classes to illuminate the multiple ways that the lives of Blackland Prairie cotton-farming women intersected under the constraints of Southern patriarchy, racism, and class bias. When studying, for example, the foodways, folk cultures, communal events, consumptive practices, and labor patterns of Blackland Prairie women and their families Sharpless showcases her keen ability to analyze the ways in which gender, race, ethnicity, and class inflected the real and symbolic value of mundane items such as home heating systems, window screens, privies, housewares, staple foods, soap, water, clothing, farm animals, and implements. </p>
+to make life more bearable for their families and themselves. <title>Fertile Ground, Narrow Choices </title> is particularly strong when Sharpless draws from the perspectives and experiences of African-American, Anglo, Czech, German, Mexican, and Mexican-American women of the landowning, tenant, sharecropping, and laboring classes to illuminate the multiple ways that the lives of Blackland Prairie cotton-farming women intersected under the constraints of Southern patriarchy, racism, and class bias. When studying, for example, the foodways, folk cultures, communal events, consumptive practices, and labor patterns of Blackland Prairie women and their families Sharpless showcases her keen ability to analyze the ways in which gender, race, ethnicity, and class inflected the real and symbolic value of mundane items such as home heating systems, window screens, privies, housewares, staple foods, soap, water, clothing, farm animals, and implements. </p>
 <p>Because Sharpless takes advantage of the quickly-dwindling
 opportunity to document orally the daily lives of early twentieth
-century central Texas cotton-farming women, <hi rend="italic">Fertile
-Ground, Narrow Choices is</hi> imbued with a sense of urgency. Even
+century central Texas cotton-farming women, <title>Fertile Ground, Narrow Choices is</title> imbued with a sense of urgency. Even
 though the grim, often desperate lives of rural women on Texas cotton
-farms are portrayed rather bleakly in <hi rend="italic">Fertile Ground,
-Narrow Choices</hi>, Sharpless writes with a sense of guarded
+farms are portrayed rather bleakly in <title>Fertile Ground, Narrow Choices</title>, Sharpless writes with a sense of guarded
 optimism. Rather than romanticize or portray Blackland Prairie women
 merely as oppressed victims of Southern patriarchy and national
 agricultural trends, Sharpless instead shows us how they "usually
 worked hard, tried their best, and sometimes failed in their attempts
 to create comfortable lives for their families and for themselves."
 Because Sharpless masterfully weaves together oral and written
-sources, <hi rend="italic">Fertile Ground, Narrow Choices</hi> reads
-effortlessly and intelligently. Most readers of history, particularly those sympathetic to oral history, will readily identify <hi rend="italc">Fertile Ground, Narrow Choices</hi> as an historical account of central Texas cotton farming.</p>
+sources, <title>Fertile Ground, Narrow Choices</title> reads effortlessly and intelligently. Most readers of history, particularly those sympathetic to oral history, will readily identify <title>Fertile Ground, Narrow Choices</title> as an historical account of central Texas cotton farming.</p>
 <p>Less readily recognizable as traditional history, though equally
 important in understanding central Texas <pb n="21"/>cotton farming and the
-cultures it produced, is Neil Foley's <hi rend="italic">The White
-Scourge</hi>. In addition to studying nearly all of the Blackland
+cultures it produced, is Neil Foley's <title>The White Scourge</title>. In addition to studying nearly all of the Blackland
 Prairie, Foley extends the imaginary borders of central Texas to
 include the eastern region of Texas which connects the Prairie to
 Houston, and the southern region of Texas which connects the Prairie
 to Corpus Christi. Similarly, Foley casts a wide net as he analyzes
 the ebb and flow of labor markets, migration, and immigration in
-central Texas. Whereas <hi rend="italic">Fertile Ground, Narrow
-Choices</hi> relies on the pedestrian, everyday language of daily life
-on central Texas cotton farms, <hi rend="italic">The White
-Scourge</hi> is steeped in the language of cultural studies. Peppered
+central Texas. Whereas <title>Fertile Ground, Narrow Choices</title> relies on the pedestrian, everyday language of daily life
+on central Texas cotton farms, <title>The White Scourge</title> is steeped in the language of cultural studies. Peppered
 with phrases such as "racial geography," "ethnoracial status and
-identity," "wages of whiteness," and "fissuring of whiteness," <hi rend="italic">The White Scourge</hi> can be added to the expanding corpus of historical studies which aim to contextualize the social construction of  "whiteness."</p>
+identity," "wages of whiteness," and "fissuring of whiteness," <title>The White Scourge </title> can be added to the expanding corpus of historical studies which aim to contextualize the social construction of  "whiteness."</p>
 <p>Foley deploys the contemporary metaphor "agricultural ladder" to explicate the Jeffersonian yeoman ideal which asserted the belief that white, male farmhands could climb ascending rungs from hired hand to sharecropper to tenant farmer to farm owner. According to this "master trope for agrarian whiteness," farm ownership "was both the symbol of and the passport to full citizenship in the democracy of rural America." Of course, in a period and region invested in racial and gender inequality, Anglo men, not African-American, Mexican or Mexican-American men and women, were expected to rise to farm ownership. </p>
 <p>As Foley demonstrates how increasingly difficult it was for anyone to attain farm ownership in the cross-cultural borderlands of central Texas, he also elucidates how movement up or down the agricultural ladder refracted deeply held personal and public convictions about race, class, and gender indentity categories. White landowners, bankers, merchants, reformers, and eugenicists, for example, disparaged white men who did not ascend the ladder, positing their inability to rise as individual failings stemming from ignorance, inefficiency, laziness, discontentness, and shiftlessness rather than local and national problems such as soil depletion, the sharp rise in land value, the high cost of credit, and the low price of cotton. Foley's overarching thesis clearly supports the idea that in central Texas, regardless of individual traits, the opportunity for tenants, sharecroppers, and wage laborers of any race to rise up from farm laborer to farm owner sharply dwindled with each passing decade.</p>
 <p>In 1915, white cotton farmer H. L. Cook revealed the hardscrabble life of tenant farming when he reflected on his own life as a tenant farmer: "I have lived in shacks that were not as good as the landlord's horse stable. I have dug wells, built houses, cow lots, hogpens, corncribs, horse sheds, grubbed out patches, repaired fences, cut ditches, all without cost to the landlord . . . . Our children grew up without education; and yet we are poor . . . . I will have to spend the rest of my days with broken-down health and pain and aches . . . . Shame, Shame on a system that will allow it."</p>
 <p>When white men failed to ascend the agricultural ladder, their degree of whiteness and masculinity waned in the eyes of upper-echelon whites. Alternatively, in some cases sharecropping and tenant Mexicans and Mexican-Americans with "manly courage" were viewed by some labor leaders, at least minimally and for a short time, less "dark" and therefore more "white" and "masculine" when they joined unions or organized their own, voiced their outrage about unfair credit practices and exploitative recruitment policies, or refused to work or live under unjust conditions proposed by cotton growers. Mr. Hernandez, a Mexican tenant for fifteen years and an organizer for the Socialist Renters' Union and the Land League complained: "The landlord would not let me have land for a garden. He never has built a crib or . . . let me plant feed for my teams . . . . He does not want to fix the house for me. If a child walks across the floor the whole house shakes; the wind comes through the cracks. When it rains everything gets wet." </p>
 <p>For Foley, the white scourge was not, as novelist Edward Everett
-Davis in his 1940 novel <hi rend="italic">The White Scourge</hi> and contemporary reformers proposed, cotton farming or even the "worthless human silt" and "white trash" it purportedly attracted like "iron filings to a magnet." Rather, the white scourge exemplifies the way whiteness itself became a crucible for competing claims to racialized, gendered, and classed notions of power and privilege.</p>
+Davis in his 1940 novel <title>The White Scourge </title> and contemporary reformers proposed, cotton farming or even the "worthless human silt" and "white trash" it purportedly attracted like "iron filings to a magnet." Rather, the white scourge exemplifies the way whiteness itself became a crucible for competing claims to racialized, gendered, and classed notions of power and privilege.</p>
 <p>Using evidence primarily from archival collections, census reports, and governmental records, Foley provocatively illuminates how interactions between Anglos, African-Americans, Mexicans, and Mexican-Americans "ruptured" the "black-white polarity" of a cross-cultural, multi-racial borderland region simultaneously Southern and Southwestern. More than mere academic jargon, Foley's linguistic and conceptual manipulations allow us to envision the expanding parameters of Southern labor studies and social history. </p>
-<p>Whether read separately or in tandem, <hi rend="italic">The White
-Scourge</hi> and <hi rend="italic">Fertile Ground, Narrow Choices</hi> perceptively and incisively demonstrate how, during the first forty years of the twentieth century, central Texas cotton farmers lived, in Sharpless' words, "contingent lives." </p>
+<p>Whether read separately or in tandem, <title>The White Scourge</title> and <title>Fertile Ground, Narrow Choices</title> perceptively and incisively demonstrate how, during the first forty years of the twentieth century, central Texas cotton farmers lived, in Sharpless' words, "contingent lives." </p>
+<div3 id="sc21-3.028" type="About"><p>Terry Easton is a graduate student in American Studies at Emory University in Atlanta, Georgia. His primary focus is labor history.</p></div3>
 </div2>
-<div2 id="21-3.010" n="Mama Dip's Kitchen" type="Article">
+<div2 id="sc21-3.010" n="Mama Dip's Kitchen" type="Article">
 <head>Mama Dip's Kitchen</head>
-<docAuthor>By Mildred Council</docAuthor>
-<docDate value="1999-09">Vol. 21, No. 3, 1999 p. 22-24</docDate>
-<p rend="italic">For nearly twenty-five years, Mildred Council-better known as Mama Dip--has nourished folks in Chapel Hill, North Carolina. Her restaurant, Mama Dip's Kitchen, is a much-loved community institution that has gained loyal fans and customers from all walks of life, from New York Times food writer Craig Claiborne to former Tar Heel basketball player Michael Jordan. Her much anticipated cookbook,<title> Mama Dip's Kitchen</title> showcases the down-home, wholesome, everyday Southern cooking for which its namesake restaurant is celebrated. <title>Southern Changes</title> is pleased to offer the following excerpt from this new book.</p>
+<byline>By <docAuthor><name reg="Council, Mildred">Mildred Council</name></docAuthor></byline>
+<docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 22-24</docDate>
+<p>For nearly twenty-five years, Mildred Council-better known as Mama Dip--has nourished folks in Chapel Hill, North Carolina. Her restaurant, Mama Dip's Kitchen, is a much-loved community institution that has gained loyal fans and customers from all walks of life, from New York Times food writer Craig Claiborne to former Tar Heel basketball player Michael Jordan. Her much anticipated cookbook,<title> Mama Dip's Kitchen</title> showcases the down-home, wholesome, everyday Southern cooking for which its namesake restaurant is celebrated. <title>Southern Changes</title> is pleased to offer the following excerpt from this new book.</p>
 
 <p>I was born a colored girl in Chatham County, North Carolina, to Ed
 Cotton and Effie Edwards Cotton; grew up a Negro in my youth; lived my
@@ -485,30 +471,27 @@ remove the pies from the pans and stack one on top of the other to
 make a double-stacked single pie. Serves 12.</p>
 </div3>
 </div2>
-<div2 id="v21-3.009" n="In Memorium: Pat Watters (1927-1999)" type="Article">
+<div2 id="sc21-3.009" n="In Memorium: Pat Watters (1927-1999)" type="Article">
                <head>In Memorium: Pat Watters (1927-1999)</head>
-               <docAuthor>By John Egerton</docAuthor>
+               <byline>By <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
                <docDate value="1999-09">Vol. 21, No. 3, 1999 p. 25</docDate>
-<argument><p>Terry Easton is a graduate student in American Studies at Emory University in Atlanta, Georgia. His primary focus is labor history.</p></argument>
 
 <p>Journalist and author Pat Watters, SRC's director of information from 1963 to 1975, died in Abbeville, Louisiana, on August 3 after a long struggle with cancer and emphysema. He was seventy-two. Friends and colleagues will long recall his soft-spoken, shyly self-deprecating manner-but also, and perhaps most memorably, his passionate and eloquent advocacy of racial justice in the South and nation.</p>
 <p>A native of Spartanburg, South Carolina, Watters attended public schools in Georgia-Albany, Brunswick, and Atlanta-and earned a bachelor's degree from Emory University and a master's in journalism from the University of Iowa.</p>
-<p>As a reporter, editor, and columnist for the <hi
-rend="italic">Atlanta Journal</hi> from 1952 to 1963, and then in his
+<p>As a reporter, editor, and columnist for the <title>Atlanta Journal </title> from 1952 to 1963, and then in his
 highly visible post with the Southern Regional Council, Watters
 traveled throughout the region covering most of the major events of
 the Civil Rights Movement. In addition to his many contributions to
-the <hi rend="italic">Journal</hi> and other publications of the
+the <title>Journal </title> and other publications of the
 Council, he wrote three books on Southern social issues and numerous
-articles for such national magazines as <hi rend="italic">The Nation, The New Republic, Look, Harper's</hi>, and <hi rend="italic">Atlantic Monthly</hi>.</p>
-	<p>Former<hi rend="italic"> New York Times</hi> Southern correspondent Roy Reed, who often worked with Watters while reporting on the Movement in the 1960s, recalled his distinctive voice, both spoken and written. "Pat had one of the few remaining authentic south Georgia accents," said Reed, "and he managed, by some mysterious touch of magic to infuse his writing with it. You could read his words and at the same time, hear his wonderful voice speaking them."</p>
+articles for such national magazines as <title>The Nation, The New
+Republic, Look, Harper's</title>, and <title>Atlantic
+Monthly</title>.</p> 	<p>Former <title> New York Times</title> Southern correspondent Roy Reed, who often worked with Watters while reporting on the Movement in the 1960s, recalled his distinctive voice, both spoken and written. "Pat had one of the few remaining authentic south Georgia accents," said Reed, "and he managed, by some mysterious touch of magic to infuse his writing with it. You could read his words and at the same time, hear his wonderful voice speaking them."</p>
 <p>In 1967, Watters and Reese Cleghorn, then an associate editor
-of the Journal, co-authored a contemporary history-<hi
-rend="italic">Climbing Jacob's Ladder: The Arrival of Negroes in
-Southern Politics</hi>-based on SRC's Voter Education Project. Two
-years later, Watters wrote <hi rend="italic">The South and the Nation</hi>, and in 1971 he followed with Down to Now, a personal and reflective backward glance at the receding movement.</p>
+of the Journal, co-authored a contemporary history-<title>Climbing Jacob's Ladder: The Arrival of Negroes in Southern Politics</title>-based on SRC's Voter Education Project. Two
+years later, Watters wrote <title>The South and the Nation </title>, and in 1971 he followed with Down to Now, a personal and reflective backward glance at the receding movement.</p>
 <p>SRC chose Watters in 1974 to serve as editor-in-chief of its
-most ambitious publishing venture, the bimonthly magazine <hi rend="italic">Southern Voices</hi>. Though it folded after only four issues, the venturesome and distinctive journal of politics, culture, and the arts was widely admired by writers and readers alike. It was the prototype for several general-interest Southern magazines to follow.</p>
+most ambitious publishing venture, the bimonthly magazine <title>Southern Voices </title>. Though it folded after only four issues, the venturesome and distinctive journal of politics, culture, and the arts was widely admired by writers and readers alike. It was the prototype for several general-interest Southern magazines to follow.</p>
 <p>Watters left SRC in 1975, but continued his writing career as a freelancer, producing three more books and dozens of articles for national magazines. In 1991, he and his wife, Glenda Hebert Watters, moved to Lafayette, Louisiana, where Watters taught journalism at the University of Southwestern Louisiana. They moved to Abbeville in 1996.</p>
 <p>His survivors, in addition to his wife, include his son and daughter, Patrick and Ellen Watters, both of Boston. </p>
 </div2>

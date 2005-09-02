@@ -54,16 +54,15 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc21-1.999" n="Southern Changes 21:1" type="Volume">
+         <div1 id="sc21-1.001" n="Southern Changes 21:1" type="Volume">
             <head>Southern Changes.  Volume 21, Number 1, 1999</head>
             <p> 
                <title>Southern Changes.</title>  Volume 21, Number 1,
 	       <date value="1999-03">1999</date></p>
- <div2 id="sc21-1.000" n="Reshaping Education Forty-Five Years After Brown" type="Article">
+ <div2 id="sc21-1.002" n="Reshaping Education Forty-Five Years After Brown" type="Article">
                <head>Reshaping Education Forty-Five Years After Brown</head>
-               <docAuthor>By Wendy S. Johnson</docAuthor>
+               <byline>By <docAuthor><name reg="Johnson, Wendy S.">Wendy S. Johnson</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 3</docDate>
-<argument><p>Wendy S. Johnson is executive director of the Southern Regional Council.</p></argument>
 <p>An SRC survey on racial attitudes found sixty percent of Americans rank improving schools and education as a top priority over any other issue. The reasons are many.  Education is the foundation for a decent job and livelihood and central to almost every other measure of a society's well-being.</p> 
 <p>Yet, as education improves in the South, inequalities  within the educational system persist. Forty-five years after Brown began to break through barriers to educational participation, we confront the realities of institutional resistance to change. </p>
 <p>The Washington, D.C.-based Education Trust reports that while tremendous progress was made toward  closing the gap in reading scores between white and African-American and Latino students during  the two decades leading up to 1989, today the reverse is true.  During the 1970s and 1980s, the gap in achievement,between African-American and white students,  as measured by reading scores,  narrowed by about half, while the gap between Latino and white students narrowed by about one-third.  Beginning in the late 80s, with some exceptions, that gap has begun to widen.  In math, "while almost all groups are gaining, the gains among white students outpace gains among African Americans and Latinos," the Education Trust reported.</p>
@@ -82,17 +81,14 @@ prison spending, should instead be devoting our resources to
 education.  Dianne Pich&#x00E9; of the Citizen's Commission on Civil Rights writes about the reauthorization battle for Title I, the only federal dollars targeted at equity in K-12 education. </p>
 <p>Finally, we are celebrating the appearance later this spring of audio cassettes and compact discs of "Will the Circle Be Unbroken?," SRC's audio documentary of the Civil Rights Movement in five Southern cities.  Producer of the Peabody Award-winning series George King has re-edited the oral histories and music into a valuable educational resource for schools and communities. </p>
 <p>We invite you to join us as we call for new partnerships for school reform and spread our work for educational justice.</p>
+<div3 id="sc21-1.022" type="About"><p>Wendy S. Johnson is executive director of the Southern Regional Council.</p></div3>
  </div2>
- <div2 id="sc21-1.001" n="Lessons Learned:
+ <div2 id="sc21-1.003" n="Lessons Learned:
 A Decade of Education Reform" type="Article">
                <head>Lessons Learned:
 A Decade of Education Reform</head>
-               <docAuthor>By Sarah Ellen Torian</docAuthor>
+               <byline>By <docAuthor><name reg="Torian, Sarah Ellen">Sarah Ellen Torian</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 4-13</docDate>
-<argument><p>Sarah Ellen Torian is program assistant in communications
-at the Southern Regional Council. SRC education staff contributed to
-this article: Marcia Klenbort, Anika Jones, Tenera McPherson, Robyn
-Davis, Gale Greenlee, and Rene&#x00E9; Wood.</p></argument>
 <p>"It's not a problem to be behind," George Washington Carver Middle School Principal Robert Markham constantly reminds students, teachers, and parents, "but it's an absolute sin to be behind and not try to catch up." Seeing Carver Middle School in Meridian, Mississippi, struggle to meet the needs of its majority-black students, many of whom receive free or reduced-cost lunches, Markham understands the challenge of engaging students. Markham looked beyond the negative media images of urban schools such as Carver that teach poor, black students without many black teachers or administrators to serve as positive role models when he became principal twelve years ago and set high expectations  for all of Carver's students. He promotes a "family" atmosphere in which parents, students, and school personnel are working toward the same goal-to have all students reading, writing, and computing on grade level by the time they finish seventh grade. </p>
 <p>Five years ago, Gwen Williams left her job as a middle school teacher in Atlanta, to become director of the Peachtree Urban Writing Project. The Project is one of 165 such sites around the world that empowers teachers as leaders and helps them improve their teaching of reading and writing. Williams and her team of ten teacher-consultants host study groups throughout the year. Hosted at Georgia State University, the project offers teachers on-going professional support from Williams and her team, examining integrative and project-based learning. "With project-based learning," Williams says, "students initiate some of their own learning, so that they become critical thinkers and learners. It empowers students to learn through projects that they design."</p>
 <p>In Monticello, Arkansas, only 52 percent of the adult population holds a high school diploma. Shirley Martin, the only one of six siblings to earn a college degree and one of the two who earned a high school diploma, is not satisfied with that low level of educational attainment. Since 1994 she has been project director of the Southeast Arkansas Foster Grandparents program, a part of the National Senior Service Corps. She currently leads a body of one-hundred senior volunteers in giving more than five-hundred "at risk" children, ranging in age from birth to second grade, the literacy skills they need. During the last school year, sixteen volunteers worked daily in a pilot program with first and second graders who had scored in the bottom quartile at their schools.  By the end of the year, 58 percent were reading at or near their grade level and several were reading one or two levels above. "I want to be a piece of the picture for education reform," says Martin.</p>
@@ -238,12 +234,15 @@ reality is that nothing can change until the classroom changes. You can make all
 
 <p>You need to get folks with a lot of energy and commitment and just do it. Provide them with a vision of what could be and then have the teachers themselves plan it and work on it. It empowers them at the same time that you are creating the vision and the new instructional methodologies.</p>
 </div3>
+<div3 id="sc21-1.023" type="About"><p>Sarah Ellen Torian is program assistant in communications
+at the Southern Regional Council. SRC education staff contributed to
+this article: Marcia Klenbort, Anika Jones, Tenera McPherson, Robyn
+Davis, Gale Greenlee, and Rene&#x00E9; Wood.</p></div3>
 </div2>
- <div2 id="sc21-1.002" n="Tracking Hurts Children" type="Article">
+ <div2 id="sc21-1.004" n="Tracking Hurts Children" type="Article">
                <head>Tracking Hurts Children</head>
-               <docAuthor>By Marcia Klenbort</docAuthor>
+               <byline>By <docAuthor><name reg="Klenbort, Marcia">Marcia Klenbort</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 14</docDate>
-<argument><p>Marcia Klenbort is director of education programs at the Southern Regional Council. For more information on C.A.R.E., call Jasmine Smith at 334-875-9264, or write to C.A.R.E. at 1 Union Street, Selma, AL 36701.</p></argument>
 <p><hi rend="italic">What is "tracking"?</hi> A high school sophomore who spent most of his schooling in low-level courses, says: "You live in the basement, you die in the basement. You know what I mean?"</p>
 <p><hi rend="italic">Where did "tracking" in Southern classrooms originate?</hi> When desegregation moved from a fear in the minds of Southern white legislators, elected officials and school leaders, to a reality, the most frequent measure taken to resegregate the schools along racial lines was to separate students according to "ability groups."  It was known as "tracking" because children put in a certain ability group (low, medium, or high) tended to stay there.</p>
 <p><hi rend="italic">Is tracking still used today?</hi> It is. It is sanctioned by state departments of education, which plan for "gifted and talented" programs for about 5 percent of the student population.  Those  offer the liveliest curriculum, the most hands-on  activities, the greatest choice for students, and frequently have the best teachers. Research shows that all students benefit from these conditions.  </p>
@@ -251,13 +250,12 @@ reality is that nothing can change until the classroom changes. You can make all
 <p><hi rend="italic">What do students have to say?</hi> Students from Selma City and Dallas County, Alabama, schools describe their schools as chaotic places where teachers are ill-equipped to teach and clearly uninterested in children.  There is no modeling among teachers of intellectual rigor, of multicultural sharing, or of taking students seriously. </p>
 <p><hi rend="italic">Where can I read more about tracking?</hi> Anne Wheelock's Crossing the Tracks:  How "Untracking" Can Save America's Schools (1992, New Press, New York) tells of teachers and students nationwide who achieve in heterogeneously grouped classrooms.</p>
 <p>Jeanie Oakes' <hi rend="italic">Keeping Track: How Schools Structure Inequality (1985, Yale University Press, New Haven) is a classic study of tracking.</hi></p>
+<div3 id="sc21-1.024" type="About"><p>Marcia Klenbort is director of education programs at the Southern Regional Council. For more information on C.A.R.E., call Jasmine Smith at 334-875-9264, or write to C.A.R.E. at 1 Union Street, Selma, AL 36701.</p></div3>
  </div2> 
-<div2 id="sc21-1.003" n="The Right Attacks Public Schools" type="Article">
+<div2 id="sc21-1.005" n="The Right Attacks Public Schools" type="Article">
                <head>The Right Attacks Public Schools</head>
-               <docAuthor>By Barbara Miner</docAuthor>
+               <byline>By <docAuthor><name reg="Miner, Barbara">Barbara Miner</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 15-18</docDate>
-<argument><p>Barbara Miner is managing editor  of Rethinking Schools, a grassroots newspaper based in Milwaukee, WI.  This article is excerpted with permission from "Classroom Crusades: Responding to the Religious Right's Agenda for Public Schools," published by Rethinking Schools, Ltd. (www.rethinkingschools.org). For a free catalog call
-1-800-669-4192.</p></argument>
 <p>	The religious right, helped by more moderate conservative forces, is taking aim at the very concept of public education.</p>
 <p>	 Buoyed by the conservative movement's success in gutting welfare and other social programs, the religious right increasingly is targeting its sights on public schools.</p>
 <p> The survival of this country's tradition of public education has far-reaching implications for all who are committed to a democratic society that respects diversity. No matter how much this tradition is tarnished and battered in practice, it remains a cornerstone of our democratic vision. </p>
@@ -310,12 +308,13 @@ coalitions of parents and community people who may not agree with the
 religious right's overall goals but <pb n="18"/>who are concerned about educational issues raised by the religious conservatives. For instance, well-meaning parents might become involved in a religious-right campaign around curricular issues, such as the teaching of reading.</p>
 <p>	The religious right has emphasized both electing fundamentalists to local school boards and training fundamentalist parents and pastors to organize in local schools. No one knows for sure how many religious conservatives serve on the country's 15,000 local school boards, but the number is possibly in the thousands. Sometimes the candidates are openly affiliated with religious fundamentalist organizations; often they are what is known as "stealth" candidates who conceal their true beliefs until elected. As one Christian Coalition member said at a workshop during the coalition's 1995 convention, "We are told not to identify ourselves as Christian Coalition members, just as John Q. Public." Ralph Reed, then executive director of the Christian Coalition, told convention-goers: "I would exchange the Presidency for 2,000 school board seats in the United States."</p>
 <p>	Despite popular concern about the state of our public schools, there remains widespread and deep support for a public system of schools that provides an equal education for all-no matter how tarnished that ideal may be in reality. If the religious right were to win its agenda, that long-standing ideal would be abandoned. </p>
+<div3 id="sc21-1.025" type="About"><p>Barbara Miner is managing editor  of Rethinking Schools, a grassroots newspaper based in Milwaukee, WI.  This article is excerpted with permission from "Classroom Crusades: Responding to the Religious Right's Agenda for Public Schools," published by Rethinking Schools, Ltd. (www.rethinkingschools.org). For a free catalog call
+1-800-669-4192.</p></div3>
 </div2>
-<div2 id="sc21-1.004" n="Promote Educational Success, Not Failure" type="Article">
+<div2 id="sc21-1.006" n="Promote Educational Success, Not Failure" type="Article">
                <head>Promote Educational Success, Not Failure</head>
-               <docAuthor>By Gregory Malhoit</docAuthor>
+               <byline>By <docAuthor><name reg="Malhoit, Gregory">Gregory Malhoit</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 18</docDate>
-<argument><p>Gregory Malhoit is director of the North Carolina Education and Law Project, a Raleigh-based education policy and legal advocacy center that promotes improved educational opportunities for at-risk students.</p></argument>
 <p>North Carolina's State Board of Education seems determined to adopt a "quick fix" education policy that could hold back thousands of students who fail state-administered multiple-choice tests.</p>
 <p>The policy is grade retention-an approach that has been experimented with in many school systems and studied by educational researchers. After decades of research, many have concluded that grade retention does far more harm than good,  increasing discipline problems and dropout rates while hurting long-term student achievement.</p>
 <p>Grade retention ignores what we know about the development of human intelligence: namely that children learn at different rates, just as they grow in spurts. They are human beings with unique skills and abilities, most of which cannot be measured by one multiple-choice test. We also know that some students don't test well, and that tests are not a perfect measure of what students know. Nevertheless, the proposed grade promotion policy places total reliance on a test score. It discounts students' classroom work, and encourages teachers to teach to the test.</p>
@@ -323,12 +322,12 @@ religious right's overall goals but <pb n="18"/>who are concerned about educatio
 <p>Higher standards for students must come with an investment of new dollars. Our lowest-performing students won't stand much of a chance of meeting the new standards if we do not have smaller classes, summer school, after-school, and tutorial programs. </p>
 <p>The State Board of Education should determine exactly what new resources are needed to provide at-risk students with programs that can make up for years of educational neglect in order to give every child a fair chance to be promoted. The State Board must insist on an up-front commitment of necessary dollars by lawmakers. If the money isn't there, then the policy should not go into effect. </p>
 <p>It's time for parents and the public to look beyond the political rhetoric and start asking some tough questions of our state's education leaders. In the rhetoric and debate over social promotion, our leaders seem to have lost sight of the fact that we are talking about children. Making judgments  about children's futures based on a bureaucratic benchmark of what is "above average" is just another way of denying our children the right to be human.</p>
+<div3 id="sc21-1.026" type="About"><p>Gregory Malhoit is director of the North Carolina Education and Law Project, a Raleigh-based education policy and legal advocacy center that promotes improved educational opportunities for at-risk students.</p></div3>
 </div2>
- <div2 id="sc21-1.005" n="Vouchers Push Moves South" type="Article">
+ <div2 id="sc21-1.007" n="Vouchers Push Moves South" type="Article">
                <head>Tracking Hurts Children</head>
-               <docAuthor>By Ellen Spears</docAuthor>
+               <byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 19</docDate>
-<argument><p>Ellen Spears is managing editor of  Southern Changes.</p></argument>
 <p>Several Southern state legislatures are considering controversial school voucher proposals, which public education advocates call a thinly veiled ploy to undermine public school funding and secure public funding for religious schools. Bills introduced in Florida, Texas, and Georgia would deduct money from state school budgets to fund private school tuition and are being targeted at minorities and students at low performing schools, according to opponents of the initiatives.</p>
 <p>"The South is the next big area for vouchers," said Jamie Daly of People for the American Way, "both Florida and Texas are going to be the next big battles." </p>
 <p>Daly, a critic of voucher programs, is most concerned about Florida's proposal. On March 25, in a mostly partisan 71-49 vote, the Florida House approved a limited voucher program. It will now move to the Republican-controlled Senate where it is expected to face stronger opposition. Supported by Governor Jeb Bush and Lt. Governor Frank Brogan, former Florida commissioner of education, the bill would provide "opportunity scholarships."</p>
@@ -342,12 +341,13 @@ religious right's overall goals but <pb n="18"/>who are concerned about educatio
 <p>Georgia's first-term Democratic Governor Barnes has committed to establishing a task force on education to develop a comprehensive approach for school improvement in the state. </p>
 <p>"Vouchers would only undermine the financial strength of our schools and our already weakened rural public schools," said Brian Kintisch, director of the Macon-based Center for Law and Education.</p>
 <p>"The majority of public school students in Georgia could never take advantage of vouchers," Kintisch said, "because they live in rural areas without access to private schools. There could be no benefit for a public school student in a rural area, whether white or black, rich or poor." </p>
+<div3 id="sc21-1.027" type="About"><p>Ellen Spears is managing editor of  Southern Changes.</p></div3>
  </div2>
- <div2 id="sc21-1.006" n="Education Is Key to Reducing Racial Inequality" type="Article">
+ <div2 id="sc21-1.008" n="Education Is Key to Reducing Racial Inequality" type="Article">
                <head>Education Is Key to Reducing Racial Inequality</head>
-               <docAuthor></docAuthor>
+               <byline><docAuthor><name reg="John Dobie Research Associates">John Dobie Research Associates</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 20-21</docDate>
-<argument><p>Ellen Spears is managing editor of  Southern Changes.</p></argument>
+
 <p rend="italic">A national survey of racial attitudes conducted by John Doble Research Associates for the Southern Regional Council (see Southern Changes, Spring 1997 and Spring and Winter 1998) found that most Americans see education as crucial to overcoming racial inequality. The research included four focus groups of white Southerners and a national telephone survey of 1216 randomly selected adults. Tom W. Smith, Director of the General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data.  The research was supported by a grant from the Charles Stewart Mott Foundation. </p>
 <p>Americans rate "improving schools and education" as a top priority over any other issue. Fifty-nine percent said education was a "top priority" and another 28 percent said it was an "above average" priority (a total of 87 percent showing strong support for education). Seventy-nine percent of blacks and 56 percent of whites said education was a "top priority" (the highest for both groups).  This top ranking on the SRC survey parallels a steady climb by education on the University of Chicago National Opinion Research Center's General Social Survey (GSS) from 6th and 5th place rankings in the 1970s.</p>
 <p>People surveyed were asked to consider a variety of specific programs to reduce inequality in education.  Even in the face of difficult trade-offs, large majorities, often more than seven out of ten, said they favored a host of specific educational remedies: </p>
@@ -365,11 +365,10 @@ religious right's overall goals but <pb n="18"/>who are concerned about educatio
 <p>Support is evident for improving the educational opportunities at all levels for black students, from the 82 percent who support Head Start to the 75 percent who favor  "providing more financial aid for black college students who maintain good grades." </p>
 <p rend="bold">College admissions policies were given particular attention in the study, which found that support for college admissions policies to aid black students gains considerably more ground when the implications of abandoning affirmative action are considered.  While only 45 percent favored the idea of reserving college openings for black students, many changed their minds and gave the proposal majority support (67 percent), if not doing so would mean black students will be badly underrepresented on campus. The 52 percent who opposed reserving openings for black students in the questions mentioning discrimination were asked if they would "still feel that way if it meant that black students who are likely to do well in college would be badly under-represented among students."  About 44 percent said "no" which means that after bringing up this consequence only 23 percent were still opposed to assisting black students in getting into college even if it led to black students being under-represented.  Respondents found combating discrimination and maintaining diversity about equally compelling as arguments for reserving college openings for black students. 	</p>
  </div2>
- <div2 id="sc21-1.007" n="Schools in Conflict: A History Lesson" type="Article">
+ <div2 id="sc21-1.009" n="Schools in Conflict: A History Lesson" type="Article">
                <head>Schools in Conflict: A History Lesson</head>
-               <docAuthor>By Leslie Dunbar</docAuthor>
+               <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 22-23</docDate>
-<argument><p>Leslie Dunbar was executive director of the Southern Regional Council from 1961-1965. He lives in Durham, North Carolina.</p></argument>
 <p>The Supreme Court's school desegregation decision announced May 17, 1954 had been too long coming. The South's political order, aided by the nation's indifference to the ideals the decision professed, was the cause of the ensuing bitterness. It is not clear that the decision is fully yet accepted. </p>
 <p>It had been painfully arrived at. The five cases decided that day,
 answering the constitutional question of racial segregation, had been
@@ -420,21 +419,14 @@ rend="italic">The Desegregation of Southern Schools: A Psychiatric
 Study</hi>. Dr. Coles had begun his now famous field studies in the
 South in 1961 under SRC's sponsorship. <hi rend="italic">New South</hi> was used occasionally for special studies. Staige Blackford's "Free Choice and Tuition Grants in Five Southern States " took up virtually the whole of the April 1964 issue.</p>
 <p>If the outcomes of the struggles are not all that we hoped for, we can rightfully believe and know that the hard fight was a good fight to have won, and that it created opportunities for SRC and others now to build on. A good education for all of the South's young people-let us not forget this-was not possible prior to 1954. Now it is ours to realize.</p>
- </div2>
- <div2 id="sc21-1.008" n="Title I Reauthorization:
+ <div3 id="sc21-1.029" type="About"><p>Leslie Dunbar was executive director of the Southern Regional Council from 1961-1965. He lives in Durham, North Carolina.</p></div3>
+</div2>
+ <div2 id="sc21-1.010" n="Title I Reauthorization:
 Renew Federal Support to Under-Resourced Schools" type="Article">
                <head>Title I Reauthorization:
 Renew Federal Support to Under-Resourced Schools</head>
-               <docAuthor>By Dianne Pich&#x00E9;</docAuthor>
+               <byline><docAuthor><name reg="Pich&#x00E9;, Dianne">By Dianne Pich&#x00E9;</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 24-26</docDate>
-<argument><p>Dianne M. Pich&#x00E9; is a lawyer and writer specializing in
-civil rights and educational equity issues.  She directs the Citizens'
-Commission on Civil Rights' Title I Monitoring Project and is the
-principal author of the Commission report, "Title I in Midstream: The
-Fight to Improve Schools for Poor Kids."  Portions of this article are
-reprinted with permission from that report and from an article which
-appeared in <hi rend="italic">Poverty and Race</hi> (Nov/Dec 1998).  For more information, or to order copies of the Commission's  thirty-four page Title I report, please contact the Commission at 2000 M Street NW, Suite 400, Washington, DC 20036, 202-659-5565, 202-223-5302 (fax), or e-mail dpiche@wltlaw.com.</p>
-<p>The Citizens' Comission's most recent report, <hi rend="italic">The Test of our Progress: The Clinton Record on Civil Rights</hi> is available at the Comission's address listed here. Orders may also be made by fax. The report is available at no cost to Southern Changes readers. It features five articles on affirmative action, judicial nominations, voting rights, and the census.</p></argument>
 <p>When Congress takes up the reauthorization of the Elementary and Secondary Education Act (ESEA) later this year, the stakes will be higher than ever for poor and minority children. Particularly for those children attending schools that receive support from Title I, the section of the law aiding under-resourced schools, the outcome of the looming Congressional debate could make a big difference  whether those children have access to the resources they need to succeed in school.</p>
 <p>With an appropriation now over $8 billion, Title I is by far the largest of the ESEA programs, providing supplemental funds to schools serving high concentrations of low-income children in order to assist students in meeting high academic standards.  Congress is likely to consider an array of competing proposals, including:</p>
 <p>&#x2022;Whether to continue targeting Title I funds to high poverty schools and school districts as it does now;</p>
@@ -501,12 +493,19 @@ to condone <pb n="26"/>persistent low achievement, along with high retention and
 <p>	Cumulatively, these faults and misinterpretations have served to undermine a central objective of the new Title I:  to eliminate the prevailing dual system of education that consigns poor children, children of color and children with special needs to schools and programs with lower expectations, fewer resources and fewer opportunities than those enjoyed by the great majority of advantaged children. </p>
 <p>In criticizing the U. S. Department of Education, the Citizens' Commission does not suggest in any way that state and local officials have done their part to effectuate the purposes of the law.  Many have not.  Nor should Congress' role in holding back progress be under-emphasized.    </p>
 <p>	Despite the shortcomings of the Department of Education in implementing the new Title I, there is every reason to believe that the program can be successful in the future.  Since the process of reform contemplated is a long-term one, the five-year authorization period will expire before states have completed and implemented their reforms.  But the experience of several states and cities in carrying out measures called for by Title I has already yielded positive results in the improved achievement of disadvantaged youngsters.  Prospects for further gains will be enhanced by extending the 1994 reforms, increasing federal resources to improve teaching in high-poverty schools, and a commitment by the Clinton and subsequent  administration to implement the law, including a willingness to enforce its provisions where violations occur. </p>
+<div3 id="sc21-1.030" type="About"><p>Dianne M. Pich&#x00E9; is a lawyer and writer specializing in
+civil rights and educational equity issues.  She directs the Citizens'
+Commission on Civil Rights' Title I Monitoring Project and is the
+principal author of the Commission report, "Title I in Midstream: The
+Fight to Improve Schools for Poor Kids."  Portions of this article are
+reprinted with permission from that report and from an article which
+appeared in <hi rend="italic">Poverty and Race</hi> (Nov/Dec 1998).  For more information, or to order copies of the Commission's  thirty-four page Title I report, please contact the Commission at 2000 M Street NW, Suite 400, Washington, DC 20036, 202-659-5565, 202-223-5302 (fax), or e-mail dpiche@wltlaw.com.</p>
+<p>The Citizens' Comission's most recent report, <hi rend="italic">The Test of our Progress: The Clinton Record on Civil Rights</hi> is available at the Comission's address listed here. Orders may also be made by fax. The report is available at no cost to Southern Changes readers. It features five articles on affirmative action, judicial nominations, voting rights, and the census.</p></div3>
  </div2>
- <div2 id="sc21-1.009" n="Standards Reform: Focus on Learning for All" type="Article">
+ <div2 id="sc21-1.011" n="Standards Reform: Focus on Learning for All" type="Article">
                <head>Standards Reform: Focus on Learning for All</head>
-               <docAuthor>By M. Hayes Mizell</docAuthor>
+               <byline>By <docAuthor><name reg="Mizell, M. Hayes">M. Hayes Mizell</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 27-28</docDate>
-<argument><p>M. Hayes Mizell directs the Program for Student Achievement for the Edna McConnell Clark Foundation. He was born in North Carolina. The Program for Student Achievement supports standards-based reform in San Diego and Long Beach, California; Minneapolis, Minnesota; Louisville, Kentucky; and Corpus Christi, Texas. For more information about the program, contact the Foundation at 212-551-9100.</p></argument>
 <p>During the past two decades, the South has emerged as the star graduate of the nation's remediation class. It ended up there after several centuries of making what a school counselor might euphemistically characterize as "bad decisions:" slavery, racial oppression, de jure segregation and massive resistance. But whether because of pathology or choice, the South had become rebellious and out of control. Striking the teacher was the last straw. It surprised no one when it flunked. Alone, down and out, with no money and no friends, it finally resorted to something it had avoided for centuries: learning. The more the South learned, and the more it used what it learned, the more self-confident it became. It discovered that skills have value, and folks who have money and want to make more money seek out skills. These skills, combined with the South's work ethic (it had never been afraid of hard work, it had just worked hard at the wrong things), made it prosperous and proud, embracing education almost as an article of faith.</p>
 <p>Like any low-performing student who migrates into the ranks of achievers, the South's progress has been impressive because its efforts to improve education started so far behind more prosperous areas of the country. For most of this century, it struggled to provide even a semblance of public education, from a full school year, to decent facilities, to adequately trained teachers. The South denied even these to children from low-income and African-American families, and, of course, to children with disabilities. Only in the 1970s did Southern states finally begin to provide inclusive public education systems similar to those elsewhere in the nation. </p>
 <p>Now, just as the South is catching up to the nation, the dynamics of schooling are changing dramatically. The emphasis is increasingly on the results of education, what students actually know and can do, rather than on merely providing the components of the educational process. There continue to be concerns about the fairness of some states' education financing systems and the supply of qualified teachers, but most policy makers and taxpayers are more concerned about what students are learning. Are schools challenging and encouraging all students to master increasingly difficult subject matter? Are schools adequately preparing students for the next grade? Will students have the knowledge and skills to compete successfully in a global economy? </p>
@@ -522,10 +521,11 @@ conspiracy to set the "bar" of academic perfor-<pb n="28"/>mance so high that it
 <p>The Corpus Christi, Texas, school system is using standards to raise expectations and performance across the district. Each year the school system sends a complete copy of its standards to every household with school-age children. A leadership team of teachers from across the district annually plans and leads a full day of standards-based staff development in which teachers share promising practices with their peers. This year Corpus Christi is using a new report card that informs parents which specific standards their children have met and which ones they have yet to meet. These and many other reform initiatives based on standards have yielded impressive results as student performance on the Texas Assessment of Academic Skills has improved significantly over time. </p>
 <p>Unfortunately, the use of standards has also revealed that many teachers lack the knowledge and skills to help students progress towards performing at standard. There are, for example, mathematics and science teachers who did not major in these subjects in college and who are not secure in their knowledge of the content they are teaching. These teachers are the ones whose instruction is most dependent on textbooks and who lack the confidence to engage students creatively in learning. The Louisville, Kentucky, school system is trying to address this problem by supporting five full-time teacher "fellows" who provide one-on-one staff development for teachers in low-performing schools.  In San Diego, California, each school principal now spends at least two hours each day in classrooms, working with teachers to improve instruction. </p>
 <p>In many ways, the new focus on standards represents the culmination of the South's long educational journey. While there are inequities, for the most part the region provides the basics of adequately funded education systems, literate teachers, comfortable school facilities, technology, and a wide variety of ancillary supports. There will always be a need to improve on these basics, but it is unlikely that by themselves they will significantly increase student learning. What is now emerging in the South is a four-part debate over (a) what all students should learn, (b) how well they should learn it, (c) how to determine what they have learned and how well, and (d) how to support and hold accountable school systems, schools, and teachers to help students perform at standard. There will be those who resist efforts to improve their performance because to do so they will have to develop new attitudes and behaviors based on the belief that nearly all children can perform at standard. Overcoming these obstacles will not be easy, but at long last the focus is on the right thing, not just the conditions of education but the results of education. </p>
+<div3 id="sc21-1.031" type="About"><p>M. Hayes Mizell directs the Program for Student Achievement for the Edna McConnell Clark Foundation. He was born in North Carolina. The Program for Student Achievement supports standards-based reform in San Diego and Long Beach, California; Minneapolis, Minnesota; Louisville, Kentucky; and Corpus Christi, Texas. For more information about the program, contact the Foundation at 212-551-9100.</p></div3>
  </div2>
- <div2 id="sc21-1.010" n="Completing the Circle, Part II" type="Article">
+ <div2 id="sc21-1.012" n="Completing the Circle, Part II" type="Article">
                <head>Completing the Circle, Part II</head>
-               <docAuthor>Staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 29-30</docDate>
 
 <p>"How can I get a copy of that wonderful civil rights documentary series produced by the Southern Regional Council that I heard on public radio?" The most frequently asked question among the fifteen hundred email messages to the "Will the Circle Be Unbroken?" web site now has an answer.  </p>
@@ -562,13 +562,13 @@ is Arista Records.' With producer George <pb n="30"/>King in the sound studio li
 <p>King spent countless more hours in the studio, re-editing the series for the CD and cassette version. He even recorded some original music, solos and short transitional pieces with local Atlanta artists, bassist Brett Hartley, keyboardist Rob Grable, oboeist  Deborah Workman, and Tom Wolf on harmonica.  King, who plays occasionally with the Expand Band, filled in on percussion. </p>
 <p>You can reserve a copy of the series now by calling or writing the Southern Regional Council at (404) 522-8764, 133 Carnegie Way, Suite 900, Atlanta, GA  30303-1024 or visiting the series' web site at www.unbrokencircle.org. </p>
  </div2>
- <div2 id="sc21-1.011" n="Grace and Guts
+ <div2 id="sc21-1.013" n="Grace and Guts
 Virginia Foster Durr 1903-1999" type="Article">
                <head>"Grace and Guts"
 Virginia Foster Durr 1903-1999</head>
-               <docAuthor></docAuthor>
+               <byline><docAuthor><name reg="Williams,
+					     H. Randall">H. Randall Williams</name></docAuthor></byline>
                <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 35</docDate>
-<argument><p>H. Randall Williams is editor at Black Belt Press in Montgomery and a contributing editor to Southern Changes.</p></argument>
 <p>SRC Life Fellow Virginia Durr-born August 6, 1903- died February 24, 1999, in her sleep in a nursing home in Pennsylvania. She was one of the most outspoken white Southern progressives of the twentieth century and, though she never held elective office or any high position, one of its most influential. The wife of Clifford J. Durr and the sister-in-law of Hugo Black, she was the friend and confidante of Eleanor Roosevelt, Septima Clark, Rosa Parks, Myles Horton, E. D. Nixon, Martin Luther King, Jr., and many, many others.</p>
 <p>A Birmingham native, she attended Wellesley College, and after marrying Clifford Durr moved with him in 1933 to Washington to work in the New Deal. There she fought the poll tax and began her association with the Southern Conference on Human Welfare and the Commission on Interracial Cooperation, the forerunner of the Southern Regional Council. </p>
 <p>In the late forties, she worked in the Henry Wallace campaign and challenged McCarthyism. The Durrs moved to Montgomery, her husband's home, in 1951, and she served as his legal secretary. Their work brought them into contact and friendship with E. D. Nixon, the Pullman porter who led the Montgomery NAACP, and NAACP secretary Rosa Parks, whom Virginia Durr employed part-time as a seamstress and encouraged to attend a civil rights training session at the Highlander Folk School.</p>
@@ -583,6 +583,7 @@ was a Council Member, and Virginia Durr was writing, under the by-lines of Eliza
 <p>In the eighties, she began summering at the Martha's Vineyard vacation home of her daughter and son-in-law, Lucy and Sheldon Hackney. There she renewed older friendships and charmed a new generation of admirers. Her ninetieth birthday party on the island was attended by a thousand guests, including Hillary and Bill Clinton. </p>
 <p>She remained in remarkably good health until the past few years, when she moved from her home into full-time nursing care. </p>
 <p>Her funeral in Montgomery was attended by the present Governor of Alabama, a stark reminder of how she had endured and to a large extent prevailed over her political foes.</p>
+<div3 id="sc21-1.033" type="About"><p>H. Randall Williams is editor at Black Belt Press in Montgomery and a contributing editor to Southern Changes.</p></div3>
  </div2>
 	 </div1>
       </body>

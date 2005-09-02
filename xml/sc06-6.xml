@@ -63,15 +63,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc06-6.001" n="Southern Changes 6:6" type="Issue">
             <head>Southern Changes.  Volume 6, Number 6, 1984</head>
             <p>
-               <title>Southern Changes</title>.  Volume 6, Number 6, 1984</p>
-            <div2 id="sc06-6gaillard.002" n="It's Jesse Again" type="Article">
+               <title>Southern Changes</title>.  Volume 6, Number 6,
+	       <date value="1984-12">1984</date></p>
+            <div2 id="sc06-6.002" n="It's Jesse Again" type="Article">
                <head>It's Jesse Again</head>
-               <docAuthor>By FRYE GAILLARD</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 1-3</docDate>
-               <argument>
-                  <p>Frye Gaillard is an editorial page writer for the
-<title>Charlotte Observer</title>.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 1-3</docDate>
                <p>Relying on $14 million worth of accusation, racial invective and
 unrepentant lying, Sen. Jesse Helms has been reelected.</p>
                <p>He defeated North Carolina's popular governor, Jim Hunt, by
@@ -250,34 +247,15 @@ had Hunt never advocated such a plan, Helms had.</p>
 would also have precluded certain forms of contraception, when in
 fact, that was precisely what he had done.</p>
                <p>Astonishly enough, the lying prevailed and Helms was elected.</p>
-            </div2>
-            <div2 id="sc06-6laudin.003" n="Women of the Louisiana Cane Fields" type="Article">
+            <div3 id="sc06-6.022" type="About">
+                  <p>Frye Gaillard is an editorial page writer for the
+<title>Charlotte Observer</title>.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-6.003" n="Women of the Louisiana Cane Fields" type="Article">
                <head>Plantation Portraits: Women of the Louisiana Cane Fields</head>
-               <docAuthor>By TIKA LAUDIN</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 4-6</docDate>
-               <argument>
-                  <p>
-                     <title>Plantation Portraits</title> is the name of an
-exhibit and a booklet which presents voices and photographs of black
-culture in plantation Louisiana. Conceived by Lorna Bourg of the
-Southern Mutual Help Association of Jeanerette, Louisiana,
-<title>Plantation Portraits</title> offers glimpses into the lives of
-seventeen women who work in the sugar cane industry of southern
-Louisiana. Interviewer Judith A. Gaines and photographer Tika Laudin
-gathered the stories and images which make up <title>Plantation
-Portraits.</title>
-                  </p>
-                  <p>Residential, working plantations still survive in Louisiana's sugar
-cane belt. The Southern Mutual Help Association is devoted to
-improving the li2.~e.s and conditions of cane workers and their
-families. <title>Plantation Portraits</title> suggests the strength,
-the oppression, the exuberance and the anger of plantation
-residents.</p>
-                  <p>Below, <title>Southern Changes</title> offers two excerpts from
-<title>Plantation Portraits</title>. The complete booklet is available
-for five dollars from the Southern Mutual Help Association, P. O. Box
-850, Jeanerette, Louisiana 70544.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Laudin, Tika">Tika Laudin</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 4-6</docDate>
                <p>
                   <hi rend="bold">HELEN CASSIMERE</hi>
                </p>
@@ -413,12 +391,35 @@ bathroom. And I raised six children in that house, and three more
 before. It was a struggle, but we made it.</p>
                <p>I liked it there. That's why I went bouncin' back to get some
 work.</p>
-            </div2>
-            <div2 id="sc06-6tullos.004" n="Southern Hunger in the Eighties" type="Article">
+            <div3 id="sc06-6.023" type="About">
+                  <p>
+                     <title>Plantation Portraits</title> is the name of an
+exhibit and a booklet which presents voices and photographs of black
+culture in plantation Louisiana. Conceived by Lorna Bourg of the
+Southern Mutual Help Association of Jeanerette, Louisiana,
+<title>Plantation Portraits</title> offers glimpses into the lives of
+seventeen women who work in the sugar cane industry of southern
+Louisiana. Interviewer Judith A. Gaines and photographer Tika Laudin
+gathered the stories and images which make up <title>Plantation
+Portraits.</title>
+                  </p>
+                  <p>Residential, working plantations still survive in Louisiana's sugar
+cane belt. The Southern Mutual Help Association is devoted to
+improving the li2.~e.s and conditions of cane workers and their
+families. <title>Plantation Portraits</title> suggests the strength,
+the oppression, the exuberance and the anger of plantation
+residents.</p>
+                  <p>Below, <title>Southern Changes</title> offers two excerpts from
+<title>Plantation Portraits</title>. The complete booklet is available
+for five dollars from the Southern Mutual Help Association, P. O. Box
+850, Jeanerette, Louisiana 70544.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-6.004" n="Southern Hunger in the Eighties" type="Article">
                <head>Southern Hunger in the Eighties: Win this one for the
 Reaper</head>
-               <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 6-11, 13-16</docDate>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 6-11, 13-16</docDate>
                <epigraph>
                   <p>"There's no basis for this demagoguery that somehow we
 have punished, and are picking on, or trying to get our recovery on
@@ -1063,11 +1064,11 @@ War</title>. New York: Pantheon. 1982.</p>
 Income and Poverty Status of Families and Persons in the United
 States</title>: 1983. Washington. August, 1984.</p>
             </div2>
-            <div2 id="sc06-6shirley.005" n="Statement of Dr. Aaron Shirley" type="Article">
+            <div2 id="sc06-6.005" n="Statement of Dr. Aaron Shirley" type="Article">
                <head>Statement of Dr. Aaron Shirley before the House Select Committee
 on Hunger. Greenwood, Mississippi June 25, 1984</head>
-               <docAuthor>By AARON SHIRLEY</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, p. 12</docDate>
+               <byline>By <docAuthor><name reg="Shirley, Aaron">Aaron Shirley</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, p. 12</docDate>
                <p>My name is Aaron Shirley. I am a practicing pediatrician and the
 project director of the Jackson Hinds Comprehensive Health Center in
 Jackson, Mississippi. I also serve as chairman of the Board of
@@ -1146,33 +1147,10 @@ developing into a productive citizen or one who is hungry and
 malnourished, apathetic and vulnerable to sickness and disease and
 possibly a shortened life span.</p>
             </div2>
-            <div2 id="sc06-6wheeler.006" n="Of Hungry Children, 1967" type="Article">
+            <div2 id="sc06-6.006" n="Of Hungry Children, 1967" type="Article">
                <head>Of Hungry Children, 1967</head>
-               <docAuthor>By RAYMOND M. WHEELER, M.D.</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, p. 15</docDate>
-               <argument>
-                  <p>In July 1967 before hearings of the Senate Subcommittee
-on Manpower, Employment, and Poverty, a team of six physicians
-presented the results of a field trip into six Mississippi counties in
-which they surveyed the, health and living conditions of black
-children. Their report, published by the Southern Regional Council
-under the title HUNGRY CHILDREN, states in part: "In sum we saw
-children who are hungry and who are sick--children for whom hunger is
-a daily fact of life and sickness, in many forms, an
-inevitability. . . By the many thousands they live outside of every
-legal, medical and social advance our nation has made in this
-century. " The report was filed by Dr. Joseph Brenner of the
-Massachusetts Institute of Technology; Dr. Robert Coles of Harvard
-University Health Services; Dr. Alan Mermann of the Departmentof
-Pediatrics, Yale University; Dr. Milton J. E. Senn, Sterling Professor
-of Pediatrics, Yale University; Dr. Cyril Walwyn of Yazoo City,
-Mississippi; and Dr. Raymond M. Wheeler of Charlotte, N. C., chairman
-of the Executive Committee of the Southern Regional Council. Following
-the presentations of the physicians, Mississippi Senators James
-0. Eastland and John Stennis challenged the doctors' testimony as "a
-libel to the state of Mississippi. " Dr. Wheeler then made the
-following reply.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Wheeler, Raymond M., M.D.">By Raymond M. Wheeler, M.D.</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, p. 15</docDate>
                <p>I am distressed and concerned that Senators Stennis and Eastland
 interpret my remarks this morning as libelous to the state of
 Mississippi.</p>
@@ -1208,16 +1186,34 @@ pain and the fear and misery of their parents.</p>
                <p>Their story must be believed--not only for their sakes--but for the
 sake of all America.</p>
                <p>--From <title>New South</title>, Summer 1967</p>
-            </div2>
-            <div2 id="sc06-6overton.007" n="Southern Banks Charge Ahead" type="Article">
+            <div3 id="sc06-6.026" type="About">
+                  <p>In July 1967 before hearings of the Senate Subcommittee
+on Manpower, Employment, and Poverty, a team of six physicians
+presented the results of a field trip into six Mississippi counties in
+which they surveyed the, health and living conditions of black
+children. Their report, published by the Southern Regional Council
+under the title HUNGRY CHILDREN, states in part: "In sum we saw
+children who are hungry and who are sick--children for whom hunger is
+a daily fact of life and sickness, in many forms, an
+inevitability. . . By the many thousands they live outside of every
+legal, medical and social advance our nation has made in this
+century. " The report was filed by Dr. Joseph Brenner of the
+Massachusetts Institute of Technology; Dr. Robert Coles of Harvard
+University Health Services; Dr. Alan Mermann of the Departmentof
+Pediatrics, Yale University; Dr. Milton J. E. Senn, Sterling Professor
+of Pediatrics, Yale University; Dr. Cyril Walwyn of Yazoo City,
+Mississippi; and Dr. Raymond M. Wheeler of Charlotte, N. C., chairman
+of the Executive Committee of the Southern Regional Council. Following
+the presentations of the physicians, Mississippi Senators James
+0. Eastland and John Stennis challenged the doctors' testimony as "a
+libel to the state of Mississippi. " Dr. Wheeler then made the
+following reply.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-6.007" n="Southern Banks Charge Ahead" type="Article">
                <head>Southern Banks Charge Ahead</head>
-               <docAuthor>By JIM OVERTON</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 18-20</docDate>
-               <argument>
-                  <p>Jim Overton is the associate publisher of <title>The
-North Carolina Independent.</title>
-                  </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Overton, Jim">Jim Overton</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 18-20</docDate>
                <p>A financial services revolution is underway and Southern banks are
 doing their damndest to make sure they get as large a slice of the pie
 as possible. In the process they are likely to wreak havoc on the
@@ -1431,22 +1427,20 @@ favorite banker's expression, it seems only prudent that we should
 slow down the interstate merger process and ask for some return
 guarantees before we allow the South's banks to charge us with an
 uncertain future.</p>
-            </div2>
-            <div2 id="sc06-6gorn.008" n="The Bear" type="Review">
+            <div3 id="sc06-6.027" type="About">
+                  <p>Jim Overton is the associate publisher of <title>The
+North Carolina Independent.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc06-6.008" n="The Bear" type="Review">
                <head>
                   <title>The Bear.</title> A film from Embassy Pictures,
 1984. Larry G. Spangler, producer; Richard Sarafian, director; written
 by Michael Kane; starring Gary Busey as Coach Paul "Bear"
 Bryant.</head>
-               <docAuthor>Reviewed by ELLIOTT J. GORN</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 20, 22-23</docDate>
-               <argument>
-                  <p>Elliott J. Gorn is assistant professor American Studies
-at the University of Alabama in Tuscaloosa. He is completing study of
-the early history of prize fighting in America, to be entitled
-<title>The Manly Art.</title>
-                  </p>
-               </argument>
+               <byline>Reviewed by <docAuthor><name reg="Gorn, Elliott J.">Elliott J. Gorn</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 20, 22-23</docDate>
                <p>I first moved to Tuscaloosa, carpetbag in hand, in 1981. I was
 enough of a football fan to know that the University of Alabama
 produced consistently strong teams and that Paul "Bear" Bryant was one
@@ -1612,19 +1606,22 @@ no less complex nor less interesting than Trinidad. Bryant's
 accomplishments, the tragedies of recent Southern history, and the
 glories of Southern football all deserve their own C.L.R. James,
 someone who can tell the story so others might understand.</p>
-            </div2>
-            <div2 id="sc06-6williamson.009" n="The Politics of Culture in an American Region" type="Review">
-               <head>
-                  <title>All That Is Native and Fine: The Politics of Culture in
-an American Region</title> by David E. Whisnant. University of North
-Carolina Press, 1983. 340 pp.</head>
-               <docAuthor>Reviewed by J.W. Williamson</docAuthor>
-               <docDate>Vol. 6, No. 6, 1984, pp. 23-24</docDate>
-               <argument>
-                  <p>J.W. Williamson is editor of the <title>Appalachian
-Journal.</title>
+            <div3 id="sc06-6.028" type="About">
+                  <p>Elliott J. Gorn is assistant professor American Studies
+at the University of Alabama in Tuscaloosa. He is completing study of
+the early history of prize fighting in America, to be entitled
+<title>The Manly Art.</title>
                   </p>
-               </argument>
+               </div3>
+               </div2>
+            <div2 id="sc06-6.009" n="The Politics of Culture in an American Region" type="Review">
+               <head>The Politics of Culture in an American Region</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Williamson, J.W.">Reviewed by J.W. Williamson</name></docAuthor></byline>
+               <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 23-24</docDate>
+               <bibl><title>All That Is Native and Fine: The Politics of Culture in
+an American Region</title> by David E. Whisnant. University of North
+Carolina Press, 1983. 340 pp.</bibl>
                <p>The first time I ever laid eyes on David Whisnant was at a big
 conference in the mountains called "Toward 1984: The Future of
 Appalachia," and he was making like the Prophet Amos even then. That
@@ -1747,7 +1744,12 @@ someone else's "culture," and those are the dangerous "politics" of
 Whisnant's sub-title.</p>
                <p>This is a sobering book. It needs study by a great host of "culture
 workers," inside these mountains and out.</p>
-            </div2>
+           <div3 id="sc06-6.029" type="About">
+                  <p>J.W. Williamson is editor of the <title>Appalachian
+Journal.</title>
+                  </p>
+               </div3>
+                   </div2>
          </div1>
       </body>
    </text>

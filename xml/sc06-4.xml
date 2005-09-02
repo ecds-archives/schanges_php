@@ -64,41 +64,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc06-4.001" n="Southern Changes 6:4" type="Issue">
             <head>Southern Changes.  Volume 6, Number 4, 1984</head>
             <p>
-               <title>Southern Changes</title>.  Volume 6, Number 4, 1984</p>
-            <div2 id="sc06-4gunter.002" n="Emelle, Alabama Toxic Waste Cadillac" type="Article">
+               <title>Southern Changes</title>.  Volume 6, Number 4,
+	       <date value="1984-08">1984</date></p>
+            <div2 id="sc06-4.002" n="Emelle, Alabama Toxic Waste Cadillac" type="Article">
                <head>Emelle, Alabama Toxic Waste Cadillac</head>
-               <docAuthor>By BOOTH GUNTER and MIKE WILLIAMS</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 1-7</docDate>
-               <argument>
-                  <p>Booth Gunter and Mike Williams are staff writers for the
-Montgomery Advertiser. Gunter worked as a political and general
-assignments reporter for the daily Huntsville (Texas) Item until 1983,
-writing, among other issues, about the Texas prison system and capital
-punishment. Williams, a native of Tuscaloosa, has written about the
-history of industrial workers in Birmingham as part of a project
-supported by a National Endowment for the Humanities Youth grant.</p>
-                  <p>Environmental policy in the Reagan Administration has encouraged
-industrial producers of hazardous waste to resume, or continue,
-long-practiced, devil-may-care ways. Anxious to dispose of toxic waste
-as cheaply as possible, many commercial waste companies have headed
-South. These companies say they have c~ me to take advantage of the
-region's geology and to handle Southern-generated waste. They rarely
-mention that other attractions include the low level of environmental
-awareness among many Southerners, the laxity of state environmental
-laws, inadequate funding for regulatory agencies in most Southern
-states, and the willingness of many state and local politicians to
-assist the companies in their efforts to purchase land discreetly and
-to speedily obtain the necessary permits.</p>
-                  <p>Ecological awareness among Southerners has grown in recent years as
-local groups have sprung up in opposition to particular sites and as
-reports of leaky landfills and questionable disposal practices have
-spilled into the press. Among the community activists stirs a growing
-conviction that toxic waste dumping in the South must be stopped
-before it becomes another chapter in an old story--the story of
-outsiders, aided by the greed and dishonesty of some of the region's
-own politicians, taking advantage of the South's resources for
-profit.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gunter, Booth">Booth Gunter</name> and <name reg="Williams,  Mike"> Mike Williams</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate>
                <p>Down in the Heart of Dixie, in the gently rolling hills of the
 Black Belt, lie gigantic pits--twice as wide as football fields are
 long--filled to the brim with an alphabet soup mix of dangerous
@@ -540,15 +511,41 @@ has become active fighting the company for four very specific reasons:
 "my three children and this community."</p>
                <p>"They haven't got enough money in the Superfund to buy this house,"
 she says.</p>
-            </div2>
-            <div2 id="sc06-4breman.003" n="Hazardous Waste in Georgia" type="Article">
+            <div3 id="sc06-4.022" type="About">
+                  <p>Booth Gunter and Mike Williams are staff writers for the
+Montgomery Advertiser. Gunter worked as a political and general
+assignments reporter for the daily Huntsville (Texas) Item until 1983,
+writing, among other issues, about the Texas prison system and capital
+punishment. Williams, a native of Tuscaloosa, has written about the
+history of industrial workers in Birmingham as part of a project
+supported by a National Endowment for the Humanities Youth grant.</p>
+                  <p>Environmental policy in the Reagan Administration has encouraged
+industrial producers of hazardous waste to resume, or continue,
+long-practiced, devil-may-care ways. Anxious to dispose of toxic waste
+as cheaply as possible, many commercial waste companies have headed
+South. These companies say they have c~ me to take advantage of the
+region's geology and to handle Southern-generated waste. They rarely
+mention that other attractions include the low level of environmental
+awareness among many Southerners, the laxity of state environmental
+laws, inadequate funding for regulatory agencies in most Southern
+states, and the willingness of many state and local politicians to
+assist the companies in their efforts to purchase land discreetly and
+to speedily obtain the necessary permits.</p>
+                  <p>Ecological awareness among Southerners has grown in recent years as
+local groups have sprung up in opposition to particular sites and as
+reports of leaky landfills and questionable disposal practices have
+spilled into the press. Among the community activists stirs a growing
+conviction that toxic waste dumping in the South must be stopped
+before it becomes another chapter in an old story--the story of
+outsiders, aided by the greed and dishonesty of some of the region's
+own politicians, taking advantage of the South's resources for
+profit.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-4.003" n="Hazardous Waste in Georgia" type="Article">
                <head>Hazardous Waste in Georgia</head>
-               <docAuthor>By VICKI BREMAN</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 7-12</docDate>
-               <argument>
-                  <p>Vicki Breman is an attorney with the Georgia office of
-the Legal Environmental Assistance Foundation.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Breman, Vicki">Vicki Breman</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate>
                <p>If you are poor, black and live in the South, you are much more
 likely to live near a hazardous waste landfill than if you are white
 and middle class. How much more likely? Well, it seems that no one
@@ -999,16 +996,15 @@ close monitoring.</p>
 term. But the costs of living with hazardous waste landfills--measured
 by the inevitable clean-up bill and the damage to human health for
 generations to come--is considerable and ultimately unacceptable.</p>
-            </div2>
-            <div2 id="sc06-4rankin.004" n="Blues for Mr. President" type="Article">
+            <div3 id="sc06-4.023" type="About">
+                  <p>Vicki Breman is an attorney with the Georgia office of
+the Legal Environmental Assistance Foundation.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-4.004" n="Blues for Mr. President" type="Article">
                <head>Blues for Mr. President</head>
-               <docAuthor>By TOM RANKIN</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 12-13</docDate>
-               <argument>
-                  <p>Tom Rankin is a folklorist and photographer now living in
-Jackson, Mississippi. An exhibit of his photographs opens Oct. 12 at
-Vanderbilt University.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate>
                <p>
                   <hi rend="bold">MR. PRESIDENT</hi>
                </p>
@@ -1183,14 +1179,16 @@ Winston-Salem to appear at festivals. "<hi rend="bold">Mr. President</hi>" his
 first record, was recorded on the label and is available from Audio
 Arts Recording Company, Route 1, Box 59, in Greenville, North Carolina
 27834, (919) 758-2240.</p>
-            </div2>
-            <div2 id="sc06-4pace.005" n="Southern Electric Cooperatives Still Segregated" type="Article">
+            <div3 id="sc06-4.024" type="About">
+                  <p>Tom Rankin is a folklorist and photographer now living in
+Jackson, Mississippi. An exhibit of his photographs opens Oct. 12 at
+Vanderbilt University.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-4.005" n="Southern Electric Cooperatives Still Segregated" type="Article">
                <head>Southern Electric Cooperatives Still Segregated</head>
-               <docAuthor>By DAVID PACE</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 15-16</docDate>
-               <argument>
-                  <p>David Pace writes for the Associated Press.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Pace, David">David Pace</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate>
                <p>Only two percent of the board members of rural electric
 cooperatives in twelve Southern states are black, even though the
 population of the areas served by those cooperatives is about
@@ -1344,26 +1342,23 @@ more strict scrutiny of their conduct, and there would be much easier
 ways to get at their nonresponsiveness to customers.</p>
                <p>"As it is, they sit right between government and the private sector
 and get the benefit of the worst abuses of both," he said.</p>
-            </div2>
-            <div2 id="sc06-4whisnant.006" n="The Electric Valley" type="Review">
-               <head>
-                  <title>The Electric Valley.</title> Directed and produced by
+            <div3 id="sc06-4.025" type="About">
+                  <p>David Pace writes for the Associated Press.</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-4.006" n="The Electric Valley" type="Review">
+               <head>The Electric Valley</head>
+                  
+               <byline>Reviewed by <docAuthor><name reg="Whisnant, David">David E. Whisnant</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 18-22</docDate>
+               <bibl><title>The Electric Valley.</title> Directed and produced by
 Ross Spears, music by Kenton Coe, narration by Wilma Dykeman, research
 and writing by Richard Couto, cinematography by Anthony Forma. Funding
 provided by the National Endowment for the Arts, the National
 Endowment for the Humanities and the American Film
 Institute. Knoxville: James Agee Film Product, 1983. 90 mins., 16mm
-color, videotape available.</head>
-               <docAuthor>Reviewed by DAVID E. WHISNANT</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 18-22</docDate>
-               <argument>
-                  <p>David E. Whisnant is professor of American Studies at the
-University of Maryland, Baltimore County. He is the author of
-<title>All That Is Native and Fine: The Politics of Culture in an
-American Region</title> (University of North Carolina Press,
-1983).</p>
-               </argument>
-               <p>TVA was "part of my life," Nashville <title>Tennessean</title>
+color, videotape available.</bibl>
+<p>TVA was "part of my life," Nashville <title>Tennessean</title>
 publisher John Siegenthaler says as <title>The Electric Valley</title>
 opens; it was like "oatmeal in the mornings . . . and it was good."
 What the film presents, however, is not so much TVA's goodness, but
@@ -1573,21 +1568,24 @@ The need is urgent as the
 chilly winds of Reaganisrn continue to corrupt the very terms of
 public discourse and--to borrow Siegenthaler's metaphor--cool the
 oatmeal.</p>
-            </div2>
-            <div2 id="sc06-4ayers.007" n="This Land, This South" type="Review">
-               <head>
-                  <title>This Land, This South: An Environmental History</title>
+            <div3 id="sc06-4.026" type="About">
+                  <p>David E. Whisnant is professor of American Studies at the
+University of Maryland, Baltimore County. He is the author of
+<title>All That Is Native and Fine: The Politics of Culture in an
+American Region</title> (University of North Carolina Press,
+1983).</p>
+               </div3>
+               </div2>
+            <div2 id="sc06-4.007" n="This Land, This South" type="Review">
+               <head>This Land, This South</head>
+               <byline>Reviewed by <docAuthor><name reg="Ayers, Edward
+	       L.">Edward L. Ayers</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 22-23</docDate>
+               
+<bibl><title>This Land, This South: An Environmental History</title>
 by Albert E. Cowdrey. University of Kentucky Press, 1983. 236
-pp. $23.00</head>
-               <docAuthor>Reviewed by EDWARD L. AYERS</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 22-23</docDate>
-               <argument>
-                  <p>Edward L. Ayers is associate professor of history at the
-University of Virginia. He is author of <title>Vengeance and Justice:
-Crime and Punishment in the 19th-Century American South</title>
-(Oxford University Press, 1984).</p>
-               </argument>
-               <p>The land has always set the stage. Our literature, history, memory,
+pp. $23.00</bibl>              
+ <p>The land has always set the stage. Our literature, history, memory,
 and experience have always been permeated by the delta, the mountains,
 the pinebarrens, the coast. Some students of the South, in fact, have
 seen the land and the weather as the basic facts of Southern history,
@@ -1649,19 +1647,19 @@ suburbanization, landscaping. But to those who read this fine book the
 South can never look quite the same again. The signs of centuries of
 struggle with and against the land will be easier to see and more
 understandable--if no less poignant and tragic.</p>
-            </div2>
-            <div2 id="sc06-4egerton.008" n="397" type="Review">
-               <head>
-                  <title>Southern Progressivism: The Reconciliation of Progress
+            <div3 id="sc06-4.027" type="About">
+                  <p>Edward L. Ayers is associate professor of history at the
+University of Virginia. He is author of <title>Vengeance and Justice:
+Crime and Punishment in the 19th-Century American South</title>
+(Oxford University Press, 1984).</p>
+               </div3></div2>
+            <div2 id="sc06-4.008" n="Southern Progressivism" type="Review">
+               <head>Southern Progressivism</head>
+               <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+               <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate>
+               <bibl><title>Southern Progressivism: The Reconciliation of Progress
 and Tradition</title> by Dewey W. Grantham. University of Tennessee
-Press, 1983. 502 pp.$34.95 cloth, $16.95 paper. paper.</head>
-               <docAuthor>Reviewed by JOHN EGERTON</docAuthor>
-               <docDate>Vol. 6, No. 4, 1984, pp. 23-4</docDate>
-               <argument>
-                  <p>John Egerton's most recent book is <title>Generations: An
-American Family</title> (University of Kentucky Press,
-1983).</p>
-               </argument>
+Press, 1983. 502 pp.$34.95 cloth, $16.95 paper. paper.</bibl>
                <p>The Progressive movement that spawned a succession of far-reaching
 social reforms in the first quarter of this century is most directly
 identified with two maverick northern Republicans--Theodore Roosevelt,
@@ -1764,7 +1762,12 @@ function both as agents of modernization and as guardians of southern
 tradition." They wanted a new order, not to replace the old but to fit
 snugly and comfortably around it. It took them another half-century to
 learn that such a dream was not only wrong but impossible.</p>
-            </div2>
+            <div3 id="sc06-4.028" type="About">
+                  <p>John Egerton's most recent book is <title>Generations: An
+American Family</title> (University of Kentucky Press,
+1983).</p>
+               </div3>
+	       </div2>
          </div1>
       </body>
    </text>

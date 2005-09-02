@@ -64,12 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc10-5.001" n="Southern Changes 10:5" type="Issue">
             <head>Southern Changes.  Volume 10, Number 5, 1988</head>
             <p>
-               <title>Southern Changes</title>.  Volume 10, Number 5, 1988</p>
-            <div2 id="sc10-5williams.002" n="Living the Day Labor Life" type="Article">
+               <title>Southern Changes</title>.  Volume 10, Number 5,
+	       <date value="1988-10">1988</date></p>
+            <div2 id="sc10-5.002" n="Living the Day Labor Life" type="Article">
                <head>Living the Day Labor Life</head>
-               <docAuthor>By RANDALL WILLIAMS</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 7, 20</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 7, 20</docDate>
+               
                   <p>Earlier this year, the Southern Regional Council
 published a lengthy investigative and analytical report of the growing
 temporary manual labor industry. Workers in these "labor pools" are
@@ -82,7 +83,7 @@ interviewed in Austin, Texas, by Randall Williams. Wagner's edited
 comments follow. To obtain the complete forty-eight-page report, with
 illustrations and a statistical appendix, send $10 to the SRC, 60
 Walton Street, Atlanta, GA 30303.</p>
-               </argument>
+               
                <p>Monday, I had the flu. It took me till Tuesday to feel like going
 outside and getting a job. Wednesday, I get up and go out there about
 8 o'clock. I worked about three hours yesterday. Trimmed trees. A
@@ -165,11 +166,11 @@ Antone's, or a club with entertainment, if you like blues, and I am a
 blues fan... I've been trying to get there but I never can afford the
 $20 it takes.</p>
             </div2>
-            <div2 id="sc10-5whisnant.003" n="A Southerner in Nicaragua" type="Article">
+            <div2 id="sc10-5.003" n="A Southerner in Nicaragua" type="Article">
                <head>A Southerner in Nicaragua</head>
-               <docAuthor>By DAVID E. WHISNANT</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 1-5</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 1-5</docDate>
+               
                   <p>David E. Whisnant, longtime commentator on Southern
 Appalachian culture who is perhaps best known as the author of All
 That Is Native and Fine (The Politics of Culture in an American Region
@@ -180,7 +181,7 @@ interviewed in Chapel Hill in June by Southern Changes editor Allen
 Tullos. The topic was Whisnant's trip and the historical study of the
 politics of culture in Nicaragua that is his current project. His
 edited comments follow.</p>
-               </argument>
+               
                <p>THINK THE FIRST thing to say is that I came to Nicaragua from a
 different direction and with a different set of expectations than
 those which were characteristic of many of the internacionalistas (and
@@ -482,17 +483,12 @@ and empathize with the struggle of Nicaraguan people to survive,
 decolonize, recover and reinterpret their own cultural past, and shape
 a cultural future for their children.</p>
             </div2>
-            <div2 id="sc10-5sullivan.004" n="Henry Wallace's Campaign" type="Article">
+            <div2 id="sc10-5.004" n="Henry Wallace's Campaign" type="Article">
                <head>Henry Wallace's Campaign Foreshadowed the Movement as Well as
 the Rainbow</head>
-               <docAuthor>BY PATRICIA SULLIVAN</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 11, 16-17</docDate>
-               <argument>
-                  <p>Patricia Sullivan is the assistant director of the Center
-for the Study of Civil Rights at the Carter G. Woodson Institute for
-Afro-American and African Studies, Charlottesville,
-Virginia.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 11, 16-17</docDate>
+               
                <p>Late in the summer of 1948, presidential candidate Henry Wallace
 embarked on a week-long tour through the Deep South. For a brief time,
 he was able to break through much of the Cold war hysteria that
@@ -685,13 +681,19 @@ as the McCarthy decade got underway, he wrote Wallace, "we owe it
 to ourselves to hold that torch firmly and high regardless of the
 consequences because that is the way forward. There is more than one
 way to measure political success."</p>
-            </div2>
-            <div2 id="sc10-5kuhn.005" n="From Protest to Process" type="Article">
+            <div3 id="sc10-5.024" type="About">
+                  <p>Patricia Sullivan is the assistant director of the Center
+for the Study of Civil Rights at the Carter G. Woodson Institute for
+Afro-American and African Studies, Charlottesville,
+Virginia.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-5.005" n="From Protest to Process" type="Article">
                <head>From Protest to Process: Ann Braden's Inside View of the Rainbow
 Campaign</head>
-               <docAuthor>INTERVIEW BY CLIFF KUHN</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate>
-               <div3 id="sc10-5kuhn.006" n="Winning and Losing" type="Section">
+               <byline>Interview By <docAuthor><name reg="Kuhn, Cliff">Cliff Kuhn</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate>
+               <div3 id="sc10-5.006" n="Winning and Losing" type="Section">
                   <head>I. Winning and Losing at the 1988 Democratic Convention</head>
                   <p>As a supporter of the Rainbow Coalition and the Jackson campaign I
 felt pretty good about the convention. Now, some people didn't so
@@ -786,7 +788,7 @@ Committee who are Jesse's nominees. How much power that represents, I
 don't know, but they recognize that this is at least a wing of the
 party that is a significant movement in this country.</p>
                </div3>
-               <div3 id="sc10-5kuhn.007" n="A Platform Worth a Fight" type="Section">
+               <div3 id="sc10-5.007" n="A Platform Worth a Fight" type="Section">
                   <head>II. A Platform Worth a Fight</head>
                   <p>To some people the platform doesn't matter. A platform is usually
 ignored by candidates and forgotten once they get in office. But a
@@ -877,7 +879,7 @@ further a peace and justice agenda.</p>
 this is not a short sprint. It's a long-distance run. I think we
 passed a major milestone this year.</p>
                </div3>
-               <div3 id="sc10-5kuhn.008" n="Beyond Protest" type="Section">
+               <div3 id="sc10-5.008" n="Beyond Protest" type="Section">
                   <head>III. Beyond Protest</head>
                   <p>My first political action was forty years ago in 1948 in the
 Progressive Party, which was an alternative program not too different
@@ -970,7 +972,7 @@ not have access to that governmental power. It is a debatable
 question. This is the course that Jesse Jackson has set and I think it
 is working in the interests of the people right now.</p>
                </div3>
-               <div3 id="sc10-5kuhn.009" n="Of Men and Movements" type="Section">
+               <div3 id="sc10-5.009" n="Of Men and Movements" type="Section">
                   <head>IV. Of Men and Movements</head>
                   <p>Martin Luther King wasn't the movement although people are not
 learning that now, unfortunately, the way King is being presented. On
@@ -1012,7 +1014,7 @@ bad things about Martin.</p>
                   <p>I think that Jesse has developed into a great leader under the
 impact of this movement. Obviously he had the potential to do that.</p>
                </div3>
-               <div3 id="sc10-5kuhn.010" n="In the Embrace of the Party" type="Section">
+               <div3 id="sc10-5.010" n="In the Embrace of the Party" type="Section">
                   <head>V. In the Embrace of the Party</head>
                   <p>I think Jesse has enough sense not to become co-opted, though that
 is the strategy of the traditional Democratic Party at this
@@ -1099,7 +1101,7 @@ are going to scream and holler. The bill includes money for the states
 to set the machinery for this, the necessary computers to make it
 possible. There's plenty to do.</p>
                </div3>
-               <div3 id="sc10-5kuhn.011" n="Politics, Power and Possibility" type="Section">
+               <div3 id="sc10-5.011" n="Politics, Power and Possibility" type="Section">
                   <head>VI. Politics, Power and Possibility</head>
                   <p>I think a lot of people who have been in protest movements almost
 shy away from actually taking over. Do we really want power? We have
@@ -1135,14 +1137,11 @@ for a change.</p>
                   <p>I think we are going to live to see that.</p>
                </div3>
             </div2>
-            <div2 id="sc10-5guthey.012" n="Pursuing the Shadow Government" type="Article">
+            <div2 id="sc10-5.012" n="Pursuing the Shadow Government" type="Article">
                <head>Pursuing the Shadow Government</head>
-               <docAuthor>BY ERIC GUTHEY</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate>
-               <argument>
-                  <p>Eric Guthey is a student in the Graduate Institute of
-Liberal Arts at Emory University.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Guthey, Eric">Eric Guthey</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate>
+               
                <p>Last May, <title>Southern Changes</title> reported on the work of
 the Christic Institute, a Washington-based public interest law firm
 that has a strong history of legal activism throughout the South.</p>
@@ -1299,14 +1298,15 @@ be depended on to uphold the Constitution and when candidates for
 president are willing to lie repeatedly, any efforts to shed light on
 the shadow government--including the indirect efforts of the Christic
 Institute--deserve recognition and support.</p>
-            </div2>
-            <div2 id="sc10-5gladney.013" n="A Letter from Lillian Smith" type="Article">
+            <div3 id="sc10-5.032" type="About">
+                  <p>Eric Guthey is a student in the Graduate Institute of
+Liberal Arts at Emory University.</p>
+               </div3></div2>
+            <div2 id="sc10-5.013" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
-               <docAuthor>Edited by ROSE GLADNEY</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 22-23</docDate>
-               <argument>
-                  <p>Rose Gladney is an assistant professor of American
-Studies at the University of Alabama, Tuscaloosa.</p>
+               <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 22-23</docDate>
+               
                   <p>This is the final letter in a series published over the last year
 by <title>Southern Changes</title> exploring the correspondence of
 Lillian Smith. The selection for this issue was written in the fall of
@@ -1334,7 +1334,7 @@ fueled Smith's profound critiques of Southern culture.</p>
 letters was taken from a carbon copy of the original in the Lillian
 Smith Collection at the Hargrett Rare Book and Manuscript Library,
 University of Georgia, Athens.</p>
-               </argument>
+               
                <p>Clayton, Ga.</p>
                <p>Dec. 2, 1955</p>
                <p>Dear Helen:</p>
@@ -1414,11 +1414,13 @@ as shocked as if I had said two dozen four letter words.</p>
 of the fire.</p>
                <p>Affectionately,</p>
                <p>Lillian</p>
-            </div2>
-            <div2 id="sc10-5garber.014" n="U.S. Community Organizer Wounded by Contras" type="Article">
+            <div3 id="sc10-5.023" type="About">
+                  <p>Rose Gladney is an assistant professor of American
+Studies at the University of Alabama, Tuscaloosa.</p></div3></div2>
+            <div2 id="sc10-5.014" n="U.S. Community Organizer Wounded by Contras" type="Article">
                <head>U.S. Community Organizer Wounded by Contras</head>
-               <docAuthor>BY CARTER GARBER</docAuthor>
-               <docDate>Vol. 10, No.5, 1988, p. 8</docDate>
+               <byline>By <docAuthor><name reg="Garber, Carter">Carter Garber</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No.5, 1988, p. 8</docDate>
                <p>The Rev. Lucius Walker, of the Interreligious Foundation for
 Community Organization was wounded in August while leading a study
 tour to Nicaragua. Walker is the founding director of IFCO, a
@@ -1427,7 +1429,7 @@ national, ecumenical, social justice agency.</p>
 the Atlantic coast to the inland town of Rama when the boat wee hit by
 gunfire and mortars. Of the 197 people on board, two Nicaraguan
 civilians were killed and twenty-nine others were wounded including
-Walker. He wee fortunate only to have been grazed by a bullet.</p>
+Walker. He was fortunate only to have been grazed by a bullet.</p>
                <p>Walker said the attack was deliberately aimed at civilians and was
 an attempt to sink the ferry. Contras have attacked the express boat
 three times in the past, but have not previously denied responsibility
@@ -1465,14 +1467,11 @@ made available throughout a state. Such events were held recently in
 South Carolina and Kentucky. For information, contact IFCO, 402
 W. 145th St., New York, NY 10031; 212-926-6757.</p>
             </div2>
-            <div2 id="sc10-5dowe.015" n="A Holiday Shopper's Guide to Alternative Giving" type="Article">
+            <div2 id="sc10-5.015" n="A Holiday Shopper's Guide to Alternative Giving" type="Article">
                <head>A Holiday Shopper's Guide to Alternative Giving</head>
-               <docAuthor>BY KELLY DOWE</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 18-20</docDate>
-               <argument>
-                  <p>Writer and editor Kelly Dowe lives in Tuscaloosa,
-Ala.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Dowe, Kelly">Kelly Dowe</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 18-20</docDate>
+               
                <p>When my mother was a little girl in Centreville, Alabama, she
 received the gift of an apple--not a real apple, but a wooden one with
 a tiny wooden tea set inside. The cups were no bigger than the tips of
@@ -1612,15 +1611,15 @@ sheets with plain envelopes. Greeting cards with "Peace" in both
 Hebrew and Arabic on the cover and the message, "Peace is our hope"
 inside, cost $5 for ten folded cards with envelopes. Fellowship of
 Reconciliation, Box 271, Nyack, NY 10960.</p>
-            </div2>
-            <div2 id="sc10-5chestnut.016" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc10-5.035" type="About">
+                  <p>Writer and editor Kelly Dowe lives in Tuscaloosa,
+Ala.</p>
+               </div3></div2>
+            <div2 id="sc10-5.016" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 10, No. 5, 1988, pp. 24, 23</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 24, 23</docDate>
+               
                <p>In the fall and winter of 1984, fifty
 white FBI agents came bustling into five west Alabama black-majority
 counties. The feds visited more than 1,000 black voters, often late at
@@ -1715,7 +1714,11 @@ regarding people who oppose the Reagan-Bush Yankee nonsense in Central
 America.</p>
                <p>Lord help us.</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc10-5.036" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

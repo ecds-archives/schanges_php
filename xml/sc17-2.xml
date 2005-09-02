@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "../schanges-tei.dtd">
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 17, Number 2 1995</bibl>
+            <bibl>Southern Changes.  Volume 17, Number 2 Summer, 1995</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -59,12 +59,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
       <body>
          <div1 id="sc17-2.001" n="Southern Changes 17:2" type="Volume">
             <head>Southern Changes.  Volume 17, Number 2, 1995</head>
-            
-<div2 id="sc17-2.carter.001" n="Willful Retreat From Justice" type="Article">
+            <p><title>Southern Changes</title>. Volume 17, Number 2,
+	    <date value="1995-06">1995</date></p>
+<div2 id="sc17-2.002" n="Willful Retreat From Justice" type="Article">
                <head>Willful Retreat From Justice</head>
-               <docAuthor>SELWYN CARTER</docAuthor>
-               <docDate>Vol. 17, No. 2, 1995 pp. 1-3</docDate>
-<argument><p>SELWYN CARTER Director of SRC Voting Rights Programs</p></argument>
+               <byline><docAuthor><name reg="Carter, Selwyn">Selwyn
+	       Carter</name>, Director of SRC Voting Rights Programs</docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 1-3</docDate>
+
 <p>In this thirtieth anniversary year of the 1965 Voting Rights Act, the United States Supreme Court is busily erecting new barriers to the voting rights and political representation of African Americans and other minorities.</p>
 
 <p>This summer, in the name of a color-blind Constitution, the Court ruled that any use of race to prepare redistricting plans should be subject to strict scrutiny from the federal bench.</p>
@@ -107,13 +109,13 @@ in this issue of <hi rend="italic">Southern Changes</hi>) editors Chandler David
 </div2>
 
 
-<div2 id="sc17-2.amberg.001" n="The Engaged Observer" type="Article">
+<div2 id="sc17-2.003" n="The Engaged Observer" type="Article">
                <head>The Engaged Observer</head>
-               <docAuthor>Rob Amberg and Earl Dotter</docAuthor>
-               <docDate>Vol. 17, No. 2, 1995 pp. 4-13</docDate>
-<argument><p></p></argument>
+               <byline><docAuthor><name reg="Amberg, Rob">Rob
+	       Amberg</name> and <name reg="Dotter, Earl">Earl Dotter</name></docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 4-13</docDate>
 
-<p rend="italic">Editor's note: In the following pages Southern Changes features the work of two excellent and widely recognized contemporary social photographers--Rob Amberg and Earl Dotter--accompanied by brief autobiographical comments and discussion of photographic strategies. Amberg's pictures have appeared regularly in Southern Changes, providing complement and counterpoint to a number of writers' essays. Here we join his words to a selection of photos drawn from projects he has undertaken working from his base in Madison County, North Carolina. For years, Earl Dotter, one of the most well-known of American photographers, has documented the lives and livelihoods of working people. From an early emphasis on occupational health and safety, Dotter has expanded his range of subjects to include environmental hazards to public health.</p>
+<p>Editor's note: In the following pages Southern Changes features the work of two excellent and widely recognized contemporary social photographers--Rob Amberg and Earl Dotter--accompanied by brief autobiographical comments and discussion of photographic strategies. Amberg's pictures have appeared regularly in Southern Changes, providing complement and counterpoint to a number of writers' essays. Here we join his words to a selection of photos drawn from projects he has undertaken working from his base in Madison County, North Carolina. For years, Earl Dotter, one of the most well-known of American photographers, has documented the lives and livelihoods of working people. From an early emphasis on occupational health and safety, Dotter has expanded his range of subjects to include environmental hazards to public health.</p>
 
 <p rend="bold">Rob Amberg:</p>
 
@@ -288,18 +290,12 @@ a freelance photojournalist, and to make a contribution in which I can
 take pride.</p>
 </div2>
 
-<div2 id="sc17-2loewen.001" n="The Last Innocents
+<div2 id="sc17-2.005" n="The Last Innocents
 The Civil Rights Movement and the Teaching of High School History" type="Article">
 <head>The Last Innocents The Civil Rights Movement and the Teaching of
 High School History</head>
-               <docAuthor>By JAMES W. LOEWEN</docAuthor>
-               <docDate>Vol. 17, No. 2, 1995 pp. 14-17</docDate>
-<argument><p>James W. Loewen is a professor of sociology at the
-University of Vermont and an expert in voting rights issues. His
-previous books include the Smith Award-winning Mississippi: Conflict
-and Change (with co-author Charles Sal/is) and The Truth About
-Columbus, a "subversively true" poster book which also resulted from
-his research on American history textbooks.</p></argument>
+               <byline>By <docAuthor><name reg="Loewen, James W.">James W. Loewen</name></docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 14-17</docDate>
 
 <p>In 1974 Pantheon published the first revisionist textbook of state
 history in the United States, <hi rend="italic">Mississippi: Conflict
@@ -501,7 +497,7 @@ movement pressured Congress to pass the 1964 Civil Rights Act, but in
 its vignette-chapter on Lyndon Johnson,<hi
 rend="italic">Adventures</hi> gives the credit to LBJ and Robert
 Kennedy.</note>
-<div3 type="sidebar" n="untitled" id="sc17-2.loewen.002">
+<div3 type="sidebar" n="untitled" id="sc17-2.035">
 <p>The twelve American history textbooks surveyed in <title>Lies My
 Teacher Told Me</title>, by James W. Loewen:</p>
 <p><bibl>Social Science Staff of the Educational Research Council of
@@ -537,28 +533,31 @@ Nation</title> (Orlando, Fla.: Harcourt Brace Jovanovich,
 States--A History of the Republic</title> (Englewood Cliffs,
 N.J.: Prentice-Hall, 1981).</bibl></p>
 </div3>
+<div3 id="sc17-2.025" type="About"><p>James W. Loewen is a professor of sociology at the
+University of Vermont and an expert in voting rights issues. His
+previous books include the Smith Award-winning Mississippi: <title>Conflict
+and Change</title> (with co-author Charles Sallis) and <title>The Truth About
+Columbus</title>, a "subversively true" poster book which also resulted from
+his research on American history textbooks.</p></div3>
+
 </div2>
 
-<div2 id="sc17-2.karlan.001" n="BOOKS: Not So Quiet Anymore." type="Review">
-
-
+<div2 id="sc17-2.006" n="BOOKS: Not So Quiet Anymore." type="Review">
                <head>BOOKS<lb/>Not So Quiet Anymore.</head>
-               <docAuthor>Reviewed by PAMELA S. KARLAN </docAuthor>
-               <docDate>Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
-<argument><p>Pamela S. Karlan is the Roy L. and Rosamond Woodruff
-Morgan Professor of Law at the University of Virginia, and a 1994-1995
-Visiting professor at Harvard Law School.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Karlan,
+	       Pamela S.">Pamela S. Karlan </name></docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
 
-<p><hi rend="italic">Quiet Revolution in the South: The Impact of the
-Voting Rights Act, 1965-1990</hi>, <hi rend="bold">edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</hi></p>
+<bibl><title>Quiet Revolution in the South: The Impact of the
+Voting Rights Act, 1965-1990</title>, edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</bibl>
 
 <p>There is a deep irony in the title of Chandler Davidson and Bernard Grofman's massive study of the Voting Rights Act's first twenty-five years. The revolution isn't so quiet anymore. Lani Guinier's ill-fated nomination, the creation of new majority-nonwhite legislative districts following the 1990 census, the Republican takeover of Congress, and now the Supreme Court's action overturning the 11th congressional district in Georgia have generated huge controversy over the Act's goals, assumptions, and techniques. Critics of the Voting Rights Act have seized the rhetorical and anecdotal high ground, throwing around phrases such as "balkanization" and "political apartheid," and examples such as former Virginia Governor Doug Wilder, U.S. Representative Gary Franks of Connecticut, and Dallas Mayor Ron Kirk. The critics' underlying assumptions are that the Act is no longer necessary, because black voters now participate fully in the political life of the Nation, and that the Act is pernicious, because it magnifies racial tensions and denies the possibilities of cross-racial coalitions and representation.</p>
 
-<p><hi rend="italic">Quiet Revolution</hi> offers a powerful factual
+<p><title>Quiet Revolution</title> offers a powerful factual
 rejoinder to these assumptions. But the book's greatest
 strength -- its dispassionate attention to detail -- leaves open the question of how to respond to the emotional chord that resonates in the conservative critique: the fear that America will be swept up in the rising tide of ethnic and racial separatism that is threatening multi-ethnic nation-states around the world, from the relatively decorous secessionism of the Quebecois in Canada to the bloody disintegration of the former Soviet Union and Yugoslavia.</p>
 
-<p>The first part of <hi rend="italic">Quiet Revolution</hi> consists of state-by-state studies of voting rights in the eight Southern states which are required by Section 5 of the Act to preclear voting and election changes by judicial or Justice Department review. The format of the chapters, which include parallel charts detailing black enfranchisement, changes in black representation on local governing bodies, and the reasons for alterations in election structure, enables readers to make cross-state comparisons. Each chapter also contains a history of black political participation within the state, from Reconstruction to post-<hi rend="italic">Thornburg v. Gingles</hi> litigation in the late 1980s.</p>
+<p>The first part of <title>Quiet Revolution</title> consists of state-by-state studies of voting rights in the eight Southern states which are required by Section 5 of the Act to preclear voting and election changes by judicial or Justice Department review. The format of the chapters, which include parallel charts detailing black enfranchisement, changes in black representation on local governing bodies, and the reasons for alterations in election structure, enables readers to make cross-state comparisons. Each chapter also contains a history of black political participation within the state, from Reconstruction to post-<hi rend="italic">Thornburg v. Gingles</hi> litigation in the late 1980s.</p>
 
 <p>Five conclusions emerge. First, the historical over-views show how many "traditional" American electoral practices, such as at-large elections and majority-vote requirements, were deliberately designed to dilute black voting strength. The persistence of these practices well into the 1980s show how resistant the South has been to full enfranchisement of blacks. The chapters' accounts of post-Act behavior, including numerous Section 5 objections to redistricting after the 1970 and 1980 censuses, show that these problems remain.</p>
 
@@ -571,13 +570,13 @@ strength -- its dispassionate attention to detail -- leaves open the question of
 <p>Fifth, the South did not change voluntarily. Litigation<pb n="19"/>
 and the threat of litigation were the major factors in causing the abandonment of at-large elections. Indeed, the cross-state comparisons show that states such as Alabama and Mississippi, in which both local black political organizations and national civil rights groups were active litigators, made far more progress than states such as Virginia in which little litigation occurred. Moreover, the bulk of the litigation was brought by the civil rights bar, rather than the Department of Justice. Thus, while Section 5 is a critical tool in the voting rights enforcement arsenal once single-member districts have been created (because the decennial redistricting required by one-person, one-vote must pass through preclearance), a large number of the single-member district plans now used in the South would never have been created but for the litigation efforts of private groups and individuals.</p>
 
-<p>The second part of <hi rend="italic">Quiet Revolution</hi> consists of three substantive chapters and a summary of the research findings. One chapter analyzes the Act's impact on voter registration; the other two deal with the effect of municipal election structure on black representation and the impact of the Voting Rights Act on black legislative and congressional representation.</p>
+<p>The second part of <title>Quiet Revolution</title> consists of three substantive chapters and a summary of the research findings. One chapter analyzes the Act's impact on voter registration; the other two deal with the effect of municipal election structure on black representation and the impact of the Voting Rights Act on black legislative and congressional representation.</p>
 
 <p>Davidson and Grofman's research design enables them to convincingly refute two of the most prevalent conservative arguments against the Voting Rights Act. First, conservatives often point to increased black representation in majority-white jurisdictions today to suggest that the change to single-member districts was unnecessary; blacks would have attained electoral success anyway. The longitudinal design of the state-by-state data, however, suggests a fallacy in this reasoning: the remaining at-large jurisdictions are simply not typical of the larger pool of jurisdictions that elected at-large in 1970. Thus, the "worst" (i.e., most racially polarized and discriminatory) jurisdictions are not in the contemporary at-large sample. Moreover, the data show that in a substantial number of states, black representation in at-large jurisdictions did not change appreciably, and in state legislatures the percentage of blacks elected from majority-white districts actually declined during the 1980s.</p>
 
 <p>Second, conservatives often deny the persistence of racial bloc
-voting. <hi rend="italic">Quiet Revolution</hi> does not directly
-examine this question, although several of the state-by-state chapters do provide citations to the hundreds of voting rights cases that have found significant polarization. But in the chapter on legislative and congressional representation, Grofman and his co-author, Lisa Handley, offer a different sort of proof. If the "color-blind" hypothesis were correct, then, as a statistical matter, one would expect that 180 of the 1144 majority-white state house districts in the South would have black representatives; in fact, only 14 did. Thus, the color-blind hypothesis was off by an order of magnitude. Similarly, the color-blind hypothesis would predict that 61 of the 181 majority-black districts would elect white representatives; in fact, only 40 did. Thus, however desirable a color-blind political process might be, <hi rend="italic">Quiet Revolution</hi> convincingly shows we have not arrived yet at that promised land.</p>
+voting. <title>Quiet Revolution</title> does not directly
+examine this question, although several of the state-by-state chapters do provide citations to the hundreds of voting rights cases that have found significant polarization. But in the chapter on legislative and congressional representation, Grofman and his co-author, Lisa Handley, offer a different sort of proof. If the "color-blind" hypothesis were correct, then, as a statistical matter, one would expect that 180 of the 1144 majority-white state house districts in the South would have black representatives; in fact, only 14 did. Thus, the color-blind hypothesis was off by an order of magnitude. Similarly, the color-blind hypothesis would predict that 61 of the 181 majority-black districts would elect white representatives; in fact, only 40 did. Thus, however desirable a color-blind political process might be, <title>Quiet Revolution</title> convincingly shows we have not arrived yet at that promised land.</p>
 
 <p><hi rend="italic">Quiet Revolution consciously avoids addressing
 the third- and fourth-generation issues of voting rights: Can black
@@ -591,33 +590,34 @@ rend="italic">Quiet Revolution</hi> is nonetheless an essential tool
 in the ongoing debate because it establishes one central point: if<pb n="21"/>
 we want integrated governing bodies in contemporary America then we simply must draw majority-nonwhite districts to achieve them.</hi></p>
 
-<p><hi rend="italic">Quiet Revolution</hi> will not silence all the
+<p><title>Quiet Revolution</title> will not silence all the
 critics; unfortunately, many of them are not merely ignorant of the
 facts but are actively indifferent to them. But Davidson and Grofman's
 book will empower defenders of the Act to strip the conservative
 critique of its pretense to empirical truth. And it squarely confronts
 courts and commentators with the exorbitant price of abandoning the
 Act's commitment to equal electoral opportunity.</p>
+<div3 id="sc17-2.026" type="About"><p>Pamela S. Karlan is the Roy L. and Rosamond Woodruff
+Morgan Professor of Law at the University of Virginia, and a 1994-1995
+Visiting professor at Harvard Law School.</p></div3>
 </div2>
 
-<div2 id="sc17-2.kytle.001" n="The Continuum of Struggle" type="Review">
+<div2 id="sc17-2.007" n="The Continuum of Struggle" type="Review">
                <head>The Continuum of Struggle</head>
-               <docAuthor>Reviewed by CALVIN KYTLE</docAuthor>
-               <docDate>Vol. 17, No. 2, 1995 pp. 21-22</docDate>
+               <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin">Calvin Kytle</name></docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 21-22</docDate>
 
-<argument><p>Calvin Kytle is a retired publisher living in Chapel Hill, N. C. He was the author of "Race in the News" (1950), the Southern Regional Council's first study of discrimination in the press, and served briefly as deputy director of the U.S. Community Relations Service in the I960s.</p></argument>
-
-<p><hi rend="italic">Georgia in Black and White: Explorations in the
-Race Relations of a Southern State, 1865-1950</hi>,<hi rend="bold"> edited by John C. Inscoe (University of Georgia Press, 1994, 312 pages).</hi></p>
+<bibl><title>Georgia in Black and White: Explorations in the
+Race Relations of a Southern State, 1865-1950</title>, edited by John C. Inscoe (University of Georgia Press, 1994, 312 pages).</bibl>
 
 <p>If, like me, you went to school during the South's long Age of Denial, and if, like me, your introduction to Southern history came years before it was corrected by C. Vann Woodward, this book will come as a revelation.</p>
 
-<p><hi rend="italic">Georgia in Black and White</hi> is a collection of eleven essays written by graduate students in history at the University of Georgia. Together, the essays constitute a survey of the state's racial history from the end of the Civil War until the first sparks of the civil rights movement 95 years later.</p>
+<p><title>Georgia in Black and White</title> is a collection of eleven essays written by graduate students in history at the University of Georgia. Together, the essays constitute a survey of the state's racial history from the end of the Civil War until the first sparks of the civil rights movement 95 years later.</p>
 
 <p>Foremost, this book is an example of a trend in Southern historical research that, as editor John Inscoe explains in his introduction, "challenges the earlier assumption of W.J. Cash, Lillian Smith, and others as to the rigidity and perpetuity of the racial order of the pre-Civil Rights South."</p>
 
 <p>What the authors give us, among other things, is confirmation of
-W.E.B. Du Bois' observation that "the color line" during this period was far less rigid and absolute than most of us have been led to believe. The Georgia after Emancipation it describes is no less violent, no less spiritually rent, than in previous accounts. Nor is there any effort to make the case that it was anything other than a society in which, to quote the dying words of a black bishop, "no matter what social or political changes might appear, the white man would be on top." Still, by focusing on specific individuals, many of whom would qualify as heroes, as well as showing them in action and interaction during critical episodes in illustrative settings, the authors move us into a new dimension and give us sometimes startling new insights. They identify a culture in which relations between the races were intricate and ambiguous, in which attitudes shifted imperceptibly with the exigencies of time, place, and human nature. The cumulative effect of their work is to explain, better than any other history to come to my attention, the twists and turns in the continuum of struggle that preceded the civil rights victories of the 1960. It deserves a place on the shelf right next to John Egerton's <hi rend="italic">Speak Now Against the Day</hi>.</p>
+W.E.B. Du Bois' observation that "the color line" during this period was far less rigid and absolute than most of us have been led to believe. The Georgia after Emancipation it describes is no less violent, no less spiritually rent, than in previous accounts. Nor is there any effort to make the case that it was anything other than a society in which, to quote the dying words of a black bishop, "no matter what social or political changes might appear, the white man would be on top." Still, by focusing on specific individuals, many of whom would qualify as heroes, as well as showing them in action and interaction during critical episodes in illustrative settings, the authors move us into a new dimension and give us sometimes startling new insights. They identify a culture in which relations between the races were intricate and ambiguous, in which attitudes shifted imperceptibly with the exigencies of time, place, and human nature. The cumulative effect of their work is to explain, better than any other history to come to my attention, the twists and turns in the continuum of struggle that preceded the civil rights victories of the 1960. It deserves a place on the shelf right next to John Egerton's <title>Speak Now Against the Day</title>.</p>
 
 <p>There is material here that one writer with a gift for narrative
 could shape into a popular piece of literary non-fiction. But as is
@@ -636,11 +636,11 @@ life two days before the election. When a group of merchants had
 earlier offered him $2,500 to resign his seat, he refused; Colby
 wouldn't do it, he said, "for all the wealth in Greene County." I long
 ago rejected the version of Reconstruction sopped up from repeated
-viewings of <hi rend="italic">Birth of a Nation</hi> in my childhood (it was one of my father's favorite movies), but even so, I had never quite seen the Reconstruction period so clearly as the tragedy of human betrayal it was until I read the story of this idealistic and steadfast black man.</p>
+viewings of <title>Birth of a Nation</title> in my childhood (it was one of my father's favorite movies), but even so, I had never quite seen the Reconstruction period so clearly as the tragedy of human betrayal it was until I read the story of this idealistic and steadfast black man.</p>
 
 <p>Similarly, I now see Governor Rufus Bullock as a political figure
 of considerably more substance than Margaret Mitchell represented him
-to be in <hi rend="italic">Gone with the Wind</hi>. To draw from the evidence in <hi rend="italic">Georgia in Black and
+to be in <title>Gone with the Wind</title>. To draw from the evidence in <hi rend="italic">Georgia in Black and
 White</hi>, Bullock was a man of
 principle who on more than one
 occasion stood by his black constituents at great personal cost.</p>
@@ -674,20 +674,19 @@ called it "The War of Northern Aggression"). Aside from the dirty pictures in my
 <p>Whatever civilized feelings I had about race during my teens can be credited not to my teachers but to an experience one summer at an Epworth League leader-ship training institute, which in the detached setting of Lake Junaluska, dared raised the possibility that segregation might be un-Christian. What I've learned of the hard facts about the biracial society I was born into began a few years later when, sometime in the 1940s, an older friend thrust upon me a copy of Vann Woodward's mind-opening biography of Tom Watson.</p>
 
 <p>How I wish that in those formative years somebody could have given
-me a copy of <hi rend="italic">Georgia in Black and White</hi>. </p>
+me a copy of <title>Georgia in Black and White</title>. </p>
+<div3 id="sc17-2.027" type="About"><p>Calvin Kytle is a retired publisher living in Chapel Hill, N. C. He was the author of "Race in the News" (1950), the Southern Regional Council's first study of discrimination in the press, and served briefly as deputy director of the U.S. Community Relations Service in the I960s.</p></div3>
 </div2>
 
-<div2 id="sc17-2.delany.001" n="Muted Voices" type="Review">
+<div2 id="sc17-2.008" n="Muted Voices" type="Review">
                <head>Muted Voices</head>
-               <docAuthor>Reviewed by PAUL DELANEY</docAuthor>
-               <docDate>Vol. 17, No. 2, 1995</docDate>
-<argument><p>Paul Delaney is chair of the Department of Journalism at
-the University of Alabama in Tuscaloosa</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Delaney, Paul">Paul Delaney</name></docAuthor></byline>
+               <docDate value="1995-06">Vol. 17, No. 2, 1995</docDate>
 
-<p><hi rend="italic">The Black Press in Mississippi, 1865-1985</hi>,<hi rend="bold"> by Julius E. Thompson (University Press of Florida, 1993, 242 pages)</hi>.</p>
+<bibl><title>The Black Press in Mississippi, 1865-1985</title>, by Julius E. Thompson (University Press of Florida, 1993, 242 pages).</bibl>
 
 <p>Thompson's is a fascinating and important, if not well-written,
-account of the black press in Mississippi, from its feeble beginnings in the aftermath of defeat and ruin at the end of the Civil War up through the mid-1980s. A press is supposed to be the voice of a people, but for decades what Thompson finds is not pretty: black editors "caught in a no-man's land, where they dared not criticize local whites," following a policy--as <hi rend="italic">Pittsburgh Courier</hi> columnist George S. Schyler put it--of "generally avoiding nine-tenths of the real news and practically all of the possible topics crying for comment."</p>
+account of the black press in Mississippi, from its feeble beginnings in the aftermath of defeat and ruin at the end of the Civil War up through the mid-1980s. A press is supposed to be the voice of a people, but for decades what Thompson finds is not pretty: black editors "caught in a no-man's land, where they dared not criticize local whites," following a policy--as <title>Pittsburgh Courier</title> columnist George S. Schyler put it--of "generally avoiding nine-tenths of the real news and practically all of the possible topics crying for comment."</p>
 
 <p>Thompson presents an accurate, understated account of the tragic ups and downs of Mississippi black citizens as witnessed through their press: the Post-Reconstruction deal-with-the-devil between North and South, the systematic denial and withholding of rights, the Great Exodus which left the state robbed of the potential both of those who were run out as well as those who remained, and the Civil Rights era. Whatever evil could be concocted against blacks, it was surely practiced at one time or another in Mississippi. The scars and the acts remain to this day in a state still reeking of abject poverty, inept and corrupt political leadership, and extremely deep racial divisions that impede justice as well as progress.</p>
 
@@ -696,10 +695,10 @@ account of the black press in Mississippi, from its feeble beginnings in the aft
 <p>The politics of the black press reflected the conservatism of the
 white press and political establishment. Some black editors took the
 same positions against black aspirations and interests as their white
-counterparts. The <hi rend="italic">Jackson Advocate</hi> was against the Montgomery bus boycott, against troops enforcing the desegregation of Little Rock schools, and opposed to the civil rights movement in general. The paper's editor, Percy Greene, was anxious about acts that created "a deepening of the animosities towards the Negro and a widening of the gulf between responsible Negroes and Whites."</p>
+counterparts. The <title>Jackson Advocate</title> was against the Montgomery bus boycott, against troops enforcing the desegregation of Little Rock schools, and opposed to the civil rights movement in general. The paper's editor, Percy Greene, was anxious about acts that created "a deepening of the animosities towards the Negro and a widening of the gulf between responsible Negroes and Whites."</p>
 
 <p>Extreme fear by blacks resulted in such strange logic as that of
-the <hi rend="italic">Mississippi Enterprise</hi> of Jackson, which urged blacks to pay their taxes as a sign of participating in government and "an insurance against slavery."</p>
+the <title>Mississippi Enterprise</title> of Jackson, which urged blacks to pay their taxes as a sign of participating in government and "an insurance against slavery."</p>
 
 <p>Sectioning off chapters by decades, Thompson notes growth and decline in the number of black papers. He also deals with radio (no black owners until the 1980s), magazines that appeared abruptly and disappeared almost as fast, pamphlets and bulletins by religious organizations, colleges, and fraternal groups. Thompson reports on advertising, circulation, number of pages; his book also contains healthy appendixes and identifies every publication he could find, as well as television and radio stations. He deals somewhat with television--white-owned, anti-black, and anti-civil rights from the beginning well into the 1970s.</p>
 
@@ -709,33 +708,35 @@ circulation throughout Mississippi, the Jackson <hi
 rend="italic">Clarion-Ledger</hi>. Black papers harshly and
 justifiably criticized by Thompson include the <hi
 rend="italic">Jackson Advocate, The Enterprise of Jackson</hi>, the
-Greenville <hi rend="italic">Delta Leader</hi>, the <hi
-rend="italic">Meridian Digest</hi>, and the <hi rend="italic">Natchez News-Leader</hi>.</p>
+Greenville <title>Delta Leader</title>, the <hi
+rend="italic">Meridian Digest</hi>, and the <title>Natchez News-Leader</title>.</p>
 
-<p>The <hi rend="italic">Advocate</hi> maintained an almost anti-black
+<p>The <title>Advocate</title> maintained an almost anti-black
 tone, was opposed to the movement, the NACCP, and Martin Luther King,
 Jr.. It took the money it needed to survive from outspoken racists,
 including the State Sovereignty Commission, established to "maintain
 the status quo and destroy the civil rights movement." During the
-greatest period of need, the <hi rend="italic">Advocate</hi> and other
+greatest period of need, the <title>Advocate</title> and other
 black papers turned their backs on their readers. This sorry
 experience fostered an abiding distrust of black papers in the
 communities they were suppose to serve. Thompson names as moderate
 white publishers Helen Brannon Smith of the <hi
 rend="italic">Lexington Advertiser</hi>; John Oliver Emmerich of the
-<hi rend="italic">McComb Enterprise</hi>; Hodding Carter, Jr., and
+<title>McComb Enterprise</title>; Hodding Carter, Jr., and
 Hodding III of the Greenville <hi rend="italic">Delta
 Democrat-Times</hi>; Bill Minor of the <hi rend="italic">Capital
 Reporter</hi>, Ira Harkey of the Pascagoula Chronicle, and P. D. East
-of the <hi rend="italic">Petal Paper</hi>. Ultimately, the movement
+of the <title>Petal Paper</title>. Ultimately, the movement
 had to produce its own publications, which included <hi
 rend="italic">Freedom's Journal</hi> and the <hi
-rend="italic">Mississippi Free Press</hi>, as well as the <hi rend="italic">Kudzu</hi>, a white underground paper that supported civil rights.</p>
+rend="italic">Mississippi Free Press</hi>, as well as the <title>Kudzu</title>, a white underground paper that supported civil rights.</p>
 
 <p>And change did arrive. Percy Greene died in 1977 and his paper
-eventually did an about-face. Gannett bought the <hi rend="italic">Clarion-Ledger</hi> and other Mississippi papers. WLBT's license was lifted from white owners and given to majority black ownership, giving Jackson its first black-owned radio station in 1984.</p>
+eventually did an about-face. Gannett bought the <title>Clarion-Ledger</title> and other Mississippi papers. WLBT's license was lifted from white owners and given to majority black ownership, giving Jackson its first black-owned radio station in 1984.</p>
 
 <p>Still, by the mid-1980s, when Thompson's story ends, there were only four black papers in all of Mississippi.</p>
+<div3 id="sc17-2.028" type="About"><p>Paul Delaney is chair of the Department of Journalism at
+the University of Alabama in Tuscaloosa</p></div3>
 </div2>
 	 </div1>
       </body>

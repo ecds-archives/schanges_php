@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 18, Number 2 1995</bibl>
+            <bibl>Southern Changes.  Volume 18, Number 2, Summer 1996</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -55,11 +56,12 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <body>
          <div1 id="sc18-2.001" n="Southern Changes 18:2" type="Issue">
             <head>Southern Changes.  Volume 18, Number 2, 1996</head>
-<div2 id="sc18-2.quesenberry.002" n="The Disposable Olympics Meets the City of Hype" type="Article">
+	    <p><title>Southern Changes</title>.  Volume 18, Number 2,
+	    <date value="1996-06">1996</date></p>
+<div2 id="sc18-2.002" n="The Disposable Olympics Meets the City of Hype" type="Article">
                <head>The Disposable Olympics Meets the City of Hype</head>
-               <docAuthor>By PRESTON QUESENBERRY</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 3-14</docDate>
-<argument><p>Preston Quesenberry is a graduate student in the Institute of Liberal Arts at Emory University.</p></argument>
+               <byline>By <docAuthor><name reg="Quesenberry, Preston">Preston Quesenberry</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 3-14</docDate>
 
 <p>Not since the height of the Civil Rights movement have the Southern states, and Atlanta in particular, received as much extended media coverage as they are due to receive in the next month. The 1996 Centennial Olympic Games will draw not only fifteen thousand members of the press covering the athletic events, but also an anticipated live to ten thousand additional national and international journalists looking to use the Olympics as a backdrop for human interest stories and feature articles on Atlanta, Georgia, and the South.</p>
 
@@ -360,10 +362,10 @@ Jackson comes in."</p>
 
 <p>"Atlanta does not honor its history," Beard continues. "It is so constantly remaking, reshaping, and redefining itself, that I think it's really hard for anything, including the Olympics, to have a lasting impact. Although the Olympics will be like a massive photo-op for Atlanta's businesses, I don't think the Games will have any lasting impact on the fabric of the city or the people who live here. Atlanta will just move on to the next big thing, whatever that will be."</p>
 
-<div3 id="sc18-2quesenberry.003" n="Gainesville's Country Club Venue" type="Sidebar">
+<div3 id="sc18-2.003" n="Gainesville's Country Club Venue" type="Sidebar">
 <head>Gainesville's Country Club Venue</head>
-<docAuthor>Preston Quesenberry</docAuthor>
-<docDate>Vol. 18, No. 2, 1996 p. 15</docDate>
+<byline><docAuthor><name reg="">Preston Quesenberry</name></docAuthor></byline>
+<docDate value="1996-06">Vol. 18, No. 2, 1996 p. 15</docDate>
 <p>Although the Centennial Olympic Games will be the most compact in
 history, with competition venues for sixteen sports located within a
 1.5-mile radius in downtown Atlanta called the Olympic Ring, almost
@@ -441,12 +443,12 @@ all wiped out during urban renewal, now we don't have any black
 businesses," Bush said. "So I don't see how black folks can benefit
 from the Olympics."--P. Q.</p>
 </div3>
+<div3 id="sc18-2.022" type="About"><p>Preston Quesenberry is a graduate student in the Institute of Liberal Arts at Emory University.</p></div3>
 </div2>
-<div2 id="sc18-2rutheiser.004" n="Assessing the Olympic Legacy" type="Article">
+<div2 id="sc18-2.004" n="Assessing the Olympic Legacy" type="Article">
                <head>Assessing the Olympic Legacy</head>
-               <docAuthor>By CHARLES RUTHEISER</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 16-19</docDate>
-<argument><p>Charles Rutheiser is associate professor of anthropology at Georgia State University. This essay is excerpted from his book, Imagineering Atlanta; $18.95 paperback, from Verso Press, 180 Varick Street, 10th Floor, New York, NY 10014; or phone 1-800-233-4830.</p></argument>
+               <byline>By <docAuthor><name reg="Rutheiser, Charles">Charles Rutheiser</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 16-19</docDate>
 
 <p>Compared to the massive displacements that accompanied the Olympics in Seoul (1988) and Barcelona (1992) , the demolitions and removals occasioned by the 1996 Centennial Games in Atlanta are relatively minor. For example, several hundred thousand people were displaced by the Korean government's efforts to make its capital a showplace for its new-found economic prosperity. Barcelona, too, utilized the occasion to relocate large numbers of its poor, although it did so as part of a comprehensive vision that included building a twenty-first-century urban infrastructure for itself. In the case of Atlanta, a good deal of damage has already been inflicted by three decades of renewal, redevelopment, and revitalization, although the fundamental unevenness of these processes has often been obscured by the metropolitan area's fervid, long-lasting boom and the manifold labors of myriad imagineers.</p>
 
@@ -506,13 +508,14 @@ of dubious appeal, have focused their
 resources on a superficial makeover,
 leaving a complex and troubling set
 of problems to be "rediscovered" in
-1997.</p></div2>
+1997.</p>
+<div3 id="sc18-2.024" type="About"><p>Charles Rutheiser is associate professor of anthropology at Georgia State University. This essay is excerpted from his book, <title>Imagineering Atlanta</title>; $18.95 paperback, from Verso Press, 180 Varick Street, 10th Floor, New York, NY 10014; or phone 1-800-233-4830.</p></div3>
+</div2>
 
-<div2 id="sc18-2acuff.006" n="Organized Labor and the Olympics" type="Article">
+<div2 id="sc18-2.006" n="Organized Labor and the Olympics" type="Article">
                <head>Organized Labor and the Olympics</head>
-               <docAuthor>By STEWART ACUFF</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 19-20</docDate>
-<argument><p>Stewart Acuff is president of the Atlanta Labor Council.</p></argument>
+               <byline>By <docAuthor><name reg="Acuff, Stewart">Stewart Acuff</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 19-20</docDate>
 
 <p>On September 18, 1992 the Olympic Flag arrived in Atlanta from Barcelona, Spain signifying the transfer of the Olympic Movement, the Olympic Spirit, and the Olympic Games.</p>
 
@@ -576,14 +579,14 @@ six-month planning process to disrupt the celebration, demonstrate our collectiv
 
 <p>He came to the first labor council meeting after his inauguration--press in tow. He thanked the delegates for labor's support, acknowledging that he wouldn't be mayor if not for organized labor. Then with a dramatic flourish, announced his appointment of me as a representative of labor to the Board of Directors of ACOG.</p>
 
-<p>We got their full attention.</p></div2>
+<p>We got their full attention.</p>
+<div3 id="sc18-2.026" type="About"><p>Stewart Acuff is president of the Atlanta Labor Council.</p></div3>
+</div2>
 
-<div2 id="sc18-2.lee.007" n="Passing the Torch, Torching the Past" type="Article">
+<div2 id="sc18-2.007" n="Passing the Torch, Torching the Past" type="Article">
                <head>Passing the Torch, Torching the Past</head>
-               <docAuthor>By BARRY E. LEE</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 21-22</docDate>
-<argument><p>Barry E. Lee is a graduate student in the Women's Studies
-Institute at Georgia State University</p></argument>
+               <byline>By <docAuthor><name reg="Lee, Barry E.">Barry E. Lee</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 21-22</docDate>
 <p>Known as many things since its founding in 1837--a city resurrected from the ashes of the Civil War to lead the South in commerce and industry, a city supposedly above the racial intolerance which has typified the United States, and a city poised to join the international <corr sic="metropolian">metropolitan</corr> ranks--Atlanta enjoys a reputation that is the cumulative handiwork of generations of local business moguls, newspaper publishers and editors, politicians, and civic boosters. One of the most extended and impressive public relations campaigns waged in this century of PR has constructed the climate that envelops the daily lives of so many greater Atlantans. With a shrinking population inside Atlanta's city limits that is increasingly black and poor, the polishing of the metropolitan image is being taken over by movers and shakers who live in the affluent, predominantly white, suburbs to the north.</p>
 
 <p>Atlanta's advertisements for itself began in earnest in the wake of
@@ -613,14 +616,21 @@ celebrating the "the psychology of success." A year earlier, <hi rend="italic">N
 
 <p>Given his involvement in the civil rights movement, his ties to the King family, and his international visibility, Young was the ideal spokesperson. Atlanta portrayed itself as the embodiment of civil rights and American justice.</p>
 
-<p>As the Games begin and the city's homeless are swept out of view, beneath the surface of what is now generations of image building, not only is the city's infrastructure crumbling--with many bridges and sewer lines in need of repair and replacement--but unaddressed realities of class and racial division threaten sooner or later to collapse the happy scene.</p></div2>
+<p>As the Games begin and the city's homeless are swept out of view,
+beneath the surface of what is now generations of image building, not
+only is the city's infrastructure crumbling--with many bridges and
+sewer lines in need of repair and replacement--but unaddressed
+realities of class and racial division threaten sooner or later to
+collapse the happy scene.</p>
+<div3 id="sc18-2.027" type="About"><p>Barry E. Lee is a graduate
+student in the Women's Studies Institute at Georgia State
+University</p></div3>
+</div2>
 
-<div2 id="sc18-2.bond.008" n="Remembering Another Atlanta: Gate City" type="Article">
+<div2 id="sc18-2.008" n="Remembering Another Atlanta: Gate City" type="Article">
                <head>Remembering Another Atlanta: Gate City</head>
-               <docAuthor>By JULIAN BOND</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 22-24</docDate>
-<argument><p>Julian Bond is a Distinguished Professor In Residence at American University and a History Professor at the University of Virginia. He lived in Atlanta from 1957 to 1987.
-</p></argument>
+               <byline>By <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 22-24</docDate>
 <p><hi rend="italic">"South--that part of the United States south
 of Mason's and Dixon's line, the Ohio River, and the southern
 boundaries of Missouri and Kansas."</hi> (Webster's New Collegiate
@@ -706,7 +716,7 @@ that predated our 1960s action.</p>
 <p>Yesterday's Atlanta--a mean milieu, tainted by white supremacy, rife with unfairness and inequality despite neonationalist utopian fantasies that recall a united, nurturing community--hopefully can never exist again.</p>
 
 <p>Atlanta today is both product and prisoner of its past. In <hi rend="italic">Race and The Shaping of Twentieth Century Atlanta</hi>, Georgia Tech history professor Ronald H. Bayor explains in detail how race shaped the city's physical development from the Civil War through the 1980s.<ref
-target="sc18-2.bond.008n1">1</ref></p>
+target="sc18-2.008n1">1</ref></p>
 
 <p>His sober study is a warning to today's visitors, who,
 dazzled by skyscrapers and stadiums celebrating a succession of black mayors and enumerating the wealth of the city's sepia millionaires, cannot see the serious problems these monuments obscure.</p>
@@ -714,7 +724,7 @@ dazzled by skyscrapers and stadiums celebrating a succession of black mayors and
 <p>He writes about the history of race relations in America's cities and its effect on Atlanta:
 
 <q><p>This legacy remains very evident in present day Atlanta. Politics, the school system, neighborhood development, highways and roads, traffic patterns, public housing placement, city service delivery and amenities, the transportation network, and employment still show signs of its impact. Racial issues, now increasingly combined with class factors, still strongly influence policy. One recent example is the dispute arising out of Olympic site development in neighborhoods that were urban renewal victims decades earlier. The mistrust of city government generated years ago has carried into present discussion of housing removal and resident relocation, even though city officials are now black.<ref
-target="sc18-2.bond.008n2">2</ref></p></q></p>
+target="sc18-2.008n2">2</ref></p></q></p>
 
 <p>Gate City and Atlanta are still two different places. Atlanta has the largest percentage of poor people living in public housing of any American city except Newark, New Jersey. In spite of the electoral accomplishments of some and the enrichment of a few, most black Atlantans remain untouched by the latest in a series of New Souths.</p>
 
@@ -732,23 +742,24 @@ That world never was. It cannot--should not--be renewed.</p>
 <p>Instead, they remind us of how false the victories we
 thought we had won really were, of how little we may have actually gained.</p>
 
-<note place="end" id="sc18-2.bond.008n1" n="1"> <hi rend="italic">Race and The Shaping of Twentieth Century Atlanta, by Ronald
+<note place="end" id="sc18-2.008n1" n="1"> <hi rend="italic">Race and The Shaping of Twentieth Century Atlanta, by Ronald
 H. Bayor, University of North Carolina Press, Chapel Hill,
 1996.</hi></note>
-<note place="end" id="sc18-2.bond.008n2" n="2"> <hi
+<note place="end" id="sc18-2.008n2" n="2"> <hi
 rend="italic">Ibid</hi>., p XIV.</note>
+<div3 id="sc18-2.028" type="About"><p>Julian Bond is a Distinguished Professor In Residence at American University and a History Professor at the University of Virginia. He lived in Atlanta from 1957 to 1987.
+</p></div3>
 </div2>
 
-<div2 id="sc18-2.kuhn.009" n="Contours of the Color Line" type="Review">
+<div2 id="sc18-2.009" n="Contours of the Color Line" type="Review">
                <head>Contours of the Color Line</head>
-               <docAuthor>Reviewed by CLIFF KUHN</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 26-27</docDate>
-<argument><p>Cliff Kuhn is assistant professor of history at Georgia State University. Living Atlanta: An Oral History of the City, 1914-1948, based on radio interviews which he co-edited with Harlan Joye and Bernard West, provides an-other chronicle of the city.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Kuhn, Cliff">Cliff Kuhn</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 26-27</docDate>
 
-<p><hi rend="italic">Where Peachtree Meets Sweet Auburn: The Saga of
-Two Families and the Making of Atlanta</hi> by Gary M. Pomerantz.<hi rend="bold">(Scribner's, 1996, 550 pages)</hi>.</p>
-<p><hi rend="italic">Race and the Shaping of Twentieth Century
-Atlanta</hi> by Ronald H. Bayor. <hi rend="bold">(University of North Carolina Press, 1996, 350 pages).</hi></p>
+<bibl><title>Where Peachtree Meets Sweet Auburn: The Saga of
+Two Families and the Making of Atlanta</title> by Gary M. Pomerantz. (Scribner's, 1996, 550 pages).</bibl>
+<bibl><title>Race and the Shaping of Twentieth Century
+Atlanta</title> by Ronald H. Bayor. (University of North Carolina Press, 1996, 350 pages).</bibl>
 
 <p>Despite Atlanta's emergence as a major American city, until very
 recently the books treating its past in any sort of depth and
@@ -767,23 +778,23 @@ city too busy to hate" and "the next international city," slogans
 which often bore only a casual relationship to reality, to put it
 mildly. Such an overarching concern with image has served to blunt and
 limit any critical historical perspective. In addition, the
-near-mythic status of <hi rend="italic">Gone with the Wind</hi> and Martin Luther King, Jr., and the tremendous influx in recent years of newcomers with little appreciation of the city's traditions have contributed to the local historical amnesia.</p>
+near-mythic status of <title>Gone with the Wind</title> and Martin Luther King, Jr., and the tremendous influx in recent years of newcomers with little appreciation of the city's traditions have contributed to the local historical amnesia.</p>
 
 <p>Fortunately the situation is beginning to change. Ironically, the
 Olympics, Atlanta's latest self-promotional striving, have helped
 launch a veritable cottage industry of new books on local history
 which promise to significantly enhance and challenge the received
 historical wisdom about the city's past. Among the most important of
-these recent works are Gary Pomerantz's <hi rend="italic">Where Peachtree Meets Sweet
-Auburn</hi> and Ronald Bayor's <hi rend="italic">Race and the Shaping of Twentieth Century
-Atlanta.</hi></p>
+these recent works are Gary Pomerantz's <title>Where Peachtree Meets Sweet
+Auburn</title> and Ronald Bayor's <title>Race and the Shaping of Twentieth Century
+Atlanta.</title></p>
 
 <p>At first glance, these two books could hardly be more different. Atlanta Constitution reporter Pomerantz has crafted a beautifully written saga depicting five generations of the families of former mayors Ivan Allen and Maynard Jackson. Their personal stories are what propel the book, stories which inevitably intersect with the emergence of modern Atlanta. In contrast, personalities are decidedly in the background in Georgia Tech history professor Bayor's study of race as a crucial and enduring component of all aspects of the city's development.</p>
 
 <p>Yet there are important similarities between the two works, too. Both authors came to their projects out of an awareness of the centrality of race in Atlanta to this day. Pomerantz refers to "the profound resonance of race" throughout Atlanta's history (p. 623), while Bayor points to racially-based policy decisions which have had "long-range and often debilitating effects" on the city (p. 256). Both books are exhaustively researched, covering topics not heretofore addressed in the city's historiography and often providing fresh insights into subjects previously treated by other historians. Unlike other, more chronologically confined works, they examine Atlanta history over the last hundred years, a long range perspective that fosters appreciation of both the continuities and discontinuities in the city's past. Taken in tandem, the two books provide impressive insights into the contours of the color line in twentieth century Atlanta, and the relationship between the city's rhetoric and its reality.</p>
 
-<p><hi rend="italic">Race and the Shaping of Twentieth Century
-Atlanta</hi> attempts to determine the impact of race on the city's
+<p><title>Race and the Shaping of Twentieth Century
+Atlanta</title> attempts to determine the impact of race on the city's
 institutional structure and physical development. After briefly
 describing the racial setting of turn-of-the-century Atlanta and
 providing an overview of race and electoral politics, Bayor applies
@@ -797,7 +808,7 @@ transit, and the schools.</p>
 
 <p>The cumulative effect of the book is sobering and depressing. Time after time, Bayor demonstrates how racially-based policy decisions made during the era of segregation have left a corrosive legacy in Atlanta, despite shifting power relations. While legal segregation has been toppled and African Americans have made political gains, deep racial divides, increasingly intertwined with class, continue to mark the city. The portrait he paints is a far cry from the one that local image makers have presented to the world.</p>
 
-<p><hi rend="italic">Where Peachtree Meets Sweet Auburn</hi> is a more triumphant book. The triumphs, large and small, are not only those of mayors Jackson and Allen and their kin, but of the city of Atlanta itself. After all, Pomerantz reminds us, Atlanta experienced a comparatively peaceful transition out of the Jim Crow era, did not burn like other cities in the 1960s, and, of course, is hosting the Olympics today.</p>
+<p><title>Where Peachtree Meets Sweet Auburn</title> is a more triumphant book. The triumphs, large and small, are not only those of mayors Jackson and Allen and their kin, but of the city of Atlanta itself. After all, Pomerantz reminds us, Atlanta experienced a comparatively peaceful transition out of the Jim Crow era, did not burn like other cities in the 1960s, and, of course, is hosting the Olympics today.</p>
 
 <p>This by no means implies that Pomerantz is a starry-eyed city booster. On the contrary, he takes great pains to depict the separate but unequal "gulf of geography and culture" that historically divided black and white Atlanta (p. 18). He does this via a chronological approach, alternating chapters on the Allens and Dobbses (Jackson's family). Each of these families was prominent on their respective side of the color line for generations, yet tellingly they never actually met until 1962. This device works extremely well, not only portraying Atlanta's racial divide, but linking members of the two families to larger historical currents, and presenting them in their complexity.</p>
 
@@ -809,19 +820,20 @@ transit, and the schools.</p>
 Atlanta might look like. There's no doubt, however, that clues to this
 future development can be found in these two fine books, both of which
 belong on the still short but growing "must read" list on Atlanta
-history.</p></div2>
+history.</p>
+<div3 id="sc18-2.029" type="About"><p>Cliff Kuhn is assistant professor of history at Georgia State University. Living Atlanta: An Oral History of the City, 1914-1948, based on radio interviews which he co-edited with Harlan Joye and Bernard West, provides an-other chronicle of the city.</p></div3>
+</div2>
 
-<div2 id="sc18-2.spears.009" n="A Modest Remedy" type="Review">
+<div2 id="sc18-2.010" n="A Modest Remedy" type="Review">
                <head>A Modest Remedy</head>
-               <docAuthor>Reviewed by ELLEN SPEARS</docAuthor>
-               <docDate>Vol. 18, No. 2, 1996 pp. 27-29</docDate>
-<argument><p>Ellen Spears is managing editor of Southern Changes. She is also working on a research project at the Southern Regional Council on attitudes toward remedies to racial inequity.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 27-29</docDate>
 
-<p><hi rend="italic">In Defense of Affirmative Action</hi>, <hi rend="bold">by Barbara R. Bergmann (New Republic/Basic Books, 1996, 213 pages).</hi></p>
+<bibl><title>In Defense of Affirmative Action</title>, by Barbara R. Bergmann (New Republic/Basic Books, 1996, 213 pages).</bibl>
 
 <p>"Before we gave up on integration, we should have tried it," wrote Jack E. White in "Why We Need to Raise Hell," part of Time's April 29 cover story on the death of school integration. The same must be said about affirmative action--we should have tried it.</p>
 
-<p>In her straightforward book, <hi rend="italic">In Defense of Affirmative Action</hi>, American University economist Barbara Bergmann makes the case for this modest remedy to centuries of white supremacy in the U.S., documenting the nation's reluctant use of affirmative action and the unlikelihood of achieving fairness without it.</p>
+<p>In her straightforward book, <title>In Defense of Affirmative Action</title>, American University economist Barbara Bergmann makes the case for this modest remedy to centuries of white supremacy in the U.S., documenting the nation's reluctant use of affirmative action and the unlikelihood of achieving fairness without it.</p>
 
 <p>While surveys indicate that most white Americans <pb n="28"/>see racial discrimination against black Americans today as comparatively minimal, an artifact of the past, Bergmann provides evidence that workplace "segregation by race and sex continues to be the rule rather than the exception." For example, in a 1989 survey of workers in North Carolina, researchers found 84.7 percent of managers and 86.5 percent of supervisors work only with people of their own sex; 91.5 percent of managers and 86.4 percent of supervisors work only with their
 own race.</p>
@@ -878,26 +890,21 @@ the country debating Terry Eastland, author of <hi
 rend="italic">Ending Affirmative Action: The Case for Colorblind
 Justice</hi>. Anyone who cares about ending racial inequity ought to
 have Bergmann's facts and arguments at the ready--and join her in the
-debate.</p></div2>
+debate.</p>
+<div3 id="sc18-2.030" type="About"><p>Ellen Spears is managing editor of Southern Changes. She is also working on a research project at the Southern Regional Council on attitudes toward remedies to racial inequity.</p></div3>
+</div2>
 
-<div2 id="sc18-2.lassiter.010" n="Tilling the Ground for Change" type="Review">
-
-
+<div2 id="sc18-2.011" n="Tilling the Ground for Change" type="Review">
                <head>Tilling the Ground for Change</head>
+               <byline>Reviewed by <docAuthor><name reg="Lassiter, Matthew">Matthew Lassiter</name></docAuthor></byline>
+               <docDate value="1996-06">Vol. 18, No. 2, 1996</docDate>
 
-
-               <docAuthor>Reviewed by MATTHEW LASSITER</docAuthor>
-
-
-               <docDate>Vol. 18, No. 2, 1996</docDate>
-<argument><p>Matthew Lassiter is a graduate student at the University of Virginia.</p></argument>
-
-<p><hi rend="italic">Days of Hope: Race and Democracy in the New Deal
-Era</hi>, <hi rend="bold">by Patricia Sullivan (University of North Carolina Press, 1996, 335 pages)</hi>.</p>
+<bibl><title>Days of Hope: Race and Democracy in the New Deal
+Era</title>, by Patricia Sullivan (University of North Carolina Press, 1996, 335 pages).</bibl>
 
 <p>The travails of Southern liberals and radicals during the 1930s and
 1940s have recently moved to the center of pre-<hi
-rend="italic">Brown</hi> era Southern and civil rights history as scholars continue to probe beneath the surface of white supremacy in the so-called Solid South. Following closely on the heels of <hi rend="italic">Speak Now Against the Day</hi>, John Egerton's extensive chronicle of dissenting Southerners, Patricia Sullivan's welcome new book examines the changes brought to the South by the New Deal and World War II. Through the perspectives of Southern-born New Deal policymakers, indigenous voting rights activists, and especially the labor-liberals in the Southern Conference for Human Welfare (SCHW), Sullivan portrays the rise and fall of a progressive alternative to the white supremacist South: "days of hope" during which a New Deal-inspired biracial movement for economic and social justice emerged as a challenge to the region's reactionary politicians. The repercussions of this effort shaped national as well as regional politics; in the decade between 1938 and 1948, Sullivan argues, the fate of the labor organization drives and voting rights campaigns of the South largely determined the future of New Deal liberalism and the Democratic Party, and the commitment of Democratic policymakers in Washington substantially influenced the fate of Southern progressivism.</p>
+rend="italic">Brown</hi> era Southern and civil rights history as scholars continue to probe beneath the surface of white supremacy in the so-called Solid South. Following closely on the heels of <title>Speak Now Against the Day</title>, John Egerton's extensive chronicle of dissenting Southerners, Patricia Sullivan's welcome new book examines the changes brought to the South by the New Deal and World War II. Through the perspectives of Southern-born New Deal policymakers, indigenous voting rights activists, and especially the labor-liberals in the Southern Conference for Human Welfare (SCHW), Sullivan portrays the rise and fall of a progressive alternative to the white supremacist South: "days of hope" during which a New Deal-inspired biracial movement for economic and social justice emerged as a challenge to the region's reactionary politicians. The repercussions of this effort shaped national as well as regional politics; in the decade between 1938 and 1948, Sullivan argues, the fate of the labor organization drives and voting rights campaigns of the South largely determined the future of New Deal liberalism and the Democratic Party, and the commitment of Democratic policymakers in Washington substantially influenced the fate of Southern progressivism.</p>
 
 <p>The harsh realities of the Great Depression weakened the South's
 traditional political opposition to federal intervention, and the
@@ -910,7 +917,7 @@ that many New Deal policies reinforced racial discrimination, she
 paints the era as a time when, across the country, "there was a deep,
 abiding awareness that a sea change in American politics was under
 way" (p.24). It would have been helpful if this thesis were better
-qualified; <hi rend="italic">Days of Hope</hi> leaves the impression
+qualified; <title>Days of Hope</title> leaves the impression
 that racial egalitarians and labor sympathizers had more power in
 formulating New Deal policies than they actually exercised, and it
 glosses over the clearly significant influence enjoyed by
@@ -920,7 +927,7 @@ Deal lay in its ability to raise consciousness and engender protest,
 as the federal government's aggressive new stance <pb n="30"/>brought an unprecedented opportunity for biracial challengers to the South's manifestly undemocratic political structure. Even the New Deal's limitations had an indirectly progressive impact: it was precisely the disjuncture between the optimism it inspired and the realities of everyday life under segregation and economic hardship which motivated a diverse array of Southerners to mobilize in demand of equal rights and economic justice. </p>
 
 <p>Throughout the narrative, Sullivan combines the broader sweep of national-regional political developments with a narrow focus on individual Southern activists. Although at times extensive biographical sketches disrupt the narrative flow of the book, we are treated to evocative portraits of Southern New Dealers such as Clark Foreman, Virginia Durr, Palmer
-Weber, and Robert Weaver. <hi rend="italic">Days of Hope</hi> is in large part a tribute to the Southern progressives who demanded large-scale federal action in the South, integrated race and class analyses through campaigns for labor and voting rights, and envisioned an interracial democracy in place of segregation and white supremacy. Coalescing in the SCHW, they forged a popular front with labor leaders such as Sidney Hilman at the CIO-PAC, civil rights activists such as Charles Houston of the NACCP, and Washington allies such as Eleanor Roosevelt and Agricultural Secretary and eventual Vice-President Henry Wallace. The book is a "study of a generation"--a more
+Weber, and Robert Weaver. <title>Days of Hope</title> is in large part a tribute to the Southern progressives who demanded large-scale federal action in the South, integrated race and class analyses through campaigns for labor and voting rights, and envisioned an interracial democracy in place of segregation and white supremacy. Coalescing in the SCHW, they forged a popular front with labor leaders such as Sidney Hilman at the CIO-PAC, civil rights activists such as Charles Houston of the NACCP, and Washington allies such as Eleanor Roosevelt and Agricultural Secretary and eventual Vice-President Henry Wallace. The book is a "study of a generation"--a more
 radical generation than the prominent academics and journalists who led the Commission on Interracial Cooperation and its successor, the Southern Regional Council. To Sullivan, white SRC moderates were "apologists for the segregation system" (p.166) because they believed that social change would have to come gradually and be led by elites such as themselves, not the federal government and certainly not ordinary black Southerners.</p>
 
 <p>Sullivan is much more sympathetic toward the pragmatic compromises of her heroes in the SCHW than those of the moderate progressives of the SRC, but the latter also supported the New Deal and opposed voting discrimination, and the two organizations were not as far apart as she implies. The white activists in SCHW rejected segregation more forcefully but, like the SRC, often phrased their protests in economic rather than explicitly racial terms. Fighting for Southerners such as the sharecroppers who formed the Southern Tenant Farmers Union and the black citizens who protested the all 
@@ -959,12 +966,12 @@ the will of convention delegates by replacing Wallace with Harry Truman, progres
 
 <p>Could interracial democracy have transformed the South and, by extension, the nation? The key to this progressive hope was a class-based alliance which reached across racial boundaries, and in 1945-46 voter registration drives constituted a political challenge which "revived the democratic promise of Reconstruction and moved beyond the tentative interracialism of the Populist movement. "(p.220) But despite substantial increases in black voter registration and a number of electoral victories, the labor-liberal movement to shore up the national Democratic party by transforming its Southern base was ultimately unsuccessful. Southern politicians successfully exploited anti-union and pro-white supremacy sentiments, but in Sullivan's analysis it was not the Dixiecrats but rather the national Democratic party which slammed shut the progressive window in the South by failing to enforce constitutional guarantees. In the new arena of Cold War politics, liberal anticommunists attacked labor unions and groups such as the SCHW for supposed Communist ties, fragmenting what was left of the Popular Front. Truman, who "lacked any basic commitment to the social democratic thrust of New Deal reform" (p.223), cracked down on organized labor and abandoned the South to conservative Democrats. Under fire, the CIO distanced itself from the SCHW and purged the radicals and Communists in its ranks. Branded a Communist-front organization by the House Committee on Un-American Activities, the SCHW descended into internal bloodletting and disbanded after Henry Wallace's campaign as the 1948 presidential candidate of the Progressive Party.</p>
 
-<p>The epilogue of <hi rend="italic">Days of Hope</hi> is a beautifully written account of Wallace's Southern campaign swing in 1948. Wallace questioned the Cold War foreign policy consensus, adamantly supported the rights of laborers and unions, and told white Southerners to their faces that segregation was a sin. He was greeted by determined supporters but also jeered and assaulted by amazingly hostile mobs, at times even afraid for his life.</p>
+<p>The epilogue of <title>Days of Hope</title> is a beautifully written account of Wallace's Southern campaign swing in 1948. Wallace questioned the Cold War foreign policy consensus, adamantly supported the rights of laborers and unions, and told white Southerners to their faces that segregation was a sin. He was greeted by determined supporters but also jeered and assaulted by amazingly hostile mobs, at times even afraid for his life.</p>
 
 <p>On one hand, Wallace's defeat symbolized the end of the New Deal era and the failure of interracial democracy in the South. During the 1950s the southern black freedom struggle operated in relative isolation, and only after 1960 did the federal government through the Democratic party join forces with progressive Southerners once again. On the other hand, the "activists of the earlier decades tilled the ground for future change" (p.275), fighting to establish the legal precedents and political power which would be crucial to civil rights activists of the next generation.</p>
 
 <p>Sullivan's book embodies the contradictions of hoping against hope
-that things might have been different in the South. The window of opportunity approach is a mainstay of progressive Southern historians but is always problematic because it dwells on what might have been and by definition must downplay the often overwhelming evidence of why history turned out the way it did. In <hi rend="italic">Days of Hope</hi>, the depth of interracial democracy in the South during the 1940s seems exaggerated; Sullivan does not provide evidence that a popular interracial movement existed, as opposed to a more limited cooperation among political activists and New Deal supporters. White farmers and industrial laborers rarely were willing to work on equal terms with their black counterparts; one of the fundamental dilemmas facing progressives was that white working class Southerners overwhelmingly supported Roosevelt and simultaneously resisted other components of what Sullivan calls interracial democracy. The CIO's 1946 Operation Dixie drive to unionize the Southern textile industry was only the latest example of how many obstacles lay in the path of biracial class-based politics.</p>
+that things might have been different in the South. The window of opportunity approach is a mainstay of progressive Southern historians but is always problematic because it dwells on what might have been and by definition must downplay the often overwhelming evidence of why history turned out the way it did. In <title>Days of Hope</title>, the depth of interracial democracy in the South during the 1940s seems exaggerated; Sullivan does not provide evidence that a popular interracial movement existed, as opposed to a more limited cooperation among political activists and New Deal supporters. White farmers and industrial laborers rarely were willing to work on equal terms with their black counterparts; one of the fundamental dilemmas facing progressives was that white working class Southerners overwhelmingly supported Roosevelt and simultaneously resisted other components of what Sullivan calls interracial democracy. The CIO's 1946 Operation Dixie drive to unionize the Southern textile industry was only the latest example of how many obstacles lay in the path of biracial class-based politics.</p>
 
 <p>In its attention to the fluidity, radical potential, and reservoir
 of dissent which existed beneath a rigged political system, Sullivan's
@@ -976,7 +983,7 @@ today. The book opens with an official of the Hoover administration
 telling Congress that "federal aid would be a disservice to the
 unemployed," and its main villains are the Southern politicians who
 opposed New Deal liberalism and the national Democrats who abandoned
-it. <hi rend="italic">Days of Hope</hi> is an eulogy for an earlier
+it. <title>Days of Hope</title> is an eulogy for an earlier
 time when the pragmatic and freewheeling New Deal offered hope and
 provided inspiration to millions of Southerners and Americans caught
 in desperate circumstances, but it is also a reminder of the
@@ -984,8 +991,7 @@ possibilities of social change and the necessity of aggressive action
 in these less hopeful days, when the legacies of the New Deal are
 again under assault from traditional enemies and only half-heartedly
 defended by many traditional
-supporters.</p></div2>
-
-
-
+supporters.</p>
+<div3 id="sc18-2.031" type="About"><p>Matthew Lassiter is a graduate student at the University of Virginia.</p></div3>
+</div2>
 </div1></body></text></TEI.2>

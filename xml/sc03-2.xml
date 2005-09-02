@@ -60,9 +60,9 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <p>
 <title>Southern Changes</title>. Volume 3, Number 2, <date value="1981-02">1981</date></p>
 
-<div2 id="sc03-2staff.001" n="EDITOR'S NOTE" type="Article">
+<div2 id="sc03-2.002" n="EDITOR'S NOTE" type="Article">
 <head>EDITOR'S NOTE</head>
-<docAuthor>Staff</docAuthor>
+<byline><docAuthor><name reg="">Staff</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 4-5</docDate>
 
 <p>Four states&#x2014;and only Arkansas in the South&#x2014;elect
@@ -93,9 +93,9 @@ January l3, 1981&#x2014;seven days before the changing of the guard in
 Washington.</p>
 </div2>
 
-<div2 id="sc03-2clinton.002" n="An Era of 'Pride and Hope' 1979" type="Article">
+<div2 id="sc03-2.003" n="An Era of 'Pride and Hope' 1979" type="Article">
 <head>An Era of "Pride and Hope" 1979</head>
-<docAuthor>By Bill Clinton</docAuthor>
+<byline>By <docAuthor><name reg="Clinton, Bill">Bill Clinton</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 4, 18</docDate>
 
 <p>As we celebrate this new beginning, I want to explain as clearly as my command of the language will allow what kind of governor I will try to be.</p>
@@ -149,10 +149,10 @@ hope, and the grace of God to take our hands and lead us on, we shall
 not fail! Thank you, and God bless you all.</p>
 </div2>
 
-<div2 id="sc03-2white.003" n="'The Era of Unchecked Government...Is
+<div2 id="sc03-2.004" n="'The Era of Unchecked Government...Is
       Over' 1981" type="Article">
 <head>"The Era of Unchecked Government...Is Over" 1981</head>
-<docAuthor>By Frank White</docAuthor>
+<byline>By <docAuthor><name reg="White, Frank">Frank White</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 5, 18</docDate>
 
 <p>My election endorsed a new type of leadership for Arkansas. The challenge for the 80s is very clear: "The era of unchecked government fiscal expansion is over. Government is not, never was, and cannot be all things to all people."</p>
@@ -199,9 +199,9 @@ Washington office (of the state of Arkansas) is closed, allowing $187,000 saved 
 <p>As I accept this great responsibility I ask that you pray for me that I will have the strength and the wisdom to pursue those things which serve the needs of all our people. I seek your support and your guidance in these difficult times ahead, knowing that together, we can build a new future for Arkansas&#x2014;a future that encourages a better quality of life for all.</p></div2>
 
 
-<div2 id="sc03-2suitts.004" n="Election Results '80" type="Article">
+<div2 id="sc03-2.005" n="Election Results '80" type="Article">
 <head>Election Results '80</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 6-9</docDate>
 
 <p><hi rend="bold">The Rise of Southern Suburban Politics</hi></p>
@@ -849,14 +849,10 @@ Patterns in 1980 Election</head>
 </row>
 </table>
 </div2>
-<div2 id="sc03-2presti.007" n="North Carolina Reapportionment: 1981 Version" type="Article">
+<div2 id="sc03-2.007" n="North Carolina Reapportionment: 1981 Version" type="Article">
 <head>North Carolina Reapportionment: 1981 Version</head>
-<docAuthor>By Susan M. Presti</docAuthor>
+<byline>By <docAuthor><name reg="Presti, Susan M.">Susan M. Presti</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 10-11, 19</docDate>
-<argument><p>Susan M. Presti is a staff member of the North Carolina
-Center for Public Policy Research, an independent research group. This
-article is reprinted from <hi rend="bold">N.C. Insight</hi>, the
-quarterly magazine of the Center.</p></argument>
 
 <p>Reapportionment&#x2014;the redrawing of electoral district lines based on the results of each decennial census&#x2014;looms as one of the most important tasks facing the 1981 North Carolina General Assembly. National population shifts and those within the state during the past decade could result in significant changes for the state. When the final results of the 1980 census are released, the power balance between the coastal, piedmont, and mountain districts may be upset. "(Reapportionment) will be, in my opinion, the key issue of this General Assembly," says Alex K. Brock, director of the State Board of Elections.</p>
 
@@ -916,15 +912,17 @@ develop redistricting plans. Despite these changes, North Carolina in
 1981 will reapportion itself in much the same way it has in the
 past. "Reapportionment is a political process.. . and that's the way
 it should be," says Brock.</p>
+<div3 id="sc03-2.027" type="About"><p>Susan M. Presti is a staff member of the North Carolina
+Center for Public Policy Research, an independent research group. This
+article is reprinted from <hi rend="bold">N.C. Insight</hi>, the
+quarterly magazine of the Center.</p></div3>
 </div2>
 
-<div2 id="sc03-2bell.005" n="The Good Ole Boys Club Prevails:
+<div2 id="sc03-2.008" n="The Good Ole Boys Club Prevails:
       Mississippi Legislature" type="Article">
 <head>The Good Ole Boys Club Prevails: Mississippi Legislature</head>
-<docAuthor>By D.O. Bell</docAuthor>
+<byline>By <docAuthor><name reg="Bell, D.O.">D.O. Bell</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 12-13</docDate>
-<argument><p>D.O. Bell is a staff member of the Southern Regional
-Council's Southern Project for Fair, Open Government.</p></argument>
 
 <p>0nce questioned about the odd language used by lawyers in drafting legal documents, a law professor at Oxford, Mississippi, listened to a law student contending that legal pleadings use archaic terms and the style should be modernized. The professor tongue-in-cheek replied, "What we need are not more modern pleadings; what we need are more archaic law students."</p>
 
@@ -967,17 +965,17 @@ this session. Those who look to the Mississippi legislature for modern
 reform may look back in the spring and conclude, in the words of
 Leonard PenthDarnel, television's "Saturday Night Live" and former
 host of Bad Opera, "There, that wasn't so good, now was it."</p>
+<div3 id="sc03-2.028" type="About"><p>D.O. Bell is a staff member of the Southern Regional
+Council's Southern Project for Fair, Open Government.</p></div3>
 </div2>
-<div2 id="sc03-2greenhaw.002" n="Big Profits and Little Pay in South's 
+<div2 id="sc03-2.009" n="Big Profits and Little Pay in South's 
 Backwoods: Woodcutters Organize (Part II)"
       type="Article">
 <head>Big Profits and Little Pay in South's 
 Backwoods: Woodcutters Organize (Part II)</head>
-<docAuthor>By Wayne Greenhaw</docAuthor>
+<byline>By <docAuthor><name reg="Greenhaw, Wayne">Wayne Greenhaw</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 14-17</docDate>
-<argument>
-<p>Wayne Greenhaw is a freelance journalist in Montgomery, Alabama and
-author of several Southern books. His final installment on the woodcutters will appear in the next issue.</p></argument>
+
 <pb n="15"/>
 <p>Woodcutters have generally been considered the bottom of the barrel when you are talking about agriculture in the South," stated a forestry professor at Alabama's Auburn University.</p>
 
@@ -1050,12 +1048,16 @@ associations need to ban together in a southwide effort. In northern
 Mississippi and Louisiana, SWAP spokesmen say that they do not wish to
 compete with GPA, "but we would like to join hands with all
 woodcutters to make sure our efforts do not go to waste."</p>
+<div3 id="sc03-2.029" type="About">
+<p>Wayne Greenhaw is a freelance journalist in Montgomery, Alabama and
+author of several Southern books. His final installment on the
+woodcutters will appear in the next issue.</p></div3>
 </div2>
 
-<div2 id="sc03-2staff.009" n="Update: Alabama Legislature"
+<div2 id="sc03-2.010" n="Update: Alabama Legislature"
      type="Article">
 <head>Update: Alabama Legislature</head>
-<docAuthor>By SLRC Staff</docAuthor>
+<byline><docAuthor><name reg="SLRC Staff">By SLRC Staff</name></docAuthor></byline>
 <docDate value="1981-02">Vol. 3, No. 2, 1981, pp. 18-19</docDate>
 
 <p>The Alabama legislature returned to Montgomery on February 3rd to face critical budget problems which have been plaguing the state for years. Tax revenues earmarked for many functions of state government, especially the education system, are failing to keep pace with inflation and Alabama's bare bones approach to government services is leading to drastic proposals to cutback public assistance and social welfare programs.</p>

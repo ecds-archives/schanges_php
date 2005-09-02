@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "../schanges-tei.dtd"> 
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd"> 
 <TEI.2>
  <teiHeader type="text">
  <fileDesc>
@@ -50,16 +50,13 @@
  <body>
  <div1 id="sc17-1.001" n="Southern Changes 17:1" type="Issue">
   <head>Southern Changes. Volume 17, Number 1, 1995</head> 
-
- <div2 id="sc17-1.bass.001" n="Affirming
+<p><title>Southern Changes</title>. Volume 17, Number 1, <date value="1995-03">1995</date></p>
+ <div2 id="sc17-1.002" n="Affirming
 the Affirmative" type="Article">
   <head>Affirming the Affirmative</head> 
-  <docAuthor>By JACK BASS</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995, pp. 1-3</docDate> 
- <argument>
-  <p>Jack Bass is professor of journalism at the University of Mississippi and author of two books about Southern judges and civil rights: Unlikely Heroes and Taming the Storm, a biography of Judge Frank M. Johnson, Jr.</p> 
-  </argument>
-
+  <byline>By <docAuthor><name reg="Bass, Jack">Jack Bass</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995, pp. 1-3</docDate> 
+ 
 <p>In the middle of the current debate over affirmative action, a moment taken to revisit recent history turns out to be surprising, ironic, and instructive. Readers with long memories will recall that
 the concept of affirmative action emerged directly from the judicial crucible of civil rights, the old Fifth Circuit Court of Appeals, head-
 quartered in New Orleans. Before it was divided in 1980, the Fifth Circuit's jurisdiction extended from Savannah to El Paso and covered six states of the Confederacy, including the Alabama and Mississippi that George Wallace and Ross Barnett governed.</p>
@@ -113,18 +110,19 @@ the transformation of women in the work force) and that the job clearly isn't ov
 
 <p>The American legacy of racial discrimination remains to be overcome. To defend affirmative action, presidential leadership needs to establish the moral high ground, explain the public interest in working to achieve a just society and make
 the case for persistence and patience.</p>
+<div3 id="sc17-1.022" type="About">
+  <p>Jack Bass is professor of journalism at the University of Mississippi and author of two books about Southern judges and civil rights: Unlikely Heroes and Taming the Storm, a biography of Judge Frank M. Johnson, Jr.</p> 
+  </div3>
+
 </div2>
-<div2 id="sc17-1.whisnant.001" n="Gone Country: Cecelia Tichi
+<div2 id="sc17-1.003" n="Gone Country: Cecelia Tichi
 and the Politics of Writing About Country Music" type="Article">
   <head>Gone Country: Cecelia Tichi and the Politics of Writing
 About Country Music</head> 
-  <docAuthor>By DAVID E. WHISNANT</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995 pp. 4-10</docDate> 
-<argument>
-  <p>David E. Whisnant teaches courses on country music, Appalachia, American literature, folklore, and the politics of culture at the University of North Carolina at Chapel Hill.</p> 
-  </argument>
+  <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 4-10</docDate> 
 
-<p><bibl>Cecelia Tichi, High Lonesome: The American Culture of Country Music. Chapel Hill: University of North Carolina Press, 1994. xiii, 318 pp., with 23-track CD. $39.95.</bibl></p>
+<bibl>Cecelia Tichi, High Lonesome: The American Culture of Country Music. Chapel Hill: University of North Carolina Press, 1994. xiii, 318 pp., with 23-track CD. $39.95.</bibl>
 
 <p>For a long time I have said, only half-jokingly, that the
 millennium cannot not come until <hi rend="italic">everybody</hi> listens to and plays country music. And since so little serious attention was paid to it before about 1965, I usually welcome each new book--from the slick "as told to" autobiographies and Opryland coffee table books to the scholarly biographies and analytical studies. Even the most superficial books contain some useful information, and the best deepen our understanding of and commitment to the music. Having written some books myself, I am also aware of what a taxing labor of love it is, and of how hopeful and vulnerable one feels once the finished product is out there.</p>
@@ -138,11 +136,11 @@ Tichi's own estimate is that she has in a single stroke boldly thrust
 herself into the scholarly vanguard, her timid predecessors having
 shunned a music "linked to white poverty--white trash'--and racial
 oppressiveness" for fear of being "found guilty by association."<ref
-target="sc17-1.995n1">1</ref>Perhaps only a scholar/teacher of American literature" such as herself, she says, "someone steeped in the standard or canonical American texts year in and year out, then transported to Nashville . . . and immersed for five years in its musical traditions, [could] see the connections developed in <hi rend="italic">High Lonesome</hi>" between Dolly and Ralph [Waldo Emerson], Hank and Walt [Whitman], and Emmylou and Mark [Twain]--in a word, between low country and high culture (p. x).</p>
+target="sc17-1.003n1">1</ref>Perhaps only a scholar/teacher of American literature" such as herself, she says, "someone steeped in the standard or canonical American texts year in and year out, then transported to Nashville . . . and immersed for five years in its musical traditions, [could] see the connections developed in <hi rend="italic">High Lonesome</hi>" between Dolly and Ralph [Waldo Emerson], Hank and Walt [Whitman], and Emmylou and Mark [Twain]--in a word, between low country and high culture (p. x).</p>
 
 <p>As Tichi claimed to an interviewer from the <hi
 rend="italic">Cultural Studies Times</hi>, not only is this virtually the first book to do with country music what must be done in order for us mere listeners to truly understand it, but it is also an epochal event in the history of publishing on any subject. By the middle of the twenty-first century, she says, a book like <hi rend="italic">High Lonesome</hi>, combining print, photos, and "an audio CD" will be seen "as an important transition between the traditional book and the computerized one, a way-station between Gutenberg and Bill Gates."<ref
-target="sc17-1.995n2">2</ref></p>
+target="sc17-1.003n2">2</ref></p>
 
 <p>Well, now, as my favorite down-home comic Jeff Foxworthy says,
 "Wait just a damn <hi rend="italic">minute</hi>!" These are some
@@ -200,7 +198,7 @@ example is her "explanation" of the "Nashville number system" used to
 designate chord progressions (p. xi). Far from having anything in
 particular to do with Nashville, however, that notational system has
 been widely used in musical analysis at least since the eighteenth
-century.<ref target="sc17-1.995n3">3</ref> Other terminological problems abound: "Wayfaring Stranger"
+century.<ref target="sc17-1.003n3">3</ref> Other terminological problems abound: "Wayfaring Stranger"
 is "a traditional country-folk song" (p. 173); Hazel Dickens belongs
 to "the so-called 'primitive' country-folk tradition of singers"
 (p. 215), and so on. Even Tichi's title itself is misleading: in its
@@ -269,7 +267,7 @@ arrant nonsense. Certainly such assertions would come as a great
 surprise to a host of American writers, from Melville (Ishmael and
 Bartleby, pre-eminently) through Poe and Emily Dickinson to Thomas
 Wolfe's Eugene Gant ("Lost, oh lost, and by the wind grieved, ghost
-come back again!") and onward.<ref target="sc17-1.995n4">4</ref></p>
+come back again!") and onward.<ref target="sc17-1.003n4">4</ref></p>
 
 <p>But conflation and insupportable generalization are not the only
 problems. When the evidence she needs is not available, Tichi
@@ -287,7 +285,7 @@ during the past thirty years, and so far as I know there is not one
 <hi rend="italic">shred</hi> of evidence to support Tichi's contention
 that the wild rose is even a widely <hi rend="italic">recognized</hi>
 (to say nothing of the central) symbol of the hillbilly.<ref
-target="sc17-1.995n5">5</ref> In the
+target="sc17-1.003n5">5</ref> In the
 second place, Tichi's determination that it <hi rend="italic">shall be
 so</hi>, regardless, leads her to force and even to fabricate
 evidence. Thus Sally Rose of Emmylou Harris's <hi rend="italic">Ballad of
@@ -298,7 +296,7 @@ Sally Rose</hi> becomes "the backwood . . . wild hillbilly Rose" (p. 158) despit
 high-handed way: comparing William Merrit Chase's two paintings
 "Portrait of Miss Jessup" (cultivated roses on her dress) and
 "Carmencita" (wild roses dropped by her feet), she asserts that the protagonist of Bizet's opera <hi rend="italic">Carmen</hi> is "a hillbilly wild rose" (pp. 160-61). Never mind that Carmen has consistently been portrayed (and recognized) as a gypsy rather than a hillbilly--between which there are major and important differences--and that the Chase portrait of her looks like every gypsy (and no hillbilly) you ever saw.<ref
-target="sc17-1.995n6">6</ref> There is in fact no end to it: the rose on Emmylou Harris's guitar marks her as "wild"--"Wild like Thoreau ... Hillbilly wild" (p. 164). <hi rend="italic">Emmylou</hi> as a wild rose? <hi rend="italic">Thoreau</hi> as a hillbilly? Go figure.</p>
+target="sc17-1.003n6">6</ref> There is in fact no end to it: the rose on Emmylou Harris's guitar marks her as "wild"--"Wild like Thoreau ... Hillbilly wild" (p. 164). <hi rend="italic">Emmylou</hi> as a wild rose? <hi rend="italic">Thoreau</hi> as a hillbilly? Go figure.</p>
 
 <p>There is more (in numerous aspects of her consideration of country
 as "nature's music," for example), but one wearies. Ultimately one
@@ -311,11 +309,11 @@ rhinestones with Ms. Tichi's enthusiasm but is, alas, something of an
 Arkansas diamond in the reading"; its observations tend to be "mere
 bromides" (as in the long riff on roses). Ultimately it is "a bit
 pretentious--quite a sin when the subject is country music." <ref
-target="sc17-1.995n7">7</ref> Writing for a less high-toned audience in <hi rend="italic">Time</hi> (July 25, 1994), Malcolm Jones, Jr. is a bit more sensitive to the cultural politics of hillbilly symbolism (the "only minority not protected by the bylaws of political correctness") and country music (which he says "forfeited its soul" when it got rid of "rhinestone suits and beehive hairdos"). Nevertheless, he finds Tichi's treatment "entirely too tasteful," and says her book "raises the suspicion that country will not be done in by friends in low places but by new pals in high culture." Why? Because in his view "a unique American art" of universal appeal like country music emerges only when somebody like Hank Williams can wed "guilty pleasures" to those "great themes" Tichi is interested in. So far, so good. But what is Jones's notion of what country music ought to be doing? Mainly making sure that the idiom "never stray[s] from the rudiments of hillbilly songwriting." In his view, maybe only Bill Monroe among them all retains "that old spit-in-your-eye hillbilly defiance" he contends is the essence of country music. Which, unfortunately, gets us exactly nowhere, since what appears to trouble Jones is precisely that he likes his hillbillies and misses them when they are (apparently) gone.</p>
+target="sc17-1.003n7">7</ref> Writing for a less high-toned audience in <hi rend="italic">Time</hi> (July 25, 1994), Malcolm Jones, Jr. is a bit more sensitive to the cultural politics of hillbilly symbolism (the "only minority not protected by the bylaws of political correctness") and country music (which he says "forfeited its soul" when it got rid of "rhinestone suits and beehive hairdos"). Nevertheless, he finds Tichi's treatment "entirely too tasteful," and says her book "raises the suspicion that country will not be done in by friends in low places but by new pals in high culture." Why? Because in his view "a unique American art" of universal appeal like country music emerges only when somebody like Hank Williams can wed "guilty pleasures" to those "great themes" Tichi is interested in. So far, so good. But what is Jones's notion of what country music ought to be doing? Mainly making sure that the idiom "never stray[s] from the rudiments of hillbilly songwriting." In his view, maybe only Bill Monroe among them all retains "that old spit-in-your-eye hillbilly defiance" he contends is the essence of country music. Which, unfortunately, gets us exactly nowhere, since what appears to trouble Jones is precisely that he likes his hillbillies and misses them when they are (apparently) gone.</p>
 
 <p>So where do we go from here to write about country music? We are
 now in at least the third, and maybe the fourth, wave of serious writing about it. In the late 1940s and 1950s pioneers like Archie Green, D. K. Wilgus, Bob Pinson, Eugene Earle and others compiled the first primitive discographies and bibliographies, put out the first newsletters, and wrote the first articles. In the late 1960s and 1970s, Bill Malone, Ed Kahn and others wrote the first serious articles, dissertations, and books, which concentrated mainly on laying out the historical narrative and pinning down crucial details. Still later came more specialized biographies and studies by Mary Bufwack and Robert Oermann, Norm Cohen, Robert Coltman, Richard Peterson, Nolan Porterfield, Neil Rosenberg, Charles Townsend, Ivan Tribe, Charles Wolfe and many others. More recently, a few books and articles have begun to explore more conceptually sophisticated lines of analysis. Pre-eminent among them is Robert Cantwell's <hi rend="italic">Bluegrass Breakdown</hi> (1984), but younger scholars such as Mark Fenster, Aaron Fox, Richard Leppert, and George Lipsitz are also making major contributions.<ref
-target="sc17-1.995n8">8</ref> All of this constitutes an enormous gain, and much of it was achieved by people working nights after long days on unrelated jobs (Pinson, Green, Earle, and Cohen come especially to mind), or whose conventional academic departments (English, History, Anthropology) couldn't understand why they would want to waste their time writing about country music.</p>
+target="sc17-1.003n8">8</ref> All of this constitutes an enormous gain, and much of it was achieved by people working nights after long days on unrelated jobs (Pinson, Green, Earle, and Cohen come especially to mind), or whose conventional academic departments (English, History, Anthropology) couldn't understand why they would want to waste their time writing about country music.</p>
 
 <p>But now we are in a new phase--in the era of fuzzy
 <pb n="10"/>
@@ -336,7 +334,7 @@ reproduced in black and white). Pages are generously-sized, margins
 are wide, and typography is elegant. For good measure, a CD is tucked
 into the back; it has "23 tracks," we are promised--double the
 number on your usual run-of-the-mill CD.<ref
-target="sc17-1.995n1">">9</ref></p>
+target="sc17-1.003n9">">9</ref></p>
 
 <p>To return to my opening point: I welcome serious attention to
 country music, from whatever quarter, and applaud the new openings to
@@ -347,11 +345,11 @@ subjects about which they in fact know little if anything. As in this
 case, the results are likely to be disappointing.</p>
 
 <p rend="bold">NOTES</p>
-<note place="end" id="sc17-1.995n1" n="1"> <hi rend="italic">Cultural Studies Times</hi> 1 (Fall 1994), p. A7.</note>
-<note place="end" id="sc17-1.995n2" n="2"> <hi rend="italic">Cultural Studies Times</hi> (Fall, 1994), p. A7.</note>
-<note place="end" id="sc17-1.995n3" n="3"> See for example Stanley Sadie (ed.), <hi rend="italic">The New Grove Dictionary of Music and Musicians</hi> (20 vols., NY: Macmillan, 1980), 8:175-79 ("Harmony--Basic Concepts").</note>
-<note place="end" id="sc17-1.995n4" n="4"> Tichi goes to similar extremes in discussing the West. Country music "gives voice to ... the [individualist] American who otherwise is mute," she asserts (pp. 121-22), leaving one--in the face of overwhelming evidence that individualist Americans (eastern or western) have never, ever lacked a voice--mute with astonishment.</note>
-<note place="end" id="sc17-1.995n5" n="5"> The scholarship generated by this revisionist enterprise is too
+<note place="end" id="sc17-1.003n1" n="1"> <hi rend="italic">Cultural Studies Times</hi> 1 (Fall 1994), p. A7.</note>
+<note place="end" id="sc17-1.003n2" n="2"> <hi rend="italic">Cultural Studies Times</hi> (Fall, 1994), p. A7.</note>
+<note place="end" id="sc17-1.003n3" n="3"> See for example Stanley Sadie (ed.), <hi rend="italic">The New Grove Dictionary of Music and Musicians</hi> (20 vols., NY: Macmillan, 1980), 8:175-79 ("Harmony--Basic Concepts").</note>
+<note place="end" id="sc17-1.003n4" n="4"> Tichi goes to similar extremes in discussing the West. Country music "gives voice to ... the [individualist] American who otherwise is mute," she asserts (pp. 121-22), leaving one--in the face of overwhelming evidence that individualist Americans (eastern or western) have never, ever lacked a voice--mute with astonishment.</note>
+<note place="end" id="sc17-1.003n5" n="5"> The scholarship generated by this revisionist enterprise is too
 vast even to begin to cite here. One might at least begin with Harry
 Caudill, <hi rend="italic">Night Comes to the Cumberlands</hi> (1963);
 Henry Shapiro, <hi rend="italic">Appalachia on Our Mind: The Southern
@@ -360,29 +358,30 @@ Ronald D. Eller,<hi rend="italic"> Miners, Millhands and Mountaineers
 </hi>(1982) ; David E. Whisnant, <hi rend="italic">All That Is Native
 and Fine</hi>: <hi rend="italic">The Politics of Culture in an
 American Region</hi> (1983); Altina Waller, <hi rend="italic">Feud: Hatfields, McCoys and Social Change in Appalachia, 1860-1900</hi> (1988); and J. W. Williamson, <hi rend="italic">Southern Mountaineers in Silent Films: Plot Synopses of Movies About Moonshining, Feuding and Other Mountain Topics, 1904-1929</hi> (1994) and <hi rend="italic">Hillbillyland: What the Movies Did to the Mountains and What the Mountains Did to the Movies</hi> (1995). Shapiro, Whisnant, Waller, and Williamson (1995) were all published by the University of North Carolina Press, which has supported and continues to support revisionist historical writing on Appalachia.</note>
-<note place="end" id="sc17-1.995n6" n="6"> Cf. John Warrack and Ewan
+<note place="end" id="sc17-1.003n6" n="6"> Cf. John Warrack and Ewan
 West, <hi rend="italic">The Oxford Dictionary of Opera</hi> (New York:
 Oxford University Press,1992), p. 118. In Bizet's <hi
 rend="italic">Carmen</hi>, there is in fact a country girl, but her name is Micaela, not Carmen. Oscar Hammerstein's remake of the opera, <hi rend="italic">Carmen Jones</hi> (1943), was set in Chicago and the South, but not the mountain South; the cast was all Negro.</note>
-<note place="end" id="sc17-1.995n7" n="7"><hi rend="italic"> New York Times</hi>, 30 October 1994, p. 49.</note>
-<note place="end" id="sc17-1.995n8" n="8"> Mark Fenster, "Country Music
+<note place="end" id="sc17-1.003n7" n="7"><hi rend="italic"> New York Times</hi>, 30 October 1994, p. 49.</note>
+<note place="end" id="sc17-1.003n8" n="8"> Mark Fenster, "Country Music
 Video," <hi rend="italic">Popular Music</hi> 7:3 (Oct. 1988): 285-302,
 "Buck Owens, Country Music, and the Struggle for Discursive Control,"
 <hi rend="italic">Popular Music</hi> 9 (Oct. 1990): 275-90, and
 "Preparing the Audience, Informing the Performers: John A. Lomax and
 <hi rend="italic">Cowboy Songs and Other Frontier Ballads," American Music 7</hi> (Fall 1989): 260-77; Aaron A. Fox, "The Jukebox of History: Narratives of Loss and Desire in the Discourse of Country Music," <hi rend="italic">Popular Music</hi> 11 (Jan. 1992): 53-72; Richard Leppert and George Lipsitz, "`Everybody's Lonesome for Somebody': Age, the Body and Experience in the Music of Hank Williams," <hi rend="italic">Popular Music 9</hi> (Oct. 1990): 259-74.</note>
-<note place="end" id="sc17-1.995n9" n="9"> The CD is as ill-considered, it turns out, as the book it accompanies: there are seven tracks by Emmylou Harris, two by the Tashians, two by Dolly Parton, one by Robin and Linda Williams, and five by the young musicians--Lewis, Chiavola, Crowell, and prodigy Cody Kilby. That leaves a half-dozen to represent all of the rest of country music about which the book generalizes so pervasively.</note>
+<note place="end" id="sc17-1.003n9" n="9"> The CD is as ill-considered, it turns out, as the book it accompanies: there are seven tracks by Emmylou Harris, two by the Tashians, two by Dolly Parton, one by Robin and Linda Williams, and five by the young musicians--Lewis, Chiavola, Crowell, and prodigy Cody Kilby. That leaves a half-dozen to represent all of the rest of country music about which the book generalizes so pervasively.</note>
+<div3 id="sc17-1.023" type="About">
+  <p>David E. Whisnant teaches courses on country music, Appalachia, American literature, folklore, and the politics of culture at the University of North Carolina at Chapel Hill.</p> 
+  </div3>
 </div2>
 
-<div2 id="sc17-1.fairclough.001" n="Race and Democracy: The Civil
+<div2 id="sc17-1.004" n="Race and Democracy: The Civil
 Rights Struggle in Louisiana" type="Article">
   <head>Race and Democracy: The Civil
 Rights Struggle in Louisiana</head> 
-  <docAuthor>By ADAM FAIRCLOUGH</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995 pp. 12-18</docDate> 
-<argument>
-  <p>This essay is excerpted from the Preface of <title>Race and Democracy: The Civil Rights Struggle in Louisiana, 1915-1972</title> published this spring by the University of Georgia Press. Adam Fairclough holds the chair of modern American history at the University of Leeds. He is author of two other books published by the University of Georgia Press: <title>Martin Luther King, Jr</title> (1995) and <title>To Redeem the Soul of America: The Southern Christian Leadership Conference and Martin Luther King, Jr.</title> (1987).</p> 
-  </argument>
+  <byline>By <docAuthor><name reg="Fairclough, Adam">Adam Fairclough</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 12-18</docDate> 
+
 <p>When I began this study, in 1987, my perceptions of the civil rights movement had been formed during ten years of research into the history of the Southern Christian Leadership Conference and the career of Martin Luther King, Jr. That work both derived from and rein-forced the commonly held perception that the black activism of 1955 to 1965 displayed a unity and momentum that set it apart from what came before and what came after. Here, finally, were a powerful mass movement and a leader worthy of the cause; here, at last, was the decisive breakthrough. Embarking upon a study of Louisiana, I imagined not only that an examination of the civil rights movement at the state and local levels would broaden our understanding of black insurgency, but also that it would confirm rather than challenge the Montgomery-to-Selma framework that seemed self-evidently correct. Like most historians of the movement, I realized that black militancy had quickened in the late 1930s and during the Second World War, but I intended passing lightly over this period, confining it to a chapter, perhaps two, on the "origins" of the civil rights movement. The focus of the book, as with my history of SCLC, was to be on the late 1950s and 1960s.</p>
 
 <p>As I plunged into research, however, it soon became apparent that the contours of the struggle in Louisiana bore little resemblance to the Montgomery-to-Selma story. For one thing, black activism between the late 1930s and the Brown decision was so multifaceted, broadly based, and militant that it seemed to merit the same kind of scholarly attention as the period 1955-65.</p>
@@ -537,16 +536,16 @@ of bifactional politics bequeathed by Huey Long discouraged the rabid
 racism of those other states. The Catholic church and Latin tradition of race relations also gave the racial struggle in Louisiana its own flavor. As NAACP field secretary Harvey Britton put it, "There was always an underlying feeling in Louisiana of some kind of comradeship between black and whites.... We had worked out our own pace, and things were going to generally get better, but it was not on a national time schedule, it was on Louisiana's time schedule."</p>
 
 <p>Yet the history of Louisiana, for all its peculiarities, also illustrates the force and centrality of race. On balance, Louisiana was more like other Southern states than unlike them; the white population resisted the civil rights movement with as much determination there as it did elsewhere. While throwing light on the nuances and peculiarities of one state, the Louisiana story is also, in important respects, typical of how the civil rights struggle unfolded in the South. </p>
+<div3 id="sc17-1.024" type="About">
+  <p>This essay is excerpted from the Preface of <title>Race and Democracy: The Civil Rights Struggle in Louisiana, 1915-1972</title> published this spring by the University of Georgia Press. Adam Fairclough holds the chair of modern American history at the University of Leeds. He is author of two other books published by the University of Georgia Press: <title>Martin Luther King, Jr</title> (1995) and <title>To Redeem the Soul of America: The Southern Christian Leadership Conference and Martin Luther King, Jr.</title> (1987).</p> 
+  </div3>
 </div2>
 
-<div2 id="sc17-1.smith.001" n="Ayers v. Fordice:
+<div2 id="sc17-1.005" n="Ayers v. Fordice:
 An Update" type="Article">
   <head><title>Ayers v. Fordice</title>: An Update</head> 
-  <docAuthor>By Faye McDonald Smith</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995 p. 19</docDate> 
-<argument>
-  <p>Atlanta writer Faye McDonald Smith frequently covers education and business issues.</p> 
-  </argument>
+  <byline>By <docAuthor><name reg="Smith, Faye McDonald">Faye McDonald Smith</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995 p. 19</docDate> 
 
 <p>In our last issue, (Winter '94), we ran a detailed article about the twenty-year-old Ayers desegregation case of higher education in Mississippi. In March 1994, U.S. District Judge Neal Biggers, Jr. issued the much-anticipated ruling. Here's an update:</p>
 
@@ -583,18 +582,17 @@ more racially diverse faculties and administrations -- in order to fully desegre
 <p>To some observers, the judge's ruling leaves many questions unanswered, and sets the stage for another round of contentious litigation. Initially threatening to appeal, the Board has since indicated that it will not embark on yet more costly litigation and will comply with the court-ordered remedies. Attorneys for the plaintiffs are in the process of deciding if an appeal is feasible. The judge ordered the establishment of a three-person Monitoring Committee to review court-ordered remedies, and the plaintiffs intend to ask the Committee to expand the decree in areas where they think it doesn't go far enough.</p>
 
 <p>It is not yet clear what impact the ruling will have on several other states which are also embroiled in desegregation lawsuits.</p>
+<div3 id="sc17-1.025" type="About">
+  <p>Atlanta writer Faye McDonald Smith frequently covers education and business issues.</p> 
+  </div3>
 </div2>
 
-<div2 id="sc17-1.garrow.001" n="A Day Late?" type="Article">
+<div2 id="sc17-1.006" n="A Day Late?" type="Review">
   <head>A Day Late?</head> 
-  <docAuthor>By David J. Garrow</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995 pp. 20-23</docDate> 
-<argument>
-  <p>David J. Garrow is the author of <title>Liberty and Sexuality: The Right to Privacy and the Making of Roe v. Wade</title> (1994) and <title>Bearing the Cross</title> (1986), a biography of Martin Luther King, Jr., which won the Pulitzer Prize and the 1987 Robert F. Kennedy Award.</p> 
-  </argument>
+  <byline>By <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 20-23</docDate> 
 
-
-<p><bibl><title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title> by John Egerton (New York: Alfred A. Knopf, 704 pp. $35.).</bibl></p>
+<bibl><title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title> by John Egerton (New York: Alfred A. Knopf, 704 pp. $35.).</bibl>
 
 <p>John Egerton's group portrait of Southerners who opposed virulent white racism in their region during the period from 1932 to 1954 is a rich and impressive book, but all too often--as Egerton himself realizes--his narrative bestows excessive praise on white "liberals" who could never quite bring themselves even to publicly denounce racial segregation.</p>
 
@@ -731,21 +729,22 @@ seriousness of purpose, his skill as a critic, and--certainly
 not least--his balancing assertions that <title>Speak Now</title> is "a tremendously valuable book...rich and impressive." I could hardly be disappointed with that. Moreover, it is surely a good and healthy development in the sometimes fractious discussion about race in the national experience for people to express their differing views honestly, without being rancorous or personally insulting. I am pleased and honored to join my esteemed critic in this serious and substantive exchange of views. </p>
 
 <p>John Egerton's book <title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title>, excerpted in the Fall 1994 <title>Southern Changes</title> has been chosen for the 1995 Robert F. Kennedy Award.</p>
+<div3 id="sc17-1.026" type="About">
+  <p>David J. Garrow is the author of <title>Liberty and Sexuality: The Right to Privacy and the Making of Roe v. Wade</title> (1994) and <title>Bearing the Cross</title> (1986), a biography of Martin Luther King, Jr., which won the Pulitzer Prize and the 1987 Robert F. Kennedy Award.</p> 
+  </div3>
 </div2>
 
-<div2 id="sc17-1whitehead.001" n="'Walking from the
+<div2 id="sc17-1.007" n="'Walking from the
 Tombigbee' -- An Introduction to
 Minnie Bruce Pratt" type="Article">
   <head>'Walking from the
 Tombigbee'
 An Introduction to
 Minnie Bruce Pratt</head> 
-  <docAuthor>By KIM WHITEHEAD</docAuthor> 
-  <docDate>Vol. 17, No. 1, 1995 pp. 23-27</docDate> 
-<argument>
-  <p>Kim Whitehead graduated last May from the Graduate Institute of Liberal Arts at Emory University in Women's Studies and American literature.</p> 
-  </argument>
-<p>In the mid-1950s, Minnie Bruce Pratt's mother worked as a social worker and sometimes took her daughter along when she visited the homes of impoverished, mostly African-American, women and children in rural south Alabama just outside Selma. Pratt's father, a sawmill clerk, often spent his evenings reading John Birch news-papers and railing against the Catholic-Communist-Jewish conspiracy he believed was attempting to overthrow segregation. On summer afternoons, the young girl her-self rummaged through closets and attics, looking for books that would explain the tangle of freedoms and oppressions she witnessed and experienced in her deeply racist and sexist Southern society. In the end, the best solution seemed to be to get out.</p>
+  <byline>By <docAuthor><name reg="Whitehead, Kim">Kim Whitehead</name></docAuthor></byline> 
+  <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 23-27</docDate> 
+
+<p>In the mid-1950s, Minnie Bruce Pratt's mother worked as a social worker and sometimes took her daughter along when she visited the homes of impoverished, mostly African-American, women and children in rural south Alabama just outside Selma. Pratt's father, a sawmill clerk, often spent his evenings reading John Birch news-papers and railing against the Catholic-Communist-Jewish conspiracy he believed was attempting to overthrow segregation. On summer afternoons, the young girl herself rummaged through closets and attics, looking for books that would explain the tangle of freedoms and oppressions she witnessed and experienced in her deeply racist and sexist Southern society. In the end, the best solution seemed to be to get out.</p>
 
 <p>Over the years, however, in her own writing, Minnie Bruce Pratt has
 always gone back home. Her poetry--the chapbook <title>The Sound
@@ -823,7 +822,7 @@ positions. As Pratt understands it a century later,
 the Southern woman, and though the wives of wealthy landowners across
 the region attempted to live up to this "ideal," as the historian Anne
 Firor Scott has pointed out, the everyday realities of women's lives
-belied the myth in numerous ways.<ref target="sc17-1.whitehead.001n1">1</ref> Certainly, African-American women and the wives of yeoman and poor farmers did not even have the opportunity to pursue the myth. But nevertheless, as Pratt asserts, the ideal of the Southern "lady" and her hallowed relationship to the land has persisted. Living under the vestiges of the myth, Pratt recalls, "I...learned that I could be either a lesbian or a mother of my children, either in the wilderness or on holy ground, but not both" (<title>Rebellion</title> 43).</p>
+belied the myth in numerous ways.<ref target="sc17-1.007n1">1</ref> Certainly, African-American women and the wives of yeoman and poor farmers did not even have the opportunity to pursue the myth. But nevertheless, as Pratt asserts, the ideal of the Southern "lady" and her hallowed relationship to the land has persisted. Living under the vestiges of the myth, Pratt recalls, "I...learned that I could be either a lesbian or a mother of my children, either in the wilderness or on holy ground, but not both" (<title>Rebellion</title> 43).</p>
 
 <p>Against this configuration of the land as either sacred or wild and corrupt, Pratt reckons with traditional images of "wild" women and challenges these through her own body and the landscapes of the South itself. But this first involves confronting the images of the lesbian, and especially the lesbian mother, which circulate in Southern culture. After she asserts her lesbianism, her mother refuses to assist her, her ex-husband uses legal statutes against her, and Pratt finds herself cast as the serpent, the unredeembable creature of the earth according to Christian tradition: ". . .a thing, scaly sin, needle teeth / like poison knives, a monster in their lives who'd run / with the children in her mouth, like a snake steals / eggs." She understands that her ex-husband and her mother abhor her, her "inhuman shimmer, the crime of moving back and forth / between more than one self, more than one end to the story." But she also realizes that they are culturally privileged to name her--"the one who tells the tale gets to name the monster..."--and that she really threatens the cultural order by insisting that she does not have to live by the duality that structures gender relations, at least partly through telling her own story (<title>Crime</title> 114-115).</p>
 
@@ -865,18 +864,21 @@ never finally assert her difference from her white father which, in
 the words of Biddy Martin and Chandra Mohanty, "would (and in much
 feminist literature does) exempt the daughter from her implication in
 the structures of privilege/oppression, structures that operate in
-ways much more complex than the male/female split itself."<ref target="sc17-1.whitehead.001n2">2</ref>ref> She always acknowledges her own feelings of loss only within the larger context of racist violence that has pervaded her native region. When one of her sons asks about Southern history, her thoughts immediately go to the lynching of young African-American men in south Alabama, and she says of her son, "I am ready to / tell him all I know" (<title>Crime</title> 75).</p>
+ways much more complex than the male/female split itself."<ref target="sc17-1.007n2">2</ref>ref> She always acknowledges her own feelings of loss only within the larger context of racist violence that has pervaded her native region. When one of her sons asks about Southern history, her thoughts immediately go to the lynching of young African-American men in south Alabama, and she says of her son, "I am ready to / tell him all I know" (<title>Crime</title> 75).</p>
 
 <p>Indeed, one of Pratt's chief revisions of Southern motherhood lies in her desire to pass on to her sons a different vision of what it means to be a man or a woman, what it means to be a Southerner. She speaks to them, hoping "..you'll remember / you come from dirt and history; that you'll choose / memory, not anesthesia..." (<title>Crime</title> 14), hoping they will participate in her story of who a Southern woman may be: self-defining, lesbian, unafraid to challenge racism and sexism at every turn. And, as she relates in the poem "Another Question," they do. When her youngest son reads her poems, Pratt writes, he likes "that I get in the middle and tell it all, / grab people and tell them, just say it" (Crime 98). In his tribute to his mother's defiance, Pratt's son himself becomes a sign of the immense possibilities for reconfiguring the
 mother-child relationship and the place of women in the South.</p>
 
 <p rend="bold">Notes</p>
 
-<note place="end" id="sc17-1.whitehead.001n1" n="1"> Anne Firor Scott, <hi rend="italic">The Southern Lady: From Pedestal to Politics, 1830-1930</hi> (Chicago: University of Chicago Press. 1970), 16, 27ff. See also Sally G. McMillen, <hi rend="italic">Southern Women: Black and White in the Old South</hi> (Arlington Heights, Illinois: Harlan Davidson, 1992).</note>
-<note place="end" id="sc17-1.whitehead.001n2" n="2"> Biddy Martin and Chandra Talpade Mohanty, "Feminist Politics:
+<note place="end" id="sc17-1.007n1" n="1"> Anne Firor Scott, <hi rend="italic">The Southern Lady: From Pedestal to Politics, 1830-1930</hi> (Chicago: University of Chicago Press. 1970), 16, 27ff. See also Sally G. McMillen, <hi rend="italic">Southern Women: Black and White in the Old South</hi> (Arlington Heights, Illinois: Harlan Davidson, 1992).</note>
+<note place="end" id="sc17-1.007n2" n="2"> Biddy Martin and Chandra Talpade Mohanty, "Feminist Politics:
 What's Home Got to Do with It?," in<hi rend="italic"> Feminist Studies/ Critical
 Studies</hi>, ed. Teresa de Lauretis (Bloomington: Indiana University
 Press, 1986), 191.</note>
+<div3 id="sc17-1.027" type="About">
+  <p>Kim Whitehead graduated last May from the Graduate Institute of Liberal Arts at Emory University in Women's Studies and American literature.</p> 
+  </div3>
 
 </div2>
 </div1>

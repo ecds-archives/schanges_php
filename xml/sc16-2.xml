@@ -57,15 +57,13 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <div1 id="sc16-2.001" n="Southern Changes 16:2" type="Issue">
 <head> Southern Changes. Volume 16, Number 2, Summer, 1994 </head>
 <p>
-<title> Southern Changes</title>. Volume 16, Number 2, Summer, 1994</p>
+<title> Southern Changes</title>. Volume 16, Number 2, Summer, <date value="1994-06">1994</date></p>
 
-<div2 id= "sc16-2mcdonald.002" n="A Far Cry from Apartheid" type="Article">
+<div2 id="sc16-2.002" n="A Far Cry from Apartheid" type="Article">
 <head>A Far Cry from Apartheid</head>
-<docAuthor>By LAUGHLIN MCDONALD</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 1-2</docDate>
+<byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 1-2</docDate>
  
-<argument><p>Laughlin McDonald, director of the Southern Regional Office of the American Civil Liberties Union, writes often for <title>Southern Changes</title>. This editorial essay was adapted from an article for Georgia Forum, an educational organization that provides experts' views on public issues.</p></argument>
-
 <p>The recent round of congressional redistricting in the South was
 hailed by the minority and civil rights communities as the most
 successful in the nation's history. New majority-minority districts
@@ -79,7 +77,7 @@ districts elected a minority candidate to Congress, increasing the number of Afr
 
 <p>Segregation involved, among other things, denying
 
-<pb n="1"/>
+<pb n="2"/>
 
 black persons the right to register and vote, the right to run for office and participate in primary elections, the right to live in neighborhoods of one's choice, the equal enjoyment of public accommodations, access to jobs, the right to serve on juries, and the right to attend public schools.</p>
 
@@ -90,14 +88,21 @@ black persons the right to register and vote, the right to run for office and pa
 <p>Majority-minority districts do not guarantee that minorities will get elected. All candidates must build coalitions and reach across racial, ethnic, economic, and other lines. But such districts do provide minorities equal opportunities to participate in the political process and to elect candidates of their choice. That right is guaranteed to all Americans, of whatever race, by the Constitution and the Voting Rights Act of 1965.</p>
 
 <p>Taking race into account in redistricting, along with other
-factors, helps ensure that the process will be broadly inclusive and the Congress will be racially diverse. While white elected officials can undoubtedly represent racial minorities, our history shows that frequently they have not and that some have been the architects of our worst forms of official discrimination. Redistricting should ensure that minorities will in fact be represented in the national legislature, that their views will be heard, and that a variety of backgrounds and experience will be brought to national decision-making. </p><pb n="2"/></div2>
+factors, helps ensure that the process will be broadly inclusive and
+the Congress will be racially diverse. While white elected officials
+can undoubtedly represent racial minorities, our history shows that
+frequently they have not and that some have been the architects of our
+worst forms of official discrimination. Redistricting should ensure
+that minorities will in fact be represented in the national
+legislature, that their views will be heard, and that a variety of
+backgrounds and experience will be brought to national
+decision-making. </p>
+<div3 id="sc16-2.022" type="About"><p>Laughlin McDonald, director of the Southern Regional Office of the American Civil Liberties Union, writes often for <title>Southern Changes</title>. This editorial essay was adapted from an article for Georgia Forum, an educational organization that provides experts' views on public issues.</p></div3></div2>
 
-<div2 id= "sc16-2raimondo.002" n="The Places of AIDS" type="Article">
+<div2 id="sc16-2.003" n="The Places of AIDS" type="Article">
 <head>The Places of AIDS</head>
-<docAuthor>By MEREDITH RAIMONDO</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 3-12</docDate>
-
-<argument><p>Meredith Raimondo is a graduate student in Women's Studies at Emory University. Her research seeks to bring cultural and historical perspectives to bear on AIDS in the South.</p></argument>
+<byline>By <docAuthor><name reg="Raimondo, Meredith">Meredith Raimondo</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 3-12</docDate>
 
 <p>"Cancer clinic has AIDS scare" was the title of the piece in <hi rend="italic">The Atlanta Constitution</hi>'s local news summary on July 30, 1985. Noting that "As many as 1,000 people may have been exposed to the AIDS virus in blood-derived drugs," the article mentioned only one patient by name: former Georgia Governor Lester Maddox.</p>
 
@@ -116,7 +121,7 @@ metropolitan center. So why does Atlanta get overlooked? One important reason is
 <p>In order to understand how the social experience of AIDS developed
 in Atlanta, it must be examined as a city
 
-<pb n="3"/>
+<pb n="4"/>
 
 in the South as well as a major urban area. The variable of place
 provides an important perspective on why Atlanta's story is so similar
@@ -145,12 +150,12 @@ during his political career. He represented the threat of AIDS to the
 find in not belonging to one of the Atlanta-based Centers for Disease
 Control's initial "risk groups."</p>
 
-<pb n="4"/>
+<pb n="5"/>
 
 <p>Throughout this early period there were few conscious discussions
 of region, a problem exacerbated by the lack of coverage. The <hi rend="italic">AJC</hi> did
 not write about the local experience of AIDS with any frequency until
-1985<ref target="sc16-2raimondo01">1</ref> (see <hi rend="smallcap">FIGURE</hi> 1 for comparison by year of total and local coverage
+1985<ref target="sc16-2.003n1">1</ref> (see <hi rend="smallcap">FIGURE</hi> 1 for comparison by year of total and local coverage
 of AIDS). Rather, the Atlanta newspapers tended to report on the
 scientific "mystery." According to Kinsella in <hi rend="italic">Covering the Plague</hi>,
 many media outlets adopted this approach, taking their cue from the
@@ -160,7 +165,7 @@ little time for extended research. In covering AIDS, there was one
 stationary, constant, and reliable source of information: the Centers
 for Disease Control.
 
-<pb n="5"/>
+<pb n="6"/>
 
 Kinsella argues that reliance on this source placed the focus almost entirely on rare illnesses and categories of "risk." Because the experience of living with AIDS was rarely a topic, there was no way to ask how that experience varied around the country. The media's reliance on the CDC, itself an Atlanta institution, played a key role in establishing an understanding of AIDS that made the city's own experience of the crisis nearly invisible in its daily papers.</p>
 
@@ -170,7 +175,7 @@ Kinsella argues that reliance on this source placed the focus almost entirely on
 standard epidemiological diffusion approach in their 1989 article,
 "The Origin and Diffusion of AIDS: a View from Medical Geography,"
 which they expanded with Rashid Bashshur into their 1991 book, <hi rend="italic">The
-Geography of AIDS</hi>.<ref target="sc16-2raimondo02">2</ref> Maps are
+Geography of AIDS</hi>.<ref target="sc16-2.003n2">2</ref> Maps are
 generated by looking at where and when cases of the AIDS are
 diagnosed. From there, causal relationships between the clusters are hypothesized. The fact that many cases of AIDS were early identified on the continent of Africa led researchers to assume the disease's African origins. This approach is clearly evident in Shannon and Pyle; AIDS begins in Africa and spreads globally (see <hi rend="smallcap">FIGURE</hi> 2). However, there are other possible explanations for these clusters. In <hi rend="italic">Blaming Others: Prejudice, Race, and Worldwide AIDS</hi> (1988), Renee Sabatier points out that while "Western" research was quick to look for "Third World" origins, those same researchers appeared unwilling to investigate the possibility that AIDS spread from the United States to the rest of the world in exported blood products. Sabatier concludes that the explanations Western scientists provided for the geographical distributions they recorded were influenced by racist assumptions about developing nations. "Objective science" fell prey to geopolitical bias.</p>
 
@@ -193,7 +198,7 @@ Review</hi>. This research shows that Georgia's caseload developed quickly and r
 looking back at the first years of the crisis. They suggest that as
 data was gathered and models
 
-<pb n="6"/>
+<pb n="7"/>
 
 proposed, Atlanta was not considered a place where AIDS "began" in the
 United States. Nor does it seem likely that reporters would have found useful tools for regional analysis in such work. However, the dateline <hi rend="italic">Atlanta</hi> was not uncommon in the early years of the crisis. When it appeared, it was almost always a reference to the CDC, a federal institution. This replacement of the regional meaning of the city with a national meaning effectively eclipsed the local experience of AIDS in the commercial media. Stories on what the CDC was discovering about AIDS, because they were reported from Atlanta, appeared to be "local news," but in fact they told nothing about the experiences of people within the city, except for a small group of scientists.</p>
@@ -225,7 +230,7 @@ rend="italic">Southern Changes</hi>. Yet, wrote Guthey, Kovach's resistance to N
 
 <p>This history suggests that the <hi rend="italic">AJC</hi> might be a prob-
 
-<pb n="7"/>
+<pb n="8"/>
 
 lematic source for analyzing Atlanta as a Southern city because it is
 a product of a vision in which the South retains a distinct identity
@@ -237,7 +242,7 @@ not represent an exclusive source of information&#x2014;the <hi rend="italic">AJ
 only storyteller. Harlon Dalton points out that "the mass media are
 scarcely the only avenues of communication in the black community,"
 citing the example of the African-American church as an alternative
-site for education.<ref target="sc16-2raimondo03">3</ref>
+site for education.<ref target="sc16-2.003n3">3</ref>
 Conversations, storytelling, and oral traditions remain important informal modes of communication among Southerners of all ages and races. Indeed, one of the challenges for Southern newspapers continues to be high rates of illiteracy. However, Moore sees a connection between print and oral forms in Southern culture: "Southerners like a good story, and they like a good story well told, and they like to see it in the newspaper." Media narrative has a great deal of influence on other kinds of knowledge and communication in a culture saturated with information technology, and may produce values that help frame the debate as information travels from print into oral tradition. As the <hi rend="italic">AJC</hi> constructed a drama of AIDS in Atlanta, it created players (both heroes and villains), critical moments, and moral lessons. The framing of local issues by these "mainstream" dailies reveals some of the dynamics of power in Atlanta's AIDS crisis.</p>
 
 <p>Before the Maddox incident, what story was the <hi rend="italic">AJC</hi> telling? Early
@@ -248,7 +253,7 @@ promiscuity. By 1983, national coverage of the crisis had increased
 dramatically. The <hi rend="italic">AJC</hi> ran a front-page feature on Sunday, February 13
 which called AIDS "the killer that no one understands." It
 
-<pb n="8"/>
+<pb n="9"/>
 
 made AIDS local by talking about the experiences of Charles, a resident of Atlanta living with AIDS. The article treated Charles with dignity and allowed him to speak in his own voice. It noted that AIDS had brought an increase in homophobia. However, it undermined its own efforts to counteract prejudice by reporting that "most of [AIDS'] victims&#x2014;about 75 percent&#x2014;have been homosexual males, like Charles." By invoking the risk group structure, which erroneously implies that identity leads to AIDS, the article contained and isolated Charles from the presumptively heterosexual&#x2014;and therefore "safe"&#x2014;reading "public."</p>
 
@@ -291,7 +296,7 @@ Under Cox Enterprises president David Easterly, who arrived in 1982, the <hi ren
 transmission quieted, and the <hi rend="italic">AJC</hi> followed suit. As in 1983, stories
 about AIDS continued to concentrate
 
-<pb n="9"/>
+<pb n="10"/>
 
 on gay men and services in the gay community. There was little change in the first part of 1985. Fulton County filed suit to close two bathhouses, both targets of vice squad investigations for violations of the Georgia sodomy law as well as health risks. Delta Airlines, headquartered in Atlanta, considered and rejected a proposal to bar people with AIDS from its planes. AID Atlanta held a service attended by 300 at All Saint's Episcopal Church in memory of those who had died. Atlanta municipal court judges took it upon themselves to counsel "johns"&#x2014;men accused of soliciting prostitution&#x2014;of the dangers they faced and their potential to spread AIDS to their wives and the heterosexual population at large.</p>
 
@@ -316,7 +321,7 @@ Georgia schools struggled with AIDS policies. However, there are
 complex and important regional factors which affected the AIDS crisis
 in Atlanta.</p>
 
-<pb n="10"/>
+<pb n="11"/>
 
 <p>The <hi rend="italic">AJC</hi>, up to the Maddox reports, focused
 primarily on the city's gay community. This selectivity is important,
@@ -324,7 +329,7 @@ because while it constructs certain "victims," it erases others. This
 absence reflects media fiction, not social reality. Dr. Roger
 Bakerman, a psychologist at Georgia State, pointed out that in 1986,
 even among gay men whites accounted for 65 cases per million, while
-African-Americans accounted for 93 cases per million.<ref target="sc16-2raimondo04">4</ref> He speculated that "researchers have been 'afraid to talk racially'" about AIDS because of "a century of scholarship where whites have studied blacks not to their benefit." If Bakerman is right, racial bias in AIDS research and services seems likely to continue unless this history is finally confronted and the inequities of local health delivery systems addressed. The focus on sexuality was also influenced by two specific regional factors: the strong influence of religion and the state sodomy law.</p>
+African-Americans accounted for 93 cases per million.<ref target="sc16-2.003n4">4</ref> He speculated that "researchers have been 'afraid to talk racially'" about AIDS because of "a century of scholarship where whites have studied blacks not to their benefit." If Bakerman is right, racial bias in AIDS research and services seems likely to continue unless this history is finally confronted and the inequities of local health delivery systems addressed. The focus on sexuality was also influenced by two specific regional factors: the strong influence of religion and the state sodomy law.</p>
 
 <p>Religion did fuel homophobia and AlDSphobia. For example, in 1986,
 Atlanta Reverend Charles Stanley, president of the Southern Baptist Convention, described AIDS as God's displeasure with the U.S. for its "tolerance of homosexuals," spawning controversy and protest. However, religion encouraged AIDS activism as well, in the form of memorial services, prayer services, and protests at which ministers spoke. For example, four hundred people attended a healing service at St. Philip Episcopal Church in June 1986, the first gathering of its kind in Atlanta according to the <hi rend="italic">AJC</hi>. It was described as having a powerful effect on participants: "My faith in the institutional church has been restored,' said George Leich." To challenge Reverend Stanley's homophobic remarks, 350 people formed "a 'circle of prayer' around his downtown Atlanta church." They then held "a service of their own with some Baptist-style testifying, a collection and songs."</p>
@@ -343,7 +348,7 @@ States. The distinction between national and local is tenuous at best,
 and always in danger of disappearing. Local issues about the Atlanta
 chapter of
 
-<pb n="11"/>
+<pb n="12"/>
 
 the American Red Cross and its blood supply are inseparable from the policies of the national American Red Cross. The Lester Maddox story was first reported by one of the national wire services with a New York dateline and carried in newspapers around the country. Even defining who is an Atlantan becomes confusing. Like most urban spaces, Atlanta has a mobile population of people from all over the country, and increasingly, the world. This is not to suggest that region is a concept inappropriate to such urban settings. Rather, it is to conclude that region can be illuminated as it illuminates. Clearly, it is critical to understanding the factors that structure the local experience of AIDS in Atlanta in order to create the most socially just response.</p>
 
@@ -357,14 +362,14 @@ Fox," an advertising-account representative for the paper. Like the
 recent film <hi rend="italic">Philadelphia</hi>, this well-intentioned piece was designed to raise sympathy and awareness about the devastating effects of AIDS. Such pieces may represent the greatest achievements possible in the commercial media, which are not likely to feature the politics of angry street activists. What is most ironic, however, is that the feature brings AIDS home without a full accounting of what "home" means. What continues to be absent is any kind of analysis of how being in Atlanta affects the experience of AIDS. Over a decade into the AIDS crisis, we look back at the failures of the early responses to find ourselves facing many of the same issues. Though Atlanta shares many features with cities like San Francisco, New York, or Los Angeles, it is also a Southern city, with a history that provides special challenges and special resources. In the face of the ongoing crisis, it is time to account for what that identity means.</p><lb/>
 <p rend="bold"> Notes:</p><lb/>
 
-<note id="sc16-2raimondo01" n="1">I surveyed the <title>AJC</title>>'s local coverage of AIDS (stories which discuss some aspect of the AIDS crisis and Georgia including federal legislators but excluding the CDC) from January-July 1982, 1983-1986. Unless noted, all stories cited ran in this period.</note>
+<note id="sc16-2.003n1" n="1">I surveyed the <title>AJC</title>>'s local coverage of AIDS (stories which discuss some aspect of the AIDS crisis and Georgia including federal legislators but excluding the CDC) from January-July 1982, 1983-1986. Unless noted, all stories cited ran in this period.</note>
 
-<note id="sc16-2raimondo02" n="2">Gary W. Shannon and Gerald F. Pyle. "The Origin and Diffusion of AIDS: A View from Medical Geography," <title>The Annals of the Association of American Geographers</title> 79, 1 (March, 1989): 12.</note>
+<note id="sc16-2.003n2" n="2">Gary W. Shannon and Gerald F. Pyle. "The Origin and Diffusion of AIDS: A View from Medical Geography," <title>The Annals of the Association of American Geographers</title> 79, 1 (March, 1989): 12.</note>
 
-<note id="sc16-2raimondo03" n="3">Harlon L. Dalton, "AIDS in
+<note id="sc16-2.003n3" n="3">Harlon L. Dalton, "AIDS in
 Blackface," <title>D&#x00E6;dalus</title> 118, 3 (Summer, 1989): 210.</note>
 
-<note id="sc16-2raimondo04" n="4">Ron Taylor, "Blacks High AIDS Risk
+<note id="sc16-2.003n4" n="4">Ron Taylor, "Blacks High AIDS Risk
 Spurs Push for Warning Campaign," <hi rend="italic">Atlanta Journal and Constitution</hi>, October 5, 1986: D, 1:1, 8.</note>
 <lb/>
 
@@ -393,24 +398,26 @@ Spurs Push for Warning Campaign," <hi rend="italic">Atlanta Journal and Constitu
 <p>Shilts, Randy. <title>And the Band Played On: Politics, People, and the AIDS Epidemic</title>. New York: Penguin Books, 1988.</p>
 
 <p>Tannen, Holly and Morris, David. "AIDS Jokes: Punishment,
-Retribution, and Renegotiation." <title>Southern Folklore</title> 46, no. 2 (1989): 147-158.</p><pb n="12"/></div2>
+Retribution, and Renegotiation." <title>Southern Folklore</title> 46,
+no. 2 (1989): 147-158.</p>
+<div3 id="sc16-2.023" type="About"><p>Meredith Raimondo is a graduate student in Women's Studies at Emory University. Her research seeks to bring cultural and historical perspectives to bear on AIDS in the South.</p></div3>
+</div2>
 
-<div2 id="sc16-2may.009" n="Cross Purposes"
+<div2 id="sc16-2.004" n="Cross Purposes"
       type="Review">
-<head>Cross Purposes<lb/><title>Idella:  Marjorie Rawlings' "Perfect
-Maid,"</title><hi rend="bold">by Idella Parker with Mary Keating
-(University of Florida Press, 1992, 156 pages).</hi><lb/>
-<title>Cross Creek,</title><hi rend="bold">by Marjorie K. Rawlings
-(Collier/Macmillan, 1987, 384 pages).</hi><lb/>
-<title>Cross Creek Cookery,</title><hi rend="bold">by Marjorie
-K. Rawlings (Scribner/Macmillan, 1971, 256 pages).</hi></head>
-<docAuthor>Review Essay by VIVIAN MAY</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 13-17</docDate>
-
-<argument><p>Vivian May is a graduate student in Women's Studies at Emory University in Atlanta.</p></argument>
-
+<head>Cross Purposes</head>
+<byline>Review Essay by <docAuthor><name reg="May, Vivian">Vivian May</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 13-17</docDate>
 <epigraph><p><hi rend="italic">"There came to me, in answer to prayer, a reward for my sufferings, the perfect maid. She is well trained, as good a cook as I, well educated, with almost my own tastes in literature and movies. She loves the country, she loves my dog, she loves company dinners, she dislikes liquor and has no interest in men"&#x2014;Marjorie Rawlings, Cross Creek.</hi></p></epigraph>
-
+<bibl><title>Idella:  Marjorie Rawlings' "Perfect
+Maid,"</title>by Idella Parker with Mary Keating
+(University of Florida Press, 1992, 156 pages).</bibl>
+<bibl>
+<title>Cross Creek,</title>by Marjorie K. Rawlings
+(Collier/Macmillan, 1987, 384 pages).</bibl>
+<bibl>
+<title>Cross Creek Cookery,</title>by Marjorie
+K. Rawlings (Scribner/Macmillan, 1971, 256 pages).</bibl>
 <p>Idella Parker has written her 1992 autobiography, <hi
 rend="italic">Idella: Marjorie Rawlings' "Perfect Maid,"</hi> in
 dialogue with Rawlings' 1942 autobiography, <hi rend="italic">Cross
@@ -573,15 +580,14 @@ Creek</hi> and <hi rend="italic">Idella</hi>, we learn
 that both women's spatial, cultural, racial, and gendered perceptions
 are relative. Parker mirrors Rawlings back upon herself as the final
 irony against a woman who saw in Parker (and the rest of the black
-Cross Creek community) a mirror for self-aggrandizement. </p><pb n="17"/></div2>
+Cross Creek community) a mirror for self-aggrandizement. </p>
+<div3 id="sc16-2.024" type="About"><p>Vivian May is a graduate student in Women's Studies at Emory University in Atlanta.</p></div3></div2>
 
-<div2 id= "sc16-2ashmore.002" n="Unfinished Tasks" type="Article">
+<div2 id="sc16-2.005" n="Unfinished Tasks" type="Article">
 <head>Unfinished Tasks</head>
-<docAuthor>By HARRY ASHMORE</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 20-23, 31</docDate>
+<byline>By <docAuthor><name reg="Ashmore, Harry">Harry Ashmore</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 20-23, 31</docDate>
  
-<argument><p>Former editor of the <title>Arkansas Gazette</title> and an <title>SRC</title> Life Fellow, Harry Ashmore now lives in Santa Barbara, Calif. This essay is excerpted from his new book, <title>Civil Rights and Wrongs</title> (Knopf, 1994), which explores his personal remembrances of U.S. race relations in the fifty years since the publication of Gunnar Myrdal's landmark study, <title>The American Dilemma</title>, and the founding of the Southern Regional Council.</p></argument>
-
 <p>If American society is divided by horizontal class lines, there is also a vertical division based on race that begins at the point where the affluent are set apart from the poor. Analysis of 1990 census data showed that blacks in significant numbers lived in upscale urban and suburban neighborhoods, but intimate contact with their white neighbors was minimal. Generations of Southern demagogues had claimed that such residential race mixing would result in wholesale miscegenation, but the 53 million marriages recorded in the 1990 census included only 240,000 with a black spouse.</p>
 
 <p>In the upper strata of society racial attitudes, reinforced by ethnocentrism on both sides, still inhibited interaction and provided fertile ground for political exploitation. But in the ghettos the issues were still those that had existed throughout the nation's history. The greatly expanded opportunities available to middleclass blacks remained as far beyond the reach of most underclass youths as they had been for their sharecropping forebears. Segregation was still the dominant fact of life below the poverty line, and the issue was quite literally survival.</p>
@@ -731,18 +737,24 @@ try <hi rend="italic">Briggs</hi>, the Clarendon County case he would
 pursue to his final victory in <hi rend="italic">Brown</hi>. Late that night, as the train pounded down through Virginia, Marshall looked up from his briefs and said, "You know, Kenneth, sometimes I get awfully tired of trying to save the white man's soul."</p>
 
 <p>The task of redemption remained unfinished, and as a new president
-came up from the South to address it he was faced with the question I had left open a generation ago when the rise of the civil rights movement marked the end of the era I memorialized in <hi rend="italic">An Epitaph for Dixie</hi>: "There is reason to wonder, certainly, whether the American political system as it has evolved under the impact of the expanding cities is anywhere giving us the kind of public and private leadership our age demands."</p></div2>
+came up from the South to address it he was faced with the question I
+had left open a generation ago when the rise of the civil rights
+movement marked the end of the era I memorialized in <hi
+rend="italic">An Epitaph for Dixie</hi>: "There is reason to wonder,
+certainly, whether the American political system as it has evolved
+under the impact of the expanding cities is anywhere giving us the
+kind of public and private leadership our age demands."</p>
+<div3 id="sc16-2.025" type="About"><p>Former editor of the <title>Arkansas Gazette</title> and an <title>SRC</title> Life Fellow, Harry Ashmore now lives in Santa Barbara, Calif. This essay is excerpted from his new book, <title>Civil Rights and Wrongs</title> (Knopf, 1994), which explores his personal remembrances of U.S. race relations in the fifty years since the publication of Gunnar Myrdal's landmark study, <title>The American Dilemma</title>, and the founding of the Southern Regional Council.</p></div3></div2>
 
-<div2 id="sc16-2dunbar.009" n="Unreconciled Southerners"
+<div2 id="sc16-2.006" n="Unreconciled Southerners"
       type="Review">
-<head>Unreconciled Southerners<lb/><title>A Southern Life, Letters of
-Paul Green, 1916-1981</title>,<hi rend="bold"> edited by Laurence
-G. Avery (University of North Carolina Press, 1994, 735 pages).</hi></head>
-<docAuthor>Reviewed by LESLIE DUNBAR</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 24-26</docDate>
+<head>Unreconciled Southerners</head>
+<byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 24-26</docDate>
 
-<argument><p>Executive director of the Southern Regional Council from 1961-1965, Leslie Dunbar now lives and writes in Durham, North Carolina.</p></argument>
-
+<bibl><title>A Southern Life, Letters of
+Paul Green, 1916-1981</title>, edited by Laurence
+G. Avery (University of North Carolina Press, 1994, 735 pages).</bibl>
 <p>I confess that I often feel that the best have gone on, have left the rest of us mired in stagnating and smelly marshes of mediocrity and venality which these days run from art to politics. Is that bit of gloom but the crankiness of a load of years? Perhaps.</p>
 
 <p>But I do remember women and men, Southerners strong among them, whose like I see few of now. They were persons of great and fulfilled talents. They were more than that too. They looked for the enlargement, not the denial, of liberal democracy. They worked for and taught generosity of personal spirit. They did not cheapen public affairs, did not offer us excuses for being violent or for holding down our brothers and sisters. They called on us, here in the South and in the nation, to act like a civilized people. Here in our marsh, pulled down as we are by the mean likes of Helms, Gingrich, Farrakhan, Edwin Edwards, North, and Falwell and Robertson, we have almost forgotten there can be such.</p>
@@ -823,18 +835,18 @@ keep singing my song of hope and dedicated effort&#x2014;singing even louder
 when the head conductor exchanges his baton for a rifle and calls the
 death march toward oblivion&#x2014;my loudness being then no longer singing
 but a cry and an about face in the march and hollering for others to
-turn likewise.</p></q></p></div2>
+turn likewise.</p></q></p>
+<div3 id="sc16-2.026" type="About"><p>Executive director of the Southern Regional Council from 1961-1965, Leslie Dunbar now lives and writes in Durham, North Carolina.</p></div3></div2>
 
-<div2 id="sc16-2grant.009" n="Sisters of Another Era"
+<div2 id="sc16-2.007" n="Sisters of Another Era"
       type="Review">
-<head>Sisters of Another Era<lb/><title>Having Our Say: The Delany
-Sisters' First 100 Years</title>,<hi rend="bold"> by Sarah and
-A. Elizabeth Delany; with Amy Hill Hearth (Kodansha, 1994, 210 pages).</hi></head>
-<docAuthor>Reviewed by JOANNE GRANT</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 26-27</docDate>
+<head>Sisters of Another Era</head>
+<byline>Reviewed by <docAuthor><name reg="Grant, Joanne">Joanne Grant</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 26-27</docDate>
 
-<argument><p>Joanne Grant is the author of <title>Black Protest</title> and director of the documentary film <title>Fundi: The Story of Ella Baker</title>. Her written biography of Ella Baker will be published by John Wiley and Sons.</p></argument>
-
+<bibl><title>Having Our Say: The Delany
+Sisters' First 100 Years</title>, by Sarah and
+A. Elizabeth Delany; with Amy Hill Hearth (Kodansha, 1994, 210 pages).</bibl>
 <p><hi rend="italic">Having Our Say</hi> is a folksy, feisty tale of growing up black over a hundred years of our tumultuous history of race relations. Told in the voice of two remarkable women, the Delany sisters, now 100 and 102 years old, the book provides easy access to that history and charmingly details their struggle for independence. Because of that facileness it is particularly valuable for giving the young, who, sad to say, know little about the scourge of racism, some insights into the struggle against it.</p>
 
 <p>Though the Delany sisters were sheltered, growing up in a financially secure family and living for many years in the rarefied atmosphere of St. Augustine's School in Raleigh, North Carolina, where both their parents were employed, they did not completely escape the barbs of racism. Sometimes they succeeded in deflecting them and sometimes they simply went home and cried.</p>
@@ -853,19 +865,23 @@ domestic science on the high school level." A. Elizabeth Delany, or Bessie, beca
 
 <p>The sisters met many leading black figures during their long lives, including Booker T. Washington, Paul Robeson, and the sociologist E. Franklin Frazier. One longs for more details about these relationships, yet the book should entice young readers into further exploration of the contributions made by blacks.</p>
 
-<p>Amy Hill Hearth, who interviewed the sisters and compiled <hi rend="italic">Having Our Say</hi>, writes in her introduction: "Their story, as the Delany sisters like to say, is not meant as 'black' or 'women's' history, but American history. It belongs to all of us." </p></div2>
+<p>Amy Hill Hearth, who interviewed the sisters and compiled <hi
+rend="italic">Having Our Say</hi>, writes in her introduction: "Their
+story, as the Delany sisters like to say, is not meant as 'black' or
+'women's' history, but American history. It belongs to all of us."
+</p>
+<div3 id="sc16-2.027" type="About"><p>Joanne Grant is the author of <title>Black Protest</title> and director of the documentary film <title>Fundi: The Story of Ella Baker</title>. Her written biography of Ella Baker will be published by John Wiley and Sons.</p></div3>
+</div2>
 
-<div2 id="sc16-2lovelace.009" n="What Mama Had to Say"
+<div2 id="sc16-2.008" n="What Mama Had to Say"
       type="Review">
-<head>What Mama Had to Say<lb/><title>Pushed Back to Strength: A Black
-Woman's Journey Home</title>,<hi rend="bold"> by Gloria Wade-Gayles
-(Beacon Press, 1993, 256 pages).</hi></head>
-<docAuthor>Reviewed by ALICE LOVELACE</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 27-28</docDate>
+<head>What Mama Had to Say</head>
+<byline>Reviewed by <docAuthor><name reg="Lovelace, Alice">Alice Lovelace</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 27-28</docDate>
 
-<argument><p>Atlanta writer Alice Lovelace teaches as an
-artist-in-residence in public schools throughout the region. Her
-newest book is <title>Remembering My Birth: New and Collected Poems.</title></p></argument>
+<bibl><title>Pushed Back to Strength: A Black
+Woman's Journey Home</title>, by Gloria Wade-Gayles
+(Beacon Press, 1993, 256 pages).</bibl>
 
 <p>In these days of "Def Comedy Jam" and Snoop Doggy Dog, when the media portrays our families as dysfunctional and the single female household is blamed for every social ill from high school dropouts to the swelling welfare rolls, it is important that as a people, we African-Americans remember there was and is another way to be. Gloria Wade-Gayles reminds us of this "other way."</p>
 
@@ -898,18 +914,25 @@ some ways should have been done differently).</p>
 
 <p>In <hi rend="italic">Pushed Back To Strength</hi> I found a primer I will heartily recommend to today's youth. A book inclusive in its recalling of a time in our national history and inspiring in its simple telling of a life.</p>
 
-<p><hi rend="italic">Pushed Back to Strength</hi> is a valuable lesson for all Americans, a reminder that a common history brought us to this point, a history which gave rise to a generation unique in its vision and ideals.</p></div2> 
+<p><hi rend="italic">Pushed Back to Strength</hi> is a valuable lesson
+for all Americans, a reminder that a common history brought us to this
+point, a history which gave rise to a generation unique in its vision
+and ideals.</p>
+<div3 id="sc16-2.028" type="About"><p>Atlanta writer Alice Lovelace
+teaches as an artist-in-residence in public schools throughout the
+region. Her newest book is <title>Remembering My Birth: New and
+Collected Poems.</title></p></div3>
+</div2> 
 
-<div2 id="sc16-2lee.009" n="Spirit and Velocity"
+<div2 id="sc16-2.009" n="Spirit and Velocity"
       type="Review">
-<head>Spirit and Velocity<lb/><title>Local People: The Struggle for
-Civil Rights in Mississippi</title>,<hi rend="bold"> by John Dittmer
-(University of Illinois Press, 1994, 530 pages).</hi></head>
-<docAuthor>Reviewed by BARRY E. LEE</docAuthor>
-<docDate>Vol. 16, No. 2, 1994, pp. 28-31</docDate>
+<head>Spirit and Velocity</head>
+<byline>Reviewed by <docAuthor><name reg="Lee, Barry E.">Barry E. Lee</name></docAuthor></byline>
+<docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 28-31</docDate>
 
-<argument><p>Barry E. Lee is a masters candidate in American History at Georgia State University and an Education Program Assistant at the Southern Regional Council.</p></argument>
-
+<bibl><title>Local People: The Struggle for
+Civil Rights in Mississippi</title>, by John Dittmer
+(University of Illinois Press, 1994, 530 pages).</bibl>
 <p>John Dittmer's <hi rend="italic">Local People: The Struggle for Civil Rights in Mississippi</hi> traces the struggles of black Mississippians, aided by national civil rights organizations, to break the death grip of white supremacy. The author unearths the origins of the Mississippi movement in the post-World War II period and the preceding decades. While admitting that to affix dates is arbitrary, the book closes "the movement" in 1968 with the demise of the Mississippi Freedom Democratic Party after its failure to impact the platform of the Democratic Party at its national convention in Chicago.</p>
 
 <p>Dittmer's thesis is that the Mississippi movement was made possible by three elements: the courage and commitment of local activists like Medgar Evers, Amzie Moore, Fannie Lou Hamer, Victoria Gray, and Annie Devine; the energy and enthusiasm of young SNCC (Student Nonviolent Coordinating Committee) and CORE (Congress of Racial Equality) organizers; and the reputation of the state as a fortress of racial oppression which made service there a badge of courage. The key ingredient in the movement was the willingness of local people to act on their own behalf while also welcoming outside help. These factors combined to generate the strongest and most far-reaching civil rights activity of the period, easily surpassing the sister movements in southwest Georgia and all of Alabama&#x2014;Montgomery, Selma, and Birmingham included. While citing the volume of change that occurred as a result of the movement, Dittmer reminds the reader of the limits of those changes; black Mississippians still remained largely in abject poverty, attended segregated schools, and lacked any real political power statewide even with 250,000 registered voters.</p>
@@ -966,4 +989,11 @@ points, it is not without its faults. First of all, Dittmer has missed part of t
 
 <p>Although Dittmer dwells at length on the Mississippi Freedom Democratic Party (MFDP) and its challenge to the regular Democratic delegates in Atlantic City in 1964, he understates the real significance of the event. The MFDP did not win its political challenge, but it gave poor black people who had never voted a new sense of power and dignity. They had taken on the most powerful politicians in the country on national television. Fannie Lou Hamer almost single-handedly wooed an entire nation into her corner. Had it not been for the trickery of President Johnson and his cronies, who knows what the outcome may have been.</p>
 
-<p>In sum, <hi rend="italic">Local People</hi> charts new territory in the chronicles of the Mississippi movement. Dittmer provides insightful analysis and pleasurable reading with an even-handed and sufficiently broad approach to his topic. The result is scholarship that does justice to the struggles and sacrifices of the people who made the Mississippi movement.</p></div2></div1></body></text></TEI.2> 
+<p>In sum, <hi rend="italic">Local People</hi> charts new territory in
+the chronicles of the Mississippi movement. Dittmer provides
+insightful analysis and pleasurable reading with an even-handed and
+sufficiently broad approach to his topic. The result is scholarship
+that does justice to the struggles and sacrifices of the people who
+made the Mississippi movement.</p>
+<div3 id="sc16-2.029" type="About"><p>Barry E. Lee is a masters candidate in American History at Georgia State University and an Education Program Assistant at the Southern Regional Council.</p></div3>
+</div2></div1></body></text></TEI.2> 

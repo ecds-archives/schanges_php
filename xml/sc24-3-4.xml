@@ -69,16 +69,11 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p><title>Southern Changes.</title> Volume 24, Number 3-4, <date value="2002-09">2002</date></p>
  <div2 id="sc24-3-4.002" n="Drums of War" type="Article">
                <head>Drums of War</head>
-               <docAuthor>By U.S. Representative John Lewis</docAuthor>
+               <byline>By <docAuthor>U.S. Representative <name reg="Lewis, John">John Lewis</name></docAuthor></byline>
                <docDate value="2002-09">Vol. 24, No. 3-4, 2002
 	       pp. 3-4, 12</docDate>
 
-
-
-
-
-
-<p rend="italic">Remarks by Congressman John Lewis (D-GA) September 27, 2002 at the Howard University Convocation in Washington, D. C.</p>
+<p>Remarks by Congressman John Lewis (D-GA) September 27, 2002 at the Howard University Convocation in Washington, D. C.</p>
 
 <p>I was born the son of sharecroppers on a small farm outside of a
 little town called Troy, in the heart of rural Alabama. It is a great
@@ -203,7 +198,7 @@ Regional Council's Voter Education Project from 1970 to
  </div2>
 
 <div2 id="sc24-3-4.004" n="The Masters of Augusta" type="Article">
-<docAuthor>By Julian Bond</docAuthor>
+<byline>By <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 5</docDate>
 <head>The Masters of Augusta</head>
 <p>Discrimination takes many forms. It may not always be illegal, but it is always wrong.</p>
@@ -244,7 +239,7 @@ served as a member of the board of the Southern Regional Council from
 </div3>
 </div2>
 <div2 id="sc24-3-4.006" n="Effective Racial Profiling Legislation" type="Article">
-<docAuthor>By Susie Hartigan</docAuthor>
+<byline>By <docAuthor><name reg="Hartigan, Susie">Susie Hartigan</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4 2002 pp. 6-7</docDate>
 <head>Effective Racial Profiling Legislation</head>
 
@@ -355,7 +350,7 @@ instituteonraceandpoverty.org.</p></div3>
 </div2>
 
 <div2 id="sc24-3-4.008" n="The People Behind the Profile: Stories of Racial Profiling" type="Article">
-<docAuthor>Staff</docAuthor>
+<byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 8</docDate>
 <head>The People Behind the Profile: Stories of Racial Profiling</head>
 
@@ -402,7 +397,7 @@ signal when changing lanes.</p>
 </div2>
 
 <div2 id="sc24-3-4.009" n="Reform in Alabama?: The Nation's Worst Tax Structure" type="Article">
-<docAuthor>By Allen Tullos</docAuthor>
+<byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 9</docDate>
 <head>Reform in Alabama?: The Nation's Worst Tax Structure</head>
 
@@ -431,7 +426,7 @@ analysis of Alabama's tax structure wrapped in the prophetic and redemptive rhet
 of American Studies at Emory University.</p></div3>
 </div2>
 <div2 id="sc24-3-4.011" n="Reform in Alabama?: The Nation's Worst Constitution" type="Article">
-<docAuthor>By Susan Pace Hamill</docAuthor>
+<byline>By <docAuthor><name reg="Hamill, Susan Pace">Susan Pace Hamill</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 10-11</docDate>
 <head>Reform in Alabama?: The Nation's Worst Constitution</head>
 
@@ -514,7 +509,7 @@ www.law.ua.edu/directory/bio/shamill.html</p>
 </div2>
 
 <div2 id="sc24-3-4.014" n="BOOKS: The Terrorist Next Door" type="Review">
-<docAuthor>By Daniel Levitas</docAuthor>
+<byline>By <docAuthor><name reg="Levitas, Daniel">Daniel Levitas</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 13-15</docDate>
 <head>BOOKS: The Terrorist Next Door</head>
 
@@ -595,7 +590,7 @@ enforced customs of segregation and the laws of Jim Crow.</p>
 </div2>
 
 <div2 id="sc24-3-4.015" n="The New South Creed: Introduction" type="Review">
-<docAuthor>By Robert Jefferson Norrell</docAuthor>
+<byline>By <docAuthor><name reg="Norrell, Robert Jefferson">Robert Jefferson Norrell</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 15-16</docDate>
 <head>The New South Creed: Introduction</head>
 
@@ -659,7 +654,7 @@ Rights Movement in Tuskegee</title>, and other books.</p></div3>
 </div2>
 
 <div2 id="sc24-3-4.017" n="New South Creed: Looking Backward, 2001-1970" type="Review">
-<docAuthor>By Paul M. Gaston</docAuthor>
+<byline>By <docAuthor><name reg="Gaston, Paul M.">Paul M. Gaston</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 17-18</docDate>
 <head>New South Creed: Looking Backward, 2001-1970</head>
 
@@ -765,7 +760,7 @@ well as a contributing editor to Southern Changes.</p></div3>
 </div2>
 
 <div2 id="sc24-3-4.021" n="Black Mayors" type="Review">
-<docAuthor>Reviewed by David Chalmers</docAuthor>
+<byline>Reviewed by <docAuthor><name reg="Chalmers, David">David Chalmers</name></docAuthor></byline>
 <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 19-22</docDate>
 <head>Black Mayors</head>
 

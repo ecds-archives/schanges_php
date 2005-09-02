@@ -63,16 +63,14 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc10-6.001" n="Southern Changes 10:6" type="Issue">
             <head>Southern Changes.  Volume 10, Number 6, 1988</head>
             <p>
-               <title>Southern Changes</title>.  Volume 10, Number 6, 1988</p>
-            <div2 id="sc10-6steverson.002" n="Principle, Conviction and Fate" type="Article">
+               <title>Southern Changes</title>.  Volume 10, Number 6,
+	       <date value="1988-12">1988</date></p>
+            <div2 id="sc10-6.002" n="Principle, Conviction and Fate" type="Article">
                <head>Principle, Conviction and Fate in the Remarkable Career of Judge
 Elbert Tuttle</head>
-               <docAuthor>By BILL STEVERSON</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 11-14</docDate>
-               <argument>
-                  <p>An Alabama native, Bill Steverson is a
-writer and editor in Signal Mountain, Tenn.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Steverson, Bill">Bill Steverson</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 11-14</docDate>
+               
                <p>One of Elbert Tuttle's earliest memories, aside from the
 assassination of President McKinley in 1901, is of a black woman
 standing at a trolley stop outside his parents' house in Washington,
@@ -381,11 +379,15 @@ believed it because I was aware of the fact that the people of the
 United States generally had accepted the Supreme Court's edicts as
 being binding on everybody and there wasn't much use in fighting
 against the odds. Once the Court had spoken, that was it."</p>
-</div2>
-<div2 id="sc10-6staff4.003" n="Southern Documentary to Air Nationally" type="Article">
+<div3 id="sc10-6.022" type="About">
+                  <p>An Alabama native, Bill Steverson is a
+writer and editor in Signal Mountain, Tenn.</p>
+               </div3>
+	     </div2>
+<div2 id="sc10-6f4.003" n="Southern Documentary to Air Nationally" type="Article">
                <head>Southern Documentary to Air Nationally</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 21-22</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 21-22</docDate>
                <p>"A Singing Stream: A Black Family Chronicle"--the first film to
 trace twentieth century African-American history through the musical
 traditions of one family--will be shown nationally on public
@@ -446,10 +448,10 @@ by grants from the National Endowment for the Arts, the American Film
 Institute, and the North Carolina Arts Council. The Southern Regional
 Council acted as fiscal agent for the production.</p>
             </div2>
-            <div2 id="sc10-6staff3.004" n="Initiatives in Southern Education" type="Article">
+            <div2 id="sc10-6f3.004" n="Initiatives in Southern Education" type="Article">
                <head>Initiatives in Southern Education</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 15-18</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 15-18</docDate>
                <p>After almost a decade of reform, education in America remains a
 significant state and national issue. The United States Department of
 Education now releases a yearly report card comparing general
@@ -703,10 +705,10 @@ nonetheless, are attempts to find ways to mobilize local communities
 to address the problems of educating well all of their children in the
 public schools.</p>
             </div2>
-            <div2 id="sc10-6staff2.005" n="Looking Back . . . SRC and the Nation" type="Article">
+            <div2 id="sc10-6.005" n="Looking Back . . . SRC and the Nation" type="Article">
                <head>Looking Back . . . SRC and the Nation</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, p. 15</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, p. 15</docDate>
                <p>In 1919 the Commission on Interracial Cooperation was
 started. Thirty-five years later the Commission was reorganized as the
 Southern Regional Council. Over the past seven decades, Southerners of
@@ -742,11 +744,11 @@ nationwide affirmative action plan in the U. S. courts;</p>
                <p>¥ Helping to bring more democratic governments to almost a
 thousand jurisdictions across the South.</p>
             </div2>
-            <div2 id="sc10-6staff.006" n="A 1988 Report from the Southern Regional Council" type="Article">
+            <div2 id="sc10-6.006" n="A 1988 Report from the Southern Regional Council" type="Article">
                <head>A 1988 Report from the Southern Regional Council</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 14-15</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 14-15</docDate>
+               
                   <p>EDITORS'NOTE: The following material is excerpted from
 the 1988 Annual Report of the Southern Regional Council.  The report
 outlines past and present activities of the SRC in five key areas:
@@ -757,7 +759,7 @@ writing to Steve Suitts, executive director, SRC, 60 Walton Street,
 NW, Atlanta, GA 30303. Membership information for joining the Council
 is found on page 23 of this issue of <title>Southern
 Changes</title>.</p>
-               </argument>
+               
                <p>For more than four decades the Southern Regional Council has
 promoted democracy and opportunity for all people of the South and
 beyond. The Council's staff carries out research, provides technical
@@ -825,17 +827,11 @@ Southerners of good will to think and act together.</p>
 uniquely suited to help shape the region's future--and the
 nation's--for the better.</p>
             </div2>
-            <div2 id="sc10-6nossiter.007" n="Radio Series Showcases Mississippi Blues" type="Article">
+            <div2 id="sc10-6.007" n="Radio Series Showcases Mississippi Blues" type="Article">
                <head>Radio Series Showcases Mississippi Blues</head>
-               <docAuthor>By ADAM NOSSITER</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, p. 20</docDate>
-               <argument>
-                  <p>Adam Nossiter covers Alabama and Mississippi for the
-<title>Atlanta Journal-Constitution</title>. To learn when the series
-will be broadcast in your area, or for more information, call Walter
-Liniger, Blues Archive, University of Mississippi,
-601-232-7753.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Nossiter, Adam">Adam Nossiter</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, p. 20</docDate>
+               
                <p>This is how Lee Andrew "Cotton" Howell, 72-year-old ex-sharecropper
 and small-time bluesman from Holly Springs, Miss., describes the birth
 of a blues song, in a new public radio series:
@@ -927,11 +923,18 @@ with memories of the things which made life pleasurable: women, fried
 pies, even hard work--and above all, the life giving blues.</p>
                   <p>"They'd pay a dime to dance. Then they'd dance round and
 round," remembers Howell.</p>
-            </div2>
-            <div2 id="sc10-6noe.008" n="Poverty Rate Climbs Despite Recovery" type="Article">
+            <div3 id="sc10-6.027" type="About">
+                  <p>Adam Nossiter covers Alabama and Mississippi for the
+<title>Atlanta Journal-Constitution</title>. To learn when the series
+will be broadcast in your area, or for more information, call Walter
+Liniger, Blues Archive, University of Mississippi,
+601-232-7753.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-6.008" n="Poverty Rate Climbs Despite Recovery" type="Article">
                <head>Poverty Rate Climbs Despite Recovery</head>
-               <docAuthor>By CINDY NOE</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, p. 18</docDate>
+               <byline>By <docAuthor><name reg="Noe, Cindy">Cindy Noe</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, p. 18</docDate>
                <p>Although the nation is in its fifth year of economic recovery, some
 eight million more Americans were poor in 1987--a total of 32.5
 million--than in 1978, according to an analysis by the Center on
@@ -1016,15 +1019,11 @@ family in the top 10 percent was $8,119 above 1978 levels.</p>
 tried to downplay the gravity of the new poverty data have cited
 non-cash poverty measures, which' yield lower poverty rates.</p>
             </div2>
-            <div2 id="sc10-6ledbetter.009" n="Aborted Rights in Arkansas" type="Article">
+            <div2 id="sc10-6.009" n="Aborted Rights in Arkansas" type="Article">
                <head>Aborted Rights in Arkansas</head>
-               <docAuthor>By BROWNIE LEDBETTER</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 1, 3</docDate>
-               <argument>
-                  <p>Brownie Ledbetter is vice president of public affairs for
-Planned Parenthood in Arkansas. She is also a member of the Southern
-Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Ledbetter, Brownie">Brownie Ledbetter</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 1, 3</docDate>
+               
                <p>In the November elections, Arkansas voters--by a 52 to 48 percent
 margin--moved the abortion debate to a new level. The issue in
 Arkansas is no longer whether a woman has the right to have an
@@ -1123,17 +1122,18 @@ proven the patient would die without an abortion.</p>
                <p>No doctor can pick an absolute point in time at which a person will
 die. Understandably, doctors are also worried about their medical
 liability in such situations.</p>
-            </div2>
-            <div2 id="sc10-6hannon.010" n="Women and the Civil Rights Movement" type="Article">
+            <div3 id="sc10-6.029" type="About">
+                  <p>Brownie Ledbetter is vice president of public affairs for
+Planned Parenthood in Arkansas. She is also a member of the Southern
+Regional Council.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-6.010" n="Women and the Civil Rights Movement" type="Article">
                <head>Women and the Civil Rights Movement: Roles Too Long
 Unexamined</head>
-               <docAuthor>By SHARRON HANNON</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 4-5</docDate>
-               <argument>
-                  <p>Sharron Hannon is a freelance writer end former editor
-and publisher of <title>Southern Feminist</title>
-newspaper.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hannon, Sharron">Sharron Hannon</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 4-5</docDate>
+               
                <p>The year 1988 wee a time for looking back. Twenty-five years ago a
 church was bombed in Birmingham, thousands marched on Washington and
 the President was shot in Dallas. Twenty years ago, assassins' bullets
@@ -1251,15 +1251,17 @@ first-person narrative.</p>
                <p>But let's go beyond books. In our communities across the South,
 there are women with stories to tell. Let's find them and listen to
 them and honor them. They have something to say to all of us.</p>
-            </div2>
-            <div2 id="sc10-6guthey.011" n="The Press as Company Store, Atlanta Style" type="Article">
+            <div3 id="sc10-6.030" type="About">
+                  <p>Sharron Hannon is a freelance writer end former editor
+and publisher of <title>Southern Feminist</title>
+newspaper.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-6.011" n="The Press as Company Store, Atlanta Style" type="Article">
                <head>The Press as Company Store, Atlanta Style</head>
-               <docAuthor>By ERIC GUTHEY</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 8-10</docDate>
-               <argument>
-                  <p>Eric Guthey is a student in the Graduate Institute of
-Liberal Arts at Emory University in Atlanta.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Guthey, Eric">Eric Guthey</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 8-10</docDate>
+               
                <p>To
 doubt the current charming presentations of Southern growth and
 prosperity is to bring anathema on one's head. What! The South not
@@ -1499,15 +1501,16 @@ stay on and continue to improve the papers. Otherwise, Harvie Blair's
 characterization of defensive, New South boosterism will still to
 apply to the Coxes' <title>Journal-Constitution</title> and to
 Atlanta another hundred years from now. </p>
-            </div2>
-            <div2 id="sc10-6chestnut.012" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc10-6.031" type="About">
+                  <p>Eric Guthey is a student in the Graduate Institute of
+Liberal Arts at Emory University in Atlanta.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-6.012" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 24, 23</docDate>
-               <argument>
-                  <p>J. L Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 24, 23</docDate>
+               
                <p>I do not expect George Bush to pursue the "kinder, gentler nation"
 announced in his campaign rhetoric. The mysterious "thousand points of
 light" about which he also spoke are more likely to turn out to be
@@ -1578,17 +1581,17 @@ and become occasional "moderates" or "liberals" with a black visitor
 now and then.</p>
                <p>I understand.</p>
                <p>Peace.</p>
-            </div2>
-            <div2 id="sc10-6bond.013" n="A Movie with Eyes on the Wrong Prize" type="Article">
+            <div3 id="sc10-6.032" type="About">
+                  <p>J. L Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-6.013" n="A Movie with Eyes on the Wrong Prize" type="Article">
                <head>A Movie with Eyes on the Wrong Prize: "Mississippi
 Burning"</head>
-               <docAuthor>By JULIAN BOND</docAuthor>
-               <docDate>Vol. 10, No. 6, 1988, pp. 22-23</docDate>
-               <argument>
-                  <p>Julian Bond, currently visiting professor in history and
-politics at Drexel University in Philadelphia, Penn., is a member of
-the Southern Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+               <docDate value="1988-12">Vol. 10, No. 6, 1988, pp. 22-23</docDate>
+               
                <p>The new movie "Mississippi Burning" is the worst example of the
 genre called docudrama: there is no documentation and very little
 drama. Instead, filmgoers see "Rambo Meets the Ku Klux Klan" as
@@ -1670,7 +1673,12 @@ to catch the killers overrides his respect for the law. The makers of
 Mississippi Burning" let their desire for a big box office and Oscars
 overcome respect for history. They had their eyes on the wrong
 prize. </p>
-            </div2>
+            <div3 id="sc10-6.033" type="About">
+                  <p>Julian Bond, currently visiting professor in history and
+politics at Drexel University in Philadelphia, Penn., is a member of
+the Southern Regional Council.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

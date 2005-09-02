@@ -64,16 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc12-1.001" n="Southern Changes 12:1" type="Issue">
             <head>Southern Changes.  Volume 12, Number 1, 1990</head>
             <p>
-               <title>Southern Changes</title>.  Volume 12, Number 1, 1990</p>
-            <div2 id="sc12-1sullivan.002" n="Five Decades of Activism" type="Article">
+               <title>Southern Changes</title>.  Volume 12, Number 1,
+	       <date value="1990-01">1990</date></p>
+            <div2 id="sc12-1.002" n="Five Decades of Activism" type="Article">
                <head>Five Decades of Activism</head>
-               <docAuthor>By PATRICIA SULLIVAN</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 5-9</docDate>
-               <argument>
-                  <p>Patricia Sullivan is the assistant director of the Center
-for the Study of Civil Rights at the Carter G. Woodson Institute for
-Afro-American and African Studies, Charlottesville, Va.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate>
+               
                <p>"THE SOUTHERN MOVEMENT provided a permanent flame from which the
 rest of the nation could draw inspiration, light and heat. You were
 always there burning, percolating, in the dark sometimes, but going
@@ -334,18 +331,18 @@ other groups and activists are building a strong link into an
 uncertain future. But the times, noted Jack O'Dell, make us mindful of
 Martin Luther King's admonition that "the arc of the universe is
 long and it bends towards justice."</p>
-            </div2>
-            <div2 id="sc12-1staff.003" n="Slapping Together a Coalition" type="Article">
+            <div3 id="sc12-1.022" type="About">
+                  <p>Patricia Sullivan is the assistant director of the Center
+for the Study of Civil Rights at the Carter G. Woodson Institute for
+Afro-American and African Studies, Charlottesville, Va.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-1.003" n="Slapping Together a Coalition" type="Article">
                <head>Slapping Together a Coalition. . . To Win Below the
 Mason-Dixon</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 6-7</docDate>
-               <argument>
-                  <p>Edited comments of Virginia Durr and Rev. Andrew
-Turnipseed at a workshop on the Economy of the South; Southern
-Conference 51st anniversary, Birmingham, Dec. 2, 1989; sponsored by
-the Southern Organizing Committee.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate>
+               
                <p>Virginia Durr: There's no sense trying to reform capitalism,
 because it can't be reformed any more than slavery could be
 reformed. It's a very bad system. You've got to realize that you have
@@ -475,22 +472,21 @@ many--well, I hate to use the word intellectuals. I don't know what
 that is exactly. But add those harum-scarum intellectuals, put them
 with those other three elements, add them to the black base, and we
 can win any election we want to below the Mason-Dixon line.</p>
-            </div2>
-            <div2 id="sc12-1morgan.004" n="An Imperfect Assessment of Movement Flank Actions" type="Review">
-               <head>An Imperfect Assessment of Movement Flank Actions.  <title>Black
+            <div3 id="sc12-1.023" type="About">
+                  <p>Edited comments of Virginia Durr and Rev. Andrew
+Turnipseed at a workshop on the Economy of the South; Southern
+Conference 51st anniversary, Birmingham, Dec. 2, 1989; sponsored by
+the Southern Organizing Committee.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-1.004" n="An Imperfect Assessment of Movement Flank Actions" type="Review">
+               <head>An Imperfect Assessment of Movement Flank Actions.</head>  
+               <byline>Reviewed by <docAuthor><name reg="Morgan, Mary Nell">Mary Nell Morgan</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate>
+               <bibl><title>Black
 Radicals and the Civil Rights Mainstream, 1954 1970</title> By Herbert
 H. Haines (Knoxville: University of Tennessee Press. 1988. 244
-pps. $24.95).</head>
-               <docAuthor>Reviewed by MARY NELL MORGAN</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 12-13</docDate>
-               <argument>
-                  <p>Mary Nell Morgan, is associate professor of political
-science at Xavier University of Louisiana, currently on leave to serve
-as visiting associate professor of American Studies at Skidmore
-College in Saratoga Springs New Fork. Early in her career, in the
-mid-1970s, Dr. Morgan was a research assistant at the Southern
-Regional Council.</p>
-               </argument>
+pps. $24.95).</bibl>
                <p>Herbert Haines's analysis in <title>Black Radicals and the
 Civil Rights Mainstream</title> challenges the popular notion that
 so-called radical blacks did more to harm than to help the civil
@@ -595,15 +591,20 @@ the Americas for Europe.</p>
                <p>Despite the problems noted above, this book is worth reading. I
 especially recommend it to persons interested in the funding sources
 of the civil rights movement.</p>
-            </div2>
-            <div2 id="sc12-1ledbetter.005" n="Keeping The Faith On Abortion" type="Article">
+            <div3 id="sc12-1.024" type="About">
+                  <p>Mary Nell Morgan, is associate professor of political
+science at Xavier University of Louisiana, currently on leave to serve
+as visiting associate professor of American Studies at Skidmore
+College in Saratoga Springs New Fork. Early in her career, in the
+mid-1970s, Dr. Morgan was a research assistant at the Southern
+Regional Council.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-1.005" n="Keeping The Faith On Abortion" type="Article">
                <head>Keeping The Faith On Abortion</head>
-               <docAuthor>Brownie Ledbetter</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 1-4</docDate>
-               <argument>
-                  <p>Brownie Ledbetter is a Presbyterian elder in Little Rock,
-Arkansas' and a longtime civil rights activist.</p>
-               </argument>
+               <byline><docAuthor><name reg="Ledbetter, Brownie">Brownie Ledbetter</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate>
+               
                <p>The argument about abortion must develop into a substantive
 debate. We must deal with questions of morality, medical ethics,
 medical technology, health care, environment, economics, separation of
@@ -826,22 +827,19 @@ postponed, in the name of avoiding conflict. Often that strategy only
 prolongs and exacerbates the conflict. l he public welfare is at
 stake. Prolonging the debate has become destructive.</p>
                <p>Somebody has to call for the question. I so move. </p>
-            </div2>
-            <div2 id="sc12-1kravitz.006" n="Collusion Between Worker and Power Structure" type="Review">
-               <head>Collusion Between Worker and Power Structure.  <title>Habits of
+            <div3 id="sc12-1.025" type="About">
+                  <p>Brownie Ledbetter is a Presbyterian elder in Little Rock,
+Arkansas' and a longtime civil rights activist.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-1.006" n="Collusion Between Worker and Power Structure" type="Review">
+               <head>Collusion Between Worker and Power Structure.</head>  
+               <byline>Reviewed by <docAuthor><name reg="KRAVITZ, LINDA">LINDA KRAVITZ</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate>
+               <bibl><title>Habits of
 Industry: White Culture and the Transformation of the Carolina
 Piedmont.</title> By Allen Tullos (Chapel Hill: University of North
-Carolina Press. 1989. 419 pp. $34.95; $12.95 paper.).</head>
-               <docAuthor>Reviewed by LINDA KRAVITZ</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 13-15</docDate>
-               <argument>
-                  <p>Linda Kravitz has recently resigned as research director
-of the Housing Assistance Council. She is immediate past chair of the
-National Council of Agricultural Life and Labor. In her undergraduate
-days she worked a summer at the Council. She is co-author of the Other
-Housing Crisis, published by HAC and the Center on Policy and Policy
-Priorities, 1989.</p>
-               </argument>
+Carolina Press. 1989. 419 pp. $34.95; $12.95 paper.).</bibl>
                <p>In the late 1920s, to attract manufacturers to the Piedmont region
 of the Carolinas, Duke Power Company advertised:</p>
                <p>
@@ -1005,21 +1003,20 @@ for wages so low that their incomes would never rise above the poverty
 line. And it is graceful, enjoyable reading for those who may simply
 be intrigued by the rich, albeit perverse, culture of the Carolina
 Piedmont.</p>
-            </div2>
-          <div2 id="sc12-1davenport.008" n="Angela Davis: Rekindle the Flame" type="Article">
+            <div3 id="sc12-1.026" type="About">
+                  <p>Linda Kravitz has recently resigned as research director
+of the Housing Assistance Council. She is immediate past chair of the
+National Council of Agricultural Life and Labor. In her undergraduate
+days she worked a summer at the Council. She is co-author of the Other
+Housing Crisis, published by HAC and the Center on Policy and Policy
+Priorities, 1989.</p>
+               </div3>
+	     </div2>
+          <div2 id="sc12-1.008" n="Angela Davis: Rekindle the Flame" type="Article">
                <head>Angela Davis: 'Rekindle the Flame'</head>
-               <docAuthor>By ELAINE DAVENPORT</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 10-11</docDate>
-               <argument>
-                  <p>Elaine Davenport is a Southern Changes contributing
-editor. She lives in Austin, Texas. Angela Davis currently teaches
-courses in philosophy, aesthetics and women's studies at San Francisco
-State University and the San Francisco Art Institute. Angela Davis: An
-Autobiography from Random House was a 1974 best-seller. SO has also
-written Women, Race and Class (Random House, 1982); her latest book is
-<title>Women, Culture and Politics</title> (Random House,
-1989).</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate>
+               
                <p>Angela Davis, one of America's best known activists of the 1960s
 and 1970s, encouraged an overflow crowd in Austin, Texas, on Martin
 Luther King Day to renew a commitment to activism in the 1990s--to
@@ -1112,15 +1109,22 @@ all in this together."</p>
 to stay there and force the government to negotiate with us."
 There is a revolutionary spirit all around the world, she said. "If
 they can rise up in Eastern Europe, then so can we."</p>
-            </div2>
-            <div2 id="sc12-1chestnut.009" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc12-1.028" type="About">
+                  <p>Elaine Davenport is a Southern Changes contributing
+editor. She lives in Austin, Texas. Angela Davis currently teaches
+courses in philosophy, aesthetics and women's studies at San Francisco
+State University and the San Francisco Art Institute. Angela Davis: An
+Autobiography from Random House was a 1974 best-seller. SO has also
+written Women, Race and Class (Random House, 1982); her latest book is
+<title>Women, Culture and Politics</title> (Random House,
+1989).</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-1.009" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 12, No. 1, 1990, pp. 16, 15</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer arid
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnust, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate>
+               
                <p>Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
 municipal government and personal lawyer and advisor to Marion Barry,
 the embattled and dishonored mayor of the nation's capitol city. Herb
@@ -1189,7 +1193,11 @@ conference will result in little or nothing because the president
 brought only rhetoric and show.</p>
                <p>What a world!</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc12-1.029" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

@@ -65,10 +65,10 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p>
 <title>Southern Changes</title>. Volume 2, Number 7, <date value="1980-06">1980</date></p>
 
-<div2 id="sc02-7suitts.002" n="A Tribute to Bell Wiley"
+<div2 id="sc02-7.002" n="A Tribute to Bell Wiley"
       type="Article">
 <head>A Tribute to Bell Wiley</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2</docDate>
 
 <p>When I was at the University of Alabama I once had a theory that most professors and administrators showed up at meetings late because it was the custom of the university at that time to begin classes 10 minutes after the hour or half hour. With that impression of most college professors I was, of course, a bit surprised in a small way when Bell Wiley came to our meetings at the SRC offices usually ahead of time.</p>
@@ -85,10 +85,10 @@ way that reminded me of the sage of the backwoods country store who always seeme
 <p>I suppose it is a statement of the obvious that Bell Wiley made important contributions to the people and ideas of his own time. He was precise and prudent in his personal habits, generous in his love for the South, and stern in his demand that hatred and neglect be rooted out of Southern life. His books and the memory of his own life will keep those simple yet unreached ideals in the hearts and minds of many who were his students, readers, colleagues, and friends - all his admirers.</p>
 </div2>
 
-<div2 id="sc02-7suitts.003" n="In this Issue"
+<div2 id="sc02-7.003" n="In this Issue"
       type="Article">
 <head>In this Issue</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2-3</docDate>
 
 <p>About this time of year in 1948 a simple, yet remarkable occurence
@@ -173,10 +173,10 @@ energy, faith and devotion offering a possibility that this region
 may yet find and hold on to a better sense of community then has ever
 been known or practiced on this soil.</p>
 </div2>
-<div2 id="sc02-7powell.004" n="Survival Week Protests Budget Cuts"
+<div2 id="sc02-7.004" n="Survival Week Protests Budget Cuts"
       type="Article">
 <head>Survival Week Protests Budget Cuts</head>
-<docAuthor>Janis Sharp Powell</docAuthor>
+<byline>By <docAuthor><name reg="Powell, Janis Sharp">Janis Sharp Powell</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, p. 4</docDate>
 
 
@@ -205,12 +205,10 @@ reinstating the current allotment will not be sufficient. With the
 current rate of inflation, without an increase, the poor will have a
 25 percent "budget cut" based on what they are receiving now.</p>
 </div2>
-<div2 id="sc02-7eisenberg.006" n="The Measure of Poverty" type="article">
+<div2 id="sc02-7.006" n="The Measure of Poverty" type="article">
 <head>The Measure of Poverty</head>
-<docAuthor>Pablo Einsenberg</docAuthor>
+<byline>By <docAuthor><name reg="Einsenberg, Pablo">Pablo Einsenberg</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
-<argument>
-<p>This article is adapted from a publication of the Center for Community Change, a Washingtonbased organization assisting local community development in low-income urban and rural areas. Pablo Einsenberg is the Center's president.</p></argument>
 
 <p>When Lyndon Johnson proclaimed his unconditional War on Poverty in 1964, no one knew precisely the number or even the definition of "poor." As a result, the Council of Economic Advisors quickly sought to designate the poverty population and concluded among other things that in 1961 a family of two or more making under $3,000 a year had been in official poverty.</p>
 
@@ -302,15 +300,15 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
 <p>Major reform in the poverty definition is an essential first step in a revitalized effort against poverty. In view of the mood of the times, though, advocates of the poor and near-poor must portray their concerns in ways the general population can appreciate. Poverty, after all, is more than just a moral wrong. It is also a fiscal and physical waste of resources. All society pays for poverty.</p>
 
 <p>By whatever reasonable and realistic measure we may want to use, it is clear that this country has an enormous and not so invisible poor population&#x2014;one that probably exceeds 25 percent of the entire population. We cannot escape this fact, no matter how hard we try to pretend that such poverty is not there. Widespread poverty means continued misery for the poor themselves and a waste of general human potential for all of us. It stands as a continuing challenge to our democracy.</p>
+<div3 id="sc02-7.026" type="About">
+<p>This article is adapted from a publication of the Center for Community Change, a Washingtonbased organization assisting local community development in low-income urban and rural areas. Pablo Einsenberg is the Center's president.</p></div3>
 </div2>
 
-<div2 id="sc02-7chaney.005" n="Political Changes in Terrible Terrell"
+<div2 id="sc02-7.005" n="Political Changes in Terrible Terrell"
       type="Article">
 <head>Political Changes in Terrible Terrell</head>
-<docAuthor>By Betty Chaney</docAuthor>
+<byline>By <docAuthor><name reg="Chaney, Betty">Betty Chaney</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 7-10</docDate>
-<argument>
-<p>Betty Chaney is senior editor of <hi rend="italic">Southern Changes</hi>.</p></argument>
 
 <p>0n a winter's day in January 1980, Dawson, Georgia, internationally known for the racially inflamed "Dawson Five" murder trial of three years ago, quietly eased itself into the pages of history again. For this small, predominately Black, southwestern Georgia town, the county seat for "Terrible Terrell" County, making history is not something new. Back in 1960 it became the first jurisdiction to be sued by the Justice Department under the 1957 Civil Rights Act for discrimination in voter registration. This time, however, unlike much of its past history when Black men lined up against White to do battle, three Black men stood alongside three White men and were sworn in together as Dawson City Council members.</p>
 
@@ -413,14 +411,15 @@ and commission positions. Breedlove looks forward to a new image of
 Dawson that will draw back Blacks who left and attract new industry to
 give them jobs. How close they come to having their hopes realized is
 a page from Dawson's history yet to be written.</p>
+<div3 id="sc02-7.025" type="About">
+<p>Betty Chaney is senior editor of <title>Southern Changes</title>.</p></div3>
 </div2>
-<div2 id="sc02-7gordon.003" n="The Past Of Lowndes County's Future"
+<div2 id="sc02-7.007" n="The Past Of Lowndes County's Future"
       type="Article">
 <head>The Past Of Lowndes County's Future</head>
-<docAuthor>By Tom Gordon</docAuthor>
+<byline>By <docAuthor><name reg="Gordon, Tom">Tom Gordon</name></docAuthor></byline>
 <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
-<argument>
-<p>Tom Gordon is state editor of the <hi rend="italic">Anniston Star</hi> in Alabama.</p></argument>
+
 <p>HAYNEVILLE, ALA.&#x2014;The 124-year-old courthouse in this Black Belt town once was the political hub and social watering hole for White Lowndes countians. Remembered as stylish and attractive, the whitewashed building with green shutters not only housed most county government offices but also was the site of square dances, dress balls, and other items on the social calendars of the local White populace. The dances usually took place in the second floor's courtroom, where couples would reach from an inside staircase or from two winding outer stairways facing the courthouse square.</p>
 
 <p>The outer stairways are gone now and the music of the courtroom's lively dances hasn't been heard for years. Today the courtroom couldn't host a ball, nor can it even house a trial. Leaks, cracks, peeling walls, and general deterioration prompted the state fire marshal to condemn the courtroom last fall. The rest of the courthouse is not far from a similar fate.</p>
@@ -547,13 +546,14 @@ which to work with Blacks, many of them carry a baggage of opinions and experien
 <p>Neither of these developments will go a long way towards freeing most Lowndes citizens from their economic woes, but hopelessness is not a word that characterizes the mood of most residents nowadays. While Tom Coleman has his hopes, Mrs. Willia Gadson, a Black teacher in Hayneville High School probably spoke for most Blacks and Whites best. "As a whole Lowndes could be one of the best places in the world to live," she said recently. "It's too small to be divided."</p>
 
 <p>With a pause, she added, "In order to be free, you've got to free not just your person, but your mind."</p>
-</div2>
-<div2 id="sc02-7greenhaw.004" n="Half Pints and Rain Barrels: Hunger in Alabama"      type="Article">
+<div3 id="sc02-7.027" type="About">
+<p>Tom Gordon is state editor of the <hi rend="italic">Anniston
+Star</hi> in Alabama.</p></div3></div2>
+
+<div2 id="sc02-7.008" n="Half Pints and Rain Barrels: Hunger in Alabama"      type="Article">
 <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
-<docAuthor>By Wayne Greenhaw</docAuthor>
+<byline>By <docAuthor><name reg="Greenhaw, Wayne">Wayne Greenhaw</name></docAuthor></byline>
 <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
-<argument>
-<p>Wayne Greenhaw is a freelance journalist in Montgomery, Al. and is author of several books about Southern events and people.</p></argument>
 
 <p>A dark-skinned woman with a sharp straight nose, aged twisted lips,and legs slightly bigger around than a half dollar, Annie Bell Brown looked surprised when more than forty people walked into her scrub-brush front yard.</p>
 
@@ -654,14 +654,15 @@ much that we have to do. It's an up-hill battle, but we think we can
 do it." And to his side Hollis Geer nodded her head in agreement as
 the bus passed several tar-papered shacks with a scrawny collard patch
 and a rustied-out car in the front yard.</p>
+<div3 id="sc02-7.024" type="About">
+<p>Wayne Greenhaw is a freelance journalist in Montgomery, Al. and is author of several books about Southern events and people.</p></div3>
 </div2>
-<div2 id="sc02-7carter.005" n="McDuffie: The Case Behind Miami's Riots"
+
+<div2 id="sc02-7.009" n="McDuffie: The Case Behind Miami's Riots"
       type="Article">
 <head>McDuffie: The Case Behind Miami's Riots</head>
-<docAuthor>By Patrice Gaines-Carter</docAuthor>
+<byline>By <docAuthor><name reg="Gaines-Carter, Patrice">Patrice Gaines-Carter</name></docAuthor></byline>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 20-23</docDate>
-<argument><p>Patrice Gaines-Carter is a reporter for the Miami
-News.</p></argument>
 
 <p>The story has changed several times since its beginning the morning of December 17, in Miami, Florida. It was about 1:50 a.m when police officers there say they spotted Arthur Lee MeDuffie, a Black insurance executive, doing daredevil stunts on his motorcycle.</p>
 <p>After a high-speed chase, McDuffie was caught. At least a dozen police officers encircled him. For 20 minutes, according to reports, they beat him with nightsticks and flashlights. Four days later, after slipping into a coma, McDuffie, 33, was dead.</p>
@@ -767,9 +768,11 @@ all-White Tampa jury found the policemen innocent and three days of
 violence in Miami's central city erupted, opening another violent
 chapter in a case which official police reports from last December
 still list as "accidental."</p>
-</div2>
-<div2 id="sc02-7sidebar.006" n="We Are Tired of Praying"
-      type="Article">
+<div3 id="sc02-7.029" type="About"><p>Patrice Gaines-Carter is a reporter for the <title>Miami
+News</title>.</p></div3>
+
+<div3 id="sc02-7.010" n="We Are Tired of Praying"
+      type="Sidebar">
 <head>"We Are Tired of Praying"</head>
 <docDate value="1980-06">Vol. 2, No. 7, 1980, p. 23</docDate>
 
@@ -788,6 +791,7 @@ the 60s as the crowd moved toward the Justice Department building singing "We Sh
 <p>In the meantime, six miles north in Black, impoverished Liberty City, violence also broke out among Blacks, Whites and police officers. Fires were set, stores were looted and people were beaten, maimed and killed. Many witnesses reported that the police vandalized cars, smashed windows and spray-painted the words "Looter" and "Thief" on walls.</p>
 
 <p>With sixteen people dead from the three days of disturbances in Miami, the U.S. Justice Department announced that it will seek civil rights indictments against the four policemen who were acquitted and a complete review of "past, present and future" reports of brutality by police and inaction by local judicial officers. The issues of "McDuffie" are now more than one case. They are the symbols of today's race relations.</p>
+</div3>
 </div2>
 </div1>
 </body>

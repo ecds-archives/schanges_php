@@ -63,16 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc12-2.001" n="Southern Changes 12:2" type="Issue">
             <head>Southern Changes.  Volume 12, Number 2, 1990</head>
             <p>
-               <title>Southern Changes</title>.  Volume 12, Number 2, 1990</p>
-            <div2 id="sc12-2suitts.002" n="Democracy in the South" type="Article">
+               <title>Southern Changes</title>.  Volume 12, Number 2,
+	       <date value="1990-06">1990</date></p>
+            <div2 id="sc12-2.002" n="Democracy in the South" type="Article">
                <head>Democracy in the South</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 1-3</docDate>
-               <argument>
-                  <p>Steve Suitts, a native of Alabama, is the executive
-director of the Southern Regional Council and the publisher of this
-journal.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 1-3</docDate>
+               
                <p>Like an old Chinese proverb coming south for the winter, one side
 of democracy in the American South today shows troubling, even
 treacherous signs of crisis, and on the other side are rare moments
@@ -176,23 +173,21 @@ challenge of expanding democracy. These qualities, hopefully, will
 also be evident in the strategies and activities which both the
 Council and other Southerners engage over the next few years for
 enlarging democracy in this region we stubbornly call home.</p>
-            </div2>
-            <div2 id="sc12-2morgan.003" n="A mayor who was never addicted to steel" type="Review">
-               <head>A mayor who was never addicted to steel.  <title>BACK TO
+            <div3 id="sc12-2.022" type="About">
+                  <p>Steve Suitts, a native of Alabama, is the executive
+director of the Southern Regional Council and the publisher of this
+journal.</p>
+	    </div3>
+	  </div2>
+            <div2 id="sc12-2.003" n="A mayor who was never addicted to steel" type="Review">
+               <head>A mayor who was never addicted to steel.</head>  
+               <byline>Reviewed by <docAuthor><name reg="Morgan,
+	       Charles, Jr.">Charles Morgan Jr.</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 22-23</docDate>
+               <bibl><title>BACK TO
 BIRMINGHAM: Richard Barrington, Jr. and His Times</title> by Jimmie
 Lewis Franklin (Tuscaloosa: The University of Alabama Press,
-1989).</head>
-               <docAuthor>Reviewed by CHARLES MORGAN JR.</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 22-23</docDate>
-               <argument>
-                  <p>The <title>Encyclopedia of Southern Culture</title> says
-of Charles Morgan Jr. that he has been "involved in much of the
-litigation that altered political and social life" of the
-South. During the 1960s up to the mid 1970s when be departed company
-from the A.C.L.U. and took up private practice in Washington, no
-lawyer did more or with more commitment, and none with more lasting
-cadet.</p>
-               </argument>
+1989).</bibl>
                <p>Whether to review the biography, the subject of it, the place, or
 "the times" is rarely answered by reviewers. Here is my
 answer. Dr. Franklin, a professor of history at Vanderbilt University,
@@ -315,19 +310,23 @@ reason--it often had done that--but had elected a black man as mayor;
 and--rest in peace Bull Connor--Birmingham, Alabama, has a mayor who
 is a PhD. And all because the civil rights movement came to town, and
 "big steel" left, and the City was set free.</p>
-            </div2>
-            <div2 id="sc12-2mcdonald.004" n="A decade of litigation a Southern Devil's Island" type="Review">
-               <head>A decade of litigation a Southern 'Devil's Island.'
-<title>Reform and Regret</title> by Larry W. Yackle (New York: ford
-University Press. 1989. 322 pp.).</head>
-               <docAuthor>Reviewed by LAUGHLIN MCDONALD</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 17-19</docDate>
-               <argument>
-                  <p>Laughlin McDonald is director of the Southern Rational
-Office of the American Civil Liberties Union and a lawyer who has
-himself been actively involved in numerous cases involving prisons,
-noting rights and civil rights.</p>
-               </argument>
+            <div3 id="sc12-2.023" type="About">
+                  <p>The <title>Encyclopedia of Southern Culture</title> says
+of Charles Morgan Jr. that he has been "involved in much of the
+litigation that altered political and social life" of the
+South. During the 1960s up to the mid 1970s when be departed company
+from the A.C.L.U. and took up private practice in Washington, no
+lawyer did more or with more commitment, and none with more lasting
+cadet.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-2.004" n="A decade of litigation a Southern Devil's Island" type="Review">
+               <head>A decade of litigation a Southern 'Devil's Island.'</head>
+
+               <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 17-19</docDate>
+               <bibl><title>Reform and Regret</title> by Larry W. Yackle (New York: Oxford
+University Press. 1989. 322 pp.).</bibl>
                <p>
                   <title>Reform and Regret,</title> by Larry W. Yackle, is an
 engrossing, carefully written story of two federal lawsuits, <hi rend="italic">Pugh v. Locke</hi> and <hi rend="italic">James
@@ -491,13 +490,18 @@ tell us what they are. Surely one alternative, and it has nothing
 whatever to do with penology, is the development of a society that
 does not breed crime, a society in which those who need decent jobs,
 housing, and educational opportunities can get them.</p>
-            </div2>
-            <div2 id="sc12-2liddleton.005" n="You Have a Right" type="Article">
+            <div3 id="sc12-2.024" type="About">
+                  <p>Laughlin McDonald is director of the Southern Regional
+Office of the American Civil Liberties Union and a lawyer who has
+himself been actively involved in numerous cases involving prisons,
+noting rights and civil rights.</p>
+               </div3></div2>
+            <div2 id="sc12-2.005" n="You Have a Right" type="Article">
                <head>'You Have a Right . . .' Voices from the Movement in
 Mississippi</head>
-               <docAuthor>Edited by George Littleton</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 10-14</docDate>
-               <argument>
+               <byline>Edited by <docAuthor><name reg="Littleton, George">George Littleton</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 10-14</docDate>
+              
                   <p>The following narratives are condensed from interviews
 conducted by young people from Bloodlines, regroup of black
 Mississippi high school students with a special interest in the seeds
@@ -514,7 +518,7 @@ freedom summers of the early 1960s. These interviews also point up the
 often overlooked truth that dirt farmers and other grassroots soldiers
 started the Movement which only later attracted its stars. The
 interviews were edited by George Littleton.</p>
-               </argument>
+              
                <p>
                   <hi rend="bold">Mr. T.C. Johnson</hi>
                </p>
@@ -887,11 +891,11 @@ day did she think as young people we should be training them to be
 Democrats or Republicans? And she said, 'Neither one. Instead we
 should be training ya'll to be thinking.'</p>
             </div2>
-            <div2 id="sc12-2durr.006" n="The Biggest Texan" type="Article">
+            <div2 id="sc12-2.006" n="The Biggest Texan" type="Article">
                <head>The Biggest Texan: John Henry Faulk 1913-1990</head>
-               <docAuthor>By VIRGINIA DURR</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 15-17</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Durr, Virginia">Virginia Durr</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 15-17</docDate>
+               
                   <p>Editor's note: When John Henry Faulk died
 in Texas on April 9, 1990, many people lost a treasured friend and
 this nation lost one of its most passionate and articulate advocates
@@ -900,7 +904,7 @@ advocates was Virginia Foster Durr, a life member of the Southern
 Regional Council, who remembers John Henry here-with a few
 digressions-as an entertainer, a friend, and a down-home defender of
 particular American values.</p>
-               </argument>
+               
                <p>John Henry had a room in New York City. He was just getting on the
 radio at CBS then and I was in New York with my daughter Lucy and
 another friend. Mary Price was running the Southern Conference for
@@ -1043,18 +1047,14 @@ a native Alabamian. </p>
                <p>Virginia Durr's recollections of John Henry Faulk were recorded,
 transcribed and edited by George Littleton.</p>
             </div2>
-            <div2 id="sc12-2dunbar.007" n="Telling a Mouthful about the South" type="Review">
-               <head>Telling a Mouthful about the South. <title>Encyclopedia of
+            <div2 id="sc12-2.007" n="Telling a Mouthful about the South" type="Review">
+               <head>Telling a Mouthful about the South.</head> 
+               <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 19-22</docDate>
+               <bibl><title>Encyclopedia of
 Southern Culture.</title> Charles Reagan Wilson and William Ferris,
 co-editors. (Chapel Hill: University of North Carolina Press,
-1989. $49.95.)</head>
-               <docAuthor>Reviewed by LESLIE DUNBAR</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, pp. 19-22</docDate>
-               <argument>
-                  <p>Leslie W. Dunbar, former executive director of both the
-Field Foundation and the Southern Regional Council, is the book editor
-of <title>Southern Changes</title>.</p>
-               </argument>
+1989. $49.95.)</bibl>
                <p>Is an encyclopedia, and this one in particular, a book or an event,
 an event that should be written about elsewhere in this magazine? It
 is here, in the back of the book, that the duty has been assigned, and
@@ -1258,23 +1258,25 @@ the poor I am against any Americans feeling good about themselves--but
 I do hope they will find themselves and their cultures, and some of
 their troubles and their aspirations, justly depicted in these
 pages.</p>
-            </div2>
-            <div2 id="sc12-2chestnut.008" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc12-2.027" type="About">
+                  <p>Leslie W. Dunbar, former executive director of both the
+Field Foundation and the Southern Regional Council, is the book editor
+of <title>Southern Changes</title>.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-2.008" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, p. 24</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
-               <argument>
+               <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, p. 24</docDate>
+               
+               
                   <p>Editor's Note: It has been a turbulent in Dallas County,
 Alabama, where the twenty-fifth anniversary of the Voting Rights Act
 was celebrated earlier this year with more than just reenactments. A
 bitter controversy over white control of majority black public schools
 has involved arrests, sit-ins and, as J.L. Chestnut indicates, the
 reopening of long-festering wounds.</p>
-               </argument>
+               
                <p>In Selma, a white judge issued a restraining order to prevent the
 arrest of six white school board members for allegedly having violated
 the criminal statute against secret school board meetings. In adjacent
@@ -1324,12 +1326,16 @@ however, we can't solve the problems running from them.</p>
                <p>I am not afraid of the truth.</p>
                <p>It's the lies we need to watch.</p>
                <p>Peace.</p>
-            </div2>
-            <div2 id="sc12-2bond.009" n="The Vote and Change" type="Article">
+            <div3 id="sc12-2.028" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	    </div2>
+            <div2 id="sc12-2.009" n="The Vote and Change" type="Article">
                <head>The Vote and Change</head>
-               <docAuthor>Julian Bond</docAuthor>
-               <docDate>Vol. 12, No. 2, 1990, p. 4-9</docDate>
-               <argument>
+               <byline><docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+               <docDate value="1990-06">Vol. 12, No. 2, 1990, p. 4-9</docDate>
+              
                   <p>These edited remarks are from a panel discussion held on
 political participation during last winter's annual meeting of the
 Southern Regional Council. The participants, all with long involvement
@@ -1341,7 +1347,7 @@ Hernandez. All are members of the Southern Regional Council, Harrison
 and Shackelford are former presidents of the organization. Bond
 narrated the program, which was taped for television broadcast and is
 available on videocassette from the SRC.</p>
-               </argument>
+               
                <p>JULIAN BOND: Ms. Shackelford, let's begin
 with you. You were a high school student in Little Rock in 1954 when
 the Supreme Court said that separate but equal was against the

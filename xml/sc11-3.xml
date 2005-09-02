@@ -63,16 +63,14 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc11-3.001" n="Southern Changes 11:3" type="Issue">
             <head>Southern Changes.  Volume 11, Number 3, 1989</head>
             <p>
-               <title>Southern Changes</title>.  Volume 11, Number 3, 1989</p>
-            <div2 id="sc11-3scott.002" n="In the Governor's Year of the Child" type="Article">
+               <title>Southern Changes</title>.  Volume 11, Number 3,
+	       <date value="1989-05">1989</date></p>
+            <div2 id="sc11-3.002" n="In the Governor's Year of the Child" type="Article">
                <head>In the Governor's Year of the Child, a Call for Alabama
 Arise</head>
-               <docAuthor>By CAROLYNNE B. SCOTT</docAuthor>
-               <docDate>Vol. 11, No. 3, 1989, pp. 7-9</docDate>
-               <argument>
-                  <p>Carolynne Scott teaches fiction writing at the University
-of Alabama-Birmingham and writes for Catholic Charities.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Scott, Carolynne B.">Carolynne B. Scott</name></docAuthor></byline>
+               <docDate value="1989-05">Vol. 11, No. 3, 1989, pp. 7-9</docDate>
+               
                <p>Governor Guy Hunt has proclaimed 1989 to be the Year of the Child
 in Alabama. For the poor child whose mother receives Aid to Dependent
 Children (ADC), this is hardly cause to celebrate.</p>
@@ -273,15 +271,16 @@ Medicaid eligibility income ceiling raised and to let older children
 up to three be covered also.</p>
                <p>Whatever the long and arduous outcome of future legislative
 efforts, the children of Alabama at least have found a voice.</p>
-            </div2>
-            <div2 id="sc11-3tullos.003" n="Life As We Knew It" type="Article">
+            <div3 id="sc11-3.022" type="About">
+                  <p>Carolynne Scott teaches fiction writing at the University
+of Alabama-Birmingham and writes for Catholic Charities.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-3.003" n="Life As We Knew It" type="Article">
                <head>Life As We Knew It</head>
-               <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 11, No. 3, 1989, pp. 1, 3-6</docDate>
-               <argument>
-                  <p>
-                     <title>Southern Changes'</title> editor Allen Tullos presented a version of this essay at the "Sounds of the South" conference on Southern traditional music held in April at the University of North Carolina at Chapel Hill.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+               <docDate value="1989-05">Vol. 11, No. 3, 1989, pp. 1, 3-6</docDate>
+               
                <p>LIKE OTHER NOSTALGIAS, the notion of Southern folk cultures in transition used to seem simpler, easier to track, cut and dried. If you ever have heard the Red Clay Ramblers introduce their version of the Golden Melody Boys' song "Cabin Home," you will know what I mean. "There are two places in old time music where the singers of the songs don't want to be," Tommy Thompson or Jim Watson will say. "One place singers don't want to be is home, and the other is away from home. If they are home, they want to get away from home. If they are away from home, they want to be home."
                </p>
                <p>Even in the late twentieth century South where plumbers don't make house calls, double-wides travel by night on the Lee Highway, and electronic villages post their city limits signs by modem, the Ramblers' insight remains a good first principle of cultural transition as it affects songs of the South. Weary pilgrims, restless fools, poor boys a long way from home, rank strangers, friends and loved ones left behind have filled out much of the demographic profile of the South's folk and working class music, sacred and secular, black and white, young and old, male and female.</p>
@@ -335,12 +334,16 @@ and 1986 settled in twenty states. Five of these twenty are Southern: Texas, Flo
                         ". . . Beverly's parents had stayed married like two dogs locked together in passion, except it wasn't passion. But she and Joe didn't have to do that.  Times had changed. Joe could up and move to South Carolina. Beverly and Jolene could hop down to Memphis just for a fun weekend. Who knew what might happen or what anybody would decide to do on any given weekend or at any stage of life?"
                      </p>
                      <p>Southern changes.</p>
-            </div2>
-            <div2 id="sc11-3long.004" n="Margaret Long: March on Montgomery" type="Article">
+            <div3 id="sc11-3.023" type="About">
+                  <p>
+                     <title>Southern Changes'</title> editor Allen Tullos presented a version of this essay at the "Sounds of the South" conference on Southern traditional music held in April at the University of North Carolina at Chapel Hill.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-3.004" n="Margaret Long: March on Montgomery" type="Article">
                <head>Margaret Long: March on Montgomery</head>
-               <docAuthor>By MARGARET LONG</docAuthor>
-               <docDate>Vol. 11, No. 3, 1989, pp. 9-11</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Long, Margaret">Margaret Long</name></docAuthor></byline>
+               <docDate value="1989-05">Vol. 11, No. 3, 1989, pp. 9-11</docDate>
+
                   <p>EDITOR'S NOTE: Margaret Long, editor from 1961-1966 of
 <title>New South</title>, the Southern Regional Council publication
 that was one of the forerunners of <title>Southern Changes</title>,
@@ -351,7 +354,7 @@ observer. Thc article originally appeared as Long's regular column,
 "Strictly Subjective," in the March 1965 issue of <title>New
 South.</title>
                   </p>
-               </argument>
+
                <p>A pearly light glowed gray-bright through the rain clouds over
 Montgomery and bathed the beautiful old city in a humid, soft
 glare. The overcast day of the March on Montgomery was deceptively
@@ -537,21 +540,15 @@ ridicule and every rousing ring of the orators' echoed promise to
 march, vote and demonstrate until Alabama belongs to black and white
 together.</p>
             </div2>
-            <div2 id="sc11-3dunbar2.005" n="A Turn for the Worse" type="Review">
+            <div2 id="sc11-3.005" n="A Turn for the Worse" type="Review">
                <head>A Turn for the Worse.  <title>A Turn in the South</title> by
 V.S. Naipaul. (Alfred A. Knopf, 1989. 307 pages. $18.95.).
 <title>Library Service in Black &#x26; White; Some Personal Recollections,
 1921-1980</title> by Annie L. McPheeters. (The Scarecrow Press
 Metuchen, N.J., 1988. xvi. 152 pages. $22.50.)</head>
-               <docAuthor>By LESLIE DUNBAR</docAuthor>
-               <docDate>Vol. 11, No. 3, 1989, pp. 13-14</docDate>
-               <argument>
-                  <p>Leslie Dunbar is the new book editor of <title>Southern
-Changes.</title> His earlier affiliation with the Southern Regional
-Council began in 1958. He was Director of Research during 1959 and
-1960, and Executive Director 1961-1965. He lives now in Durham, North
-Carolina.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+               <docDate value="1989-05">Vol. 11, No. 3, 1989, pp. 13-14</docDate>
+               
                <p>
                   <title>A Turn in the South</title> is, the author says, a travel
 book-- "travel on a theme"--, which is, I suppose, his way of saying
@@ -665,15 +662,19 @@ us.</p>
                <p>This is an honest book. The final chapters are autobiographical,
 and enrich the earlier pages; the chapter on "early life and
 education" is a bright gem: indeed, Mr. Naipaul, "lyrical."</p>
-            </div2>
-            <div2 id="sc11-3chestnut.006" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc11-3.025" type="About">
+                  <p>Leslie Dunbar is the new book editor of <title>Southern
+Changes.</title> His earlier affiliation with the Southern Regional
+Council began in 1958. He was Director of Research during 1959 and
+1960, and Executive Director 1961-1965. He lives now in Durham, North
+Carolina.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-3.006" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 11, No. 3, 1989, pp. 16, 15</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1989-05">Vol. 11, No. 3, 1989, pp. 16, 15</docDate>
+               
                <p>With all the recent useless and stupid killings by blacks there is
 budding concern by some decisionmakers into the real causes of black
 crime and violence. Up to now, when that question was raised all we
@@ -739,7 +740,11 @@ relationships in the U.S.</p>
 is not worth listening to. The more they talk the worse the problem
 gets.</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc11-3.026" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

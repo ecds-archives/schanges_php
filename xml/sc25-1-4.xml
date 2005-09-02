@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p><title>Southern Changes.</title> Volume 25, Number 1-4, <date value="2003">2003</date></p>
  <div2 id="sc25-1-4.002" n="Money Matters in Education"
        type="Article">
-<docAuthor>By Luz Borrero</docAuthor>
+<byline>By <docAuthor><name reg="Borrero, Luz">Luz Borrero</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 p. 3</docDate>
 <head>Money Matters in Education</head>
 <p>The Southern Regional Council has long advocated full government responsibility in providing equal access to high quality education. This fundamental duty directly affects the lives of most minority and low-income children and youth. State and federal government must commit the necessary revenues and support to ensure that all children receive the same quality education that middle and upper class students do.</p>
@@ -97,7 +97,7 @@ Council.</p>
 </div3>
  </div2>
 <div2 id="sc25-1-4.004" n="Embracing Thanatos: The War Machine and the Bush Administration" type="Article">
-<docAuthor>By Dan T. Carter</docAuthor>
+<byline>By <docAuthor><name reg="Carter, Dan T.">Dan T. Carter</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 4-5</docDate>
 <head>Embracing Thanatos: The War Machine and the Bush Administration</head>
 
@@ -162,7 +162,7 @@ University of South Carolina.</p></div3>
 </div2>
 
 <div2 id="sc25-1-4.006" n="Missing Martin" type="Article">
-<docAuthor>By Paul M Gaston</docAuthor>
+<byline>By <docAuthor><name reg="Gaston, Paul M.">Paul M. Gaston</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 6-7</docDate>
 <head>Missing Martin</head>
 
@@ -209,7 +209,7 @@ southern history.</p>
 </div2>
 
 <div2 id="sc25-1-4.008" n="Rally 'Round the Flag Boys: Continued White Flight from the Democratic Party" type="Article">
-<docAuthor>By Laughlin McDonald</docAuthor>
+<byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 8-9</docDate>
 <head>Rally 'Round the Flag Boys: Continued White Flight from the Democratic Party</head>
 
@@ -265,7 +265,7 @@ Press, 2003).</p></div3>
 </div2>
 
 <div2 id="sc25-1-4.010" n="" type="Article">
-<docAuthor>By Steve Vaughan</docAuthor>
+<byline>By <docAuthor><name reg="Vaughan, Steve">Steve Vaughan</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 p. 10</docDate>
 <head>Fighting to Find the Facts: Virginia Organizing Project on Racial Profiling</head>
 
@@ -305,7 +305,7 @@ www.virginia-organizing.org</p>
 </div2>
 
 <div2 id="sc25-1-4.012" n="The Pryor Threat" type="Article">
-<docAuthor>By Allen Tullos</docAuthor>
+<byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, no. 1-4, 2003 pp. 11-12</docDate>
 <head>The Pryor Threat</head>
 
@@ -350,7 +350,7 @@ Changes</title>.</p></div3>
 </div2>
 
 <div2 id="sc25-1-4.014" n="FILM: Education and Incarceration?" type="Review">
-<docAuthor>Reviewed by Randall Burkett</docAuthor>
+<byline>Reviewed by <docAuthor><name reg="Burkett, Randall">Randall Burkett</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 13-14</docDate>
 <head>FILM: Education and Incarceration?</head>
 
@@ -383,7 +383,7 @@ www.frif.com.</p>
 
 
 <div2 id="sc25-1-4.016" n="BOOKS: Georgia's Quest for Fair Representation" type="Review">
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 15-16</docDate>
 <head>BOOKS: Georgia's Quest for Fair Representation</head>
 
@@ -420,7 +420,7 @@ Regional Council.</p>
 </div2>
 
 <div2 id="sc25-1-4.018" n="A Highway Up From Darkness" type="Review">
-<docAuthor>Reviewed by Robert J. Norrell</docAuthor>
+<byline>Reviewed by <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 17-18</docDate>
 <head>A Highway Up From Darkness</head>
 
@@ -460,16 +460,16 @@ white supremacy as a detriment to future economic progress. Thornton provides th
 </div2>
 
 <div2 id="sc25-1-4.020" n="" type="Review">
-<docAuthor>Reviewed by Ellen G. Spears</docAuthor>
+<byline>Reviewed by <docAuthor><name reg="Spears, Ellen G.">Ellen G. Spears</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 19-20</docDate>
 <head>Jumping on Racism with Both Feet</head>
 
-<bibl>Catherine Fosl, <title>Subversive Southerner: Anne Braden and the Struggle for Racial Justice in the Cold War South</title>. New York: Palgrave Macmillan, 2002.</bibl>
 
 <epigraph><p>"Racism is such a powerful force in this country, you
 have to always be jumping on it with both feet just to be able to hold
 it down, to hold it in check."<ref target="sc25-1-4.020n1">1</ref></p>
 <bibl>- State Senator Hank Sanders, <lb/>Selma, Alabama</bibl></epigraph>
+<bibl>Catherine Fosl, <title>Subversive Southerner: Anne Braden and the Struggle for Racial Justice in the Cold War South</title>. New York: Palgrave Macmillan, 2002.</bibl>
 
 <p>Anne Braden is one of a few white Southerners who have been jumping on racism with both feet for more than five decades. Leaving a privileged childhood in pre-civil rights Louisville, Kentucky and Anniston, Alabama, she
 became a journalist, activist, civil rights leader, and mentor to today's social justice movements. In <title>Subversive Southerner</title>, Catherine Fosl, who teaches women's studies and humanities at the University of Louisville, has given us an important gift, tracing the formative influences on Anne Braden and interpreting her brave actions against brutal Cold War era politics in the South.</p>
@@ -530,7 +530,7 @@ Wilson, Charles Reagan, ed. <title>The New Regionalism</title>. Jackson: Univers
 </div2>
 
 <div2 id="sc25-1-4.023" n="...Something Is Bound to Happen" type="Review">
-<docAuthor>Reveiwed by Randall Williams</docAuthor>
+<byline>Reveiwed by <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
 <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 21-22</docDate>
 <head>"...Something Is Bound to Happen"</head>
 

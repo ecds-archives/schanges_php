@@ -58,9 +58,9 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
             <p> 
                <title>Southern Changes.</title>  Volume 23, Number 2,
 	       <date value="2001-06">2001</date></p>
- <div2 id="sc23-2.johnson.003" n="Election Reform: Going Anywhere?" type="Article">
+ <div2 id="sc23-2.003" n="Election Reform: Going Anywhere?" type="Article">
                <head>Election Reform: Going Anywhere?</head>
-               <docAuthor>By Wendy S. Johnson</docAuthor>
+               <byline>By <docAuthor><name reg="Johnson, Wendy S.">Wendy S. Johnson</name></docAuthor></byline>
                <docDate value="2001-06">Vol. 23, No. 2, 2001 p. 3</docDate>
 
 <p>The thirty-five days following the 2000 presidential election
@@ -76,10 +76,11 @@ stunned a watchful and anxious nation as we learned about the severe ineptness a
 <p>This issue of <title>Southern Changes</title> benefited from the investigative, research, and writing skills of two outstanding interns, Lisa Rab and Catherine Wall. Rab is in her last year as a journalism student at Emory University and Wall is a second year law student at the University of Texas.  Feature articles by Rab and Wall yield a comprehensive overview of the status of election reform, real and proposed, across the American South.</p>
 <div3 id="sc23-2.025" type="About"><p>Wendy S. Johnson is executive director of the Southern Regional Council.</p></div3> 
 </div2>
-<div2 id="sc23-2.redwood.010" n="The Mockery of Democracy"
+<div2 id="sc23-2.010" n="The Mockery of Democracy"
       type="Article">
-<docAuthor>By Ren&#x00E9; Redwood and Bernie Horn</docAuthor>
-<docDate value="2001-06">Vol. 23, No. 2, 2001 pp 4-5</docDate>
+<byline>By <docAuthor><name reg="Redwood, Ren&#x00E9;">Ren&#x00E9;
+Redwood</name> and <name reg="Horn, Bernie">Bernie Horn</name></docAuthor></byline>
+<docDate value="2001-06">Vol. 23, No. 2, 2001 pp. 4-5</docDate>
 <p>As summer turn to autumn, so why should you care about hanging
 chads and butterfly ballots? Why should you care whether or not rich
 and poor precincts in the same county have identical voting
@@ -249,16 +250,16 @@ to act will allow history to repeat itself. The flawed election of
 2000 is not just a lesson from the past but a challenge for the future
 to assert the dignity of the people through the vote. We can choose
 a new course.</p>
-<div3 id="sc23-2.redwood.031" type="About"><p>Ren&#x00E9; Redwood is
+<div3 id="sc23-2.031" type="About"><p>Ren&#x00E9; Redwood is
 Senior Fellow of the Democracy and Technology Program at the Center
 for Policy Alternatives in Washington, D.C. Bernie Horn is Policy
 Director at the Center for Policy Alternatives.</p></div3>
 </div2>
- <div2 id="sc23-2.rab.004" n="Budget Woes and Partisan Politics 
+ <div2 id="sc23-2.004" n="Budget Woes and Partisan Politics 
 Block Election Reform" type="Article">
                <head>Budget Woes and Partisan Politics 
 Block Election Reform</head>
-               <docAuthor>By Lisa Rab </docAuthor>
+               <byline>By <docAuthor><name reg="Rab, Lisa">Lisa Rab </name></docAuthor></byline>
                <docDate>Vol. 23, No. 2, 2001 pp. 6-13</docDate>
 
 <p>Despite the initial scramble to introduce legislation responding to the election chaos in Florida, very few Southern states passed comprehensive election reform measures in 2001. </p>
@@ -408,11 +409,11 @@ budget in order for the governor to continue his phase-out," Willis
 said.</p>
 <div3 id="sc23-2.020" type="About"><p>Lisa Rab is a journalism student at Emory University in Atlanta. This article contains information contributed by Catherine Wall.</p></div3>
  </div2>
-<div2 id="sc23-2.wall.005" n="A Closer Look:
+<div2 id="sc23-2.005" n="A Closer Look:
 The Florida and Georgia Experiences" type="Article">
                <head>A Closer Look:
 The Florida and Georgia Experiences</head>
-               <docAuthor>By Catherine Wall</docAuthor>
+               <byline>By <docAuthor><name reg="Wall, Catherine">Catherine Wall</name></docAuthor></byline>
                <docDate value="2001-06">Vol. 23, No. 2, 2001 pp. 14-17</docDate>
 
 <p>The 2001 state legislative sessions witnessed very little progress towards comprehensive election reform. Only two southern states--Florida and Georgia--passed meaningful legislation to repair the disfranchising, antiquated, and undemocratic electoral flaws that were made glaringly apparent by the  2000 election. Maryland is the only non-southern state to pass comprehensive reform.</p>
@@ -473,9 +474,9 @@ indepen-<pb n="17"/>dent, nonpartisan state elections administration was a major
 <div3 id="sc23-2.021"><p>Catherine Wall is a second-year student at the University of Texas Law School in Austin.</p></div3>
 </div2>
 
-<div2 id="sc23-2.rab.006" n="Felon Disfranchisement Bars Many from Voting" type="Article">
+<div2 id="sc23-2.006" n="Felon Disfranchisement Bars Many from Voting" type="Article">
                <head>Felon Disfranchisement Bars Many from Voting</head>
-               <docAuthor>By Lisa Rab</docAuthor>
+               <byline>By <docAuthor><name reg="Rab, Lisa">Lisa Rab</name></docAuthor></byline>
                <docDate value="2001-06">Vol. 23, No. 2, 2001 pp. 22-25</docDate>
 
 <p>More than 200,000 people could not vote in Florida's presidential election last year because of laws barring ex-felons from voting. Similar laws across the country prevented 1.4 million people from casting their ballots, according to data compiled by the Sentencing Project, an independent criminal justice policy group. </p>
@@ -525,9 +526,9 @@ voting. "The fact that last <pb n="24"/>year there was a bill that passed was ve
 <p>"As much as we want to believe that institutionalized racial discrimination is in our past, that's not true," Nancy Northrup, Director of the Brennan Center's Democracy Program, says. "More work must be done to ensure full democratic rights for all our citizens.</p>
 <div3 id="sc23-2.022" type="About"><p>Lisa Rab is a journalism student at Emory University in Atlanta.</p></div3>
 </div2>
-<div2 id="sc23-2.garrow.007" n="Many Birminghams: Taking Segregationists Seriously" type="Review">
+<div2 id="sc23-2.007" n="Many Birminghams: Taking Segregationists Seriously" type="Review">
                <head>Many Birminghams: Taking Segregationists Seriously</head>
-               <docAuthor>Reviewed by David J. Garrow</docAuthor>
+               <byline>Reviewed by <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline>
                <docDate value="2001-06">Vol. 23, No. 2, 2001 pp. 26-32</docDate>
 
 <p rend="bold">REVIEWS</p>
@@ -744,9 +745,9 @@ attended law school with Shores's grandson Arthur Shores Lee, who "would mention
 <note place="end" id="sc23-2.garrow.n16" n="16"><p>See John Dittmer's excellent <title>Local People: The Struggle for Civil Rights in Mississippi</title> (University of Illinois Press, 1994), pp. 353-62.</p></note>
 <div3><p>David Garrow is a Presidential Distinguished Professor at Emory University and is author of the Pulitzer Prize-winning biography of Martin Luther King, Jr., Bearing the Cross.</p></div3>
 </div2>
-<div2 id="sc23-2.whitley.008" n="Remembering and Forgetting"
+<div2 id="sc23-2.008" n="Remembering and Forgetting"
       type="Review">
-<docAuthor>Reviewed by Bland Whitley</docAuthor>
+<byline>Reviewed by <docAuthor><name reg="Whitley, Bland">Bland Whitley</name></docAuthor></byline>
 <docDate value="2001-06">Vol. 23, No. 2, 2001 pp. 32-34</docDate>
 <head>Remembering and Forgetting</head>
 <bibl>David W. Bright, <title>Race and Reunion: The Civil War in
@@ -906,7 +907,7 @@ remember and honor will continue to shape our political landscape in
 ways that an ahistorical faith in capitalist progress cannot. Better
 that those memories help further the goals of democracy rather than
 prop up the specters of past and present racist agendas.</p>
-<div3 id="sc23-2.whitley.032" type="About">
+<div3 id="sc23-2.032" type="About">
 <p>Bland Whitley is a doctoral candidate in history at the University
 of Florida. He is currently studying historical narratives on
 Reconstruction in Mississippi.</p></div3>

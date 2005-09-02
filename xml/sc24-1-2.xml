@@ -33,7 +33,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 24, Number 1-2 2002</bibl>
+            <bibl>Southern Changes.  Volume 24, Number 1-2,
+	    Spring/Summer 2002</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -55,15 +56,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc24-1-2.002" n="Southern Changes 24:1-2" type="Issue">
+         <div1 id="sc24-1-2.001" n="Southern Changes 24:1-2" type="Issue">
             <head>Southern Changes.  Volume 24, Number 1-2,
 	    2002</head>
 <p><title>Southern Changes.</title> Volume 24, Number 1-2, <date value="2002-03">2002</date></p>
- <div2 id="sc24-1-2.johnson.000" n="Legacy of Violence" type="Article">
+ <div2 id="sc24-1-2.002" n="Legacy of Violence" type="Article">
                <head>Legacy of Violence</head>
-               <docAuthor>By Wendy Johnson</docAuthor>
+               <byline>By <docAuthor><name reg="Johnson, Wendy">Wendy Johnson</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 p. 3</docDate>
-<argument><p>Wendy Johnson is executive director of the Southern Regional Council.</p></argument>
 
 <p>Between 1882 and 1968, 4,743 Americans are known to have been
 victims of the terrible and violent crime of lynching. A recent article in the <hi rend="italic">Atlanta Journal Constitution</hi> defined the word lynching as "an illegal death at the hands of a group acting under pretense of service, race or tradition." More than 70 percent of those who lost their lives to a violent and unchecked mob in the name of preserving "tradition" were black. The allegations for which lynchings were carried out include such shockingly innocent acts as "being obnoxious," "insolence," "trying to vote,"  "suing a white man," "frightening a white woman," and "acting suspiciously." The very word--lynching--was a feared and hateful term and it continues to strike fear in many African Americans who can clearly remember acts of racial violence committed for breaches of "tradition." </p>
@@ -77,12 +77,13 @@ viewer: you find yourself holding your breath and flinching involuntarily. As yo
 <p>Several communities devastated by white mob violence over the past century have begun to confront these painful legacies of shared suffering and destruction and are designing actions for healing and reconciliation.  "Lifting the Veil of Silence," a workshop held in Atlanta last fall, brought nine of these communities together to liberate the truth about lynching.  They feel an urgent need to "confront these atrocities against primarily African-American citizens, resurrect and record this history, remember the dead, and begin to heal these long neglected but still festering wounds." The stories of several of these communities are offered in this issue.</p>
 <p>Confronting a "dangerous memory" is an appeal for community
 remembrance and reconciliation.  The challenge offered by the <hi rend="italic">Without Sanctuary</hi> exhibit and these nine communities is a challenge we should all be willing to accept.</p>
+<div3 id="sc24-1-2.022" type="About"><p>Wendy Johnson is executive director of the Southern Regional Council.</p></div3>
  </div2>
- <div2 id="sc24-1-2.auslander.001" n="Return to Sender: Confronting Lynching 
+ <div2 id="sc24-1-2.003" n="Return to Sender: Confronting Lynching 
 and Our Haunted Landscapes" type="Article">
                <head>"Return to Sender"<lb/>Confronting Lynching 
 and Our Haunted Landscapes</head>
-               <docAuthor>By Mark Auslander</docAuthor>
+               <byline>By <docAuthor><name reg="Auslander, Mark">Mark Auslander</name></docAuthor></byline>
                <docDate  value="2002-03">Vol. 24, No. 1-2, 2002 pp. 4-7</docDate>
 
 <p>Last year, I took a walk in the woods with a friend, an African-American man in his fifties whom I will call "James." We had been seeking traces of an old slave cemetery, in which James had good reason to believe some of his ancestors were buried. Deep in the forest, he pointed out an old, gnarled oak that he was convinced marked the outer boundary of the graveyard. Finding this aged landmark was a relief, but a few minutes later, as we started back down the path, James paused and commented on the tree in different, more somber tones:</p>
@@ -140,15 +141,15 @@ trussed from either <pb n="7"/>side of a lamp-post. A third young victim lies pr
 <p>Recently, James and I took another walk in the woods. Once more, we passed that old oak. Thinking of our earlier conversation, I asked him if he found this sight disturbing. He shook his head, puzzled: "Hey, it's just a tree." Freud, I suspect, would be pleased: sometimes a tree is only a tree.</p>
 <p>Of course, many might argue that in the shadow of America's violent history against its own citizens of color, a single workshop, a single memorial service, or a single exhibition of photographs won't change anything fundamentally. Aren't these just symbols, images, ephemeral traces of light and shadow?</p>
 <p>Yet when traversing haunted landscapes, light and shadow are, sometimes, the only things with which we have to work. I take some comfort from the thought that the exhibition of lynching photographs opened in Atlanta, capital of the "New South," on May 1st, of all days. Mayday. Once an ancient rite celebrating the land's regeneration on the day of spring's return, now dedicated internationally to the dignity of labor and to our common humanity. What better day to bring some old images of dark times out into the light and stamp them, once and for all, "returned to sender"? </p>
-<div3 id="sc24-1-2.022" type="About"><p>Mark Auslander  teaches Anthropology and Sociology at Oxford College of Emory University and is a core faculty member at the Emory Center for Myth and Ritual in American Life (the MARIAL Center). With Rich Rusk of Moore's Ford Memorial Committee, he served as co-coordinator of, Lifting the Veil of Silence: A Workshop on Racial Violence and Reconciliation.
+<div3 id="sc24-1-2.023" type="About"><p>Mark Auslander  teaches Anthropology and Sociology at Oxford College of Emory University and is a core faculty member at the Emory Center for Myth and Ritual in American Life (the MARIAL Center). With Rich Rusk of Moore's Ford Memorial Committee, he served as co-coordinator of, Lifting the Veil of Silence: A Workshop on Racial Violence and Reconciliation.
 For more information about the Moore's Ford Memorial Committee, visit: www.mooresford.net, email: richrusk@negia.net, or write to: 1851 Rays Church Road, Bishop, GA  30621-1206.
 The Without Sanctuary exhibit is housed at the Martin Luther King, Jr. National Historic Site in Atlanta, Georgia, from May 1 through December 31, 2002. For more information on the exhibit and accompanying community events, visit: www.nps.gov/malu.</p></div3>
  </div2>
- <div2 id="sc24-1-2.staff.002" n="Communities Lifting the Veil of Silence" type="Article">
+ <div2 id="sc24-1-2.004" n="Communities Lifting the Veil of Silence" type="Article">
 
 
                <head>Communities Lifting the Veil of Silence</head>
-               <docAuthor>staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 8-9</docDate>
 
 <p rend="center"><hi rend="bold">The 1898 Foundation, Wilmington, NC</hi></p>
@@ -173,9 +174,9 @@ Rosewood, FL</hi></p>
 years until reporter Gary Moore published the story in the <hi rend="italic">St. Petersburg Times</hi>. Survivors and their family members soon after founded the Rosewood Family Reunion in Lacoochee, Florida. In 1994, the former African-American residents of Rosewood and their family members became the recipients of the first restitution payments for a racial riot. The state paid $150,000 to each survivor and the Rosewood Scholarship Fund was established.</p>
 <p>Since that time, survivors and their family members have been working to educate others about the events of the Rosewood Massacre and their relation to racial justice in the United States. Rosewood Bus Tours has carried more than 7,300 student, military group, family, church, and community groups on an educational journey through Rosewood. With Florida Humanities Council funding, the Rosewood Traveling Exhibit was designed. And "Rosewood," produced by Warner Brothers was released in 1997, providing a Hollywood version of the story to a broad national audience. To learn more about the Rosewood Heritage Foundation, visit: www.displaysforschools.com/rosewood.html.</p>
  </div2>
- <div2 id="sc24-1-2.sullivan.003" n="Marge Baroni: The Awakening of Activism" type="Article">
+ <div2 id="sc24-1-2.005" n="Marge Baroni: The Awakening of Activism" type="Article">
                <head>Marge Baroni: The Awakening of Activism</head>
-               <docAuthor>by Susan Stevenot Sullivan</docAuthor>
+               <byline>By <docAuthor><name reg="Sullivan, Susan Stevenot">Susan Stevenot Sullivan</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 9-12</docDate>
 
 <p>Marjorie Rushing Baroni (1942-1986) was in many ways an ordinary Southern woman of the last century. A housewife and resident of Natchez, Mississippi, she was neither wealthy nor famous. She was not killed in the civil rights days, nor were members of her family. She was willing, however, to live what she believed about the dignity of all people. She was an ordinary person who took an extraordinary stance for her time and paid a social and personal price for the rest of her life. </p>
@@ -244,12 +245,12 @@ Fayette. Idle dreams maybe but your energies and desires to serve the
 Lord, your love of people and interracial justice should find
 expression. . . .You have been a voice in the wilderness and a shining
 light to the blind!"	</p>
-<div3 id="sc24-1-2.024" type="About"><p>Susan Stevenot Sullivan lives in Atlanta, working as a writer and photographer with groups in ministry in the South. She was instrumental in the placement of Marge Baroni's papers in the archives at the University of Mississippi. </p>
+<div3 id="sc24-1-2.025" type="About"><p>Susan Stevenot Sullivan lives in Atlanta, working as a writer and photographer with groups in ministry in the South. She was instrumental in the placement of Marge Baroni's papers in the archives at the University of Mississippi. </p>
 <p rend="bold">Sullivan continues to piece together Marge Baroni's story and would appreciate hearing from anyone who can add additional information (write to Susan Stevenot Sullivan    c/o Southern Changes at 133 Carnegie Way, NW, Suite 900, Atlanta, GA 30303)</p></div3>
  </div2>
- <div2 id="sc24-1-2.cox.004" n="Race and Redistricting: Myths, Truths, and Facts" type="Article">
+ <div2 id="sc24-1-2.006" n="Race and Redistricting: Myths, Truths, and Facts" type="Article">
                <head>Race and Redistricting: Myths, Truths, and Facts</head>
-               <docAuthor>By Todd A. Cox</docAuthor>
+               <byline>By <docAuthor><name reg="Cox, Todd A.">Todd A. Cox</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 13-14</docDate>
 
 <p>Federal court decisions regarding redistricting over the past several years have caused some to question how district line drawers can create redistricting plans that will provide all voters equal opportunity to elect candidates of choice. Since Shaw v. Reno, the courts have clarified the criteria for drawing district lines and made it clear that race can be a factor in redistricting and these clarifications have supported lawmakers and grassroots organizers who sought redistricting plans that allow fair representation for minorities in many states and localities since 2000. </p>
@@ -303,11 +304,11 @@ precious rights we enjoy in this country. Participating in
 redistricting gives true meaning to the right to vote by helping to
 create electoral plans that afford all voters an opportunity to
 participate in the political process.</p>
-<div3 id="sc24-1-2.025" type="About"><p>Todd A. Cox is an Assistant Counsel with the Washington, D.C. office of NAACP Legal Defense and Educational Fund. For more information about its political participation program or to request copies of publications, call: 1-800-221-7822.</p></div3>
+<div3 id="sc24-1-2.026" type="About"><p>Todd A. Cox is an Assistant Counsel with the Washington, D.C. office of NAACP Legal Defense and Educational Fund. For more information about its political participation program or to request copies of publications, call: 1-800-221-7822.</p></div3>
  </div2>
- <div2 id="sc24-1-2.staff.004" n="Lillian Smith Book Awards" type="Article">
+ <div2 id="sc24-1-2.007" n="Lillian Smith Book Awards" type="Article">
                <head>Lillian Smith Book Awards</head>
-               <docAuthor>staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002</docDate>
 
 <p rend="italic">Each year, the Southern Regional Council hosts the Lillian Smith Book Awards in honor of the most liberal and outspoken of white mid-twentieth century Southern writers. In works such as Strange Fruit (1944) and Killers of the Dream (1949), Lillian Smith wrote boldly on issues of social and racial justice, calling persistently for an end to segregation. The Smith Awards honor authors today who, through their writing, carry on Smith's legacy of illuminating the condition of racial and social inequity and proposing a vision of justice and human understanding.</p>
@@ -363,13 +364,13 @@ reminds us that words are not mere playthings, <pb n="17"/>nor are they pure sou
 <p rend="bold">Hal Crowther:</p>
 <p>H.L. Mencken said once that his writing was "free of moral purpose. I am never much interested in the effects of what I write. I live in a deliberate vacuum." That is exactly the opposite of my attitude toward my work. I have never written a word without that stump preacher's prayer that everyone who reads it will see the light and accept the spirit. When I look at the list of past winners of the Smith Award, I see a lot of my friends and also my idols and role models. Several, like Denise Giardina, Will Campbell, and John Egerton, are both. I always thought of myself as a kind of an Atticus Finch, a careful small town liberal who might risk tar and feathers for a principle to do the right thing, but who is kind of uncomfortable when he sees men sitting in church without neckties. </p>
 <p>What I love about Southern liberals, epitomized by the SRC, is that they are practical, hard-working, no-nonsense liberals and they have had to be. Down here, people committed to progress and justice had real dragons to slay and real crosses to bear. They didn't waste their time or energy on the nitpicking and backbiting that provides the Rush Limbaugh's of this world with easy charicatures of liberals. Down here, our liberals want your heart and your vote. They don't want to prune your vocabulary. Liberals are a minority in this country. We can't afford to squander our capital on the Lilliputian language wars. We can't afford to appear petty or ridiculous.</p>
-<div3 id="sc24-1-2.026" type="About"><p>The 2002 Lillian Smith Book Awards will be held on October 18, 2002 at the Sheraton Colony  Square in midtown Atlanta. For more information, visit: www.southerncouncil.org/comm/smith.html.
-"Drapery Factory, Gulfport, Mississippi, 1956" Copyright 2000 by Natasha Trethewey. Reprinted from Domestic Work with the permission of Graywolf Press, St. Paul, Minnesota.</p></div3> 
+<div3 id="sc24-1-2.027" type="About"><p>The 2002 Lillian Smith Book Awards will be held on October 18, 2002 at the Sheraton Colony  Square in midtown Atlanta. For more information, visit: www.southerncouncil.org/comm/smith.html.</p>
+<p>"Drapery Factory, Gulfport, Mississippi, 1956" Copyright 2000 by Natasha Trethewey. Reprinted from Domestic Work with the permission of Graywolf Press, St. Paul, Minnesota.</p></div3> 
 </div2>
  
- <div2 id="sc24-1-2.moye.004" n="RADICAL GIFT" type="Review">
+ <div2 id="sc24-1-2.008" n="RADICAL GIFT" type="Review">
                <head>RADICAL GIFT</head>
-               <docAuthor>Reviewed by J. Todd Moye</docAuthor>
+               <byline>Reviewed by <docAuthor><name reg="Moye, J. Todd">J. Todd Moye</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 18-19</docDate>
 
 <bibl>Robert P. Moses and Charles E. Cobb, Jr., <title>Radical Equations: Math Literacy and Civil Rights.</title> Boston: Beacon Press, 2001. With a foreword by David Dennis.</bibl>
@@ -411,16 +412,16 @@ registered voters was in Mississippi in 1961." Read this book, and you
 will agree. In several years we may  consider Radical Equations, equal
 parts memoir and manifesto, the most important civil rights book of
 the new century.</p>
-<div3 id="sc24-1-2.027" type="About"><p>J. Todd Moye is the director of the National Park Service's Tuskegee Airmen Oral History Project.</p></div3>
+<div3 id="sc24-1-2.028" type="About"><p>J. Todd Moye is the director of the National Park Service's Tuskegee Airmen Oral History Project.</p></div3>
  </div2>
- <div2 id="sc24-1-2.anderson.006" n="Recurring Deaths" type="Review">
+ <div2 id="sc24-1-2.009" n="Recurring Deaths" type="Review">
                <head>Recurring Deaths</head>
-               <docAuthor>Reviewed by Brenda Anderson</docAuthor>
+               <byline>Reviewed by <docAuthor><name reg="Anderson, Brenda">Brenda Anderson</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 20-21</docDate>
 
-<p rend="bold">Randolph Loney, <hi rend="italic">A Dream of the Tattered Man: Stories from Georgia's Death Row</hi>, Grand Rapids: Wm. B. Eerdsmans Publishing Company, 2001. With a Foreword by Will D. Campbell.</p>
+<bibl>Randolph Loney, <title>A Dream of the Tattered Man: Stories from Georgia's Death Row</title>, Grand Rapids: Wm. B. Eerdsmans Publishing Company, 2001. With a Foreword by Will D. Campbell.</bibl>
 
-<p>In <hi rend="italic">A Dream of the Tattered Man</hi>, Randolph Loney sheds light on what has been a dark and abandoned ghetto in our criminal justice system today: death row. Loney's book is a stirring account of what he has witnessed as a frequent visitor of Georgia's death row. He unlocks the gate to the reality underneath our superficial understanding of the death penalty through his experiences visiting death row inmates in the Georgia Diagnostic and Classification Prison near Jackson. Loney, a liberal minister and social activist who lives in rural Georgia, breaks the barrier our society encloses around convicted criminals by giving us an opportunity to get to know the human behind the criminal, something that otherwise our society would sadly overlook. By writing about the relationships with his friends on death row, Loney gives a voice to a deeper side of the story that is unfortunately suppressed and ignored.</p>
+<p>In <title>A Dream of the Tattered Man</title>, Randolph Loney sheds light on what has been a dark and abandoned ghetto in our criminal justice system today: death row. Loney's book is a stirring account of what he has witnessed as a frequent visitor of Georgia's death row. He unlocks the gate to the reality underneath our superficial understanding of the death penalty through his experiences visiting death row inmates in the Georgia Diagnostic and Classification Prison near Jackson. Loney, a liberal minister and social activist who lives in rural Georgia, breaks the barrier our society encloses around convicted criminals by giving us an opportunity to get to know the human behind the criminal, something that otherwise our society would sadly overlook. By writing about the relationships with his friends on death row, Loney gives a voice to a deeper side of the story that is unfortunately suppressed and ignored.</p>
 <p>The book's title is taken from Loney's recurring dream from which he feels the "tattered" man that appears in it is a reflection of himself. Loney views the tattered man as an inner darkness in him and as representing feelings of shame. He expresses his frustration and shame with the death penalty system that we, as a society, embrace. Aside from the brutality behind the death penalty, Loney argues that the death penalty is unfairly applied, only targeting the powerless. Loney's seriousness and dedication in providing the weak with support is evident in his commitment to Georgia's death row inmates. He stresses the need for embracing the "least" of those in our communities, instead of executing them. </p>
 <p>Through his book, Loney shares his experiences as a witness to the culmination of years of societal, racial, and systematic repression and abuse. Stories of death row inmates that reach far back, often describing a childhood haunted by consistent abuse and trauma, illustrate the tragic lives these individuals experienced long before they were involved in crime. He walks us through the lives of the convicted before they fell to crime. The cases present how a negative environment at an early age can affect people enormously, critically affecting their behavior and decision-making as adults. Loney stresses the importance of recognizing the critical role that traumatic events in childhood could play in a person's responsive behavior. </p>
 <p>As Loney demonstrates in the stories he shares of the men on death row, the men's pasts held overwhelming circumstances out of their control that inevitably affected them negatively. Loney invites the reader into his close friendships and expresses the deep ties he shares with these men. They become relationships that hurt when his friends are finally executed. As painful and depressing as his role becomes, he shares with the reader his struggle to continue being a witness and learn about the very people our state kills but knows almost nothing about. Loney gives voice to their humanity and presents us with a version of capital punishment that the system fails to acknowledge. He adds color and dimension to our black and white, one-dimensional perception of what the death penalty entails. </p>
@@ -450,25 +451,25 @@ inflict upon ourselves. Loney's touching account will broaden the
 reader's understanding of what our death penalty system really means
 and will help the reader realize the discriminatory flaws deeply
 embedded in the system.</p>
-<div3 id="sc24-1-2.028" type="About"><p>Brenda Anderson is a history major at Yale University  in
+<div3 id="sc24-1-2.029" type="About"><p>Brenda Anderson is a history major at Yale University  in
 her senior year. Originally from Laredo, Texas, Anderson plans to
 attend law school.</p></div3>
  </div2>
- <div2 id="sc24-1-2.bass.006" n="Justice Under Law" type="Review">
+ <div2 id="sc24-1-2.010" n="Justice Under Law" type="Review">
                <head>Justice Under Law</head>
-               <docAuthor>Reviewed by Jack Bass</docAuthor>
+               <byline>Reviewed by <docAuthor><name reg="Bass, Jack">Jack Bass</name></docAuthor></byline>
                <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 21-22</docDate>
 
-<p rend="bold">Frank M. Johnson, <hi rend="italic">Defending Constitutional Rights</hi>, Edited by Tony A. Freyer, Athens: University of Georgia Press, 2001.</p>
+<bibl>Frank M. Johnson, <title>Defending Constitutional Rights</title>, Edited by Tony A. Freyer, Athens: University of Georgia Press, 2001.</bibl>
 <p> In this slender volume, Tony Freyer characterizes Judge Frank M. Johnson, Jr. as "a unique figure in American history" and provides a useful collection of Johnson's own articles, articulating his vision of justice based on law. This collection augments four biographies (one by this reviewer) of a federal trial judge unsurpassed in his impact for shaping Constitutional principles and expanding the civil rights of all Americans.</p>
 <p>"Intellectual acuity conditioned by life experience shaped
-Johnson's attitude toward the constitutional law governing race relations," Freyer writes. Alabama Gov. George Wallace once declared that Johnson needed "a barbed wire enema." In contrast, Martin Luther King, Jr. asserted that Johnson "gave true meaning to the word 'justice.'" When Johnson died, his obituary in <hi rend="italic">The New York Times</hi> filled an entire page. </p>
+Johnson's attitude toward the constitutional law governing race relations," Freyer writes. Alabama Gov. George Wallace once declared that Johnson needed "a barbed wire enema." In contrast, Martin Luther King, Jr. asserted that Johnson "gave true meaning to the word 'justice.'" When Johnson died, his obituary in <title>The New York Times</title> filled an entire page. </p>
 <p>Freyer, a University of Alabama law professor and legal historian, describes how as a trial judge from 1955 to 1979,  Johnson "decided many of the most significant cases in American constitutional history." Their social impact, such as his order allowing the dramatic march from Selma to Montgomery that created the climate in 1965 for passage of the Voting Rights Act, helped transform the American South. </p>
 <p>The book begins with an introduction on "Johnson's Unusual Origins and Early Career." Nothing shaped him more than growing up in the Appalachian foothills of Winston County, the county in Alabama that, before the Civil War, grew the least amount of cotton and contained the fewest number of slaves. Unionists prevailed in the "free state of Winston," where twice as many men--including two of Johnson's great-grandfather's brothers--fought for the United States Army as for the Confederacy. Johnson's father was a "mountain Republican," the only member of that party to serve in the 20th century Alabama legislature until the 1960s. He attended Republican national conventions and became friendly with such men as Herbert Brownell and Warren Burger, who in the Eisenhower Department of Justice would play the key roles in selecting federal judges. </p>
 <p>What follows is the full transcript of the historically significant two-hour PBS interview of Johnson in 1980 by Bill Moyers and then eight articles on a range of subjects written by Johnson, each preceded by a historical overview by Freyer. He contends in his conclusion that Johnson's rationale "for what others described as boundless judicial activism was fundamentally conservative." Johnson's core values, he says, rested "on basic equality under law and equality of opportunity." For Johnson, the Constitution and its Bill of Rights created "a brand of individual liberty characterized by the fundamental right to personal security, opportunity, citizenship, and freedom of expression and conscience." </p>
 <p>The value of this book is to provide access to Frank Johnson expressing these core beliefs in his own words--the full expression of his philosophical analysis of what constitutes justice under law. The articles range over a quarter of a century, from 1966 on the roles of the attorney and the judiciary to the importance of equal access to justice and finally, in 1990, on "What is Right with America."</p>
 <p>One unfortunate omission is Johnson's 1979 commencement speech at
-Boston University Law School, which was published in the <hi rend="italic">Emory Law Journal</hi> in 1979 as "In Defense of Judicial Activism." In this full response to critics such as Robert Bork, Johnson called for "an appreciation of the meaning of judicial activism." He directly challenged the widely held legal doctrine of "neutral principles," expressing his view that "the doctrine of neutral principles robs the Constitution of its vitality. It freezes constitutional thinking in the interests of theoretical purity. The Framers were pragmatic men and the Constitution is a practical blueprint: its genius lies in its generality. Perfect logical consistency has always given way to practical distinction. As well it should.</p>
+Boston University Law School, which was published in the <title>Emory Law Journal</title> in 1979 as "In Defense of Judicial Activism." In this full response to critics such as Robert Bork, Johnson called for "an appreciation of the meaning of judicial activism." He directly challenged the widely held legal doctrine of "neutral principles," expressing his view that "the doctrine of neutral principles robs the Constitution of its vitality. It freezes constitutional thinking in the interests of theoretical purity. The Framers were pragmatic men and the Constitution is a practical blueprint: its genius lies in its generality. Perfect logical consistency has always given way to practical distinction. As well it should.</p>
 <p>"If the law should beware unprincipled distinctions, it should also beware insufficient inconsistency. Religious differences, race differences, sex differences, age differences, and political differences are not the same. It is no mark of intellectual soundness to treat them as if they were. Moreover, if the life of the law has been experience, then the law should be realistic enough to treat certain issues as special: as racism is special in American history. A judiciary that cannot declare that is of little value."</p>
 <p>	He emphasized,  "It is one thing for a judge to adopt a theory
 of political morality <hi rend="italic">because it is his own</hi>; it
@@ -477,7 +478,7 @@ is another for him to exercise his judgment about what the political morality im
 rend="italic">Defending Constitutional Rights</hi> provides an
 opportunity to develop an understanding of what is required to create
 justice under law.</p>
-<div3 id="sc24-1-2.029" type="About"><p>Dr. Jack Bass is professor of humanities and social sciences at the College of Charleston. He is the author of Taming the Storm: The Life and Times of Judge Frank M. Johnson, Jr., and the South's Fight over Civil Rights, which won the 1994 Robert F. Kennedy Book Award grand prize, and author or co-author of six other books about civil rights and political change in the 20th century South. </p></div3>
+<div3 id="sc24-1-2.020" type="About"><p>Dr. Jack Bass is professor of humanities and social sciences at the College of Charleston. He is the author of Taming the Storm: The Life and Times of Judge Frank M. Johnson, Jr., and the South's Fight over Civil Rights, which won the 1994 Robert F. Kennedy Book Award grand prize, and author or co-author of six other books about civil rights and political change in the 20th century South. </p></div3>
  </div2>
 	 </div1>
       </body>

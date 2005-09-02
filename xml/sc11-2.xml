@@ -61,19 +61,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <body>
          <div1 id="sc11-2.001" n="Southern Changes 11:2" type="Issue">
             <head>Southern Changes.  Volume 11, Number 2, 1989 </head>
-            <p>Southern Changes.  Volume 11, Number 2, 1989</p>
-            <div2 id="sc11-2williams.002" n="Symbols and Mail Order Merchandising" type="Article">
+            <p><title>Southern Changes.</title>  Volume 11, Number 2,
+	    <date value="1989-03">1989</date></p>
+            <div2 id="sc11-2.002" n="Symbols and Mail Order Merchandising" type="Article">
                <head>Symbols and Mail Order Merchandising </head>
-               <docAuthor>By RANDALL WILLIAMS </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 12, 14-17</docDate>
-               <argument>
-                  <p>Randall Williams is the managing editor of the Southern
-Regional Council's publications, including <title>Southern
-Changes</title>. From 1981-85, he was the director of the Klanwatch
-Project of the Southern Poverty Law Center, a tenure which contributed
-to an obsession with racial images already well-defined by living in
-rural Alabama for most of his life.</p>
-               </argument>
+               <byline><docAuthor><name reg="Williams, Randall">Randall Williams </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 12, 14-17</docDate>
+               
                <p>Obsessions are never simple, and they usually lead to suffering. I,
 for instance, am almost reduced to going barefoot, my shirts are
 frayed at the collar and cuff, and I'm only thankful it was a mild
@@ -388,11 +382,19 @@ historical and contemporary rhetoric by white supremacists who want to
 send blacks and (recent) immigrants "back to where they came
 from"-that you hadn't used your first black models to illustrate a
 feature on luggage.</p>
-            </div2>
-            <div2 id="sc11-2staff2.003" n="A Sampling of Other Catalogs" type="Article">
+            <div3 id="sc11-2.022" type="About">
+                  <p>Randall Williams is the managing editor of the Southern
+Regional Council's publications, including <title>Southern
+Changes</title>. From 1981-85, he was the director of the Klanwatch
+Project of the Southern Poverty Law Center, a tenure which contributed
+to an obsession with racial images already well-defined by living in
+rural Alabama for most of his life.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-2.003" n="A Sampling of Other Catalogs" type="Article">
                <head>A Sampling of Other Catalogs </head>
-               <docAuthor>By STAFF </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, p. 15</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 15</docDate>
                <p>The Land's End catalog is only one of many with racially
 discriminatory model selection. The following catalogs were received
 at one middle-income Alabama household over the past few months. While
@@ -441,10 +443,10 @@ cyclists. Minority models: 1 black male.</p>
                <p>&#8226; American Express The Spirit of Spring 1989 Catalog. Clothing,
 jewelry, art, furniture, electronics. Minority models: None.</p>
             </div2>
-            <div2 id="sc11-2staff.004" n="Lawsuit Alleges Bias in Real Estate Ads" type="Article">
+            <div2 id="sc11-2.004" n="Lawsuit Alleges Bias in Real Estate Ads" type="Article">
                <head>Lawsuit Alleges Bias in Real Estate Ads </head>
-               <docAuthor>By STAFF </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, p. 14</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 14</docDate>
                <p>In New York, a lawsuit involving the absence of black models in
 advertisements for housing is pending against the <title>New York
 Times</title>. The suit was filed by the New York Open Housing Center
@@ -470,10 +472,10 @@ of black models in ads that use models.</p>
 for Civil Rights. Call Cheryl Packwood, 212-848-4980, for more
 information.</p>
             </div2>
-            <div2 id="sc11-2rjn.005" n="???" type="Article">
+            <div2 id="sc11-2.005" n="???" type="Article">
                <head>Excerpts from the 1988 Lillian Smith Awards Presentations </head>
-               <docAuthor>By RJN </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 20-22</docDate>
+               <byline>By <docAuthor><name reg="RJN">RJN </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 20-22</docDate>
                <p>In 1966 the Southern Regional Council established the Lillian Smith
 Book Award in honor of a life member of the council who had made great
 contributions to improving human relations in the South. Lillian
@@ -525,25 +527,14 @@ while we received a number of very good books to consider, we had
 relatively little difficulty in deciding on our two award winners. The
 judges were, in fact, all of one mind about the best choice in each
 category.</p>
-               <div3 id="sc11-2norrell.006" n="Separate Pasts" type="Excerpt">
+               <div3 id="sc11-2.006" n="Separate Pasts" type="Excerpt">
                   <head>Excerpts from the 1988 Lillian Smith Awards Presentations.  The
 Award for Non-Fiction: <title>Separate Pasts: Growing Up White in a
 Segregated South</title> by Melton A. McLaurin (paperback published by
 University of Georgia Press, 1988, $7.95,167 pages). </head>
-                  <docAuthor>By ROBERT J. NORRELL </docAuthor>
-                  <docDate>Vol. 11, No. 2, 1989, pp. 21-22</docDate>
-                  <argument>
-                     <p>Robert J. Norrell is author of <title>Reaping the
-Whirlwind</title> and director of the Center for Southern History and
-Culture at the University of Alabama, Tuscaloosa. Anne Jones is an
-associate professor of English at the University of Florida. Serving
-with them on the 1988 Lillian Smith Award Committee were Mary Frances
-Derfner of Charleston, S. C.; Paul Gaston, a professor of history at
-the University of Virginia; and Anthony Dunbar, of New Orleans, La., a
-writer and lawyer, as well as the 1971 winner of the Lillian Smith
-Award for his book, <title>Our Land, Too.</title>
-                     </p>
-                  </argument>
+                  <byline>By <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
+                  <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 21-22</docDate>
+                  
                   <p>Melton A. McLaurin's autobiographical work, <title>Separate Pasts:
 Growing Up White in a Segregated South</title>, must be placed on the
 same shelf with the remarkable collection of revealing autobiographies
@@ -624,14 +615,7 @@ sensitivity to the costs of racial separation and alienation. It is a
 great pleasure to honor a signal achievement with the Lillian Smith
 Award.</p>
                </div3>
-               <div3 id="sc11-2jones.010" n="The Avenue, Clayton City" type="Excerpt">
-                  <head>Excerpts from the 1988 Lillian Smith Awards Presentations.  The
-Award for Fiction: <title>The Avenue, Clayton City,</title> by
- C. Eric Lincoln (paperback published by Ballantine Books, 1988, $3.95,
- 275 pages). </head>
-                  <docAuthor>By ANNE G. JONES </docAuthor>
-                  <docDate>Vol. 11, No. 2, 1989, pp. 20-21</docDate>
-                  <argument>
+<div3 id="sc11-2.026" type="About">
                      <p>Robert J. Norrell is author of <title>Reaping the
 Whirlwind</title> and director of the Center for Southern History and
 Culture at the University of Alabama, Tuscaloosa. Anne Jones is an
@@ -642,7 +626,15 @@ the University of Virginia; and Anthony Dunbar, of New Orleans, La., a
 writer and lawyer, as well as the 1971 winner of the Lillian Smith
 Award for his book, <title>Our Land, Too.</title>
                      </p>
-                  </argument>
+                  </div3>               
+<div3 id="sc11-2.010" n="The Avenue, Clayton City" type="Excerpt">
+                  <head>Excerpts from the 1988 Lillian Smith Awards Presentations.  The
+Award for Fiction: <title>The Avenue, Clayton City,</title> by
+ C. Eric Lincoln (paperback published by Ballantine Books, 1988, $3.95,
+ 275 pages). </head>
+                  <byline>By <docAuthor><name reg="Jones, Anne G.">Anne G. Jones </name></docAuthor></byline>
+                  <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 20-21</docDate>
+                  
                   <p>In what after the 1988 political campaign seems as much a prophecy
 as a memory, Lillian Smith wrote nearly thirty years ago <title>In
 Killers of the Dream</title> about her childhood' experience fifty
@@ -727,19 +719,31 @@ read this brilliant, powerful novel and to learn for yourselves what
 happens when Dr. Tait leaves the past, the dozens, and The Avenue
 behind. Congratulations to Eric Lincoln.</p>
                </div3>
-            </div2>
-            <div2 id="sc11-2marlette.007" n="Doug Marlette . . . on Marlette" type="Article">
+            <div3 id="sc11-2.030" type="About">
+                     <p>Robert J. Norrell is author of <title>Reaping the
+Whirlwind</title> and director of the Center for Southern History and
+Culture at the University of Alabama, Tuscaloosa. Anne Jones is an
+associate professor of English at the University of Florida. Serving
+with them on the 1988 Lillian Smith Award Committee were Mary Frances
+Derfner of Charleston, S. C.; Paul Gaston, a professor of history at
+the University of Virginia; and Anthony Dunbar, of New Orleans, La., a
+writer and lawyer, as well as the 1971 winner of the Lillian Smith
+Award for his book, <title>Our Land, Too.</title>
+                     </p>
+                  </div3>
+		</div2>
+            <div2 id="sc11-2.007" n="Doug Marlette . . . on Marlette" type="Article">
                <head>Doug Marlette . . . on Marlette </head>
-               <docAuthor>By DOUG MARLETTE </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 7-9</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="Marlette, Doug">Doug Marlette</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 7-9</docDate>
+               
                   <p>EDITOR'S NOTE: The following comments by Doug Marlette
 are--with a few recent additions and editing--taken from a 1985
 interview conducted by Terry A. Schmitt for <title>Target: The
 Political Cartoon Quarterly</title>, which has since ceased
 publication. Marlette's words and cartoons are pubIished here with his
 kind permission.</p>
-               </argument>
+               
                <p>I was born in Greensboro, N.C. All my people lived in Burlington,
 which was a mill town. I grew up in Durham, and Laurel, Miss., and
 Sanford, Fla. My dad was in the service, so we moved around. The
@@ -876,16 +880,11 @@ of the world. And they want to show their asses. That's why I knew
 that cartoon was so accurate. Because I'm a lot like that and
 cartoonists are a lot like that.</p>
             </div2>
-            <div2 id="sc11-2kozol.008" n="On Homelessness" type="Article">
+            <div2 id="sc11-2.008" n="On Homelessness" type="Article">
                <head>On Homelessness </head>
-               <docAuthor>By JONATHAN KOZOL </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, p. 17</docDate>
-               <argument>
-                  <p>Courtesy of the <title>Texas Observer</title>, from a
-speech Kozol made February 2 at the LBJ Library in Austin. Kozol is
-the author of <title>Rachel and Her Children</title>, a study of
-homelessness published last year by Crown.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Kozol, Jonathan">Jonathan Kozol</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 17</docDate>
+               
                <p>I met a homeless man in San Antonio who could stand in for many. He
 fits none of the stereotypes. Wasn't crazy. He wasn't lazy, he wasn't
 a drug user, or an alcoholic. He was a former auto worker. He'd lost
@@ -931,16 +930,18 @@ another billion.</p>
                <p>Nobody in the United States can claim to be deceived--President
 Reagan was very honest about his intentions. Though I disagree with
 him on many issues, I have to concede, he was honest.</p>
-            </div2>
-            <div2 id="sc11-2kirby.009" n="Winthrop Rockefeller and Executions" type="Article">
+            <div3 id="sc11-2.028" type="About">
+                  <p>Courtesy of the <title>Texas Observer</title>, from a
+speech Kozol made February 2 at the LBJ Library in Austin. Kozol is
+the author of <title>Rachel and Her Children</title>, a study of
+homelessness published last year by Crown.</p>
+               </div3>
+	    </div2>
+            <div2 id="sc11-2.009" n="Winthrop Rockefeller and Executions" type="Article">
                <head>Winthrop Rockefeller and Executions</head>
-               <docAuthor>By MARTIN KIRBY </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 10-11</docDate>
-               <argument>
-                  <p>Martin Kirby was a newspaper reporter in Arkansas during
-the last years of Winthrop Rockefeller's governorship. He now lives in
-North Augusta, South Carolina.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Kirby, Martin">Martin Kirby </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 10-11</docDate>
+               
                <p>In the continuing debate over the death penalty, it is fitting to
 invoke the name of Winthrop Rockefeller, who was Governor of Arkansas,
 my home state, from 1967 to 1971. He managed to overcome the awful
@@ -1011,17 +1012,16 @@ worshipping oak trees and segregating races. In that future, I suspect
 that the moral heroism which was Winthrop Rockefeller's will be
 recognized only as normal human decency, a mild confusion which I
 think would have pleased him.</p>
-            </div2>
-            <div2 id="sc11-2johnson.011" n="Winning the South" type="Article">
+            <div3 id="sc11-2.029" type="About">
+                  <p>Martin Kirby was a newspaper reporter in Arkansas during
+the last years of Winthrop Rockefeller's governorship. He now lives in
+North Augusta, South Carolina.</p>
+               </div3></div2>
+            <div2 id="sc11-2.011" n="Winning the South" type="Article">
                <head>Winning the South </head>
-               <docAuthor>By KEN JOHNSON </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 1, 3-4</docDate>
-               <argument>
-                  <p>Ken Johnson is program director of the Southern Regional
-Council and the co-author of "Winning the South in 1992: A New
-Analysis of the 1988 Presidential Election." His article is adapted
-from that report.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Johnson, Ken">Ken Johnson </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 1, 3-4</docDate>
+               
                <p>For Democrats, the Solid South is history. This, having been true
 for the national party for some time now, is becoming the case for
 Democrats at the state and local level as well. Yet, despite the
@@ -1294,11 +1294,17 @@ charts and notes, is available for $35 from the Southern Regional
 Council, 60 Walton St., NW, Atlanta, GA 30303. (404) 522-8764. The
 report is by SRC staff members Ken Johnson, Steve Suitts, Betty
 McKibben, and Dorothy Dix.</hi></p>
-            </div2>
-            <div2 id="sc11-2hrw2.012" n="Cartoonist Jumps Ship in Atlanta" type="Article">
+            <div3 id="sc11-2.031" type="About">
+                  <p>Ken Johnson is program director of the Southern Regional
+Council and the co-author of "Winning the South in 1992: A New
+Analysis of the 1988 Presidential Election." His article is adapted
+from that report.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-2.012" n="Cartoonist Jumps Ship in Atlanta" type="Article">
                <head>Cartoonist Jumps Ship in Atlanta</head>
-               <docAuthor>By HRW </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, p. 6</docDate>
+               <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 6</docDate>
                <p>Doug Marlette, the Pulitzer-winning political cartoonist lured from
 the <title>Charlotte Observer</title> when Bill Kovach became editor
 of the <title>Atlanta Journal-Constitution</title>, has become the
@@ -1348,10 +1354,10 @@ contradictions and ironies and hypocrisies are vivid. It's all a
 caricature--a cartoon, really. New York City is Toontown. This
 Southerner should feel right at home."</p>
             </div2>
- <div2 id="sc11-2hrw.013" n="A Southern Exposure for Spring Planting" type="Article">
+ <div2 id="sc11-2.013" n="A Southern Exposure for Spring Planting" type="Article">
    <head>A Southern Exposure for Spring Planting </head>
-   <docAuthor>By HRW</docAuthor> 
-   <docDate>Vol. 11, No. 2, 1989, pp. 5-6</docDate>
+   <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline> 
+   <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 5-6</docDate>
                      <p>As soil is being worked and gardens laid this Spring, it may be
 useful to remember that all seeds are not created equal, and that
 there are alternatives to agribusiness and hybridization.</p>
@@ -1417,15 +1423,11 @@ gardener told McCormack is so fragrant he can find the melons in his
 garden in the dark-obviously healthier and even more entertaining than
 a trip to the refrigerator for a beer.</p>
             </div2>
-            <div2 id="sc11-2davenport.014" n="Hightower Chooses a Populist Agenda" type="Article">
+            <div2 id="sc11-2.014" n="Hightower Chooses a Populist Agenda" type="Article">
                <head>Hightower Chooses a Populist Agenda </head>
-               <docAuthor>By ELAINE DAVENPORT </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 4-5</docDate>
-               <argument>
-                  <p>Elaine Davenport is a freelance reporter and audio
-producer who divides her time between Austin, Texas, and London,
-England.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 4-5</docDate>
+               
                <p>Jim Hightower has a way forward for the Democrat. Party. In order
 to pursue his strategy, Hightower has decided to run for re-election
 as Texas Agriculture Commissioner rather than challenging Republican
@@ -1483,17 +1485,17 @@ politics out of which a progressive government can arise."</p>
                <p>The question, says Hightower, is not whether the Democratic Party
 should go to the left or to the right, but whether it will go again to
 people themselves.</p>
-            </div2>
-            <div2 id="sc11-2collins.015" n="Bundy Killing No Cause for Celebration" type="Article">
+            <div3 id="sc11-2.034" type="About">
+                  <p>Elaine Davenport is a freelance reporter and audio
+producer who divides her time between Austin, Texas, and London,
+England.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-2.015" n="Bundy Killing No Cause for Celebration" type="Article">
                <head>Bundy Killing No Cause for Celebration </head>
-               <docAuthor>By LEROY COLLINS </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, p. 10</docDate>
-               <argument>
-                  <p>LeRoy Collins served as governor of Florida from
-1955-1961. A life fellow of the Southern Regional Council, he writes a
-weekly column for the <title>St. Petersburg Times</title>, where these
-comments originally appeared.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Collins, Leroy">Leroy Collins </name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 10</docDate>
+               
                <p>Since I have a long record of opposing the death penalty, I have
 been asked what my reactions are to the Theodore Bundy execution.</p>
                <p>I have made very clear my reasons for opposing the death
@@ -1549,15 +1551,18 @@ of the United States.</p>
                <p>I am still opposed to the death penalty. This form of society's
 revenge runs counter to my nature. After all, we are all children of
 God, even the sickest among us.</p>
-            </div2>
-            <div2 id="sc11-2chestnut.016" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc11-2.035" type="About">
+                  <p>LeRoy Collins served as governor of Florida from
+1955-1961. A life fellow of the Southern Regional Council, he writes a
+weekly column for the <title>St. Petersburg Times</title>, where these
+comments originally appeared.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-2.016" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth </head>
-               <docAuthor>By J.L. Chestnut, Jr. </docAuthor>
-               <docDate>Vol. 11, No. 2, 1989, pp. 24, 22-23</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 24, 22-23</docDate>
+               
                <p>I am proud of America and proud to be an American. Almost no other
 nation in the world would have waged a civil war to abolish slavery,
 enact the Thirteenth, Fourteenth and Fifteenth Amendments and pass
@@ -1735,7 +1740,11 @@ white-dominated institutions. A century of unspeakable discrimination
 against blacks by these same institutions has imbued blacks with a
 necessary preference for realism over self-serving fantasy.</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc11-2.036" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

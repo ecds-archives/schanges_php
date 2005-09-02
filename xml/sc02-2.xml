@@ -65,9 +65,9 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p>
 <title>Southern Changes</title>. Volume 2, Number 2, <date value="1979-10">1979</date></p>
 
-<div2 id="sc02-2suitts.004" n="In This Issue" type="Article">
+<div2 id="sc02-2.002" n="In This Issue" type="Article">
 <head>In This Issue</head>
-<docAuthor>By Staff</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2, 1979, pp. 2</docDate>
 
 <p>A few weeks ago I received a letter from Cheryl A. Swanson, a
@@ -127,9 +127,9 @@ conditions that plague life for many and threaten the body and soul of
 everyone.</p>
 </div2>
 
-<div2 id="sc02-2tullos.003" n="Correction" type="Article">
+<div2 id="sc02-2.003" n="Correction" type="Article">
 <head>Correction</head>
-<docAuthor>By Allen Tullos</docAuthor>
+<byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2, 1979, pp. 3</docDate>
 
 <p>There seems to be an item which slipped by all our dutiful
@@ -144,9 +144,9 @@ French, whereas the "Proud Coonass" is more likely to speak a
 nonstandard Cajun dialect."</p>
 </div2>
 
-<div2 id="sc02-2staff.004" n="The Crisis of Conscience" type="Article">
+<div2 id="sc02-2.004" n="The Crisis of Conscience" type="Article">
 <head>The Crisis of Conscience</head>
-<docAuthor>By Staff</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2, 1979, pp. 3-4</docDate>
 
 <p>Three out of five federal judges in the South and probably a majority in the nation belong to segregated, all-White, social clubs, according to a report released by the Southern Regional Council.</p>
@@ -191,14 +191,10 @@ Judges in Segregated Clubs," is available for $3.00 by writing the SRC
 at 75 Marietta Street, N.W., Atlanta, Georgia 30303.</p>
 </div2>
 
-<div2 id="sc02-2wheeler.005" n="The Threat of Hunger and Ill-Health" type="Article">
+<div2 id="sc02-2.005" n="The Threat of Hunger and Ill-Health" type="Article">
 <head>The Threat of Hunger and Ill-Health</head>
-<docAuthor>By Ray Wheeler</docAuthor>
+<byline>By <docAuthor><name reg="Wheeler, Ray">Ray Wheeler</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 5-8</docDate>
-<argument><p>
-Raymond Wheeler is a physician in Charlotte, N.C. and past president
-of the Southern Regional Council.
-</p></argument>
 
 <p>The existence of hunger and malnutrition among the poor and occurring throughout the United States has been established beyond debate. It seems likely also beyond argument that the expansion of the Federal Food Assistance Programs has significantly altered the face of hunger in our country. We know, however, that there continues to be many people in our nation who are malnourished and who do not have the food or the health care necessary to restore themselves to health and full productivity.</p>
 
@@ -280,14 +276,16 @@ mortality rates and to extend life expectancy than perhaps any other societal en
 <p>My assumption is that we do care and my hope is that we shall find
 the wisdom and the will to eliminate poverty from this nation and
 there will no longer exist the necessity for a food stamp program.</p>
+<div3 id="sc02-2.025" type="About"><p>
+Raymond Wheeler is a physician in Charlotte, N.C. and past president
+of the Southern Regional Council.
+</p></div3>
 </div2>
 
-<div2 id="sc02-2jemison.006" n="The Anatomy of a Judgeship" type="Article">
+<div2 id="sc02-2.006" n="The Anatomy of a Judgeship" type="Article">
 <head>The Anatomy of a Judgeship</head>
-<docAuthor>By Marie Stokes Jemison</docAuthor>
+<byline>By <docAuthor><name reg="Jemison, Marie Stokes">Marie Stokes Jemison</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 9-11</docDate>
-<argument><p>Marie Stokes Jemison is a free-lance writer living in
-Birmingham, Alabama, actively working for the ERA.</p></argument>
 
 <p><hi rend="bold">A vacancy loomed on the Federal Fifth Circuit Court of Appeals and Jamie Ledlow Shores set about to fill it.</hi></p>
 
@@ -359,14 +357,14 @@ commission. Justice Shores was questioned extensively by the commission members 
 <p>Of course, every Black and White person in the race from Alabama knew the game was over when the giant, Frank Johnson, caught the ball. The only faint hope was the possibility of a second circuit judgeship for Alabama which did not materialize. The point in this bit of duplicity on the part of the President and his people is that women took Carter seriously when he said he wanted a selection free of political influence (with a qualified female candidate, a second judgeship seemed in the cards.) As usual, we were naive.</p>
 
 <p>The district judgeships in Alabama are now over. The nominating commission for these positions did select two women for the list. Neither was chosen by the Senators, possibly because neither was as qualified as one of the other two women not chosen. But this time, Blacks got their chance with two newly created federal judgeships. Maybe next time we women will get ours. I wouldn't bet on it.</p>
+<div3 id="sc02-2.026" type="About"><p>Marie Stokes Jemison is a free-lance writer living in
+Birmingham, Alabama, actively working for the ERA.</p></div3>
 </div2>
 
-<div2 id="sc02-2swift.007" n="Making Things Healthy" type="Article">
+<div2 id="sc02-2.007" n="Making Things Healthy" type="Article">
 <head>Making Things Healthy</head>
-<docAuthor>By Harriet Swift</docAuthor>
+<byline>By <docAuthor><name reg="Swift, Harriet">Harriet Swift</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 12-16</docDate>
-<argument><p>A native Alabamian, Harriet Swift is a graduate of the
-University of Alabama and copy editor with the <hi rend="italic">Birmingham Post-Herald.</hi></p></argument>
 
 <p>There's a familiar 1960s feel to the scene that recalls VISTA television spots: energetic, attractive college students bustle up and down the halls of the summer-emptied Black high school. Country people, mostly Black but a smattering of Whites, come into the building slowly, a little hesitantly. It's late morning on a sweltering July weekday in the Alabama Black Belt. Most of the people trickling into the Amelia Johnson High School in Thomaston are elderly or women with young children. They are here to have a physical examination, get their blood, eyesight, and hearing tested, have their blood pressure checked and perhaps receive some advice from a nutritionist and law student. They're participating in the health fair.</p>
 
@@ -469,13 +467,14 @@ persons were very pleased with the health fair, one pointing out that no one can
 <p>Dona Norton sees a common thread of experience in all the small communities where the health fairs have worked: "They all talk about the past, things that happened twenty years ago. And it's always traumatic, catastrophic stuff - when the school closed, when the train depot closed, when the lake came, we used to be known as the strawberry capital of the United States. The health fair is the first positive community experience that most of these folks can remember."</p>
 
 <p>It's a time, he says, when the potential of the community can be revealed and mobilized. "One of the wonderful things is seeing so many good people surface," he says. "Not whittlers and fiddlers and all that goddamn craftsy stuff, just ordinary good folks. They could be on the Supreme Court, president of the United States, some of them were so wise and good, but they were born in Cedar Bluffs or Boykin or Castleberry and that's where they've stayed to live and die."</p>
+<div3 id="sc02-2.027" type="About"><p>A native Alabamian, Harriet Swift is a graduate of the
+University of Alabama and copy editor with the <title>Birmingham Post-Herald.</title></p></div3>
 </div2>
 
-<div2 id="sc02-2powell.008" n="The Making of a Ghetto" type="Article">
+<div2 id="sc02-2.008" n="The Making of a Ghetto" type="Article">
 <head>The Making of a Ghetto</head>
-<docAuthor>By Bob Powell</docAuthor>
+<byline>By <docAuthor><name reg="Powell, Bob">Bob Powell</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 17-20</docDate>
-<argument><p>Bob Powell is a free-lance writer living in Atlanta, Georgia.</p></argument>
 
 <p>For Southerners who weren't raised in them, federal housing projects are often visualized as inner city creatures of high crime with vandalized shells where rats and cockroaches populate among the left behinds of the Great Society. While they are generally thought of as exclusively a downtown, big city problem, public housing projects are creeping into the suburbs where new problems create old, disappointing results.</p>
 
@@ -551,11 +550,12 @@ problems. The bureaucracy is apparently much better at identifying
 project sites than nurturing the projects to become livable, convenient housing.</p>
 
 <p>While inner city residents may face the blight of everyday deterioration and crime, the housing projects of the suburbs may be subject to the same forces, as they slowly take hold, without the political influence and downtown services that at least make life bearable.</p>
+<div3 id="sc02-2.028" type="About"><p>Bob Powell is a free-lance writer living in Atlanta, Georgia.</p></div3>
 </div2>
 
-<div2 id="sc02-2staff.009" n="Urban and Rural Development" type="Article">
+<div2 id="sc02-2.009" n="Urban and Rural Development" type="Article">
 <head>Urban and Rural Development</head>
-<docAuthor>By Staff</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 21</docDate>
 
 <p>People who help each other build their homes save more than $8,000 in construction costs according to a survey released by Rural America.</p>
@@ -585,12 +585,10 @@ Connecticut Avenue, N.W., Washington, D.C. 20036 or call
 202-659-2800. A copy costs $1.00.</p>
 </div2>
 
-<div2 id="sc02-2wheaton.010" n="Southern Women" type="Article">
+<div2 id="sc02-2.010" n="Southern Women" type="Article">
 <head>Southern Women</head>
-<docAuthor>By Liz Wheaton</docAuthor>
+<byline>By <docAuthor><name reg="Wheaton, Liz">Liz Wheaton</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 22</docDate>
-<argument><p>Liz Wheaton is a staff associate for the ACLU Southern
-Women's Rights Project in Richmond, Virginia.</p></argument>
 
 <p>After July 2, 1976 when the U.S. Supreme Court ruled that executions could be resumed under certain circumstances, state legislatures clammored to enact "constitutional" death penalty statutes and, as of June of this year, 512 people inhabit America's Death Rows. Six of the condemned are women, and each of these is a Southerner.</p>
 
@@ -620,11 +618,13 @@ Alabama has experienced a religious conversion and is taking a high school equiv
 
 <p>Male or female, Death Row inmates do share a common trait: they are
 poor, powerless... and they shall die to serve as an example to the rest of us that killing is wrong. By this bizaare standard, states have a deadly equality.</p>
+<div3 id="sc02-2.020" type="About"><p>Liz Wheaton is a staff associate for the ACLU Southern
+Women's Rights Project in Richmond, Virginia.</p></div3>
 </div2>
 
-<div2 id="sc02-2moon.011" n="Economic Development" type="Article">
+<div2 id="sc02-2.011" n="Economic Development" type="Article">
 <head>Economic Development</head>
-<docAuthor>By Harold Moon</docAuthor>
+<byline>By <docAuthor><name reg="Moon, Harold">Harold Moon</name></docAuthor></byline>
 <docDate value="1979-10">Vol. 2, No. 2., 1979, pp. 23</docDate>
 
 <p>More than half of the 11 Southern states are ranked among the worst in the nation in administering fair and equitable taxes according to a recent report of a public employee's organization.</p>

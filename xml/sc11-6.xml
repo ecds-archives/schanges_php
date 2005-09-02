@@ -63,18 +63,16 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc11-6.001" n="Southern Changes 11:6" type="Issue">
             <head>Southern Changes.  Volume 11, Number 6, 1989</head>
             <p>
-               <title>Southern Changes</title>.  Volume 11, Number 6, 1989</p>
-            <div2 id="sc11-6dunbar.002" n="An Unending Stream" type="Review">
-               <head>An Unending Stream: History One Day at a Time.  <title>The News
+               <title>Southern Changes</title>.  Volume 11, Number 6,
+	       <date value="1989-12">1989</date></p>
+            <div2 id="sc11-6.002" n="An Unending Stream" type="Review">
+               <head>An Unending Stream: History One Day at a Time.</head>  
+               <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate>
+              
+<bibl><title>The News
 and Observer,</title> Raleigh, North Carolina, (Friday, November 17,
-1989, five sections, $0.25).</head>
-               <docAuthor>Reviewed by LESLIE DUNBAR</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 20-23</docDate>
-               <argument>
-                  <p>LESLIE DUNBAR is the review editor of 
-<title>Southern Changes.</title>
-                  </p>
-               </argument>
+1989, five sections, $0.25).</bibl>
                <p>We are swamped by information. The least of us knows, sort of,
 things that the wisest of old could hardly imagine; nor the most
 pessimistic know to dread. Historians are the reporters of what of the
@@ -255,19 +253,19 @@ donated his heart to an Arab; the widow said, "If it is possible to
 save a person, I think it is a religious commandment."</p>
                <p>Hope is still ours by right of such as these, and of that young
 man, 175 feet aloft.</p>
-            </div2>
-            <div2 id="sc11-6cooper.003" n="An Insider's Account of Race and Politics in the Delta" type="Review">
-               <head>An Insider's Account of Race and Politics in the Delta.
-<title>Even Mississippi</title> by Melany Neilson (Tuscaloosa:
-University of Alabama Press, 1989. xiv, pp. 199).</head>
-               <docAuthor>Reviewed by MICHAEL COOPER</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 17-19</docDate>
-               <argument>
-                  <p>MICHAEL COOPER is researching the life of Hazel Brannon
-Smith, former editor and publisher of the Holmes County
-<title>Lexington Advertiser.</title>
+             <div3 id="sc11-6.022" type="About">
+                  <p>LESLIE DUNBAR is the review editor of 
+<title>Southern Changes.</title>
                   </p>
-               </argument>
+               </div3>
+	     </div2>
+            <div2 id="sc11-6.003" n="An Insider's Account of Race and Politics in the Delta" type="Review">
+               <head>An Insider's Account of Race and Politics in the Delta.</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 17-19</docDate>
+               <bibl><title>Even Mississippi</title> by Melany Neilson (Tuscaloosa:
+University of Alabama Press, 1989. xiv, pp. 199).</bibl>
                <p>Part memoir and part campaign history, <title>Even
 Mississippi</title> is worthwhile reading for its insider's account of
 race and politics in the Mississippi Delta of the early 1980s.</p>
@@ -384,15 +382,18 @@ spoken to. At the reception in the Neilson's white-columned home, he
 entered the back door. The only other black people there were the
 maids. Clark chatted briefly with the police chief, met Mrs. Neilson
 for the first time, and then slipped quietly out the back.</p>
-            </div2>
-            <div2 id="sc11-6chestnut.004" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc11-6.023" type="About">
+                  <p>MICHAEL COOPER is researching the life of Hazel Brannon
+Smith, former editor and publisher of the Holmes County
+<title>Lexington Advertiser.</title>
+                  </p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-6.004" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 24, 23</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate>
+               
                <p>The unspeakable and cowardly Sunday morning bombing and slaughter
 of the four children in Birmingham's Sixteenth Street Baptist Church
 is like it happened yesterday. It will always remain so in the minds
@@ -454,11 +455,15 @@ given him.</p>
 everybody and everything you already know the answers to those
 questions.</p>
                <p>Peace.</p>
-            </div2>
-            <div2 id="sc11-6thompson.005" n="The Pittston Strike" type="Article">
+            <div3 id="sc11-6.024" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-6.005" n="The Pittston Strike" type="Article">
                <head>The Pittston Strike</head>
-               <docAuthor>By CHARLIE D. THOMPSON</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate>
+               <byline>By <docAuthor><name reg="Thompson, Charlie D.">Charlie D. Thompson</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate>
                <p>AFTER CROSSING THE Clinch River and heading into the extreme
 southwestern corner of Virginia, the terrain begins to close in around
 you. The rolling farmland to the east gives way to steep mountains
@@ -675,17 +680,13 @@ continue to come. Those who have always been here pledge to remain as
 solid as the mountains which surround them. They are not about to give
 in now.</p>
             </div2>
-            <div2 id="sc11-6hendricks.006" n="Culture-Bound Southern Baptists and Their Exiles" type="Review">
-               <head>Culture-Bound Southern Baptists and Their Exiles.  <title>Churches in Cultural Captivity, A History of the Social Attitudes of Southern
+            <div2 id="sc11-6.006" n="Culture-Bound Southern Baptists and Their Exiles" type="Review">
+               <head>Culture-Bound Southern Baptists and Their Exiles.</head>  
+               <byline>Reviewed by <docAuthor><name reg="Hendricks, Joseph">Joseph Hendricks</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate>
+               <bibl><title>Churches in Cultural Captivity, A History of the Social Attitudes of Southern
 Baptists</title> by John Lee Eighmy (Knoxville: The University of
-Tennessee Press, 1972, revised 1987).</head>
-               <docAuthor>Reviewed by JOSEPH HENDRICKS</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 15-17</docDate>
-               <argument>
-                  <p>JOSEPH HENDRICKS is chair of Interdisciplinary Studies at
-Mercer University, a Southern Baptist, and a long-time active
-challenger of injustice in Georgia and the South.</p>
-               </argument>
+Tennessee Press, 1972, revised 1987).</bibl>
                <p>When John Lee Eighmy suffered a fatal heart attack in 1970, he had
 almost completed his important study on the influence of the social
 gospel in the life and work of the Southern Baptist Convention. Eighmy
@@ -786,22 +787,18 @@ institutional church and the state by proclaiming the criticism they
 so desperately need. Through the lives of such exiles the Convention
 might catch a glimpse of how to be faithful in Southern culture
 without being <hi rend="italic">of</hi> it.</p>
-            </div2>
-            <div2 id="sc11-6finlator.007" n="We the Baptists" type="Review">
-               <head>We the Baptists: Trading Away a Birthright.  <title>The Southern Baptists: A Subculture in Transition</title> by Ellen Rosenberg (Knoxville: University of
-Tennessee Press, 1989, 240 pp.).</head>
-               <docAuthor>Reviewed by W. W. FINLATOR</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 14-15</docDate>
-               <argument>
-                  <p>W. W. FINLATOR, from his several North Carolina
-pastorates and especially until 1983 from the Pullen Memorial Baptist
-Church of Raleigh, has been a prophet--with and sometimes
-without--honor among Southern Baptists. Annually, the Ware County
-Civil Liberties Union confers on some worthy defender of Civil
-Liberties (1989's was to Claude Sitton, editor of the News and
-Observer) the "W.W. Finlator Award." Has any other Southern Baptist
-preacher been so honored?</p>
-               </argument>
+            <div3 id="sc11-6.026" type="About">
+                  <p>JOSEPH HENDRICKS is chair of Interdisciplinary Studies at
+Mercer University, a Southern Baptist, and a long-time active
+challenger of injustice in Georgia and the South.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-6.007" n="We the Baptists" type="Review">
+               <head>We the Baptists: Trading Away a Birthright.</head>  
+               <byline>Reviewed by <docAuthor><name reg="Finlator, W. W.">W. W. Finlator</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate>
+               <bibl><title>The Southern Baptists: A Subculture in Transition</title> by Ellen Rosenberg (Knoxville: University of
+Tennessee Press, 1989, 240 pp.).</bibl>
                <p>There are times when the publication of a book is greeted with a
 Glory Be, Welcome Thrice Welcome, Amen and Amen! Such is my response
 to anthropologist Ellen Rosenberg's <title>The Southern Baptists, A
@@ -860,21 +857,22 @@ pottage of conformity, control, authority, inerrancy, status, power,
 and bigness.</p>
                <p>And, oddly, just what the country most needs in this hour we
 Southern Baptists have forfeited.</p>
-            </div2>
-            <div2 id="sc11-6chambers.008" n="The Court and the Black Community" type="Article">
+            <div3 id="sc11-6.027" type="About">
+                  <p>W. W. FINLATOR, from his several North Carolina
+pastorates and especially until 1983 from the Pullen Memorial Baptist
+Church of Raleigh, has been a prophet--with and sometimes
+without--honor among Southern Baptists. Annually, the Ware County
+Civil Liberties Union confers on some worthy defender of Civil
+Liberties (1989's was to Claude Sitton, editor of the News and
+Observer) the "W.W. Finlator Award." Has any other Southern Baptist
+preacher been so honored?</p>
+               </div3>
+	     </div2>
+            <div2 id="sc11-6.008" n="The Court and the Black Community" type="Article">
                <head>The Court and the Black Community</head>
-               <docAuthor>By JULIUS L. CHAMBERS</docAuthor>
-               <docDate>Vol. 11, No. 6, 1989, pp. 8-13</docDate>
-               <argument>
-                  <p>A former president of the Southern Regional Council and
-one of the country's foremost civil rights attorneys, Julius Chambers
-has served since 1984 as director-counsel of the NAACP Legal Defense
-and Educational Fund in New Fork. Chambers's work in the Charlotte,
-North Carolina, school desegregation case is considered at length in
-Frye Gaillard's <title>The Dream Long Deferred</title> (Chapel Hill:
-Univ. of North Carolina Press, 1988). Readers may also want to look at
-Chambers's "The Collapse of Enforcement" in <title>Southern
-Changes</title> for March/April of 1985.</p>
+               <byline>By <docAuthor><name reg="Chambers, Julius L.">Julius L. Chambers</name></docAuthor></byline>
+               <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate>
+               
                   <p>EDITORS' NOTE: The following essay is an edited version of a talk
 presented November 15, 1989, as the second lecture in the Grace Towns
 Hamilton Lecture Series, sponsored by the African-American And African
@@ -882,7 +880,7 @@ Studies programs at Emory University in honor of retired Georgia State
 Rep. Grace Towns Hamilton. <title>Southern Changes</title> expresses
 its appreciation to Prof. Delores P. Aldridge, AAAS chair and
 organizer of the Hamilton Lecture Series.</p>
-               </argument>
+               
                <p>THIS IS A MOMENT in which I think we ought to pause and ask what
 have we been able to accomplish through the use of the law in
 improving black empowerment in this society. What kind of problems do
@@ -1233,7 +1231,18 @@ accommodate a diversity of groups. We are going to have a
 multicultural world in the coming years. We must expand the reach of
 equal protection to make sure that it is inclusive of all groups who
 seek equal participation in society.</p>
-            </div2>
+            <div3 id="sc11-6.028" type="About">
+                  <p>A former president of the Southern Regional Council and
+one of the country's foremost civil rights attorneys, Julius Chambers
+has served since 1984 as director-counsel of the NAACP Legal Defense
+and Educational Fund in New Fork. Chambers's work in the Charlotte,
+North Carolina, school desegregation case is considered at length in
+Frye Gaillard's <title>The Dream Long Deferred</title> (Chapel Hill:
+Univ. of North Carolina Press, 1988). Readers may also want to look at
+Chambers's "The Collapse of Enforcement" in <title>Southern
+Changes</title> for March/April of 1985.</p>
+	    </div3>
+	  </div2>
          </div1>
       </body>
    </text>

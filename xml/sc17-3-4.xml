@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 21, Number 4 1995</bibl>
+            <bibl>Southern Changes.  Volume 21, Number 4, Fall/Winter 1995</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -58,12 +58,15 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
    <text>
       <body>
          <div1 id="sc17-3-4.001" n="Southern Changes 17:3-4" type="Issue">
-            <head>Southern Changes.  Volume 17, Number 3-4, 1995</head>
- <div2 id="sc17-3-4johnson.001" n="The Long Haul" type="Article">
+            <head>Southern Changes.  Volume 17, Number 3-4,
+	    1995</head>
+	    <p><title>Southern Changes</title>. Volume 17, Number
+	    3-4, <date value="1995-09">1995</date></p>
+ <div2 id="sc17-3-4.002" n="The Long Haul" type="Article">
                <head>The Long Haul</head>
-               <docAuthor>WENDY JOHNSON</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 1-2</docDate>
-<argument><p></p></argument>
+               <byline><docAuthor><name reg="Johnson, Wendy">Wendy Johnson</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 1-2</docDate>
+
 <p>A federal court lawsuit filed November 17 challenges the constitutionality of yet another congressional election district. The newest challenge, to U.S. Representative Robert Scott's Virginia district, represents the eleventh majority-black or -Hispanic district to be challenged by associates of the "Campaign for a Color Blind Society Legal Defense and Education Fund." In its aggressive and deliberate campaign to undermine and destroy hard-won democratic ideals, the political right wing has been skillful in standing history on its head--taking language and concepts defined and shaped by the Civil Rights Movement to undermine its past victories.</p>
 
 <p>This misappropriation causes confusion, blurs the lines between inclusion and exclusion, and hides the real debate about the potent and powerful role race plays in the daily workings of this country, not only in gaining fair electoral representation, but also in having access to quality education, well-paying jobs, and equal opportunities.</p>
@@ -97,11 +100,10 @@ greater political participation at local, state, and federal
 levels.</p>
  </div2>
 
- <div2 id="sc17-3-4.willingham.001" n="The Latest Attack on Voting Rights" type="Article">
+ <div2 id="sc17-3-4.003" n="The Latest Attack on Voting Rights" type="Article">
                <head>The Latest Attack on Voting Rights</head>
-               <docAuthor>By ALEX WILLINGHAM</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 3-5, 13</docDate>
-<argument><p>Alex Willingham teaches courses on politics and race at Williams College and is currently chair of the Highlander Center Board of Directors.</p></argument>
+               <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 3-5, 13</docDate>
 
 <p>In the past two years, decisions by the U. S. Supreme Court have
 voided congressional election systems in Georgia and threatened those
@@ -176,13 +178,13 @@ feeds on self-serving thought. To abandon minorities on the theory
 that we are color-blind would be tragic and ironic in the centennial
 year of the Atlanta Compromise, the event that consummated Jim Crow
 disfranchisement.</p>
- </div2>
+ <div3 id="sc17-3-4.023" type="About"><p>Alex Willingham teaches courses on politics and race at Williams College and is currently chair of the Highlander Center Board of Directors.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.mckinney.001" n="A Democracy To Be Proud Of" type="Article">
+ <div2 id="sc17-3-4.004" n="A Democracy To Be Proud Of" type="Article">
                <head>A Democracy To Be Proud Of</head>
-               <docAuthor>By CYNTHIA A. MCKINNEY</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp.6-7</docDate>
-<argument><p>U. S. Congresswoman Cynthia A. McKinney represents Georgia's 11th District.</p></argument>
+               <byline>By <docAuthor><name reg="McKinney, Cynthia A.">Cynthia A. McKinney</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 6-7</docDate>
 
 <p>One positive development to come out of the Supreme Court's narrow five to four decision striking down majority-minority districts is the broader discussion it has sparked regarding the way we elect members of Congress in general. Low voter turnout, distrust of elected officials, the term-limits movement, and the increasing desire for a third party are all strong indications that Americans are no longer satisfied with our representative democracy as practiced through the winner-takes-all assumption. As majority-minority districts across America are targeted for dismantling, many are discovering that oddly shaped super-majority white districts are quite common as well, yet remain unchallenged. For many, this apparent double standard is an indication that the entire method by which we draw congressional districts is flawed.</p>
 
@@ -220,15 +222,15 @@ strike down the constitutionality of my majority-black district, I do
 believe that we can use this unfavorable situation to start the debate
 over expanding our democracy and creating more electoral choices for
 the American electorate.</p>
- </div2>
+ <div3 id="sc17-3-4.024" type="About"><p>U. S. Congresswoman Cynthia A. McKinney represents Georgia's 11th District.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.karlan.001" n="The Supreme Court and Voting Rights:
+ <div2 id="sc17-3-4.005" n="The Supreme Court and Voting Rights:
 `Bizarre' Districts or Bizarre Decisions?" type="Article">
                <head>The Supreme Court and Voting Rights:
 `Bizarre' Districts or Bizarre Decisions?</head>
-               <docAuthor>By PAMELA S. KARLAN</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 8-13</docDate>
-<argument><p>Pamela S. Karlan is Roy L. and Rosamond Woodruff Morgan Research Professor of Law at the University of Virginia. A more extensive version of this article, "Still Hazy After All These Years: Voting Rights in the Post-Shaw Era," will appear in the Cumberland Law Review.</p></argument>
+               <byline>By <docAuthor><name reg="Karlan, Pamela S.">Pamela S. Karlan</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 8-13</docDate>
 
 <p>Last term, the Supreme Court took action in five voting rights cases: it struck down Georgia's majority-black Eleventh Congressional District; it denied standing to white voters in Louisiana who wished to challenge the state's majority-black Fourth Congressional District although none of them lived there; it upheld without comment California's legislative and congressional apportionments; and it agreed to hear oral argument regarding the constitutionality of Texas's and North Carolina's plans. These decisions reveal a Court seemingly committed to reviewing challenged congressional districts one by one and issuing opinions that depend so heavily on the peculiar facts of each case that they provide no real guidance to lower courts or legislatures.</p>
 
@@ -373,13 +375,17 @@ or groups being denied their right to participate or to have their votes fairly 
 
 <p>Current wrongful districting doctrine is inherently unstable, as
 the Court's visions and revisions over the past three Terms have suggested. Democracy, no less than liberty, finds no refuge in a jurisprudence of doubt. The Court's inability to articulate and identify a concrete harm to any identifiable individual suggests that the Court has embarked on an effort to impose its own vision of democratic theory on a resistant political process. And the Court's decisions, with their heated rhetoric about "political apartheid" and "balkanization" and their potential eviction of half the black members of Congress, are, as <hi rend="italic">Shaw v. Reno</hi> put it, far more likely than race-conscious districting to "carry us further from the goal of a political system in which race no longer matters--a goal that the Fourteenth and Fifteenth Amendments embody and to which the Nation continues to aspire."</p>
- </div2>
+ <div3 id="sc17-3-4.025" type="About"><p>Pamela S. Karlan is Roy
+ L. and Rosamond Woodruff Morgan Research Professor of Law at the
+ University of Virginia. A more extensive version of this article,
+ "Still Hazy After All These Years: Voting Rights in the Post-Shaw
+ Era," will appear in the Cumberland Law Review.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.norrell.001" n="Charles G. Gomillion" type="Article">
+ <div2 id="sc17-3-4.007" n="Charles G. Gomillion" type="Article">
                <head>Charles G. Gomillion</head>
-               <docAuthor>By ROBERT J. NORRELL</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 14-15</docDate>
-<argument><p>Robert J. Norrell is professor of history at the University of Alabama and author of Reaping the Whirlwind: The Civil Rights Movement in Tuskegee. He wrote this article for The Birmingham News.</p></argument>
+               <byline>By <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 14-15</docDate>
 
 <p>A few weeks ago I lost my hero--Charles Goode Gomillion, a 95-year-old man of whom relatively few people will have heard. But for me he embodied true greatness, and the meaning of his life speaks clearly to us today.</p>
 
@@ -439,13 +445,13 @@ political power before the passage of the<pb n="15"/>
 <p>There is no guarantee that race relations will get better tomorrow,
 and it's a sure bet we won't solve the problem. But the life of
 Charles Gomillion shows how we can face the future.</p>
+<div3 id="sc17-3-4.027" type="About"><p>Robert J. Norrell is professor of history at the University of Alabama and author of Reaping the Whirlwind: The Civil Rights Movement in Tuskegee. He wrote this article for The Birmingham News.</p></div3>
  </div2>
 
- <div2 id="sc17-3-4.guerrero.001" n="Anne Romaine" type="Article">
+ <div2 id="sc17-3-4.008" n="Anne Romaine" type="Article">
                <head>Anne Romaine</head>
-               <docAuthor>By GENE GUERRERO</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 15-17</docDate>
-<argument><p>Gene Guerrero worked with Anne Romaine in the Southern Student Organizing Committee (SSOC) and on the Great Speckled Bird underground newspaper. For information about the second SSOC reunion write him at 7059 Eastern, Takoma Park, MD 20912.</p></argument>
+               <byline>By <docAuthor><name reg="Guerrero, Gene">Gene Guerrero</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 15-17</docDate>
 
 <p>On October 25, Anne Romaine died in Gastonia, North Carolina of complications from a burst appendix. She died about a week before she would have turned 53.</p>
 
@@ -482,19 +488,20 @@ memory, the Anne Romaine Memorial Fund supports organizing efforts for
 universal health care and health care justice in the South. Donations
 can be made by writing: Anne Romaine Memorial Fund, c/o Fund for
 Southern Communities, 522 Hill Street, SE, Atlanta, GA 30312.</p>
- </div2>
+ <div3 id="sc17-3-4.028" type="About"><p>Gene Guerrero worked with Anne Romaine in the Southern Student Organizing Committee (SSOC) and on the Great Speckled Bird underground newspaper. For information about the second SSOC reunion write him at 7059 Eastern, Takoma Park, MD 20912.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.payne.001" n="The Light of Freedom" type="Article">
+ <div2 id="sc17-3-4.009" n="The Light of Freedom" type="Article">
                <head>The Light of Freedom</head>
-               <docAuthor>Remarks by CHARLES M. PAYNE</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 19-20</docDate>
-<argument><p>Charles M. Payne is Associate Professor of African American Studies, Sociology, and Education, and a fellow of the Center for Urban Affairs and Policy Research at Northwestern University.</p></argument>
+               <byline>Remarks by <docAuthor><name reg="Payne, Charles
+	       M.">Charles M. Payne</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 19-20</docDate>
 
-<p><hi rend="italic">Editor's note: The following essay is an edited
+<p>Editor's note: The following essay is an edited
 version of Professor Payne's remarks at the Lillian Smith Book Awards
-luncheon held in Atlanta on November 3. His book</hi> I've Got the
+luncheon held in Atlanta on November 3. His book <title>I've Got the
 Light of Freedom: The Organizing Tradition and the Mississippi Freedom
-Struggle<hi rend="italic"> was co-winner of the Smith Award for non-fiction.</hi></p>
+Struggle</title> was co-winner of the Smith Award for non-fiction.</p>
 
 <p>Some very nice things have happened to me as a result of writing
 I've <hi rend="italic">Got the Light of Freedom</hi>, but this is one of the nicest. The fact that the Lillian Smith Award comes from the Southern Regional Council, an institution rooted so deeply, so firmly in the history about which I am trying to write, makes it special for me. It also makes it special for me because I come wedged between two really remarkable pieces of scholarship.</p>
@@ -547,13 +554,14 @@ Dittmer's discussion of the Child Development Group of Mississippi, and what Was
 with just such hope and amid just such hope, the Southern Regional
 Council was born in the 1940s. So it seems appropriate for us to
 continue to renew our hope some fifty years later.</p>
- </div2>
+ <div3 id="sc17-3-4.029" type="About"><p>Charles M. Payne is Associate Professor of African American Studies, Sociology, and Education, and a fellow of the Center for Urban Affairs and Policy Research at Northwestern University.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.995" n="Meet Wendy S. Johnson,
+ <div2 id="sc17-3-4.010" n="Meet Wendy S. Johnson,
 SRC's New Executive Director" type="Article">
      <head>Meet Wendy S. Johnson, SRC's New Executive Director</head>
-               <docAuthor>Staff</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 p. 21</docDate>
+               <byline><docAuthor><name reg="">Staff</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 p. 21</docDate>
 
 <p>Wendy S. Johnson, former executive director of the Appalachian Community Fund, comes to the Southern Regional Council with a record of fifteen years leading effective and strategic nonprofit programs in the region.</p>
 
@@ -577,19 +585,13 @@ future role, as we continue to work for fairness, equity, and basic
 human rights."</p>
  </div2>
 
- <div2 id="sc17-3-4.995" n="BOOKS
-Shining in Sunflower
-Silver Rights by Constance Curry (Algonquin Books of Chapel Hill, 1995, 258 pages)." type="Review">
+ <div2 id="sc17-3-4.011" n="BOOKS: Shining in Sunflower" type="Review">
 <head>BOOKS</head> 
 <head>Shining in Sunflower</head>
-<head><title>Silver Rights</title> by Constance Curry (Algonquin Books of Chapel Hill, 1995, 258 pages).</head>
-               <docAuthor>Reviewed by CASEY HAYDEN</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 22-23</docDate>
-<argument><p>Casey Hayden entered the Southern movement during the
-1960 sit-ins and worked with the Student Non-Violent Coordinating
-Committee during the same period Connie Curry worked with
-AFSC.</p></argument>
 
+               <byline>Reviewed by <docAuthor><name reg="Hayden, Casey">Casey Hayden</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 22-23</docDate>
+<bibl><title>Silver Rights</title> by Constance Curry (Algonquin Books of Chapel Hill, 1995, 258 pages).</bibl>
 <p>In the dialect of local black Mississippians in the Freedom Movement of the 1960s, civil rights were "silver rights." This book is the story of one family who went after those rights.</p>
 
 <p>Matthew and Mae Bertha Carter, sharecroppers in Sunflower County in the Mississippi Delta, and parents of thirteen children, sent their kids to the white schools in Drew in 1965. They did so because the black schools didn't operate all year, closing twice to allow black children to chop down the weeds in the cotton fields and then pick the cotton. And the black schools were inferior; Matthew and Mae Bertha Carter knew that because they went to segregated schools themselves. Drew was known among civil rights workers as one of the most dangerous towns in the state.</p>
@@ -617,17 +619,19 @@ We learn of the work of many devoted organizations and individuals in support of
 <p>The first day Mrs. Carter sent her children off on the school bus
 to the white schools, she felt sick, and she lay on her
  bed all day and prayed. But when the kids came home from school, that day and every day, their parents were there to talk it over, to help their children process the heavy load of loneliness and insult the children were carrying, to come through without hatred or self-destruction. Despite all the support and later accolades, and despite the wider life that opened to her as a result of the decision she and Mr. Carter made, it was a hard row Mae Bertha Carter had to hoe: lonely, long, loving, and shining like silver in the sun. <title>Silver Rights</title> will light your path.</p>
- </div2>
+ <div3 id="sc17-3-4.031" type="About"><p>Casey Hayden entered the Southern movement during the
+1960 sit-ins and worked with the Student Non-Violent Coordinating
+Committee during the same period Connie Curry worked with
+AFSC.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.995" n="Rendering Wallace
-The Politics of Rage: George Wallace and the Transformation of American Politics, by Dan T. Carter (Simon and Schuster, 1995, 572 pages)." type="Reviews">
+ <div2 id="sc17-3-4.012" n="Rendering Wallace" type="Reviews">
 
                <head>Rendering Wallace</head>
-<head><title>The Politics of Rage: George Wallace and the Transformation of American Politics</title>, by Dan T. Carter (Simon and Schuster, 1995, 572 pages).</head>
-               <docAuthor>Reviewed by Steve Suitts</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 24-27</docDate>
-<argument><p>A native of Alabama, Steve Suitts was executive director of the Southern Regional Council until earlier this year when he began his status as a Southern ne'er-do-well under-taking independent research and writing</p></argument>
 
+               <byline>Reviewed by <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 24-27</docDate>
+<bibl><title>The Politics of Rage: George Wallace and the Transformation of American Politics</title>, by Dan T. Carter (Simon and Schuster, 1995, 572 pages).</bibl>
 <p>Beginning in Clio, Alabama (evoking the name of the Greek muse of history), and ending not too distantly in the future, George Wallace's life seemingly has been destined to be one of the grand morality plays of American politics, full of human pathos, the rough pageantry of consumptive ambition, and the ironies of forgiven mortal sins. His is also an essentially Southern story, one in which losers like him�be they good or evil�have more to tell us about ourselves and our times than many of the victors of our national history.</p>
 
 <p>Now, with the arrival of <title>The Politics of Rage: George Wallace and the Transformation of American Politics</title>, Southern historian Dan 'F. Carter has captured the essence of this tragedy in an easily readable, remarkably insightful biography of both Wallace and "Wallaceism," recreating how the man and his movement "to stand up for America" reshaped the language and limits of today's American political system. Seldom has a living politician's biography explained so clearly, so convincingly, both the person's complex nature and his unacknowledged, en-during influence on national life. And, like relatives enjoying a dishonorable inheritance about which they never speak, rarely have the heirs of a politician's achievements been so reluctant to admit the source of their legacy.</p>
@@ -691,14 +695,14 @@ accounting of the life of George Wallace and of Wallaceism resembles
 the one that Dan Carter has so scrupulously given us, George Wallace
 and his political heirs can hope only that God will have mercy on
 their souls since the muse of history surely cannot.</p>
- </div2>
+ <div3 id="sc17-3-4.032" type="About"><p>A native of Alabama, Steve Suitts was executive director of the Southern Regional Council until earlier this year when he began his status as a Southern ne'er-do-well under-taking independent research and writing</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.995" n="The Place of Justice"  type="Review">
+ <div2 id="sc17-3-4.013" n="The Place of Justice"  type="Review">
                <head>The Place of Justice</head>
-<head><title>Justice in the Coalfields</title>, directed by Anne Lewis. Camera: Andrew Garrison, Herb E. Smith, Joseph Gray, Tom Kaufman, Jerry Johnson. Sound: Anne Lewis, Alex Milenic. Assistants: Buck Maggard, Jim Branson. (Appalshop, 1995, 57 minutes.)</head>
-               <docAuthor>Reviewed by TAL STANLEY</docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 27-29</docDate>
-<argument><p>A native of southwest Virginia, Tal Stanley is studying American regionalism and Appalachia at Emory University's Graduate Institute of the Liberal Arts.</p></argument>
+               <byline>Reviewed by <docAuthor><name reg="Stanley, Tal">Tal Stanley</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 27-29</docDate>
+<bibl><title>Justice in the Coalfields</title>, directed by Anne Lewis. Camera: Andrew Garrison, Herb E. Smith, Joseph Gray, Tom Kaufman, Jerry Johnson. Sound: Anne Lewis, Alex Milenic. Assistants: Buck Maggard, Jim Branson. (Appalshop, 1995, 57 minutes.)</bibl>
 
 <p>Many of us can trace the development of our social consciousness to particular events that had a galvanizing effect upon the way we understand not only ourselves, but the places and cultures in which we live. Although our social consciousness is continually shaped in the context of the relationships and places of our lives, these central events often retain their force as we push our understanding of their historical importance. Sadly, in many cases these galvanizing moments are not ones in which we can point to the courageous stand we made or the way we joined with others to struggle for justice. During the 1989 United Mine Workers of America nonviolent civil disobedience strike against the Pittston Coal Company, I was living and working in Wythe County, Virginia. Every Sunday afternoon hundreds of Virginia State Police gathered at the Division Headquarters outside of Wytheville, the county seat, to be briefed before traveling into Russell, Wise, and Dickenson counties to enforce Virginia's right-to-work law against the striking miners and their supporters. Despite my woeful lack of understanding of all the issues at the time, I knew that more was at stake than the enforcement of law and the miners' demands for a living wage. In the years since, I have come to understand the strike's deeper issues of justice and to see my own standing-by as a complicity of sorts in systems of injustice.</p>
 
@@ -755,25 +759,22 @@ prejudices. Generally, these students have never been asked to view critically t
 
 <p>Despite the questions and the sense of betrayal and unfinished
 work, despite the long, long struggles ahead, <hi rend="italic">Justice in the Coalfields</hi> overflows with the power of that place and the values of people working together to forge a new future of social justice there. There is a militancy in Elaine Purkey's singing, and in Buford Mullins' vision there is an authority that challenges the old order to its foundations: "these mountains belong to the people--always have, always will."</p>
- </div2>
+ <div3 id="sc17-3-4.033" type="About"><p>A native of southwest Virginia, Tal Stanley is studying American regionalism and Appalachia at Emory University's Graduate Institute of the Liberal Arts.</p></div3>
+</div2>
 
- <div2 id="sc17-3-4.995" n="Salute to the Vanguard Letter from STETSON KENNEDY" type="Review">
-               <head>Salute to the Vanguard Letter from STETSON KENNEDY</head>
-               <docAuthor></docAuthor>
-               <docDate>Vol. 17, No. 3-4, 1995 pp. 30-31</docDate>
-<argument><p>Stetson Kennedy is a lifelong human rights advocate who,
-at 78, is still at it in Jacksonville, Florida; he first wrote for SRC
-in 1946. His most recent book is After Appomattox: How the South Won
-the War</p></argument>
+ <div2 id="sc17-3-4.014" n="Salute to the Vanguard Letter" type="Review">
+               <head>Salute to the Vanguard</head>
+               <byline>Letter from <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
+               <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 30-31</docDate>
 
 <p>I feel obliged to take processor in hand to take exception to David
-J. Garrow's review [<hi rend="italic">Southern Changes</hi>, Spring
-1995] of John Egerton's <hi rend="italic">Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</hi>, which chronicles the largely untold story of the civil rights movement from 1932 to 1954.</p>
+J. Garrow's review [<title>Southern Changes</title>, Spring
+1995] of John Egerton's <title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title>, which chronicles the largely untold story of the civil rights movement from 1932 to 1954.</p>
 
 <p>It is bad enough that Garrow has sought to brush off so notable a contribution, but intolerable that, in so doing, he should also seek to dismiss as "timid liberals" that vanguard generation which provided its full share of militants and martyrs whose struggles and sacrifices made The Overcoming of the '60s far less bloody than it otherwise would have been. Too much timidity there was, but there was also audacity aplenty.</p>
 
 <p>That is not just <hi rend="italic">my</hi> generation that Garrow
-is derogating; it is the one which gave birth to the SRC, SCHW, CIO, Highlander, and the book <hi rend="italic">What the Negro Wants</hi>, among innumerable other things. Not many of us are left alive, and in deciding to undertake the task of rebuttal I have asked myself--as I did upon infiltrating the KKK during WW II--"If I don't, who will?" Besides, I owe it to Myles Horton, who said to me shortly before he died, "They like to think they have defanged and declawed us, but we know better, don't we?"</p>
+is derogating; it is the one which gave birth to the SRC, SCHW, CIO, Highlander, and the book <title>What the Negro Wants</title>, among innumerable other things. Not many of us are left alive, and in deciding to undertake the task of rebuttal I have asked myself--as I did upon infiltrating the KKK during WW II--"If I don't, who will?" Besides, I owe it to Myles Horton, who said to me shortly before he died, "They like to think they have defanged and declawed us, but we know better, don't we?"</p>
 
 <p>There wasn't a timorous bone in Myles or Zilphia, nor Florida NAACP leader Harry T. Moore, who together with his wife Harriett was blown up in bed on Christmas night, 1951. Nor in Lucy Randolph Mason, James Dombrowski, Mary McCleod Bethune, Virginia Durr, Kit Schryver, Louis Burnham, Mrs. Dorothy M.E. Tilly, Witherspoon Dodge, Fred Shuttlesworth, Aubrey Williams, Frank Graham, Josephine Wilkins, and a whole host of others whose names do not appear on that monument in Montgomery, but upon whom Egerton bestows long overdue credit.</p>
 
@@ -819,7 +820,11 @@ the <hi rend="italic">issues</hi> with which we struggled in that pre-Overcoming
 them?) he performed a dedicated, meticulous, and monumental service in
 backfilling a major chasm in the history of America's quest for equal
 rights, and we will be forever indebted to him for it.</p>
- </div2>
+ <div3 id="sc17-3-4.034" type="About"><p>Stetson Kennedy is a lifelong human rights advocate who,
+at 78, is still at it in Jacksonville, Florida; he first wrote for SRC
+in 1946. His most recent book is <title>After Appomattox: How the South Won
+the War</title></p></div3>
+</div2>
 	 </div1>
       </body>
    </text>

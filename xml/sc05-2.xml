@@ -65,15 +65,10 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 2,
 	       <date value="1983-03">1983</date></p>
-            <div2 id="sc05-2paddock.002" n="Ethics and Equations" type="Article">
+            <div2 id="sc05-2.002" n="Ethics and Equations" type="Article">
                <head>Ethics and Equations</head>
-               <docAuthor>By POLLY PADDOCK</docAuthor>
+               <byline>By <docAuthor><name reg="Paddock, Polly">Polly Paddock</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate>
-               <argument>
-                  <p>Polly Paddock is an editorial page writer for the
-Charlotte <title>Observer.</title>
-                  </p>
-               </argument>
                <p>I was never much of a math or science student. During high school
 and college, I went to great lengths to avoid taking any courses in
 those fields beyond what was absolutely required. Why dissect a fetal
@@ -159,16 +154,16 @@ suggest that those of us troubled by simplistic rhetoric about the
 math and science lag make ourselves heard; letters should be addressed
 to the Task Force on Education for Economic Growth, c/o Gov. James
 Hunt, Capitol Building, Raleigh, N.C. 27611.</p>
-            </div2>
-            <div2 id="sc05-2johnson.003" n="Money on the Mainline" type="Article">
+            <div3 id="sc05-2.022" type="About">
+                  <p>Polly Paddock is an editorial page writer for the
+Charlotte <title>Observer.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc05-2.003" n="Money on the Mainline" type="Article">
                <head>Money on the Mainline</head>
-               <docAuthor>By TIM JOHNSON</docAuthor>
+               <byline>By <docAuthor><name reg="Johnson, Tim">Tim Johnson</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate>
-               <argument>
-                  <p>Tim Johnson, who has worked for the Georgia Public
-Service Commission and the Consumers' Utility Counsel of Georgia, its
-an Atlanta writer and organizer.</p>
-               </argument>
                <p>Bob Scherer, Chief Executive Officer and Chairman of the Board of
 the Georgia Power Company, believes that electric rates should not be
 regulated. "Regulation isn't working," he explained recently to a
@@ -561,20 +556,18 @@ construction. This is due to the tax-free nature of bonds it issues
                <p>
                   <hi rend="bold">The City of Dalton</hi> opted to stay out of MEAG but
 bought into Plant Vogtle on its own.</p>
-            </div2>
-            <div2 id="sc05-2harris.004" n="Almost Family" type="Review">
+            <div3 id="sc05-2.023" type="About">
+                  <p>Tim Johnson, who has worked for the Georgia Public
+Service Commission and the Consumers' Utility Counsel of Georgia, its
+an Atlanta writer and organizer.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-2.004" n="Almost Family" type="Review">
                <head>
                   <title>Almost Family.</title>  Roy Hoffman. The Dial Press,
 1983.</head>
-               <docAuthor>By TRUDIER HARRIS</docAuthor>
+               <byline>By <docAuthor><name reg="Harris, Trudier">Trudier Harris</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate>
-               <argument>
-                  <p>Trudier Harris, who teaches English and folklore at the
-University of North Carolina at Chapel Hill, grew up in
-Tuscaloosa. Her book, <title>From Mammies to Militants: Domestics in
-Black American Literature</title>, was published by Temple University
-Press in December, 1982.</p>
-               </argument>
                <p>White mistresses and their black maids have intrigued many
 generations of American writers. From the stereotypical portraits of
 the nineteenth century, to Faulkner's more individualized but
@@ -707,17 +700,20 @@ across cultural and racial lines in the South. He stands back from all
 of his characters and recognizes the limitations in them. I get the
 feeling that he is also standing back from what he has written,
 knowing that there is much more to tell.</p>
-            </div2>
-            <div2 id="sc05-2gladney.005" n="The Color Purple" type="Review">
+            <div3 id="sc05-2.024" type="About">
+                  <p>Trudier Harris, who teaches English and folklore at the
+University of North Carolina at Chapel Hill, grew up in
+Tuscaloosa. Her book, <title>From Mammies to Militants: Domestics in
+Black American Literature</title>, was published by Temple University
+Press in December, 1982.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-2.005" n="The Color Purple" type="Review">
                <head>
                   <title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
 1982.</head>
-               <docAuthor>By ROSE GLADNEY</docAuthor>
+               <byline>By <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate>
-               <argument>
-                  <p>Rose Gladney is associate professor of American Studies
-at the University of Alabama in Tuscaloosa.</p>
-               </argument>
                <p>Speaking at the University of Florida in 1962, Lillian Smith
 observed that women were only beginning "to break the million year
 silence about themselves." "Women rarely tell the truth," she said,
@@ -883,24 +879,17 @@ Christianity, but spiritual power remains fundamental. <title>The
 Color Purple</title> contains Walker's best writing on the nature of
 God. It is also one of our finest testimonies to the power of
 sisterhood.</p>
-            </div2>
-            <div2 id="sc05-2fink.006" n="Union Power, Soul Power" type="Article">
+            <div3 id="sc05-2.025" type="About">
+                  <p>Rose Gladney is associate professor of American Studies
+at the University of Alabama in Tuscaloosa.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-2.006" n="Union Power, Soul Power" type="Article">
                <head>Union Power, Soul Power: The Story of 1199B and Labor's Search
 for A Southern Strategy</head>
-               <docAuthor>By LEON FINK</docAuthor>
+               <byline>By <docAuthor><name reg="Fink, Leon">Leon Fink</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 9-20</docDate>
-               <argument>
-                  <p>Leon Fink is assistant professor of history at the
-University of North Carolina at Chapel Hill. He is author of
-<title>Workingmen's Democracy: The Knights of Labor and American
-Politics</title> (University of Illinois Press, 198S). This article
-was first presented as a talk to the Fourth Southern Labor Studies
-Conference, Georgia State University in Atlanta, September 30--October
-2, 1982. It forms part of a larger history of the hospital workers'
-union co-authored by Brian Greenberg to be published by Harvard
-University Press in 1984. The author gratefully acknowledges the help
-of Stephen Hoffius and David J. Garrow in his research.</p>
-               </argument>
+               
                <p>Hospitals are one of the last centers of employment in the United
 States to be touched by unionization. Efforts to organize hospital
 workers had barely begun by 1960, and by the end of that decade, few
@@ -1771,16 +1760,23 @@ effort require a greater effort form the national unions. Yet, if
 unions are to take a more active role in Southern community life, then
 confident talk of a progressive "sunbelt" must come to include a
 formal voice for the region's working people.</p>
-            </div2>
-            <div2 id="sc05-2barber.007" n="Mississippi Makes Up Its Mind" type="Article">
+            <div3 id="sc05-2.026" type="About">
+                  <p>Leon Fink is assistant professor of history at the
+University of North Carolina at Chapel Hill. He is author of
+<title>Workingmen's Democracy: The Knights of Labor and American
+Politics</title> (University of Illinois Press, 198S). This article
+was first presented as a talk to the Fourth Southern Labor Studies
+Conference, Georgia State University in Atlanta, September 30--October
+2, 1982. It forms part of a larger history of the hospital workers'
+union co-authored by Brian Greenberg to be published by Harvard
+University Press in 1984. The author gratefully acknowledges the help
+of Stephen Hoffius and David J. Garrow in his research.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc05-2.007" n="Mississippi Makes Up Its Mind" type="Article">
                <head>Mississippi Makes Up Its Mind</head>
-               <docAuthor>By RIMS BARBER</docAuthor>
+               <byline>By <docAuthor><name reg="Barber, Rims">Rims Barber</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 8-9</docDate>
-               <argument>
-                  <p>Rims Barber, a member of the Southern Regional Council,
-is project director for Childrens' Defense Fund in
-Mississippi.</p>
-               </argument>
                <p>The passage of an educational reform package by the Mississippi
 Legislature was an important victory for public involvement. Pushing
 the legislature to act on the education issue involved a broader based
@@ -1913,25 +1909,32 @@ educational system but in areas of health and welfare and justice for
 all. We cannot live as a divided people, leaving one segment or
 another of our population behind. Perhaps, on this foundation,
 Mississippi is now ready to build.</p>
-               <p>
-                  <hi rend="bold">Features of the Educational Reform Act</hi>
-               </p>
-               <p>¥ Kindergarten in all school districts by 1986, supported by
-forty million dollars annually</p>
-               <p>¥ Compulsory attendance beginning with ages six and seven in
-1983 and adding one year until age fourteen</p>
-               <p>¥ Salary increases for teachers of one thousand dollars, taking
-Mississippi off the bottom rung of the teacher pay ladder</p>
-               <p>¥ A performance based school accreditation system</p>
-               <p>¥ A study to consider consolidating small schools and small
-districts</p>
-               <p>¥ A commission to set new teacher education and certification
-standards</p>
-               <p>¥ A program of professional development for school
-administrators</p>
-               <p>¥ Authority granted to the state lay board of education to
-compel compliance with the new standards</p>
-            </div2>
+               <p><list>
+                  <head>Features of the Educational Reform Act</head>
+               
+               <item> Kindergarten in all school districts by 1986, supported by
+forty million dollars annually</item>
+               <item> Compulsory attendance beginning with ages six and seven in
+1983 and adding one year until age fourteen</item>
+               <item> Salary increases for teachers of one thousand dollars, taking
+Mississippi off the bottom rung of the teacher pay ladder</item>
+               <item> A performance based school accreditation system</item>
+               <item> A study to consider consolidating small schools and small
+districts</item>
+               <item> A commission to set new teacher education and certification
+standards</item>
+               <item> A program of professional development for school
+administrators</item>
+               <item> Authority granted to the state lay board of education to
+compel compliance with the new standards</item>
+</list>
+	       </p>
+            <div3 id="sc05-2.027" type="About">
+                  <p>Rims Barber, a member of the Southern Regional Council,
+is project director for Childrens' Defense Fund in
+Mississippi.</p>
+               </div3>
+               </div2>
          </div1>
       </body>
    </text>
