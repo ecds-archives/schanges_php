@@ -54,12 +54,12 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-<div1 id="sc03-2.001" n="Southern Changes 4:1" type="Issue">
+<div1 id="sc04-1.001" n="Southern Changes 4:1" type="Issue">
 <head>Southern Changes. Volume 4, Number 1, 1981</head>
 <p><title>Southern Changes.</title> Volume 4, Number 1, <date value="1981-11"></date></p>
-<div2 id="sc04-1suitts.002" n="Amended Act Passes..." type="Article">
+<div2 id="sc04-1.002" n="Amended Act Passes..." type="Article">
 <head>Amended Act Passes...</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, pp. 2-8</docDate>
 
 <p>In a final vote showing overwhelming support from members of Congress in the South and elsewhere, the U.S. House of Representatives passed the Voting Rights Act virtually as amended earlier by the House Judiciary Committee. By a margin of 389 to 24, the House now sends to the Senate a bill with amendments that will permit some Southern local governments to bail out from Section 5, the provision of the Act that requires them to get the approval of the U.S. Justice Department before an act or practice affecting voting is implemented.</p>
@@ -1372,9 +1372,9 @@ changes to original bill.</p>
 <p>(I) = independent of the two major parties</p>
 </div2>
 
-<div2 id="sc04-1Staff.010" n="What Does H.R. 3112 Provide?" type="Article">
+<div2 id="sc04-1.010" n="What Does H.R. 3112 Provide?" type="Article">
 <head>What Does H.R. 3112 Provide?</head>
-<docAuthor>By Staff</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, p. 9</docDate>
 
 <p>The House bill HR 3112, passed on October 5, extends continuously the special provisions of the Voting Rights Act and changes two others. In essence, the bill amends Section 4 to permit jurisdictions to meet a new standard of exemption from the obligations of preclearing voting changes under Section 5; amends the standard of proof in Section 2 voting discrimination court cases; and extends the bilingual language assistance provisions until 1992.</p>
@@ -1422,12 +1422,10 @@ presently interpret Section 2 to require a showing of both
 discriminatory purpose and effect.</p>
 </div2>
 
-<div2 id="sc04-1askew.009" n="Why the South Needs the Voting Rights Act" type="Article">
+<div2 id="sc04-1.009" n="Why the South Needs the Voting Rights Act" type="Article">
 <head>"Why the South Needs the Voting Rights Act"></head>
-<docAuthor>By Reubin O'D. Askew</docAuthor>
+<byline>By <docAuthor><name reg="Askew, Reubin O'D.">Reubin O'D. Askew</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 10-13</docDate>
-<argument><p>
-Reubin O'D. Askew was formerly governor of Florida and special trade representative for the United States in the Carter Administration. His remarks were presented at a conference on minority voting rights in the South on August 21, 1981.</p></argument>
 
 <p>With tear gas, with billy clubs, and with bullwhips, the eyes of America were opened at Selma, Alabama in 1965. The longstanding refusal of this nation to fulfill one of the most basic of its democratic commitments was revealed for all to see.</p>
 
@@ -1535,30 +1533,16 @@ exercise of the right to vote? At a time when there is so little faith
 in our institutions of government, what reason can there be for
 risking the integrity of the one means by which all Americans have an
 opportunity for an equal voice in the actions of government?</p>
+<div3 id="sc04-1.029" type="About"><p>
+Reubin O'D. Askew was formerly governor of Florida and special trade representative for the United States in the Carter Administration. His remarks were presented at a conference on minority voting rights in the South on August 21, 1981.</p></div3>
 </div2>
 
-<div2 id="sc04-1woodward.003" n="The Danger of Retreating from the Second Reconstruction"
+<div2 id="sc04-1.003" n="The Danger of Retreating from the Second Reconstruction"
       type="Article">
 <head>The Danger of Retreating from the
 Second Reconstruction</head>
-<docAuthor>by C. Vann Woodward</docAuthor>
+<byline><docAuthor><name reg="">by C. Vann Woodward</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 13-15</docDate>
-<argument>
-<p>C. Vann Woodward presented this testimony before the House Subcommitee
-      on Civil and Constitutional Rights on June 24, 1981.
-</p>
-<p>My name is C. Vann Woodward, and I am a historian by
-profession. Although I have taught at Yale University for fifteen
-years and still live and work there, my main identifications have been
-with the Southern states. Born and reared in Arkansas, educated in
-Georgia and North Carolina, I taught at Georgia Tech, the University
-of Florida, and the University of Virginia before joining the faculty
-of the Johns Hopkins University for fifteen years and then moving to
-Yale in 1962. The main subject of both my teaching and my books (the
-first of which appeared in 1938) has always been the history of my
-native region, especially that of the post-Civil War period. In that
-period, as in my writings about it, the history of race relations has
-naturally played an important part.</p></argument>
 
 <p>The last forty years have been an exciting time for the historian of race and race relations. Exploring the past, I was continually encountering the present&#x2014;or something strikingly like it&#x2014;and living in the present, I was constantly running head-on into the past. I never had any trouble in my teaching and writing with the demand for what students used to call "relevance." The danger was in confusing past with present and committing the offense historians call "presentism." One such danger lay in the tempting comparison between events of the 1860s and 1870s with events of a century later. I must assume responsibility for giving currency to the term "Second Reconstruction" as applied to events of our own time and for encouraging the development of some aspects of the analogy between the First and the Second Reconstruction. The analogy was almost inescapable, given the new confrontation between North and South, between white and black, between federal and state government and the daily evocation of the constitutional amendments, federal laws, government policies, and court decisions of the 1860s and 1870s.</p>
 
@@ -1618,13 +1602,28 @@ popularity&#x2014;even that of a Hampton&#x2014;was no substitute for the power 
 <p>The farcical nature of the 1878 congressional elections in the South should have made plain the bankruptcy of the Compromise of 1877. Coercion, intimidation, and fraud were the means used in '78, but the more subtle legal devices of attrition to diminish, curtail, and dilute the black votes were quickly developed and imitated. By 1882 Georgia and Virginia had adopted poll taxes and South Carolina had developed the eight-ballot box law. These together with innocent-looking registration and secret-voting laws sharply reduced voting among illiterate and impoverished blacks. Yet a majority of black men continued to vote (or to be counted) in nine of the eleven states through the 80s. It was not until toward the end of the century and the first years of the next that the reactionary revolution, the all-out revolt against democracy was carried out in the South. This resulted in the almost total disfranchisement of blacks, sharp reduction of white voters, reduction of the overall voter turnout by an average of 37 percent (66 percent in Louisiana), the elimination of opposition parties, and the establishment of one-party rule that lasted half a century.</p>
 
 <p>I do not expect so drastic a counterrevolution to end the Second Reconstruction or anything so extreme to result from your decision about the Voting Rights Act of 1965. 1 do think it reasonable, however, to warn that a weakening of that Act, especially the preclearance clause, will open the door to a rush of measures to abridge, diminish, and dilute if not emasculate the power of the black vote in Southern states. Previous testimony has shown how persistent and effective such efforts have been even with the preclearance law in effect. Remove that law and the permissiveness will likely become irresistible&#x2014;in spite of promises to the contrary. The coming reallocation of congressional seats in the South as a consequence of the 1980 census will open many temptations for manipulation of laws affecting voting. I hope that retreat from the Second Reconstruction will not make it necessary for some future generation to face a Third.</p>
+<div3 id="sc04-1.023" type="About">
+<p>C. Vann Woodward presented this testimony before the House Subcommitee
+      on Civil and Constitutional Rights on June 24, 1981.
+</p>
+<p>My name is C. Vann Woodward, and I am a historian by
+profession. Although I have taught at Yale University for fifteen
+years and still live and work there, my main identifications have been
+with the Southern states. Born and reared in Arkansas, educated in
+Georgia and North Carolina, I taught at Georgia Tech, the University
+of Florida, and the University of Virginia before joining the faculty
+of the Johns Hopkins University for fifteen years and then moving to
+Yale in 1962. The main subject of both my teaching and my books (the
+first of which appeared in 1938) has always been the history of my
+native region, especially that of the post-Civil War period. In that
+period, as in my writings about it, the history of race relations has
+naturally played an important part.</p></div3>
 </div2>
 
-<div2 id="sc04-1days.004" n="How the Voting Rights Act is the Most Effective Act on the Books" type="Article">
+<div2 id="sc04-1.004" n="How the Voting Rights Act is the Most Effective Act on the Books" type="Article">
 <head>How the Voting Rights Act is the Most Effective Act on the Books</head>
-<docAuthor>By Drew Days</docAuthor>
+<byline>By <docAuthor><name reg="Days, Drew">Drew Days</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 16, 25-27</docDate>
-<argument><p>Drew Days, who testified before Congress on July 13, 1981, is now a professor at Yale Law School.</p></argument>
 
 <p>As one who was charged with enforcing a host of other federal civil rights laws, I can attest that the Voting Rights Act of 1965 is by far the most effective statute on the books. While diligent efforts have been made to achieve compliance with laws prohibiting discrimination in housing, education, employment and the like, meaningful remedies for proven violations in these areas have come only after years of litigation. Administration of the preclearance provisions of the Voting Rights Act has, in contrast, prevented in a matter of days electoral changes likely to undercut or retard meaningful minority participation at the ballot box.</p>
 
@@ -1720,11 +1719,13 @@ view. One possibility under review would be to limit the preclearance requiremen
 <p>Next, a jurisdiction seeking to bailout should have to establish not only that its record as a particular governmental body warrants Section 5 coverage termination, but that the same is true of all subunits of government located there. For example, it would not be sensible to allow a state to bail-out if there were violations within individual counties and cities within the state.</p>
 
 <p>Congress recognized that every attack on the right to vote kills at least a part of it that can never be brought back&#x2014;especially for minority citizens who have been bred to know that some people will stop at literally nothing to prevent them from having that right. Extension of the Voting Rights Act offers the only genuine prospect for ensuring that millions of minority citizens gain their rightful place in the political life of this Nation. The Act's preclearance provisions do not need to be amended or altered; the Act just needs the resources and vigilant oversight only this Congress can provide to ensure its continued effectiveness. Finally, Congress must ensure that the current and all future Administrations faithfully enforce the provisions of this most vital law.</p>
+
+<div3 id="sc04-1.024" type="About"><p>Drew Days, who testified before Congress on July 13, 1981, is now a professor at Yale Law School.</p></div3>
 </div2>
 
-<div2 id="sc04-1Holton.009" n="Reappointment Roundup" type="Article">
+<div2 id="sc04-1.013" n="Reappointment Roundup" type="Article">
 <head>Reappointment Roundup</head>
-<docAuthor>By Woody Holton</docAuthor>
+<byline>By <docAuthor><name reg="Holton, Woody">Woody Holton</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 17-22</docDate>
 
 <p>The Southern state capitals have been filled in the last few months with computer tapes, over-sized maps, and print-outs of census data as legislators decide the boundaries of state legislative and Congressional districts according to 1980 population. For the first time since the start of the century all Southern legislatures will pass some kind of re-districting plan, a feat that may be blemished by continuing historical efforts to dilute black voting strength.</p>
@@ -1915,14 +1916,10 @@ in the Proctor-Manley plan. Challenges to the plan before the
 U.S. Justice Department and the courts are expected</p>
 </div2>
 
-<div2 id="sc04-1Holton.011" n="Court Grants Virginia A Third Swing At Redistricting" type="Article">
+<div2 id="sc04-1.011" n="Court Grants Virginia A Third Swing At Redistricting" type="Article">
 <head>Court Grants Virginia A Third Swing At Redistricting</head>
-<docAuthor>By Woody Holton</docAuthor>
+<byline>By <docAuthor><name reg="Holton, Woody">Woody Holton</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 22-24</docDate>
-<argument><p>
-Woody Holton works for the Congress Watch newsletter and resides in
-McLean, Virginia.</p>
-</argument>
 
 <p>Virginia's court legislative redistricting plan survived neither a court challange nor U.S. Justice Department "preclearance" required by the Voting Rights Act.</p>
 
@@ -2025,12 +2022,20 @@ Supreme Court requires courts that draw plans to use single-member districts.</p
 sins. Since the interim legislature will serve only one year,
 delegates will have to face election every year for the next
 three.</p>
+<div3 id="sc04-1.031" type="About"><p>
+Woody Holton works for the Congress Watch newsletter and resides in
+McLean, Virginia.</p>
+</div3>
 </div2>
 
-<div2 id="sc04-1Congress.010" n="Voting Problems and Solutions" type="Article">
+<div2 id="sc04-1.014" n="Voting Problems and Solutions" type="Article">
 <head>Voting Problems and Solutions</head>
-<docAuthor>By William Velasquez, Edward Brown Jr., Joseph Smith, James
-Buskey, Abigail Turner, Robert Woods</docAuthor>
+<byline>By <docAuthor><name reg="Velasquez, William">William
+Velasquez</name>, <name reg="Brown, Edward, Jr.">Edward Brown
+Jr.</name>, <name reg="Smith, Joseph">Joseph Smith</name>, <name
+reg="Buskey, James">James
+Buskey</name>, <name reg="Turner, Abigail">Abigail Turner</name>,
+<name reg="Woods, Robert">Robert Woods</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 28-33</docDate>
 
 <p><hi rend="bold">Texas</hi></p>
@@ -2268,17 +2273,11 @@ at-large election procedures and only reflect token black representation. The So
 Subcommittee on Civil and Constitutional Rights on June 3, 1981.</p>
 </div2>
 
-<div2 id="sc04-1brown.005" n="Barriers to Voter Registration
+<div2 id="sc04-1.005" n="Barriers to Voter Registration
 Remain Southwide" type="Article">
 <head>Barriers to Voter Registration Remain Southwide</head>
-<docAuthor>By Raymond Brown</docAuthor>
+<byline>By <docAuthor><name reg="Brown, Raymond">Raymond Brown</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 34-35</docDate>
-<argument>
-<p>Raymond Brown testified before Congress on June 16, 1981.</p>
-
-<p>My name is Raymond Brown, I am director of a special project of the Southern 
-Regional Council that is examining voting rights in the South.</p>
-</argument>
 
 <p>Since the end of the white primary system in the South, the most
 basic indication of the fulfillment of the right to register and vote
@@ -2319,12 +2318,19 @@ officials who are in positions to influence state election procedures,
 in terms of ensuring that they are equitable, has "confessed religion
 and been baptized. " Rather the data show that the "mourners'" bench
 is still filled with sinners and the revival must continue."</p>
+<div3 id="sc04-1.025" type="About">
+<p>Raymond Brown testified before Congress on June 16, 1981.</p>
+
+<p>My name is Raymond Brown, I am director of a special project of the Southern 
+Regional Council that is examining voting rights in the South.</p>
+</div3>
 </div2>
 
-<div2 id="sc04-1jordan-kirkland.006" n="Section 5 and Voting Changes:
+<div2 id="sc04-1.006" n="Section 5 and Voting Changes:
 The Heart of the Act" type="Article">
 <head>"Section 5 and Voting Changes:The Heart of the Act</head>
-<docAuthor>By Vernon E. Jordan and Lane Kirkland</docAuthor>
+<byline><docAuthor><name reg="Jordan, Vernon E.">By Vernon
+E. Jordan</name> and <name reg="Kirkland, Lane">Lane Kirkland</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 36-37</docDate>
 
 <p><hi rend="bold">Vernon E. Jordan</hi></p>
@@ -2421,12 +2427,10 @@ this burden, but we deeply believe that it is theirs to carry.</p>
 <p>Lane Kirkland is the president of the national AFL-CIO. A native of South Carolina, Kirkland testified before Congress on May 6, 1981.</p>
 </div2>
 
-<div2 id="sc04-1adams.008" n="Voting Rights Act is Needed in New York" type="Article">
+<div2 id="sc04-1.008" n="Voting Rights Act is Needed in New York" type="Article">
 <head>"Voting Rights Act is Needed in New York"></head>
-<docAuthor>By Robert Adams</docAuthor>
+<byline>By <docAuthor><name reg="Adams, Robert">Robert Adams</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 38-39</docDate>
-<argument><p>
-Robert Adams testified before Congress on June 10, 1981.</p></argument>
 
 <p>I speak as the elected Attorney General of the State of New York&#x2014;a state which has three of its largest counties covered by the special provisions of the Voting Rights Act. I believe that extension of those provisions is essential.</p>
 
@@ -2476,16 +2480,14 @@ Department than to litigate through the courts the manifold challenges that woul
 voter equality is no longer a top national priority. Failure to extend
 the special provisions of the Voting Rights Act would do just
 that.</p>
+<div3 id="sc04-1.028" type="About"><p>
+Robert Adams testified before Congress on June 10, 1981.</p></div3>
 </div2>
 
-<div2 id="sc04-1kennedy.007" n="Extend the Protections of the Act" type="Article">
+<div2 id="sc04-1.007" n="Extend the Protections of the Act" type="Article">
 <head>"Extend the Protections of the Act"></head>
-<docAuthor>By Edward Kennedy</docAuthor>
+<byline>By <docAuthor><name reg="Kennedy, Edward">Edward Kennedy</name></docAuthor></byline>
 <docDate value="1981-11">Vol. 4, No. 1, 1981, p. 40</docDate>
-<argument>
-<p>Senator Edward Kennedy spoke on the Senate floor after the
-introduction of the bill to renew the Voting Rights Act on April 6,
-1981.</p></argument>
 
 <p>I am very pleased to join with Senators Mathias, Biden, Chafee, and Metzenbaum today in introducing the Voting Rights Amendments of 1981. Our bill will extend the essential protections of the historic Voting Rights Act. It will ensure that the hard won progress of the past is preserved, and that the effort to achieve full participation for all Americans in our democracy will continue in the future.</p>
 
@@ -2508,5 +2510,9 @@ introduction of the bill to renew the Voting Rights Act on April 6,
 <p>It was sixteen years ago that Lyndon Johnson came before us and
 challenged us to join with him in the historic pledge that "we shall
 overcome." This is not the time to retreat or to surrender.</p>
+<div3 id="sc04-1.027" type="About">
+<p>Senator Edward Kennedy spoke on the Senate floor after the
+introduction of the bill to renew the Voting Rights Act on April 6,
+1981.</p></div3>
 </div2>
 </div1></body></text></TEI.2>

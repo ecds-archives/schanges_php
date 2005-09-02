@@ -64,10 +64,10 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <head>Southern Changes. Volume 2, Number 1, 1979</head>
 <p>
 <title>Southern Changes.</title>. Volume 2, Number 1, <date value="1979-09">1979</date></p>
-<div2 id="sc02-1suitts.002" n="In this Issue"
+<div2 id="sc02-1.002" n="In this Issue"
       type="Article">
 <head>In this Issue</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 2</docDate>
 
 <p>This issue brings <hi rend="italic">Southern Changes</hi> full
@@ -110,10 +110,10 @@ to see in  ourselves, our region, and our nation "the opposing qualities
 which make living in the South exciting and worrisome."</p>
 </div2>
 
-<div2 id="sc02-1taff.003" n="In this Issue"
+<div2 id="sc02-1.003" n="In this Issue"
       type="Article">
 <head>The South's Economic Future</head>
-<docAuthor>By Staff</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 3-4</docDate>
 
 <p>Southern state development leaders prefer low-wage industries and
@@ -226,10 +226,10 @@ each.
 </p>
 </div2>
 
-<div2 id="sc02-1jordan.004" n="The Black Agenda For The 1980s"
+<div2 id="sc02-1.004" n="The Black Agenda For The 1980s"
       type="Article">
 <head>The Black Agenda For The 1980s</head>
-<docAuthor>By Vernon Jordan</docAuthor>
+<byline>By <docAuthor><name reg="Jordan, Vernon">Vernon Jordan</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 5-9</docDate>
 
 <p><hi rend="bold">Publisher's Note:</hi> <hi rend="italic">On July 22nd, National Urban League President Vernon Jordan delivered the keynote address at the organization's annual conference. Most news accounts closely covered the portions of Jordan's speech on the coming Presidential campaign where he stated, "the Black strategy should be to hang loose and make the candidates come to us. No one can win without the Black vote. " His remarks on the status of race relations and the agenda for Blacks in the 1980S deserve much more circulation than they have yet received.</hi></p>
@@ -368,13 +368,11 @@ faith in America and through their example and commitment, America's
 faith in itself.</p>
 </div2>
 
-<div2 id="sc02-1hoffius.005" n="Preparing Women For Engineering Technology"
+<div2 id="sc02-1.005" n="Preparing Women For Engineering Technology"
       type="Article">
 <head>>Preparing Women For Engineering Technology</head>
-<docAuthor>By Steve Hoffius</docAuthor>
+<byline>By <docAuthor><name reg="Hoffius, Steve">Steve Hoffius</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 10-13</docDate>
-<argument><p>Steve Hoffius is a free-lance writer in Charleston, SC. He
-is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff member of <hi rend="italic">Southern Exposure</hi></p></argument>
 
 <p>Katherine Prior is a nurse, a long-time nurse. For 18 years she has worked at hospitals in the Carolinas, returned to classes for more education, and now is a licensed, practical nurse. She has never made more than $4.10 an hour.</p>
 
@@ -442,15 +440,15 @@ first year students, as a way of saying 'Look, I got through it. You can, too."<
 <p>The college also needs the students for more selfish reasons. Shortly before FACET/FACIT was begun, the school was forced to lay off five of its engineering technology instructors because of dropping enrollment. The increase in women had come when the school has needed them most.</p>
 
 <p>Trident, however, needs the students no more than the students need the special training. Both Katherine and Pat admit that they would rather stay in nursing, if they could. But when 18 years experience produces no more than $4.10 an hour, it is inevitable that women will move from the field of nursing - or teaching or secretarial work or other low-paying jobs - into new areas. Thanks to affirmative action, jobs in skilled, high-paying trades are now available to women. And thanks to Trident's new program, women are receiving the push needed to fill those jobs.</p>
+<div3 id="sc02-1.025" type="About"><p>Steve Hoffius is a free-lance writer in Charleston, SC. He
+is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff member of <hi rend="italic">Southern Exposure</hi></p></div3>
 </div2>
 
-<div2 id="sc02-1chini.006" n="Harris Neck Battles U.S. Government"
+<div2 id="sc02-1.006" n="Harris Neck Battles U.S. Government"
       type="Article">
 <head>>Harris Neck Battles U.S. Government</head>
-<docAuthor>By Chini</docAuthor>
+<byline>By <docAuthor><name reg="Chini">Chini</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 14-17</docDate>
-<argument><p>
-Chini is a member of the Southern Collective of African-American Writers.</p></argument>
 
 <p>For the people of a tiny fishing and farming community located on Georgia's rich Atlantic coast, standing up to the Klan and going to jail are but small prices to pay in their 37-year struggle with the United States government for reclamation of their community.</p>
 
@@ -520,14 +518,20 @@ Harris Neck residents were warned that the issue was "larger than they thought."
 
 <p>Comedian-activist Dick Gregory told the residents recently that he had several serious questions about the government's takeover of the land. Gregory said that he thought the issue went beyond the government taking farming and fishing land from a small Black community. Gregory suspects the building of a military airstrip and the history of drug trafficking in the area may mean that there is government involvement in illegal dealings.</p>
 
-<p>A long-time community resident, a child during the 1942 eviction, best sums up the "new" Harris Neck spirit, "I feel something is going to give. I feel good about it. I believe the Lord is going to look out for us. He's going to help us because we need this land. Our children need this land."</p></div2>
+<p>A long-time community resident, a child during the 1942 eviction,
+best sums up the "new" Harris Neck spirit, "I feel something is going
+to give. I feel good about it. I believe the Lord is going to look out
+for us. He's going to help us because we need this land. Our children
+need this land."</p>
+<div3 id="sc02-1.026" type="About"><p>
+Chini is a member of the Southern Collective of African-American Writers.</p></div3>
+</div2>
 
-<div2 id="sc02-1gallman.007" n="The Continuing Saga of the KKK"
+<div2 id="sc02-1.007" n="The Continuing Saga of the KKK"
       type="Article">
 <head>>The Continuing Saga of the KKK</head>
-<docAuthor>By Vanessa J Gallman</docAuthor>
+<byline>By <docAuthor><name reg="Gallman, Vanessa J.">Vanessa J. Gallman</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 18-21</docDate>
-<argument><p>Vanessa J. Galiman is an editor for the <hi rend="italic">Charlotte Observer</hi>.</p></argument>
 
  <p><hi rend="bold">Publisher's Note:</hi><hi rend="italic"> The Ku Klux Klan traced the famous "Selma to Montgomery" march last month. While predicting a group of 2,000, the Klan leaders had fewer than sixty followers on US. highway 80; none the less, KKK related violence has grown over the past year without strong opposition from local authorities. In fact there has been only one recent prosecution of misconduct relating to Klan violence in the South - and then only by a federal prosecutor. This article by a Black editor of the Charlotte Observer looks at the Klan's activities and their meaning for present race relations.</hi></p>
 
@@ -599,14 +603,15 @@ with the Klan mentality, it's difficult to see an immediate reversal of the Klan
 <p>Aggravated by the inevitable scrabble among all special interest groups in this country to get a bit of the dwindling American pie, those blisters may one day burst.</p>
 
 <p>And in light of the Klan's history of hatred and violence, more people will die.</p>
+<div3 id="sc02-1.027" type="About"><p>Vanessa J. Galiman is an editor for the <title>Charlotte Observer</title>.</p></div3>
 </div2>
 
-<div2 id="sc02-1mullen.008" n="Southern Politics"
+<div2 id="sc02-1.008" n="Southern Politics"
       type="Article">
 <head>>Southern Politics</head>
-<docAuthor>By Patric Mullen</docAuthor>
+<byline>By <docAuthor><name reg="Mullen, Patric">Patric Mullen</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 22</docDate>
-<argument><p>Patric Mullen is a staff member of the Legal Services of North Carolina.</p></argument>
+
 <p>By most press accounts the 1979 session of the North Carolina General Assembly was lack luster, if not dull. While North Carolina's deliberative body met for 108 legislative days and considered 2,480 bills, which resulted in 1,077 new laws, the mood in the legislative building was decidedly anti-growth in government. Governor Hunt presented a very modest legislative program with few new initiatives. Even before the session began in early January, the President of the Senate and the Speaker of the House were both talking about adjournment at the earliest possible date.</p>
 
 <p>From the perspective of the state press, the entire session might well be characterized as a slow news day. After all, North Carolinians can only stand so much public debate on the new state rock (granite) or the new state reptile (the box turtle). Having passed the seemingly obligatory resolution calling upon the U.S. Congress to submit a constitutional amendment to the states which would require a balanced federal budget (despite the fact that one out of every four dollars in the state budget comes from the feds), the General Assembly settled down to a sessionlong debate on rewriting the state bingo laws.</p>
@@ -637,12 +642,13 @@ discharge; eliminate the practice of spousal deeming; relieve parents of financi
 <p>LSNC was by no means successful one-hundred percent of the time. A legislative proposal to require statewide implementation of the federal school breakfast program was killed, as were client supported proposals to repeal the state sales tax on food and to repeal the 1977 enabling legislation which allows utility companies to add to the rate base the cost of construction work in progress.</p>
 
 <p>Yet the message of the 1979 session suggests that client interests can be properly represented in the General Assembly; that LSNC can make a responsible contribution to the formulation of state public policy. This message is hardly a revelation and it most certainly will not make headlines but it does add credence to the proposition that client interests can be protected and advanced through the legislative process.</p>
+<div3 id="sc02-1.028" type="About"><p>Patric Mullen is a staff member of the Legal Services of North Carolina.</p></div3>
 </div2>
 
-<div2 id="sc02-1moon.009" n="Urban and Rural Development"
+<div2 id="sc02-1.009" n="Urban and Rural Development"
       type="Article">
 <head>>Urban and Rural Development</head>
-<docAuthor>By Harold Moon</docAuthor>
+<byline>By <docAuthor><name reg="Moon, Harold">Harold Moon</name></docAuthor></byline>
 <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 23</docDate>
 
 <p>The status of equal opportunity in housing will be greatly influenced by two contrasting changes presently underway in Washington. One endangers the reporting of vital information needed to test compliance with civil rights laws and the other proposes to enlarge the enforcement effects of the government to insure fair housing.</p>

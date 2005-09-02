@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
             <title>Southern Changes Web Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Southern Changes.  Volume 19, Number 1 1997</bibl>
+            <bibl>Southern Changes.  Volume 19, Number 1, Spring 1997</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -55,18 +55,15 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc19-1.996" n="Southern Changes 19:1" type="Issue">
+         <div1 id="sc19-1.001" n="Southern Changes 19:1" type="Issue">
             <head>Southern Changes.  Volume 19, Number 1, 1997</head>
-<div2 id="sc19-1.bond.001" n="Democracy Demands Memory" type="Article">
+	    <p><title>Southern Changes</title>.  Volume 19, Number 1,
+	    <date value="1997-03">1997</date></p>
+<div2 id="sc19-1.002" n="Democracy Demands Memory" type="Article">
                <head>Democracy Demands Memory</head>
-               <docAuthor>by Julian Bond</docAuthor>
-               <docDate>Vol. 19, No. 1, 1997 pp. 3-4</docDate>
-<argument><p>Julian Bond is a professor at American University in
-Washington, DC and the University of Virginia. Since he was a college
-student leading sit-in demonstrations in Atlanta in 1960, he has been
-an active participant in the movements for civil rights, economic
-justice and peace, and an aggressive spokesman for the
-disinherited.</p></argument>
+               <byline>By <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 3-4</docDate>
+
 <epigraph><p>"I tell my children today they don't know
 anything. You know, when I hear young folk talking about what they
 ain't gonna take, and I like to sit down and tell 'em, 'You haven't
@@ -103,12 +100,29 @@ black-led movement fought against white supremacy. That after nearly one-hundred
 
 <p>At the end of <hi rend="italic">Will The Circle Be Unbroken?</hi>, former Arkansas governor Sid McMath says:</p>
 
-<p>"I think you've got a need for continuing a civil rights movement, that's not just the blacks. Of course the civil rights movement wasn't restricted to blacks. There were a lot of good white people in there. And you need a civil rights movement for everybody. Women need a continuing civil rights movement and the blacks and the Mexicans. They should all join together in the civil rights movement to see that the rights we have are protected and that the laws we have on the books are implemented and that the Bill of Rights is recognized in spirit as well as in the letter of the law. So there's a continued need for the civil rights movement. Civil rights education. Human rights."</p></div2>
+<p>"I think you've got a need for continuing a civil rights movement,
+that's not just the blacks. Of course the civil rights movement wasn't
+restricted to blacks. There were a lot of good white people in
+there. And you need a civil rights movement for everybody. Women need
+a continuing civil rights movement and the blacks and the
+Mexicans. They should all join together in the civil rights movement
+to see that the rights we have are protected and that the laws we have
+on the books are implemented and that the Bill of Rights is recognized
+in spirit as well as in the letter of the law. So there's a continued
+need for the civil rights movement. Civil rights education. Human
+rights."</p>
+<div3 id="sc19-1.022" type="About"><p>Julian Bond is a professor at American University in
+Washington, DC and the University of Virginia. Since he was a college
+student leading sit-in demonstrations in Atlanta in 1960, he has been
+an active participant in the movements for civil rights, economic
+justice and peace, and an aggressive spokesman for the
+disinherited.</p></div3>
+</div2>
 
-<div2 id="sc19-1.staff.002" n="People Who Made the Movement" type="Interview">
+<div2 id="sc19-1.003" n="People Who Made the Movement" type="Interview">
                <head>People Who Made the Movement</head>
-               <docAuthor>Staff</docAuthor>
-               <docDate>Vol. 19, No. 1, 1997 pp. 5-20</docDate>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 5-20</docDate>
 <p rend="italic">The voices you hear in the radio series, Will the Circle Be Unbroken? are edited and assembled from of a treasure trove of more than 250 interviews conducted by the Southern Regional Council and others with women and men who made one of America's most powerful social movements. In lengthier form seven of those interviews are excerpted here, stories largely untold about a few of the acts of conscience and courage that were undertaken by many people from many walks of life.</p>
 <p rend="bold">Uncharted Trail:</p>
 <p rend="bold">Ozell Sutton</p>
@@ -693,14 +707,12 @@ to get any results from doing it. People were talking about breaking ranks and t
 <p>The situation was so tense that we decided that we needed somebody to help us out on this. Lonnie placed a call to Martin, Jr., at home and asked him to come over and speak to the crowd, which he did. He made one of his most moving and compelling speeches I suppose I'd ever heard him make. He didn't really take any side in the matter, but his fervor kind of continued the spirit in the people, and the boycott continued until they were willing to sit down and negotiate a settlement.</p></div2>
 
 
-<div2 id="sc19-1.staff.003" n="The Making of Will The Circle Be Unbroken?:
+<div2 id="sc19-1.004" n="The Making of Will The Circle Be Unbroken?:
       Beyond the Printed Word" type="Interview">
                <head>The Making of Will The Circle Be Unbroken?:
       Beyond the Printed Word</head>
-               <docAuthor>Staff</docAuthor>
-               <docDate>Vol. 19, No. 1, 1997 pp. 22-26</docDate>
-<argument><p></p></argument>
-
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 22-26</docDate>
 <p><hi rend="bold">When Black Belt Press publisher Randall Williams
 suggested in 1978 that the Southern Regional Council publish
 a guidebook to civil rights historic sites in Montgomery, Alabama,
@@ -894,18 +906,10 @@ of political power, lack of respect--you are basing your opinion on
 only half of the story. It's been an education which I really value,
 and it's something that I will never forget.</p></div2>
 
-<div2 id="sc19-1.spears.004" n="Prejudices and Hopes" type="Interview">
-
-
+<div2 id="sc19-1.005" n="Prejudices and Hopes" type="Interview">
                <head>Prejudices and Hopes</head>
-
-
-               <docAuthor>by Ellen Spears</docAuthor>
-
-
-               <docDate>Vol. 19, No. 1, 1997</docDate>
-<argument><p></p></argument>
-
+               <byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997</docDate>
 <p rend="italic">The personal stories in Will The Circle be Unbroken? remind us how recently American apartheid shed the force of law, and at what costs the changes were extracted. These recollections inevitably lead us to consider how things have changed and to identify the work that remains to be done if we are to create an equal society.</p>
 
 <p rend="italic">What do Americans today have to say about current racial attitudes?</p>
@@ -971,10 +975,10 @@ their efforts--against even greater odds--is needed as we tackle the
 next great challenges in winning full equality.</p></div2>
 
 
-<div2 id="sc19-1.staff.005" n="Will The Circle Be Unbroken? Program Listings" type="Interview">
+<div2 id="sc19-1.006" n="Will The Circle Be Unbroken? Program Listings" type="Interview">
                <head>Will The Circle Be Unbroken? Program Listings</head>
-               <docAuthor>Staff</docAuthor>
-               <docDate>Vol. 19, No. 1, 1997</docDate>
+               <byline><docAuthor><name reg="">Staff</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997</docDate>
 
 <p>PROLOGUE</p>
 
@@ -1081,10 +1085,10 @@ high school students' mass protests.</p>
 <p>Bringing the listener up to date. From the people who made the Movement, responses to the following questions: What did the Movement achieve? Is the Movement over? Is there still a need for a Movement today? Written by Julian Bond.</p>
 </div2>
 
-<div2 id="sc19-1.staff.008" n="A Collective Effort" type="Article">
+<div2 id="sc19-1.008" n="A Collective Effort" type="Article">
                <head>A Collective Effort</head>
-               <docAuthor>Staff</docAuthor>
-               <docDate>Vol. 19, No. 1, 1997 pp. 3, 26</docDate>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 3, 26</docDate>
 
 <p>With this issue, <hi rend="italic">Southern Changes</hi> celebrates
 the SRC's civil rights radio documentary series, <hi rend="italic">Will The Circle Be Unbroken?</hi> Perhaps even more than most documentary productions, the radio series represents a collective enterprise. The person who was primarily in charge of the planning was not the person who was primarily in charge of the scripting, and the person who was in charge of the actual pilot programs and now the final programs was not the person who was involved in the original ideas.</p>

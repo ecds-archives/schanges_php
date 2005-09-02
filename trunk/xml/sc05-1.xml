@@ -66,16 +66,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 1,
 	       <date value="1983-01">1983</date></p>
-            <div2 id="sc05-1williams.002" n="Ronald Reagan and the New Republican South" type="Review">
+            <div2 id="sc05-1.002" n="Ronald Reagan and the New Republican South" type="Review">
                <head>
                   <title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
-               <docAuthor>By RANDALL WILLIAMS</docAuthor>
+               <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
-               <argument>
-                  <p>Randall Williams, a writer and editor who lives in
-Montgomery, is a Yellow-dog Democrat.</p>
-               </argument>
                <p>The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
 G.O.P. muscle-building did not begin yesterday. Explaining this fact
@@ -170,22 +166,19 @@ the South but with a looser grip than before.</p>
 progressives, or the New Right apostles who viewed Reagan's election
 as a mandate for them? That remains to be seen, of course, but
 Greenhaw has given us a good look at the landscape.</p>
-            </div2>
-            <div2 id="sc05-1whisnant.003" n="The Smithsonian Collection of Classic Country Music" type="Review">
+            <div3 id="sc05-1.022" type="About">
+                  <p>Randall Williams, a writer and editor who lives in
+Montgomery, is a Yellow-dog Democrat.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.003" n="The Smithsonian Collection of Classic Country Music" type="Review">
                <head>
                   <title>The Smithsonian Collection of Classic Country
 Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</head>
-               <docAuthor>By DAVID E. WHISNANT</docAuthor>
+               <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
-               <argument>
-                  <p>David E. Whisnant is professor of American Studies at the
-University of Maryland, Baltimore County. He is the author of
-<title>All That Is Native and Fine: The Politics of Culture in an
-American Region</title> (University of North Carolina Press,
-1983).</p>
-               </argument>
                <p>
                   <title>Classic Country Music</title>, prepared by Bill C. Malone
 for the Smithsonian Institution, takes one back to the clear
@@ -544,17 +537,18 @@ remains before us, and we who have grown up with the music must do it,
 or relinquish the task to those who know less about our values and
 perspectives than they need to to understand what happened between Eck
 Robertson and Willie Nelson.</p>
-            </div2>
-            <div2 id="sc05-1tullos.004" n="Dressed for the H Bomb" type="Article">
+            <div3 id="sc05-1.023" type="About">
+                  <p>David E. Whisnant is professor of American Studies at the
+University of Maryland, Baltimore County. He is the author of
+<title>All That Is Native and Fine: The Politics of Culture in an
+American Region</title> (University of North Carolina Press,
+1983).</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.004" n="Dressed for the H Bomb" type="Article">
                <head>Figures of Speech--Dressed for the H Bomb</head>
-               <docAuthor>By ALLEN TULLOS</docAuthor>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
-               <argument>
-                  <p>
-                     <title>Figures of Speech</title> is an occasional feature
-of <title>Southern Changes</title> which grants the editor temporary
-license.</p>
-               </argument>
                <p>By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
 procurers. Here was close to a billion dollars for Lockheed-Georgia's
@@ -804,20 +798,20 @@ heard this cheap shot of a song from this disaffected bunch of street
 jeremiahs. In the land of promise, a way was opening. Death was the
 growth industry of the 80's and Megadeath the final index of
 productivity. The bacon would yet come home to roost.</p>
-            </div2>
-            <div2 id="sc05-1hanks.005" n="Political Revolution in a Georgia County" type="Review">
+            <div3 id="sc05-1.024" type="About">
+                  <p>
+                     <title>Figures of Speech</title> is an occasional feature
+of <title>Southern Changes</title> which grants the editor temporary
+license.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.005" n="Political Revolution in a Georgia County" type="Review">
                <head>
                   <title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
 1982.</head>
-               <docAuthor>By LAWRENCE J. HANKS</docAuthor>
+               <byline>By <docAuthor><name reg="Hanks, Lawrence J.">Lawrence J. Hanks</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
-               <argument>
-                  <p>Lawrence J. Hanks is a graduate student in government at
-Harvard University. He is presently studying Hancock County as part of
-his dissertation on black political participation in the rural South
-since the 1965 Voting Rights Act.</p>
-               </argument>
                <p>John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
 most observers felt reached fruition in 1968, the year that blacks
@@ -1031,17 +1025,17 @@ Hancock, for a brief period, served as a national model for black
 political mobilization, especially in the Black-Belt South. Rozier's
 failure to critically examine the merits of this philosophy seriously
 diminishes the value of <title>Black Boss</title>.</p>
-            </div2>
-            <div2 id="sc05-1frederickson.006" n="Myra Page" type="Article">
+            <div3 id="sc05-1.025" type="About">
+                  <p>Lawrence J. Hanks is a graduate student in government at
+Harvard University. He is presently studying Hancock County as part of
+his dissertation on black political participation in the rural South
+since the 1965 Voting Rights Act.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.006" n="Myra Page" type="Article">
                <head>Myra Page: Daughter of the South, Worker for Change</head>
-               <docAuthor>By MARY FREDERICKSON</docAuthor>
+               <byline>By <docAuthor><name reg="Frederickson, Mary">Mary Frederickson</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
-               <argument>
-                  <p>Formerly a research fellow at the Wellesley College
-Center for Research on Women, Mary Frederickson is now assistant
-professor of history at the University of Alabama in Birmingham. This
-article copyright, 1988, by Mary Frederickson.</p>
-               </argument>
                <p>On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
 Yonkers, New York, telling the tale of her most recent
@@ -1440,27 +1434,18 @@ effectively only when black and white joined forces. Symbolically, the
 victory held a special personal significance for Myra Page--Dorothy
 Markey--because it meant that in a sense she had been able to come
 full circle, and to come home.</p>
-            </div2>
-            <div2 id="sc05-1page.007" n="From Southern Cotton Mills and Labor" type="Article">
+            <div3 id="sc05-1.026" type="About">
+                  <p>Formerly a research fellow at the Wellesley College
+Center for Research on Women, Mary Frederickson is now assistant
+professor of history at the University of Alabama in Birmingham. This
+article copyright, 1988, by Mary Frederickson.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.007" n="From Southern Cotton Mills and Labor" type="Article">
                <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
-               <docAuthor>By Myra Page</docAuthor>
+               <byline>By <docAuthor><name reg="Page, Myra">Myra Page</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
-               <argument>
-                  <p>Myra Page (Dorothy Markey) is currently completing an
-autobiographical novel about her early years in Newport News entitled
-<title>Soundings</title>. Under the pen name Myra Page she hats
-written three novels and published numerous articles, stories, and two
-radio plays in <title>The Nation</title>, <title>New Masses</title>,
-<title>American Spectator</title>, and <title>New
-Directions</title>. Articles about the miners' strike in Pennsylvania
-in 1985 and an interview with President Cardenas of Mexico, 1987-88
-appeared in <title>New Masses</title>. Her work as a writer was
-interrupted during the McCarthy era when Viking was to publish
-<title>With Sun in Our Blood</title>, but cancelled the contract; the
-book was subsequently published by New York's Citadel
-Press.</p>
-               </argument>
                <p>The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
 her Bible--you had to or be an outcast in the village--but her
@@ -1545,17 +1530,26 @@ says about th' rich 'n th' poor. They'll git theirs when they die."</p>
                <p>"What else?" she answered.</p>
                <p>"Well, that idea doan satisfy me," I replied, and we were off on an
 argument.</p>
-            </div2>
-            <div2 id="sc05-1staff.008" n="Lillian Smith Book Awards" type="Article">
+            <div3 id="sc05-1.027" type="About">
+                  <p>Myra Page (Dorothy Markey) is currently completing an
+autobiographical novel about her early years in Newport News entitled
+<title>Soundings</title>. Under the pen name Myra Page she hats
+written three novels and published numerous articles, stories, and two
+radio plays in <title>The Nation</title>, <title>New Masses</title>,
+<title>American Spectator</title>, and <title>New
+Directions</title>. Articles about the miners' strike in Pennsylvania
+in 1985 and an interview with President Cardenas of Mexico, 1987-88
+appeared in <title>New Masses</title>. Her work as a writer was
+interrupted during the McCarthy era when Viking was to publish
+<title>With Sun in Our Blood</title>, but cancelled the contract; the
+book was subsequently published by New York's Citadel
+Press.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.008" n="Lillian Smith Book Awards" type="Article">
                <head>The 1982 Lillian Smith Book Awards</head>
-               <docAuthor>By Staff</docAuthor>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
-               <argument>
-                  <p>Mary Frances Derfner is Vice-President of the Southern
-Regional Council and chairperson of the Smith Awards Committee. Other
-committee members for 1982 included Tony Dunbar, John Popham, Wilma
-Dykeman and Lottie Shackelford.</p>
-               </argument>
                <p>The Southern Regional Council's annual Lillian Smith Awards
 Luncheon was held in Atlanta in November as a part of the SRC's annual
 meeting. The awards recognize the year's best fiction and non-fiction
@@ -1868,17 +1862,17 @@ have the knowledge and insight and courage. All have synchronized for
 the first time in history. Do we have the desire? This is a question
 that each of us must answer for himself.</q>
                </p>
-            </div2>
-            <div2 id="sc05-1barber.009" n="Delta Politics and the Almost Possible" type="Article">
+            <div3 id="sc05-1.028" type="About">
+                  <p>Mary Frances Derfner is Vice-President of the Southern
+Regional Council and chairperson of the Smith Awards Committee. Other
+committee members for 1982 included Tony Dunbar, John Popham, Wilma
+Dykeman and Lottie Shackelford.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-1.009" n="Delta Politics and the Almost Possible" type="Article">
                <head>Delta Politics and the Almost Possible</head>
-               <docAuthor>By RIMS BARBER</docAuthor>
+               <byline>By <docAuthor><name reg="BARBER, RIMS">RIMS BARBER</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
-               <argument>
-                  <p>Rims Barber is project director for the Childrens'
-Defense Fund in Mississippi. He is a member of the Southern Regional
-Council and has been active in civil rights issue in Mississippi for
-eighteen years.</p>
-               </argument>
                <p>During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 
 <pb n="5"/>
@@ -2027,7 +2021,13 @@ County. In a room of the county courthouse, the Carthan case was
 suspended one day so the election could be conducted. As things turned
 out, Carthan was acquitted and Robert Clark lost by one percent of the
 total vote. Clark says he is "inclined to try again."</p>
-            </div2>
+            <div3 id="sc05-1.029" type="About">
+                  <p>Rims Barber is project director for the Childrens'
+Defense Fund in Mississippi. He is a member of the Southern Regional
+Council and has been active in civil rights issue in Mississippi for
+eighteen years.</p>
+               </div3>
+               </div2>
          </div1>
       </body>
    </text>

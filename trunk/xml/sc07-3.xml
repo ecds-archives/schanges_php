@@ -64,17 +64,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc07-3.001" n="Southern Changes 7:3" type="Issue">
             <head>Southern Changes.  Volume 7, Number 3,4, 1985</head>
             <p>
-               <title>Southern Changes</title>.  Volume 7, Number 3,4, 1985</p>
-            <div2 id="sc07-3campbell.002" n="Mother Church" type="Article">
+               <title>Southern Changes</title>.  Volume 7, Number 3,4,
+	       <date value="1985-07">1985</date></p>
+            <div2 id="sc07-3.002" n="Mother Church" type="Article">
                <head>Mother Church</head>
-               <docAuthor>Will D. Campbell</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 37-38</docDate>
-               <argument>
-                  <p>The writer was ordained a Baptist preacher in Mississippi
-forty-four years ago this month. This essay is reprinted from
-<title>Christianity and Crisis.</title>
-                  </p>
-               </argument>
+               <byline><docAuthor><name reg="">Will D. Campbell</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
                <p>Shortly after the spring thaw of 1573 a woman prayed for her
 children.</p>
                <p>
@@ -215,17 +210,20 @@ institutionalized tongue screws nor silenced by resoluted bigotry.</p>
 preacher? And how shall they preach, except they be sent?</hi>
                   </q>
                </p>
-            </div2>
-            <div2 id="sc07-3staff.003" n="The National Political Congress of Black Women" type="Article">
+            <div3 id="sc07-3.022" type="About">
+                  <p>The writer was ordained a Baptist preacher in Mississippi
+forty-four years ago this month. This essay is reprinted from
+<title>Christianity and Crisis.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc07-3.003" n="The National Political Congress of Black Women" type="Article">
                <head>Organizing for Empowerment: The National Political Congress of
 Black Women</head>
-               <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 5-9</docDate>
-               <argument>
-                  <p>Sisters Chapel, Spelman College Campus,
-Atlanta. June 7-9,1985.</p>
-               </argument>
-               <div3 id="sc07-3staff.004" n="Excerpts and Observations" type="Section">
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate>
+               
+               <div3 id="sc07-3.004" n="Excerpts and Observations" type="Section">
                   <head>Excerpts and Observations</head>
                   <p>
                      <hi rend="bold">Shirley Chisolm</hi>, president of the National
@@ -350,7 +348,7 @@ represented here that we all need to be in this Congress no matter
 what else we are. Our power comes not from others, but from
 ourselves.</p>
                </div3>
-               <div3 id="sc07-3staff.005" n="Highlights from the NPCB Workshop on Civil Rights" type="Section">
+               <div3 id="sc07-3.005" n="Highlights from the NPCB Workshop on Civil Rights" type="Section">
                   <head>Highlights from the NPCB Workshop on Civil Rights </head>
                   <p>
                      <hi rend="bold">Mary Frances Berry </hi>, law and history professor
@@ -500,7 +498,7 @@ for justice and if you believe in
 justice then your job is to ripen
 the time." And we've got to ripen the time.</p>
                </div3>
-               <div3 id="sc07-3staff.006" n="The State of Black Women" type="Section">
+               <div3 id="sc07-3.006" n="The State of Black Women" type="Section">
                   <head>The State of Black Women</head>
                   <p>
                      <hi rend="bold">Shirley Chisolm </hi>: How exciting it is to stand
@@ -573,14 +571,17 @@ by a new generation of women who are fighters, because the war that is
 being waged on our homefront today is truly a war for the elevation of
 humanity.</p>
                </div3>
-            </div2>
-            <div2 id="sc07-3foxgenovese.007" n="The Women of Fairhope" type="Review">
+            <div3 id="sc07-3.023" type="About">
+                  <p>Sisters Chapel, Spelman College Campus,
+Atlanta. June 7-9,1985.</p>
+               </div3></div2>
+            <div2 id="sc07-3.007" n="The Women of Fairhope" type="Review">
                <head>The Women of Fairhope.  <title>Women of Fairhope,</title> by
 Paul M. Gaston. Mercer University Lamar Memorial Lectures,
 No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
 Press, 1984, 143 pages).</head>
-               <docAuthor>By Elizabeth Fox-Genovese</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 38-40</docDate>
+               <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth">Elizabeth Fox-Genovese</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
                <p>The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
 you could have heard the lectures on which it is based. But whatever
@@ -751,10 +752,10 @@ a small jewel--a series of microcosms of individual women's
 experiences. And he has offered those of his readers who so choose all
 they need to draw more far-reaching conclusions.</p>
             </div2>
-            <div2 id="sc07-3frost.008" n="Sixty five Years in Eufaula" type="Article">
+            <div2 id="sc07-3.008" n="Sixty five Years in Eufaula" type="Article">
                <head>Sixty five Years in Eufaula</head>
-               <docAuthor>By David Frost</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 30-37</docDate>
+               <byline>By <docAuthor><name reg="Frost, David">David Frost</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
                <p>I am DAVID FROST, Jr.</p>
                <p>This is an account of my life in Eufaula, Alabama and my family
 struggle for survival.</p>
@@ -1266,11 +1267,11 @@ found out I cannot run fast anymore. Most of the time when I ran, I
 caught a cramp and fell out. For that reason, I knew the law would
 catch me. I think I will have to stop making moonshine for good.</p>
             </div2>
-            <div2 id="sc07-3src.009" n="Annual Report" type="Article">
+            <div2 id="sc07-3.009" n="Annual Report" type="Article">
                <head>The Southern Regional Council Beginning the Fifth Decade: Our
 Annual Report </head>
-               <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
                <p>1985 marks the forty-first anniversary of the founding of the
 Southern Regional Council. Today, as in the past, the Council's vision
 of the South's future radiates from a belief in democratic
@@ -1287,7 +1288,7 @@ ideas and information, the uses of technology and the
 workplace.</hi>
                   </hi>
                </p>
-               <div3 id="sc07-3src.010" n="Democratic Government in the South" type="Section">
+               <div3 id="sc07-3.010" n="Democratic Government in the South" type="Section">
                   <head>The Ballot Box: Democratic Government in the South</head>
                   <p>
                      <hi rend="italic">-extending research and technical assistance to
@@ -1488,7 +1489,7 @@ period.</item>
                      </item>
                   </list>
                </div3>
-               <div3 id="sc07-3src.011" n="The Schoolhouse" type="Section">
+               <div3 id="sc07-3.011" n="The Schoolhouse" type="Section">
                   <head>The Schoolhouse: Equal Opportunity to an Excellent, Integrated
 Education</head>
                   <p>
@@ -1555,7 +1556,7 @@ education in the South, the final report should be completed in early
 1986 and will become the basis for test litigation and proposals for
 changing public policies.</p>
                </div3>
-               <div3 id="sc07-3src.012" n="The Courthouse" type="Section">
+               <div3 id="sc07-3.012" n="The Courthouse" type="Section">
                   <head>The Courthouse: Just Men and Women in the Institutions of
 Justice </head>
                   <list type="BULLETS">
@@ -1605,7 +1606,7 @@ the federal courts in the South.</p>
                      </item>
                   </list>
                </div3>
-               <div3 id="sc07-3src.013" n="Ideas and Information" type="Section">
+               <div3 id="sc07-3.013" n="Ideas and Information" type="Section">
                   <head>Ideas and Information </head>
                   <list type="BULLETS">
                      <item>
@@ -1793,7 +1794,7 @@ problems and issues.
                      </item>
                   </list>
                </div3>
-               <div3 id="sc07-3src.014" n="More Democratic Use of Technology" type="Section">
+               <div3 id="sc07-3.014" n="More Democratic Use of Technology" type="Section">
                   <head>More Democratic Use of Technology</head>
                   <list type="BULLETS">
                      <item>
@@ -1850,7 +1851,7 @@ state government districts.</p>
                      </item>
                   </list>
                </div3>
-               <div3 id="sc07-3src.015" n="Economic Democracy and the Workplace" type="Section">
+               <div3 id="sc07-3.015" n="Economic Democracy and the Workplace" type="Section">
                   <head>Economic Democracy and the Workplace</head>
                   <list type="BULLETS">
                      <item>
@@ -1957,10 +1958,10 @@ assistance to individuals and groups who are able to bring
 change.</p>
                </div3>
             </div2>
-            <div2 id="sc07-3staff2.016" n="Abandoning Affirmative Action" type="Article">
+            <div2 id="sc07-3.016" n="Abandoning Affirmative Action" type="Article">
                <head>Abandoning Affirmative Action</head>
-               <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 1-2</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate>
                <p>The Reagan Administration stands on the verge of severely weakening
 affirmative action rules for federal contractors. As it is now
 drafted, a proposed Presidential Order eliminates existing
@@ -2048,13 +2049,12 @@ federal contractors, setting his hand to yet one more action in the
 continuing effort to push back twenty years of civil rights
 gains. </p>
             </div2>
-            <div2 id="sc07-3tullos.017" n="Figures of Speech" type="Article">
+            <div2 id="sc07-3.017" n="Figures of Speech" type="Article">
                <head>Figures of Speech: Fish We've Never Seen</head>
-               <docAuthor>Allen Tullos, Tom Rankin</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 10-21</docDate>
-               <argument>
-                  <p>By ALLEN TULLOS; Photographs by TOM RANKIN</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen
+	       Tullos</name>, Photographs by<name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
+               
                <p>An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
 Death Festival was moved this year at the request of the Army Corps of
@@ -2814,17 +2814,10 @@ least forty million years, perhaps never. Some fine tuning is
 inevitable in this. But the main thing is to get the bucks flowing in
 the right direction."</p>
             </div2>
-            <div2 id="sc07-3williams.018" n="Crackdown in the Black Belt" type="Article">
+            <div2 id="sc07-3.018" n="Crackdown in the Black Belt" type="Article">
                <head>Crackdown in the Black Belt: On to Greene County</head>
-               <docAuthor>By Randall Williams</docAuthor>
-               <docDate>Vol. 7, No. 3, 1985, pp. 2-5</docDate>
-               <argument>
-                  <p>This article is based on reporting by Southern Changes
-editors Allen Tullos and Randall Williams and on articles published in
-the Green County Democrat. Previous articles in this series have
-appeared in Southern Changes for March/April and May/June,
-1985. </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+               <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
                <p>Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as
 the Marion Three. Stymied, for the moment, is the Reagan Justice
@@ -3067,7 +3060,14 @@ investigation.</p>
                <p>A more realistic assessment is that the Reagan Justice Department
 is cooperating with local whites intent on reversing and dismantling
 the black movement for democratic political empowerment.</p>
-            </div2>
+           <div3 id="sc07-3.038" type="About">
+                  <p>This article is based on reporting by Southern Changes
+editors Allen Tullos and Randall Williams and on articles published in
+the Green County Democrat. Previous articles in this series have
+appeared in Southern Changes for March/April and May/June,
+1985. </p>
+               </div3>
+                </div2>
          </div1>
       </body>
    </text>

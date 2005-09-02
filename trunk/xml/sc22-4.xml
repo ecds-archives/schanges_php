@@ -62,7 +62,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 	       <date value="2000-12">2000</date></p>
  <div2 id="sc22-4.003" n="Redistricting for Inclusive Democracy" type="Article">
               <head>Redistricting for Inclusive Democracy</head>
-               <docAuthor>By Penda Hair</docAuthor>
+               <byline>By <docAuthor><name reg="Hair, Penda">Penda Hair</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 4-6</docDate>
 
 <p>As a direct result of the Voting Rights Act of 1965, U.S. democracy is more inclusive now than at any time in its history. As our nation faces the next round of redistricting and celebrates the 35th anniversary of the Voting Rights Act, it is important to mark this progress. In 1965, no African American represented any Southern state in Congress. In Congress today, thirteen African Americans represent the states of Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, and Tennessee. The ability of Latinos, Asian Pacific Americans, Native Americans, and other minorites to elect representatives of their choice also has increased significantly. These improvements did not come about voluntarily, but derive largely from enforcement of the Voting Rights Act and particularly from the Act's pressure on jurisdictions to create single-member districts which provide minority constituencies an equal chance to elect their preferred candidates.</p>
@@ -126,12 +126,13 @@ education campaigns. By improving public understanding of the history
 of the Voting Rights Act, and the continuing need for its protection,
 we have the opportunity to shape the electoral landscape in which
 public policy decisions are made.	</p>
- </div2>
+<div3 id="sc22-4.021" type="About"><p>Penda Hair is co-director of the Advancement Project in Washington, D.C., a public policy advocacy organization and resource center devoted to finding, creating, and promoting innovative and effective strategies to advance racial and social justice.</p></div3>
+ 
+</div2>
  <div2 id="sc22-4.004" n="Minority Vote Dilution Is Still Illegal" type="Article">
                <head>Minority Vote Dilution Is Still Illegal</head>
-               <docAuthor>By Brenda Wright</docAuthor>
+               <byline>By <docAuthor><name reg="Wright, Brenda">Brenda Wright</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000</docDate>
-<argument><p>Brenda Wright is managing attorney for the National Voting Rights Institute in Boston, Massachusetts</p></argument>
 <p>The 1990 round of redistricting brought a significant increase in
 minority representation in Congress, state legislatures, and local offices. The key to this success was the creation of many new districts in which minority citizens comprised a majority of the population. The backlash that followed, culminating with the Supreme Court's creation of a new constitutional claim of reverse discrimination in <hi rend="italic">Shaw v. Reno</hi>, is well-known.</p>
 <p>Seven years after <hi rend="italic">Shaw</hi>, with numerous
@@ -204,14 +205,14 @@ census, and given the large number of these districts that have
 survived the decade without a successful challenge under Shaw, the
 nonretrogression principle of Section 5 remains an important tool for
 the 2000 round of redistricting.</p>
-<div3 id="sc22-4.021" type="About"><p>Penda Hair is co-director of the Advancement Project in Washington, D.C., a public policy advocacy organization and resource center devoted to finding, creating, and promoting innovative and effective strategies to advance racial and social justice.</p></div3>
-</div2>
 
+<div3 id="sc22-4.024" type="About"><p>Brenda Wright is managing attorney for the National Voting Rights Institute in Boston, Massachusetts</p></div3>
+</div2>
 <div2 id="sc22-4.005" n="The Supreme Court's Recent Redistricting Decisions:
 Change of Heart or Lack of Interest?" type="Article">
                <head>The Supreme Court's Recent Redistricting Decisions:
 Change of Heart or Lack of Interest?</head>
-               <docAuthor>By Laughlin McDonald</docAuthor>
+               <byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 p. 9</docDate>
 
 <p>After a series of blockbuster decisions beginning with <hi
@@ -249,14 +250,14 @@ suffered an actual injury or dilution of their voting strength and
 that the state intended to discriminate against them. But whether the
 Court will do that, or continue to write the rules to favor majority
 white districts, remains to be seen.  </p>
-<div3 id="sc22-4.022" type="About"><p>Laughlin McDonald is director of the Voting Rights Project at the American Civil Liberties Union's Southern Regional Office.</p></div3>
+<div3 id="sc22-4.025" type="About"><p>Laughlin McDonald is director of the Voting Rights Project at the American Civil Liberties Union's Southern Regional Office.</p></div3>
 </div2>
 
 <div2 id="sc22-4.006" n="The Department of Justice: 
 Enforcing the Voting Rights Act" type="Article">
                <head>The Department of Justice: 
 Enforcing the Voting Rights Act</head>
-               <docAuthor>By Anita Hodgkiss</docAuthor>
+               <byline>By <docAuthor><name reg="Hodgkiss, Anita">Anita Hodgkiss</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 11-12</docDate>
 
 <p>The U.S. Department of Justice (DOJ) has the authority to take steps to protect voting rights when election district lines are changed. The Department can file a lawsuit in court under Section 2 of the Voting Rights Act to challenge racially discriminatory districts anywhere in the country. In certain states and local jurisdictions (see box on page 16), covered by Section 5 of the Voting Rights Act, all changes in laws affecting voting, including redistricting plans, must be submitted to DOJ or to the District Court for the D.C. Circuit, to be reviewed before they can be put into practice. DOJ has sixty days to review redistricting plans submitted under Section 5. The Department will then either grant "preclearance" giving the state or local jurisdiction the go ahead to implement the change, or the Department will object to a redistricting plan if it has the purpose or effect of making minority voters worse off. When DOJ objects to a plan, it does so by writing a letter to the jurisdiction, outlining the reasons why the new plan makes minority voters worse off. (Recent objection letters are available through the Department's website at: www.usdoj.gov/crt/voting/sec_5/obj_activ.htm.)</p>
@@ -314,7 +315,7 @@ with a New Voting Rights Movement" type="Article">
 
  <head>Fighting the "New" Disfranchisement 
 with a New Voting Rights Movement</head>
-               <docAuthor>By Ellen Spears</docAuthor>
+               <byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 p. 14</docDate>
 
 <p>The raft of disfranchising mechanisms, old and new, that served to delegitimize the 2000 presidential election place the need for electoral reform at the top of the national agenda. More than at any time since the passage of the 1965 Voting Rights Act, the workings of the system are exposed, revealing undemocratic practices that affect many voters and pervasive disfranchisement of voters of color. Calls for national unity and healing will have no meaning unless these persistent wrongs-including the overwhelming influence of money in politics-are righted. </p>
@@ -325,12 +326,12 @@ with a New Voting Rights Movement</head>
 <p>Clear principles for judicial review of elections must be set. The Supreme Court majority that decided this election by the slimmest of margins has evidenced hostility toward the Voting Rights Act during the past decade. If legitimacy of elections and the Court are to be retained, uniform standards must be applied.</p>
 <p>Beyond each of these prescriptions lie even deeper structural or institutional reforms:  further consideration of proportional voting and Electoral College reform rank high among them. The South has, once again, wielded disproportionate power in the national election.  Though 53 percent of African-American voters (who vote 90 percent for Democrats) reside in the Southern states, the combined effect of winner-take-all elections and the Electoral College system acts to prevent those votes from counting.  Writes ColorLines magazine editor Bob Wing, "the result was the same as if blacks and other people of color in the region had not voted at all."</p>
 <p>The corrosive power of money in politics places the need for campaign finance reform at the top of this long list. We cannot decry low U.S. voter participation rates, yet fail to act to get money out of politics; we must press for structural reforms to policies that inhibit involvement or deny access. To do so, as Harvard law professor Lani Guinier points out, we need a new voting rights movement. If we hope for a genuine, multiracial democracy, we cannot make obsolete the solemn promise of the vote.</p>
-<div3 id="sc22-4.025" type="About"><p>Ellen Spears is associate director of the Southern Regional Council.  She can be reached by email at espears@southerncouncil.org.</p></div3>
+<div3 id="sc22-4.027" type="About"><p>Ellen Spears is associate director of the Southern Regional Council.  She can be reached by email at espears@southerncouncil.org.</p></div3>
 </div2>
 
-<div2 id="sc22-4.007" n="Racial Discrimination in Florida: Election 2000" type="Article">
+<div2 id="sc22-4.017" n="Racial Discrimination in Florida: Election 2000" type="Article">
                <head>Racial Discrimination in Florida: Election 2000</head>
-               <docAuthor>Staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000</docDate>
 
 <p rend="italic">Testimony about racial discrimination in the Florida elections was received at a hearing sponsord by the NAACP on November 11. Following is one personal story  from the NAACP hearing and an excerpt of a report by the Lawyers Committee for Civil Rights Under Law, the Advancement Project, and The Leadership Conference on Civil Rights documenting charges of racial discrimination on November 7, 2000, as minority voters exercised their right to vote in Florida. For more information, visit www.lawyerscomm.org.</p>
@@ -367,9 +368,9 @@ jurisdictions under Section 5 of the Voting Rights Act. </p>
 <p rend="center"><hi rend="bold">Democracy Denied</hi></p>
 <p>The allegations of exclusion and intimidation that civil rights investigations have uncovered show a possible pattern of disfranchisement of large numbers of minority voters in several counties. African-American, Haitian-American, and Hispanic voters who tried to vote, and who made heroic efforts to overcome barriers and refusals, must not be left voiceless in our democracy.</p>
 </div2>
-<div2 id="sc22-4.007" n="Voting Rights and the New Majorities" type="Article">
+<div2 id="sc22-4.008" n="Voting Rights and the New Majorities" type="Article">
                <head>Voting Rights and the New Majorities</head>
-               <docAuthor>By Angelo Ancheta</docAuthor>
+               <byline>By <docAuthor><name reg="Ancheta, Angelo">Angelo Ancheta</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 17-18</docDate>
 
 <p>The passage of the 1965 Voting Rights Act helped reshape the American electorate and led to dramatic increases in the number of elected officials of color, particularly in the South. The year 1965 also marked a major shift in American immigration policy: removing discriminatory national origin quotas from the law, and spurring significant growth in the number of immigrants from Asia and Latin America-a trend that continues today.</p>
@@ -393,9 +394,9 @@ minority interests. Minority populations <pb n="18"/>that share common character
 <p>Coalition building is never easy, but it may provide the best hope for minority empowerment in an increasingly multi-ethnic America.	</p>
 <div3 id="sc22-4.026" type="About"><p>Angelo Ancheta is the Director of Legal and Advocacy Programs for  the Civil Rights Project at Harvard University. From 1994 to 1998, he was the executive director of the San Francisco-based Asian Law Caucus, which is the nation's oldest civil rights legal organization focusing on the Asian-American population.</p></div3>
 </div2>
-<div2 id="sc22-4.008" n="Why Don't Youth Vote? Young People Respond" type="Article">
+<div2 id="sc22-4.009" n="Why Don't Youth Vote? Young People Respond" type="Article">
                <head>Why Don't Youth Vote? Young People Respond</head>
-               <docAuthor>Staff</docAuthor>
+               <byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 18-19</docDate>
 
 <p rend="italic">The following comments were excerpted from the Center for Voting and Democracy's Spring 2000 youth essay contest which asked college and high school students to respond to the question, Why Don't Youth Vote? The writers quoted, mostly college students, suggested changes to the electoral system that might increase political participation among young people and explained their reasons for participating in or abstaining from our political and electoral systems.</p>
@@ -446,9 +447,9 @@ information about YEP, email the Fair Representation Program at:
 fairrep@southerncouncil.org. Call 404-522-8764, or visit
 www.southerncouncil.org.</p>
 </div2>
-<div2 id="sc22-4.009" n="Fair Policies through Effective Redistricting" type="Article">
+<div2 id="sc22-4.010" n="Fair Policies through Effective Redistricting" type="Article">
                <head>Fair Policies through Effective Redistricting</head>
-               <docAuthor>By Mike Sayer</docAuthor>
+               <byline>By <docAuthor><name reg="Sayer, Mike">Mike Sayer</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 p. 20</docDate>
 
 <p>In 1992, a three-judge federal court in Mississippi approved a
@@ -471,9 +472,9 @@ community organizations, consistently <hi rend="italic">defeated</hi> efforts by
 <p>The presence of this strong minority representation has had a great impact on public policy. In 1997, the state legislature, for the first time, injected $650 million over five years into public education. In 2000, the state legislature, under pressure from the grassroots Mississippi Education Working Group  adopted provisions in the education accountability plan that requires parents and students to be actively involved in the formation, adoption, and implementation.</p>
 <p>The involvement of  grassroots black activists and groups in redistricting was the key to enabling the black population to elect accountable representatives in sufficient numbers to have an effect upon the formation of public policy at the state, county, and local levels. </p>
 </div2>
-<div2 id="sc22-4.0010" n="The Power of Grassroots Organizing" type="Article">
+<div2 id="sc22-4.011" n="The Power of Grassroots Organizing" type="Article">
                <head>The Power of Grassroots Organizing</head>
-               <docAuthor>By Mike Sayer</docAuthor>
+               <byline>By <docAuthor><name reg="Sayer, Mike">Mike Sayer</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 p. 21</docDate>
 
 <p>When people work together, they build their capacity to make things happen or not happen. They build power. The capacity to impact public policy is increased when people and grassroots organizations work to establish redistricting policies and plans that are responsive to their needs and interests.</p>
@@ -509,13 +510,13 @@ exercises. Rather, redistricting is usually <hi rend="italic">result or outcome<
 <p>Other values or goals must be taken into account in drawing the plans. But, the redistricting process is sufficiently flexible to permit plans to serve several goals. It is extremely important for grassroots groups to participate effectively to protect and ensure that their interests are reflected in the plans adopted.</p>
 <p>Grassroots communities need to build strength through unity and unity through organization in order to make their collective voice heard. They should insist on the right to provide input and feedback to those who are drawing the plans, whether they are working for the public officials or are engaged in drawing alternative plans. </p>
 <p>Grassroots and community groups need to identify people who can develop the tools and skills of redistricting. Community people bring local expertise to the table. They know where people actually live; what the issues are that bring people together or divide them in terms of race, class, education, and other considerations; where common interests lie; which groups will be willing to work together to support candidates on particular issues and which will not; which groups of people actually vote and which do not; at which locations people are willing to go to vote and which locations are intimidating to people and will discourage voting; and which political parties people support and where they live.</p>
-<div3 id="sc22-4.027" type="About"><p>Mike Sayer is program director of Southern Echo, a grassroots organization in Jackson, Mississippi.</p></div3>
+<div3 id="sc22-4.028" type="About"><p>Mike Sayer is program director of Southern Echo, a grassroots organization in Jackson, Mississippi.</p></div3>
 </div2>
-<div2 id="sc22-4.0011" n="Winning Fair Representation with 
+<div2 id="sc22-4.012" n="Winning Fair Representation with 
 Alternative Voting Systems" type="Article">
                <head>Winning Fair Representation with 
 Alternative Voting Systems</head>
-               <docAuthor>By Rob Richie</docAuthor>
+               <byline>By <docAuthor><name reg="Richie, Rob">Rob Richie</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 22-24</docDate>
 
 <p>Experts suggest that some 95 percent of black representation in the next decade will be won or lost in the upcoming redistricting. Without substantial numbers of black voters in districts, very few black candidates will win; the U.S. Senate is the most notorious example of the negative impact of racial block voting-with its lack of black or Latino members a direct consequence of no state having a black or Latino majority.</p>
@@ -568,11 +569,11 @@ voting systems-its first national study in a decade.</item>
 </list>
 </p>
 <p>The goal of proportional systems is simple: providing means to allow fair and realistic opportunities for citizens to elect individuals of their own choosing. While no cure-all, they are a practical, tested approach to winning fair representation.</p>
-<div3 id="sc22-4.028" type="About"><p>Rob Richie is executive director of the Center for Voting and Democracy. For more information about the Center and proportional voting systems, visit www.fairvote.org.</p></div3>
+<div3 id="sc22-4.029" type="About"><p>Rob Richie is executive director of the Center for Voting and Democracy. For more information about the Center and proportional voting systems, visit www.fairvote.org.</p></div3>
 </div2>
-<div2 id="sc22-4.0012" n="Changing Census, Changing America" type="Article">
+<div2 id="sc22-4.013" n="Changing Census, Changing America" type="Article">
                <head>Changing Census, Changing America</head>
-               <docAuthor>By Edward Still</docAuthor>
+               <byline>By <docAuthor><name reg="Still, Edward">Edward Still</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 pp. 24-26</docDate>
 
 <p>Every census is different from the last, but there are some big changes in store with Census 2000. Beginning in early March 2001, the Bureau will publish census data for each state to use in redistricting. What new things can we expect from this census?  To begin with, we will have access to census data more easily via computer. The Census Bureau will be posting census data on its website, www.census.gov and a separate site for the American Factfinder, www.factfinder.census.gov. More importantly, the data will be different from past censuses. I want to discuss two changes: the racial data and the sampling controversy.</p>
@@ -622,11 +623,11 @@ fights over whether to use adjusted figures for redistricting. There
 will be fights over the proper interpretation of the racial
 statistics. As usual, more data means more interpretations-with
 everyone wanting to interpret the data for their own purposes.</p>
-<div3 id="sc22-4.029"><p>Edward Still is co-director of  Voting Rights Project at the Lawyer's Committee for Civil Rights Under  Law in Washington, D.C.</p></div3>
+<div3 id="sc22-4.030"><p>Edward Still is co-director of  Voting Rights Project at the Lawyer's Committee for Civil Rights Under  Law in Washington, D.C.</p></div3>
 </div2>
-<div2 id="sc22-4.0012" n="SRC Launches Nation's First Online Redistricting Service" type="Article">
+<div2 id="sc22-4.014" n="SRC Launches Nation's First Online Redistricting Service" type="Article">
                <head>SRC Launches Nation's First Online Redistricting Service</head>
-               <docAuthor>By Angela Lee</docAuthor>
+               <byline>By <docAuthor><name reg="Lee, Angela">Angela Lee</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000</docDate>
 
 <p>In the past, one of the chief obstacles used to exclude minorities from participation in the redistricting process has been the obstruction from easy access to technical redistricting tools and skills. Without an independent capacity to determine how majority-minority districts can be built, minority populations cannot confidentially know how many seats they have been denied, how many seats they might seek, and where those seats can be created. Members of minorities simply cannot achieve fair representation through full enforcement of the Voting Rights Act of 1965 without unobstructed access to redistricting technology and the skill to use it. Online redistricting, a groundbreaking new  service by the Southern Regional Council (SRC), makes the biggest strides towards bridging the gap created to disfranchise minority voters. </p>
@@ -653,13 +654,13 @@ where <pb n="28"/>blacks comprised 52 percent and 58 percent of the population a
 <p>In addition to helping clients draw their own redistricting plans, the SRC makes its redistricting staff experts available to testify at public hearings in support of the community-based plans they help create. This additional expert-backing is what Roosevelt Walters, president of the Ft. Lauderdale branch of the NAACP, says set the SRC's online service apart from similar redistricting tools. He explained:</p>
 <p>"Mr. Hagen's word carried a lot of weight when we presented our map to the county. I could have stood up there all day and said what I felt was right, but it helped to have an outside expert with redistricting knowledge there to give support. With the SRC staff at the meeting, we felt comfortable in front of the county's experts, even when they asked us difficult technical questions about the map we created. Since we had our experts there, we were prepared to answer any of their questions. We couldn't have done any of this without the SRC's help."</p>
 <p>So, what does it all mean? "Using online redistricting," says Hagens, "community-based groups will, for the first time, be able to easily draw and revise representational districts which defend their interests as they define those interests. Online redistricting aids in reversing the roles of political elites and ordinary voters in the redistricting process. Online redistricting helps to move influence over where it belongs--in the hands of the people." 	</p>
-<div3 id="sc22-4.030" type="About"><p>Angela Lee is a graduate of the University of Virginia who currently volunteers her writing services to a number of local organizations in the Atlanta area.</p></div3>
+<div3 id="sc22-4.031" type="About"><p>Angela Lee is a graduate of the University of Virginia who currently volunteers her writing services to a number of local organizations in the Atlanta area.</p></div3>
 </div2>
-<div2 id="sc22-4.0012" n="Redistricting in the Computer Age:
+<div2 id="sc22-4.015" n="Redistricting in the Computer Age:
 A Review of Maptitude for Redistricting" type="Article">
                <head>Redistricting in the Computer Age:
 A Review of <title>Maptitude for Redistricting</title></head>
-               <docAuthor>By Mekonnen Gessesse</docAuthor>
+               <byline>By <docAuthor><name reg="Gessesse, Mekonnen">Mekonnen Gessesse</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000 p. 29</docDate>
 
 <p>Gone are the days when paper, map markers, and desk calculators were used to draw redistricting plans. By the 1990s, personal computer or PC-based mapping became widespread. Geographic Information System (GIS) technology has combined hardware, software, and data to analyze and display spatial information on a computer screen that is easy to understand and manipulate. The PC-based GIS programs were introduced when the encoded geographic data known as the TIGER (Topologically Integrated Geographic Encoding and Referencing) system was introduced on CD-ROM disks providing easy access via DOS and Windows.</p>
@@ -677,9 +678,9 @@ redistricting. Of these, ARCInfo, Arch View GIS, and GIS Plus are the most impor
 <p>Maptitude for Redistricting includes a redistricting data CD, one year of maintenance (software upgrades and data updates), and ninety days of technical support. Call Caliper at 617-527-4700 for more information and prices.	</p>
 <div3 id="sc22-4.032" type="About"><p>Mekonnen Gessesse is a senior program officer in the Fair Representation Programs at the Southern Regional Council.</p></div3>
 </div2>
-<div2 id="sc22-4.0013" n="In Memoriam: Hosea Williams 1926 - 2000" type="Article">
+<div2 id="sc22-4.016" n="In Memoriam: Hosea Williams 1926 - 2000" type="Article">
                <head>In Memoriam: Hosea Williams 1926 - 2000</head>
-               <docAuthor>By Sarah Torian</docAuthor>
+               <byline>By <docAuthor><name reg="Torian, Sarah">Sarah Torian</name></docAuthor></byline>
                <docDate value="2000-12">Vol. 22, No. 4, 2000</docDate>
 
 <p>On November 16, 2000, one week to the day before the thirtieth annual Feed the Hungry Thanksgiving dinner that would serve more than 40,000 homeless and low-income Atlantans, lifelong civil rights activist Hosea Williams succumbed to his battle with cancer.</p>

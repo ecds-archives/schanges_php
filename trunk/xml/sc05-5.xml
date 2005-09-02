@@ -64,15 +64,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc05-5.001" n="Southern Changes 5:5" type="Issue">
             <head>Southern Changes.  Volume 5, Number 5, 1983</head>
             <p>
-               <title>Southern Changes</title>.  Volume 5, Number 5, 1983</p>
-            <div2 id="sc05-5suitts.002" n="Checking the Teeth of Change" type="Article">
+               <title>Southern Changes</title>.  Volume 5, Number 5,
+	       <date value="1983-10">1983</date></p>
+            <div2 id="sc05-5.002" n="Checking the Teeth of Change" type="Article">
                <head>Checking the Teeth of Change</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, p. 6</docDate>
-               <argument>
-                  <p>Steve Suitts is the executive director of the Southern
-Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
                <p>The obvious changes in Southern politics usually deserve our most
 intense suspicions, and Mississippi's recent democratic primary
 election for the state legislature is only the most recent reminder of
@@ -167,20 +164,15 @@ shorthand, the nature of political change is also easily manipulated
 in the public understanding. The folk wisdom, "the more things change,
 the more they stay the same," is worth remembering in these days of
 changing Southern politics.</p>
-            </div2>
-            <div2 id="sc05-6sherman.003" n="A Reapportionment Primer" type="Article">
+            <div3 id="sc05-5.022" type="About">
+                  <p>Steve Suitts is the executive director of the Southern
+Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.003" n="A Reapportionment Primer" type="Article">
                <head>Drawing the Lines: A Reapportionment Primer</head>
-               <docAuthor>By BRIAN SHERMAN</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 12-18</docDate>
-               <argument>
-                  <p>Brian Sherman is a clinical sociologist who works as a
-research analyst for the Voting Rights Project of the Southern
-Regional Council. He has drawn alternate reapportionment plans for
-over twenty jurisdictions and is author of an empirical study of voter
-discrimination in Georgia: <title>Half a Foot in the
-Door.</title>
-                  </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sherman, Brian">Brian Sherman</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
                <p>Reapportionment occurs, or at least should occur, every ten
 years--when the results of the population census are released. Three
 years after the 1980 census, some jurisdictions (states, counties,
@@ -627,12 +619,21 @@ still be excluded completely from the reapportionment process in the
 South and be absent from elected positions altogether. Yet, much more
 white resistance must be overcome before blacks will gain fair
 treatment.</p>
-            </div2>
-            <div2 id="sc05-5morgan.004" n="Southern Honor: Ethics and Behavior in the Old South" type="Review">
+            <div3 id="sc05-6.023" type="About">
+                  <p>Brian Sherman is a clinical sociologist who works as a
+research analyst for the Voting Rights Project of the Southern
+Regional Council. He has drawn alternate reapportionment plans for
+over twenty jurisdictions and is author of an empirical study of voter
+discrimination in Georgia: <title>Half a Foot in the
+Door.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc05-5.004" n="Southern Honor: Ethics and Behavior in the Old South" type="Review">
                <head>Bertram Wyatt-Brown. <title>Southern Honor: Ethics and Behavior
 in the Old South.</title> Oxford University Press, 1982.</head>
-               <docAuthor>By LYNDA MORGAN</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 22-24</docDate>
+               <byline>By <docAuthor><name reg="Morgan, Lynda">Lynda Morgan</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 22-24</docDate>
                <p>In his <title>History of the Southern Confederacy,</title>
 published in 1954, Clement Eaton noted that students of the American
 South needed to pay more attention to "Southern honor" and its role in
@@ -786,14 +787,10 @@ questions of time and place, of class and race and of the changing
 socioeconomic environment and its impact on culture. In short, there
 is more to Southern honor than Wyatt-Brown is telling us.</p>
             </div2>
-            <div2 id="sc05-5minor.005" n="White Politics in a Black Land" type="Article">
+            <div2 id="sc05-5.005" n="White Politics in a Black Land" type="Article">
                <head>White Politics in a Black Land</head>
-               <docAuthor>By BILL MINOR</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
-               <argument>
-                  <p>Bill Minor, a longtime observer of Mississippi polities,
-lives in Jackson. </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Minor, Bill">Bill Minor</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
                <p>It was the sort of affair which a few years ago would have been
 unthinkable in Mississippi: an NAACP fundraising luncheon in
 Vicksburg, the Civil War "Gibraltar of the Confederacy," and almost
@@ -1353,16 +1350,15 @@ consolidated power, the prospect looms for at least four more years of
 waiting for change. What impact the black legislators can have in the
 meantime depends upon a dole system, in whose features lie a glimpse
 of plantation days.</p>
-            </div2>
-            <div2 id="sc05-5dixon.006" n="Testing for Competency" type="Article">
+            <div3 id="sc05-5.025" type="About">
+                  <p>Bill Minor, a longtime observer of Mississippi polities,
+lives in Jackson. </p>
+               </div3>
+               </div2>
+            <div2 id="sc05-5.006" n="Testing for Competency" type="Article">
                <head>Testing for Competency</head>
-               <docAuthor>By HORTENSE DIXON</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 20-22</docDate>
-               <argument>
-                  <p>Hortense Dixon is profesor of home economics at Texas
-Southern University and serves on the executive committee of the
-Southern Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Dixon, Hortense">Hortense Dixon</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
                <p>Twenty-one states now base teacher certification on the results of
 competency tests. These tests measure what is considered to be "basic
 knowledge" appropriate for the eighth grade level. At the same time,
@@ -1513,22 +1509,16 @@ pursuit of public policy not private advantage.</p>
 must be sure that what we teach is of value and that how we teach
 fosters an unquenchable desire to learn. Competency testing does
 neither.</p>
-            </div2>
-            <div2 id="sc05-5long.007" n="Aaron Henry from Clarksdale" type="Article">
+            <div3 id="sc05-5.026" type="About">
+                  <p>Hortense Dixon is profesor of home economics at Texas
+Southern University and serves on the executive committee of the
+Southern Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-5.007" n="Aaron Henry from Clarksdale" type="Article">
                <head>Aaron Henry from Clarksdale</head>
-               <docAuthor>By WORTH LONG</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 9-12</docDate>
-               <argument>
-                  <p>The following autobiographical recollections of Aaron
-Henry (born 1922 in Coahoma County, Mississippi) sketch his
-involvement in the movement for black civil rights up to the formation
-of the Mississippi Freedom Democratic Party and the Democratic
-National Convention of 1964. Presented here in an excerpted and edited
-form, this interview, conducted earlier this year by Worth Long, is
-one in a series documenting the modern civil rights movement in the
-Deep South. Worth Long is director of the SRC's Civil Rights Radio
-Project.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Long, Worth">Worth Long</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
                <p>This is Aaron Henry and I'm from Clarksdale, have always lived
 here. Born outside of the city limits on a plantation called Flowers'
 Brothers. It's still out there. I grew up chopping cotton, picking
@@ -1794,16 +1784,22 @@ arguing for the Voting Rights Act of 1965. Ninety-thousand blacks in
 Mississippi who knew that their votes couldn't count but who were
 willing to cast them to demonstrate their concern for the right to
 vote.</p>
-            </div2>
-            <div2 id="sc05-5chaney.008" n="Black Women's Health Conference" type="Article">
+            <div3 id="sc05-5.027" type="About">
+                  <p>The following autobiographical recollections of Aaron
+Henry (born 1922 in Coahoma County, Mississippi) sketch his
+involvement in the movement for black civil rights up to the formation
+of the Mississippi Freedom Democratic Party and the Democratic
+National Convention of 1964. Presented here in an excerpted and edited
+form, this interview, conducted earlier this year by Worth Long, is
+one in a series documenting the modern civil rights movement in the
+Deep South. Worth Long is director of the SRC's Civil Rights Radio
+Project.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-5.008" n="Black Women's Health Conference" type="Article">
                <head>Black Women's Health Conference</head>
-               <docAuthor>By BETTY NORWOOD CHANEY</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, pp. 18-20</docDate>
-               <argument>
-                  <p>Betty Norwood Chaney, a former editor of <title>Southern
-Changes</title>, lives in Atlanta where she is a teacher, mother, and
-freelance writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
                <p>In 1970 Byllye Avery had it made. She was married to a wonderful
 man. He was college educated and had a good job. They owned their
 home, had a station wagon and two children. They were a black family
@@ -1917,14 +1913,19 @@ and other cable television systems.</p>
                      <p>Individuals or groups who seek more information should contact the
 Black Women's Health Project, M.L. King, Jr. Health Center, 450 Auburn
 Avenue, Suite 157, Atlanta, Georgia 30312, (404) 659-3854.</p>
-            </div2>
-            <div2 id="sc05-5staff2.009" n="Findings from U.S. Commission on Civil Rights" type="Article">
+            <div3 id="sc05-5.028" type="About">
+                  <p>Betty Norwood Chaney, a former editor of <title>Southern
+Changes</title>, lives in Atlanta where she is a teacher, mother, and
+freelance writer.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-5.009" n="Findings from U.S. Commission on Civil Rights" type="Article">
                <head>Findings from U.S. Commission on Civil Rights, <title>A Growing
 Crisis: Disadvantaged Women and Their Children,</title> May
 1983.</head>
-               <docAuthor>By Staff</docAuthor>
-               <docDate>Vol. 5, No. 5, 1983, p. 19</docDate>
-               <p>¥ In its 1982 report on health insurance coverage and employment
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 19</docDate>
+              <list><item> In its 1982 report on health insurance coverage and employment
 for minorities and women, the U.S. Commission on Civil Rights noted
 that black, Hispanic, and other minority women were disproportionately
 without any type of insurance coverage in case of illness. The report
@@ -1933,16 +1934,16 @@ minorities and women are not found in those groups normally insured by
 private insurance companies. Noting that the insurance industry is not
 adequately equipped to meet the needs of these minorities and women,
 the report endorsed passage of national health insurance
-legislation.</p>
-               <p>¥ Minority women and children have extraordinarily high rates of
+legislation.</item>
+               <item> Minority women and children have extraordinarily high rates of
 morbidity and mortality. For example, in 1979 black women had a
 maternal mortality rate about four times that of white women and their
 children were twice as likely to die as white infants. The substantial
 differences in maternal mortality and infant mortality between groups
 and differences in utilization of services suggest that significant
 barriers to good health exist that are not related to differences in
-need.</p>
-               <p>¥ Disadvantaged women, particularly minority women, suffer from
+need.</item>
+               <item> Disadvantaged women, particularly minority women, suffer from
 a variety of health problems associated with poverty and, in some
 instances, their race or ethnicity. Disadvantaged black women have
 higher rates of breast and cervical cancer than other groups. Among
@@ -1951,27 +1952,27 @@ population, health problems are compounded by exposure to potentially
 harmful pesticides, debilitating living environments, and little or no
 access to health care. Poor, rural, white women have health care
 problems compounded by the extreme deprivations of poverty,
-poor-sanitation and malnutrition.</p>
-               <p>¥ Significant barriers to health care confronting disadvantaged
+poor-sanitation and malnutrition.</item>
+               <item> Significant barriers to health care confronting disadvantaged
 women are (1) lack of a regular primary source of care for routine
 services; (2) language and cultural differences for Hispanic women;
 (3) the cost of health care; and (4) inadequate transportation to
-facilities relocated outside of inner cities.</p>
-               <p>¥ Research documents that the medical establishment tends to
+facilities relocated outside of inner cities.</item>
+               <item> Research documents that the medical establishment tends to
 diagnose a majority of female complaints as psychosomatic while
 treating the complaints of male patients more seriously. This has led
 to a tendency to overprescribe drugs to women more than to men,
-particularly mood-modifying drugs.</p>
-               <p>¥ Poverty, particularly when linked with single parenthood, poor
+particularly mood-modifying drugs.</item>
+               <item> Poverty, particularly when linked with single parenthood, poor
 education, and the presence of young children, is a major cause of
 emotional stress. Stress can elicit destructive responses, such as
 alcoholism, drug abuse, depressive violence, and various forms of
 mental illness. Disadvantaged women living in poverty experience
-higher lovers of stress than other subgroups.</p>
-               <p>¥ Disadvantaged children have a greater susceptibility to
+higher lovers of stress than other subgroups.</item>
+               <item> Disadvantaged children have a greater susceptibility to
 serious health complications than other children. Poor children are
 also less likely to receive immunizations against dangerous childhood
-diseases or have routine checkups than are their peers.</p>
+diseases or have routine checkups than are their peers.</item></list>
                <p>For many black, white, and Hispanic women. poverty means inadequate
 and infrequent use of medical services, reduced employment
 opportunities, and increased household responsibilities. Children,

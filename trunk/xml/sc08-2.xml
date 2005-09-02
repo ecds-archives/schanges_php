@@ -63,23 +63,14 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc08-2.001" n="Southern Changes 8:2" type="Issue">
             <head>Southern Changes.  Volume 8, Number 2, 1986</head>
             <p>
-               <title>Southern Changes</title>.  Volume 8, Number 4, 1986</p>
-            <div2 id="sc08-2smith.002" n="Women in the Rural South" type="Article">
+               <title>Southern Changes</title>.  Volume 8, Number 4,
+	       <date value="1986-04">1986</date></p>
+            <div2 id="sc08-2.002" n="Women in the Rural South" type="Article">
                <head>Women in the Rural South: Scraping a Living from Two-bit
 Jobs</head>
-               <docAuthor>By BARBARA ELLEN SMITH</docAuthor>
-               <docDate>Vol. 8, No. 1, 1986, pp. 5-8</docDate>
-               <argument>
-                  <p>Barbara Ellen Smith is director of research and education
-of the Southeast Women's Employment Coalition, Lexington,
-Kentucky. Her essay is the introduction to Picking Up the Pieces, a
-new booklet by the Highlander Research and Education Center, in which
-thirty women from ten communities throughout the South talk about
-their lives--their growth as community leaders, their struggles for
-integrity and economic survival. Picking Up the Pieces is $5 per copy
-plus $1 postage from Highlander Center, Route 3, Box 370, New Market,
-TN 37820.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Smith, Barbara Ellen">Barbara Ellen Smith</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 1, 1986, pp. 5-8</docDate>
+               
                <p>Southern working class women are survivors. No message emerges as
 vividly from the stories in this booklet, Picking Up the Pieces. All
 of these women scraped their livings out of rocky soil and two-bit
@@ -302,17 +293,23 @@ indeed, it is a terrible indictment of the southern economy. Working
 class women must share in the benefits of southern growth and
 prosperity. Justice decrees it, equity requires it and, increasingly,
 southern women demand it.</p>
-            </div2>
-            <div2 id="sc08-2lilly.003" n="Women in the Rural South" type="Article">
+            <div3 id="sc08-2.022" type="About">
+                  <p>Barbara Ellen Smith is director of research and education
+of the Southeast Women's Employment Coalition, Lexington,
+Kentucky. Her essay is the introduction to Picking Up the Pieces, a
+new booklet by the Highlander Research and Education Center, in which
+thirty women from ten communities throughout the South talk about
+their lives--their growth as community leaders, their struggles for
+integrity and economic survival. Picking Up the Pieces is $5 per copy
+plus $1 postage from Highlander Center, Route 3, Box 370, New Market,
+TN 37820.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.003" n="Women in the Rural South" type="Article">
                <head>Women in the Rural South: Toward Economic Equity</head>
-               <docAuthor>By LESLIE LILLY</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 5, 8-11</docDate>
-               <argument>
-                  <p>Leslie Lilly is executive director of the Southeast
-Women's Employment Coalition. This essay is taken from an extensively
-researched report: <title>Women of the Rural South</title>. For order
-information see page 6.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Lilly, Leslie">Leslie Lilly</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 5, 8-11</docDate>
+               
                <p>There is a sense of place and time about the South that distorts
 even as it amplifies its outward character to the nation. We are a
 region of great diversity even as we pursue the rejection of that
@@ -529,22 +526,18 @@ a movement for race and sex equity, your vision. We have generational
 responsibility to uphold and the strength and capability to meet its
 challenges. Stand up, reach out, and let the future unroll as if you
 mattered. In this movement, every person counts!</p>
-            </div2>
-            <div2 id="sc08-2thompson.004" n="The Risks at Oak Ridge" type="Article">
+            <div3 id="sc08-2.023" type="About">
+                  <p>Leslie Lilly is executive director of the Southeast
+Women's Employment Coalition. This essay is taken from an extensively
+researched report: <title>Women of the Rural South</title>. For order
+information see page 6.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.004" n="The Risks at Oak Ridge" type="Article">
                <head>The Risks at Oak Ridge</head>
-               <docAuthor>By JOANNE THOMPSON</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 15-16</docDate>
-               <argument>
-                  <p>Joanne Thompson, Ph.D., is executive director of the
-Tennessee Valley Energy Coalition and an adjunct faculty member with
-the University of Tennessee School of Social Work. TVEC's address is
-1407 East 5thAuenz e, Knoxville, TN 37917. Call 615-637-6055. This
-article, and the one following <add>[Debra Castaldo.  "Oak Ridge
-Wastes Varied, Extensive"]</add> are reprinted from <title>The Sierra
-Club Waste Paper</title>, published quarterly by the Sierra Club
-Radioactive Waste Campaign, 625 Broadway, New York, NY
-10012.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Thompson, Joanne">Joanne Thompson</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 15-16</docDate>
+               
                <p>Ever since World War II, under the protective umbrella of national
 security, nuclear facilities at Oak Ridge, Tennessee, have operated
 with minimal outside scrutiny. Companies under contract with the
@@ -661,17 +654,24 @@ facility. The Sierra Club Radioactive Waste Campaign is working with
 TVEC, the Highlander Center, Tennessee Chapter of the Sierra Club, and
 other Tennessee groups to halt the spread of groundwater contamination
 from Oak Ridge facilities.</p>
-            </div2>
-            <div2 id="sc08-2castaldo.005" n="Millions of Pounds of Uranium" type="Article">
+            <div3 id="sc08-2.024" type="About">
+                  <p>Joanne Thompson, Ph.D., is executive director of the
+Tennessee Valley Energy Coalition and an adjunct faculty member with
+the University of Tennessee School of Social Work. TVEC's address is
+1407 East 5thAuenz e, Knoxville, TN 37917. Call 615-637-6055. This
+article, and the one following <add>[Debra Castaldo.  "Oak Ridge
+Wastes Varied, Extensive"]</add> are reprinted from <title>The Sierra
+Club Waste Paper</title>, published quarterly by the Sierra Club
+Radioactive Waste Campaign, 625 Broadway, New York, NY
+10012.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.005" n="Millions of Pounds of Uranium" type="Article">
                <head>Millions of Pounds of Uranium--Oak Ridge Wastes Varied,
 Extensive</head>
-               <docAuthor>By DEBRA CASTALDO</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 16-17</docDate>
-               <argument>
-                  <p>Debra Castaldo is a freelance writer with ten years
-experience in private industry and state/federal government
-environmental management programs.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Castaldo, Debra">Debra Castaldo</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 16-17</docDate>
+               
                <p>The Oak Ridge Reservation (ORR) located in Oak Ridge, Tennessee, is
 owned and operated by the US Department of Energy (DOE). The ORR
 includes three plants: Y-12 Plant, Oak Ridge Gaseous Diffusion Plant
@@ -728,18 +728,20 @@ Environmental Impact Statement September 1984. Since soil permeability
 is quite low, the landfill alternative is favored over an above-ground
 system. But the hydrogeology of the site is quite complex, and
 migration is difficult to predict.</p>
-            </div2>
-            <div2 id="sc08-2lamar.006" n="The Civil Rights Movement in Tuskegee" type="Review">
+            <div3 id="sc08-2.025" type="About">
+                  <p>Debra Castaldo is a freelance writer with ten years
+experience in private industry and state/federal government
+environmental management programs.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.006" n="The Civil Rights Movement in Tuskegee" type="Review">
                <head>
                   <title>Reaping the Whirlwind: The Civil Rights Movement in
 Tuskegee</title> by Robert J. Norrell. New York: Alfred A. Knopf,
 1985. $19.95</head>
-               <docAuthor>Reviewed by HOWARD R. LAMAR</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 21-24</docDate>
-               <argument>
-                  <p>Howard R. Lamar is William R. Coe Professor of American
-History, Yale University, and a native of Tuskegee.</p>
-               </argument>
+               <byline>Reviewed by <docAuthor><name reg="Lamar, Howard R.">Howard R. Lamar</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 21-24</docDate>
+               
                <p>In the preface to <title>Reaping the Whirlwind: The Civil Rights
 Movement in Tuskegee</title>, Robert J. Norrell writes that: "It is
 about power: whites trying to keep control of their society and blacks
@@ -955,17 +957,16 @@ the Whirlwind</title> has set high standards for future case studies--which are
 needed, for as Norrell himself has noted, "only when many of these
 stories are told will the South's great social upheaval be well
 understood."</p>
-            </div2>
-            <div2 id="sc08-2lawson.007" n="Gradualism, South Africa, and Civil Rights" type="Article">
+            <div3 id="sc08-2.026" type="About">
+                  <p>Howard R. Lamar is William R. Coe Professor of American
+History, Yale University, and a native of Tuskegee.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.007" n="Gradualism, South Africa, and Civil Rights" type="Article">
                <head>Gradualism, South Africa, and Civil Rights</head>
-               <docAuthor>By STEVEN F. LAWSON</docAuthor>
-               <docDate>Vol. 8, No. 1, 1986, pp. 1-3</docDate>
-               <argument>
-                  <p>Steven F. Lawson is Professor of History at the
-University of South Florida, Tampa, and author of <title>In Pursuit of
-Power: Southern Blacks and Electoral Politics, 1965-1982</title>
-(Columbia University Press).</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Lawson, Steven F.">Steven F. Lawson</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 1, 1986, pp. 1-3</docDate>
+               
                <p>In February 1986, a white student from the University of Cape Town
 in South Africa paid a visit to my campus at the University of South
 Florida in Tampa. Twenty-six years after black students in the
@@ -1087,16 +1088,18 @@ never did and it never will."</p>
 shallow and morally bankrupt today as were those offered by southern
 gradualists during our age of civil rights. They did not succeed then,
 and they are doomed to fail in South Africa.</p>
-            </div2>
-            <div2 id="sc08-2rogers.008" n="Maggie Lee Sayre" type="Article">
+            <div3 id="sc08-2.027" type="About">
+                  <p>Steven F. Lawson is Professor of History at the
+University of South Florida, Tampa, and author of <title>In Pursuit of
+Power: Southern Blacks and Electoral Politics, 1965-1982</title>
+(Columbia University Press).</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.008" n="Maggie Lee Sayre" type="Article">
                <head>Maggie Lee Sayre--A Glimpse of Shantyboat Life</head>
-               <docAuthor>By TOM ROGERS</docAuthor>
-               <docDate>Vol. 8, No. 1, 1986, pp. 12-14</docDate>
-               <argument>
-                  <p>Tom Rogers is a staff writer for the Nashville
-<title>Tennessean</title>--where this article originally
-appeared.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Rogers, Tom">Tom Rogers</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 1, 1986, pp. 12-14</docDate>
+               
                <p>Maggie Lee Sayre, born deaf, never heard water slap boat
 thwarts. Yet during her half century on the Tennessee River she
 compiled an unrivaled record of life there.</p>
@@ -1217,15 +1220,17 @@ nerve rackin' like factory work. You ain't got somebody on your
 shoulder yelling 'Make production, Make production'-If there comes a
 day that you don't feel like going out there, you can stay at
 home. It's a good way of life."</p>
-            </div2>
-            <div2 id="sc08-2minor.009" n="Claude Ramsay, 1916-1986" type="Article">
+            <div3 id="sc08-2.028" type="About">
+                  <p>Tom Rogers is a staff writer for the Nashville
+<title>Tennessean</title>--where this article originally
+appeared.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.009" n="Claude Ramsay, 1916-1986" type="Article">
                <head>Claude Ramsay, 1916-1986</head>
-               <docAuthor>By BILL MINOR</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 17-18</docDate>
-               <argument>
-                  <p>Longtime Mississippi political columnist Bill Minor lives
-in Jackson.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Minor, Bill">Bill Minor</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 17-18</docDate>
+               
                <p>In death, Claude Ramsay belatedly was paid homage the other day by
 a lot of big politicians and some of his long-time foes around the
 Legislature as the best friend working people in Mississippi ever
@@ -1312,15 +1317,16 @@ Insurance subcommittee, House members failed to pass the bill.</p>
                <p>Claude wasn't around for the demise of this year's workers'
 benefits bill. But in lieu of eulogies and flowers, I'm sure he would
 rather see injured Mississippi workers get a better deal.</p>
-            </div2>
-            <div2 id="sc08-2riley.010" n="Claude Ramsay-A Life for Mississippi workers" type="Article">
+            <div3 id="sc08-2.029" type="About">
+                  <p>Longtime Mississippi political columnist Bill Minor lives
+in Jackson.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc08-2.010" n="Claude Ramsay-A Life for Mississippi workers" type="Article">
                <head>Claude Ramsay-A Life for Mississippi workers</head>
-               <docAuthor>By STEVE RILEY</docAuthor>
-               <docDate>Vol. 8, No. 2, 1986, pp. 19, 21</docDate>
-               <argument>
-                  <p>Steve Riley is a staff writer for the Jackson (Miss.)
-Clarion-Ledger.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Riley, Steve">Steve Riley</name></docAuthor></byline>
+               <docDate value="1986-04">Vol. 8, No. 2, 1986, pp. 19, 21</docDate>
+               
                <p>When Claude Ramsay retired late last year, the longtime Mississippi
 labor chief started shopping for a shotgun. After twenty-six turbulent
 years of fighting racism and anti-union sentiment in a state steeped
@@ -1449,7 +1455,11 @@ shame that he didn't get to enjoy his retirement."</p>
 life he lived made up for not getting a long retirement," said Robert
 Walker of Vicksburg, a Warren County supervisor and former field
 secretary of the NAACP in Mississippi. "He didn't work for that."</p>
-            </div2>
+            <div3 id="sc08-2.030" type="About">
+                  <p>Steve Riley is a staff writer for the Jackson (Miss.)
+Clarion-Ledger.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

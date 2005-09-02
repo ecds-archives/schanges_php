@@ -65,12 +65,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             <p>
                <title>Southern Changes</title>.  Volume 4, Number 3,
 	       <date value="1982-06">1982</date></p>
-            <div2 id="sc04-3tullos.002" n="Against the Grain" type="Review">
+            <div2 id="sc04-3.002" n="Against the Grain" type="Review">
                <head>
                   <title>Against the Grain: Southern Radicals and Prophets,
 1929-1959.</title> Edited by Anthony P. Dunbar, Charlottesville:
 University Press of Virginia, 1981.</head>
-               <docAuthor>ALLEN TULLOS</docAuthor>
+               <byline><docAuthor><name reg="">Allen Tullos</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 14-15</docDate>
                <p>The past remains as unpredictable as ever. As proof, we have Tony
 Dunbar's fine book, <title>Against the Grain</title>. From scattered,
@@ -158,16 +158,12 @@ poems and song texts. The type is large and easily readable and the
 overall design speaks of that rarest of modern productions, a work of
 thought and care.</p>
             </div2>
-            <div2 id="sc04-3wilson.003" n="Murder At Broad River Bridge" type="Review">
+            <div2 id="sc04-3.003" n="Murder At Broad River Bridge" type="Review">
                <head>
                   <title>Murder At Broad River Bridge.</title> By Bill Shipp,
 Atlanta: Peachtree Publishers, 1981, $8.95.</head>
-               <docAuthor>By GRANT WILSON</docAuthor>
+               <byline>By <docAuthor><name reg="Wilson, Grant">Grant Wilson</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 15</docDate>
-               <argument>
-                  <p>Grant Wilson is a freelance writer and an aspiring
-gentleman farmer in Kensington, Ga.</p>
-               </argument>
                <p>Lemuel Penn was killed without cause and anonymously by members of
 the Ku Klux Klan outside Athens, Gal, in 1964. His murder was only one
 of dozens in the Civil Rights era but his colonel's rank in the army
@@ -201,10 +197,14 @@ book reminds us that no matter what its guise the Klan deals out
 violence, death and injustice which have to be countered. The lesson
 must be that old battles don't always stay won but must be fought
 again and again.</p>
-            </div2>
-            <div2 id="sc04-3tullos2.004" n="Figures of Speech" type="Article">
+            <div3 id="sc04-3.023" type="About">
+                  <p>Grant Wilson is a freelance writer and an aspiring
+gentleman farmer in Kensington, Ga.</p>
+               </div3>
+               </div2>
+            <div2 id="sc04-3s2.004" n="Figures of Speech" type="Article">
                <head>Figures of Speech--Can a Country Boy Survive?</head>
-               <docAuthor>By ALLEN TULLOS</docAuthor>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 1-3</docDate>
                <p>You have to stay up awful late in Alabama nowadays to put nostalgia
 and melancholy under the table. In cahoots, Action News and the
@@ -369,9 +369,9 @@ sings, "Maybe you better wait a little bit longer, before you come
 back and give me another chance." It is a promising tune which
 Alabamians ought to consider in this season of survival.</p>
             </div2>
-            <div2 id="sc04-3suitts.005" n="Reagan's Way of Eliminating Poverty" type="Article">
+            <div2 id="sc04-3.005" n="Reagan's Way of Eliminating Poverty" type="Article">
                <head>Reagan's Way of Eliminating Poverty</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 11-12</docDate>
                <p>Last month the Census Bureau confirmed that Southerners remain
 closer kin to poverty than anyone else in the country. Southern
@@ -459,14 +459,10 @@ momentum, the schemes of the "Wily Fox" and other past vocal and
 silent Southern politicians who fought aid to the black poor may look
 increasingly generous by comparison.</p>
             </div2>
-            <div2 id="sc04-3staff.006" n="The Race Toward Reapportionment" type="Article">
+            <div2 id="sc04-3.006" n="The Race Toward Reapportionment" type="Article">
                <head>The Race Toward Reapportionment</head>
-               <docAuthor>By Staff</docAuthor>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 18-24</docDate>
-               <argument>
-                  <p>This report was prepared by the staff of the Southern
-Regional Council</p>
-               </argument>
                <p>Billboards and television commercials of earnest faces and subdued
 colors are inviting many Southerners already to think about the
 virtues of candidates for the November elections. Back in the halls of
@@ -1132,17 +1128,16 @@ than for blacks. Calling reapportionment a "ghettoizing" of blacks and
 a promotion of Republican districts, these Democrats argue that the
 next General Assembly will be more hostile to black interests. Most
 black leaders find the claims unpersuasive.</p>
-            </div2>
-            <div2 id="sc04-3israel.007" n="Ending the Short Stick In Mississippi's Woods" type="Article">
+<div3 id="sc04-3.026" type="About">
+                  <p>This report was prepared by the staff of the Southern
+Regional Council</p>
+               </div3>
+               </div2>
+            <div2 id="sc04-3.007" n="Ending the Short Stick In Mississippi's Woods" type="Article">
                <head>Ending the Short Stick In Mississippi's Woods</head>
-               <docAuthor>By TOM ISRAEL and RANDAEL WILLIAMS</docAuthor>
+               <byline><docAuthor><name reg="Israel, Tom">By Tom
+	       Israel</name> and <name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 16-18</docDate>
-               <argument>
-                  <p>Tom Israel is the lead organizer for the United Wood
-cutters Association. This article is adapted from his remarks at a
-recent conference hosted in Montgomery by thee Southern Poverty Law
-Center, where Randall Williams is employed.</p>
-               </argument>
                <p>Pine trees are commonplace, but timber is an industry, especially
 in the South where forests stretch from Houston to the Carolinas. In
 Mississippi today, timber is the largest provider of manufacturing
@@ -1279,15 +1274,18 @@ states whose working conditions are equally as dangerous, whose pay is
 equally as low, and whose isolation is equally as limiting.</p>
                <p>For these woodcutters, it seems, imitation of the Mississippi
 example may be the first step on the road out of poverty.</p>
-            </div2>
-            <div2 id="sc04-3beecher.008" n="ENSLEY, ALABAMA" type="Article">
+            <div3 id="sc04-3.027" type="About">
+                  <p>Tom Israel is the lead organizer for the United Wood
+cutters Association. This article is adapted from his remarks at a
+recent conference hosted in Montgomery by the Southern Poverty Law
+Center, where Randall Williams is employed.</p>
+               </div3>
+               </div2>
+            <div2 id="sc04-3.008" n="Ensley, Alabama" type="Article">
                <head>ENSLEY, ALABAMA: 1932</head>
-               <docAuthor>By John Beecher</docAuthor>
+               <byline>By <docAuthor><name reg="Beecher, John">John Beecher</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 17</docDate>
-               <argument>
-                  <p> From <title>Collected Poems</title>, 1924-1974 by John
-Beecher, New York: MacMillan, 1974.</p>
-               </argument>
+               
                <lg type="stanza">
                   <l>The mills are down.</l>
                   <l>The hundred stacks</l>
@@ -1320,10 +1318,15 @@ deep smoulder of an iron run </l>
 more </l>
                   <l>now mills and men are down. </l>
                </lg>
-            </div2>
-            <div2 id="sc04-3dyer.009" n="The Lost Colony of North Carolina" type="Article">
+            <div3 id="sc04-3.028" type="About">
+                  <p> From <title>Collected Poems</title>, 1924-1974 by John
+Beecher, New York: MacMillan, 1974.</p>
+               </div3>
+</div2>
+            <div2 id="sc04-3.009" n="The Lost Colony of North Carolina" type="Article">
                <head>The Lost Colony of North Carolina</head>
-               <docAuthor>By DONNA DYER and FRANK ADAMS</docAuthor>
+               <byline><docAuthor><name reg="Dyer, Donna">By Donna
+	       Dyer</name> and <name reg="Adams, Frank">Frank Adams</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 3-11</docDate>
                <epigraph>
                   <p>"We don't have poverty in Hertford County. People live
@@ -1331,16 +1334,7 @@ like that because they want to. They don't want it any other
 way"--L.M. "Mutt" Brinkley, Hertford County
 Commissioner.</p>
                </epigraph>
-               <argument>
-                  <p>Donna Dyer and Frank Adams are natives of eastern North
-Carolina. Ms. Dyer is a principal with Triangle Planners Network,
-Inc., a nonprofit corporation offering planning and technical
-assistance to community groups. Mr. Adams is the author of Unearthing
-Seeds of Fire: The Idea of Highlander and is a community educator who
-now lives in Gatesville. Maps and illustrative materials for this
-article were prepared by Marge Manderson of the SRC
-staff.</p>
-               </argument>
+               
                <p>In speaking of the rural poor of Northeastern North Carolina,
 Sister Mary Genino, a Catholic nun who has worked in the region for
 three years, acknowledges a bewildering configuration of
@@ -2017,22 +2011,28 @@ apply pressure on absentee owners, state politicians, county
 administrators, and policymakers at every level. We must close the gap
 between the "lost colony" and the state to which we pledge allegiance
 and pay taxes.</p>
-            </div2>
-            <div2 id="sc04-3dowe.010" n="Paying the Price In Pickens County" type="Article">
+            <div3 id="sc04-3.029" type="About">
+                  <p>Donna Dyer and Frank Adams are natives of eastern North
+Carolina. Ms. Dyer is a principal with Triangle Planners Network,
+Inc., a nonprofit corporation offering planning and technical
+assistance to community groups. Mr. Adams is the author of Unearthing
+Seeds of Fire: The Idea of Highlander and is a community educator who
+now lives in Gatesville. Maps and illustrative materials for this
+article were prepared by Marge Manderson of the SRC
+staff.</p></div3>
+               </div2>
+            <div2 id="sc04-3.010" n="Paying the Price In Pickens County" type="Article">
                <head>Paying the Price In Pickens County</head>
-               <docAuthor>By KELLY DOWE</docAuthor>
+               <byline><docAuthor><name reg="Dowe, Kelly">By Kelly Dowe</name></docAuthor></byline>
                <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 13-14</docDate>
-               <argument>
-                  <p>Kelly Dowe its a freelance writer who lives in
-Birmingham, Alabama.</p>
-               </argument>
+               
                <p>When 69-year-old Julia Wilder of rural Pickens County, Alabama, was
 allowed to transfer from the Julia Tutwiler Prison for Women to a work
 release program in Tuskegee last January, she praised God in
 thanksgiving.</p>
                <p>"I thank God for opening the minds of the people here to help us. I
 knew he would work in his own way," said the elderly black woman. She
-and her longtime fellow civil rights worker, 51year-old Maggie
+and her longtime fellow civil rights worker, 51-year-old Maggie
 Bozeman, were imprisoned Jan. 11 for a 1979 conviction on three counts
 of voting fraud. All-white Pickens juries had found them guilty of
 marking ballots for elderly and illiterate blacks in the 1978
@@ -2239,7 +2239,10 @@ missed a golden opportunity," Seay said.</p>
                <p>"That's what this is all about--the efforts of two old black women
 to assist functionally illiterate aged and infirmed blacks to cast
 their votes."</p>
-            </div2>
+            <div3 id="sc04-3.020" type="About">
+                  <p>Kelly Dowe its a freelance writer who lives in
+Birmingham, Alabama.</p>
+               </div3></div2>
          </div1>
       </body>
    </text>

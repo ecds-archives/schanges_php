@@ -63,15 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc10-2.001" n="Southern Changes 10:2" type="Issue">
             <head>Southern Changes.  Volume 10, Number 2, 1988</head>
             <p>
-               <title>Southern Changes</title>.  Volume 10, Number 2, 1988</p>
-            <div2 id="sc10-2davenport.002" n="Texas Leads in Pesticide Right-to-Know" type="Article">
+               <title>Southern Changes</title>.  Volume 10, Number 2,
+	       <date value="1988-03">1988</date></p>
+            <div2 id="sc10-2.002" n="Texas Leads in Pesticide Right-to-Know" type="Article">
                <head>Texas Leads in Pesticide Right-to-Know</head>
-               <docAuthor>By ELAINE DAVENPORT</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, p. 7</docDate>
-               <argument>
-                  <p>Freelance reporter Elaine Davenport divides her time
-between Austin, Texas, and London, England.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, p. 7</docDate>
+               
                <p>One of Texas Agricultural Commissioner Jim Hightower's pet projects
 has come to fruition, and he is calling it "the beginning of a new
 age of enlightenment in the agricultural workplace."</p>
@@ -125,17 +123,17 @@ priority because he thinks agriculture should stop and take a look at
 chemicals. "They are a habit and an expense," says
 Hightower. "We should see if chemicals are warranted in terms of
 the long-run ecological effect."</p>
-            </div2>
-            <div2 id="sc10-2williams.003" n="Changing of the Era in Mississippi" type="Article">
+            <div3 id="sc10-2.022" type="About">
+                  <p>Freelance reporter Elaine Davenport divides her time
+between Austin, Texas, and London, England.</p>
+               </div3>
+	    </div2>
+            <div2 id="sc10-2.003" n="Changing of the Era in Mississippi" type="Article">
                <head>Changing of the Era in Mississippi<lb/>  ...A Southern
 Tragedy</head>
-               <docAuthor>By ED WILLIAMS</docAuthor>
-               <docDate>Vol. 10, No. 3, 1988, p. 10</docDate>
-               <argument>
-                  <p>Ed Williams is editor of the <title>Charlotte
-Observer</title>'s editorial pages, from which this article is
-reprinted.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Williams, Ed">Ed Williams</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 3, 1988, p. 10</docDate>
+               
                <p>I remember Ross Barnett as a wonderful phrase-maker. In those more
 trusting days, nobody thought that he might just be good at delivering
 phrases made by witty writers, as John Kennedy was then and Ronald
@@ -199,16 +197,17 @@ times.</p>
                <p>Remember, Ross Barnett was governor of Mississippi at the same time
 Terry Sanford was governor of North Carolina. The difference in the
 two men says a lot about the differences in the two states.</p>
-            </div2>
-            <div2 id="sc10-2mabus.004" n="Our Day Has Come" type="Article">
+            <div3 id="sc10-2.023" type="About">
+                  <p>Ed Williams is editor of the <title>Charlotte
+Observer</title>'s editorial pages, from which this article is
+reprinted.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.004" n="Our Day Has Come" type="Article">
                <head>...'Our Day Has Come'</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 3, 1988, p. 10-11</docDate>
-               <argument>
-                  <p>This is the text of the recent inaugural speech of Ray
-Mabus, the new governor of Mississippi and a member of the Southern
-Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 3, 1988, p. 10-11</docDate>
+               
                <p>My fellow Mississippians: Our day has come, and what a glorious day
 it is.</p>
                <p>This is our day of hope and destiny, and we are eager to be about
@@ -316,13 +315,18 @@ those we put on ourselves.</p>
 with a pride in our people and with the courage to do what is
 right.</p>
                <p>Our day has come, so help us God.</p>
-            </div2>
-            <div2 id="sc10-2staff.005" n="Increasing Worker Participation" type="Article">
+            <div3 id="sc10-2.024" type="About">
+                  <p>This is the text of the recent inaugural speech of Ray
+Mabus, the new governor of Mississippi and a member of the Southern
+Regional Council.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.005" n="Increasing Worker Participation" type="Article">
                <head>Increasing Worker Participation Is Essential to Economic
 Growth</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 10, No. 3, 1988, pp. 18-19</docDate>
-               <argument>
+               <byline>By <docAuthor><name reg="STAFF">STAFF</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 3, 1988, pp. 18-19</docDate>
+               
                   <p>The 1987 annual meeting of the Southern Regional Council
 was organized as a conference on Unheard Voices: Worker Participation
 in the South's: Economy. Participants included men and women from all
@@ -331,7 +335,7 @@ day care, economic development, government, finance, agriculture and
 other fields. At the conclusion of the conference, the statement below
 was adopted. Following the statement are excerpts from the remarks of
 selected participants.</p>
-               </argument>
+               
                <p>
                   <hi rend="bold">CONFERENCE STATEMENT</hi>
                </p>
@@ -438,13 +442,11 @@ economy; however, they will give a meaningful voice to workers and go
 further than other efforts to help assure future prosperity for all
 citizens and communities.</p>
             </div2>
-            <div2 id="sc10-2gladney.006" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc10-2.006" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
-               <docAuthor>Edited by ROSE GLADNEY</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 27-28</docDate>
-               <argument>
-                  <p>Rose Gladney is an assistant professor of American
-Studies at the University of Alabama, Tuscaloosa.</p>
+               <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 27-28</docDate>
+               
                   <p>The following is the third in a series of letters selected from the
 correspondence of Lillian Smith This issue's selection (from a carbon
 copy in the Lillian Smith Papers at Emory University) is from a letter
@@ -503,7 +505,7 @@ opinion; she always could translate her long-range philosophical
 perspective into concrete practices.</p>
                   <p>As with so many of her letters, this one seems uncomfortably timely
 to contemporary readers.</p>
-               </argument>
+               
                <p>June 3, 1946</p>
                <p>Dear Fellow Members:</p>
                <p>I have been asked to go to India on the American Famine Mission at
@@ -626,15 +628,15 @@ fundamental approach to our racial and economic and political problems
 may in the end prove to be the best and most efficient way to work. I
 know we cannot do much with this until after election.</p>
                <p>Sincerely yours, Lillian Smith</p>
-            </div2>
-            <div2 id="sc10-2chestnut.007" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc10-2.026" type="About">
+                  <p>Rose Gladney is an assistant professor of American
+Studies at the University of Alabama, Tuscaloosa.</p></div3>
+</div2>
+            <div2 id="sc10-2.007" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, p. 32</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, p. 32</docDate>
+               
                <p>MOTHER: Child, I told you all your life that white folks is
 trouble. Treat them right but keep your distance.</p>
                <p>DAUGHTER: But, Momma Jean, I didn't do nothing wrong. I told the
@@ -700,18 +702,16 @@ know more about it than I do. You take care of my child. And tell your
 Momma I will be to see her after the church revival ends. I have some
 talk for her.</p>
                <p>Peace.</p>
-            </div2>
-            <div2 id="sc10-2hightower.008" n="Pulling Farms Out of the Hole" type="Article">
+            <div3 id="sc10-2.027" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.008" n="Pulling Farms Out of the Hole" type="Article">
                <head>Pulling Farms Out of the Hole</head>
-               <docAuthor>By JIM HIGHTOWER</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 5-8</docDate>
-               <argument>
-                  <p>Jim Hightower is serving his second four-year term as the
-elected Texas commissioner of agriculture. His comments are excerpted
-from an address to the ninth annual convention of the American
-Agriculture Movement, which met in January in Wichita,
-Kansas.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hightower, Jim">Jim Hightower</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 5-8</docDate>
+               
                <p>The good news for American farmers in 1988 is that the farm crisis
 has officially been declared "over" by the Reagan Administration. The
 bad news is that their good news is a lie.</p>
@@ -914,18 +914,22 @@ establish a crop disaster program.</p>
                <p>Simply stated, this is the single best approach that exists for
 pulling good farmers, overburdened taxpayers and the rural economy out
 of the hole.</p>
-            </div2>
-            <div2 id="sc10-2sullivan.009" n="Cause at Heart" type="Review">
+            <div3 id="sc10-2.028" type="About">
+                  <p>Jim Hightower is serving his second four-year term as the
+elected Texas commissioner of agriculture. His comments are excerpted
+from an address to the ninth annual convention of the American
+Agriculture Movement, which met in January in Wichita,
+Kansas.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.009" n="Cause at Heart" type="Review">
                <head>
                   <title>Cause at Heart: A Former Communist Remembers</title> by
 Junius Irving Scales and Richard Nickson. (Athens: University of
 Georgia Press, 1987.427 pages. $24.95.)</head>
-               <docAuthor>By PATRICIA SULLIVAN</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 29-31</docDate>
-               <argument>
-                  <p>Patricia Sullivan teaches history at Emory
-University.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 29-31</docDate>
+               
                <p>In 1946 the Interracial Committee for North Carolina (CNC) of the
 Southern Conference for Human Welfare considered support for a bill
 pending in the state legislature for the construction of a new
@@ -1154,21 +1158,16 @@ American workers. Junius Scales's "God" may have failed. But the
 struggle for economic and racial justice which challenged his youthful
 idealism remains a powerful reality, yet to penetrate the mainstream
 of American political discourse.</p>
-            </div2>
-            <div2 id="sc10-2steverson.010" n="Septima P. Clark 1898-1987" type="Article">
+            <div3 id="sc10-2.029" type="About">
+                  <p>Patricia Sullivan teaches history at Emory
+University.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.010" n="Septima P. Clark 1898-1987" type="Article">
                <head>Septima P. Clark 1898-1987</head>
-               <docAuthor>By BILL STEVERSON</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 12-16</docDate>
-               <argument>
-                  <p>Septima Poinsette Clark died December 15,
-1987, at a nursing home on John's Island, S.C. She was 89 years old,
-and during her long, productive life had been involved in many of the
-most significant civil rights struggles of the century. Her words
-below are excerpted from an interview recorded in 1983 by Worth Long
-and Randall Williams for the Southern Regional Council's Civil Rights
-Radio Documentaries Project.</p>
-                  <p>Edited by BILL STEVERSON</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Steverson, Bill">Bill Steverson</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 12-16</docDate>
+               
                <p>I WAS BORN IN CHARLESTON, S.C., the same place where I am living
 now. My father was a slave on the Joel Poinsette plantation. He came
 out of slavery not feeling one bit of violence. I'm glad that he gave
@@ -1613,15 +1612,22 @@ everything else. That was the way we got them to come together. If
 change is to come, we've got to get groups together who think about
 the things that need to be done, otherwise you don't get change to
 come. </p>
-            </div2>
-            <div2 id="sc10-2sanders.011" n="What Price Are We Willing to Pay?" type="Article">
+            <div3 id="sc10-2.030" type="About">
+                  <p>Septima Poinsette Clark died December 15,
+1987, at a nursing home on John's Island, S.C. She was 89 years old,
+and during her long, productive life had been involved in many of the
+most significant civil rights struggles of the century. Her words
+below are excerpted from an interview recorded in 1983 by Worth Long
+and Randall Williams for the Southern Regional Council's Civil Rights
+Radio Documentaries Project.</p>
+                  <p>Edited by BILL STEVERSON</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.011" n="What Price Are We Willing to Pay?" type="Article">
                <head>What Price Are We Willing to Pay?</head>
-               <docAuthor>By ROSE SANDERS</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 23-24</docDate>
-               <argument>
-                  <p>Rose Sanders practices law and community activism in
-Selma, Ala.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Sanders, Rose">Rose Sanders</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 23-24</docDate>
+               
                <p>Since I have been in the South it has come to my attention that the
 Black Belt has the greatest potential of any region in this country to
 reach economic independence with equity and justice.</p>
@@ -1725,15 +1731,15 @@ ideals and to old ways of thinking and doing things.</p>
 no homeless people, if we want to decently educate every child, if we
 want to end hunger--what price are we willing to pay to make this
 happen?</p>
-            </div2>
-            <div2 id="sc10-2raynor.012" n="Unions Must Move Past the Plant Gates" type="Article">
+            <div3 id="sc10-2.031" type="About">
+                  <p>Rose Sanders practices law and community activism in
+Selma, Ala.</p>
+               </div3></div2>
+            <div2 id="sc10-2.012" n="Unions Must Move Past the Plant Gates" type="Article">
                <head>Unions Must Move Past the Plant Gates</head>
-               <docAuthor>By BRUCE RAYNOR</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 22-23</docDate>
-               <argument>
-                  <p>Bruce Raynor is the Southern regional director and an
-international vice president of ACTWU.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Raynor, Bruce">Bruce Raynor</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 22-23</docDate>
+               
                <p>The subject of the economic development of the South is never
 complete without some talk of the role of organized labor. Despite
 economic development, despite tremendous gains in other parts of the
@@ -1837,14 +1843,16 @@ a more just society. Millions of people here in the South have been
 economically, politically, and socially excluded from sharing power. I
 believe the labor movement offers an opportunity for people to break
 the barriers that separate the disfranchised.</p>
-            </div2>
-            <div2 id="sc10-2mcbride.013" n="Talking Down Reform" type="Article">
+            <div3 id="sc10-2.032" type="About">
+                  <p>Bruce Raynor is the Southern regional director and an
+international vice president of ACTWU.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.013" n="Talking Down Reform" type="Article">
                <head>Talking Down Reform: Filibustering Campaign Reform</head>
-               <docAuthor>By ANN McBRIDE</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 4-5</docDate>
-               <argument>
-                  <p>Ann McBride is the Senior Vice President of Common Cause.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="McBride, Ann">Ann McBride</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 4-5</docDate>
+               
                <p>During February, the cots were back in the United States
 Capitol. For the first time in years, the Senate was involved in an
 extended round-the-clock filibuster-endless debate to thwart the will
@@ -1986,17 +1994,15 @@ corrupt. Every citizen knows it. So does every legislator."</p>
 Archibald Cox has noted, most scandals involve broken laws. In the
 case of the campaign financing scandal, the laws themselves are the
 scandal and they must be changed.</p>
-            </div2>
-            <div2 id="sc10-2lamm.014" n="Community Development Corporations" type="Article">
+            <div3 id="sc10-2.033" type="About">
+                  <p>Ann McBride is the Senior Vice President of Common Cause.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.014" n="Community Development Corporations" type="Article">
                <head>Community Development Corporations</head>
-               <docAuthor>By CAROL LAMM</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 19-20</docDate>
-               <argument>
-                  <p>For the last nine years I have worked for MACED, the
-Mountain Association for Community Economic Development. From an
-office in Berea, Kentucky, MACED works in the central Appalachian
-Mountains.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Lamm, Carol">Carol Lamm</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 19-20</docDate>
+               
                <p>Over the years, MACED has worked at economic development from many
 angles. We began by providing technical assistance to worker
 cooperatives and then went on to work with locally owned private
@@ -2100,17 +2106,19 @@ made the mortgages available to considerably lower income families
 than would have qualified otherwise.</p>
                <p>We chose that point of intervention very strategically to make a
 difference.</p>
-            </div2>
-            <div2 id="sc10-2johnson.015" n="Framing the Debate from a Worker's View" type="Article">
+            <div3 id="sc10-2.034" type="About">
+                  <p>For the last nine years I have worked for MACED, the
+Mountain Association for Community Economic Development. From an
+office in Berea, Kentucky, MACED works in the central Appalachian
+Mountains.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.015" n="Framing the Debate from a Worker's View" type="Article">
                <head>Framing the Debate from a Worker's View</head>
-               <docAuthor>By KEN JOHNSON</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 24-25</docDate>
-               <argument>
-                  <p>Ken Johnson is director of the Southern Labor Institute
-and co-author of <title>The Climate for Workers in the United
-States.</title>
-                  </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Johnson, Ken">Ken Johnson</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 24-25</docDate>
+               
+               
                <p>For more than two decades, Southern governments, Chambers of
 Commerce, business supporters and others, when measuring the South's
 economic well-being and quality of life, have framed the debate on
@@ -2226,14 +2234,18 @@ likely to see much change in their personal conditions. Reversing
 these trends, of course, will depend largely on our ability and
 willingness to increase worker participation in both public policy and
 the workplace decision making process.</p>
-            </div2>
-            <div2 id="sc10-2hannon.016" n="Women and the Constitution" type="Article">
+            <div3 id="sc10-2.035" type="About">
+                  <p>Ken Johnson is director of the Southern Labor Institute
+and co-author of <title>The Climate for Workers in the United
+States.</title>
+                  </p>
+		</div3>
+	      </div2>
+            <div2 id="sc10-2.016" n="Women and the Constitution" type="Article">
                <head>Women and the Constitution</head>
-               <docAuthor>By SHARRON HANNON</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 1-3</docDate>
-               <argument>
-                  <p>Sharron Hannon is a Georgia-based freelancer who writes frequently on women's rights issues.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hannon, Sharron">Sharron Hannon</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 1-3</docDate>
+               
                <p>In 1776, Abigail Adams wrote husband John, importuning him to
 "remember the Ladies" in drafting the code of laws of the new
 nation.</p>
@@ -2392,16 +2404,15 @@ Georgia.</p>
 empowered and energized. "This conference is a kind of political
 chicken soup," noted Bella Abzug. "It helps you get out of bed
 in the morning and say, 'I can conquer the day.'".</p>
-            </div2>
-            <div2 id="sc10-2adams.017" n="Starting a Worker Owned Cooperative" type="Article">
+            <div3 id="sc10-2.036" type="About">
+                  <p>Sharron Hannon is a Georgia-based freelancer who writes frequently on women's rights issues.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc10-2.017" n="Starting a Worker Owned Cooperative" type="Article">
                <head>Starting a Worker Owned Cooperative</head>
-               <docAuthor>By FRANK ADAMS</docAuthor>
-               <docDate>Vol. 10, No. 2, 1988, pp. 20-22</docDate>
-               <argument>
-                  <p>Frank Adams is author of <title>Putting
-Democracy to Work</title>, a practical guide to worker
-cooperatives.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Adams, Frank">Frank Adams</name></docAuthor></byline>
+               <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 20-22</docDate>
+               
                <p>There are a variety of reasons for starting a worker
 cooperative. They include workers' desires to own and work in a
 business where human values are of equal importance to productivity
@@ -2549,7 +2560,12 @@ workforce; it also accentuates the need for good management. These are
 the same employment security principles which have used so
 successfully during the past two decades by a few enlightened American
 firms, and by the Basque worker cooperatives in Spain.</p>
-            </div2>
+            <div3 id="sc10-2.037" type="About">
+                  <p>Frank Adams is author of <title>Putting
+Democracy to Work</title>, a practical guide to worker
+cooperatives.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

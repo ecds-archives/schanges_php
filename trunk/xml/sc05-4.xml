@@ -63,16 +63,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc05-4.001" n="Southern Changes 5:4" type="Issue">
             <head>Southern Changes.  Volume 5, Number 4, 1983</head>
             <p>
-               <title>Southern Changes</title>.  Volume 5, Number 4, 1983</p>
-            <div2 id="sc05-4williams.002" n="Witness In Montgomery" type="Article">
+               <title>Southern Changes</title>.  Volume 5, Number 4,
+	       <date value="1983-07">1983</date></p>
+            <div2 id="sc05-4.002" n="Witness In Montgomery" type="Article">
                <head>Witness In Montgomery</head>
-               <docAuthor>By RANDALL WILLIAMS</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 1-6</docDate>
-               <argument>
-                  <p>Randall Williams is a Montgomery resident and a
-contributing editor of <title>Southern Changes.</title>
-                  </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Williams, Randall">By Randall Williams</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 1-6</docDate>
                <p>Not since the celebrated bus boycott of 1955-56 or the Selma March
 days of 1965 has the atmosphere in Montgomery, Alabama, been so
 charged with racial tensions. The immediate cause is a string of
@@ -474,21 +470,18 @@ problems. She believes the strategy will not work.</p>
                <p>"We don't need a bandaid," she said. "We need a good physical
 examination, and then we're going to have to have some political
 surgery."</p>
-            </div2>
-            <div2 id="sc05-4simpson.003" n="Long Journey Home" type="Article">
-               <head>Long Journey Home</head>
-               <docAuthor>by BLAND SIMPSON and CECE CONWAY</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 17-19</docDate>
-               <argument>
-                  <p>Bland Simpson has co-authored the musicals <title>Diamond
-Studs, Hot Grog</title> and <title>Life on the Mississippi.</title> He
-has written the recent novel of country music, Heart of the Country
-(Putnam, 1983) and its a lecturer in creative writing at UNC. Cece
-Conway its a lecturer in English at UNC, a folklorist and co-director
-of the recent film <title>Tommy Jarrell--Sprout Wings and
-Fly.</title>
+            <div3 id="sc05-4.022" type="About">
+                  <p>Randall Williams is a Montgomery resident and a
+contributing editor of <title>Southern Changes.</title>
                   </p>
-               </argument>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.003" n="Long Journey Home" type="Article">
+               <head>Long Journey Home</head>
+               <byline>By <docAuthor><name reg="Simpson, Bland">Bland
+	       Simpson</name> and <name reg="Conway, Cece">Cece Conway</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 17-19</docDate>
+               
                <p>One of the world's great collections of Southern and country music
 has come home, and therein lies a ballad.</p>
                <p>Early one morning in late April, a truck from California rolled
@@ -630,18 +623,22 @@ in context and within reach of musicians, scholars and listeners. The
 region owes a debt to an Australian who never set foot in the land
 whose music he loved. His name will now remain tied to the songs of
 the American South.</p>
-            </div2>
-            <div2 id="sc05-4roach.004" n="The Freeze Down South" type="Article">
-               <head>The Freeze Down South</head>
-               <docAuthor>By MARGARET ROACH and ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 11-14</docDate>
-               <argument>
-                  <p>Margaret Roach is on the staff of the Atlanta Nuclear
-Freeze/Jobs With Peace Campaign. Allen Tullos is the editor of
-<title>Southern Changes.</title>
+            <div3 id="sc05-4.023" type="About">
+                  <p>Bland Simpson has co-authored the musicals <title>Diamond
+Studs, Hot Grog</title> and <title>Life on the Mississippi.</title> He
+has written the recent novel of country music, Heart of the Country
+(Putnam, 1983) and its a lecturer in creative writing at UNC. Cece
+Conway its a lecturer in English at UNC, a folklorist and co-director
+of the recent film <title>Tommy Jarrell--Sprout Wings and
+Fly.</title>
                   </p>
-               </argument>
-               <p>In the fall of 1982, the Nuclear Freeze Campaign mobilized the
+	    </div3>       
+	  </div2>
+            <div2 id="sc05-4.004" n="The Freeze Down South" type="Article">
+               <head>The Freeze Down South</head>
+               <byline>By <docAuthor><name reg="Roach, Margaret">Margaret Roach</name> and <name reg="Tullos,  Allen">Allen Tullos</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 11-14</docDate>
+              <p>In the fall of 1982, the Nuclear Freeze Campaign mobilized the
 largest referendum drive in United States history. Over eleven million
 Americans voted for the freeze. It won in nine of ten states and in
 all but three of thirty-seven local referendums that were held in
@@ -914,17 +911,17 @@ Pentagon's camp, "we still need to establish the freeze position with
 its clear bilateral language. Southern senators and representatives
 have spent decades working to bring military money into the
 South. It's going to take a lot of work and time to reverse that."</p>
-            </div2>
-            <div2 id="sc05-4mcdonald.005" n="A Nation at Risk" type="Article">
+             <div3 id="sc05-4.024" type="About">
+                  <p>Margaret Roach is on the staff of the Atlanta Nuclear
+Freeze/Jobs With Peace Campaign. Allen Tullos is the editor of
+<title>Southern Changes.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.005" n="A Nation at Risk" type="Article">
                <head>"A Nation at Risk"</head>
-               <docAuthor>By JOSEPH A. MCDONALD</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 8-10</docDate>
-               <argument>
-                  <p>Joseph A. McDonald is assistant professor of sociology at
-Newberry (SC) College. He its currently investigating the impact of
-textile mill closings on Southern workers and
-communities.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Mcdonald, Joseph A.">Joseph A. Mcdonald</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 8-10</docDate>
                <p>The Report from The National Commission on Excellence in Education,
 "A Nation at Risk," has generated tremendous reaction. Newscasts,
 newspapers, journals, and magazines, in the South and across the
@@ -1105,17 +1102,17 @@ challenges to teacher unions, making curriculum more conservative and
 purging progressive personnel and ideas. Its omissions and the uses to
 which it will be put place the report squarely behind the status
 quo.</p>
-            </div2>
-            <div2 id="sc05-4lewis.006" n="The Smokehouse of Politics" type="Article">
+            <div3 id="sc05-4.025" type="About">
+                  <p>Joseph A. McDonald is assistant professor of sociology at
+Newberry (SC) College. He its currently investigating the impact of
+textile mill closings on Southern workers and
+communities.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.006" n="The Smokehouse of Politics" type="Article">
                <head>The Smokehouse of Politics</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 14, 16-17</docDate>
-               <argument>
-                  <p>From the conference, "The South's Poor and Utility
-Issues," held earlier this year in Jackson, Mississippi, we present
-excerpts from. the observations of Atlanta City Councilman John Lewis
-and Texas Commissioner of Agriculture Jim Hightower.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 14, 16-17</docDate>
                <p>
                   <hi rend="bold">John Lewis:</hi>
                </p>
@@ -1330,16 +1327,17 @@ sold it for. Pretty easy economic message to get across to them.</p>
 time. I stole the advertising slogan of a moving company over in
 Austin: "If we can get it a-loose, we can move it." Well, we got it
 loose.</p>
-            </div2>
-            <div2 id="sc05-4hatley.007" n="Forestry and Equity" type="Article">
+            <div3 id="sc05-4.026" type="About">
+                  <p>From the conference, "The South's Poor and Utility
+Issues," held earlier this year in Jackson, Mississippi, we present
+excerpts from. the observations of Atlanta City Councilman John Lewis
+and Texas Commissioner of Agriculture Jim Hightower.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.007" n="Forestry and Equity" type="Article">
                <head>Forestry and Equity</head>
-               <docAuthor>By TOM HATLEY</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 19-23</docDate>
-               <argument>
-                  <p>Tom Hatley, native of North Carolina, forester and
-writer, is spending the summer at the International Institute for
-Applied Systems Analysis in Laxenburg, Austria.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hatley, Tom">Tom Hatley</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 19-23</docDate>
                <p>If you travel along a state highway during the Southern winter,
 your eyes follow unavoidably the constants of the land: field openings
 of red, brown, and dun-colored soil breaking against the highway, and
@@ -1686,18 +1684,16 @@ advantage of small landowners, and give them an edge on
 survival. Forestry practiced in a way responsible to the land as well
 as to the ledger can help minorities to remain in possession of their
 rural Southern heritage.</p>
-            </div2>
-            <div2 id="sc05-4gaston.008" n="Can We Be Saved from School Savers?" type="Article">
+            <div3 id="sc05-4.027" type="About">
+                  <p>Tom Hatley, native of North Carolina, forester and
+writer, is spending the summer at the International Institute for
+Applied Systems Analysis in Laxenburg, Austria.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.008" n="Can We Be Saved from School Savers?" type="Article">
                <head>Can We Be Saved from School Savers?</head>
-               <docAuthor>By PAUL GASTON</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 10-11</docDate>
-               <argument>
-                  <p>Paul M. Gaston teaches history at the University of
-Virginia and its the author of <title>The New South Creed</title>
-(Knopf) and the forthcominq <title>Women of Fair Hope</title>. He is a
-member of the executive committee of the Southern Regional
-Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gaston, Paul">Paul Gaston</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 10-11</docDate>
                <p>Before I had a university professorship, wrote a book, received a
 Ph.D., won a Fulbright to study abroad, and graduated from the college
 of my choice, I spent fifteen years (three of them as a
@@ -1816,16 +1812,18 @@ society.</p>
                <p>Thirty-seven years after graduation I am still naive enough to
 believe that we had the right idea. I know the National Commission
 doesn't have it.</p>
-            </div2>
-            <div2 id="sc05-4gaillard.009" n="Denial of Tenure At Vanderbilt" type="Article">
+            <div3 id="sc05-4.028" type="About">
+                  <p>Paul M. Gaston teaches history at the University of
+Virginia and its the author of <title>The New South Creed</title>
+(Knopf) and the forthcominq <title>Women of Fair Hope</title>. He is a
+member of the executive committee of the Southern Regional
+Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-4.009" n="Denial of Tenure At Vanderbilt" type="Article">
                <head>Denial of Tenure At Vanderbilt</head>
-               <docAuthor>By FRYE GAILLARD</docAuthor>
-               <docDate>Vol. 5, No. 4, 1983, pp. 7-8</docDate>
-               <argument>
-                  <p>Frye Gaillard, a Southern author and editorial writer at
-the <title>Charlotte Observer</title>, is a graduate of Vanderbilt,
-class of '68.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
+               <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 7-8</docDate>
                <p>By almost any measure, the last year has been a good one for
 Elizabeth Langland. Her first two books, published by the University
 of Chicago Press and the University Press of New England, have drawn
@@ -1929,7 +1927,12 @@ their efforts will have a long-run effect.</p>
 what has happened in the last year and a half," concludes
 Wiltshire. "Elizabeth Langland and Jim Lawson each said 'no' to the
 'no'--and that makes all the difference."</p>
-            </div2>
+            <div3 id="sc05-4.029" type="About">
+                  <p>Frye Gaillard, a Southern author and editorial writer at
+the <title>Charlotte Observer</title>, is a graduate of Vanderbilt,
+class of '68.</p>
+               </div3>
+               </div2>
          </div1>
       </body>
    </text>

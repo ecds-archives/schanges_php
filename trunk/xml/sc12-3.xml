@@ -63,20 +63,14 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc12-3.001" n="Southern Changes 12:3" type="Issue">
             <head>Southern Changes.  Volume 12, Number 3, 1990</head>
             <p>
-               <title>Southern Changes</title>.  Volume 12, Number 3, 1990</p>
-            <div2 id="sc12-3whisnant.002" n="Letting Loose of Liberalism" type="Article">
+               <title>Southern Changes</title>.  Volume 12, Number 3,
+	       <date value="1990-08">1990</date></p>
+            <div2 id="sc12-3.002" n="Letting Loose of Liberalism" type="Article">
                <head>Letting Loose of Liberalism: Some Thoughts on Cultural Work and
 the Limits of Polite Discourse</head>
-               <docAuthor>By DAVID E. WHISNANT</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 1-11</docDate>
-               <argument>
-                  <p>David E. Whisnant is on the faculty of the university of
-North Carolina at Chapel Hill. He has published widely on traditional
-culture, the politics of culture, and the history of the Appalachian
-region. Currently he is working on a book on the politics of culture
-in Nicaragua. This essay was prepared for the southeastern regional
-meeting of the state humanities councils, May 19, 1990.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 1-11</docDate>
+               
                <p>IN Walker Percy's story "The Last Donahue Show," the topic of the
 day is "sexual preference." Midway through, the show is interrupted by
 three intruders: a black-cloaked Calvin-like spokesman for the old
@@ -219,7 +213,7 @@ tax laws (as in the Tax Reform Act of 1986) are reducing private
 donations at the same time that the fact (and necessity) of increased
 dependence upon such donations threatens to make cultural institutions
 responsive primarily to well-heeled constituencies and corporate
-donors.<ref target="sc12-3whisnant.003.n1">1</ref> Most public cultural programs are operating on bakesale
+donors.<ref target="sc12-3.003.n1">1</ref> Most public cultural programs are operating on bakesale
 budgets, and finding their work increasingly complicated by rising
 Helms-style censorship and intimidation, as was evident in the recent
 National Council for the Arts board meeting in Winston-Salem. An era
@@ -476,7 +470,7 @@ the legendary Bob Wills's Texas Playboys). Kinky spent a couple of
 years in the Peace Corps in Borneo just after college, and when he
 came back, he said that "Everybody needs to go to Borneo, wherever
 it is for them. A lot of wiggy things happened to me in that jungle,
-it anchored my mind to the past." <ref target="sc12-3whisnant.003.n2">2</ref>
+it anchored my mind to the past." <ref target="sc12-3.003.n2">2</ref>
                </p>
                <p>During his short stay in country music, Friedman wrote some
 marvelous songs like "Wild Man From Borneo," "They Don't Make Jews
@@ -639,7 +633,7 @@ Nicaraguas of the world. One of my most poignant moments of
 clarification occurred when I read that the vessel that carried
 U.S. troops from the Canal Zone and landed them on Nicaragua's east
 coast to move against the rebel general Sandino in April 1931 was
-named the <hi rend="italic">U.S.S. Ashville</hi>.<ref target="sc12-3whisnant.003.n3">3</ref>3</p>
+named the <hi rend="italic">U.S.S. Ashville</hi>.<ref target="sc12-3.003.n3">3</ref>3</p>
                <p>Why have I reminisced about my wanderings through this
 personal-political landscape? To try to suggest that the dramatic
 political and cultural changes of the past little while in Latin
@@ -679,34 +673,37 @@ the sector of culture in every equation of power. To the extent that
 we ourselves can remain clear about that, we will encounter a whole
 array of strategic and tactical possibilities we heretofore thought
 closed to us.</p>
-               <div3 id="sc12-3whisnant.003" n="Notes to Letting Loose of Liberalism" type="Notes">
+               <div3 id="sc12-3.003" n="Notes to Letting Loose of Liberalism" type="Notes">
                   <head>NOTES</head>
                   <p>
-                     <note id="sc12-3whisnant.003.n1" n="1">1.  See for example, Grace Glueck, "Gifts to Museums Fall Sharply
+                     <note id="sc12-3.003.n1" n="1">1.  See for example, Grace Glueck, "Gifts to Museums Fall Sharply
 After Changes in the Tax Code," New York Times, May 7, 1989, pp. 1,
 17; and William H. Honan, "Arts Dollars: Pinched As Never Before," New
 York Times, May 28, 1989, pp. 1, 28.</note>
                   </p>
                   <p>
-                     <note id="sc12-3whisnant.003.n2" n="2">2.  Larry Sloman, "Kinky and the Money Changers," Crawdaddy, April
+                     <note id="sc12-3.003.n2" n="2">2.  Larry Sloman, "Kinky and the Money Changers," Crawdaddy, April
 1975, p. 31. I am grateful to Molly P. Rozum for calling this article
 to my attention.</note>
                   </p>
                   <p>
-                     <note id="sc12-3whisnant.003.n3" n="3">3.  Neill Macaulay, The Sandino Affair (1967; Durham: Duke University Press, 1985), 193-97.</note>
+                     <note id="sc12-3.003.n3" n="3">3.  Neill Macaulay, The Sandino Affair (1967; Durham: Duke University Press, 1985), 193-97.</note>
                   </p>
                </div3>
-            </div2>
-            <div2 id="sc12-3suitts.004" n="Politics the Beloved Commune" type="Article">
+            <div3 id="sc12-3.022" type="About">
+                  <p>David E. Whisnant is on the faculty of the university of
+North Carolina at Chapel Hill. He has published widely on traditional
+culture, the politics of culture, and the history of the Appalachian
+region. Currently he is working on a book on the politics of culture
+in Nicaragua. This essay was prepared for the southeastern regional
+meeting of the state humanities councils, May 19, 1990.</p>
+               </div3></div2>
+            <div2 id="sc12-3.004" n="Politics the Beloved Commune" type="Article">
                <head>Politics the Beloved Commune: Arkansas has the opportunity to
 learn from the experiences of other Southern states</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 13-16</docDate>
-               <argument>
-                  <p>Steve Suitts is the executive director of the Southern
-Regional Council. This article is excerpted from is May 1990 speech to
-the Arkansas Political Exchange in West Memphis, Ark.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 13-16</docDate>
+               
                <p>THE YEAR 1990 may be remembered as a profound moment for Arkansas
 politics. This is the 25th anniversary of the passage of the Voting
 Rights Act, perhaps the most powerful instrument in the twentieth
@@ -898,21 +895,20 @@ citizens a political future that includes all? Wouldn't it be a
 remarkable legacy if Arkansas--so late in coming to the political
 empowerment of black citizens--was the first to reveal the promised
 land of politics, the politics of a beloved community?</p>
-            </div2>
-            <div2 id="sc12-3prejean.005" n="Human Heroics in Uniting an Old Culture to New Religion" type="Review">
-               <head>Human Heroics in Uniting an Old Culture to New Religion.
-<title>Ain't you Got a Right to the Tree of Life?</title> Recorded and
+            <div3 id="sc12-3.024" type="About">
+                  <p>Steve Suitts is the executive director of the Southern
+Regional Council. This article is excerpted from is May 1990 speech to
+the Arkansas Political Exchange in West Memphis, Ark.</p>
+               </div3></div2>
+            <div2 id="sc12-3.005" n="Human Heroics in Uniting an Old Culture to New Religion" type="Review">
+               <head>Human Heroics in Uniting an Old Culture to New Religion.</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Prejean, Charles">Charles Prejean</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 17-18</docDate>
+               <bibl><title>Ain't you Got a Right to the Tree of Life?</title> Recorded and
 edited by Guy and Candie Carawan, with a preface by Charles Joyner and
 an afterword by Bernice Johnson Reagon. (The University of Georgia
-Press, 1989, second edition, 240 pp., $29.95.)</head>
-               <docAuthor>Reviewed by CHARLES PREJEAN</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 17-18</docDate>
-               <argument>
-                  <p>Charles Preplan, longtime executive director of the
-Federation of Southern Cooperatives, has been one of the outstanding
-leaders of the rural South. He is now teaching political science at
-Xavier.</p>
-               </argument>
+Press, 1989, second edition, 240 pp., $29.95.)</bibl>
                <p>This important book restates the values and updates the chronicle
 of a unique pattern of life, one guided, perhaps even driven, by
 influences of religion. It is the life story of the people of Johns
@@ -1004,12 +1000,23 @@ religion. It may be that this influence is simply biding time, before
 evolving into an appropriate expression under the changed
 circumstances of the contemporary period, just as perhaps was the case
 in preceding social orders.</p>
-            </div2>
-            <div2 id="sc12-3lwd.006" n="The Importance of Race in the Classroom" type="Review">
-               <head>The Importance of Race in the Classroom.  <title>RACE, CLASS, AND EDUCATION: The Polities of Second-Generation Discrimination</title> by Kenneth J. Meier, Joseph Stewart Jr., and Robert E;. England (University of Wisconsin Press, 1989, xiv, 194 pp., $37.50 cloth, $14.95 paper).</head>
-               <docAuthor>L. W. D.</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, p. 18</docDate>
-               <p>Three political scientists present the case for viewing education
+            <div3 id="sc12-3.025" type="About">
+                  <p>Charles Prejean, longtime executive director of the
+Federation of Southern Cooperatives, has been one of the outstanding
+leaders of the rural South. He is now teaching political science at
+Xavier.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-3.006" n="The Importance of Race in the Classroom" type="Review">
+               <head>The Importance of Race in the Classroom.</head>  
+               <byline><docAuthor><name reg="L.W.D">L. W. D.</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, p. 18</docDate>
+               <bibl><title>RACE, CLASS, AND EDUCATION: The Polities
+	       of Second-Generation Discrimination</title> by Kenneth
+	       J. Meier, Joseph Stewart Jr., and Robert E;. England
+	       (University of Wisconsin Press, 1989, xiv, 194 pp.,
+	       $37.50 cloth, $14.95 paper).</bibl>
+	       <p>Three political scientists present the case for viewing education
 as a "political process." They conclude that the most important
 determinant of discrimination against black children is the proportion
 of black teachers in the classrooms. "Without the political action
@@ -1020,17 +1027,14 @@ would be significantly worse." This is a book that should be
 useful to school reformers and administrators, especially those
 equipped to deal with statistics.</p>
             </div2>
-            <div2 id="sc12-3howland.007" n="The Need to Pierce Self-Serving Veils of Economic Expertise" type="Review">
-               <head>The Need to Pierce Self-Serving Veils of Economic 'Expertise.'
-<title>Communities in Economic Crisis: Appalachia and the
+            <div2 id="sc12-3.007" n="The Need to Pierce Self-Serving Veils of Economic Expertise" type="Review">
+               <head>The Need to Pierce Self-Serving Veils of Economic 'Expertise.'</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Howland, Jacob">Jacob Howland</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 21-23</docDate>
+               <bibl><title>Communities in Economic Crisis: Appalachia and the
 South.</title> Edited by John Gaventa, Barbara Ellen Smith, and Alex
-Willingham (Temple University Press, 1990. xiii, 301 pp.).</head>
-               <docAuthor>Reviewed by JACOB HOWLAND</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 21-23</docDate>
-               <argument>
-                  <p>Jacob Howland is on the philosophy faculty at the
-University of Tulsa.</p>
-               </argument>
+Willingham (Temple University Press, 1990. xiii, 301 pp.).</bibl>
                <p>Where should economic policy originate? Whom should it serve? What
 are its proper goals? The needs of any community include food,
 clothing, shelter, health care, a clean environment, and a good
@@ -1175,18 +1179,16 @@ those who claim to represent the welfare of communities that have
 fallen on hard times. Among its many virtues, it provides ample proof
 that economics need not be a dismal science, but can, and must, become
 a democratic and humane one.</p>
-            </div2>
-            <div2 id="sc12-3fleshler.008" n="Making Votes Count in Arkansas" type="Article">
+            <div3 id="sc12-3.027" type="About">
+                  <p>Jacob Howland is on the philosophy faculty at the
+University of Tulsa.</p>
+               </div3></div2>
+            <div2 id="sc12-3.008" n="Making Votes Count in Arkansas" type="Article">
                <head>Making Votes Count in Arkansas--Challenge to Plantation-Style
 Politics</head>
-               <docAuthor>By DAN FLESHLER</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 14-15</docDate>
-               <argument>
-                  <p>Daniel Fleshler is director of communications of the
-NAACP Legal Defense and Educational Fund, Inc. His article is adapted
-from <title>Equal Justice: LDF News.</title>
-                  </p>
-               </argument>
+               <byline>By <docAuthor><name reg="Fleshler, Dan">Dan Fleshler</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 14-15</docDate>
+               
                <p>Nearly every day this past year, M.C. Jeffers watched news reports
 of Eastern European crowds clamoring for meaningful elections, for the
 right to run for political office. He heard smug commentators explain
@@ -1297,20 +1299,22 @@ on the 'good old boy' political leadership in the region," noted
 the LDF's Dan Fleshier.</p>
                <p>And voter turnout increased substantially--by 10 percent or more in
 some places--throughout the Delta.</p>
-            </div2>
-            <div2 id="sc12-3dunbar.009" n="A White Progressive Sounds the Trumpet from Inside" type="Review">
-               <head>A White Progressive Sounds the Trumpet from Inside.
-<title>Hearts and Minds, A Personal Chronicle of Race in
+            <div3 id="sc12-3.028" type="About">
+                  <p>Daniel Fleshler is director of communications of the
+NAACP Legal Defense and Educational Fund, Inc. His article is adapted
+from <title>Equal Justice: LDF News.</title>
+                  </p>
+               </div3>
+	     </div2>
+            <div2 id="sc12-3.009" n="A White Progressive Sounds the Trumpet from Inside" type="Review">
+               <head>A White Progressive Sounds the Trumpet from Inside.</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Dunbar, Anthony">Anthony Dunbar</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 18-20</docDate>
+               <bibl><title>Hearts and Minds, A Personal Chronicle of Race in
 America</title> by Harry S. Ashmore. Foreword by Harold C. Fleming
 (Cabin John, Maryland: Seven Locks Press. Revised Edition,
-1988. $14.95 paper.).</head>
-               <docAuthor>Reviewed by ANTHONY DUNBAR</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 18-20</docDate>
-               <argument>
-                  <p>SRC member Anthony Dunbar is a New Orleans writer and
-lawyer. His latest book, <title>Delta Times</title>, reflects on
-Mississippi's Delta and its people.</p>
-               </argument>
+1988. $14.95 paper.).</bibl>
                <p>It was an exceptional book when it was first published in 1982, and
 its 1988 revision, which extends to their finale Ashmore's treatment
 of the Reagan years, fills out one man's sweeping view of the civil
@@ -1445,18 +1449,19 @@ toward civil rights is continuing and "may yet be reckoned the most
 profound social change mankind has accomplished without resort to
 violence." I am pleased to report that a writer of Ashmore's
 stature and vintage is still sounding that trumpet.</p>
-            </div2>
-            <div2 id="sc12-3cooper.010" n="A Passionate, First-Hand Story of One Place in the Movement" type="Review">
-               <head>A Passionate, First-Hand Story of One Place in the Movement.
-<title>JACKSON, MISSISSIPPI: An American Chronicle of Struggle and
+            <div3 id="sc12-3.029" type="About">
+                  <p>SRC member Anthony Dunbar is a New Orleans writer and
+lawyer. His latest book, <title>Delta Times</title>, reflects on
+Mississippi's Delta and its people.</p>
+               </div3></div2>
+            <div2 id="sc12-3.010" n="A Passionate, First-Hand Story of One Place in the Movement" type="Review">
+               <head>A Passionate, First-Hand Story of One Place in the Movement.</head>
+
+               <byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 20-21</docDate>
+               <bibl><title>JACKSON, MISSISSIPPI: An American Chronicle of Struggle and
 Schism</title> by John R Salter Jr. (Malabar, Florida: Robert
-E. Krueger Publishing Co., Inc. 1987. 256 pp., no price).</head>
-               <docAuthor>Reviewed by MICHAEL COOPER</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, pp. 20-21</docDate>
-               <argument>
-                  <p>Writer Michael Cooper has been researching
-Mississippi.</p>
-               </argument>
+E. Krueger Publishing Co., Inc. 1987. 256 pp., no price).</bibl>
                <p>John Salter's book, which evokes the emotions, the frustrations,
 and the fears of Jackson in the early 1960s, is particularly valuable
 because so little has been written about the civil rights movement in
@@ -1553,15 +1558,15 @@ versions. Rather, the book is a passionate, first-hand account of the
 Jackson movement by one of its central figures. <hi rend="italic">Jackson, Mississippi</hi> was first published in 1979. The
 Robert E. Krueger Publishing Company deserves plaudits for this new
 edition.</p>
-            </div2>
-            <div2 id="sc12-3chestnut.011" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc12-3.030" type="About">
+                  <p>Writer Michael Cooper has been researching
+Mississippi.</p>
+               </div3></div2>
+            <div2 id="sc12-3.011" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut. Jr.</docAuthor>
-               <docDate>Vol. 12, No. 3, 1990, p. 24</docDate>
-               <argument>
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut. Jr.</name></docAuthor></byline>
+               <docDate value="1990-08">Vol. 12, No. 3, 1990, p. 24</docDate>
+               
                <p>There is a growing army of poor, suffering black souls all over
 America. They are the "Unreachables."</p>
                <p>They form the core of the crime and welfare problem. They make up
@@ -1615,7 +1620,11 @@ hospitals.</p>
                <p>America would be better served if it read the Bible. Reading George
 Bush's lips hardly helps.</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc12-3.031" type="About">
+                  <p>J. L. Chestnut is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	    </div2>
          </div1>
       </body>
    </text>

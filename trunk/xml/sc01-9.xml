@@ -65,12 +65,12 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p>
 <title>Southern Changes</title>. Volume 1, Number 9, <date value="1979-06">1979</date></p>
 
-<div2 id="sc01-9chaney.002" n="Interchange:In This Issue" type="Article">
+<div2 id="sc01-9.002" n="Interchange: In This Issue" type="Article">
 <head>Interchange: In This Issue</head>
-<docAuthor>By Betty Norwood Chaney</docAuthor>
+<byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 2</docDate>
 
-<p>This issue of <hi rend="italic">Southern Changes</hi> is devoted
+<p>This issue of <title>Southern Changes</title> is devoted
 primarily to the plight facing the workers of the South. We dedicate
 it to A. Phillip Randolph who died May 16 at the age of 90. Not only
 did he give 70 years of his life to the labor movement, he is also
@@ -136,9 +136,9 @@ today. As Randolph implores in his parting remarks, "Please, join the
 good fight."</p>
 </div2>
 
-<div2 id="sc01-9randolph.003" n="Soapbox" type="Article">
+<div2 id="sc01-9.003" n="Soapbox" type="Article">
 <head>Soapbox</head>
-<docAuthor>By A. Philip Randolph</docAuthor>
+<byline>By <docAuthor><name reg="Randolph, A. Philip">A. Philip Randolph</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 4, 23</docDate>
 
 <p>Editor's Note:
@@ -180,12 +180,10 @@ arena. Last November, for instance, Black people in Missouri and Philadelphia dr
 <p>We and our children, we and our grandchildren, cannot afford to abandon the fight. We must continue, indeed we must strengthen our political position by registering and voting in even greater numbers than ever before. Our participation in the upcoming political battles will, to a very large extent, determine the outcome of our long years of dedication and sacrifice. You, brothers and sisters, will make the difference between ultimate victory or bitter defeat. Please, join the good fight.</p>
 </div2>
 
-<div2 id="sc01-9dunbar.004" n="The Old South Triumphs at Duke" type="Article">
+<div2 id="sc01-9.004" n="The Old South Triumphs at Duke" type="Article">
 <head>The Old South Triumphs at Duke</head>
-<docAuthor>By Tony Dunbar</docAuthor>
+<byline>By <docAuthor><name reg="Dunbar, Tony">Tony Dunbar</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 5-8</docDate>
-<argument><p>
-Tony Dunbar is a free-lance writer living in Western North Carolina.</p></argument>
 
 <p>Somewhere in the annal's of Duke University you will find these lofty words:
 
@@ -292,14 +290,14 @@ literature played on the natural insecurities of the loly and on the pessimism c
 <p>The Medical Center's constant warning to its employees was that "in the give and take process of collective bargaining, no one can predict the outcome. It is a gamble; you could gain or you can lose wages and benefits you now have." Such tactics and worse are, of course, the standard fare of many North Carolina corporations devoted to making profits, but they seem somehow less tolerable when put forth by a wealthy, charitable institution devoted to "the eternal union of knowledge and religion as set forth in the teachings and character of Jesus Christ."</p>
 
 <p>Perhaps the time is past when this distinction meant anything. One month after AFSCME's defeat Terry Sanford re-emphasized the mercantile aspect of Duke's institutional character when he told the press that "working as a citizen of Durham personally and as president of its major corporate citizen," he would take an active role in seeking new industry for the city. One might speculate that he will seek hardest that industry which shares Duke's labor philosophy. In light of the fact that Duke University is one of the shrines of the New South (some think the New South was actually invented there) it is only natural to wonder how much hope for laboring people is contained in the dawning of this new age.</p>
+<div3 id="sc01-9.024" type="About"><p>
+Tony Dunbar is a free-lance writer living in Western North Carolina.</p></div3>
 </div2>
 
-<div2 id="sc01-9boycott.005" n="Chiquita Boycott" type="Article">
+<div2 id="sc01-9.005" n="Chiquita Boycott" type="Article">
 <head>Chiquita Boycott</head>
-<docAuthor>By Circuit Rider</docAuthor>
+<byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 8</docDate>
-<argument><p>Reprinted from the Circuit Rider, Atlanta,
-Georgia.</p></argument>
 
 <p>The United Farm Workers Union (UFW)has called for a boycott of
 Chiquita bananas. Farmworkers in the southewestern U.S. are on strike
@@ -328,14 +326,14 @@ Valley in California. More than 3000 farmworkers are in the fourth
 month of their strike. Money raised will go to the strike fund that
 supports the workers and their families. Anyone interested in this
 work can contact Norma Chandler at 763-0183.</p>
+<div3 id="sc01-9.025" type="About"><p>Reprinted from the Circuit Rider, Atlanta,
+Georgia.</p></div3>
 </div2>
 
-<div2 id="sc01-9wilayto.006" n="Batthe of Newport News" type="Article">
+<div2 id="sc01-9.006" n="Batthe of Newport News" type="Article">
 <head>Battle of Newport News</head>
-<docAuthor>By Phil Wilayto</docAuthor>
+<byline>By <docAuthor><name reg="Wilayto, Phil">Phil Wilayto</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 9-13, 23</docDate>
-<argument><p>A union shop steward and newspaper reporter in the Tidewater, Virginia, area, Phil Wilayto is a member of the Center for United Labor Action which was active in building support for the Steelworker strike in Newport News. He is the author of the song "Organize the South," used in the Steelworkers strike movie and played at the statewide and national solidarity rallies.</p></argument>
-
 
 <p>The Newport News Shipbuilding and Drydock Company stretches along the northern bank of the James River like a long, narrow industrial city. For over two miles, this largest workplace in Virginia occupies the shore with its docks and piers, warehouses and worksheds, cranes and trucks and roads and parking lots, dominating the landscape and the minds and bodies of its 22,000 employees. The noise is constant, the hustle and bustle never ceases, as military and commercial ships are designed, constructed, and repaired by the largest privately-owned shipyard in the world.</p>
 
@@ -504,18 +502,15 @@ days later the company reportedly contacted the local's lawyers.</p>
 <p>Meanwhile, the union is continuing to function. A new lease has been signed for the strike headquarters, more volunteer organizers are being recruited, and steward training sessions are being organized.</p>
 
 <p>"No, we didn't win recognition for the union," one rank-and-filer said as he prepared to head back to work,"and we didn't win a contract. Not yet, anyway. But we showed the company that we would stand up for our rights, that we were ready to fight. We didn't win what we went out for, but we aren't broken, either. We're regrouping, we'll be back, and we'll get our union."</p>
+<div3 id="sc01-9.026" type="About"><p>A union shop steward and newspaper reporter in the Tidewater, Virginia, area, Phil Wilayto is a member of the Center for United Labor Action which was active in building support for the Steelworker strike in Newport News. He is the author of the song "Organize the South," used in the Steelworkers strike movie and played at the statewide and national solidarity rallies.</p></div3>
 </div2>
 
-<div2 id="sc01-9mcdonald.007" n="United Steelworkers vs. Weber:
+<div2 id="sc01-9.007" n="United Steelworkers vs. Weber:
       Affirmative  Action on Trial" type="Article">
 <head>United Steelworkers vs. Weber: Affirmative  Action on
 Trial</head>
-<docAuthor>By Laughlin McDonald</docAuthor>
+<byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 14-17</docDate>
-<argument><p>
-Laughlin McDonald is the Southern director of the American Civil
-Liberties Union Foundation.
-</p></argument>
 
 <p><hi rend="italic">United Steelworkers of America v. Brian F. Weber</hi>, known familiarly as<hi rend="italic">Weber</hi> because of the enormous interest the case has generated, was argued in the Supreme Court on March 29, 1979, before a standing-room-only crowd of spectators. Weber will decide whether a quota for Blacks in on-the-job training for skilled craft jobs adopted by Kaiser Aluminum and Chemical Corporation and the United Steelworkers of America, AFL-CIO unlawfully discriminates against Whites. Both the district court in Louisiana and a majority of a panel of the Court of Appeals for the Fifth Circuit have held that it does. If the Supreme Court agrees, the case could scuttle all voluntary affirmative action for racial minorities in the nation's work force.</p>
 
@@ -620,13 +615,16 @@ demands on the limited resources of the judiciary. It will allow
 employers and unions to examine and evaluate their own employment
 practices and take responsible, timely action to correct what remains
 one of the worst vestiges of our racial past.</p>
+<div3 id="sc01-9.027" type="About"><p>
+Laughlin McDonald is the Southern director of the American Civil
+Liberties Union Foundation.
+</p></div3>
 </div2>
 
-<div2 id="sc01-9taylor.008" n="Legislative Roundup of 1979 Georgia General Assembly" type="Article">
+<div2 id="sc01-9.008" n="Legislative Roundup of 1979 Georgia General Assembly" type="Article">
 <head>Legislative Roundup of 1979 Georgia General Assembly</head>
-<docAuthor>By John Taylor</docAuthor>
+<byline>By <docAuthor><name reg="Taylor, John">John Taylor</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 18-20</docDate>
-<argument><p>John Taylor is an Atlanta freelance writer.</p></argument>
 
 <p>The 1979 session of the Georgia General Assembly produced the largest increase in welfare benefits and the first public use of racial epithets in recent memory. As an anomaly, the Georgia legislature did not stop there.</p>
 
@@ -728,10 +726,12 @@ his return from alcoholism with a visit to the legislative chambers. Actress Mar
 <p>Despite Bostick's protests that he was using the term as a quote, Black members of the House demanded an apology. Bostick refused, saying he was only repeating what a constituent had told him. Civil rights activist Joe Boone was ejected from the House gallery for loudly demanding action against Bostick. Black caucus members said they might ask that Bostick be censured at the 1980 session.</p>
 
 <p>It was in this vein that embarrassed lawmakers dropped the curtain on the 1979 Georgia General Assembly.</p>
+<div3 id="sc01-9.028" type="About"><p>John Taylor is an Atlanta freelance writer.</p></div3>
 </div2>
-<div2 id="sc01-9staff.009" n="Action Patterns: Third Party Complaints" type="Article">
+
+<div2 id="sc01-9.009" n="Action Patterns: Third Party Complaints" type="Article">
 <head>Action Patterns: Third Party Complaints</head>
-<docAuthor>By Staff</docAuthor>
+<byline><docAuthor><name reg="">By Staff</name></docAuthor></byline>
 <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 21</docDate>
 
 <p>When she and her friend made up their minds to challenge their

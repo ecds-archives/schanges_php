@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -68,9 +68,9 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
                <title>Southern Changes.</title>  Volume 20, Number 4,
 	       <date value="1998-12">1998</date></p>
 
-<div2 id="sc20-4.00" n="Back to Birmingham" type="Article">
+<div2 id="sc20-4.002" n="Back to Birmingham" type="Article">
 <head>Back to Birmingham</head>
-<docAuthor>By John Egerton</docAuthor>
+<byline>By <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
 
 <p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
@@ -222,12 +222,13 @@ children.</p>
 
 <p>The Birmingham "Unfinished Business" conference closed with a call to action, which was debated in small groups and drafted by a team of more than twenty people from several states, including (left to right) Ellen Spears, Afesa Adams, unidentified, Ahmed Obafemi, Eric Rubin, Christopher Myers, Jackie Jones, (seated) Jeffy Will, and Merceria Ludgood. The agenda emphasized five areas for action.</p>
 </div3>
-<div3 id="sc20-4.002" type="About"><p>Photos courtesy of Alabama
+<div3 id="sc20-4.022" type="About"><p>Photos courtesy of Alabama
 Power.</p></div3>
 </div2>
-<div2 id="sc20-4.003" n="Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views" type="">
+
+<div2 id="sc20-4.023" n="Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views" type="">
 <head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head>
-<docAuthor>John Doble Research Associates</docAuthor>
+<byline><docAuthor><name reg="John Doble Research Associates">John Doble Research Associates</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
 <p rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p>
 
@@ -288,7 +289,8 @@ intergroup tolerance advanced.</p>
 </div2>
 <div2 id="sc20-4.004" n="The Newtown Story: One Community's Fight for Environmental Justice" type="">
 <head>The Newtown Story: One Community's Fight for Environmental Justice</head>
-<docAuthor>By Ellen Griffith Spears Photos by Michael A. Schwarz</docAuthor>
+<byline>By <docAuthor><name reg="Spears, Ellen Griffith">Ellen
+Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A.">Michael A. Schwarz</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
 
 <p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
@@ -390,9 +392,9 @@ Circuit Court of Appeals in Atlanta.</p>
 </div3>
 </div2>
 
-<div2 id="sc20-4.005" n="From New Orleans to Your Radio--It's American Routes" type="Interview">
+<div2 id="sc20-4.025" n="From New Orleans to Your Radio--It's American Routes" type="Interview">
 <head>From New Orleans to Your Radio--It's <title>American Routes</title></head>
-<docAuthor>Allen Tullos</docAuthor>
+<byline><docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
 
 <p>In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
@@ -650,7 +652,7 @@ non-initiated who are a big segment of our audience. -N. S.
 
 <div2 id="sc20-4.006" n="Here Comes the Farm Labor Organizing Committee" type="Article">
 <head>Here Comes the Farm Labor Organizing Committee</head>
-<docAuthor>Staff</docAuthor>
+<byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
 
 <p rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p>
@@ -741,7 +743,7 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
 </div2>
 <div2 id="sc20-4.009" n="Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners" type="Article">
 <head>Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners</head>
-<docAuthor>Staff</docAuthor>
+<byline><docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
 <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
 <p><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi>

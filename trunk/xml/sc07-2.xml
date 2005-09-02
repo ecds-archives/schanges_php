@@ -63,20 +63,17 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc07-2.001" n="Southern Changes 7:2" type="Issue">
             <head>Southern Changes.  Volume 7, Number 2, 1985</head>
             <p>
-               <title>Southern Changes</title>.  Volume 7, Number 2, 1985</p>
-            <div2 id="sc07-2hahn.002" n="Vengeance and Justice" type="Review">
-               <head>
-                  <title>Vengeance and Justice: Crime and Punishment in the
+               <title>Southern Changes</title>.  Volume 7, Number 2,
+	       <date value="1985-05">1985</date></p>
+            <div2 id="sc07-2.002" n="Vengeance and Justice" type="Review">
+               <head>Vengeance and Justice</head>
+
+               <byline>By <docAuthor><name reg="Hahn, Steven">Steven Hahn</name></docAuthor></byline>
+               <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 22-24</docDate>
+               <bibl><title>Vengeance and Justice: Crime and Punishment in the
 Nineteenth Century South.</title> By Edward L. Ayers. Oxford
-University Press, 1984.384 pp. $24.95</head>
-               <docAuthor>By Steven Hahn</docAuthor>
-               <docDate>Vol. 7, No. 2, 1985, pp. 22-24</docDate>
-               <argument>
-                  <p>Steve Hahn teaches history at the University of
-California at San Diego. He is author of <title>The Roots of Southern
-Populism.</title> (Oxford Univ. Press, 1983).</p>
-               </argument>
-               <p>The glass and steel that now form the skylines over Atlanta,
+University Press, 1984.384 pp. $24.95</bibl>
+<p>The glass and steel that now form the skylines over Atlanta,
 Birmingham, New Orleans, Houston, Greensboro, and a good many smaller
 cities may symbolize the South's new found cosmopolitanism, but the
 recent spate of executions in Florida, Georgia, Louisiana, Texas,
@@ -262,20 +259,19 @@ students who wish to pursue the many lines of inquiry that Ayers has
 opened up. Without question  <title>Vengeance and Justice</title>
 helps to raise the discussion of Southern distinctiveness and the
 South's painful legacies to a new level of sophistication.</p>
-            </div2>
-            <div2 id="sc07-2hobson.003" n="Victorian to Modernist Thought in the South, 1919 - 1945" type="Review">
-               <head>
-                  <title>The War Within: From Victorian to Modernist Thought in
+           <div3 id="sc07-2.022" type="About">
+                  <p>Steve Hahn teaches history at the University of
+California at San Diego. He is author of <title>The Roots of Southern
+Populism.</title> (Oxford Univ. Press, 1983).</p>
+               </div3>
+                </div2>
+            <div2 id="sc07-2.003" n="Victorian to Modernist Thought in the South, 1919 - 1945" type="Review">
+               <head>Victorian to Modernist Thought in the South, 1919 - 1945"</head>
+                  <byline>By <docAuthor><name reg="Hobson, Fred">Fred Hobson</name></docAuthor></byline>
+               <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
+               <bibl><title>The War Within: From Victorian to Modernist Thought in
 the South, 1919 - 1945.</title> By Daniel Joseph Singal. University of
-North Carolina Press, 1982.</head>
-               <docAuthor>By Fred Hobson</docAuthor>
-               <docDate>Vol. 7, No. 2, 1985, pp. 21-22</docDate>
-               <argument>
-                  <p>Fred Hobson teaches in the English Department of the
-University of Alabama at Tuscaloosa. His most recent book is
-<title>Tell About the South: The Southern Rage to Explain</title>
-(L.S.U. Press, 1983). </p>
-               </argument>
+North Carolina Press, 1982.</bibl>
                <p>In the quarter-century between the close of the First World War and
 the close of the Second, the thought and writing of the American South
 underwent a change that has been explained in various ways by various
@@ -386,15 +382,17 @@ voices. But what Singal does he does well indeed: he understands well
 most of the mainstream intellectual and literary currents of his
 period, and he has written a book filled with energy and
 originality.</p>
-            </div2>
-            <div2 id="sc07-2suitts.004" n="Games Registrars Play" type="Article">
+            <div3 id="sc07-2.023" type="About">
+                  <p>Fred Hobson teaches in the English Department of the
+University of Alabama at Tuscaloosa. His most recent book is
+<title>Tell About the South: The Southern Rage to Explain</title>
+(L.S.U. Press, 1983). </p>
+               </div3>
+               </div2>
+            <div2 id="sc07-2.004" n="Games Registrars Play" type="Article">
                <head>Games Registrars Play</head>
-               <docAuthor>By Steve Suitts</docAuthor>
-               <docDate>Vol. 7, No. 2, 1985, pp. 1-2</docDate>
-               <argument>
-                  <p>Steve Suitts is executive director of the Southern
-Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
                <p>Two decades after the passage of the Voting Rights Act, no one
 really knows how many black citizens are registered to vote in the
 South today. While no better basic standard exists by which to measure
@@ -488,11 +486,15 @@ many blacks and whites are registered to vote in the South's
 precincts, we should assume that officials continue to hide
 mischievous practices which prompted the passage of the Voting Rights
 Act twenty years ago.</p>
-            </div2>
-            <div2 id="sc07-2tullos.005" n="Crackdown in the Black Belt" type="Article">
+            <div3 id="sc07-2.024" type="About">
+                  <p>Steve Suitts is executive director of the Southern
+Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-2.005" n="Crackdown in the Black Belt" type="Article">
                <head>Crackdown in the Black Belt: Not-So-Simple Justice</head>
-               <docAuthor>By Allen Tullos</docAuthor>
-               <docDate>Vol. 7, No. 2, 1985, pp. 2-11</docDate>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+               <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
                <p>In a trial that should reveal the distance the Reagan Justice
 Department will travel to cooperate with local white officials in
 suppressing the voting rights of black citizens, the case of <hi rend="italic">United
@@ -1099,45 +1101,10 @@ Sumter they will get their two and we will get our four. One person,
 one vote and a surer chance at fairness for black and white."</p>
                <p>And so the importance of the current trial in Selma. </p>
             </div2>
-            <div2 id="sc07-2witt.006" n="Consorting with the Enemy" type="Article">
+            <div2 id="sc07-2.006" n="Consorting with the Enemy" type="Article">
                <head>Consorting with the Enemy</head>
-               <docAuthor>By Elise Witt</docAuthor>
-               <docDate>Vol. 7, No. 2, 1985, pp. 15-21</docDate>
-               <argument>
-                  <p>"I, Ronald Reagan, President of the United States of America, find
-that the policies and actions of the Government of Nicaragua
-constitute an unusual and extraordinary threat to the national
-security and foreign policy of the United States and hereby declare a
-national emergency to deal with that threat."-From the executive order
-of May 1, 1985. </p>
-                  <p>Editor's note:</p>
-                  <p>The Reagan Administration's Mayday embargo on US-Nicaraguan trade
-was accompanied by an even more belligerent action: an ordered end to
-direct travel between the two nations.</p>
-                  <p>By closing US ports and airfields to Nicaraguan ships and planes,
-the Administration diminishes the opportunities and makes the means
-more difficult for US citizens and Nicaraguans to visit each
-other. Reagan's executive order seeks to control and shape public
-perceptions, knowledge and discussion about Nicaraguan life and the
-Sandinista government. Beyond this, the Administration's unilateral
-actions take us a step backward from any ideal of unrestricted travel
-across international borders. In this instance, Nicaragua becomes the
-more open, welcoming society.</p>
-                  <p>Prior to Reagan's measures of May 1, many North Americans of
-varying political persuasions had traveled to Nicaragua and returned
-with views and interpretations of everyday life and national spirit in
-that country which consistently contradicted official US
-pronouncements. Among the passengers aboard an Aeronica Airlines
-flight from Miami to Managua one day in February were the five members
-of an Atlanta musical troupe--Elise Witt and the Small Family
-Orchestra, on their way for two weeks of performances throughout
-Nicaragua. Accompanying the group, camera-ready, was independent video
-producer George King. Excerpts from Elise Witt's journal of the trip
-(printed below) suggest the sort of personal cultural exchange that
-the embargo has now taken away--as have other, related, actions such as
-the recent denial of a US entry visa to Nicaragua's Minister of
-Culture, the poet Ernesto Cardenal.--AT</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Witt, Elise">Elise Witt</name></docAuthor></byline>
+               <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
                <p>
                   <hi rend="italic"> February 3.</hi> Miami, the cultural
 intermediary. Tropical vegetation, flowering bushes in
@@ -1526,7 +1493,42 @@ interests. As I sing, I look around the church and see faces from
 Scandinavia, Europe, from the Orient, from Africa and all the
 Americas.</p>
                <p>It is our last night in Nicaragua.</p>
-            </div2>
+            <div3 id="sc07-2.026" type="About">
+                  <p>"I, Ronald Reagan, President of the United States of America, find
+that the policies and actions of the Government of Nicaragua
+constitute an unusual and extraordinary threat to the national
+security and foreign policy of the United States and hereby declare a
+national emergency to deal with that threat."-From the executive order
+of May 1, 1985. </p>
+                  <p>Editor's note:</p>
+                  <p>The Reagan Administration's Mayday embargo on US-Nicaraguan trade
+was accompanied by an even more belligerent action: an ordered end to
+direct travel between the two nations.</p>
+                  <p>By closing US ports and airfields to Nicaraguan ships and planes,
+the Administration diminishes the opportunities and makes the means
+more difficult for US citizens and Nicaraguans to visit each
+other. Reagan's executive order seeks to control and shape public
+perceptions, knowledge and discussion about Nicaraguan life and the
+Sandinista government. Beyond this, the Administration's unilateral
+actions take us a step backward from any ideal of unrestricted travel
+across international borders. In this instance, Nicaragua becomes the
+more open, welcoming society.</p>
+                  <p>Prior to Reagan's measures of May 1, many North Americans of
+varying political persuasions had traveled to Nicaragua and returned
+with views and interpretations of everyday life and national spirit in
+that country which consistently contradicted official US
+pronouncements. Among the passengers aboard an Aeronica Airlines
+flight from Miami to Managua one day in February were the five members
+of an Atlanta musical troupe--Elise Witt and the Small Family
+Orchestra, on their way for two weeks of performances throughout
+Nicaragua. Accompanying the group, camera-ready, was independent video
+producer George King. Excerpts from Elise Witt's journal of the trip
+(printed below) suggest the sort of personal cultural exchange that
+the embargo has now taken away--as have other, related, actions such as
+the recent denial of a US entry visa to Nicaragua's Minister of
+Culture, the poet Ernesto Cardenal.--AT</p>
+               </div3>
+               </div2>
          </div1>
       </body>
    </text>

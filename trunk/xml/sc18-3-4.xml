@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -57,12 +58,15 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
    <text>
       <body>
          <div1 id="sc18-3-4.001" n="Southern Changes 18:3-4" type="Issue">
-            <head>Southern Changes.  Volume 18, Number 3-4, 1996</head>
- <div2 id="sc18-3-4.leifermann.002" n="A Question of Power: Race and Democracy in Rural Electric Co-ops" type="Article">
+            <head>Southern Changes.  Volume 18, Number 3-4,
+	    1996</head>
+	    <p><title>Southern Changes</title>.  Volume 18, Number 3-4,
+	    <date value="1996-09">1996</date></p>
+ <div2 id="sc18-3-4.002" n="A Question of Power: Race and Democracy in Rural Electric Co-ops" type="Article">
                <head>A Question of Power: Race and Democracy in Rural Electric Co-ops</head>
-               <docAuthor>By HENRY LEIFERMANN with PAT WEHNER</docAuthor>
-               <docDate>Vol. 18, No. 3-4, 1996 pp. 3-15</docDate>
-<argument><p>Henry Leifermann is an Atlanta-based free-lance writer whose work includes the book Crystal Lee, adapted for the movie "Norma Rae. " He is a New York Times magazine contributor and former Newsweek correspondent. Additional research and writing for this article was done by Pat Wehner, a graduate student at Emory University.</p></argument>
+               <byline>By <docAuthor><name reg="Leifermann,
+	       Henry">Henry Leifermann</name> with <name reg="Wehner, Pat">Pat Wehner</name></docAuthor></byline>
+               <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 3-15</docDate>
 <p rend="italic">Throughout rural America, few institutions are as powerful, economically significant, and effectively unregulated as electric and telephone membership cooperatives. In the South--the section of the United States with the highest proportion of rural and poor residents--co-ops control up to fourteen billion dollars in total assets. Having expanded to include far more than the electric lines that first brought power to the countryside, these combined resources represent the capacity to construct a better future for the rural South through homegrown economic development, job creation, and the improvement of local infrastructures.</p>
 <p rend="italic">Designed to be democratic, with each customer entitled to a vote, the co-ops have instead often functioned as private reserves of capital for local elites. In areas like the Black Belt, self-selected boards of economically powerful whites have dominated management of the co-ops through intimidation, misinformation, and blatant manipulation of electoral procedures.</p>
 <p rend="italic">This special issue of Southern Changes reflects on the fourteen year history of the SRC's Co-op Democracy and Development Project, surveys the issues affecting utility co-ops today, and raises questions about how these institutions can become a progressive force in the rural life of the South and the nation.</p>
@@ -315,7 +319,7 @@ Southern Labor Institute, summarizes the dilemma facing activists who want a gre
 <p>A veteran of the effort to democratize Black Warrior Electric Membership Cooperative, the co-op serving the largest geographical area in rural Alabama, Gordon admits that changing the co-ops will not be easy. "It's going to take an organizational effort," he says. "The problem is first, educating people about the process. Then getting community leaders from those places to select somebody to run that everybody would support. I think it can be done. I think it's a question of organizing."</p>
 
 <p rend="italic">The Southern Regional Council's Co-op Democracy and Development Project was directed by Ken Johnson and Steve Suitts. Funding for the project was provided by the Ford Foundation, the Norman Foundation, and the Public Welfare Foundation. The Carnegie Corporation also supports the publications work of the Council.</p>
-<div3 id="sc18-3-4.leifermann.006" type="Sidebar" n="Fitzgerald Recalls Twin Counties Challenge">
+<div3 id="sc18-3-4.004" type="Sidebar" n="Fitzgerald Recalls Twin Counties Challenge">
 <p rend="center"><hi rend="bold">Fitzgerald Recalls
 Twin Counties Challenge</hi></p>
 
@@ -335,7 +339,7 @@ low-down to anybody that didn't have money. Folks could be sick and
 they'd turn the lights off on them. They couldn't get any
 redress."</p>
 </div3>
-<div3 type="Sidebar" n="Co-op Participation Rates at Annual Meetings" id="sc18-3-4.leifermann.003">
+<div3 type="Sidebar" n="Co-op Participation Rates at Annual Meetings" id="sc18-3-4.005">
 <table><head rend="center">Co-op Participation Rates at Annual Meetings</head>
 <row><cell>State</cell><cell>Co-ops surveyed&#x2217;</cell><cell>Total
 Customers</cell><cell>%Black
@@ -364,7 +368,7 @@ Members</cell><cell>%Women Board Members</cell></row>
 
 <p>Source: The Rural Utilities Service's Reports of Compliance and Participation (REA Form 268) for fiscal year 1995.</p>
 </div3>
-<div3 id="sc18-3-4.leifermann.004" type="Sidebar" n="Co-op Participation Rates at Annual Meetings">
+<div3 id="sc18-3-4.006" type="Sidebar" n="Co-op Participation Rates at Annual Meetings">
 <table><head rend="center">Co-op Participation Rates at Annual Meetings</head>
 <row><cell>State</cell><cell>Co-ops surveyed&#x2217;</cell><cell>Total
 Members</cell><cell>Members Present</cell><cell>%Members
@@ -390,7 +394,7 @@ Present&#x2217;&#x2217;</cell></row>
 
 <p>Source: The Rural Utility Service's Co-op Financial and Statistical Reports (RUS Form 7) for period ending December 31, 1995.</p>
 </div3>
-<div3 id="sc18-3-4.leifermann.005" type="Sidebar" n="Debt Write-Downs
+<div3 id="sc18-3-4.007" type="Sidebar" n="Debt Write-Downs
 						     Unlikely To
 						     Impact Development">
 <p rend="center"><hi rend="bold">Debt Write-Downs Unlikely To Impact
@@ -415,14 +419,16 @@ list, Crain said. In addition, economic development loans are handled
 by a separate department of the USDA, the Rural Business and
 Cooperative Service Department.</p>
 </div3>
+<div3 id="sc18-3-4.022" type="About"><p>Henry Leifermann is an Atlanta-based free-lance writer whose work includes the book <title>Crystal Lee</title>, adapted for the movie "Norma Rae." He is a <title>New York Times</title> magazine contributor and former <title>Newsweek</title> correspondent. Additional research and writing for this article was done by Pat Wehner, a graduate student at Emory University.</p></div3>
+
 </div2>
 
- <div2 id="sc18-3-4.quesenberry.001" n="Massive Electrical Resistance:
+ <div2 id="sc18-3-4.008" n="Massive Electrical Resistance:
 The Struggle for Democracy at Mecklenburg Co-op" type="Article">
                <head>Massive Electrical Resistance: The Struggle for Democracy at
 Mecklenburg Co-op</head>
-               <docAuthor>By Henry Leifermann and Preston Quesenberry</docAuthor>
-               <docDate>Vol. 18, No. 3-4, 1996</docDate>
+               <byline>By <docAuthor><name reg="Leifermann, Henry">Henry Leifermann</name> and <name reg="Quesenberry,  Preston"> Preston Quesenberry</name></docAuthor></byline>
+               <docDate value="1996-09">Vol. 18, No. 3-4, 1996</docDate>
 <p>For well over a decade, Cora Tucker, a civil rights activist and founder of the grassroots organization Citizens for a Better America, has been working to get African-American candidates democratically elected to the board of directors of the Mecklenburg Electric Co-op in Virginia, located on the North Carolina state line near I-95. African-American members have never elected one of their own candidates to the co-op board, despite making up more than a third of Mecklenburg's customers, says Tucker.</p>
 
 <p>Currently, two of Mecklenburg's eleven board members are African American,
@@ -462,9 +468,10 @@ at the June annual meeting to nominate their own candidate,
 back," Tucker says.</p>
  </div2>
 
-<div2 id="sc18-3-4.quesenberry.002" type="Article" n="A Different Type of Development">
-<docAuthor>Henry Liefermann and Preston Quesenberry</docAuthor>
-<docDate>Vol. 18, No. 3-4, 1996 pp. 19-21</docDate>
+<div2 id="sc18-3-4.010" type="Article" n="A Different Type of Development">
+<byline><docAuthor><name reg="Leifermann, Henry">Henry
+Liefermann</name> and <name reg="Quesenberry, Preston">Preston Quesenberry</name></docAuthor></byline>
+<docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 19-21</docDate>
 <head>A Different Type of Development</head>
 <p>It took a coalition of whites and blacks to win the only election victory at a local utility co-op during the original Co-op Democracy Project efforts in 1983. Working together, the reform coalition successfully elected five new candidates to the board of directors of the Dixie Electric Membership Cooperative in Baton Rouge, Louisiana. What has happened since that victory serves as an example of both the opportunities offered by cooperatives and the difficulties in maintaining full democratic participation.</p>
 <p rend="center"><hi rend="bold">Coalition and Change</hi></p>
@@ -515,9 +522,9 @@ into private sector facilities. The center also helps aspiring entrepreneurs set
 <p>If DEMCO's members were to become more actively involved in their co-op, however, a different type of rural economic development might be possible--a type democratically controlled and specifically designed to serve the community's needs as its members see them.</p>
 <byline>--H.L. AND P.Q.</byline>
 </div2>
-<div2 id="sc18-3-4.quesenberry.004" type="Article" n="Private Interest Law: The Case Against Delta EPA">
-<docAuthor>Preston Quesenberry</docAuthor>
-<docDate>Vol. 18, No. 3-4, 1996 pp. 22-23</docDate>
+<div2 id="sc18-3-4.011" type="Article" n="Private Interest Law: The Case Against Delta EPA">
+<byline><docAuthor><name reg="Quesenberry, Preston">Preston Quesenberry</name></docAuthor></byline>
+<docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 22-23</docDate>
 <head>Private Interest Law: The Case Against Delta EPA</head>
 <p>Challenging an institution as tricky to define in legal terms as a rural electric cooperative can prove a difficult task. An unsuccessful lawsuit filed in 1983 against the Delta Electric Power Association provides a vivid demonstration of some of these inherent complexities.</p>
 <p>The plaintiffs in the case of <hi rend="italic">Givens, et al. v. Delta Electric Power Association</hi> felt they had encountered a
@@ -550,7 +557,7 @@ customers. The plaintiffs tried to convince the court that Delta <hi rend="itali
 <p>According to Paul Sonn of the NAACP Legal Defense Fund, this reading of Title VI--which required a direct "nexus" between the federal funds used by a program and the specific manner in which the program discriminated--was common in the early- to mid-1980s. In 1984, the U.S. Supreme Court upheld this way of reading Title VI in Grove City College v. Bell.</p>
 <p>But in 1988, the U.S. Congress decided that Title VI was meant to offer broader protection against racial discrimination in federally-funded institutions and passed the Civil Rights Restoration Act. The act states that an institution receiving federal funding cannot discriminate (either intentionally or effectively) in any of its activities. Because of this act, Sonn says a similar suit brought against Delta today could not be dismissed for the same reasons.</p>
 <p>--P.Q.</p>
-<div3 id="sc18-3-4.quesenberry.005" type="Sidebar" n="Opportunity Comes to
+<div3 id="sc18-3-4.012" type="Sidebar" n="Opportunity Comes to
 						Roanoke Electric">
 <head>Opportunity Comes to Roanoke Electric</head>
 <p>What may be the only majority-black electric cooperative board in
@@ -599,9 +606,9 @@ black, and an independent watchdog committee has been set up to
 monitor future hiring.</p>
 </div3>
 </div2>
-<div2 id="sc18-3-4.quesenberry.006" type="Article" n="Deregulation: 'Wheeling' Over Rural Customers">
-<docAuthor>Preston Quesenberry</docAuthor>
-<docDate>Vol. 18, No. 3-4, 1996 pp. 24-26</docDate>
+<div2 id="sc18-3-4.013" type="Article" n="Deregulation: 'Wheeling' Over Rural Customers">
+<byline><docAuthor><name reg="Quesenberry, Preston">Preston Quesenberry</name></docAuthor></byline>
+<docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 24-26</docDate>
 <head>Deregulation: "Wheeling" Over Rural Customers</head>
 
 <p>The proposed deregulation of electric utilities is emerging as yet another obstacle to rural electric cooperatives becoming a progressive force in their communities. Currently, electric co-ops at least have the potential to address a wide variety of social needs in their service areas: economic development, democratic involvement, environmental protection, energy conservation, and affordable service for all customers (including low-income or hard-to-serve customers). But in the competitive, laissez faire environment created by deregulation, this host of concerns could very likely fall victim to the
@@ -645,11 +652,11 @@ vote. Schaefer himself has admitted his legislation is not likely to
 be enacted this year, but anticipates that it will be a top priority
 in 1997.</p>
 </div2>
-<div2 id="sc18-3-4.suitts.008" type="Article" n="Undemocratic at Heart: Transforming the South's Utility Coops">
-<docAuthor>STEVE SUITTS</docAuthor>
-<docDate>Vol. 18, No. 3-4, 1996 pp. 27-29</docDate>
+<div2 id="sc18-3-4.014" type="Article" n="Undemocratic at Heart: Transforming the South's Utility Coops">
+<byline><docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+<docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 27-29</docDate>
 <head>Undemocratic at Heart: Transforming the South's Utility Coops</head>
-<argument><p>Steve Suitts is former executive director of the Southern Regional Council.</p></argument>
+
 <p>The enduring, pivotal significance of the utility co-op movement is demonstrated by the simple, historical fact that never has there been another economic institution that has so many resources, that has so vital a role to play in the rural South's livelihood, and that is within the reach of democratic transformation. Utility co-ops offer a rare opportunity in America's private sector to unite democracy and development for the long-term direct benefit of the poor on a broad societal scale. At the moment, this effort has even more immediate significance, as the Congress has restructured vastly the terms by which the government assists the poor. The rural South is where the impact of the new welfare system will come home first for the simple reason that it is where jobs are scarcest. Amid welfare "reform" and all of the dangers and potential cruelties it includes, the utility co-op movement is a way in which to respond by attempting to link the needs of the poor with opportunities for economic development -- for the creation of jobs and job skills.</p>
 <p>The rural South is also where the majority of rural poor African Americans live, as well as the ancestral home of a majority of African Americans. There is no place more important to the rural poor, but especially the rural black poor, than the rural South. Not incidentally, it is where the greatest disrespect for the democratic principles of the utility co-op movement has been evident.</p>
 <p>Telephone and electric co-ops, which are meant to be run by the people they serve, provide the basic utility services for much of the rural South. As we watch government support for the poor diminish over the next few years, nothing will come home faster than whether people can afford to pay their utilities, to keep their homes heated in winter, and to keep from suffering enormously in the summer heat of the South. These largely unregulated utility co-ops will make the decisions about what rates the poor pay.</p>
@@ -678,6 +685,8 @@ urgency among those who are concerned about the rural South. This is a major pol
 <p>The other difficulty here is that the era of the 1950s has passed and it is hard to recreate the kind of activism that people were engaged in at that time. When all it takes now is for enough folks to go to the polls in order to win political office in the Black Belt, it is difficult both for ordinary citizens and black leaders in those areas to think that they should return to tactics from a time when they had to stay outside the privileged circle and show some-one they couldn't get inside, although the rules of democracy say that they should. In other words, the co-ops have sustained what is essentially a form of segregation.</p>
 <p>It seems such an anachronism that to dismantle the anti-democratic nature of the co-ops, people have to re-turn to techniques that were used to fight segregation in the 1950s. That is an approach to problem-solving that we find very difficult to imagine and to initiate today. Yet. I see no other way to make the case than for us to begin to repeat the same approaches -- with different technologies and different styles, perhaps -- that were used in redressing the denial of the right to vote in the rural South. The hope here is that it won't take thirty years.</p>
 <p>As the damage of welfare reform begins to be evident and as those who supported welfare reform on both sides of the aisle in the Congress begin to see what they've done, there may be a real opportunity here for them to make partial amends by doing something that is so simple and so fundamental as requiring a quasi-public institution that by its very being should be democratically controlled to begin to live up to that promise, so there can be opportunities for the development of jobs for rural Southerners living in poverty. So it may be that the tragedy of welfare reform can bring some new possibilities for changes in the co-op utilities. That's the hope, and it maybe the best hope, and ironically, hope usually does spring from tragedy.</p>
+<div3 id="sc18-3-4.034" type="About"><p>Steve Suitts is former
+executive director of the Southern Regional Council.</p></div3>
 </div2>
 	 </div1>
       </body>

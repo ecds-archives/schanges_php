@@ -65,15 +65,11 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <p>
 <title>Southern Changes.</title>. Volume 1, Number 10, 1979</p>
 
-<div2 id="sc01-10mcdonaldsmith.002" n="Minorities in Southern Television: Visibility But Little Control" type="Article">
+<div2 id="sc01-10.002" n="Minorities in Southern Television: Visibility But Little Control" type="Article">
 <head>Minorities in Southern Television: Visibility But Little
 Control</head>
-<docAuthor>by Faye McDonald Smith</docAuthor>
+<byline><docAuthor><name reg="">by Faye McDonald Smith</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 3,26-29</docDate>
-<argument><p>
-Television producer Faye McDonald Smith works at WETV, Channel Thirty,
-in Atlanta.
-</p></argument>
 
 <p>The days are over - pretty much - when Black people would do a
 double take when they turned on the television set and saw one of
@@ -221,18 +217,17 @@ extra boost. The Storer Broadcasting Company has established a minority ownershi
 <p>*Summary information was based on 13 Southeastern states: Alabama,
 Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North
 Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia.</p> 
+<div3 id="sc01-10.022" type="About"><p>
+Television producer Faye McDonald Smith works at WETV, Channel Thirty,
+in Atlanta.
+</p></div3>
 </div2>
 
-<div2 id="sc01-10fowler.003" n="The Progressive Farmer: A Long Row's Hoeing into Lespedeza" type="Article">
+<div2 id="sc01-10.003" n="The Progressive Farmer: A Long Row's Hoeing into Lespedeza" type="Article">
 <head>The Progressive Farmer: A Long Row's Hoeing into
 Lespedeza</head>
-<docAuthor>By Cary Fowler</docAuthor>
-<docDate> Vol. 1, No. 10, 1979, pp. 4,29-32</docDate>
-<argument><p>
-Cary Fowler works at the Frank Porter Graham Agricultural Training
-Center in Anson County, North Carolina. He is author of the <hi rend="bold">Graham
-Center Seed Directory</hi>.
-</p></argument>
+<byline>By <docAuthor><name reg="Fowler, Cary">Cary Fowler</name></docAuthor></byline>
+<docDate> Vol. 1, No. 10, 1979, pp. 4, 29-32</docDate>
 
 <p>Southern politics in the 1880s was alive with the fever of a
 native-born Populism. Led by the Southern Alliance (renamed the
@@ -342,19 +337,19 @@ farmer. Doubtless he would be using <hi rend="italic">Progressive
 Farmer</hi> to spread the advice the Kansas Populist Mary Lease
 offered to the readers of her newspaper. "Farmers," she said, "should
 raise less corn and more hell."</p>
+<div3 id="sc01-10.023" type="About"><p>
+Cary Fowler works at the Frank Porter Graham Agricultural Training
+Center in Anson County, North Carolina. He is author of the <title>Graham
+Center Seed Directory</title>.
+</p></div3>
 </div2>
 
-<div2 id="sc01-10tullos.005" n="Azalea Death Trip: A Journey Through the
+<div2 id="sc01-10.005" n="Azalea Death Trip: A Journey Through the
 Land of Southern Living" type="Article">
 <head>Azalea Death Trip: A Journey Through the
 Land of <hi rend="bold">Southern Living</hi></head>
-<docAuthor>By Allen Tullos</docAuthor>
+<byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 7-10,32</docDate>
-<argument><p>
-Allen Tullos is the editor of this special issue of Southern
-Changes. A native Alabamian, he currently lives in Chapel Hill, North
-Carolina.
-</p></argument>
 
 <p>In the beginning," it is written in <hi rend="bold">Southern Living</hi> magazine, "man created Florida "Later on, men got around to creating Puerto Vallarta, where "luxury hotels are beginning to change the red-tile and adobe skyline of this picturesque little fishing village on the west coast of Mexico." And, somewhere along the way, arose the Land of Oz, a theme park constructed by Grover and Harry Robbins' Carolina Caribbean Corporation atop North Carolina's Beech Mountain: "there was this wild top-of-the-world mountain that could overwhelm you, and the Robbins didn't want to see it forever wasted."</p>
 
@@ -493,17 +488,18 @@ name in.</hi></p>
 <p><hi rend="bold">Dickey</hi>: <hi rend="italic">Maxine. But then,
 let's see, when I cameback out of the Service from the Korean War. I
 went back to Rice and I was still a freshman teacher. I was writing....</hi></p></q></p>
+<div3 id="sc01-10.025" type="About"><p>
+Allen Tullos is the editor of this special issue of Southern
+Changes. A native Alabamian, he currently lives in Chapel Hill, North
+Carolina.
+</p></div3>
 </div2>
 
-<div2 id="sc01-10gladney.004" n="Lillian Smith: The Winner Names the Age"
+<div2 id="sc01-10.004" n="Lillian Smith: The Winner Names the Age"
 type="Article">
 <head>Lillian Smith: The Winner Names the Age</head>
-<docAuthor>By Rose Gladney</docAuthor>
+<byline>By <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 11-13</docDate>
-<argument>
-<p>Rose Gladney is an assistant professor of American Studies at the
-University of Alabama at Tuscaloosa.</p>
-</argument>
 
 <p><hi rend="bold">The Winner Names the Age: A Collection of Writings
 by Lillian Smith</hi>. Edited by Michelle Cliff. New York: W.W. Norton &#x0026; Company, Inc. 1978.</p>
@@ -552,14 +548,17 @@ creation of a new awareness, not only of the life and work of the
 author, but more importantly, of the larger vision of her regional
 consciousness: a perspective which continues to challenge the values
 of American culture as a whole.</p>
+<div3 id="sc01-10.024" type="About">
+<p>Rose Gladney is an assistant professor of American Studies at the
+University of Alabama at Tuscaloosa.</p>
+</div3>
 </div2>
 
-<div2 id="sc01-10derfner.006" n="A Bluffer's Guide to Recent Southern Fiction"
+<div2 id="sc01-10.006" n="A Bluffer's Guide to Recent Southern Fiction"
 type="Article">
 <head>A Bluffer's Guide to Recent Southern Fiction</head>
-<docAuthor>By Mary Frances Derfner</docAuthor>
+<byline>By <docAuthor><name reg="Derfner, Mary Frances">Mary Frances Derfner</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 14-18</docDate>
-<argument><p>Mary Frances Derfner is currently  vice president of the Southern Regional Council and chairperson of next year's Lillian Smith Award committee.</p></argument>
 
 <p>In late 1975 and early 1976, several seemingly innocuous pieces of
 paper got me into grim trouble, which has continued unabated ever
@@ -744,14 +743,14 @@ so. He writes, in <hi rend="bold">Civil Rights in Recent Southern
 Fiction</hi> (1969), that "a Southern writer can be so deeply human
 that the basic themes of the South are almost unrecognizable in his
 stories. Yet they will be there." And they are.</p>
+<div3 id="sc01-10.026" type="About"><p>Mary Frances Derfner is currently  vice president of the Southern Regional Council and chairperson of next year's Lillian Smith Award committee.</p></div3>
 </div2>
 
-<div2 id="sc01-10noble.007" n="Southern Newspapers: Watching the Watchdogs"
+<div2 id="sc01-10.007" n="Southern Newspapers: Watching the Watchdogs"
 type="Article">
 <head>Southern Newspapers: Watching the Watchdogs</head>
-<docAuthor>By Larry Noble</docAuthor>
+<byline>By <docAuthor><name reg="Noble, Larry">Larry Noble</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 19-23</docDate>
-<argument><p>Larry Noble teaches political science at Atlanta University.</p></argument>
 
 <p>Daily newspapers play a key role in the lives of the people of the South. The papers provide us with commercial and economic information, with information on political and non-political events, with entertainment information and entertainment itself. They also present us with advice on what positions we should take on public affairs and furnish a controlled forum of letters to the editor.</p>
 
@@ -989,14 +988,14 @@ favorable to Black people; 96 percent opposed to big government; 91
 percent favorable to business; 70 percent opposed to freedom of
 expression; 89 percent in favor of the Vietnam War; and 77 percent
 opposed to pro poverty and welfare policies.)</p>
+<div3 id="sc01-10.027" type="About"><p>Larry Noble teaches political science at Atlanta University.</p></div3>
 </div2>
 
-<div2 id="sc01-10gutierrez.008" n="Book Review: THE CAJUNS Essays on Their History and Culture"
+<div2 id="sc01-10.008" n="Book Review: THE CAJUNS Essays on Their History and Culture"
 type="Article">
 <head>Book Review: THE CAJUNS Essays on Their History and Culture</head>
-<docAuthor>By C. Paige Gutierrez</docAuthor>
+<byline>By <docAuthor><name reg="Gutierrez, C. Paige">C. Paige Gutierrez</name></docAuthor></byline>
 <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 24-25</docDate>
-<argument><p>Paige Gutierrez, a graduate student in cultural anthropology at the University of North Carolina, is presently doing field research in Breaux Bridge. Louisiana.</p></argument>
 
 <p>Glenn K. Conrad, ed. <hi rend="bold">The Cajuns: Essays on Their History and Culture</hi>. Published by the Center for Louisiana Studies University of South-western Louoisiana, Lafayette, 1978. Illustrated.</p>
 
@@ -1051,6 +1050,7 @@ United States. An understanding of diverse subcultures and regional
 variation is a prerequisite to the understanding of the South and the
 nation as a whole. Regionally produced books like  <hi rend="bold">The
 Cajuns</hi> accelerate this understanding.</p>
+<div3 id="sc01-10.028" type="About"><p>Paige Gutierrez, a graduate student in cultural anthropology at the University of North Carolina, is presently doing field research in Breaux Bridge. Louisiana.</p></div3>
 </div2>
 </div1>
       </body>

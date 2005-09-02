@@ -63,15 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc09-5.001" n="Southern Changes 9:5" type="Issue">
             <head>Southern Changes.  Volume 9, Number 5, 1987</head>
             <p>
-               <title>Southern Changes</title>.  Volume 9, Number 5, 1987</p>
-            <div2 id="sc09-5teepen.002" n="Waiting for the Gag Reflex" type="Article">
+               <title>Southern Changes</title>.  Volume 9, Number 5,
+	       <date value="1987-12">1987</date></p>
+            <div2 id="sc09-5.002" n="Waiting for the Gag Reflex" type="Article">
                <head>Waiting for the Gag Reflex</head>
-               <docAuthor>By TOM TEEPEN</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 1-2</docDate>
-               <argument>
-                  <p>Tom Teepen is editor of the editorial page of the Atlanta
-Constitution</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Teepen, Tom">Tom Teepen</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate>
+               
                <p>The killing is picking up, not that anyone notices much any
 more.</p>
                <p>We killed a man in Georgia the other night. The paper front-paged
@@ -143,21 +141,17 @@ debilitating poverty. The death penalty has become an act of class
 warfare, fought top-down against the poor and incompetent.</p>
                <p>America may no longer have a heart in such matters, but perhaps, at
 some point, we will prove still to have a gag reflex.</p>
-            </div2>
-            <div2 id="sc09-5ritchie.003" n="As We Have Sown" type="Article">
+            <div3 id="sc09-5.022" type="About">
+                  <p>Tom Teepen is editor of the editorial page of the Atlanta
+Constitution</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.003" n="As We Have Sown" type="Article">
                <head>As We Have Sown: The new struggle is the same old fight to make
 enough to survive</head>
-               <docAuthor>By MARK RlTCHIE</docAuthor>
-               <docDate>Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate>
-               <argument>
-                  <p>Edward Pennick is director of the Emergency Land
-Fund. Mark Ritchie, a native Georgian, is an agricultural policy
-analyst with the Minnesota Department of Agriculture.</p>
-                  <p>The articles by Pennick and Ritchie are based on remarks they made
-recently in Atlanta at the conference, "Urban Connections to the
-Rural Crisis," sponsored by the Federation of Southern
-Cooperatives and the National Council of Churches.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Ritchie, Mark">Mark Ritchie</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate>
+               
                <p>History is a good place to begin. The important thing about
 agriculture in the United States from the beginning of European
 colonization is that from the moment this country was founded,
@@ -438,13 +432,7 @@ human spirit and of health and safety.</p>
                <p>We need to bring these people together to address those crises as a
 political coalition because that is the only way we will solve
 them-together. </p>
-            </div2>
-            <div2 id="sc09-5pennick.004" n="As We Have Sown" type="Article">
-               <head>As We Have Sown: At current rates, blacks will own no land by
-the end of this century</head>
-               <docAuthor>By EDWARD PENNICK</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, 5-7</docDate>
-               <argument>
+            <div3 id="sc09-5.023" type="About">
                   <p>Edward Pennick is director of the Emergency Land
 Fund. Mark Ritchie, a native Georgian, is an agricultural policy
 analyst with the Minnesota Department of Agriculture.</p>
@@ -452,7 +440,14 @@ analyst with the Minnesota Department of Agriculture.</p>
 recently in Atlanta at the conference, "Urban Connections to the
 Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
-               </argument>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.004" n="As We Have Sown" type="Article">
+               <head>As We Have Sown: At current rates, blacks will own no land by
+the end of this century</head>
+               <byline>By <docAuthor><name reg="Pennick, Edward">Edward Pennick</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate>
+               
                <p>For black Americans the rural crisis is not limited to any region,
 profession or economic class. It touches us all though probably
 nowhere is the farm crisis more acute than in the rural South.</p>
@@ -619,17 +614,22 @@ grassroots and progressive white leaders will also be participants in
 our imaginary press conference, because the farms will be owned by a
 few corporations that will give us all a lesson on what it means to
 control the land. </p>
-            </div2>
-            <div2 id="sc09-5amberg.005" n="Rural Advancement Fund Celebrates 50 Years of Farm Advocacy" type="Article">
+            <div3 id="sc09-5.024" type="About">
+                  <p>Edward Pennick is director of the Emergency Land
+Fund. Mark Ritchie, a native Georgian, is an agricultural policy
+analyst with the Minnesota Department of Agriculture.</p>
+                  <p>The articles by Pennick and Ritchie are based on remarks they made
+recently in Atlanta at the conference, "Urban Connections to the
+Rural Crisis," sponsored by the Federation of Southern
+Cooperatives and the National Council of Churches.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.005" n="Rural Advancement Fund Celebrates 50 Years of Farm Advocacy" type="Article">
                <head>Rural Advancement Fund Celebrates 50 Years of Farm
 Advocacy</head>
-               <docAuthor>By ROBERT AMBERG</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 11-15</docDate>
-               <argument>
-                  <p>Robert Amberg is communications director and photographer
-for the Rural Advancement Fund. A book-length history of RAF/NSF by
-Tevere MacFadyen will be published this winter.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Amberg, Robert">Robert Amberg</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate>
+               
                <p>This year the Rural Advancement Fund/National Sharecroppers Fund
 celebrates its fiftieth anniversary as an advocate for family farms
 and rural communities. Initially formed as an annual "National
@@ -869,25 +869,17 @@ them. Speed now the day when the plains and the hills and all the
 wealth thereof shall be the people's own and free men shall not live
 as tenants of men on the earth..."</hi>
                </p>
-            </div2>
-            <div2 id="sc09-5kennedy.006" n="Lost Causes &#x26;Then Some" type="Article">
+            <div3 id="sc09-5.025" type="About">
+                  <p>Robert Amberg is communications director and photographer
+for the Rural Advancement Fund. A book-length history of RAF/NSF by
+Tevere MacFadyen will be published this winter.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.006" n="Lost Causes &#x26;Then Some" type="Article">
                <head>Lost Causes &#x26;Then Some</head>
-               <docAuthor>By STETSON KENNEDY</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 16-24</docDate>
-               <argument>
-                  <p>Stetson Kennedy, a Florida native, played a prominent
-role in the pioneer civil rights movement of the thirties and
-forties. Taking it upon himself to infiltrate the KKK and a score of
-other racist/terrorist bands, his books <title>Southern Exposure, I
-Rode With the KKK</title>, and <title>Jim Crow Guide</title> were the
-first by a white Southerner to raise the standard of "total equality."
-They not only helped "soften up the South for righteousness," but,
-translated into a score of foreign languages, served to give Uncle Sam
-a global hotfoot to "do something." At 71, Kennedy lives near
-Jacksonville, Fla., where he is putting together a selection of his
-writings under the title, "Land Be Bright," and an autobiography,
-"Dissident-at-Large."</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate>
+               
                <p>This is the second of two articles on the once and future South, as
 viewed from the perspective of a life-long organizer, activist and
 writer. Forty years have elapsed since publication of the author's
@@ -1477,11 +1469,25 @@ white, black, brown, and yellow; rich and poor; free and unfree;
 sinners and saints--we're all in the whale's belly together, and the
 whale is headed for the beach.</p>
                <p>Somebody do something, quick!</p>
-            </div2>
-            <div2 id="sc09-5staff.007" n="South Leads in Black Officeholders" type="Article">
+            <div3 id="sc09-5.026" type="About">
+                  <p>Stetson Kennedy, a Florida native, played a prominent
+role in the pioneer civil rights movement of the thirties and
+forties. Taking it upon himself to infiltrate the KKK and a score of
+other racist/terrorist bands, his books <title>Southern Exposure, I
+Rode With the KKK</title>, and <title>Jim Crow Guide</title> were the
+first by a white Southerner to raise the standard of "total equality."
+They not only helped "soften up the South for righteousness," but,
+translated into a score of foreign languages, served to give Uncle Sam
+a global hotfoot to "do something." At 71, Kennedy lives near
+Jacksonville, Fla., where he is putting together a selection of his
+writings under the title, "Land Be Bright," and an autobiography,
+"Dissident-at-Large."</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.007" n="South Leads in Black Officeholders" type="Article">
                <head>South Leads in Black Officeholders</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, p. 25</docDate>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate>
                <p>Mississippi leads the nation in total number of black elected
 officials and Alabama has the highest percentage of black
 officeholders in the United States, according to the annual <title>Black
@@ -1536,25 +1542,11 @@ Roster</title>, 1987, send $29.50 to Publications Office, Joint Center
 for Political Studies, 1301 Pennsylvania Avenue, N.W., #400,
 Washington, D.C. 20004.</p>
             </div2>
-            <div2 id="sc09-5hayden.008" n="Sermonette on the Movement" type="Article">
+            <div2 id="sc09-5.008" n="Sermonette on the Movement" type="Article">
                <head>Sermonette on the Movement</head>
-               <docAuthor>By CASEY HAYDEN</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 27-29</docDate>
-               <argument>
-                  <p>Editor's Note: Freedom Song by Mary King f William Morrow
-and Co., $22.95, 592 pp.) appeared this year and has been hailed by
-many reviewers as a monument to the civil rights movement. Ms. King
-worked for the Student Non-Violent Coordinating Committee during the
-early sixties and has recorded her experiences during this time. In
-1986 she sent the first draft of her manuscript to Casey Hayden (a
-Texas native lately of the Southern Regional Council staff, who now
-works for the City of Atlanta) and asked if Hayden would like to write
-a statement of her own which might be used as an- introduction. The
-following was Hayden's response to this request. The essay appeared in
-abbreviated form as a preface to <title>Freedom Song</title> and is
-presented here as a reflection on the period and the
-book.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hayden, Casey">Casey Hayden</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate>
+               
                <p>Mary King is like her ancestors. She walks a very straight line for
 a long time. She was always like that: solid, linear, historical,
 careful, analytical, objective, thorough. And stouthearted. The
@@ -1813,16 +1805,27 @@ book. They, and not we, were the heroes, the heroines. I was
 privileged to have been their servant for a while. To them, for all I
 learned from them and for all the beauty I witnessed, I extend my most
 sincere and humble thanks.</p>
-            </div2>
-            <div2 id="sc09-5ponder.009" n="Avedon's West" type="Article">
+            <div3 id="sc09-5.028" type="About">
+                  <p>Editor's Note: Freedom Song by Mary King, William Morrow
+and Co., $22.95, 592 pp.) appeared this year and has been hailed by
+many reviewers as a monument to the civil rights movement. Ms. King
+worked for the Student Non-Violent Coordinating Committee during the
+early sixties and has recorded her experiences during this time. In
+1986 she sent the first draft of her manuscript to Casey Hayden (a
+Texas native lately of the Southern Regional Council staff, who now
+works for the City of Atlanta) and asked if Hayden would like to write
+a statement of her own which might be used as an introduction. The
+following was Hayden's response to this request. The essay appeared in
+abbreviated form as a preface to <title>Freedom Song</title> and is
+presented here as a reflection on the period and the
+book.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.009" n="Avedon's West" type="Article">
                <head>Avedon's West</head>
-               <docAuthor>BY ART PONDER</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 30-31</docDate>
-               <argument>
-                  <p>Art Ponder is a drifter and a sometimes contributor to
-<title>Southern Changes</title> who is currently stationed in
-Atlanta.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Ponder, Art">Art Ponder</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate>
+               
                <p>Richard Avedon is generally known as a fashion photographer, the
 man who creates the "idealized," sexist icons for the covers of such
 magazines as Vogue and Self. Others may know him as a contributor to
@@ -1947,17 +1950,24 @@ approach never gets beyond the surface he holds so dear, generating
 not the least bit of understanding. Devoid of understanding and
 compassion, his subjects are left to drift helplessly and silently,
 with no voice to offer us their sagas of life and work.</p>
-            </div2>
-            <div2 id="sc09-5thomas.010" n="Women and 'Men's Work' During the War Years" type="Review">
-               <head>Women and 'Men's Work' During the War Years.  <title>Riveting
+            <div3 id="sc09-5.029" type="About">
+                  <p>Art Ponder is a drifter and a sometimes contributor to
+<title>Southern Changes</title> who is currently stationed in
+Atlanta.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.010" n="Women and 'Men's Work' During the War Years" type="Review">
+               <head>Women and 'Men's Work' During the War Years.</head>  
+               <byline>By <docAuthor><name reg="Thomas, Mary Martha">Mary Martha Thomas</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate>
+               <bibl><title>Riveting
 and Rationing in Dixie: Alabama Women and the Second World War</title>
 by Mary Martha Thomas. (Tuscaloosa: University of Alabama Press,
-1987.145 pp. $16.95, cloth.)</head>
-               <docAuthor>By Mary Martha Thomas</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate>
-               <p>Beyond the dull, dull, dull style there's an impressive research
-job and an intriguing view of social change in Riveting and Rationing
-in Dixie.</p>
+	       1987.145 pp. $16.95, cloth.)</bibl>
+
+	       <p>Beyond the dull, dull, dull style there's an
+	       impressive research job and an intriguing view of
+	       social change in Riveting and Rationing in Dixie.</p>
                <p>Some women, of course, had always worked outside the home, notably
 blacks and poor whites. But the war, for the first time, created a
 large need for women to fill tradition-
@@ -2004,10 +2014,10 @@ in 1940. In short, says Thomas, the "forces of continuity seem to
 have prevailed over the forces of change during the war years in
 Alabama."</p>
             </div2>
-            <div2 id="sc09-5hrw.011" n="The Struggle Goes to Hollywood" type="Article">
+            <div2 id="sc09-5.011" n="The Struggle Goes to Hollywood" type="Article">
                <head>The Struggle Goes to Hollywood</head>
-               <docAuthor>By HRW</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, p. 39</docDate>
+               <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate>
                <p>In the eyes of a South African filmmaker who has seen <title>Cry
 Freedom</title>  while visiting the United States recently, Richard
 Attenborough's epic film about Donald Woods and Stephen Biko is a
@@ -2087,13 +2097,11 @@ gamble on the part of the Botha government to win points abroad by
 trying to show that the film will have minimal adverse effect in South
 Africa.</p>
             </div2>
-            <div2 id="sc09-5gladney.012" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc09-5.012" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
-               <docAuthor>Edited by ROSE GLADNEY</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 32-33</docDate>
-               <argument>
-                  <p>Rose Gladney is assistant professor of American studies
-at the University of Alabama, Tuscaloosa.</p>
+               <byline>Edited by <docAuthor><name reg="Gladney, Rose">ROSE GLADNEY</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate>
+               
                   <p>As writer, intellectual, and social critic of 20th century Southern
 and American life, Lillian Smith corresponded with a variety of
 notables about subjects of major historical, political, and cultural
@@ -2137,7 +2145,7 @@ and spirit of a woman keenly observant of the world around her,
 especially conscious of the importance of all aspects of human
 relationships, and clearly aware of her role in shaping and
 interpreting the age in which she lived.</p>
-               </argument>
+               
                <p>April 7, 1942</p>
                <p>Mrs. Franklin Roosevelt,</p>
                <p>The White
@@ -2214,22 +2222,16 @@ mention this kindness to us so that it will help you identify us.</p>
 unwavering stand for the democratic decencies.</p>
                <p>Most sincerely yours,</p>
                <p>Lillian E. Smith</p>
-            </div2>
-            <div2 id="sc09-5davis.013" n="The 1987 Lillian Smith Book Awards" type="Article">
+            <div3 id="sc09-5.032" type="About">
+                  <p>Rose Gladney is assistant professor of American studies
+at the University of Alabama, Tuscaloosa.</p>
+	    </div3>
+	  </div2>
+            <div2 id="sc09-5.013" n="The 1987 Lillian Smith Book Awards" type="Article">
                <head>The 1987 Lillian Smith Book Awards</head>
-               <docAuthor>By THADIOUS DAVIS</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate>
-               <argument>
-                  <p>Thadious Davis teaches at the University of North
-Carolina at Chapel Hill and was a member of the committee which
-selected this year's Lillian Smith prize winners. Other committee
-members were Robert J. Norrell, Center for the Study of Southern
-History and Culture, University of Alabama; Mary Frances Derfner,
-Charleston, S.C.; and Anthony P. Dunbar, New Orleans, La. In making
-its selections, the committee reviewed approximately forty strong
-entries in fiction, history, and autobiography! memoir published
-between July 1, 1986, and June 30, 1987.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="DAVIS, THADIOUS">THADIOUS DAVIS</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate>
+               
                <p>When Georgia author Lillian Smith died in 1966, the Southern
 Regional Council established an award not only to honor her work and
 her memory, but also to foster in others the spirit of her courageous
@@ -2387,17 +2389,26 @@ modern South."</p>
                <p>Race and Justice</p>
                <p>Of the 5,710 judges and prosectors who play a role in deciding who
 will be executed in the United States, 178 (3.1 percent) are black.</p>
-            </div2>
-            <div2 id="sc09-5littleton.014" n="On Guard Against Good Intentions" type="Review">
-               <head>On Guard Against Good Intentions.  <title>The Thanatos
+            <div3 id="sc09-5.033" type="About">
+                  <p>Thadious Davis teaches at the University of North
+Carolina at Chapel Hill and was a member of the committee which
+selected this year's Lillian Smith prize winners. Other committee
+members were Robert J. Norrell, Center for the Study of Southern
+History and Culture, University of Alabama; Mary Frances Derfner,
+Charleston, S.C.; and Anthony P. Dunbar, New Orleans, La. In making
+its selections, the committee reviewed approximately forty strong
+entries in fiction, history, and autobiography! memoir published
+between July 1, 1986, and June 30, 1987.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.014" n="On Guard Against Good Intentions" type="Review">
+               <head>On Guard Against Good Intentions.</head>
+               <byline>By <docAuthor><name reg="Littleton, George">George Littleton</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate>
+               
+<bibl><title>The Thanatos
 Syndrome</title> by Walker Percy. (New York: Farrar, Straus, and
-Giroux, 1987. 372 pp. $17.95.)</head>
-               <docAuthor>By GEORGE LITTLETON</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, pp. 37-38</docDate>
-               <argument>
-                  <p>George Littleton is a writer on the staff of the Alabama
-Commission on Higher Education in Montgomery.</p>
-               </argument>
+Giroux, 1987. 372 pp. $17.95.)</bibl>
                <p>In Walker Percy's latest novel, <title>The Thanatos
 Syndrome</title>, Dr. Thomas More, a psychiatrist recently paroled
 from federal prison, uncovers a nefarious scheme to "improve the
@@ -2548,15 +2559,16 @@ would become extremists in pursuit of their good intentions. So too
 must the powerful remain sensitive to what it means to be human. We
 may be screwed-up, Percy seems to be saying, but it's better than
 being dead.</p>
-            </div2>
-            <div2 id="sc09-5chestnut.015" n="The Cold Hard Truth" type="Article">
+            <div3 id="sc09-5.034" type="About">
+                  <p>George Littleton is a writer on the staff of the Alabama
+Commission on Higher Education in Montgomery.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc09-5.015" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
-               <docAuthor>By J.L. Chestnut, Jr.</docAuthor>
-               <docDate>Vol. 9, No. 5, 1987, p. 40</docDate>
-               <argument>
-                  <p>J. L. Chestnut Jr. is an Alabama trial lawyer and
-writer.</p>
-               </argument>
+               <byline><docAuthor><name reg="">By J.L. Chestnut, Jr.</name></docAuthor></byline>
+               <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate>
+               
                <p>This is the 200th year of the U.S. Constitution, but that document
 remains shrouded in fiction, misunderstanding and ignorance. Millions
 of Americans know so little about the Constitution, it is a miracle we
@@ -2623,7 +2635,11 @@ slavery was outlawed.</p>
 directly at racism and the women's movement caught fire.</p>
                <p>The proof is in the pudding.</p>
                <p>Peace.</p>
-            </div2>
+            <div3 id="sc09-5.035" type="About">
+                  <p>J. L. Chestnut Jr. is an Alabama trial lawyer and
+writer.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

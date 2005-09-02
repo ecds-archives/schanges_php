@@ -67,9 +67,9 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 <title>Southern Changes</title>. Volume 1, Number 7, <date
 value="1979-04">1979</date></p>
 
-<div2 id="sc01-7chaney.005" n="Interchange:In This Issue" type="Article">
+<div2 id="sc01-7.005" n="Interchange:In This Issue" type="Article">
 <head>Interchange: In This Issue</head>
-<docAuthor>By Betty Norwood Chaney</docAuthor>
+<byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 2</docDate>
 
 <p>On February 16-18, the Southern Regional Council (SRC) held its
@@ -81,7 +81,7 @@ Charter for the South's Future."</p>
 <p> The conference brought together a variety of distinguished
 participants from the fields of education, law, economics, civil
 rights and health care to review developments and conditions in the
-South. This issue of <hi rend="italic">Southern Changes</hi> reports
+South. This issue of <title>Southern Changes</title> reports
 on that conference and reproduces three of the addresses made
 there.</p>
 
@@ -129,15 +129,11 @@ where the Black community is "coming to focus, demanding its
 rights."</p>
 </div2>
 
-<div2 id="sc01-7suitts.002" n="Renewal and Endurance: A Personal View"
+<div2 id="sc01-7.002" n="Renewal and Endurance: A Personal View"
       type="Article">
 <head>Renewal and Endurance: A Personal View</head>
-<docAuthor>By Steve Suitts</docAuthor>
+<byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp.4-5</docDate>
-<argument>
-<p>Steve Suitts</p>
-<p>Publisher</p>
-</argument>
 
 <p>In those torturous moments of human relations 35 years ago, five
 Southerners of prominence and good will signed their names to the
@@ -197,17 +193,14 @@ it<pb n="5"/>is on terms advantageous to Whites. The rural Mississippi public sc
 <p>True, we should celebrate the vast changes which have gradually come into the Southern folkways and stateways. By recollection of the heroes and aspirations of our past we can be reminded of what forces and visions can charter our future. But, the progress of the past 35 years and the view which it places upon some questions of Southern development today must not blind us from the fact that the task is far from complete, the need is no less demanding, and the potential - while hidden and obscure - stands ready to be tapped. Improvements are not final accomplishments.</p>
 
 <p>The renewal of the charter of the Southern Regional Council after 35 years gives witness to the durable belief by both Black and White Southerners that, careful and enduring, we must follow our original mission to search for that beloved community. If we fail, as surely we may, we will have at least made some contribution to good work and have carried on that essential tradition spoken so poetically in the Movement's hymn which we must never forget - Black and White together.</p>
+<byline>Steve Suitts<lb/>
+Publisher</byline>
 </div2>
 
-<div2 id="sc01-7dunbar.006" n="The Role of Law in the South" type="Article">
+<div2 id="sc01-7.006" n="The Role of Law in the South" type="Article">
 <head>The Role of Law in the South</head>
-<docAuthor>By Leslie Dunbar</docAuthor>
+<byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 6-8</docDate>
-<argument><p>Leslie Dunbar is director of the Field Foundation (presently
-on a leave of absence) and a former director of the Southern Regional
-Council. His articles and essays on political affairs and civil rights
-are widely published and his book, <hi rend="italic">A Republic of Equals</hi>, has received
-much acclaim.</p></argument>
 
 <p><hi rend="bold">[Introduction]</hi></p>
 
@@ -288,18 +281,18 @@ liberty's offspring, equality and justice. When law instead upholds relations th
 when now it denies equal school funds to all children or equal access to medical help to all women or perpetuates regressive taxes, law betrays its mission to provide equal treatment.</p>
 
 <p>And when law puts the pretended security interests of the state ahead of the citizen's liberty and even ahead of its own dignity, law becomes a whore. And if you stop to think about it, a male whore at that.</p>
+<div3 id="sc01-7.026" type="About"><p>Leslie Dunbar is director of the Field Foundation (presently
+on a leave of absence) and a former director of the Southern Regional
+Council. His articles and essays on political affairs and civil rights
+are widely published and his book, <title>A Republic of Equals</title>, has received
+much acclaim.</p></div3>
 </div2>
 
-<div2 id="sc01-7terry.003" n="Human Rights: From the South to South
+<div2 id="sc01-7.003" n="Human Rights: From the South to South
 Africa" type="Article">
 <head>Human Rights: From the South to South Africa"</head>
-<docAuthor>By Wallace Terry</docAuthor>
+<byline>By <docAuthor><name reg="Terry, Wallace">Wallace Terry</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 9-13</docDate>
-<argument>
-<p>Wallace Terry is a former <hi rend="italic">Newsweek</hi>
-correspondent and is now the Fredrick Douglass Professor of Journalism
-at Howard University.</p>
-</argument>
 
 <p>I was profoundly affected by what I saw on the battlefields in Viet Nam from 1967 to 1969, particularly the outrageously racist behavior of White troops towards Blacks. I knew that most Blacks would receive far too little at home for the blood they spilled abroad. So with the kind and generous assistance of Leslie Dunbar and our friends at the Field Foundation and the Center for National Security Studies, I have spent the last few years recording and writing the Black GI's story. It seems a small way to salute them.</p>
 
@@ -397,14 +390,18 @@ they failed, allowing hundreds of Blacks to flee<pb n="13"/> America for a jungl
 <p>America must become my land, too. My Black heritage belongs to
 America. My talent is hers, too. My hopes are hers, too. And she is
 mine.</p>
+<div3 id="sc01-7.023" type="About">
+<p>Wallace Terry is a former <title>Newsweek</title>
+correspondent and is now the Fredrick Douglass Professor of Journalism
+at Howard University.</p>
+</div3>
 </div2>
 
-<div2 id="sc01-7marshall.007" n="Facing the Universal Imperatives" type="Article">
+<div2 id="sc01-7.007" n="Facing the Universal Imperatives" type="Article">
 <head>Facing the Universal Imperatives</head>
-<docAuthor>By Ray Marshall</docAuthor>
+<byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 16-18</docDate>
-<argument><p>Secretary of Labor Ray Marshall is a former director of the Task Force
-on Southern Rural Development sponsored by SRC.</p></argument>
+
 <p>[Introduction]</p>
 
 <p><hi rend="italic">The world that we live in has changed; is changing, dangerous and uncertain - and I think that if you take a look at the concerns of the Southern Regional Council and some of the universal imperatives that impinge on those concerns, you can see that the main thing that will characterize the work of the Council, as it endures, is not that things will get easier- but they will get different. It'll be a different environment, but it will be equally treacherous.</hi></p>
@@ -472,15 +469,15 @@ have problems with inflation and budget constraints, it does not mean we cannot 
 <p>Finally, we resisted the cries by people who argue that we ought to deal with inflation by not increasing the minimum wage, about rolling it back, or by doing away with prevailing wage legislation that tends to help those who do not have a power in this society to improve their own conditions.</p>
 
 <p>I think that we have to continue to recognize that efforts will be made to roll back the minimum wage, to have a youth differential on the minimum wage, to eliminate it all together, and if we do that, then we will transfer the fight to the people who can least afford it.</p>
+<div3 id="sc01-7.027" type="About"><p>Secretary of Labor Ray Marshall
+is a former director of the Task Force on Southern Rural Development
+sponsored by SRC.</p></div3>
 </div2>
 
-<div2 id="sc01-7finger.004" n="J.P. Stevens Workers 'Seek  Some of the Harvest'" type="Article">
+<div2 id="sc01-7.004" n="J.P. Stevens Workers 'Seek  Some of the Harvest'" type="Article">
 <head>J.P. Stevens Workers Seek 'Some of the Harvest'</head>
-<docAuthor>By Bill Finger</docAuthor>
+<byline>By <docAuthor><name reg="Finger, Bill">Bill Finger</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 19-21</docDate>
-<argument><p>
-Bill Finger, a freelance writer, lives in Raleigh, N.C.
-</p></argument>
 
 <p>You would have thought it was the Darlington 500 the way people were flocking to the South Carolina Piedmont. But the gathering at Textile Hall in what the local chamber of commerce calls "the textile capital of the world" lacked the gaiety of a good stock car race.</p>
 
@@ -540,14 +537,15 @@ already handed down against Stevens; and (3) a company-wide organizing campaign 
 
 <p>"I want J.P. Stevens to make money," says Pat Burgess, "because
 then my job runs. I just want to get some of the harvest."</p>
+<div3 id="sc01-7.024" type="About"><p>
+Bill Finger, a freelance writer, lives in Raleigh, N.C.
+</p></div3>
 </div2>
 
-<div2 id="sc01-7swift.007" n="Eatonton, Georgia: Rural Black Community Organizes for Change" type="Article">
+<div2 id="sc01-7.014" n="Eatonton, Georgia: Rural Black Community Organizes for Change" type="Article">
 <head>Eatonton, Georgia: Rural Black Community Organizes for Change</head>
-<docAuthor>By Alice Swift</docAuthor>
+<byline>By <docAuthor><name reg="Swift, Alice">Alice Swift</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 22-23</docDate>
-<argument><p>A freelance writer, Alice Swift lives in Athens,
-Georgia.</p></argument>
 
 <p>The days of White mobs gathering to lynch a Black man simply because he is Black are gone, but there are still some occurrences with the same level of hatred behind them. What happened in Eatonton is a case in point.</p>
 
@@ -592,15 +590,15 @@ community upgraded. Hence, small towns with groups such as the league are import
 <p>Although Eatonton has been a model of the new strength coming forth from small town Black communities, there are other Black rural counties that are just as active and involved as Eatonton. In Wadley, Georgia, for instance, a suit is pending because of fraud in a recent city election. A Black candidate lost the election to a White candidate by only four or five votes. The voting officials contacted Whites concerning errors on their absentee ballots but did not contact Black voters.</p>
 
 <p>Blacks in small rural towns are beginning to fight back. They have gone unrecognized and underrepresented by their city governments for too long. Now some small Black communities are coming into focus demanding their rights.</p>
+<div3 id="sc01-7.034" type="About"><p>A freelance writer, Alice Swift lives in Athens,
+Georgia.</p></div3>
 </div2>
 
-<div2 id="sc01-7johnston.008" n="EDUCATION: The Issue of Desegregation" type="Article">
+<div2 id="sc01-7.008" n="EDUCATION: The Issue of Desegregation" type="Article">
 <head>EDUCATION: The Issue of Desegregation</head>
-<docAuthor>By Diane Johnston</docAuthor>
+<byline>By <docAuthor><name reg="Johnston, Diane">Diane Johnston</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 25</docDate>
-<argument><p>Diane Johnston, a senior at Emory, recently completed an
-internship in the publications department at Southern Regional
-Council.</p></argument>
+
 
 <p>During a lively discussion on education at SRC's recent Annual Meeting, panelist Jean Fairfax, director of education programs for the NAACP Legal Defense Fund, remarked, "There is a lot more to the Brown case than school desegregation. It got us off the back of the bus into Colony Square."</p>
 
@@ -637,13 +635,15 @@ the University of Georgia at Athens), are not substantially increased. "We have 
 <p>According to the NAACP leader, there is a need for a new perspective on an old problem: the role of the traditional Black institution in integration. Currently, HEW guidelines are supposed to encourage and enhance these schools with financial support; HEW certainly advises against closing or downgrading them. Fairfax, however, points out that in order to maintain and/or upgrade Black colleges, money has to be taken from funds designated for the mostlyWhite flagship institutions. She is concerned that we cannot have both since HEW appears unwilling to go that far.</p>
 
 <p>During a question-and-answer period, the panelists entertained inquiries from the audience. Professor Bell Wiley of Emory University who moderated concluded the session.</p>
+<div3 id="sc01-7.028" type="About"><p>Diane Johnston, a senior at Emory, recently completed an
+internship in the publications department at Southern Regional
+Council.</p></div3>
 </div2>
 
-<div2 id="sc01-7morris.009" n="SOUTHERN POLITICS: Judge Robert Collins Speaks" type="Article">
+<div2 id="sc01-7.009" n="SOUTHERN POLITICS: Judge Robert Collins Speaks" type="Article">
 <head>SOUTHERN POLITICS: Judge Robert Collins Speaks</head>
-<docAuthor>By Robert Morris</docAuthor>
+<byline>By <docAuthor><name reg="Morris, Robert">Robert Morris</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26</docDate>
-<argument><p>Robert Morris is a student at Georgia State University.</p></argument>
 
 <p>"Without a pool of competent attorneys who can focus on pressing the legitimate claims of minorities, those rights will be neglected, eroded, and perhaps eventually destroyed," said Judge Robert F. Collins, speaking to luncheon guests of the SRC Annual Meeting recently. President Carter's appointee to the U.S. District Court in New Orleans and the South's only Black federal judge in this century, Collins spoke of his own experiences in capsuling three decades of civil rights activity in the South. Collins' own education began as a court case. It took a lawsuit to open the doors for him and two other Blacks to enter the Louisiana State University Law School. After graduation, he worked on local counsel in Louisiana for the Congress of Racial Equality and cooperated with the NAACP Legal Defense Fund.</p>
 
@@ -661,15 +661,13 @@ as long as they can keep the interests of these groups. Then they can
 ignore the interests of Blacks and other minorities." Only a lifetime
 of persisting work, he emphasized, can insure that the gains of civil
 rights are not lost in the next generation.</p>
+<div3 id="sc01-7.029" type="About"><p>Robert Morris is a student at Georgia State University.</p></div3>
 </div2>
 
-<div2 id="sc01-7jones.010" n="SOUTHERN POLITICS:Panelists look at Southern Political System" type="Article">
+<div2 id="sc01-7.010" n="SOUTHERN POLITICS: Panelists look at Southern Political System" type="Article">
 <head>SOUTHERN POLITICS:Panelists look at Southern Political System</head>
-<docAuthor>By Jean Jones</docAuthor>
+<byline>By <docAuthor><name reg="Jones, Jean">Jean Jones</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26-27</docDate>
-<argument><p>A 1978 graduate of Clark College, Jean Jones lives and works
-in Atlanta. She also wrote the introduction to "Role of Law in the
-South" carried in this issue.</p></argument>
 
 <p>"Tyranny and tragedy have been and still are the core of the Southern experience," Dr. Samuel Dubois Cook, president of Dillard University, remarked during an afternoon session on politics in the South at the Annual Meeting of the Southern Regional Council.</p>
 
@@ -694,13 +692,15 @@ or guaranteed their election may be on local levels," Bradley said. "Blacks, esp
 <p>Through all the gains in the Southern political structure, it is a
 long way from being a "postracial South," Dr. Cook concluded. "A
 post-racial South is an illusion which allows the South to indulge in selfcongratulations and selfrighteousness in relation to the North and the rest of the country."</p>
+<div3 id="sc01-7.030" type="About"><p>A 1978 graduate of Clark College, Jean Jones lives and works
+in Atlanta. She also wrote the introduction to "Role of Law in the
+South" carried in this issue.</p></div3>
 </div2>
 
-<div2 id="sc01-7terry.011" n="URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought" type="Article">
+<div2 id="sc01-7.011" n="URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought" type="Article">
 <head>URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought</head>
-<docAuthor>By Janet Terry</docAuthor>
+<byline>By <docAuthor><name reg="Terry, Janet">Janet Terry</name></docAuthor></byline>
 <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 27-28</docDate>
-<argument><p>A freelance writer, Janet Terry lives in Atlanta.</p></argument>
 
 <p>Is the South truly in the midst of an overdue, unparalleled economic boom, or is the image a mirage, fashioned by media hype, overeager expectations, and scattered development?</p>
 
@@ -738,6 +738,7 @@ conceived on a "human scale." A Food Fair is a neighborhood farme(s market, ofte
 <p>But more importantly in the long run, according to Jones, Food Fairs, co-ops, and other cooperative economic ventures will become increasingly strategic as small farmers and agricultural workers struggle to survive in a rural South where land and production are becoming more monopolistic.</p>
 
 <p>Both Jones and Prejean agree, that while large agribusinesses survive and sometimes thrive, economic reality for the majority of rural Southerners is a far cry from the prosperity often attributed to the South today.</p>
+<div3 id="sc01-7.031" type="About"><p>A freelance writer, Janet Terry lives in Atlanta.</p></div3>
 </div2>
 </div1>
       </body>

@@ -64,15 +64,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc07-5.001" n="Southern Changes 7:5" type="Issue">
             <head>Southern Changes.  Volume 7, Number 5, 1985</head>
             <p>
-               <title>Southern Changes</title>.  Volume 7, Number 5, 1985</p>
-            <div2 id="sc07-5mcdonald.002" n="The Attack on Voting Rights" type="Article">
+               <title>Southern Changes</title>.  Volume 7, Number 5, <date value="1985-10">1985</date></p>
+            <div2 id="sc07-5.002" n="The Attack on Voting Rights" type="Article">
                <head>The Attack on Voting Rights</head>
-               <docAuthor>By LAUGHLIN MCDONALD</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, pp. 1-3</docDate>
-               <argument>
-                  <p>Laughlin McDonald is director of the Southern Regional
-Office of the American Civil Liberties Union.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate>
                <p>The Reagan Administration continues to widen its attack on minority
 voting rights. In its latest depredation, it has filed a friend of the
 court brief with the Supreme Court arguing that the election of even a
@@ -249,16 +245,16 @@ Voting Rights Act and every inducement for circumvention. The Reagan
 Administration will have accomplished in the courts what it failed to
 do in the Congress--to significantly retard the nation's twenty year
 progress in minority voting rights.</p>
+            <div3 id="sc07-5.022" type="About">
+                  <p>Laughlin McDonald is director of the Southern Regional
+Office of the American Civil Liberties Union.</p>
+               </div3>
             </div2>
-            <div2 id="sc07-5willingham.003" n="The Importance of Black Legislators" type="Article">
+            <div2 id="sc07-5.003" n="The Importance of Black Legislators" type="Article">
                <head>The Importance of Black Legislators</head>
-               <docAuthor>By ALEX WILLINGHAM</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, pp. 3-5</docDate>
-               <argument>
-                  <p>Alex Willingham lives in Shreveport, Louisiana. As a
-Rockefeller Foundation Fellow, he is writing a book about Southern
-reapportionment.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate>
+              
                <p>The Southern state legislature, once the incarnation of
 backwardness in Southern politics, now stands to become a center for
 innovation in regional affairs. The formerly all-male, all-white,
@@ -462,36 +458,17 @@ programs, and invading personal privacy. The election of black
 legislators--like any search for popular participation
 strategies--should speak to all Southerners who seek to counter the
 powers of reaction.</p>
-            </div2>
-            <div2 id="sc07-5heard.004" n="Economics and a Murder Trial" type="Article">
+             <div3 id="sc07-5.023" type="About">
+                  <p>Alex Willingham lives in Shreveport, Louisiana. As a
+Rockefeller Foundation Fellow, he is writing a book about Southern
+reapportionment.</p>
+               </div3>
+	    </div2>
+            <div2 id="sc07-5.004" n="Economics and a Murder Trial" type="Article">
                <head>Economics and a Murder Trial</head>
-               <docAuthor>By ELIZA HEARD (VIRGINIA DURR)</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, pp. 14-17</docDate>
-               <argument>
-                  <p>(Editor's Note) In October 1965, the Southern Regional
-Council published "Economics and a Murder Trial" in its journal New
-South. The essay, a first-person account of the Hayneville, Alabama,
-trial of a Klansman indicted for the murder of civil rights worker
-Viola Liuzzo, was one of several written in the mid-1960s by Virginia
-Foster Durr under the pen name of Eliza Heard. At the time, Virginia
-and her husband, attorney Clifford Durr, lived on a small farm near
-Wetumpka, Alabama. (See the accompanying article in this issue of
-<title>Southern Change</title>.)</p>
-                  <p>"I was the only Southern white woman who went to the trial,"
-Virginia Durr recalls. "I drove over by myself to Lowndes County every
-day. And all the journalists--who had come from throughout the
-world--wanted to take my picture. I said, 'You think you're doing me a
-favor, but you 're just going to ruin me. All that will come out in
-the papers, you'll be gone to the next story, and I'll be the one who
-gets the late night phone calls and the threats. ' So they didn't run
-the pictures.</p>
-                  <p>"For the same reason, when I wrote about the trial for Maggie Long
-(editor of New South)--and I had to write about it because I was so
-mad-I felt I could n 't sign my name.  Cliff and I were in enough
-trouble already. So I thought of Eliza Foster--my great-grandmother on
-my father's side--and Virginia Heard--my father's mother--and I signed
-"Eliza Heard."</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Durr, Virginia">Eliza Heard (Virginia Durr)</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate>
+               
                <p>The road to Hayneville and Selma (No. 80) leads to dreams of
 asphodel and honey. The old cotton fields are now meadows filled with
 slow-moving fat cattle that drift from one patch of shade to the
@@ -763,22 +740,38 @@ them free until they have a way to make a living, and in Lowndes
 County I don't see how they are going both to live and be free. Will
 Bloody Lowndes live up to its name again and again before it gives the
 Negroes life, freedom, and a living?</p>
-            </div2>
-            <div2 id="sc07-5durr.005" n="Grace and guts" type="Article">
+            <div3 id="sc07-5.024" type="About">
+                  <p>(Editor's Note) In October 1965, the Southern Regional
+Council published "Economics and a Murder Trial" in its journal New
+South. The essay, a first-person account of the Hayneville, Alabama,
+trial of a Klansman indicted for the murder of civil rights worker
+Viola Liuzzo, was one of several written in the mid-1960s by Virginia
+Foster Durr under the pen name of Eliza Heard. At the time, Virginia
+and her husband, attorney Clifford Durr, lived on a small farm near
+Wetumpka, Alabama. (See the accompanying article in this issue of
+<title>Southern Change</title>.)</p>
+                  <p>"I was the only Southern white woman who went to the trial,"
+Virginia Durr recalls. "I drove over by myself to Lowndes County every
+day. And all the journalists--who had come from throughout the
+world--wanted to take my picture. I said, 'You think you're doing me a
+favor, but you 're just going to ruin me. All that will come out in
+the papers, you'll be gone to the next story, and I'll be the one who
+gets the late night phone calls and the threats. ' So they didn't run
+the pictures.</p>
+                  <p>"For the same reason, when I wrote about the trial for Maggie Long
+(editor of New South)--and I had to write about it because I was so
+mad--I felt I couldn't sign my name.  Cliff and I were in enough
+trouble already. So I thought of Eliza Foster--my great-grandmother on
+my father's side--and Virginia Heard--my father's mother--and I signed
+"Eliza Heard."</p>
+               </div3>
+	     </div2>
+            <div2 id="sc07-5.005" n="Grace and guts" type="Article">
                <head>Grace and guts</head>
-               <docAuthor>Virginia Durr</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, pp. 17-21</docDate>
-               <argument>
-                  <p>During the forty-first anniversary meeting of the
-Southern Regional Council, held in Atlanta in early November, civil
-rights advocate Virginia Durr spoke at a luncheon held in honor of the
-publication of her autobiographical recollections. (Virginia Durr's
-book, Outside the Magic Circle, edited by Hollinger Rarnard of
-Birmingham, is available from the University of Alabama Press.) Below,
-Southern Changes presents excerpts from Virginia's luncheon talk, as
-well as the introductory comments of SRC executive director Steve
-Suitts. Steve Suitts.</p>
-               </argument>
+               <byline><docAuthor><name reg="Durr, Virginia">Virginia
+               Durr</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate>
+               
                <p>
                   <hi rend="bold">Steve Suitts:</hi>
                </p>
@@ -1046,21 +1039,23 @@ not even real. They're just reflections of tv or movies. We've got to
 get busy because the people who are now running the country seem
 determined to destroy us. We've got to get together and stand up for
 ourselves or we're all going to be dead.</p>
-            </div2>
-            <div2 id="sc07-5garrow.006" n="The Origins of the Montgomery Bus Boycott" type="Article">
+            <div3 id="sc07-5.025" type="About">
+                  <p>During the forty-first anniversary meeting of the
+Southern Regional Council, held in Atlanta in early November, civil
+rights advocate Virginia Durr spoke at a luncheon held in honor of the
+publication of her autobiographical recollections. (Virginia Durr's
+book, Outside the Magic Circle, edited by Hollinger Rarnard of
+Birmingham, is available from the University of Alabama Press.) Below,
+Southern Changes presents excerpts from Virginia's luncheon talk, as
+well as the introductory comments of SRC executive director Steve
+Suitts. Steve Suitts.</p>
+               </div3>
+	     </div2>
+            <div2 id="sc07-5.006" n="The Origins of the Montgomery Bus Boycott" type="Article">
                <head>The Origins of the Montgomery Bus Boycott</head>
-               <docAuthor>By DAVID J. GARROW</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, pp. 21-27</docDate>
-               <argument>
-                  <p>David J. Garrow is associate professor of political
-science at the - City: College of New York and the City University
-Graduate School. He is the author of <title>Protest at Selma</title>
-(Yale,1978)and <title>The FBI and Martin Luther King, Jr.</title>
-(Norton, l 981), as well as the forthcoming <title>Bearing the Cross:
-Martin Luther King, Jr., and the Southern Christian Leadership
-Conference, 1955-1968</title>, which William Morrow &#x26;Co. will publish
-in the fall of l986.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate>
+               
                <p>Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
 summer of 1949 to join the English Department at all-black Alabama
 State College. A thirty-three year old native of Culloden, Georgia,
@@ -1601,21 +1596,23 @@ published analysis of the protest, and the place where anyone with
 further interest should begin, is J. Mills Thornton, III's "Challenge
 and Response in the Montgomery Bus Boycott of 1955-56," Alabama Review
 33 (July 1980): 163-235.</p>
-            </div2>
-            <div2 id="sc07-5heyward.007" n="The Journey Is Home" type="Review">
+            <div3 id="sc07-5.026" type="About">
+                  <p>David J. Garrow is associate professor of political
+science at the City College of New York and the City University
+Graduate School. He is the author of <title>Protest at Selma</title>
+(Yale,1978)and <title>The FBI and Martin Luther King, Jr.</title>
+(Norton, l 981), as well as the forthcoming <title>Bearing the Cross:
+Martin Luther King, Jr., and the Southern Christian Leadership
+Conference, 1955-1968</title>, which William Morrow &#x26;Co. will publish
+in the fall of l986.</p>
+               </div3></div2>
+            <div2 id="sc07-5.007" n="The Journey Is Home" type="Review">
                <head>
                   <title>The Journey Is Home</title> by Nelle Morton. Boston:
 Beacon Press, 1985. 248 pp. $21.95.</head>
-               <docAuthor>Reviewed by CARTER HEYWARD</docAuthor>
-               <docDate>Vol. 7, No. 5, 1985, 29-30, 32</docDate>
-               <argument>
-                  <p>Carter Heyward a native of Charlotte, N. C., is professor
-of theology of Episcopal Divinity School in Cambridge Mass,  she is
-the author of <title>Our Passion for Justice: Images of Power,
-Sexuality, and Liberation</title> (Pilgrim, 1984). This review of
-Nelle Morton's book is copyright 1985 by Christianity and Crisis, and
-reprinted with permission.</p>
-               </argument>
+               <byline>Reviewed by <docAuthor><name reg="Heyward, Carter">Carter Heyward</name></docAuthor></byline>
+               <docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate>
+               
                <p>Among feminist theologians, the name Nelle Morton conjures up
 images of courage, intelligence, and friendship. Morton was the first
 (and for years only) woman on the faculty of the Theological School of
@@ -1808,7 +1805,15 @@ underwear every spring" all the while aware that something bad is the
 matter with the world into which our mothers have borne us. Many of us
 have been there, and many are yet to come. Nelle Morton offers us
 fresh water for the journey.</p>
-            </div2>
+            <div3 id="sc07-5.027" type="About">
+                  <p>Carter Heyward a native of Charlotte, N. C., is professor
+of theology of Episcopal Divinity School in Cambridge Mass,  she is
+the author of <title>Our Passion for Justice: Images of Power,
+Sexuality, and Liberation</title> (Pilgrim, 1984). This review of
+Nelle Morton's book is copyright 1985 by Christianity and Crisis, and
+reprinted with permission.</p>
+               </div3>
+	     </div2>
          </div1>
       </body>
    </text>

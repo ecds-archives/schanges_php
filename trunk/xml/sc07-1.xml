@@ -63,27 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
          <div1 id="sc07-1.001" n="Southern Changes 7:1" type="Issue">
             <head>Southern Changes.  Volume 7, Number 1, 1985</head>
             <p>
-               <title>Southern Changes</title>.  Volume 7, Number 1, 1989</p>
-            <div2 id="sc07-1ashmore.002" n="The Civil Rights Act After Twenty Years:  Part One" type="Article">
+               <title>Southern Changes</title>.  Volume 7, Number 1,
+	       <date value="1985-03">1985</date></p>
+            <div2 id="sc07-1.002" n="The Civil Rights Act After Twenty Years:  Part One" type="Article">
                <head>The Civil Rights Act After Twenty Years:  Part One: Where We've
 Been and Where We Are</head>
-               <docAuthor>By HARRY S. ASHMORE</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 8-10</docDate>
-               <argument>
-                  <p>During the fortieth anniversary meeting of the Southern
-Regional Council, held in Atlanta this past November, Pulitzer Prize
-winning journalist Harry Ashmore, Julius L. Chambers-director of the
-NAACP Legal Defense Fund, and former SRG executive director Harold
-Fleming reflected upon the status of civil rights twenty years after
-the passage of the 1964 Civil Rights Act. An additional comment was
-offered by Paul Gaston, professor of history at the University of
-Virginia and current president of the Southern Regional Council. In
-the following pages, we present the perspectives of these long-time
-observers of, and participants in, Southern changes.</p>
-                  <p>Harry S. Ashmore's most recent book is Hearts and Minds: A History
-of Racism from Roosevelt to Reagan (McGraw-Hill), winner of the
-Southern Regional Council's Lillian Smith Award in 1982.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Ashmore, Harry S.">Harry S. Ashmore</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 8-10</docDate>
                <p>One of the things that disturbs me when people look back at the
 history we've lived through--some of us have lived through a good deal
 more of it than you younger ones--is that we tend to forget its
@@ -234,13 +220,7 @@ that would be.</p>
 we've made in these twenty years; but certainly effective movement
 toward guaranteeing equality of opportunity for all Americans has been
 halted.</p>
-            </div2>
-            <div2 id="sc07-1chambers.003" n=" The Civil Rights Act After Twenty Years: Part Two" type="Article">
-               <head>The Civil Rights Act After Twenty Years.  Part Two: The
-Collapse of Enforcement</head>
-               <docAuthor>By JULIUS L. CHAMBERS</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 10-13</docDate>
-               <argument>
+            <div3 id="sc07-1.022" type="About">
                   <p>During the fortieth anniversary meeting of the Southern
 Regional Council, held in Atlanta this past November, Pulitzer Prize
 winning journalist Harry Ashmore, Julius L. Chambers-director of the
@@ -251,9 +231,16 @@ offered by Paul Gaston, professor of history at the University of
 Virginia and current president of the Southern Regional Council. In
 the following pages, we present the perspectives of these long-time
 observers of, and participants in, Southern changes.</p>
-                  <p> Julius Chambers, a past president of the Southern Regional
-Council, is director of the NAACP Legal Defense Fund.</p>
-               </argument>
+                  <p>Harry S. Ashmore's most recent book is Hearts and Minds: A History
+of Racism from Roosevelt to Reagan (McGraw-Hill), winner of the
+Southern Regional Council's Lillian Smith Award in 1982.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.003" n=" The Civil Rights Act After Twenty Years: Part Two" type="Article">
+               <head>The Civil Rights Act After Twenty Years.  Part Two: The
+Collapse of Enforcement</head>
+               <byline>By <docAuthor><name reg="Chambers, Julius L.">Julius L. Chambers</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 10-13</docDate>
                <p>During the past week I have attended four meetings where we were
 discussing the Civil Rights Act of 1964 and the 1984 election. It has
 been a very depressing week.</p>
@@ -540,13 +527,7 @@ during the past twenty years, we can point to progress. Some of the
 old obstacles have been removed, but new ones have taken their
 places. But that should not and must not deter us from trying to make
 this a world of equality and justice for all.</p>
-            </div2>
-            <div2 id="sc07-1fleming.004" n="The Civil Rights Act After Twenty Years. Part Three" type="Article">
-               <head>The Civil Rights Act After Twenty Years. Part Three:
-Comments</head>
-               <docAuthor>HAROLD FLEMING</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 13-14</docDate>
-               <argument>
+            <div3 id="sc07-1.023" type="About">
                   <p>During the fortieth anniversary meeting of the Southern
 Regional Council, held in Atlanta this past November, Pulitzer Prize
 winning journalist Harry Ashmore, Julius L. Chambers-director of the
@@ -557,9 +538,15 @@ offered by Paul Gaston, professor of history at the University of
 Virginia and current president of the Southern Regional Council. In
 the following pages, we present the perspectives of these long-time
 observers of, and participants in, Southern changes.</p>
-                  <p> Harold Fleming, director of the Potomac Institute, is a former
-executive director of the Southern Regional Council.</p>
-               </argument>
+                  <p> Julius Chambers, a past president of the Southern Regional
+Council, is director of the NAACP Legal Defense Fund.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.004" n="The Civil Rights Act After Twenty Years. Part Three" type="Article">
+               <head>The Civil Rights Act After Twenty Years. Part Three:
+Comments</head>
+               <byline>By<docAuthor><name reg="Fleming, Harold">Harold Fleming</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 13-14</docDate>
                <p>I'm want to footnote some of the things said in the excellent
 statements that Harry and Julius have just made. And I'm going to try
 not to celebrate the problem anymore than I can help.</p>
@@ -625,14 +612,7 @@ state and local level--worrying about what people are, hearing, about
 what they're feeling and about what they're thinking, about what kind
 of facts they're getting. We helped do it before, we can help do it
 again.</p>
-            </div2>
-            <div2 id="sc07-1gaston.005" n="The Civil Rights Act After Twenty Years:  Response" type="Article">
-               <head>The Civil Rights Act After Twenty Years Later.
-<add>[Response]</add>
-               </head>
-               <docAuthor>PAUL GASTON</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 14-15</docDate>
-               <argument>
+            <div3 id="sc07-1.024" type="About">
                   <p>During the fortieth anniversary meeting of the Southern
 Regional Council, held in Atlanta this past November, Pulitzer Prize
 winning journalist Harry Ashmore, Julius L. Chambers-director of the
@@ -643,9 +623,16 @@ offered by Paul Gaston, professor of history at the University of
 Virginia and current president of the Southern Regional Council. In
 the following pages, we present the perspectives of these long-time
 observers of, and participants in, Southern changes.</p>
-                  <p> Paul Gaston, professor of history at the University of Virginia,
-is president of the Southern Regional Council.</p>
-               </argument>
+                  <p> Harold Fleming, director of the Potomac Institute, is a former
+executive director of the Southern Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.005" n="The Civil Rights Act After Twenty Years:  Response" type="Article">
+               <head>The Civil Rights Act After Twenty Years Later.
+<add>[Response]</add>
+               </head>
+               <byline>By <docAuthor><name reg="Gaston, Paul">Paul Gaston</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 14-15</docDate>
                <p>Prompted by Harold and Harry's discussion of the new mythology--and
 particularly by Julius' recollection of his student days at Chapel
 Hill and his recent return visit--I would like to tell a brief anecdote
@@ -703,20 +690,25 @@ are some black students in the class now and they, more than 1, make
 it uncomfortable for those students simply to pass this off as another
 work of history that you have to memorize and pass a test on. I came
 out of this a born-again historian.</p>
-            </div2>
-            <div2 id="sc07-1suitts.006" n="The Rising Tide of Poverty" type="Article">
+            <div3 id="sc07-1.025" type="About">
+                  <p>During the fortieth anniversary meeting of the Southern
+Regional Council, held in Atlanta this past November, Pulitzer Prize
+winning journalist Harry Ashmore, Julius L. Chambers-director of the
+NAACP Legal Defense Fund, and former SRG executive director Harold
+Fleming reflected upon the status of civil rights twenty years after
+the passage of the 1964 Civil Rights Act. An additional comment was
+offered by Paul Gaston, professor of history at the University of
+Virginia and current president of the Southern Regional Council. In
+the following pages, we present the perspectives of these long-time
+observers of, and participants in, Southern changes.</p>
+                  <p> Paul Gaston, professor of history at the University of Virginia,
+is president of the Southern Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.006" n="The Rising Tide of Poverty" type="Article">
                <head>The Rising Tide of Poverty</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 5-8</docDate>
-               <argument>
-                  <p> Steve Suitts is executive director of the Southern
-Regional Council. He is the author of the two reports discussed in
-this essay. Both are available from the SRC: <title>Patterns of
-Poverty</title> (Dec. 1984. $5.00) and <title>Public Assistance and
-Poverty</title> (March 1985. $7.50). When ordering these reports,
-please add $2.OO for postage and handling. Minimum order$15. Quantity
-rates available.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 5-8</docDate>
                <p>"A rising tide lifts all boats," President Reagan explained four
 years ago when asked how his administration's policies would affect
 the poor. l hose were the days when Admini-
@@ -902,18 +894,20 @@ unemployment in the South from 1980 to the end of 1984, this could
 hardly cause the reductions in public assistance to the poor. The
 Administration has not given up its old practice of proclaiming
 problems away.</p>
-            </div2>
-            <div2 id="sc07-1thrasher.007" n="The South and the World Community" type="Article">
+            <div3 id="sc07-1.026" type="About">
+                  <p> Steve Suitts is executive director of the Southern
+Regional Council. He is the author of the two reports discussed in
+this essay. Both are available from the SRC: <title>Patterns of
+Poverty</title> (Dec. 1984. $5.00) and <title>Public Assistance and
+Poverty</title> (March 1985. $7.50). When ordering these reports,
+please add $2.OO for postage and handling. Minimum order$15. Quantity
+rates available.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.007" n="The South and the World Community" type="Article">
                <head>The South and the World Community</head>
-               <docAuthor>By SUE THRASHER</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 20-1, 23-24</docDate>
-               <argument>
-                  <p> Sue Thrasher is on the staff of the Highlander Center,
-New Market, Tennessee. She is a contributing editor to <title>Southern
-Changes</title>. This essay is a revised version of a talk given to
-the Fortieth Annual Meeting of the Southern Regional Council in
-Atlanta this past November.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Thrasher, Sue">Sue Thrasher</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 20-1, 23-24</docDate>
                <p>At some moment during the 1950s and '60s, many of us in this room
 made a decision about where we were going to work and what we were
 going to work for--a decision that made us take a stand for the future
@@ -1179,11 +1173,18 @@ world--just like poor and working class people here. We have to reach
 out and create the future with them. We can't stand alone as a region
 or as a nation. Our beloved community--as we called it in the
 1960s--must be much broader this time.</p>
-            </div2>
-            <div2 id="sc07-1tullos.008" n="Crackdown in the Black Belt" type="Article">
+            <div3 id="sc07-1.027" type="About">
+                  <p> Sue Thrasher is on the staff of the Highlander Center,
+New Market, Tennessee. She is a contributing editor to <title>Southern
+Changes</title>. This essay is a revised version of a talk given to
+the Fortieth Annual Meeting of the Southern Regional Council in
+Atlanta this past November.</p>
+               </div3>
+               </div2>
+            <div2 id="sc07-1.008" n="Crackdown in the Black Belt" type="Article">
                <head>Crackdown in the Black Belt</head>
-               <docAuthor>By ALLEN TULLOS</docAuthor>
-               <docDate>Vol. 7, No. 1, 1985, pp. 1-5</docDate>
+               <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+               <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 1-5</docDate>
                <p>In an apparent attempt to intimidate black voters in the rural
 South and push back electoral gains made since the passage of the 1965
 Voting Rights Act, federal prosecutors in Mobile, Montgomery and

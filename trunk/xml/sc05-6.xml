@@ -61,17 +61,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    <text>
       <body>
          <div1 id="sc05-6.001" n="Southern Changes 5:6" type="Issue">
-            <head>Southern Changes.  Volume 5, Number 6, 1983</head>
+            <head>Southern Changes.  Volume 5, Number 6, <date value="1983-12">1983</date></head>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 6, 1983</p>
-            <div2 id="sc05-6suitts.002" n="Kissing Honest Politics Goodbye, Again?" type="Article">
+            <div2 id="sc05-6.002" n="Kissing Honest Politics Goodbye, Again?" type="Article">
                <head>Kissing Honest Politics Goodbye, Again?</head>
-               <docAuthor>By STEVE SUITTS</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 1-3</docDate>
-               <argument>
-                  <p>Steve Suitts is the executive director of the Southern
-Regional Council.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 1-3</docDate>
                <p>George Wallace's election with significant black support in Alabama
 in 1982 reaffirmed that politics makes strange bedfellows in the
 South. This November, Bill Allain's close election in the Mississippi
@@ -207,17 +203,15 @@ the Southern politician who lusts for victory at any cost. With the
 passing of race-baiting as the universal ploy in this area of the
 South's statewide politics, gay-baiting may become the surest
 political kiss of death.</p>
-            </div2>
-            <div2 id="sc05-6willingham.003" n="New Federalism and Minority Rights" type="Article">
+            <div3 id="sc05-6.022" type="About">
+                  <p>Steve Suitts is the executive director of the Southern
+Regional Council.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.003" n="New Federalism and Minority Rights" type="Article">
                <head>New Federalism and Minority Rights: After Three Years</head>
-               <docAuthor>By ALEX WILLINGHAM</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 3-5</docDate>
-               <argument>
-                  <p>Alex Willingham is a political scientist currently living
-in Shreveport, Louisiana. This article is drawn from his research as a
-research fellow in public policy of the Southern Education
-Foundation.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 3-5</docDate>
                <p>When Ronald Reagan was elected President, he was widely regarded as
 a threat to the progressive social policies gradually put in place
 over the preceding five decades. In the main these policies--in civil
@@ -398,16 +392,17 @@ agency), and has established a track record of lax enforcement
 faithful to its anti-liberal views. The failure, so far, of the
 Administration's federalism reform is merely brief respite in an
 otherwise continuing attack on the rights of minorities.</p>
-            </div2>
-            <div2 id="sc05-6bowman.004" n="Blockading the Bomb Plant" type="Article">
+            <div3 id="sc05-6.023" type="About">
+                  <p>Alex Willingham is a political scientist currently living
+in Shreveport, Louisiana. This article is drawn from his research as a
+research fellow in public policy of the Southern Education
+Foundation.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.004" n="Blockading the Bomb Plant" type="Article">
                <head>Blockading the Bomb Plant</head>
-               <docAuthor>By SUE BOWMAN</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983</docDate>
-               <argument>
-                  <p>Sue Bowman lives in Columbia, South Carolina and writes
-regularly about Southern disarmament activities for several
-publications.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Bowman, Sue">Sue Bowman</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983</docDate>
                <p>Demonstrations against the deployment of US Cruise and Pershing
 missiles have been mounted all over Europe this fall. In West Germany
 the campaign is called "Hot Autumn." Included in the protests are
@@ -644,17 +639,17 @@ becoming more frightening. Antinuclear activists in the southeast will
 be increasingly called upon in the near future to "Blockade the Bomb
 Plant" not only with civil disobedience but with every means available
 to sane, intelligent and nonviolent people.</p>
-            </div2>
-            <div2 id="sc05-6bernstein.005" n="Demonstrating at Weapon World" type="Article">
+            <div3 id="sc05-6.024" type="About">
+                  <p>Sue Bowman lives in Columbia, South Carolina and writes
+regularly about Southern disarmament activities for several
+publications.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.005" n="Demonstrating at Weapon World" type="Article">
                <head>Demonstrating at Weapon World</head>
-               <docAuthor>By DAN BERNSTEIN</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 7-8</docDate>
-               <argument>
-                  <p>Dan Bernstein is a reporter for the Tampa
-<title>Tribune.</title>
-                  </p>
-               </argument>
-               <p>The people who gathered on a baseball field under cloudy skies were
+               <byline>By <docAuthor><name reg="Bernstein, Dan">Dan Bernstein</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 7-8</docDate>
+              <p>The people who gathered on a baseball field under cloudy skies were
 as diverse a group as you could imagine. There were teen-agers and
 grandmothers; doctors and musicians; hippies and priests.</p>
                <p>But they had all come to Orlando on Saturday, October 22, for the
@@ -726,22 +721,16 @@ drizzle. At one point during the march, a policemen noticed that a
 peace sign had been placed on the windshield of his parked
 motorcycle. He quickly pulled off the soggy cardboard and kicked it
 into pieces.</p>
-            </div2>
-            <div2 id="sc05-6staff.006" n="The Movement Remembered" type="Article">
+             <div3 id="sc05-6.025" type="About">
+                  <p>Dan Bernstein is a reporter for the Tampa
+<title>Tribune.</title>
+                  </p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.006" n="The Movement Remembered" type="Article">
                <head>The Movement Remembered: "Like A Banked Fire"</head>
-               <docAuthor>By STAFF</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 8-13</docDate>
-               <argument>
-                  <p>The following edited interview with Ms. Aurelia Norris
-Young (born 1915 in Knoxville, Kentucky) chronicles her involvement in
-the 1960s' Jackson, Mississippi freedom struggle. Ms. Young is
-currently president of the J.C. Maxwell Group, minority operators of
-WMPR-FM, a Mississippi public radio station scheduled to begin
-broadcasting within the next few weeks from Tougaloo,
-Mississippi. Worth Long of the SRC's Civil Rights Radio Project
-continues in this interview a series documenting the modern civil
-rights movement in the Deep South.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 8-13</docDate>
                <p>
                   <hi rend="bold">Worth Long:</hi> When did you first realize that
 there was a need for civil rights change, for change in the state of
@@ -1214,15 +1203,22 @@ admired them. Mrs. <unclear resp="encoder">[unclear]</unclear>ores'
 house had been bombed. I think that helped me to at least put up a
 show of being fearless. But after a while you get so that you aren't
 afraid of the fear.</p>
-            </div2>
-            <div2 id="sc05-6jones.007" n="The North Georgia Forty" type="Article">
+            <div3 id="sc05-6.026" type="About">
+                  <p>The following edited interview with Ms. Aurelia Norris
+Young (born 1915 in Knoxville, Kentucky) chronicles her involvement in
+the 1960s' Jackson, Mississippi freedom struggle. Ms. Young is
+currently president of the J.C. Maxwell Group, minority operators of
+WMPR-FM, a Mississippi public radio station scheduled to begin
+broadcasting within the next few weeks from Tougaloo,
+Mississippi. Worth Long of the SRC's Civil Rights Radio Project
+continues in this interview a series documenting the modern civil
+rights movement in the Deep South.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.007" n="The North Georgia Forty" type="Article">
                <head>The North Georgia Forty</head>
-               <docAuthor>By GREGG JONES</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, p. 13</docDate>
-               <argument>
-                  <p>Gregg Jones is a reporter for the Atlanta
-<title>Journal-Constitution</title>.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Jones, Gregg">Gregg Jones</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, p. 13</docDate>
                <p>Their rallying cry is "Keep public lands in public hands," and
 Dr. Phillip Greear hopes it will help save national forest land from
 the auction block.</p>
@@ -1294,11 +1290,15 @@ fight "until we get the government to drop the plan," says
 Greear. "Our main goal is to keep the issue alive and keep pressure on
 Congress, and hopefully prevent legislation from ever being
 introduced.</p>
-            </div2>
-            <div2 id="sc05-6fowler.008" n="Reaping What We Sow" type="Article">
+            <div3 id="sc05-6.027" type="About">
+                  <p>Gregg Jones is a reporter for the Atlanta
+<title>Journal-Constitution</title>.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.008" n="Reaping What We Sow" type="Article">
                <head>Reaping What We Sow</head>
-               <docAuthor>By CARY FOWLER</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 14-18</docDate>
+               <byline>By <docAuthor><name reg="FOWLER, CARY">CARY FOWLER</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 14-18</docDate>
                <p>American agriculture is imported. All the major food crops grown in
 North America originated elsewhere.</p>
                <p>It is believed that agriculture began independently in Southwest
@@ -1916,15 +1916,11 @@ can be rendered to any country is to add a useful plant to its
 culture." For our generation, the challenge will be to preserve the
 useful plants we already have.</p>
             </div2>
-            <div2 id="sc05-6gorn.009" n="Tell About the South" type="Review">
+            <div2 id="sc05-6.009" n="Tell About the South" type="Review">
                <head>Fred Hobson. <title>Tell About the South: The Southern Rage to
 Explain,</title> Louisiana State University Press, 1983.</head>
-               <docAuthor>By ELLIOTT GORN</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, 20-21</docDate>
-               <argument>
-                  <p>Elliott Gorn is assistant professor of American Studies
-at the University of Alabama in Tuscaloosa.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Gorn, Elliott">Elliott Gorn</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, 20-21</docDate>
                <p>I recently attended a workshop for historians held at a Southern
 university. One scholar, who teaches in New York state and whose field
 of study is Latin America, confided to me that he couldn't understand
@@ -2061,18 +2057,16 @@ blight is a bit premature; commercialism and hype have not completely
 drowned out the voices of enraptured Southerners. But all of this is
 quibbling. <title>Tell About the South</title> is an important book
 about an important subject.</p>
-            </div2>
-            <div2 id="sc05-6swift.010" n="364" type="Review">
+            <div3 id="sc05-6.029" type="About">
+                  <p>Elliott Gorn is assistant professor of American Studies
+at the University of Alabama in Tuscaloosa.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.010" n="364" type="Review">
                <head>Marie Faulk Rudisill. <title>Truman Capote.</title> William
 Morrow &#x26; Co., 1983.</head>
-               <docAuthor>By HARRIET SWIFT</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 21-23</docDate>
-               <argument>
-                  <p>Harriet Swift, currently a reporter with the
-<title>Oakland Tribune</title>, is a native Alabamian who spent her
-childhood summers on her grandfather's farm in Monroe
-County.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Swift, Harriet">Harriet Swift</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 21-23</docDate>
                <p>Marie Faulk Rudisill, Truman Capote's aunt, has succeeded in
 accomplishing what most people thought was impossible: she has brought
 her nephew and the homefolks in Monroe County, Alabama, into complete
@@ -2270,19 +2264,19 @@ them based on stories that are not "true" and images that are
 distorted. Monroe Country, which did not choose to run for literary
 immortality, has nevertheless been elected, but firmly refuses to
 serve.</p>
-            </div2>
-            <div2 id="sc05-6hanks.011" n="363" type="Review">
+            <div3 id="sc05-6.020" type="About">
+                  <p>Harriet Swift, currently a reporter with the
+<title>Oakland Tribune</title>, is a native Alabamian who spent her
+childhood summers on her grandfather's farm in Monroe
+County.</p>
+               </div3>
+               </div2>
+            <div2 id="sc05-6.011" n="363" type="Review">
                <head>Stephen Oates. <title>Let The Trumpet Sound: The Life of Martin
 Luther King, Jr.</title> Harper and Row, 1982. Paper edition by Plume,
 New American Library, 1983.</head>
-               <docAuthor>By LAWRENCE J. HANKS</docAuthor>
-               <docDate>Vol. 5, No. 6, 1983, pp. 23-24</docDate>
-               <argument>
-                  <p>Lawrence J. Hanks is a graduate student in government at
-Harvard University. His dissertation research focuses on black
-political participation in the rural South since the 1965 Voting
-Rights Act.</p>
-               </argument>
+               <byline>By <docAuthor><name reg="Hanks, Lawrence J.">Lawrence J. Hanks</name></docAuthor></byline>
+               <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 23-24</docDate>
                <p>
                   <title>Let The Trumpet Sound</title> is the first biography of King
 to appear since David Lewis' <title>King: A Critical Biography</title>
@@ -2390,7 +2384,13 @@ advocate <unclear resp="encoder">[unclear]</unclear> rights and humanity
 of others that he jeopardized his own self-preservation. <title>Let
 The Trumpet Sound</title> is a comprehensive and compassionate account
 of this great life.</p>
-            </div2>
+            <div3 id="sc05-6.031" type="About">
+                  <p>Lawrence J. Hanks is a graduate student in government at
+Harvard University. His dissertation research focuses on black
+political participation in the rural South since the 1965 Voting
+Rights Act.</p>
+               </div3>
+               </div2>
          </div1>
       </body>
    </text>
