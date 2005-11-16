@@ -1,26 +1,26 @@
-<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title>Southern Changes.  Volume 8, Number 3</title>
-            <author>Staff</author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>staff</name>
-            </respStmt>
-         </titleStmt>
-         <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
+<TEI.2 id="sc08-31204">
+  <teiHeader id="sc08-31201" type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Southern Changes.  Volume 8, Number 3</title>
+        <author>Staff</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>staff</name>
+        </respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory
 University</pubPlace>
-            <address>
-               <addrLine>Atlanta,
+        <address>
+          <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory
+        </address>
+        <availability>
+          <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -28,49 +28,47 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Web Project or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Southern Changes Web Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Southern Changes.  Volume 8, Number 3. September 1986</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the
+        </availability>
+        <date>1996</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Southern Changes Web Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Southern Changes.  Volume 8, Number 3. September 1986</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text is produced in conjunction with the
 Southern Changes Web Project at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-         </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1998</date>
-            <respStmt>
-               <name>Beck Center</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change>
+        <date>1998</date>
+        <respStmt>
+          <name>Beck Center</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div1 id="sc08-3001" n="Southern Changes 8:3" type="Issue">
-            <head>Southern Changes.  Volume 8, Number 3, 1989</head>
-            <p>
-               <title>Southern Changes</title>.  Volume 8, Number 3,
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="sc08-31203">
+    <body id="sc08-31202">
+      <div1 id="sc08-3001" n="Southern Changes 8:3" type="Issue">
+        <head>Southern Changes.  Volume 8, Number 3, 1989</head>
+        <p><title>Southern Changes</title>.  Volume 8, Number 3,
 	       <date value="1986-09">1986</date></p>
-            <div2 id="sc08-3002" n="The Poverty of Policy" type="Article">
-               <head>The Poverty of Policy</head>
-               <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 1-3</docDate>
-               
-               <p>In late August the casualty list for 1986 in America's half-hearted
+        <div2 id="sc08-3002" n="The Poverty of Policy" type="Article">
+          <head>The Poverty of Policy</head>
+          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 1-3</docDate>
+          <p>In late August the casualty list for 1986 in America's half-hearted
 war on poverty revealed that fourteen percent of Americans were living
 in "official" poverty (an annual income of below $10,989 for a family
 of four). As this year's Census Bureau statistics stood four-tenths of
@@ -81,7 +79,7 @@ would have bitterly indicted the Administration's cruel
 policies. Either way, the announcement has come to signify a passing
 moment of political theater and the continuance of very poor public
 policy.</p>
-               <p>The annual procession of poverty statistics each summer is becoming
+          <p>The annual procession of poverty statistics each summer is becoming
 a ritual without meaning, something like those troop counts for the
 Vietnam War fifteen years ago. The harsh debate about slight changes
 in each set of new figures obscures the continuing tragedy of our
@@ -90,7 +88,7 @@ Republicans and Democrats in the national debate over poverty today
 find it is easier to count the poor than to address the policies
 attacking poverty. Behind the war of words, we really have a standoff
 in the war on poverty.</p>
-               <p>Beginning with the assumption in 1980 that poverty in America was a
+          <p>Beginning with the assumption in 1980 that poverty in America was a
 myth, the Reagan Administration has now stopped its direct attacks on
 the programs of the poor-after six years of budget cutting. In part,
 the Gramm-Rudman-Hollings Balanced Budget Act constitutes a liveable,
@@ -103,7 +101,7 @@ decided
 <pb n="2"/>
 to live with this arrangement, apparently believing it is
 better than the higher cuts on poverty programs in previous years.</p>
-               <p>A temporary truce is also in effect on the debate over government
+          <p>A temporary truce is also in effect on the debate over government
 policies concerning the poor. Overshadowed at the moment by
 discussions on budget deficits and tax policies, poverty as an issue
 does not now exist at the White House. It will not be an issue until
@@ -114,7 +112,7 @@ year very few members of Congress have been asking the Administration
 what it has done for the poor lately. And to all who oppose the
 President's policies on poverty, Reagan's current posture of benign
 neglect seems like a vast improvement.</p>
-               <p>The momentary neglect, however, is not so very benign. Whatever the
+          <p>The momentary neglect, however, is not so very benign. Whatever the
 August figures show, we know that we have lost substantial ground over
 the last six years in reducing poverty. The effect of our neglect is
 becoming frightening. One child out of every five is poor. Every other
@@ -123,7 +121,7 @@ constitute the largest segment of the adult population in
 poverty-sixty percent of all poor over the age of eighteen. One out of
 every three blacks is poor; Hispanics have equally high rates of
 poverty. Three of four poor persons are women and children.</p>
-               <p>For Southerners the most recent economic trends offer further bad
+          <p>For Southerners the most recent economic trends offer further bad
 news which neglect won't help. The two Southern states that have
 enjoyed a boom economy since 1980 have now gone bust. In Texas and
 Louisiana unemployment has reached record high levels since late
@@ -132,7 +130,7 @@ handling the rising need-a trend already seen in many other parts of
 the South. While these problems in the oil states will not show up in
 the poverty surveys until 1987, they are real and will not be solved
 by official neglect in Washington.</p>
-               <p>Of course, the Administration's silence is not forever. Within the
+          <p>Of course, the Administration's silence is not forever. Within the
 next twelve months the White House will announce its new poverty
 policies when it releases a report from the presidential commission on
 welfare reform. While others will be busy keeping food banks and
@@ -144,7 +142,7 @@ abuse. Once more, the debate will focus on the failures of the past
 rather than its successes and potential. And the people of the South
 and the nation will have to struggle with themselves once more if they
 are to resist blaming the victims of poverty for its presence.</p>
-               <p>Rather than debate over the latest count on poverty, we need to
+          <p>Rather than debate over the latest count on poverty, we need to
 construct a framework for future debates on policies. Although America
 seems to hold few truths to be self-evident nowadays, the trends of
 poverty over the last several years already tell us the direction that
@@ -160,13 +158,13 @@ a vital anti-poverty measure that could do more than any other single,
 simple, act to 
 <pb n="3"/>
 reduce poverty.</p>
-               <p>Second, the enforcement of anti-discrimination laws in the job
+          <p>Second, the enforcement of anti-discrimination laws in the job
 market must be strengthened. In part, the extraordinary poverty among
 blacks, Hispanics ant women tells of the missed opportunities in the
 workplace too often still caused by discriminatory hiring and
 promotion. Fair employment practices for minorities and women mean a
 reduction in poverty.</p>
-               <p>Third, affordable child care must be provided for poor women who
+          <p>Third, affordable child care must be provided for poor women who
 work. With so many women and children among the poor, and with the
 rise of single-parent families, nothing very realistic will be done in
 the private or public arena to reduce poverty without affordable child
@@ -175,44 +173,43 @@ six million poor are of grammar school age. Without child care, the
 want ads for many jobs will not and should not be answered by poor
 mothers with infants and young children who find working a losing
 proposition.</p>
-               <p>Fourth, jobs should be available to all adults who can
+          <p>Fourth, jobs should be available to all adults who can
 work. Providing a job to an adult in poverty must not be a vindictive
 act, a punishment for being poor. A job must help the individual with
 income and work experience. Full employment at decent wages is the
 most sensible way of virtually eliminating poverty.</p>
-               <p>Fifth, non-institutional care must be available to those adults
+          <p>Fifth, non-institutional care must be available to those adults
 incapable of caring for themselves. A small part of the general
 poverty population and a large segment of street people are struggling
 desperately, but fruitlessly, to help themselves. Non-institutional
 care must be provided.</p>
-               <p>These are simple principles; they do not trespass human dignity nor
+          <p>These are simple principles; they do not trespass human dignity nor
 propose to bankrupt the government. They suggest that personal
 initiative and work should be seen for the poor not as punishment but
 as opportunity. They are not the only principles on which a practical,
 compassionate poverty program can be constructed, but they go a long
 way in shifting the debate.</p>
-               <p>The South and the nation must summon the will and resources to
+          <p>The South and the nation must summon the will and resources to
 arrest the current trends of poverty. We surely need to know where the
 poverty statistics stand, this year and in future years. But more than
 anything else right now, we need to enact policies that will bring
 people out of poverty. Among all the numbers, that is whet really
 courts.</p>
-            <div3 id="sc08-3022" type="About">
-                  <p>Steve Suitts is executive director of the Southern
+          <div3 id="sc08-3022" type="About">
+            <p>Steve Suitts is executive director of the Southern
 Regional Council.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3003" n="Taking the Fifth" type="Article">
-               <head>Taking the Fifth</head>
-               <byline>By <docAuthor><name reg="Davis, Marilyn">Marilyn Davis</name> and <name reg="Willingham,  Alex">Alex Willingham</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 7-9</docDate>
-               
-               <p>Two election contests have drawn much attention to Georgia this
+          </div3>
+        </div2>
+        <div2 id="sc08-3003" n="Taking the Fifth" type="Article">
+          <head>Taking the Fifth</head>
+          <byline>By <docAuthor><name reg="Davis, Marilyn">Marilyn Davis</name> and <name reg="Willingham,  Alex">Alex Willingham</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 7-9</docDate>
+          <p>Two election contests have drawn much attention to Georgia this
 year: a race crucial in determining the party alignment in the US
 Senate, and a struggle between long-time allies that will send a
 strong and articulate black Southerner to Congress. Indeed, the Senate
 campaign helped prompt the congressional one.</p>
-               <p>The race for the House seat took place in Georgia's Fifth District,
+          <p>The race for the House seat took place in Georgia's Fifth District,
 centered in Atlanta. Georgia, and the nation, have become accustomed
 to the special nature of the state's Fifth District, since mid-century
 one of the South's most volatile and visible political
@@ -220,7 +217,7 @@ theatres. During the last forty years, the Fifth has sent Georgia's
 first woman to Congress, followed her with an arch-segregationist,
 later with Andrew Young, and most recently, white liberal Wyche
 Fowler.</p>
-               <p>This year Fowler left his congressional job and won the Democratic
+          <p>This year Fowler left his congressional job and won the Democratic
 Party's nomination for the US Senate. In making the run for the
 Senate, Fowler is testing whether a record built in his old district,
 composed entirely of urban voters and a majority-black population, can
@@ -231,49 +228,49 @@ leading contender Hamilton Jordan (once of the Carter White House
 staff) without a runoff. Now, in one of the country's most important
 campaigns, Fowler faces Reaganite incumbent Mack Mattingly this
 fall.</p>
-               <p>With Fowler gone, the action in the Fifth's Democratic primary
+          <p>With Fowler gone, the action in the Fifth's Democratic primary
 turned upon the rivalry of two civil rights veterans: Georgia state
 aerator Julian Bond and Atlanta city councilmember John Lewis (both
 age 46). Lewis was to eventually win the nomination in a
 come-from-behind upset decided in the run-off primary on September
 2.</p>
-               <p>The Fifth District has a black population of sixty-five percent
+          <p>The Fifth District has a black population of sixty-five percent
 (the black voting age population is sixty percent). Bond and Lewis
 were hoping to become just the third black among the 138 members now
 serving in the US House from the eleven Southern states (blacks make
 up twenty percent of the population of the South).</p>
-               <p>Lewis, son of an Alabama sharecropper, was a leader of the Student
+          <p>Lewis, son of an Alabama sharecropper, was a leader of the Student
 Nonviolent Coordinating Committee (SNCC) in the 1960s. At the 1963
 March on Washington where Martin Luther King, Jr. made his "I Have a
 Dream" speech, Lewis received national attention when march organizers
 demanded that he censor and tone down his own public remarks. Two
 years later, he was one of the main targets of police attacks at the
 Edmund Pettus Bridge during the Selma to Montgomery March.</p>
-               <p>Lewis later directed the Southern Regional Council's Voter
+          <p>Lewis later directed the Southern Regional Council's Voter
 Education Project. His first attempt at public office came in 1977
 when he made an unsuccessful attempt to win the congressional seat. He
 was appointed head of the federal Action agency in the Carter
 Administration. In 1981, he won election to the Atlanta city council
 and became a chief advocate of ethics in government. In 1985 he was
 reelected over token opposition.</p>
-               <p>Bond is also a former SNCC leader (he was communications director),
+          <p>Bond is also a former SNCC leader (he was communications director),
 active in voter education. He is one of three children of Horace Mann
 Bond, the renowned educator and historian. In 1966, after being
 elected to the Georgia General Assembly, Bond was denied his seat when
 he stood firm in support of SNCC's anti-Vietnam War policy
 statement. He was able to join the state legislature only after a
 legal battle which drew international attention and support.</p>
-               <p>Although still too young to accept the office, at the 1968
+          <p>Although still too young to accept the office, at the 1968
 Democratic Convention in Chicago Bond's name was placed in nomination
 as the party's vice-presidential candidate. Bond has been widely
 sought as a gifted public speaker, particularly on college
 campuses. He once hosted NBC's "Saturday Night Live."</p>
-               <p>The contest between Bond and Lewis meant that Georgia would send to
+          <p>The contest between Bond and Lewis meant that Georgia would send to
 Congress a civil rights activist with strong credentials appropriate
 for a congressional district that has struggled for decades with the
 declining traditional symbols and the new and complex strains emerging
 in contemporary Southern politics.</p>
-               <p>The beginning of that struggle may be dated from a special election
+          <p>The beginning of that struggle may be dated from a special election
 held in February of 1946, when Fifth District voters sent Helen
 Douglas Mankin, Georgia's first woman to Congress to fill the
 unexpired term of the recently resigned veteran Representative Robert
@@ -283,21 +280,21 @@ election since 1929. Their participation had been prohibited by the
 White Primary system under which voting in the nominating elections
 conducted by the Democratic party was limited to white
 citizens. Democratic nomination amounted to victory.</p>
-               <p>When the time came for Mankin to run again, in the regularly
+          <p>When the time came for Mankin to run again, in the regularly
 scheduled primary election of 1946, blacks gave her strong
 support. She received an overwhelming vote in the Ashby Street
 precinct that was to become a bellwether of black political
 participation in Atlanta.</p>
-               <p>Representative Mankin's tenure was short. She won a popular
+          <p>Representative Mankin's tenure was short. She won a popular
 majority in the regular primary, but was denied the nomination when
 Democratic party leaders decided to make a "special exception" and
 apply the rules of the county unit system--another of Georgia's
 traditional disfranchising devices.</p>
-               <p>The ultimate victor that year was James C. Davis, ally of the
+          <p>The ultimate victor that year was James C. Davis, ally of the
 openly racist Eugene Talmadge whose faction then controlled the
 Democratic party and whose views could not have been more in contrast
 to those of the majority of the Fifth's population.</p>
-               <p>The county unit system insured the continued renomination and
+          <p>The county unit system insured the continued renomination and
 reelection of Davis, although he drew consistent opposition and, in
 1952, again lost the popular vote. Blacks always opposed Davis and his
 segregationist views. In 1954, Morris Abrams, then flying the banner
@@ -307,12 +304,12 @@ nomination to Davis. Abrams
 received ninety-four percent of the vote at that Ashby street
 box. When the county unit system was declared invalid in a 1962
 Supreme Court decision, Davis did not seek reelection.</p>
-               <p>In the following years, the Fifth was to elect a white Democrat,
+          <p>In the following years, the Fifth was to elect a white Democrat,
 Charles Weltner, who would be one of the few Southerners to vote for
 civil rights legislation, and who resigned his seat rather than run on
 a ticket with an avowed segregationist. Weltner was replaced in 1966
 by one of the region's first Republicans Fletcher Thompson.</p>
-               <p>In 1972, after an attempted gerrymander by the Georgia legislature,
+          <p>In 1972, after an attempted gerrymander by the Georgia legislature,
 the white majority district elected Andrew Young as the state's first
 black congressman. Young was known as a close associate of Martin
 Luther King, Jr. He then worked as director of the Atlanta Community
@@ -322,9 +319,9 @@ mediator. During Young's years of campaigning for Congress, he enjoyed
 wide bi-racial voting support. He received a critical fourth of the
 white vote in that first winning election and increasingly larger
 proportions in his reelection efforts.</p>
-               <p>Young served until 1977 when he accepted an appointment by
+          <p>Young served until 1977 when he accepted an appointment by
 President Carter to head the US delegation to the United Nations.</p>
-               <p>Despite the growing black population in the Atlanta area, the Fifth
+          <p>Despite the growing black population in the Atlanta area, the Fifth
 District remained majority white. Boundary lines were drawn in such a
 way as to split the black voters among three congressional
 districts. During the 1980 reapportionment, an attempt was made to
@@ -332,74 +329,74 @@ redraw the lines. The Georgia legislature refused, but was eventually
 forced, to improve matters when a federal court held the districts to
 be discriminatory. New lines were drawn creating a majority black
 population in the Fifth District in 1982.</p>
-               <p>The Fifth elected, after Young, Wyche Fowler, a white who shared
+          <p>The Fifth elected, after Young, Wyche Fowler, a white who shared
 the moderate views of Atlanta's black middle class. Fowler served and
 won reelection as the racial make-up of the district was reversed.</p>
-               <p>The idea of a white representing a black majority seemed to suit
+          <p>The idea of a white representing a black majority seemed to suit
 the fancy of a district where a black had represented a white
 majority. Black leaders praised Fowler's voting record and his
 attention to serving constituents. He was adept at campaigning within
 the black community. During the Reagan drive to dismantle social
 programs targeted to urban and minority citizens, Fowler was a
 dependable opponent.</p>
-               <p>The arrangement became uncomfortable, however, as potential rivals
+          <p>The arrangement became uncomfortable, however, as potential rivals
 began to insist that the district select a black representative. In
 1984, SCLC activist Hosea Williams and three other blacks challenged
 Fowler, who nevertheless won handily. This year, perhaps seeing the
 writing on the wall, as well as an opportunity to challenge the
 freshman Mattingly, Fowler chose to make his move for the Senate.</p>
-               <p>Although ten candidates entered the contest when Fowler decided not
+          <p>Although ten candidates entered the contest when Fowler decided not
 to seek the congressional seat, the Fifth was really Bond's to win or
 lose.</p>
-               <p>National celebrities and politicians--including Rosa Parks and New
+          <p>National celebrities and politicians--including Rosa Parks and New
 York mayor Ed Koch--came into the district to campaign, most of them
 supporting Bond. Former New York Representative Shirley Chisholm, 
 <pb n="9"/>
 now
 head of the National Black Women's Political Congress, came to endorse
 Jan Douglass, one of five women candidates.</p>
-               <p>The August primary in the Fifth developed within a broad consensus
+          <p>The August primary in the Fifth developed within a broad consensus
 on issues among the candidateds. Most opposed intervention in Central
 America and supported effective sanctions against apartheid in South
 Africa. On the whole, the candidates were sharply critical of the
 Reagan effort to cirpple domestic programs, curtail civil liberties,
 bloat the military, and politicize the government's civil rights
 agencies.</p>
-               <p>Bond's frontrunner status was taken for granted both by the other
+          <p>Bond's frontrunner status was taken for granted both by the other
 candidates and the news media. He was the leading fundraiser among the
 group and enjoyed wide recognition in the opinion polls. Consequently
 he became the target of "negative advertising" by opponents who
 perceived him as vulnerable among white voters.</p>
-               <p>Specially-targeted radio spots said Bond would promote racial
+          <p>Specially-targeted radio spots said Bond would promote racial
 division, an allegation based on speeches in Bond's 1972 <title>A Time
 to Speak, A Time to Act</title>, a book which responded to the growing
 racial and socioeconomic differences between the inner city and the
 suburbs. Other radio spots claimed Bond to be delinquent in his
 federal tax payments. No taxes are currently in arrears but in recent
 years, the allegation said, some had been.</p>
-               <p>Such charges exploited a stereotype of Bond as a media personality,
+          <p>Such charges exploited a stereotype of Bond as a media personality,
 ineffective, disorganized, and lazy.</p>
-               <p>Bond's defenders argued that his persona and glamour were further
+          <p>Bond's defenders argued that his persona and glamour were further
 reasons to commend him to voters. They pointed, also, to his twenty
 years of perseverance in the Georgia legislature which should be seen,
 they said, in relation to the hostility he encountered. A
 conservative, white, "old boy," leadership not only despised Bond's
 presence but often used its powers spitefully to limit his access. A
 loyal constituency repeatedly resumed Bond to office.</p>
-               <p>An opposite image from that of the flashy, glib, Bond dogged John
+          <p>An opposite image from that of the flashy, glib, Bond dogged John
 Lewis, a man whom the editors of <title>Time</title> once called a
 saint. In this year's campaign he enjoyed the endorsement of the
 Atlanta <title>Constitution</title> (as he did in 1977). Yet in '77
 (and again in '86,) there were questions about whether he is dynamic
 enough to give effective representation.</p>
-               <p>Lewis' defenders pointed to a personal history marked by hard work,
+          <p>Lewis' defenders pointed to a personal history marked by hard work,
 sacrifice and principled dissent. They say his persistent advocacy of
 ethics in government while on the Atlanta City Council illustrates his
 best quality, integrity. Lewis's ethics proposals walked with leaden
 feet among some of his colleagues (four of the current council members
 have had brushes with the law), but he has pursued this knotty and
 sensitive issue with characteristic courage.</p>
-               <p>Some Atlanta voters, wondering at what spot the ethical footsteps
+          <p>Some Atlanta voters, wondering at what spot the ethical footsteps
 might trespass across the threshold of civil liberties were startled
 when, in the strained final days of the first primary campaign, drug
 testing was made an issue. Lewis and several others volunteered to
@@ -408,18 +405,18 @@ set the tone for a Run-off campaign marked by considerably sharper
 controversy. Lewis hammered away at the drug theme manipulating it,
 and other conservative domestic and foreign issues as a strategy to
 appeal to white voters.</p>
-               <p>On the eve of the August 12 primary, Bond hoped to win outright. A
+          <p>On the eve of the August 12 primary, Bond hoped to win outright. A
 day later he received forty-seven percent of the vote to Lewis'
 thirty-six percent (double what was granted to him in the pre-election
 polls) forcing the September 2 runoff.</p>
-               <p>Despite his failure to avoid a run-off, Bond demonstrated strong
+          <p>Despite his failure to avoid a run-off, Bond demonstrated strong
 vote getting power. Of the 242 precincts in the district, Bond carried
 over seventy perecent on August 12. He outpolled Lewis in the black
 precincts (getting as high as seventy percent of the vote and
 averaging sixty-one percent), but came in third overall in the white
 precincts. Bond also won a majority of the precincts (sixty percent)
 in the run- off.</p>
-               <p>In August and again on September 2, Bond won low income black
+          <p>In August and again on September 2, Bond won low income black
 precincts by comfortable majorities. The crucial difference in the
 election was the refusal of whites to vote for Bond in appreciable
 numbers. Upper income whites, were especially reluctant to vote for
@@ -430,19 +427,19 @@ set of questions about the quality of politics to be expected in a
 district with such contradictory voter preferences between the
 affluent white minority and the low income, inner city black
 majority.</p>
-               <p>Only seventy-thousand voters (twenty-nine percent of the 230,000
+          <p>Only seventy-thousand voters (twenty-nine percent of the 230,000
 registered) came out for the August 12 primary--about the same number
 as voted in the September runoff. The small voter turnout is a
 striking irony given the roles these two men have played in voter
 registration.</p>
-               <p>Even in the Fifth District, black voters continue to suffer special
+          <p>Even in the Fifth District, black voters continue to suffer special
 disadvantages in the political process, the results of a legacy of
 underparticipation, of continuing disparities in social and economic
 opportunities, and of growing doubts about the capacity of political
 leadership. Despite fifteen years of black progress in office holding,
 voter registration among Atlanta blacks reaches only about half its
 potential.</p>
-               <p>The 1980 census shows that in Fulton County (a major part of the
+          <p>The 1980 census shows that in Fulton County (a major part of the
 Fifth District) less than half of black youth live in two-parent
 homes. In black, female-headed households with children, the median
 annual income is $6,000, less than half that of similarly situated
@@ -451,7 +448,7 @@ that of black families. One census tract in a black community in the
 Fifth District shows the median family income at $2,900. By contrast,
 the highest median family income in the Fifth ($53,000) is in a white
 neighborhood.</p>
-               <p>No single election will change these disparities and
+          <p>No single election will change these disparities and
 inequalities. They are a reminder of the challenge facing the Fifth
 District. The competition between Bond and Lewis has been
 uncomfortable for those who see them as pure symbols of the movement
@@ -460,23 +457,22 @@ years. The campaign has created definite expectations--and hope
 only realistic to admit that the problems that face the Fifth and the
 country are much more resistant to symbolic and even electoral change
 than they seemed in the days of Movement victories.</p>
-            <div3 id="sc08-3023" type="About">
-                  <p>Marilyn Davis teaches political science at Spelman
+          <div3 id="sc08-3023" type="About">
+            <p>Marilyn Davis teaches political science at Spelman
 College in Atlanta. Alex Willingham is research associate at the
 Southern Regional Council and a contributing editor of <title>Southern
 Changes</title>.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3004" n="In Wallace's Wake" type="Article">
-               <head>In Wallace's Wake--New Demagoguery for the Eighties</head>
-               <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 10-12</docDate>
-               
-               <p>"Alabama has it all," brag the interstate billboards leading into
+          </div3>
+        </div2>
+        <div2 id="sc08-3004" n="In Wallace's Wake" type="Article">
+          <head>In Wallace's Wake--New Demagoguery for the Eighties</head>
+          <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 10-12</docDate>
+          <p>"Alabama has it all," brag the interstate billboards leading into
 the Heart of Dixie. The slogan is aimed mostly at Florida- or
 Louisiana-bound tourists but nowadays applies equally well to the
 contest for the state's governorship.</p>
-               <p>The Democratic primary and run-off were held in June, but the
+          <p>The Democratic primary and run-off were held in June, but the
 party's nominee was undeclared until August due to legal challenges
 and an order by a three-judge federal panel barring certification of
 the apparent winner. Among the judges signing the order was Frank
@@ -484,13 +480,13 @@ M. Johnson Jr., known by many Alabamians over the past quarter-century
 as the "real governor" of the state for the control he exerted in
 orders on prisons, schools, mental hospitals, public hiring and civil
 rights.</p>
-               <p>In the 1960s and 1970s Johnson's legal activism was necessary to
+          <p>In the 1960s and 1970s Johnson's legal activism was necessary to
 fill the vacuum left by the inaction of Gov. George C. Wallace, who
 always found it expedient to let the Federal courts force state
 officials to do the politically unpopular. It seemed fitting that
 Judge Johnson's latest legal entry into Alabama justice came as
 another Wallace vacuum loomed.</p>
-               <p>George Wallace, at last, is retiring from the office he has held
+          <p>George Wallace, at last, is retiring from the office he has held
 for four terms, five if you count the term of his first wife, Lurleen,
 who was elected as his surrogate in 1966 when the law forbade
 consecutive terms. Contending in Wallace's wake were Lt. Gov. Bill
@@ -503,7 +499,7 @@ cost him the Governor's Mansion in 1982; and . . . Atty. Gen. Charlie
 Graddick, the law-and-order dark horse who has emerged as the latest
 demagogue in an Alabama lineage stretching back through George Wallace
 to Cotton Tom Heflin and William Lowndes Yancey.</p>
-               <p>Graddick is the New version of the Old Wallace. Many who remember
+          <p>Graddick is the New version of the Old Wallace. Many who remember
 only the extremities of the past find it hard to call Graddick a
 racist because he actually does nothing overtly against blacks; his
 popularity with racists is due to the fact that he largely ignores the
@@ -511,7 +507,7 @@ quarter of the state's citizens who are black, and that he is a
 demagogue for the Eighties, a subtle master of euphemisms and code
 phrases that communicate racial meaning without the blatantly nasty
 words of the previous generation.</p>
-               <p>In winning the attorney general's office in 1978, Graddick
+          <p>In winning the attorney general's office in 1978, Graddick
 transformed himself from an unknown Mobile County district attorney
 with a series of stark, loud television commercials claiming he would
 get tough on crime. In a speech, he declared he wanted to "fry
@@ -523,7 +519,7 @@ such as work release and restitution programs. Critics accused him of
 being a poor, frequently reversed prosecutor, indifferent to
 white-collar crime and to such public nuisances as KKK paramilitary
 training.</p>
-               <p>Like former Gov. James, Graddick is an exRepublican who switched
+          <p>Like former Gov. James, Graddick is an exRepublican who switched
 parties to run a state-wide campaign. Although Alabama has become,
 since the Second World War, one of the most conservative states,
 giving large votes to GOP Presidential nominees, it has not elected a
@@ -534,14 +530,14 @@ sweep of Alabama in 1964 elected several Republican congressmen, and
 in recent years a growing number of Republicans have been elected to
 county and legislative offices. The GOP currently holds two of the
 state's seven Congressional districts.</p>
-               <p>Graddick and James owe their political careers to that still-small
+          <p>Graddick and James owe their political careers to that still-small
 contingent of Alabamians who have declared themselves Republicans and
 to that large and growing block of voters who identify philosophically
 with the GOP even though they still call themselves Democrats in state
 and local elections. In short, the Reagan vote. Baxley, on the other
 hand, stumped vigorously for Mondale and Ferraro in 1984, and he gets
 his strongest support from the backers of that losing ticket.</p>
-               <p>Baxley was a two-term attorney general before Grad lick, but there
+          <p>Baxley was a two-term attorney general before Grad lick, but there
 is practically no other similarity 
 <pb n="11"/>
 between the two. Where Graddick
@@ -551,32 +547,32 @@ Birmingham's 16th Street Baptist Church and convicted a former Ku Klux
 Klansman for the murders of the four children. Baxley, a law student
 in 1963, said he was motivated by his shame and anger that people
 could do such a thing in his state and get away with it.</p>
-               <p>As attorney general, Baxley was viewed as a tough, able prosecutor
+          <p>As attorney general, Baxley was viewed as a tough, able prosecutor
 but may have been most respected for the job he did recruiting a
 talented crop of young Alabama lawyers, including some who had left
 the state to work on Wall Street and the first black assistant
 attorney general in Alabama history. He then prosecuted murderers and
 white collar criminals with equal vigor.</p>
-               <p>On the negative side, the bachelor Baxley had a reputation as a
+          <p>On the negative side, the bachelor Baxley had a reputation as a
 playboy and a gambler who had made and lost large sums in Las Vegas
 and in the commodities market. Though he had married before making his
 first attempt at the Governor's office in 1978. the image stuck with
 him, renewed in the recent campaign by intimations of an affair with
 an Associated Press reporter who quickly resigned her job and left the
 state.</p>
-               <p>Baxley led the June 3 primary voting by eighty thousand votes, with
+          <p>Baxley led the June 3 primary voting by eighty thousand votes, with
 Graddick a strong second. Graddick then picked up the endorsement of
 McMillan, causing Baxley aides to charge that McMillan--who had called
 Graddick unfit to serve before the election--had offered to endorse
 Baxley in exchange for payment of McMillan's considerable campaign
 debt. Graddick probably did not need Fob James's endorsement; those
 voters had no place else to go.</p>
-               <p>Alabama does not require party registration, but voters in its
+          <p>Alabama does not require party registration, but voters in its
 primaries do pledge to support the party nominees in the subsequent
 general election. Alabama law expressly prohibits voters in one
 party's primary from supporting another party's candidate in a
 run-off.</p>
-               <p>Graddick attacked Baxley as the candidate of special interests,
+          <p>Graddick attacked Baxley as the candidate of special interests,
 playing up donations of about $100,000 Baxley received from political
 action committees supported by the Alabama Education Association and
 on Baxley's endorsement by both of the state's black political
@@ -588,9 +584,9 @@ action committees. Among his biggest contributors were well-known
 Republicans, including former Nixon Postmaster Winton Blount, and June
 Collier, the "Buy American" auto parts manufacturer who was appointed
 by Reagan to the Industrial Policy Advisory Committee.</p>
-               <p>Two weeks before the June 24 run-off, polls placed Baxley and
+          <p>Two weeks before the June 24 run-off, polls placed Baxley and
 Graddick almost even.</p>
-               <p>The Alabama Democratic Party began a statewide campaign aimed at
+          <p>The Alabama Democratic Party began a statewide campaign aimed at
 discouraging the 33,000 voters in the June 3 Republican primary from
 crossing-over to vote in the Democratic runoff; there was no statewide
 Republican run-off and only token local contests. Candidate Graddick,
@@ -601,12 +597,12 @@ after meeting with Graddick campaign officials, issued a letter
 advising county election officials that they faced possible legal
 actions if they attempted to prevent Republicans from voting in the
 Democratic run-off.</p>
-               <p>The run-off voting was the closest in recent Alabama history, with
+          <p>The run-off voting was the closest in recent Alabama history, with
 Graddick on top by 8,756 votes, less than a percentage point of the
 almost one million total. Graddick's campaign workers began answering
 the phone "Governor-elect ..." the next day, but Baxley refused to
 concede without a recount.</p>
-               <p>Then Baxley supporters filed an election challenge to the state
+          <p>Then Baxley supporters filed an election challenge to the state
 Democratic Party charging that as many as 20,000 Republicans, far more
 than Graddick's margin of victory, had illegally crossed over on June
 23. After a few days of deliberation, Baxley filed his own concurrent
@@ -618,15 +614,15 @@ the press that Graddick had been elected by Republicans, and, on the
 weekend before the run-off, a series of television commercials had
 been aired in which four Republican state senators stated that
 crossover voting was legal.</p>
-               <p>The party challenge was soon followed by a class-action federal
+          <p>The party challenge was soon followed by a class-action federal
 lawsuit filed by a black county commissioner and his wife alleging
 that Graddick had violated Section Five of the Voting Rights Act by
 advising voters that it was legal to cross over. Graddick had
 illegally diluted the black vote by changing election practices
 without preclearance from the Justice Department, the suit charged.</p>
-               <p>On Aug. 1, federal judges Johnson, Truman Hobbs and Myron Thompson
+          <p>On Aug. 1, federal judges Johnson, Truman Hobbs and Myron Thompson
 ruled on the voting rights issue.</p>
-               <p>In strong language, the Court concluded, "The June 24th runoff was
+          <p>In strong language, the Court concluded, "The June 24th runoff was
 so close, the number of illegal crossover voters so great, and
 Mr. Graddick's violation so flagrant, this Court cannot take the
 chance that Mr. Graddick received the Democratic nomination as a
@@ -635,17 +631,17 @@ Democratic Party from certifying Graddick as its nominee and said the
 Party could either certify Baxley (if it could be proved that he would
 have won except for crossover votes) or could call a new runoff
 between Graddick and Baxley.</p>
-               <p>"It is absolutely clear," the Court continued, "that as a candidate
+          <p>"It is absolutely clear," the Court continued, "that as a candidate
 and, more importantly, as the Attorney 
 <pb n="12"/>
 General, Mr. Graddick made
 every effort to get voters to violate the anti-crossover rule."</p>
-               <p>The Court had no sympathy with Graddick's argument that the
+          <p>The Court had no sympathy with Graddick's argument that the
 anti-crossover rule was unenforced in the two previous elections,
 saying, "We note also that during the entire time the crossover law
 remained on the books and allegedly unenforced, Mr. Graddick was the
 chief legal officer of the state of Alabama."</p>
-               <p>With this directive from the federal courts, a five-member
+          <p>With this directive from the federal courts, a five-member
 committee of the Alabama Democratic Party began hearing the party
 challenges. On August 15, the committee certified Baxley as the winner
 based on votes legally cast, although the committee never actually
@@ -657,21 +653,21 @@ that he had "abused the power of his office" and failed to maintain
 office." The subcommittee, as had the federal court, accepted
 statistical evidence showing that almost all crossovers voted for
 Graddick, more than enough to change the outcome of the election.</p>
-               <p>Graddick then went into federal court himself but was rejected in
+          <p>Graddick then went into federal court himself but was rejected in
 an opinion even more sharply worded than the first. The judges said
 the attorney general showed "a complete misunderstanding of the
 controlling legal principles of the case."</p>
-               <p>In true Wallace style, Graddick bitterly attacked the federal
+          <p>In true Wallace style, Graddick bitterly attacked the federal
 judges, comparing them to a piano player "on the first floor of a
 house of ill repute" oblivious to actions on the second floor. He
 called himself the "people's candidate" and charged that the election
 had been stolen by the Democratic subcommittee, a "gang of five."</p>
-               <p>Over Labor Day, Graddick traveled about the state raising funds for
+          <p>Over Labor Day, Graddick traveled about the state raising funds for
 a November write-in campaign. Political observers in Alabama say a
 successful write-in campaign would be almost impossible due to the
 complexity of the procedures and the effort required of voters, and
 would help Baxley by taking votes from his Republican opponent.</p>
-               <p>The Republican party leadership, while nervous about a Graddick
+          <p>The Republican party leadership, while nervous about a Graddick
 write-in, is jubilant over the Democratic in-fighting. The two-party
 system has been born in Alabama, optimists among them have declared,
 with the expectation that many nominal Democrats are now so disgusted
@@ -685,33 +681,32 @@ is demagoguing around the state with the energy--if not the style--of
 a young George Wallace. If Graddick drops the write-in campaign and
 Hunt proves to be the dull but clean figure he seems, the Republicans'
 odds of taking the statehouse will improve from none to possible.</p>
-               <p>But November is a long time off, and Baxley can still win. He is a
+          <p>But November is a long time off, and Baxley can still win. He is a
 skillful campaigner and a strong debater, and he has a large following
 of loyal Democrats who will work hard for him and the party. His
 immediate challenge is convincing the uncommitted that it was Graddick
 Ñ not a five-man Democratic conspiracy--who stole their votes
 through his willful and greedy violation of the Voting Rights Act.</p>
-               <p>
-                  <hi rend="bold">Excerpts from booklet published during Alabama Democratic
+          <p>
+            <hi rend="bold">Excerpts from booklet published during Alabama Democratic
 Primary campaign by forces opposed to Lt. Gov. Bill Baxley and linked
 to Atty. Gen. Charles Graddick. The comic book-style piece is
 customized on the back cover (below) to attack Baxley, but is
 otherwise a generic attack on the National Education Association. NEA
 officials say the same booklet has been used in other states by
 right-wing organizations.</hi>
-               </p>
-            <div3 id="sc08-3024" type="About">
-                  <p>Randall Williams is the managing editor of
+          </p>
+          <div3 id="sc08-3024" type="About">
+            <p>Randall Williams is the managing editor of
 <title>Southern Changes</title> and a partner in the Black Belt
 Communications Group of Montgomery, Alabama.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3005" n="South's Hysterectomy Rate Highest" type="Article">
-               <head>CDC Study Reveals--South's Hysterectomy Rate Highest</head>
-               <byline>By <docAuthor><name reg="AET">AET</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 13-14</docDate>
-               
-               <p>Nearly five million American women underwent hysterectomies in the
+          </div3>
+        </div2>
+        <div2 id="sc08-3005" n="South's Hysterectomy Rate Highest" type="Article">
+          <head>CDC Study Reveals--South's Hysterectomy Rate Highest</head>
+          <byline>By <docAuthor><name reg="AET">AET</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 13-14</docDate>
+          <p>Nearly five million American women underwent hysterectomies in the
 last decade, making this procedure one of the most frequently
 performed operations for women of reproductive age and an important
 public health concern. Since 1970, the Centers for Disease Control
@@ -723,7 +718,7 @@ hysterectomy rates for 1981-1982, and which updated the analysis of
 hysterectomy rates for 1970-1980. The results of the survey contain
 striking findings for women of reproductive age in the Southern
 states.</p>
-               <p>The data that was used for this surveillance effort was gathered
+          <p>The data that was used for this surveillance effort was gathered
 from 1970 to 1982 as part of the ongoing National Hospital Discharge
 Survey. This survey samples hospitals throughout the US in order to
 estimate the number of patients, their diagnoses and the surgical
@@ -733,38 +728,38 @@ States. In most cases women will have a hysterectomy done in a
 short-stay hospital. The CDC survey is a sample, not the actual number
 of hysterectomies done in the US, and as such may contain unknown
 biases.</p>
-               <p>A 1983 analysis showed that the nationwide hysterectomy rate
+          <p>A 1983 analysis showed that the nationwide hysterectomy rate
 declined from 1975 to 1980 among women of reproductive age. The
 current study however, indicates that the noted decline may have begun
 to plateau, although rates in 1982 were the lowest since 1970. The
 average age at time of hysterectomy for women in the fifteen to
 forty-four age group was similar in all geographic areas, ranging from
 34.2 years in the South to 36.6 years in the Northeast.</p>
-               <p>As in previous years, major differences in hysterectomy rates by
+          <p>As in previous years, major differences in hysterectomy rates by
 section of the country have persisted (see Figure 1). The South
 continues to show the highest rates. The most striking differences
 exist between the South and the Northeast. The hysterectomy rate for
 women of reproductive age in the South was two and a half times that
 for women in the Northeast.</p>
-               <p>During 1979-1980, differences in hysterectomy rates between blacks
+          <p>During 1979-1980, differences in hysterectomy rates between blacks
 and whites declined noticeably. In 1981, however, the rates of blacks
 and whites diverged, only to converge again in 1982. In 1982 (the most
 recent year for which data is available), for the first time since
 surveillance began in 1970, blacks had a lower hysterectomy rate than
 whites.</p>
-               <p>Variations in hysterectomy rates by section of the country have
+          <p>Variations in hysterectomy rates by section of the country have
 persisted since 1970. Lacking more than the limited data from the
 sample study, CDC researchers are quite cautious about speculating on
 the regional differences. "As epidemiologists in the federal
 government," comments Dr. Kathleen Irwin, researcher on the CDC study,
 "we feel that our job is to present the numbers and let other people
 speculate on them."</p>
-               <p>The CDC study suggests only that "patient-related factors may
+          <p>The CDC study suggests only that "patient-related factors may
 include regional differences in the incidence of gynecologic
 conditions and in general attitudes toward surgery or sterilization
 during the reproductive years. Physician-related factors may include
 regional differences in trends in training and practice."</p>
-               <p>"If there were true differences in the South compared to other
+          <p>"If there were true differences in the South compared to other
 regions," asks Dr. Irwin, "what could these be? There could be a whole
 range of differences. Our study looked at only one factor at a time:
 race, region, age group for the United States. We didn't look at race
@@ -775,10 +770,10 @@ hysterectomies. It may be that there is a higher prevalence in the
 South of certain diseases of the uterus which are treated with
 hysterectomies. It could be that physicians in the South are more
 liable to treat a given condition with a hysterectomy.</p>
-               <p>"Because of the nature of our analysis," says Dr. Irwin, "we're not
+          <p>"Because of the nature of our analysis," says Dr. Irwin, "we're not
 in a position to say which one of those things or which combination it
 could be."</p>
-               <p>"It's disturbing to me," commented clinic administrator Lynn
+          <p>"It's disturbing to me," commented clinic administrator Lynn
 Thogersen, of the Atlanta Feminist Women's Health Center, "as a
 women's health care 
 <pb n="14"/>
@@ -787,19 +782,19 @@ hysterectomies for women in general being so high, and especially to
 see the difference for women in the South when compared with other
 areas of the country. Certainly we wonder if all these hysterectomies
 were necessary.</p>
-               <p>"One thing that might have a bearing on the numbers in the South,"
+          <p>"One thing that might have a bearing on the numbers in the South,"
 continues Thogersen, "is the fact that in all of the Southern states,
 unlike states such as New York and California, Medicaid no longer pays
 for abortions, and hasn't since about 1981. We wonder if in fact women
 are choosing hysterectomy as a way of controlling their fertility
 because other options aren't available to them.</p>
-               <p>"And I wonder if one reason that rates of hysterectomies have
+          <p>"And I wonder if one reason that rates of hysterectomies have
 dropped in other sections of the country is due to the availability of
 tubal ligations as a method of sterilization. Sterilization, including
 both male and female, is now the most used method of contraception in
 the United States, but it's mostly women who are choosing
 sterilization.</p>
-               <p>"Statistics like these," concludes Thogersen, "make you want to ask
+          <p>"Statistics like these," concludes Thogersen, "make you want to ask
 many other questions for which we have no answers. What, for instance,
 is the difference in hysterectomy rates between black and white women
 in the South? Between poor and middle-class women? What, if any,
@@ -807,8 +802,8 @@ significance can be read in this study about the traditional timidity
 and acceptance of professional authority shown by women in the South
 toward the largely white male ranks of physicians? Simply put, we need
 to know much more about what lies behind these disturbing rates."</p>
-            <div3 id="sc08-3025" type="About">
-                  <p>The CDC study, "Hysterectomy Among Women of Reproductive
+          <div3 id="sc08-3025" type="About">
+            <p>The CDC study, "Hysterectomy Among Women of Reproductive
 Age, Unites States, Update for 1981- 1982," was published in the CDC
 <title>Surveillance Summary</title>, Vol. 35, No. ISS (June 1986). The
 study was conducted by Kathleen L Irwin, M.D. and Herbert B. Peterson,
@@ -816,14 +811,13 @@ M.D. (both of the Epidemiologic Studies Branch) and Joyce M. Hughes
 and Sara W. Gill (of the Research and Statistics Branch), Division of
 Reproductive Health, Center for Health Promotion and
 Education.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3006" n="Empty Rituals in the War on Drugs" type="Article">
-               <head>Empty Rituals in the War on Drugs</head>
-               <byline>By <docAuthor><name reg="Crowther, Hal">Hal Crowther</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 14-15</docDate>
-               
-               <p>Two months dead and Len Bias is still making headlines. When
+          </div3>
+        </div2>
+        <div2 id="sc08-3006" n="Empty Rituals in the War on Drugs" type="Article">
+          <head>Empty Rituals in the War on Drugs</head>
+          <byline>By <docAuthor><name reg="Crowther, Hal">Hal Crowther</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 14-15</docDate>
+          <p>Two months dead and Len Bias is still making headlines. When
 cocaine claims a victim who's young and famous and a gifted athlete,
 it has to be someone else's fault. Find the dealer--some other black
 kid on a Washington street corner who might have made twenty sales
@@ -836,14 +830,14 @@ greatest fault is that he always tries to protect his players when
 he'd be better off protecting himself. Turn over the whole Maryland
 athletic department, test a lot of urine, find some players who can
 read.</p>
-               <p>That's the way we do it here. They tried to pin first degree murder
+          <p>That's the way we do it here. They tried to pin first degree murder
 on the poor woman who assisted in the messy departure of John Belushi,
 a notorious glutton for drugs of any description. Because he was a
 celebrity, I suppose, and her prosecution satisfied some kind of
 national hunger for a scapegoat. Everyone who knew Belushi knows that
 it would have taken a women's volleyball team to keep him away from
 the drug, once it was in the same room with him.</p>
-               <p>It's a waste of police work, an empty ritual like most of the
+          <p>It's a waste of police work, an empty ritual like most of the
 speeches that are mumbled over the dead. Bias and Don Rogers, like
 Belushi and all the uncelebrated cadavers before them, took the drugs
 because they wanted it, because they thought they needed it. Putting
@@ -853,7 +847,7 @@ the world's great cocaine consumer of the world, a market so rich that
 the economies of several countries depend on our insatiable habit. We
 are the John Belushi of nations. We should have Belushi and John
 Delorean on our stamps and coins.</p>
-               <p>While we threaten Mexico for its modest exports, our domestic
+          <p>While we threaten Mexico for its modest exports, our domestic
 industry is in a growth spiral so colossal that thugs in Miami will be
 purchasing Fortune 500 companies before the year 2000. With cash. In
 the last two years agents have seized fifty major cocaine laboratories
@@ -867,7 +861,7 @@ ingenuity among smugglers. Agents have found packets of cocaine under
 the tongues of fish. A small boat can earn its owner $25,000 on one
 major smuggling mission; a drop site for a major shipment is worth
 $100,000.</p>
-               <p>In New York City, dealing cocaine has become almost legal--only one
+          <p>In New York City, dealing cocaine has become almost legal--only one
 of three people arrested on felony drug charges is ever indicted, far
 less jailed--simply because there are so many cases that the courts
 can't begin to deal with them. New York's elite narcotics task force,
@@ -878,11 +872,11 @@ sentenced to as much as a year in jail. Judges, with rapes and murders
 backed up (last year they got through half of one percent of their
 cases), tend to snarl at presecutors who waste their time with
 cocaine.</p>
-               <p>"A lot of judges feel narcotics cases are second-rate cases,"
+          <p>"A lot of judges feel narcotics cases are second-rate cases,"
 complains the police inspector who runs Pressure Point. "They don't
 care for low-level cocaine sales. At the plea-bargaining stages, they
 ask "Why did you bring me this garbage?"</p>
-               <p>Like bootleg liquor during prohibition, cocaine in America is
+          <p>Like bootleg liquor during prohibition, cocaine in America is
 distributed on such a scale that law enforcement is becoming a
 joke. It takes a lot of nerve to blame Mexico. If you were a Latin
 American, with an attitude toward the United States that might range
@@ -901,7 +895,7 @@ World, is still one of the classic stories of greed and cynicism. In
 most years, the United States leads the world in the sale of guns and
 armaments, which are somewhat more controversial than cocaine. In
 countries where we have special interests, we give the guns away.</p>
-               <p>Any Latin who sells drugs to Americans can call himself a
+          <p>Any Latin who sells drugs to Americans can call himself a
 patriot. Cocaine is the "now" profession in the Western Hemisphere,
 for any youngster with the courage to pursue it. Maybe it's only
 timidity that keeps me from emulating John Delorean myself. To get
@@ -910,13 +904,13 @@ affluent fools? It would be hard to imagine a more satisfying
 career. Show me the philosophy that makes it more objectionable than
 selling chocolate to the obese, or selling Wild Irish Rose to
 wings.</p>
-               <p>It's time Americans quit pointing fingers and owned up to their
+          <p>It's time Americans quit pointing fingers and owned up to their
 habit, as individuals and as a society. Alcoholics don't cure
 themselves by blowing up distilleries and bashing bartenders. Why
 should we pay the police to protect us from ourselves? When a kid dies
 on cocaine, the correct question isn't "Where did he get it?", it's
 "Why did he want it?"</p>
-               <p>Any progess has to start there. Cocaine has been around a long
+          <p>Any progess has to start there. Cocaine has been around a long
 time. When I tried to trace the authorship of the cocaine song that
 Mike Cross sings ("Cocaine...runnin' round my brain...") the trail led
 way back beyond Leadbelly and the Rev. Gary Davis, into dim unrecorded
@@ -924,7 +918,7 @@ music history. The song is in the public domain. Why is this
 disreputable old standby the glamor drug of the Age of Reagan?
 Overpriced, addictive, lethal, brief in its promise and long in its
 revenge.</p>
-               <p>It has something to do with risk, with gambling. A rational human
+          <p>It has something to do with risk, with gambling. A rational human
 being, faced with the uncertainty of existence, will try to improve
 the odds. Americans, with an increasing level of obsession, will try
 to beat the odds. Supporters of North Carolina's Shearon Harris
@@ -939,13 +933,13 @@ alarmingly, she found that the city was home to most of the
 fundamentalist "Rapture" sects, which believe that Armageddon is
 O.K. because the Lord is going to snatch them up just before the bombs
 go off. Figure the odds those guys are playing.</p>
-               <p>When reporters asked a bunch of street kids if the death of Len
+          <p>When reporters asked a bunch of street kids if the death of Len
 Bias had changed their attitude toward cocaine, most of them said
 "No." It was as if the death lottery was over, Bias had lost, and
 their odds were just as good, if not better, for the next one. "I
 think of Len Bias as a person who just had bad luck," said one kid in
 Brooklyn.</p>
-               <p>The spiritual capital of the United States is Las Vegas, and Las
+          <p>The spiritual capital of the United States is Las Vegas, and Las
 Vegas is the spiritual armpit of the world. Gambling is a wide streak
 in the national character that's being exploited as it was never
 exploited before. The gambler's fatalism and machismo make a potent
@@ -955,24 +949,23 @@ at the expense of everybody's future. Cocaine is its drug. Sure things
 and safe drugs are for old maids. Fly now, pay later. And don't be
 afraid. The odds may be narrowing, but the odds are still on your
 side.</p>
-            <div3 id="sc08-3026" type="About">
-                  <p>Hal Crowther writes for the <title>Spectator</title> of
+          <div3 id="sc08-3026" type="About">
+            <p>Hal Crowther writes for the <title>Spectator</title> of
 Raleigh, N.C., from which this article is adapted.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3007" n="Uneasy Victories in the Supreme Court" type="Article">
-               <head>Uneasy Victories in the Supreme Court</head>
-               <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 15-18</docDate>
-               
-               <p>During the 1985-1986 term, the Supreme Court decided eight major
+          </div3>
+        </div2>
+        <div2 id="sc08-3007" n="Uneasy Victories in the Supreme Court" type="Article">
+          <head>Uneasy Victories in the Supreme Court</head>
+          <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 15-18</docDate>
+          <p>During the 1985-1986 term, the Supreme Court decided eight major
 race discrimination cases. Four involved employment discrimination and
 affirmative action, three involved jury selection and the seventh
 voting rights. In all eight, the basic positions (if not the specific
 remedies) advocated by minorities prevailed, while the restrictive
 interpretations of civil rights law urged by the Reagan Department of
 Justice were decisively rejected.</p>
-               <p>In the first of the employment cases, <hi rend="italic">Wygant
+          <p>In the first of the employment cases, <hi rend="italic">Wygant
 v. Jackson Board of Education</hi>, the Court held that a school board
 could not lay off non-minority teachers with more seniority than
 minority teachers who were retained as part of an affirmative action
@@ -982,7 +975,7 @@ in serious disruption of their lives. The burden is too intrusive."
 Although minority teachers were denied a measure of protection in
 Wygant, the decision as a whole was a victory for affirmative
 action.</p>
-               <p>First, the Court indicated that race-conscious affirmative action
+          <p>First, the Court indicated that race-conscious affirmative action
 plans, including the use of hiring goals, are constitutional as part
 of the nation's commitment to eradicating racial
 discrimination. Second, the Court rejected the Department of Justice's
@@ -996,7 +989,7 @@ would have meant the end of meaningful affirmative action. Third, an
 employer can justify an affirmative action plan by showing a
 reasonable basis for concluding such a remedy is appropriate; an
 employer need not have, in fact, discriminated in the past.</p>
-               <p>In <hi rend="italic">Sheetmetal Workers v. EEOC</hi>, the Court,
+          <p>In <hi rend="italic">Sheetmetal Workers v. EEOC</hi>, the Court,
 building upon <hi rend="italic">Wygant</hi>, held that an affirmative
 action plan to increase minority membership in a union could be
 required in cases of "persistent or egregious discrimination" or where
@@ -1005,12 +998,12 @@ discrimination." In the third employment discrimination case, <hi rend="italic">
 voluntary affirmative action plan to hire minority firefighters even
 though it may have provided broader relief than a district judge could
 have ordered after a trial.</p>
-               <p>Finally, in <hi rend="italic">Bazemore v. Friday</hi>, the Court
+          <p>Finally, in <hi rend="italic">Bazemore v. Friday</hi>, the Court
 ruled that the North Carolina Agricultural Extension Service had a
 duty to eradicate salary disparities between white and black workers,
 even though the disparities had their origin prior to the time federal
 anti-discrimination laws were made applicable to public employers.</p>
-               <p>The Court's employment discrimination cases are the most
+          <p>The Court's employment discrimination cases are the most
 significant setback to date for the Reagan Administration's five
 and-a-half year crusade to eradicate hiring goals and restrict relief
 to the few identifiable victims of discrimination. In rejecting the
@@ -1021,7 +1014,7 @@ rulings of the Court suggest that the Department of Justice under its
 present leadership has lost much of its institutional credibility, and
 that its arguments were viewed as part of a rightwing political
 campaign rather than as based upon the rule of law.</p>
-               <p>The Supreme Court also significantly strengthened the protection of
+          <p>The Supreme Court also significantly strengthened the protection of
 minorities in jury selection during the last term. In <hi rend="italic">Batson v. Kentucky</hi>, it held for the first time that a
 prosecutor's use of peremptory challenges to strike black jurors in a
 particular case violated the Fourteenth Amendment. The law prior to
@@ -1032,7 +1025,7 @@ use of peremptory challenges was immune from judicial review, except
 were blacks were removed in "case after case, whatever the
 circumstances, whatever the crime and whoever the defendant or the
 victim may be."</p>
-               <p>The <hi rend="italic">Swain</hi> standard, which was all but
+          <p>The <hi rend="italic">Swain</hi> standard, which was all but
 impossible to meet, had been increasingly criticized by legal
 commentators, while a number of lower courts had circumvented the
 decision by ruling that the use of challenges by a prosecutor to
@@ -1044,14 +1037,14 @@ the Solicitor General strenuously, and predictably, argued that a
 defendant could not establish a constitutional violation by showing
 "only" that blacks were systematically struck from the jury. The
 argument failed to persuade the Court.</p>
-               <p>In a second case, <hi rend="italic">Turner v. Murray</hi>, the Court
+          <p>In a second case, <hi rend="italic">Turner v. Murray</hi>, the Court
 held that a capital defendant accused of an interracial crime had a
 constitutional right to have prospective jurors questioned about their
 possible racial bias. In the final jury selection case, <hi rend="italic">Vasquez v. Hillery</hi>, the Court reaffirmed existing law
 that the exclusion of blacks from a grand jury was not harmless error,
 but required a new trial no matter how old the original conviction
 was.</p>
-               <p>In the last of the racial discrimination cases, <hi rend="italic">Thornburg v. Gingles</hi>, the Court construed for the
+          <p>In the last of the racial discrimination cases, <hi rend="italic">Thornburg v. Gingles</hi>, the Court construed for the
 first time Section 2 of the Voting Rights Act. Congress amended
 Section 2 in 1982 to provide that voting practices are unlawful if
 they "result" in discrimination. Prior to 1982, an election law could
@@ -1060,7 +1053,7 @@ or was being maintained with a discriminatory purpose. The Court not
 only affirmed the constitutionality of Section 2, but significantly
 simplified the test for determining if an election plan using at-large
 voting was unlawful.</p>
-               <p>According to the Court, an apportionment plan violates Section 2 by
+          <p>According to the Court, an apportionment plan violates Section 2 by
 causing impermissible vote dilution if the plan permits a bloc-voting
 white majority usually to defeat the candidates supported by a
 politically and geographically cohesive minority. Factors such as a
@@ -1069,13 +1062,13 @@ depressed minority socioeconomic status, etc., which Congress had
 indicated in the legislative history were relevant to a vote dilution
 claim, were held by the Court to be supportive of, but not essential
 to, a Section 2 violation.</p>
-               <p>The new test adopted by the Court to measure vote dilution based on
+          <p>The new test adopted by the Court to measure vote dilution based on
 race is analogous to the one-person one-vote formulation that measures
 vote dilution based on population inequality. Both focus on racial
 patterns in election returns and in census data. Both avoid excesive
 investigation into historical and social factors and contain readily
 ascertainable standards for the lower courts to apply.</p>
-               <p>Thornburg also held that plaintiffs were not required to show that
+          <p>Thornburg also held that plaintiffs were not required to show that
 white voters were voting purposefully to exclude minorities from
 office to establish bloc voting, and that the election of a token or
 minimal number of blacks could not be used to defend an appointment
@@ -1083,238 +1076,237 @@ plan which worked usually to dilute the minority vote. The latter
 ruling was a specific rejection of the Solictor General's argument in
 the case that Section 2 protected only token--not equal--minority
 political participation.</p>
-               <p>Despite the fact that the Court as a whole reiterated its
+          <p>Despite the fact that the Court as a whole reiterated its
 commitment to racial equality this term, there was a significant
 degree of division among the individual justices. Seven of the eight
 discrimination cases were ideologically polarized, i.e., Brennan and
 Marshall (the left wing of the court) voted together and took a
 different position from that of Burger and Rehnquist (the right wing
 of the court) on one or more major issues. (See Table I)
-<pb n="17"/>
-               </p>
-               <p>
-                  <table rows="7" cols="5">
-                     <head>Table I: IDEOLOGICAL POLARIZATION IN RACE DISCRIMINATION
+<pb n="17"/></p>
+          <p>
+            <table cols="5" rows="7">
+              <head>Table I: IDEOLOGICAL POLARIZATION IN RACE DISCRIMINATION
 CASES</head>
-                     <row role="label">
-                        <cell role="data" rows="1" cols="1">JUSTICE   </cell>
-                        <cell role="data" rows="1" cols="1">BRENNAN/MARSHALL   </cell>
-                        <cell role="data" rows="1" cols="1">%</cell>
-                        <cell role="data" rows="1" cols="1">BURGER/REHNQUIST   </cell>
-                        <cell role="data" rows="1" cols="1">%  </cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Stevens    </cell>
-                        <cell role="data" rows="1" cols="1">7   </cell>
-                        <cell role="data" rows="1" cols="1">100   </cell>
-                        <cell role="data" rows="1" cols="1">0</cell>
-                        <cell role="data" rows="1" cols="1">0   </cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Blackmun   </cell>
-                        <cell role="data" rows="1" cols="1">7   </cell>
-                        <cell role="data" rows="1" cols="1">100   </cell>
-                        <cell role="data" rows="1" cols="1">0</cell>
-                        <cell role="data" rows="1" cols="1">0   </cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Powell     </cell>
-                        <cell role="data" rows="1" cols="1">3   </cell>
-                        <cell role="data" rows="1" cols="1">43   </cell>
-                        <cell role="data" rows="1" cols="1">4</cell>
-                        <cell role="data" rows="1" cols="1">57   </cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">White      </cell>
-                        <cell role="data" rows="1" cols="1">3   </cell>
-                        <cell role="data" rows="1" cols="1">43   </cell>
-                        <cell role="data" rows="1" cols="1">4</cell>
-                        <cell role="data" rows="1" cols="1">57   </cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">O'Connor   </cell>
-                        <cell role="data" rows="1" cols="1">3   </cell>
-                        <cell role="data" rows="1" cols="1">43   </cell>
-                        <cell role="data" rows="1" cols="1">4</cell>
-                        <cell role="data" rows="1" cols="1">57   </cell>
-                     </row>
-                  </table>
-               </p>
-               <p>The margin for victory for civil rights resulted from the
+              <row role="label">
+                <cell cols="1" role="data" rows="1">JUSTICE   </cell>
+                <cell cols="1" role="data" rows="1">BRENNAN/MARSHALL   </cell>
+                <cell cols="1" role="data" rows="1">%</cell>
+                <cell cols="1" role="data" rows="1">BURGER/REHNQUIST   </cell>
+                <cell cols="1" role="data" rows="1">%  </cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Stevens    </cell>
+                <cell cols="1" role="data" rows="1">7   </cell>
+                <cell cols="1" role="data" rows="1">100   </cell>
+                <cell cols="1" role="data" rows="1">0</cell>
+                <cell cols="1" role="data" rows="1">0   </cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Blackmun   </cell>
+                <cell cols="1" role="data" rows="1">7   </cell>
+                <cell cols="1" role="data" rows="1">100   </cell>
+                <cell cols="1" role="data" rows="1">0</cell>
+                <cell cols="1" role="data" rows="1">0   </cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Powell     </cell>
+                <cell cols="1" role="data" rows="1">3   </cell>
+                <cell cols="1" role="data" rows="1">43   </cell>
+                <cell cols="1" role="data" rows="1">4</cell>
+                <cell cols="1" role="data" rows="1">57   </cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">White      </cell>
+                <cell cols="1" role="data" rows="1">3   </cell>
+                <cell cols="1" role="data" rows="1">43   </cell>
+                <cell cols="1" role="data" rows="1">4</cell>
+                <cell cols="1" role="data" rows="1">57   </cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">O'Connor   </cell>
+                <cell cols="1" role="data" rows="1">3   </cell>
+                <cell cols="1" role="data" rows="1">43   </cell>
+                <cell cols="1" role="data" rows="1">4</cell>
+                <cell cols="1" role="data" rows="1">57   </cell>
+              </row>
+            </table>
+          </p>
+          <p>The margin for victory for civil rights resulted from the
 consistent support of the Brennan/Marshall position by Stevens and
 Blackmun, and the inability of Burger and Rehnquist to hold the votes
 of White, Powell, and O'Connor more than about half the time.</p>
-               <p>The importance of the White/Powell/O'Connor bloc can be seen from
+          <p>The importance of the White/Powell/O'Connor bloc can be seen from
 the fact that these three justices were more frequently in the
 majority than any other members of the Court. As Table II shows,
 O'Connor voted with the majority 89 percent of the time, and Powell
 and White 75 percent of the time. Burger and Rehnquist voted most
 frequently in the minority. (See Table II)</p>
-               <p>
-                  <table rows="12" cols="5">
-                     <head>Table II: JUSTICES MOST FREQUENTLY IN MAJORITY OR
+          <p>
+            <table cols="5" rows="12">
+              <head>Table II: JUSTICES MOST FREQUENTLY IN MAJORITY OR
 MINORITY*</head>
-                     <row role="label">
-                        <cell role="data" rows="1" cols="1">JUSTICE    </cell>
-                        <cell role="data" rows="1" cols="1">MAJORITY    </cell>
-                        <cell role="data" rows="1" cols="1">%</cell>
-                        <cell role="data" rows="1" cols="1">MINORITY    </cell>
-                        <cell role="data" rows="1" cols="1">%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Brennan     </cell>
-                        <cell role="data" rows="1" cols="1">7   </cell>
-                        <cell role="data" rows="1" cols="1">70   </cell>
-                        <cell role="data" rows="1" cols="1">3</cell>
-                        <cell role="data" rows="1" cols="1">30</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Marshall    </cell>
-                        <cell role="data" rows="1" cols="1">7   </cell>
-                        <cell role="data" rows="1" cols="1">64   </cell>
-                        <cell role="data" rows="1" cols="1">4</cell>
-                        <cell role="data" rows="1" cols="1">36</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Stevens     </cell>
-                        <cell role="data" rows="1" cols="1">7    </cell>
-                        <cell role="data" rows="1" cols="1">70   </cell>
-                        <cell role="data" rows="1" cols="1">3</cell>
-                        <cell role="data" rows="1" cols="1">30</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Blackmun    </cell>
-                        <cell role="data" rows="1" cols="1">7   </cell>
-                        <cell role="data" rows="1" cols="1">70   </cell>
-                        <cell role="data" rows="1" cols="1">3</cell>
-                        <cell role="data" rows="1" cols="1">30</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Powell      </cell>
-                        <cell role="data" rows="1" cols="1">6   </cell>
-                        <cell role="data" rows="1" cols="1">75   </cell>
-                        <cell role="data" rows="1" cols="1">2</cell>
-                        <cell role="data" rows="1" cols="1">25</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">White       </cell>
-                        <cell role="data" rows="1" cols="1">6   </cell>
-                        <cell role="data" rows="1" cols="1">75   </cell>
-                        <cell role="data" rows="1" cols="1">2</cell>
-                        <cell role="data" rows="1" cols="1">25</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">O'Connor    </cell>
-                        <cell role="data" rows="1" cols="1">8   </cell>
-                        <cell role="data" rows="1" cols="1">89   </cell>
-                        <cell role="data" rows="1" cols="1">1</cell>
-                        <cell role="data" rows="1" cols="1">11</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Burger      </cell>
-                        <cell role="data" rows="1" cols="1">4   </cell>
-                        <cell role="data" rows="1" cols="1">50   </cell>
-                        <cell role="data" rows="1" cols="1">4</cell>
-                        <cell role="data" rows="1" cols="1">50</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Rehnquist   </cell>
-                        <cell role="data" rows="1" cols="1">3   </cell>
-                        <cell role="data" rows="1" cols="1">37   </cell>
-                        <cell role="data" rows="1" cols="1">5</cell>
-                        <cell role="data" rows="1" cols="1">63</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">*This table treats opinions in which a justice concurred in part
+              <row role="label">
+                <cell cols="1" role="data" rows="1">JUSTICE    </cell>
+                <cell cols="1" role="data" rows="1">MAJORITY    </cell>
+                <cell cols="1" role="data" rows="1">%</cell>
+                <cell cols="1" role="data" rows="1">MINORITY    </cell>
+                <cell cols="1" role="data" rows="1">%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Brennan     </cell>
+                <cell cols="1" role="data" rows="1">7   </cell>
+                <cell cols="1" role="data" rows="1">70   </cell>
+                <cell cols="1" role="data" rows="1">3</cell>
+                <cell cols="1" role="data" rows="1">30</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Marshall    </cell>
+                <cell cols="1" role="data" rows="1">7   </cell>
+                <cell cols="1" role="data" rows="1">64   </cell>
+                <cell cols="1" role="data" rows="1">4</cell>
+                <cell cols="1" role="data" rows="1">36</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Stevens     </cell>
+                <cell cols="1" role="data" rows="1">7    </cell>
+                <cell cols="1" role="data" rows="1">70   </cell>
+                <cell cols="1" role="data" rows="1">3</cell>
+                <cell cols="1" role="data" rows="1">30</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Blackmun    </cell>
+                <cell cols="1" role="data" rows="1">7   </cell>
+                <cell cols="1" role="data" rows="1">70   </cell>
+                <cell cols="1" role="data" rows="1">3</cell>
+                <cell cols="1" role="data" rows="1">30</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Powell      </cell>
+                <cell cols="1" role="data" rows="1">6   </cell>
+                <cell cols="1" role="data" rows="1">75   </cell>
+                <cell cols="1" role="data" rows="1">2</cell>
+                <cell cols="1" role="data" rows="1">25</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">White       </cell>
+                <cell cols="1" role="data" rows="1">6   </cell>
+                <cell cols="1" role="data" rows="1">75   </cell>
+                <cell cols="1" role="data" rows="1">2</cell>
+                <cell cols="1" role="data" rows="1">25</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">O'Connor    </cell>
+                <cell cols="1" role="data" rows="1">8   </cell>
+                <cell cols="1" role="data" rows="1">89   </cell>
+                <cell cols="1" role="data" rows="1">1</cell>
+                <cell cols="1" role="data" rows="1">11</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Burger      </cell>
+                <cell cols="1" role="data" rows="1">4   </cell>
+                <cell cols="1" role="data" rows="1">50   </cell>
+                <cell cols="1" role="data" rows="1">4</cell>
+                <cell cols="1" role="data" rows="1">50</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Rehnquist   </cell>
+                <cell cols="1" role="data" rows="1">3   </cell>
+                <cell cols="1" role="data" rows="1">37   </cell>
+                <cell cols="1" role="data" rows="1">5</cell>
+                <cell cols="1" role="data" rows="1">63</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">*This table treats opinions in which a justice concurred in part
 and dissented in part as both a majority and a minority
 opinio</cell>
-                     </row>
-                  </table>
-               </p>
-               <p>Brennan, the senior exponent of the Court's liberal philosophy, was
+              </row>
+            </table>
+          </p>
+          <p>Brennan, the senior exponent of the Court's liberal philosophy, was
 suprisingly influential on the term's discrimination cases. He wrote
 four of the eight majority opinions and was more frequently aligned
 with the other justices than any other member of the Court. As Table
 III shows, Brennan, Marshall, Blackmun, Stevens and Powell voted
 together at least half of the time. None of the other justices
 approached that level of agreement. (See Table III)</p>
-               <p>
-                  <table rows="11" cols="9">
-                     <head>Table III: VOTING ALIGNMENT IN RACE DISCRIMINATION CASES
+          <p>
+            <table cols="9" rows="11">
+              <head>Table III: VOTING ALIGNMENT IN RACE DISCRIMINATION CASES
 1985-1986 TERM*</head>
-                     <row role="label">
-                        <cell role="data" rows="1" cols="1">JUSTICE    </cell>
-                        <cell role="data" rows="1" cols="1">BRENNAN   </cell>
-                        <cell role="data" rows="1" cols="1">MARSHALL</cell>
-                        <cell role="data" rows="1" cols="1">STEVENS   </cell>
-                        <cell role="data" rows="1" cols="1">BLACKMUN   </cell>
-                        <cell role="data" rows="1" cols="1">POWELL</cell>
-                        <cell role="data" rows="1" cols="1">WHITE   </cell>
-                        <cell role="data" rows="1" cols="1">O'CONNOR</cell>
-                        <cell role="data" rows="1" cols="1">BURGER</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Marshall    </cell>
-                        <cell role="data" rows="1" cols="1">88%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Stevens     </cell>
-                        <cell role="data" rows="1" cols="1">63%      </cell>
-                        <cell role="data" rows="1" cols="1">25%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Blackmun    </cell>
-                        <cell role="data" rows="1" cols="1">50%      </cell>
-                        <cell role="data" rows="1" cols="1">25%</cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Powell      </cell>
-                        <cell role="data" rows="1" cols="1">50%      </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                        <cell role="data" rows="1" cols="1">13%        </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">White       </cell>
-                        <cell role="data" rows="1" cols="1">38%      </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                        <cell role="data" rows="1" cols="1">13%        </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                        <cell role="data" rows="1" cols="1">25%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">O'Connor    </cell>
-                        <cell role="data" rows="1" cols="1">38%      </cell>
-                        <cell role="data" rows="1" cols="1">0%</cell>
-                        <cell role="data" rows="1" cols="1">0%         </cell>
-                        <cell role="data" rows="1" cols="1">0%        </cell>
-                        <cell role="data" rows="1" cols="1">38%</cell>
-                        <cell role="data" rows="1" cols="1">25%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Burger      </cell>
-                        <cell role="data" rows="1" cols="1">13%      </cell>
-                        <cell role="data" rows="1" cols="1">0%</cell>
-                        <cell role="data" rows="1" cols="1">0%         </cell>
-                        <cell role="data" rows="1" cols="1">0%        </cell>
-                        <cell role="data" rows="1" cols="1">25%</cell>
-                        <cell role="data" rows="1" cols="1">13%      </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">Rehnquist   </cell>
-                        <cell role="data" rows="1" cols="1">13%      </cell>
-                        <cell role="data" rows="1" cols="1">0%</cell>
-                        <cell role="data" rows="1" cols="1">0%         </cell>
-                        <cell role="data" rows="1" cols="1">0%        </cell>
-                        <cell role="data" rows="1" cols="1">38%</cell>
-                        <cell role="data" rows="1" cols="1">13%      </cell>
-                        <cell role="data" rows="1" cols="1">13%</cell>
-                        <cell role="data" rows="1" cols="1">38%</cell>
-                     </row>
-                     <row role="data">
-                        <cell role="data" rows="1" cols="1">*To determine the frequency of agreement, the number of times
+              <row role="label">
+                <cell cols="1" role="data" rows="1">JUSTICE    </cell>
+                <cell cols="1" role="data" rows="1">BRENNAN   </cell>
+                <cell cols="1" role="data" rows="1">MARSHALL</cell>
+                <cell cols="1" role="data" rows="1">STEVENS   </cell>
+                <cell cols="1" role="data" rows="1">BLACKMUN   </cell>
+                <cell cols="1" role="data" rows="1">POWELL</cell>
+                <cell cols="1" role="data" rows="1">WHITE   </cell>
+                <cell cols="1" role="data" rows="1">O'CONNOR</cell>
+                <cell cols="1" role="data" rows="1">BURGER</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Marshall    </cell>
+                <cell cols="1" role="data" rows="1">88%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Stevens     </cell>
+                <cell cols="1" role="data" rows="1">63%      </cell>
+                <cell cols="1" role="data" rows="1">25%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Blackmun    </cell>
+                <cell cols="1" role="data" rows="1">50%      </cell>
+                <cell cols="1" role="data" rows="1">25%</cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Powell      </cell>
+                <cell cols="1" role="data" rows="1">50%      </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+                <cell cols="1" role="data" rows="1">13%        </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">White       </cell>
+                <cell cols="1" role="data" rows="1">38%      </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+                <cell cols="1" role="data" rows="1">13%        </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+                <cell cols="1" role="data" rows="1">25%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">O'Connor    </cell>
+                <cell cols="1" role="data" rows="1">38%      </cell>
+                <cell cols="1" role="data" rows="1">0%</cell>
+                <cell cols="1" role="data" rows="1">0%         </cell>
+                <cell cols="1" role="data" rows="1">0%        </cell>
+                <cell cols="1" role="data" rows="1">38%</cell>
+                <cell cols="1" role="data" rows="1">25%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Burger      </cell>
+                <cell cols="1" role="data" rows="1">13%      </cell>
+                <cell cols="1" role="data" rows="1">0%</cell>
+                <cell cols="1" role="data" rows="1">0%         </cell>
+                <cell cols="1" role="data" rows="1">0%        </cell>
+                <cell cols="1" role="data" rows="1">25%</cell>
+                <cell cols="1" role="data" rows="1">13%      </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">Rehnquist   </cell>
+                <cell cols="1" role="data" rows="1">13%      </cell>
+                <cell cols="1" role="data" rows="1">0%</cell>
+                <cell cols="1" role="data" rows="1">0%         </cell>
+                <cell cols="1" role="data" rows="1">0%        </cell>
+                <cell cols="1" role="data" rows="1">38%</cell>
+                <cell cols="1" role="data" rows="1">13%      </cell>
+                <cell cols="1" role="data" rows="1">13%</cell>
+                <cell cols="1" role="data" rows="1">38%</cell>
+              </row>
+              <row role="data">
+                <cell cols="1" role="data" rows="1">*To determine the frequency of agreement, the number of times
 two members of the Court voted together was divided by the eight race
 discrimination cases decided by the Court in which both justices
 participated.  Justices were considered voting together only if they
@@ -1322,10 +1314,10 @@ joined the same opinion, concurrence or dissent.  Although justices
 occasionally voted together more than once in a given case, their
 alignment under such circumstances was given a value of
 1. </cell>
-                     </row>
-                  </table>
-               </p>
-               <p>The term's racial discrimination cases do not, of course, provide a
+              </row>
+            </table>
+          </p>
+          <p>The term's racial discrimination cases do not, of course, provide a
 full picture of the Court's general treatment of civil and
 constitutional claims. They also fail to show the Court's gross
 disregard for the rights of politically more vulnerable minorities,
@@ -1339,7 +1331,7 @@ yarmulke, despite his sincere
 <pb n="18"/>
 religious beliefs and the lack of any
 service-related need.</p>
-               <p>A court that turns its back on the deeply held beliefs of a
+          <p>A court that turns its back on the deeply held beliefs of a
 religous minority and leaves the regulation of intimate relationships
 to the whim of a hostile majority, may in the long run provide scant
 protection for the rights of racial minorities. President Reagan has
@@ -1350,18 +1342,16 @@ created by the resignation of current Chief Justice Burger. More
 Reagan appointments would surely tilt the Court significantly to the
 right, jeopardizing the continued constitutional protection of the
 Nation's racial minorities.</p>
-            <div3 id="sc08-3027" type="About">
-                  <p>Laughlin McDonald is director of the Southern Regional
+          <div3 id="sc08-3027" type="About">
+            <p>Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union Foundation.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3008" n="Tombee: Portrait of a Cotton Planter" type="Review">
-               <head>Tombee: Portrait of a Cotton Planter</head>
-                  
-               <byline>Reviewed by <docAuthor><name reg="Wood, Peter H.">Peter H. Wood</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 21-24</docDate>
-               
-	       <bibl><title>Tombee: Portrait of a Cotton Planter</title> by
+          </div3>
+        </div2>
+        <div2 id="sc08-3008" n="Tombee: Portrait of a Cotton Planter" type="Review">
+          <head>Tombee: Portrait of a Cotton Planter</head>
+          <byline>Reviewed by <docAuthor><name reg="Wood, Peter H.">Peter H. Wood</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 21-24</docDate>
+          <bibl><title>Tombee: Portrait of a Cotton Planter</title> by
 Theodore Rosengarten. With the <title>Journal of Thomas
 B. Chaplin</title> (1822-1890). New York: William Morrow and Company,
 Inc., 1986. $22.95.  <title>Drums and Shadows: Survival Studies Among 
@@ -1369,7 +1359,7 @@ the Georgia
 Coastal Negroes</title> by the Georgia Writer's Project. Athens:
 University of Georgia Press, 1940; reissued with an introduction by
 Charles Joyner, 1986. $26.00 (paperback $9.95).</bibl>
-               <p>"All God's dangers ain't a white man." This memorable reflection on
+          <p>"All God's dangers ain't a white man." This memorable reflection on
 the nature of Southern history came from a black sharecropper,
 recalling the effect of the boll weevil on his cotton crop. The
 listener was Theodore Rosengarten, a Brooklyn-born student of
@@ -1382,7 +1372,7 @@ South's rich narrative tradition, the volume won an immediate place on
 every shelf containing the important modern works 
 <pb n="22"/>
 about the region.</p>
-               <p>Instead of using his first book for ante at the poker tables of
+          <p>Instead of using his first book for ante at the poker tables of
 academia, Rosengarten settled near a small fishing town on the South
 Carolina coast where he now lives with his wife and sons. There he has
 continued to fish the waters of Southern history with the same
@@ -1398,7 +1388,7 @@ Susan W. Walker he edited and annotated the journal itself. The
 historian's judicious appraisal and the fascinating primary source are
 both included in Tombee, along with maps, genealogical charts, and
 copious notes.</p>
-               <p>It is hard, literally, to know where to begin in this massive book,
+          <p>It is hard, literally, to know where to begin in this massive book,
 for the biographical treatment and the detailed journal go hand in
 hand. The latter begins in 1845 when Chaplin, age twenty-two, already
 controlled the lives of more than sixty enslaved Southerners, who grew
@@ -1418,7 +1408,7 @@ raise poultry." He and his wife, Chaplin concluded, "are both feeling
 the effects of age &amp; can't stand much more thumping &amp; tumbling
 about, &amp; I pray the remainder may be passed in peace and ease. So
 this ends."</p>
-               <p>Thomas Chaplin, like Nate Shaw, had a distinctive personality and a
+          <p>Thomas Chaplin, like Nate Shaw, had a distinctive personality and a
 complicated life. Both men lived close to the soil of the Deep South,
 and each in his way endured a good deal of thumping and tumbling
 about. Their worlds were determined by who owned the land and what
@@ -1433,7 +1423,7 @@ younger, told a story that sounded strange and novel-if relevant and
 disconcerting-to most modern ears. Chaplin's tale, on the other hand,
 gains interest precisely because we inevitably hold it up beside
 well-worn images of antebellum cotton planters.</p>
-               <p>Naturally, he fits none of these contradictory stereotypes we have
+          <p>Naturally, he fits none of these contradictory stereotypes we have
 inherited. Far from an opulent patriarch, he remained insecure about
 his economic holdings and his personal status throughout his
 life--though not so insecure as to become a Simon Legree. "My heart
@@ -1445,7 +1435,7 @@ he seems like a character out of a Chekhov play. And like most Russian
 landlords before the abolition of serfdom, this member of the South's
 rural elite has a very imperfect sense of the forces that are holding
 him up and tugging him down.</p>
-               <p>Occasionally, life imitates art so thoroughly that whole passages
+          <p>Occasionally, life imitates art so thoroughly that whole passages
 from the diary read like notes from a fiction writer's journal. An
 Ellison or Faulkner would beam to have created a protagonist who has
 weak vision in one eye due to the burst of a rocket at a Fourth of
@@ -1460,7 +1450,7 @@ down, never to rise again poor fellow...." The rest eventually managed
 to right the boat and row to shore. Chaplin lost all his best hunting
 and riding equipment and a set of gold studs, but he saved his
 water-soaked pocket watch.</p>
-               <p>"A broken watch is a small thing next to a life that's lost,"
+          <p>"A broken watch is a small thing next to a life that's lost,"
 Rosengarten observes, "but Chaplin did not see it that way....Faced
 with great losses he clung to small things. Always aware of his class,
 the things he recalled when he had been stripped of everything were
@@ -1471,7 +1461,7 @@ Union gunboats. "Thus, we find him," Rosengarten concludes, "missing
 his old oak chair when what had passed out of his hands were his house
 and land; and fretting over the loss of silver forks and spoons when
 what had perished was the social order."</p>
-               <p>In offering a portrait of the master of Tombee plantation,
+          <p>In offering a portrait of the master of Tombee plantation,
 Rosengarten also provides a picture of the social order of the Sea
 Islands, or part of it. His narrative and notes trace networks of
 kinship and debt back and forth across the Lowcountry from Beautort to
@@ -1483,7 +1473,7 @@ watchers still lack. But as Rosengarten himself points out in a
 chapter on "The Chaplin Family," blacks outnumbered whites eight to
 one on St. Helena Island during the antebellum period and by about
 that much at Tombee.</p>
-               <p>While it might not be fair to ask Rosengarten to take up the task
+          <p>While it might not be fair to ask Rosengarten to take up the task
 himself, it is worth remarking that a portrait of the local slave
 community could now be undertaken with the same attention to
 detail. One wonders whether the far-too-cautious Lyndhurst Foundation,
@@ -1494,7 +1484,7 @@ of the venerable Penn Community Center to bring St. Helena's black
 history to life will soon bear fruit, though we must wait to see
 whether the acclaim for Tombee will be used by funders to further such
 designs.</p>
-               <p>While they are making up their minds, they can examine another
+          <p>While they are making up their minds, they can examine another
 challenging book that has appeared this summer: <title>Drums and
 Shadows: Survival Studies Among the Georgia Coastal
 Negroes</title>. It represents a collaborative effort by the Savannah
@@ -1508,8 +1498,7 @@ introduction by Charles Joyner whose recent book about the Waccamaw
 Neck region of South Carolina, <title>Down by the Riverside</title>,
 affords the best available study of a black community in the
 Lowcountry.</p>
-               <p>
-                  <title>Drums</title> provides an intriguing companion volume to
+          <p><title>Drums</title> provides an intriguing companion volume to
 <title>Tombee</title>. It concerns Georgia rather than South Carolina;
 it focuses on blacks rather than whites; and it uses oral history and
 an ethnographic approach rather than archival research and
@@ -1523,7 +1512,7 @@ have felt thoroughly at home around Lewis McIver's fishing nets, Katie
 Brown's mortar and pestle, Cuffy Wilson's tote basket, or Julius
 Bailey's ox cart-more at home no doubt that some of these people's
 far-flung grandchildren might feel today.</p>
-               <p>The pictures from the original edition have been moved prominently
+          <p>The pictures from the original edition have been moved prominently
 to the front and introduced with a note from the photographers. Though
 somewhat darker and smaller than they were in the original, these
 shots (clicked from under a black cloth, with a bulky Kodak camera on
@@ -1544,7 +1533,7 @@ tightly, and what is lost in the intimacy of a close-up face is gained
 in the inclusion of background setting. Why some of these images have
 been reversed in the current edition seems deserving of
 explanation.</p>
-               <p>"Our picture-taking expeditions were always led by Mary Granger,"
+          <p>"Our picture-taking expeditions were always led by Mary Granger,"
 the Bells relate, and it would be useful, perhaps inspiring, to know
 more about this "confident and cheerful" woman. (Joyner tells us only
 that she "was a cosmopolitan and well-traveled novelist" with a
@@ -1562,7 +1551,7 @@ mainstream scholars. The essence of this view had been stated in 1939
 by the black sociologist E. Franklin Frazier: "Probably never before
 in history," Frazier wrote, "has a people been so completely stripped
 of its social heritage as the Negroes who were brought to America."</p>
-               <p>But Granger had different ideas, and she put together a group of
+          <p>But Granger had different ideas, and she put together a group of
 advisors who could endorse, or at least tolerate, such research. The
 work paid off, and though it was dismissed by critics at the time,
 <title>Drums and Shadows</title> has come to be regarded as a
@@ -1575,7 +1564,7 @@ that a new generation of scholars run the risk of dismissing it as
 boring and old-hat at just the time when increased western knowledge
 of historical African religions and cultures is opening up new layers
 of potential research.</p>
-               <p>Today we find ourselves thinking as much about Africa's current
+          <p>Today we find ourselves thinking as much about Africa's current
 events as about its past, and one can hardly read these two excellent
 books without reflecting on political and cultural conditions in South
 Africa. We glimpse that world through the narrow keyhole provided by
@@ -1589,19 +1578,18 @@ our own, as shown by Steven Lawson's excellent essay here in
 reading when examined alone, and better reading when considered
 together, they may prove best of all when regarded in a wide
 comparative context that links them to our present concerns.</p>
-            <div3 id="sc08-3028" type="About">
-                  <p>Peter H. Wood lives in Hillsborough, N.C., and teaches
+          <div3 id="sc08-3028" type="About">
+            <p>Peter H. Wood lives in Hillsborough, N.C., and teaches
 Early American History at Duke University. He is the author of
 <title>Black Majority: Negroes in Colonial South Carolina from 1670
 Through the Stono Rebellion</title>.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3009" n="Steve Earle's Hope on the Highway" type="Article">
-               <head>Steve Earle's Hope on the Highway</head>
-               <byline>By <docAuthor><name reg="Orr, Jay">Jay Orr</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 19-21</docDate>
-               
-               <p>Steve Earle has caused a stir in the Nashville music industry with
+          </div3>
+        </div2>
+        <div2 id="sc08-3009" n="Steve Earle's Hope on the Highway" type="Article">
+          <head>Steve Earle's Hope on the Highway</head>
+          <byline>By <docAuthor><name reg="Orr, Jay">Jay Orr</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 19-21</docDate>
+          <p>Steve Earle has caused a stir in the Nashville music industry with
 the release of his debut album, Guitar Town, on MCA records. In
 February 1985, I first saw Earle and his rock 'n' roll band, the
 Dukes, in the basement of a high-rise residence hall at Vanderbilt
@@ -1615,35 +1603,34 @@ label, and <title>Guitar Town</title>, with its fetching combination
 of rock rhythms, socially-conscious themes, and pedal steel and
 twangin' guitars, has won the attentive ear of this town and the
 nation.</p>
-               <p>In his first single from <title>Guitar Town</title>, "Hillbilly
+          <p>In his first single from <title>Guitar Town</title>, "Hillbilly
 Highway," Earle sings in the voice of a character whose lineage has
 always answered the call of opportunity. Grandfather left home and the
 mines for a job in Detroit; as a young man, father also goes
 away-first to college and then to a job in Houston; and the narrator
 quits school to learn guitar and become a musician.
-<pb n="20"/>
-               </p>
-               <p>Earle himself left school after the eighth grade for the same
+<pb n="20"/></p>
+          <p>Earle himself left school after the eighth grade for the same
 reasons. From his home near San Antonio, Earle traveled around Texas
 and Mexico, associating with and learning from older songwriters like
 Townes Van Zant (for whom his son is named), Richard Dobson, Rodney
 Crowell, and Guy Clark. He put in a stint as a bassist in Clark's
 band.</p>
-               <p>Earle moved to Nashville in 1974, where he worked at the usual odd
+          <p>Earle moved to Nashville in 1974, where he worked at the usual odd
 jobs (tennis court builder, billboard hanger, carpenter) while he
 nurtured his musical ability in bars, honky tonks, and coffee
 houses. He also went through three marriages in pursuit of his elusive
 dream to become a successful songwriter.</p>
-               <p>In 1982 a small independent Nashville label, LSI, issued Earle's
+          <p>In 1982 a small independent Nashville label, LSI, issued Earle's
 premier recording, a four-song disc entitled Pink and Black. He signed
 with Epic in 1983, and that label released four respectable,
 rockabilly-style singles over the next two years.</p>
-               <p>During the lean years Earle did score as a songwriter. His songs
+          <p>During the lean years Earle did score as a songwriter. His songs
 were recorded by Carl Perkins and Waylon Jennings, and by younger
 artists like Vince Gill and Steve Wariner. Johnny Lee had a top ten
 hit with "When You Fall in Love," a song from the early LSI ep, with
 help from vocalist Kim Wilson of Austin's Fabulous Thunderbirds.</p>
-               <p>Guitar Town appears when Nashville record offices are scrambling to
+          <p>Guitar Town appears when Nashville record offices are scrambling to
 re-establish an identity that will appeal both to traditional country
 audiences and to the record-buying youth market. "Urban Cowboy" chic
 has faded, and country music sales figures show a corresponding
@@ -1656,7 +1643,7 @@ artists will help shed the rural, provincial stereotype associated
 with country music. Of this crop of new artists only Earle has made an
 aggressive charge at the problems confronting blue-collar youth in
 rural communities.</p>
-               <p>Some of Earle's compositions have a political and 
+          <p>Some of Earle's compositions have a political and 
 <pb n="21"/>
 social
 perspective that parallels the recent work of rock musicians Bruce
@@ -1673,7 +1660,7 @@ Merle Haggard's "Okie from Muskogee," "The Fighting Side of Me," and
 extolled the patriotic status quo and made country artists popular
 visitors to the White House during the Johnson, Carter, Nixon, and
 Reagan administrations.</p>
-               <p>Earle maintains a different music tradition, as common as the
+          <p>Earle maintains a different music tradition, as common as the
 penchant for jingoistic themes but seldom acknowledged by those who
 would dismiss all country music as right-wing hayseed warblings. Like
 recent releases by Hank Williams Jr. ("This ain't Dallas"), Alabama
@@ -1682,36 +1669,35 @@ champions frustrated working men and women, and disillusioned young
 people in anthemic couplets like the one in "Good Ol' Boy (Gettin'
 Tough)": <hi rend="italic">Gettin' tough /Just My Luck/I was born in the
 land of plenty now there ain't enough/Get/in' cold/I've been
-told/Nowadays it just don't pay to be a good ol' boy.</hi>
-               </p>
-               <p>In "Someday," the interstate highway hides a small town from
+told/Nowadays it just don't pay to be a good ol' boy.</hi></p>
+          <p>In "Someday," the interstate highway hides a small town from
 motorists bound for Memphis, but it also promises a way out for the
 narrator who frets over the narrative possibilities:</p>
-               <p>
-                  <hi rend="italic">There ain't a lot that you can do in this town/ You
+          <p>
+            <hi rend="italic">There ain't a lot that you can do in this town/ You
 drive down to the lake and then you turn back around/ You go to school
 and you learn to read and write/ So you can walk into the county bank
 and sign away your life.</hi>
-               </p>
-               <p>Earle also writes of the personal reverberations of life in a
+          </p>
+          <p>Earle also writes of the personal reverberations of life in a
 changing and uncertain time. "Goodbye's All We Got Left," "My Old
 Friend the Blues," "Think It Over," and "Down the Road," (Earle's
 closing song in live performances) touch emotional places left tender
 by daily anxieties. "Little Rock 'n' Roller" will affect all who have
 had to communicate over miles with a little loved one.</p>
-               <p>In an interview with Robert Hilburn of the Los Angeles Times, Earle
+          <p>In an interview with Robert Hilburn of the Los Angeles Times, Earle
 offered an assessment of the role he hopes his songs can fill:</p>
-               <p>"In the end, you either cheer people up [with your songs] or help
+          <p>"In the end, you either cheer people up [with your songs] or help
 them exorcise some problems they have--and people need a bit of both
 right now. The mood of the country as a whole is that things aren't as
 they are being advertised. Lots of people are going hungry. Even more
 have had to downscale their expectations. They are confused. They
 remember everything they heard about this country in school and they
 wonder what happened to it."</p>
-               <p>With the help of a strong band, bright production, and appealing
+          <p>With the help of a strong band, bright production, and appealing
 melodies, Earle's powerful lyrical offerings do cheer and exorcise at
 once.</p>
-               <p>Guitar Town has won acclaim from pop music's critical heavyweights,
+          <p>Guitar Town has won acclaim from pop music's critical heavyweights,
 and Earle has toured nationally with another group of critics'
 darlings, the Replacements, a hard-edged rock band from
 Minneapolis. In his interview with Hilburn, Earle promised that his
@@ -1719,17 +1705,16 @@ next album, "will lean more toward social observation and commentary
 than [Guitar Town]." Good news for those of us who hope Nashville and
 country musicians can continue to produce music with regional,
 cultural, and social importance.</p>
-            <div3 id="sc08-3029" type="About">
-                  <p>Jay Orr works at the library of the Country Music
+          <div3 id="sc08-3029" type="About">
+            <p>Jay Orr works at the library of the Country Music
 Foundation in Nashville.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3010" n="The Shame of Contra Aid" type="Article">
-               <head>The Shame of Contra Aid</head>
-               <byline>By <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 18-19</docDate>
-               
-               <p>The Old Testament prophet called down woe upon those who said that
+          </div3>
+        </div2>
+        <div2 id="sc08-3010" n="The Shame of Contra Aid" type="Article">
+          <head>The Shame of Contra Aid</head>
+          <byline>By <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 18-19</docDate>
+          <p>The Old Testament prophet called down woe upon those who said that
 darkness was light and light was darkness. We today fall within the
 shadow of that prophetic judgment since, led by our super-patriotic
 President, we have come to call what is truly American, un-American,
@@ -1737,7 +1722,7 @@ and what is truly un-American, American. Consider the contras and
 Nicaragua, for there, our President would have us believe, the former
 Somoza death squads can be likened to George Washington's freedom
 fighters at Valley Forge.</p>
-               <p>To achieve such self-deception requires a leadership skilled in the
+          <p>To achieve such self-deception requires a leadership skilled in the
 art of misconstruing the American dream. From the Monroe Doctrine, to
 the Good Neighbor policy of Franklin Roosevelt, to the present crisis,
 we have been assured that our relationship with Central and South
@@ -1750,7 +1735,7 @@ themselves. Nowhere has America, while believing its motives pure and
 unmixed, been so cynically and systematically un-American than in its
 dealings with these nations. Nicaragua is now exposing the sham and
 shame to the world.</p>
-               <p>Millions of Americans are waking up to these dark chapters to our
+          <p>Millions of Americans are waking up to these dark chapters to our
 history and we are angry at what our militaristic President is doing
 to the people of Nicaragua, angry that a spineless Congress supports
 him and, in the South, particularly angry that our timid
@@ -1758,11 +1743,11 @@ representatives fall such easy prey to his jingoistic rhetoric. It is
 for us to hold these Southern politicians to strictest account, as one
 day all of us surely will be held in account for what we are doing to
 that suffering nation.</p>
-               <p>But, it is what we are doing to ourselves in the name of
+          <p>But, it is what we are doing to ourselves in the name of
 Americanism that concerns me for the moment. In supporting the contras
 and keeping alive the war and destruction in Nicaragua we are
 violating the heart and soul of our nation, in several ways.</p>
-               <p>First, we are in violation of the spirit and letter of our
+          <p>First, we are in violation of the spirit and letter of our
 Declaration of Independence when we try to crush the yearning and
 striving of Nicaraguans for justice and 
 <pb n="19"/>
@@ -1771,7 +1756,7 @@ loyalists, following the American Revolution, and after leaving or
 being driven out of colonies, had regrouped on the Canadian border and
 with reenforcements from a hostile European nation, resumed the
 conflict as "freedom fighters."</p>
-               <p>Secondly, we are in violation of the spirit and letter of our
+          <p>Secondly, we are in violation of the spirit and letter of our
 Constitution and its Bill of Rights. Rather than attempt to understand
 and support the strivings of Nicaraguans who wish to "establish
 justice, insure domestic tranquility, provide for the common defence,
@@ -1782,13 +1767,13 @@ terrorism. When you think of the kidnappings, tortures, burnings,
 maimings, pillage and murder, you have to spell it terrorism, pure and
 simple, underwritten by the US Government. This is not only deceitful
 and hypocritical, it is also plain un-American.</p>
-               <p>Thirdly, we are in violation of the spirit and letter of the
+          <p>Thirdly, we are in violation of the spirit and letter of the
 Charter of the United Nations. The World Court, which we helped to set
 up and have appealed to in the past, has found our involvement in
 Nicaragua in violation to the UN Charter. We have become, as it were,
 an international outlaw to our own structure for justice and
 peace. The Oval Office seems to exult in this outlaw posture.</p>
-               <p>The final violation is theological. Millions of our citizens insist
+          <p>The final violation is theological. Millions of our citizens insist
 that America is a "Christian" nation. That such a designation
 contravenes the state-church separation principle is an argument I
 should like to push on another occasion. But, assuming, for the
@@ -1805,7 +1790,7 @@ him drink, naked and we clothed him, sick and we visited him,
 imprisoned and we came to him, and then he added that inasmuch as we
 did these things for others, even the least, we did them also to
 him.</p>
-               <p>It takes no effort of imagination to see that these are literally
+          <p>It takes no effort of imagination to see that these are literally
 the same basic needs of the vast majority of the people of Nicaragua,
 and indeed of all nations south of our border and the third world. But
 they are needs that neither their government, nor their church has
@@ -1813,20 +1798,19 @@ met. When at long last the people have undertaken for themselves to
 achieve a just and peaeful and compassionate society, "Christian"
 America is prepared to use every means to prevent them. We are, I say,
 in violation of our religious faith!</p>
-               <p>For these reasons a moral outrage in America is in order. And this
+          <p>For these reasons a moral outrage in America is in order. And this
 is why we cry shame, shame upon so many of our Southern members of
 Congress and why we must hold them to strict account.</p>
-            <div3 id="sc08-3030" type="About">
-                  <p>Rev. W. W. Finlator is the retired pastor of Pullen
+          <div3 id="sc08-3030" type="About">
+            <p>Rev. W. W. Finlator is the retired pastor of Pullen
 Memorial Baptist Church in Raleigh, N. C.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc08-3011" n="Cells for Sale" type="Article">
-               <head>Cells for Sale</head>
-               <byline>By <docAuthor><name reg="Wray, Harmon L., Jr.">Harmon L. Wray, Jr.</name></docAuthor></byline>
-               <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 3-6</docDate>
-               
-               <p>The rush to transfer government services and functions from public
+          </div3>
+        </div2>
+        <div2 id="sc08-3011" n="Cells for Sale" type="Article">
+          <head>Cells for Sale</head>
+          <byline>By <docAuthor><name reg="Wray, Harmon L., Jr.">Harmon L. Wray, Jr.</name></docAuthor></byline>
+          <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 3-6</docDate>
+          <p>The rush to transfer government services and functions from public
 to profit-making hands has lately found its way to the "field" of
 incarceration and corrections. The current leader in this new growth
 industry is the Nashville-based Corrections Corporation of America,
@@ -1837,7 +1821,7 @@ and former Tennessee Republican Party Chairman Tom Beasley, the
 Corrections Corporation of America alma to ~be to jails and
 prisons...what Hospital Corporation of America has become to medical
 facilities nationwide."</p>
-               <p>Declaring that "the market is limitless," Beasley (age 43) hopes to
+          <p>Declaring that "the market is limitless," Beasley (age 43) hopes to
 "solve the prison problem and make a lot of money at the same time."
 CCA currently has seven contracts to own and/or manage detention
 centers, treatment facilities, jails and workhouses for federal and
@@ -1850,7 +1834,7 @@ ripe," reports <title>Barron's</title>, the business weekly. "And it
 is brokers, architects, builders, and banks-not the taxpayers-who will
 make out like bandits.. In less than a year, CCA has more than doubled
 the size of its staff, now at 500.</p>
-               <p>The proposal CCA made to the State of Tennessee in the fall of 1985
+          <p>The proposal CCA made to the State of Tennessee in the fall of 1985
 was the boldest move yet in prisons-for-profit and showed why the
 company is considered the most aggressive and well-connected of the
 capitalist corrections firms. CCA initially proposed to buy out and
@@ -1865,7 +1849,7 @@ Republican governor Lamar Alexander, a CCA supporter who once rented a
 garage apartment to law student Tom Beasley. Alexander has spent seven
 years overseeing an unconstitutional prison system but has never set
 foot inside one of his state's prisons.</p>
-               <p>This year, the General Assembly, under the influence of nine
+          <p>This year, the General Assembly, under the influence of nine
 full-time, high-powered CCA lobbyists paid an estimated $100,000,
 passed a more moderate privatization bill. Before the session Tom
 Beasley had 
@@ -1875,7 +1859,7 @@ will: the 180-bed Carter County work camp opens September 1, probably
 under CCA operation. But the legislation (which AFSCME plans to
 challenge in court) prohibits further privatization of Tennessee
 prisons for three years.</p>
-               <p>The ambitions of Beasley and other prison entrepreneurs are not
+          <p>The ambitions of Beasley and other prison entrepreneurs are not
 limited to Tennessee. In fact, once CCA lost its bid for all Tennessee
 prisons, it pursued a smaller "chunk" primarily in order to avoid the
 embarrassment of having no home-state contracts to advertise in its
@@ -1894,7 +1878,7 @@ landed Tennessee and Alabama county jail contracts and a prison
 consulting contract with the Alexander administration. CAI's good
 fortune came on the heels of the resignation of its new president,
 Hubert McCullough, as Governor Alexander's finance commissioner.</p>
-               <p>The McCullough-Alexander connection is only one of many personal,
+          <p>The McCullough-Alexander connection is only one of many personal,
 business, and political linkages evident in the prisons-for-profit
 field. Like CAI's McCullough, CCA lobbyist Tom Ingram, 39, a former
 journalist and social worker, has been a prime mover with the
@@ -1914,12 +1898,12 @@ Dunn, a Memphis dentist who became a multi-millionaire as an executive
 for Hospital Corporation of America. Both Dunn and McWherter have
 called for the state to experiment with private operation of some
 prisons.</p>
-               <p>Another connection is the US Military Academy. Before graduating
+          <p>Another connection is the US Military Academy. Before graduating
 from Harvard's law and business schools, CCA treasurer and major
 investor Doctor R. Crants was Beasley's West Point roommate. CCA
 stockholder Samuel W. Bartholomew, of the Nashville law firm Donelson,
 Stokes &amp;Bartholomew, was their classmate ('66).</p>
-               <p>Three of Bartholomew's children are also stockholders. Another West
+          <p>Three of Bartholomew's children are also stockholders. Another West
 Point alum and major CCA investor is T. Don Hutto, the corporation's
 executive vice-president. Hutto, an ex-prison guard who became
 commissioner of corrections in Virginia and Arkansas, has since 1984
@@ -1930,7 +1914,7 @@ Association, the National Conference of State Trial Judges, the
 National Association of Criminal Justice Planners, and the American
 Bar Association--the ACA under Hutto's tenure has supported prison
 privatization.</p>
-               <p>While the prisons-for-profit trend has national dimensions, CCA
+          <p>While the prisons-for-profit trend has national dimensions, CCA
 leadership has focused much of the attention onto the South, where all
 of CCA's current contracts and most of its financial backers are
 located (investors include Vanderbilt University, Hospital Corporation
@@ -1939,7 +1923,7 @@ Valley Authority, itself often the target of privatization
 initiatives). Many members of CCA's management staff have worked in
 corrections departments in Southern states, including Virginia,
 Louisiana, Texas, and Alabama.</p>
-               <p>Critics of corporate punishment have raised a number of issues
+          <p>Critics of corporate punishment have raised a number of issues
 which call the privatization trend into serious question. Tennessee
 Attorney General Michael Cody and the ACLU National Prison Project
 note that the state would retain ultimate legal and fiscal
@@ -1955,7 +1939,7 @@ bankruptcy, incompetence, or unwillingness to continue. Cody suggests
 that privatization might encourage the public to believe, mistakenly,
 that Tennessee can solve its corrections problems simply by building
 more prisons.</p>
-               <p>A 1985 Tennessee legislative report points out that privatizing
+          <p>A 1985 Tennessee legislative report points out that privatizing
 does not mean that construction costs are not a liability of the
 state; rather, the liability has been deferred." Mark Gray of AFSCME
 wonders if an artifically low cost presented in an initial contract
@@ -1966,7 +1950,7 @@ prices" in order to maximize profits. Former Minnesota corrections
 chief Ken Schoen has pointed to "defense" contractors' use of similar
 tactics as a way of "capitalizing on the public's fears to assure an
 ever-expanding system, while the basic insecurities remain."</p>
-               <p>Closely associated with such economic concerns is the question of
+          <p>Closely associated with such economic concerns is the question of
 just how a private firm will be able to operate prisons as
 inexpensively as it claims. Public employee unions like AFSCME and the
 Tennessee State Employees Association point to workers' loss of civil
@@ -1978,7 +1962,7 @@ for contracts has been the historically low-wage and under-unionized
 South. And, whether they are called "prison guards" or "correctional
 officers," those workers who staff our society's cages are already
 among the lowest paid of all government employees.</p>
-               <p>Certainly, prisoners themselves could suffer harmful effects from
+          <p>Certainly, prisoners themselves could suffer harmful effects from
 possible cost-cutting for the sake of profit maximization. CCA's
 initial proposal to Tennessee proclaims the intention of developing a
 "full-employment economy within the correctional system." Given the
@@ -1996,7 +1980,7 @@ labor for private profit?" Constitutionally, slavery is legal as
 punishment for crime, and our Southern prison populations are, of
 course, overwhelmingly poor and disproportionately black and
 Hispanic.</p>
-               <p>Apprehensions on the part of prisoner advocates and those who abhor
+          <p>Apprehensions on the part of prisoner advocates and those who abhor
 slavery may not be unfounded when one considers the professional
 history of T. Don Hutto, the man CCA touts as its foremost corrections
 expert. The CCA's executive vice-president's career includes a stint
@@ -2017,14 +2001,14 @@ the prisons 'a dark and evil world completely alien to the free
 world.'" When confronted with this criticism, a CCA offical responded
 that <title>The Nation</title> essay was "a libelous article" and that
 Hutto had in fact cleaned up the unconstitutional Arkansas system.</p>
-               <p>The questions raised by Hutto's track record and by a look at the
+          <p>The questions raised by Hutto's track record and by a look at the
 history of profit-making out of the hides of prisoners were echoed by
 Michael Walzer in <title>The New Republic</title>: "Helpless men and
 women have never fared well at the hands of profit-seeking
 entrepreneurs. The incentive system is all wrong. Who will look after
 the interests of prisoners? Who will be watching the prison owners as
 they run their 'own' business?"</p>
-               <p>Prisoners and their advocates in many Southern states lock at the
+          <p>Prisoners and their advocates in many Southern states lock at the
 decades of class-action litigation efforts to remedy their
 unconstitutional prison systems (now ten years in Tennessee) and
 wonder how much longer it would have taken had the prisons been
@@ -2035,7 +2019,7 @@ ownership and implementation of state functions. The Tennessee Senate
 Speaker's favorable response to the privatization concept speaks
 volumes: "If somebody else ran it, somebody else would be in court. We
 wouldn't."</p>
-               <p>An analogy with recent corporate mobility trends, another point
+          <p>An analogy with recent corporate mobility trends, another point
 made by Walzer, is especially striking when seen in a Southern
 context: "This is probably the chief economic advantage of
 privatization-that it offers a (temporary) escape from the enforcement
@@ -2045,7 +2029,7 @@ the union catches up, the old situation is restored. Similarly, if the
 courts catch up, we will find oursleves again where we are now, with
 judges struggling to do what state legislatures and Congress ought to
 do-reform the prison system."</p>
-               <p>Perhaps the most critical flaw in the privatization move is that it
+          <p>Perhaps the most critical flaw in the privatization move is that it
 is inherently expansionist. A corporation paid per prisoner and per
 diem will look to lock up more and more people for longer and longer
 stretches. Recall the historic Southern practice of determining the
@@ -2054,7 +2038,7 @@ proposal assumed a steadily expanding prison population (despite the
 falling crime rate), and its preferred per diem method of being paid
 has already led to cost overruns for local taxpayers at its
 Chattanooga penal farm.</p>
-               <p>The US locks up a larger percentage of its population than any
+          <p>The US locks up a larger percentage of its population than any
 country in the world, with two exceptions: South Africa and the Soviet
 Union. Some of our Southern states rank even higher than those
 nations. We ought to be reducing our costly, ineffective, cruel, race-
@@ -2066,7 +2050,7 @@ victim-offender mediation, and required drug and alcohol treatment,
 GED preparation, vocational training, and job placement. Such options
 are used frequently with white collar criminals, but perpetrators of
 street crimes are scarce in these programs.</p>
-               <p>Organizations such as AFSCME, the American Civil Liberties Union,
+          <p>Organizations such as AFSCME, the American Civil Liberties Union,
 the National Sheriffs Association, the Vera Institute of Justice, and
 the National Association of Criminal Justice Planners have all voiced
 the fear of an inevitable expansionism in this new "growth industry."
@@ -2075,12 +2059,12 @@ enormous investment in stimulating demand," fears corporate
 advertising campaigns to heighten the public's fear of crime and
 trigger a "lock 'em up" reaction resulting in an increasing number of
 cages, captives, and dollars.</p>
-               <p>NACJP director Mark Cunniff, calling CCA's Tennessee takeover
+          <p>NACJP director Mark Cunniff, calling CCA's Tennessee takeover
 proposal "incredible," points out that "private contractors can lobby
 in ways that a public agency cannot." When those doing the lobbying
 are close friends and political advisers of governors and legislators,
 many of the traditional lobbying techniques will be unnecessary.</p>
-               <p>Perhaps Ken Schoen has put it best: "Private operators whose growth
+          <p>Perhaps Ken Schoen has put it best: "Private operators whose growth
 depends upon an expanding prison population may push for ever harsher
 sentences. With the public's unabating fear of crime, and the
 lawmakers shrinking from any move that appears to be soft on
@@ -2089,7 +2073,7 @@ resist. Any drop in the crime rate will be attributed to long prison
 sentences. An increase will add weight to the call for more
 prisons. And the taxpayers will finance the profit-makers while
 double-locking their doors at night."</p>
-               <p>Michael Smith says that the scenario sketched out above "worries me
+          <p>Michael Smith says that the scenario sketched out above "worries me
 enough so that I want to look first at making government innovative
 and responsive." This points toward a possible third option, between
 the inefficient and incompetent status quo and the CCA-type
@@ -2101,7 +2085,7 @@ nonprofit agencies, with publicly recognized programs and explicit
 authorization. We should not be contracting out, as if these were not
 our prisoners; we should be bringing new ideas into the orbit of
 public service."</p>
-               <p>The most reasonable conclusion to be drawn from all this is simply
+          <p>The most reasonable conclusion to be drawn from all this is simply
 that the citizens and legislatures of our Southern states should avoid
 the new "dungeons for dollars" game like the plague. The privatization
 debate distracts us from the real issue of our society's failure to
@@ -2109,11 +2093,11 @@ deal with crime in any way other than a knee-jerk, repressive
 fashion. This is especially true in the South, which tends to have the
 highest incarceration rates, the longest sentences, and the most
 executions.</p>
-               <p>Most citizens-white and black, rich and poor, male and
+          <p>Most citizens-white and black, rich and poor, male and
 female-regularly report that crime and punishment constitute one of
 the most salient and urgent issues in their lives. Almost no one,
 however, is satisfied with our criminal justice system as it is.</p>
-               <p>As I have suggested, there are alternative approaches to the issue
+          <p>As I have suggested, there are alternative approaches to the issue
 of crime and punishment, but only a few prisoners, lawyers, academics,
 and prison reform advocates seem to know or care much about them. As
 in the field of health, our society's primary approach to crime ought
@@ -2129,13 +2113,13 @@ others, our motto should be "from the cage to the community," which is
 largely where the problem is and must be dealt with. We must refuse
 the exploitation of public hysteria and institutional fatigue by the
 entrepreneurs of captivity.</p>
-            <div3 id="sc08-3031" type="About">
-                  <p>Harmon L Wray, Jr., lives in Nashville where he is a
+          <div3 id="sc08-3031" type="About">
+            <p>Harmon L Wray, Jr., lives in Nashville where he is a
 staff consultant with Project Return and teaches prison ministry at
 Vanderbilt Divinity School.</p>
-               </div3>
-	     </div2>
-         </div1>
-      </body>
-   </text>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
 </TEI.2>
