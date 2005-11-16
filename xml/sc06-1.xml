@@ -61,18 +61,18 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc06-1.001" n="Southern Changes 6:1" type="Issue">
+         <div1 id="sc06-1001" n="Southern Changes 6:1" type="Issue">
             <head>Southern Changes.  Volume 6, Number 1, 1984</head>
             <p>
                <title>Southern Changes</title>.  Volume 6, Number 1,
 	       <date value="1984-01">1984</date></p>
-            <div2 id="sc06-1.002" n="Southerners and Central America" type="Article">
+            <div2 id="sc06-1002" n="Southerners and Central America" type="Article">
                <head>Southerners and Central America. The Ideology of
 Domination</head>
                <byline>By <docAuthor><name reg="Kirkpatrick, Dow">Dow Kirkpatrick</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 1-3, 5-6</docDate>
               
-               <div3 id="sc06-1.003" n="I" type="Section">
+               <div3 id="sc06-1003" n="I" type="Section">
                   <p>Southerners, of all US citizens, should be best equipped to
 understand the peoples' rebellion in Central America. The forces which
 impoverished the South for a hundred years are the same which produce
@@ -310,7 +310,7 @@ explains the present social, economic and political ferment. It is an
 actuality with which Southerners should be easily 'simpatico'--the
 religious factor.</p>
                </div3>
-               <div3 id="sc06-1.004" n="II" type="Section">
+               <div3 id="sc06-1004" n="II" type="Section">
                   <head>II</head>
                   <p>Central America is engaged in a twentieth century biblical
 reformation. Failure to see this is to misread everything else going
@@ -380,7 +380,7 @@ Nicaragua today is a privilege far greater than to be rich. The rest
 of Latin America will be expecting a testimony of Christians. If we
 fail, it will affect all of Latin America."</p>
                </div3>
-               <div3 id="sc06-1.005" n="III" type="Section">
+               <div3 id="sc06-1005" n="III" type="Section">
                   <head>III</head>
                   <p>Of all the conflicting interpretations, what can we believe about
 Central America? It is not oversimplification to summarize the truth
@@ -395,7 +395,7 @@ them.</p>
                   <p>The Latin American revolution is a biblical reformation which will
 shape every aspect of the future of this hemisphere.</p>
                </div3>
-             <div3 id="sc06-1.022" type="About">
+             <div3 id="sc06-1022" type="About">
                   <p>Dow Kirkpatrick is a missionary-in-reverse of The United
 Methodist Church, bringing the Christian Faith as believed and
 practiced in Latin America to North Americans. A substantial portion
@@ -407,7 +407,7 @@ Latin American realities. Most recently (fall of 1983) he travelled to
 Argentina, Brazil, Nicaragua and Cuba--his sixth visit to Nicaragua
 and seventh to Cuba.</p>
                </div3></div2>
-            <div2 id="sc06-1.006" n="The Kissinger Commission Report" type="Article">
+            <div2 id="sc06-1006" n="The Kissinger Commission Report" type="Article">
                <head>The Kissinger Commission Report</head>
                <byline>By <docAuthor><name reg="Kirkpatrick, Dow">Dow Kirkpatrick</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 2</docDate>
@@ -429,7 +429,7 @@ system to bring full humanity to the majority of the people. If we
 really want a secure region close to our borders, then we should join
 the poor in reorganizing society to meet human needs.</p>
             </div2>
-            <div2 id="sc06-1.007" n="The Logic of the Majority" type="Article">
+            <div2 id="sc06-1007" n="The Logic of the Majority" type="Article">
                <head>"The Logic of the Majority"</head>
                <byline>By <docAuthor><name reg="Gorostiaga, Xabier">Xabier Gorostiaga</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 6-10</docDate>
@@ -857,7 +857,7 @@ Margaret Randall. Published by New Star Books, Vancouver,
 Canada.</bibl>
                                                                                                       </p>
                                                                                             
-            <div3 id="sc06-1.027" type="About">
+            <div3 id="sc06-1027" type="About">
                   <p>On his most recent visit to Nicaragua (November, 1983)
 Dow Kirkpatrick spoke with Xabier Gorostiaga, chief economist of the
 Sandinista Government, Jesuit priest and head of the Central American
@@ -869,7 +869,7 @@ issued by the Institute as a result of an international policy
 workshop held in The Hague during the summer of 1983.</p>
                </div3>
                </div2>
-            <div2 id="sc06-1.008" n="The Bomb Plant on Trial" type="Article">
+            <div2 id="sc06-1008" n="The Bomb Plant on Trial" type="Article">
                <head>The Bomb Plant on Trial</head>
                <byline>By <docAuthor><name reg="Bowman, Sue">Sue Bowman</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 10-12</docDate>
@@ -1050,12 +1050,12 @@ education that occurred! The policemen listening to Dr. Johnson, the
 judge, the jury, people who will talk to the jury about what they
 heard, the list goes on."</p>
                <p>He concluded, "Maybe next time we will be acquitted as well."</p>
-            <div3 id="sc06-1.028" type="About">
+            <div3 id="sc06-1028" type="About">
                   <p>Sue Bowman lives in Columbia, South Carolina and writes
 regularly about Southern disarmament activities.</p>
                </div3>
                </div2>
-            <div2 id="sc06-1.009" n="Populist Revival in Mississippi?" type="Article">
+            <div2 id="sc06-1009" n="Populist Revival in Mississippi?" type="Article">
                <head>Populist Revival in Mississippi?</head>
                <byline>By <docAuthor><name reg="Pigott, Brad">Brad Pigott</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 12-17</docDate>
@@ -1574,7 +1574,7 @@ economic purposes on the black political agenda. Populism's attempt at
 this historical reconciliation, so long feared by Mississippi's inner
 circle of monied whites, need not concede any of the raw, redemptive
 power behind a movement rooted in the values of simple justice.</p>
-            <div3 id="sc06-1.029" type="About">
+            <div3 id="sc06-1029" type="About">
                   <p>Brad Pigott is a native of McComb, Mississippi who now
 lives and practices law in Jackson. His political apprenticeship came
 in 1976 77 as issues director of the final gubernatorial campaign of
@@ -1582,7 +1582,7 @@ Virginia populist Henry Howell. In 1982 he managed the reelection
 campaign of Congressman Wayne Dowdy.</p>
                </div3>
                </div2>
-            <div2 id="sc06-1.010" n="John N. Popham" type="Article">
+            <div2 id="sc06-1010" n="John N. Popham" type="Article">
                <head>"Covering History as it Broke"  <lb/>John N. Popham</head>
                <byline><docAuthor><name reg="">Harry Ashmore</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 17-19</docDate>
@@ -1706,13 +1706,13 @@ Nashville, then to Atlanta, where he enrolled in law school. I submit
 that only an abiding commitment to justice could have motivated the
 seventy-three-year old applicant for admission to the Georgia Bar you
 welcome tonight as a Life Fellow of the Southern Regional Council.</p>
-            <div3 id="sc06-1.030" type="About">
+            <div3 id="sc06-1030" type="About">
                   <p>Remarks by Harry S. Ashmore upon the installation of John
 Popham as a Life Fellow of the Southern Regional Council; Peachtree
 Plaza Hotel, Atlanta, November 12, 1983.</p>
                </div3>
                </div2>
-            <div2 id="sc06-1.011" n="Popham: 'Avoiding the Hit and Run Press'" type="Article">
+            <div2 id="sc06-1011" n="Popham: 'Avoiding the Hit and Run Press'" type="Article">
                <head>Popham: "Avoiding the Hit and Run Press"</head>
                <byline>By <docAuthor><name reg="Cooper, Eleanor Mccallie">Eleanor Mccallie Cooper</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 19-22</docDate>
@@ -1967,7 +1967,7 @@ people and to cover many, many issues. Other people did it better than
 I in New York; I was a junior reporter. But it prepared me for my role
 in the South. Only later could I see what I had done.</hi>
                </p>
-            <div3 id="sc06-1.031" type="About">
+            <div3 id="sc06-1031" type="About">
                   <p>Eleanor McCallie Cooper lives in Chattanooga, Tenn.
 Thanks to the Chattanooga-Hamilton County Bicentennial Library for
 permission to excerpt the interview with John Popham conducted on
@@ -1975,7 +1975,7 @@ August24, 1983, by Norman Bradley for the Chattanooga Oral History
 Project.</p>
                </div3>
                </div2>
-            <div2 id="sc06-1.012" n="Generations: An American Family" type="Review">
+            <div2 id="sc06-1012" n="Generations: An American Family" type="Review">
                <head>John Egerton. <title>Generations: An American
 Family.</title> University Press of Kentucky, 1983.</head>
                <byline>By <docAuthor><name reg="Campbell, Will D.">Will D. Campbell</name></docAuthor></byline>
@@ -2118,14 +2118,14 @@ that needs an index. For it is a Romance.</p>
                      <p>Read it aloud to someone you love if you like to see her laugh. But
 don't read it aloud to someone you love if it bothers you to see him
 cry. There is a lot of both in this good book.</p>
-            <div3 id="sc06-1.032" type="About">
+            <div3 id="sc06-1032" type="About">
                   <p>Will D. Campbell live in Mt. Juliet, Tennessee. He is the
 author of <title>Brother to a Dragonfly</title> and <title>The Glad
 River.</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc06-1.013" n="Voting for the 'Covert' War" type="Article">
+            <div2 id="sc06-1013" n="Voting for the 'Covert' War" type="Article">
                <head>Voting for the "Covert" War</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 4</docDate>

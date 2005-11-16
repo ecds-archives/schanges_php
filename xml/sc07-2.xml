@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc07-2.001" n="Southern Changes 7:2" type="Issue">
+         <div1 id="sc07-2001" n="Southern Changes 7:2" type="Issue">
             <head>Southern Changes.  Volume 7, Number 2, 1985</head>
             <p>
                <title>Southern Changes</title>.  Volume 7, Number 2,
 	       <date value="1985-05">1985</date></p>
-            <div2 id="sc07-2.002" n="Vengeance and Justice" type="Review">
+            <div2 id="sc07-2002" n="Vengeance and Justice" type="Review">
                <head>Vengeance and Justice</head>
 
                <byline>By <docAuthor><name reg="Hahn, Steven">Steven Hahn</name></docAuthor></byline>
@@ -259,13 +259,13 @@ students who wish to pursue the many lines of inquiry that Ayers has
 opened up. Without question  <title>Vengeance and Justice</title>
 helps to raise the discussion of Southern distinctiveness and the
 South's painful legacies to a new level of sophistication.</p>
-           <div3 id="sc07-2.022" type="About">
+           <div3 id="sc07-2022" type="About">
                   <p>Steve Hahn teaches history at the University of
 California at San Diego. He is author of <title>The Roots of Southern
 Populism.</title> (Oxford Univ. Press, 1983).</p>
                </div3>
                 </div2>
-            <div2 id="sc07-2.003" n="Victorian to Modernist Thought in the South, 1919 - 1945" type="Review">
+            <div2 id="sc07-2003" n="Victorian to Modernist Thought in the South, 1919 - 1945" type="Review">
                <head>Victorian to Modernist Thought in the South, 1919 - 1945"</head>
                   <byline>By <docAuthor><name reg="Hobson, Fred">Fred Hobson</name></docAuthor></byline>
                <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
@@ -382,14 +382,14 @@ voices. But what Singal does he does well indeed: he understands well
 most of the mainstream intellectual and literary currents of his
 period, and he has written a book filled with energy and
 originality.</p>
-            <div3 id="sc07-2.023" type="About">
+            <div3 id="sc07-2023" type="About">
                   <p>Fred Hobson teaches in the English Department of the
 University of Alabama at Tuscaloosa. His most recent book is
 <title>Tell About the South: The Southern Rage to Explain</title>
 (L.S.U. Press, 1983). </p>
                </div3>
                </div2>
-            <div2 id="sc07-2.004" n="Games Registrars Play" type="Article">
+            <div2 id="sc07-2004" n="Games Registrars Play" type="Article">
                <head>Games Registrars Play</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
@@ -486,12 +486,12 @@ many blacks and whites are registered to vote in the South's
 precincts, we should assume that officials continue to hide
 mischievous practices which prompted the passage of the Voting Rights
 Act twenty years ago.</p>
-            <div3 id="sc07-2.024" type="About">
+            <div3 id="sc07-2024" type="About">
                   <p>Steve Suitts is executive director of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc07-2.005" n="Crackdown in the Black Belt" type="Article">
+            <div2 id="sc07-2005" n="Crackdown in the Black Belt" type="Article">
                <head>Crackdown in the Black Belt: Not-So-Simple Justice</head>
                <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
                <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
@@ -1101,7 +1101,7 @@ Sumter they will get their two and we will get our four. One person,
 one vote and a surer chance at fairness for black and white."</p>
                <p>And so the importance of the current trial in Selma. </p>
             </div2>
-            <div2 id="sc07-2.006" n="Consorting with the Enemy" type="Article">
+            <div2 id="sc07-2006" n="Consorting with the Enemy" type="Article">
                <head>Consorting with the Enemy</head>
                <byline>By <docAuthor><name reg="Witt, Elise">Elise Witt</name></docAuthor></byline>
                <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
@@ -1493,7 +1493,7 @@ interests. As I sing, I look around the church and see faces from
 Scandinavia, Europe, from the Orient, from Africa and all the
 Americas.</p>
                <p>It is our last night in Nicaragua.</p>
-            <div3 id="sc07-2.026" type="About">
+            <div3 id="sc07-2026" type="About">
                   <p>"I, Ronald Reagan, President of the United States of America, find
 that the policies and actions of the Government of Nicaragua
 constitute an unusual and extraordinary threat to the national

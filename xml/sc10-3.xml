@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc10-3.001" n="Southern Changes 10:3" type="Issue">
+         <div1 id="sc10-3001" n="Southern Changes 10:3" type="Issue">
             <head>Southern Changes.  Volume 10, Number 3, 1988</head>
             <p>
                <title>Southern Changes</title>.  Volume 10, Number 3,
 	       <date value="1988-05">1988</date></p>
-            <div2 id="sc10-3.002" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc10-3002" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
                <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 16-17</docDate>
@@ -192,11 +192,11 @@ grow, too, in wisdom and gentleness.</p>
                   <hi rend="italic">*From a carbon copy in the Lillian Smith Papers,
 Special Collections, University of Georgia Libraries</hi>
                </p>
-            <div3 id="sc10-3.022" type="About">
+            <div3 id="sc10-3022" type="About">
                   <p>Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p></div3>
 </div2>
-            <div2 id="sc10-3.003" n="The Montgomery Bus Boycott" type="Review">
+            <div2 id="sc10-3003" n="The Montgomery Bus Boycott" type="Review">
                <head>
                   <title>The Montgomery Bus Boycott and the Women Who Started
 It</title> by Jo Ann Gibson Robinson. (Knoxville: University of
@@ -326,7 +326,7 @@ for the purpose of condemning the discriminators per se, but to remind
 people that the struggles for justice--racial, economic, and
 political--continue.</p>
             
-<div3 id="sc10-3.023" type="About">
+<div3 id="sc10-3023" type="About">
                   <p>Gregg Barak is chair of the Department of Criminal
 Justice at Alabama State University. He also serves as book review
 editor for <title>CRIME AND SOCIAL JUSTICE</title> and is the author
@@ -335,7 +335,7 @@ REFORM.</title>
                   </p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.004" n="How To Make $100,000 Farming 25 Acres" type="Review">
+            <div2 id="sc10-3004" n="How To Make $100,000 Farming 25 Acres" type="Review">
                <head>
                   <title>How To Make $100,000 Farming 25 Acres</title> by Booker
 T. Whatley. (Emmaus, Pa.: Rodale Press, 1987. 180 Pages. $24.95
@@ -479,12 +479,12 @@ personal goal is no more modest than the title of his book. "I want
 to save 100,000 small farms, make them productive and economically
 viable. Then I'll be satisfied."</p>
               
-            <div3 id="sc10-3.024" type="About">
+            <div3 id="sc10-3024" type="About">
                   <p>Lyn Frazer is an amateur horticulturist and a bookseller
 in Montgomery, Ala.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.005" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc10-3005" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 24</docDate>
@@ -550,12 +550,12 @@ is one of the better trial lawyers anywhere.</p>
                <p>I look forward to working with him again. I do not look forward to
 working against him.</p>
                <p>Peace.</p>
-            <div3 id="sc10-3.025" type="About">
+            <div3 id="sc10-3025" type="About">
                   <p>J.L. Chestnut, Jr., is an Alabama trial lawyer and
 writer.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.006" n="A Time to Cast Away Stones" type="Article">
+            <div2 id="sc10-3006" n="A Time to Cast Away Stones" type="Article">
                <head>A Time to Cast Away Stones</head>
                <byline>By <docAuthor><name reg="Waller, Kathryn J.">Kathryn J. Waller</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 10-11</docDate>
@@ -678,12 +678,12 @@ done. When the dust cleared over 3,500 farmers, most with small
 holdings, had received substantial aid. The program was more timely,
 and of greater benefit to small farmers, than any drought-relief
 effort of the government.</p>
-            <div3 id="sc10-3.026" type="About">
+            <div3 id="sc10-3026" type="About">
                   <p>Kathryn J. Waller is executive director of the Rural
 Advancement Fund.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.007" n="Dollars and Schools" type="Article">
+            <div2 id="sc10-3007" n="Dollars and Schools" type="Article">
                <head>Dollars and Schools: Resource Development</head>
                <byline>By <docAuthor><name reg="Rosenfeld, Stuart A.">Stuart. Rosenfeld</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 12-14</docDate>
@@ -893,14 +893,14 @@ minorities.</p>
 quality. Equal opportunities are equally important, and the pot of
 federal dollars, as small as it has been, has been directed at equity
 and is far more important than its size indicates.</p>
-            <div3 id="sc10-3.027" type="About">
+            <div3 id="sc10-3027" type="About">
                   <p>Stuart Rosenfeld is director of the Southern Technology
 Council of the Southern Growth Policies Board This article is adapted
 from remarks he made at the annual meeting of the Southern Regional
 Council in November 1987.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.008" n="Time to Revitalize" type="Article">
+            <div2 id="sc10-3008" n="Time to Revitalize" type="Article">
                <head>'Time to Revitalize' Southern Labor</head>
                <byline>By <docAuthor><name reg="Trifiro, Paul
 	       McLennan">Paul McLennan</name> and <name reg="Trifiro, Vicki">Vicki Trifiro</name></docAuthor></byline>
@@ -989,13 +989,13 @@ Justice for Janitors campaign and with the Teamsters' help for the
 homeless.</p>
                <p>"Community-wide problems call for community-wide solutions,"
 said Linda Riggins of SEIU Local 679.</p>
-            <div3 id="sc10-3.028" type="About">
+            <div3 id="sc10-3028" type="About">
                   <p>Paul McLennan is president of the Southern Labor Press
 Association Vicki Trifiro is campaign director for the Public
 Assistance Coalition.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.009" n="Just a Little Guy Who Got Hit by the Arms Truck" type="Article">
+            <div2 id="sc10-3009" n="Just a Little Guy Who Got Hit by the Arms Truck" type="Article">
                <head>Just a Little Guy Who Got Hit by the Arms Truck</head>
                <byline>By <docAuthor><name reg="Guthey, Eric">Eric Guthey</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 3</docDate>
@@ -1042,7 +1042,7 @@ bastards," he says. "But people have to understand what is
 going on here. They lied to the Senate, they lied to the public, and
 they're still doing whatever they please."</p>
             </div2>
-            <div2 id="sc10-3.010" n="Contras in Dixie" type="Article">
+            <div2 id="sc10-3010" n="Contras in Dixie" type="Article">
                <head>Contras in Dixie</head>
                <byline>By <docAuthor><name reg="Guthey, Eric">Eric Guthey</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 1-6</docDate>
@@ -1437,12 +1437,12 @@ conduct paramilitary operations in our own back yard.</p>
 <title>LA PENCA REPORT</title> by Avirgan and Honey, $8; Contragate
 Video: <title>"The Shadow Government,"</title> $20. Order from
 Christic Institute, 1324 N. Capitol St., NW., Washington, DC 20002.</p>
-            <div3 id="sc10-3.030" type="About">
+            <div3 id="sc10-3030" type="About">
                   <p>Eric Guthey is a student in the Graduate Institute of
 Liberal Arts at Emory University.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.011" n="Cubans in Limbo" type="Article">
+            <div2 id="sc10-3011" n="Cubans in Limbo" type="Article">
                <head>Cubans in Limbo</head>
                <byline>By <docAuthor><name reg="Dolman, Joe">Joe Dolman</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 8-9</docDate>
@@ -1592,11 +1592,11 @@ happened."</p>
                <p>How can we recognize the fair position when it counts? We can start
 by adhering to constitutional principles-even when our instincts tell
 us to panic. </p>
-            <div3 id="sc10-3.031" type="About">
+            <div3 id="sc10-3031" type="About">
                   <p>Joe Dolman writes editorials for the ATLANTA CONSTITUTION. His observations on the Cubans in federal prisons earned a nomination for the Pulitzer Prize.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.012" n="Matewan" type="Review">
+            <div2 id="sc10-3012" n="Matewan" type="Review">
                <head>Matewan</head>
                   
                <byline>By <docAuthor><name reg="DAVID, JOHN P.">JOHN P. DAVID</name></docAuthor></byline>
@@ -1737,7 +1737,7 @@ scene and is still being fought
 today. One can view a modern-day version of the same struggle in the
 same Mingo County in the Appalachian documentary on the A. T. Massey/
 UMWA conflict titled, MINE WAR ON BLACKBERRY CREEK.</p>
-            <div3 id="sc10-3.032" type="About">
+            <div3 id="sc10-3032" type="About">
                   <p>John David is professor and chairman of
 the social sciences department at West Virginia Institute of
 Technology, Montgomery, West Virginia.</p>
@@ -1747,7 +1747,7 @@ run but is available on videotape at most rental outlets and is
 scheduled for cable distribution around the end of 1988.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-3.013" n="Labor, Environmental Coalition Wins Bill Passage" type="Article">
+            <div2 id="sc10-3013" n="Labor, Environmental Coalition Wins Bill Passage" type="Article">
                <head>Labor, Environmental Coalition Wins Bill Passage</head>
                <byline>By <docAuthor><name reg="Acuff, Stewart">Stewart Acuff</name></docAuthor></byline>
                <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 16</docDate>

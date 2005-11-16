@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc06-3.001" n="Southern Changes 6:3" type="Issue">
+         <div1 id="sc06-3001" n="Southern Changes 6:3" type="Issue">
             <head>Southern Changes.  Volume 6, Number 3, 1984</head>
             <p>
                <title>Southern Changes</title>.  Volume 6, Number 3,
 	       <date value="1984-06">1984</date></p>
-            <div2 id="sc06-3.002" n="The Second Greensboro Verdict" type="Article">
+            <div2 id="sc06-3002" n="The Second Greensboro Verdict" type="Article">
                <head>The Second Greensboro Verdict</head>
                <byline>By <docAuthor><name reg="Reston, James, Jr.">James Reston, Jr.</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 1-3</docDate>
@@ -234,7 +234,7 @@ commissions.</p>
                <p>The Greensboro tragedy has a lot to do with the American South in
 the late 1970s, but it also has much to do with America itself in the
 mid-1980s.</p>
-            <div3 id="sc06-3.022" type="About">
+            <div3 id="sc06-3022" type="About">
                   <p>James Reston, Jr. lives in Hume, Virginia. His film
 <title>"88 Seconds in Greensboro"</title> appeared in the Public
 Broadcasting System's "Frontline" series. He is the author of
@@ -242,7 +242,7 @@ Broadcasting System's "Frontline" series. He is the author of
 MacMillan.</p>
                </div3>
                </div2>
-            <div2 id="sc06-3.003" n="Government in South Carolina" type="Article">
+            <div2 id="sc06-3003" n="Government in South Carolina" type="Article">
                <head>Government in South Carolina: Taking Care of Business</head>
                <byline>By <docAuthor><name reg="Walser, Jim">Jim Walser</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 3-13</docDate>
@@ -1001,14 +1001,14 @@ new industry.</p>
                <p>Business lobbyists have been after the General Assembly for years
 to approve the exemption. This year, it looked like it just might
 pass.</p>
-            <div3 id="sc06-3.023" type="About">
+            <div3 id="sc06-3023" type="About">
                   <p>Jim Walser, thirty-four, has been a member of The
 Charlotte <title>Observer's</title> bureau in Columbia since
 1979. From 1972 until l977, he was managing editor of <title>Osceola
 Newsweekly</title>, also based in Columbia.</p>
                </div3>
                </div2>
-            <div2 id="sc06-3.004" n="Voting Rights in Edgefield County" type="Article">
+            <div2 id="sc06-3004" n="Voting Rights in Edgefield County" type="Article">
                <head>Voting Rights in Edgefield County</head>
                <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 13-14</docDate>
@@ -1136,12 +1136,12 @@ blacks have been excluded from the electorate and where the Voting
 Rights Act has been ignored, but it is a positive step in the
 direction of enforcing the Fifteenth Amendment and realizing its
 promise of equal political participation for all citizens.</p>
-            <div3 id="sc06-3.024" type="About">
+            <div3 id="sc06-3024" type="About">
                   <p>Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union.</p>
                </div3>
                </div2>
-            <div2 id="sc06-3.005" n="Roadside Theater" type="Article">
+            <div2 id="sc06-3005" n="Roadside Theater" type="Article">
                <head>Roadside Theater</head>
                <byline>By <docAuthor><name reg="Hatfield, Sharon">Sharon Hatfield</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 14-18</docDate>
@@ -1514,12 +1514,12 @@ of a particular ethnic group like the Native Americans," Cocke
 maintains. "Appalachian people are struggling with the same things as
 people in other parts of the country. More than anything, it's a
 question of finding a path through life."</p>
-            <div3 id="sc06-3.025" type="About">
+            <div3 id="sc06-3025" type="About">
                   <p>Sharon Hatfield is a free lance writer who lives in
 Virginia.</p>
                </div3>
                </div2>
-            <div2 id="sc06-3.006" n="Morality and the MX" type="Article">
+            <div2 id="sc06-3006" n="Morality and the MX" type="Article">
                <head>Morality and the MX</head>
                <byline>By <docAuthor><name reg="Sitton, Claude">Claude Sitton</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 18, 20</docDate>
@@ -1594,13 +1594,13 @@ perspective. Unlike them, Bernardin knows that Americans no longer
 live in a world in which war can be used as a tool of foreign policy,
 for that could lead to the most immoral of all acts, the destruction
 of humankind.</p>
-            <div3 id="sc06-3.026" type="About">
+            <div3 id="sc06-3026" type="About">
                   <p>Claude Sitton is editor of the Raleigh <title>News and
 Observer</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc06-3.007" n="Southerners in Congress Save the MX" type="Article">
+            <div2 id="sc06-3007" n="Southerners in Congress Save the MX" type="Article">
                <head>Southerners in Congress Save the MX</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, p. 19</docDate>
@@ -2250,7 +2250,7 @@ in support of the MX. Vote #1 was taken 11/1/1983; vote #2 on
                   </table>
                </p>
             </div2>
-            <div2 id="sc06-3.008" n="Benjamin Elijah Mays 1894-1984" type="Article">
+            <div2 id="sc06-3008" n="Benjamin Elijah Mays 1894-1984" type="Article">
                <head>Benjamin Elijah Mays 1894-1984</head>
                <byline>By <docAuthor><name reg="Cook, Samuel DuBois">Samuel DuBois Cook</name></docAuthor></byline>
                <docDate value="1984-06">Vol. 6, No. 3, 1984, pp. 21-24</docDate>
@@ -2441,7 +2441,7 @@ God?"</p>
                <p>So, our very special Dr. Mays, our beloved Bennie Ma. our "Buck
 Bennie," who has meant so much to so many, we mournfully and yet with
 joy, say: Hail, thanks, love and farewell.</p>
-               <div3 id="sc06-3.028" type="About">
+               <div3 id="sc06-3028" type="About">
                   <p>Samuel DuBois Cook is President of Dillard University and
 a member of the executive committee of the Southern Regional
 Council. Dr. Cook's remarks are excerpted from his eulogy to
@@ -2449,7 +2449,7 @@ Dr. Mays.</p>
                   <p>Excerpts from the eulogy by Samuel DuBois Cook, March 31,
 1984.</p>
                </div3>
-	       <div3 id="sc06-3.009" n="Excerpt from funeral tribute to Dr. Mays" type="Excerpt">
+	       <div3 id="sc06-3009" n="Excerpt from funeral tribute to Dr. Mays" type="Excerpt">
                   <byline>By <docAuthor><name reg="Gloster, Hugh M.">Hugh M. Gloster </name></docAuthor></byline>
                   <docDate value="1984-06">Vol. 6, No. 3, 1984, p. 22</docDate>
                   <p>Dr. Mays had his "finest hour" as President of Morehouse College,
@@ -2482,11 +2482,11 @@ Michael Lomax was elected as the first Black Chairman of the Fulton
 County Commission, and Horace Ward was appointed as the first black
 Federal Judge in this state.</p>
                </div3>
-               <div3 id="sc06-3.029" type="About">
+               <div3 id="sc06-3029" type="About">
                      <p>--From the funeral tribute to Dr. Mays by Hugh
 M. Gloster, President of Morehouse College.</p>
                   </div3>
-                  <div3 id="sc06-3.010" n="Born to Rebel" type="Excerpt">
+                  <div3 id="sc06-3010" n="Born to Rebel" type="Excerpt">
                   <byline><docAuthor><name reg="">By BENJAMIN E. MAYS </name></docAuthor></byline>
                   <docDate value="1984-06">Vol. 6, No. 3, 1984, p. 23</docDate>
                   <p>As a child my life was one of frustration and doubt. Nor did the
@@ -2562,7 +2562,7 @@ getting an education. Afterward I was sorry that I had prayed that
 way, for if God had answered my prayers as spoken, Father would have
 been the first obstacle to be moved out.</p>
                </div3>
-            <div3 id="sc06-3.020" type="About">
+            <div3 id="sc06-3020" type="About">
                      <p>--Benjamin E. Mays, <title>Born To Rebel</title>
 (1971).</p>
                   </div3>

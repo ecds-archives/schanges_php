@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc05-3.001" n="Southern Changes 5:3" type="Issue">
+         <div1 id="sc05-3001" n="Southern Changes 5:3" type="Issue">
             <head>Southern Changes.  Volume 5, Number 3, 1983</head>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 3,
 	       <date value="1983-05">1983</date></p>
-            <div2 id="sc05-3.002" n="South Without End" type="Article">
+            <div2 id="sc05-3002" n="South Without End" type="Article">
                <head>South Without End</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name> and <name reg="Tullos,  Allen"> Allen Tullos</name></docAuthor></byline>
                <docDate value="1983-05">Vol. 5, No. 3, 1983, pp. 1-2</docDate>
@@ -188,7 +188,7 @@ in the region. Southerners, especially the historically disfranchised,
 must drive a hard bargain if substance is not to be sacrificed to
 form.</p>
             </div2>
-            <div2 id="sc05-3.003" n="Striving Toward Democracy" type="Article">
+            <div2 id="sc05-3003" n="Striving Toward Democracy" type="Article">
                <head>Striving Toward Democracy.  Report of the Southern Regional
 Council, 1980-1982</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
@@ -1219,7 +1219,7 @@ efforts and reaffirm our resolution to continue the search until the
 South can offer to its own people and its neighbors elsewhere the
 benefits of both beliefs and practices.</p>
             </div2>
-            <div2 id="sc05-3.004" n="Building On Fire" type="Article">
+            <div2 id="sc05-3004" n="Building On Fire" type="Article">
                <head>Building On Fire</head>
                <byline>By <docAuthor><name reg="Derian, Patricia">Patricia Derian</name></docAuthor></byline>
                <docDate value="1983-05">Vol. 5, No. 3, 1983, p. 3</docDate>
@@ -1270,12 +1270,12 @@ with each man to determine what he'd do if he were president. And
 we're going to have to know why he's making the choices he offers,
 what the principles are which underlie them. The time and place for us
 to find out are in the long campaign.</p>
-            <div3 id="sc05-3.024" type="About">
+            <div3 id="sc05-3024" type="About">
                   <p>Patricia Derian is a past president of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc05-3.005" n="Blacks to Gain Senate Seats In South Carolina" type="Article">
+            <div2 id="sc05-3005" n="Blacks to Gain Senate Seats In South Carolina" type="Article">
                <head>Blacks to Gain Senate Seats In South Carolina</head>
                <byline>By <docAuthor><name reg="Bass, Jack">Jack Bass</name></docAuthor></byline>
                <docDate value="1983-05">Vol. 5, No. 3, 1983, pp. 3-4</docDate>
@@ -1391,7 +1391,7 @@ senate--boundaries that reflected delicate political
 compromise. Although black representation in the senate now seems
 assured, it appears that once again the federal courts may resolve
 South Carolina's reapportionment dispute.</p>
-            <div3 id="sc05-3.025" type="About">
+            <div3 id="sc05-3025" type="About">
                   <p>Jack Bass is director of American South Special Projects
 at the University of South Carolina and co-author, with Walter
 DeVries, of <title>The Transformation of Southern

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
-<TEI.2 id="sc01-2.000">
+<TEI.2>
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -61,13 +61,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
          </change>
       </revisionDesc>
    </teiHeader>
-   <text id="sc01-2.100">
-      <body id="sc01-2.101"><div1 id="sc01-2.001" n="Southern Changes 1:2" type="Issue">
+   <text>
+      <body><div1 id="sc01-2001" n="Southern Changes 1:2" type="Issue">
 <head>Southern Changes. Volume 1, Number 2, 1978</head>
 <p>
 <title>Southern Changes</title>. Volume 1, Number 2, <date value="1978-10">1978</date></p>
 
-<div2 id="sc01-2.007" n="Interchange: In This Issue"
+<div2 id="sc01-2007" n="Interchange: In This Issue"
 type="Article">
 <head>Interchange: In This Issue</head>
 <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
@@ -102,7 +102,7 @@ to Voter Registration," the VEP head, herself a symbol of change - one of the fi
 <p>Finally, in the next few days and weeks, the South will have still another chance to redress the many years of denied opportunities to its women and Blacks. In a unique opportunity that probably comes only once in a century, more than 150 new federal judges will be appointed throughout the nation. Sixty of them will be added to the federal bench in the South, In "Soapbox," another of our regular departments, Steve Suitts examines the process by which these judges will be appointed. Under the patronage system that is in operation in the selection of the nominees, it is not very hopeful for minorities. Blacks and women will again be locked out unless Southerners of good will band together to make the changes happen. On this score, there is still . . . hope.</p>
 </div2>
 
-<div2 id="sc01-2.004" n="Hilldrup's Dilemma Is Not All Black And White"
+<div2 id="sc01-2004" n="Hilldrup's Dilemma Is Not All Black And White"
 type="Article">
 <head>Hilldrup's Dilemma Is Not All Black And White</head>
 <byline>By <docAuthor><name reg="Gates, Harvey">Harvey Gates</name></docAuthor></byline>
@@ -176,9 +176,9 @@ comments seriously. Of course, neither of us will come up with a
 solution, but we are both concerned parents and on this score, at
 least, we are ahead of most of the others.</p>
 
-<div3 id="sc01-2.024" type="About"><p>Harvey Gates, a columnist for the <title>Atlanta Voice Newspaper</title>, was the director of the Civil Agression Study Team at the Center for Research and Social Change at Emory University from 1966-69.</p></div3></div2>
+<div3 id="sc01-2024" type="About"><p>Harvey Gates, a columnist for the <title>Atlanta Voice Newspaper</title>, was the director of the Civil Agression Study Team at the Center for Research and Social Change at Emory University from 1966-69.</p></div3></div2>
 
-<div2 id="sc01-2.002" n="The Courtesy of Becoming A Federal Judge"
+<div2 id="sc01-2002" n="The Courtesy of Becoming A Federal Judge"
 type="Article">
 <head>The Courtesy of Becoming a Federal Judge</head>
 <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts </name></docAuthor></byline>
@@ -242,7 +242,7 @@ as the one which suited Governor Coleman and his supporters years
 ago.</p>
 </div2>
 
-<div2 id="sc01-2.003" n="Vivian Malone Jones and the VEP: From Integration to Voter Registration" type="Article">
+<div2 id="sc01-2003" n="Vivian Malone Jones and the VEP: From Integration to Voter Registration" type="Article">
 <head>Vivian Malone Jones and the VEP: From Integration to Voter Registration</head>
 <byline>By <docAuthor><name reg="Bledsoe, Christena">Christena Bledsoe</name></docAuthor></byline>
 <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 8-10</docDate>
@@ -356,13 +356,13 @@ that picked cotton now can pick our public officials," and discusses her work. S
 as when she won the right to enter the University of Alabama. She notes that James Hood, who entered with her, recently said he would not go through the harrowing experience again.</p>
 
 <p>"I feel just the opposite. If I had to do it again, I would. There is absolutely no question in my mind ... I couldn't accept that condition anymore today than I could back in 1961 when Wallace was saying I couldn't go to that school."</p>
-<div3 id="sc01-2.023" type="About">
+<div3 id="sc01-2023" type="About">
 <p>Christena Bledsoe, a former newspaper reporter, is a free-lance
 writer living in Atlanta.</p>
 </div3>
 </div2>
 
-<div2 id="sc01-2.005" n="Atlanta Metro School Suit: A Search for Equality"
+<div2 id="sc01-2005" n="Atlanta Metro School Suit: A Search for Equality"
 type="Article">
 <head>Atlanta Metro School Suit: A Search for Equality</head>
 <byline>By <docAuthor><name reg="Cross-Briscoe, Marcia">Marcia Cross-Briscoe</name></docAuthor></byline>
@@ -417,12 +417,12 @@ address issues which were not solved by the Compromise of 1973. In
 this respect it is trying to promote change for the better and a
 future for education in the South which is based on innovations in
 learning rather than placement of bodies.</p>
-<div3 id="sc01-2.025" type="About"><p>Marcia Cross-Briscoe is a recent graduate of Emory University, majoring in English and Black Studies. She resides in Atlanta.
+<div3 id="sc01-2025" type="About"><p>Marcia Cross-Briscoe is a recent graduate of Emory University, majoring in English and Black Studies. She resides in Atlanta.
 </p></div3>
 
 </div2>
 
-<div2 id="sc01-2.006" n="Dooty's Last Stand"
+<div2 id="sc01-2006" n="Dooty's Last Stand"
 type="Article">
 <head>Dooty's Last Stand</head>
 <byline>By <docAuthor><name reg="Bledsoe, Jerry">Jerry Bledsoe</name></docAuthor></byline>
@@ -508,12 +508,12 @@ mountain now, and Luemer looked at the electric lines that still
 dangled, unconnected on the side of the house and said she expected
 that surely the men would come tomorrow and cut on the power so she
 wouldn't have to put up with that hot kitchen again.</p>
-<div3 id="sc01-2.026" type="About"><p>
+<div3 id="sc01-2026" type="About"><p>
 Jerry Bledsoe, a free-lance writer and a staff columnist for the
 Charlotte Observer, has served as a contributing editor for <title>Esquire</title> Magazine. He resides in Asheboro. North Carolina.</p></div3>
 </div2>
 
-<div2 id="sc01-2.008" n="'My Soul Is Rested' Stirs Unrest In Marketing"
+<div2 id="sc01-2008" n="'My Soul Is Rested' Stirs Unrest In Marketing"
 type="Article">
 <head>'My Soul Is Rested' Stirs Unrest In Marketing</head>
 <byline>By <docAuthor><name reg="Cutler, Bill">Bill Cutler</name></docAuthor></byline>
@@ -602,7 +602,7 @@ movement. I can speculate that the fact that one of the major sit-ins
 of the civil rights movement took place in Rich's about 20 paces from
 the book department at a time when Rich's was defending segregation
 may have been a factor in contributing to that negative feeling."</p>
-<div3 id="sc01-2.028" type="About"><p>Bill Cutler, a frequent writer on Atlanta and Southeast politics, is
+<div3 id="sc01-2028" type="About"><p>Bill Cutler, a frequent writer on Atlanta and Southeast politics, is
 the associate editor of <title>Brown's Guide to Georgia</title>.</p>
 
 <p><title>My Soul Is Rested</title> can be ordered from the
@@ -612,7 +612,7 @@ Ala.; Old New York Book Store, Atlanta, Ga.; Ansley Mall Book Store,
 Atlanta; and Davison's Department Store, Atlanta.</p></div3>
 </div2>
 
-<div2 id="sc01-2.009" n="THE CHAINS THAT BIND: ERA and the Southern Black Woman" type="Article">
+<div2 id="sc01-2009" n="THE CHAINS THAT BIND: ERA and the Southern Black Woman" type="Article">
 <head>THE CHAINS THAT BIND: ERA and the Southern Black Woman</head>
 <byline>By <docAuthor><name reg="Cole, Sylvia Crudup">Sylvia Crudup Cole</name></docAuthor></byline>
 <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 19-21</docDate>
@@ -675,13 +675,13 @@ discriminatory practices prevalent in the job market. The South can
 ill afford to avoid or oppose the issue of equal rights. ERA can be a
 valuable tool for equality on all fronts and it is a movement which
 the Southern Black woman must join and embrace fully.</p>
-<div3 id="sc01-2.029" type="About"><p>Sylvia Crudup Cole is an
+<div3 id="sc01-2029" type="About"><p>Sylvia Crudup Cole is an
 education consultant with the State Department of Public Instruction
 in Raleigh, North Carolina.</p>
 </div3>
 </div2>
 
-<div2 id="sc01-2.010" n="The Unchanged Patterns of Changing Migration" type="Article">
+<div2 id="sc01-2010" n="The Unchanged Patterns of Changing Migration" type="Article">
 <head>The Unchanged Patterns of Changing Migration</head>
 <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
 <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 21-23</docDate>
@@ -738,7 +738,7 @@ one hand, a small child in the other, a Black woman walks to the
 counter. She is in Atlanta. She has arrived.</p>
 </div2>
 
-<div2 id="sc01-2.011" n="ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport" type="Article">
+<div2 id="sc01-2011" n="ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport" type="Article">
 <head>ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport</head>
 <byline>By <docAuthor><name reg="Miller, Dave">Dave
 Miller</name></docAuthor> and <docAuthor><name reg="Kenna, Gordon">Gordon Kenna</name></docAuthor></byline>

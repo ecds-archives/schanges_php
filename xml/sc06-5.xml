@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc06-5.001" n="Southern Changes 6:5" type="Issue">
+         <div1 id="sc06-5001" n="Southern Changes 6:5" type="Issue">
             <head>Southern Changes.  Volume 6, Number 5, 1984</head>
             <p>
                <title>Southern Changes</title>.  Volume 6, Number 5,
 	       <date value="1984-10">1984</date></p>
-            <div2 id="sc06-5.002" n="The Present Danger" type="Article">
+            <div2 id="sc06-5002" n="The Present Danger" type="Article">
                <head>The Present Danger</head>
                <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
                <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 1-3</docDate>
@@ -197,13 +197,13 @@ Right or business allies are perceived as merely racist or excessively
 frugal, we obscure the real threat his reelection will mean to the
 poor, to women, to minorities--and to our hope for democratic
 society.</p>
-            <div3 id="sc06-5.022" type="About">
+            <div3 id="sc06-5022" type="About">
                   <p>Alex Willingham lives in Shreveport, Louisiana. He is
 editor of the <title>Voting Rights Review.</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc06-5.003" n="Wolves in Robes" type="Article">
+            <div2 id="sc06-5003" n="Wolves in Robes" type="Article">
                <head>Wolves in Robes</head>
                <byline>By <docAuthor><name reg="Crowther, Hal">Hal Crowther</name></docAuthor></byline>
                <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 3-4</docDate>
@@ -340,7 +340,7 @@ daughter and the doctor who has the reckless courage to give her an
 abortion and put all three of you behind bars. They've as much as
 promised. You may or may not have a full belly, but that's going to be
 expensive swill.</p>
-            <div3 id="sc06-5.023" type="About">
+            <div3 id="sc06-5023" type="About">
                   <p>Hal Crowther, principal columnist for <title>Spectator
 Magazine</title> in Raleigh, North Carolina, formerly covered law and
 education for <title>Time</title>, and media for
@@ -349,7 +349,7 @@ scriptwriter, he lives in Pittsboro (NC) and teaches courses at Duke
 University.</p>
                </div3>
                </div2>
-            <div2 id="sc06-5.004" n="Changing Decades" type="Article">
+            <div2 id="sc06-5004" n="Changing Decades" type="Article">
                <head>Changing Decades</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 4-8</docDate>
@@ -719,12 +719,12 @@ Southern Regional Council has devoted its energies. With increased
 capacities the Council will continue, as one of its founders, Ralph
 McGill, said, "to be a bunch of renegades who insist upon telling the
 truth."</p>
-            <div3 id="sc06-5.024" type="About">
+            <div3 id="sc06-5024" type="About">
                   <p>Steve Suitts is the executive director of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc06-5.005" n="The Women, the Union and the Vanity Factory" type="Article">
+            <div2 id="sc06-5005" n="The Women, the Union and the Vanity Factory" type="Article">
                <head>Time and Time Again: The Women, the Union and the Vanity
 Factory</head>
                <byline>By <docAuthor><name reg="Mclendon, Paula">Paula Mclendon</name></docAuthor></byline>
@@ -1595,12 +1595,12 @@ happen in six months. It won't happen in a year. All the company had
 to do was wait long enough.</p>
                      <p>Sarah: It happened once. Even though it's no longer there, it
 happened after all. That's why I know it can happen again.</p>
-            <div3 id="sc06-5.025" type="About">
+            <div3 id="sc06-5025" type="About">
                   <p>Paula Mclendon is a native of Jackson, Alabama who now
 lives in Birmingham.</p>
                </div3>
                </div2>
-            <div2 id="sc06-5.006" n="The Union Comes to Dooly County" type="Article">
+            <div2 id="sc06-5006" n="The Union Comes to Dooly County" type="Article">
                <head>The Union Comes to Dooly County</head>
                <byline>By <docAuthor><name reg="Ransom, Dave">Dave Ransom</name></docAuthor></byline>
                <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 17-18</docDate>
@@ -1705,7 +1705,7 @@ can also win a contract.</p>
 wish them to do unto you." If management can live by that rule, she
 says, they will earn the goodwill of their workers and all--including
 patients--will benefit.</p>
-            <div3 id="sc06-5.026" type="About">
+            <div3 id="sc06-5026" type="About">
                   <p>Dave Ransom is editor of <title>Service
 Employee</title>.</p>
                   <p>Editor's note: The two-year long campaign of the Service Employees
@@ -1726,7 +1726,7 @@ the South, where Beverly Enterprises has dozens of nursing
 homes.</p>
                </div3>
                </div2>
-            <div2 id="sc06-5.007" n="Tending Our Gardens" type="Article">
+            <div2 id="sc06-5007" n="Tending Our Gardens" type="Article">
                <head>Tending Our Gardens</head>
                <byline>By <docAuthor><name reg="Hatley, Tom">Tom Hatley</name></docAuthor></byline>
                <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 18-24</docDate>
@@ -2149,7 +2149,7 @@ place. Like the Afro-Americans on Jamaica who "took care to preserve
 and propagate such vegetables as grew in their own country, to use
 them as they saw occasion," we should' not forget to tend our own past
 in looking toward our region's agricultural future.</p>
-            <div3 id="sc06-5.027" type="About">
+            <div3 id="sc06-5027" type="About">
                   <p>Tom Hatley lives in Durham, North Carolina. His article
 "Forestry and Equity" appeared in <title>Southern Changes</title> for
 July/August, 1983.</p>

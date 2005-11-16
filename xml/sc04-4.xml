@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc04-4.001" n="Southern Changes 4:4-5" type="Issue">
+         <div1 id="sc04-4001" n="Southern Changes 4:4-5" type="Issue">
             <head>Southern Changes.  Volume 4, Number 4-5, 1982</head>
             <p>
                <title>Southern Changes</title>.  Volume 4, Number 4-5,
 	       <date value="1982-08">1982</date></p>
-            <div2 id="sc04-4.002" n="Black Political Participation in the 1980's" type="Article">
+            <div2 id="sc04-4002" n="Black Political Participation in the 1980's" type="Article">
                <head>Black Political Participation in the 1980's: Challenged by
 Conservatism</head>
                <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
@@ -711,7 +711,7 @@ Unfulfilled Goals</title> (U.S. Commission on Civil Rights, 1981)
 Carolina</title> (State Advisory Committees, U.S. Commission on Civil
 Rights, 1982); Raymond Brown, <title>The State of Voting Rights in
 Georgia in 1982</title> (Atlanta: Southern Regional Council, 1982).</p>
-            <div3 id="sc04-4.022" type="About">
+            <div3 id="sc04-4022" type="About">
                   <p>Alex Willingham has been Director of the Revenue Sharing
 Enforcement Project of the American Civil Liberties Union. He will
 begin teaching political science at Dillard University in New Orleans
@@ -720,7 +720,7 @@ publication of the National Conference of Black Political
 Scientists.</p>
                </div3>
                </div2>
-            <div2 id="sc04-4.003" n="Shaping the South's Pre-war Economy" type="Article">
+            <div2 id="sc04-4003" n="Shaping the South's Pre-war Economy" type="Article">
                <head>Daddy's Missile: Shaping the South's Pre-war Economy</head>
                <byline>By <docAuthor><name reg="Schlesinger, Tom">Tom Schlesinger</name></docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate>
@@ -745,7 +745,7 @@ military-industrial partners. Appreciating Harvard's justly famous
 capacity for organizing consensus among elites, the industrial
 mobilization lobby humbly described its gathering as an attempt to
 "arrive at the boundaries within which reasonable people can be
-expected to disagree." <ref target="sc04-4.004.note1">1</ref>
+expected to disagree." <ref target="sc04-4004.note1">1</ref>
                </p>
                <p>While the American Academy's declaration of war concluded with a
 scheduled "sherry and sandwich on the run," the state of North
@@ -783,7 +783,7 @@ does have a "foreign" producer problem--at least eighty-five percent
 of all military semiconductors, for example, are made in Southeast
 Asia by the rabidly anti-union Texas Instruments and other U.S. firms
 which steadfastly refuse to repatriate their manufacturing
-facilities. <ref target="sc04-4.004.note2">2</ref>
+facilities. <ref target="sc04-4004.note2">2</ref>
                </p>
                <p>The half-truths and genuine whoppers animating the industrial
 preparedness movement rest upon the pursuit of more fundamental
@@ -832,7 +832,7 @@ winning and the other losing. If money weren't a consideration, one
 might lay the motivation of Ikle and his team to simple nostalgia for
 U.S. industrialism's "Audie Murphy" phase. "Looking back at those
 years," Ikle rhapsodized in the <title>Wall Street Journal,</title>
-"it seems we were almost ten feet tall." <ref target="sc04-4.004.note3">3</ref>
+"it seems we were almost ten feet tall." <ref target="sc04-4004.note3">3</ref>
                </p>
                <p>With the mutually supporting rationalizations of long war and
 industrial "erosion" incorporated into policy and 
@@ -1039,7 +1039,7 @@ recovery-oriented "free market" military spending. Budget director
 David Stockman delivered an official statement of opposition by
 defending "the Defense buildup, tax reductions, improved depreciation
 schedules. . . and reduction of regulatory burdens" as "broad measures
-to strengthen the economy."<ref target="sc04-4.004.note6">6</ref> Within a few days 5540 is scheduled to go
+to strengthen the economy."<ref target="sc04-4004.note6">6</ref> Within a few days 5540 is scheduled to go
 to the House floor for a vote. Despite the Administration's public
 posture. Staffers from the bill's parent Economic Stabilization
 Subcommittee say that its chances "look very good."</p>
@@ -1070,7 +1070,7 @@ commences its weapons-buying binge, those procurement ratios will be
 reversed. Thus, the Northeast-Midwest Institute's strategy of going
 after more Maybank-related spending in the short term and
 "geographically-distributed," HR 5540-subsidized weapons spending in
-the long term. <ref target="sc04-4.004.note7">7</ref>
+the long term. <ref target="sc04-4004.note7">7</ref>
                </p>
                <p>As the Southern lobby defended its disproportionate share of
 Pentagon outlays, it unwillingly protected its lead in the types of
@@ -1162,7 +1162,7 @@ civilian-oriented market potential. " At the same time, Patterson is
 trapped by the military mobilization imperatives that all South-
 <pb n="28"/>
 environment and international trade. 
-<ref target="sc04-4.004.note4">4</ref>
+<ref target="sc04-4004.note4">4</ref>
                </p>
                <p>HR 5540 takes its stand on regional development by amending the
 Defense Production Act's "Declaration of Policy" to read, "It is the
@@ -1186,7 +1186,7 @@ intended as an income distribution mechanism or system providing equal
 allocation of funds to states, cities or countries . . . The purpose
 and goal of defense spending is to keep the American people alive and
 free--and in the process it is possible that defense spending will
-necessarily be unevenly distributed geographically." <ref target="sc04-4.004.note5">5</ref>
+necessarily be unevenly distributed geographically." <ref target="sc04-4004.note5">5</ref>
                </p>
                <p>Moreover, this Administration, less tied to the Frostern
 development officials now labor under.</p>
@@ -1351,17 +1351,17 @@ failing hotel in a Tennessee town. The military reindustrialization
 campaign promises to extend DOD's grass roots power. Unless we
 understand the web of Pentagon dependencies, we shouldn't expect to
 change the shape of the South's pre-war economy.</p>
-               <div3 id="sc04-4.004" n="Notes for Shaping the South's Pre-war  Economy" type="Notes">
+               <div3 id="sc04-4004" n="Notes for Shaping the South's Pre-war  Economy" type="Notes">
                   <head>Footnotes for Shaping the South's Pre-war 
 Economy</head>
                   <p>
-                     <note id="sc04-4.004.note1" n="1">1. "Conference Outline: 
+                     <note id="sc04-4004.note1" n="1">1. "Conference Outline: 
 Improving National Security by Strengthening
 the Defense Industrial Base," Harvard University Center for Science
 and International Affairs, May 10-12, 1982.</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note2" n="2">2. "Semiconductor Support 
+                     <note id="sc04-4004.note2" n="2">2. "Semiconductor Support 
 of Military Programs," presented to the
 Defense Science Board Task Force on Industrial Preparedness by Jerry
 Junkins, vice-president of Texas Instruments, Dec. 19, 1980, Appendix
@@ -1370,28 +1370,28 @@ claimed, "might be considerable and more than the military can
 afford."</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note3" n="3">3. "Could We Mobilize 
+                     <note id="sc04-4004.note3" n="3">3. "Could We Mobilize 
 Industry?" Fred C. Ikle', <title>Wall Street
 Journal,</title> Dee. 26, 1979.</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note4" n="4">4. Congressional Budget 
+                     <note id="sc04-4004.note4" n="4">4. Congressional Budget 
 Office Cost Estimate and Dissenting Views of
 Representatives Ed Bethune and Ed Weber on HR 5540 from House Report
 97-530, May 17, 1982, pages 26-29, 61-62.</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note5" n="5">5. Richard DeLauer to 
+                     <note id="sc04-4004.note5" n="5">5. Richard DeLauer to 
 the House Banking Committee's Subcommittee on
 Economic Stabilization. Hearings on "Revitalization and the
 U.S. Economy," July 15, 1981, Part 11, page 332.</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note6" n="6">6. Stockman letter to Representative J. William Stanton, May 5,1982,
+                     <note id="sc04-4004.note6" n="6">6. Stockman letter to Representative J. William Stanton, May 5,1982,
 in House Report 97530, page 63</note>
                   </p>
                   <p>
-                     <note id="sc04-4.004.note7" n="7">7. Procurement spending 
+                     <note id="sc04-4004.note7" n="7">7. Procurement spending 
 estimates in "Annual Report to Congress, FY
 1983," Caspar W. Weinberger, Secretary of Defense. page B-2.,</note>
                   </p>
@@ -1403,13 +1403,13 @@ pages 15-17.</note>
                   </p>
                </div3>
             
-	       <div3 id="sc04-4.023" type="About">
+	       <div3 id="sc04-4023" type="About">
                   <p>Tom Schlesinger is a carpenter and freelance writer
 living in Tennessee. He currently works with the Highlander Center's
 Strategic Minerals and Defense Industry Project.</p>
                </div3>
                </div2>
-            <div2 id="sc04-4.005" n="From Black Agenda To National Policy" type="Article">
+            <div2 id="sc04-4005" n="From Black Agenda To National Policy" type="Article">
                <head>A Few Proposals: From Black Agenda To National Policy</head>
                <byline>By <docAuthor><name reg="Piliawsky, Monte">Monte Piliawsky</name></docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 11-16</docDate>
@@ -1901,14 +1901,14 @@ The Search for Political Power</title>. New York: Longman, Inc.,
 1982.</p>
                <p>Wolfe, Alan. <title>America's Impasse</title>. New York: Pantheon,
 1982.</p>
-            <div3 id="sc04-4.025" type="About">
+            <div3 id="sc04-4025" type="About">
                   <p>Monte Piliawsky is an associate professor of political
 science at Dillard University. He is author of <title>Exit 13:
 Oppression and Racism in Academia.</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc04-4.006" n="Biting the Budget At Legal Services" type="Article">
+            <div2 id="sc04-4006" n="Biting the Budget At Legal Services" type="Article">
                <head>Biting the Budget At Legal Services</head>
                <byline>By <docAuthor><name reg="Looney, Ginny">Ginny Looney</name></docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 19-22</docDate>
@@ -2182,7 +2182,7 @@ cases won't be taken? Who stays on the staff and who goes? I'm more
 worried about that than whether we will survive." But, he might as
 easily have asked, at what point do the cutbacks and prohibitions on
 representation ultimately disable the work of Legal Services?</p>
-            <div3 id="sc04-4.026" type="About">
+            <div3 id="sc04-4026" type="About">
                   <p>Ginny Looney is a writer and researcher living in
 Atlanta. She is the author of <title>Preparing Students for Work: An
 Evaluation of Co-op Programs in Georgia</title>, available from the
@@ -2190,7 +2190,7 @@ Southern Regional Council for four dollars plus handling and
 postage.</p>
                </div3>
                </div2>
-            <div2 id="sc04-4.007" n="Laying By" type="Article">
+            <div2 id="sc04-4007" n="Laying By" type="Article">
                <head>Laying By</head>
                <byline><docAuthor><name reg="Hays, Brooks">Brooks Hays</name>: 1898-1981</docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 17-18</docDate>
@@ -2367,7 +2367,7 @@ them over adversity; also that their respect for moral and legal
 authority, entertained in the face of many affronts by political
 establishments to their human dignity and pride, will be
 maintained.</p>
-            <div3 id="sc04-4.027" type="About">
+            <div3 id="sc04-4027" type="About">
                   <p>"Laying By" is an occasional feature of
 <title>Southern Changes</title> which commemorates special lives and
 labors. Laying by signals no shuffling off of memory nor casting off
@@ -2380,7 +2380,7 @@ Louisiana State University Press, and reprinted here with
 permission.</p>
                </div3>
                </div2>
-            <div2 id="sc04-4.008" n="Laments on the Demise of Tom Turnipseed" type="Article">
+            <div2 id="sc04-4008" n="Laments on the Demise of Tom Turnipseed" type="Article">
                <head>Laments on the Demise of Tom Turnipseed</head>
                <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, p. 31</docDate>
@@ -2449,13 +2449,13 @@ his last campaign, but it was apparently too late.</p>
 passion. And particularly so when that sense of being right comes, as
 Turnipseed's did, from a deeply felt knowledge of what it means to be
 wrong.</p>
-            <div3 id="sc04-4.028" type="About">
+            <div3 id="sc04-4028" type="About">
                   <p>Frye Gaillard is an editorial page writer for the
 Charlotte <title>Observer,</title> where this article originally
 appeared.</p>
                </div3>
                </div2>
-            <div2 id="sc04-4.009" n="More Than Steel Mills Are Silent" type="Article">
+            <div2 id="sc04-4009" n="More Than Steel Mills Are Silent" type="Article">
                <head>More Than Steel Mills Are Silent</head>
                <byline>By <docAuthor><name reg="Dowe, Kelly">Kelly Dowe</name></docAuthor></byline>
                <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 3-5</docDate>
@@ -2619,7 +2619,7 @@ fear of offending our friends who are not so right-thinking as we.</p>
 bad people but the silence of the good people." Martin Luther King
 Jr. said it in his 1963 book, <title>Why We Can't Wait</title>. It
 still hits too close for comfort.</p>
-            <div3 id="sc04-4.029" type="About">
+            <div3 id="sc04-4029" type="About">
                   <p>Kelly Dowe is a freelance writer living in Birmingham,
 Alabama.</p>
                </div3>

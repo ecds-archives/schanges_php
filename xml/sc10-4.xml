@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc10-4.001" n="Southern Changes 10:4" type="Issue">
+         <div1 id="sc10-4001" n="Southern Changes 10:4" type="Issue">
             <head>Southern Changes.  Volume 10, Number 4, 1988</head>
             <p>
                <title>Southern Changes</title>.  Volume 10, Number 4,
 	       <date value="1988-07">1988</date></p>
-            <div2 id="sc10-4.002" n="Robeson County's 'Third World Ills'" type="Article">
+            <div2 id="sc10-4002" n="Robeson County's 'Third World Ills'" type="Article">
                <head>Robeson County's 'Third World Ills'</head>
                <byline>By <docAuthor><name reg="Segrest, Mab">Mab Segrest</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 14-16</docDate>
@@ -260,18 +260,18 @@ and Panama. Yet we in the South do not have to look that far for
 examples of failed democracy. Robeson County lies halfway between New
 York and Miami; but what its people are suffering may be going on now
 or soon in other communities across the South.</p>
-            <div3 id="sc10-4.022" type="About">
+            <div3 id="sc10-4022" type="About">
                   <p>Mab Segrest is director of North Carolinians Against
 Racial and Religious Violence. Her article is adapted from a
 copyrighted article in <title>Christian Century</title>, and appears
 here with permission.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-4.003" n="The Rights to Life" type="Article">
+            <div2 id="sc10-4003" n="The Rights to Life" type="Article">
                <head>The Rights to Life</head>
                <byline>By <docAuthor><name reg="McAnelly, Lynne">Lynne McAnelly</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 1-4</docDate>
-               <div3 id="sc10-4.019" n="The Rights to Life" type="Section">
+               <div3 id="sc10-4019" n="The Rights to Life" type="Section">
                   <p>Agriculture is on the edge of a revolution that could bring changes
 as profound as the industrial revolution. From soybean growers in
 Georgia to cattle producers in Arkansas, few Southern farmers will be
@@ -301,7 +301,7 @@ creature is broader than it seems at first glance. The patent refers
 to any cancer-causing gene imported into any mammal. The implications
 are staggering.</p>
                </div3>
-               <div3 id="sc10-4.004" n="Living Organisms and Patent Law" type="Section">
+               <div3 id="sc10-4004" n="Living Organisms and Patent Law" type="Section">
                   <head>Living Organisms and Patent Law</head>
                   <p>A patent grants monopoly rights to an invention for a specified
 period of time (seventeen years or longer). However, there are limits
@@ -346,7 +346,7 @@ Congress to decide on the scope of patent protection on living
 organisms, and the first patent granted is, as already noted, quite
 broad.</p>
                </div3>
-               <div3 id="sc10-4.005" n="The Economic Power of Patents" type="Section">
+               <div3 id="sc10-4005" n="The Economic Power of Patents" type="Section">
                   <head>The Economic Power of Patents</head>
                   <p>The corporation or individual who holds a patent has exclusive
 rights to the patented object. The patent holder can collect whatever
@@ -432,7 +432,7 @@ available, in the public domain. Furthermore, market mechanisms exist
 to protect new breeds developed by livestock producers and to ensure
 significant financial returns.</p>
                </div3>
-               <div3 id="sc10-4.006" n="Patents and Research" type="Section">
+               <div3 id="sc10-4006" n="Patents and Research" type="Section">
                   <head>Patents and Research</head>
                   <p>The assumption that patents encourage corporations to engage in
 novel research directions has been challenged by various authors. For
@@ -473,7 +473,7 @@ pharmaceuticals such as human insulin and human growth hormone,
 substances of tremendous benefit. But eventually society may ask, at
 what point do we cross a barrier in manipulations with human genes?</p>
                </div3>
-               <div3 id="sc10-4.007" n="Response and Remedies" type="Section">
+               <div3 id="sc10-4007" n="Response and Remedies" type="Section">
                   <head>Response and Remedies</head>
                   <p>A number of farm organizations including the National Farmers
 Union, the League of Rural Voters, and the National Farm Organization
@@ -498,7 +498,7 @@ consideration of their concerns regarding patents on living
 organisms. </p>
                </div3>
             </div2>
-            <div2 id="sc10-4.008" n="Cameras on the Prize" type="Article">
+            <div2 id="sc10-4008" n="Cameras on the Prize" type="Article">
                <head>Cameras on the Prize: Hollywood Finds the Movement</head>
                <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, p. 20</docDate>
@@ -539,7 +539,7 @@ enough time has passed that people now want to re-examine the events
 of the 1950s and 1960s.  Others say they sense a revival of the spirit
 of protest and rebellion.</p>
             </div2>
-            <div2 id="sc10-4.009" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc10-4009" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
                <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 17, 19</docDate>
@@ -656,10 +656,10 @@ Rita, and my warm affectionate wishes for the New Year.</p>
 the Carson McCullers collection, Harry Ransom Humanities Research
 Center, The University of Texas at Austin.</hi>
                </p>
-            <div3 id="sc10-4.029" type="About">
+            <div3 id="sc10-4029" type="About">
                   <p>Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p></div3></div2>
-            <div2 id="sc10-4.010" n="An Alabama Potter Stays with Tradition" type="Article">
+            <div2 id="sc10-4010" n="An Alabama Potter Stays with Tradition" type="Article">
                <head>An Alabama Potter Stays with Tradition</head>
                <byline>By <docAuthor><name reg="Gates, Darryl">Darryl Gates</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 18-19</docDate>
@@ -792,13 +792,13 @@ business.</p>
                <p>"I've known all kinds of potters," he says, abut I've never
 known one that was rich. We ain't got a lot, but I know what we have,
 we came by it honestly.</p>
-            <div3 id="sc10-4.030" type="About">
+            <div3 id="sc10-4030" type="About">
                   <p>Darryl Gates is the editor of <title>AREA
 Magazine</title>. Signed pieces of Jerry Brown's pottery are available
 through his shop in Hamilton, Ala., (205) 921-9483.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-4.011" n="The Avenue, Clayton City" type="Review">
+            <div2 id="sc10-4011" n="The Avenue, Clayton City" type="Review">
                <head>
                   <title>The Avenue, Clayton City</title> by C. Eric Lincoln. (New
 York: William Morrow, 1988. 288 pages. $17.95.)</head>
@@ -1001,13 +1001,13 @@ no fear except for the fear of not being afraid...</hi>
                   <hi rend="italic">He sat motionless in his swivel chair and watched
 the evening shadows blot the dying sunlight from the room.</hi>
                </p>
-            <div3 id="sc10-4.031" type="About">
+            <div3 id="sc10-4031" type="About">
                   <p>Frye Gaillard is an editor at the Charlotte
 <title>Observer</title>, where this article previously
 appeared.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-4.012" n="The Freedom Quilting Bee" type="Review">
+            <div2 id="sc10-4012" n="The Freedom Quilting Bee" type="Review">
                <head>The Freedom Quilting Bee</head>
                <byline>By <docAuthor><name reg="Ellis, Deborah">Deborah Ellis</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 22-24</docDate>
@@ -1160,17 +1160,17 @@ becomes an object of great beauty. The Freedom Quilting Bee is more
 than a successful small business; it is a symbol of how much can be
 achieved by people working together. Like a quilt, the Bee has
 endured. </p>
-            <div3 id="sc10-4.032" type="About">
+            <div3 id="sc10-4032" type="About">
                   <p>Deborah Ellis works with the Women's Rights Project of
 the ACLU, and previously was a lawyer in Alabama.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-4.013" n="Hispanics Struggle for Parity in Texas" type="Article">
+            <div2 id="sc10-4013" n="Hispanics Struggle for Parity in Texas" type="Article">
                <head>Hispanics Struggle for Parity in Texas</head>
                <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 11-13</docDate>
                
-               <div3 id="sc10-4.014" n="Hispanics Struggle for Parity in Texas" type="Section">
+               <div3 id="sc10-4014" n="Hispanics Struggle for Parity in Texas" type="Section">
                   <p>By the year 2010, Hispanics will be a majority of the population in
 Texas and will be more numerous than any other ethnic group, whites
 included, in California.</p>
@@ -1213,7 +1213,7 @@ equality. Dr. Juliet Garcia, president of Texas Southmost College in
 Brownsville, says the formula for dividing the annual $4.5 billion
 state expense for higher education has shortchanged south Texas.</p>
                </div3>
-               <div3 id="sc10-4.015" n="Equal Opportunity Discrimination" type="Section">
+               <div3 id="sc10-4015" n="Equal Opportunity Discrimination" type="Section">
                   <head>Equal Opportunity Discrimination</head>
                   <p>"Everyone who lives in south Texas is being discriminated
 against without regard to ethnicity, or economic status, because we
@@ -1282,7 +1282,7 @@ vote. Over the past decade, the number of Hispanic voters in Texas has
 more than doubled, and Velasquez's work in California has borne
 similar fruit.</p>
                </div3>
-               <div3 id="sc10-4.016" n="A Critical Core of Lawmakers" type="Section">
+               <div3 id="sc10-4016" n="A Critical Core of Lawmakers" type="Section">
                   <head>A Critical Core of Lawmakers</head>
                   <p>Slowly, more Hispanics have been elected to office. The twenty-five
 Hispanics now in the Texas House and Senate make up about 15 percent
@@ -1318,7 +1318,7 @@ new population in the next ten to twenty years will not speak English
 but Spanish....The day is quickly coming when the Anglo Texan, the
 native Texan, will himself be a minority."</p>
                </div3>
-               <div3 id="sc10-4.017" n="A Fear of Two Texases" type="Section">
+               <div3 id="sc10-4017" n="A Fear of Two Texases" type="Section">
                   <head>A Fear of Two Texases</head>
                   <p>Alarmed, Trevino called the professor who had been quoted, and
 learned that the statements had been mangled by an energetic writer
@@ -1368,11 +1368,11 @@ to get the people out of the cycle of poverty, but if it isn't close
 to home, they won't have it," he says. "If we're going to be in
 the majority, you'd better educate us." </p>
                </div3>
-            <div3 id="sc10-4.033" type="About">
+            <div3 id="sc10-4033" type="About">
                   <p>Elaine Davenport is a reporter and producer who divides her time between Austin, Texas, and London, England</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-4.018" n="Plutonium Politics" type="Article">
+            <div2 id="sc10-4018" n="Plutonium Politics" type="Article">
                <head>Plutonium Politics: The Poisoning of South Carolina</head>
                <byline>By <docAuthor><name reg="Carothers, Andre">Andre Carothers</name></docAuthor></byline>
                <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 4-5, 8-11</docDate>
@@ -1818,7 +1818,7 @@ Scientists, Greenpeace, the Environmental Policy Institute, the Energy
 Research Foundation, Friends of the Earth, the Natural Resources
 Defense Council, Physicians for Social Responsibility, and the Union
 of Concerned Scientists.</p>
-            <div3 id="sc10-4.038" type="About">
+            <div3 id="sc10-4038" type="About">
                   <p>Andre Carothers is editor of <title>Greenpeace Magazine</title>.</p>
                </div3>
 	     </div2>

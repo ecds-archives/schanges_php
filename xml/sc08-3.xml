@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc08-3.001" n="Southern Changes 8:3" type="Issue">
+         <div1 id="sc08-3001" n="Southern Changes 8:3" type="Issue">
             <head>Southern Changes.  Volume 8, Number 3, 1989</head>
             <p>
                <title>Southern Changes</title>.  Volume 8, Number 3,
 	       <date value="1986-09">1986</date></p>
-            <div2 id="sc08-3.002" n="The Poverty of Policy" type="Article">
+            <div2 id="sc08-3002" n="The Poverty of Policy" type="Article">
                <head>The Poverty of Policy</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 1-3</docDate>
@@ -197,12 +197,12 @@ poverty statistics stand, this year and in future years. But more than
 anything else right now, we need to enact policies that will bring
 people out of poverty. Among all the numbers, that is whet really
 courts.</p>
-            <div3 id="sc08-3.022" type="About">
+            <div3 id="sc08-3022" type="About">
                   <p>Steve Suitts is executive director of the Southern
 Regional Council.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.003" n="Taking the Fifth" type="Article">
+            <div2 id="sc08-3003" n="Taking the Fifth" type="Article">
                <head>Taking the Fifth</head>
                <byline>By <docAuthor><name reg="Davis, Marilyn">Marilyn Davis</name> and <name reg="Willingham,  Alex">Alex Willingham</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 7-9</docDate>
@@ -460,14 +460,14 @@ years. The campaign has created definite expectations--and hope
 only realistic to admit that the problems that face the Fifth and the
 country are much more resistant to symbolic and even electoral change
 than they seemed in the days of Movement victories.</p>
-            <div3 id="sc08-3.023" type="About">
+            <div3 id="sc08-3023" type="About">
                   <p>Marilyn Davis teaches political science at Spelman
 College in Atlanta. Alex Willingham is research associate at the
 Southern Regional Council and a contributing editor of <title>Southern
 Changes</title>.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.004" n="In Wallace's Wake" type="Article">
+            <div2 id="sc08-3004" n="In Wallace's Wake" type="Article">
                <head>In Wallace's Wake--New Demagoguery for the Eighties</head>
                <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 10-12</docDate>
@@ -700,13 +700,13 @@ otherwise a generic attack on the National Education Association. NEA
 officials say the same booklet has been used in other states by
 right-wing organizations.</hi>
                </p>
-            <div3 id="sc08-3.024" type="About">
+            <div3 id="sc08-3024" type="About">
                   <p>Randall Williams is the managing editor of
 <title>Southern Changes</title> and a partner in the Black Belt
 Communications Group of Montgomery, Alabama.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.005" n="South's Hysterectomy Rate Highest" type="Article">
+            <div2 id="sc08-3005" n="South's Hysterectomy Rate Highest" type="Article">
                <head>CDC Study Reveals--South's Hysterectomy Rate Highest</head>
                <byline>By <docAuthor><name reg="AET">AET</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 13-14</docDate>
@@ -807,7 +807,7 @@ significance can be read in this study about the traditional timidity
 and acceptance of professional authority shown by women in the South
 toward the largely white male ranks of physicians? Simply put, we need
 to know much more about what lies behind these disturbing rates."</p>
-            <div3 id="sc08-3.025" type="About">
+            <div3 id="sc08-3025" type="About">
                   <p>The CDC study, "Hysterectomy Among Women of Reproductive
 Age, Unites States, Update for 1981- 1982," was published in the CDC
 <title>Surveillance Summary</title>, Vol. 35, No. ISS (June 1986). The
@@ -818,7 +818,7 @@ Reproductive Health, Center for Health Promotion and
 Education.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.006" n="Empty Rituals in the War on Drugs" type="Article">
+            <div2 id="sc08-3006" n="Empty Rituals in the War on Drugs" type="Article">
                <head>Empty Rituals in the War on Drugs</head>
                <byline>By <docAuthor><name reg="Crowther, Hal">Hal Crowther</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 14-15</docDate>
@@ -955,12 +955,12 @@ at the expense of everybody's future. Cocaine is its drug. Sure things
 and safe drugs are for old maids. Fly now, pay later. And don't be
 afraid. The odds may be narrowing, but the odds are still on your
 side.</p>
-            <div3 id="sc08-3.026" type="About">
+            <div3 id="sc08-3026" type="About">
                   <p>Hal Crowther writes for the <title>Spectator</title> of
 Raleigh, N.C., from which this article is adapted.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.007" n="Uneasy Victories in the Supreme Court" type="Article">
+            <div2 id="sc08-3007" n="Uneasy Victories in the Supreme Court" type="Article">
                <head>Uneasy Victories in the Supreme Court</head>
                <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 15-18</docDate>
@@ -1350,12 +1350,12 @@ created by the resignation of current Chief Justice Burger. More
 Reagan appointments would surely tilt the Court significantly to the
 right, jeopardizing the continued constitutional protection of the
 Nation's racial minorities.</p>
-            <div3 id="sc08-3.027" type="About">
+            <div3 id="sc08-3027" type="About">
                   <p>Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union Foundation.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.008" n="Tombee: Portrait of a Cotton Planter" type="Review">
+            <div2 id="sc08-3008" n="Tombee: Portrait of a Cotton Planter" type="Review">
                <head>Tombee: Portrait of a Cotton Planter</head>
                   
                <byline>Reviewed by <docAuthor><name reg="Wood, Peter H.">Peter H. Wood</name></docAuthor></byline>
@@ -1589,14 +1589,14 @@ our own, as shown by Steven Lawson's excellent essay here in
 reading when examined alone, and better reading when considered
 together, they may prove best of all when regarded in a wide
 comparative context that links them to our present concerns.</p>
-            <div3 id="sc08-3.028" type="About">
+            <div3 id="sc08-3028" type="About">
                   <p>Peter H. Wood lives in Hillsborough, N.C., and teaches
 Early American History at Duke University. He is the author of
 <title>Black Majority: Negroes in Colonial South Carolina from 1670
 Through the Stono Rebellion</title>.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.009" n="Steve Earle's Hope on the Highway" type="Article">
+            <div2 id="sc08-3009" n="Steve Earle's Hope on the Highway" type="Article">
                <head>Steve Earle's Hope on the Highway</head>
                <byline>By <docAuthor><name reg="Orr, Jay">Jay Orr</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 19-21</docDate>
@@ -1719,12 +1719,12 @@ next album, "will lean more toward social observation and commentary
 than [Guitar Town]." Good news for those of us who hope Nashville and
 country musicians can continue to produce music with regional,
 cultural, and social importance.</p>
-            <div3 id="sc08-3.029" type="About">
+            <div3 id="sc08-3029" type="About">
                   <p>Jay Orr works at the library of the Country Music
 Foundation in Nashville.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.010" n="The Shame of Contra Aid" type="Article">
+            <div2 id="sc08-3010" n="The Shame of Contra Aid" type="Article">
                <head>The Shame of Contra Aid</head>
                <byline>By <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 18-19</docDate>
@@ -1816,12 +1816,12 @@ in violation of our religious faith!</p>
                <p>For these reasons a moral outrage in America is in order. And this
 is why we cry shame, shame upon so many of our Southern members of
 Congress and why we must hold them to strict account.</p>
-            <div3 id="sc08-3.030" type="About">
+            <div3 id="sc08-3030" type="About">
                   <p>Rev. W. W. Finlator is the retired pastor of Pullen
 Memorial Baptist Church in Raleigh, N. C.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-3.011" n="Cells for Sale" type="Article">
+            <div2 id="sc08-3011" n="Cells for Sale" type="Article">
                <head>Cells for Sale</head>
                <byline>By <docAuthor><name reg="Wray, Harmon L., Jr.">Harmon L. Wray, Jr.</name></docAuthor></byline>
                <docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 3-6</docDate>
@@ -2129,7 +2129,7 @@ others, our motto should be "from the cage to the community," which is
 largely where the problem is and must be dealt with. We must refuse
 the exploitation of public hysteria and institutional fatigue by the
 entrepreneurs of captivity.</p>
-            <div3 id="sc08-3.031" type="About">
+            <div3 id="sc08-3031" type="About">
                   <p>Harmon L Wray, Jr., lives in Nashville where he is a
 staff consultant with Project Return and teaches prison ministry at
 Vanderbilt Divinity School.</p>

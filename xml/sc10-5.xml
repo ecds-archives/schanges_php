@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc10-5.001" n="Southern Changes 10:5" type="Issue">
+         <div1 id="sc10-5001" n="Southern Changes 10:5" type="Issue">
             <head>Southern Changes.  Volume 10, Number 5, 1988</head>
             <p>
                <title>Southern Changes</title>.  Volume 10, Number 5,
 	       <date value="1988-10">1988</date></p>
-            <div2 id="sc10-5.002" n="Living the Day Labor Life" type="Article">
+            <div2 id="sc10-5002" n="Living the Day Labor Life" type="Article">
                <head>Living the Day Labor Life</head>
                <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 7, 20</docDate>
@@ -166,7 +166,7 @@ Antone's, or a club with entertainment, if you like blues, and I am a
 blues fan... I've been trying to get there but I never can afford the
 $20 it takes.</p>
             </div2>
-            <div2 id="sc10-5.003" n="A Southerner in Nicaragua" type="Article">
+            <div2 id="sc10-5003" n="A Southerner in Nicaragua" type="Article">
                <head>A Southerner in Nicaragua</head>
                <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 1-5</docDate>
@@ -483,7 +483,7 @@ and empathize with the struggle of Nicaraguan people to survive,
 decolonize, recover and reinterpret their own cultural past, and shape
 a cultural future for their children.</p>
             </div2>
-            <div2 id="sc10-5.004" n="Henry Wallace's Campaign" type="Article">
+            <div2 id="sc10-5004" n="Henry Wallace's Campaign" type="Article">
                <head>Henry Wallace's Campaign Foreshadowed the Movement as Well as
 the Rainbow</head>
                <byline>By <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
@@ -681,19 +681,19 @@ as the McCarthy decade got underway, he wrote Wallace, "we owe it
 to ourselves to hold that torch firmly and high regardless of the
 consequences because that is the way forward. There is more than one
 way to measure political success."</p>
-            <div3 id="sc10-5.024" type="About">
+            <div3 id="sc10-5024" type="About">
                   <p>Patricia Sullivan is the assistant director of the Center
 for the Study of Civil Rights at the Carter G. Woodson Institute for
 Afro-American and African Studies, Charlottesville,
 Virginia.</p>
                </div3>
 	     </div2>
-            <div2 id="sc10-5.005" n="From Protest to Process" type="Article">
+            <div2 id="sc10-5005" n="From Protest to Process" type="Article">
                <head>From Protest to Process: Ann Braden's Inside View of the Rainbow
 Campaign</head>
                <byline>Interview By <docAuthor><name reg="Kuhn, Cliff">Cliff Kuhn</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate>
-               <div3 id="sc10-5.006" n="Winning and Losing" type="Section">
+               <div3 id="sc10-5006" n="Winning and Losing" type="Section">
                   <head>I. Winning and Losing at the 1988 Democratic Convention</head>
                   <p>As a supporter of the Rainbow Coalition and the Jackson campaign I
 felt pretty good about the convention. Now, some people didn't so
@@ -788,7 +788,7 @@ Committee who are Jesse's nominees. How much power that represents, I
 don't know, but they recognize that this is at least a wing of the
 party that is a significant movement in this country.</p>
                </div3>
-               <div3 id="sc10-5.007" n="A Platform Worth a Fight" type="Section">
+               <div3 id="sc10-5007" n="A Platform Worth a Fight" type="Section">
                   <head>II. A Platform Worth a Fight</head>
                   <p>To some people the platform doesn't matter. A platform is usually
 ignored by candidates and forgotten once they get in office. But a
@@ -879,7 +879,7 @@ further a peace and justice agenda.</p>
 this is not a short sprint. It's a long-distance run. I think we
 passed a major milestone this year.</p>
                </div3>
-               <div3 id="sc10-5.008" n="Beyond Protest" type="Section">
+               <div3 id="sc10-5008" n="Beyond Protest" type="Section">
                   <head>III. Beyond Protest</head>
                   <p>My first political action was forty years ago in 1948 in the
 Progressive Party, which was an alternative program not too different
@@ -972,7 +972,7 @@ not have access to that governmental power. It is a debatable
 question. This is the course that Jesse Jackson has set and I think it
 is working in the interests of the people right now.</p>
                </div3>
-               <div3 id="sc10-5.009" n="Of Men and Movements" type="Section">
+               <div3 id="sc10-5009" n="Of Men and Movements" type="Section">
                   <head>IV. Of Men and Movements</head>
                   <p>Martin Luther King wasn't the movement although people are not
 learning that now, unfortunately, the way King is being presented. On
@@ -1014,7 +1014,7 @@ bad things about Martin.</p>
                   <p>I think that Jesse has developed into a great leader under the
 impact of this movement. Obviously he had the potential to do that.</p>
                </div3>
-               <div3 id="sc10-5.010" n="In the Embrace of the Party" type="Section">
+               <div3 id="sc10-5010" n="In the Embrace of the Party" type="Section">
                   <head>V. In the Embrace of the Party</head>
                   <p>I think Jesse has enough sense not to become co-opted, though that
 is the strategy of the traditional Democratic Party at this
@@ -1101,7 +1101,7 @@ are going to scream and holler. The bill includes money for the states
 to set the machinery for this, the necessary computers to make it
 possible. There's plenty to do.</p>
                </div3>
-               <div3 id="sc10-5.011" n="Politics, Power and Possibility" type="Section">
+               <div3 id="sc10-5011" n="Politics, Power and Possibility" type="Section">
                   <head>VI. Politics, Power and Possibility</head>
                   <p>I think a lot of people who have been in protest movements almost
 shy away from actually taking over. Do we really want power? We have
@@ -1137,7 +1137,7 @@ for a change.</p>
                   <p>I think we are going to live to see that.</p>
                </div3>
             </div2>
-            <div2 id="sc10-5.012" n="Pursuing the Shadow Government" type="Article">
+            <div2 id="sc10-5012" n="Pursuing the Shadow Government" type="Article">
                <head>Pursuing the Shadow Government</head>
                <byline>By <docAuthor><name reg="Guthey, Eric">Eric Guthey</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate>
@@ -1298,11 +1298,11 @@ be depended on to uphold the Constitution and when candidates for
 president are willing to lie repeatedly, any efforts to shed light on
 the shadow government--including the indirect efforts of the Christic
 Institute--deserve recognition and support.</p>
-            <div3 id="sc10-5.032" type="About">
+            <div3 id="sc10-5032" type="About">
                   <p>Eric Guthey is a student in the Graduate Institute of
 Liberal Arts at Emory University.</p>
                </div3></div2>
-            <div2 id="sc10-5.013" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc10-5013" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
                <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 22-23</docDate>
@@ -1414,10 +1414,10 @@ as shocked as if I had said two dozen four letter words.</p>
 of the fire.</p>
                <p>Affectionately,</p>
                <p>Lillian</p>
-            <div3 id="sc10-5.023" type="About">
+            <div3 id="sc10-5023" type="About">
                   <p>Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p></div3></div2>
-            <div2 id="sc10-5.014" n="U.S. Community Organizer Wounded by Contras" type="Article">
+            <div2 id="sc10-5014" n="U.S. Community Organizer Wounded by Contras" type="Article">
                <head>U.S. Community Organizer Wounded by Contras</head>
                <byline>By <docAuthor><name reg="Garber, Carter">Carter Garber</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No.5, 1988, p. 8</docDate>
@@ -1467,7 +1467,7 @@ made available throughout a state. Such events were held recently in
 South Carolina and Kentucky. For information, contact IFCO, 402
 W. 145th St., New York, NY 10031; 212-926-6757.</p>
             </div2>
-            <div2 id="sc10-5.015" n="A Holiday Shopper's Guide to Alternative Giving" type="Article">
+            <div2 id="sc10-5015" n="A Holiday Shopper's Guide to Alternative Giving" type="Article">
                <head>A Holiday Shopper's Guide to Alternative Giving</head>
                <byline>By <docAuthor><name reg="Dowe, Kelly">Kelly Dowe</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 18-20</docDate>
@@ -1614,11 +1614,11 @@ sheets with plain envelopes. Greeting cards with "Peace" in both
 Hebrew and Arabic on the cover and the message, "Peace is our hope"
 inside, cost $5 for ten folded cards with envelopes. Fellowship of
 Reconciliation, Box 271, Nyack, NY 10960.</item></list></item></list></p>
-            <div3 id="sc10-5.035" type="About">
+            <div3 id="sc10-5035" type="About">
                   <p>Writer and editor Kelly Dowe lives in Tuscaloosa,
 Ala.</p>
                </div3></div2>
-            <div2 id="sc10-5.016" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc10-5016" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 24, 23</docDate>
@@ -1717,7 +1717,7 @@ regarding people who oppose the Reagan-Bush Yankee nonsense in Central
 America.</p>
                <p>Lord help us.</p>
                <p>Peace.</p>
-            <div3 id="sc10-5.036" type="About">
+            <div3 id="sc10-5036" type="About">
                   <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
                </div3>

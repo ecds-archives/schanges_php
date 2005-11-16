@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc11-5.001" n="Southern Changes 11:5" type="Issue">
+         <div1 id="sc11-5001" n="Southern Changes 11:5" type="Issue">
             <head>Southern Changes.  Volume 11, Number 5, 1989</head>
             <p>
                <title>Southern Changes</title>.  Volume 11, Number 5,
 	       <date value="1989-11">1989</date></p>
-            <div2 id="sc11-5.002" n="Land of Deepest Shade" type="Article">
+            <div2 id="sc11-5002" n="Land of Deepest Shade" type="Article">
                <head>Land of Deepest Shade: An Interview with John McWilliams</head>
                <byline><docAuthor><name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
@@ -298,11 +298,11 @@ has for us in terms of being a source of life. But also the sense of
 the cesspool, the dumping ground that it can be. I really want to
 explore that.</p>
             </div2>
-            <div2 id="sc11-5.003" n="Native Southerners" type="Article">
+            <div2 id="sc11-5003" n="Native Southerners" type="Article">
                <head>Native Southerners</head>
                <byline>By <docAuthor><name reg="Perdue, Theda">Theda Perdue</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
-               <div3 id="sc11-5.004" n="Native Southerners" type="Section">
+               <div3 id="sc11-5004" n="Native Southerners" type="Section">
                   <p>Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
 Florida where the Cherokees and the Seminoles/Miccosukees maintain
@@ -357,7 +357,7 @@ particularly the English, demanded native land and allegiance. A
 growing dependence on European goods left Indians little bargaining
 room, and so they relinquished territory and sovereignty.</p>
                </div3>
-               <div3 id="sc11-5.005" n="Indians in Slavery" type="Section">
+               <div3 id="sc11-5005" n="Indians in Slavery" type="Section">
                   <head>Indians in Slavery</head>
                   <p>In the South, the colonial economy quickly came to depend on
 agriculture. In the early years, native peoples sustained this economy
@@ -402,7 +402,7 @@ struggled to maintain their status and identity as Indians in a South
 that increasingly defined itself as biracial, that is, black and
 white.</p>
                </div3>
-               <div3 id="sc11-5.006" n="Coping with a Biracial Society" type="Section">
+               <div3 id="sc11-5006" n="Coping with a Biracial Society" type="Section">
                   <head>Coping with a "Biracial" Society</head>
                   <p>For those Indians who constituted sizeable communities of readily
 identified historical peoples, the task was somewhat simpler. The
@@ -501,7 +501,7 @@ reservations, and until recently, the limited economic resources of
 the Cherokees gave them little alternative to catering to these
 expectations.</p>
                </div3>
-               <div3 id="sc11-5.007" n="Debating Federal Termination" type="Section">
+               <div3 id="sc11-5007" n="Debating Federal Termination" type="Section">
                   <head>Debating Federal Termination</head>
                   <p>In the late nineteenth and twentieth centuries, some native peoples
 did manage to secure a reservation, a commonly held tract of land
@@ -673,7 +673,7 @@ Indians, it is a matter of regional concern and may well be a pressing
 cultural and racial issue of the twenty-first century.</p>
                </div3>
             </div2>
-            <div2 id="sc11-5.008" n="The Law" type="Review">
+            <div2 id="sc11-5008" n="The Law" type="Review">
                <head>The Law.</head> 
                <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
@@ -843,7 +843,7 @@ rights to "the political process left substantially to its own
 devices." I cannot imagine anyone even casually familiar with the
 protracted struggle for civil rights in this country taking that
 advice, and therefore this book, very seriously. </p>
-            <div3 id="sc11-5.028" type="About">
+            <div3 id="sc11-5028" type="About">
                   <p>LAUGHLIN McDONALD is Director of the Southern Regional
 Office of the American Civil Liberties Union. Perhaps no other
 attorney has been responsible for as many redistricting cases. (An
@@ -851,7 +851,7 @@ abbreviated version of this review appeared in <title>Foundation
 News</title>, May/June, 1989.)</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.009" n="Politics of Nativism" type="Review">
+            <div2 id="sc11-5009" n="Politics of Nativism" type="Review">
                <head>Politics of Nativism.</head>  
                <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry">Larry Kilbourne</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
@@ -945,12 +945,12 @@ many Vietnamese and most Hispanics are Catholic, the conditions may
 exist once again for coalescence of religious and ethnic
 hatreds. Intolerance is implicit in the logic of the religious
 right.</p>
-            <div3 id="sc11-5.029" type="About">
+            <div3 id="sc11-5029" type="About">
                   <p>LARRY KILBOURNE graduated from Brandeis University and is
 now a U.S. Air Force historian living in Ohio.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.019" n="Victorian Reformer" type="Review">
+            <div2 id="sc11-5019" n="Victorian Reformer" type="Review">
                <head>Victorian Reformer.</head>
                <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G.">HAROLD G. FLEMING</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
@@ -1016,7 +1016,7 @@ disposed of. The Holy Rollers were made to move on the grounds of
 disorderly conduct."</p>
                <p>Victorian principles and all, our society today could do with some
 brave and dedicated reformers like Lugenia Burns Hope.</p>
-            <div3 id="sc11-5.039" type="About">
+            <div3 id="sc11-5039" type="About">
                   <p>HAROLD FLEMING was on the staff of the Council
 continuously from 1947-61. From 1957-61 he was executive
 director. Since then, he has led the Potomac Institute, in Washington,
@@ -1024,7 +1024,7 @@ and in countless other ways served civil rights and the enlargement of
 American justice.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.010" n="Transformed Color" type="Review">
+            <div2 id="sc11-5010" n="Transformed Color" type="Review">
                <head>Transformed Color</head>  
                <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
@@ -1117,13 +1117,13 @@ College), Loewen has written a book not only sensitive and keen but
 concerned for the humanness of its subjects. The book is sound social
 science. It is not a book one cannot put down, but it is one that
 rewards the reader who keeps at it.</p>
-            <div3 id="sc11-5.030" type="About">
+            <div3 id="sc11-5030" type="About">
                   <p>LESLIE DUNBAR is the book review editor of
 <title>Southern Changes.</title>
                   </p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.011" n="A New Heaven and Earth" type="Review">
+            <div2 id="sc11-5011" n="A New Heaven and Earth" type="Review">
                <head>A New Heaven and Earth.</head>  
                <byline>Reviewed by <docAuthor><name reg="Dean, Mary James">Mary James Dean</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
@@ -1254,13 +1254,13 @@ unity may be seen in this white reviewer's own Mississippi history, as
 I remember that my grandmother was also called Big Mama. And she
 dipped snuff, made sugar tits, killed hogs, ate sorghum and fatback,
 spat offthe back porch, and said "Ooo Wee!"</p>
-            <div3 id="sc11-5.031" type="About">
+            <div3 id="sc11-5031" type="About">
                   <p>MARY DEAN, M.A., D. Min., a native and long-time resident
 of Mississippi, now lives in Rochester, N. Y., where she practices
 marriage and family therapy.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.012" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc11-5012" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
@@ -1331,12 +1331,12 @@ frauds.</p>
 approving my visit or anticipated speech; otherwise the visit wouldn't
 have been worth the trip.</p>
                <p>Peace.</p>
-            <div3 id="sc11-5.032" type="About">
+            <div3 id="sc11-5032" type="About">
                   <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-5.013" n="Portraits from Slavery" type="Review">
+            <div2 id="sc11-5013" n="Portraits from Slavery" type="Review">
                <head>Portraits from Slavery.</head>  
                <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S.">Emory S. Campbell</name></docAuthor></byline>
                <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
@@ -1444,7 +1444,7 @@ glad that was not his last work. This book rightfully belongs in every
 American home, especially if one is of African-American descent. It is
 a wonderful reminder of the great achievement of black people from
 slavery to freedom.</p>
-            <div3 id="sc11-5.033" type="About">
+            <div3 id="sc11-5033" type="About">
                   <p>EMORY CAMPBELL is director of the historic and still
 vibrant Penn Center of the Sea Islands, on St Helena Island, South
 Carolina.</p>

@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc08-4.001" n="Southern Changes 8:4" type="Issue">
+         <div1 id="sc08-4001" n="Southern Changes 8:4" type="Issue">
             <head>Southern Changes.  Volume 8, Number 4, 1986</head>
             <p>
                <title>Southern Changes</title>.  Volume 8, Number 4,
 	       <date value="1986-10">1986</date></p>
-            <div2 id="sc08-4.002" n="The Climate for Workers in the U.S." type="Article">
+            <div2 id="sc08-4002" n="The Climate for Workers in the U.S." type="Article">
                <head>The Climate for Workers in the U.S.:  Summary of a Study by the
 Southern Labor Institute. A Special Project of the Southern Regional
 Council</head>
@@ -119,7 +119,7 @@ Climate for Workers</title>.</p>
 Workers</title> has technical weaknesses.  However, its thrust is
 sound and it should initiate discussion to improve technical quality
 in future reports."</p>
-            <div3 id="sc08-4.022" type="About">
+            <div3 id="sc08-4022" type="About">
                   <p>Dr. Ray Marshall, former U. S. Secretary of Labor, holds
 the Audre and Bernard Rapoport Chair in Economics and Public Affairs
 at the LBJ School of Public Affairs, University of Texas at Austin; is
@@ -127,12 +127,12 @@ Board Chairman of the Southern Labor Institute; and Vice President of
 the Southern Regional Council.</p>
                </div3>
 	    </div2>
-            <div2 id="sc08-3.003" n="Where Does the South Stand?" type="Article">
+            <div2 id="sc08-3003" n="Where Does the South Stand?" type="Article">
                <head>The Climate for Workers: Where Does the South Stand?</head>
                <byline>By <docAuthor><name reg="Johnson, Kenny">Kenny Johnson</name> and <name reg="Scurlock, Marilyn">Marilyn Scurlock</name></docAuthor></byline>
                <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate>
                
-               <div3 id="sc08-3.004" n="Where Does the South Stand?" type="Section">
+               <div3 id="sc08-3004" n="Where Does the South Stand?" type="Section">
                   <p>We believe the true test of economic conditions is how working
 people--the vast majority of citizens--fare in these times of economic
 change. This report examines how the economic climates in the states
@@ -164,8 +164,8 @@ conditions.</p>
 than two dozen indicators considered in this study of the nation's
 labor climate. This situation is graphically depicted in the map on
 the next page. The top five states, meanwhile, are Massachusetts,
-Connecticut, Minnesota, California, and New York.<ref target="sc08-3.003n1">1</ref>
-<note id="sc08-3.003n1" place="foot">
+Connecticut, Minnesota, California, and New York.<ref target="sc08-3003n1">1</ref>
+<note id="sc08-3003n1" place="foot">
                         <p>1. The national ranking for each state is n
 composite score based on a weighted total (called the worker climate
 index) that is derived from thirty-three indicators. The fifty states
@@ -243,9 +243,9 @@ death rates of thirteen or higher, include six more states from the
 Southeast.</p>
                      <p>These and other study results are detailed in this report.</p>
                </div3>
-               <div3 id="sc08-3.005" n="Findings" type="Section">
+               <div3 id="sc08-3005" n="Findings" type="Section">
                   <head>FINDINGS:</head>
-                  <div4 id="sc08-3.006" n="Jobs and Income" type="Part">
+                  <div4 id="sc08-3006" n="Jobs and Income" type="Part">
                      <head>Jobs and Income</head>
                      <p>The relationship between job growth and personal income is perhaps
 the best of all signs of the economic health of a state, addressing
@@ -254,8 +254,8 @@ degree to which those jobs provide workers with an adequate standard
 of living. This section of the report examines employment change--the
 increase or decrease in the actual number of employees--in the top
 five states, the bottom five states, and the Southeast region, and
-then looks at income change in the Southeast and in the nation.<ref target="sc08-3.006n2">2</ref>
-<note id="sc08-3.006n2" type="foot">2. To compare changes in both employment and personal
+then looks at income change in the Southeast and in the nation.<ref target="sc08-3006n2">2</ref>
+<note id="sc08-3006n2" type="foot">2. To compare changes in both employment and personal
 income we looked at the same three time periods: "long term" change
 during the ten years from 1975 to 1984; "short term" change from 1980
 to 1984, and the most recent one year period for which data is
@@ -791,7 +791,7 @@ where the gain in hourly wages exceeded $2 over these five years are
 New Jersey, New Mexico, Kansas, Minnesota, Missouri, Connecticut,
 Maine, California, Illinois, and Alaska.</p>
                   </div4>
-                  <div4 id="sc08-3.007" n="Poverty" type="Part">
+                  <div4 id="sc08-3007" n="Poverty" type="Part">
                      <head>Poverty</head>
                      <p>
                         <hi rend="bold">
@@ -831,7 +831,7 @@ the poverty level are North and South Dakota in the Plains; Maine,
 Vermont and New Hampshire in New England; Hawaii in the Pacific; and
 Nevada and Washington in the Far West.</p>
                   </div4>
-                  <div4 id="sc08-3.008" n="State Actions" type="Part">
+                  <div4 id="sc08-3008" n="State Actions" type="Part">
                      <head>State Actions</head>
                      <p>
                         <hi rend="bold">
@@ -979,7 +979,7 @@ highest in Washington ($2,366.89). Other states in the top ten, where
 revenue contributions per pupil exceed $1,500, are Hawaii, Delaware,
 New York, Georgia, Florida, Minnesota, California, and New Mexico.</p>
                   </div4>
-                  <div4 id="sc08-3.009" n="Hazardous Jobs" type="Part">
+                  <div4 id="sc08-3009" n="Hazardous Jobs" type="Part">
                      <head>Hazardous Jobs</head>
                      <p>
                         <hi rend="bold">
@@ -1026,7 +1026,7 @@ Delaware, West Virginia, and Wyoming. Other states with 7 percent or
 higher are Kentucky, South Carolina, Louisiana, New Hampshire, and
 Oklahoma.</p>
                   </div4>
-                  <div4 id="sc08-3.010" n="Commuting Time" type="Part">
+                  <div4 id="sc08-3010" n="Commuting Time" type="Part">
                      <head>Commuting Time</head>
                      <p>
                         <hi rend="bold">
@@ -1051,7 +1051,7 @@ percent), Maryland (18 percent), and New Jersey (16 percent). Illinois
 (17 percent) is also in this group. Other states in the bottom ten are
 Louisiana, Virginia and West Virginia, Pennsylvania and California.</p>
                   </div4>
-                  <div4 id="sc08-3.011" n="Health Care" type="Part">
+                  <div4 id="sc08-3011" n="Health Care" type="Part">
                      <head>Health Care</head>
                      <p>
                         <hi rend="bold">
@@ -1091,7 +1091,7 @@ with 7.7 infant deaths per thousand, and in nine other states with
 infant mortality rates of 10 or below: New Hampshire, Massachusetts,
 Idaho, Utah, Colorado, Nebraska, Iowa, Hawaii and New Mexico.</p>
                   </div4>
-                  <div4 id="sc08-3.012" n="Equal Employment" type="Part">
+                  <div4 id="sc08-3012" n="Equal Employment" type="Part">
                      <head>Equal Employment</head>
                      <p>
                         <hi rend="bold">
@@ -1145,7 +1145,7 @@ percent in Arkansas. The remaining bottom ten states are Mississippi,
 Kentucky, Tennessee, North Carolina, South Carolina and Georgia from
 the Southeast, and Utah and Indiana.</p>
                   </div4>
-                  <div4 id="sc08-3.013" n="Labor Membership" type="Part">
+                  <div4 id="sc08-3013" n="Labor Membership" type="Part">
                      <head>Labor Membership</head>
                      <p>
                         <hi rend="bold">
@@ -1169,7 +1169,7 @@ Kansas. The others are Arizona, Oklahoma, Texas, New Hampshire and
 Utah.</p>
                   </div4>
                </div3>
-               <div3 id="sc08-3.014" n="Conclusions" type="Section">
+               <div3 id="sc08-3014" n="Conclusions" type="Section">
                   <head>CONCLUSIONS:</head>
                   <p>While this report began with a number of conclusions to be drawn
 from some thirty-three indicators of the quality of working life, the
@@ -1259,7 +1259,7 @@ are few chances indeed for these groups to help themselves. In the
 absence of policies and programs that directly address their needs,
 there is little hope for help from other sources.</p>
                </div3>
-            <div3 id="sc08-3.023" type="About">
+            <div3 id="sc08-3023" type="About">
                   <p>Kenny Johnson is the director of the Southern Labor
 Institute, a project of the Southern Regional Council. A native of
 Louisiana, he is a former regional director of the National Rural
@@ -1269,7 +1269,7 @@ member of the Southern Labor Institute and a former staffer of the
 Southern Office of the National Rural Center.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-4.015" n="Labor Gives to Make Saturn Work" type="Article">
+            <div2 id="sc08-4015" n="Labor Gives to Make Saturn Work" type="Article">
                <head>Labor Gives to Make Saturn Work</head>
                <byline>By <docAuthor><name reg="Garber, Carter">Carter Garber</name> and <name reg="Fausey,  Verna"> Verna Fausey</name></docAuthor></byline>
                <docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate>
@@ -1330,7 +1330,7 @@ Dunn is not bound by this peace treaty.  Dunn, who was governor from
 1971-1975, feels the Saturn agreement "violates the spirit of
 Tennessee's right-to-work law."</p>
             </div2>
-            <div2 id="sc08-4.016" n="GM's Saturn Auto Plant Arrives in Spring Hill, Tennessee" type="Article">
+            <div2 id="sc08-4016" n="GM's Saturn Auto Plant Arrives in Spring Hill, Tennessee" type="Article">
                <head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
 Arrives in Spring Hill, Tennessee</head>
                <byline>By <docAuthor><name reg="Garber, Carter">Carter Garber</name> and <name reg="Fausey, Verna">Verna Fausey</name></docAuthor></byline>
@@ -1950,7 +1950,7 @@ taking all the risks. It's time public entities use these resources to
 support locally-generated forms of economic development which will
 hire local people, complement the ways of life of current residents,
 and build a stable local tax base and economy.</p>
-            <div3 id="sc08-4.036" type="About">
+            <div3 id="sc08-4036" type="About">
                         <p>Carter Garber is the founder of Southern Neighborhoods
 Network, a regional organization providing training and assistance to
 community economic development groups. Verna Fausey is editor of the

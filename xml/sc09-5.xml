@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc09-5.001" n="Southern Changes 9:5" type="Issue">
+         <div1 id="sc09-5001" n="Southern Changes 9:5" type="Issue">
             <head>Southern Changes.  Volume 9, Number 5, 1987</head>
             <p>
                <title>Southern Changes</title>.  Volume 9, Number 5,
 	       <date value="1987-12">1987</date></p>
-            <div2 id="sc09-5.002" n="Waiting for the Gag Reflex" type="Article">
+            <div2 id="sc09-5002" n="Waiting for the Gag Reflex" type="Article">
                <head>Waiting for the Gag Reflex</head>
                <byline>By <docAuthor><name reg="Teepen, Tom">Tom Teepen</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate>
@@ -141,12 +141,12 @@ debilitating poverty. The death penalty has become an act of class
 warfare, fought top-down against the poor and incompetent.</p>
                <p>America may no longer have a heart in such matters, but perhaps, at
 some point, we will prove still to have a gag reflex.</p>
-            <div3 id="sc09-5.022" type="About">
+            <div3 id="sc09-5022" type="About">
                   <p>Tom Teepen is editor of the editorial page of the Atlanta
 Constitution</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.003" n="As We Have Sown" type="Article">
+            <div2 id="sc09-5003" n="As We Have Sown" type="Article">
                <head>As We Have Sown: The new struggle is the same old fight to make
 enough to survive</head>
                <byline>By <docAuthor><name reg="Ritchie, Mark">Mark Ritchie</name></docAuthor></byline>
@@ -432,7 +432,7 @@ human spirit and of health and safety.</p>
                <p>We need to bring these people together to address those crises as a
 political coalition because that is the only way we will solve
 them-together. </p>
-            <div3 id="sc09-5.023" type="About">
+            <div3 id="sc09-5023" type="About">
                   <p>Edward Pennick is director of the Emergency Land
 Fund. Mark Ritchie, a native Georgian, is an agricultural policy
 analyst with the Minnesota Department of Agriculture.</p>
@@ -442,7 +442,7 @@ Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.004" n="As We Have Sown" type="Article">
+            <div2 id="sc09-5004" n="As We Have Sown" type="Article">
                <head>As We Have Sown: At current rates, blacks will own no land by
 the end of this century</head>
                <byline>By <docAuthor><name reg="Pennick, Edward">Edward Pennick</name></docAuthor></byline>
@@ -614,7 +614,7 @@ grassroots and progressive white leaders will also be participants in
 our imaginary press conference, because the farms will be owned by a
 few corporations that will give us all a lesson on what it means to
 control the land. </p>
-            <div3 id="sc09-5.024" type="About">
+            <div3 id="sc09-5024" type="About">
                   <p>Edward Pennick is director of the Emergency Land
 Fund. Mark Ritchie, a native Georgian, is an agricultural policy
 analyst with the Minnesota Department of Agriculture.</p>
@@ -624,7 +624,7 @@ Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.005" n="Rural Advancement Fund Celebrates 50 Years of Farm Advocacy" type="Article">
+            <div2 id="sc09-5005" n="Rural Advancement Fund Celebrates 50 Years of Farm Advocacy" type="Article">
                <head>Rural Advancement Fund Celebrates 50 Years of Farm
 Advocacy</head>
                <byline>By <docAuthor><name reg="Amberg, Robert">Robert Amberg</name></docAuthor></byline>
@@ -869,13 +869,13 @@ them. Speed now the day when the plains and the hills and all the
 wealth thereof shall be the people's own and free men shall not live
 as tenants of men on the earth..."</hi>
                </p>
-            <div3 id="sc09-5.025" type="About">
+            <div3 id="sc09-5025" type="About">
                   <p>Robert Amberg is communications director and photographer
 for the Rural Advancement Fund. A book-length history of RAF/NSF by
 Tevere MacFadyen will be published this winter.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.006" n="Lost Causes &#x26;Then Some" type="Article">
+            <div2 id="sc09-5006" n="Lost Causes &#x26;Then Some" type="Article">
                <head>Lost Causes &#x26;Then Some</head>
                <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate>
@@ -1469,7 +1469,7 @@ white, black, brown, and yellow; rich and poor; free and unfree;
 sinners and saints--we're all in the whale's belly together, and the
 whale is headed for the beach.</p>
                <p>Somebody do something, quick!</p>
-            <div3 id="sc09-5.026" type="About">
+            <div3 id="sc09-5026" type="About">
                   <p>Stetson Kennedy, a Florida native, played a prominent
 role in the pioneer civil rights movement of the thirties and
 forties. Taking it upon himself to infiltrate the KKK and a score of
@@ -1484,7 +1484,7 @@ writings under the title, "Land Be Bright," and an autobiography,
 "Dissident-at-Large."</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.007" n="South Leads in Black Officeholders" type="Article">
+            <div2 id="sc09-5007" n="South Leads in Black Officeholders" type="Article">
                <head>South Leads in Black Officeholders</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate>
@@ -1542,7 +1542,7 @@ Roster</title>, 1987, send $29.50 to Publications Office, Joint Center
 for Political Studies, 1301 Pennsylvania Avenue, N.W., #400,
 Washington, D.C. 20004.</p>
             </div2>
-            <div2 id="sc09-5.008" n="Sermonette on the Movement" type="Article">
+            <div2 id="sc09-5008" n="Sermonette on the Movement" type="Article">
                <head>Sermonette on the Movement</head>
                <byline>By <docAuthor><name reg="Hayden, Casey">Casey Hayden</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate>
@@ -1805,7 +1805,7 @@ book. They, and not we, were the heroes, the heroines. I was
 privileged to have been their servant for a while. To them, for all I
 learned from them and for all the beauty I witnessed, I extend my most
 sincere and humble thanks.</p>
-            <div3 id="sc09-5.028" type="About">
+            <div3 id="sc09-5028" type="About">
                   <p>Editor's Note: Freedom Song by Mary King, William Morrow
 and Co., $22.95, 592 pp.) appeared this year and has been hailed by
 many reviewers as a monument to the civil rights movement. Ms. King
@@ -1821,7 +1821,7 @@ presented here as a reflection on the period and the
 book.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.009" n="Avedon's West" type="Article">
+            <div2 id="sc09-5009" n="Avedon's West" type="Article">
                <head>Avedon's West</head>
                <byline>By <docAuthor><name reg="Ponder, Art">Art Ponder</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate>
@@ -1950,13 +1950,13 @@ approach never gets beyond the surface he holds so dear, generating
 not the least bit of understanding. Devoid of understanding and
 compassion, his subjects are left to drift helplessly and silently,
 with no voice to offer us their sagas of life and work.</p>
-            <div3 id="sc09-5.029" type="About">
+            <div3 id="sc09-5029" type="About">
                   <p>Art Ponder is a drifter and a sometimes contributor to
 <title>Southern Changes</title> who is currently stationed in
 Atlanta.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.010" n="Women and 'Men's Work' During the War Years" type="Review">
+            <div2 id="sc09-5010" n="Women and 'Men's Work' During the War Years" type="Review">
                <head>Women and 'Men's Work' During the War Years.</head>  
                <byline>By <docAuthor><name reg="Thomas, Mary Martha">Mary Martha Thomas</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate>
@@ -2014,7 +2014,7 @@ in 1940. In short, says Thomas, the "forces of continuity seem to
 have prevailed over the forces of change during the war years in
 Alabama."</p>
             </div2>
-            <div2 id="sc09-5.011" n="The Struggle Goes to Hollywood" type="Article">
+            <div2 id="sc09-5011" n="The Struggle Goes to Hollywood" type="Article">
                <head>The Struggle Goes to Hollywood</head>
                <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate>
@@ -2097,7 +2097,7 @@ gamble on the part of the Botha government to win points abroad by
 trying to show that the film will have minimal adverse effect in South
 Africa.</p>
             </div2>
-            <div2 id="sc09-5.012" n="A Letter from Lillian Smith" type="Article">
+            <div2 id="sc09-5012" n="A Letter from Lillian Smith" type="Article">
                <head>A Letter from Lillian Smith</head>
                <byline>Edited by <docAuthor><name reg="Gladney, Rose">ROSE GLADNEY</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate>
@@ -2222,12 +2222,12 @@ mention this kindness to us so that it will help you identify us.</p>
 unwavering stand for the democratic decencies.</p>
                <p>Most sincerely yours,</p>
                <p>Lillian E. Smith</p>
-            <div3 id="sc09-5.032" type="About">
+            <div3 id="sc09-5032" type="About">
                   <p>Rose Gladney is assistant professor of American studies
 at the University of Alabama, Tuscaloosa.</p>
 	    </div3>
 	  </div2>
-            <div2 id="sc09-5.013" n="The 1987 Lillian Smith Book Awards" type="Article">
+            <div2 id="sc09-5013" n="The 1987 Lillian Smith Book Awards" type="Article">
                <head>The 1987 Lillian Smith Book Awards</head>
                <byline>By <docAuthor><name reg="DAVIS, THADIOUS">THADIOUS DAVIS</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate>
@@ -2389,7 +2389,7 @@ modern South."</p>
                <p>Race and Justice</p>
                <p>Of the 5,710 judges and prosectors who play a role in deciding who
 will be executed in the United States, 178 (3.1 percent) are black.</p>
-            <div3 id="sc09-5.033" type="About">
+            <div3 id="sc09-5033" type="About">
                   <p>Thadious Davis teaches at the University of North
 Carolina at Chapel Hill and was a member of the committee which
 selected this year's Lillian Smith prize winners. Other committee
@@ -2401,7 +2401,7 @@ entries in fiction, history, and autobiography! memoir published
 between July 1, 1986, and June 30, 1987.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.014" n="On Guard Against Good Intentions" type="Review">
+            <div2 id="sc09-5014" n="On Guard Against Good Intentions" type="Review">
                <head>On Guard Against Good Intentions.</head>
                <byline>By <docAuthor><name reg="Littleton, George">George Littleton</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate>
@@ -2559,12 +2559,12 @@ would become extremists in pursuit of their good intentions. So too
 must the powerful remain sensitive to what it means to be human. We
 may be screwed-up, Percy seems to be saying, but it's better than
 being dead.</p>
-            <div3 id="sc09-5.034" type="About">
+            <div3 id="sc09-5034" type="About">
                   <p>George Littleton is a writer on the staff of the Alabama
 Commission on Higher Education in Montgomery.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-5.015" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc09-5015" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline><docAuthor><name reg="">By J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate>
@@ -2635,7 +2635,7 @@ slavery was outlawed.</p>
 directly at racism and the women's movement caught fire.</p>
                <p>The proof is in the pudding.</p>
                <p>Peace.</p>
-            <div3 id="sc09-5.035" type="About">
+            <div3 id="sc09-5035" type="About">
                   <p>J. L. Chestnut Jr. is an Alabama trial lawyer and
 writer.</p>
                </div3>

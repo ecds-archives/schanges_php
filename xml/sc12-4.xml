@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc12-4.001" n="Southern Changes 12:4" type="Issue">
+         <div1 id="sc12-4001" n="Southern Changes 12:4" type="Issue">
             <head>Southern Changes.  Volume 12, Number 4, 1990</head>
             <p>
                <title>Southern Changes</title>.  Volume 12, Number 4,
 	       <date value="1990-09">1990</date></p>
-            <div2 id="sc12-4.002" n="South of Art" type="Article">
+            <div2 id="sc12-4002" n="South of Art" type="Article">
                <head>South of Art</head>
                <byline>By <docAuthor><name reg="Willett, Henry">Henry Willett</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 14-15</docDate>
@@ -163,14 +163,14 @@ marketed in a package of stereotypes, and sold for profit. And it will
 no doubt continue to be so expropriated until the region develops the
 will and the mechanisms for assuming the critical proprietorship of
 its own culture.</p>
-            <div3 id="sc12-4.022" type="About">
+            <div3 id="sc12-4022" type="About">
                   <p>Hank Willett is the former regional representative to the
 Southern states for thc National Endowment for thc arts. He has
 recently left that position to organize and direct thc Alabama Center
 for Traditional Culture.</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.003" n="Driving Mr. Walker" type="Article">
+            <div2 id="sc12-4003" n="Driving Mr. Walker" type="Article">
                <head>Driving Mr. Walker</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 5-7</docDate>
@@ -321,7 +321,7 @@ region where neighborliness cares for all.</p>
                <p>If Mr. Walker had returned my money, that would have been the real
 hoax.</p>
             </div2>
-            <div2 id="sc12-4.004" n="A Walk on the Supply Side" type="Article">
+            <div2 id="sc12-4004" n="A Walk on the Supply Side" type="Article">
                <head>A Walk on the Supply Side</head>
                <byline><docAuthor><name reg="Katz, Michael B.">Michael B. Katz</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, p. 6</docDate>
@@ -352,7 +352,7 @@ coursed through American social thought for centuries."</p>
                <p>--from the introduction to <title>The Undeserving Poor</title>, by
 Michael B. Katz (Pantheon Books, 1989).</p>
             </div2>
-            <div2 id="sc12-4.005" n="Feud" type="Review">
+            <div2 id="sc12-4005" n="Feud" type="Review">
                <head>Feud</head>
                <byline>Reviewed by <docAuthor><name reg="Hall, Suzanne M.">Suzanne M. Hall</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 18-19</docDate>
@@ -452,13 +452,13 @@ feud with its themes of honor and revenge. Waller tells a complex
 story in a captivating style which satisfies the needs of scholars and
 the general reading public. Her account of the feud is vastly more
 thought-provoking and entertaining than the Hatfield-McCoy myth. K</p>
-            <div3 id="sc12-4.025" type="About">
+            <div3 id="sc12-4025" type="About">
                   <p>Suzanne Hall is a
 member of the History faculty at Kennesaw State College in Marietta,
 Georgia.</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.006" n="A View from Death Row" type="Review">
+            <div2 id="sc12-4006" n="A View from Death Row" type="Review">
                <head>A View from Death Row.</head> 
                <byline>Reviewed by <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 16-17</docDate>
@@ -565,12 +565,12 @@ live under a government that refuses to kill its citizens. And a major
 factor in this return to sanity and humanity could be these 13 souls
 who were put to death by the state and who Joe Ingle has here kept
 alive.</p>
-            <div3 id="sc12-4.026" type="About">
+            <div3 id="sc12-4026" type="About">
                   <p>W.W. Finlator, preacher, prophet, man of justice,  lives
 as he long has in Raleigh, North Carolina.</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.007" n="You Gotta Serve Somebody" type="Article">
+            <div2 id="sc12-4007" n="You Gotta Serve Somebody" type="Article">
                <head>You Gotta Serve Somebody</head>
                <byline>By <docAuthor><name reg="Davis, Murphy">Murphy Davis</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 1-5</docDate>
@@ -829,14 +829,14 @@ willful or unwitting ignorance--our silence and our inaction mean,
 literally and powerfully, service to a public policy that is 
 killing our neighbors at home and around the world.</p>
                <p>You gonna have to serve somebody.</p>
-            <div3 id="sc12-4.027" type="About">
+            <div3 id="sc12-4027" type="About">
                   <p>Murphy Davis is the Open Door Community's Southern Prison
 Ministry Director. This article is adapted from a symposium talk in
 May 1990 at Converse College. (Open Door Community, 910 Ponce de Leon
 Avenue, Atlanta, GA 30306-4212; (404)-874-9652.)</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.008" n="Mississippi and the WPA" type="Review">
+            <div2 id="sc12-4008" n="Mississippi and the WPA" type="Review">
                <head>Mississippi and the WPA</head>
                <byline>Reviewed by <docAuthor><name reg="Campbell, Will">Will Campbell</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 20-23</docDate>
@@ -1017,7 +1017,7 @@ together because that was what they did best and because there once
 existed a federal administration that believed in feeding the hungry
 and clothing the naked. As for me, I will be content knowing that the
 words were written and are once more available to us. </p>
-            <div3 id="sc12-4.028" type="About">
+            <div3 id="sc12-4028" type="About">
                   <p>Will Campbell's most recent book is Covenant, with
 photographs by AI Clayton. <title>Mississippi: The WPA Guide to the
 Magnolia State,</title> with a new introduction by Robert
@@ -1025,7 +1025,7 @@ S. McElvaine, is available from the University Press of
 Mississippi.</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.009" n="Black and White and Rosy" type="Review">
+            <div2 id="sc12-4009" n="Black and White and Rosy" type="Review">
                <head>Black and White and Rosy.</head>
                <byline>Reviewed by <docAuthor><name reg="Bussey, Charles J.">Charles J. Bussey</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 17-18</docDate>
@@ -1118,14 +1118,14 @@ remains a dream, not a foreseeable reality.</p>
 people who seek to understand being black, white and southern. His
 bibliographical essay is thorough and provides a key starting point
 for any reader.</p>
-            <div3 id="sc12-4.029" type="About">
+            <div3 id="sc12-4029" type="About">
                   <p>Originally from Mississippi, Charles Bussey now  is on
 the History faculty of Western Kentucky University. He is  researching
 the life and work of Julius Richmond, the  architect and first
 director of Head Start.</p>
                </div3>
 	     </div2>
-            <div2 id="sc12-4.010" n="Cooked Food" type="Article">
+            <div2 id="sc12-4010" n="Cooked Food" type="Article">
                <head>Cooked Food</head>
                <byline>By <docAuthor><name reg="Bondi, Roberta">Roberta Bondi</name></docAuthor></byline>
                <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 8-12</docDate>
@@ -1424,7 +1424,7 @@ Has she just taken away from me the power of my womanhood or has she
 set me free? Feeling a bit betrayed by the aunts I thought I had
 myself betrayed, I wonder over the mystery of time passing, and of
 cooked food. </p>
-            <div3 id="sc12-4.030" type="About">
+            <div3 id="sc12-4030" type="About">
                   <p>Roberta Bondi is professor of church history at the
 Candler School of Theology at Emory University. She is the author of
 <title>To Love as God Loved: Conversations with the Early

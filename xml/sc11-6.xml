@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc11-6.001" n="Southern Changes 11:6" type="Issue">
+         <div1 id="sc11-6001" n="Southern Changes 11:6" type="Issue">
             <head>Southern Changes.  Volume 11, Number 6, 1989</head>
             <p>
                <title>Southern Changes</title>.  Volume 11, Number 6,
 	       <date value="1989-12">1989</date></p>
-            <div2 id="sc11-6.002" n="An Unending Stream" type="Review">
+            <div2 id="sc11-6002" n="An Unending Stream" type="Review">
                <head>An Unending Stream: History One Day at a Time.</head>  
                <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate>
@@ -253,13 +253,13 @@ donated his heart to an Arab; the widow said, "If it is possible to
 save a person, I think it is a religious commandment."</p>
                <p>Hope is still ours by right of such as these, and of that young
 man, 175 feet aloft.</p>
-             <div3 id="sc11-6.022" type="About">
+             <div3 id="sc11-6022" type="About">
                   <p>LESLIE DUNBAR is the review editor of 
 <title>Southern Changes.</title>
                   </p>
                </div3>
 	     </div2>
-            <div2 id="sc11-6.003" n="An Insider's Account of Race and Politics in the Delta" type="Review">
+            <div2 id="sc11-6003" n="An Insider's Account of Race and Politics in the Delta" type="Review">
                <head>An Insider's Account of Race and Politics in the Delta.</head>
 
                <byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
@@ -382,14 +382,14 @@ spoken to. At the reception in the Neilson's white-columned home, he
 entered the back door. The only other black people there were the
 maids. Clark chatted briefly with the police chief, met Mrs. Neilson
 for the first time, and then slipped quietly out the back.</p>
-            <div3 id="sc11-6.023" type="About">
+            <div3 id="sc11-6023" type="About">
                   <p>MICHAEL COOPER is researching the life of Hazel Brannon
 Smith, former editor and publisher of the Holmes County
 <title>Lexington Advertiser.</title>
                   </p>
                </div3>
 	     </div2>
-            <div2 id="sc11-6.004" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc11-6004" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate>
@@ -455,12 +455,12 @@ given him.</p>
 everybody and everything you already know the answers to those
 questions.</p>
                <p>Peace.</p>
-            <div3 id="sc11-6.024" type="About">
+            <div3 id="sc11-6024" type="About">
                   <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-6.005" n="The Pittston Strike" type="Article">
+            <div2 id="sc11-6005" n="The Pittston Strike" type="Article">
                <head>The Pittston Strike</head>
                <byline>By <docAuthor><name reg="Thompson, Charlie D.">Charlie D. Thompson</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate>
@@ -680,7 +680,7 @@ continue to come. Those who have always been here pledge to remain as
 solid as the mountains which surround them. They are not about to give
 in now.</p>
             </div2>
-            <div2 id="sc11-6.006" n="Culture-Bound Southern Baptists and Their Exiles" type="Review">
+            <div2 id="sc11-6006" n="Culture-Bound Southern Baptists and Their Exiles" type="Review">
                <head>Culture-Bound Southern Baptists and Their Exiles.</head>  
                <byline>Reviewed by <docAuthor><name reg="Hendricks, Joseph">Joseph Hendricks</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate>
@@ -787,13 +787,13 @@ institutional church and the state by proclaiming the criticism they
 so desperately need. Through the lives of such exiles the Convention
 might catch a glimpse of how to be faithful in Southern culture
 without being <hi rend="italic">of</hi> it.</p>
-            <div3 id="sc11-6.026" type="About">
+            <div3 id="sc11-6026" type="About">
                   <p>JOSEPH HENDRICKS is chair of Interdisciplinary Studies at
 Mercer University, a Southern Baptist, and a long-time active
 challenger of injustice in Georgia and the South.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-6.007" n="We the Baptists" type="Review">
+            <div2 id="sc11-6007" n="We the Baptists" type="Review">
                <head>We the Baptists: Trading Away a Birthright.</head>  
                <byline>Reviewed by <docAuthor><name reg="Finlator, W. W.">W. W. Finlator</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate>
@@ -857,7 +857,7 @@ pottage of conformity, control, authority, inerrancy, status, power,
 and bigness.</p>
                <p>And, oddly, just what the country most needs in this hour we
 Southern Baptists have forfeited.</p>
-            <div3 id="sc11-6.027" type="About">
+            <div3 id="sc11-6027" type="About">
                   <p>W. W. FINLATOR, from his several North Carolina
 pastorates and especially until 1983 from the Pullen Memorial Baptist
 Church of Raleigh, has been a prophet--with and sometimes
@@ -868,7 +868,7 @@ Observer) the "W.W. Finlator Award." Has any other Southern Baptist
 preacher been so honored?</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-6.008" n="The Court and the Black Community" type="Article">
+            <div2 id="sc11-6008" n="The Court and the Black Community" type="Article">
                <head>The Court and the Black Community</head>
                <byline>By <docAuthor><name reg="Chambers, Julius L.">Julius L. Chambers</name></docAuthor></byline>
                <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate>
@@ -1231,7 +1231,7 @@ accommodate a diversity of groups. We are going to have a
 multicultural world in the coming years. We must expand the reach of
 equal protection to make sure that it is inclusive of all groups who
 seek equal participation in society.</p>
-            <div3 id="sc11-6.028" type="About">
+            <div3 id="sc11-6028" type="About">
                   <p>A former president of the Southern Regional Council and
 one of the country's foremost civil rights attorneys, Julius Chambers
 has served since 1984 as director-counsel of the NAACP Legal Defense

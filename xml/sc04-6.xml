@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc04-6.001" n="Southern Changes 4:6" type="Issue">
+         <div1 id="sc04-6001" n="Southern Changes 4:6" type="Issue">
             <head>Southern Changes.  Volume 4, Number 6, 1982</head>
             <p>
                <title>Southern Changes.</title>  Volume 4, Number 6,
 	       <date value="1982-11">1982</date></p>
-            <div2 id="sc04-6.002" n="Rockefeller Philanthropy and Public Health in the New South" type="Review">
+            <div2 id="sc04-6002" n="Rockefeller Philanthropy and Public Health in the New South" type="Review">
                <head>
                   <title>The Germ of Laziness: Rockefeller Philanthropy and Public
 Health in the New South.</title> by John Ettling, Harvard University
@@ -253,7 +253,7 @@ South poverty required an introspection that the hookworm evangelists,
 busy with their attempts to chase the demons out of dispossessed poor
 whites, could not allow.</p>
             </div2>
-            <div2 id="sc04-6.003" n="Fifty Years With Highlander" type="Article">
+            <div2 id="sc04-6003" n="Fifty Years With Highlander" type="Article">
                <head>Fifty Years With Highlander</head>
                <byline>By <docAuthor><name reg="Thrasher, Sue">Sue Thrasher</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate>
@@ -650,12 +650,12 @@ justice.</p>
 Highlander staff in 1933. He left Highlander to fight with the Abraham
 Lincoln Brigade and died in the Spanish Civil War.</p>
                   <p>Candie Carawan its currently on the Highlander staff.</p>
-            <div3 id="sc04-6.023" type="About">
+            <div3 id="sc04-6023" type="About">
                   <p>Sue Thrasher is on the program staff at
 Highlander.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.004" n="Local Color Defaulting On Justice" type="Article">
+            <div2 id="sc04-6004" n="Local Color Defaulting On Justice" type="Article">
                <head>Local Color Defaulting On Justice</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate>
@@ -794,7 +794,7 @@ and integrated public education now depends largely on the initiatives
 of the Burger Court, in the fact of a hostile president and an
 immobile Congress, O Ye, O Ye, God save this country.</p>
             </div2>
-            <div2 id="sc04-6.005" n="Reapportionment Roundup" type="Article">
+            <div2 id="sc04-6005" n="Reapportionment Roundup" type="Article">
                <head>Reapportionment Roundup</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 20-24</docDate>
@@ -1197,12 +1197,12 @@ voter registration and turnout are higher.</p>
                <p>"When put in perspective. the fight in the legislature for over a
 year to keep out a total of three black lawmakers is absolutely
 incredible," remarks Jack Gravely, the head of the NAACP.</p>
-            <div3 id="sc04-6.025" type="About">
+            <div3 id="sc04-6025" type="About">
                   <p>This report was prepared by the staff of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.006" n="Denton and Helms" type="Article">
+            <div2 id="sc04-6006" n="Denton and Helms" type="Article">
                <head>Denton and Helms: The Enemies Within.  Patriotism in Peace</head>
                <byline><docAuthor><name reg="Arkansas Gazette">From the Arkansas Gazette</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate>
@@ -1246,7 +1246,7 @@ organizations that are demanding that steps be taken at the highest
 political levels to prevent a nuclear war. Peace Links and other like
 groups are practicing patriotism of a high order.</p>
             </div2>
-            <div2 id="sc04-6.007" n="North Carolina Pays the Price" type="Article">
+            <div2 id="sc04-6007" n="North Carolina Pays the Price" type="Article">
                <head>North Carolina Pays the Price</head>
                <byline>By <docAuthor><name reg="Sitton, Claude">Claude Sitton</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate>
@@ -1338,12 +1338,12 @@ can be effective, come second.</p>
                <p>This session, then, poses a question that only North Carolinians
 can answer. That is whether the state wants to go on paying the price
 of keeping this true believer of radical stripe in the Senate.</p>
-            <div3 id="sc04-6.027" type="About">
+            <div3 id="sc04-6027" type="About">
                   <p>Claude Sitton its the editor of the <title>Raleigh News
 and Observer</title>.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.008" n="The Disaster of America's Experience with Atomic Radiation" type="Review">
+            <div2 id="sc04-6008" n="The Disaster of America's Experience with Atomic Radiation" type="Review">
                <head>
                   <title>Killing Our Own: The Disaster of America's Experience
 with Atomic Radiation.</title> By Harvey Wasserman and Norman Solomon
@@ -1477,12 +1477,12 @@ federal and state "regulatory" agencies--will be forced to admit the
 danger of its wares.</p>
                <p>At last we'll get to the real issue: Is nuclear energy really worth
 its high human costs?</p>
-            <div3 id="sc04-6.028" type="About">
+            <div3 id="sc04-6028" type="About">
                   <p>John Northrop is a member of the Conservation Committee
 of the Birmingham Audubon Society.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.009" n="Beaufort Academy" type="Article">
+            <div2 id="sc04-6009" n="Beaufort Academy" type="Article">
                <head>Beaufort Academy--"None Ever Applied"</head>
                <byline>By <docAuthor><name reg="Mcmillan, George">George Mcmillan</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate>
@@ -1624,12 +1624,12 @@ do a good job if it's given a chance."</p>
 in Beaufort which was being run by the local John Birch Society at the
 time he organized Beaufort Academy. He says he would "rather not
 answer" on whether he was a John Birch member.</p>
-            <div3 id="sc04-6.029" type="About">
+            <div3 id="sc04-6029" type="About">
                   <p>George McMillan its a freelance writer who lives in
 Frogmore, South Carolina.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.010" n="Worker Owned" type="Article">
+            <div2 id="sc04-6010" n="Worker Owned" type="Article">
                <head>Worker Owned: Some Southern Beginnings</head>
                <byline>By <docAuthor><name reg="Connette, Woody">Woody Connette</name></docAuthor></byline>
                <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate>
@@ -2069,12 +2069,12 @@ and Percy White, and small towns like Woodland and Windsor, are being
 ravaged by the drastic changes that we are seeing in the industrial
 production sector of the economy. There are welcome seeds of hope in
 these worker owned businesses.</p>
-            <div3 id="sc04-6.020" type="About">
+            <div3 id="sc04-6020" type="About">
                   <p>Woody Connette is managing attorney at Legal Services of
 Southern Piedmont, Inc., in Concord, North Carolina.</p>
                </div3>
                </div2>
-            <div2 id="sc04-6.011" n="The Tuskegee Syphilis Experiment" type="Review">
+            <div2 id="sc04-6011" n="The Tuskegee Syphilis Experiment" type="Review">
                <head>
                   <title>Bad Blood: The Tuskegee Syphilis Experiment. By James
 H. Jones.</title> New York: The Free Press, 1981. $14. 95.</head>
@@ -2227,7 +2227,7 @@ he has told their story well: "a forty-year saga of lies and deceit,
 of unlettered men who had trusted and been betrayed by educated men."
 As the major indictment of "the scandalous story of the Tuskegee
 experiment," this important book deserves to be widely read.</p>
-            <div3 id="sc04-6.021" type="About">
+            <div3 id="sc04-6021" type="About">
                   <p>Bess Beatty is an assistant professor of history at
 Shorter College, Rome, Georgia.</p>
                </div3>
