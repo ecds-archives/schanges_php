@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc05-2.001" n="Southern Changes 5:2" type="Issue">
+         <div1 id="sc05-2001" n="Southern Changes 5:2" type="Issue">
             <head>Southern Changes.  Volume 5, Number 2, 1983</head>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 2,
 	       <date value="1983-03">1983</date></p>
-            <div2 id="sc05-2.002" n="Ethics and Equations" type="Article">
+            <div2 id="sc05-2002" n="Ethics and Equations" type="Article">
                <head>Ethics and Equations</head>
                <byline>By <docAuthor><name reg="Paddock, Polly">Polly Paddock</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate>
@@ -154,13 +154,13 @@ suggest that those of us troubled by simplistic rhetoric about the
 math and science lag make ourselves heard; letters should be addressed
 to the Task Force on Education for Economic Growth, c/o Gov. James
 Hunt, Capitol Building, Raleigh, N.C. 27611.</p>
-            <div3 id="sc05-2.022" type="About">
+            <div3 id="sc05-2022" type="About">
                   <p>Polly Paddock is an editorial page writer for the
 Charlotte <title>Observer.</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc05-2.003" n="Money on the Mainline" type="Article">
+            <div2 id="sc05-2003" n="Money on the Mainline" type="Article">
                <head>Money on the Mainline</head>
                <byline>By <docAuthor><name reg="Johnson, Tim">Tim Johnson</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate>
@@ -556,13 +556,13 @@ construction. This is due to the tax-free nature of bonds it issues
                <p>
                   <hi rend="bold">The City of Dalton</hi> opted to stay out of MEAG but
 bought into Plant Vogtle on its own.</p>
-            <div3 id="sc05-2.023" type="About">
+            <div3 id="sc05-2023" type="About">
                   <p>Tim Johnson, who has worked for the Georgia Public
 Service Commission and the Consumers' Utility Counsel of Georgia, its
 an Atlanta writer and organizer.</p>
                </div3>
                </div2>
-            <div2 id="sc05-2.004" n="Almost Family" type="Review">
+            <div2 id="sc05-2004" n="Almost Family" type="Review">
                <head>
                   <title>Almost Family.</title>  Roy Hoffman. The Dial Press,
 1983.</head>
@@ -700,7 +700,7 @@ across cultural and racial lines in the South. He stands back from all
 of his characters and recognizes the limitations in them. I get the
 feeling that he is also standing back from what he has written,
 knowing that there is much more to tell.</p>
-            <div3 id="sc05-2.024" type="About">
+            <div3 id="sc05-2024" type="About">
                   <p>Trudier Harris, who teaches English and folklore at the
 University of North Carolina at Chapel Hill, grew up in
 Tuscaloosa. Her book, <title>From Mammies to Militants: Domestics in
@@ -708,7 +708,7 @@ Black American Literature</title>, was published by Temple University
 Press in December, 1982.</p>
                </div3>
                </div2>
-            <div2 id="sc05-2.005" n="The Color Purple" type="Review">
+            <div2 id="sc05-2005" n="The Color Purple" type="Review">
                <head>
                   <title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
 1982.</head>
@@ -879,12 +879,12 @@ Christianity, but spiritual power remains fundamental. <title>The
 Color Purple</title> contains Walker's best writing on the nature of
 God. It is also one of our finest testimonies to the power of
 sisterhood.</p>
-            <div3 id="sc05-2.025" type="About">
+            <div3 id="sc05-2025" type="About">
                   <p>Rose Gladney is associate professor of American Studies
 at the University of Alabama in Tuscaloosa.</p>
                </div3>
                </div2>
-            <div2 id="sc05-2.006" n="Union Power, Soul Power" type="Article">
+            <div2 id="sc05-2006" n="Union Power, Soul Power" type="Article">
                <head>Union Power, Soul Power: The Story of 1199B and Labor's Search
 for A Southern Strategy</head>
                <byline>By <docAuthor><name reg="Fink, Leon">Leon Fink</name></docAuthor></byline>
@@ -1760,7 +1760,7 @@ effort require a greater effort form the national unions. Yet, if
 unions are to take a more active role in Southern community life, then
 confident talk of a progressive "sunbelt" must come to include a
 formal voice for the region's working people.</p>
-            <div3 id="sc05-2.026" type="About">
+            <div3 id="sc05-2026" type="About">
                   <p>Leon Fink is assistant professor of history at the
 University of North Carolina at Chapel Hill. He is author of
 <title>Workingmen's Democracy: The Knights of Labor and American
@@ -1773,7 +1773,7 @@ University Press in 1984. The author gratefully acknowledges the help
 of Stephen Hoffius and David J. Garrow in his research.</p>
                </div3>
 	     </div2>
-            <div2 id="sc05-2.007" n="Mississippi Makes Up Its Mind" type="Article">
+            <div2 id="sc05-2007" n="Mississippi Makes Up Its Mind" type="Article">
                <head>Mississippi Makes Up Its Mind</head>
                <byline>By <docAuthor><name reg="Barber, Rims">Rims Barber</name></docAuthor></byline>
                <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 8-9</docDate>
@@ -1929,7 +1929,7 @@ administrators</item>
 compel compliance with the new standards</item>
 </list>
 	       </p>
-            <div3 id="sc05-2.027" type="About">
+            <div3 id="sc05-2027" type="About">
                   <p>Rims Barber, a member of the Southern Regional Council,
 is project director for Childrens' Defense Fund in
 Mississippi.</p>

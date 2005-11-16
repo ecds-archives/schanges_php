@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc06-4.001" n="Southern Changes 6:4" type="Issue">
+         <div1 id="sc06-4001" n="Southern Changes 6:4" type="Issue">
             <head>Southern Changes.  Volume 6, Number 4, 1984</head>
             <p>
                <title>Southern Changes</title>.  Volume 6, Number 4,
 	       <date value="1984-08">1984</date></p>
-            <div2 id="sc06-4.002" n="Emelle, Alabama Toxic Waste Cadillac" type="Article">
+            <div2 id="sc06-4002" n="Emelle, Alabama Toxic Waste Cadillac" type="Article">
                <head>Emelle, Alabama Toxic Waste Cadillac</head>
                <byline>By <docAuthor><name reg="Gunter, Booth">Booth Gunter</name> and <name reg="Williams,  Mike"> Mike Williams</name></docAuthor></byline>
                <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate>
@@ -511,7 +511,7 @@ has become active fighting the company for four very specific reasons:
 "my three children and this community."</p>
                <p>"They haven't got enough money in the Superfund to buy this house,"
 she says.</p>
-            <div3 id="sc06-4.022" type="About">
+            <div3 id="sc06-4022" type="About">
                   <p>Booth Gunter and Mike Williams are staff writers for the
 Montgomery Advertiser. Gunter worked as a political and general
 assignments reporter for the daily Huntsville (Texas) Item until 1983,
@@ -542,7 +542,7 @@ own politicians, taking advantage of the South's resources for
 profit.</p>
                </div3>
                </div2>
-            <div2 id="sc06-4.003" n="Hazardous Waste in Georgia" type="Article">
+            <div2 id="sc06-4003" n="Hazardous Waste in Georgia" type="Article">
                <head>Hazardous Waste in Georgia</head>
                <byline>By <docAuthor><name reg="Breman, Vicki">Vicki Breman</name></docAuthor></byline>
                <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate>
@@ -996,12 +996,12 @@ close monitoring.</p>
 term. But the costs of living with hazardous waste landfills--measured
 by the inevitable clean-up bill and the damage to human health for
 generations to come--is considerable and ultimately unacceptable.</p>
-            <div3 id="sc06-4.023" type="About">
+            <div3 id="sc06-4023" type="About">
                   <p>Vicki Breman is an attorney with the Georgia office of
 the Legal Environmental Assistance Foundation.</p>
                </div3>
                </div2>
-            <div2 id="sc06-4.004" n="Blues for Mr. President" type="Article">
+            <div2 id="sc06-4004" n="Blues for Mr. President" type="Article">
                <head>Blues for Mr. President</head>
                <byline>By <docAuthor><name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
                <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate>
@@ -1179,13 +1179,13 @@ Winston-Salem to appear at festivals. "<hi rend="bold">Mr. President</hi>" his
 first record, was recorded on the label and is available from Audio
 Arts Recording Company, Route 1, Box 59, in Greenville, North Carolina
 27834, (919) 758-2240.</p>
-            <div3 id="sc06-4.024" type="About">
+            <div3 id="sc06-4024" type="About">
                   <p>Tom Rankin is a folklorist and photographer now living in
 Jackson, Mississippi. An exhibit of his photographs opens Oct. 12 at
 Vanderbilt University.</p>
                </div3>
                </div2>
-            <div2 id="sc06-4.005" n="Southern Electric Cooperatives Still Segregated" type="Article">
+            <div2 id="sc06-4005" n="Southern Electric Cooperatives Still Segregated" type="Article">
                <head>Southern Electric Cooperatives Still Segregated</head>
                <byline>By <docAuthor><name reg="Pace, David">David Pace</name></docAuthor></byline>
                <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate>
@@ -1342,11 +1342,11 @@ more strict scrutiny of their conduct, and there would be much easier
 ways to get at their nonresponsiveness to customers.</p>
                <p>"As it is, they sit right between government and the private sector
 and get the benefit of the worst abuses of both," he said.</p>
-            <div3 id="sc06-4.025" type="About">
+            <div3 id="sc06-4025" type="About">
                   <p>David Pace writes for the Associated Press.</p>
                </div3>
                </div2>
-            <div2 id="sc06-4.006" n="The Electric Valley" type="Review">
+            <div2 id="sc06-4006" n="The Electric Valley" type="Review">
                <head>The Electric Valley</head>
                   
                <byline>Reviewed by <docAuthor><name reg="Whisnant, David">David E. Whisnant</name></docAuthor></byline>
@@ -1568,7 +1568,7 @@ The need is urgent as the
 chilly winds of Reaganisrn continue to corrupt the very terms of
 public discourse and--to borrow Siegenthaler's metaphor--cool the
 oatmeal.</p>
-            <div3 id="sc06-4.026" type="About">
+            <div3 id="sc06-4026" type="About">
                   <p>David E. Whisnant is professor of American Studies at the
 University of Maryland, Baltimore County. He is the author of
 <title>All That Is Native and Fine: The Politics of Culture in an
@@ -1576,7 +1576,7 @@ American Region</title> (University of North Carolina Press,
 1983).</p>
                </div3>
                </div2>
-            <div2 id="sc06-4.007" n="This Land, This South" type="Review">
+            <div2 id="sc06-4007" n="This Land, This South" type="Review">
                <head>This Land, This South</head>
                <byline>Reviewed by <docAuthor><name reg="Ayers, Edward
 	       L.">Edward L. Ayers</name></docAuthor></byline>
@@ -1647,13 +1647,13 @@ suburbanization, landscaping. But to those who read this fine book the
 South can never look quite the same again. The signs of centuries of
 struggle with and against the land will be easier to see and more
 understandable--if no less poignant and tragic.</p>
-            <div3 id="sc06-4.027" type="About">
+            <div3 id="sc06-4027" type="About">
                   <p>Edward L. Ayers is associate professor of history at the
 University of Virginia. He is author of <title>Vengeance and Justice:
 Crime and Punishment in the 19th-Century American South</title>
 (Oxford University Press, 1984).</p>
                </div3></div2>
-            <div2 id="sc06-4.008" n="Southern Progressivism" type="Review">
+            <div2 id="sc06-4008" n="Southern Progressivism" type="Review">
                <head>Southern Progressivism</head>
                <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
                <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate>
@@ -1762,7 +1762,7 @@ function both as agents of modernization and as guardians of southern
 tradition." They wanted a new order, not to replace the old but to fit
 snugly and comfortably around it. It took them another half-century to
 learn that such a dream was not only wrong but impossible.</p>
-            <div3 id="sc06-4.028" type="About">
+            <div3 id="sc06-4028" type="About">
                   <p>John Egerton's most recent book is <title>Generations: An
 American Family</title> (University of Kentucky Press,
 1983).</p>

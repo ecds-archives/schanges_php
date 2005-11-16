@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc05-1.001" n="Southern Changes 5:1" type="Issue">
+         <div1 id="sc05-1001" n="Southern Changes 5:1" type="Issue">
             <head>Southern Changes.  Volume 5, Number 1, 1983</head>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 1,
 	       <date value="1983-01">1983</date></p>
-            <div2 id="sc05-1.002" n="Ronald Reagan and the New Republican South" type="Review">
+            <div2 id="sc05-1002" n="Ronald Reagan and the New Republican South" type="Review">
                <head>
                   <title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
@@ -166,12 +166,12 @@ the South but with a looser grip than before.</p>
 progressives, or the New Right apostles who viewed Reagan's election
 as a mandate for them? That remains to be seen, of course, but
 Greenhaw has given us a good look at the landscape.</p>
-            <div3 id="sc05-1.022" type="About">
+            <div3 id="sc05-1022" type="About">
                   <p>Randall Williams, a writer and editor who lives in
 Montgomery, is a Yellow-dog Democrat.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.003" n="The Smithsonian Collection of Classic Country Music" type="Review">
+            <div2 id="sc05-1003" n="The Smithsonian Collection of Classic Country Music" type="Review">
                <head>
                   <title>The Smithsonian Collection of Classic Country
 Music,</title> selected and annotated by Bill Malone (Washington,
@@ -537,7 +537,7 @@ remains before us, and we who have grown up with the music must do it,
 or relinquish the task to those who know less about our values and
 perspectives than they need to to understand what happened between Eck
 Robertson and Willie Nelson.</p>
-            <div3 id="sc05-1.023" type="About">
+            <div3 id="sc05-1023" type="About">
                   <p>David E. Whisnant is professor of American Studies at the
 University of Maryland, Baltimore County. He is the author of
 <title>All That Is Native and Fine: The Politics of Culture in an
@@ -545,7 +545,7 @@ American Region</title> (University of North Carolina Press,
 1983).</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.004" n="Dressed for the H Bomb" type="Article">
+            <div2 id="sc05-1004" n="Dressed for the H Bomb" type="Article">
                <head>Figures of Speech--Dressed for the H Bomb</head>
                <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
@@ -798,14 +798,14 @@ heard this cheap shot of a song from this disaffected bunch of street
 jeremiahs. In the land of promise, a way was opening. Death was the
 growth industry of the 80's and Megadeath the final index of
 productivity. The bacon would yet come home to roost.</p>
-            <div3 id="sc05-1.024" type="About">
+            <div3 id="sc05-1024" type="About">
                   <p>
                      <title>Figures of Speech</title> is an occasional feature
 of <title>Southern Changes</title> which grants the editor temporary
 license.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.005" n="Political Revolution in a Georgia County" type="Review">
+            <div2 id="sc05-1005" n="Political Revolution in a Georgia County" type="Review">
                <head>
                   <title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
@@ -1025,14 +1025,14 @@ Hancock, for a brief period, served as a national model for black
 political mobilization, especially in the Black-Belt South. Rozier's
 failure to critically examine the merits of this philosophy seriously
 diminishes the value of <title>Black Boss</title>.</p>
-            <div3 id="sc05-1.025" type="About">
+            <div3 id="sc05-1025" type="About">
                   <p>Lawrence J. Hanks is a graduate student in government at
 Harvard University. He is presently studying Hancock County as part of
 his dissertation on black political participation in the rural South
 since the 1965 Voting Rights Act.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.006" n="Myra Page" type="Article">
+            <div2 id="sc05-1006" n="Myra Page" type="Article">
                <head>Myra Page: Daughter of the South, Worker for Change</head>
                <byline>By <docAuthor><name reg="Frederickson, Mary">Mary Frederickson</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
@@ -1434,14 +1434,14 @@ effectively only when black and white joined forces. Symbolically, the
 victory held a special personal significance for Myra Page--Dorothy
 Markey--because it meant that in a sense she had been able to come
 full circle, and to come home.</p>
-            <div3 id="sc05-1.026" type="About">
+            <div3 id="sc05-1026" type="About">
                   <p>Formerly a research fellow at the Wellesley College
 Center for Research on Women, Mary Frederickson is now assistant
 professor of history at the University of Alabama in Birmingham. This
 article copyright, 1988, by Mary Frederickson.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.007" n="From Southern Cotton Mills and Labor" type="Article">
+            <div2 id="sc05-1007" n="From Southern Cotton Mills and Labor" type="Article">
                <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
                <byline>By <docAuthor><name reg="Page, Myra">Myra Page</name></docAuthor></byline>
@@ -1530,7 +1530,7 @@ says about th' rich 'n th' poor. They'll git theirs when they die."</p>
                <p>"What else?" she answered.</p>
                <p>"Well, that idea doan satisfy me," I replied, and we were off on an
 argument.</p>
-            <div3 id="sc05-1.027" type="About">
+            <div3 id="sc05-1027" type="About">
                   <p>Myra Page (Dorothy Markey) is currently completing an
 autobiographical novel about her early years in Newport News entitled
 <title>Soundings</title>. Under the pen name Myra Page she hats
@@ -1546,7 +1546,7 @@ book was subsequently published by New York's Citadel
 Press.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.008" n="Lillian Smith Book Awards" type="Article">
+            <div2 id="sc05-1008" n="Lillian Smith Book Awards" type="Article">
                <head>The 1982 Lillian Smith Book Awards</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
@@ -1862,14 +1862,14 @@ have the knowledge and insight and courage. All have synchronized for
 the first time in history. Do we have the desire? This is a question
 that each of us must answer for himself.</q>
                </p>
-            <div3 id="sc05-1.028" type="About">
+            <div3 id="sc05-1028" type="About">
                   <p>Mary Frances Derfner is Vice-President of the Southern
 Regional Council and chairperson of the Smith Awards Committee. Other
 committee members for 1982 included Tony Dunbar, John Popham, Wilma
 Dykeman and Lottie Shackelford.</p>
                </div3>
                </div2>
-            <div2 id="sc05-1.009" n="Delta Politics and the Almost Possible" type="Article">
+            <div2 id="sc05-1009" n="Delta Politics and the Almost Possible" type="Article">
                <head>Delta Politics and the Almost Possible</head>
                <byline>By <docAuthor><name reg="BARBER, RIMS">RIMS BARBER</name></docAuthor></byline>
                <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
@@ -2022,7 +2022,7 @@ County. In a room of the county courthouse, the Carthan case was
 suspended one day so the election could be conducted. As things turned
 out, Carthan was acquitted and Robert Clark lost by one percent of the
 total vote. Clark says he is "inclined to try again."</p>
-            <div3 id="sc05-1.029" type="About">
+            <div3 id="sc05-1029" type="About">
                   <p>Rims Barber is project director for the Childrens'
 Defense Fund in Mississippi. He is a member of the Southern Regional
 Council and has been active in civil rights issue in Mississippi for

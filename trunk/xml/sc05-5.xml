@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc05-5.001" n="Southern Changes 5:5" type="Issue">
+         <div1 id="sc05-5001" n="Southern Changes 5:5" type="Issue">
             <head>Southern Changes.  Volume 5, Number 5, 1983</head>
             <p>
                <title>Southern Changes</title>.  Volume 5, Number 5,
 	       <date value="1983-10">1983</date></p>
-            <div2 id="sc05-5.002" n="Checking the Teeth of Change" type="Article">
+            <div2 id="sc05-5002" n="Checking the Teeth of Change" type="Article">
                <head>Checking the Teeth of Change</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
@@ -164,12 +164,12 @@ shorthand, the nature of political change is also easily manipulated
 in the public understanding. The folk wisdom, "the more things change,
 the more they stay the same," is worth remembering in these days of
 changing Southern politics.</p>
-            <div3 id="sc05-5.022" type="About">
+            <div3 id="sc05-5022" type="About">
                   <p>Steve Suitts is the executive director of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc05-6.003" n="A Reapportionment Primer" type="Article">
+            <div2 id="sc05-6003" n="A Reapportionment Primer" type="Article">
                <head>Drawing the Lines: A Reapportionment Primer</head>
                <byline>By <docAuthor><name reg="Sherman, Brian">Brian Sherman</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
@@ -619,7 +619,7 @@ still be excluded completely from the reapportionment process in the
 South and be absent from elected positions altogether. Yet, much more
 white resistance must be overcome before blacks will gain fair
 treatment.</p>
-            <div3 id="sc05-6.023" type="About">
+            <div3 id="sc05-6023" type="About">
                   <p>Brian Sherman is a clinical sociologist who works as a
 research analyst for the Voting Rights Project of the Southern
 Regional Council. He has drawn alternate reapportionment plans for
@@ -629,7 +629,7 @@ Door.</title>
                   </p>
                </div3>
                </div2>
-            <div2 id="sc05-5.004" n="Southern Honor: Ethics and Behavior in the Old South" type="Review">
+            <div2 id="sc05-5004" n="Southern Honor: Ethics and Behavior in the Old South" type="Review">
                <head>Bertram Wyatt-Brown. <title>Southern Honor: Ethics and Behavior
 in the Old South.</title> Oxford University Press, 1982.</head>
                <byline>By <docAuthor><name reg="Morgan, Lynda">Lynda Morgan</name></docAuthor></byline>
@@ -787,7 +787,7 @@ questions of time and place, of class and race and of the changing
 socioeconomic environment and its impact on culture. In short, there
 is more to Southern honor than Wyatt-Brown is telling us.</p>
             </div2>
-            <div2 id="sc05-5.005" n="White Politics in a Black Land" type="Article">
+            <div2 id="sc05-5005" n="White Politics in a Black Land" type="Article">
                <head>White Politics in a Black Land</head>
                <byline>By <docAuthor><name reg="Minor, Bill">Bill Minor</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
@@ -1350,12 +1350,12 @@ consolidated power, the prospect looms for at least four more years of
 waiting for change. What impact the black legislators can have in the
 meantime depends upon a dole system, in whose features lie a glimpse
 of plantation days.</p>
-            <div3 id="sc05-5.025" type="About">
+            <div3 id="sc05-5025" type="About">
                   <p>Bill Minor, a longtime observer of Mississippi polities,
 lives in Jackson. </p>
                </div3>
                </div2>
-            <div2 id="sc05-5.006" n="Testing for Competency" type="Article">
+            <div2 id="sc05-5006" n="Testing for Competency" type="Article">
                <head>Testing for Competency</head>
                <byline>By <docAuthor><name reg="Dixon, Hortense">Hortense Dixon</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
@@ -1509,13 +1509,13 @@ pursuit of public policy not private advantage.</p>
 must be sure that what we teach is of value and that how we teach
 fosters an unquenchable desire to learn. Competency testing does
 neither.</p>
-            <div3 id="sc05-5.026" type="About">
+            <div3 id="sc05-5026" type="About">
                   <p>Hortense Dixon is profesor of home economics at Texas
 Southern University and serves on the executive committee of the
 Southern Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc05-5.007" n="Aaron Henry from Clarksdale" type="Article">
+            <div2 id="sc05-5007" n="Aaron Henry from Clarksdale" type="Article">
                <head>Aaron Henry from Clarksdale</head>
                <byline>By <docAuthor><name reg="Long, Worth">Worth Long</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
@@ -1784,7 +1784,7 @@ arguing for the Voting Rights Act of 1965. Ninety-thousand blacks in
 Mississippi who knew that their votes couldn't count but who were
 willing to cast them to demonstrate their concern for the right to
 vote.</p>
-            <div3 id="sc05-5.027" type="About">
+            <div3 id="sc05-5027" type="About">
                   <p>The following autobiographical recollections of Aaron
 Henry (born 1922 in Coahoma County, Mississippi) sketch his
 involvement in the movement for black civil rights up to the formation
@@ -1796,7 +1796,7 @@ Deep South. Worth Long is director of the SRC's Civil Rights Radio
 Project.</p>
                </div3>
                </div2>
-            <div2 id="sc05-5.008" n="Black Women's Health Conference" type="Article">
+            <div2 id="sc05-5008" n="Black Women's Health Conference" type="Article">
                <head>Black Women's Health Conference</head>
                <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
                <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
@@ -1913,13 +1913,13 @@ and other cable television systems.</p>
                      <p>Individuals or groups who seek more information should contact the
 Black Women's Health Project, M.L. King, Jr. Health Center, 450 Auburn
 Avenue, Suite 157, Atlanta, Georgia 30312, (404) 659-3854.</p>
-            <div3 id="sc05-5.028" type="About">
+            <div3 id="sc05-5028" type="About">
                   <p>Betty Norwood Chaney, a former editor of <title>Southern
 Changes</title>, lives in Atlanta where she is a teacher, mother, and
 freelance writer.</p>
                </div3>
                </div2>
-            <div2 id="sc05-5.009" n="Findings from U.S. Commission on Civil Rights" type="Article">
+            <div2 id="sc05-5009" n="Findings from U.S. Commission on Civil Rights" type="Article">
                <head>Findings from U.S. Commission on Civil Rights, <title>A Growing
 Crisis: Disadvantaged Women and Their Children,</title> May
 1983.</head>

@@ -61,11 +61,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc11-1.001" n="Southern Changes 11:1" type="Issue">
+         <div1 id="sc11-1001" n="Southern Changes 11:1" type="Issue">
             <head>Southern Changes.  Volume 11, Number 1, 1989 </head>
             <p> <title>Southern
 Changes.</title>  Volume 11, Number 1, <date value="1989-01">1989</date></p>
-            <div2 id="sc11-1.002" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc11-1002" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth</head>
                <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
                <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 24</docDate>
@@ -115,12 +115,12 @@ buried, she hangs his picture in her home.</p>
 tells the white editor of the Selma newspaper how much they disapprove
 of my weekly column.</p>
                <p>Peace.</p>
-            <div3 id="sc11-1.022" type="About">
+            <div3 id="sc11-1022" type="About">
                   <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
                </div3>
 	    </div2>
-            <div2 id="sc11-1.003" n="I Kept Hammering" type="Article">
+            <div2 id="sc11-1003" n="I Kept Hammering" type="Article">
                <head>The Leadership of Leroy Collins.  "I Kept Hammering:" Leroy
 Collins </head>
                <byline>By <docAuthor><name reg="Griffin, John">John Griffin </name></docAuthor></byline>
@@ -696,7 +696,7 @@ with me. I just can't get them up out of bed and come out there."
 I said, "Well, how on earth am I going to home?" She said,
 "March!"</p>
             </div2>
-            <div2 id="sc11-1.004" n="Symbol, Substance, and Confederate Flag" type="Article">
+            <div2 id="sc11-1004" n="Symbol, Substance, and Confederate Flag" type="Article">
                <head>Flag Waving Down South. How Long?: Symbol, Substance, and
 Confederate Flag</head>
                <byline><docAuthor><name reg="">By LAWRENCE J. HANKS </name></docAuthor></byline>
@@ -806,12 +806,12 @@ effort, and of black people, for the NAACP to explicate this
 connection. Until this is done, the removal of the Confederate battle
 flag will simply be another just cause which lacks the public support
 necessary for a favorable resolution.</p>
-            <div3 id="sc11-1.024" type="About">
+            <div3 id="sc11-1024" type="About">
 	      <p>Dr. Lawrence J. Hanks chairs the political science department at
 Tuskegee University.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-1.005" n="Change Through Education" type="Article">
+            <div2 id="sc11-1005" n="Change Through Education" type="Article">
                <head>Change Through Education </head>
                <byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
                <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 1-6</docDate>
@@ -1228,7 +1228,7 @@ country and our people. We are running into all kinds of exemplary
 interventions. Things do work. You can change the system. Therefore we
 ought to go about it. </p>
             </div2>
-            <div2 id="sc11-1.006" n="Respecting the Past Without Offending" type="Article">
+            <div2 id="sc11-1006" n="Respecting the Past Without Offending" type="Article">
                <head>Flag Waving Down South: Respecting the Past Without
 Offending </head>
                <byline>By <docAuthor><name reg="Perry, Jack">Jack Perry </name></docAuthor></byline>
@@ -1335,14 +1335,14 @@ the races, in the South and beyond. Flying battle flags, and using
 race in politics, can be dispensed with. If we do not close our eyes
 to the dark side of our past, and of our present, the chances for wise
 choices will increase. And I say all that with a Southern accent.</p>
-            <div3 id="sc11-1.026" type="About">
+            <div3 id="sc11-1026" type="About">
                   <p>Ambassador Jack Perry, a retired diplomat, is director of
 the Dean Rusk Program in International Studies at Davidson
 College. His comments are excerpted from remarks previously appearing
 in the <title>Charlotte Observer</title>.</p>
                </div3>
 	     </div2>
-            <div2 id="sc11-1.007" n="Searching History for Solutions" type="Article">
+            <div2 id="sc11-1007" n="Searching History for Solutions" type="Article">
                <head>Flag Waving Down South: Searching History for Solutions</head>
                <byline>By <docAuthor><name reg="Thurmond, Michael L.">Michael L. Thurmond </name></docAuthor></byline>
                <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 14-15</docDate>
@@ -1440,14 +1440,14 @@ words: wisdom, justice and moderation.</p>
 remember that if we are wise in our reasoning; just in our
 deliberations and moderate in our actions, then Georgia will continue
 to fulfill its promise of greatness.</p>
-            <div3 id="sc11-1.027" type="About">
+            <div3 id="sc11-1027" type="About">
                   <p>Georgia State Rep. Michael Thurmond is a lawyer and the
 author of <title>A Story Untold: Black Men and Women in Athens
 History.</title>
                   </p>
                </div3>
 	     </div2>
-            <div2 id="sc11-1.008" n="Battling an 'Inappropriate Display'" type="Article">
+            <div2 id="sc11-1008" n="Battling an 'Inappropriate Display'" type="Article">
                <head>Flag Waving Down South. How Long?: Battling an 'Inappropriate Display' </head>
                <byline>By <docAuthor><name reg="Shinhoster, Earl T.">Earl T. Shinhoster</name></docAuthor></byline>
                <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 12-13</docDate>
@@ -1464,7 +1464,7 @@ battle flag" of the Civil War. The legislative history dealing with the return o
                <p>Governors, political leaders, white and, yes, some black and many honest and sincere citizens, view our campaign to remove Confederate flags from official state flags and those which fly over state capitols as divisive and exacerbating racial tensions. Moreover, it is suggested that other priorities focusing on human needs and concerns are more compelling today. There is no question but that the NAACP is vigorously pursuing an agenda which encompasses more than this single issue. Daily, our branches struggle with survival issues and advancement concerns. Yet, we are convinced that in the area of human relations, no single act could have a more profound effect in establishing a lasting climate of mutual trust and respect among people than removing from the public policy arena, and placing in a state museum or other appropriate place of display, the Confederate battle flag.</p>
                <p>Yes, unfortunately, the Confederate flag would continue to live in the hearts and minds of many. People would continue to wave the Confederate battle flag and flag makers would no doubt increase their business. However, the state governments would have made a strong statement for reconciliation and racial harmony.</p>
                <p>The NAACP urges the state legislatures in Georgia and Mississippi to move boldly and courageously to change their present state flags--remove the Confederate flags and adopt a symbol that truly represents all of the people of the states. Further, the states of Alabama and South Carolina should, by act of the legislature, or otherwise, furl the battle flag and let it rest in a place more appropriate to historical remembrance.</p>
-             <div3 id="sc11-1.028" type="About">
+             <div3 id="sc11-1028" type="About">
 		 <p>Earl T. Shinhoster is the Southeastern regional director for the NAACP.</p>
                </div3>
 	     </div2>

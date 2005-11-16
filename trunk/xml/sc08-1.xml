@@ -61,12 +61,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc08-1.001" n="Southern Changes 8:1" type="Issue">
+         <div1 id="sc08-1001" n="Southern Changes 8:1" type="Issue">
             <head>Southern Changes.  Volume 8, Number 1, 1986</head>
             <p>
                <title>Southern Changes</title>.  Volume 8, Number 1,
 	       <date value="1986-02">1986</date></p>
-            <div2 id="sc08-1.002" n="Southern Liberal Journalists and the Issue of Race" type="Review">
+            <div2 id="sc08-1002" n="Southern Liberal Journalists and the Issue of Race" type="Review">
                <head>
                   <title>Southern Liberal Journalists and the Issue of Race,
 1920-1944</title> by John T. Kneebone. Chapel Hill: The University of
@@ -264,13 +264,13 @@ They also direct our attention to the New Deal-World War 11 period as
 an exciting and important era in the history of the South--and of the
 Civil Rights Movement-and one which historians have just begun to
 explore.</p>
-            <div3 id="sc08-1.022" type="About">
+            <div3 id="sc08-1022" type="About">
                   <p>Patricia Sullivan is Associate Director of the Center for
 the Study of Civil Rights and lecturer in history at the University of
 Virginia.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-1.003" n="Women and Children in Poverty" type="Article">
+            <div2 id="sc08-1003" n="Women and Children in Poverty" type="Article">
                <head>Women and Children in Poverty </head>
                <byline>By <docAuthor><name reg="Pearce, Diana">Diana Pearce</name></docAuthor></byline>
                <docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate>
@@ -670,7 +670,7 @@ push for the election of people who realize we have a crisis and who
 are willing to work on these issues. And frankly, I think that means
 we need more women to raise the issues and concerns of the new
 poor.</p>
-            <div3 id="sc08-1.023" type="About">
+            <div3 id="sc08-1023" type="About">
                   <p>Diana Pearce is Director (and founder) of the Women and
 Poverty Project, and visiting professor of Sociology at American
 University in Washington, DC. She has written and spoken widely on
@@ -680,7 +680,7 @@ desegregation, including serving as an expert witness in the Yonkers
 (NY) Ouachita Parish (Monroe, LA) cases.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-1.004" n="American Poverty, World Poverty" type="Article">
+            <div2 id="sc08-1004" n="American Poverty, World Poverty" type="Article">
                <head>American Poverty, World Poverty</head>
                <byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
                <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate>
@@ -1035,13 +1035,13 @@ Southern Regional Council is that this organization can stand that
 test. Whatever else historians may say about the SRC, I am confident
 that they will say we at least tried to use our resources to make the
 South a better place for all of our people.</p>
-            <div3 id="sc08-1.024" type="About">
+            <div3 id="sc08-1024" type="About">
                   <p>Ray Marshall holds the Audre and Bernard Rapoport Chair
 in Economics and Public Affairs at the University of Texas at Austin,
 and is  vice-president of the Southern Regional Council.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-1.005" n="The War Against the Poor" type="Article">
+            <div2 id="sc08-1005" n="The War Against the Poor" type="Article">
                <head>Casualty Count.  The War Against the Poor</head>
                <byline>By <docAuthor><name reg="Greenstein, Robert">Robert Greenstein</name></docAuthor></byline>
                <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate>
@@ -1243,7 +1243,7 @@ after inflation. As in past years of the Reagan Administration, cuts
 in domestic programs in the 1987 budget would not only bear nearly all
 of the brunt of reducing the deficit, they would also finance the
 ongoing military build-up.</p>
-            <div3 id="sc08-1.025" type="About">
+            <div3 id="sc08-1025" type="About">
                   <p>Robert Greenstein is director of the Center on Budget and
 Policy Priorities. For more information about the Center and its work,
 write to 236 Massachusetts Ave., NE, .Suite 305, Washington, DC
@@ -1252,7 +1252,7 @@ from his talk at the 1985 annual meeting of the Southern Regional
 Council.</p>
                </div3>
 	     </div2>
-            <div2 id="sc08-1.006" n="In Country" type="Review">
+            <div2 id="sc08-1006" n="In Country" type="Review">
                <head>
                   <title>In Country,</title> a novel by Bobbie Ann Mason. Harper &#x26;Row 247 pp. $15.95</head>
                <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
@@ -1371,7 +1371,7 @@ rise above themselves and do something really wild -cancel the cable
 subscription, sell the stereo, boycott the shopping malls, or even,
 heaven help us, break the habit of dining daily under the golden
 arches.</p>
-            <div3 id="sc08-1.026" type="About">
+            <div3 id="sc08-1026" type="About">
                   <p>John Egerton lives in Nashville. He is author of many
 essays and books, including <title>Generations</title> (Univ. Press of
 Kentucky) which won the Southern Regional Council's Lillian Smith

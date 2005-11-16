@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc09-4.001" n="Southern Changes 9:4" type="Issue">
+         <div1 id="sc09-4001" n="Southern Changes 9:4" type="Issue">
             <head>Southern Changes.  Volume 9, Number 4, 1987</head>
             <p>
                <title>Southern Changes</title>.  Volume 9, Number 4,
 	       <date value="1987-10">1987</date></p>
-            <div2 id="sc09-4.002" n="The South Revisited" type="Article">
+            <div2 id="sc09-4002" n="The South Revisited" type="Article">
                <head>The South Revisited</head>
                <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
                <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
@@ -376,7 +376,7 @@ typical reaction of South Carolina state senator John D. Long:
 precinct meeting, we'll fight him at the county convention, we'll
 fight him at the enrollment books, and, by God, we'll fight him at the
 polls if I have to bite the dust as did my ancestors!" </p>
-            <div3 id="sc09-4.022" type="About">
+            <div3 id="sc09-4022" type="About">
                   <p>Stetson Kennedy wrote extensively for the labor and black
 press, was Southeastern editorial director of CIO-PAC, and is the
 author of <title>Southern Exposure</title>, <title>Palmetto
@@ -384,7 +384,7 @@ Country</title>, and <title>I Rode With the Klan.</title> He lives
 near Jacksonville, Fla.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-4.003" n="The Cold Hard Truth" type="Article">
+            <div2 id="sc09-4003" n="The Cold Hard Truth" type="Article">
                <head>The Cold Hard Truth: Wishing Justice for Bork</head>
                <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut. Jr.</name></docAuthor></byline>
                <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
@@ -482,12 +482,12 @@ of the Supreme Court.</p>
                <p>How about that, Mr. Jack Curtis?</p>
                <p>Peace. </p>
             
-	       <div3 id="sc09-4.023" type="About">
+	       <div3 id="sc09-4023" type="About">
                   <p>J. L. Chestnut is an Alabama trial lawyer
 and writer.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-4.004" n="The Making of A Judge" type="Article">
+            <div2 id="sc09-4004" n="The Making of A Judge" type="Article">
                <head>The Making of A Judge</head>
                <byline>By <docAuthor><name reg="Callahan, Nancy">Nancy Callahan</name></docAuthor></byline>
                <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
@@ -908,13 +908,13 @@ you don't let people like that down. You don't get to a point and
 say,'I can't do it.' You look back at them and you say,
 'Whatever I want to do, I can do it, because look what they
 did.' And you just go on, and it's good. Yeah, it's good." </p>
-            <div3 id="sc09-4.024" type="About">
+            <div3 id="sc09-4024" type="About">
                   <p>Nancy Callahan is a freelance writer from
 Montgomery. Her book, <title>The Freedom Quilting Bee</title>, will be
 published this fall by the University of Alabama Press.</p>
                </div3>
 	     </div2>
-            <div2 id="sc09-4.005" n="The Poverty of Reaganomics" type="Article">
+            <div2 id="sc09-4005" n="The Poverty of Reaganomics" type="Article">
                <head>The Poverty of Reaganomics</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
@@ -1041,7 +1041,7 @@ sixty-two percent in 1985.</p>
 in young families in 1985 were poor--nearly double the twenty-six
 percent rate in 1973.</p>
             </div2>
-            <div2 id="sc09-4.006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
+            <div2 id="sc09-4006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
                <head>Tuscaloosa's Solid-Waste Turkey</head>
                <byline>By <docAuthor><name reg="United Citizens
 	       Against Toxic Chemicals">United Citizens Against Toxic Chemicals</name></docAuthor></byline>

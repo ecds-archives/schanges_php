@@ -60,12 +60,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
    </teiHeader>
    <text>
       <body>
-         <div1 id="sc04-2.001" n="Southern Changes 4:2" type="Issue">
+         <div1 id="sc04-2001" n="Southern Changes 4:2" type="Issue">
             <head>Southern Changes.  Volume 4, Number 2, 1982</head>
             <p>
                <title>Southern Changes</title>.  Volume 4, Number 2,
 	       <date value="1982-04">1982</date></p>
-            <div2 id="sc04-2.002" n="Notes of a Klanwatcher" type="Article">
+            <div2 id="sc04-2002" n="Notes of a Klanwatcher" type="Article">
                <head>Notes of a Klanwatcher</head>
                <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 11-13</docDate>
@@ -276,13 +276,13 @@ dedicated to the brotherhood of workers as he currently is to the
 KKK.</p>
                <p>We should think about that when we next start chanting, "Death to
 the Klan."</p>
-                           <div3 id="sc04-2.022" type="About">
+                           <div3 id="sc04-2022" type="About">
                   <p>Randall Williams is an Alabama writer who its currently
 serving as director of the KLANWATCH project of the Southern Poverty
 Law Center.</p>
                </div3>
 </div2>
-            <div2 id="sc04-2.003" n="Fair Representation is Essential to Democracy" type="Article">
+            <div2 id="sc04-2003" n="Fair Representation is Essential to Democracy" type="Article">
                <head>'Fair Representation is Essential to Democracy'</head>
                <byline>By <docAuthor><name reg="Wheeler, Raymond">Raymond Wheeler</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 10</docDate>
@@ -371,13 +371,13 @@ greater stake in the responsibilities of government. There is no way
 that North Carolina can fail to emerge from such a process except as a
 stronger, more unified state in which needs will be met and problems
 will be solved.</p>
-                           <div3 id="sc04-2.023" type="About">
+                           <div3 id="sc04-2023" type="About">
                   <p>The late Raymond Wheeler, a former president of the
 Southern Regional Council, made these comments to a North Carolina
 legislative committee on redistricting on Feb. 4, 1982.</p>
                </div3>
             </div2>
-            <div2 id="sc04-2.004" n="Protest and Survive" type="Review">
+            <div2 id="sc04-2004" n="Protest and Survive" type="Review">
                <head>
                   <title>Protest and Survive.</title> Edited by E.P. Thompson and
 Dan Smith, New York: Monthly Review Press, 1981 $4.95.</head>
@@ -433,12 +433,12 @@ weapons, if they did not accept his terms." Hanoi didn't accept the
 terms and Nixon didn't carry out his nuclear threat. Why not? As Nixon
 himself records in his memoirs, there were already too many Americans
 in the streets protesting the U.S. war policy.</p>
-            <div3 id="sc04-2.024" type="About">
+            <div3 id="sc04-2024" type="About">
                   <p>Allen Tullos is a native Alabamian who is now completing
 his doctoral dissertation in history at Yale University.</p>
                </div3>
                </div2>
-            <div2 id="sc04-2.005" n="The Reagan Impact On the South's Poor" type="Article">
+            <div2 id="sc04-2005" n="The Reagan Impact On the South's Poor" type="Article">
                <head>The Reagan Impact On the South's Poor</head>
                <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 15-16</docDate>
@@ -568,13 +568,13 @@ this effort continues, the South's poor--both those who now work and
 those who do not--shall face a future of crippled opportunities and
 the nation will have surrendered the truest, most selfless element of
 the American character.</p>
-            <div3 id="sc04-2.025" type="About">
+            <div3 id="sc04-2025" type="About">
                   <p>Steve Suitts is the executive director of the Southern
 Regional Council. This article is adapted from remarks at the Southern
 Labor Institute in December.</p>
                </div3>
                </div2>
-            <div2 id="sc04-2.006" n="An Update on Voting Changes in the South" type="Article">
+            <div2 id="sc04-2006" n="An Update on Voting Changes in the South" type="Article">
                <head>An Update on Voting Changes in the South</head>
                <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 5-11</docDate>
@@ -1139,12 +1139,12 @@ the plan. Another plan was vetoed by then-Gov. John Dalton.</p>
 majority black districts. ACLU Director Chan Kendrick says that number
 can be more than doubled if the federal court adopts the plan which
 his group has drawn.</p>
-            <div3 id="sc04-2.026" type="About">
+            <div3 id="sc04-2026" type="About">
                   <p>This report was prepared by the staff of the Southern
 Regional Council.</p>
                </div3>
                </div2>
-            <div2 id="sc04-2.007" n="Remarks in Memory Of Lillian Smith" type="Article">
+            <div2 id="sc04-2007" n="Remarks in Memory Of Lillian Smith" type="Article">
                <head>Remarks in Memory Of Lillian Smith</head>
                <byline>By <docAuthor><name reg="Moore, Gene Gabriel">Gene Gabriel Moore</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 13-15</docDate>
@@ -1373,7 +1373,7 @@ grievously. There will be hunger and sadness in the land again, in the
 world again.</p>
                <p>Fight them.</p>
             
-<div3 id="sc04-2.027" type="About">
+<div3 id="sc04-2027" type="About">
                   <p>The articles below were excerpted from speeches delivered
 at the Atlanta Biltmore Hotel on Nov. 6, when the 1981 Lillian Smith
 Awards for literature were presented by the Southern Regional
@@ -1390,7 +1390,7 @@ excerpted here, to Bernie Schein, who make the speech on Conroy's
 behalf.</p>
                </div3>
                </div2>
-            <div2 id="sc04-2.008" n="Democracy Looks At the New South" type="Article">
+            <div2 id="sc04-2008" n="Democracy Looks At the New South" type="Article">
                <head>Democracy Looks At the New South</head>
                <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
                <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 1-4</docDate>
@@ -1683,7 +1683,7 @@ the migrant farm labor camps of Florida the South is still the poorest
 of regions. Here, if anywhere, is the place to redirect America from
 policies and values that will not work, toward those that have been
 tested--and do.</p>
-            <div3 id="sc04-2.028" type="About">
+            <div3 id="sc04-2028" type="About">
                   <p>Dr. Leslie Dunbar is the former director of the Southern
 Regional Council and of the Field Foundation. He now works with the
 Fund for Peace, Washington, D.C. The article here its adapted
