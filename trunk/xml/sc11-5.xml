@@ -1,26 +1,26 @@
-<!DOCTYPE  TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
-         <titleStmt>
-            <title>Southern Changes.  Volume 11, Number 5</title>
-            <author>Staff</author>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>staff</name>
-            </respStmt>
-         </titleStmt>
-         <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
+<TEI.2 id="sc11-51204">
+  <teiHeader id="sc11-51201" type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Southern Changes.  Volume 11, Number 5</title>
+        <author>Staff</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>staff</name>
+        </respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory
 University</pubPlace>
-            <address>
-               <addrLine>Atlanta,
+        <address>
+          <addrLine>Atlanta,
 Georgia</addrLine>
-            </address>
-            <availability>
-               <p>1996 Emory
+        </address>
+        <availability>
+          <p>1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -28,49 +28,51 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Web Project or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>1996</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>Southern Changes Web Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <bibl>Southern Changes.  Volume 11, Number 5.  November 1989</bibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This text is produced in conjunction with the
+        </availability>
+        <date>1996</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Southern Changes Web Project</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Southern Changes.  Volume 11, Number 5.  November 1989</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text is produced in conjunction with the
 Southern Changes Web Project at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-         </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-         <change>
-            <date>1998</date>
-            <respStmt>
-               <name>Beck Center</name>
-               <resp>Staff</resp>
-            </respStmt>
-            <item>SGML tags
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change>
+        <date>1998</date>
+        <respStmt>
+          <name>Beck Center</name>
+          <resp>Staff</resp>
+        </respStmt>
+        <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div1 id="sc11-5001" n="Southern Changes 11:5" type="Issue">
-            <head>Southern Changes.  Volume 11, Number 5, 1989</head>
-            <p>
-               <title>Southern Changes</title>.  Volume 11, Number 5,
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="sc11-51203">
+    <body id="sc11-51202">
+      <div1 id="sc11-5001" n="Southern Changes 11:5" type="Issue">
+        <head>Southern Changes.  Volume 11, Number 5, 1989</head>
+        <p><title>Southern Changes</title>.  Volume 11, Number 5,
 	       <date value="1989-11">1989</date></p>
-            <div2 id="sc11-5002" n="Land of Deepest Shade" type="Article">
-               <head>Land of Deepest Shade: An Interview with John McWilliams</head>
-               <byline><docAuthor><name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
-               
-                  <p>EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
+        <div2 id="sc11-5002" n="Land of Deepest Shade" type="Article">
+          <head>Land of Deepest Shade: An Interview with John McWilliams</head>
+          <byline>
+            <docAuthor>
+              <name reg="Rankin, Tom">Tom Rankin</name>
+            </docAuthor>
+          </byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
+          <p>EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
 more than a hundred photographs by John McWilliams, is currently on
 view at the High Museum of Art in Atlanta. A book by the same
 title--with an introduction by Theodore Rosengarten and more than sixty
@@ -80,12 +82,10 @@ through January 7 when it will travel to museums across the region and
 the nation, including the Gibbs Museum in Charleston, S.C.; the
 McKissick Museum at the University of South Carolina in Columbia,
 S.C.; and the Columbus Museum in Columbus, Ga.</p>
-                  <p>
-                     <title>Southern Changes</title> photo editor Tom Rankin discussed
+          <p><title>Southern Changes</title> photo editor Tom Rankin discussed
 the exhibition and the book with John McWilliams.</p>
-               
-               <p>How did you get to the South?</p>
-               <p>When I got out of graduate school I kind of wandered around
+          <p>How did you get to the South?</p>
+          <p>When I got out of graduate school I kind of wandered around
 aimlessly for about three years. I had jobs, but I didn't know how I
 was going to deal with my photography and I think what I needed was a
 kind of adventure, to take off somewhere. Jim Dow [Boston-based
@@ -94,12 +94,12 @@ photographer and Walker Evans protege] and I made a trip south. We
 were gone for about a month. I had read a lot about the South, like
 <hi rend="italic">Let Us Now Praise Famous Men</hi>. And Jim knew more
 than I did about the region.</p>
-               <p>I realized when I went back that I was really dissatisfied with
+          <p>I realized when I went back that I was really dissatisfied with
 being up North. I looked around for different things and I eventually
 got offered this job in Atlanta at Georgia State University teaching
 photography. That was in 1969. I've been teaching there ever since.</p>
-               <p>Do you remember your first successful pictures in the South?</p>
-               <p>I think the first ones were when I started to go out into the
+          <p>Do you remember your first successful pictures in the South?</p>
+          <p>I think the first ones were when I started to go out into the
 country and I initially photographed architecture. Those pictures
 would lead me into pictures I really cared about, pictures about the
 atmosphere, the architecture versus the vegetation. The conflict that
@@ -115,8 +115,8 @@ things got really ridiculous in Atlanta I used to go to Savannah and
 stay in this big old hotel. It's no longer there. I didn't know
 anybody there. I would wander and photograph. I finally ended up in
 McClellanville.</p>
-               <p>How did you come on McClellanville?</p>
-               <p>I was on the coast and, you know that Robert Frank photograph of
+          <p>How did you come on McClellanville?</p>
+          <p>I was on the coast and, you know that Robert Frank photograph of
 the barbershop? I always loved that picture. And I was looking at a
 map and I found McClellanville. I said I have to go there. At that
 time it was a sleepy little village tucked away from everything and
@@ -129,9 +129,9 @@ that. Never. And I've never seen it since. I wanted to move there. I
 made a connection with this village. I'd never found anything quite as
 special. There are other towns that are similar, but none quite the
 same.</p>
-               <p>In your acknowledgments you thank Greg Day for "opening my eyes at
+          <p>In your acknowledgments you thank Greg Day for "opening my eyes at
 the beginning." Who is Greg Day?</p>
-               <p>Greg was an anthropology student at Georgia State. He took some
+          <p>Greg was an anthropology student at Georgia State. He took some
 classes from me in photography. Greg is a very smart fellow. He had
 been doing research with basketmakers in South Carolina. He eventually
 moved down to Mt. Pleasant where many of the basketmakers live. Just
@@ -142,10 +142,10 @@ strong sense of history. Greg was really good at articulating these
 things and we talked about it a lot. He and I used to go out and try
 to find old plantation sites. There are some pictures in the book from
 those times.</p>
-               <p>Over the years you have photographed in other places besides the
+          <p>Over the years you have photographed in other places besides the
 South. When did you start to see the Southern pictures as parts of a
 whole?</p>
-               <p>I think back from the beginning when I was working with the 8 x 10
+          <p>I think back from the beginning when I was working with the 8 x 10
 view camera I felt I was capturing a sense of atmosphere and a sense
 of light about the region. And I always thought that sometime I would
 pull that stuff together and make it into something. And when I had an
@@ -155,10 +155,10 @@ over, but I realized that I did not want to do a show or a book that
 was my "greatest hits" over the years. I think that books that are
 merely based on a chronology are not usually successful. And so I
 wanted to concentrate on the Southern work.</p>
-               <p>Some of the strongest work depicts the South's land-either in a
+          <p>Some of the strongest work depicts the South's land-either in a
 state of change or completely transformed, usually by man. When did
 this work begin?</p>
-               <p>Around 1975, maybe 1974. To me the whole involvement with
+          <p>Around 1975, maybe 1974. To me the whole involvement with
 photographing the South has been an organic recognition. It started in
 my own backyard, in my own tomato patch, making nude portraits back
 there. Then I moved to the architecture, to ranging out more and more
@@ -167,10 +167,10 @@ forms were pretty much piles and holes. I used to like to photograph
 from out of the context of the bulldozers so that they had no scale
 reference. This way they have other possibilities. Then as I moved out
 I got more and more involved with landscapes.</p>
-               <p>The photograph of the tree covered with cotton lint that's on the
+          <p>The photograph of the tree covered with cotton lint that's on the
 cover of the book is central to your work. Did you happen on that sort
 of image or were you out looking for them?</p>
-               <p>I took that in '75 or '76. I was definitely looking for things like
+          <p>I took that in '75 or '76. I was definitely looking for things like
 that. I was on the road a lot and I was specifically looking for those
 things. I had the sense of-I almost had a preconceived idea in my
 mind-but it wasn't like I thought about it intellectually so much. But
@@ -178,22 +178,22 @@ I had this idea of looking out from underneath bridge abutments. And
 that strong afternoon, golden light. Somehow being initiated from
 these big concrete forms. And somehow trying to make sense out of all
 that.</p>
-               <p>The book and show begin with a real recognition of 
+          <p>The book and show begin with a real recognition of 
 <pb n="13"/>
 place and
 history, reflective of an old South. But by the end you recognize and
 deal with a much newer, different South. Where are the connections?</p>
-               <p>Being in the South at that time I found things were changing
+          <p>Being in the South at that time I found things were changing
 rapidly. You would go to these places and it was just startling
 sometimes. The land was being completely transformed and changed. You
 really didn't have to look very hard to find the juxtapositions of new
 with the old, the scarred land of development and that sort of
 thing.</p>
-               <p>There's a photograph I have to ask you about. It's the image taken
+          <p>There's a photograph I have to ask you about. It's the image taken
 in a prison where a black man is looking through the bars of his cell
 and a white man in a shirt and tie sits on the electric chair. How did
 that come about?</p>
-               <p>When I was out traveling around I made a point to swing by
+          <p>When I was out traveling around I made a point to swing by
 Reidsville State Prison which is way out in the country west of
 Savannah. As I was driving around the prison outside of the barbed
 wire I could look in and see those twisted bar bells. I felt like
@@ -201,7 +201,7 @@ photographing the prison was a really important thing. If you look at
 it intellectually it can be a metaphor for what our society
 represents, what is important, what is taboo. Our society is reflected
 in the prisons.</p>
-               <p>So I had won the Governor's Award in the Arts in 1975 or '74. So I
+          <p>So I had won the Governor's Award in the Arts in 1975 or '74. So I
 called up Governor Busbee's office and said, you've given me this
 award, it establishes my credibility in the state, so therefore I want
 you to get me into Reidsville so I can photograph. They bought that. I
@@ -209,7 +209,7 @@ had to write my reasons. And I had to go for an interview at the
 Commissioner's office. A few months later-I had given up-this deputy
 commissioner called me and said can you go in a couple of days. So he
 came and picked me up and we stayed for three days.</p>
-               <p>And they let me photograph anything I wanted to. And I went all
+          <p>And they let me photograph anything I wanted to. And I went all
 over, working with a 5 x 7 view camera. I wanted to deal with it as
 landscape. And the one of the guy sitting in the electric chair came
 from a kind of situation where a lot of times people just don't know
@@ -224,9 +224,9 @@ probably about a half minute. And it's one of those things where I
 knew it was a good picture. I started talking to him while I was
 making the picture so he wouldn't move. He didn't move. All the odds
 are against you making such a picture, but somehow you can do it.</p>
-               <p>You ended up buying land and building your own cabin in
+          <p>You ended up buying land and building your own cabin in
 McClellanville?</p>
-               <p>I always kept coming back there. To me it's one of the few 
+          <p>I always kept coming back there. To me it's one of the few 
 <pb n="14"/>
 places
 that is relatively wild. When I was doing the landscapes that deal
@@ -238,10 +238,10 @@ photography that were interpreting it in different ways, but basically
 dealing with the same thing I was dealing with. But going back to
 McClellanville, there's something very personal about that. About the
 wildness of that landscape. The mystery.</p>
-               <p>The title "Land of Deepest Shade" and the epigraphs for your book
+          <p>The title "Land of Deepest Shade" and the epigraphs for your book
 come from the nineteenth century hymnal, <hi rend="italic">The Sacred
 Harp</hi>. How did you settle on that?</p>
-               <p>I originally titled the book "Promise Land." But there was a lot of
+          <p>I originally titled the book "Promise Land." But there was a lot of
 resistance to that title, mostly because Aperture was publishing a
 book that was very close to that title about Mexicans crossing the
 border into America. So I started thinking about alternative
@@ -257,8 +257,8 @@ sense of heavy shadows in the region, with the potential to reveal
 things. So then we started thinking about the epigraphs. We went over
 <hi rend="italic">The Sacred Harp</hi> together and separately and came
 up with a bunch of verses that we thought might be appropriate.</p>
-               <p>What is Kelly's relationship to shape-note singing, to <hi rend="italic">The Sacred Harp</hi>?</p>
-               <p>He organized a sacred harp sing in Grant Park in this old
+          <p>What is Kelly's relationship to shape-note singing, to <hi rend="italic">The Sacred Harp</hi>?</p>
+          <p>He organized a sacred harp sing in Grant Park in this old
 church. He invited me to come down there and said we'll sing "Idumea,"
 the hymn that contains the verse "land of deepest shade." So I went
 down there one Saturday morning and it's a thing that lasts all
@@ -273,17 +273,16 @@ verses. It brings down the house. It's all part-singing. Just
 beautiful. I had my kids with me and I really love that kid of
 singing. I used to sing choral music and I love choral music. And this
 is the root of it all.</p>
-               <p>
-                  <hi rend="italic">Land of Deepest Shade</hi> ends on the water. After
+          <p><hi rend="italic">Land of Deepest Shade</hi> ends on the water. After
 a strong series of pictures of land and of man's intemperance with the
 land, what are we to make of the watery ending?</p>
-               <p>I spend a lot of time on the water, on my boat. When I got out of
+          <p>I spend a lot of time on the water, on my boat. When I got out of
 graduate school one I spent a year as a boat carpenter in Rhode
 Island. I love boats. I love working on them. There is something about
 building a boat where you really understand what's involved. You know
 every nail that goes into it. It sort of gives you a sense of
 confidence about what you can do with it.</p>
-               <p>I was down in McClellanville for Hurricane Hugo and photographed
+          <p>I was down in McClellanville for Hurricane Hugo and photographed
 immediately after it. Obviously, Hugo has had an enormous impact on
 the coast. And on me. I know it will affect how I see in the
 future. Right after the storm when I came back to Atlanta is when we
@@ -291,19 +290,19 @@ had that four days of rain. And the rivers were starting to flood
 out. I went around the rivers at the height of that. I just had this
 burning desire to get out there. The rivers swollen, flooding. I don't
 know what it all means. But I'm really drawn to it.</p>
-               <p>I really want to make photographs that deal with the ocean. And
+          <p>I really want to make photographs that deal with the ocean. And
 photograph it from the land, from the water. I want to photograph what
 goes into it, what comes out of it. The kind of power that the ocean
 has for us in terms of being a source of life. But also the sense of
 the cesspool, the dumping ground that it can be. I really want to
 explore that.</p>
-            </div2>
-            <div2 id="sc11-5003" n="Native Southerners" type="Article">
-               <head>Native Southerners</head>
-               <byline>By <docAuthor><name reg="Perdue, Theda">Theda Perdue</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
-               <div3 id="sc11-5004" n="Native Southerners" type="Section">
-                  <p>Southerners do not think very much about Indians unless, of course,
+        </div2>
+        <div2 id="sc11-5003" n="Native Southerners" type="Article">
+          <head>Native Southerners</head>
+          <byline>By <docAuthor><name reg="Perdue, Theda">Theda Perdue</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
+          <div3 id="sc11-5004" n="Native Southerners" type="Section">
+            <p>Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
 Florida where the Cherokees and the Seminoles/Miccosukees maintain
 tourist attractions. Instead, Southerners tend to associate native
@@ -317,7 +316,7 @@ governing structure. The South's native peoples are enormously
 diverse, yet they share a complex ancient culture and a recent history
 that has challenged them to preserve that cultural tradition in
 remarkably creative ways.</p>
-                  <p>Today's Southern Indians are descendants of people who have lived
+            <p>Today's Southern Indians are descendants of people who have lived
 in the region for thousands of years. In the millennia before the
 arrival of Europeans, they developed an agriculturally based economic
 system and organized themselves into large centralized
@@ -329,14 +328,13 @@ was on the eve of
 European <soCalled>"discovery."</soCalled> The rich
 bottomlands, a long growing season, and ample rainfall made it
 possible for the region to support a population as dense as many areas
-of Europe. In <bibl>
-                        <hi rend="italic">Their Number Become Thinned:
+of Europe. In <bibl><hi rend="italic">Their Number Become Thinned:
 Native American Population Dynamics in Eastern North America</hi>
 (Knoxville: University of Tennessee Press, 1983)</bibl>, historical
 demographer Henry Dobyns, for example, suggested that the current
 state of Florida was home to nearly a million people. Quite clearly,
 the South was not a wilderness in 1492.</p>
-                  <p>The demography, economy, government, and belief system of these
+            <p>The demography, economy, government, and belief system of these
 people promoted a sense of community and cooperation: they joined
 together in performing large tasks such as planting and harvesting and
 they maintained public granaries for visitors and villagers who fell
@@ -345,7 +343,7 @@ governed one's behavior; a strong community ethic balanced
 considerable individual autonomy; and cosmological order demanded
 temporal harmony. They did not operate in an individualistic way; the
 community ethic was foremost.</p>
-                  <p>European invasion disrupted this way of life in several ways. Most
+            <p>European invasion disrupted this way of life in several ways. Most
 profound was the impact of disease. Native Americans had no resistance
 to the diseases of Europe, and they suffered horrendous casualties not
 only from common killers such as smallpox but also from milder
@@ -356,18 +354,17 @@ warfare and slave-raiding claimed victims. Furthermore, Europeans,
 particularly the English, demanded native land and allegiance. A
 growing dependence on European goods left Indians little bargaining
 room, and so they relinquished territory and sovereignty.</p>
-               </div3>
-               <div3 id="sc11-5005" n="Indians in Slavery" type="Section">
-                  <head>Indians in Slavery</head>
-                  <p>In the South, the colonial economy quickly came to depend on
+          </div3>
+          <div3 id="sc11-5005" n="Indians in Slavery" type="Section">
+            <head>Indians in Slavery</head>
+            <p>In the South, the colonial economy quickly came to depend on
 agriculture. In the early years, native peoples sustained this economy
 through their land, which the colonists seized by the foreign practice
 of treaty-making, and native labor, acquired by enslavement. Indian
 prisoners of war took their place alongside African captives in the
 tobacco and rice fields of colonial plantations. In 1708, for example,
 South Carolina's population of 9,58O included 2,900 Africans and 1,400
-Indian slaves. In <bibl>
-                        <hi rend="italic">The Only Land They Knew: The
+Indian slaves. In <bibl><hi rend="italic">The Only Land They Knew: The
 Tragic Story of the American Indians in the Old South</hi> (New York:
 The Free Press, 198I)</bibl>, historian J. Leitch Wright asserted,
 however, that the number of Indian slaves actually could have been
@@ -376,7 +373,7 @@ slaves. Furthermore, he contended that many of the characteristics of
 African American culture may be native in origin rather than African
 because of the high proportion of native people in the slave
 population.</p>
-                  <p>By 1820, the native population in the South had declined to
+            <p>By 1820, the native population in the South had declined to
 approximately 100,000 people. Many of those who survived belonged to
 five powerful nations-the Cherokees, Chickasaws, Choctaws, Creeks, and
 Seminoles-who had begun to adopt European culture in varying
@@ -391,7 +388,7 @@ from the land hunger and racism of the white South. In the 1820s and
 1830s, the vast majority of these people, through fraudulent treaties
 or by force, surrendered their homelands in the South and moved to
 what is today eastern Oklahoma.</p>
-                  <p>Remnants of some of these peoples remained in the South. A group of
+            <p>Remnants of some of these peoples remained in the South. A group of
 Cherokees held on to land in the Great Smoky Mountains in North
 Carolina, some Choctaws retreated to the swamps and sand hills of
 central Mississippi, the Creeks living along Poarch Creek in southern
@@ -401,10 +398,10 @@ other native peoples who had not been subject to the removal policy
 struggled to maintain their status and identity as Indians in a South
 that increasingly defined itself as biracial, that is, black and
 white.</p>
-               </div3>
-               <div3 id="sc11-5006" n="Coping with a Biracial Society" type="Section">
-                  <head>Coping with a "Biracial" Society</head>
-                  <p>For those Indians who constituted sizeable communities of readily
+          </div3>
+          <div3 id="sc11-5006" n="Coping with a Biracial Society" type="Section">
+            <head>Coping with a "Biracial" Society</head>
+            <p>For those Indians who constituted sizeable communities of readily
 identified historical peoples, the task was somewhat simpler. The
 Eastern Cherokees, for example, never had to defend their
 <soCalled>"Indianness"</soCalled> although the means by which to
@@ -430,7 +427,7 @@ Affairs, however, has never extended full recognition or services to
 the Lumbees, and they have continued to experience racial harassment
 despite their highly publicized rout of the Ku Klux Klan in the
 1950s.</p>
-                  <p>Smaller, less powerful Indian peoples have had a far more difficult
+            <p>Smaller, less powerful Indian peoples have had a far more difficult
 time than the Lumbees in achieving recognition as
 <soCalled>"Indian."</soCalled> Until the second Reconstruction of the
 1960s, many southern Indians shared the indignity of segregation with
@@ -446,7 +443,7 @@ option. In the late nineteenth century, the Catawbas in upcountry
 South Carolina welcomed Mormon missionaries who promised help in
 educating their children, but other communities struggled along with
 far less satisfactory solutions.</p>
-                  <p>Native Americans also found that they had few political rights in
+            <p>Native Americans also found that they had few political rights in
 the segregated South. The fifteenth amendment presumably protected the
 right of non-reservation Indians to vote (reservation Indians were
 <soCalled>"wards"</soCalled> not <soCalled>"citizens"</soCalled> of
@@ -469,7 +466,7 @@ mean ready access to the polls. As recently as 1988, some Lumbee
 leaders were calling for a United States Justice Department
 investigation of political corruption and discrimination in Robeson
 County.</p>
-                  <p>The lack of educational opportunities, legal segregation, and
+            <p>The lack of educational opportunities, legal segregation, and
 political disfranchisement compounded the economic problems
 experienced by Southern Indians in the late nineteenth and early
 twentieth centuries. Living on marginal lands, they barely survived
@@ -484,7 +481,7 @@ jobs. While New Deal programs brought some relief to Southern Indians
 who lived on reservations, most native Southerners lived so marginally
 that they barely noticed the waxing or waning of the Great
 Depression.</p>
-                  <p>The boom in tourism that followed World War II provided minimal
+            <p>The boom in tourism that followed World War II provided minimal
 economic benefits to the Seminoles and Cherokees whose locations near
 national parks made them tourist attractions. Certainly tourism meant
 employment opportunities, but the jobs usually paid poorly and the
@@ -500,10 +497,10 @@ may have been appalled, this was most expected of Indians and Indian
 reservations, and until recently, the limited economic resources of
 the Cherokees gave them little alternative to catering to these
 expectations.</p>
-               </div3>
-               <div3 id="sc11-5007" n="Debating Federal Termination" type="Section">
-                  <head>Debating Federal Termination</head>
-                  <p>In the late nineteenth and twentieth centuries, some native peoples
+          </div3>
+          <div3 id="sc11-5007" n="Debating Federal Termination" type="Section">
+            <head>Debating Federal Termination</head>
+            <p>In the late nineteenth and twentieth centuries, some native peoples
 did manage to secure a reservation, a commonly held tract of land
 whose title was protected by the federal government, and the services
 of the Bureau of Indian Affairs including schools, health care, and
@@ -521,7 +518,7 @@ order to disassociate themselves from federal programs they believed
 undermined traditional culture. Neither the Cherokees, Seminoles, nor
 Miccosukees were terminated, but the Catawbas of South Carolina and
 the Alabama-Coushatta were.</p>
-                  <p>Mississippi Choctaws, Eastern Cherokees, Florida Seminoles, and
+            <p>Mississippi Choctaws, Eastern Cherokees, Florida Seminoles, and
 Miccosukees today have federally recognized reservations on which most
 of their members live. Other peoples such as the Tunica-Biloxi and the
 Poarch Creeks have won federal recognition and are acquiring land to
@@ -535,7 +532,7 @@ grandmother does not automatically entitle a person to BIA services
 unless her/his name appears on the roll. These benefits are not a
 special kind of Indian <soCalled>"welfare"</soCalled> but represent
 payment for ceded lands and fulfillment of federal obligations.</p>
-                  <p>Most native Southerners do not have federal recognition. Some
+            <p>Most native Southerners do not have federal recognition. Some
 Southern states operate state reservations; other states acknowledge
 Indian groups within their borders but provide relatively little in
 terms of services. State reservations, recognition, and organization
@@ -544,7 +541,7 @@ people as Indian by the larger society. Furthermore, most
 non-recognized tribes have incorporated pursuant to state
 law. Nevertheless, federal recognition is a goal for many because of
 the expanded services and sovereignty involved.</p>
-                  <p>Federal recognition, which can be pursued administratively through
+            <p>Federal recognition, which can be pursued administratively through
 the Bureau of Indian Affairs or legislatively in Congress, is
 difficult for Indian peoples to achieve. First of all, they must
 demonstrate identification as a specific native people through
@@ -564,7 +561,7 @@ homelands. By the same token, state governments denied political
 authority and sovereignty to tribal governments, and so their
 inability to govern often had little to do with the wishes of their
 own people.</p>
-                  <p>Federal recognition, however elusive, offers native Southerners an
+            <p>Federal recognition, however elusive, offers native Southerners an
 opportunity to reaffirm their Indian identity in a political and
 economic sense as well as their public image as Indians. Federally
 recognized tribes come under the jurisdiction of the federal
@@ -581,7 +578,7 @@ jurisdiction of state law. Since federally recognized native peoples
 acquired far greater control over their own affairs in the 1970s,
 these advantages have provided a means to challenge the poverty and
 impotence they historically have suffered.</p>
-                  <p>As a result of the expanded sovereignty that federal recognition
+            <p>As a result of the expanded sovereignty that federal recognition
 provides, many Southern Indians have significantly improved their
 economic situation. The most controversial exercise of sovereignty and
 economic ingenuity is the opening of bingo parlors on Indian
@@ -596,7 +593,7 @@ States Supreme Court ruled that bingo and smoke shops were legal and
 were not subject to state law. Since then, the Cherokees have followed
 suit and opened a high stakes bingo parlor in North Carolina, as have
 the Poarch Creeks in Alabama.</p>
-                  <p>Bingo is big business for Indians whose reservations are so remote
+            <p>Bingo is big business for Indians whose reservations are so remote
 and poor that few other economic opportunities exist. In 1985 Seminole
 tribal chairman James Billie told the Florida legislature that the
 Seminole tribal income was over seven million dollars; of this,
@@ -618,7 +615,7 @@ ethic to the modern economy. Rejecting a rigid free enterprise
 ideology, the tribe actively tries to improve the economic life of all
 its members, and it marshals community resources to accomplish that
 goal.</p>
-                  <p>In some ways the Choctaws pioneered this approach to solving tribal
+            <p>In some ways the Choctaws pioneered this approach to solving tribal
 economic problems. In 1969 the Choctaws formed a development
 corporation that built over four hundred houses and upgraded another
 two hundred. Furthermore, the Choctaws have used tribal land and
@@ -635,7 +632,7 @@ located on the reservation. Although its factories will employ few
 Cherokees, the income the company produces will help improve the lives
 of all the people who live on the reservation through expanded
 services.</p>
-                  <p>The growing independence and self-confidence of native Southerners
+            <p>The growing independence and self-confidence of native Southerners
 has led to a renewed interest in their past and a desire for more
 authentic representations of their culture. Native peoples have become
 involved in protecting archaeological and historic sites. The
@@ -649,7 +646,7 @@ significance for them. Many native peoples have constructed modern
 museums and <soCalled>"living villages"</soCalled> in order to help
 visitors understand their ancestors' way of life. Powwows and
 community centers strengthen community bonds and ties to the past.</p>
-                  <p>Perhaps the most authentic way in which Southern Indians have
+            <p>Perhaps the most authentic way in which Southern Indians have
 embraced their past and reasserted their culture, however, is in using
 their traditional communal ethic, which emphasized the welfare of the
 group over the individual, to modify the institutions of
@@ -671,18 +668,17 @@ native Southerners of the institutional structure needed to benefit
 fully from this model. Because the South has so many non-recognized
 Indians, it is a matter of regional concern and may well be a pressing
 cultural and racial issue of the twenty-first century.</p>
-               </div3>
-            </div2>
-            <div2 id="sc11-5008" n="The Law" type="Review">
-               <head>The Law.</head> 
-               <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
-               
-               <bibl><title>Whose Votes Count? Affirmative Action and
+          </div3>
+        </div2>
+        <div2 id="sc11-5008" n="The Law" type="Review">
+          <head>The Law.</head>
+          <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
+          <bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
 Harvard University Press, 1987. 316 pp. $25. Paperback edition, 1989,
 $10.95.)</bibl>
-<p>The Voting Rights Act of 1965 has had a profound impact on minority
+          <p>The Voting Rights Act of 1965 has had a profound impact on minority
 political participation in the South, and increasingly in the nation
 as a whole. In some jurisdictions registration and turnout of
 minorities are now equal to those of whites, while the number of
@@ -693,14 +689,13 @@ progress is encouraging, representing as it does the growing
 fulfillment of the long deferred promises of the Fourteenth and
 Fifteenth amendments, as well as an increasing national consensus in
 support of minority political participation.</p>
-               <p>The Act has always had its critics, of course, but they were
+          <p>The Act has always had its critics, of course, but they were
 usually from the expected quarters. They were mainly disgruntled
 Southern solons who complained that the legislation was punitive and
 regionally based, whites whose political and economic control was
 threatened by voting reforms and those who supported racial
-segregation and <soCalled>"the Southern way of life."</soCalled>
-               </p>
-               <p>Now, ironically, comes Abigail Thernstrom, not a Southern
+segregation and <soCalled>"the Southern way of life."</soCalled></p>
+          <p>Now, ironically, comes Abigail Thernstrom, not a Southern
 malcontent but a Senior Research Associate at the Gordon Public Policy
 Center at Brandeis University. Armed with a grant from the prestigious
 Twentieth Century Fund and the new conservative's hostility to
@@ -715,14 +710,14 @@ of single member districts, a form of neighborhood or community
 voting, which she sees as basically a scheme to achieve proportional
 representation and unfairly protect minority candidates from white
 competition.</p>
-               <p>The Supreme Court and Congress disagree with Thernstrom that the
+          <p>The Supreme Court and Congress disagree with Thernstrom that the
 Act was concerned only with vote denial. Congress was certainly
 concerned with the difficulties blacks had in registering, but it was
 also 
 <pb n="22"/>
 concerned with practices that could dilute the effectiveness of a
 ballot actually cast.</p>
-               <p>Congress knew that prior voting rights laws had failed in part
+          <p>Congress knew that prior voting rights laws had failed in part
 because local jurisdictions could always think of new ways to
 discriminate and stay one step ahead of the federal courts. As soon as
 a court invalidated an objectionable practice a jurisdiction could,
@@ -732,7 +727,7 @@ literacy tests for registration, but it provided in Section 5 of the
 Act that certain "covered" jurisdictions had to preclear any
 new voting laws with federal officials and demonstrate that they did
 not have a discriminatory purpose or effect.</p>
-               <p>In the Supreme Court's first decision construing the scope of
+          <p>In the Supreme Court's first decision construing the scope of
 Section 5, in 1969, <hi rend="italic">Allen v. State Board of
 Elections</hi>, a majority of the justices concluded on the basis of
 the legislative history that Congress intended to require preclearance
@@ -741,18 +736,18 @@ practices in even a minor way, including the adoption of procedures
 such as at-large elections that could dilute minority voting
 strength. The Court has applied this standard in every subsequent
 preclearance case.</p>
-               <p>Moreover, when Congress extended preclearance in 1970, 1975 and
+          <p>Moreover, when Congress extended preclearance in 1970, 1975 and
 1982, it discussed and expressly approved the Supreme Court's
 interpretation of Section 5. Had Congress felt that the Voting Rights
 Act had the sole and narrow purpose of eliminating only discrimination
 in registration, it could have said so and taken corrective
 action. But it did not.</p>
-               <p>In concluding her discussion of <hi rend="italic">Allen</hi>,
+          <p>In concluding her discussion of <hi rend="italic">Allen</hi>,
 Thernstrom does an anomalous and abrupt about face. While she
 professes not to like its prohibition on vote dilution, she concedes
 that <hi rend="italic">Allen</hi> "was both correct and
 inevitable."</p>
-               <p>Thernstrom is highly critical of the 1982 amendment of Section 2 of
+          <p>Thernstrom is highly critical of the 1982 amendment of Section 2 of
 the Act in which Congress provided that voting practices, whether or
 not subject to preclearance and whether or not purposefully
 discriminatory, are unlawful if they "result" in
@@ -764,7 +759,7 @@ rights activists who supported the "result" standard. They had
 a "self-proclaimed moral superiority." They hewed "to a hard
 line." They were "diehards." They had set out merely "to
 peddle a product."</p>
-               <p>Arrayed against these forces of Congressional, communications
+          <p>Arrayed against these forces of Congressional, communications
 media, and civil rights sloth and zealotry was a stable of academics
 collected by Senator Orrin Hatch to testify at the Senate
 hearings. According to Thernstrom, they were "distinguished...a
@@ -772,7 +767,7 @@ balanced and impressive group." But the "deck was stacked so
 mightily against" them and against Hatch, that their warning went
 unheeded that if the result standard were enacted single-member
 districts would spread "like a blight across the nation."</p>
-               <p>The reason Section 2 was amended, and it is a reason Thernstrom
+          <p>The reason Section 2 was amended, and it is a reason Thernstrom
 generally ignores, is that the case was fully and fairly made in
 Congress that race is still a factor in American political life and
 that the result standard was needed to combat continuing
@@ -785,11 +780,11 @@ single-member districts, and the black electoral success associated
 with them, tend to break down racial isolation by bringing minorities
 into the decision-making process. They also tend to make government at
 all levels more responsive to minority concerns.</p>
-               <p>At the end of her book Thernstrom again confronts the hard line of
+          <p>At the end of her book Thernstrom again confronts the hard line of
 new conservatism and again she flinches, effectively answering her own
 argument that single-member districts are an unfair form of
 affirmative action.</p>
-               <p>She conceded that where 'racial politics...dominates the 
+          <p>She conceded that where 'racial politics...dominates the 
 electoral process' and public
 office is largely reserved for whites, the method of voting should be
 restructured to promote minority officeholding. Safe black or Hispanic
@@ -798,16 +793,15 @@ influence. And where whites- and often blacks-regard skin color as a
 qualification for office (in part because no experience suggests
 otherwise), the election of blacks helps to break both white and black
 patterns of behavior.</p>
-               <p>Few civil rights activists would disagree.</p>
-               <p>Where there is considerable disagreement is in how many
+          <p>Few civil rights activists would disagree.</p>
+          <p>Where there is considerable disagreement is in how many
 jurisdictions are dominated by racial politics. For Thernstrom there
 are very few. One does not have to be a prophet of racial doom or deny
 the fact of change, Thernstrom suggests, to appreciate that race is
 still dynamic in American politics. One should have to be naive to
 believe that it isn't.
-<pb n="23"/>
-               </p>
-               <p>The extent of Thernstrom's naivete shines through in her discussion
+<pb n="23"/></p>
+          <p>The extent of Thernstrom's naivete shines through in her discussion
 of South Carolina politics, which she believes is far removed from the
 racial vulgarities and excesses of other Southern states. South
 Carolina, she writes, has "an unusual commitment to law and orderly
@@ -818,7 +812,7 @@ the local okra, depicting "a life that in significant ways was
 shared." And, she adds, in 1963 "South Carolina governor Donald
 Russell held an inaugural barbeque that was attended by both blacks
 and whites."</p>
-               <p>Thernstrom would have rendered a more accurate account of the
+          <p>Thernstrom would have rendered a more accurate account of the
 significance of race in South Carolina politics if she had told more
 about life beyond the imagined intimacies of the okra bin, if she had
 reported, for example, that Governor Russell, following his inaugural
@@ -834,7 +828,7 @@ Count?</hi> is that, despite being eight years or more in the making,
 it contains very little original research and relies primarily upon
 court decisions and interviews, many of which are anonymous and
 essentially impressionistic.</p>
-               <p>Thernstrom believes that the ideal electorate is one composed, not
+          <p>Thernstrom believes that the ideal electorate is one composed, not
 of black, brown or white voters as such, but of "a community of
 citizens." Most civil rights proponents do, too. Thernstrom,
 however, apparently thinks a community of citizens is a present day
@@ -843,23 +837,23 @@ rights to "the political process left substantially to its own
 devices." I cannot imagine anyone even casually familiar with the
 protracted struggle for civil rights in this country taking that
 advice, and therefore this book, very seriously. </p>
-            <div3 id="sc11-5028" type="About">
-                  <p>LAUGHLIN McDONALD is Director of the Southern Regional
+          <div3 id="sc11-5028" type="About">
+            <p>LAUGHLIN McDONALD is Director of the Southern Regional
 Office of the American Civil Liberties Union. Perhaps no other
 attorney has been responsible for as many redistricting cases. (An
 abbreviated version of this review appeared in <title>Foundation
 News</title>, May/June, 1989.)</p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5009" n="Politics of Nativism" type="Review">
-               <head>Politics of Nativism.</head>  
-               <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry">Larry Kilbourne</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-               <bibl><title>The Party of Fear: From Nativist
+          </div3>
+        </div2>
+        <div2 id="sc11-5009" n="Politics of Nativism" type="Review">
+          <head>Politics of Nativism.</head>
+          <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry">Larry Kilbourne</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
+          <bibl><title>The Party of Fear: From Nativist
 Movements to New Right in American History</title> by David H. Bennett
 (University of North Carolina Press, 1988. 509 pp. $29.95.)</bibl>
-               <p>Right wing extremist groups are scarcely a neglected
+          <p>Right wing extremist groups are scarcely a neglected
 subject. Persistent survival from one era to another, violence,
 paradoxical relationship to a country which they profess to love while
 repudiating its values of equality and tolerance, these
@@ -873,7 +867,7 @@ change. As consolation to the. orphans of change, abandoned in a
 social landscape grown suddenly unfamiliar, right wing movements
 offered rituals and ceremonies which restored the feeling of community
 that modernization had eroded.</p>
-               <p>On the whole, William Bennett, professor of history at Rutgers
+          <p>On the whole, William Bennett, professor of history at Rutgers
 University, accepts their thesis. From the several themes of right
 wing rhetoric, however, he isolates one--nativism, the irrational fear
 and hatred of foreign peoples and foreign ideas--as the primary
@@ -886,7 +880,7 @@ Catholics from France, Germany, and Ireland served this
 function. Later, nativist animosity focused on eastern European
 immigrants, and the virus of anarchist and socialist ideas they were
 presumed to carry.</p>
-               <p>Much of this is familiar. Bennett's originality lies in his
+          <p>Much of this is familiar. Bennett's originality lies in his
 contention that with the assimilation of the ethnic groups that
 arrived in the nineteenth and early twentieth centuries nativism
 gradually lost its force, and that the new right which has emerged in
@@ -899,7 +893,7 @@ establishment to
 the right's customary list of villains, was able to make nativist
 themes appealing to Catholics who were themselves of immigrant German
 and Irish stock.</p>
-               <p>Can Bennett's contention, that recent developments on the right
+          <p>Can Bennett's contention, that recent developments on the right
 show a decline of nativist bias, be accepted? I would question whether
 the psychological dynamics underlying nativism have died out, or
 merely been deflected. Rather than vanishing, the anger that once
@@ -912,7 +906,7 @@ hatreds, nativism seems a less pervasive, less central preoccupation
 than racism. For throughout American history, blacks more than any
 other group have played the roles of the "disturbing alien," the
 vaguely threatening "outsider," to mainstream white society.</p>
-               <p>Yet even traditional nativism may still possess more vitality,
+          <p>Yet even traditional nativism may still possess more vitality,
 albeit latent, than Bennett imagines. The retreat of nativism during
 the last few decades was linked to the decline of immigration and the
 acculturation of the descendants of the immigrants who had arrived
@@ -928,7 +922,7 @@ in adapting has been praised in the news media and compared to the
 supposedly poorer performance of older minority groups. All this could
 change: nativism thrives on hard times, and might return with added
 overtones of racism should the economy drop.</p>
-               <p>The ecumenicalism of the religious right, which Bennett points to,
+          <p>The ecumenicalism of the religious right, which Bennett points to,
 doesn't, I think, go very deep. The alliance of Southern Protestant
 fundamentalists and conservative Northern Catholics--to which
 President Reagan owed much of his support--is a marriage of
@@ -945,29 +939,28 @@ many Vietnamese and most Hispanics are Catholic, the conditions may
 exist once again for coalescence of religious and ethnic
 hatreds. Intolerance is implicit in the logic of the religious
 right.</p>
-            <div3 id="sc11-5029" type="About">
-                  <p>LARRY KILBOURNE graduated from Brandeis University and is
+          <div3 id="sc11-5029" type="About">
+            <p>LARRY KILBOURNE graduated from Brandeis University and is
 now a U.S. Air Force historian living in Ohio.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5019" n="Victorian Reformer" type="Review">
-               <head>Victorian Reformer.</head>
-               <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G.">HAROLD G. FLEMING</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
-               
-<bibl><title>Lugenia Burns Hope: Black Southern
+          </div3>
+        </div2>
+        <div2 id="sc11-5019" n="Victorian Reformer" type="Review">
+          <head>Victorian Reformer.</head>
+          <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G.">HAROLD G. FLEMING</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
+          <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
 Georgia Press, 1989. 192 pp. $25.)</bibl>
-               <p>If a truly definitive history of the South is ever written, some of
+          <p>If a truly definitive history of the South is ever written, some of
 its best pages will be devoted to those unsung women of the region who
 led the way in the battle for social justice. Aside from a few who
 achieved national recognition, like Mary McLeod Bethune and Lillian
 Smith, their names and deeds are not to be found in the standard
 historical records.</p>
-               <p>This admirably succinct and understated biography is a valuable
+          <p>This admirably succinct and understated biography is a valuable
 addition to the meager body of writing that seeks to cure that
 neglect.</p>
-               <p>Lugenia Burns Hope (1871-1947) was a prominent member of a network
+          <p>Lugenia Burns Hope (1871-1947) was a prominent member of a network
 of Southern black women who banded together in such organizations as
 the National Association of Colored Women, the Southeastern
 Association of Colored Women's Clubs, and Atlanta's Neighborhood Union
@@ -980,7 +973,7 @@ University and himself a leading reformer, or "race man."
 Conventionally, a woman of her status was expected to serve mainly as
 an adjunct and adornment of her prestigious husband, a devoted mother,
 gracious hostess, and bellwether of the social elite.</p>
-               <p>Lugenia Hope's advantaged position, however, drove her to give
+          <p>Lugenia Hope's advantaged position, however, drove her to give
 first place to a duty of another kind--to fight for the dignity and
 well-being of the less fortunate, especially the children of the black
 slums. Her intense commitment to this cause took precedence over all
@@ -993,7 +986,7 @@ impossible for her to play the accommodationist role adopted as a
 pragmatic strategy by most of her black contemporaries. While her
 forthrightness won admiration in some quarters, it often subjected her
 to painful criticism.</p>
-               <p>Rouse has given us not only an account of an inspiring life. but
+          <p>Rouse has given us not only an account of an inspiring life. but
 also an insightful view of black community life in the South, dating
 back to the beginning of the century. The racial customs of those
 years would seem quaint if they were not so egregiously inhumane. The
@@ -1001,38 +994,38 @@ protracted struggle required of Hope and her allies, first to get a
 "black" branch of the YWCA established, and then to wrest control of
 it from condescending white Southern women, is one of the milder
 examples.</p>
-               <p>There is a certain quaintness, too, in the 
+          <p>There is a certain quaintness, too, in the 
 <pb n="19"/>
 Victorian values that Hope
 and her network brought to the reformist crusade. The Neighborhood
 Union prided itself on ridding black neighborhoods of immoral elements
 that threatened to corrupt the youth of those areas. The records of
 the organization include the following:</p>
-               <p>February 1911: "Mrs. Barnett succeeded in getting two families
+          <p>February 1911: "Mrs. Barnett succeeded in getting two families
 out of her district who indulged in doing things that were immoral
 such as breaking the Sabbath and gambling."</p>
-               <p>August 1912: "The Mildred Street Case has been satisfactorily
+          <p>August 1912: "The Mildred Street Case has been satisfactorily
 disposed of. The Holy Rollers were made to move on the grounds of
 disorderly conduct."</p>
-               <p>Victorian principles and all, our society today could do with some
+          <p>Victorian principles and all, our society today could do with some
 brave and dedicated reformers like Lugenia Burns Hope.</p>
-            <div3 id="sc11-5039" type="About">
-                  <p>HAROLD FLEMING was on the staff of the Council
+          <div3 id="sc11-5039" type="About">
+            <p>HAROLD FLEMING was on the staff of the Council
 continuously from 1947-61. From 1957-61 he was executive
 director. Since then, he has led the Potomac Institute, in Washington,
 and in countless other ways served civil rights and the enlargement of
 American justice.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5010" n="Transformed Color" type="Review">
-               <head>Transformed Color</head>  
-               <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
-               <bibl><title>The Mississippi Chinese</title> by
+          </div3>
+        </div2>
+        <div2 id="sc11-5010" n="Transformed Color" type="Review">
+          <head>Transformed Color</head>
+          <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
+          <bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
 Ill.: Waveland Press, 1988, second edition. Paper, xii, 257
 pp. $8.95.)</bibl>
-               <p>Whatever has set off the South from other societies, set off its
+          <p>Whatever has set off the South from other societies, set off its
 politics, social order, its culture even including its literature and
 music, has been owing to the black presence, and its subordinated
 status to the white race. Consequently, what to do with, how to think
@@ -1043,7 +1036,7 @@ the potential of there being a class between or beside the two colors,
 but after freedom that possibility hardly existed; whites would not
 allow even some of their own offspring to have a separate status, like
 the "colored" of South Africa: it must be black or all-white.</p>
-               <p>But other peoples there have long been. Perhaps as widely known as
+          <p>But other peoples there have long been. Perhaps as widely known as
 any, despite their small number, are the Chinese of the Mississippi
 Delta, and that because of fumes Loewen's book, which first appeared
 in 1971 and is now in a second edition, with a preface by Robert
@@ -1051,7 +1044,7 @@ Coles, good photographs, and an afterword by the author that brings
 the story to date. It sparked a widely shown documentary film, a very
 instructive issue of <title>Southern Exposure</title> (July/August
 1984), and other studies.</p>
-               <p>But as well, on the other side of their state, there are the
+          <p>But as well, on the other side of their state, there are the
 Choctaw Indians, quietly (for the most part) living outside the
 currents of Mississippi history. Other Indian tribes and groups are
 about the region; one group of them, the Lumbees of Robeson County,
@@ -1062,12 +1055,12 @@ the Lumbees and the Mississippi Chinese: twenty-six years ago, in the
 pages of New South, one of this magazine's predecessors, the estimable
 Ira Kaye wrote of one such, the Turks of Sumter County, South
 Carolina.</p>
-               <p>In more recent days, other new groups have appeared, and with no
+          <p>In more recent days, other new groups have appeared, and with no
 mystery about their comings. The Cubans of southern Florida (unlike
 the long established ones of Tampa) arrived with verve and
 muscle. Other Hispanic and Asian peoples seem in small numbers to be
 everywhere about.</p>
-               <p>It is tempting to tender another contrast with South Africa. That
+          <p>It is tempting to tender another contrast with South Africa. That
 mad country is obsessed with separateness, holding even Afrikaans- and
 English-speaking whites at a distance from each other, trying to hold
 each black tribe from the others, holding the Indians and the colored
@@ -1078,7 +1071,7 @@ other peoples one or the
 <pb n="20"/>
 other way, unless they are Indians who stay
 on reservations.</p>
-               <p>So it has been with Jewish Southerners. Some of them resist, but
+          <p>So it has been with Jewish Southerners. Some of them resist, but
 blacks clearly have decided that Jews are simply white, differing from
 other whites no more than Catholics or Episcopalians differ from
 Baptists. By and large, save for a few social anachronisms, so have
@@ -1087,13 +1080,13 @@ with the Delta Chinese, and even more dramatically. When they first
 appeared, in the 1870s and 1880s, they were treated as Negros. By the
 1970s, they were "white." They had made the transition in a special
 way: by selling groceries to blacks.</p>
-               <p>How this happened Loewen, who is a sociology professor at the
+          <p>How this happened Loewen, who is a sociology professor at the
 University of Vermont, tells authoritatively and well. I suspect many
 readers will, as I did, find its story of the Chinese mainly of
 interest as bring a prism reflecting sharper understanding of the
 situation of the Delta's blacks. Thus does the old division
 concentrate our thoughts!</p>
-               <p>One chapter in particular tells not only a lot about the Chinese
+          <p>One chapter in particular tells not only a lot about the Chinese
 but also about whites and blacks, about the United States and blacks,
 about the place of the poor of our country. It is chapter five, its
 title is "Opposition," and Loewen regards it as his "most important
@@ -1111,32 +1104,31 @@ this is a theoretical discovery, it is a clear-eyed observation; and
 whether or not it can be applied to other situations in other
 societies, Loewen makes the case convincingly that it is a truth about
 our South.</p>
-               <p>As benefits of one of the protegee of that great and good man, the
+          <p>As benefits of one of the protegee of that great and good man, the
 late Ernst Borinski (Loewen taught for a number of years at Tougaloo
 College), Loewen has written a book not only sensitive and keen but
 concerned for the humanness of its subjects. The book is sound social
 science. It is not a book one cannot put down, but it is one that
 rewards the reader who keeps at it.</p>
-            <div3 id="sc11-5030" type="About">
-                  <p>LESLIE DUNBAR is the book review editor of
-<title>Southern Changes.</title>
-                  </p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5011" n="A New Heaven and Earth" type="Review">
-               <head>A New Heaven and Earth.</head>  
-               <byline>Reviewed by <docAuthor><name reg="Dean, Mary James">Mary James Dean</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
-               <bibl><title>The Temple of My
+          <div3 id="sc11-5030" type="About">
+            <p>LESLIE DUNBAR is the book review editor of
+<title>Southern Changes.</title></p>
+          </div3>
+        </div2>
+        <div2 id="sc11-5011" n="A New Heaven and Earth" type="Review">
+          <head>A New Heaven and Earth.</head>
+          <byline>Reviewed by <docAuthor><name reg="Dean, Mary James">Mary James Dean</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
+          <bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
 1989. 416 pp. $19.95.)</bibl>
-               <p>Alice Walker in <title>The Temple of My Familiar</title> creates a
+          <p>Alice Walker in <title>The Temple of My Familiar</title> creates a
 mythical saga, a journey to the source of unity behind our racial,
 sexual, and cultural diversity. Walker's compression back to the
 "African Eden" provides a vision of a new heaven and a new earth,
 which gives energy to propel the soul forward with a revised cosmic
 understanding.</p>
-               <p>The novel leaves characters serving theme and events subordinate to
+          <p>The novel leaves characters serving theme and events subordinate to
 mission. While the characters are believable, the plot is so
 dispersed, in eons of time, that the reader is asked to abandon logic
 and coherence in a "willing suspension of disbelief" and embrace a
@@ -1144,17 +1136,17 @@ surreal blending of people, animals, cultures, countries, and sexes in
 a black, feminist, evolutionary view. The whole globe is caught up in
 a sensual, spiritual, liberating experiment toward an unfettered
 life.</p>
-               <p>The narrative voice shifts repeatedly as different characters tell
+          <p>The narrative voice shifts repeatedly as different characters tell
 their stories and add threads to the cloth in a Faulknerian weaving of
 a mythological past that becomes history.</p>
-               <p>The narration, although it is telling many stories, is always
+          <p>The narration, although it is telling many stories, is always
 plaintive, simplistic, and almost ethereal in its timeless wisdom. It
 is both stream of consciousness and unconsciousness; as she says,
 "There was no seam. It was whole cloth. " Out of this whole
 cloth, she renames people and events with brilliant use of
 language. Drawing from history, theatre, art, literature, psychology,
 she recreates a new universe with remnants of the old.</p>
-               <p>The five major characters in the novel--Fanny, Suwelo, Carlotta,
+          <p>The five major characters in the novel--Fanny, Suwelo, Carlotta,
 Arveyda and Lissie--all become symbols for the contemporary voice that
 searches meaningful linkage to the past. In their separate journeys,
 they are bound together in strange and convoluted ways, perhaps
@@ -1176,13 +1168,13 @@ harem in North Africa, a cousin to black and white tree dwellers, an
 ancient priestess, Earth Mother, lover of men and women, daughter of a
 lion, and claiming to have had both black and white, male and female
 existences.</p>
-               <p>Behind the genealogies, Lissie's and the others, that overlap black
+          <p>Behind the genealogies, Lissie's and the others, that overlap black
 and white, Jew and gentile, slave and free, male and female, there is
 constant quarrel with male/ white/materialistic/sexless history, and
 there is a search for a "first glimpse of ourselves before we, and
 all Britain, all Europe, became pressed into the forms created for us
 by civilization."</p>
-               <p>This search comes to focus not on what divides races, cultures,
+          <p>This search comes to focus not on what divides races, cultures,
 countries, but on what unites the globe and binds us essentially to
 the rhythm and generativity of life. This is not a linear search, but
 a circular, cylindrical one that traces power back to "Isis, mother
@@ -1190,7 +1182,7 @@ of Horus, sister and lover of Osiris, Goddess of Egypt. The Goddess,
 who, long before she became Isis, was known all over Africa as simply
 the Great Mother, Creator of All, Protector of All, the Keeper of the
 Earth, Thc Goddess."</p>
-               <p>There are women in all the genealogies that lay claim to the noble
+          <p>There are women in all the genealogies that lay claim to the noble
 earth mother tradition, but it is Lissie in whom the vision is
 consummate. She is as many lives as the imagination can create, each
 building on a blend of primal instinct, imagined history, and sensual
@@ -1203,13 +1195,13 @@ jealous of women's preference for animals and, thereafter, hunted
 animals mercilessly. Women lost their <sic>their</sic> animality and
 were only "familiar" with men; they lost their passion and their
 wildness.</p>
-               <p>It is this return to the generative passion that is Walker's
+          <p>It is this return to the generative passion that is Walker's
 vision. The New Gospel is circular, Blakean, Laurentian, reaching back
 to all that has gone before and incorporating it into a prophetic
 unify of ourselves today. "Artists. . . were simply messengers. On
 them fell the responsibility for uniting the world." Alice Walker
 has become an artist to unite the world.</p>
-               <p>Interestingly, she uses Laurentian symbols to describe the
+          <p>Interestingly, she uses Laurentian symbols to describe the
 "familiar" and its "temple." The "familiar" is an animal--part bird,
 part fish, and part reptile, (reminiscent of the phoenix and
 Quetzlcoatl imagery in D.H. Lawrence.) Its "temple" is a Native
@@ -1223,19 +1215,19 @@ the phoenix, with "wings it had never used
 <pb n="18"/>
 before," a victory of the
 solar plexus, the archetypal, primordial self.</p>
-               <p>This is, perhaps, the most irreverent holy book I have ever read,
+          <p>This is, perhaps, the most irreverent holy book I have ever read,
 in which nothing is sacred and everything is holy. But, like other
 holy books, it is an overlay of stories, people and events that start,
 stop, and repeat as if compiled over centuries of time. Its mythology
 places black women at the center, for a return to the source of life
 in the African sun goddess.</p>
-               <p>But the sun may lure us, as it did Icarus, toward disaster if we
+          <p>But the sun may lure us, as it did Icarus, toward disaster if we
 fly too high or desire too much. Alice Walker has desired much in
 <title>Thc Temple of My Familiar</title>. She has soared in all
 directions, with no boundaries. The reader is left with little sense
 of focus on an organic plot, but with also a great sense of something
 masterful being done.</p>
-               <p>Although the cosmic connections are there, this is essentially an
+          <p>Although the cosmic connections are there, this is essentially an
 interior vision. The characters come together primarily to tell their
 stories and experience sexual and emotional revitalization, with
 little realistic relationship to everyday life, love and work. The
@@ -1243,64 +1235,67 @@ novel stays trapped between the cosmic vision and the interior
 psychological struggle, so that the flesh and blood characters are
 important for their contribution to the symbolic imagery of the unity
 of all people.</p>
-               <p>The message remains clear, however. It is a celebration of oneness,
+          <p>The message remains clear, however. It is a celebration of oneness,
 peace, and forgiveness in the midst of diversity. As Mama Shug says,
 "Helped are those who love all the colors of all the human beings,
 as they love all the colors of animals and plants; none of their
 children, nor any of their ancestors, nor any part of themselves,
 shall be hidden from them."</p>
-               <p>The universality of Alice Walker's profound message of ultimate
+          <p>The universality of Alice Walker's profound message of ultimate
 unity may be seen in this white reviewer's own Mississippi history, as
 I remember that my grandmother was also called Big Mama. And she
 dipped snuff, made sugar tits, killed hogs, ate sorghum and fatback,
 spat offthe back porch, and said "Ooo Wee!"</p>
-            <div3 id="sc11-5031" type="About">
-                  <p>MARY DEAN, M.A., D. Min., a native and long-time resident
+          <div3 id="sc11-5031" type="About">
+            <p>MARY DEAN, M.A., D. Min., a native and long-time resident
 of Mississippi, now lives in Rochester, N. Y., where she practices
 marriage and family therapy.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5012" n="The Cold Hard Truth" type="Article">
-               <head>The Cold Hard Truth</head>
-               <byline><docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
-               
-               <p>I spoke recently in Pittsburgh at an annual NAACP
+          </div3>
+        </div2>
+        <div2 id="sc11-5012" n="The Cold Hard Truth" type="Article">
+          <head>The Cold Hard Truth</head>
+          <byline>
+            <docAuthor>
+              <name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name>
+            </docAuthor>
+          </byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
+          <p>I spoke recently in Pittsburgh at an annual NAACP
 banquet. Ordinarily, NAACP types are leery of me because they often
 naively believe every societal problem in the world can be settled in
 the courts. That is one of the reasons many of them don't march or
 walk picket lines.</p>
-               <p>For three decades I have preached about the severe limitations on
+          <p>For three decades I have preached about the severe limitations on
 the law as a tool for positive social change. So, why was I asked to
 come and speak at a NAACP banquet in Pittsburgh? Good question.</p>
-               <p>The very conservative Republican majority on the U.S. Supreme Court
+          <p>The very conservative Republican majority on the U.S. Supreme Court
 recently acknowledged the racism surrounding and undermining the death
 penalty in America but sanctioned it anyway. I didn't have to say, "I
 told you so." The court said it for me and in a most eloquent
 manner.</p>
-               <p>In addition, the so-called pro-lifers recently won a stunning
+          <p>In addition, the so-called pro-lifers recently won a stunning
 victory against abortions in the Pennsylvania legislature. The
 conservative Republican Attorney General of the United States, Richard
 Thornburg, was U.S. Attorney in Pittsburgh before he became governor
 and is a major pro-lifer.</p>
-               <p>The general is also a loud advocate of the federal death
+          <p>The general is also a loud advocate of the federal death
 penalty. Many black Pennsylvanians are beginning to question his
 sincerity as he preaches the pro-life gospel on one hand and the death
 penalty on the other.</p>
-               <p>The Pittsburgh NAACP groups raised the same questions when
+          <p>The Pittsburgh NAACP groups raised the same questions when
 Thornburg nominated Bill Lucas to head the civil rights division at
 Justice. Several black Pennsylvania politicians, close to Thornburg,
 were in Detroit trying to drum up support for Lucas. They failed.</p>
-               <p>These Pennsylvania politicians were singularly ineffective. First,
+          <p>These Pennsylvania politicians were singularly ineffective. First,
 they were unaware Thornburg had taken a stand on the federal death
 penalty. Second, they were not knowledgeable about the civil rights
 connection with capital punishment and knew next to nothing about the
 death penalty generally.</p>
-               <p>A few days ago in Birmingham I discussed capital punishment in
+          <p>A few days ago in Birmingham I discussed capital punishment in
 Alabama before an audience of blacks and whites. Only the blacks were
 uncomfortable. Shades of Detroit!</p>
-               <p>I recited the following facts in Birmingham.</p>
-               <p>There are 106 people under sentence of death in Alabama. Fifty-one
+          <p>I recited the following facts in Birmingham.</p>
+          <p>There are 106 people under sentence of death in Alabama. Fifty-one
 percent of Alabama death row inmates are black, though we comprise
 only a fifth of the-population. Eighty percent of death row sentences
 were imposed in cases with white victims. Alabama has never executed a
@@ -1308,68 +1303,67 @@ white person for a crime against a black; regardless of how outrageous
 or brutal the crime. Seventeen death row prisoners received the death
 sentence from a circuit judge who overruled a jury recommendation of
 life without parole.</p>
-               <p>Alabama has five women on death row, the largest number in the
+          <p>Alabama has five women on death row, the largest number in the
 nation per capita. Two juveniles are under sentence of death. At
 present there are approximately 126 people charged with capital murder
 awaiting trial or sentencing in Alabama. Ten people have been
 sentenced to death in the last six months.</p>
-               <p>Since Alabama resumed executions, six people have 
+          <p>Since Alabama resumed executions, six people have 
 <pb n="23"/>
 been put to death
 at Holman Prison. The pace of executions has escalated in recent
 months; there have been three executions since May of 1989. Arthur
 Julius is currently scheduled for execution on November 17, a few days
 away.</p>
-               <p>If the foregoing facts make you nervous, don't blame me. Blame the
+          <p>If the foregoing facts make you nervous, don't blame me. Blame the
 truth.</p>
-               <p>I am often amused by certain blacks with certain jobs--in Alabama,
+          <p>I am often amused by certain blacks with certain jobs--in Alabama,
 Pennsylvania and elsewhere--who will blame me for reciting or
 publishing the foregoing facts but will voice no opinion on the
 process that produced those facts. My critics are often classic
 frauds.</p>
-               <p>The western Pennsylvania NAACP membership was hardly unanimous in
+          <p>The western Pennsylvania NAACP membership was hardly unanimous in
 approving my visit or anticipated speech; otherwise the visit wouldn't
 have been worth the trip.</p>
-               <p>Peace.</p>
-            <div3 id="sc11-5032" type="About">
-                  <p>J. L. Chestnut is an Alabama trial lawyer and
+          <p>Peace.</p>
+          <div3 id="sc11-5032" type="About">
+            <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
-               </div3>
-	     </div2>
-            <div2 id="sc11-5013" n="Portraits from Slavery" type="Review">
-               <head>Portraits from Slavery.</head>  
-               <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S.">Emory S. Campbell</name></docAuthor></byline>
-               <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
-               
-<bibl><title>Winslow Homer's Images of
+          </div3>
+        </div2>
+        <div2 id="sc11-5013" n="Portraits from Slavery" type="Review">
+          <head>Portraits from Slavery.</head>
+          <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S.">Emory S. Campbell</name></docAuthor></byline>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
+          <bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of
 Texas, 1989. Paper, 144 pp. $19.95.)</bibl>
-               <p>Until the civil rights movement of the 1960s, the Civil War and
+          <p>Until the civil rights movement of the 1960s, the Civil War and
 Reconstruction years were the most significant period of events for
 freedom and equality in the history of African-Americans. The rise
 from the brutality of slavery, through the efforts of abolitionists
 and eventually the destructive Civil War, to freedom produced a
 tremendous challenge, for the African-American themselves and for the
 nation. It is one as well for the recorders of history.</p>
-               <p>Although the Civil War and Reconstruction have been well
+          <p>Although the Civil War and Reconstruction have been well
 documented, Winslow Homer's Images of Blacks reveals another
 outstanding dimension to this pivotal period in American history, and
 particularly African-American history.</p>
-               <p>Winslow Homer was an American artist who is best known for his
+          <p>Winslow Homer was an American artist who is best known for his
 paintings of the sea and symbols of rugged individuals of the
 sea. Born in Boston in 1836, Homer was employed by Harper's Weekly
 during the Civil War to illustrate war scenes. But his interest in the
 plight of black people began during his childhood, when discussions of
 slavery and the abolitionist movement were very much a part of his
 daily life.</p>
-               <p>Peter H. Wood, professor of history at Duke University, and
+          <p>Peter H. Wood, professor of history at Duke University, and
 C.C. Dalton of the Menil Foundation, carefully and learnedly explain
 the life of Homer and his paintings of African-Americans. The authors,
 in examining fifty-eight very graphic paintings, have in essence
 produced a fitting eulogy for both Winslow Homer, who was obviously a
 compassionate artist, and the portrayed African-Americans as they
 struggled to achieve freedom and self-determination.</p>
-               <p>Wood, whose earlier work, <title>Black Majority</title>, is proudly
+          <p>Wood, whose earlier work, <title>Black Majority</title>, is proudly
 acclaimed by both black Americans and scholars of black history, and
 Dalton, an equally enthusiastic and accomplished historian, not only
 bring light into a dark period with their interpretations, but explore
@@ -1379,14 +1373,14 @@ an early age," and, although his parents moved to Cambridge
 (nearer to Harvard) from Boston to give him a chance to attend
 Harvard, "Win wanted to draw," and elected not to attend
 Harvard.</p>
-               <p>Wood and Dalton skillfully point out that Homer's motivation for
+          <p>Wood and Dalton skillfully point out that Homer's motivation for
 drawing images of blacks, and their struggle for freedom, could very
 well have come from his own personal experience while working "for
 the Boston lithographic firm of John Buford and Saws where he
 undertook a tedious apprenticeship that lasted until his 21st
 birthday"; ..."and since the day he left it, he has called no
 man master."</p>
-               <p>Homer's parents were opposed to slavery and were members of
+          <p>Homer's parents were opposed to slavery and were members of
 Boston's Hanover Street Congregational Church, where Lyman Beecher,
 father of Harriet Beecher Stowe, was the preacher. The Rev. Beecher,
 who was oblivious to slavery, moved his flock to Bowdoin Street, and
@@ -1400,7 +1394,7 @@ organize a Children's Antislavery Crusade," ironically the
 clergyman for whom Winslow Homer was named denounced the organization,
 and the Homers moved to Cambridge with abolitionist Thomas Wentworth
 Higginson.</p>
-               <p>Perhaps the strength of the authors' text lies in its
+          <p>Perhaps the strength of the authors' text lies in its
 interpretation of Winslow's sensitivities to the subject, as they
 relate events to appropriate paintings. For an example, they see two
 possible interpretations of the painting, View of Mount Vernon and
@@ -1413,7 +1407,7 @@ that since small, remote, figures are coming from a dark cellar, Homer
 was describing the fact that "enslaved persons were beginning to
 emerge from beneath the large and darkened structure of plantation
 society."</p>
-               <p>The authors puzzle over the painting, <title>The Baggage
+          <p>The authors puzzle over the painting, <title>The Baggage
 Train</title>: Was Homer, they seem to ask, likening freed citizens of
 color to "excess baggage--men who refuse to pull their own
 weight?" Then, as if to present the other side, Wood and Dalton
@@ -1421,7 +1415,7 @@ interpret Homer's <title>Blossom Time in Virginia</title>--a young boy
 proudly plowing a field, "in preparation to planting" -- :
 "this springtime scene embodies the hope born in Afro-Americans
 after the passage of the Thirteenth Amendment."</p>
-               <p>This book is more than a scholarly interpretation of the works of
+          <p>This book is more than a scholarly interpretation of the works of
 one of the nation's famous artists. It is also an excellent guide for
 learning about the events leading to the Civil War, the Civil War
 itself, and the Reconstruction era. I for the first time was able to
@@ -1431,26 +1425,26 @@ contrabands. Indeed, the paintings exude tremendous emotions: hope,
 joy, and a sense of direction and place. And the accompanying text
 produces a welcome array of interpretations that reach other
 dimensions.</p>
-               <p>For those who enjoy art without assistance in interpreting the
+          <p>For those who enjoy art without assistance in interpreting the
 artist's subjects, the comments by Wood and Dalton could be annoying
 and even boring. Sometimes the obvious is explained. On the other
 hand, those same readers will enjoy the authors' meticulous comparison
 of Homer's images with those of other artists: e.g., Thomas Nast's
 <title>He Wants a Change Too</title> with Homer's
 <title>Carnival</title>, pointing out distinct differences.</p>
-               <p>Although Peter Wood's Black Majority could be considered the
+          <p>Although Peter Wood's Black Majority could be considered the
 pinnacle of most historians' careers, readers of this book will be
 glad that was not his last work. This book rightfully belongs in every
 American home, especially if one is of African-American descent. It is
 a wonderful reminder of the great achievement of black people from
 slavery to freedom.</p>
-            <div3 id="sc11-5033" type="About">
-                  <p>EMORY CAMPBELL is director of the historic and still
+          <div3 id="sc11-5033" type="About">
+            <p>EMORY CAMPBELL is director of the historic and still
 vibrant Penn Center of the Sea Islands, on St Helena Island, South
 Carolina.</p>
-               </div3>
-	     </div2>
-         </div1>
-      </body>
-   </text>
+          </div3>
+        </div2>
+      </div1>
+    </body>
+  </text>
 </TEI.2>
