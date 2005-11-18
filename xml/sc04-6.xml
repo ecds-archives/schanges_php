@@ -71,7 +71,7 @@ Health in the New South.</title> by John Ettling, Harvard University
 Press, 1981.</head>
           <byline>
             <docAuthor>
-              <name reg="Tullos, Allen">By Allen Tullos</name>
+              <name reg="Tullos, Allen" type="person">By Allen Tullos</name>
             </docAuthor>
           </byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 15-17</docDate>
@@ -257,7 +257,7 @@ whites, could not allow.</p>
         </div2>
         <div2 id="sc04-6003" n="Fifty Years With Highlander" type="Article">
           <head>Fifty Years With Highlander</head>
-          <byline>By <docAuthor><name reg="Thrasher, Sue">Sue Thrasher</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate>
           <p>At Christmas time in 1931 in Copenhagen, Denmark, a young man off
 an East Tennessee farm made a note to himself:</p>
@@ -659,7 +659,7 @@ Highlander.</p>
         </div2>
         <div2 id="sc04-6004" n="Local Color Defaulting On Justice" type="Article">
           <head>Local Color Defaulting On Justice</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate>
           <p>Long lines at the Supreme Court building in Washington are
 commonplace as tourists and school kids come daily to walk the halls
@@ -1206,7 +1206,7 @@ Regional Council.</p>
           <head>Denton and Helms: The Enemies Within.  Patriotism in Peace</head>
           <byline>
             <docAuthor>
-              <name reg="Arkansas Gazette">From the Arkansas Gazette</name>
+              <name reg="Arkansas Gazette" type="institution">From the Arkansas Gazette</name>
             </docAuthor>
           </byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate>
@@ -1252,7 +1252,7 @@ groups are practicing patriotism of a high order.</p>
         </div2>
         <div2 id="sc04-6007" n="North Carolina Pays the Price" type="Article">
           <head>North Carolina Pays the Price</head>
-          <byline>By <docAuthor><name reg="Sitton, Claude">Claude Sitton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Sitton, Claude" type="person">Claude Sitton</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate>
           <p>Americans don't ask much of
 those whom they send to the U.S. Senate. A senator can usually pass
@@ -1351,7 +1351,7 @@ and Observer</title>.</p>
 with Atomic Radiation.</title> By Harvey Wasserman and Norman Solomon
 with Robert Alverez and Eleanor Walters, New York: Dell Publishing
 Co., 1982, $12.95.</head>
-          <byline>By <docAuthor><name reg="Northrop, John">John Northrop</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Northrop, John" type="person">John Northrop</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 19-20</docDate>
           <p>Hiroshima proved that the atomic bomb could wipe out cities, but it
 was years later before many people began paying much attention to the
@@ -1485,7 +1485,7 @@ of the Birmingham Audubon Society.</p>
         </div2>
         <div2 id="sc04-6009" n="Beaufort Academy" type="Article">
           <head>Beaufort Academy--"None Ever Applied"</head>
-          <byline>By <docAuthor><name reg="Mcmillan, George">George Mcmillan</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Mcmillan, George" type="person">George Mcmillan</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate>
           <p>If Congress wants to know how a typical tax exempt segregated
 school works in a typical Southern town it should look at Beaufort
@@ -1632,7 +1632,7 @@ Frogmore, South Carolina.</p>
         </div2>
         <div2 id="sc04-6010" n="Worker Owned" type="Article">
           <head>Worker Owned: Some Southern Beginnings</head>
-          <byline>By <docAuthor><name reg="Connette, Woody">Woody Connette</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Connette, Woody" type="person">Woody Connette</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate>
           <p>In September 1979, a small group of Windsor, North Carolina
 residents transformed a vacant automobile showroom into a garment cut
@@ -2077,7 +2077,7 @@ Southern Piedmont, Inc., in Concord, North Carolina.</p>
         <div2 id="sc04-6011" n="The Tuskegee Syphilis Experiment" type="Review">
           <head><title>Bad Blood: The Tuskegee Syphilis Experiment. By James
 H. Jones.</title> New York: The Free Press, 1981. $14. 95.</head>
-          <byline>By <docAuthor><name reg="Beatty, Bess">Bess Beatty</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 17-19</docDate>
           <p>In 1972 the Associated Press broke the story of the Tuskegee
 experiment, a forty-year study of the effect of syphilis on six

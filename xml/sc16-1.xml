@@ -59,7 +59,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <p><title> Southern Changes</title>. Volume 16, Number 1, Spring, <date value="1994-03">1994</date></p>
         <div2 id="sc16-1002" n="Ominous Crime Bill" type="Article">
           <head>Ominous Crime Bill</head>
-          <byline>By <docAuthor><name reg="Guerrero, Gene">Gene Guerrero</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Guerrero, Gene" type="person">Gene Guerrero</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 1-6</docDate>
           <p>Congress is about to pass yet another massive, omnibus crime bill&#x2014;the most expensive and possibly the most destructive ever. Like its predecessors, this crime bill was primarily fashioned with an eye towards the coming elections. What few genuine reforms it does contain are due largely to three Southern members.</p>
           <p>Beginning in the mid-1960s, U.S. crime rates increased to the point where our rates of crimes of violence are three to ten times those in other industrialized countries. In 1943, for example, New York City had forty-four gunshot homicides. In 1992, with a slightly smaller population, 1,499 persons were killed by guns in the Big Apple. Today's seventh grader has an 80 percent chance of being a victim of a violent crime at least once during his or her lifetime. The impact of crime falls heaviest on the poor. Nearly half of all crimes are committed against households with incomes below $15,000.</p>
@@ -201,7 +201,7 @@ Washington, DC 20004</hi>
         </div2>
         <div2 id="sc16-1003" n="Guilty as Charged" type="Article">
           <head>Guilty as Charged</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 8-11</docDate>
           <p>In closing arguments at the January 27-February 5 trial of Byron de
 la Beckwith for the 1963 murder of Medgar Evers, Hinds County,
@@ -387,7 +387,7 @@ documentary on Medgar Evers.</p>
         </div2>
         <div2 id="sc16-1004" n="The Six New Witnesses" type="Article">
           <head>The Six New Witnesses</head>
-          <byline>By <docAuthor><name reg="DAVENPORT, ELAINE">ELAINE DAVENPORT</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="DAVENPORT, ELAINE" type="person">ELAINE DAVENPORT</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 10-11</docDate>
           <p>Highlights from the testimony of the six new witnesses in the Byron de la Beckwith trial, in the order in which they appeared before the court:</p>
           <p>In September 1966, Mary Ann Adams, 51, of Mississippi, went with a co-worker to a restaurant between Tchula and Greenwood in the Delta, where she met Beckwith: "He came to our table and was introduced as Byron de la Beckwith, the man who killed Medgar Evers. I refused to shake his hand and he got angry. He said he had not killed a man, but a 'damn chicken-stealing dog and you know what you have to do once they've tasted blood.' She told her mother, but not "the law" because she thought Beckwith couldn't be tried again. When she saw publicity about the case being reopened, she got in touch with Deputy District Attorney DeLaughter.</p>
@@ -443,7 +443,7 @@ hitter."</p>
         </div2>
         <div2 id="sc16-1005" n="Rosewood Massacre Survivors Win" type="Article">
           <head>Rosewood Massacre Survivors Win</head>
-          <byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, p. 12</docDate>
           <p>Descendants of the black residents of Rosewood, Florida and survivors of the massacre that left at least eight dead and destroyed the town more than seventy years ago took their case to the state legislature in an effort to finally win compensation. At the close of the 1994 legislative session, they were victorious.</p>
           <p>"It's a matter of justice," said Florida Senate sponsor Daryl Jones (D-Miami), "a symbol of the countless secret deaths that took place in an era that has slipped from view." The state Senate's 26-14 vote on April 8 supported a $2.1 million claim which will pay eleven survivors $150,000 each and provide other benefits, including scholarships, to descendants.</p>
@@ -456,7 +456,7 @@ family."</p>
         </div2>
         <div2 id="sc16-1006" n="What Will We Do With the Homeless?" type="Article">
           <head>What Will We Do With the Homeless?</head>
-          <byline>By <docAuthor><name reg="Snodderly, Ed">Ed Snodderly</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Snodderly, Ed" type="person">Ed Snodderly</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 14-15</docDate>
           <p>ED SNODDERLY: Joyce Brookshire is a songwriter and singer whose family
 comes from north Georgia. Joyce started writing songs when she was ten
@@ -508,7 +508,7 @@ reprinted from <title>Now and Then</title>, a journal from and about Appalachia.
         </div2>
         <div2 id="sc16-1007" n="Whitewash" type="Review">
           <head>Whitewash</head>
-          <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J." type="person">Robert J. Norrell</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 18-20</docDate>
           <bibl><title>George Wallace:  American Populist</title>,
 by Stephan Lesher (Addison Wesley, 1994, 587 pages).</bibl>
@@ -566,7 +566,7 @@ Wallace.</p>
         </div2>
         <div2 id="sc16-1008" n="A Lottery for the Poor" type="Review">
           <head>A Lottery for the Poor</head>
-          <byline>Reviewed by <docAuthor><name reg="Vodicka, John Cole">John Cole Vodicka</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Vodicka, John Cole" type="person">John Cole Vodicka</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 20-21</docDate>
           <bibl><title>Dead Man Walking:  An
 Eyewitness Account of the Death Penalty in the United States</title>,
@@ -609,7 +609,7 @@ Koinonia Partners in Americus, Georgia. He has actively been involved against th
         </div2>
         <div2 id="sc16-1009" n="New York Lite" type="Review">
           <head>New York Lite</head>
-          <byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 22-23</docDate>
           <bibl><title>New York Days</title>by
 Willie Morris (Little, Brown and Company, 1993, 396 pages).</bibl>
@@ -659,7 +659,7 @@ and once, Hamlet-like, on a late night stroll over the battlefields at Gettysbur
         </div2>
         <div2 id="sc16-1010" n="Looking for the Morning" type="Review">
           <head>Looking for the Morning</head>
-          <byline>Reviewed by <docAuthor><name reg="Klenbort, Marcia">Marcia Klenbort</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Klenbort, Marcia" type="person">Marcia Klenbort</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 23-25</docDate>
           <bibl><title>Man and Mission, E.B. Gaston
 and the origins of the Fairhope Single Tax Colony</title>, by
@@ -715,7 +715,7 @@ Fairhope Colony its due.</p>
         </div2>
         <div2 id="sc16-1011" n="Bottom Rails" type="Review">
           <head>Bottom Rails</head>
-          <byline>Reviewed by <docAuthor><name reg="Sharpless, Rebecca">Rebecca Sharpless</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Sharpless, Rebecca" type="person">Rebecca Sharpless</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 25-27</docDate>
           <bibl><title>The Origins of Southern Sharecropping</title>, by
 Edward Royce (Temple University Press, 1993, 279 pages).</bibl>

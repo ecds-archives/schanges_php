@@ -63,7 +63,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
           <head>Another Dry, White Season</head>
           <byline>
             <docAuthor>
-              <name reg="Johnson, Wendy">Wendy Johnson</name>
+              <name reg="Johnson, Wendy" type="person">Wendy Johnson</name>
             </docAuthor>
           </byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 1, 3-4</docDate>
@@ -112,7 +112,7 @@ South, Twenty-Five Years Later" type="Article">
 South, Twenty-Five Years Later</head>
           <byline>
             <docAuthor>
-              <name reg="Stuart, Reginald">Reginald Stuart</name>
+              <name reg="Stuart, Reginald" type="person">Reginald Stuart</name>
             </docAuthor>
           </byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 5-9</docDate>
@@ -225,7 +225,7 @@ and the black perspective we thought we were going to be able to bring has not b
         <div2 id="sc19-2004" n="Get Back! The Resegregation of America's Schools
 " type="Article">
           <head>Get Back! The Resegregation of America's Schools</head>
-          <byline>By <docAuthor><name reg="Blackford, Linda">Linda Blackford</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 9-11</docDate>
           <p>The city of Charleston, West Virginia, took an unusual approach to school integration in the fall of 1956: It moved black children into white schools long before the rest of the South, and did it without a peep.</p>
           <p>No one showed up to protest. No state official swore to block the schoolhouse door. It seemed that the daring experiment of integrated schools could succeed.</p>
@@ -296,10 +296,10 @@ century."</p>
         <div2 id="sc19-2005" n="Deepening Segregation
 in American Public Schools" type="Article">
           <head>Deepening Segregation in American Public Schools</head>
-          <byline>By <docAuthor><name reg="Orfield, Gary">Gary
-       Orfield</name>, Harvard University; <name reg="Bachmeier, Mark D.">Mark
-D. Bachmeier</name>, <name reg="James, David R.">David R. James</name>
-and <name reg="Eide, Tamela">Tamela Eide</name>, Indiana University Harvard Project on School Desegregation</docAuthor></byline>
+          <byline>By <docAuthor><name reg="Orfield, Gary" type="person">Gary
+       Orfield</name>, Harvard University; <name reg="Bachmeier, Mark D." type="person">Mark
+D. Bachmeier</name>, <name reg="James, David R." type="person">David R. James</name>
+and <name reg="Eide, Tamela" type="person">Tamela Eide</name>, Indiana University Harvard Project on School Desegregation</docAuthor></byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 11-18</docDate>
           <p rend="center">
             <hi rend="bold">Introduction</hi>
@@ -653,7 +653,7 @@ policies.</p>
         </div2>
         <div2 id="sc19-2006" n="Both Race and Class: A Time for Anger" type="Article">
           <head>Both Race and Class: A Time for Anger</head>
-          <byline>By <docAuthor><name reg="Carter, Dan T.">Dan T. Carter</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 19-22</docDate>
           <p>As we look at the economic changes in the United States over the last quarter century, we can see that a revolution has taken place. Since the late 1970s, there has been a 40 percent increase in real income in the U.S., but over half of this increase has gone to the top one-half percent of America's taxpayers. At the same time, people who make up the bottom 20 percent of income earners have seen a substantial decline in their standard of living. As a result, we have a gap between rich and poor which is greater than at any time since the 1920s.</p>
           <p>That gap is growing
@@ -742,7 +742,7 @@ Transformation of American Politics</title> (Simon &#x0026; Schuster, 1995). His
         </div2>
         <div2 id="sc19-2007" n="Canton, Then and Now" type="Article">
           <head>Canton, Then and Now</head>
-          <byline>By <docAuthor><name reg="Dent, Tom">Tom Dent</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dent, Tom" type="person">Tom Dent</name></docAuthor></byline>
           <docDate value="1997-06">Vol. 19, No. 2, 1997 pp. 23-24</docDate>
           <p><hi rend="italic">In his most recent book</hi>, Southern Journey: A
 Return to the Civil Rights Movement, <hi rend="italic">author Tom Dent revisits some cities and towns in the South to explore what impact the Civil Rights Movement has had on the people who live there. In the excerpt below, Dent visits Canton, Mississippi, and looks at the career of civil rights activist Annie Devine.</hi></p>

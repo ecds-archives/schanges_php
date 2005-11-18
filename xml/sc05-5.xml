@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1983-10">1983</date></p>
         <div2 id="sc05-5002" n="Checking the Teeth of Change" type="Article">
           <head>Checking the Teeth of Change</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
           <p>The obvious changes in Southern politics usually deserve our most
 intense suspicions, and Mississippi's recent democratic primary
@@ -170,7 +170,7 @@ Regional Council.</p>
         </div2>
         <div2 id="sc05-6003" n="A Reapportionment Primer" type="Article">
           <head>Drawing the Lines: A Reapportionment Primer</head>
-          <byline>By <docAuthor><name reg="Sherman, Brian">Brian Sherman</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Sherman, Brian" type="person">Brian Sherman</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
           <p>Reapportionment occurs, or at least should occur, every ten
 years--when the results of the population census are released. Three
@@ -624,7 +624,7 @@ Door.</title></p>
         <div2 id="sc05-5004" n="Southern Honor: Ethics and Behavior in the Old South" type="Review">
           <head>Bertram Wyatt-Brown. <title>Southern Honor: Ethics and Behavior
 in the Old South.</title> Oxford University Press, 1982.</head>
-          <byline>By <docAuthor><name reg="Morgan, Lynda">Lynda Morgan</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Morgan, Lynda" type="person">Lynda Morgan</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 22-24</docDate>
           <p>In his <title>History of the Southern Confederacy,</title>
 published in 1954, Clement Eaton noted that students of the American
@@ -781,7 +781,7 @@ is more to Southern honor than Wyatt-Brown is telling us.</p>
         </div2>
         <div2 id="sc05-5005" n="White Politics in a Black Land" type="Article">
           <head>White Politics in a Black Land</head>
-          <byline>By <docAuthor><name reg="Minor, Bill">Bill Minor</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Minor, Bill" type="person">Bill Minor</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
           <p>It was the sort of affair which a few years ago would have been
 unthinkable in Mississippi: an NAACP fundraising luncheon in
@@ -1348,7 +1348,7 @@ lives in Jackson. </p>
         </div2>
         <div2 id="sc05-5006" n="Testing for Competency" type="Article">
           <head>Testing for Competency</head>
-          <byline>By <docAuthor><name reg="Dixon, Hortense">Hortense Dixon</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dixon, Hortense" type="person">Hortense Dixon</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
           <p>Twenty-one states now base teacher certification on the results of
 competency tests. These tests measure what is considered to be "basic
@@ -1508,7 +1508,7 @@ Southern Regional Council.</p>
         </div2>
         <div2 id="sc05-5007" n="Aaron Henry from Clarksdale" type="Article">
           <head>Aaron Henry from Clarksdale</head>
-          <byline>By <docAuthor><name reg="Long, Worth">Worth Long</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Long, Worth" type="person">Worth Long</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
           <p>This is Aaron Henry and I'm from Clarksdale, have always lived
 here. Born outside of the city limits on a plantation called Flowers'
@@ -1789,7 +1789,7 @@ Project.</p>
         </div2>
         <div2 id="sc05-5008" n="Black Women's Health Conference" type="Article">
           <head>Black Women's Health Conference</head>
-          <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
           <p>In 1970 Byllye Avery had it made. She was married to a wonderful
 man. He was college educated and had a good job. They owned their

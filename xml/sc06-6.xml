@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1984-12">1984</date></p>
         <div2 id="sc06-6002" n="It's Jesse Again" type="Article">
           <head>It's Jesse Again</head>
-          <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 1-3</docDate>
           <p>Relying on $14 million worth of accusation, racial invective and
 unrepentant lying, Sen. Jesse Helms has been reelected.</p>
@@ -251,7 +251,7 @@ fact, that was precisely what he had done.</p>
         </div2>
         <div2 id="sc06-6003" n="Women of the Louisiana Cane Fields" type="Article">
           <head>Plantation Portraits: Women of the Louisiana Cane Fields</head>
-          <byline>By <docAuthor><name reg="Laudin, Tika">Tika Laudin</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Laudin, Tika" type="person">Tika Laudin</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 4-6</docDate>
           <p>
             <hi rend="bold">HELEN CASSIMERE</hi>
@@ -412,7 +412,7 @@ for five dollars from the Southern Mutual Help Association, P. O. Box
         <div2 id="sc06-6004" n="Southern Hunger in the Eighties" type="Article">
           <head>Southern Hunger in the Eighties: Win this one for the
 Reaper</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 6-11, 13-16</docDate>
           <epigraph>
             <p>"There's no basis for this demagoguery that somehow we
@@ -1057,7 +1057,7 @@ States</title>: 1983. Washington. August, 1984.</p>
         <div2 id="sc06-6005" n="Statement of Dr. Aaron Shirley" type="Article">
           <head>Statement of Dr. Aaron Shirley before the House Select Committee
 on Hunger. Greenwood, Mississippi June 25, 1984</head>
-          <byline>By <docAuthor><name reg="Shirley, Aaron">Aaron Shirley</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Shirley, Aaron" type="person">Aaron Shirley</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, p. 12</docDate>
           <p>My name is Aaron Shirley. I am a practicing pediatrician and the
 project director of the Jackson Hinds Comprehensive Health Center in
@@ -1139,7 +1139,7 @@ possibly a shortened life span.</p>
         </div2>
         <div2 id="sc06-6006" n="Of Hungry Children, 1967" type="Article">
           <head>Of Hungry Children, 1967</head>
-          <byline>By <docAuthor><name reg="Wheeler, Raymond M., M.D.">By Raymond M. Wheeler, M.D.</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wheeler, Raymond M., M.D." type="person">By Raymond M. Wheeler, M.D.</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, p. 15</docDate>
           <p>I am distressed and concerned that Senators Stennis and Eastland
 interpret my remarks this morning as libelous to the state of
@@ -1202,7 +1202,7 @@ following reply.</p>
         </div2>
         <div2 id="sc06-6007" n="Southern Banks Charge Ahead" type="Article">
           <head>Southern Banks Charge Ahead</head>
-          <byline>By <docAuthor><name reg="Overton, Jim">Jim Overton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Overton, Jim" type="person">Jim Overton</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 18-20</docDate>
           <p>A financial services revolution is underway and Southern banks are
 doing their damndest to make sure they get as large a slice of the pie
@@ -1421,7 +1421,7 @@ North Carolina Independent.</title></p>
 1984. Larry G. Spangler, producer; Richard Sarafian, director; written
 by Michael Kane; starring Gary Busey as Coach Paul "Bear"
 Bryant.</head>
-          <byline>Reviewed by <docAuthor><name reg="Gorn, Elliott J.">Elliott J. Gorn</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Gorn, Elliott J." type="person">Elliott J. Gorn</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 20, 22-23</docDate>
           <p>I first moved to Tuscaloosa, carpetbag in hand, in 1981. I was
 enough of a football fan to know that the University of Alabama
@@ -1595,7 +1595,7 @@ the early history of prize fighting in America, to be entitled
         </div2>
         <div2 id="sc06-6009" n="The Politics of Culture in an American Region" type="Review">
           <head>The Politics of Culture in an American Region</head>
-          <byline>Reviewed by <docAuthor><name reg="Williamson, J.W.">Reviewed by J.W. Williamson</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Williamson, J.W." type="person">Reviewed by J.W. Williamson</name></docAuthor></byline>
           <docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 23-24</docDate>
           <bibl><title>All That Is Native and Fine: The Politics of Culture in
 an American Region</title> by David E. Whisnant. University of North

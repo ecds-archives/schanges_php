@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1984-08">1984</date></p>
         <div2 id="sc06-4002" n="Emelle, Alabama Toxic Waste Cadillac" type="Article">
           <head>Emelle, Alabama Toxic Waste Cadillac</head>
-          <byline>By <docAuthor><name reg="Gunter, Booth">Booth Gunter</name> and <name reg="Williams,  Mike"> Mike Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gunter, Booth" type="person">Booth Gunter</name> and <name reg="Williams,  Mike" type="person"> Mike Williams</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate>
           <p>Down in the Heart of Dixie, in the gently rolling hills of the
 Black Belt, lie gigantic pits--twice as wide as football fields are
@@ -542,7 +542,7 @@ profit.</p>
         </div2>
         <div2 id="sc06-4003" n="Hazardous Waste in Georgia" type="Article">
           <head>Hazardous Waste in Georgia</head>
-          <byline>By <docAuthor><name reg="Breman, Vicki">Vicki Breman</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Breman, Vicki" type="person">Vicki Breman</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate>
           <p>If you are poor, black and live in the South, you are much more
 likely to live near a hazardous waste landfill than if you are white
@@ -998,7 +998,7 @@ the Legal Environmental Assistance Foundation.</p>
         </div2>
         <div2 id="sc06-4004" n="Blues for Mr. President" type="Article">
           <head>Blues for Mr. President</head>
-          <byline>By <docAuthor><name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate>
           <p>
             <hi rend="bold">MR. PRESIDENT</hi>
@@ -1183,7 +1183,7 @@ Vanderbilt University.</p>
         </div2>
         <div2 id="sc06-4005" n="Southern Electric Cooperatives Still Segregated" type="Article">
           <head>Southern Electric Cooperatives Still Segregated</head>
-          <byline>By <docAuthor><name reg="Pace, David">David Pace</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Pace, David" type="person">David Pace</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate>
           <p>Only two percent of the board members of rural electric
 cooperatives in twelve Southern states are black, even though the
@@ -1344,7 +1344,7 @@ and get the benefit of the worst abuses of both," he said.</p>
         </div2>
         <div2 id="sc06-4006" n="The Electric Valley" type="Review">
           <head>The Electric Valley</head>
-          <byline>Reviewed by <docAuthor><name reg="Whisnant, David">David E. Whisnant</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Whisnant, David" type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 18-22</docDate>
           <bibl><title>The Electric Valley.</title> Directed and produced by
 Ross Spears, music by Kenton Coe, narration by Wilma Dykeman, research
@@ -1574,7 +1574,7 @@ American Region</title> (University of North Carolina Press,
         <div2 id="sc06-4007" n="This Land, This South" type="Review">
           <head>This Land, This South</head>
           <byline>Reviewed by <docAuthor><name reg="Ayers, Edward
-	       L.">Edward L. Ayers</name></docAuthor></byline>
+	       L." type="person">Edward L. Ayers</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 22-23</docDate>
           <bibl><title>This Land, This South: An Environmental History</title>
 by Albert E. Cowdrey. University of Kentucky Press, 1983. 236
@@ -1650,7 +1650,7 @@ Crime and Punishment in the 19th-Century American South</title>
         </div2>
         <div2 id="sc06-4008" n="Southern Progressivism" type="Review">
           <head>Southern Progressivism</head>
-          <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate>
           <bibl><title>Southern Progressivism: The Reconciliation of Progress
 and Tradition</title> by Dewey W. Grantham. University of Tennessee

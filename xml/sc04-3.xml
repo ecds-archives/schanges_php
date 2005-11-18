@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 University Press of Virginia, 1981.</head>
           <byline>
             <docAuthor>
-              <name reg="">Allen Tullos</name>
+              <name reg="" type="person">Allen Tullos</name>
             </docAuthor>
           </byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 14-15</docDate>
@@ -162,7 +162,7 @@ thought and care.</p>
         <div2 id="sc04-3003" n="Murder At Broad River Bridge" type="Review">
           <head><title>Murder At Broad River Bridge.</title> By Bill Shipp,
 Atlanta: Peachtree Publishers, 1981, $8.95.</head>
-          <byline>By <docAuthor><name reg="Wilson, Grant">Grant Wilson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wilson, Grant" type="person">Grant Wilson</name></docAuthor></byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 15</docDate>
           <p>Lemuel Penn was killed without cause and anonymously by members of
 the Ku Klux Klan outside Athens, Gal, in 1964. His murder was only one
@@ -204,7 +204,7 @@ gentleman farmer in Kensington, Ga.</p>
         </div2>
         <div2 id="sc04-3s2.004" n="Figures of Speech" type="Article">
           <head>Figures of Speech--Can a Country Boy Survive?</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 1-3</docDate>
           <p>You have to stay up awful late in Alabama nowadays to put nostalgia
 and melancholy under the table. In cahoots, Action News and the
@@ -380,7 +380,7 @@ Alabamians ought to consider in this season of survival.</p>
         </div2>
         <div2 id="sc04-3005" n="Reagan's Way of Eliminating Poverty" type="Article">
           <head>Reagan's Way of Eliminating Poverty</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 11-12</docDate>
           <p>Last month the Census Bureau confirmed that Southerners remain
 closer kin to poverty than anyone else in the country. Southern
@@ -1145,8 +1145,8 @@ Regional Council</p>
         <div2 id="sc04-3007" n="Ending the Short Stick In Mississippi's Woods" type="Article">
           <head>Ending the Short Stick In Mississippi's Woods</head>
           <byline>
-            <docAuthor><name reg="Israel, Tom">By Tom
-	       Israel</name> and <name reg="Williams, Randall">Randall Williams</name></docAuthor>
+            <docAuthor><name reg="Israel, Tom" type="person">By Tom
+	       Israel</name> and <name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor>
           </byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 16-18</docDate>
           <p>Pine trees are commonplace, but timber is an industry, especially
@@ -1294,7 +1294,7 @@ Center, where Randall Williams is employed.</p>
         </div2>
         <div2 id="sc04-3008" n="Ensley, Alabama" type="Article">
           <head>ENSLEY, ALABAMA: 1932</head>
-          <byline>By <docAuthor><name reg="Beecher, John">John Beecher</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Beecher, John" type="person">John Beecher</name></docAuthor></byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, p. 17</docDate>
           <lg type="stanza">
             <l>The mills are down.</l>
@@ -1336,8 +1336,8 @@ Beecher, New York: MacMillan, 1974.</p>
         <div2 id="sc04-3009" n="The Lost Colony of North Carolina" type="Article">
           <head>The Lost Colony of North Carolina</head>
           <byline>
-            <docAuthor><name reg="Dyer, Donna">By Donna
-	       Dyer</name> and <name reg="Adams, Frank">Frank Adams</name></docAuthor>
+            <docAuthor><name reg="Dyer, Donna" type="person">By Donna
+	       Dyer</name> and <name reg="Adams, Frank" type="person">Frank Adams</name></docAuthor>
           </byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 3-11</docDate>
           <epigraph>
@@ -2035,7 +2035,7 @@ staff.</p>
           <head>Paying the Price In Pickens County</head>
           <byline>
             <docAuthor>
-              <name reg="Dowe, Kelly">By Kelly Dowe</name>
+              <name reg="Dowe, Kelly" type="person">By Kelly Dowe</name>
             </docAuthor>
           </byline>
           <docDate value="1982-06">Vol. 4, No. 3, 1982, pp. 13-14</docDate>

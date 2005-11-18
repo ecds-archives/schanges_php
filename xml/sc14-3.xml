@@ -62,7 +62,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 <date value="1992-08">1992.</date></p>
         <div2 id="sc14-3002" n="Voting rights denied" type="Article">
           <head>Voting rights denied</head>
-          <byline>By <docAuthor><name reg="Editors, the">the Editors</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Editors, the" type="person">the Editors</name></docAuthor></byline>
           <docDate value="1992-08">Volume 14, No. 3, pp. 1-4</docDate>
           <p>George Bush celebrated the July 4th weekend this year with the most
 flagrantly anti-democratic act of his presidency&#x2014;the veto of
@@ -221,7 +221,7 @@ CONSTITUTION</p>
       Whistle Stop Cafe" type="Article">
           <head>The Salt of Memory&#x2014; Nostalgia, Class, and the Lesbian in
 <title>Fried Green Tomatoes at the Whistle Stop Cafe</title></head>
-          <byline>By <docAuthor><name reg="Wilson, Julie">Julie Wilson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wilson, Julie" type="person">Julie Wilson</name></docAuthor></byline>
           <docDate value="1992-08">Volume 14, No. 3, pp. 5-11</docDate>
           <epigraph>
             <p>"Of course, most of the house is all boarded <corr>up
@@ -665,7 +665,7 @@ student.</p>
         </div2>
         <div2 id="sc14-3004" n="Bill Minor's Forty-Five Years of Progressive Journalism" type="Article">
           <head>Bill Minor's Forty-Five Years of Progressive Journalism</head>
-          <byline>By <docAuthor><name reg="Cooper, Michael L.">Michael L. Cooper</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Cooper, Michael L." type="person">Michael L. Cooper</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3,
 1992, pp. 12-17</docDate>
           <p>Bill Minor received a call in late 1947 from A. J. Liebling, media
@@ -859,7 +859,7 @@ change just by making people aware of corruption."</p>
         </div2>
         <div2 id="sc14-3005" n="A Right to Be There" type="Article">
           <head>A Right to Be There</head>
-          <byline>By <docAuthor><name reg="Curry, Constance">Constance Curry</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Curry, Constance" type="person">Constance Curry</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 1, 1992, pp.18-23, 25</docDate>
           <p>It was Mae Bertha Carter on the phone. "I'm on my way to raise hell with the Mayor," she told me. "The City Council didn't reappoint Beverly to the School Board."</p>
           <p>In 1986, Beverly Carter, daughter of Mae Bertha and Matthew Carter,
@@ -1118,7 +1118,7 @@ writing a book about the Carters of Sunflower County.</p>
         </div2>
         <div2 id="sc14-3008" n="RACE" type="Review">
           <head>RACE</head>
-          <byline>Reviewed by <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 26-27</docDate>
           <bibl><title>Two Nations: Black and White, Separate, Hostile, Unequal</title> <hi rend="bold">, by Andrew Hacker (Charles Scribners' Sons, New York, 1992,
 xiii, 257 pages)</hi><title>Race:  How Blacks and Whites Think and
@@ -1154,7 +1154,7 @@ on-going dialogue on race.</p>
         </div2>
         <div2 id="sc14-3009" n="Incidental Ambassadors" type="Review">
           <head>Incidental Ambassadors</head>
-          <byline>Reviewed by <docAuthor><name reg="BLACKFORD, LINDA">LINDA BLACKFORD</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="BLACKFORD, LINDA" type="person">LINDA BLACKFORD</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 28-29</docDate>
           <bibl><title>An Education in Georgia</title> <hi rend="bold">, by Calvin Trillin, Foreword by Charlayne Hunter Gault (University of Georgia Press, 1991, 180 pages)</hi></bibl>
           <p>If prevailing wisdom is correct, the events and conditions detailed
@@ -1196,7 +1196,7 @@ Virginia.</p>
         </div2>
         <div2 id="sc14-3010" n="Demanding Change" type="Review">
           <head>Demanding Change</head>
-          <byline>Reviewed by <docAuthor><name reg="MCMILLAN, CECILY">CECILY MCMILLAN</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="MCMILLAN, CECILY" type="person">CECILY MCMILLAN</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 29-32</docDate>
           <bibl><title>Praying for Sheetrock</title> <hi rend="bold">, Melissa Fay Greene (Addison-Wesley, Reading, MA, 1991, 416 pages).</hi></bibl>
           <p>There have been, over the years, more young white liberals than can ever be counted who ventured to small Southern towns hoping to improve the lives and political opportunities of the black people who lived there. Stirred by outrage at what seemed such obviously unjust economic and living conditions, these idealists set to their work&#x2014;as VISTA volunteers, Legal Aid lawyers, tutors, community organizers.</p>
@@ -1265,7 +1265,7 @@ little place."</p>
         </div2>
         <div2 id="sc14-3011" n="Old Truths" type="Review">
           <head>Old Truths</head>
-          <byline>Reviewed by <docAuthor><name reg="DUNBAR, TONY">TONY DUNBAR</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="DUNBAR, TONY" type="person">TONY DUNBAR</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 32-33</docDate>
           <bibl><title>The Measure of Our Success, A Letter to My Children and Yours</title>, Marian Wright Edelman (Beacon Press, 97 Pages)</bibl>
           <p>You need to know a little bit about Marian Weight Edelman before
@@ -1297,7 +1297,7 @@ the South. His latest book was <hi rend="italic">Delta Time</hi>>, about the Mis
         </div2>
         <div2 id="sc14-3012" n="New Georgia" type="Review">
           <head>New Georgia</head>
-          <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin">Calvin Kytle</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 33-35</docDate>
           <bibl><title>The Politics of Change in Georgia: A Political Biography of Ellis Arnall</title> <hi rend="bold">, by Harold Paulk Henderson (University of Georgia Press, Illustrated, 1991, 345 pages)</hi></bibl>
           <p>When World War II ended, my generation came home to a Georgia in

@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <p><title>Southern Changes</title>. Volume 1, Number 9, <date value="1979-06">1979</date></p>
         <div2 id="sc01-9002" n="Interchange: In This Issue" type="Article">
           <head>Interchange: In This Issue</head>
-          <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 2</docDate>
           <p>This issue of <title>Southern Changes</title> is devoted
 primarily to the plight facing the workers of the South. We dedicate
@@ -126,7 +126,7 @@ good fight."</p>
         </div2>
         <div2 id="sc01-9003" n="Soapbox" type="Article">
           <head>Soapbox</head>
-          <byline>By <docAuthor><name reg="Randolph, A. Philip">A. Philip Randolph</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Randolph, A. Philip" type="person">A. Philip Randolph</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 4, 23</docDate>
           <p>Editor's Note:
 <hi rend="italic"> Southern Changes dedicates this issue to A. Philip Randolph who died May 16, 1979, at the age of 90 after 70 years in the trade union movement. For many years he was head of the Brotherhood of Sleeping Car Porters and later president of the Negro American Labor Council. He was also the first Black vice-president of the AFL-CIO. The message carried here was delivered April 15 on the occasion of his 90th birthday and conveys his convictions and feelings concerning the trade union movement.</hi></p>
@@ -155,7 +155,7 @@ arena. Last November, for instance, Black people in Missouri and Philadelphia dr
         </div2>
         <div2 id="sc01-9004" n="The Old South Triumphs at Duke" type="Article">
           <head>The Old South Triumphs at Duke</head>
-          <byline>By <docAuthor><name reg="Dunbar, Tony">Tony Dunbar</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dunbar, Tony" type="person">Tony Dunbar</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 5-8</docDate>
           <p>Somewhere in the annal's of Duke University you will find these lofty words:
 
@@ -277,7 +277,7 @@ Georgia.</p>
         </div2>
         <div2 id="sc01-9006" n="Batthe of Newport News" type="Article">
           <head>Battle of Newport News</head>
-          <byline>By <docAuthor><name reg="Wilayto, Phil">Phil Wilayto</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wilayto, Phil" type="person">Phil Wilayto</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 9-13, 23</docDate>
           <p>The Newport News Shipbuilding and Drydock Company stretches along the northern bank of the James River like a long, narrow industrial city. For over two miles, this largest workplace in Virginia occupies the shore with its docks and piers, warehouses and worksheds, cranes and trucks and roads and parking lots, dominating the landscape and the minds and bodies of its 22,000 employees. The noise is constant, the hustle and bustle never ceases, as military and commercial ships are designed, constructed, and repaired by the largest privately-owned shipyard in the world.</p>
           <p>But for 11 weeks this past winter and early spring, the yard was silent. Not a crane moved, not a ship was being built, as some 14,000 members of the United Steelworkers of America fought to win recognition for their union.</p>
@@ -390,7 +390,7 @@ days later the company reportedly contacted the local's lawyers.</p>
       Affirmative  Action on Trial" type="Article">
           <head>United Steelworkers vs. Weber: Affirmative  Action on
 Trial</head>
-          <byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 14-17</docDate>
           <p><hi rend="italic">United Steelworkers of America v. Brian F. Weber</hi>, known familiarly as<hi rend="italic">Weber</hi> because of the enormous interest the case has generated, was argued in the Supreme Court on March 29, 1979, before a standing-room-only crowd of spectators. Weber will decide whether a quota for Blacks in on-the-job training for skilled craft jobs adopted by Kaiser Aluminum and Chemical Corporation and the United Steelworkers of America, AFL-CIO unlawfully discriminates against Whites. Both the district court in Louisiana and a majority of a panel of the Court of Appeals for the Fifth Circuit have held that it does. If the Supreme Court agrees, the case could scuttle all voluntary affirmative action for racial minorities in the nation's work force.</p>
           <p><hi rend="italic">Weber</hi> involves Kaiser's hiring practices in its plant at Gramercy, Louisiana, a small town of approximately 2,000 people, 25 miles up the Mississippi River from New Orleans. Kaiser opened the Gramercy plant in 1958. At that time racial discrimination in employment was commonplace in southern Louisiana, and indeed, throughout the country. Given the employment practices of the times, it is not surprising that for the first ten years of its operation, the Gramercy plant employed less than 10 percent of Blacks. Had race not been a factor in hiring, one would have expected to see nearly four times that many Blacks on the plant's payroll, for St. James Parish, in which Gramercy is located, and the adjacent parish of St. John the Baptist, contain a labor force that is approximately 39 percent Black.</p>
@@ -471,7 +471,7 @@ Liberties Union Foundation.
         </div2>
         <div2 id="sc01-9008" n="Legislative Roundup of 1979 Georgia General Assembly" type="Article">
           <head>Legislative Roundup of 1979 Georgia General Assembly</head>
-          <byline>By <docAuthor><name reg="Taylor, John">John Taylor</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Taylor, John" type="person">John Taylor</name></docAuthor></byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 18-20</docDate>
           <p>The 1979 session of the Georgia General Assembly produced the largest increase in welfare benefits and the first public use of racial epithets in recent memory. As an anomaly, the Georgia legislature did not stop there.</p>
           <p>A $113 million surplus was replaced by the end of the session with cries of tight money. Local school boards were handed $78 million of the surplus, ostensibly for tax relief. At the same time, the state's revenue estimate was humped $25 million higher to meet the salary demands of Georgia teachers, university professors and state employees.</p>
@@ -538,7 +538,7 @@ his return from alcoholism with a visit to the legislative chambers. Actress Mar
           <head>Action Patterns: Third Party Complaints</head>
           <byline>
             <docAuthor>
-              <name reg="">By Staff</name>
+              <name reg="" type="person">By Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1979-06">Vol. 1, No. 9, 1979, pp. 21</docDate>

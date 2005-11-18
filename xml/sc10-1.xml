@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1988-01">1988</date></p>
         <div2 id="sc10-1002" n="Women and the '88 Elections" type="Article">
           <head>Women and the '88 Elections</head>
-          <byline>By <docAuthor><name reg="Hannon, Sharron">Sharron Hannon</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hannon, Sharron" type="person">Sharron Hannon</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 1-3</docDate>
           <p>What role will women play in the '88 elections? Will the "gender
 gap" resurface? Will it affect the outcome of the presidential
@@ -260,7 +260,7 @@ women's rights issues.</p>
         </div2>
         <div2 id="sc10-1003" n="In South Africa" type="Article">
           <head>In South Africa--The Politics of an Inquiry for Change</head>
-          <byline>By <docAuthor><name reg="Wilson, Francis">Francis Wilson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wilson, Francis" type="person">Francis Wilson</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 4, 6-8</docDate>
           <p>It is very difficult to be balanced when one talks about South
 Africa On the one hand one can make it too horrendous for words. On
@@ -655,7 +655,7 @@ remarks follow.</p>
         </div2>
         <div2 id="sc10-1004" n="A Letter from Lillian Smith" type="Article">
           <head>A Letter from Lillian Smith</head>
-          <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+          <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 11-12</docDate>
           <p>The following is the second of a series of letters selected from the
 correspondence of Lillian Smith to appear in <title>Southern
@@ -756,7 +756,7 @@ at the University of Alabama, Tuscaloosa.</p>
         </div2>
         <div2 id="sc10-1005" n="Remembering 'Bud' Garrett" type="Article">
           <head>Remembering 'Bud' Garrett</head>
-          <byline>By <docAuthor><name reg="Rankin, Tom">Tom Rankin</name> and <name reg="Peterson,  Elizabeth"> Elizabeth Peterson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name> and <name reg="Peterson,  Elizabeth" type="person"> Elizabeth Peterson</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 12, 14-15</docDate>
           <p>Robert "Bud" Garrett died on November 24,1987. Perhaps
 appropriately, he suffered a heart attack during his third game of the
@@ -841,7 +841,7 @@ Tennessee State' Parks also contributed to this piece.</p>
         </div2>
         <div2 id="sc10-1006" n="When 'Justice Rose Like Water'" type="Article">
           <head>When 'Justice Rose Like Water'</head>
-          <byline>By <docAuthor><name reg="Clark, Septima Poinsette">Septima Poinsette Clark</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Clark, Septima Poinsette" type="person">Septima Poinsette Clark</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 15</docDate>
           <p>Educator and activist Septima Clark, whose long,
 productive career placed her in the front lines of civil rights
@@ -895,7 +895,7 @@ and avoid pain, but to do the will of God, come what may.</p>
         </div2>
         <div2 id="sc10-1007" n="The Cold Hard Truth" type="Article">
           <head>The Cold Hard Truth</head>
-          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 16</docDate>
           <p>A powerful white Southern politician who for years has helped many
 black people, including this writer, sought last week to end an
@@ -1055,7 +1055,7 @@ procedures.</p>
         </div2>
         <div2 id="sc10-1009" n="Scenes from the Office II" type="Article">
           <head>Scenes from the Office: II. The Supervisor in the Computer</head>
-          <byline>Interview by <docAuthor><name reg="Sharpless, Rebecca">Rebecca Sharpless</name></docAuthor></byline>
+          <byline>Interview by <docAuthor><name reg="Sharpless, Rebecca" type="person">Rebecca Sharpless</name></docAuthor></byline>
           <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 10-11</docDate>
           <p>Susan Lowe, age twenty-seven, works with 200 co-workers in the
 claims department of a large insurance firm in Atlanta. The claims

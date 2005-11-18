@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1987-06">1987</date></p>
         <div2 id="sc09-2002" n="Voter Participation Is Now the Challenge" type="Article">
           <head>Voter Participation Is Now the Challenge</head>
-          <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 21-24</docDate>
           <p>Since the enactment of the Voting Rights Act, black voter
 participation has improved dramatically, often operating as an
@@ -337,7 +337,7 @@ of the Southern Regional Council.</p>
         <div2 id="sc09-2003" n="Arthur Raper, 1899-1979" type="Article">
           <head>Arthur Raper, 1899-1979: A Life Looking 'for the Heart of the
 Thing'</head>
-          <byline>Interview by <docAuthor><name reg="Kuhn, Cliff">Cliff Kuhn</name></docAuthor></byline>
+          <byline>Interview by <docAuthor><name reg="Kuhn, Cliff" type="person">Cliff Kuhn</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 4-10</docDate>
           <p>Introduction</p>
           <p>No Southerner had a deeper commitment to regional reform than
@@ -909,8 +909,8 @@ of the "A Southern Profile" series.</p>
           <head>Super Tuesday? Titanic Tuesday? South's Stake Large On Super
 Tuesday</head>
           <byline>
-            <docAuthor><name reg="Clyburn, James">JAMES
-	       CLYBURN</name> and <name reg="McTeer">VICTOR MCTEER</name></docAuthor>
+            <docAuthor><name reg="Clyburn, James" type="person">James
+	       Clyburn</name> and <name reg="McTeer, Victor" type="person">Victor Mcteer</name></docAuthor>
           </byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 16-19</docDate>
           <div3 id="sc09-2005" n="James Clyburn" type="Section">
@@ -1178,7 +1178,7 @@ primary. Edited portions of their exchange follow.</p>
         </div2>
         <div2 id="sc09-2007" n="The Color of Death" type="Article">
           <head>The Color of Death</head>
-          <byline>By <docAuthor><name reg="Bruck, David">David Bruck</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bruck, David" type="person">David Bruck</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 1-3</docDate>
           <p>According to the headlines, the Supreme Court's <hi rend="italic">McCleskey</hi> decision last month on race discrimination
 and the death penalty was a disastrous defeat for the effort to
@@ -1292,7 +1292,7 @@ capital punishment.</p>
         </div2>
         <div2 id="sc09-2008" n="Shirley Chisholm Gives Democrats Some Advice" type="Article">
           <head>Shirley Chisholm Gives Democrats Some Advice</head>
-          <byline>By <docAuthor><name reg="Lewis, Felicia">Felicia Lewis</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Lewis, Felicia" type="person">Felicia Lewis</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 18-19, 22</docDate>
           <p>At 62 the first black woman elected to Congress and the first black
 woman to run for president has neither slowed her pace nor quieted her
@@ -1385,7 +1385,7 @@ fundraiser for a local organization.</p>
         </div2>
         <div2 id="sc09-3009" n="Black Women's Economic Development Project" type="Article">
           <head>Black Women's Economic Development Project</head>
-          <byline>By <docAuthor><name reg="Caver, Carolyn">Carolyn Caver</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Caver, Carolyn" type="person">Carolyn Caver</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 15-16</docDate>
           <p>One black woman is having trouble naming her business; another
 walks past ten other black women to get a black man's opinion; musing
@@ -1500,7 +1500,7 @@ Exposure</title>.</p>
         </div2>
         <div2 id="sc09-2010" n="Supporters Say Jesse Can Win Nomination" type="Article">
           <head>Supporters Say Jesse Can Win Nomination</head>
-          <byline>By <docAuthor><name reg="Wilson, Odies C., III">ODIES C. WILSON III</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wilson, Odies C., III" type="person">ODIES C. WILSON III</name></docAuthor></byline>
           <docDate value="1987-06">Vol. 9, No. 2, 1987, pp. 19-21</docDate>
           <p>Jesse Jackson '88 Exploratory Committees are being formed in over
 30 states. The initial success and enthusiasm of these efforts have

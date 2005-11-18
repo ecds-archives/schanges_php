@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1983-03">1983</date></p>
         <div2 id="sc05-2002" n="Ethics and Equations" type="Article">
           <head>Ethics and Equations</head>
-          <byline>By <docAuthor><name reg="Paddock, Polly">Polly Paddock</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Paddock, Polly" type="person">Polly Paddock</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate>
           <p>I was never much of a math or science student. During high school
 and college, I went to great lengths to avoid taking any courses in
@@ -160,7 +160,7 @@ Charlotte <title>Observer.</title></p>
         </div2>
         <div2 id="sc05-2003" n="Money on the Mainline" type="Article">
           <head>Money on the Mainline</head>
-          <byline>By <docAuthor><name reg="Johnson, Tim">Tim Johnson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate>
           <p>Bob Scherer, Chief Executive Officer and Chairman of the Board of
 the Georgia Power Company, believes that electric rates should not be
@@ -559,7 +559,7 @@ an Atlanta writer and organizer.</p>
         <div2 id="sc05-2004" n="Almost Family" type="Review">
           <head><title>Almost Family.</title>  Roy Hoffman. The Dial Press,
 1983.</head>
-          <byline>By <docAuthor><name reg="Harris, Trudier">Trudier Harris</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate>
           <p>White mistresses and their black maids have intrigued many
 generations of American writers. From the stereotypical portraits of
@@ -703,7 +703,7 @@ Press in December, 1982.</p>
         <div2 id="sc05-2005" n="The Color Purple" type="Review">
           <head><title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
 1982.</head>
-          <byline>By <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate>
           <p>Speaking at the University of Florida in 1962, Lillian Smith
 observed that women were only beginning "to break the million year
@@ -878,7 +878,7 @@ at the University of Alabama in Tuscaloosa.</p>
         <div2 id="sc05-2006" n="Union Power, Soul Power" type="Article">
           <head>Union Power, Soul Power: The Story of 1199B and Labor's Search
 for A Southern Strategy</head>
-          <byline>By <docAuthor><name reg="Fink, Leon">Leon Fink</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fink, Leon" type="person">Leon Fink</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 9-20</docDate>
           <p>Hospitals are one of the last centers of employment in the United
 States to be touched by unionization. Efforts to organize hospital
@@ -1763,7 +1763,7 @@ of Stephen Hoffius and David J. Garrow in his research.</p>
         </div2>
         <div2 id="sc05-2007" n="Mississippi Makes Up Its Mind" type="Article">
           <head>Mississippi Makes Up Its Mind</head>
-          <byline>By <docAuthor><name reg="Barber, Rims">Rims Barber</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 3, 1983, pp. 8-9</docDate>
           <p>The passage of an educational reform package by the Mississippi
 Legislature was an important victory for public involvement. Pushing

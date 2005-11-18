@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1990-09">1990</date></p>
         <div2 id="sc12-4002" n="South of Art" type="Article">
           <head>South of Art</head>
-          <byline>By <docAuthor><name reg="Willett, Henry">Henry Willett</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Willett, Henry" type="person">Henry Willett</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 14-15</docDate>
           <p>In 1974, Walker Percy, with a bit of subtle equivocation, wrote,
 "Well, the so-called Southern thing is over and done with, I
@@ -170,7 +170,7 @@ for Traditional Culture.</p>
         </div2>
         <div2 id="sc12-4003" n="Driving Mr. Walker" type="Article">
           <head>Driving Mr. Walker</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 5-7</docDate>
           <p>I was taken for a ride on Memorial Day Sunday. At home without my
 family (off visiting relatives) I was sitting on my front porch when a
@@ -323,7 +323,7 @@ hoax.</p>
           <head>A Walk on the Supply Side</head>
           <byline>
             <docAuthor>
-              <name reg="Katz, Michael B.">Michael B. Katz</name>
+              <name reg="Katz, Michael B." type="person">Michael B. Katz</name>
             </docAuthor>
           </byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, p. 6</docDate>
@@ -356,7 +356,7 @@ Michael B. Katz (Pantheon Books, 1989).</p>
         </div2>
         <div2 id="sc12-4005" n="Feud" type="Review">
           <head>Feud</head>
-          <byline>Reviewed by <docAuthor><name reg="Hall, Suzanne M.">Suzanne M. Hall</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Hall, Suzanne M." type="person">Suzanne M. Hall</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 18-19</docDate>
           <p>A local, essentially family-based dispute arose after Ranel McCoy
 accused Floyd Hatfield, who was "Devil" Anse Hatfield's cousin, of
@@ -461,7 +461,7 @@ Georgia.</p>
         </div2>
         <div2 id="sc12-4006" n="A View from Death Row" type="Review">
           <head>A View from Death Row.</head>
-          <byline>Reviewed by <docAuthor><name reg="Finlator, W.W.">W.W. Finlator</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Finlator, W.W." type="person">W.W. Finlator</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 16-17</docDate>
           <bibl><title>Last Rights</title> by Joseph
 B. Ingle (Abingdon Press, 1990).</bibl>
@@ -573,7 +573,7 @@ as he long has in Raleigh, North Carolina.</p>
         </div2>
         <div2 id="sc12-4007" n="You Gotta Serve Somebody" type="Article">
           <head>You Gotta Serve Somebody</head>
-          <byline>By <docAuthor><name reg="Davis, Murphy">Murphy Davis</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davis, Murphy" type="person">Murphy Davis</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 1-5</docDate>
           <p>I want to begin by saying a word about my life in the Open Door
 Community since this so deeply affects anything else I would say.</p>
@@ -836,7 +836,7 @@ Avenue, Atlanta, GA 30306-4212; (404)-874-9652.)</p>
         </div2>
         <div2 id="sc12-4008" n="Mississippi and the WPA" type="Review">
           <head>Mississippi and the WPA</head>
-          <byline>Reviewed by <docAuthor><name reg="Campbell, Will">Will Campbell</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Campbell, Will" type="person">Will Campbell</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 20-23</docDate>
           <p>If I were asked to name one agency of government which has done the
 most good in my lifetime I would not hesitate. The Works Progress
@@ -1023,7 +1023,7 @@ Mississippi.</p>
         </div2>
         <div2 id="sc12-4009" n="Black and White and Rosy" type="Review">
           <head>Black and White and Rosy.</head>
-          <byline>Reviewed by <docAuthor><name reg="Bussey, Charles J.">Charles J. Bussey</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Bussey, Charles J." type="person">Charles J. Bussey</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 17-18</docDate>
           <bibl><title>Black, White, and Southern:
 Race Relations and Southern Culture, 1940 to the Present</title> by
@@ -1123,7 +1123,7 @@ director of Head Start.</p>
         </div2>
         <div2 id="sc12-4010" n="Cooked Food" type="Article">
           <head>Cooked Food</head>
-          <byline>By <docAuthor><name reg="Bondi, Roberta">Roberta Bondi</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bondi, Roberta" type="person">Roberta Bondi</name></docAuthor></byline>
           <docDate value="1990-09">Vol. 12, No. 4, 1990, pp. 8-12</docDate>
           <p>When Benjamin was five, he looked down at his plate one morning at
 breakfast. Then he looked up at me and asked, "Mama, when you were a

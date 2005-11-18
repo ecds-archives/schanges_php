@@ -64,7 +64,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <div2 id="sc17-2002" n="Willful Retreat From Justice" type="Article">
           <head>Willful Retreat From Justice</head>
           <byline>
-            <docAuthor><name reg="Carter, Selwyn">Selwyn
+            <docAuthor><name reg="Carter, Selwyn" type="person">Selwyn
 	       Carter</name>, Director of SRC Voting Rights Programs</docAuthor>
           </byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 1-3</docDate>
@@ -99,8 +99,8 @@ in this issue of <hi rend="italic">Southern Changes</hi>) editors Chandler David
         <div2 id="sc17-2003" n="The Engaged Observer" type="Article">
           <head>The Engaged Observer</head>
           <byline>
-            <docAuthor><name reg="Amberg, Rob">Rob
-	       Amberg</name> and <name reg="Dotter, Earl">Earl Dotter</name></docAuthor>
+            <docAuthor><name reg="Amberg, Rob" type="person">Rob
+	       Amberg</name> and <name reg="Dotter, Earl" type="person">Earl Dotter</name></docAuthor>
           </byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 4-13</docDate>
           <p>Editor's note: In the following pages Southern Changes features the work of two excellent and widely recognized contemporary social photographers--Rob Amberg and Earl Dotter--accompanied by brief autobiographical comments and discussion of photographic strategies. Amberg's pictures have appeared regularly in Southern Changes, providing complement and counterpoint to a number of writers' essays. Here we join his words to a selection of photos drawn from projects he has undertaken working from his base in Madison County, North Carolina. For years, Earl Dotter, one of the most well-known of American photographers, has documented the lives and livelihoods of working people. From an early emphasis on occupational health and safety, Dotter has expanded his range of subjects to include environmental hazards to public health.</p>
@@ -239,7 +239,7 @@ take pride.</p>
 The Civil Rights Movement and the Teaching of High School History" type="Article">
           <head>The Last Innocents The Civil Rights Movement and the Teaching of
 High School History</head>
-          <byline>By <docAuthor><name reg="Loewen, James W.">James W. Loewen</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 14-17</docDate>
           <p>In 1974 Pantheon published the first revisionist textbook of state
 history in the United States, <hi rend="italic">Mississippi: Conflict
@@ -471,7 +471,7 @@ his research on American history textbooks.</p>
         <div2 id="sc17-2006" n="BOOKS: Not So Quiet Anymore." type="Review">
           <head>BOOKS<lb/>Not So Quiet Anymore.</head>
           <byline>Reviewed by <docAuthor><name reg="Karlan,
-	       Pamela S.">Pamela S. Karlan </name></docAuthor></byline>
+	       Pamela S." type="person">Pamela S. Karlan </name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
           <bibl><title>Quiet Revolution in the South: The Impact of the
 Voting Rights Act, 1965-1990</title>, edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</bibl>
@@ -518,7 +518,7 @@ Visiting professor at Harvard Law School.</p>
         </div2>
         <div2 id="sc17-2007" n="The Continuum of Struggle" type="Review">
           <head>The Continuum of Struggle</head>
-          <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin">Calvin Kytle</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 21-22</docDate>
           <bibl><title>Georgia in Black and White: Explorations in the
 Race Relations of a Southern State, 1865-1950</title>, edited by John C. Inscoe (University of Georgia Press, 1994, 312 pages).</bibl>
@@ -579,7 +579,7 @@ me a copy of <title>Georgia in Black and White</title>. </p>
         </div2>
         <div2 id="sc17-2008" n="Muted Voices" type="Review">
           <head>Muted Voices</head>
-          <byline>Reviewed by <docAuthor><name reg="Delaney, Paul">Paul Delaney</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Delaney, Paul" type="person">Paul Delaney</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995</docDate>
           <bibl><title>The Black Press in Mississippi, 1865-1985</title>, by Julius E. Thompson (University Press of Florida, 1993, 242 pages).</bibl>
           <p>Thompson's is a fascinating and important, if not well-written,

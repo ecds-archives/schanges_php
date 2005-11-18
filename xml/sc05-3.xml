@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1983-05">1983</date></p>
         <div2 id="sc05-3002" n="South Without End" type="Article">
           <head>South Without End</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name> and <name reg="Tullos,  Allen"> Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name> and <name reg="Tullos,  Allen" type="person"> Allen Tullos</name></docAuthor></byline>
           <docDate value="1983-05">Vol. 5, No. 3, 1983, pp. 1-2</docDate>
           <p>The South has been born again in the gospel of American
 presidential politics. "The South is the Key" was the shorter
@@ -1206,7 +1206,7 @@ benefits of both beliefs and practices.</p>
         </div2>
         <div2 id="sc05-3004" n="Building On Fire" type="Article">
           <head>Building On Fire</head>
-          <byline>By <docAuthor><name reg="Derian, Patricia">Patricia Derian</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Derian, Patricia" type="person">Patricia Derian</name></docAuthor></byline>
           <docDate value="1983-05">Vol. 5, No. 3, 1983, p. 3</docDate>
           <p>All the groaning that the presidential campaign has begun too early
 is surprising. It seems to me that it isn't coming a minute too
@@ -1262,7 +1262,7 @@ Regional Council.</p>
         </div2>
         <div2 id="sc05-3005" n="Blacks to Gain Senate Seats In South Carolina" type="Article">
           <head>Blacks to Gain Senate Seats In South Carolina</head>
-          <byline>By <docAuthor><name reg="Bass, Jack">Jack Bass</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bass, Jack" type="person">Jack Bass</name></docAuthor></byline>
           <docDate value="1983-05">Vol. 5, No. 3, 1983, pp. 3-4</docDate>
           <p>After years of resistance, the all-white South Carolina senate
 voted thirty to eight in February to adopt a single-member district

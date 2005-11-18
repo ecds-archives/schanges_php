@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>When Shall We Overcome?</head>
           <byline>
             <docAuthor>
-              <name reg="">By C. Eric Lincoln</name>
+              <name reg="" type="person">By C. Eric Lincoln</name>
             </docAuthor>
           </byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 4-5</docDate>
@@ -145,7 +145,7 @@ in Durham, North Carolina.</p>
         </div2>
         <div2 id="sc01-5004" n="Declining Donkeydom in Presleyland" type="Article">
           <head>Declining Donkeydom in Presleyland</head>
-          <byline>By <docAuthor><name reg="Lewis, Boyd">Boyd Lewis</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Lewis, Boyd" type="person">Boyd Lewis</name></docAuthor></byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 6</docDate>
           <p>It was 100 years ago that cartoonist Thomas Nast decided to portray the Democratic Party as a flop-eared jackass and the Republican Party as an elephant of clearly low-wattage intelligence. Amazingly, neither party felt insulted by the nasty Mr. Nast and over the years the animal icons came to symbolize party identity and outlook.</p>
           <p>Some years the impish little Demo donkey romps merrily around the ponderous GOP elephant and in others the elephant stomps the Bejesus out of the donkey in the manner of a wonderful underground cartoon called "Bambi Meets Godzilla".</p>
@@ -170,7 +170,7 @@ publicized show of unity, joy and Prussian organization. But as with the weather
         </div2>
         <div2 id="sc01-5005" n="The Wallace Phenomenon" type="Article">
           <head>The Wallace Phenomenon</head>
-          <byline>By <docAuthor><name reg="Russakoff, Dale">Dale Russakoff</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Russakoff, Dale" type="person">Dale Russakoff</name></docAuthor></byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 7-9</docDate>
           <p>Perhaps a rosy-cheeked, 18-year-old beauty said it best when she pushed toward the center of attention at "George Wallace Appreciation Day" in Montgomery recently.</p>
           <p>The crowd around him was hugging, kissing and praising the frail, outgoing governor, who reached out from his wheelchair with both hands to grab them, calling most of them by name.</p>
@@ -252,7 +252,7 @@ senior citizens from Geneva, relatives from Clayton, a beautician from Jasper, a
 " type="Article">
           <head>Johnny 'Imani' Harris and the Alabama Death Sentence
 </head>
-          <byline>By <docAuthor><name reg="Gardner, Tom">Tom Gardner</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gardner, Tom" type="person">Tom Gardner</name></docAuthor></byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 10-14</docDate>
           <p>"It's Time for a New Beginning." proclaims a campaign billboard for Alabama's new governor-elect, Fob James. With Wallace gone and anyone new coming in, many Alabamans have responded to that slogan with a new sense of hope for their state.</p>
           <p>Yet only 15 minutes from that billboard, a few miles from the 1-65 interstate in southern Alabama, stands a grim reminder that the old Alabama is institutionalized in too many concrete forms to be transformed with one campaign slogan.</p>
@@ -377,7 +377,7 @@ the other for medical treatment  We had to make and sign a statement before even
         </div2>
         <div2 id="sc01-5007" n="Montgomery Widows: A Struggle to Survive" type="Article">
           <head>Montgomery Widows: A Struggle to Survive</head>
-          <byline>By <docAuthor><name reg="Hughes, Roxie">Roxie Hughes</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hughes, Roxie" type="person">Roxie Hughes</name></docAuthor></byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 15-17</docDate>
           <p>Florence, who prefers not to be otherwise identified, lives in the same small white house east of downtown Montgomery where she was born some 90 years ago. She lived alone until she became ill recently and now shares her home with a neighbor who takes care of her. Her main concern, she says, is getting plumbing in her neighborhood so that she can have an indoor toilet.</p>
           <p>A 74-year-old retired home economist who prefers to be called Evelyn lives in the Cloverdale section of Montgomery, one of the oldest neighborhoods in the city. Along with her part-time maid, Evelyn lives with Sammy Davis and Jet - her cats. She spends much of her time collecting American pattern glassware and studying the stock market.</p>
@@ -437,7 +437,7 @@ Montgomery.</p>
       the 'Friday Afternoon Massacre'" type="Article">
           <head>National Advisory Committee for Women and the 'Friday Afternoon
 Massacre'</head>
-          <byline>By <docAuthor><name reg="Reese, Lenora">Lenora Reese</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Reese, Lenora" type="person">Lenora Reese</name></docAuthor></byline>
           <docDate value="1979-02">Vol. 1, No. 5, 1979, pp. 18-20</docDate>
           <p>A month ago, a random poll of the American people would probably have indicated few, if any, had ever heard of the National Advisory Committee for Women.</p>
           <p>The 40-member committee had not publicly trumpeted its existence since a presidential executive order signed it into being last April. Informal sessions had been held and issues batted back and forth. A staff was set up in Washington, D.C., and duties assigned.</p>

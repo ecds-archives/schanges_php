@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 	    2003</head>
         <p><title>Southern Changes.</title> Volume 25, Number 1-4, <date value="2003">2003</date></p>
         <div2 id="sc25-1-4002" n="Money Matters in Education" type="Article">
-          <byline>By <docAuthor><name reg="Borrero, Luz">Luz Borrero</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Borrero, Luz" type="person">Luz Borrero</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 p. 3</docDate>
           <head>Money Matters in Education</head>
           <p>The Southern Regional Council has long advocated full government responsibility in providing equal access to high quality education. This fundamental duty directly affects the lives of most minority and low-income children and youth. State and federal government must commit the necessary revenues and support to ensure that all children receive the same quality education that middle and upper class students do.</p>
@@ -90,7 +90,7 @@ Council.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4004" n="Embracing Thanatos: The War Machine and the Bush Administration" type="Article">
-          <byline>By <docAuthor><name reg="Carter, Dan T.">Dan T. Carter</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 4-5</docDate>
           <head>Embracing Thanatos: The War Machine and the Bush Administration</head>
           <p>This year, Congress is on track to approve a Bush administration defense budget of $400 billion, a figure meaning that the United States now consumes more than 45 percent of the earth's military expenditures. And that total does not include this year's supplemental appropriations of as much as $87 billion for ongoing military operations in Afghanistan and Iraq or the $30 to $35 billion absorbed by the secret "black budget" of the Central Intelligence Agency and other intelligence operations.</p>
@@ -135,7 +135,7 @@ University of South Carolina.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4006" n="Missing Martin" type="Article">
-          <byline>By <docAuthor><name reg="Gaston, Paul M.">Paul M. Gaston</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaston, Paul M." type="person">Paul M. Gaston</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 6-7</docDate>
           <head>Missing Martin</head>
           <p>Forty years ago, a quarter of a million Americans came to Washington in a march for jobs and freedom. Martin Luther King, Jr.'s, "I Have a Dream" speech, the riveting highlight of the occasion, began with a prediction that the day would "go down in history as the greatest demonstration for freedom in the history of our nation." And so it did.</p>
@@ -168,7 +168,7 @@ southern history.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4008" n="Rally 'Round the Flag Boys: Continued White Flight from the Democratic Party" type="Article">
-          <byline>By <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 8-9</docDate>
           <head>Rally 'Round the Flag Boys: Continued White Flight from the Democratic Party</head>
           <p>When Sonny Perdue took the oath of office in Atlanta in January 2003, he became the first Republican governor of Georgia since Rufus Bullock of Albion, New York, was elected to the post in 1868 during federal Reconstruction of the South after the Civil War. Perdue's election completed a process that began with the defection of whites from the Democratic Party beginning in the late 1940s.</p>
@@ -210,7 +210,7 @@ Press, 2003).</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4010" n="" type="Article">
-          <byline>By <docAuthor><name reg="Vaughan, Steve">Steve Vaughan</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Vaughan, Steve" type="person">Steve Vaughan</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 p. 10</docDate>
           <head>Fighting to Find the Facts: Virginia Organizing Project on Racial Profiling</head>
           <p>To solve a problem, one first needs to know how bad the problem is. While that might seem to be stating the obvious, a majority of the Virginia General Assembly disagrees with that common sense assertion.</p>
@@ -236,7 +236,7 @@ www.virginia-organizing.org</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4012" n="The Pryor Threat" type="Article">
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, no. 1-4, 2003 pp. 11-12</docDate>
           <head>The Pryor Threat</head>
           <p>What happens when the Bush administration's obsession with handing federal judgeships to shrewd and articulate, right wing, strict-constructionist ideologues draws too big of a crowd to slip a nominee unnoticed through the door? Perhaps by the time you read this, Senate Republicans and Zell Miller (D-GA), back from summer recess, will have given up their all-out push to confirm Alabama Attorney General Bill Pryor as a judge on the Eleventh Circuit Court of Appeals. If not, seek cover for your children and your children's children. If so, consider how lengthy a record of reactionary positions, outrageous advocacies, and conflicts of interest must exist to deny a Bush choice, and then only by filibuster.</p>
@@ -269,7 +269,7 @@ Changes</title>.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4014" n="FILM: Education and Incarceration?" type="Review">
-          <byline>Reviewed by <docAuthor><name reg="Burkett, Randall">Randall Burkett</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Burkett, Randall" type="person">Randall Burkett</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 13-14</docDate>
           <head>FILM: Education and Incarceration?</head>
           <bibl><title>The Intolerable Burden</title>. Directed by Chea Prince. Produced by Constance Curry. Blue Stream Production Films, 2003.</bibl>
@@ -293,7 +293,7 @@ www.frif.com.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4016" n="BOOKS: Georgia's Quest for Fair Representation" type="Review">
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 15-16</docDate>
           <head>BOOKS: Georgia's Quest for Fair Representation</head>
           <bibl>Laughlin McDonald, <title>A Voting Rights Odyssey: Black
@@ -319,7 +319,7 @@ Regional Council.</p>
           </div3>
         </div2>
         <div2 id="sc25-1-4018" n="A Highway Up From Darkness" type="Review">
-          <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J.">Robert J. Norrell</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J." type="person">Robert J. Norrell</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 17-18</docDate>
           <head>A Highway Up From Darkness</head>
           <bibl>J. Mills Thornton III, <title>Dividing Lines: Municipal Politics and the Struggle for Civil Rights in Montgomery, Birmingham, and Selma</title>. Tuscaloosa: The University of Alabama Press, 2002.</bibl>
@@ -347,7 +347,7 @@ white supremacy as a detriment to future economic progress. Thornton provides th
           </div3>
         </div2>
         <div2 id="sc25-1-4020" n="" type="Review">
-          <byline>Reviewed by <docAuthor><name reg="Spears, Ellen G.">Ellen G. Spears</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Spears, Ellen G." type="person">Ellen G. Spears</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 19-20</docDate>
           <head>Jumping on Racism with Both Feet</head>
           <epigraph>
@@ -403,7 +403,7 @@ Wilson, Charles Reagan, ed. <title>The New Regionalism</title>. Jackson: Univers
           </div3>
         </div2>
         <div2 id="sc25-1-4023" n="...Something Is Bound to Happen" type="Review">
-          <byline>Reveiwed by <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+          <byline>Reveiwed by <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="2003">Vol. 25, No. 1-4, 2003 pp. 21-22</docDate>
           <head>"...Something Is Bound to Happen"</head>
           <bibl><title>Freedom Writer: Virginia Foster Durr Letters from

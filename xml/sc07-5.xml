@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <p><title>Southern Changes</title>.  Volume 7, Number 5, <date value="1985-10">1985</date></p>
         <div2 id="sc07-5002" n="The Attack on Voting Rights" type="Article">
           <head>The Attack on Voting Rights</head>
-          <byline>By <docAuthor><name reg="Mcdonald, Laughlin">Laughlin Mcdonald</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate>
           <p>The Reagan Administration continues to widen its attack on minority
 voting rights. In its latest depredation, it has filed a friend of the
@@ -251,7 +251,7 @@ Office of the American Civil Liberties Union.</p>
         </div2>
         <div2 id="sc07-5003" n="The Importance of Black Legislators" type="Article">
           <head>The Importance of Black Legislators</head>
-          <byline>By <docAuthor><name reg="Willingham, Alex">Alex Willingham</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate>
           <p>The Southern state legislature, once the incarnation of
 backwardness in Southern politics, now stands to become a center for
@@ -464,7 +464,7 @@ reapportionment.</p>
         </div2>
         <div2 id="sc07-5004" n="Economics and a Murder Trial" type="Article">
           <head>Economics and a Murder Trial</head>
-          <byline>By <docAuthor><name reg="Durr, Virginia">Eliza Heard (Virginia Durr)</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate>
           <p>The road to Hayneville and Selma (No. 80) leads to dreams of
 asphodel and honey. The old cotton fields are now meadows filled with
@@ -767,7 +767,7 @@ my father's side--and Virginia Heard--my father's mother--and I signed
           <head>Grace and guts</head>
           <byline>
             <docAuthor>
-              <name reg="Durr, Virginia">Virginia
+              <name reg="Durr, Virginia" type="person">Virginia
                Durr</name>
             </docAuthor>
           </byline>
@@ -1052,7 +1052,7 @@ Suitts. Steve Suitts.</p>
         </div2>
         <div2 id="sc07-5006" n="The Origins of the Montgomery Bus Boycott" type="Article">
           <head>The Origins of the Montgomery Bus Boycott</head>
-          <byline>By <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate>
           <p>Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
 summer of 1949 to join the English Department at all-black Alabama
@@ -1607,7 +1607,7 @@ in the fall of l986.</p>
         <div2 id="sc07-5007" n="The Journey Is Home" type="Review">
           <head><title>The Journey Is Home</title> by Nelle Morton. Boston:
 Beacon Press, 1985. 248 pp. $21.95.</head>
-          <byline>Reviewed by <docAuthor><name reg="Heyward, Carter">Carter Heyward</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate>
           <p>Among feminist theologians, the name Nelle Morton conjures up
 images of courage, intelligence, and friendship. Morton was the first

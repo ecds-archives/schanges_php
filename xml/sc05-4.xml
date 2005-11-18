@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1983-07">1983</date></p>
         <div2 id="sc05-4002" n="Witness In Montgomery" type="Article">
           <head>Witness In Montgomery</head>
-          <byline>By <docAuthor><name reg="Williams, Randall">By Randall Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Williams, Randall" type="person">By Randall Williams</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 1-6</docDate>
           <p>Not since the celebrated bus boycott of 1955-56 or the Selma March
 days of 1965 has the atmosphere in Montgomery, Alabama, been so
@@ -475,8 +475,8 @@ contributing editor of <title>Southern Changes.</title></p>
         </div2>
         <div2 id="sc05-4003" n="Long Journey Home" type="Article">
           <head>Long Journey Home</head>
-          <byline>By <docAuthor><name reg="Simpson, Bland">Bland
-	       Simpson</name> and <name reg="Conway, Cece">Cece Conway</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Simpson, Bland" type="person">Bland
+	       Simpson</name> and <name reg="Conway, Cece" type="person">Cece Conway</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 17-19</docDate>
           <p>One of the world's great collections of Southern and country music
 has come home, and therein lies a ballad.</p>
@@ -629,7 +629,7 @@ Fly.</title></p>
         </div2>
         <div2 id="sc05-4004" n="The Freeze Down South" type="Article">
           <head>The Freeze Down South</head>
-          <byline>By <docAuthor><name reg="Roach, Margaret">Margaret Roach</name> and <name reg="Tullos,  Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Roach, Margaret" type="person">Margaret Roach</name> and <name reg="Tullos,  Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 11-14</docDate>
           <p>In the fall of 1982, the Nuclear Freeze Campaign mobilized the
 largest referendum drive in United States history. Over eleven million
@@ -912,7 +912,7 @@ Freeze/Jobs With Peace Campaign. Allen Tullos is the editor of
         </div2>
         <div2 id="sc05-4005" n="A Nation at Risk" type="Article">
           <head>"A Nation at Risk"</head>
-          <byline>By <docAuthor><name reg="Mcdonald, Joseph A.">Joseph A. Mcdonald</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Mcdonald, Joseph A." type="person">Joseph A. Mcdonald</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 8-10</docDate>
           <p>The Report from The National Commission on Excellence in Education,
 "A Nation at Risk," has generated tremendous reaction. Newscasts,
@@ -1328,7 +1328,7 @@ and Texas Commissioner of Agriculture Jim Hightower.</p>
         </div2>
         <div2 id="sc05-4007" n="Forestry and Equity" type="Article">
           <head>Forestry and Equity</head>
-          <byline>By <docAuthor><name reg="Hatley, Tom">Tom Hatley</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 19-23</docDate>
           <p>If you travel along a state highway during the Southern winter,
 your eyes follow unavoidably the constants of the land: field openings
@@ -1684,7 +1684,7 @@ Applied Systems Analysis in Laxenburg, Austria.</p>
         </div2>
         <div2 id="sc05-4008" n="Can We Be Saved from School Savers?" type="Article">
           <head>Can We Be Saved from School Savers?</head>
-          <byline>By <docAuthor><name reg="Gaston, Paul">Paul Gaston</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaston, Paul" type="person">Paul Gaston</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 10-11</docDate>
           <p>Before I had a university professorship, wrote a book, received a
 Ph.D., won a Fulbright to study abroad, and graduated from the college
@@ -1814,7 +1814,7 @@ Council.</p>
         </div2>
         <div2 id="sc05-4009" n="Denial of Tenure At Vanderbilt" type="Article">
           <head>Denial of Tenure At Vanderbilt</head>
-          <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline>
           <docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 7-8</docDate>
           <p>By almost any measure, the last year has been a good one for
 Elizabeth Langland. Her first two books, published by the University

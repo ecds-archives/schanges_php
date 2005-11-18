@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head><title>Southern Liberal Journalists and the Issue of Race,
 1920-1944</title> by John T. Kneebone. Chapel Hill: The University of
 North Carolina Press, 1985.</head>
-          <byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia">Patricia Sullivan</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 22-24</docDate>
           <p>The term "liberal" often obscures more than it explains. The
 adjective "southern" is certain to add to the confusion.</p>
@@ -268,7 +268,7 @@ Virginia.</p>
         </div2>
         <div2 id="sc08-1003" n="Women and Children in Poverty" type="Article">
           <head>Women and Children in Poverty </head>
-          <byline>By <docAuthor><name reg="Pearce, Diana">Diana Pearce</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Pearce, Diana" type="person">Diana Pearce</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate>
           <p>
             <hi rend="italic">Two out of three adults in poverty today are
@@ -671,7 +671,7 @@ desegregation, including serving as an expert witness in the Yonkers
         </div2>
         <div2 id="sc08-1004" n="American Poverty, World Poverty" type="Article">
           <head>American Poverty, World Poverty</head>
-          <byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate>
           <p>For poor people in this country, and in the world, the outlook is
 not good. And because the lives of the poor are joined together with
@@ -1031,7 +1031,7 @@ and is  vice-president of the Southern Regional Council.</p>
         </div2>
         <div2 id="sc08-1005" n="The War Against the Poor" type="Article">
           <head>Casualty Count.  The War Against the Poor</head>
-          <byline>By <docAuthor><name reg="Greenstein, Robert">Robert Greenstein</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Greenstein, Robert" type="person">Robert Greenstein</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate>
           <p>If you look at the statistics of American poverty today, one
 set--the figures for children's poverty--hits you over the
@@ -1241,7 +1241,7 @@ Council.</p>
         </div2>
         <div2 id="sc08-1006" n="In Country" type="Review">
           <head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &#x26;Row 247 pp. $15.95</head>
-          <byline>Reviewed by <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No.1, 1986, pp. 20-22</docDate>
           <p>The tumultuous decade of the 1960s still hovers over us like a
 great gray cloud, a mighty shadow of lingering hope and despair and

@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <div2 id="sc05-1002" n="Ronald Reagan and the New Republican South" type="Review">
           <head><title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
-          <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
           <p>The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
@@ -173,7 +173,7 @@ Montgomery, is a Yellow-dog Democrat.</p>
 Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</head>
-          <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
           <p><title>Classic Country Music</title>, prepared by Bill C. Malone
 for the Smithsonian Institution, takes one back to the clear
@@ -542,7 +542,7 @@ American Region</title> (University of North Carolina Press,
         </div2>
         <div2 id="sc05-1004" n="Dressed for the H Bomb" type="Article">
           <head>Figures of Speech--Dressed for the H Bomb</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
           <p>By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
@@ -803,7 +803,7 @@ license.</p>
           <head><title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
 1982.</head>
-          <byline>By <docAuthor><name reg="Hanks, Lawrence J.">Lawrence J. Hanks</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
           <p>John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
@@ -1027,7 +1027,7 @@ since the 1965 Voting Rights Act.</p>
         </div2>
         <div2 id="sc05-1006" n="Myra Page" type="Article">
           <head>Myra Page: Daughter of the South, Worker for Change</head>
-          <byline>By <docAuthor><name reg="Frederickson, Mary">Mary Frederickson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
           <p>On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
@@ -1437,7 +1437,7 @@ article copyright, 1988, by Mary Frederickson.</p>
         <div2 id="sc05-1007" n="From Southern Cotton Mills and Labor" type="Article">
           <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
-          <byline>By <docAuthor><name reg="Page, Myra">Myra Page</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
           <p>The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
@@ -1864,7 +1864,7 @@ Dykeman and Lottie Shackelford.</p>
         </div2>
         <div2 id="sc05-1009" n="Delta Politics and the Almost Possible" type="Article">
           <head>Delta Politics and the Almost Possible</head>
-          <byline>By <docAuthor><name reg="BARBER, RIMS">RIMS BARBER</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="BARBER, RIMS" type="person">RIMS BARBER</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
           <p>During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 

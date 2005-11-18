@@ -61,7 +61,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
  in the Global South" type="Article">
           <head>Rethinking Race and Poverty
  in the Global South</head>
-          <byline>By <docAuthor><name reg="Smith, Barbara Ellen">Barbara Ellen Smith</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 3-4</docDate>
           <p>The borders of the South are collapsing. The forces of globalization are reconfiguring demographics, workplaces, and-not just in Miami or Atlanta, but in Tunica, Mississippi; Big Stone Gap, Tennessee; and Kannapolis, North Carolina.</p>
           <p>Among the most significant of these changes regards race: increasingly, we no longer confront a singular divide between Black and white, but a multivalent complex of "new" and "old" races. People from diverse nations and cultures are relocating to the South; those from Spanish-speaking countries find themselves newly identified as "Latino," and are the fastest growing minority in many areas. Others from the many nationalities and ethnicities of Asia further diversify the racial demographics of some states, becoming "Asian American."</p>
@@ -102,7 +102,7 @@ Lives in the South" type="Article">
 Lives in the South</head>
           <byline>
             <docAuthor>
-              <name reg="Children's Defense Fund">Children's Defense Fund</name>
+              <name reg="Children's Defense Fund" type="person">Children's Defense Fund</name>
             </docAuthor>
           </byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 5-9</docDate>
@@ -195,7 +195,7 @@ crime.	</p>
           <head>Corridor of Change: Rob Amberg Photographs the Coming of I-26</head>
           <byline>
             <docAuthor>
-              <name reg="Gray, Samuel">Samuel Gray</name>
+              <name reg="Gray, Samuel" type="person">Samuel Gray</name>
             </docAuthor>
           </byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 10-13</docDate>
@@ -209,7 +209,7 @@ crime.	</p>
         </div2>
         <div2 id="sc20-2006" n="Colorblind Injustice: Overcoming Shaw" type="Article">
           <head>Colorblind Injustice: Overcoming Shaw</head>
-          <byline>By <docAuthor><name reg="Kousser, J. Morgan">J. Morgan Kousser</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kousser, J. Morgan" type="person">J. Morgan Kousser</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998</docDate>
           <p>Students in history classes often confuse memorable events with important causes. Even those born long after the 1965 Selma-to-Montgomery march tend to make it the center of any discussion of the growth of post-Second World War African-American political power. It is a gripping event, featured in television documentaries, spotlighted in textbooks, easily discussed in class. There is violence, which always holds our attention; memorable protagonists, Martin Luther King, Jr., and Alabama governor George C. Wallace; a huge supporting cast, from nationwide civil rights advocates converging on Montgomery to Alabama State Troopers, Klansmen, and ordinary citizens, Black and white; a great, now consensual cause, the reenfranchisement of Black citizens illegally denied the vote for more than sixty years; a joyous climax, with King's speech before a sea of avid faces standing in streets that had witnessed the epochal bus boycott less than a decade earlier; and a triumphant denoument in Washington a few months later, with the passage of the Voting Rights Act.</p>
           <p>In fact, Selma was not the end of the twentieth century struggle to
@@ -276,7 +276,7 @@ Selma, and this time, there was no televised confrontation to capture attention 
         </div2>
         <div2 id="sc20-2007" n="Voting Rights On Trial Again in Alabama" type="Article">
           <head>Voting Rights On Trial Again in Alabama</head>
-          <byline>By <docAuthor><name reg="Braden, Anne">Anne Braden</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Braden, Anne" type="person">Anne Braden</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998</docDate>
           <p>Connie Tyree is a thirty-six-year-old single mother and grandmother in Greene County, Alabama, who cares for three children and is a volunteer community activist. In 1994, she helped 249 absentee voters cast their ballots.</p>
           <p>This year, Tyree cannot help anybody vote, and she cannot even vote herself. Instead, after years of community service untouched by any trouble with the law, she faces thirty-three months in prison; she was convicted in federal court in Birmingham of conspiracy to commit voter fraud. She is free now on bond, pending appeal, but a court order bars her from election activity.</p>
@@ -322,7 +322,7 @@ The Mississippi Sovereignty Commission" type="Article">
 The Mississippi Sovereignty Commission</head>
           <byline>
             <docAuthor>
-              <name reg="">by Bill Minor </name>
+              <name reg="" type="person">by Bill Minor </name>
             </docAuthor>
           </byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 20-22</docDate>
@@ -430,7 +430,7 @@ nation's attention to the civil rights movement, Southern injustices, and corrup
         </div2>
         <div2 id="sc20-2009" n="Walking the Walk" type="Review">
           <head>Walking the Walk</head>
-          <byline>Reviewed by <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 23-25</docDate>
           <p>John Lewis with Michael D'Orso, <hi rend="italic">Walking With the Wind: A Memoir of the Movement</hi>, New York: Simon &#x0026; Schuster, 1998.</p>
           <p>David Halberstam, <hi rend="italic">The Children</hi>, New York: Random House, 1998.</p>
@@ -480,7 +480,7 @@ Will The Circle Be Unbroken?" type="Article">
           <head>Listeners Respond to
 Will The Circle Be Unbroken?</head>
           <byline>Introduction by <docAuthor><name reg="Lee,
-	       Barry E.">Barry E. Lee</name></docAuthor></byline>
+	       Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998</docDate>
           <p>"Without a doubt, this was the most impressive radio program I've
 ever heard," writes a listener from Fort Myers, Florida, about the
@@ -565,7 +565,7 @@ I  can see this program taken further with the addition of visuals
 SCETV Shows The Uprising of 34" type="Article">
           <head>Reversal of Policy:
 SCETV Shows "The Uprising of '34"</head>
-          <byline>By <docAuthor><name reg="Terrill, Tom">Tom Terrill</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Terrill, Tom" type="person">Tom Terrill</name></docAuthor></byline>
           <docDate>Vol. 20, No. 2, <date value="1998-06">1998</date> p. 30</docDate>
           <p>In a reversal of its 1995 decision, South Carolina Educational Television finally aired the award-winning  film, "The Uprising of '34" on June 2.  During a pre-recorded panel discussions after the airing George Stoney, co-producer of the film, James Morris, executive director of the South Carolina Manufacturer's  Alliance, and Thomas Terrill, professor of history at the University of South Carolina and a consultant on the film talked about the response evoked by the film in Southern mill communities.</p>
           <p>The School of Journalism at University of South Carolina, in cooperation with the Department of History and Media  Arts, conducted a symposium on the film on June 3 for students, faculty, and the public. Group viewings of the film are also planned.</p>

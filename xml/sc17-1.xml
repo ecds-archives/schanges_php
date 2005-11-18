@@ -54,7 +54,7 @@
         <div2 id="sc17-1002" n="Affirming
 the Affirmative" type="Article">
           <head>Affirming the Affirmative</head>
-          <byline>By <docAuthor><name reg="Bass, Jack">Jack Bass</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bass, Jack" type="person">Jack Bass</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995, pp. 1-3</docDate>
           <p>In the middle of the current debate over affirmative action, a moment taken to revisit recent history turns out to be surprising, ironic, and instructive. Readers with long memories will recall that
 the concept of affirmative action emerged directly from the judicial crucible of civil rights, the old Fifth Circuit Court of Appeals, head-
@@ -99,7 +99,7 @@ the case for persistence and patience.</p>
 and the Politics of Writing About Country Music" type="Article">
           <head>Gone Country: Cecelia Tichi and the Politics of Writing
 About Country Music</head>
-          <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 4-10</docDate>
           <bibl>Cecelia Tichi, High Lonesome: The American Culture of Country Music. Chapel Hill: University of North Carolina Press, 1994. xiii, 318 pp., with 23-track CD. $39.95.</bibl>
           <p>For a long time I have said, only half-jokingly, that the
@@ -311,7 +311,7 @@ Video," <hi rend="italic">Popular Music</hi> 7:3 (Oct. 1988): 285-302,
 Rights Struggle in Louisiana" type="Article">
           <head>Race and Democracy: The Civil
 Rights Struggle in Louisiana</head>
-          <byline>By <docAuthor><name reg="Fairclough, Adam">Adam Fairclough</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fairclough, Adam" type="person">Adam Fairclough</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 12-18</docDate>
           <p>When I began this study, in 1987, my perceptions of the civil rights movement had been formed during ten years of research into the history of the Southern Christian Leadership Conference and the career of Martin Luther King, Jr. That work both derived from and rein-forced the commonly held perception that the black activism of 1955 to 1965 displayed a unity and momentum that set it apart from what came before and what came after. Here, finally, were a powerful mass movement and a leader worthy of the cause; here, at last, was the decisive breakthrough. Embarking upon a study of Louisiana, I imagined not only that an examination of the civil rights movement at the state and local levels would broaden our understanding of black insurgency, but also that it would confirm rather than challenge the Montgomery-to-Selma framework that seemed self-evidently correct. Like most historians of the movement, I realized that black militancy had quickened in the late 1930s and during the Second World War, but I intended passing lightly over this period, confining it to a chapter, perhaps two, on the "origins" of the civil rights movement. The focus of the book, as with my history of SCLC, was to be on the late 1950s and 1960s.</p>
           <p>As I plunged into research, however, it soon became apparent that the contours of the struggle in Louisiana bore little resemblance to the Montgomery-to-Selma story. For one thing, black activism between the late 1930s and the Brown decision was so multifaceted, broadly based, and militant that it seemed to merit the same kind of scholarly attention as the period 1955-65.</p>
@@ -446,7 +446,7 @@ racism of those other states. The Catholic church and Latin tradition of race re
         <div2 id="sc17-1005" n="Ayers v. Fordice:
 An Update" type="Article">
           <head><title>Ayers v. Fordice</title>: An Update</head>
-          <byline>By <docAuthor><name reg="Smith, Faye McDonald">Faye McDonald Smith</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Smith, Faye McDonald" type="person">Faye McDonald Smith</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995 p. 19</docDate>
           <p>In our last issue, (Winter '94), we ran a detailed article about the twenty-year-old Ayers desegregation case of higher education in Mississippi. In March 1994, U.S. District Judge Neal Biggers, Jr. issued the much-anticipated ruling. Here's an update:</p>
           <p>Neither the plaintiffs (representing the interests of Mississippi
@@ -480,7 +480,7 @@ more racially diverse faculties and administrations -- in order to fully desegre
         </div2>
         <div2 id="sc17-1006" n="A Day Late?" type="Review">
           <head>A Day Late?</head>
-          <byline>By <docAuthor><name reg="Garrow, David J.">David J. Garrow</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 20-23</docDate>
           <bibl><title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title> by John Egerton (New York: Alfred A. Knopf, 704 pp. $35.).</bibl>
           <p>John Egerton's group portrait of Southerners who opposed virulent white racism in their region during the period from 1932 to 1954 is a rich and impressive book, but all too often--as Egerton himself realizes--his narrative bestows excessive praise on white "liberals" who could never quite bring themselves even to publicly denounce racial segregation.</p>
@@ -601,7 +601,7 @@ Minnie Bruce Pratt" type="Article">
 Tombigbee'
 An Introduction to
 Minnie Bruce Pratt</head>
-          <byline>By <docAuthor><name reg="Whitehead, Kim">Kim Whitehead</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Whitehead, Kim" type="person">Kim Whitehead</name></docAuthor></byline>
           <docDate value="1995-03">Vol. 17, No. 1, 1995 pp. 23-27</docDate>
           <p>In the mid-1950s, Minnie Bruce Pratt's mother worked as a social worker and sometimes took her daughter along when she visited the homes of impoverished, mostly African-American, women and children in rural south Alabama just outside Selma. Pratt's father, a sawmill clerk, often spent his evenings reading John Birch news-papers and railing against the Catholic-Communist-Jewish conspiracy he believed was attempting to overthrow segregation. On summer afternoons, the young girl herself rummaged through closets and attics, looking for books that would explain the tangle of freedoms and oppressions she witnessed and experienced in her deeply racist and sexist Southern society. In the end, the best solution seemed to be to get out.</p>
           <p>Over the years, however, in her own writing, Minnie Bruce Pratt has

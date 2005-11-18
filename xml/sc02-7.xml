@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <p><title>Southern Changes</title>. Volume 2, Number 7, <date value="1980-06">1980</date></p>
         <div2 id="sc02-7002" n="A Tribute to Bell Wiley" type="Article">
           <head>A Tribute to Bell Wiley</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2</docDate>
           <p>When I was at the University of Alabama I once had a theory that most professors and administrators showed up at meetings late because it was the custom of the university at that time to begin classes 10 minutes after the hour or half hour. With that impression of most college professors I was, of course, a bit surprised in a small way when Bell Wiley came to our meetings at the SRC offices usually ahead of time.</p>
           <p>I should have known better. Bell was no stranger to me in style even at our first meeting. I had read many of his books on the Civil War and had come to know him as a very particular scholar. In the course of almost three years, I also came to appreciate the rare personal qualities of this Southerner who was in the best sense a scholar and a gentleman.</p>
@@ -78,7 +78,7 @@ way that reminded me of the sage of the backwoods country store who always seeme
         </div2>
         <div2 id="sc02-7003" n="In this Issue" type="Article">
           <head>In this Issue</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2-3</docDate>
           <p>About this time of year in 1948 a simple, yet remarkable occurence
 took place in Richmond, Virginia. A Black man named Oliver Hill was
@@ -154,7 +154,7 @@ been known or practiced on this soil.</p>
         </div2>
         <div2 id="sc02-7004" n="Survival Week Protests Budget Cuts" type="Article">
           <head>Survival Week Protests Budget Cuts</head>
-          <byline>By <docAuthor><name reg="Powell, Janis Sharp">Janis Sharp Powell</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Powell, Janis Sharp" type="person">Janis Sharp Powell</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, p. 4</docDate>
           <p>"No cuts in poor people's programs" was the message being sent to Congress and the nation by the poor people and labor, civil rights, tenants and religious organizations involved in planning Survival Week.</p>
           <p>Over 150 organizations in nine Southern states organized and endorsed Survival Week, a series of activities that took place May 1-11 to protest Carter's efforts to "balance the budget" and "fight inflation" at the expense of poor people's needs for jobs, housing, medical care, food and education.</p>
@@ -177,7 +177,7 @@ current rate of inflation, without an increase, the poor will have a
         </div2>
         <div2 id="sc02-7006" n="The Measure of Poverty" type="article">
           <head>The Measure of Poverty</head>
-          <byline>By <docAuthor><name reg="Einsenberg, Pablo">Pablo Einsenberg</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Einsenberg, Pablo" type="person">Pablo Einsenberg</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
           <p>When Lyndon Johnson proclaimed his unconditional War on Poverty in 1964, no one knew precisely the number or even the definition of "poor." As a result, the Council of Economic Advisors quickly sought to designate the poverty population and concluded among other things that in 1961 a family of two or more making under $3,000 a year had been in official poverty.</p>
           <p>An estimated food budget was the basis for determining the poverty index for different families. Based on 1955 surveys by the U.S. Department of Agriculture, the Council found that food expenditures accounted for one-third of a low-income family's total budget. With that evidence, the cost of the 1961 "economy food plan" was multiplied by three, yielding a total amount needed by that family to meet all costs. This figure became the official poverty line.</p>
@@ -252,7 +252,7 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
         </div2>
         <div2 id="sc02-7005" n="Political Changes in Terrible Terrell" type="Article">
           <head>Political Changes in Terrible Terrell</head>
-          <byline>By <docAuthor><name reg="Chaney, Betty">Betty Chaney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chaney, Betty" type="person">Betty Chaney</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 7-10</docDate>
           <p>0n a winter's day in January 1980, Dawson, Georgia, internationally known for the racially inflamed "Dawson Five" murder trial of three years ago, quietly eased itself into the pages of history again. For this small, predominately Black, southwestern Georgia town, the county seat for "Terrible Terrell" County, making history is not something new. Back in 1960 it became the first jurisdiction to be sued by the Justice Department under the 1957 Civil Rights Act for discrimination in voter registration. This time, however, unlike much of its past history when Black men lined up against White to do battle, three Black men stood alongside three White men and were sworn in together as Dawson City Council members.</p>
           <p>The victories for the Black men, Robert Albritten, Abraham Breedlove and Lucius Holloway, did not come easy. In fact they were the culmination of a long and fierce struggle. Terrell County was not nicknamed "terrible" because it rhymed; it had one of the worst records of race repression and violence in the South. Headlines about bombing and shooting of Black homes, the burning of Black churches, and even the murder of Blacks by Whites were not uncommon in Terrell County.</p>
@@ -329,7 +329,7 @@ a page from Dawson's history yet to be written.</p>
         </div2>
         <div2 id="sc02-7007" n="The Past Of Lowndes County's Future" type="Article">
           <head>The Past Of Lowndes County's Future</head>
-          <byline>By <docAuthor><name reg="Gordon, Tom">Tom Gordon</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gordon, Tom" type="person">Tom Gordon</name></docAuthor></byline>
           <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
           <p>HAYNEVILLE, ALA.&#x2014;The 124-year-old courthouse in this Black Belt town once was the political hub and social watering hole for White Lowndes countians. Remembered as stylish and attractive, the whitewashed building with green shutters not only housed most county government offices but also was the site of square dances, dress balls, and other items on the social calendars of the local White populace. The dances usually took place in the second floor's courtroom, where couples would reach from an inside staircase or from two winding outer stairways facing the courthouse square.</p>
           <p>The outer stairways are gone now and the music of the courtroom's lively dances hasn't been heard for years. Today the courtroom couldn't host a ball, nor can it even house a trial. Leaks, cracks, peeling walls, and general deterioration prompted the state fire marshal to condemn the courtroom last fall. The rest of the courthouse is not far from a similar fate.</p>
@@ -415,7 +415,7 @@ Star</hi> in Alabama.</p>
         </div2>
         <div2 id="sc02-7008" n="Half Pints and Rain Barrels: Hunger in Alabama" type="Article">
           <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
-          <byline>By <docAuthor><name reg="Greenhaw, Wayne">Wayne Greenhaw</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Greenhaw, Wayne" type="person">Wayne Greenhaw</name></docAuthor></byline>
           <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
           <p>A dark-skinned woman with a sharp straight nose, aged twisted lips,and legs slightly bigger around than a half dollar, Annie Bell Brown looked surprised when more than forty people walked into her scrub-brush front yard.</p>
           <p>She sat on a ragged old sofa somebody else had discarded years ago. She leaned forward and dipped Garrett snuff, and she cradled gnarled arthritic fingers gingerly around a swollen elbow that hung limply in a sling. A week before a local teenager had found her lying in a dirt street of Black Jack. Her arm was broken. Small dogs played around her frail body. The young man picked her up and carried her to an emergency room nearly twenty miles away.</p>
@@ -494,7 +494,7 @@ and a rustied-out car in the front yard.</p>
         </div2>
         <div2 id="sc02-7009" n="McDuffie: The Case Behind Miami's Riots" type="Article">
           <head>McDuffie: The Case Behind Miami's Riots</head>
-          <byline>By <docAuthor><name reg="Gaines-Carter, Patrice">Patrice Gaines-Carter</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaines-Carter, Patrice" type="person">Patrice Gaines-Carter</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 20-23</docDate>
           <p>The story has changed several times since its beginning the morning of December 17, in Miami, Florida. It was about 1:50 a.m when police officers there say they spotted Arthur Lee MeDuffie, a Black insurance executive, doing daredevil stunts on his motorcycle.</p>
           <p>After a high-speed chase, McDuffie was caught. At least a dozen police officers encircled him. For 20 minutes, according to reports, they beat him with nightsticks and flashlights. Four days later, after slipping into a coma, McDuffie, 33, was dead.</p>

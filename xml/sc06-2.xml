@@ -65,7 +65,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <p><title>Southern Changes</title>.  Volume 6, Number 2, <date value="1984-03">1984</date></p>
         <div2 id="sc06-2002" n="High Tech Drifter" type="Article">
           <head>Figures of speech--High Tech Drifter</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 1-3</docDate>
           <p>
             <hi rend="italic">There is an unmistakable glint in Dirty Gary's eye
@@ -189,7 +189,7 @@ New is not new enough for both of us."</p>
         </div2>
         <div2 id="sc06-2003" n="Meese and Civil Rights" type="Article">
           <head>Meese and Civil Rights</head>
-          <byline>By <docAuthor><name reg="Neas, Ralph G.">Ralph G. Neas</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Neas, Ralph G." type="person">Ralph G. Neas</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 3-4</docDate>
           <p>We are here this morning to announce that the Leadership Conference
 will strongly oppose the confirmation of Edwin Meese to be Attorney
@@ -397,7 +397,7 @@ says.</p>
         </div2>
         <div2 id="sc06-2005" n="LEAF" type="Article">
           <head>LEAF</head>
-          <byline>By <docAuthor><name reg="Johnson, Tim">Tim Johnson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 5-9</docDate>
           <p>Atlanta environmentalist Deborah Sheppard was organizing a state
 conference for a coalition of environmental groups in 1982. Among the
@@ -699,7 +699,7 @@ Campaign for a Prosperous Georgia.</p>
         <div2 id="sc06-2006" n="The Women of Brewster Place" type="Review">
           <head>Gloria Naylor, <title>The Women of Brewster Place.</title> New
 York: Viking Press, 1982. Penguin, 1983.</head>
-          <byline>By <docAuthor><name reg="Harris, Trudier">Trudier Harris</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 12-13</docDate>
           <p>Gloria Naylor's <title>The Women of Brewster Place</title> is a
 volume destined for long life. A collection of nine sections which
@@ -831,7 +831,7 @@ Hill.</p>
         <div2 id="sc06-2007" n="Mary, Wayfarer, An Autobiography" type="Review">
           <head><title>Mary, Wayfarer, An Autobiography,</title> by Mary
 E. Mebane. New York: Viking Press. 1983.</head>
-          <byline>By <docAuthor><name reg="Painter, Nell Irvin">Nell Irvin Painter</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Painter, Nell Irvin" type="person">Nell Irvin Painter</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 13-14</docDate>
           <p>In the second volume of her autobiography, Mary Mebane again talks
 of desegregation and takes aim at the black bourgeoisie--or more
@@ -936,7 +936,7 @@ the <title>North Carolina Independent.</title></p>
           <head>Steven Hahn, <title>The Roots of Southern Populism: Yeomen
 Farmers and the Transformation of the Georgia Upcountry,
 1850-1890</title> New York: Oxford University Press, 1983.</head>
-          <byline>By <docAuthor><name reg="Beatty, Bess">Bess Beatty</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline>
           <docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 14-16</docDate>
           <p>When Frank Owsley completed his study, <title>The Plain Folk of the
 Old South,</title> in 1949, he considered the title "The Forgotten Man
