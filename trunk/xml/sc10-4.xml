@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1988-07">1988</date></p>
         <div2 id="sc10-4002" n="Robeson County's 'Third World Ills'" type="Article">
           <head>Robeson County's 'Third World Ills'</head>
-          <byline>By <docAuthor><name reg="Segrest, Mab">Mab Segrest</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Segrest, Mab" type="person">Mab Segrest</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 14-16</docDate>
           <p>Julian Pierce, a Lumbee Indian candidate for superior court judge
 in Robeson County, North Carolina, went to his door in the early
@@ -267,7 +267,7 @@ here with permission.</p>
         </div2>
         <div2 id="sc10-4003" n="The Rights to Life" type="Article">
           <head>The Rights to Life</head>
-          <byline>By <docAuthor><name reg="McAnelly, Lynne">Lynne McAnelly</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="McAnelly, Lynne" type="person">Lynne McAnelly</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 1-4</docDate>
           <div3 id="sc10-4019" n="The Rights to Life" type="Section">
             <p>Agriculture is on the edge of a revolution that could bring changes
@@ -497,7 +497,7 @@ organisms. </p>
         </div2>
         <div2 id="sc10-4008" n="Cameras on the Prize" type="Article">
           <head>Cameras on the Prize: Hollywood Finds the Movement</head>
-          <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, p. 20</docDate>
           <p>Maybe Philadelphia, Miss., wasn't quite ready to host a movie
 fictionalizing its painful history, but elsewhere in the South,
@@ -538,7 +538,7 @@ of protest and rebellion.</p>
         </div2>
         <div2 id="sc10-4009" n="A Letter from Lillian Smith" type="Article">
           <head>A Letter from Lillian Smith</head>
-          <byline>Edited by <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+          <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 17, 19</docDate>
           <p>Lillian Smith's friendship with Carson McCullers and her husband
 Reeves may be dated to the late 1940s. After the Broad way production
@@ -658,7 +658,7 @@ Studies at the University of Alabama, Tuscaloosa.</p>
         </div2>
         <div2 id="sc10-4010" n="An Alabama Potter Stays with Tradition" type="Article">
           <head>An Alabama Potter Stays with Tradition</head>
-          <byline>By <docAuthor><name reg="Gates, Darryl">Darryl Gates</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gates, Darryl" type="person">Darryl Gates</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 18-19</docDate>
           <p>Jerry Brown has the thick, strong arms of a lumberjack. His large
 hands, broad shoulders and barrel chest complete the image. But it's
@@ -797,7 +797,7 @@ through his shop in Hamilton, Ala., (205) 921-9483.</p>
         <div2 id="sc10-4011" n="The Avenue, Clayton City" type="Review">
           <head><title>The Avenue, Clayton City</title> by C. Eric Lincoln. (New
 York: William Morrow, 1988. 288 pages. $17.95.)</head>
-          <byline>By <docAuthor><name reg="Gaillard, Frye">Frye Gaillard</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 20-22</docDate>
           <p>Blind Bates began to caress the strings of his battered old
 guitar. This time he was playing for love. Love for a woman he had
@@ -1003,7 +1003,7 @@ appeared.</p>
         </div2>
         <div2 id="sc10-4012" n="The Freedom Quilting Bee" type="Review">
           <head>The Freedom Quilting Bee</head>
-          <byline>By <docAuthor><name reg="Ellis, Deborah">Deborah Ellis</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Ellis, Deborah" type="person">Deborah Ellis</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 22-24</docDate>
           <p>Both are stories of American business, but <title>The
 Freedom Quilting Bee</title> is as different from the current bestseller
@@ -1159,7 +1159,7 @@ the ACLU, and previously was a lawyer in Alabama.</p>
         </div2>
         <div2 id="sc10-4013" n="Hispanics Struggle for Parity in Texas" type="Article">
           <head>Hispanics Struggle for Parity in Texas</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 11-13</docDate>
           <div3 id="sc10-4014" n="Hispanics Struggle for Parity in Texas" type="Section">
             <p>By the year 2010, Hispanics will be a majority of the population in
@@ -1365,7 +1365,7 @@ the majority, you'd better educate us." </p>
         </div2>
         <div2 id="sc10-4018" n="Plutonium Politics" type="Article">
           <head>Plutonium Politics: The Poisoning of South Carolina</head>
-          <byline>By <docAuthor><name reg="Carothers, Andre">Andre Carothers</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Carothers, Andre" type="person">Andre Carothers</name></docAuthor></byline>
           <docDate value="1988-07">Vol. 10, No. 4, 1988, pp. 4-5, 8-11</docDate>
           <p>It's not hard to attract attention at the Savannah River Plant, particularly if you are roaring along its southwestern boundary in a 250-horsepower speedboat, as we were, with a man in the bow training a telephoto lens on the far bank. Particularly since the private army that guards this nondescript
 stretch of South Carolina river is negotiating a new five-year, $300

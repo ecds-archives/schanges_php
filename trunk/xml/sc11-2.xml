@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Symbols and Mail Order Merchandising </head>
           <byline>
             <docAuthor>
-              <name reg="Williams, Randall">Randall Williams </name>
+              <name reg="Williams, Randall" type="person">Randall Williams </name>
             </docAuthor>
           </byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 12, 14-17</docDate>
@@ -465,7 +465,7 @@ information.</p>
         </div2>
         <div2 id="sc11-2005" n="???" type="Article">
           <head>Excerpts from the 1988 Lillian Smith Awards Presentations </head>
-          <byline>By <docAuthor><name reg="RJN">RJN </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="RJN" type="person">RJN </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 20-22</docDate>
           <p>In 1966 the Southern Regional Council established the Lillian Smith
 Book Award in honor of a life member of the council who had made great
@@ -717,7 +717,7 @@ Award for his book, <title>Our Land, Too.</title></p>
         </div2>
         <div2 id="sc11-2007" n="Doug Marlette . . . on Marlette" type="Article">
           <head>Doug Marlette . . . on Marlette </head>
-          <byline>By <docAuthor><name reg="Marlette, Doug">Doug Marlette</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Marlette, Doug" type="person">Doug Marlette</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 7-9</docDate>
           <p>EDITOR'S NOTE: The following comments by Doug Marlette
 are--with a few recent additions and editing--taken from a 1985
@@ -863,7 +863,7 @@ cartoonists are a lot like that.</p>
         </div2>
         <div2 id="sc11-2008" n="On Homelessness" type="Article">
           <head>On Homelessness </head>
-          <byline>By <docAuthor><name reg="Kozol, Jonathan">Jonathan Kozol</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kozol, Jonathan" type="person">Jonathan Kozol</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 17</docDate>
           <p>I met a homeless man in San Antonio who could stand in for many. He
 fits none of the stereotypes. Wasn't crazy. He wasn't lazy, he wasn't
@@ -919,7 +919,7 @@ homelessness published last year by Crown.</p>
         </div2>
         <div2 id="sc11-2009" n="Winthrop Rockefeller and Executions" type="Article">
           <head>Winthrop Rockefeller and Executions</head>
-          <byline>By <docAuthor><name reg="Kirby, Martin">Martin Kirby </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kirby, Martin" type="person">Martin Kirby </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 10-11</docDate>
           <p>In the continuing debate over the death penalty, it is fitting to
 invoke the name of Winthrop Rockefeller, who was Governor of Arkansas,
@@ -999,7 +999,7 @@ North Augusta, South Carolina.</p>
         </div2>
         <div2 id="sc11-2011" n="Winning the South" type="Article">
           <head>Winning the South </head>
-          <byline>By <docAuthor><name reg="Johnson, Ken">Ken Johnson </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Johnson, Ken" type="person">Ken Johnson </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 1, 3-4</docDate>
           <p>For Democrats, the Solid South is history. This, having been true
 for the national party for some time now, is becoming the case for
@@ -1283,7 +1283,7 @@ from that report.</p>
         </div2>
         <div2 id="sc11-2012" n="Cartoonist Jumps Ship in Atlanta" type="Article">
           <head>Cartoonist Jumps Ship in Atlanta</head>
-          <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 6</docDate>
           <p>Doug Marlette, the Pulitzer-winning political cartoonist lured from
 the <title>Charlotte Observer</title> when Bill Kovach became editor
@@ -1336,7 +1336,7 @@ Southerner should feel right at home."</p>
         </div2>
         <div2 id="sc11-2013" n="A Southern Exposure for Spring Planting" type="Article">
           <head>A Southern Exposure for Spring Planting </head>
-          <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 5-6</docDate>
           <p>As soil is being worked and gardens laid this Spring, it may be
 useful to remember that all seeds are not created equal, and that
@@ -1405,7 +1405,7 @@ a trip to the refrigerator for a beer.</p>
         </div2>
         <div2 id="sc11-2014" n="Hightower Chooses a Populist Agenda" type="Article">
           <head>Hightower Chooses a Populist Agenda </head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 4-5</docDate>
           <p>Jim Hightower has a way forward for the Democrat. Party. In order
 to pursue his strategy, Hightower has decided to run for re-election
@@ -1472,7 +1472,7 @@ England.</p>
         </div2>
         <div2 id="sc11-2015" n="Bundy Killing No Cause for Celebration" type="Article">
           <head>Bundy Killing No Cause for Celebration </head>
-          <byline>By <docAuthor><name reg="Collins, Leroy">Leroy Collins </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Collins, Leroy" type="person">Leroy Collins </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 10</docDate>
           <p>Since I have a long record of opposing the death penalty, I have
 been asked what my reactions are to the Theodore Bundy execution.</p>
@@ -1538,7 +1538,7 @@ comments originally appeared.</p>
         </div2>
         <div2 id="sc11-2016" n="The Cold Hard Truth" type="Article">
           <head>The Cold Hard Truth </head>
-          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 24, 22-23</docDate>
           <p>I am proud of America and proud to be an American. Almost no other
 nation in the world would have waged a civil war to abolish slavery,

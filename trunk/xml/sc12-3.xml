@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <div2 id="sc12-3002" n="Letting Loose of Liberalism" type="Article">
           <head>Letting Loose of Liberalism: Some Thoughts on Cultural Work and
 the Limits of Polite Discourse</head>
-          <byline>By <docAuthor><name reg="Whisnant, David E.">David E. Whisnant</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 1-11</docDate>
           <p>IN Walker Percy's story "The Last Donahue Show," the topic of the
 day is "sexual preference." Midway through, the show is interrupted by
@@ -697,7 +697,7 @@ meeting of the state humanities councils, May 19, 1990.</p>
         <div2 id="sc12-3004" n="Politics the Beloved Commune" type="Article">
           <head>Politics the Beloved Commune: Arkansas has the opportunity to
 learn from the experiences of other Southern states</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 13-16</docDate>
           <p>THE YEAR 1990 may be remembered as a profound moment for Arkansas
 politics. This is the 25th anniversary of the passage of the Voting
@@ -898,7 +898,7 @@ the Arkansas Political Exchange in West Memphis, Ark.</p>
         </div2>
         <div2 id="sc12-3005" n="Human Heroics in Uniting an Old Culture to New Religion" type="Review">
           <head>Human Heroics in Uniting an Old Culture to New Religion.</head>
-          <byline>Reviewed by <docAuthor><name reg="Prejean, Charles">Charles Prejean</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Prejean, Charles" type="person">Charles Prejean</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 17-18</docDate>
           <bibl><title>Ain't you Got a Right to the Tree of Life?</title> Recorded and
 edited by Guy and Candie Carawan, with a preface by Charles Joyner and
@@ -1006,7 +1006,7 @@ Xavier.</p>
           <head>The Importance of Race in the Classroom.</head>
           <byline>
             <docAuthor>
-              <name reg="L.W.D">L. W. D.</name>
+              <name reg="L.W.D" type="person">L. W. D.</name>
             </docAuthor>
           </byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, p. 18</docDate>
@@ -1028,7 +1028,7 @@ equipped to deal with statistics.</p>
         </div2>
         <div2 id="sc12-3007" n="The Need to Pierce Self-Serving Veils of Economic Expertise" type="Review">
           <head>The Need to Pierce Self-Serving Veils of Economic 'Expertise.'</head>
-          <byline>Reviewed by <docAuthor><name reg="Howland, Jacob">Jacob Howland</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Howland, Jacob" type="person">Jacob Howland</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 21-23</docDate>
           <bibl><title>Communities in Economic Crisis: Appalachia and the
 South.</title> Edited by John Gaventa, Barbara Ellen Smith, and Alex
@@ -1183,7 +1183,7 @@ University of Tulsa.</p>
         <div2 id="sc12-3008" n="Making Votes Count in Arkansas" type="Article">
           <head>Making Votes Count in Arkansas--Challenge to Plantation-Style
 Politics</head>
-          <byline>By <docAuthor><name reg="Fleshler, Dan">Dan Fleshler</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fleshler, Dan" type="person">Dan Fleshler</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 14-15</docDate>
           <p>Nearly every day this past year, M.C. Jeffers watched news reports
 of Eastern European crowds clamoring for meaningful elections, for the
@@ -1303,7 +1303,7 @@ from <title>Equal Justice: LDF News.</title></p>
         </div2>
         <div2 id="sc12-3009" n="A White Progressive Sounds the Trumpet from Inside" type="Review">
           <head>A White Progressive Sounds the Trumpet from Inside.</head>
-          <byline>Reviewed by <docAuthor><name reg="Dunbar, Anthony">Anthony Dunbar</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Dunbar, Anthony" type="person">Anthony Dunbar</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 18-20</docDate>
           <bibl><title>Hearts and Minds, A Personal Chronicle of Race in
 America</title> by Harry S. Ashmore. Foreword by Harold C. Fleming
@@ -1451,7 +1451,7 @@ Mississippi's Delta and its people.</p>
         </div2>
         <div2 id="sc12-3010" n="A Passionate, First-Hand Story of One Place in the Movement" type="Review">
           <head>A Passionate, First-Hand Story of One Place in the Movement.</head>
-          <byline>Reviewed by <docAuthor><name reg="Cooper, Michael">Michael Cooper</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 20-21</docDate>
           <bibl><title>JACKSON, MISSISSIPPI: An American Chronicle of Struggle and
 Schism</title> by John R Salter Jr. (Malabar, Florida: Robert
@@ -1561,7 +1561,7 @@ Mississippi.</p>
           <head>The Cold Hard Truth</head>
           <byline>
             <docAuthor>
-              <name reg="Chestnut, J.L., Jr.">By J.L. Chestnut. Jr.</name>
+              <name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut. Jr.</name>
             </docAuthor>
           </byline>
           <docDate value="1990-08">Vol. 12, No. 3, 1990, p. 24</docDate>

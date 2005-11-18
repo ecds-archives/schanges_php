@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Mother Church</head>
           <byline>
             <docAuthor>
-              <name reg="">Will D. Campbell</name>
+              <name reg="" type="person">Will D. Campbell</name>
             </docAuthor>
           </byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
@@ -571,7 +571,7 @@ Atlanta. June 7-9,1985.</p>
 Paul M. Gaston. Mercer University Lamar Memorial Lectures,
 No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
 Press, 1984, 143 pages).</head>
-          <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth">Elizabeth Fox-Genovese</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
           <p>The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
@@ -745,7 +745,7 @@ they need to draw more far-reaching conclusions.</p>
         </div2>
         <div2 id="sc07-3008" n="Sixty five Years in Eufaula" type="Article">
           <head>Sixty five Years in Eufaula</head>
-          <byline>By <docAuthor><name reg="Frost, David">David Frost</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
           <p>I am DAVID FROST, Jr.</p>
           <p>This is an account of my life in Eufaula, Alabama and my family
@@ -2003,8 +2003,8 @@ gains. </p>
         </div2>
         <div2 id="sc07-3017" n="Figures of Speech" type="Article">
           <head>Figures of Speech: Fish We've Never Seen</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen
-	       Tullos</name>, Photographs by<name reg="Rankin, Tom">Tom Rankin</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
+	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
           <p>An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
@@ -2764,7 +2764,7 @@ the right direction."</p>
         </div2>
         <div2 id="sc07-3018" n="Crackdown in the Black Belt" type="Article">
           <head>Crackdown in the Black Belt: On to Greene County</head>
-          <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
           <p>Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as

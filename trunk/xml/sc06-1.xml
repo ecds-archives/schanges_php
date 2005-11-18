@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <div2 id="sc06-1002" n="Southerners and Central America" type="Article">
           <head>Southerners and Central America. The Ideology of
 Domination</head>
-          <byline>By <docAuthor><name reg="Kirkpatrick, Dow">Dow Kirkpatrick</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 1-3, 5-6</docDate>
           <div3 id="sc06-1003" n="I" type="Section">
             <p>Southerners, of all US citizens, should be best equipped to
@@ -406,7 +406,7 @@ and seventh to Cuba.</p>
         </div2>
         <div2 id="sc06-1006" n="The Kissinger Commission Report" type="Article">
           <head>The Kissinger Commission Report</head>
-          <byline>By <docAuthor><name reg="Kirkpatrick, Dow">Dow Kirkpatrick</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 2</docDate>
           <p>The Kissinger Commission report (the President's commission on
 Central America) fails to recommend an alternative for Central
@@ -428,7 +428,7 @@ the poor in reorganizing society to meet human needs.</p>
         </div2>
         <div2 id="sc06-1007" n="The Logic of the Majority" type="Article">
           <head>"The Logic of the Majority"</head>
-          <byline>By <docAuthor><name reg="Gorostiaga, Xabier">Xabier Gorostiaga</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gorostiaga, Xabier" type="person">Xabier Gorostiaga</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 6-10</docDate>
           <sp>
             <speaker>Xabier Gorostiaga</speaker>
@@ -889,7 +889,7 @@ workshop held in The Hague during the summer of 1983.</p>
         </div2>
         <div2 id="sc06-1008" n="The Bomb Plant on Trial" type="Article">
           <head>The Bomb Plant on Trial</head>
-          <byline>By <docAuthor><name reg="Bowman, Sue">Sue Bowman</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bowman, Sue" type="person">Sue Bowman</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 10-12</docDate>
           <p>Fifty demonstrators who blockaded entrances to the Savannah River
 Plant last fall were found guilty of a traffic violation January 11,
@@ -1075,7 +1075,7 @@ regularly about Southern disarmament activities.</p>
         </div2>
         <div2 id="sc06-1009" n="Populist Revival in Mississippi?" type="Article">
           <head>Populist Revival in Mississippi?</head>
-          <byline>By <docAuthor><name reg="Pigott, Brad">Brad Pigott</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Pigott, Brad" type="person">Brad Pigott</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 12-17</docDate>
           <p><q direct="unspecified">My opponent is not the man whose name will appear on the
 ballot. Instead, my opposition is a small group of very wealthy and
@@ -1599,7 +1599,7 @@ campaign of Congressman Wayne Dowdy.</p>
           <head>"Covering History as it Broke"  <lb/>John N. Popham</head>
           <byline>
             <docAuthor>
-              <name reg="">Harry Ashmore</name>
+              <name reg="" type="person">Harry Ashmore</name>
             </docAuthor>
           </byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 17-19</docDate>
@@ -1731,7 +1731,7 @@ Plaza Hotel, Atlanta, November 12, 1983.</p>
         </div2>
         <div2 id="sc06-1011" n="Popham: 'Avoiding the Hit and Run Press'" type="Article">
           <head>Popham: "Avoiding the Hit and Run Press"</head>
-          <byline>By <docAuthor><name reg="Cooper, Eleanor Mccallie">Eleanor Mccallie Cooper</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Cooper, Eleanor Mccallie" type="person">Eleanor Mccallie Cooper</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 19-22</docDate>
           <p>"Just call it as you see it, John, anything that you can see in the
 South, the enormous changes that are about to take place. We don't
@@ -1995,7 +1995,7 @@ Project.</p>
         <div2 id="sc06-1012" n="Generations: An American Family" type="Review">
           <head>John Egerton. <title>Generations: An American
 Family.</title> University Press of Kentucky, 1983.</head>
-          <byline>By <docAuthor><name reg="Campbell, Will D.">Will D. Campbell</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Campbell, Will D." type="person">Will D. Campbell</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 23-24</docDate>
           <p>For too long we have cataloged, systematized and categorized the
 places and ways of learning. And too often we neglect, ignore or fail

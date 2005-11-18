@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <div2 id="sc07-1002" n="The Civil Rights Act After Twenty Years:  Part One" type="Article">
           <head>The Civil Rights Act After Twenty Years:  Part One: Where We've
 Been and Where We Are</head>
-          <byline>By <docAuthor><name reg="Ashmore, Harry S.">Harry S. Ashmore</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Ashmore, Harry S." type="person">Harry S. Ashmore</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 8-10</docDate>
           <p>One of the things that disturbs me when people look back at the
 history we've lived through--some of us have lived through a good deal
@@ -237,7 +237,7 @@ Southern Regional Council's Lillian Smith Award in 1982.</p>
         <div2 id="sc07-1003" n=" The Civil Rights Act After Twenty Years: Part Two" type="Article">
           <head>The Civil Rights Act After Twenty Years.  Part Two: The
 Collapse of Enforcement</head>
-          <byline>By <docAuthor><name reg="Chambers, Julius L.">Julius L. Chambers</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chambers, Julius L." type="person">Julius L. Chambers</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 10-13</docDate>
           <p>During the past week I have attended four meetings where we were
 discussing the Civil Rights Act of 1964 and the 1984 election. It has
@@ -541,7 +541,7 @@ Council, is director of the NAACP Legal Defense Fund.</p>
         <div2 id="sc07-1004" n="The Civil Rights Act After Twenty Years. Part Three" type="Article">
           <head>The Civil Rights Act After Twenty Years. Part Three:
 Comments</head>
-          <byline>By<docAuthor><name reg="Fleming, Harold">Harold Fleming</name></docAuthor></byline>
+          <byline>By<docAuthor><name reg="Fleming, Harold" type="person">Harold Fleming</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 13-14</docDate>
           <p>I'm want to footnote some of the things said in the excellent
 statements that Harry and Julius have just made. And I'm going to try
@@ -626,7 +626,7 @@ executive director of the Southern Regional Council.</p>
         <div2 id="sc07-1005" n="The Civil Rights Act After Twenty Years:  Response" type="Article">
           <head>The Civil Rights Act After Twenty Years Later.
 <add>[Response]</add></head>
-          <byline>By <docAuthor><name reg="Gaston, Paul">Paul Gaston</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gaston, Paul" type="person">Paul Gaston</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 14-15</docDate>
           <p>Prompted by Harold and Harry's discussion of the new mythology--and
 particularly by Julius' recollection of his student days at Chapel
@@ -701,7 +701,7 @@ is president of the Southern Regional Council.</p>
         </div2>
         <div2 id="sc07-1006" n="The Rising Tide of Poverty" type="Article">
           <head>The Rising Tide of Poverty</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 5-8</docDate>
           <p>"A rising tide lifts all boats," President Reagan explained four
 years ago when asked how his administration's policies would affect
@@ -899,7 +899,7 @@ rates available.</p>
         </div2>
         <div2 id="sc07-1007" n="The South and the World Community" type="Article">
           <head>The South and the World Community</head>
-          <byline>By <docAuthor><name reg="Thrasher, Sue">Sue Thrasher</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 20-1, 23-24</docDate>
           <p>At some moment during the 1950s and '60s, many of us in this room
 made a decision about where we were going to work and what we were
@@ -1175,7 +1175,7 @@ Atlanta this past November.</p>
         </div2>
         <div2 id="sc07-1008" n="Crackdown in the Black Belt" type="Article">
           <head>Crackdown in the Black Belt</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 1-5</docDate>
           <p>In an apparent attempt to intimidate black voters in the rural
 South and push back electoral gains made since the passage of the 1965

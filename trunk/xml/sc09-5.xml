@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1987-12">1987</date></p>
         <div2 id="sc09-5002" n="Waiting for the Gag Reflex" type="Article">
           <head>Waiting for the Gag Reflex</head>
-          <byline>By <docAuthor><name reg="Teepen, Tom">Tom Teepen</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Teepen, Tom" type="person">Tom Teepen</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate>
           <p>The killing is picking up, not that anyone notices much any
 more.</p>
@@ -147,7 +147,7 @@ Constitution</p>
         <div2 id="sc09-5003" n="As We Have Sown" type="Article">
           <head>As We Have Sown: The new struggle is the same old fight to make
 enough to survive</head>
-          <byline>By <docAuthor><name reg="Ritchie, Mark">Mark Ritchie</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Ritchie, Mark" type="person">Mark Ritchie</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate>
           <p>History is a good place to begin. The important thing about
 agriculture in the United States from the beginning of European
@@ -442,7 +442,7 @@ Cooperatives and the National Council of Churches.</p>
         <div2 id="sc09-5004" n="As We Have Sown" type="Article">
           <head>As We Have Sown: At current rates, blacks will own no land by
 the end of this century</head>
-          <byline>By <docAuthor><name reg="Pennick, Edward">Edward Pennick</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Pennick, Edward" type="person">Edward Pennick</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate>
           <p>For black Americans the rural crisis is not limited to any region,
 profession or economic class. It touches us all though probably
@@ -623,7 +623,7 @@ Cooperatives and the National Council of Churches.</p>
         <div2 id="sc09-5005" n="Rural Advancement Fund Celebrates 50 Years of Farm Advocacy" type="Article">
           <head>Rural Advancement Fund Celebrates 50 Years of Farm
 Advocacy</head>
-          <byline>By <docAuthor><name reg="Amberg, Robert">Robert Amberg</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Amberg, Robert" type="person">Robert Amberg</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate>
           <p>This year the Rural Advancement Fund/National Sharecroppers Fund
 celebrates its fiftieth anniversary as an advocate for family farms
@@ -870,7 +870,7 @@ Tevere MacFadyen will be published this winter.</p>
         </div2>
         <div2 id="sc09-5006" n="Lost Causes &#x26;Then Some" type="Article">
           <head>Lost Causes &#x26;Then Some</head>
-          <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate>
           <p>This is the second of two articles on the once and future South, as
 viewed from the perspective of a life-long organizer, activist and
@@ -1544,7 +1544,7 @@ Washington, D.C. 20004.</p>
         </div2>
         <div2 id="sc09-5008" n="Sermonette on the Movement" type="Article">
           <head>Sermonette on the Movement</head>
-          <byline>By <docAuthor><name reg="Hayden, Casey">Casey Hayden</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate>
           <p>Mary King is like her ancestors. She walks a very straight line for
 a long time. She was always like that: solid, linear, historical,
@@ -1822,7 +1822,7 @@ book.</p>
         </div2>
         <div2 id="sc09-5009" n="Avedon's West" type="Article">
           <head>Avedon's West</head>
-          <byline>By <docAuthor><name reg="Ponder, Art">Art Ponder</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Ponder, Art" type="person">Art Ponder</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate>
           <p>Richard Avedon is generally known as a fashion photographer, the
 man who creates the "idealized," sexist icons for the covers of such
@@ -1956,7 +1956,7 @@ Atlanta.</p>
         </div2>
         <div2 id="sc09-5010" n="Women and 'Men's Work' During the War Years" type="Review">
           <head>Women and 'Men's Work' During the War Years.</head>
-          <byline>By <docAuthor><name reg="Thomas, Mary Martha">Mary Martha Thomas</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Thomas, Mary Martha" type="person">Mary Martha Thomas</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate>
           <bibl><title>Riveting
 and Rationing in Dixie: Alabama Women and the Second World War</title>
@@ -2013,7 +2013,7 @@ Alabama."</p>
         </div2>
         <div2 id="sc09-5011" n="The Struggle Goes to Hollywood" type="Article">
           <head>The Struggle Goes to Hollywood</head>
-          <byline>By <docAuthor><name reg="HRW">HRW</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate>
           <p>In the eyes of a South African filmmaker who has seen <title>Cry
 Freedom</title>  while visiting the United States recently, Richard
@@ -2095,7 +2095,7 @@ Africa.</p>
         </div2>
         <div2 id="sc09-5012" n="A Letter from Lillian Smith" type="Article">
           <head>A Letter from Lillian Smith</head>
-          <byline>Edited by <docAuthor><name reg="Gladney, Rose">ROSE GLADNEY</name></docAuthor></byline>
+          <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">ROSE GLADNEY</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate>
           <p>As writer, intellectual, and social critic of 20th century Southern
 and American life, Lillian Smith corresponded with a variety of
@@ -2223,7 +2223,7 @@ at the University of Alabama, Tuscaloosa.</p>
         </div2>
         <div2 id="sc09-5013" n="The 1987 Lillian Smith Book Awards" type="Article">
           <head>The 1987 Lillian Smith Book Awards</head>
-          <byline>By <docAuthor><name reg="DAVIS, THADIOUS">THADIOUS DAVIS</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davis, Thadious" type="person">Thadious Davis</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate>
           <p>When Georgia author Lillian Smith died in 1966, the Southern
 Regional Council established an award not only to honor her work and
@@ -2395,7 +2395,7 @@ between July 1, 1986, and June 30, 1987.</p>
         </div2>
         <div2 id="sc09-5014" n="On Guard Against Good Intentions" type="Review">
           <head>On Guard Against Good Intentions.</head>
-          <byline>By <docAuthor><name reg="Littleton, George">George Littleton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate>
           <bibl><title>The Thanatos
 Syndrome</title> by Walker Percy. (New York: Farrar, Straus, and
@@ -2558,7 +2558,7 @@ Commission on Higher Education in Montgomery.</p>
           <head>The Cold Hard Truth</head>
           <byline>
             <docAuthor>
-              <name reg="">By J.L. Chestnut, Jr.</name>
+              <name reg="" type="person">By J.L. Chestnut, Jr.</name>
             </docAuthor>
           </byline>
           <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate>

@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1982-04">1982</date></p>
         <div2 id="sc04-2002" n="Notes of a Klanwatcher" type="Article">
           <head>Notes of a Klanwatcher</head>
-          <byline>By <docAuthor><name reg="Williams, Randall">Randall Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 11-13</docDate>
           <p>It's easy and relatively safe, in 1982, to hate the KKK, but
 explaining why an anti-Klan movement is necessary, and getting those
@@ -283,7 +283,7 @@ Law Center.</p>
         </div2>
         <div2 id="sc04-2003" n="Fair Representation is Essential to Democracy" type="Article">
           <head>'Fair Representation is Essential to Democracy'</head>
-          <byline>By <docAuthor><name reg="Wheeler, Raymond">Raymond Wheeler</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wheeler, Raymond" type="person">Raymond Wheeler</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 10</docDate>
           <p>I am a physician, a native of North Carolina, practicing in
 Charlotte. I speak today as a citizen of the state interested in fair
@@ -379,7 +379,7 @@ legislative committee on redistricting on Feb. 4, 1982.</p>
         <div2 id="sc04-2004" n="Protest and Survive" type="Review">
           <head><title>Protest and Survive.</title> Edited by E.P. Thompson and
 Dan Smith, New York: Monthly Review Press, 1981 $4.95.</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 4</docDate>
           <p><title>Protest and Survive</title> is a powerful gift from European
 Nuclear Disarmament (END) to the growing American movement. The book
@@ -437,7 +437,7 @@ his doctoral dissertation in history at Yale University.</p>
         </div2>
         <div2 id="sc04-2005" n="The Reagan Impact On the South's Poor" type="Article">
           <head>The Reagan Impact On the South's Poor</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 15-16</docDate>
           <p>More than three decades ago, after the country had climbed up from
 the Deep Depression, President Franklin Roosevelt said that the South
@@ -1141,7 +1141,7 @@ Regional Council.</p>
         </div2>
         <div2 id="sc04-2007" n="Remarks in Memory Of Lillian Smith" type="Article">
           <head>Remarks in Memory Of Lillian Smith</head>
-          <byline>By <docAuthor><name reg="Moore, Gene Gabriel">Gene Gabriel Moore</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Moore, Gene Gabriel" type="person">Gene Gabriel Moore</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 13-15</docDate>
           <p>It is appropriate that we make what echo we can of Lillian Smith's
 lifelong battle for those eternal lost causes--a classless
@@ -1386,7 +1386,7 @@ behalf.</p>
         </div2>
         <div2 id="sc04-2008" n="Democracy Looks At the New South" type="Article">
           <head>Democracy Looks At the New South</head>
-          <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 1-4</docDate>
           <p>The news is full these days about people returning to the South,
 black and white, poor ones as well as those better off. The question

@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <p><title>Southern Changes</title>. Volume 1, Number 2, <date value="1978-10">1978</date></p>
         <div2 id="sc01-2007" n="Interchange: In This Issue" type="Article">
           <head>Interchange: In This Issue</head>
-          <byline>By <docAuthor><name reg="Chaney, Betty Norwood">Betty Norwood Chaney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, p. 2</docDate>
           <p>Southern Changes, for those of you who are reading our pages for
 the first time, marks the beginning of the Southern Regional Council's
@@ -90,7 +90,7 @@ to Voter Registration," the VEP head, herself a symbol of change - one of the fi
         </div2>
         <div2 id="sc01-2004" n="Hilldrup's Dilemma Is Not All Black And White" type="Article">
           <head>Hilldrup's Dilemma Is Not All Black And White</head>
-          <byline>By <docAuthor><name reg="Gates, Harvey">Harvey Gates</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gates, Harvey" type="person">Harvey Gates</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 3-4</docDate>
           <p>In the September issue of Southern Changes, Mr. Robert P. Hilldrup struck a cord sensitive to my paternal instincts with his article entitled: "My Sons Are Growing Up Racists."</p>
           <p>His concern has wider implications than the family hearth. As a writer and father I feel compelled to respond, in my own way, to his comments because I am also concerned about the attitudes my Black sons will take in race relations.</p>
@@ -147,7 +147,7 @@ least, we are ahead of most of the others.</p>
         </div2>
         <div2 id="sc01-2002" n="The Courtesy of Becoming A Federal Judge" type="Article">
           <head>The Courtesy of Becoming a Federal Judge</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts </name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 6,7,23</docDate>
           <p>As a moderate segregationist governor of Mississippi, James P. Coleman once advised his supporters resisting integration that "any legislature can pass an act faster than the Supreme Court can erase it." As time showed, the strategy was partially effective since racial integration began to seep into Mississippi only after being confronted with civil rights legislation, an angry president, and federal court decisions. The governor's own course, however, may have had a more lasting effect. He retired from office, was appointed to a federal judgeship, and now sits on the Fifth Circuit Court of Appeals.</p>
           <p>Judge Coleman and his brethren on the Fifth Circuit will soon be joined by several others when the president announces the appointment of the 60 district and circuit judges who will be added to the federal bench in the South. Because of recent legislation, more than 150 new federal judges will be appointed throughout the nation. Never before have so many federal judges been appointed at one time.</p>
@@ -184,7 +184,7 @@ ago.</p>
         </div2>
         <div2 id="sc01-2003" n="Vivian Malone Jones and the VEP: From Integration to Voter Registration" type="Article">
           <head>Vivian Malone Jones and the VEP: From Integration to Voter Registration</head>
-          <byline>By <docAuthor><name reg="Bledsoe, Christena">Christena Bledsoe</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bledsoe, Christena" type="person">Christena Bledsoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 8-10</docDate>
           <p>Sometime in her youth, Vivian Malone Jones decided she wanted to go
 to college. That wouldn't have been such an unusual decision except
@@ -256,7 +256,7 @@ writer living in Atlanta.</p>
         </div2>
         <div2 id="sc01-2005" n="Atlanta Metro School Suit: A Search for Equality" type="Article">
           <head>Atlanta Metro School Suit: A Search for Equality</head>
-          <byline>By <docAuthor><name reg="Cross-Briscoe, Marcia">Marcia Cross-Briscoe</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Cross-Briscoe, Marcia" type="person">Marcia Cross-Briscoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978 pp. 11-12</docDate>
           <p>Atlanta may be "the city too busy to hate" but its process of desegregating its public school system reflects the trends of most communities in the South since the Brown decision in 1954. Between 1958 and 1973 five desegregation lawsuits were filed against school systems in metro Atlanta, and one is still pending in U.S. District Court for the Northern District of Georgia.</p>
           <p><hi rend="italic">Emma Armour v. Jack P. Nix</hi> has been referred to as the "Metro suit" because the city of Atlanta and six surrounding counties were first charged with segregation in public education. The Compromise Plan of 1973 which stemmed from an earlier case, <hi rend="italic">Calhoun v. Cook</hi>, was supposed to solve this problem; however, the proposed remedies did not significantly integrate the public schools. Roughly 20 all-White schools were integrated but the remaining Black schools, which were in the majority, were left untouched by the plan.</p>
@@ -300,7 +300,7 @@ learning rather than placement of bodies.</p>
         </div2>
         <div2 id="sc01-2006" n="Dooty's Last Stand" type="Article">
           <head>Dooty's Last Stand</head>
-          <byline>By <docAuthor><name reg="Bledsoe, Jerry">Jerry Bledsoe</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bledsoe, Jerry" type="person">Jerry Bledsoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978 pp. 13-15</docDate>
           <p>She had thought this would be the day, and all morning Luemer Plumley, whom her sisters call Dooty, sat on the porch watching and waiting.</p>
           <p>She watched expectantly as the power company truck lurched up the rough mountain road and one of the men got out and climbed the pole and tinkered with the wires at the top. She watched as they went on up to the church and passed back down again. And still she waited, but they didn't return.</p>
@@ -361,7 +361,7 @@ Charlotte Observer, has served as a contributing editor for <title>Esquire</titl
         </div2>
         <div2 id="sc01-2008" n="'My Soul Is Rested' Stirs Unrest In Marketing" type="Article">
           <head>'My Soul Is Rested' Stirs Unrest In Marketing</head>
-          <byline>By <docAuthor><name reg="Cutler, Bill">Bill Cutler</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Cutler, Bill" type="person">Bill Cutler</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 16-18</docDate>
           <p>"White people don't have much experience in running into that sort
 of prejudice. It fills you with a powerless anger. So I think it was
@@ -443,7 +443,7 @@ Atlanta; and Davison's Department Store, Atlanta.</p>
         </div2>
         <div2 id="sc01-2009" n="THE CHAINS THAT BIND: ERA and the Southern Black Woman" type="Article">
           <head>THE CHAINS THAT BIND: ERA and the Southern Black Woman</head>
-          <byline>By <docAuthor><name reg="Cole, Sylvia Crudup">Sylvia Crudup Cole</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Cole, Sylvia Crudup" type="person">Sylvia Crudup Cole</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 19-21</docDate>
           <p>Congress voted recently to extend -the- period for the states to ratify the ERA until June 30, 1982. This action, however, did not have support of many Southern Congressmen. They showed the same hostility to the amendment already shown by Southern state legislators, whose lack of support has so far helped block ratification. Since 1972, 35 states have ratified the proposed federal constitutional amendment and only three are needed for ERA to become law. Of the 15 states left to ratify, 10 of them, astoundingly, are Southern.</p>
           <p>Yet, not all the blame for the status of the ERA can be placed on
@@ -495,7 +495,7 @@ in Raleigh, North Carolina.</p>
         </div2>
         <div2 id="sc01-2010" n="The Unchanged Patterns of Changing Migration" type="Article">
           <head>The Unchanged Patterns of Changing Migration</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 21-23</docDate>
           <p>A lot of Southern history moves around in buses. In 1956. a domestic worker, Rosa Parks, refused to stir from her seat for a White man on a Montgomery, Alabama bus and prompted the historic boycott beginning a decade of mass movement for civil rights. Blacks and Whites suffered physical abuse and death when they banded together as the "Freedom Riders" to travel the South by commercial buses to integrate that segregated system. "Busing," of course, became a political obscenity for those who opposed school integration in the late 1960s. And throughout, one-way tickets from Eutaw, Greenville, and Valdosta to the North separated families and helped drain the South of more than 12 million of its own.</p>
           <p>Some of the old battlegrounds of civil rights, like the Birmingham bus station, still stand with discolored paint and memories. Many others including Atlanta's terminal are new structures offering modem conveniences and perhaps a clearer view of the confused strains of today's Southern ways.</p>
@@ -534,8 +534,8 @@ counter. She is in Atlanta. She has arrived.</p>
         </div2>
         <div2 id="sc01-2011" n="ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport" type="Article">
           <head>ECONOMIC DEVELOPMENT: Minority Participation in Construction Of Atlanta Airport</head>
-          <byline>By <docAuthor><name reg="Miller, Dave">Dave
-Miller</name></docAuthor> and <docAuthor><name reg="Kenna, Gordon">Gordon Kenna</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Miller, Dave" type="person">Dave
+Miller</name></docAuthor> and <docAuthor><name reg="Kenna, Gordon" type="person">Gordon Kenna</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 24-25</docDate>
           <p>Contracting opportunities for minority-owned businesses have been the subject of much attention of late, but the methods of achieving minority business participation are not so well known. Certainly, this is a new endeavor for both contractors and purchasing departmentswhich is often bound by law and tradition to do business using conservative and often unimaginative methods. But given a genuine desire and commitment to encourage minority business participation, affirmative action goals can be reached and even exceeded within the principles of sound business management and bidding practices.</p>
           <p>One such successful program has been implemented by the City of Atlanta in the construction of the new terminal building for the HartsfieldAtlanta International Airport. At the direction of Atlanta Mayor Maynard Jackson, three goals were established for the Airport Terminal Construction Program: (1) completion by a certain date; (2) completion within budget and; (3) significant involvement of small and minority business enterprise.</p>

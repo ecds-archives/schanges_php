@@ -61,7 +61,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 	    <date value="1997-03">1997</date></p>
         <div2 id="sc19-1002" n="Democracy Demands Memory" type="Article">
           <head>Democracy Demands Memory</head>
-          <byline>By <docAuthor><name reg="Bond, Julian">Julian Bond</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 3-4</docDate>
           <epigraph>
             <p>"I tell my children today they don't know
@@ -687,7 +687,7 @@ and it's something that I will never forget.</p>
         </div2>
         <div2 id="sc19-1005" n="Prejudices and Hopes" type="Interview">
           <head>Prejudices and Hopes</head>
-          <byline>By <docAuthor><name reg="Spears, Ellen">Ellen Spears</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997</docDate>
           <p rend="italic">The personal stories in Will The Circle be Unbroken? remind us how recently American apartheid shed the force of law, and at what costs the changes were extracted. These recollections inevitably lead us to consider how things have changed and to identify the work that remains to be done if we are to create an equal society.</p>
           <p rend="italic">What do Americans today have to say about current racial attitudes?</p>
@@ -731,7 +731,7 @@ next great challenges in winning full equality.</p>
           <head>Will The Circle Be Unbroken? Program Listings</head>
           <byline>
             <docAuthor>
-              <name reg="">Staff</name>
+              <name reg="" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997</docDate>

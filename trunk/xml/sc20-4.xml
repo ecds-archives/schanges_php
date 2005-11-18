@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 	       <date value="1998-12">1998</date></p>
         <div2 id="sc20-4002" n="Back to Birmingham" type="Article">
           <head>Back to Birmingham</head>
-          <byline>By <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
           <p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
           <p><hi rend="italic">This initiative on the part of Southern
@@ -222,7 +222,7 @@ Power.</p>
           <head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head>
           <byline>
             <docAuthor>
-              <name reg="John Doble Research Associates">John Doble Research Associates</name>
+              <name reg="John Doble Research Associates" type="institution">John Doble Research Associates</name>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
@@ -267,8 +267,8 @@ intergroup tolerance advanced.</p>
         </div2>
         <div2 id="sc20-4004" n="The Newtown Story: One Community's Fight for Environmental Justice" type="">
           <head>The Newtown Story: One Community's Fight for Environmental Justice</head>
-          <byline>By <docAuthor><name reg="Spears, Ellen Griffith">Ellen
-Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A.">Michael A. Schwarz</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
+Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
           <p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
@@ -346,7 +346,7 @@ Circuit Court of Appeals in Atlanta.</p>
           <head>From New Orleans to Your Radio--It's <title>American Routes</title></head>
           <byline>
             <docAuthor>
-              <name reg="Tullos, Allen">Allen Tullos</name>
+              <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
@@ -633,8 +633,7 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
 1221 Broadway, Toledo, Ohio 43609; telephone: (419) 243-3456, or Ramiro Sarabia at FLOC's North Carolina office at: (910) 267-1637.</p>
           </div3>
         </div2>
-        <div2 id="sc20-4
-009" n="Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners" type="Article">
+        <div2 id="sc20-4009" n="Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners" type="Article">
           <head>Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners</head>
           <byline>
             <docAuthor>

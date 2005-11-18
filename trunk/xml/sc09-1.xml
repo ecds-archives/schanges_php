@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1987-03">1987</date></p>
         <div2 id="sc09-1002" n="Popular Education in Nicaragua" type="Article">
           <head>Popular Education in Nicaragua</head>
-          <byline>By <docAuthor><name reg="Collier, Marty">Marty
+          <byline>By <docAuthor><name reg="Collier, Marty" type="person">Marty
                Collier</name></docAuthor></byline>
           <docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 7-9</docDate>
           <p>"Watching the Nicaraguan popular educators reaffirmed my own
@@ -311,7 +311,7 @@ Network, P.O. Box 121133. Nashville, TN, 37212.</p>
         </div2>
         <div2 id="sc09-1003" n="Building the Union in an Anti-Union Age" type="Article">
           <head>Building the Union in an Anti-Union Age</head>
-          <byline>By <docAuthor><name reg="Acuff, Stewart">Stewart Acuff</name> and <name reg="Sarason, Robert">Robert Sarason</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Acuff, Stewart" type="person">Stewart Acuff</name> and <name reg="Sarason, Robert" type="person">Robert Sarason</name></docAuthor></byline>
           <docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 10-11</docDate>
           <p>How does a labor union organize and represent a group of employees
 who neither have a collective bargaining contract nor any federal or
@@ -476,7 +476,7 @@ SEIU.</p>
           <head>Lillian Smith: <title>A Southerner Confronting the
 South</title>. By Anne Loveland. (Baton Rouge: Louisiana State
 University Press, 1986. $22.50).</head>
-          <byline>By <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 13-14</docDate>
           <p>Before she died in 1966 Lillian Smith was contacted and sometimes
 interviewed by several prospective biographers. Because she knew her
@@ -592,7 +592,7 @@ at the University of Alabama, Tuscaloosa.</p>
         <div2 id="sc09-1005" n="Myth, Media, and the Southern Mind" type="Review">
           <head><title>Myth, Media, and the Southern Mind</title> By Stephen
 A. Smith (Fayetteville: University of Arkansas Press, 1986.)</head>
-          <byline>By <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 15-16</docDate>
           <p>If anything is more prolific than kudzu in the South, it's
 mythology. The collective imagination of Southerners--romantic,
@@ -719,7 +719,7 @@ once and future South.</p>
         </div2>
         <div2 id="sc09-1006" n="H.L. Mitchell A Lifetime of Organizing and Hell-Raising" type="Article">
           <head>H.L. Mitchell A Lifetime of Organizing and Hell-Raising</head>
-          <byline>By <docAuthor><name reg="Land, Mike">Mike Land</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Land, Mike" type="person">Mike Land</name></docAuthor></byline>
           <docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 3-7</docDate>
           <p>The way H.L. Mitchell figures it, the central mission of his life
 has been to "raise hell."</p>

@@ -68,7 +68,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Land of Deepest Shade: An Interview with John McWilliams</head>
           <byline>
             <docAuthor>
-              <name reg="Rankin, Tom">Tom Rankin</name>
+              <name reg="Rankin, Tom" type="person">Tom Rankin</name>
             </docAuthor>
           </byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
@@ -299,7 +299,7 @@ explore that.</p>
         </div2>
         <div2 id="sc11-5003" n="Native Southerners" type="Article">
           <head>Native Southerners</head>
-          <byline>By <docAuthor><name reg="Perdue, Theda">Theda Perdue</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
           <div3 id="sc11-5004" n="Native Southerners" type="Section">
             <p>Southerners do not think very much about Indians unless, of course,
@@ -672,7 +672,7 @@ cultural and racial issue of the twenty-first century.</p>
         </div2>
         <div2 id="sc11-5008" n="The Law" type="Review">
           <head>The Law.</head>
-          <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin">Laughlin McDonald</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
           <bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
@@ -847,7 +847,7 @@ News</title>, May/June, 1989.)</p>
         </div2>
         <div2 id="sc11-5009" n="Politics of Nativism" type="Review">
           <head>Politics of Nativism.</head>
-          <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry">Larry Kilbourne</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
           <bibl><title>The Party of Fear: From Nativist
@@ -946,7 +946,7 @@ now a U.S. Air Force historian living in Ohio.</p>
         </div2>
         <div2 id="sc11-5019" n="Victorian Reformer" type="Review">
           <head>Victorian Reformer.</head>
-          <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G.">HAROLD G. FLEMING</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G." type="person">HAROLD G. FLEMING</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
           <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
@@ -1019,7 +1019,7 @@ American justice.</p>
         </div2>
         <div2 id="sc11-5010" n="Transformed Color" type="Review">
           <head>Transformed Color</head>
-          <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
           <bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
@@ -1117,7 +1117,7 @@ rewards the reader who keeps at it.</p>
         </div2>
         <div2 id="sc11-5011" n="A New Heaven and Earth" type="Review">
           <head>A New Heaven and Earth.</head>
-          <byline>Reviewed by <docAuthor><name reg="Dean, Mary James">Mary James Dean</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
           <bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
@@ -1256,7 +1256,7 @@ marriage and family therapy.</p>
           <head>The Cold Hard Truth</head>
           <byline>
             <docAuthor>
-              <name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name>
+              <name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut, Jr.</name>
             </docAuthor>
           </byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
@@ -1333,7 +1333,7 @@ writer.</p>
         </div2>
         <div2 id="sc11-5013" n="Portraits from Slavery" type="Review">
           <head>Portraits from Slavery.</head>
-          <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S.">Emory S. Campbell</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
           <bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of

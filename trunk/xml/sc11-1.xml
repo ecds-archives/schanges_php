@@ -69,7 +69,7 @@ Changes.</title>  Volume 11, Number 1, <date value="1989-01">1989</date></p>
           <head>The Cold Hard Truth</head>
           <byline>
             <docAuthor>
-              <name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name>
+              <name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut, Jr.</name>
             </docAuthor>
           </byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 24</docDate>
@@ -126,7 +126,7 @@ writer.</p>
         <div2 id="sc11-1003" n="I Kept Hammering" type="Article">
           <head>The Leadership of Leroy Collins.  "I Kept Hammering:" Leroy
 Collins </head>
-          <byline>By <docAuthor><name reg="Griffin, John">John Griffin </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Griffin, John" type="person">John Griffin </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 17-21, 23</docDate>
           <p>EDITOR'S NOTE: At the 1988 Annual Meeting, held in
 Atlanta in November, Leroy Collins of Florida and Margaret Walker
@@ -691,7 +691,7 @@ I said, "Well, how on earth am I going to home?" She said,
 Confederate Flag</head>
           <byline>
             <docAuthor>
-              <name reg="">By LAWRENCE J. HANKS </name>
+              <name reg="" type="person">By LAWRENCE J. HANKS </name>
             </docAuthor>
           </byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 13, 16</docDate>
@@ -804,7 +804,7 @@ Tuskegee University.</p>
         </div2>
         <div2 id="sc11-1005" n="Change Through Education" type="Article">
           <head>Change Through Education </head>
-          <byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 1-6</docDate>
           <p>EDITOR'S NOTE: "Change Through Education" was the 
 theme of the 1988 Annual
@@ -1219,7 +1219,7 @@ ought to go about it. </p>
         <div2 id="sc11-1006" n="Respecting the Past Without Offending" type="Article">
           <head>Flag Waving Down South: Respecting the Past Without
 Offending </head>
-          <byline>By <docAuthor><name reg="Perry, Jack">Jack Perry </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Perry, Jack" type="person">Jack Perry </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 15-16</docDate>
           <p>What does the Confederate flag mean?</p>
           <p>In asking the question, I have in mind that some black
@@ -1331,7 +1331,7 @@ in the <title>Charlotte Observer</title>.</p>
         </div2>
         <div2 id="sc11-1007" n="Searching History for Solutions" type="Article">
           <head>Flag Waving Down South: Searching History for Solutions</head>
-          <byline>By <docAuthor><name reg="Thurmond, Michael L.">Michael L. Thurmond </name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Thurmond, Michael L." type="person">Michael L. Thurmond </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 14-15</docDate>
           <p>In the controversy surrounding proposals to remove the Confederate
 battle emblem from the Georgia state flag, one impression stands above
@@ -1434,7 +1434,7 @@ History.</title></p>
         </div2>
         <div2 id="sc11-1008" n="Battling an 'Inappropriate Display'" type="Article">
           <head>Flag Waving Down South. How Long?: Battling an 'Inappropriate Display' </head>
-          <byline>By <docAuthor><name reg="Shinhoster, Earl T.">Earl T. Shinhoster</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Shinhoster, Earl T." type="person">Earl T. Shinhoster</name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 12-13</docDate>
           <p><corr resp="encoder">[Editor's Note:]</corr>On February 2, 1988, fourteen black legislators were arrested in Alabama as they symbolically attempted to scale a fence to remove from the dome of the state capitol the Confederate flag which flies there. The resulting misdemeanor convictions are being appealed, but the incident brought into focus renewed efforts to remove symbols of slavery and segregation from public places. In the essays below, various Southerners speak their minds about the meaning and significance of this controversial symbol.</p>
           <p>The Confederacy lives in the hearts and minds of the people of the Southland and the United States of America. Symbols are hard to die and harder still to demystify. In March 1987, the delegates to the Southeast Region NAACP Leadership Conference, meeting in Greenville, S.C., passed a resolution calling for the removal of the Confederate battle flags that fly atop state capitol buildings in Alabama and South Carolina and the removal of the Confederate battle flag from the official state flags in Mississippi and Georgia. The NAACP views the continued present display and misuse of the Confederate battle flag as an act of defiance and resistance of a defeated cause and vanquished philosophy. This symbol, the captured Confederate battle flag, is said to be the symbol of a people who fought against tyranny and for independence. That it represents the heritage and culture of the Southland and flies today as a tribute and memorial to those who sacrificed their lives for a cause. Indeed, the War of Rebellion--the Civil War between 1861-1865, was nothing short of America's own holocaust. Over 600,000 men in gray and blue gave their lives. One of every four Southern white males between the ages of 18 and 40 died.</p>

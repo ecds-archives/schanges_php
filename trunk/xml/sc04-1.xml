@@ -59,7 +59,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <p><title>Southern Changes.</title> Volume 4, Number 1, <date value="1981-11"></date></p>
         <div2 id="sc04-1002" n="Amended Act Passes..." type="Article">
           <head>Amended Act Passes...</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, pp. 2-8</docDate>
           <p>In a final vote showing overwhelming support from members of Congress in the South and elsewhere, the U.S. House of Representatives passed the Voting Rights Act virtually as amended earlier by the House Judiciary Committee. By a margin of 389 to 24, the House now sends to the Senate a bill with amendments that will permit some Southern local governments to bail out from Section 5, the provision of the Act that requires them to get the approval of the U.S. Justice Department before an act or practice affecting voting is implemented.</p>
           <p>The bill also makes lawsuits on voting discrimination easier to prove and contains an unexpected change which will bar voters from receiving assistance in the ballot booth unless they are blind or disabled.</p>
@@ -1203,7 +1203,7 @@ discriminatory purpose and effect.</p>
         </div2>
         <div2 id="sc04-1009" n="Why the South Needs the Voting Rights Act" type="Article">
           <head>"Why the South Needs the Voting Rights Act"></head>
-          <byline>By <docAuthor><name reg="Askew, Reubin O'D.">Reubin O'D. Askew</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Askew, Reubin O'D." type="person">Reubin O'D. Askew</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 10-13</docDate>
           <p>With tear gas, with billy clubs, and with bullwhips, the eyes of America were opened at Selma, Alabama in 1965. The longstanding refusal of this nation to fulfill one of the most basic of its democratic commitments was revealed for all to see.</p>
           <p>American citizens were denied their constitutional right to vote,
@@ -1285,7 +1285,7 @@ Reubin O'D. Askew was formerly governor of Florida and special trade representat
 Second Reconstruction</head>
           <byline>
             <docAuthor>
-              <name reg="">by C. Vann Woodward</name>
+              <name reg="" type="person">by C. Vann Woodward</name>
             </docAuthor>
           </byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 13-15</docDate>
@@ -1352,7 +1352,7 @@ naturally played an important part.</p>
         </div2>
         <div2 id="sc04-1004" n="How the Voting Rights Act is the Most Effective Act on the Books" type="Article">
           <head>How the Voting Rights Act is the Most Effective Act on the Books</head>
-          <byline>By <docAuthor><name reg="Days, Drew">Drew Days</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Days, Drew" type="person">Drew Days</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 16, 25-27</docDate>
           <p>As one who was charged with enforcing a host of other federal civil rights laws, I can attest that the Voting Rights Act of 1965 is by far the most effective statute on the books. While diligent efforts have been made to achieve compliance with laws prohibiting discrimination in housing, education, employment and the like, meaningful remedies for proven violations in these areas have come only after years of litigation. Administration of the preclearance provisions of the Voting Rights Act has, in contrast, prevented in a matter of days electoral changes likely to undercut or retard meaningful minority participation at the ballot box.</p>
           <p>It would be unfortunate, however, for anyone to take what I have just said about the relative effectiveness of the Voting Rights Act to mean that over a century of injustice against minority voters has been remedied and that we need no longer fear that new strategies will be devised to reverse or retard what few gains have been achieved since the Act came into existence. Nothing could be further from the truth.</p>
@@ -1427,7 +1427,7 @@ view. One possibility under review would be to limit the preclearance requiremen
         </div2>
         <div2 id="sc04-1013" n="Reappointment Roundup" type="Article">
           <head>Reappointment Roundup</head>
-          <byline>By <docAuthor><name reg="Holton, Woody">Woody Holton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Holton, Woody" type="person">Woody Holton</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 17-22</docDate>
           <p>The Southern state capitals have been filled in the last few months with computer tapes, over-sized maps, and print-outs of census data as legislators decide the boundaries of state legislative and Congressional districts according to 1980 population. For the first time since the start of the century all Southern legislatures will pass some kind of re-districting plan, a feat that may be blemished by continuing historical efforts to dilute black voting strength.</p>
           <p>The job of reapportionment is not always easy. The Virginia legislature's first efforts produced a plan with one district more than the state constitution permitted. In the face of a court challenge, the North Carolina General Assembly had second thoughts about its plan which legislative leaders had boasted was "the best we can do" early in the year. The N.C. legislators returned in October for a second special session.</p>
@@ -1578,7 +1578,7 @@ U.S. Justice Department and the courts are expected</p>
         </div2>
         <div2 id="sc04-1011" n="Court Grants Virginia A Third Swing At Redistricting" type="Article">
           <head>Court Grants Virginia A Third Swing At Redistricting</head>
-          <byline>By <docAuthor><name reg="Holton, Woody">Woody Holton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Holton, Woody" type="person">Woody Holton</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 22-24</docDate>
           <p>Virginia's court legislative redistricting plan survived neither a court challange nor U.S. Justice Department "preclearance" required by the Voting Rights Act.</p>
           <p>In July, Justice obliged legislators to hold a special August
@@ -1653,11 +1653,11 @@ McLean, Virginia.</p>
         </div2>
         <div2 id="sc04-1014" n="Voting Problems and Solutions" type="Article">
           <head>Voting Problems and Solutions</head>
-          <byline>By <docAuthor><name reg="Velasquez, William">William
-Velasquez</name>, <name reg="Brown, Edward, Jr.">Edward Brown
-Jr.</name>, <name reg="Smith, Joseph">Joseph Smith</name>, <name reg="Buskey, James">James
-Buskey</name>, <name reg="Turner, Abigail">Abigail Turner</name>,
-<name reg="Woods, Robert">Robert Woods</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Velasquez, William" type="person">William
+Velasquez</name>, <name reg="Brown, Edward, Jr." type="person">Edward Brown
+Jr.</name>, <name reg="Smith, Joseph" type="person">Joseph Smith</name>, <name reg="Buskey, James" type="person">James
+Buskey</name>, <name reg="Turner, Abigail" type="person">Abigail Turner</name>,
+<name reg="Woods, Robert" type="person">Robert Woods</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 28-33</docDate>
           <p>
             <hi rend="bold">Texas</hi>
@@ -1855,7 +1855,7 @@ Subcommittee on Civil and Constitutional Rights on June 3, 1981.</p>
         <div2 id="sc04-1005" n="Barriers to Voter Registration
 Remain Southwide" type="Article">
           <head>Barriers to Voter Registration Remain Southwide</head>
-          <byline>By <docAuthor><name reg="Brown, Raymond">Raymond Brown</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Brown, Raymond" type="person">Raymond Brown</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 34-35</docDate>
           <p>Since the end of the white primary system in the South, the most
 basic indication of the fulfillment of the right to register and vote
@@ -1892,8 +1892,8 @@ Regional Council that is examining voting rights in the South.</p>
 The Heart of the Act" type="Article">
           <head>"Section 5 and Voting Changes:The Heart of the Act</head>
           <byline>
-            <docAuthor><name reg="Jordan, Vernon E.">By Vernon
-E. Jordan</name> and <name reg="Kirkland, Lane">Lane Kirkland</name></docAuthor>
+            <docAuthor><name reg="Jordan, Vernon E." type="person">By Vernon
+E. Jordan</name> and <name reg="Kirkland, Lane" type="person">Lane Kirkland</name></docAuthor>
           </byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 36-37</docDate>
           <p>
@@ -1963,7 +1963,7 @@ this burden, but we deeply believe that it is theirs to carry.</p>
         </div2>
         <div2 id="sc04-1008" n="Voting Rights Act is Needed in New York" type="Article">
           <head>"Voting Rights Act is Needed in New York"></head>
-          <byline>By <docAuthor><name reg="Adams, Robert">Robert Adams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Adams, Robert" type="person">Robert Adams</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 38-39</docDate>
           <p>I speak as the elected Attorney General of the State of New York&#x2014;a state which has three of its largest counties covered by the special provisions of the Voting Rights Act. I believe that extension of those provisions is essential.</p>
           <p>The Voting Rights Act's prohibition against discrimination in voting applies nationwide. The special provisions of the Act apply only to states and political subdivisions that meet certain specifications. Kings, New York and Bronx counties in New York state are subject to the Act's special provisions, including Section 5, which requires preclearance of any changes in voting, and Section 203, which requires bilingual elections. New York's experience in complying with these requirements convinces me that neither requirement is overly burdensome and that both effectively serve to protect the rights of minority citizens.</p>
@@ -2000,7 +2000,7 @@ Robert Adams testified before Congress on June 10, 1981.</p>
         </div2>
         <div2 id="sc04-1007" n="Extend the Protections of the Act" type="Article">
           <head>"Extend the Protections of the Act"></head>
-          <byline>By <docAuthor><name reg="Kennedy, Edward">Edward Kennedy</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kennedy, Edward" type="person">Edward Kennedy</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, p. 40</docDate>
           <p>I am very pleased to join with Senators Mathias, Biden, Chafee, and Metzenbaum today in introducing the Voting Rights Amendments of 1981. Our bill will extend the essential protections of the historic Voting Rights Act. It will ensure that the hard won progress of the past is preserved, and that the effort to achieve full participation for all Americans in our democracy will continue in the future.</p>
           <p>Twice before, in 1970 and 1975, the crucial provisions of the Act have been extended. Each time the Act has come under attack. But each time, the Congress on a bipartisan basis, has come to its rescue, with the support of Americans from every part of the country. And in 1975, the Act's protection was also extended to Hispanic Americans and other language minorities, who have been the victim of similar discrimination in the right to vote.</p>

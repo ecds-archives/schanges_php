@@ -68,7 +68,7 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Democracy at Home</head>
           <byline>
             <docAuthor>
-              <name reg="Johnson, Charles S., III">Charles S. Johnson, III</name>
+              <name reg="Johnson, Charles S., III" type="person">Charles S. Johnson, III</name>
             </docAuthor>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 p. 3</docDate>
@@ -171,7 +171,7 @@ Holland and Knight. </p>
 The News Media Responds to September 11" type="Article">
           <head>One Nation, Unquestionable: The News Media
 	       Responds to September 11</head>
-          <byline>By <docAuthor><name reg="Wehner, Patrick">Patrick Wehner</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Wehner, Patrick" type="person">Patrick Wehner</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 4-7</docDate>
           <p>Amid the pulse
 of satellite uplinks, videophones, webcasts, and
@@ -442,7 +442,7 @@ for this issue of Southern Changes.</p>
         <div2 id="sc23-3-4004" n="Hate in the News: Violence Against Arab Americans and Muslims" type="Article">
           <head>Hate in the News: Violence Against Arab Americans and Muslims</head>
           <byline>
-            <docAuthor><name reg="Datcher, Kelvin">Kelvin
+            <docAuthor><name reg="Datcher, Kelvin" type="person">Kelvin
 	       Datcher</name>, Southern Poverty Law Center</docAuthor>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 8-9</docDate>
@@ -606,7 +606,7 @@ www.tolerance.org.</p>
         </div2>
         <div2 id="sc23-3-4005" n="Race, Class, and Reconciliaton" type="Article">
           <head>Race, Class, and Reconciliaton</head>
-          <byline>By <docAuthor><name reg="Carter, Dan T.">Dan T. Carter</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 10-13</docDate>
           <p>People of color have had to deal directly
 with issues of race for all of this nation's history; they couldn't
@@ -950,7 +950,7 @@ Symposium held at Emory University on January 26,
 The World Conference Against Racism" type="Article">
           <head>Southerners in South Africa:
 The World Conference Against Racism</head>
-          <byline>By <docAuthor><name reg="Robinson, Gwen">Gwen Robinson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Robinson, Gwen" type="person">Gwen Robinson</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 14-15</docDate>
           <p>On August 29th Rev. C.T. Vivian, the celebrated Atlanta civil rights activist, walked into the Non-Governmental Organization Forum (NGO) of the World Conference Against Racism, Racial Discrimination, Xenophobia, and Racial Intolerance in Durban, South Africa. Within minutes Rev. Vivian was surrounded by fellow activists, grassroots leaders and friends from around the South.  As he made his way to do an interview with South African Broadcasting, Rev. Vivian became the center of a group of friends from his generation of civil rights leaders in the U.S. South, admirers from younger generations in the U.S. and other countries, and reporters eager to hear his take on the U.N. Conference. While the United States government did not have a large, high-level (or, some would argue, positive) presence at the World Conference Against Racism (WCAR), Rev. Vivian and more than three hundred others from the U.S. South were there to make their voices heard.</p>
           <p>Southerners' experiences at the WCAR seem to fall into two categories: insiders and outsiders. For those people who were involved in the preparatory meetings that happened in the year before the conference, the World Conference was the culminating event in an ongoing process. There were major "prepcoms" (meetings to prepare the U.N. document on racism for the conference) in every region of the world. Southerners were represented at the meetings in Geneva, Switzerland; Santiago, Chile; and Quito, Ecuador among others. At the preparatory meetings the language for many issues was discussed, including whether the trans-Atlantic slave trade should be declared a crime, whether the treatment of dalits (the untouchables) in India should be included as racism, and whether Israel's actions towards the Palestinians should be included as the only nation specifically condemned for its actions.  </p>
@@ -1086,7 +1086,7 @@ texto al espa&#x00F1;ol.</p>
 A Lotta Cultures Goin' On" type="Article">
           <head>The Newest South:
 A Lotta Cultures Goin' On</head>
-          <byline>By <docAuthor><name reg="Tobar, Hector">Hector Tobar</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tobar, Hector" type="person">Hector Tobar</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 22-23</docDate>
           <p rend="italic">Reprinted with permission from the May 13, 2001 edition of the Los Angeles Times.</p>
@@ -1288,7 +1288,7 @@ about Carpetbag Theater visit: www.korrnet.org/carpetbg/.</p>
         </div2>
         <div2 id="sc23-3-4013" n="Looking for a Living Wage" type="Review">
           <head>Looking for a Living Wage</head>
-          <byline>Reviewed by <docAuthor><name reg="Lang, Amy Schrager">Amy Schrager Lang</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Lang, Amy Schrager" type="person">Amy Schrager Lang</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 31-32, 34</docDate>
           <bibl>Barbara Ehrenreich, <title>Nickel and Dimed: On (Not) Getting By in America</title>, New York: Metropolitan Books, 2001.</bibl>
@@ -1324,7 +1324,7 @@ reason or another but usually in order to <pb n="34"/>expose a social evil, assu
         </div2>
         <div2 id="sc23-3-4014" n="Transformed Through Activism" type="Review">
           <head>Transformed Through Activism</head>
-          <byline>By <docAuthor><name reg="Nasstrom, Kathryn L.">Kathryn L. Nasstrom</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Nasstrom, Kathryn L." type="person">Kathryn L. Nasstrom</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 33-34</docDate>
           <p rend="italic">Constance Curry, Joan C. Browning, Dorothy Dawson Burlage, Penny Patch, Theresa Del Pozzo, Sue Thrasher, Elaine DeLott Baker, Emmie Schrader Adams, and Casey Hayden, Deep in Our Hearts: Nine White Women in the Freedom Movement (Athens and London: The University of Georgia Press, 2000).</p>

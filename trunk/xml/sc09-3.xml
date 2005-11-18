@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1987-08">1987</date></p>
         <div2 id="sc09-3002" n="Unseen Partners in the Economy" type="Article">
           <head>Unseen Partners in the Economy</head>
-          <byline>By <docAuthor><name reg="Smith, Barbara Ellen">Barbara Ellen Smith</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 4-6</docDate>
           <p>Women have long been "unseen partners" in
 agricultural production. They have been partners in the sense that
@@ -290,7 +290,7 @@ Center, P.O. Box 681, Tuskegee, Alabama 36088.</p>
         </div2>
         <div2 id="sc09-3003" n="Toward Economic Democracy" type="Article">
           <head>Toward Economic Democracy</head>
-          <byline>By <docAuthor><name reg="Marshall, Ray">Ray Marshall</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 16-19</docDate>
           <p>The goals of economic development and job creation are terribly
 important but we must be clear that job creation means a job for
@@ -610,7 +610,7 @@ Institute.</p>
         </div2>
         <div2 id="sc09-3004" n="Texas Finds Home-Grown Is Best" type="Article">
           <head>Texas Finds Home-Grown Is Best</head>
-          <byline>By <docAuthor><name reg="Hightower, Jim">Jim Hightower</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Hightower, Jim" type="person">Jim Hightower</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 9-15</docDate>
           <p>Everybody, of course, is all for economic development, but
 traditionally what that has meant is economic development for the few
@@ -1082,7 +1082,7 @@ Agriculture.</p>
         </div2>
         <div2 id="sc09-3005" n="Block Bork" type="Article">
           <head>Block Bork</head>
-          <byline>By <docAuthor><name reg="Ellis, Deborah A.">Deborah A. Ellis</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Ellis, Deborah A." type="person">Deborah A. Ellis</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 1-2</docDate>
           <p>The most appropriate celebration of our Constitution in this
 bicentennial year would be the defeat of President Reagan's nomination
@@ -1203,7 +1203,7 @@ judge.</p>
         </div2>
         <div2 id="sc09-3006" n="Coalition-Building for a New Labor Climate" type="Article">
           <head>Coalition-Building for a New Labor Climate</head>
-          <byline>By <docAuthor><name reg="Johnson, Kenny">Kenny Johnson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 8-9</docDate>
           <p>The release last fall of the Southern Labor Institute's report,
 <title>The Climate For Workers in the United States</title>, marked
@@ -1347,7 +1347,7 @@ $5.</p>
         </div2>
         <div2 id="sc09-3007" n="Of Movements and a Man" type="Review">
           <head>Of Movements and a Man.</head>
-          <byline>By <docAuthor><name reg="Chalmers, David">David Chalmers</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chalmers, David" type="person">David Chalmers</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 20-22</docDate>
           <bibl><title>Bearing the Cross: Martin Luther
 King, Jr., and the Southern Christian Leadership
@@ -1540,7 +1540,7 @@ in the 1960s.</p>
         </div2>
         <div2 id="sc09-3008" n="Preacher's Parable" type="Review">
           <head>Preacher's Parable.</head>
-          <byline>By <docAuthor><name reg="Egerton, John">John Egerton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 23</docDate>
           <bibl><title>Forty Acres and A Goat</title>. By
 Will D. Campbell. (Atlanta: Peachtree Publishers, Ltd., 1986. 336
@@ -1611,7 +1611,7 @@ Food</title>. He lives and works in Nashville.</p>
           <head>The Organization Behind the Man.</head>
           <byline>
             <docAuthor>
-              <name reg="Chalmers, David">David Chalmers</name>
+              <name reg="Chalmers, David" type="person">David Chalmers</name>
             </docAuthor>
           </byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 21</docDate>
@@ -1679,7 +1679,7 @@ organizational skill."</p>
         </div2>
         <div2 id="sc09-3010" n="The Cold Hard Truth" type="Article">
           <head>The Cold Hard Truth</head>
-          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">By J.L. Chestnut, Jr.</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 24</docDate>
           <p>Mine enemies are legion and I can barely remember when that was not
 the case. In a somewhat perverse manner, I find that comforting and

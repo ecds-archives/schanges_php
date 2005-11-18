@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 Control</head>
           <byline>
             <docAuthor>
-              <name reg="">by Faye McDonald Smith</name>
+              <name reg="" type="person">by Faye McDonald Smith</name>
             </docAuthor>
           </byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 3,26-29</docDate>
@@ -175,7 +175,7 @@ in Atlanta.
         <div2 id="sc01-10003" n="The Progressive Farmer: A Long Row's Hoeing into Lespedeza" type="Article">
           <head>The Progressive Farmer: A Long Row's Hoeing into
 Lespedeza</head>
-          <byline>By <docAuthor><name reg="Fowler, Cary">Cary Fowler</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fowler, Cary" type="person">Cary Fowler</name></docAuthor></byline>
           <docDate value="1979-07"> Vol. 1, No. 10, 1979, pp. 4, 29-32</docDate>
           <p>Southern politics in the 1880s was alive with the fever of a
 native-born Populism. Led by the Southern Alliance (renamed the
@@ -276,7 +276,7 @@ Center Seed Directory</title>.
 Land of Southern Living" type="Article">
           <head>Azalea Death Trip: A Journey Through the
 Land of <hi rend="bold">Southern Living</hi></head>
-          <byline>By <docAuthor><name reg="Tullos, Allen">Allen Tullos</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 7-10,32</docDate>
           <p>In the beginning," it is written in <hi rend="bold">Southern Living</hi> magazine, "man created Florida "Later on, men got around to creating Puerto Vallarta, where "luxury hotels are beginning to change the red-tile and adobe skyline of this picturesque little fishing village on the west coast of Mexico." And, somewhere along the way, arose the Land of Oz, a theme park constructed by Grover and Harry Robbins' Carolina Caribbean Corporation atop North Carolina's Beech Mountain: "there was this wild top-of-the-world mountain that could overwhelm you, and the Robbins didn't want to see it forever wasted."</p>
           <p>It is in such sentences of contradiction and divided allegiance
@@ -400,7 +400,7 @@ Carolina.
         </div2>
         <div2 id="sc01-10004" n="Lillian Smith: The Winner Names the Age" type="Article">
           <head>Lillian Smith: The Winner Names the Age</head>
-          <byline>By <docAuthor><name reg="Gladney, Rose">Rose Gladney</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 11-13</docDate>
           <p><hi rend="bold">The Winner Names the Age: A Collection of Writings
 by Lillian Smith</hi>. Edited by Michelle Cliff. New York: W.W. Norton &#x0026; Company, Inc. 1978.</p>
@@ -445,7 +445,7 @@ University of Alabama at Tuscaloosa.</p>
         </div2>
         <div2 id="sc01-10006" n="A Bluffer's Guide to Recent Southern Fiction" type="Article">
           <head>A Bluffer's Guide to Recent Southern Fiction</head>
-          <byline>By <docAuthor><name reg="Derfner, Mary Frances">Mary Frances Derfner</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Derfner, Mary Frances" type="person">Mary Frances Derfner</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 14-18</docDate>
           <p>In late 1975 and early 1976, several seemingly innocuous pieces of
 paper got me into grim trouble, which has continued unabated ever
@@ -617,7 +617,7 @@ stories. Yet they will be there." And they are.</p>
         </div2>
         <div2 id="sc01-10007" n="Southern Newspapers: Watching the Watchdogs" type="Article">
           <head>Southern Newspapers: Watching the Watchdogs</head>
-          <byline>By <docAuthor><name reg="Noble, Larry">Larry Noble</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Noble, Larry" type="person">Larry Noble</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 19-23</docDate>
           <p>Daily newspapers play a key role in the lives of the people of the South. The papers provide us with commercial and economic information, with information on political and non-political events, with entertainment information and entertainment itself. They also present us with advice on what positions we should take on public affairs and furnish a controlled forum of letters to the editor.</p>
           <p>Newspapers are also very lucrative businesses. About two thirds of the space in the daily newspapers is devoted to advertising. Traditionally, the personnel costs of newspapers has been kept low, while revenues are high - a combination of which produces large profit margins. Adding to these substantial margins is the trend over the recent decades to be fewer newspapers, hence less competition, especially in the large cities.</p>
@@ -834,7 +834,7 @@ opposed to pro poverty and welfare policies.)</p>
         </div2>
         <div2 id="sc01-10008" n="Book Review: THE CAJUNS Essays on Their History and Culture" type="Article">
           <head>Book Review: THE CAJUNS Essays on Their History and Culture</head>
-          <byline>By <docAuthor><name reg="Gutierrez, C. Paige">C. Paige Gutierrez</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Gutierrez, C. Paige" type="person">C. Paige Gutierrez</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 24-25</docDate>
           <p>Glenn K. Conrad, ed. <hi rend="bold">The Cajuns: Essays on Their History and Culture</hi>. Published by the Center for Louisiana Studies University of South-western Louoisiana, Lafayette, 1978. Illustrated.</p>
           <p>The Southern psyche has long been analyzed, romanticized, and mythologized by scholars, journalists, novelists and others who have taken up the task of explicating that most peculiar region of the United States. However, in their attempts to make sense of the area below the Mason-Dixon line, too few of these observed have seemed to notice that they have subsumed in their -generalizations a sub-region lying south of the Piney Woods, south of the South. The distinctiveness of the central Gulf Coast has often been overlooked by both the national and the Southern media, partly because of the fact that the area is, for better or worse, parceled out among several states whose boundaries extend considerably northward into "alien" territory. The analyst who concentrates on that which is encompassed by political boundaries is likely to miss the greater significance of that which is encompassed by historical /cultural boundaries.</p>

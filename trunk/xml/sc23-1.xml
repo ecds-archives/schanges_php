@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <p><title>Southern Changes.</title> Volume 23, Number 1, <date value="2001-03">2001</date></p>
         <div2 id="sc23-1002" n="Voices and Choices: Workplace Justice
 			      and the Poultry Industry" type="Article">
-          <byline>Edited by<docAuthor><name reg="Sullivan, Susan Stevenot">Susan Stevenot
+          <byline>Edited by<docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot
 Sullivan</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 3-7</docDate>
           <head><title>Voices and Choices</title>: Workplace Justice and the Poultry Industry</head>
@@ -195,7 +195,7 @@ in the poultry industry.</p>
         <div2 id="sc23-1004" n="Voces y Opciones: Justicia en el Lugar 
 de Trabajo en la Industria  Av&#x00ED;cola" type="Article">
           <byline>Edited by <docAuthor><name reg="Sullivan, Susan
-Stevenot">Susan Stevenot Sullivan</name></docAuthor></byline>
+Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 8-12, 26</docDate>
           <head>Voces y Opciones: Justicia en el Lugar de Trabajo en la
 Industria  Av&#x00ED;cola</head>
@@ -373,7 +373,7 @@ for Policy Alternatives's website at: www.cfpa.org.</p>
         </div2>
         <div2 id="sc23-1007" n="Could the Death Penalty Die in Virginia? Opportunities for Activism" type="Article">
           <head>Could the Death Penalty Die in Virginia?<lb/>Opportunities for Activism</head>
-          <byline>By <docAuthor><name reg="Torian, Sarah E.">Sarah E. Torian</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Torian, Sarah E." type="person">Sarah E. Torian</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 15-16</docDate>
           <p>Say the words "death penalty" these days and many people will automatically think of Texas. As then-Governor George W. Bush ran for President last year, the state's death penalty system and its record-setting 154 executions in the five years under Bush received a great deal of media attention. Many people would be surprised to learn, however, that, when state population is taken into consideration, the state of Virginia leads the nation in the rate of executions. Not only does Virginia, with eighty-two executions since it reinstated the death penalty in 1977, execute its citizens at a higher rate than any other state, but it also has the most limiting appeals process of any state. As Columbia law professor James Liebman explains, "When it comes to getting and keeping death sentences, the planets are just really aligned over Virginia."</p>
           <p>But, even in Virginia, growing public doubt of the infallibility and effectiveness of the death penalty system is beginning to show. The 2001 state legislative session marked a clear shift in the attitude of legislators regarding death penalty policies. "There was a dramatic difference this year," says Kent Willis, executive director of the Virginia ACLU which released a report on the injustices of the state's capital punishment system in April 2000. In the past five years there were proposals to add twenty-six additional capital offenses to the state law books--nine of which passed. The 2001 legislative session marked a significant change from that death penalty expansionism. In addition to a proposal to abolish the state's death penalty system completely, there were four proposals to place a moratorium on executions, and six proposals to ease the appeals and defense process for accused people--including a bill to cover DNA testing for anyone who has a life sentence. That bill was co-sponsored by ninety-six of one hundred delegates and thirty-six of forty senators. "For years, death penalty opponents have had to fight to prevent further expansion of the death penalty," explains Willis. "This year, the legislators moved from expansion to moratorium!" </p>
@@ -507,7 +507,7 @@ born in 1954, the year of the <hi rend="italic">Brown v. the Board of Education<
           <p>I'll always want to acknowledge what Larry Powell has done for my family and myself. Having survived the Holocaust, we really--my children and my brother's and sister's children--never had a family, an extended family. By writing this book, Larry has given my family and my children their history. He has given me the opportunity to leave a legacy for my family and I thank him. This is such a great honor for Larry and he deserves it so much. Devoting eight years of his life to write this book. I am so grateful. He has become part of the family.	</p>
         </div2>
         <div2 id="sc23-1009" n="Thomas Frank, One Market Under God" type="Review">
-          <byline>Reviewed by <docAuthor><name reg="Wehner, Pat">Pat Wehner</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Wehner, Pat" type="person">Pat Wehner</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1 2001 pp. 23-26</docDate>
           <head>REVIEWS</head>
           <bibl>Thomas Frank, <title>One Market Under God: Extreme Capitalism, Market Populism, and the End of Economic Democracy</title>, New York: Doubleday, 2000.</bibl>

@@ -67,7 +67,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <p><title>Southern Changes</title> Volume 1, Number 3, <date value="1978-12">1978</date></p>
         <div2 id="sc01-3003" n="Human Rights and the South" type="Article">
           <head>Human Rights and the South</head>
-          <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp. 3-5, 28</docDate>
           <p>In the closing months of the pre-atomic age, the Southern Regional Council was formed out of conviction that race was the central issue of the South. Though it may seem to us that nearly all else has changed during the hectic decades since, I doubt that race has yet yielded its place, though the problems it shapes and propels grow in their own various ways.</p>
           <p>Nor has it yielded its place of primary importance elsewhere in the world. Even our own attention these days is more concentrated on the grim racial conflicts of southern Africa than on the still harsh relationships here. In truth, though, we can see that it is all one continuing struggle of mankind to free itself from a wrong turning it somehow made dark centuries ago, into the sadness, sickness and cruelty of racial pride.</p>
@@ -144,7 +144,7 @@ into a lovely gift to our republic, and to human kind.</p>
         </div2>
         <div2 id="sc01-3006" n="The South's Clout After Its Retiring Congressmen" type="Article">
           <head>The South's Clout After Its Retiring Congressmen</head>
-          <byline>By <docAuthor><name reg="Fiedler, Tom">Tom Fiedler</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Fiedler, Tom" type="person">Tom Fiedler</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp. 6-7</docDate>
           <p>Early this year, when fighting erupted in the "new" civil war pitting the Sunbelt against the Frostbelt, the Southern Growth Policies Board packed up its research staff and moved north to Washington, D.C.</p>
           <p>The reason was clear, executive director Blame Liner explained then; that war was being waged in the caucus and committee rooms of the nation's Capitol and the troops had to be deployed accordingly.</p>
@@ -380,7 +380,7 @@ years.</p>
         </div2>
         <div2 id="sc01-3002" n="Tommy Lee Hines and the Cullman Saga" type="Article">
           <head>Tommy Lee Hines and the Cullman Saga</head>
-          <byline>By <docAuthor><name reg="Dart, Bob">Bob Dart</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dart, Bob" type="person">Bob Dart</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp. 12-15</docDate>
           <p>Squatting in the marbled hallways, the wrinkled hangers-on, found
 in any country courthouse, chewed and digested the carryings-on that
@@ -461,7 +461,7 @@ courthouse and discussed how to handle the invasion of Black radicals they belie
           <head>Tupelo: Hometown in Turmoil</head>
           <byline>
             <docAuthor>
-              <name reg="Chaney, Betty Norwood">By Betty Norwood Chaney</name>
+              <name reg="Chaney, Betty Norwood" type="person">By Betty Norwood Chaney</name>
             </docAuthor>
           </byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp. 16-19</docDate>
@@ -525,7 +525,7 @@ is our town.</p>
         </div2>
         <div2 id="sc01-3007" n="The Dying Memory of Hugo Black" type="Article">
           <head>The Dying Memory of Hugo Black</head>
-          <byline>By <docAuthor><name reg="Noland, Thomas">Thomas Noland</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Noland, Thomas" type="person">Thomas Noland</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp.20-21</docDate>
           <epigraph rend="bold">
             <p>"Mr. Justice Black and myself were both natives of Clay County. Each of us dearly loved and revered our native origins and the peoples thereof. He brought to that community and that people very great honors and very great responsibilities to honor and respect his memory.</p>
@@ -601,7 +601,7 @@ yielded a grand total of $4,000. Flegel still wants to try to gather enough mone
         </div2>
         <div2 id="sc01-3008" n="Southern Women" type="Article">
           <head>Southern Women</head>
-          <byline>By <docAuthor><name reg="Williams, Tina">Tina Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Williams, Tina" type="person">Tina Williams</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp.23</docDate>
           <p>In Atlanta recently, the YWCA Vocational Counseling Center in conjunction with Project Focus, a CETA funded program offering vocational counseling to high school students, hosted a career conference, featuring a panel of professional Black women in mostly non-traditional career areas. The purpose of the conference was to expose the mostly Black female audience to information, resources and techniques for job hunting.</p>
           <p>Women about to enter the work force for the first time, college
@@ -624,7 +624,7 @@ Ga. 30303.</p>
         </div2>
         <div2 id="sc01-3009" n="Economic Development" type="Article">
           <head>Economic Development</head>
-          <byline>By <docAuthor><name reg="Levinson, Mark">Mark Levinson</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Levinson, Mark" type="person">Mark Levinson</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, p. 24</docDate>
           <p>The debate over Aid to Families with Dependent Children (AFDC) is
 one of the perennial attractions of the Georgia legislature. Each
@@ -665,7 +665,7 @@ organization.</p>
         </div2>
         <div2 id="sc01-3010" n="Health Care" type="Article">
           <head>Health Care</head>
-          <byline>By <docAuthor><name reg="Sailor, Ron">Ron Sailor</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Sailor, Ron" type="person">Ron Sailor</name></docAuthor></byline>
           <docDate value="1978-12">Vol. 1, No. 3, 1978, pp. 25</docDate>
           <p>Southwest Community Hospital currently has only 125 beds - but it wants to build a new wing with 75 additional medical-surgical beds. The construction request, however, has been repeatedly turned down by the state health planning and development agency whose approval the hospital must have if federal dollars are to be used in the construction.</p>
           <p>The Black Atlanta hospital claims a 90 percent occupancy rate for its medical-surgical area, but the agency discounts this and concerns itself with the hospital's over-all occupancy rate of less than 85 percent. Still, the biggest contention is being fought over the definition of what a "community" is.</p>

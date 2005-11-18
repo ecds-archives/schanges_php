@@ -66,7 +66,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 	       <date value="1989-07">1989</date></p>
         <div2 id="sc11-4002" n="Writing and Doing: Women in Civil Rights" type="Article">
           <head>Writing and Doing: Women in Civil Rights</head>
-          <byline>By <docAuthor><name reg="Grant, Joanne">Joanne Grant</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Grant, Joanne" type="person">Joanne Grant</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 6</docDate>
           <p>A spate of recent conferences has a common purpose: to assess the
 civil rights movement and place it in historical perspective. They
@@ -143,7 +143,7 @@ anthology, <title>Black Protest</title>, and produced the film,
         </div2>
         <div2 id="sc11-4003" n="The Price of Empire" type="Review">
           <head><title>The Price of Empire</title> by J. William Fulbright, with Seth P. Tillman. (Pantheon Books, 1989. xi, 243 pages. $17.95)</head>
-          <byline>By <docAuthor><name reg="Dunbar, Leslie">Leslie Dunbar</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 27-28, 30</docDate>
           <p>Radicals would do well to read this book by the Arkansas
 aristocrat; it could teach them not to be so restrained.</p>
@@ -335,7 +335,7 @@ described; all opinions, one assumes, are those of both men.</p>
         </div2>
         <div2 id="sc11-4004" n="Hooked on the Drug Problem" type="Article">
           <head>Hooked on the Drug Problem</head>
-          <byline>By <docAuthor><name reg="Dreger, Ralph Mason">Ralph Mason Dreger</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Dreger, Ralph Mason" type="person">Ralph Mason Dreger</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 7-8</docDate>
           <p>How do we fight the drug problem? Well, first, it must be
 recognized that it is not "the drug problem," but a whole congeries of
@@ -477,7 +477,7 @@ members of the SRC extended family are invited to submit essays from
         </div2>
         <div2 id="sc11-4005" n="Mergers in South Texas Colleges" type="Article">
           <head>Mergers in South Texas Colleges</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 24</docDate>
           <p>The largely Hispanic population of south Texas now has a better
 opportunity to get the same quality of higher education as Texans
@@ -511,7 +511,7 @@ resolve the lawsuit.</p>
         </div2>
         <div2 id="sc11-4006" n="Bear Poaching in North Carolina" type="Article">
           <head>Bear Poaching in North Carolina</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine">Elaine Davenport</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
           <p>Hundreds of black bears are being poached in the southern
 Appalachian Mountains for their heads, hides, teeth, claws, feet, pads
@@ -542,7 +542,7 @@ alternatives but to survive in those enclaves," says Wade.</p>
         </div2>
         <div2 id="sc11-4007" n="Issues of Reliability and Validity" type="Article">
           <head>Issues of Reliability and Validity</head>
-          <byline>By <docAuthor><name reg="Clayton, Al">Al Clayton</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Clayton, Al" type="person">Al Clayton</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 11</docDate>
           <p>Too often, standardized exams are not accurate even within the
 narrow range of things they are able to measure. The reasons for this
@@ -979,7 +979,7 @@ for an Oct. 7 march permit on behalf of the Aryan Nations.</p>
         </div2>
         <div2 id="sc11-4013" n="Stopping the Overuse of Standardized Tests" type="Article">
           <head>Stopping the Overuse of Standardized Tests</head>
-          <byline>By <docAuthor><name reg="Neill, Monty">By MONTY NEILL</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Neill, Monty" type="person">By MONTY NEILL</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 9-10, 12-14</docDate>
           <p>During the past decade, a tidal wave of standardized testing has
 washed over the school systems of America. In its report,
@@ -1325,7 +1325,7 @@ for $8.95 from FairTest, 342 Broadway, Cambridge, MA 02139; (617)
         </div2>
         <div2 id="sc11-4014" n="How Acre stopped testing in North Carolina" type="Article">
           <head>How Acre stopped testing in North Carolina</head>
-          <byline>By <docAuthor><name reg="McCullough, Page">Page McCullough</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="McCullough, Page" type="person">Page McCullough</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 12-13</docDate>
           <p>In 1987, the North Carolina legislature voted against giving the
 California Achievement Test to first and second grade children.  In
@@ -1443,7 +1443,7 @@ available from FairTest, 342 Broadway, Cambridge, MA 02139.</p>
         </div2>
         <div2 id="sc11-4015" n="H.L. Mitchell, 1906-1989" type="Article">
           <head>H.L. Mitchell, 1906-1989</head>
-          <byline>By <docAuthor><name reg="Land, Mike">Mike Land</name> and <name reg="Williams,  Randall">Randall Williams</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Land, Mike" type="person">Mike Land</name> and <name reg="Williams,  Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 15</docDate>
           <p>H.L. Mitchell, co-founder of the Southern Tenant Farmers Union and
 a life-long Southern radical and activist, died August 1 in
@@ -1507,7 +1507,7 @@ the sky, and if something gets in their eyes, they can then say:
         </div2>
         <div2 id="sc11-4016" n="One Less Voice for Discrimination" type="Article">
           <head>One Less Voice for Discrimination</head>
-          <byline>By <docAuthor><name reg="Kennedy, Stetson">Stetson Kennedy</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 16</docDate>
           <p>Any time a racist organization or hate sheet goes out of business
 is a time for rejoicing. The recent obituary in <title>The
@@ -1589,7 +1589,7 @@ for 1990.</p>
         </div2>
         <div2 id="sc11-4017" n="Louisiana, Third World Dumping Ground" type="Article">
           <head>Louisiana, Third World Dumping Ground</head>
-          <byline>By <docAuthor><name reg="Greenpeace">Greenpeace</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Greenpeace" type="institution">Greenpeace</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
           <p>Oh, for the good old days, when U.S. environmentalists and their
 gangs of regulators were ruining the economy by forcing well-meaning
@@ -1619,7 +1619,7 @@ Louisiana."</p>
         <div2 id="sc11-4018" n="Do the Right Thing" type="Review">
           <head>Do the Right Thing.  <title>Do the Right Thing.</title>  Spike
 Lee.</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 26</docDate>
           <p>A scene late in Spike Lee's movie, <title>Do Thc Right
 Thing</title>, depicts white firefighters trying to hose down the
@@ -1777,7 +1777,7 @@ are the typical approaches of such efforts.</p>
         </div2>
         <div2 id="sc11-4021" n="The Cold Hard Truth" type="Article">
           <head>The Cold Hard Truth</head>
-          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr.">J.L. Chestnut, Jr.</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 32, 31</docDate>
           <p>On a morning in the midst of the Bill Lucas furor, I completed an
 informal poll in the skyscraper building which houses both local
