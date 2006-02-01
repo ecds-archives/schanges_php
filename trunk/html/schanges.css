@@ -1,0 +1,5 @@
+
+/* styles for the header and footer */
+div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
+/*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
+div.header { border: 3px solid #02023a; text-align:center;} 
