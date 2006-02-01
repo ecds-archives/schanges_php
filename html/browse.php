@@ -21,8 +21,8 @@ $tamino = new taminoConnection($args);
 
 //$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
 //$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
-$url = "http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
-for \$b in input()/TEI.2//div1/div2
+//$url = "http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
+$query = "for \$b in input()/TEI.2//div1/div2
 where \$b/@id = '$id'
 return 
 \$b";
