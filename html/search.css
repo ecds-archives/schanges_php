@@ -1,0 +1,4 @@
+@import "lincoln.css";
+
+/*setting to disable the keyword searchbox in the header */
+div#headersearchbox {display:none;}

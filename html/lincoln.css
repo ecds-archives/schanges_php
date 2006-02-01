@@ -1,0 +1,67 @@
+@import "highlight.css";
+
+/* link colors to match header */
+a { color:  #02023a; }
+a:visited { color: #660000; }
+a:hover { background: #ebebeb; }
+
+body {
+     text-align:center;
+     }
+     
+div.content
+    {
+    text-align:left;
+    }
+
+h1 { font-family: Book Antiqua; color: #660000; }
+h2 { font-family: Book Antiqua; color: #000033; font-stretch: narrower;}
+span.star {font-weight: bold;}
+span.author { font-weight: bold; font-size:125%;}
+li.sermon { list-style-type: circle; padding-left: 15px; text-indent: -15px; }
+
+/* styles for the header and footer */
+div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
+/*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
+div.header { border: 3px solid #02023a; text-align:center;} 
+
+div.header h1 { font-family: "Book Antiqua", "Times",serif; font-size: 36pt; margin: -1px; line-height:120%;}
+div.header h2 { font-family: "Book Antiqua", "Times",serif; font-size: 13pt; margin: -4px; line-height:120%;}
+p.searchbox{font-size:80%; width=50%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }
+/*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
+p.searchbox b {padding-right: 5px;}
+p.searchbox input#go{margin-left:5px;}
+
+
+
+/*div.header h1 { font-size: 36pt; margin: -1px; background-color:red;}*/
+/*div.header h2 { font-size: 13pt; margin: -4px; background-color:green;}*/
+div.header a { text-decoration: none; padding-right: 1px; padding-left: 1px; }
+div.header img#head{margin-top:4px; float: left;}
+div.header p {margin: 0px; }
+div.header p.links,div.footer p.links { border-top: 2px solid #000033; margin: 5px; text-align: center; vertical-align: middle; font-size: 90%; color: #000033;}
+div.header p#nav {margin-left:2in; margin-right:2in; margin-bottom:-4px; }
+div.header p#resources {clear: left;}
+div.footer p#nav { border: none }
+p.clear { clear: left; }
+div.footer p#nav-foot { border: none }
+
+/*styles for the index page */
+
+/*styles for the search page*/
+div.content#search {vertical-align:top; text-align: left; width:80%; margin:auto;}
+div.content#search h2 {text-align:center;}
+table.searchtable {vertical-align:top; width: 90%;}
+table.searchtable td{vertical-align:top;}
+td.searchtips {width:30%;}
+table.searchform { vertical-align:top; align:left; padding-left: 5px; padding-bottom: 5px; width: 100%;}
+table.searchform th {text-align: right; width:2in; }
+table.searchform h4 {text-align: center;}
+table.searchform td.input {padding-left:4px; text-size:70%; padding:5px; background-color: #eeeeee;}
+p.searchtips {text-align: center;}
+p.center {align: center;}
+/*ul.searchtips {width: 100%; /*height: 4in;*/ text-align:left; border: 2px solid #0000FF;}*/
+
+
+div#overview {margin: 1in; margin-top:0.5in;}
+
