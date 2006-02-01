@@ -7,8 +7,8 @@ session_start();
 
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-error_reporting(E_ERROR);
-//error_reporting(E_ERROR | E_PARSE);    // for development
+//error_reporting(E_ERROR);
+error_reporting(E_ERROR | E_PARSE);    // for development
 
 // root directory and url where the website resides
 // development version
@@ -22,7 +22,7 @@ $base_url = "http://$server$base_path/";
 $basedir = "/Users/alice/Sites/schanges";
 $server = "beckcady.library.emory.edu";
 $base_path = "/~alice/schanges";
-$base_url = "http://$server$base_path/";
+$base_url = "http://$server$base_path/"; 
 
 //root directory and url for reagan website
 //development
