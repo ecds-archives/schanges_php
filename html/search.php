@@ -3,7 +3,7 @@ include("config.php");
 
 //html_head("Search Results");
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
 
@@ -15,7 +15,7 @@ $args = array('host' => "vip.library.emory.edu",
 		'db' => "SRC_TEST",
 	      	'coll' => 'schanges',
 	        'debug' => 'true');
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
@@ -97,9 +97,8 @@ $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}  </div2>';
 $sort = 'sort by (docAuthor/name/@reg)';
 
 $query = "$declare $for $where $return $sort";
-print "DEBUG: main query:<pre>$query</pre><br>";
-//$tamino->xquery($countquery);
-//$total = $tamino->findNode("total");
+$tamino->xquery($countquery);
+$total = $tamino->findNode("total");
 $tamino->xquery($query);
 $tamino->getXqueryCursor();
 
