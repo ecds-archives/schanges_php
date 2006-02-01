@@ -1,6 +1,6 @@
 <?php
 include("config.php");
-html_head("Search", "search.css");
+//html_head("Search", "search.css");
 
 include("header.html");
 include("searchoptions.php");
