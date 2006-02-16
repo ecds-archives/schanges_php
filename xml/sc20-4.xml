@@ -65,11 +65,11 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc20-4001" n="Southern Changes 20:4" type="Issue">
         <head>Southern Changes.  Volume 20, Number 4, 1998</head>
         <p><title>Southern Changes.</title>  Volume 20, Number 4,
-	       <date value="1998-12">1998</date></p>
+	       <date value="1998-12-01">1998</date></p>
         <div2 id="sc20-4002" n="Back to Birmingham" type="Article">
           <head>Back to Birmingham</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
           <p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
           <p><hi rend="italic">This initiative on the part of Southern
 philanthropic, academic, and non-profit institutions, was inspired in
@@ -218,14 +218,14 @@ children.</p>
 Power.</p>
           </div3>
         </div2>
-        <div2 id="sc20-4023" n="Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views" type="">
+        <div2 id="sc20-4023" n="Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views" type="Article">
           <head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head>
           <byline>
             <docAuthor>
               <name reg="John Doble Research Associates" type="institution">John Doble Research Associates</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
           <p rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p>
           <p rend="center">
             <hi rend="bold">Combating Discrimination and Racism</hi>
@@ -265,11 +265,11 @@ analysis. The outcome of that debate can be changed; the battle for
 public opinion can be won and the goals of racial equality and
 intergroup tolerance advanced.</p>
         </div2>
-        <div2 id="sc20-4004" n="The Newtown Story: One Community's Fight for Environmental Justice" type="">
+        <div2 id="sc20-4004" n="The Newtown Story: One Community's Fight for Environmental Justice" type="Article">
           <head>The Newtown Story: One Community's Fight for Environmental Justice</head>
           <byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
 Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
           <p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
 independent photojournalist Michael A. Schwarz. This oral history chronicles the story of Newtown, an African-American neighborhood in Gainesville, Georgia.</p>
@@ -349,7 +349,7 @@ Circuit Court of Appeals in Atlanta.</p>
               <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
           <p>In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
 States. Based in New Orleans and syndicated by Public Radio
 International, with a list of stations that grows weekly (for the
@@ -567,7 +567,7 @@ non-initiated who are a big segment of our audience. -N. S.
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
           <p rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p>
           <p rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
 seasonal farmworkers, was founded in l967 by Baldemar
@@ -640,7 +640,7 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
+          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
           <p><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi><title>Walking with the Wind: A Memoir of the Movement</title><hi rend="italic">, New
 York: Simon and Schuster, 1998. In the category of fiction, the award
