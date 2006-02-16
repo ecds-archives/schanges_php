@@ -3,9 +3,9 @@
 <table name="searchtable">
 <tr><td>
 
-<h2>Advanced Search</h2>
+<h2>Search</h2>
 
-<form name="sermonsquery" action="search.php" method="get">
+<form name="articlequery" action="search.php" method="get">
 <table class="searchform" border="0">
 <tr><th>Keyword</th><td class="input"><input type="text" size="40" name="keyword" value="<?php print $kw ?>"></td></tr>
 <tr><th>Title</th><td class="input"><input type="text" size="40" name="title" value="<?php print $title ?>"></td></tr>

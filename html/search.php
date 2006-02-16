@@ -7,14 +7,14 @@ include_once("lib/xmlDbConnection.class.php");
 
 print "<body>";
 
-include("header.html");
+include("xml/header_search.xml");
 
 $id = $_GET['id'];
 
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "SRC_TEST",
 	      	'coll' => 'schanges',
-	        'debug' => 'true');
+	        'debug' => 'false');
 $tamino = new xmlDbConnection($args);
 
 // search terms
@@ -30,43 +30,43 @@ $kwarray = processterms($kw);
 $ttlarray=processterms($title);
 $autharray=processterms($author);
 $darray=processterms($date);
-$plarray=processterms($place);
+//$plarray=processterms($place);
 
 
-$declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"  declare namespace xs = "http://www.w3.org/2001/XMLSchema" ';
 $for = ' for $a in input()/TEI.2/:text/body/div1/div2';
 
 
 $conditions = array();
 
-//Working queries. format: $where = "where tf:containsText(\$a, '$kw')";
+//Working queries. format: $where = "where tf:containsText(., '$kw')";
 if ($kw) {
     if ($mode == "exact") {
-        array_push($conditions, "tf:containsText(\$a, '$kw')");
+        array_push($conditions, "tf:containsText(., '$kw')");
     }
     if ($mode == "synonym") {
-        array_push($conditions, "tf:containsText(\$a, tf:synonym('$kw'))");
+        array_push($conditions, "tf:containsText(., tf:synonym('$kw'))");
     }
     else {
         foreach ($kwarray as $k){
             $term = ($mode == "phonetic") ? "tf:phonetic('$k')" : "'$k'";
-            array_push($conditions, "tf:containsText(\$a, $term)");
+            array_push($conditions, "tf:containsText(., $term)");
         }
     }
 }
 if ($title) {
         foreach ($ttlarray as $t){
-        array_push($conditions, "tf:containsText(\$a/head, '$t') ");
+        array_push($conditions, "tf:containsText(./head, '$t') ");
     }
 }
 if ($author) {
         foreach ($autharray as $a){
-        array_push($conditions, "tf:containsText(\$a/byline/docAuthor/name, '$a') ");
+        array_push($conditions, "tf:containsText(./byline/docAuthor/name, '$a') ");
     }
 }
 if ($date) {
         foreach ($darray as $d){    
-            array_push ($conditions, "tf:containsText(\$a/docDate, '$d') ");
+            array_push ($conditions, "tf:containsText(./docDate, '$d') ");
     }
 }
 /*if ($place) {
@@ -76,11 +76,13 @@ if ($date) {
 } */
 foreach ($conditions as $c) {
     if ($c == $conditions[0]) {
-        $where= "where $c";
+        $where= "[$c]";
     } else {
         $where.= " and $c";
             }
 }
+
+
 
 //have to take each individual keyword into an array.
 $myterms = array();
@@ -93,10 +95,10 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 
 $countquery = "$declare <total>{count($for $let $where return \$a)}</total>";
 
-$return = ' return <div2> {$a/head}{$a/byline}{$a/@id}  </div2>';
-$sort = 'sort by (docAuthor/name/@reg)';
+$return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  </div2>';
+$sort = 'sort by (docDate/@value)';
 
-$query = "$declare $for $where $return $sort";
+$query = "$declare $for $where $sort $return";
 $tamino->xquery($countquery);
 $total = $tamino->findNode("total");
 $tamino->xquery($query);
