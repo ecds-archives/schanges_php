@@ -14,7 +14,7 @@ $term3 = $_GET["term3"];
 
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "SRC",
-	      //	      'debug' => true,
+        	'debug' => false,
 		'coll' => 'schanges');
 $tamino = new taminoConnection($args);
 

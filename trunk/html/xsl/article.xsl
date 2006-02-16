@@ -121,6 +121,43 @@
 </p>
 </xsl:template>
 
+<!-- line group -->
+<xsl:template match="lg">
+  <xsl:element name="p">
+     <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
+    <xsl:apply-templates />
+  </xsl:element>
+</xsl:template>
+
+<!-- line  -->
+<!--   Indentation should be specified in format rend="indent#", where # is
+       number of spaces to indent.  --> 
+<xsl:template match="l">
+  <!-- retrieve any specified indentation -->
+  <xsl:if test="@rend">
+  <xsl:variable name="rend">
+    <xsl:value-of select="./@rend"/>
+  </xsl:variable>
+  <xsl:variable name="indent">
+     <xsl:choose>
+       <xsl:when test="$rend='indent'">		
+	<!-- if no number is specified, use a default setting -->
+         <xsl:value-of select="$defaultindent"/>
+       </xsl:when>
+       <xsl:otherwise>
+         <xsl:value-of select="substring-after($rend, 'indent')"/>
+       </xsl:otherwise>
+     </xsl:choose>
+  </xsl:variable>
+   <xsl:call-template name="indent">
+     <xsl:with-param name="num" select="$indent"/>
+   </xsl:call-template>
+ </xsl:if>
+
+  <xsl:apply-templates/>
+  <xsl:element name="br"/>
+</xsl:template>
+
 
 
 <!-- generate next & previous links (if present) -->

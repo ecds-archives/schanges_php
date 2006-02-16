@@ -68,25 +68,20 @@ select="./@entity"/>')</xsl:attribute>
 
 <!-- print out div titles in table of contents style -->
 <xsl:template match="div2"> 
-
- <xsl:element name="p">
-  <xsl:element name="a">
-    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string != 0"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
-    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string != 0"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
-  <xsl:if test="head = ''">Untitled</xsl:if>
-  <xsl:apply-templates select="head"/>
-  </xsl:element> <!-- a -->
-
+<xsl:element name="p">
+<xsl:element name="a">
+<xsl:attribute name="href">article.php?id=<xsl:value-of
+select="@id"/><xsl:if test="$term_string !=0"><xsl:value-of
+select="$term_string"/></xsl:if></xsl:attribute>
+<xsl:apply-templates select="head"/>
+</xsl:element> <!-- end a -->
  <xsl:element name="font">
  <xsl:attribute name="size">-1</xsl:attribute>
   - <xsl:value-of select="./@type"/>
-  - <xsl:value-of select="bibl/date" /> 
-  <xsl:if test="bibl/extent">
-      - (<xsl:value-of select="bibl/extent" />)
-  </xsl:if>
+  - <xsl:value-of select="byline/docAuthor/name" /> 
+  - (<xsl:value-of select="docDate" />)
   </xsl:element> <!-- end font -->
 </xsl:element> <!-- end p -->
-
 </xsl:template>
 
 <xsl:template match="@*|node()" name="default"> 

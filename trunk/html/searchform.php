@@ -2,9 +2,9 @@
 include("config.php");
 //html_head("Search", "search.css");
 
-include("header.html");
+include("xml/header_search.xml");
 include("searchoptions.php");
-include("footer.html");
+include("xml/footer.xml");
 ?>
 
 </body>
