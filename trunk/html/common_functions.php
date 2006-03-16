@@ -2,6 +2,7 @@
 
 // php functions & variables used by more than one ILN php page
 include("config.php");
+//Modifying for Southern Changes
 
 /* Check browser & OS and determine which css file to use
    (only checking for IE -- the only one that needs different css ) 
@@ -15,10 +16,12 @@ function getCSS () {
   
   // $css_basepath = "http://chaucer.library.emory.edu/iln/";
   // development
-  $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
+  $css_basepath = "http://reagan.library.emory.edu/alice/schanges/";
+  //$css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   // production
   //  $css_basepath = "http://cti.library.emory.edu/iln/";
-  $css = "iln.css"; 
+  //  $css_basepath = "http://cti.library.emory.edu/southernchanges";
+  $css = "schanges.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
       $css = "iln-iemac.css";
@@ -39,7 +42,7 @@ function html_head ($mode, $contentlist = false) {
   $mycss = getCSS();
 print "<html>
  <head>
- <title>$mode - The Civil War in America from The Illustrated London News</title>
+ <title>$mode - Southern Changes Online</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <meta name=\"robots\" content=\"index,follow\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";

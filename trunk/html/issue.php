@@ -1,7 +1,8 @@
 <?php
 
 include_once("config.php");
-include_once("xmlDbConnection.class.php");
+//include_once("xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET["dcidentifier"];
@@ -60,7 +61,7 @@ if ($rval) {       // tamino Error code (0 = success)
   exit();
 } 
 
-//html_head("Issue List", true);
+html_head("Browse", true);
 
 include("xml/browse-head.xml");
 

@@ -7,15 +7,18 @@
 
 
 <xsl:include href="teihtml-tables.xsl"/>
- <xsl:output method="html"/>  
+
+<xsl:include href="table.xsl"/>
+
+<xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-  <xsl:apply-templates select="//div2" />
-
-   <!-- links to next & previous titles (if present) -->
+<xsl:apply-templates select="//sibling" />
+  <!-- recall the article list -->
+  <xsl:call-template name="return" />
+<!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />
-
-</xsl:template> 
+</xsl:template>
 
 
 <!-- print out the content-->
@@ -48,13 +51,17 @@
 </xsl:template>
 
 <xsl:template match="div3">
-<xsl:choose>
-  <xsl:when test="@type='About'">
+  <xsl:if test="@type='About'">
     <xsl:element name="i">
       <xsl:apply-templates/>
     </xsl:element>
-  </xsl:when>
-</xsl:choose>
+  </xsl:if>
+</xsl:template>
+
+<xsl:template match="div3">
+  <xsl:if test="@type='Section'">
+    <xsl:apply-templates/>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template match="p/title">
@@ -158,12 +165,10 @@
   <xsl:element name="br"/>
 </xsl:template>
 
-
-
 <!-- generate next & previous links (if present) -->
 <!-- note: all div2s, with id, head, and bibl are retrieved in a <siblings> node -->
 <xsl:template name="next-prev">
-<xsl:variable name="main_id"><xsl:value-of select="//result/dcidentifier"/></xsl:variable>
+<xsl:variable name="main_id"><xsl:value-of select="//div2/@id"/></xsl:variable>
 <!-- get the position of the current document in the siblings list -->
 <xsl:variable name="position">
   <xsl:for-each select="//sibling/result">
@@ -215,8 +220,8 @@
  <xsl:element name="td">
   <xsl:attribute name="valign">top</xsl:attribute>
   <xsl:element name="a">
-   <xsl:attribute name="href">browse.php?id=<xsl:value-of
-		select="@id"/></xsl:attribute>
+   <xsl:attribute name="href">article.php?id=<xsl:value-of
+		select="@id"/>&amp;mdid=<xsl:value-of select="//issueid/@id"/></xsl:attribute>
     <!-- use rel attribute to give next / previous information -->
     <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
     <xsl:call-template name="cleantitle"/>
@@ -245,19 +250,57 @@
 
 </xsl:template>
 
- <!-- Use n attribute (normalized caps) for article title; if n is blank, 
-      label as untitled -->
+ <!-- Use head not n attribute (normalized caps) for article title; if
+      n is blank, label as untitled -->
 <xsl:template name="cleantitle">
   <xsl:choose>
-    <xsl:when test="@n = ''">
+    <xsl:when test="head = ''">
       <xsl:text>[Untitled]</xsl:text>
     </xsl:when>
     <xsl:otherwise>
-      <xsl:value-of select="normalize-space(./@n)"/>
+      <xsl:value-of select="normalize-space(./head)"/>
     </xsl:otherwise>
   </xsl:choose>
 </xsl:template>
 
+<xsl:template name="return">
+<xsl:element name="p">
+<xsl:element name="a">
+<xsl:attribute name="href">articlelist.php?id=cti-schangesfw-<xsl:value-of
+select="//issueid/@id"/></xsl:attribute>Return to Article
+List</xsl:element> <!-- a -->
+</xsl:element> <!-- p -->
+</xsl:template>
 
+<!-- simple table test by Alice Hickcox, March 8, 2006 -->
+<!-- this works -->
+<!--    <xsl:param name="tableAlign">left</xsl:param> -->
+   <xsl:param name="tableAlign">center</xsl:param>
+   <xsl:param name="cellAlign">left</xsl:param>
+
+<xsl:template match="table">
+<table>
+<xsl:for-each select="@*">
+<xsl:copy-of select="."/>
+</xsl:for-each>
+<xsl:apply-templates/></table>
+</xsl:template>
+
+<xsl:template match="table/head">
+<h3><xsl:apply-templates/>
+</h3>
+</xsl:template>
+
+<xsl:template match="row">
+<tr><xsl:apply-templates/>
+</tr>
+</xsl:template>
+
+<xsl:template match="cell">
+<td valign="top">
+<xsl:apply-templates/>
+</td>
+</xsl:template>
 
 </xsl:stylesheet>
+

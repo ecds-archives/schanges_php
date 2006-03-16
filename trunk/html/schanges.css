@@ -1,5 +1,111 @@
-
+body { text-color: #333333;}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
-div.header { border: 3px solid #02023a; text-align:center;} 
+/*div.header { border: 3px solid #02023a; text-align:center;} */
+
+/* styles for main part of page */ 
+a:link {color: #AD6F0A; text-decoration: none; }
+a:visited {color: #AD6F0A; text-decoration:none;}
+
+div.header h1 { font-family: "Book Antiqua", "Times",serif; 
+	   font-size: 36pt; 
+	   margin: -1px; 
+	   line-height:120%;}
+
+div.header h2 { font-family: "Book Antiqua", "Times",serif; 
+	   font-size: 13pt; 
+	   margin: -4px; 
+	   line-height:120%;}
+
+p.searchbox {font-size:80%; 
+	    width=50%; 
+	    text-align:center; 
+	    margin-left:5px; 
+	    background-color: #eeeeee; 
+	    padding:4px; }
+
+/*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
+
+p.searchbox b {padding-right: 5px;}
+p.searchbox input#go{margin-left:5px;}
+
+div.headimage {position:static;  
+	      margin-top 3em; 
+	      margin-bottom: 2em; 
+	      margin-left: 15%; 
+	      margin-right: 15%;}
+
+div.nav {font-family: "Papyrus", Book Antiqua, Times, serif; 
+	font-size: 24pt;  
+	text-decoration: none; 
+	text-align: center;}
+
+p.navlinks {float: center; 
+	   text-align: center;		
+	   margin-left: auto; 
+	   margin-right: auto;}
+
+span#ov {padding: 0 1em;}
+span#br {padding: 0 1em;}
+span#se {padding: 0 1em;}
+
+div.teenimage {position: static; 
+	      margin-top: 3em; 
+	      margin-bottom: 6em;  
+	      margin-left: 27%;}
+
+div.teensub {position: static; 
+	    margin-bottom: 3em; 
+	    margin-left: 20%;}
+
+div.subnav {font-family: "Papyrus", Book Antiqua, Times, serif;
+	   font-size: 18pt; 
+	   text-decoration: none; 
+	   text-align: center;} 
+
+p.navlinks {margin-left: auto; 
+	   margin-right:auto;} 
+
+span#ho {padding: 0 1em;} 
+span#ov {padding: 0 1em;} 
+span#br {padding: 0 1em;} 
+span#se {padding: 0 1em;}
+
+
+div.content {font-family Book Antiqua, Times, serif; 
+	    font-size: 12pt; 
+	    text-decoration: none; 
+	    text-align: left; 
+	    margin-left: 2em;}
+
+div.externalnav {text-align: center; 
+		font-family: "Papyrus", Book Antiqua, Times, serif; 
+		font-size: 14pt; 
+		text-decoration: none;}
+
+p#beck {margin-left: auto; 
+       margin-bottom: 1em; 
+       margin-right: auto}
+
+/*p#src {float: right; margin-right: 25%; margin-bottom: 1em;}*/
+
+span#bc, span#src {padding: 0 2em;}
+
+
+div.foot {display:block; 
+	 font-family: Times, Book Antiqua, serif; 
+	 font-size: 12; 
+	 text-decoration: none; 
+	 text-align: center;}
+
+p#footnav {margin-left: 2em; 
+	  margin-right: 2em; }
+
+span#con span#euc span#ul span#eu {padding: 0 1em}
+
+hr.foot {width: 613px;}
+
+
+
+
