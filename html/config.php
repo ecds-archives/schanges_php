@@ -45,7 +45,7 @@ $base_url = "http://$server$base_path/";
 set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/content");
 
 //shorthand for link to main css file
-$cssfile = "wwi.css";
+$cssfile = "schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 /* tamino settings common to all pages

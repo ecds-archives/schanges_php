@@ -10,7 +10,7 @@
 <xsl:include href="teihtml-tables.xsl" />
 <xsl:template match="/">
     <xsl:apply-templates select="//div2" />
-
+</xsl:template>
 <!-- print out the content-->
 <xsl:template match="div2">
 <!-- get everything under this node -->

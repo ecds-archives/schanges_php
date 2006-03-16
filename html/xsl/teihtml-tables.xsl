@@ -101,7 +101,7 @@ or name(.) = 'cellpadding'">
 </xsl:template>
 
 <xsl:template match='cell'>
- <td valign="top">
+ <td valign="top">DEBUG: cell data matched
    <xsl:if test="@id"><a name="{@id}"/></xsl:if>
 <xsl:choose>
 <xsl:when test="@rend and starts-with(@rend,'width:')">

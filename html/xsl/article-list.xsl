@@ -11,15 +11,18 @@
 <xsl:param name="vol">all</xsl:param>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
-<xsl:variable name="query"><xsl:value-of select="ino:response/xq:query"/></xsl:variable>
+<xsl:variable name="query"><xsl:value-of
+select="ino:response/xq:query"/></xsl:variable>
+
 <!-- <xsl:variable name="total_count" select="count(//div1 |
 //div2[figure])" /> -->
 
 <xsl:output method="html"/>
 <xsl:template match="/">
 
-<!-- begin body -->
-<xsl:element name="body">
+<!-- begin content -->
+<xsl:element name="div">
+<xsl:attribute name="class">contents</xsl:attribute>
   <xsl:apply-templates select="//result"/>
 </xsl:element>
 </xsl:template>
@@ -30,12 +33,15 @@
   <xsl:element name="li">
     <xsl:value-of select="dccreator"/>, <xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
-      select="substring-after(dcidentifier,'cti-schangesfw-')"/></xsl:attribute> <xsl:value-of
-      select="dctitle"/>, <xsl:value-of select="dcdescription"/>
-    </xsl:element> <!-- a -->
+      select="substring-after(dcidentifier,'cti-schangesfw-')"/>&amp;mdid=<xsl:value-of
+      select="substring-after(//sibling/issueid/dcidentifier,'cti-schangesfw-') "/></xsl:attribute> <xsl:value-of
+      select="dctitle"/>, </xsl:element> <!-- a -->
+<xsl:value-of select="dcdescription"/>
+    
   </xsl:element> <!-- li -->
   </xsl:element><!-- ul -->
 
 </xsl:template>
+
 
 </xsl:stylesheet>
