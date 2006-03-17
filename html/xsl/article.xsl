@@ -13,7 +13,9 @@
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-<xsl:apply-templates select="//sibling" />
+  <!-- recall the article list -->
+  <xsl:call-template name="return" />
+<xsl:apply-templates select="//div2" />
   <!-- recall the article list -->
   <xsl:call-template name="return" />
 <!-- links to next & previous titles (if present) -->

@@ -42,6 +42,7 @@ return
 </result>}
 </sibling>';
 
+//rewriting query to get all info from doc and not metadata for simplicity
 /*$sibling_query='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
 <sibling>
 {for $c in input()/schangesfw-metadata/ctirecord/ctimetadata/rdfRDF/ctiItemGroup[dcidentifier = "' . "$issueid" . '"]
