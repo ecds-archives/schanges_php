@@ -1,8 +1,8 @@
 <?php
 include_once("config.php");
 
-//include_once("lib/xmlDbConnection.class.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
+//include_once("CTI/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET['id'];
@@ -70,13 +70,13 @@ if ($kw) {
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
-	$let .= "let \$count$i := tf:createTextReference(\$a//p//text()[not(parent::figDesc)], $term) ";
+	$let .= "let \$count$i := tf:createTextReference(\$a//p//text(), $term) ";
 	if ($i > 0) { $all .= ", "; $allcount .= ", "; }
 	$all .= "\$ref$i"; 
 	$allcount .= "\$count$i"; 
         array_push($conditions, "tf:containsText(., $term)");
       }
-print("DEBUG: all=$all, let=$let");
+//print("DEBUG: all=$all, let=$let");
       $all .= ") ";
       $let .= $all;
       $allcount .= ") ";
@@ -86,8 +86,11 @@ print("DEBUG: all=$all, let=$let");
 if ($phrase) {
    foreach ($phrarray as $r){
    array_push ($conditions, "tf:containsText(., '$r') ");
-   $let .= "let \$phrref := tf createTextReference(.//p, '$r') ";
-    }
+   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
+   let \$allrefs := (\$ref) 
+	let \$countref := tf:createTextReference(\$a//p, '$r') let \$allcounts := (\$countref) ";
+	$wordcount = count($kwarray); 
+	}
 }
 
 if ($title) {
@@ -133,7 +136,7 @@ $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
 //Testing location of this piece
 // numbers are based on keyword match; only include if keyword terms are part of the search
-if ($kw) {
+if ($phrase) {
   if ($mode == "exact") {   
     /* note: in exact mode, Tamino still tokenizes the text references, so count is off for the phrase (e.g., one match for a 4-word phrase counts as 4);
        this divide-by-wordcount correctly calculates the number of occurrences of the entire phrase. */
@@ -147,7 +150,7 @@ if ($kw) {
     }
   }
   $return .= '</matches>';
-print("DEBUG: match return=$return");
+//print("DEBUG: match return=$return");
 }
 
 // if this is a keyword in context search, get context nodes
