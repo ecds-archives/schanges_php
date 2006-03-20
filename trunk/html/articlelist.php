@@ -10,7 +10,7 @@ $id = $_GET["id"];
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db["meta-db"],
 	      'coll' => $tamino_coll["meta-coll"],
-	      'debug' => true);
+	      'debug' => false);
 $tamino = new xmlDbConnection($args);
 
 

@@ -12,7 +12,7 @@ $issueid = $_GET["mdid"];
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db["data-db"],
 	      'coll' => $tamino_coll["data-coll"],
-	      'debug' => true);
+	      'debug' => false);
 $tamino = new xmlDbConnection($args);
 
 /*$args_meta = array('host' => $tamino_server,
