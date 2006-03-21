@@ -175,7 +175,7 @@ reinstating the current allotment will not be sufficient. With the
 current rate of inflation, without an increase, the poor will have a
 25 percent "budget cut" based on what they are receiving now.</p>
         </div2>
-        <div2 id="sc02-7006" n="The Measure of Poverty" type="article">
+        <div2 id="sc02-7006" n="The Measure of Poverty" type="Article">
           <head>The Measure of Poverty</head>
           <byline>By <docAuthor><name reg="Einsenberg, Pablo" type="person">Pablo Einsenberg</name></docAuthor></byline>
           <docDate value="1980-06-01">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
@@ -190,7 +190,7 @@ families spending so little fell far short of adequacy. Of families spending at 
 families of various sizes are divided between farm and nonfarm.</p>
           <table cols="3" rows="7">
             <row role="data">
-              <cell role="data"/>
+              
               <cell role="data">Family Size</cell>
               <cell role="data">Nonfarm</cell>
               <cell role="data">Farm</cell>

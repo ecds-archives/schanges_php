@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Mother Church</head>
           <byline>
             <docAuthor>
-              <name reg="" type="person">Will D. Campbell</name>
+              <name reg="Campbell, Will D." type="person">Will D. Campbell</name>
             </docAuthor>
           </byline>
           <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 37-38</docDate>

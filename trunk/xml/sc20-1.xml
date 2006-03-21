@@ -217,7 +217,7 @@ current coverage does not reflect this reality."</p>
             <head>Compelling Words from Dr. King</head>
             <byline>
               <docAuthor>
-                <name reg="">Staff</name>
+                <name reg="Staff" type="person">Staff</name>
               </docAuthor>
             </byline>
             <docDate value="1998-03-01">Vol. 20, No. 1, 1998 p. 8</docDate>
@@ -231,7 +231,7 @@ concepts of the civil rights movement, even distorting the words of Rev. Martin 
             <head>National Anti-Affirmative Action Legislation Blocked</head>
             <byline>
               <docAuthor>
-                <name reg="">Staff</name>
+                <name reg="Staff" type="person">Staff</name>
               </docAuthor>
             </byline>
             <docDate value="1998-03-01">Vol. 20, No. 1, 1998 p. 5</docDate>
@@ -591,7 +591,7 @@ action in this state," says McDonald. A House <pb n="21"/>Study Committee on Min
           <head>Steps Forward and Back: An Affirmative Action Timeline</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1998-03-01">Vol. 20, No. 1, 1998 p. 22</docDate>
@@ -646,7 +646,7 @@ The Truth about Affirmative Action" type="Article">
 The Truth about Affirmative Action</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1998-03-01">Vol. 20, No. 1, 1998 pp. 24-25</docDate>
@@ -690,7 +690,7 @@ Bureau of National Affairs.</p>
           <head>Affirmative Action Resources</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1998-03-01">Vol. 20, No. 1, 1998 p. 26</docDate>
@@ -1029,7 +1029,7 @@ admissions, and California's "Civil Rights" Initiative (Proposition
           <head>Harry Ashmore  (1916 -1998)</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1998-03-01">Vol. 20, No. 1, 1998</docDate>

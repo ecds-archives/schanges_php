@@ -58,11 +58,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc03-2001" n="Southern Changes 3:2" type="Issue">
         <head>Southern Changes. Volume 3, Number 2, 1981</head>
         <p><title>Southern Changes</title>. Volume 3, Number 2, <date value="1981-02-01">1981</date></p>
-        <div2 id="sc03-2002" n="EDITOR'S NOTE" type="Article">
+        <div2 id="sc03-2002" n="Editor's Note" type="Article">
           <head>EDITOR'S NOTE</head>
           <byline>
             <docAuthor>
-              <name reg="" type="person">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1981-02-01">Vol. 3, No. 2, 1981, pp. 4-5</docDate>
