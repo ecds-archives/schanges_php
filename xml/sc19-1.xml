@@ -114,7 +114,7 @@ disinherited.</p>
           <head>People Who Made the Movement</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1997-03-01">Vol. 19, No. 1, 1997 pp. 5-20</docDate>
@@ -523,7 +523,7 @@ to get any results from doing it. People were talking about breaking ranks and t
       Beyond the Printed Word</head>
           <byline>
             <docAuthor>
-              <name reg="Staff">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1997-03-01">Vol. 19, No. 1, 1997 pp. 22-26</docDate>
@@ -731,7 +731,7 @@ next great challenges in winning full equality.</p>
           <head>Will The Circle Be Unbroken? Program Listings</head>
           <byline>
             <docAuthor>
-              <name reg="" type="person">Staff</name>
+              <name reg="Staff" type="person">Staff</name>
             </docAuthor>
           </byline>
           <docDate value="1997-03-01">Vol. 19, No. 1, 1997</docDate>

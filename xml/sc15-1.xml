@@ -55,7 +55,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
   <text id="sc15-11203">
     <body id="sc15-11202">
       <div1 id="sc15-1001" n="Southern Changes 15:1" type="Issue">
-        <head> Southern Changes. Volume 15, Number 1, Spring, 1993 </head>
+        <head> Southern Changes. Volume 15, Number 1, 1993 </head>
         <p><title> Southern Changes</title>. Volume 15, Number 1, Spring, <date value="1993-03-01">1993</date></p>
         <div2 id="sc15-1002" n="'Freedom Buses' Roll Along Cancer Alley" type="Article">
           <head>'Freedom Buses' Roll Along Cancer Alley</head>
@@ -324,7 +324,7 @@ in civil rights and their work on anti-war activities were in fact one and the s
             <head>Acceptance Remarks by Anne Braden</head>
             <byline>
               <docAuthor>
-                <name reg="">Staff</name>
+                <name reg="Staff" type="person">Staff</name>
               </docAuthor>
             </byline>
             <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 14-16</docDate>
