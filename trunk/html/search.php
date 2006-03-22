@@ -64,33 +64,51 @@ $conditions = array();
    }
 }*/
 
-if ($kw) {
+if (($kw) and !($phrase)) {
       $all = 'let $allrefs := (';
-      $allcount = 'let $allcounts := (';
+      //$allcount = 'let $allcounts := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
-	$let .= "let \$count$i := tf:createTextReference(\$a//p//text(), $term) ";
-	if ($i > 0) { $all .= ", "; $allcount .= ", "; }
+	//$let .= "let \$count$i := tf:createTextReference(\$a//p//text(), $term) ";
+	if ($i > 0) { $all .= ", "; $allcount .= ", "; } //remove $allcount?
 	$all .= "\$ref$i"; 
-	$allcount .= "\$count$i"; 
+	//$allcount .= "\$count$i"; 
         array_push($conditions, "tf:containsText(., $term)");
       }
-//print("DEBUG: all=$all, let=$let");
+
       $all .= ") ";
       $let .= $all;
-      $allcount .= ") ";
-      $let .= $allcount;
+      //$allcount .= ") ";
+      //$let .= $allcount;
+//print("DEBUG: all=$all, let=$let");
 }
 
-if ($phrase) {
+if (($phrase) and !(kw)) {
    foreach ($phrarray as $r){
    array_push ($conditions, "tf:containsText(., '$r') ");
    $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
-   let \$allrefs := (\$ref) 
-	let \$countref := tf:createTextReference(\$a//p, '$r') let \$allcounts := (\$countref) ";
-	$wordcount = count($kwarray); 
+   let \$allrefs := (\$phrref) ";
+	$wordcount = count($phrarray); 
 	}
+}
+
+if (($kw) and ($phrase)) {
+      $all = 'let $allrefs := (';
+      for ($i = 0; $i < count($kwarray); $i++) {
+	$term = "'$kwarray[$i]'";
+	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
+	if ($i > 0) { $all .= ", "; } 
+	$all .= "\$ref$i";}
+   foreach ($phrarray as $r){
+   array_push ($conditions, "tf:containsText(., '$r') ");
+   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') ";
+   $all .= ", \$phrref";              //this is OK if there is only one phrase
+   $wordcount = count($phrarray); 
+   }
+      $all .= ") ";
+      $let .= $all;
+print("DEBUG: all=$all, let=$let");
 }
 
 if ($title) {
@@ -134,23 +152,25 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 
 $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
-//Testing location of this piece
-// numbers are based on keyword match; only include if keyword terms are part of the search
-if ($phrase) {
-  if ($mode == "exact") {   
-    /* note: in exact mode, Tamino still tokenizes the text references, so count is off for the phrase (e.g., one match for a 4-word phrase counts as 4);
-       this divide-by-wordcount correctly calculates the number of occurrences of the entire phrase. */
-    $return .= "<matches><total>{xs:integer(count(\$allcounts) div $wordcount)}</total>"; 
-  } else { $return .= '<matches><total>{count($allcounts)}</total>'; }
-  if ($mode != "exact") {	// exact mode - treat string as a phrase, not multiple terms
-    if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
+
+if (($phrase) and !($kw)) {
+   $return .= "<matches><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
+}
+
+if (($kw) and !($phrase)) {
+   if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
-        $return .= "<term>$kwarray[$i]<count>{count(\$count$i)}</count></term>";
+        $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)}</count></term></matches>";
+      	}
       }
-    }
-  }
-  $return .= '</matches>';
-//print("DEBUG: match return=$return");
+}
+
+if (($kw) and ($phrase)) {
+   if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
+      for ($i = 0; $i < count($kwarray); $i++) {
+      $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)} +  {count(\$allrefs)}</count></term></matches>"; FIXME: add phrasearray here
+	   	}
+	   }
 }
 
 // if this is a keyword in context search, get context nodes
@@ -174,10 +194,12 @@ $return .= '</div2>';
 
 $countquery = "$declare <total>{count($for $where] return \$a)}</total>";
 
+if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
+   $sort = 'sort by (xs:int(matches/total) descending)';
+}
 
-$sort = 'sort by (docDate/@value)';
 
-$query = "$declare $for$where] $let $sort $return";
+$query = "$declare $for$where] $let $return $sort";
 $tamino->xquery($countquery);
 $total = $tamino->findNode("total");
 $tamino->xquery($query);
