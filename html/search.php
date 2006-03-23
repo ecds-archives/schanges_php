@@ -87,8 +87,8 @@ if (($kw) and !($phrase)) {
 if (($phrase) and !(kw)) {
    foreach ($phrarray as $r){
    array_push ($conditions, "tf:containsText(., '$r') ");
-   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
-   let \$allrefs := (\$phrref) ";
+   //$let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
+   //let \$allrefs := (\$phrref) ";
 	$wordcount = count($phrarray); 
 	}
 }
@@ -104,7 +104,7 @@ if (($kw) and ($phrase)) {
    array_push ($conditions, "tf:containsText(., '$r') ");
    $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') ";
    $all .= ", \$phrref";              //this is OK if there is only one phrase
-   $wordcount = count($phrarray); 
+   $wordcount = count($phrarray);     //if add a phrase, need to iterate
    }
       $all .= ") ";
       $let .= $all;
@@ -140,7 +140,7 @@ foreach ($conditions as $c) {
 	}
 }
 
-
+//Creating the counts and totals
 //have to take each individual keyword into an array.
 $myterms = array();
 if ($kw) {$myterms = array_merge($myterms, $kwarray); }
@@ -154,24 +154,29 @@ $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
 
 if (($phrase) and !($kw)) {
-   $return .= "<matches><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
+   $return .= "<matches><term>\$phrarray</term><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
 }
 
 if (($kw) and !($phrase)) {
-   if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
+   $return .= "<matches>";
+   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
-        $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)}</count></term></matches>";
+        $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>";
       	}
+      $return .= "<total>{count(\$allrefs)}</total></matches>";
       }
 }
 
 if (($kw) and ($phrase)) {
-   if (count($kwarray) > 1) {	// if there are multiple terms, display count for each term
+   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
-      $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)} +  {count(\$allrefs)}</count></term></matches>"; FIXME: add phrasearray here
+      $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; 
+      }
+      $return .= "<term>$phrarray</term><count>{xs:integer(count(\$allrefs) div $wordcount)}</count></term>";
+      $return .= "</matches>";
 	   	}
 	   }
-}
+
 
 // if this is a keyword in context search, get context nodes
 // return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
