@@ -21,7 +21,7 @@ $author = $_GET["author"];
 $date = $_GET["date"];
 //$place= $_GET["place"];
 $mode= $_GET["mode"];
-$docid = $_GET["artid"];     // limit keyword search to one article
+$docid = $_GET["id"];     // limit keyword search to one article
 $kwic = $_GET["kwic"];	     // is this a kwic search or not? defaults to not
 $position = $_GET["pos"];  // position (i.e, cursor)
 $maxdisplay = $_GET["max"];  // maximum  # results to display
@@ -31,7 +31,7 @@ if ($kwic == '') $kwic = "false";
 // if no position is specified, start at 1
 if ($position == '') $position = 1;
 // set a default maxdisplay
-if ($maxdisplay == '') $maxdisplay = 20;       // what is a reasonable default?
+if ($maxdisplay == '') $maxdisplay = 10;       // what is a reasonable default?
 
 $kwarray = processterms($kw);
 $phrarray[] = trim($phrase);
@@ -64,7 +64,9 @@ $conditions = array();
    }
 }*/
 
-if (($kw) and !($phrase)) {
+
+if ($kw) {
+   if (empty ($phrase)) {
       $all = 'let $allrefs := (';
       //$allcount = 'let $allcounts := (';
       for ($i = 0; $i < count($kwarray); $i++) {
@@ -81,16 +83,19 @@ if (($kw) and !($phrase)) {
       $let .= $all;
       //$allcount .= ") ";
       //$let .= $allcount;
-//print("DEBUG: all=$all, let=$let");
+print("DEBUG: all=$all, let=$let");
+	      }
 }
 
-if (($phrase) and !(kw)) {
+if ($phrase) {
+   if (empty ($kw)) {
    foreach ($phrarray as $r){
    array_push ($conditions, "tf:containsText(., '$r') ");
-   //$let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
-   //let \$allrefs := (\$phrref) ";
+   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
+   let \$allrefs := (\$phrref) ";
 	$wordcount = count($phrarray); 
 	}
+    }
 }
 
 if (($kw) and ($phrase)) {
@@ -153,11 +158,15 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
 
-if (($phrase) and !($kw)) {
+if ($phrase)  {
+   if (empty ($kw)) {
    $return .= "<matches><term>\$phrarray</term><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
+//print_r($phrarray);
+}
 }
 
-if (($kw) and !($phrase)) {
+else if ($kw)  {
+   if (empty($phrase)) {
    $return .= "<matches>";
    if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
@@ -166,38 +175,90 @@ if (($kw) and !($phrase)) {
       $return .= "<total>{count(\$allrefs)}</total></matches>";
       }
 }
+}
 
-if (($kw) and ($phrase)) {
+else if (($kw) and ($phrase)) {
    if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
       $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; 
       }
       $return .= "<term>$phrarray</term><count>{xs:integer(count(\$allrefs) div $wordcount)}</count></term>";
       $return .= "</matches>";
-	   	}
+   	   	}
 	   }
+$return .= "</div2>";
 
 
 // if this is a keyword in context search, get context nodes
 // return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
-if ($kwic == "true") {
+/*if ($kwic == "true") {
   $return .= '<context><page>{tf:highlight($a//p[';
   if ($mode == "exact") { 
     $return .= "tf:containsText(.//text()[not(parent::figDesc)], '$kw')"; 
   } else {
     for ($i = 0; $i < count($kwarray); $i++) { 
-      $term = ($mode == "phonetic") ? "tf:phonetic('$kwarray[$i]')" : "'$kwarray[$i]'";
       if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(.//text()[not(parent::figDesc)], $term) ";
+      $return .= "tf:containsText(.//text(), $term) ";
     }
   }
   $return .= '], $allrefs, "MATCH")}</page></context>';
 }
-$return .= '</div2>';
-
-
+$return .= '</div2>';*/ //Not using page context
 
 $countquery = "$declare <total>{count($for $where] return \$a)}</total>";
+$query = "$declare $for$where] $let $return $sort";
+//$tamino->xquery($countquery);
+//$total = $tamino->findNode("total");
+//$tamino->xquery($query);
+//$tamino->getXqueryCursor();
+
+$xsl_file = "scsearch.xsl";
+$kwic1_xsl = "kwic-towords.xsl";
+$kwic2_xsl = "kwic-words.xsl";
+
+
+
+
+
+
+
+if ($kwic =="true") {
+print("DEBUG: using kwic");
+   $return .= '<context><page>{tf:highlight($a//p[';
+if ($phrase)  {
+   if (empty ($kw)) {
+   $return .= "tf:containsText(., '$kw;)"; 
+//print_r($phrarray);
+}
+}
+
+else if ($kw)  {
+   if (empty($phrase)) {
+   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
+      for ($i = 0; $i < count($kwarray); $i++) {
+        $return .= "$kwarray[$i]";
+        if ($i > 0) { $return .= " or "; }
+      $return .= "tf:containsText(., $term) ";
+      }
+}
+}
+}
+
+
+else if (($kw) and ($phrase)) {
+   if (count($kwarray) >= 1) {	/*if there are multiple terms, display count for each term, also now for 1 phrase term*/
+      for ($i = 0; $i < count($kwarray); $i++) {
+      $term = "$kwarray[$i]"; 
+      if ($i > 0) { $return .= " or "; }
+      $return .= "tf:containsText(., $term) ";
+      }
+      $return .= "tf:containsText(., $phrarray)";  
+	   	}
+	   }
+  $return .= '], $allrefs, "MATCH")}</context>';
+}
+
+
 
 if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
    $sort = 'sort by (xs:int(matches/total) descending)';
@@ -205,14 +266,19 @@ if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
 
 
 $query = "$declare $for$where] $let $return $sort";
+
+//get the count for number of matching articles
 $tamino->xquery($countquery);
 $total = $tamino->findNode("total");
-$tamino->xquery($query);
-$tamino->getXqueryCursor();
+
+$tamino->xquery($query, $position, $maxdisplay);
+$tamino->getCursor();
 
 $xsl_file = "scsearch.xsl";
 $kwic1_xsl = "kwic-towords.xsl";
 $kwic2_xsl = "kwic-words.xsl";
+
+
 
 // pass search terms into xslt as parameters 
 // (xslt passes on terms to browse page for highlighting)
