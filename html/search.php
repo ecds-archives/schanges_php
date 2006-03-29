@@ -144,6 +144,7 @@ foreach ($conditions as $c) {
         $where.= " and $c";
 	}
 }
+	$where .= "]";
 
 //Creating the counts and totals
 //have to take each individual keyword into an array.
@@ -154,6 +155,8 @@ if ($title) {$myterms = array_merge($myterms, $ttlarray); }
 if ($author) {$myterms = array_merge($myterms, $autharray); }
 if ($date) {$myterms = array_merge($myterms, $darray); }
 //if ($place) {$myterms = array_merge($myterms, $plarray); }
+
+//print("DEBUG: my terms=");print_r($myterms);
 
 $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
@@ -186,7 +189,7 @@ else if (($kw) and ($phrase)) {
       $return .= "</matches>";
    	   	}
 	   }
-$return .= "</div2>";
+
 
 
 // if this is a keyword in context search, get context nodes
@@ -205,8 +208,8 @@ $return .= "</div2>";
 }
 $return .= '</div2>';*/ //Not using page context
 
-$countquery = "$declare <total>{count($for $where] return \$a)}</total>";
-$query = "$declare $for$where] $let $return $sort";
+$countquery = "$declare <total>{count($for $where return \$a)}</total>";
+$query = "$declare $for$where $let $return $sort";
 //$tamino->xquery($countquery);
 //$total = $tamino->findNode("total");
 //$tamino->xquery($query);
@@ -217,17 +220,12 @@ $kwic1_xsl = "kwic-towords.xsl";
 $kwic2_xsl = "kwic-words.xsl";
 
 
-
-
-
-
-
 if ($kwic =="true") {
 print("DEBUG: using kwic");
    $return .= '<context><page>{tf:highlight($a//p[';
 if ($phrase)  {
    if (empty ($kw)) {
-   $return .= "tf:containsText(., '$kw;)"; 
+   $return .= "tf:containsText(., '$phrase;)"; 
 //print_r($phrarray);
 }
 }
@@ -235,8 +233,10 @@ if ($phrase)  {
 else if ($kw)  {
    if (empty($phrase)) {
    if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
-      for ($i = 0; $i < count($kwarray); $i++) {
-        $return .= "$kwarray[$i]";
+print("DEBUG: "); print_r($kwarray);
+      for ($i = 0; $i < count($kwarray); $i++) { print("DEBUG:term count=count($kwarray)");
+      $term = "'$kwarray[$i]'";
+      print("DEBUG: Term=$term"); print_r($kwarray[$i]);
         if ($i > 0) { $return .= " or "; }
       $return .= "tf:containsText(., $term) ";
       }
@@ -255,9 +255,9 @@ else if (($kw) and ($phrase)) {
       $return .= "tf:containsText(., $phrarray)";  
 	   	}
 	   }
-  $return .= '], $allrefs, "MATCH")}</context>';
+  $return .= '], $allrefs, "MATCH")}</page></context>';
 }
-
+$return .= "</div2>";
 
 
 if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
@@ -265,7 +265,7 @@ if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
 }
 
 
-$query = "$declare $for$where] $let $return $sort";
+$query = "$declare $for$where $let $return $sort";
 
 //get the count for number of matching articles
 $tamino->xquery($countquery);
@@ -284,7 +284,8 @@ $kwic2_xsl = "kwic-words.xsl";
 // (xslt passes on terms to browse page for highlighting)
 $term_list = implode("|", $myterms);
 $xsl_params = array("term_list"  => $term_list);
-
+print("DEBUG: param term list=$term_list");
+print("DEBUG: param list=");print_r($xsl_params);
 
 
 print '<div class="content">';
@@ -330,9 +331,9 @@ print "<p class='center'>Number of matching articles: <b>$total</b><br/>" . ($kw
     print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
   }
 
-  if ($kwic == "true") {
+  /*if ($kwic == "true") {
     print "<p class='tip'>Page numbers indicate where paragraphs containing search terms begin.</p>";
-  }
+  }*/ //Not using page numbers.
 
 
 
