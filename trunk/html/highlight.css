@@ -1,0 +1,16 @@
+/* copied from iln */
+span.term1 { background-color: #d1e1f9;}	/* light blue */
+span.term2 { background-color: #fffc7f; }	/* yellow */
+span.term3 { background-color: #b4f7aa; }	/* green */
+
+/* Note: colors after this are for testing; at some point, we should
+find some milder colors that work better for readable highlighting */
+
+span.term4 { background-color: #ff9900; }	/* orange */
+span.term5 { background-color: #ff9999; }	/* pink */
+span.term6 { background-color: #996699; }	/* purple */
+span.term7 { background-color: #66cccc; }	/* turquoise */
+span.term8 { background-color: #cccc66; }	/* khaki */
+
+
+/* probably need more terms than this */
