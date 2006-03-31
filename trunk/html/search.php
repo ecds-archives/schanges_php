@@ -15,7 +15,7 @@ $tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
-$phrase = $_GET["exact"];
+$phrase = $_GET["exact"]; //print("DEBUG: phrase=$phrase");
 $title = $_GET["title"];
 $author = $_GET["author"];
 $date = $_GET["date"];
@@ -89,12 +89,20 @@ print("DEBUG: all=$all, let=$let");
 
 if ($phrase) {
    if (empty ($kw)) {
-   foreach ($phrarray as $r){
-   array_push ($conditions, "tf:containsText(., '$r') ");
-   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') 
-   let \$allrefs := (\$phrref) ";
-	$wordcount = count($phrarray); 
-	}
+   $all = 'let $allrefs := (';
+   for ($i = 0; $i < count($phrarray); $i++) {
+       $term = "'$phrarray[$i]'";
+       $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
+   if ($i > 0) { $all .= ", ";}
+   $all .= "\$phrref$i"; 
+   array_push($conditions, "tf:containsText(., $term)");
+
+	$countphr = explode(' ', $term); //make string into array to count words
+	$wordcount = count($countphr); 
+}
+	$all .= ") ";
+	$let .= $all;	
+print("DEBUG: let = $let");    
     }
 }
 
@@ -163,7 +171,16 @@ $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
 
 if ($phrase)  {
    if (empty ($kw)) {
-   $return .= "<matches><term>\$phrarray</term><total>{xs:integer(count(\$allrefs) div $wordcount)}</total>"; 
+   $return .= "<matches>";
+   if (count($phrarray) >= 1) { //since an array, treat as multiple terms
+   for ($i = 0; $i < count($phrarray); $i++) {
+       $return .= "<term>$phrarray[$i]</term><count>{count(\$phrref$i)}</count>";
+       }
+
+   }
+   $return .= "<total>{xs:integer(count(\$allrefs) div $wordcount)}</total></matches>";
+
+ 
 //print_r($phrarray);
 }
 }
@@ -225,9 +242,15 @@ print("DEBUG: using kwic");
    $return .= '<context><page>{tf:highlight($a//p[';
 if ($phrase)  {
    if (empty ($kw)) {
-   $return .= "tf:containsText(., '$phrase;)"; 
+   if (count($phrarray) >= 1) {
 //print_r($phrarray);
-}
+      for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG:term count=count($phrarray)");
+      $term = "'$phrarray[$i]'";
+      //print("DEBUG: Term=$term"); //print_r($phrarray[$i]);
+        if ($i > 0) { $return .= " or "; }
+      $return .= "tf:containsText(., $term) ";
+      }
+}}
 }
 
 else if ($kw)  {
@@ -255,7 +278,7 @@ else if (($kw) and ($phrase)) {
       $return .= "tf:containsText(., $phrarray)";  
 	   	}
 	   }
-  $return .= '], $allrefs, "MATCH")}</page></context>';
+  $return .= '], $allrefs, "MATCH")}</page></context>'; print("DEBUG: wordcount=$wordcount. ");
 }
 $return .= "</div2>";
 
@@ -284,8 +307,8 @@ $kwic2_xsl = "kwic-words.xsl";
 // (xslt passes on terms to browse page for highlighting)
 $term_list = implode("|", $myterms);
 $xsl_params = array("term_list"  => $term_list);
-print("DEBUG: param term list=$term_list");
-print("DEBUG: param list=");print_r($xsl_params);
+//print("DEBUG: param term list=$term_list");
+//print("DEBUG: param list=");print_r($xsl_params);
 
 
 print '<div class="content">';
@@ -299,7 +322,7 @@ else
 {
 print "<p class='center'>Number of matching articles: <b>$total</b><br/>" . ($kwic == "true" ? "Keyword in Context " : "") . "Search Results</p>";
 
-  $myopts = "keyword=$kw&title=$title&author=$author&date=$date&place=$place&mode=$mode";
+  $myopts = "keyword=$kw&exact=$phrase&title=$title&author=$author&date=$date&place=$place&mode=$mode";
   // based on KWIC mode, set options for search link & transform result appropriately
   switch ($kwic) {
      case "true": $altopts = "$myopts&pos=$position&max=$maxdisplay&kwic=false";
