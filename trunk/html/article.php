@@ -29,6 +29,7 @@ return $b}
 return 
 <issueid>
 {$c/@id}
+{$c/head}
 </issueid>}
 {let $c := input()/TEI.2/:text/body/div1[@id="' . "$issueid" . '"]
 for $a in $c/div2

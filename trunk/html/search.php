@@ -52,6 +52,7 @@ $declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/Tamino
 $for = ' for $a in input()/TEI.2/:text/body/div1/div2[';
 if ($docid != '') { $for .= "@id = '$docid' and "; }
 
+
 // create an array of conditions for the query, depending on the search terms submitted
 $conditions = array();
 
@@ -102,7 +103,7 @@ if ($phrase) {
 }
 	$all .= ") ";
 	$let .= $all;	
-print("DEBUG: let = $let");    
+//print("DEBUG: let = $let");    
     }
 }
 
@@ -166,7 +167,7 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 
 //print("DEBUG: my terms=");print_r($myterms);
 
-$return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}  ';
+$return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}<issueid>{$a/../@id}</issueid>  ';
 
 
 if ($phrase)  {
@@ -238,7 +239,7 @@ $kwic2_xsl = "kwic-words.xsl";
 
 
 if ($kwic =="true") {
-print("DEBUG: using kwic");
+//print("DEBUG: using kwic");
    $return .= '<context><page>{tf:highlight($a//p[';
 if ($phrase)  {
    if (empty ($kw)) {
@@ -256,8 +257,8 @@ if ($phrase)  {
 else if ($kw)  {
    if (empty($phrase)) {
    if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
-print("DEBUG: "); print_r($kwarray);
-      for ($i = 0; $i < count($kwarray); $i++) { print("DEBUG:term count=count($kwarray)");
+//print("DEBUG: "); print_r($kwarray);
+      for ($i = 0; $i < count($kwarray); $i++) { //print("DEBUG:term count=count($kwarray)");
       $term = "'$kwarray[$i]'";
       print("DEBUG: Term=$term"); print_r($kwarray[$i]);
         if ($i > 0) { $return .= " or "; }
@@ -278,7 +279,7 @@ else if (($kw) and ($phrase)) {
       $return .= "tf:containsText(., $phrarray)";  
 	   	}
 	   }
-  $return .= '], $allrefs, "MATCH")}</page></context>'; print("DEBUG: wordcount=$wordcount. ");
+  $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
 }
 $return .= "</div2>";
 
@@ -346,8 +347,8 @@ print "<p class='center'>Number of matching articles: <b>$total</b><br/>" . ($kw
 
 
   $tamino->count = $total;	// set tamino count from first (count) query, so resultLinks will work
-//  $rlinks = $tamino->resultLinks("search.php?$myopts", $position, $maxdisplay);
- // print $rlinks;
+  $rlinks = $tamino->resultLinks("search.php?$myopts", $position, $maxdisplay);
+  print $rlinks;
 
   // kwic/summary results toggle only relevant if search includes keywords
   if ($kw) {

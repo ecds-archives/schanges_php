@@ -6,11 +6,20 @@
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
 
+<xsl:param name="kwic"/> <!-- value is true if comes from search -->
+
 <xsl:include href="teihtml-tables.xsl"/>
 
 <xsl:include href="table.xsl"/>
-
+<xsl:include href="footnotes.xsl"/>
 <xsl:output method="html"/>  
+
+<xsl:template match="/"> 
+    <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
+    <xsl:apply-templates select="//div1"/>
+    <xsl:call-template name="endnotes"/>
+</xsl:template>
+
 
 <xsl:template match="/"> 
   <!-- recall the article list -->
@@ -266,12 +275,13 @@
 </xsl:template>
 
 <xsl:template name="return">
-<xsl:element name="p">
-<xsl:element name="a">
-<xsl:attribute name="href">articlelist.php?id=cti-schangesfw-<xsl:value-of
-select="//issueid/@id"/></xsl:attribute>Return to Article
-List</xsl:element> <!-- a -->
+      <xsl:element name="p">
+	Go to Article List for <xsl:element name="a">
+	  <xsl:attribute
+	      name="href">articlelist.php?id=cti-schangesfw-<xsl:value-of select="//issueid/@id"/></xsl:attribute><xsl:value-of select="//issueid/head"/> 
+</xsl:element> <!-- a --> 
 </xsl:element> <!-- p -->
+
 </xsl:template>
 
 <!-- simple table test by Alice Hickcox, March 8, 2006 -->
