@@ -18,8 +18,6 @@ $tamino = new xmlDbConnection($args);
 //query for single issue list of articles
 $query = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
 <sibling>
-{for $c in input()/schangesfw-metadata/ctirecord/ctimetadata/rdfRDF/ctiItemGroup[dcidentifier = "' . "$id" . '"]
-return <issueid> {$c/dcidentifier}</issueid>}
 {for $b in input()/schangesfw-metadata[ctirecord/ctimetadata/rdfRDF/ctiItemGroup/dcidentifier = "' . "$id" . '"]
 for $a in $b/ctirecord/ctimetadata/rdfRDF/ctiItem
 return 
@@ -29,7 +27,20 @@ return
 {$a/dcidentifier}
 {$a/dcdescription}
 </result>}
+{for $c in input()/schangesfw-metadata/ctirecord/ctimetadata/rdfRDF/ctiItemGroup[dcidentifier = "' . "$id" . '"]
+return <issueid> {$c/dcidentifier}</issueid>}
+{for $f in input()/schangesfw-metadata
+let $d := $f/ctirecord/ctimetadata/rdfRDF/ctiItemGroup
+return
+<issueidlist>
+{$d/dcidentifier}
+{$d/dcdescription}
+{$d/dcdate}
+</issueidlist>
+sort by (dcdate)} 
 </sibling>';
+
+
 
 $rval = $tamino->xquery($query);
 if ($rval) {       // tamino Error code (0 = success)
