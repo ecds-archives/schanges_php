@@ -66,6 +66,7 @@ $conditions = array();
 }*/
 
 
+
 if ($kw) {
    if (empty ($phrase)) {
       $all = 'let $allrefs := (';
@@ -84,7 +85,7 @@ if ($kw) {
       $let .= $all;
       //$allcount .= ") ";
       //$let .= $allcount;
-print("DEBUG: all=$all, let=$let");
+//print("DEBUG: all=$all, let=$let");
 	      }
 }
 
@@ -108,21 +109,33 @@ if ($phrase) {
 }
 
 if (($kw) and ($phrase)) {
+//print("DEBUG: kw is ");
+//print_r($kwarray); 
+//print("DEBUG: phrase is ");
+//print_r($phrarray);
       $all = 'let $allrefs := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
 	if ($i > 0) { $all .= ", "; } 
-	$all .= "\$ref$i";}
-   foreach ($phrarray as $r){
-   array_push ($conditions, "tf:containsText(., '$r') ");
-   $let .= "let \$phrref := tf:createTextReference(\$a//p, '$r') ";
-   $all .= ", \$phrref";              //this is OK if there is only one phrase
-   $wordcount = count($phrarray);     //if add a phrase, need to iterate
-   }
+	$all .= "\$ref$i"; //print("DEBUG: kw ref var is: $all");
+        array_push($conditions, "tf:containsText(., $term)");
+	}
+	$all .= ", ";
+	for ($i = 0; $i < count($phrarray); $i++) {
+       $term = "'$phrarray[$i]'";
+       $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
+   if ($i > 0) { $all .= ", ";}
+   $all .= "\$phrref$i"; 
+   array_push($conditions, "tf:containsText(., $term)");
+
+	$countphr = explode(' ', $term); //make string into array to count words
+	$wordcount = count($countphr); 
+}
+
       $all .= ") ";
       $let .= $all;
-print("DEBUG: all=$all, let=$let");
+//print("DEBUG: all=$all, let=$let");
 }
 
 if ($title) {
@@ -184,7 +197,7 @@ if ($phrase)  {
  
 //print_r($phrarray);
 }
-}
+
 
 else if ($kw)  {
    if (empty($phrase)) {
@@ -196,19 +209,21 @@ else if ($kw)  {
       $return .= "<total>{count(\$allrefs)}</total></matches>";
       }
 }
-}
 
-else if (($kw) and ($phrase)) {
-   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
+
+if ($phrase) {print("DEBUG: Using kw and phrase. ");
+     $return .= "<matches>";
+   if ((count($kwarray) >=1) and (count($phrarray)>= 1))  {	// if there are multiple terms, display count for each term
       for ($i = 0; $i < count($kwarray); $i++) {
-      $return .= "<matches><term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; 
+      $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; print("DEBUG: kwarray contains");print_r($kwarray);
       }
-      $return .= "<term>$phrarray</term><count>{xs:integer(count(\$allrefs) div $wordcount)}</count></term>";
+      for ($i = 0; $i < count($phrarray); $i++) {
+      $return .= "<term>$phrarray[$i]</term><count>{xs:integer(count(\$allrefs) div $wordcount)}</count>";}
+      }
       $return .= "</matches>";
    	   	}
-	   }
-
-
+}
+}
 
 // if this is a keyword in context search, get context nodes
 // return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
@@ -260,7 +275,7 @@ else if ($kw)  {
 //print("DEBUG: "); print_r($kwarray);
       for ($i = 0; $i < count($kwarray); $i++) { //print("DEBUG:term count=count($kwarray)");
       $term = "'$kwarray[$i]'";
-      print("DEBUG: Term=$term"); print_r($kwarray[$i]);
+      //print("DEBUG: Term=$term"); print_r($kwarray[$i]);
         if ($i > 0) { $return .= " or "; }
       $return .= "tf:containsText(., $term) ";
       }
@@ -352,7 +367,7 @@ print "<p class='center'>Number of matching articles: <b>$total</b><br/>" . ($kw
 
   // kwic/summary results toggle only relevant if search includes keywords
   if ($kw) {
-    print "<p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
+    print "<br/><p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
   }
 
   /*if ($kwic == "true") {
