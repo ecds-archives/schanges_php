@@ -1,9 +1,9 @@
 <?php
 
 include_once("config.php");
-//include_once("xmlDbConnection.class.php");
+include_once("xmlDbConnection.class.php");
 include("common_functions.php");
-include_once("CTI/xmlDbConnection.class.php");
+//include_once("CTI/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 

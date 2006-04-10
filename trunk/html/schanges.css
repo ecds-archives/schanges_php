@@ -19,11 +19,12 @@ div.header h2 { font-family: "Book Antiqua", "Times",serif;
 	   margin: -4px; 
 	   line-height:120%;}
 
-p.searchbox {font-size:80%; 
+p.searchbox {font-size:90%; 
 	    width=50%; 
 	    text-align:center; 
-	    margin-left:5px; 
-	    background-color: #eeeeee; 
+	    margin-left:25%;
+	    margin-right:25%; 
+	    background-color: #ffe59e; 
 	    padding:4px; }
 
 /*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/

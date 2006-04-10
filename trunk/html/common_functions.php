@@ -22,13 +22,13 @@ function getCSS () {
   //  $css_basepath = "http://cti.library.emory.edu/iln/";
   //  $css_basepath = "http://cti.library.emory.edu/southernchanges";
   $css = "schanges.css"; 
-  if ($browser == "MSIE") {
+ /* if ($browser == "MSIE") {
     if ($os == "mac") {
       $css = "iln-iemac.css";
     } else if ($os == "win") {
       $css = "iln-iewin.css";
     }
-  }
+  }*/
   return "$css_basepath$css";
 }
 
@@ -48,13 +48,13 @@ print "<html>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";
 
 // only load content-list javascript if needed
- if ($contentlist) {
+/* if ($contentlist) {
    print "<script language=\"Javascript\" 
     src=\"$base_url/cookies.js\"></script>
 <script language=\"Javascript\" 
 	src=\"$base_url/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
- }
+ }*/
 print "<script language=\"Javascript\"
        src=\"$base_url/image_viewer/launchViewer.js\"></script>
  </head>";
