@@ -15,7 +15,7 @@ $tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
-$phrase = $_GET["exact"]; //print("DEBUG: phrase=$phrase");
+$phrase = $_GET["exact"]; print("DEBUG: phrase=$phrase. ");
 $title = $_GET["title"];
 $author = $_GET["author"];
 $date = $_GET["date"];
@@ -32,9 +32,11 @@ if ($kwic == '') $kwic = "false";
 if ($position == '') $position = 1;
 // set a default maxdisplay
 if ($maxdisplay == '') $maxdisplay = 10;       // what is a reasonable default?
-
-$kwarray = processterms($kw);
-$phrarray[] = trim($phrase);
+if (empty ($kw)) { unset($kwarray); }
+else { $kwarray = processterms($kw); }
+if (empty ($phrase)) { unset($phrarray); } //Empty array
+    else {
+      $phrarray[] = trim($phrase);} //$debug1 = (count($phrarray));print("DEBUG: initial count of phrasearray is $debug1. ");
 $ttlarray=processterms($title);
 $autharray=processterms($author);
 $darray=processterms($date);
@@ -182,7 +184,7 @@ if ($date) {$myterms = array_merge($myterms, $darray); }
 
 $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}<issueid>{$a/../@id}</issueid>  ';
 
-
+/*Make it simpler?
 if ($phrase)  {
    if (empty ($kw)) {
    $return .= "<matches>";
@@ -193,12 +195,12 @@ if ($phrase)  {
 
    }
    $return .= "<total>{xs:integer(count(\$allrefs) div $wordcount)}</total></matches>";
-
+*/
  
 //print_r($phrarray);
-}
+//}
 
-
+/*
 else if ($kw)  {
    if (empty($phrase)) {
    $return .= "<matches>";
@@ -208,22 +210,28 @@ else if ($kw)  {
       	}
       $return .= "<total>{count(\$allrefs)}</total></matches>";
       }
+   }
 }
+else if ($phrase) {print("DEBUG: Using kw and phrase. ");*/
 
 
-if ($phrase) {print("DEBUG: Using kw and phrase. ");
+//use only this
      $return .= "<matches>";
-   if ((count($kwarray) >=1) and (count($phrarray)>= 1))  {	// if there are multiple terms, display count for each term
+   /*if ((count($kwarray) >=1) and (count($phrarray)>= 1))  {	// if there are multiple terms, display count for each term*/
+   if ((count($kwarray) >=1)) { $debug3 = (count($kwarray));print("DEBUG: count of kw array is $debug3. ");
       for ($i = 0; $i < count($kwarray); $i++) {
       $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; print("DEBUG: kwarray contains");print_r($kwarray);
       }
-      for ($i = 0; $i < count($phrarray); $i++) {
-      $return .= "<term>$phrarray[$i]</term><count>{xs:integer(count(\$allrefs) div $wordcount)}</count>";}
+   }
+if (count($phrarray) >= 1) {$debug2 = (count($phrarray));print("DEBUG: count of phrasearray is $debug2. ");
+     for ($i = 0; $i < count($phrarray); $i++) { print("DEBUG: ");print_r($phrarray);
+      $return .= "<term>$phrarray[$i]<count>{xs:integer(count(\$allrefs) div $wordcount)}</count></term>";}
       }
-      $return .= "</matches>";
-   	   	}
-}
-}
+//$return .= "</matches>";
+      $return .= "<total>{count(\$allrefs)}</total></matches>";
+if ($kwic !== "true") { $return .= '</div2>'; }  	   	
+
+
 
 // if this is a keyword in context search, get context nodes
 // return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
@@ -240,7 +248,7 @@ if ($phrase) {print("DEBUG: Using kw and phrase. ");
   $return .= '], $allrefs, "MATCH")}</page></context>';
 }
 $return .= '</div2>';*/ //Not using page context
-
+//}
 $countquery = "$declare <total>{count($for $where return \$a)}</total>";
 $query = "$declare $for$where $let $return $sort";
 //$tamino->xquery($countquery);
@@ -254,55 +262,38 @@ $kwic2_xsl = "kwic-words.xsl";
 
 
 if ($kwic =="true") {
-//print("DEBUG: using kwic");
+print("DEBUG: using kwic");
    $return .= '<context><page>{tf:highlight($a//p[';
-if ($phrase)  {
-   if (empty ($kw)) {
-   if (count($phrarray) >= 1) {
-//print_r($phrarray);
-      for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG:term count=count($phrarray)");
+
+
+
+   if (count($kwarray) >= 1) {	/*if there are multiple terms, display count for each term, also now for 1 phrase term*/
+      for ($i = 0; $i < count($kwarray); $i++) {
+      $term = "'$kwarray[$i]'"; 
+      if ($i > 0) { $return .= " or "; }
+      $return .= "tf:containsText(., $term) "; print("DEBUG: term $return");
+      }
+      }
+      if (count($phrarray) >= 1) {
+      	 if (count($kwarray) >= 1) {$return .= " or "; }
+      for ($i = 0; $i < count($phrarray); $i++) { print("DEBUG:term count=count($phrarray)");
       $term = "'$phrarray[$i]'";
       //print("DEBUG: Term=$term"); //print_r($phrarray[$i]);
         if ($i > 0) { $return .= " or "; }
       $return .= "tf:containsText(., $term) ";
-      }
-}}
-}
-
-else if ($kw)  {
-   if (empty($phrase)) {
-   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
-//print("DEBUG: "); print_r($kwarray);
-      for ($i = 0; $i < count($kwarray); $i++) { //print("DEBUG:term count=count($kwarray)");
-      $term = "'$kwarray[$i]'";
-      //print("DEBUG: Term=$term"); print_r($kwarray[$i]);
-        if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(., $term) ";
-      }
-}
-}
-}
-
-
-else if (($kw) and ($phrase)) {
-   if (count($kwarray) >= 1) {	/*if there are multiple terms, display count for each term, also now for 1 phrase term*/
-      for ($i = 0; $i < count($kwarray); $i++) {
-      $term = "$kwarray[$i]"; 
-      if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(., $term) ";
-      }
-      $return .= "tf:containsText(., $phrarray)";  
+      
 	   	}
 	   }
-  $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
-}
+if (($kw) OR ($phrase)) {	   
+  $return .= '], $allrefs, "MATCH")}</page></context>'; print("DEBUG: wordcount=$wordcount. ");
+
+
 $return .= "</div2>";
-
-
+}
 if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
    $sort = 'sort by (xs:int(matches/total) descending)';
 }
-
+}
 
 $query = "$declare $for$where $let $return $sort";
 

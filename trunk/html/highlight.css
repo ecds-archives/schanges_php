@@ -14,3 +14,9 @@ span.term8 { background-color: #cccc66; }	/* khaki */
 
 
 /* probably need more terms than this */
+
+//if term# is not inserted (phrase search)
+//This is not working??
+span.match { font-weight: bold; }	
+//span.match { font-weight: bold; font-color: red; }
+span.term-totals { font-size: 85%; }

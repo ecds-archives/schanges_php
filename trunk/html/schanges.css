@@ -109,8 +109,7 @@ span#con span#euc span#ul span#eu {padding: 0 1em}
 hr.foot {width: 613px;}
 
 //Styles for search matching, tables
-span.match { font-weight: bold; font-color: red;}
-span.term-totals { font-size: 85%; }
+
 td.count { width:15%; text-align: center; }
 td.link {width:25px; font-size:85%; text-align:center;}
 table.kwicsearchresults { width:90%; }
