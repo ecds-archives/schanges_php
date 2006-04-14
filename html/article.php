@@ -1,13 +1,15 @@
 <?php
 
 include_once("config.php");
-include_once("xmlDbConnection.class.php");
+//include_once("xmlDbConnection.class.php");
 include("common_functions.php");
-//include_once("CTI/xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 
 $issueid = $_GET["mdid"];
+
+$terms = $_GET["term"];
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db["data-db"],
@@ -81,15 +83,15 @@ include("xml/browse-head.xml");
 
 
 print '<div class="content">';
+$tamino->highlightInfo($terms);
 
 print '<h2>Article</h2>';
-
 
 $xsl_file = "article.xsl";
 $xsl_params = array('mode' => "flat", "vol" => $vol);
 $tamino->xslTransform($xsl_file, $xsl_params);
 //$tamino->xslTransform($xsl_file);
-$tamino->printResult();
+$tamino->printResult($terms);
 
 ?> 
    
