@@ -32,7 +32,7 @@ select="ino:response/xq:query"/></xsl:variable>
   <xsl:element name="ul">
     <xsl:attribute name="class">contents</xsl:attribute>
   <xsl:element name="li">
-    <xsl:value-of select="dccreator"/>, <xsl:element name="a">
+    <xsl:apply-templates select="dccreator"/>, <xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
       select="substring-after(dcidentifier,'cti-schangesfw-')"/>&amp;mdid=<xsl:value-of
       select="substring-after(//sibling/issueid/dcidentifier,'cti-schangesfw-') "/></xsl:attribute> <xsl:value-of
@@ -43,6 +43,36 @@ select="ino:response/xq:query"/></xsl:variable>
   </xsl:element><!-- ul -->
 
 </xsl:template>
+
+<!-- handle multiple dccreators -->
+<!-- copied from tgfwfw/src/cocoon/webapp/tgfw/stylesheets/search-results-metadata.xsl  -->
+<!-- browse list of unique authors  (returns two or more dccreators for each name) 
+  authoritative author name (title page name[, other title page name(s)]) --> 
+<xsl:template match="dccreator">
+  <!-- <xsl:template match="dccreator"> -->
+
+    <xsl:choose>
+      <xsl:when test="position() = 1"/>
+ <xsl:when test="position() = last()">
+        <xsl:text> and </xsl:text>
+      </xsl:when>
+    <xsl:otherwise>
+	<xsl:text>, </xsl:text>
+      </xsl:otherwise>
+  </xsl:choose>
+  
+
+    <xsl:apply-templates />
+ 
+
+<!--
+  <xsl:if test="position() = last()">
+    <xsl:text>)</xsl:text>
+  </xsl:if>
+-->
+</xsl:template>
+
+
 
 <!-- generate next & previous links (if present) -->
 <!-- note: all div2s, with id, head, and bibl are retrieved in a
