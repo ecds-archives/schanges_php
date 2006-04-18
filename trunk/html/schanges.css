@@ -18,14 +18,16 @@ div.header h2 { font-family: "Book Antiqua", "Times",serif;
 	   font-size: 13pt; 
 	   margin: -4px; 
 	   line-height:120%;}
-
+div.headerseachbox {text-align: center;
+		   display: block;
+	    	   width: 50%; }
 p.searchbox {font-size:90%; 
-	    width=50%; 
-	    text-align:center; 
-	    margin-left:25%;
-	    margin-right:25%; 
+	    text-align: center;
+	    display: block; 
+	    margin-left: auto;
+	    margin-right: auto; 
 	    background-color: #ffe59e; 
-	    padding:4px; }
+	    padding: 10px; }
 
 /*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
 
@@ -34,19 +36,22 @@ p.searchbox input#go{margin-left:5px;}
 
 div.headimage {position:static;  
 	      margin-top 3em; 
-	      margin-bottom: 2em; 
-	      margin-left: 15%; 
-	      margin-right: 15%;}
+	      margin-bottom: 1em; }
+
+img.headimage {display: block;
+	      text-align: center;
+	      margin-left: auto; 
+	      margin-right: auto;}
 
 div.nav {font-family: "Papyrus", Book Antiqua, Times, serif; 
 	font-size: 24pt;  
 	text-decoration: none; 
 	text-align: center;}
 
-p.navlinks {float: center; 
-	   text-align: center;		
+p.navlinks {text-align: center;		
 	   margin-left: auto; 
-	   margin-right: auto;}
+	   margin-right: auto;
+	   display: inline;}
 
 span#ov {padding: 0 1em;}
 span#br {padding: 0 1em;}
@@ -54,12 +59,20 @@ span#se {padding: 0 1em;}
 
 div.teenimage {position: static; 
 	      margin-top: 3em; 
-	      margin-bottom: 6em;  
-	      margin-left: 27%;}
+	      margin-bottom: 3em;}
+img.teenimage {display: block;
+	    text-align: center;
+	      margin-left: auto;
+	      margin-right: auto;}
 
 div.teensub {position: static; 
-	    margin-bottom: 3em; 
-	    margin-left: 20%;}
+	    margin-bottom: 3em; }
+
+img.teensub {display: block;
+	    text-align: center;
+	      margin-left: auto;
+	      margin-right: auto;}
+	    
 
 div.subnav {font-family: "Papyrus", Book Antiqua, Times, serif;
 	   font-size: 18pt; 
@@ -67,7 +80,9 @@ div.subnav {font-family: "Papyrus", Book Antiqua, Times, serif;
 	   text-align: center;} 
 
 p.navlinks {margin-left: auto; 
-	   margin-right:auto;} 
+	   margin-right:auto;
+	   display: inline;
+	   text-shadow: 0.12em 0.12em 0.1em black} 
 
 span#ho {padding: 0 1em;} 
 span#ov {padding: 0 1em;} 
@@ -79,12 +94,14 @@ div.content {font-family Book Antiqua, Times, serif;
 	    font-size: 12pt; 
 	    text-decoration: none; 
 	    text-align: left; 
-	    margin-left: 2em;}
+	    margin-left: 2em;
+	    margin-right: 2em;}
 
 div.externalnav {text-align: center; 
 		font-family: "Papyrus", Book Antiqua, Times, serif; 
 		font-size: 14pt; 
-		text-decoration: none;}
+		text-decoration: none;
+	   	text-shadow: 0.1em 0.1em 0.1em black}
 
 p#beck {margin-left: auto; 
        margin-bottom: 1em; 

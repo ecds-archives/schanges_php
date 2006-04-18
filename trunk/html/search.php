@@ -1,8 +1,8 @@
 <?php
 include_once("config.php");
 
-include_once("lib/xmlDbConnection.class.php");
-//include_once("CTI/xmlDbConnection.class.php");
+//include_once("lib/xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET['id'];
@@ -10,12 +10,12 @@ $id = $_GET['id'];
 $args = array('host' => $tamino_server,
 		'db' => $tamino_db["data-db"],
 	      	'coll' => $tamino_coll["data-coll"],
-	        'debug' => 'true');
+	        'debug' => true);
 $tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];
-$phrase = $_GET["exact"]; print("DEBUG: phrase=$phrase. ");
+$phrase = $_GET["exact"]; //print("DEBUG: phrase=$phrase. ");
 $title = $_GET["title"];
 $author = $_GET["author"];
 $date = $_GET["date"];
@@ -71,20 +71,20 @@ $conditions = array();
 
 if ($kw) {
    if (empty ($phrase)) {
-      $all = 'let $allrefs := (';
+      $allk = 'let $allkwrefs := (';
       //$allcount = 'let $allcounts := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
 	//$let .= "let \$count$i := tf:createTextReference(\$a//p//text(), $term) ";
-	if ($i > 0) { $all .= ", "; $allcount .= ", "; } //remove $allcount?
-	$all .= "\$ref$i"; 
+	if ($i > 0) { $allk .= ", "; $allcount .= ", "; } //remove $allcount?
+	$allk .= "\$ref$i"; 
 	//$allcount .= "\$count$i"; 
         array_push($conditions, "tf:containsText(., $term)");
       }
 
-      $all .= ") ";
-      $let .= $all;
+      $allk .= ") ";
+      $let .= $allk;
       //$allcount .= ") ";
       //$let .= $allcount;
 //print("DEBUG: all=$all, let=$let");
@@ -93,19 +93,19 @@ if ($kw) {
 
 if ($phrase) {
    if (empty ($kw)) {
-   $all = 'let $allrefs := (';
+   $allp = 'let $allphrefs := (';
    for ($i = 0; $i < count($phrarray); $i++) {
        $term = "'$phrarray[$i]'";
        $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
-   if ($i > 0) { $all .= ", ";}
-   $all .= "\$phrref$i"; 
+   if ($i > 0) { $allp .= ", ";}
+   $allp .= "\$phrref$i"; 
    array_push($conditions, "tf:containsText(., $term)");
 
 	$countphr = explode(' ', $term); //make string into array to count words
 	$wordcount = count($countphr); 
 }
-	$all .= ") ";
-	$let .= $all;	
+	$allp .= ") ";
+	$let .= $allp;	
 //print("DEBUG: let = $let");    
     }
 }
@@ -115,28 +115,29 @@ if (($kw) and ($phrase)) {
 //print_r($kwarray); 
 //print("DEBUG: phrase is ");
 //print_r($phrarray);
-      $all = 'let $allrefs := (';
+      $allk = 'let $allkwrefs := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
-	if ($i > 0) { $all .= ", "; } 
-	$all .= "\$ref$i"; //print("DEBUG: kw ref var is: $all");
+	if ($i > 0) { $allk .= ", "; } 
+	$allk .= "\$ref$i"; //print("DEBUG: kw ref var is: $allk");
         array_push($conditions, "tf:containsText(., $term)");
 	}
-	$all .= ", ";
+	$allk .= ")";
+	$allp = 'let $allphrefs := (';
 	for ($i = 0; $i < count($phrarray); $i++) {
        $term = "'$phrarray[$i]'";
        $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
-   if ($i > 0) { $all .= ", ";}
-   $all .= "\$phrref$i"; 
+   if ($i > 0) { $allp .= ", ";}
+   $allp .= "\$phrref$i"; 
    array_push($conditions, "tf:containsText(., $term)");
 
 	$countphr = explode(' ', $term); //make string into array to count words
 	$wordcount = count($countphr); 
 }
 
-      $all .= ") ";
-      $let .= $all;
+      $allp .= ") ";
+      $let .= $allp;
 //print("DEBUG: all=$all, let=$let");
 }
 
@@ -216,21 +217,30 @@ else if ($phrase) {print("DEBUG: Using kw and phrase. ");*/
 
 
 //use only this
+if (($kw) or ($phrase)) {
      $return .= "<matches>";
    /*if ((count($kwarray) >=1) and (count($phrarray)>= 1))  {	// if there are multiple terms, display count for each term*/
-   if ((count($kwarray) >=1)) { $debug3 = (count($kwarray));print("DEBUG: count of kw array is $debug3. ");
+     if ((count($kwarray) >=1)) { //$debug3 = (count($kwarray));print("DEBUG: count of kw array is $debug3. ");
       for ($i = 0; $i < count($kwarray); $i++) {
-      $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; print("DEBUG: kwarray contains");print_r($kwarray);
+	$return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>"; //print("DEBUG: kwarray contains");print_r($kwarray);
       }
    }
-if (count($phrarray) >= 1) {$debug2 = (count($phrarray));print("DEBUG: count of phrasearray is $debug2. ");
-     for ($i = 0; $i < count($phrarray); $i++) { print("DEBUG: ");print_r($phrarray);
-      $return .= "<term>$phrarray[$i]<count>{xs:integer(count(\$allrefs) div $wordcount)}</count></term>";}
-      }
+     if (count($phrarray) >= 1) {//$debug2 = (count($phrarray));print("DEBUG: count of phrasearray is $debug2. ");
+       for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG: ");print_r($phrarray);
+	 
+	$countphr = explode(' ', $term); //make string into array to count words
+	$wordcount = count($countphr); print("DEBUG: wordcount is $wordcount. ");
+	
+	$return .= "<term>$phrarray[$i]<count>{xs:integer(count(\$phrref$i) div $wordcount)}</count></term>"; 
+       
+	$wordcounttot += $wordcount;}
+       print("DEBUG: total word count is $wordcounttot. "); }
 //$return .= "</matches>";
-      $return .= "<total>{count(\$allrefs)}</total></matches>";
+
+      $return .= "<total>{(count(\$allkwrefs))" . " \+ " . "(count(\$allphrefs) div $wordcounttot)}</total></matches>";}
 if ($kwic !== "true") { $return .= '</div2>'; }  	   	
 
+   $sort = 'sort by (xs:int(matches/total) descending)';
 
 
 // if this is a keyword in context search, get context nodes
@@ -262,7 +272,7 @@ $kwic2_xsl = "kwic-words.xsl";
 
 
 if ($kwic =="true") {
-print("DEBUG: using kwic");
+  //print("DEBUG: using kwic");
    $return .= '<context><page>{tf:highlight($a//p[';
 
 
@@ -271,12 +281,12 @@ print("DEBUG: using kwic");
       for ($i = 0; $i < count($kwarray); $i++) {
       $term = "'$kwarray[$i]'"; 
       if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(., $term) "; print("DEBUG: term $return");
+      $return .= "tf:containsText(., $term) "; //print("DEBUG: term $return");
       }
       }
       if (count($phrarray) >= 1) {
       	 if (count($kwarray) >= 1) {$return .= " or "; }
-      for ($i = 0; $i < count($phrarray); $i++) { print("DEBUG:term count=count($phrarray)");
+	 for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG:term count=count($phrarray)");
       $term = "'$phrarray[$i]'";
       //print("DEBUG: Term=$term"); //print_r($phrarray[$i]);
         if ($i > 0) { $return .= " or "; }
@@ -285,7 +295,7 @@ print("DEBUG: using kwic");
 	   	}
 	   }
 if (($kw) OR ($phrase)) {	   
-  $return .= '], $allrefs, "MATCH")}</page></context>'; print("DEBUG: wordcount=$wordcount. ");
+  $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
 
 
 $return .= "</div2>";
