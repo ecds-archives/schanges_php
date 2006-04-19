@@ -1,8 +1,8 @@
 <?php
 include_once("config.php");
 
-//include_once("lib/xmlDbConnection.class.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
+//include_once("CTI/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET['id'];
@@ -72,19 +72,23 @@ $conditions = array();
 if ($kw) {
    if (empty ($phrase)) {
       $allk = 'let $allkwrefs := (';
+      $all = 'let $allrefs := (';
       //$allcount = 'let $allcounts := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
 	//$let .= "let \$count$i := tf:createTextReference(\$a//p//text(), $term) ";
-	if ($i > 0) { $allk .= ", "; $allcount .= ", "; } //remove $allcount?
+	if ($i > 0) { $allk .= ", "; $all .= ", "; } //remove $allcount?
 	$allk .= "\$ref$i"; 
+	$all .= "\$ref$i";
 	//$allcount .= "\$count$i"; 
         array_push($conditions, "tf:containsText(., $term)");
       }
 
       $allk .= ") ";
+      $all .= ") ";
       $let .= $allk;
+      $let .= $all;
       //$allcount .= ") ";
       //$let .= $allcount;
 //print("DEBUG: all=$all, let=$let");
@@ -94,11 +98,13 @@ if ($kw) {
 if ($phrase) {
    if (empty ($kw)) {
    $allp = 'let $allphrefs := (';
+   $all = 'let $allrefs := (';
    for ($i = 0; $i < count($phrarray); $i++) {
        $term = "'$phrarray[$i]'";
        $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
-   if ($i > 0) { $allp .= ", ";}
+   if ($i > 0) { $allp .= ", "; $all .= ", ";}
    $allp .= "\$phrref$i"; 
+   $all .= "\$phrref$i"; 
    array_push($conditions, "tf:containsText(., $term)");
 
 	$countphr = explode(' ', $term); //make string into array to count words
@@ -106,6 +112,8 @@ if ($phrase) {
 }
 	$allp .= ") ";
 	$let .= $allp;	
+	$all .= ") ";
+	$let .= $all;
 //print("DEBUG: let = $let");    
     }
 }
@@ -116,20 +124,25 @@ if (($kw) and ($phrase)) {
 //print("DEBUG: phrase is ");
 //print_r($phrarray);
       $allk = 'let $allkwrefs := (';
+      $all = 'let $allrefs := (';
       for ($i = 0; $i < count($kwarray); $i++) {
 	$term = "'$kwarray[$i]'";
 	$let .= "let \$ref$i := tf:createTextReference(\$a//p, $term) ";
-	if ($i > 0) { $allk .= ", "; } 
-	$allk .= "\$ref$i"; //print("DEBUG: kw ref var is: $allk");
+	if ($i > 0) { $allk .= ", "; $all .= ", ";} 
+	$allk .= "\$ref$i"; 
+	$all .= "\$ref$i";
         array_push($conditions, "tf:containsText(., $term)");
 	}
-	$allk .= ")";
+      $allk .= ") "; //print("DEBUG: kw ref var is: $allk");
+      $all .= ", ";
+	$let .= $allk;
 	$allp = 'let $allphrefs := (';
 	for ($i = 0; $i < count($phrarray); $i++) {
        $term = "'$phrarray[$i]'";
        $let .= "let \$phrref$i := tf:createTextReference(\$a//p, $term)";
-   if ($i > 0) { $allp .= ", ";}
-   $allp .= "\$phrref$i"; 
+       if ($i > 0) { $allp .= ", "; $all .= ", ";}
+   $allp .= "\$phrref$i";
+   $all .= "\$phrref$i";
    array_push($conditions, "tf:containsText(., $term)");
 
 	$countphr = explode(' ', $term); //make string into array to count words
@@ -137,7 +150,9 @@ if (($kw) and ($phrase)) {
 }
 
       $allp .= ") ";
+      $all .= ") ";
       $let .= $allp;
+      $let .= $all;
 //print("DEBUG: all=$all, let=$let");
 }
 
@@ -229,16 +244,31 @@ if (($kw) or ($phrase)) {
        for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG: ");print_r($phrarray);
 	 
 	$countphr = explode(' ', $term); //make string into array to count words
-	$wordcount = count($countphr); print("DEBUG: wordcount is $wordcount. ");
+	$wordcount = count($countphr); //print("DEBUG: wordcount is $wordcount. ");
 	
 	$return .= "<term>$phrarray[$i]<count>{xs:integer(count(\$phrref$i) div $wordcount)}</count></term>"; 
        
 	$wordcounttot += $wordcount;}
-       print("DEBUG: total word count is $wordcounttot. "); }
-//$return .= "</matches>";
+       //print("DEBUG: total word count is $wordcounttot. "); 
+     }
+     
 
-      $return .= "<total>{(count(\$allkwrefs))" . " \+ " . "(count(\$allphrefs) div $wordcounttot)}</total></matches>";}
-if ($kwic !== "true") { $return .= '</div2>'; }  	   	
+
+       if (($kw) and ($phrase)) {
+	 $return .= "<total>{(count(\$allkwrefs))  +  xs:integer(count(\$allphrefs) div $wordcounttot)}" ;
+       }
+
+     if (($kw) and !($phrase)) {
+       $return .= "<total>{(count(\$allkwrefs))}";
+       }
+     if (($phrase) and !($kw)) {
+	 $return .= "<total>{xs:integer(count(\$allphrefs) div $wordcounttot)}";
+	 } 
+
+	 $return .= "</total></matches>";
+}
+if ($kwic !== "true") { $return .= '</div2>'; }  
+	   	
 
    $sort = 'sort by (xs:int(matches/total) descending)';
 
@@ -282,9 +312,9 @@ if ($kwic =="true") {
       $term = "'$kwarray[$i]'"; 
       if ($i > 0) { $return .= " or "; }
       $return .= "tf:containsText(., $term) "; //print("DEBUG: term $return");
+             }
       }
-      }
-      if (count($phrarray) >= 1) {
+   if (count($phrarray) >= 1) {
       	 if (count($kwarray) >= 1) {$return .= " or "; }
 	 for ($i = 0; $i < count($phrarray); $i++) { //print("DEBUG:term count=count($phrarray)");
       $term = "'$phrarray[$i]'";
@@ -294,11 +324,11 @@ if ($kwic =="true") {
       
 	   	}
 	   }
-if (($kw) OR ($phrase)) {	   
-  $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
+if (($kw) OR ($phrase)) {
+    $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
 
 
-$return .= "</div2>";
+    $return .= "</div2>"; print("DEBUG: return in kwic is $return");
 }
 if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
    $sort = 'sort by (xs:int(matches/total) descending)';

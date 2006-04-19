@@ -127,14 +127,28 @@ hr.foot {width: 613px;}
 
 //Styles for search matching, tables
 
-td.count { width:15%; text-align: center; }
-td.link {width:25px; font-size:85%; text-align:center;}
+td.count { width:15%; 
+	 text-align: center; }
+
+td.link {width:25px; 
+	font-size:85%; 
+	text-align:center;}
+
 table.kwicsearchresults { width:90%; }
-table.searchresults { width:90%;  border-collapse: collapse; }
+
+table.searchresults { width:90%;  
+		    border-collapse: collapse; }
+
 table.searchresults td { border-bottom: 1px solid #cccccc; }
-p.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
-table.kwic { margin: 5px 0.5in 5px 0.5in; border-bottom: 1px solid #cccccc;}
-table.kwic td.pn { width: 65px; vertical-align: center;}
+
+p.kwic { margin: 5px 0.5in 5px 0.5in; 
+       border-bottom: 1px solid #cccccc;}
+
+table.kwic { margin: 5px 0.5in 5px 0.5in; 
+	   border-bottom: 1px solid #cccccc;}
+
+table.kwic td.pn { width: 65px; 
+	   vertical-align: center;}
 
 /* link results - display as horizontal list, inline, with lines between */
 li.resultlink, li.firstresultlink { 
@@ -147,3 +161,4 @@ li.resultlink, li.firstresultlink {
 li.firstresultlink { border-left: none; }
 div.resultlink { float: right; padding-right: 0.5in;}
 
+span.match { font-weight: bold; }
