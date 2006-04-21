@@ -1,4 +1,5 @@
 @import "highlight.css";
+@import "footnotes.css";
 body { text-color: #333333;}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
