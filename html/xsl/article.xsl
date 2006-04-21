@@ -9,15 +9,14 @@
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
 
 <xsl:include href="teihtml-tables.xsl"/>
-
 <xsl:include href="table.xsl"/>
 <xsl:include href="footnotes.xsl"/>
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
     <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
-    <xsl:apply-templates select="//div1"/>
-    <xsl:call-template name="endnotes"/>
+    <xsl:apply-templates select="//div2"/>
+
 </xsl:template>
 
 
@@ -25,6 +24,8 @@
   <!-- recall the article list -->
   <xsl:call-template name="return" />
 <xsl:apply-templates select="//div2" />
+<!-- display footnotes at end -->
+    <xsl:call-template name="endnotes"/>
   <!-- recall the article list -->
   <xsl:call-template name="return" />
 <!-- links to next & previous titles (if present) -->
@@ -313,6 +314,8 @@
 <xsl:apply-templates/>
 </td>
 </xsl:template>
+
+
 
 </xsl:stylesheet>
 
