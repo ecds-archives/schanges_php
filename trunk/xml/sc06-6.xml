@@ -654,12 +654,12 @@ low birth weights--a major factor contributing to infants' "failure to
 thrive,"--leaving them susceptible to many other health problems.</p>
           <p>"We are all quite shaken at what we have seen," Dr. Brown said at
 the end of the Task Force's first foray into the South. "We did not
-see kwashiokor and marasmus*--which are signs of extreme malnutrition
+see kwashiokor and marasmus<ref target="sc06-6004n1">*</ref>--which are signs of extreme malnutrition
 that you see in Third World countries, but we did see widespread
 hunger--and it was not hard to find. We saw malnutrition that was
 altogether too extensive. Children are failing to grow properly, some
 are dying.</p>
-          <note place="foot">
+          <note id="sc06-6004n1" place="foot" n="*">
             <p>*Kwashiokor, is an illness which develops from a
 combination of three dietary deficiencies: low calories, low vitamins
 and low proteins. Under extreme reduction of calories, all the fat
@@ -1551,7 +1551,7 @@ now have some grasp of the game's social importance. James describes
 his own upbringing in Trinidad amidst accounts of fast bowlers, short
 legs and off breaks:</p>
           <p>
-            <q direct="unspecified">My father's father was an emigrant from one of the smaller
+            <q>My father's father was an emigrant from one of the smaller
 islands, and probably landed with nothing F5ut he made his way, and as
 a mature man worked as a pan-boiler on a sugar estate, a responsible
 job involving the critical transition of the boiling cane-juice from
@@ -1569,8 +1569,8 @@ children grew up in unending struggle not to sink below the level of
 the Sunday-morning top-hat and frock-coat.</q>
           </p>
           <p>Not a word about cricket, yet suddenly we understand the appeal of
-that restrained and genteel sport.*</p>
-          <note place="end">
+that restrained and genteel sport.<ref target="sc06-6008n1">*</ref></p>
+          <note id="sc06-6008n1" place="end" n="*">
             <p>* C. L. R. James, <title>Beyond a Boundary</title>
 (New York: Pantheon, 1983), p. 17-18, originally London: Stanley Paul
 and Co. 1963.</p>
@@ -1611,7 +1611,7 @@ to offer, no way they could preach it or talk it. Well, he slowed them
 down, but he didn't stop .hem. They went ahead and adopted their
 "Goals and Objectives" for Southern Appalachia, one of which read--</p>
           <p>
-            <q direct="unspecified">3. Educational institutions in Appalachia must relate more
+            <q>3. Educational institutions in Appalachia must relate more
 consciously to the mountain experience. They must include a concern
 for the rich historical and cultural heritage of the region, an
 awareness of the relationship between human beings and their land, and
@@ -1653,7 +1653,7 @@ rather naive and romantic notion that Appalachia in the early 1920's
 was still an "isolated, preindustrial, premercantile society," but
 Whisnant sets that notion against some sobering reality:</p>
           <p>
-            <q direct="unspecified">By 1925, however, even rural Cherokee and Clay counties were
+            <q>By 1925, however, even rural Cherokee and Clay counties were
 neither preindustrial nor premercantile. The local weekly newspaper
 regularly cataloged the arrival of mass culture in the late 1920's: a
 traveling tent show was competing for an audience with "The 
