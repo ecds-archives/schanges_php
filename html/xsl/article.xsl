@@ -100,6 +100,21 @@
   </xsl:element>
 </xsl:template>
 
+<xsl:template match="speaker">
+<xsl:element name="br"/>
+<xsl:element name="span">
+<xsl:attribute name="class">speaker</xsl:attribute>
+<xsl:apply-templates/>
+</xsl:element>
+</xsl:template>
+
+<xsl:template match="sp/p">
+<xsl:element name="span">
+<xsl:attribute name="class">speech</xsl:attribute>
+<xsl:apply-templates/>
+</xsl:element>
+<xsl:element name="br"/>
+</xsl:template>
 
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic, smallcaps, bold   -->

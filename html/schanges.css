@@ -8,7 +8,7 @@ div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ ma
 
 /* styles for main part of page */ 
 a:link {color: #AD6F0A; text-decoration: none; }
-a:visited {color: #AD6F0A; text-decoration:none;}
+a:visited {color: #310912; text-decoration:none;}
 
 div.header h1 { font-family: "Book Antiqua", "Times",serif; 
 	   font-size: 36pt; 
@@ -111,6 +111,10 @@ p#beck {margin-left: auto;
 /*p#src {float: right; margin-right: 25%; margin-bottom: 1em;}*/
 
 span#bc, span#src {padding: 0 2em;}
+
+span.speaker {font-weight: bold;}
+
+span.speech {display: inline;}
 
 
 div.foot {display:block; 
