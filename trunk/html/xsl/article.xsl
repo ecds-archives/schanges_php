@@ -40,7 +40,7 @@
 </xsl:template>
 
 <!-- display the title -->
-<xsl:template match="head">
+<xsl:template match="head" mode="div2">
   <xsl:element name="h1">
    <xsl:apply-templates />
   </xsl:element>
@@ -68,12 +68,31 @@
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:if>
+  <xsl:if test="@type='Section'">
+    <xsl:apply-templates />
+  </xsl:if>
+  <xsl:if test="@type='Sidebar'">
+  <xsl:element name="span">
+      <xsl:attribute name="class">sidebar</xsl:attribute>
+  <xsl:call-template name="div3"/>
+  <xsl:apply-templates />
+</xsl:element>
+  </xsl:if>
 </xsl:template>
 
-<xsl:template match="div3">
-  <xsl:if test="@type='Section'">
-    <xsl:apply-templates/>
-  </xsl:if>
+<xsl:template name="div3">
+    <xsl:element name="h2">
+    Sidebar: <xsl:value-of select="head"/>
+  </xsl:element>
+  <xsl:element name="i">
+    <xsl:value-of select="byline"/>
+  </xsl:element>
+  <xsl:element name="p">
+    <xsl:value-of select="docDate"/>
+  </xsl:element>
+  <xsl:element name="p">
+    <xsl:value-of select="bibl"/>
+  </xsl:element>
 </xsl:template>
 
 <xsl:template match="p/title">

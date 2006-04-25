@@ -10,7 +10,7 @@ $id = $_GET['id'];
 $args = array('host' => $tamino_server,
 		'db' => $tamino_db["data-db"],
 	      	'coll' => $tamino_coll["data-coll"],
-	        'debug' => true);
+	      'debug' => false);
 $tamino = new xmlDbConnection($args);
 
 // search terms
@@ -328,7 +328,7 @@ if (($kw) OR ($phrase)) {
     $return .= '], $allrefs, "MATCH")}</page></context>'; //print("DEBUG: wordcount=$wordcount. ");
 
 
-    $return .= "</div2>"; print("DEBUG: return in kwic is $return");
+    $return .= "</div2>"; //print("DEBUG: return in kwic is $return");
 }
 if (($kw) OR ($phrase)) {	// only sort by # of matches if it is defined
    $sort = 'sort by (xs:int(matches/total) descending)';
