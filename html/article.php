@@ -14,7 +14,7 @@ $terms = $_GET["term"];
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db["data-db"],
 	      'coll' => $tamino_coll["data-coll"],
-	      'debug' => false);
+	      'debug' => true);
 $tamino = new xmlDbConnection($args);
 
 /*$args_meta = array('host' => $tamino_server,
