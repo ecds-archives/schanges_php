@@ -33,13 +33,13 @@
 -->
 <td class="searchtips">
 <ul class ="searchtips"><b>Search tips:</b>
-<li>Search terms are matched against <i>whole words</i></li>
+<li>Search terms are matched against <i>whole words.</i></li>
 <li>Multiple words are allowed.</li>
 <li>Use Exact Phrase to search words as a phrase. Only use one phrase at a time.
 <li>Asterisks may be used when using a part of a word or words. <br/>
 For example, enter <b>resign*</b> to match <b>resign</b>, <b>resigned</b>, and
 <b>resignation</b>. </li>
-<li> Use several categories to narrow your search. For example, use author, keyword and<br/>
+<li> Use several categories to narrow your search. For example, use author, keyword and 
 title to match a particular article.</li>
 <li>When searching on a state, try the abbreviated form as well. For example, use NY and New York
 to see search results for both.</li>
@@ -49,8 +49,15 @@ to see search results for both.</li>
 </table>
 
 <p class="searchtips">If you are interested in doing a more complex search, please
-contact the <a href="mailto:beckcenter@emory.edu">Beck Center
-Staff</a>.</p>
+contact the <script language="javascript">
+<!--
+var username = "beckctr";
+var hostname = "emory.edu";
+var linktext = "Beck Center Staff";
+document.write("<a href=" + "mail" + "to:" + username +
+"@" + hostname + ">" + linktext + "</a>")
+//-->
+</script>.</p>
 
 
 </div>

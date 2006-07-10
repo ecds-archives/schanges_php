@@ -7,33 +7,34 @@ div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ ma
 /*div.header { border: 3px solid #02023a; text-align:center;} */
 
 /* styles for main part of page */ 
-a:link {color: #AD6F0A; text-decoration: none; }
-a:visited {color: #310912; text-decoration:none;}
+a:link {color: #200674; text-decoration: none; }
+a:visited {color: #0028b9; text-decoration:none;}
 
-div.header h1 { font-family: "Book Antiqua", "Times",serif; 
+div.header h1 { font-family: "Gill Sans", "MS Arial", sans-serif; 
 	   font-size: 36pt; 
 	   margin: -1px; 
 	   line-height:120%;}
 
-div.header h2 { font-family: "Book Antiqua", "Times",serif; 
+div.header h2 { font-family: "Gill Sans", "MS Arial", sans-serif; 
 	   font-size: 13pt; 
 	   margin: -4px; 
 	   line-height:120%;}
 div.headerseachbox {text-align: center;
 		   display: block;
 	    	   width: 50%; }
-p.searchbox {font-size:90%; 
+p.searchbox {font-family: Gill Sans, sans-serif;
+	    font-size:90%; 
 	    text-align: center;
 	    display: block; 
 	    margin-left: auto;
 	    margin-right: auto; 
-	    background-color: #ffe59e; 
+	    background-color: #92a5e0; 
 	    padding: 10px; }
 
 /*p.searchbox{font-size:80%; text-align:center; margin-left:5px; background-color: #eeeeee; padding:4px; }*/
 
 p.searchbox b {padding-right: 5px;}
-p.searchbox input#go{margin-left:5px;}
+p.searchbox input#go{margin-left: 5px;}
 
 div.headimage {position:static;  
 	      margin-top 3em; 
@@ -44,7 +45,7 @@ img.headimage {display: block;
 	      margin-left: auto; 
 	      margin-right: auto;}
 
-div.nav {font-family: "Papyrus", Book Antiqua, Times, serif; 
+div.nav {font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
 	font-size: 24pt;  
 	text-decoration: none; 
 	text-align: center;}
@@ -65,6 +66,8 @@ img.teenimage {display: block;
 	    text-align: center;
 	      margin-left: auto;
 	      margin-right: auto;}
+img.covers {position: static;
+	   display: inline; }
 
 div.teensub {position: static; 
 	    margin-bottom: 3em; }
@@ -75,7 +78,7 @@ img.teensub {display: block;
 	      margin-right: auto;}
 	    
 
-div.subnav {font-family: "Papyrus", Book Antiqua, Times, serif;
+div.subnav {font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
 	   font-size: 18pt; 
 	   text-decoration: none; 
 	   text-align: center;} 
@@ -91,15 +94,23 @@ span#br {padding: 0 1em;}
 span#se {padding: 0 1em;}
 
 
-div.content {font-family Book Antiqua, Times, serif; 
+div.content {font-family: "Gill Sans", MS Arial, Gill Sans, sans-serif; 
 	    font-size: 12pt; 
 	    text-decoration: none; 
 	    text-align: left; 
 	    margin-left: 2em;
 	    margin-right: 2em;}
 
+div.contents {font-family: "Gill Sans", MS Arial, Gill Sans, sans-serif; 
+	    font-size: 12pt; 
+	    text-decoration: none; 
+	    text-align: left; 
+	    margin-left: 2em;
+	    margin-right: 2em;}
+
+
 div.externalnav {text-align: center; 
-		font-family: "Papyrus", Book Antiqua, Times, serif; 
+		font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif; 
 		font-size: 14pt; 
 		text-decoration: none;
 	   	text-shadow: 0.1em 0.1em 0.1em black}
@@ -116,9 +127,15 @@ span.speaker {font-weight: bold;}
 
 span.speech {display: inline;}
 
+span.sidebar {display: block;
+	     border: thin solid black;
+	     padding-left: 2%;
+	     padding-right: 2%;
+	     background-color: #fff8b2;
+	     margin-top: 1%;}
 
 div.foot {display:block; 
-	 font-family: Times, Book Antiqua, serif; 
+	 font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
 	 font-size: 12; 
 	 text-decoration: none; 
 	 text-align: center;}
@@ -138,6 +155,8 @@ td.count { width:15%;
 td.link {width:25px; 
 	font-size:85%; 
 	text-align:center;}
+
+
 
 table.kwicsearchresults { width:90%; }
 
