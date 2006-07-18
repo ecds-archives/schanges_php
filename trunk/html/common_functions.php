@@ -102,7 +102,7 @@ function highlight ($string, $term1, $term2 = NULL, $term3 = NULL) {
 }
 
 // param arg is optional - defaults to null
-function transform ($xml, $xsl_file, $xsl_params = NULL) {
+/*function transform ($xml, $xsl_file, $xsl_params = NULL) {
   //      print "in function transform, xml is <pre>$xml</pre>, xsl is $xsl_file<br>"; 
 
 //   print "in function transform, xsl is $xsl_file<br>";
@@ -144,6 +144,29 @@ function transform ($xml, $xsl_file, $xsl_params = NULL) {
   xslt_free($xh);
 
   return $result;
+}
+*/
+// transform function added from newer version
+// param arg is optional - defaults to null
+function transform ($xml_file, $xsl_file, $xsl_params = NULL) {
+        $xsl = new DomDocument();
+        $xsl->load($xsl_file);
+        
+        $xml = new DOMDocument();
+        $xml->load($xml_file);
+        
+        /* create processor & import stylesheet */
+        $proc = new XsltProcessor();
+        $proc->importStylesheet($xsl);
+        if ($xsl_params) {
+                foreach ($xsl_params as $name => $val) {
+                        $proc->setParameter(null, $name, $val);
+                }
+        }
+        /* transform the xml document and store the result */
+        $xsl_result = $proc->transformToDoc($xml);
+        
+        return $xsl_result->saveXML();
 }
 
 
