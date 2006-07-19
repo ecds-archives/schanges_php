@@ -1,0 +1,56 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Southern Changes Online</title>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+<script language="JavaScript" type="text/JavaScript">
+</script>
+</head>
+
+<body text="333333" link="B7750B" vlink="B7750B"
+      onLoad="MM_preloadImages('images/Small_beck2.jpg','images/src_small2.jpg','images/Small_home2.jpg','images/Small_overview2.jpg','images/search_small2.jpg'
+	      'images/Small_browse2.jpg)">
+<div class="head">
+<table width="1080" height="164" border="0" align="center" cellpadding="0">
+  <tr>
+    <td width="1115" align="left" valign="top"><img
+						   src="images/title_gold.jpg"
+						   width="940"
+						   height="144"
+						   align="right"
+						   alt="Southern
+      Changes Online"/></td>
+  </tr>
+<tr>
+    <td width="682" align="center" valign="top"><img
+    src="images/teens_color_browse.jpg" width="500" height="100" alt="Browse"/></td>
+  </tr>
+</table>
+<!-- 
+<table width="1080" height="100" border="0" align="center" cellpadding="0">
+  
+</table> -->
+<p></p>
+<table width="702" height="79" border="0" align="center" cellpadding="0">
+  <tr>
+    <td width="176" height="65" align="center" valign="top"><p><a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','images/Small_home2.jpg',1)"><img src="images/Small_home1.jpg" name="Image7" width="170" height="75" border="0" align="left" alt="Home"/></a></p>
+    </td>
+    <td width="170"><a href="overview3practice.html"
+		       onMouseOut="MM_swapImgRestore()"
+		       onMouseOver="MM_swapImage('Image11','','images/Small_overview2.jpg',1)"><img
+		       src="images/Small_overview1.jpg" name="Image11"
+		       width="170" height="75" border="0" alt="Overview"/></a></td>
+<td width="170" align="right"><font size="3"><a href="issue.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/Small_browse2.jpg',1)"><img src="images/Small_browse1.jpg" name="Image6" width="170" height="75" border="0"/></a></font></td>    
+
+    <td width="270"><a href="searchform.php"
+		       onMouseOut="MM_swapImgRestore()"
+		       onMouseOver="MM_swapImage('Image10','','images/search_small2.jpg',1)"><img
+		       src="images/search_small1.jpg" name="Image10"
+		       width="170" height="75" border="0"  alt="Search"/></a></td>
+    <td width="25">&nbsp;</td>
+    <td width="8">&nbsp;</td>
+  </tr>
+</table>
+</div>
+
