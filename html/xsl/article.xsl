@@ -341,13 +341,6 @@
 </td>
 </xsl:template>
 
-<xsl:template match="epigraph/cit/q">
-<p class="epigraph"><i><xsl:apply-templates/></i></p>
-</xsl:template>
-
-<xsl:template match="bibl">
-<span id="bibl"><xsl:apply-templates/></span>
-</xsl:template>
 
 </xsl:stylesheet>
 

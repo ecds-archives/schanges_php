@@ -104,6 +104,25 @@ class xmlDbConnection {
      $this->xsl_result = $proc->transformToDoc($this->xmldb->xml);
    }
 
+ // transform the xml created by the previous xsl transform with a specified stylesheet
+   function xslTransformResult ($xsl_file, $xsl_params = NULL) {
+     /* load xsl & xml as DOM documents */
+     $xsl = new DomDocument();
+     $xsl->load("xsl/$xsl_file");
+
+     /* create processor & import stylesheet */
+     $proc = new XsltProcessor();
+     $xsl = $proc->importStylesheet($xsl);
+     if ($xsl_params) {
+       foreach ($xsl_params as $name => $val) {
+         $proc->setParameter(null, $name, $val);
+       }
+     }
+     /* transform the xsl result, and replace it with the result */
+     $this->xsl_result = $proc->transformToDoc($this->xsl_result);
+   }
+
+
    function printResult ($term = NULL) {
      if ($this->xsl_result) {
        if (isset($term[0])) {
@@ -121,6 +140,16 @@ class xmlDbConnection {
 
    }
 
+
+   // create <span> tags for highlighting based on number of terms
+   function defineHighlight ($num) {
+     $this->begin_hi = array();
+    // strings for highlighting search terms 
+    for ($i = 0; $i < $num; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'>";
+    }
+   }
+
    // get the content of an xml node by name when the path is unknown
    function findNode ($name, $node = NULL) {
      // this function is for backwards compatibility... 
@@ -135,6 +164,27 @@ class xmlDbConnection {
    }
 
 
+   // Highlight the search strings within the xsl transformed result.
+   // Takes an array of terms to highlight.
+   function highlightString ($str, $term) {
+     // note: need to fix regexps: * -> \w* (any word character)
+      // FIXME: how best to deal with wild cards?
+
+     // only do highlighting if the term is defined
+     for ($i = 0; (isset($term[$i]) && ($term[$i] != '')); $i++) {
+       // replace tamino wildcard (*) with regexp -- 0 or more word characters 
+       $_term = str_replace("*", "\w*", $term[$i]);
+     // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
+       $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
+	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
+       // special case when term is at the beginning of string
+       $str = preg_replace("/(^)($_term)(\b)/i",
+        "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
+     }
+     return $str;
+   }
+
+ 
    // highlight text within the xml structure
    function highlightXML ($term) {
      // if span terms are not defined, define them now
@@ -197,13 +247,39 @@ class xmlDbConnection {
      }
    }
 
-   // create <span> tags for highlighting based on number of terms
-   function defineHighlight ($num) {
-     $this->begin_hi = array();
-    // strings for highlighting search terms 
-    for ($i = 0; $i < $num; $i++) {
-      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'>";
-    }
+ // print out links to different result sets, based on cursor
+   // arguments: url to link to (pos & max # to display will be added), max
+   function resultLinks ($url, $position, $max) {
+     //FIXME: at least in exist, we can get a default maximum from result set itself...
+     $result = "<div class='resultlink'>";
+        if ($this->count > $max) {
+          $result .= "<li class='firstresultlink'>More results:</li";
+          for ($i = 1; $i <= $this->count; $i += $max) {
+            if ($i == 1) {
+              $result .= '<li class="firstresultlink">';
+            } else { 
+              $result .= '<li class="resultlink">';
+            }
+            // url should be based on current search url, with new position defined
+            $myurl = $url .  "&pos=$i&max=$max";
+            if ($i != $position) {
+              $result .= "<a href='$myurl'>";
+            }
+            $j = min($this->count, ($i + $max - 1));
+            // special case-- last set only has one result
+            if ($i == $j) {
+              $result .= "$i";
+            } else {
+              $result .= "$i - $j";
+            }
+            if ($i != $position) {
+              $result .= "</a>";
+            }
+            $result .= "</li>";
+          }
+        }
+        $result .= "</div>"; 
+        return $result;
    }
 
 
@@ -216,6 +292,8 @@ class xmlDbConnection {
     // convert ampersand & # within xquery (e.g., for unicode entities) to hex
     $string = str_replace("&", "%26", $string);
     $string = str_replace("#", "%23", $string);
+    // convert plus sign
+    $string = str_replace("+", "%2b", $string);
     return $string;
   }
 

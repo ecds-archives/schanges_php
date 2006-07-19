@@ -20,6 +20,7 @@ div.header h2 { font-family: "Gill Sans", "MS Arial", sans-serif;
 	   font-size: 13pt; 
 	   margin: -4px; 
 	   line-height:120%;}
+ 
 div.headerseachbox {text-align: center;
 		   display: block;
 	    	   width: 50%; }
@@ -40,13 +41,18 @@ p.searchbox input#go{margin-left: 5px;}
 div.headimage {position:static;  
 	      margin-top: 2em; 
 	      margin-bottom: 1em; }
+div.headimage h2 { font-family: "Gill Sans", "MS Arial", sans-serif; 
+	   font-size: 13pt;
+	   color: #20074b;
+	   font-style: italic; 
+	   text-align: center;}
 
 img.headimage {display: block;
 	      text-align: center;
 	      margin-left: auto; 
 	      margin-right: auto;}
 
-div.nav {font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
+div.nav {font-family: "Gill Sans Ultra Bold", Gill Sans, MS Arial, sans-serif;
 	font-size: 24pt;  
 	text-decoration: none; 
 	text-align: center;}
@@ -116,7 +122,17 @@ div.contents {font-family: "Gill Sans", MS Arial, Gill Sans, sans-serif;
 	    text-align: left; 
 	    margin-left: 2em;
 	    margin-right: 2em;}
-span#bibl {text-align:right;}
+
+p.epigraph {text-align: center;
+	   font-style: italic;}
+
+span#bibl {font-style: normal;}
+
+div.credit {margin-left: 2em;}
+
+div.acklink { font-family: "Gill Sans", "MS Arial", sans-serif; 
+	   font-size: 13pt;
+	   margin-left: 0em;} 
 
 div.externalnav {text-align: center; 
 		font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif; 
