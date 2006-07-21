@@ -171,11 +171,7 @@ if ($date) {
             array_push ($conditions, "tf:containsText(./docDate, '$d') ");
     }
 }
-/*if ($place) {
-    foreach ($plarray as $p){
-    array_push ($conditions, "tf:containsText(\$b/pubPlace, '$p') ");
-    }
-} */
+
 foreach ($conditions as $c) {
     if ($c == $conditions[0]) {
         $where="$c";
@@ -194,41 +190,13 @@ if ($phrase) {$myterms = array_merge($myterms, $phrarray);}
 if ($title) {$myterms = array_merge($myterms, $ttlarray); }
 if ($author) {$myterms = array_merge($myterms, $autharray); }
 if ($date) {$myterms = array_merge($myterms, $darray); }
-//if ($place) {$myterms = array_merge($myterms, $plarray); }
+
 
 //print("DEBUG: my terms=");print_r($myterms);
 
 $return = ' return <div2> {$a/head}{$a/byline}{$a/@id}{$a/@type}{$a/docDate}<issueid>{$a/../@id}</issueid>  ';
 
-/*Make it simpler?
-if ($phrase)  {
-   if (empty ($kw)) {
-   $return .= "<matches>";
-   if (count($phrarray) >= 1) { //since an array, treat as multiple terms
-   for ($i = 0; $i < count($phrarray); $i++) {
-       $return .= "<term>$phrarray[$i]</term><count>{count(\$phrref$i)}</count>";
-       }
 
-   }
-   $return .= "<total>{xs:integer(count(\$allrefs) div $wordcount)}</total></matches>";
-*/
- 
-//print_r($phrarray);
-//}
-
-/*
-else if ($kw)  {
-   if (empty($phrase)) {
-   $return .= "<matches>";
-   if (count($kwarray) >= 1) {	// if there are multiple terms, display count for each term
-      for ($i = 0; $i < count($kwarray); $i++) {
-        $return .= "<term>$kwarray[$i]<count>{count(\$ref$i)}</count></term>";
-      	}
-      $return .= "<total>{count(\$allrefs)}</total></matches>";
-      }
-   }
-}
-else if ($phrase) {print("DEBUG: Using kw and phrase. ");*/
 
 
 //use only this
@@ -273,22 +241,7 @@ if ($kwic !== "true") { $return .= '</div2>'; }
    $sort = 'sort by (xs:int(matches/total) descending)';
 
 
-// if this is a keyword in context search, get context nodes
-// return previous pagebreak (get closest by max of previous sibling pb & previous p/pb)
-/*if ($kwic == "true") {
-  $return .= '<context><page>{tf:highlight($a//p[';
-  if ($mode == "exact") { 
-    $return .= "tf:containsText(.//text()[not(parent::figDesc)], '$kw')"; 
-  } else {
-    for ($i = 0; $i < count($kwarray); $i++) { 
-      if ($i > 0) { $return .= " or "; }
-      $return .= "tf:containsText(.//text(), $term) ";
-    }
-  }
-  $return .= '], $allrefs, "MATCH")}</page></context>';
-}
-$return .= '</div2>';*/ //Not using page context
-//}
+
 $countquery = "$declare <total>{count($for $where return \$a)}</total>";
 $query = "$declare $for$where $let $return $sort";
 //$tamino->xquery($countquery);
@@ -400,10 +353,6 @@ print "<p class='center'>Number of matching articles: <b>$total</b><br/>" . ($kw
   if ($kw) {
     print "<br/><p>View <a href='search.php?$altopts'>$mylink</a> search results. </p>";
   }
-
-  /*if ($kwic == "true") {
-    print "<p class='tip'>Page numbers indicate where paragraphs containing search terms begin.</p>";
-  }*/ //Not using page numbers.
 
 
 
