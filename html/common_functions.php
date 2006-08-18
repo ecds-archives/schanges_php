@@ -42,7 +42,7 @@ function html_head ($mode, $contentlist = false) {
   $mycss = getCSS();
 print "<html>
  <head>
- <title>$mode - Southern Changes Online</title>
+ <title>$mode - Southern Changes Digital Archive</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <meta name=\"robots\" content=\"index,follow\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";
