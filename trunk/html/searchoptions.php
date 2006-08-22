@@ -36,7 +36,7 @@
 <li>Search terms are matched against <i>whole words.</i></li>
 <li>Multiple words are allowed.</li>
 <li>Use Exact Phrase to search words as a phrase. Only use one phrase at a time.
-<li>Asterisks may be used when using a part of a word or words. <br/>
+<li>Asterisks may be used when searching for multiple words from one root. <br/>
 For example, enter <b>resign*</b> to match <b>resign</b>, <b>resigned</b>, and
 <b>resignation</b>. </li>
 <li> Use several categories to narrow your search. For example, use author, keyword and 
