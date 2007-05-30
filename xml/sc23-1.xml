@@ -48,6 +48,10 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
     </encodingDesc>
+    <profileDesc>
+      <langUsage id="es"><p>Articles in Spanish are identified at the
+      div level with a lang attribute.</p></langUsage>
+    </profileDesc>
     <revisionDesc>
       <change>
         <date>2004</date>
@@ -193,7 +197,7 @@ in the poultry industry.</p>
           </div3>
         </div2>
         <div2 id="sc23-1004" n="Voces y Opciones: Justicia en el Lugar 
-de Trabajo en la Industria  Av&#x00ED;cola" type="Article">
+de Trabajo en la Industria  Av&#x00ED;cola" type="Article" lang="es">
           <byline>Edited by <docAuthor><name reg="Sullivan, Susan
 Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
           <docDate value="2001-03-01">Vol. 23, No. 1, 2001 pp. 8-12, 26</docDate>
