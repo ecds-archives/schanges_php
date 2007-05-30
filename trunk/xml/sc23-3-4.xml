@@ -47,6 +47,10 @@ Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
     </encodingDesc>
+    <profileDesc>
+      <langUsage id="es"><p>Articles in Spanish are identified at the
+      div level with a lang attribute.</p></langUsage>
+    </profileDesc>
     <revisionDesc>
       <change>
         <date>2004</date>
@@ -1019,7 +1023,10 @@ general areas of special interest:
 <list><item>Access to education, including education rights for immigrant students and parent involvement programs;</item><item>Political representation and civil rights, including census counts, redistricting issues, access to drivers licenses, and relations with the police and the Immigration and Naturalization Service;</item><item>Employment and economic status, including work relations and perceived job competition; and</item><item>Community/neighborhood relationships, problems and needs, including crime.</item></list></p>
           <p>Following is an excerpt from one of the interviews conducted by the SRC's Partnerships team.</p>
         </div2>
-        <div2 id="sc23-3-4staff.011" n="La naci&#x00F3;n y la raza: colaboraci&#x00F3;n entre comunidades &#x00E9;tnicas y raciales" type="Article">
+        <div2 id="sc23-3-4staff.011" n="La naci&#x00F3;n y la raza:
+					colaboraci&#x00F3;n entre
+					comunidades &#x00E9;tnicas y
+					raciales" type="Article" lang="es">
           <head>La naci&#x00F3;n y la raza: colaboraci&#x00F3;n entre comunidades &#x00E9;tnicas y raciales</head>
           <byline>
             <docAuthor>
@@ -1048,7 +1055,8 @@ identificar cuatro temas de inter&#x00E9;s particular:
 conducidas por el equipo del programa <hi rend="italic">Partnerships</hi> del SRC.</p>
           </div3>
         </div2>
-        <div2 id="sc23-3-4staff.008" n="Homero Le&#x00F3;n" type="Article">
+        <div2 id="sc23-3-4staff.008" n="Homero Le&#x00F3;n"
+	      type="Article" lang="es">
           <head>Homero Le&#x00F3;n</head>
           <byline>
             <docAuthor>
@@ -1074,10 +1082,7 @@ cultural and everything else we moved into an <pb n="19"/>African-American neigh
           <p>I don't believe you should become an <hi rend="italic">Americano</hi> if you are Latino. I believe it is better to keep your culture, keep your language, your literature, your music, your food, to keep that is important. African Americans, I believe the same thing-I love Afro-centric things. It's wonderful stuff, and we all need it. It is beautiful. I'm totally against assimilation. Multiculturalism is the best for all of us. Tolerance and diversity are wonderful and enrich all our lives.</p>
           <p>Racism in the South is almost like an honored tradition; at least in the North they seem more ashamed of it, but here they say, "It was my daddy's culture; it is our heritage." Tolerance is not a southern virtue. I see it all around me, and that makes it more difficult to celebrate the beauty of diversity.	</p>
           <div3 id="sc23-3-4026" type="About">
-            <p>This interview was conducted by Blanca Rojas on April 12, 2001.</p>
-          </div3>
-          <div3>
-            <p>Blanca Rojas condujo esta entrevista en in ingl&#x00E9;s, el
+            <p>This interview was conducted by Blanca Rojas on April 12, 2001.</p>            <p>Blanca Rojas condujo esta entrevista en in ingl&#x00E9;s, el
 12 de abril del 2001. Blanca Rojas y Marcela Mendoza tradujeron el
 texto al espa&#x00F1;ol.</p>
           </div3>
@@ -1132,8 +1137,11 @@ editor of the Spanish-language weekly <hi rend="italic">La Voz Hispana</hi>. "A 
 Assessing the Economic Impact" type="Article">
           <head>Latino Immigrants in Memphis:
 Assessing the Economic Impact</head>
-          <docAuthor>By Marcela Mendoza, David H. Ciscel, 
-and Barbara Ellen Smith</docAuthor>
+          <byline>By <docAuthor><name reg="Mendoza, Marcela"
+          type="person">Marcela Mendoza</name>, <name reg="Ciscel,
+          David H." type="person">David H. Ciscel</name>,
+and <name reg="Smith, Barbara Ellen" type="person">Barbara Ellen
+Smith</name></docAuthor></byline>
           <docDate value="2001-09-01">Vol. 23, No. 3-4,
 2001 pp. 24-26</docDate>
           <p>Immigrants now play a critical part in the labor force across the country, and the same is increasingly true for Memphis. In 1999, according to the Bureau of Labor Statistics, Latinos made up 12 percent of the U.S. workforce. Whereas in the past Latino immigrants in the South tended to concentrate in agriculture, today they often work in the "new economy"-services, distribution and even construction. Although some have significant job skills and/or professional training, undocumented immigration status and/or limited English proficiency narrow the employment options of many Latinos to low-wage work.  </p>
