@@ -1,0 +1,18 @@
+<config>
+ <input>/home/ahickco/buildarea/hdot-docs</input> 
+ <format>TEI</format>	<!-- TEI, EAD, etc -->
+
+
+<!-- info necessary for loading & deleting data in exist -->
+ <db>
+   <server>
+	<test>wilson.library.emory.edu</test>
+	<production>bohr.library.emory.edu</production>
+   </server>
+   <port>8080</port>
+   <collection>schanges</collection>
+   <user>ahickco</user>
+   <password></password>
+ </db>
+
+</config>

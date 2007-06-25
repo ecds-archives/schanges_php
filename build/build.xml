@@ -1,0 +1,32 @@
+<project name="HDOT Data Preparation" default="all" basedir=".">
+
+  <import file="common-targets.xml"/>
+
+<target name="all" depends="xml,page-numbers,add-ids,clean,final-info" 
+ description="* Add ids, convert entities to unicode, validate, and clean up"/>
+
+
+
+<target name="config" depends="common-targets.config">
+
+ <!-- trial is default collection -->
+
+  <input message="What subcollection are you building documents for (default: trial)? "
+	addproperty="coll"
+	defaultvalue="trial"
+	validargs="trial,denial,learning,struggle,"/>
+
+<!-- Note: last 'empty' validarg is neede for input to accept 'return'
+	& use default value -->
+
+  <echo level="info" message="Loading files to ${coll} subcollection"/>
+
+  <!-- define a subcollection to be used for loading data to exist -->
+  <property name="exist.subcollection" value="/${coll}"/>
+
+  <echo level="info" message="files will be loaded to ${config.db.collection}${exist.subcollection}"/>
+
+</target>
+
+
+</project>
