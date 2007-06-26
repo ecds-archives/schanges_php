@@ -28,5 +28,27 @@
 
 </target>
 
+<target name="bibl" depends="input" 
+ description="* split out sourcedesc bibl into separate tags">
+
+
+  <replace dir="${xmldir}" value="||">
+    <include name="*.xml"/>
+    <replacetoken><![CDATA[&]]></replacetoken>
+  </replace>
+
+
+<!-- need to manually copy tag-bibl.php into scriptdir -->
+ <exec executable="php"  dir="${basedir}" failonerror="true">
+   <arg line="${scriptdir}/tag-bibl.php ${xmldir}"/>
+ </exec>
+
+  <!-- convert || back to & -->
+  <replace dir="${xmldir}" token="||" includes="*.xml">
+    <replacevalue><![CDATA[&]]></replacevalue>
+  </replace> 
+
+</target>
+
 
 </project>
