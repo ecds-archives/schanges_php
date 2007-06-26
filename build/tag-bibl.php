@@ -2,7 +2,17 @@
 <?php
 
 /* clean up the bibl section of the southern changes teiHeader
-   --splits it out into tagged sections, adds pubPlace and publisher
+   --splits it out into tagged sections, adds pubPlace and publisher,
+   calculates date value and adds in YYYY-MM format
+
+   caveats:
+   * doesn't handle seasons (spring,fall, etc.) in dates
+   * for multi-month dates split by - or /, uses first month only
+   * strotime function seems to have trouble with year-only dates in the 2000s
+   
+Dates that are incorrectly recognized will be output with a value of 1969-12 (0 time in unix)
+(FIXME: better way to handle this?)
+     
  */
 
 $input = $argv[1];
