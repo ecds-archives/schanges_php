@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc06-61204">
   <teiHeader id="sc06-61201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 6, Number 6. December 1984</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date value="1984-12">December 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

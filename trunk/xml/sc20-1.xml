@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 20, Number 1. Spring, 1998</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1969-12">Spring 1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -308,7 +308,7 @@ was $31,496. Female workers average $22,497</item>
           <p>Source: U.S. Census Bureau, June, 1997</p>
           <p> In her 1997 book, <hi rend="italic">In Defense of Affirmative Action</hi>, Barbara Bergmann has calculated the wage gaps between minorities and whites so as to take account of income disparities that may exist because of differences in education levels, experience, and geography.  She uses figures from the U.S Census Bureau, as well as National Longitudinal Survey of Youth (for workers between 26-33; this survey also measures cognitive ability) to come up with a "residual gap" of the amount of wages lost due to discriminatory factors.</p>
           <table>
-            <head></head>
+            <head/>
             <row>
               <cell/>
               <cell role="label">Income Gap Based on Census Data (ages
@@ -619,8 +619,7 @@ race as one of many factors.</p>
           <p><hi rend="italic">1996</hi>: Proposition 209 passed by initiative in California. Prohibits use of race, sex, color, ethnicity, or national origin in hiring, promotion, and contracting in state agencies. Supreme Court declined to hear the appeal.</p>
           <p><hi rend="italic">1997</hi>:  Taxman v. Piscataway School Board - Appellate Court ruled that the only justification for using race in hiring  was to remedy past discrimination. Out-of-court settlement prevented the Supreme Court from ruling.</p>
         </div2>
-        <div2 id="sc20-1006" n="SRC Survey Results Suggest
-Broad Support for Fairness Programs" type="Article">
+        <div2 id="sc20-1006" n="SRC Survey Results Suggest Broad Support for Fairness Programs" type="Article">
           <head>SRC Survey Results Suggest
 Broad Support for Fairness Programs</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
@@ -640,8 +639,7 @@ Broad Support for Fairness Programs</head>
             <p>Ellen Spears is managing editor of Southern Changes.</p>
           </div3>
         </div2>
-        <div2 id="sc20-1007" n="Talking Points: 
-The Truth about Affirmative Action" type="Article">
+        <div2 id="sc20-1007" n="Talking Points:  The Truth about Affirmative Action" type="Article">
           <head>Talking Points: 
 The Truth about Affirmative Action</head>
           <byline>

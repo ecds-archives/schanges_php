@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc06-21204">
   <teiHeader id="sc06-21201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 6, Number 2. March-April 1984</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1984-03">March-April 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1418,7 +1419,7 @@ the efforts of challengers. These techniques include the denial of
 access to vital information such as membership lists, financial data,
 and bylaws; the changing of by-laws and procedures to fit the
 management's immediate needs; and the use of coop
-resources--telephones, personnel, trucks, and mailing facilities Ñ
+resources&#x2014; telephones, personnel, trucks, and mailing facilities&#x2014;
 to recruit support for the incumbent management. All of these
 maneuvers rest on the coop management's control of information and
 resources.</p>

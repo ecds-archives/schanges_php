@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc12-51204">
   <teiHeader id="sc12-51201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 12, Number 5. November 1990</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1990-11">November 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

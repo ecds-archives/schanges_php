@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 19, Number 3-4, Fall/Winter 1997</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 19</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1969-12">Fall/Winter 1997</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -59,8 +59,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 	    1997</head>
         <p><title>Southern Changes</title>.  Volume 19, Number 3-4,
 	    <date value="1997-09-01">1997</date></p>
-        <div2 id="sc19-3-4002" n="Globalization Drives Persistent Inequality
-The Climate for Workers in the U.S. 1997" type="Article">
+        <div2 id="sc19-3-4002" n="Globalization Drives Persistent Inequality The Climate for Workers in the U.S. 1997" type="Article">
           <head>Globalization Drives Persistent Inequality
 The Climate for Workers in the U.S. 1997</head>
           <byline>By <docAuthor><name reg="Quesenberry, Preston" type="person">Preston Quesenberry</name></docAuthor></byline>
@@ -4257,393 +4256,28 @@ respectively). This lack of union strength in the South not only hurts
 workers directly by leading to lower earnings (in 1996, the average
 union worker made 33 percent more<pb n="15"/><table><head>State
 Protection of
-Workers</head><row><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell
-role="label">Composite Ranking</cell><cell/></row><row><cell
-role="label">State</cell><cell role="label">Region</cell><cell
-role="label">Insured Unemployed as % of Total Unemp<ref target="sc19-3-4002n3">*</ref></cell><cell
-role="label">Rank</cell><cell role="label">Avg. Unemployment Benefit
-per Recipient 1996 in dollars<ref target="sc19-3-4002n4">**</ref></cell><cell
-role="label">Rank</cell><cell role="label">State Minimum Wage of
-10/1/97 in dollars</cell><cell role="label">Rank</cell><cell
-role="label">Max. Weekly Benefit for Permanent Total Disability in
-dollars</cell><cell role="label">Rank</cell><cell
-role="label">Statutory Protection of Workers<ref target="sc19-3-4002n5">+</ref></cell><cell
-role="label">Rank</cell><cell role="label">Avg Rank</cell><cell
-role="label">State Rank</cell></row><row><cell
-role="label">Alabama</cell><cell role="label">SE</cell><cell
-role="data">31.9</cell><cell role="data">32</cell><cell
-role="data">1450</cell><cell role="data">51</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">458</cell><cell role="data">28</cell><cell
-role="data">3.5</cell><cell role="data">50</cell><cell
-role="data">43.7</cell><cell role="data">47</cell></row><row><cell
-role="label">Alaska</cell><cell role="label">Pac</cell><cell
-role="data">57.1</cell><cell role="data">2</cell><cell
-role="data">2528</cell><cell role="data">20</cell><cell
-role="data">5.65</cell><cell role="data">4</cell><cell
-role="data">700</cell><cell role="data">5</cell><cell
-role="data">15.0</cell><cell role="data">22</cell><cell
-role="data">12.5</cell><cell role="data">12</cell></row><row><cell
-role="label">Arizona</cell><cell role="label">SW</cell><cell
-role="data">19.1</cell><cell role="data">50</cell><cell
-role="data">2142</cell><cell role="data">32</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">323</cell><cell role="data">48</cell><cell
-role="data">6.0</cell><cell role="data">47</cell><cell
-role="data">45.8</cell><cell role="data">48</cell></row><row><cell
-role="label">Arkansas</cell><cell role="label">SE</cell><cell
-role="data">44.3</cell><cell role="data">10</cell><cell
-role="data">1942</cell><cell role="data">40</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">348</cell><cell role="data">46</cell><cell
-role="data">11.5</cell><cell role="data">32</cell><cell
-role="data">28.2</cell><cell role="data">32</cell></row><row><cell
-role="label">California</cell><cell role="label">Far W</cell><cell
-role="data">40.5</cell><cell role="data">19</cell><cell
-role="data">2491</cell><cell role="data">24</cell><cell
-role="data">5.75</cell><cell role="data">3</cell><cell
-role="data">490</cell><cell role="data">25</cell><cell
-role="data">21.5</cell><cell role="data">1</cell><cell
-role="data">12.2</cell><cell role="data">10</cell></row><row><cell
-role="label">Colorado</cell><cell role="label">Rockies</cell><cell
-role="data">26.8</cell><cell role="data">39</cell><cell
-role="data">2498</cell><cell role="data">23</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">468</cell><cell role="data">27</cell><cell
-role="data">14.0</cell><cell role="data">25</cell><cell
-role="data">24.7</cell><cell role="data">27</cell></row><row><cell
-role="label">Connecticut</cell><cell role="label">New Eng</cell><cell
-role="data">43.0</cell><cell role="data">15</cell><cell
-role="data">3343</cell><cell role="data">11</cell><cell
-role="data">5.18</cell><cell role="data">8</cell><cell
-role="data">678</cell><cell role="data">6</cell><cell
-role="data">21.0</cell><cell role="data">2</cell><cell
-role="data">7.3</cell><cell role="data">2</cell></row>
+Workers</head><row><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell/><cell role="label">Composite Ranking</cell><cell/></row><row><cell role="label">State</cell><cell role="label">Region</cell><cell role="label">Insured Unemployed as % of Total Unemp<ref target="sc19-3-4002n3">*</ref></cell><cell role="label">Rank</cell><cell role="label">Avg. Unemployment Benefit
+per Recipient 1996 in dollars<ref target="sc19-3-4002n4">**</ref></cell><cell role="label">Rank</cell><cell role="label">State Minimum Wage of
+10/1/97 in dollars</cell><cell role="label">Rank</cell><cell role="label">Max. Weekly Benefit for Permanent Total Disability in
+dollars</cell><cell role="label">Rank</cell><cell role="label">Statutory Protection of Workers<ref target="sc19-3-4002n5">+</ref></cell><cell role="label">Rank</cell><cell role="label">Avg Rank</cell><cell role="label">State Rank</cell></row><row><cell role="label">Alabama</cell><cell role="label">SE</cell><cell role="data">31.9</cell><cell role="data">32</cell><cell role="data">1450</cell><cell role="data">51</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">458</cell><cell role="data">28</cell><cell role="data">3.5</cell><cell role="data">50</cell><cell role="data">43.7</cell><cell role="data">47</cell></row><row><cell role="label">Alaska</cell><cell role="label">Pac</cell><cell role="data">57.1</cell><cell role="data">2</cell><cell role="data">2528</cell><cell role="data">20</cell><cell role="data">5.65</cell><cell role="data">4</cell><cell role="data">700</cell><cell role="data">5</cell><cell role="data">15.0</cell><cell role="data">22</cell><cell role="data">12.5</cell><cell role="data">12</cell></row><row><cell role="label">Arizona</cell><cell role="label">SW</cell><cell role="data">19.1</cell><cell role="data">50</cell><cell role="data">2142</cell><cell role="data">32</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">323</cell><cell role="data">48</cell><cell role="data">6.0</cell><cell role="data">47</cell><cell role="data">45.8</cell><cell role="data">48</cell></row><row><cell role="label">Arkansas</cell><cell role="label">SE</cell><cell role="data">44.3</cell><cell role="data">10</cell><cell role="data">1942</cell><cell role="data">40</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">348</cell><cell role="data">46</cell><cell role="data">11.5</cell><cell role="data">32</cell><cell role="data">28.2</cell><cell role="data">32</cell></row><row><cell role="label">California</cell><cell role="label">Far W</cell><cell role="data">40.5</cell><cell role="data">19</cell><cell role="data">2491</cell><cell role="data">24</cell><cell role="data">5.75</cell><cell role="data">3</cell><cell role="data">490</cell><cell role="data">25</cell><cell role="data">21.5</cell><cell role="data">1</cell><cell role="data">12.2</cell><cell role="data">10</cell></row><row><cell role="label">Colorado</cell><cell role="label">Rockies</cell><cell role="data">26.8</cell><cell role="data">39</cell><cell role="data">2498</cell><cell role="data">23</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">468</cell><cell role="data">27</cell><cell role="data">14.0</cell><cell role="data">25</cell><cell role="data">24.7</cell><cell role="data">27</cell></row><row><cell role="label">Connecticut</cell><cell role="label">New Eng</cell><cell role="data">43.0</cell><cell role="data">15</cell><cell role="data">3343</cell><cell role="data">11</cell><cell role="data">5.18</cell><cell role="data">8</cell><cell role="data">678</cell><cell role="data">6</cell><cell role="data">21.0</cell><cell role="data">2</cell><cell role="data">7.3</cell><cell role="data">2</cell></row>
 <row>
-<cell
-role="label">D.C.</cell>
+<cell role="label">D.C.</cell>
 <cell role="label">Mid Atl</cell>
-<cell
-role="data">39.6</cell>
+<cell role="data">39.6</cell>
 <cell role="data">20</cell>
-<cell
-role="data">4339</cell>
+<cell role="data">4339</cell>
 <cell role="data">2</cell>
-<cell
-role="data">6.15</cell>
+<cell role="data">6.15</cell>
 <cell role="data">1</cell>
-<cell
-role="data">749</cell>
-<cell role="data">4</cell><cell
-role="data">11.0</cell>
-<cell role="data">37</cell><cell
-role="data">16.8</cell>
+<cell role="data">749</cell>
+<cell role="data">4</cell><cell role="data">11.0</cell>
+<cell role="data">37</cell><cell role="data">16.8</cell>
 <cell role="data">15</cell>
 </row>
-<row><cell
-role="label">Delaware</cell><cell role="label">Mid Atl</cell><cell
-role="data">41.6</cell><cell role="data">16</cell><cell
-role="data">3625</cell><cell role="data">8</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">372</cell><cell role="data">43</cell><cell
-role="data">16.5</cell><cell role="data">15</cell><cell
-role="data">17.7</cell><cell role="data">18</cell></row><row><cell
-role="label">Florida</cell><cell role="label">SE</cell><cell
-role="data">25.6</cell><cell role="data">42</cell><cell
-role="data">2514</cell><cell role="data">21</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">479</cell><cell role="data">26</cell><cell
-role="data">11.0</cell><cell role="data">37</cell><cell
-role="data">35.7</cell><cell role="data">42</cell></row><row><cell
-role="label">Georgia</cell><cell role="label">SE</cell><cell
-role="data">23.3</cell><cell role="data">45</cell><cell
-role="data">1524</cell><cell role="data">49</cell><cell
-role="data">3.25</cell><cell role="data">42</cell><cell
-role="data">300</cell><cell role="data">49</cell><cell
-role="data">7.0</cell><cell role="data">45</cell><cell
-role="data">45.8</cell><cell role="data">48</cell></row><row><cell
-role="label">Hawaii</cell><cell role="label">Pac</cell><cell
-role="data">41.5</cell><cell role="data">17</cell><cell
-role="data">4634</cell><cell role="data">1</cell><cell
-role="data">5.25</cell><cell role="data">5</cell><cell
-role="data">501</cell><cell role="data">20</cell><cell
-role="data">16.0</cell><cell role="data">19</cell><cell
-role="data">13.5</cell><cell role="data">13</cell></row><row><cell
-role="label">Idaho</cell><cell role="label">Rockies</cell><cell
-role="data">44.4</cell><cell role="data">9</cell><cell
-role="data">2037</cell><cell role="data">37</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">390</cell><cell role="data">39</cell><cell
-role="data">10.0</cell><cell role="data">39</cell><cell
-role="data">28.7</cell><cell role="data">33</cell></row><row><cell
-role="label">Illinois</cell><cell role="label">Grt Lk</cell><cell
-role="data">41.3</cell><cell role="data">18</cell><cell
-role="data">3654</cell><cell role="data">7</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">781</cell><cell role="data">2</cell><cell
-role="data">18.5</cell><cell role="data">10</cell><cell
-role="data">9.9</cell><cell role="data">3</cell></row><row><cell
-role="label">Indiana</cell><cell role="label">Grt Lk</cell><cell
-role="data">27.2</cell><cell role="data">38</cell><cell
-role="data">2054</cell><cell role="data">34</cell><cell
-role="data">3.35</cell><cell role="data">40</cell><cell
-role="data">428</cell><cell role="data">34</cell><cell
-role="data">8.5</cell><cell role="data">43</cell><cell
-role="data">38.7</cell><cell role="data">44</cell></row><row><cell
-role="label">Iowa</cell><cell role="label">Plains</cell><cell
-role="data">34.0</cell><cell role="data">26</cell><cell
-role="data">2379</cell><cell role="data">27</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">873</cell><cell role="data">1</cell><cell
-role="data">11.5</cell><cell role="data">32</cell><cell
-role="data">21.2</cell><cell role="data">21</cell></row><row><cell
-role="label">Kansas</cell><cell role="label">Plains</cell><cell
-role="data">26.2</cell><cell role="data">40</cell><cell
-role="data">2719</cell><cell role="data">15</cell><cell
-role="data">2.65</cell><cell role="data">43</cell><cell
-role="data">338</cell><cell role="data">47</cell><cell
-role="data">9.5</cell><cell role="data">40</cell><cell
-role="data">37.5</cell><cell role="data">43</cell></row><row><cell
-role="label">Kentucky</cell><cell role="label">SE</cell><cell
-role="data">30.2</cell><cell role="data">35</cell><cell
-role="data">1958</cell><cell role="data">38</cell><cell
-role="data">4.25</cell><cell role="data">36</cell><cell
-role="data">447</cell><cell role="data">31</cell><cell
-role="data">14.5</cell><cell role="data">24</cell><cell
-role="data">31.3</cell><cell role="data">35</cell></row><row><cell
-role="label">Louisiana</cell><cell role="label">SE</cell><cell
-role="data">20.2</cell><cell role="data">48</cell><cell
-role="data">1868</cell><cell role="data">42</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">349</cell><cell role="data">45</cell><cell
-role="data">6.0</cell><cell role="data">47</cell><cell
-role="data">46.7</cell><cell role="data">51</cell></row><row><cell
-role="label">Maine</cell><cell role="label">New Eng</cell><cell
-role="data">44.3</cell><cell role="data">10</cell><cell
-role="data">2269</cell><cell role="data">29</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">441</cell><cell role="data">33</cell><cell
-role="data">18.0</cell><cell role="data">13</cell><cell
-role="data">17.8</cell><cell role="data">19</cell></row><row><cell
-role="label">Maryland</cell><cell role="label">Mid Atl</cell><cell
-role="data">32.9</cell><cell role="data">30</cell><cell
-role="data">3067</cell><cell role="data">13</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">553</cell><cell role="data">11</cell><cell
-role="data">16.5</cell><cell role="data">15</cell><cell
-role="data">15.5</cell><cell role="data">14</cell></row><row><cell
-role="label">Massachusetts</cell><cell role="label">New
-Eng</cell><cell role="data">52.1</cell><cell role="data">5</cell><cell
-role="data">4040</cell><cell role="data">4</cell><cell
-role="data">5.25</cell><cell role="data">5</cell><cell
-role="data">631</cell><cell role="data">8</cell><cell
-role="data">20.5</cell><cell role="data">3</cell><cell
-role="data">4.7</cell><cell role="data">1</cell></row><row><cell
-role="label">Michigan</cell><cell role="label">Grt Lk</cell><cell
-role="data">44.0</cell><cell role="data">12</cell><cell
-role="data">2484</cell><cell role="data">26</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">553</cell><cell role="data">11</cell><cell
-role="data">19.0</cell><cell role="data">6</cell><cell
-role="data">11.7</cell><cell role="data">9</cell></row><row><cell
-role="label">Minnesota</cell><cell role="label">Plains</cell><cell
-role="data">36.4</cell><cell role="data">23</cell><cell
-role="data">3199</cell><cell role="data">12</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">615</cell><cell role="data">10</cell><cell
-role="data">19.5</cell><cell role="data">4</cell><cell
-role="data">10.3</cell><cell role="data">6</cell></row><row><cell
-role="label">Mississippi</cell><cell role="label">SE</cell><cell
-role="data">30.6</cell><cell role="data">34</cell><cell
-role="data">1885</cell><cell role="data">41</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">271</cell><cell role="data">51</cell><cell
-role="data">0.0</cell><cell role="data">51</cell><cell
-role="data">46.5</cell><cell role="data">50</cell></row><row><cell
-role="label">Missouri</cell><cell role="label">Plains</cell><cell
-role="data">33.4</cell><cell role="data">28</cell><cell
-role="data">1947</cell><cell role="data">39</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">513</cell><cell role="data">16</cell><cell
-role="data">14.0</cell><cell role="data">25</cell><cell
-role="data">23.7</cell><cell role="data">26</cell></row><row><cell
-role="label">Montana</cell><cell role="label">Rockies</cell><cell
-role="data">43.9</cell><cell role="data">13</cell><cell
-role="data">2051</cell><cell role="data">35</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">384</cell><cell role="data">41</cell><cell
-role="data">16.5</cell><cell role="data">15</cell><cell
-role="data">21.3</cell><cell role="data">22</cell></row><row><cell
-role="label">Nebraska</cell><cell role="label">Plains</cell><cell
-role="data">28.7</cell><cell role="data">36</cell><cell
-role="data">1801</cell><cell role="data">44</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">427</cell><cell role="data">35</cell><cell
-role="data">12.5</cell><cell role="data">29</cell><cell
-role="data">30.3</cell><cell role="data">34</cell></row><row><cell
-role="label">Nevada</cell><cell role="label">Far W</cell><cell
-role="data">36.3</cell><cell role="data">24</cell><cell
-role="data">2629</cell><cell role="data">18</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">492</cell><cell role="data">23</cell><cell
-role="data">12.0</cell><cell role="data">30</cell><cell
-role="data">22.3</cell><cell role="data">25</cell></row><row><cell
-role="label">New Hampshire</cell><cell role="label">New
-Eng</cell><cell role="data">22.1</cell><cell
-role="data">46</cell><cell role="data">1480</cell><cell
-role="data">50</cell><cell role="data">5.15</cell><cell
-role="data">9</cell><cell role="data">756</cell><cell
-role="data">3</cell><cell role="data">19.0</cell><cell
-role="data">6</cell><cell role="data">20.0</cell><cell
-role="data">20</cell></row><row><cell role="label">New
-Jersey</cell><cell role="label">Mid Atl</cell><cell
-role="data">43.2</cell><cell role="data">14</cell><cell
-role="data">4287</cell><cell role="data">3</cell><cell
-role="data">5.05</cell><cell role="data">34</cell><cell
-role="data">496</cell><cell role="data">21</cell><cell
-role="data">13.5</cell><cell role="data">28</cell><cell
-role="data">21.3</cell><cell role="data">22</cell></row><row><cell
-role="label">New Mexico</cell><cell role="label">SW</cell><cell
-role="data">19.0</cell><cell role="data">51</cell><cell
-role="data">2553</cell><cell role="data">19</cell><cell
-role="data">4.25</cell><cell role="data">36</cell><cell
-role="data">364</cell><cell role="data">44</cell><cell
-role="data">16.0</cell><cell role="data">19</cell><cell
-role="data">31.3</cell><cell role="data">35</cell></row><row><cell
-role="label">New York</cell><cell role="label">Mid Atl</cell><cell
-role="data">39.6</cell><cell role="data">20</cell><cell
-role="data">3669</cell><cell role="data">5</cell><cell
-role="data">4.25</cell><cell role="data">36</cell><cell
-role="data">400</cell><cell role="data">37</cell><cell
-role="data">16.5</cell><cell role="data">15</cell><cell
-role="data">21.3</cell><cell role="data">22</cell></row><row><cell
-role="label">North Carolina</cell><cell role="label">SE</cell><cell
-role="data">33.7</cell><cell role="data">27</cell><cell
-role="data">1721</cell><cell role="data">46</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">512</cell><cell role="data">17</cell><cell
-role="data">12.0</cell><cell role="data">30</cell><cell
-role="data">26.5</cell><cell role="data">30</cell></row><row><cell
-role="label">North Dakota</cell><cell role="label">Plains</cell><cell
-role="data">38.8</cell><cell role="data">22</cell><cell
-role="data">2140</cell><cell role="data">33</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">387</cell><cell role="data">40</cell><cell
-role="data">14.0</cell><cell role="data">25</cell><cell
-role="data">25.7</cell><cell role="data">28</cell></row><row><cell
-role="label">Ohio</cell><cell role="label">Grt Lk</cell><cell
-role="data">31.4</cell><cell role="data">33</cell><cell
-role="data">2712</cell><cell role="data">16</cell><cell
-role="data">4.25</cell><cell role="data">36</cell><cell
-role="data">521</cell><cell role="data">14</cell><cell
-role="data">11.5</cell><cell role="data">32</cell><cell
-role="data">27.2</cell><cell role="data">31</cell></row><row><cell
-role="label">Oklahoma</cell><cell role="label">SW</cell><cell
-role="data">23.4</cell><cell role="data">44</cell><cell
-role="data">2164</cell><cell role="data">30</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">426</cell><cell role="data">36</cell><cell
-role="data">16.0</cell><cell role="data">19</cell><cell
-role="data">26.2</cell><cell role="data">29</cell></row><row><cell
-role="label">Oregon</cell><cell role="label">Far W</cell><cell
-role="data">44.8</cell><cell role="data">8</cell><cell
-role="data">2679</cell><cell role="data">17</cell><cell
-role="data">6.00</cell><cell role="data">2</cell><cell
-role="data">519</cell><cell role="data">15</cell><cell
-role="data">18.5</cell><cell role="data">10</cell><cell
-role="data">10.3</cell><cell role="data">6</cell></row><row><cell
-role="label">Pennsylvania</cell><cell role="label">Mid Atl</cell><cell
-role="data">55.6</cell><cell role="data">3</cell><cell
-role="data">3483</cell><cell role="data">9</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">542</cell><cell role="data">13</cell><cell
-role="data">17.5</cell><cell role="data">14</cell><cell
-role="data">10.3</cell><cell role="data">6</cell></row><row><cell
-role="label">Rhode Island</cell><cell role="label">New Eng</cell><cell
-role="data">73.6</cell><cell role="data">1</cell><cell
-role="data">3439</cell><cell role="data">10</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">503</cell><cell role="data">19</cell><cell
-role="data">18.5</cell><cell role="data">10</cell><cell
-role="data">9.8</cell><cell role="data">5</cell></row><row><cell
-role="label">South Carolina</cell><cell role="label">SE</cell><cell
-role="data">27.7</cell><cell role="data">37</cell><cell
-role="data">1756</cell><cell role="data">45</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">451</cell><cell role="data">30</cell><cell
-role="data">5.0</cell><cell role="data">49</cell><cell
-role="data">43.5</cell><cell role="data">46</cell></row><row><cell
-role="label">South Dakota</cell><cell role="label">Plains</cell><cell
-role="data">19.7</cell><cell role="data">49</cell><cell
-role="data">1593</cell><cell role="data">48</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">375</cell><cell role="data">42</cell><cell
-role="data">11.5</cell><cell role="data">32</cell><cell
-role="data">35.3</cell><cell role="data">40</cell></row><row><cell
-role="label">Tennessee</cell><cell role="label">SE</cell><cell
-role="data">34.4</cell><cell role="data">25</cell><cell
-role="data">1824</cell><cell role="data">43</cell><cell
-role="data">0.00</cell><cell role="data">51</cell><cell
-role="data">453</cell><cell role="data">29</cell><cell
-role="data">11.5</cell><cell role="data">32</cell><cell
-role="data">35.3</cell><cell role="data">40</cell></row><row><cell
-role="label">Texas</cell><cell role="label">SW</cell><cell
-role="data">23.6</cell><cell role="data">43</cell><cell
-role="data">2851</cell><cell role="data">14</cell><cell
-role="data">3.35</cell><cell role="data">40</cell><cell
-role="data">491</cell><cell role="data">24</cell><cell
-role="data">7.5</cell><cell role="data">44</cell><cell
-role="data">34.8</cell><cell role="data">39</cell></row><row><cell
-role="label">Utah</cell><cell role="label">Rockies</cell><cell
-role="data">25.7</cell><cell role="data">41</cell><cell
-role="data">2051</cell><cell role="data">35</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">397</cell><cell role="data">38</cell><cell
-role="data">9.0</cell><cell role="data">41</cell><cell
-role="data">34.2</cell><cell role="data">37</cell></row><row><cell
-role="label">Vermont</cell><cell role="label">New Eng</cell><cell
-role="data">48.9</cell><cell role="data">6</cell><cell
-role="data">2309</cell><cell role="data">28</cell><cell
-role="data">5.25</cell><cell role="data">5</cell><cell
-role="data">674</cell><cell role="data">7</cell><cell
-role="data">19.0</cell><cell role="data">6</cell><cell
-role="data">9.7</cell><cell role="data">4</cell></row><row><cell
-role="label">Virginia</cell><cell role="label">SE</cell><cell
-role="data">20.3</cell><cell role="data">47</cell><cell
-role="data">1711</cell><cell role="data">47</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">496</cell><cell role="data">21</cell><cell
-role="data">9.0</cell><cell role="data">41</cell><cell
-role="data">34.3</cell><cell role="data">38</cell></row><row><cell
-role="label">Washington</cell><cell role="label">Far W</cell><cell
-role="data">45.6</cell><cell role="data">7</cell><cell
-role="data">3659</cell><cell role="data">6</cell><cell
-role="data">4.90</cell><cell role="data">35</cell><cell
-role="data">627</cell><cell role="data">9</cell><cell
-role="data">15.0</cell><cell role="data">22</cell><cell
-role="data">16.8</cell><cell role="data">15</cell></row><row><cell
-role="label">West Virginia</cell><cell role="label">SE</cell><cell
-role="data">32.8</cell><cell role="data">31</cell><cell
-role="data">2500</cell><cell role="data">22</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">445</cell><cell role="data">32</cell><cell
-role="data">19.5</cell><cell role="data">5</cell><cell
-role="data">17.0</cell><cell role="data">17</cell></row><row><cell
-role="label">Wisconsin</cell><cell role="label">Grt Lk</cell><cell
-role="data">54.5</cell><cell role="data">4</cell><cell
-role="data">2143</cell><cell role="data">31</cell><cell
-role="data">5.15</cell><cell role="data">9</cell><cell
-role="data">509</cell><cell role="data">18</cell><cell
-role="data">19.0</cell><cell role="data">6</cell><cell
-role="data">12.3</cell><cell role="data">11</cell></row><row><cell
-role="label">Wyoming</cell><cell role="label">Rockies</cell><cell
-role="data">33.3</cell><cell role="data">29</cell><cell
-role="data">2486</cell><cell role="data">25</cell><cell
-role="data">1.60</cell><cell role="data">44</cell><cell
-role="data">289</cell><cell role="data">50</cell><cell
-role="data">6.5</cell><cell role="data">46</cell><cell
-role="data">40.0</cell><cell
-role="data">45</cell></row></table><note id="sc19-3-4002n3" n="*">* Percent of unemployed who
+<row><cell role="label">Delaware</cell><cell role="label">Mid Atl</cell><cell role="data">41.6</cell><cell role="data">16</cell><cell role="data">3625</cell><cell role="data">8</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">372</cell><cell role="data">43</cell><cell role="data">16.5</cell><cell role="data">15</cell><cell role="data">17.7</cell><cell role="data">18</cell></row><row><cell role="label">Florida</cell><cell role="label">SE</cell><cell role="data">25.6</cell><cell role="data">42</cell><cell role="data">2514</cell><cell role="data">21</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">479</cell><cell role="data">26</cell><cell role="data">11.0</cell><cell role="data">37</cell><cell role="data">35.7</cell><cell role="data">42</cell></row><row><cell role="label">Georgia</cell><cell role="label">SE</cell><cell role="data">23.3</cell><cell role="data">45</cell><cell role="data">1524</cell><cell role="data">49</cell><cell role="data">3.25</cell><cell role="data">42</cell><cell role="data">300</cell><cell role="data">49</cell><cell role="data">7.0</cell><cell role="data">45</cell><cell role="data">45.8</cell><cell role="data">48</cell></row><row><cell role="label">Hawaii</cell><cell role="label">Pac</cell><cell role="data">41.5</cell><cell role="data">17</cell><cell role="data">4634</cell><cell role="data">1</cell><cell role="data">5.25</cell><cell role="data">5</cell><cell role="data">501</cell><cell role="data">20</cell><cell role="data">16.0</cell><cell role="data">19</cell><cell role="data">13.5</cell><cell role="data">13</cell></row><row><cell role="label">Idaho</cell><cell role="label">Rockies</cell><cell role="data">44.4</cell><cell role="data">9</cell><cell role="data">2037</cell><cell role="data">37</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">390</cell><cell role="data">39</cell><cell role="data">10.0</cell><cell role="data">39</cell><cell role="data">28.7</cell><cell role="data">33</cell></row><row><cell role="label">Illinois</cell><cell role="label">Grt Lk</cell><cell role="data">41.3</cell><cell role="data">18</cell><cell role="data">3654</cell><cell role="data">7</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">781</cell><cell role="data">2</cell><cell role="data">18.5</cell><cell role="data">10</cell><cell role="data">9.9</cell><cell role="data">3</cell></row><row><cell role="label">Indiana</cell><cell role="label">Grt Lk</cell><cell role="data">27.2</cell><cell role="data">38</cell><cell role="data">2054</cell><cell role="data">34</cell><cell role="data">3.35</cell><cell role="data">40</cell><cell role="data">428</cell><cell role="data">34</cell><cell role="data">8.5</cell><cell role="data">43</cell><cell role="data">38.7</cell><cell role="data">44</cell></row><row><cell role="label">Iowa</cell><cell role="label">Plains</cell><cell role="data">34.0</cell><cell role="data">26</cell><cell role="data">2379</cell><cell role="data">27</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">873</cell><cell role="data">1</cell><cell role="data">11.5</cell><cell role="data">32</cell><cell role="data">21.2</cell><cell role="data">21</cell></row><row><cell role="label">Kansas</cell><cell role="label">Plains</cell><cell role="data">26.2</cell><cell role="data">40</cell><cell role="data">2719</cell><cell role="data">15</cell><cell role="data">2.65</cell><cell role="data">43</cell><cell role="data">338</cell><cell role="data">47</cell><cell role="data">9.5</cell><cell role="data">40</cell><cell role="data">37.5</cell><cell role="data">43</cell></row><row><cell role="label">Kentucky</cell><cell role="label">SE</cell><cell role="data">30.2</cell><cell role="data">35</cell><cell role="data">1958</cell><cell role="data">38</cell><cell role="data">4.25</cell><cell role="data">36</cell><cell role="data">447</cell><cell role="data">31</cell><cell role="data">14.5</cell><cell role="data">24</cell><cell role="data">31.3</cell><cell role="data">35</cell></row><row><cell role="label">Louisiana</cell><cell role="label">SE</cell><cell role="data">20.2</cell><cell role="data">48</cell><cell role="data">1868</cell><cell role="data">42</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">349</cell><cell role="data">45</cell><cell role="data">6.0</cell><cell role="data">47</cell><cell role="data">46.7</cell><cell role="data">51</cell></row><row><cell role="label">Maine</cell><cell role="label">New Eng</cell><cell role="data">44.3</cell><cell role="data">10</cell><cell role="data">2269</cell><cell role="data">29</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">441</cell><cell role="data">33</cell><cell role="data">18.0</cell><cell role="data">13</cell><cell role="data">17.8</cell><cell role="data">19</cell></row><row><cell role="label">Maryland</cell><cell role="label">Mid Atl</cell><cell role="data">32.9</cell><cell role="data">30</cell><cell role="data">3067</cell><cell role="data">13</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">553</cell><cell role="data">11</cell><cell role="data">16.5</cell><cell role="data">15</cell><cell role="data">15.5</cell><cell role="data">14</cell></row><row><cell role="label">Massachusetts</cell><cell role="label">New
+Eng</cell><cell role="data">52.1</cell><cell role="data">5</cell><cell role="data">4040</cell><cell role="data">4</cell><cell role="data">5.25</cell><cell role="data">5</cell><cell role="data">631</cell><cell role="data">8</cell><cell role="data">20.5</cell><cell role="data">3</cell><cell role="data">4.7</cell><cell role="data">1</cell></row><row><cell role="label">Michigan</cell><cell role="label">Grt Lk</cell><cell role="data">44.0</cell><cell role="data">12</cell><cell role="data">2484</cell><cell role="data">26</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">553</cell><cell role="data">11</cell><cell role="data">19.0</cell><cell role="data">6</cell><cell role="data">11.7</cell><cell role="data">9</cell></row><row><cell role="label">Minnesota</cell><cell role="label">Plains</cell><cell role="data">36.4</cell><cell role="data">23</cell><cell role="data">3199</cell><cell role="data">12</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">615</cell><cell role="data">10</cell><cell role="data">19.5</cell><cell role="data">4</cell><cell role="data">10.3</cell><cell role="data">6</cell></row><row><cell role="label">Mississippi</cell><cell role="label">SE</cell><cell role="data">30.6</cell><cell role="data">34</cell><cell role="data">1885</cell><cell role="data">41</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">271</cell><cell role="data">51</cell><cell role="data">0.0</cell><cell role="data">51</cell><cell role="data">46.5</cell><cell role="data">50</cell></row><row><cell role="label">Missouri</cell><cell role="label">Plains</cell><cell role="data">33.4</cell><cell role="data">28</cell><cell role="data">1947</cell><cell role="data">39</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">513</cell><cell role="data">16</cell><cell role="data">14.0</cell><cell role="data">25</cell><cell role="data">23.7</cell><cell role="data">26</cell></row><row><cell role="label">Montana</cell><cell role="label">Rockies</cell><cell role="data">43.9</cell><cell role="data">13</cell><cell role="data">2051</cell><cell role="data">35</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">384</cell><cell role="data">41</cell><cell role="data">16.5</cell><cell role="data">15</cell><cell role="data">21.3</cell><cell role="data">22</cell></row><row><cell role="label">Nebraska</cell><cell role="label">Plains</cell><cell role="data">28.7</cell><cell role="data">36</cell><cell role="data">1801</cell><cell role="data">44</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">427</cell><cell role="data">35</cell><cell role="data">12.5</cell><cell role="data">29</cell><cell role="data">30.3</cell><cell role="data">34</cell></row><row><cell role="label">Nevada</cell><cell role="label">Far W</cell><cell role="data">36.3</cell><cell role="data">24</cell><cell role="data">2629</cell><cell role="data">18</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">492</cell><cell role="data">23</cell><cell role="data">12.0</cell><cell role="data">30</cell><cell role="data">22.3</cell><cell role="data">25</cell></row><row><cell role="label">New Hampshire</cell><cell role="label">New
+Eng</cell><cell role="data">22.1</cell><cell role="data">46</cell><cell role="data">1480</cell><cell role="data">50</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">756</cell><cell role="data">3</cell><cell role="data">19.0</cell><cell role="data">6</cell><cell role="data">20.0</cell><cell role="data">20</cell></row><row><cell role="label">New
+Jersey</cell><cell role="label">Mid Atl</cell><cell role="data">43.2</cell><cell role="data">14</cell><cell role="data">4287</cell><cell role="data">3</cell><cell role="data">5.05</cell><cell role="data">34</cell><cell role="data">496</cell><cell role="data">21</cell><cell role="data">13.5</cell><cell role="data">28</cell><cell role="data">21.3</cell><cell role="data">22</cell></row><row><cell role="label">New Mexico</cell><cell role="label">SW</cell><cell role="data">19.0</cell><cell role="data">51</cell><cell role="data">2553</cell><cell role="data">19</cell><cell role="data">4.25</cell><cell role="data">36</cell><cell role="data">364</cell><cell role="data">44</cell><cell role="data">16.0</cell><cell role="data">19</cell><cell role="data">31.3</cell><cell role="data">35</cell></row><row><cell role="label">New York</cell><cell role="label">Mid Atl</cell><cell role="data">39.6</cell><cell role="data">20</cell><cell role="data">3669</cell><cell role="data">5</cell><cell role="data">4.25</cell><cell role="data">36</cell><cell role="data">400</cell><cell role="data">37</cell><cell role="data">16.5</cell><cell role="data">15</cell><cell role="data">21.3</cell><cell role="data">22</cell></row><row><cell role="label">North Carolina</cell><cell role="label">SE</cell><cell role="data">33.7</cell><cell role="data">27</cell><cell role="data">1721</cell><cell role="data">46</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">512</cell><cell role="data">17</cell><cell role="data">12.0</cell><cell role="data">30</cell><cell role="data">26.5</cell><cell role="data">30</cell></row><row><cell role="label">North Dakota</cell><cell role="label">Plains</cell><cell role="data">38.8</cell><cell role="data">22</cell><cell role="data">2140</cell><cell role="data">33</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">387</cell><cell role="data">40</cell><cell role="data">14.0</cell><cell role="data">25</cell><cell role="data">25.7</cell><cell role="data">28</cell></row><row><cell role="label">Ohio</cell><cell role="label">Grt Lk</cell><cell role="data">31.4</cell><cell role="data">33</cell><cell role="data">2712</cell><cell role="data">16</cell><cell role="data">4.25</cell><cell role="data">36</cell><cell role="data">521</cell><cell role="data">14</cell><cell role="data">11.5</cell><cell role="data">32</cell><cell role="data">27.2</cell><cell role="data">31</cell></row><row><cell role="label">Oklahoma</cell><cell role="label">SW</cell><cell role="data">23.4</cell><cell role="data">44</cell><cell role="data">2164</cell><cell role="data">30</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">426</cell><cell role="data">36</cell><cell role="data">16.0</cell><cell role="data">19</cell><cell role="data">26.2</cell><cell role="data">29</cell></row><row><cell role="label">Oregon</cell><cell role="label">Far W</cell><cell role="data">44.8</cell><cell role="data">8</cell><cell role="data">2679</cell><cell role="data">17</cell><cell role="data">6.00</cell><cell role="data">2</cell><cell role="data">519</cell><cell role="data">15</cell><cell role="data">18.5</cell><cell role="data">10</cell><cell role="data">10.3</cell><cell role="data">6</cell></row><row><cell role="label">Pennsylvania</cell><cell role="label">Mid Atl</cell><cell role="data">55.6</cell><cell role="data">3</cell><cell role="data">3483</cell><cell role="data">9</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">542</cell><cell role="data">13</cell><cell role="data">17.5</cell><cell role="data">14</cell><cell role="data">10.3</cell><cell role="data">6</cell></row><row><cell role="label">Rhode Island</cell><cell role="label">New Eng</cell><cell role="data">73.6</cell><cell role="data">1</cell><cell role="data">3439</cell><cell role="data">10</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">503</cell><cell role="data">19</cell><cell role="data">18.5</cell><cell role="data">10</cell><cell role="data">9.8</cell><cell role="data">5</cell></row><row><cell role="label">South Carolina</cell><cell role="label">SE</cell><cell role="data">27.7</cell><cell role="data">37</cell><cell role="data">1756</cell><cell role="data">45</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">451</cell><cell role="data">30</cell><cell role="data">5.0</cell><cell role="data">49</cell><cell role="data">43.5</cell><cell role="data">46</cell></row><row><cell role="label">South Dakota</cell><cell role="label">Plains</cell><cell role="data">19.7</cell><cell role="data">49</cell><cell role="data">1593</cell><cell role="data">48</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">375</cell><cell role="data">42</cell><cell role="data">11.5</cell><cell role="data">32</cell><cell role="data">35.3</cell><cell role="data">40</cell></row><row><cell role="label">Tennessee</cell><cell role="label">SE</cell><cell role="data">34.4</cell><cell role="data">25</cell><cell role="data">1824</cell><cell role="data">43</cell><cell role="data">0.00</cell><cell role="data">51</cell><cell role="data">453</cell><cell role="data">29</cell><cell role="data">11.5</cell><cell role="data">32</cell><cell role="data">35.3</cell><cell role="data">40</cell></row><row><cell role="label">Texas</cell><cell role="label">SW</cell><cell role="data">23.6</cell><cell role="data">43</cell><cell role="data">2851</cell><cell role="data">14</cell><cell role="data">3.35</cell><cell role="data">40</cell><cell role="data">491</cell><cell role="data">24</cell><cell role="data">7.5</cell><cell role="data">44</cell><cell role="data">34.8</cell><cell role="data">39</cell></row><row><cell role="label">Utah</cell><cell role="label">Rockies</cell><cell role="data">25.7</cell><cell role="data">41</cell><cell role="data">2051</cell><cell role="data">35</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">397</cell><cell role="data">38</cell><cell role="data">9.0</cell><cell role="data">41</cell><cell role="data">34.2</cell><cell role="data">37</cell></row><row><cell role="label">Vermont</cell><cell role="label">New Eng</cell><cell role="data">48.9</cell><cell role="data">6</cell><cell role="data">2309</cell><cell role="data">28</cell><cell role="data">5.25</cell><cell role="data">5</cell><cell role="data">674</cell><cell role="data">7</cell><cell role="data">19.0</cell><cell role="data">6</cell><cell role="data">9.7</cell><cell role="data">4</cell></row><row><cell role="label">Virginia</cell><cell role="label">SE</cell><cell role="data">20.3</cell><cell role="data">47</cell><cell role="data">1711</cell><cell role="data">47</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">496</cell><cell role="data">21</cell><cell role="data">9.0</cell><cell role="data">41</cell><cell role="data">34.3</cell><cell role="data">38</cell></row><row><cell role="label">Washington</cell><cell role="label">Far W</cell><cell role="data">45.6</cell><cell role="data">7</cell><cell role="data">3659</cell><cell role="data">6</cell><cell role="data">4.90</cell><cell role="data">35</cell><cell role="data">627</cell><cell role="data">9</cell><cell role="data">15.0</cell><cell role="data">22</cell><cell role="data">16.8</cell><cell role="data">15</cell></row><row><cell role="label">West Virginia</cell><cell role="label">SE</cell><cell role="data">32.8</cell><cell role="data">31</cell><cell role="data">2500</cell><cell role="data">22</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">445</cell><cell role="data">32</cell><cell role="data">19.5</cell><cell role="data">5</cell><cell role="data">17.0</cell><cell role="data">17</cell></row><row><cell role="label">Wisconsin</cell><cell role="label">Grt Lk</cell><cell role="data">54.5</cell><cell role="data">4</cell><cell role="data">2143</cell><cell role="data">31</cell><cell role="data">5.15</cell><cell role="data">9</cell><cell role="data">509</cell><cell role="data">18</cell><cell role="data">19.0</cell><cell role="data">6</cell><cell role="data">12.3</cell><cell role="data">11</cell></row><row><cell role="label">Wyoming</cell><cell role="label">Rockies</cell><cell role="data">33.3</cell><cell role="data">29</cell><cell role="data">2486</cell><cell role="data">25</cell><cell role="data">1.60</cell><cell role="data">44</cell><cell role="data">289</cell><cell role="data">50</cell><cell role="data">6.5</cell><cell role="data">46</cell><cell role="data">40.0</cell><cell role="data">45</cell></row></table><note id="sc19-3-4002n3" n="*">* Percent of unemployed who
 are eligible for insurance and applied for benefits in a typical
 week.</note><note id="sc19-3-4002n4" n="**">** Average weekly benefit multiplied by average
 benefit duration.</note><note id="sc19-3-4002n5">+ This measure scores states for their
@@ -4838,8 +4472,7 @@ Frank Curiel is no less committed to his position. "We'll be there in their face
             <p>From her home in Birmingham, Alabama, Alissa Mathison traveled to Quincy, Florida, to support the United Farm Workers' boycott of Prime mushrooms. Barry Lee is a graduate student in history at Georgia State University in Atlanta.</p>
           </div3>
         </div2>
-        <div2 id="sc19-3-4005" n="The New Factories in the Fields:
-				 Georgia Poultry Workers" type="Article">
+        <div2 id="sc19-3-4005" n="The New Factories in the Fields:      Georgia Poultry Workers" type="Article">
           <head>The New Factories in the Fields: Georgia Poultry Workers</head>
           <byline>By <docAuthor><name reg="Guthey, Greg" type="person">Greg Guthey</name></docAuthor></byline>
           <docDate value="1997-09-01">Vol. 19, No. 3-4, 1997 pp. 23-25</docDate>
@@ -4886,8 +4519,7 @@ Jalisco, Michoacan and other regions in Mexico.</p>
             <p>Greg Guthey recently completed his masters degree at the University of Georgia. He is now a graduate student in the Department of Geography at the University of California-Berkeley.</p>
           </div3>
         </div2>
-        <div2 id="sc19-3-4006" n="Southern Workers and the Movement for
-  Social Justice: Thirty Years Since Memphis" type="Article">
+        <div2 id="sc19-3-4006" n="Southern Workers and the Movement for   Social Justice: Thirty Years Since Memphis" type="Article">
           <head>Southern Workers and the Movement for Social Justice:
 Thirty Years Since Memphis</head>
           <byline>By <docAuthor><name reg="Honey, Michael" type="person">Michael Honey</name></docAuthor></byline>
@@ -4948,8 +4580,7 @@ Historians' prize for race relations history in 1994. His book
 from the University of California Press.</p>
           </div3>
         </div2>
-        <div2 id="sc19-3-4008" n="Saints and Villains: An Interview
-				 with Denise Giardina" type="Article">
+        <div2 id="sc19-3-4008" n="Saints and Villains: An Interview      with Denise Giardina" type="Article">
           <head>Saints and Villains: An Interview with Denise Giardina</head>
           <byline>By <docAuthor><name reg="Taylor, Kerry" type="person">Kerry Taylor</name></docAuthor></byline>
           <docDate value="1997-09-01">Vol. 19, No. 3-4, 1997 pp. 30-32</docDate>
@@ -5058,9 +4689,7 @@ South, Twenty-Five Years Later," appeared in the Summer 1997 Southern
 Changes.</p>
           </div3>
         </div2>
-        <div2 id="sc19-3-4009" n="What's A Union For?: New
-				      Perspectives on Textile Unionism
-				      in the Post-World War II South" type="review">
+        <div2 id="sc19-3-4009" n="What's A Union For?: New           Perspectives on Textile Unionism           in the Post-World War II South" type="review">
           <head>BOOKS<lb/>
 What's A Union For?: New Perspectives on Textile Unionism
 in the Post-World War II South</head>

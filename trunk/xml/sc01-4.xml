@@ -37,7 +37,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 1, Number 4.  January, 1979</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1979-01">January 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -387,8 +387,7 @@ way.</p>
             <p>Al Burt is a roving columnist for the <title>Miami Herald.</title></p>
           </div3>
         </div2>
-        <div2 id="sc01-4002" n="Legal Workers Battle for poor in
-      Mississippi" type="Article">
+        <div2 id="sc01-4002" n="Legal Workers Battle for poor in       Mississippi" type="Article">
           <head>Legal Workers Battle for poor in Mississippi</head>
           <byline>By <docAuthor><name reg="Delaney, Joseph" type="person">Joseph Delaney</name></docAuthor></byline>
           <docDate value="1979-01-01">Vol. 1, No. 4, 1979, pp.17-19</docDate>

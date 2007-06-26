@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc14-11204">
   <teiHeader id="sc14-11201" type="text">
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 14, Number 1.  February 1992</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 14</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1992-02">February 1992</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -230,8 +231,7 @@ and adversity. For example, one evening at Highlander a number of local law enfo
         </div2>
         <div2 id="sc14-1004" n="Memories of the Poll Tax Fight" type="Article">
           <head>Memories of the Poll Tax Fight</head>
-          <byline>By <docAuthor><name reg="Durr, Virginia
-	       Foster" type="person">Virginia Foster Durr</name> with <name reg="Honey, William" type="person">William Honey</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Durr, Virginia Foster" type="person">Virginia Foster Durr</name> with <name reg="Honey, William" type="person">William Honey</name></docAuthor></byline>
           <docDate value="1992-02-01">Vol. 14, No. 1, 1992, pp. 14-15</docDate>
           <p>When I got to Washington in 1933 I began working with the Women's Division of the Democratic Party. One of the things that we worked for was to get rid of the poll tax. Women gained the right to vote in 1917, but the poll tax and control of the election process by white men almost completely excluded women and blacks and poor whites in the South from voting.</p>
           <p>In Virginia where I lived at the time I believe that less than thirteen percent of the eligible voting population was registered to vote. In Alabama it may have been slightly less.</p>
@@ -330,8 +330,7 @@ by the Supreme Court which overturned eighteen years of civil rights law, minori
         </div2>
         <div2 id="sc14-1009" n="A Reporter's Retrospective of the Movement" type="Review">
           <head>A Reporter's Retrospective of the Movement</head>
-          <byline>Reviewed by <docAuthor><name reg="Ragsdale,
-	       W.B., Jr." type="person">W. B. Ragsdale, Jr.</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Ragsdale, W.B., Jr." type="person">W. B. Ragsdale, Jr.</name></docAuthor></byline>
           <docDate value="1992-02-01">Vol. 14, No. 1, 1992, pp. 23-25</docDate>
           <bibl><title>Free at Last, The Civil Rights Movement and the People Who Made It.</title> Fred Powledge. (Little, Brown, 1991. xxiii, 711 pp.).</bibl>
           <p>It has been more than two decades since the peak years of the Civil Rights Movement. The Movement is now almost legendary. Legends tend to give more credit to some actors in the drama, not enough to others, forget some entirely, and distort facts to make a better story.</p>

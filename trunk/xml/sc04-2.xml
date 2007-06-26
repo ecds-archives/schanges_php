@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "schanges-tei.dtd">
 <TEI.2 id="sc04-21204">
   <teiHeader id="sc04-21201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 4, Number 2.  April 1982</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1982-04">April 1982</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

@@ -32,7 +32,8 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 21, Number 4 1999</bibl>
+        <bibl><title></title>. <biblScope type="volume">Volume
+21</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1999">1999</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -58,8 +59,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <head>Southern Changes.  Volume 21, Number 4, 1999</head>
         <p><title>Southern Changes.</title>  Volume 21, Number 4,
 	       <date value="1999-12-01">1999</date></p>
-        <div2 id="sc21-4002" n="Census 2000: One Census, Two Counts--The
-Politics Behind the Confusion" type="Article">
+        <div2 id="sc21-4002" n="Census 2000: One Census, Two Counts--The Politics Behind the Confusion" type="Article">
           <head>Census 2000: One Census, Two Counts--The
 Politics Behind the Confusion</head>
           <byline>By <docAuthor><name reg="Hagens, Winnett" type="person">Winnett Hagens</name></docAuthor></byline>
@@ -111,8 +111,7 @@ funds. With all nine Justices concurring in one way <pb n="5"/>or another, the C
 Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc21-4003" n="And They Will Come: School of the Americas
-			Protest Gains Momentum" type="Article">
+        <div2 id="sc21-4003" n="And They Will Come: School of the Americas    Protest Gains Momentum" type="Article">
           <head>And They Will Come: School of the Americas Protest Gains Momentum</head>
           <byline>By <docAuthor><name reg="Greenlee, Gale" type="person">Gale Greenlee</name></docAuthor></byline>
           <docDate value="1999-12-01">Vol. 21, No. 4, Winter 1999 pp. 1, 6-7</docDate>
@@ -156,8 +155,7 @@ Corporation for National Service's LEARNS program at the Southern
 Regional Council until October 1999</p>
           </div3>
         </div2>
-        <div2 id="sc21-4004" n="Recognizing Activist-Scholars: 1999 Lillian
-			 Smith Award Winners" type="Article">
+        <div2 id="sc21-4004" n="Recognizing Activist-Scholars: 1999 Lillian     Smith Award Winners" type="Article">
           <head>Recognizing Activist-Scholars: 1999 Lillian Smith Award Winners</head>
           <docDate value="1999-12-01">Vol. 21, No. 4, Winter 1999 pp. 8-13</docDate>
           <byline>

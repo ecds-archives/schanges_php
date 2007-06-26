@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 2, Number 1.  September 1979</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1979-09">September 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -292,7 +292,7 @@ faith in America and through their example and commitment, America's
 faith in itself.</p>
         </div2>
         <div2 id="sc02-1005" n="Preparing Women For Engineering Technology" type="Article">
-          <head>>Preparing Women For Engineering Technology</head>
+          <head>&gt;Preparing Women For Engineering Technology</head>
           <byline>By <docAuthor><name reg="Hoffius, Steve" type="person">Steve Hoffius</name></docAuthor></byline>
           <docDate value="1979-09-01">Vol. 2, No. 1, 1979, pp. 10-13</docDate>
           <p>Katherine Prior is a nurse, a long-time nurse. For 18 years she has worked at hospitals in the Carolinas, returned to classes for more education, and now is a licensed, practical nurse. She has never made more than $4.10 an hour.</p>

@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc06-41204">
   <teiHeader id="sc06-41201" type="text">
@@ -35,8 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 6, Number 4. August-September
-1984</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1984-08">August-September 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1573,8 +1573,7 @@ American Region</title> (University of North Carolina Press,
         </div2>
         <div2 id="sc06-4007" n="This Land, This South" type="Review">
           <head>This Land, This South</head>
-          <byline>Reviewed by <docAuthor><name reg="Ayers, Edward
-	       L." type="person">Edward L. Ayers</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Ayers, Edward L." type="person">Edward L. Ayers</name></docAuthor></byline>
           <docDate value="1984-08-01">Vol. 6, No. 4, 1984, pp. 22-23</docDate>
           <bibl><title>This Land, This South: An Environmental History</title>
 by Albert E. Cowdrey. University of Kentucky Press, 1983. 236

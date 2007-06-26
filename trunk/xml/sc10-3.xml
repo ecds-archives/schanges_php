@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc10-31204">
   <teiHeader id="sc10-31201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 10, Number 3.  May/June 1988</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1988-05">May/June 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -884,8 +885,7 @@ Council in November 1987.</p>
         </div2>
         <div2 id="sc10-3008" n="Time to Revitalize" type="Article">
           <head>'Time to Revitalize' Southern Labor</head>
-          <byline>By <docAuthor><name reg="Trifiro, Paul
-	       McLennan" type="person">Paul McLennan</name> and <name reg="Trifiro, Vicki" type="person">Vicki Trifiro</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Trifiro, Paul         McLennan" type="person">Paul McLennan</name> and <name reg="Trifiro, Vicki" type="person">Vicki Trifiro</name></docAuthor></byline>
           <docDate value="1988-05-01">Vol. 10, No. 3, 1988, pp. 15-16</docDate>
           <p>For William Winpisinger, the message to corporate America from the
 5,000 workers gathered in an Atlanta parking lot on April 30 wee to

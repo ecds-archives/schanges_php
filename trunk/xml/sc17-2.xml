@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 17, Number 2 Summer, 1995</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 17</biblScope>, <biblScope type="issue">Number 2 Summer</biblScope>. <date value="1995-12">1995</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -235,8 +235,7 @@ can only come over time. This has been key in my ability to succeed as
 a freelance photojournalist, and to make a contribution in which I can
 take pride.</p>
         </div2>
-        <div2 id="sc17-2005" n="The Last Innocents
-The Civil Rights Movement and the Teaching of High School History" type="Article">
+        <div2 id="sc17-2005" n="The Last Innocents The Civil Rights Movement and the Teaching of High School History" type="Article">
           <head>The Last Innocents The Civil Rights Movement and the Teaching of
 High School History</head>
           <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
@@ -304,7 +303,7 @@ actually credit the government, almost single-handedly, for the
 advances made during the period. In so doing, textbooks follow what
 we might call the Hollywood approach to civil rights. Hollywood's main
 feature film on the movement, you may remember, was Alan Parker's
-notorious <hi rend="italic">Mississippi Burning</hi>>. In that
+notorious <hi rend="italic">Mississippi Burning</hi>. In that
 movie, the three civil rights workers get killed in the first five
 minutes; for the rest of its two hours the movie portrays not a single
 civil rights worker or black Mississippian over the age of twelve with
@@ -470,8 +469,7 @@ his research on American history textbooks.</p>
         </div2>
         <div2 id="sc17-2006" n="BOOKS: Not So Quiet Anymore." type="Review">
           <head>BOOKS<lb/>Not So Quiet Anymore.</head>
-          <byline>Reviewed by <docAuthor><name reg="Karlan,
-	       Pamela S." type="person">Pamela S. Karlan </name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Karlan, Pamela S." type="person">Pamela S. Karlan </name></docAuthor></byline>
           <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
           <bibl><title>Quiet Revolution in the South: The Impact of the
 Voting Rights Act, 1965-1990</title>, edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</bibl>

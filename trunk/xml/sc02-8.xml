@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 2, Number 8,  July-August 1980</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 8</biblScope>. <date value="1980-07">July-August 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -260,7 +260,7 @@ is a "mere prohibition." Unlike the Fourteenth which can prohibit only
 state actions, the Thirteenth can also reach purely private conduct
 that restricts the achievement of equality.</p>
         </div2>
-        <div2 id="sc02-8004" n=">The South Remembered" type="Article">
+        <div2 id="sc02-8004" n="&gt;The South Remembered" type="Article">
           <head>The South Remembered</head>
           <byline>By <docAuthor><name reg="Marquerd, John" type="person">John Marquerd</name></docAuthor></byline>
           <docDate value="1980-07-01">Vol. 2, No. 8, 1980, pp. 9-10</docDate>
@@ -327,8 +327,7 @@ have so much less.</p>
             </p>
           </div3>
         </div2>
-        <div2 id="sc02-8009" n="The Bolden Decision Stonewalls Black
-      Aspirations" type="Article">
+        <div2 id="sc02-8009" n="The Bolden Decision Stonewalls Black       Aspirations" type="Article">
           <head>The Bolden Decision Stonewalls Black Aspirations</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1980-07-01">Vol. 2, No. 8, 1980, pp. 11-17</docDate>
@@ -462,7 +461,7 @@ or effect to deny or abridge the right of any citizen of the United
 
 States on account of race or color...</hi></p></q>
 Accompanying legislative history could make clear that Congress was acting in light of <hi rend="italic">Bolden</hi> to render unlawful election schemes such as Mobile's which have the effect, regardless of their purpose, of denying equal access by Blacks to elective office.</p>
-          <p>>If amendment could be accomplished during the next session of
+          <p>&gt;If amendment could be accomplished during the next session of
 
 Congress, <hi rend="italic">Bolden</hi> would prove to be an
 
@@ -472,8 +471,7 @@ opportunity, and not simply a crisis.</p>
 office of the ACLU in Atlanta.</p>
           </div3>
         </div2>
-        <div2 id="sc02-8010" n="The Federation of Southern Cooperatives
-      Under Siege" type="Article">
+        <div2 id="sc02-8010" n="The Federation of Southern Cooperatives       Under Siege" type="Article">
           <head>The Federation of Southern Cooperatives Under Siege</head>
           <byline>By <docAuthor><name reg="Vodicka, John" type="person">John Vodicka</name></docAuthor></byline>
           <docDate value="1980-07-01">Vol. 2, No. 8, 1980, pp.18-21</docDate>

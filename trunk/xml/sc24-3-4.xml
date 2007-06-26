@@ -37,8 +37,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 24, Number 3-4.  Fall/Winter
-2002</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 24</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1969-12">Fall/Winter 2002</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -680,8 +679,7 @@ successor, Bill Campbell, who served after the study's time-line, primarily cont
           <div3 id="sc24-3-4025" type="About">
             <p>David Colburn is Provost of the University of Florida. David Chalmers is Distinguished Service Professor of History, Emeritus of the University of Florida, and is author of a forthcoming book, <title>BACKFIRE: How the Ku Klux Klan helped the Civil Rights Movement.</title></p>
           </div3>
-          <div3 id="sc24-3-4026" n="African-American Mayors in Cities with
-			   Populations above 50,000" type="Sidebar">
+          <div3 id="sc24-3-4026" n="African-American Mayors in Cities with       Populations above 50,000" type="Sidebar">
             <list>
               <item>Floyd Adams, Jr., Savannah, GA 131,510 Population (57.1% Black)</item>
               <item>James M. Baker, Wilmington, DE 72,664 Population (56.4% Black)</item>

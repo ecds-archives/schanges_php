@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 18, Number 1, Spring 1996</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 18</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1969-12">Spring 1996</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -58,8 +58,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <head>Southern Changes.  Volume 18, Number 1, 1996</head>
         <p><title>Southern Changes</title>.  Volume 18, Number 1,
 	    <date value="1996-03-01">1996</date></p>
-        <div2 id="sc18-1002" n="Welfare Reform: States Race to the
-			       Bottom" type="Article">
+        <div2 id="sc18-1002" n="Welfare Reform: States Race to the           Bottom" type="Article">
           <head>Welfare Reform: States Race to the Bottom</head>
           <byline>
             <docAuthor>

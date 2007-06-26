@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc12-21204">
   <teiHeader id="sc12-21201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 12, Number 2.  June 1990</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1990-06">June 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -179,8 +180,7 @@ journal.</p>
         </div2>
         <div2 id="sc12-2003" n="A mayor who was never addicted to steel" type="Review">
           <head>A mayor who was never addicted to steel.</head>
-          <byline>Reviewed by <docAuthor><name reg="Morgan,
-	       Charles, Jr." type="person">Charles Morgan Jr.</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Morgan, Charles, Jr." type="person">Charles Morgan Jr.</name></docAuthor></byline>
           <docDate value="1990-06-01">Vol. 12, No. 2, 1990, pp. 22-23</docDate>
           <bibl><title>BACK TO
 BIRMINGHAM: Richard Barrington, Jr. and His Times</title> by Jimmie

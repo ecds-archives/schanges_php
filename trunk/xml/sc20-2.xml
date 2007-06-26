@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc20-21204">
   <teiHeader id="sc20-21201" type="text">
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 20, Number 2. Summer, 1998</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1969-12">Summer 1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -57,8 +58,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <head>Southern Changes.  Volume 20, Number 2, 1998</head>
         <p><title>Southern Changes.</title>  Volume 20, Number 2,
 	       <date value="1998-06-01">1998</date></p>
-        <div2 id="sc20-2002" n="Rethinking Race and Poverty
- in the Global South" type="Article">
+        <div2 id="sc20-2002" n="Rethinking Race and Poverty  in the Global South" type="Article">
           <head>Rethinking Race and Poverty
  in the Global South</head>
           <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
@@ -96,8 +96,7 @@ is upon us. What will we make of it?</p>
             <p>Barbara Ellen Smith is director of the Memphis Center on Women at the University of Memphis.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2003" n="One in Three Poor Children in America
-Lives in the South" type="Article">
+        <div2 id="sc20-2003" n="One in Three Poor Children in America Lives in the South" type="Article">
           <head>One in Three Poor Children in America
 Lives in the South</head>
           <byline>
@@ -316,8 +315,7 @@ covered the trial for the <hi rend="italic">Greene County Democrat</hi>, a Black
             <p>Anne Braden is co-chair of the Southern Organizing Committee for Economic and Social Justice (SOC) and a Life Fellow of the Southern Regional Council. She was deeply involved in the defense of Black Belt voting rights in the 1980s.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2008" n="Grand Opening:
-The Mississippi Sovereignty Commission" type="Article">
+        <div2 id="sc20-2008" n="Grand Opening: The Mississippi Sovereignty Commission" type="Article">
           <head>Grand Opening:
 The Mississippi Sovereignty Commission</head>
           <byline>
@@ -365,8 +363,7 @@ changed radically, however, after the 1954  <hi rend="italic">Brown v. Board of 
           <p>The Sovereignty Commission was finally put out of business in 1973
 when Gov. Bill Waller vetoed its appropriation, ending another sordid
 chapter of Mississippi history.</p>
-          <div3 id="sc20-2013" n="Alabama's Segregationist Agency's Files
-  Still Closed" type="Sidebar">
+          <div3 id="sc20-2013" n="Alabama's Segregationist Agency's Files   Still Closed" type="Sidebar">
             <head>Alabama's Segregationist Agency's Files
   Still Closed</head>
             <p>From <title>Montgomery Advertiser</title>, March 23,
@@ -475,12 +472,10 @@ public lives of his characters is perhaps <hi rend="italic">The Children's</hi> 
             <p>David J. Garrow, Presidential Distinguished Professor at Emory University, is the author of the Pulitzer Prize-winning biography <title>Bearing the Cross</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2011" n="Listeners Respond to
-Will The Circle Be Unbroken?" type="Article">
+        <div2 id="sc20-2011" n="Listeners Respond to Will The Circle Be Unbroken?" type="Article">
           <head>Listeners Respond to
 Will The Circle Be Unbroken?</head>
-          <byline>Introduction by <docAuthor><name reg="Lee,
-	       Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
+          <byline>Introduction by <docAuthor><name reg="Lee,         Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1998-06-01">Vol. 20, No. 2, 1998</docDate>
           <p>"Without a doubt, this was the most impressive radio program I've
 ever heard," writes a listener from Fort Myers, Florida, about the
@@ -561,8 +556,7 @@ I  can see this program taken further with the addition of visuals
           <p>P.S.: The commentator is very good</p>
           <p>S. M.L. B.</p>
         </div2>
-        <div2 id="sc20-2017" n="Reversal of Policy:
-SCETV Shows The Uprising of 34" type="Article">
+        <div2 id="sc20-2017" n="Reversal of Policy: SCETV Shows The Uprising of 34" type="Article">
           <head>Reversal of Policy:
 SCETV Shows "The Uprising of '34"</head>
           <byline>By <docAuthor><name reg="Terrill, Tom" type="person">Tom Terrill</name></docAuthor></byline>

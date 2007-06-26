@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 04, Number 1. November, 1981</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 04</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1981-11">November 1981</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -56,7 +56,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
     <body id="sc04-11202">
       <div1 id="sc04-1001" n="Southern Changes 4:1" type="Issue">
         <head>Southern Changes. Volume 4, Number 1, 1981</head>
-        <p><title>Southern Changes.</title> Volume 4, Number 1, <date value="1981-11-01"></date></p>
+        <p><title>Southern Changes.</title> Volume 4, Number 1, <date value="1981-11-01"/></p>
         <div2 id="sc04-1002" n="Amended Act Passes..." type="Article">
           <head>Amended Act Passes...</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
@@ -1202,7 +1202,7 @@ presently interpret Section 2 to require a showing of both
 discriminatory purpose and effect.</p>
         </div2>
         <div2 id="sc04-1009" n="Why the South Needs the Voting Rights Act" type="Article">
-          <head>"Why the South Needs the Voting Rights Act"></head>
+          <head>"Why the South Needs the Voting Rights Act"&gt;</head>
           <byline>By <docAuthor><name reg="Askew, Reubin O'D." type="person">Reubin O'D. Askew</name></docAuthor></byline>
           <docDate value="1981-11-01">Vol. 4, No. 1, 1981, pp. 10-13</docDate>
           <p>With tear gas, with billy clubs, and with bullwhips, the eyes of America were opened at Selma, Alabama in 1965. The longstanding refusal of this nation to fulfill one of the most basic of its democratic commitments was revealed for all to see.</p>
@@ -1852,8 +1852,7 @@ at-large election procedures and only reflect token black representation. The So
           <p>Robert R. Woods presented testimony before the US. House
 Subcommittee on Civil and Constitutional Rights on June 3, 1981.</p>
         </div2>
-        <div2 id="sc04-1005" n="Barriers to Voter Registration
-Remain Southwide" type="Article">
+        <div2 id="sc04-1005" n="Barriers to Voter Registration Remain Southwide" type="Article">
           <head>Barriers to Voter Registration Remain Southwide</head>
           <byline>By <docAuthor><name reg="Brown, Raymond" type="person">Raymond Brown</name></docAuthor></byline>
           <docDate value="1981-11-01">Vol. 4, No. 1, 1981, pp. 34-35</docDate>
@@ -1888,8 +1887,7 @@ is still filled with sinners and the revival must continue."</p>
 Regional Council that is examining voting rights in the South.</p>
           </div3>
         </div2>
-        <div2 id="sc04-1006" n="Section 5 and Voting Changes:
-The Heart of the Act" type="Article">
+        <div2 id="sc04-1006" n="Section 5 and Voting Changes: The Heart of the Act" type="Article">
           <head>"Section 5 and Voting Changes:The Heart of the Act</head>
           <byline>
             <docAuthor><name reg="Jordan, Vernon E." type="person">By Vernon
@@ -1999,7 +1997,7 @@ Robert Adams testified before Congress on June 10, 1981.</p>
           </div3>
         </div2>
         <div2 id="sc04-1007" n="Extend the Protections of the Act" type="Article">
-          <head>"Extend the Protections of the Act"></head>
+          <head>"Extend the Protections of the Act"&gt;</head>
           <byline>By <docAuthor><name reg="Kennedy, Edward" type="person">Edward Kennedy</name></docAuthor></byline>
           <docDate value="1981-11-01">Vol. 4, No. 1, 1981, p. 40</docDate>
           <p>I am very pleased to join with Senators Mathias, Biden, Chafee, and Metzenbaum today in introducing the Voting Rights Amendments of 1981. Our bill will extend the essential protections of the historic Voting Rights Act. It will ensure that the hard won progress of the past is preserved, and that the effort to achieve full participation for all Americans in our democracy will continue in the future.</p>

@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc10-51204">
   <teiHeader id="sc10-51201" type="text">
@@ -35,8 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 10, Number 5.  October-November
-1988</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1988-10">October-November 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

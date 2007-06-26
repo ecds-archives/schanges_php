@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 2, Number 5,  February 1980</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1980-02">February 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -182,8 +182,7 @@ recent Southern history. By bringing to the campus retired organizers like Ella 
             <p>An associate professor of history at Duke University, Ray Gavins is a member of the Southern Regional Council. This article is from a paper which he delivered to the National Conference on Desegregation in Higher Education, July 19, 1979, Raleigh, North Carolina.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5004" n="The South: Its Attitudes and
-Changes, Its People" type="Article">
+        <div2 id="sc02-5004" n="The South: Its Attitudes and Changes, Its People" type="Article">
           <head>The South: Its Attitudes and
 Changes, Its People</head>
           <byline>By <docAuthor><name reg="Stokes, Bettie Green" type="person">Bettie Green Stokes</name></docAuthor></byline>
@@ -327,8 +326,7 @@ the law, when a reasonable basis exists for determining that Affirmative Action 
             <p>Marge Manderson is a program officer for the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5007" n="Women and Minorities in Louisiana
-Elections Despair or Hope?" type="Article">
+        <div2 id="sc02-5007" n="Women and Minorities in Louisiana Elections Despair or Hope?" type="Article">
           <head>Women and Minorities in Louisiana Elections Despair or Hope?</head>
           <byline>By <docAuthor><name reg="Dyess, Norma" type="person">Norma Dyess</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 19-23</docDate>
