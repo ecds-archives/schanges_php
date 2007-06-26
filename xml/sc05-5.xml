@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc05-51204">
   <teiHeader id="sc05-51201" type="text">
@@ -35,8 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 5, Number 5. October-November
-1983</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1983-10">October-November 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1760,7 +1760,7 @@ here you are back today with a damn yankee."</p>
           <p>I said, "Well, all right. I just come back to try."</p>
           <p>We walked out. The suit was filed. We fought it from 1963, won the
 revoking of the license and finally the privilege to operate the
-station in 1979Ñthat's fifteen, sixteen, seventeen years of
+station in 1979&#x2014;that's fifteen, sixteen, seventeen years of
 fighting. The niggah that they wouldn't sell time to in 1963 today
 sits as the chairman of the board of directors of that damn television
 station.</p>

@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc20-31204">
   <teiHeader id="sc20-31201" type="text">
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 20, Number 3. 1998</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1998-12">1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -248,8 +249,7 @@ practice, democracy.</p>
             <p>Randy Kehler, who lives in Massachusetts is a founding member of  the Working Group on Electoral Democracy, and a consultant to Public Campaign. For more information about Clean Money Campaign Reform, call Public Campaign at 202-293-0222, or check out their web site &#x003C;www.publicampaign.org&#x003E;.</p>
           </div3>
         </div2>
-        <div2 id="sc20-3008" n="Incomes/Outcomes:
-Campaign Finance as a Civil Rights Issue" type="Article">
+        <div2 id="sc20-3008" n="Incomes/Outcomes: Campaign Finance as a Civil Rights Issue" type="Article">
           <head>Incomes/Outcomes:
 Campaign Finance as a Civil Rights Issue</head>
           <byline>By <docAuthor><name reg="Basco, Sharon" type="person">Sharon Basco</name></docAuthor></byline>
@@ -311,11 +311,9 @@ the <hi rend="italic">Massey</hi> case will help change the system. He's the per
 294 Washington Street, Suite 713, Boston, MA 02108; Phone (617)368-9100;Fax(617)368-9101;Email: nvri@world.std.com.</p>
           </div3>
         </div2>
-        <div2 id="sc20-3009" n="Getting Money Out of Politics
-" type="Article">
+        <div2 id="sc20-3009" n="Getting Money Out of Politics " type="Article">
           <head>Getting Money Out of Politics</head>
-          <byline>Interviewed by <docAuthor><name reg="Spears,
-	       Ellen" type="person">Ellen Spears</name> and <name reg="Hagens, Winnett" type="person">Winnett Hagens</name></docAuthor></byline>
+          <byline>Interviewed by <docAuthor><name reg="Spears,         Ellen" type="person">Ellen Spears</name> and <name reg="Hagens, Winnett" type="person">Winnett Hagens</name></docAuthor></byline>
           <docDate value="1998-09-01">Vol. 20, No. 3, 1998 pp. 16-20</docDate>
           <p rend="italic">Veteran activsts in Alabama, North Carolina, and
 Louisiana who have been involved in local and state campaigns speak
@@ -846,8 +844,7 @@ Of this number 3,087 were black males and 1,010 <pb n="27"/>were black females f
             <p>Earl Shinhoster is the voter education coordinator in the Elections Division of the Georgia Secretary of State's Office.</p>
           </div3>
         </div2>
-        <div2 id="sc20-3013" n="Dred Scott's Unwon Freedom:
-The Redistricting Cases as Badges of Slavery" type="Article">
+        <div2 id="sc20-3013" n="Dred Scott's Unwon Freedom: The Redistricting Cases as Badges of Slavery" type="Article">
           <head>Dred Scott's Unwon Freedom:
 The Redistricting Cases as Badges of Slavery</head>
           <byline>By <docAuthor><name reg="Blacksher, James U." type="person">James U. Blacksher</name></docAuthor></byline>

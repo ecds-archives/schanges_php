@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc09-41204">
   <teiHeader id="sc09-41201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 9, Number 4.  October 1987</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 9</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1987-10">October 1987</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1037,8 +1038,7 @@ percent rate in 1973.</p>
         </div2>
         <div2 id="sc09-4006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
           <head>Tuscaloosa's Solid-Waste Turkey</head>
-          <byline>By <docAuthor><name reg="United Citizens
-	       Against Toxic Chemicals" type="person">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="United Citizens         Against Toxic Chemicals" type="person">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, 8-9</docDate>
           <p>Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows

@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 19, Number 2, Summer 1997</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 19</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1969-12">Summer 1997</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -106,8 +106,7 @@ other forms of systematic discrimination, <pb n="4"/>white men continue to domin
           <p>The final ingredient for a successful conversation on race will perhaps be the most challenging. Due to what Dan Carter identifies as the "dogma of the marketplace" dominating the current political climate, the effort to link the issues of racial injustice with those of class exploitation has become more difficult just as it has become more crucial. Both domestically and internationally, a disproportionate number of people of color continue to engage in the world's most exploitative work at the bottom of the wage and benefits ladder. Racial prejudice helps make the most egregious forms of economic exploitation more tolerable to the white, middle classes of America and other Western industrialized nations, just as it once helped justify the economic exploitations of slavery and colonialism. The conventional notion that it is somehow appropriate or acceptable that blacks, Latinos, or Asians occupy positions of subordination and poverty because of their supposed inferiority (whether defined biologically or, more common today, culturally) acts as a formidable barrier to the formation of broad-based political coalitions capable of demanding international labor market policies geared to minimize exploitation and social welfare policies geared to guarantee decent standards of living.</p>
           <p>Is Bill Clinton up to asking the sort of questions raised by this issue of Southern Changes? Rather than waiting in dread through another dry, white season, we must use the space created by Clinton's initiative to encourage innovative work on remobilizing a consensus for achieving social justice.</p>
         </div2>
-        <div2 id="sc19-2003" n="News and Blues: Minority Journalists in the
-South, Twenty-Five Years Later" type="Article">
+        <div2 id="sc19-2003" n="News and Blues: Minority Journalists in the South, Twenty-Five Years Later" type="Article">
           <head>News and Blues: Minority Journalists in the
 South, Twenty-Five Years Later</head>
           <byline>
@@ -222,8 +221,7 @@ bottom. Still, they are not in control of much
 and the black perspective we thought we were going to be able to bring has not been brought forth in a way we thought would make a difference.</p>
           <p>"It's like being in a ship traveling at twenty miles per hour, twenty-four hours a day, seven days a week," said Oglesby. "You know after several weeks you've traveled quite a distance, but it still looks and feels the same."</p>
         </div2>
-        <div2 id="sc19-2004" n="Get Back! The Resegregation of America's Schools
-" type="Article">
+        <div2 id="sc19-2004" n="Get Back! The Resegregation of America's Schools " type="Article">
           <head>Get Back! The Resegregation of America's Schools</head>
           <byline>By <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
           <docDate value="1997-06-01">Vol. 19, No. 2, 1997 pp. 9-11</docDate>
@@ -293,8 +291,7 @@ Myrlie Evers-Williams said at the conference, "and will not provide
 the quality of education needed for the twenty-first
 century."</p>
         </div2>
-        <div2 id="sc19-2005" n="Deepening Segregation
-in American Public Schools" type="Article">
+        <div2 id="sc19-2005" n="Deepening Segregation in American Public Schools" type="Article">
           <head>Deepening Segregation in American Public Schools</head>
           <byline>By <docAuthor><name reg="Orfield, Gary" type="person">Gary
        Orfield</name>, Harvard University; <name reg="Bachmeier, Mark D." type="person">Mark
@@ -462,7 +459,7 @@ Schools</cell>
               <cell role="head">%of Blacks in 90-100% Minority
 Schools</cell>
               <cell role="head">Average % of White in Schools of Typical Black Student</cell>
-              <cell></cell>
+              <cell/>
             </row>
             <row>
               <cell role="label">New York</cell>

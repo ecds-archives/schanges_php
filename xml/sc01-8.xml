@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 1, Number 8,  May 1979</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 8</biblScope>. <date value="1979-05">May 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -144,8 +144,7 @@ that some progress has not been made. "Profiles in Change" attest to
 that fact, but the burden placed upon education in this country is a
 heavy one-- one we've only begun to bear.</p>
         </div2>
-        <div2 id="sc01-8003" n="Public Education: Best Hope for the 'New South'
-" type="Article">
+        <div2 id="sc01-8003" n="Public Education: Best Hope for the 'New South' " type="Article">
           <head>Public Education: Best Hope for the "New South"</head>
           <byline>By <docAuthor><name reg="Piliawsky, Monte" type="person">Monte Piliawsky</name></docAuthor></byline>
           <docDate value="1979-05-01">Vol. 1, No. 8, 1979, pp. 5-7, 25</docDate>

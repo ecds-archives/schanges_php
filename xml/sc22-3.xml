@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 22, Number 3. 2000</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 22</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1969-12">2000</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -225,8 +225,7 @@ for Human Rights in Atlanta and teaches courses on capital
 punishment at the law schools at Yale, Harvard, and Emory
 universities.</p>
           </div3>
-          <div3 id="sc22-3011" n="Harris County, Texas: Welcome to 'The Silver
-			Needle Society'" type="Sidebar">
+          <div3 id="sc22-3011" n="Harris County, Texas: Welcome to 'The Silver    Needle Society'" type="Sidebar">
             <head>Harris County, Texas: Welcome to "The Silver Needle Society"</head>
             <p>Texas leads the way among the states--to the
 executioner's table. With 231 people executed since 1982-146 (63

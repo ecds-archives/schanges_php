@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc08-41204">
   <teiHeader id="sc08-41201" type="text">
@@ -35,8 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 8, Number 4. October-November
-1989</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 8</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1989-10">October-November 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -625,7 +625,7 @@ and short-term change in personal income per capita--the actual dollar
 amount gained--over the same periods we used to examine job growth:
 1975 to 1984; 1980 to 1984; and 1984 to 1985.</p>
               <p>During the most recent period, income rose over $1,000 in four
-states. The greatest increaseÑ$1,127Ñ was in Nebraska, followed
+states. The greatest increase&#x2014;$1,127&#x2014; was in Nebraska, followed
 by Connecticut with $1,080, the District of Columbia with $1,039, and
 Massachusetts with $1,035 gained. New Jersey, New Hampshire and
 Maryland had gains for the year of over $900 in personal income per
@@ -683,7 +683,7 @@ percent of families with income earned less than $25,000. Also in this
 bottom group are Montana, Idaho, Oklahoma, New Mexico, North Dakota,
 South Dakota, Vermont and Maine; in this category the proportion of
 families earning less than an adequate income ranges from 70.8 percent
-in Montana to the worst in the nationÑ79.6 percent--in Arkansas.</p>
+in Montana to the worst in the nation&#2014;79.6 percent&#x2014;in Arkansas.</p>
               <p>No Southwestern or Southeastern state, however, is among the top
 ten, where less than 60 percent of working families earned under
 $25,000. The state with the lowest proportion is Alaska, with 43.6

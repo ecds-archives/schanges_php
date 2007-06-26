@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc21-31204">
   <teiHeader id="sc21-31201" type="text">
@@ -31,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 21, Number 3. 1999</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 21</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1999-12">1999</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -87,8 +88,7 @@ Loren Ghiglione, former director of the Journalism Program at Emory University, 
 from his talk at the "What's Right and Wrong about News Coverage of Race" panel held at Emory in February of 1999.  Photo of Harry Golden provided by the Charlotte-Mecklenberg Public Library. Photo of Robert Maynard provided by the Maynard Institute for Journalism Education.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3003" n="Deadly Cuts: Grady Hospital
-and the National Health Care Crisis" type="Article">
+        <div2 id="sc21-3003" n="Deadly Cuts: Grady Hospital and the National Health Care Crisis" type="Article">
           <head>Deadly Cuts: Grady Hospital
 and the National Health Care Crisis</head>
           <byline>By <docAuthor><name reg="Davis, Murphy" type="person">Murphy Davis</name></docAuthor></byline>
@@ -170,8 +170,7 @@ greatly enlarged individual liberties and protections. <pb n="7"/>As a consequen
             <p>The Peabody Award-winning series, "Will the Circle Be Unbroken?" was first broadcast in 1997 on National Public Radio on more than 250 stations nationwide.  Due to the tremendous response from the listening public to that initial broadcast, the series was rebroadcast in 1998.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3005" n="Which Came First, 
-the Statue or the Oppression?" type="Article">
+        <div2 id="sc21-3005" n="Which Came First,  the Statue or the Oppression?" type="Article">
           <head>Which Came First, 
 the Statue or the Oppression?</head>
           <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
@@ -194,8 +193,7 @@ Confederate memorials.</note>
             <p>Jim Loewen is the author of <title>Lies My Teacher Told Me: Everything Your High School History Textbook Got Wrong</title> and is coauthor of <title>Mississippi: Conflict and Change</title> which won a Lillian Smith Award in 1976. Loewen taught race relations at the University of Vermont and now lives in Washington, D.C. where he continues his research on how Americans remember their past</p>
           </div3>
         </div2>
-        <div2 id="sc21-3006" n="Title I in Alabama:
-The Struggle to Meet Basic Needs" type="Article">
+        <div2 id="sc21-3006" n="Title I in Alabama: The Struggle to Meet Basic Needs" type="Article">
           <head>Title I in Alabama:
 The Struggle to Meet Basic Needs</head>
           <byline>
@@ -467,7 +465,7 @@ move from Chatham County into Chapel Hill.</p>
           <p> Since then, I have not looked back.</p>
           <p>Preparing and eating different foods has been a mind and soul experience for me. Over the years I have observed that many important discussions take place and many important decisions get made at a table over a plate of food. All over the world, each country has its own cuisine, and whatever the agenda, food is always important. Whether it's at a picnic or a fancy dinner, food always brings joy to family, friends, and strangers. The best is sometimes the easiest to make. Southern cooking seems the simplest.</p>
           <div3 id="sc21-3107" type="About">
-            <p>Mama Dip's Kitchen is published by the University of North Carolina Press and is available in bookstores; via the publisher's website at http://www.uncpress.unc.edu; or by calling 800848-6224. This excerpt is reprinted with the permission of the publisher. Copyright © 1999 by the University of North Carolina Press.</p>
+            <p>Mama Dip's Kitchen is published by the University of North Carolina Press and is available in bookstores; via the publisher's website at http://www.uncpress.unc.edu; or by calling 800848-6224. This excerpt is reprinted with the permission of the publisher. Copyright &#xA9; 1999 by the University of North Carolina Press.</p>
           </div3>
           <div3 id="sc21-3108" n="Aunt Mary's Old-Fashioned Stacked Double-Crust Applesauce Pie" type="Sidebar">
             <head>Aunt Mary's Old-Fashioned Stacked Double-Crust Applesauce Pie</head>

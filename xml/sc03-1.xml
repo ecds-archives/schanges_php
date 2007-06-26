@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 3, Number 1. December, 1980</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 3</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1980-12">December 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -125,8 +125,7 @@ a native Southerner, and a former staff member of the Southern
 Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc03-1003" n="1981 Alabama and Georgia Legislatures: Revenue and
-      Spending Top Priorities" type="Article">
+        <div2 id="sc03-1003" n="1981 Alabama and Georgia Legislatures: Revenue and       Spending Top Priorities" type="Article">
           <head>1981 Alabama and Georgia Legislatures: Revenue and Spending Top Priorities</head>
           <byline>By <docAuthor><name reg="Deveaux, Clint" type="person">Clint Deveaux</name></docAuthor></byline>
           <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 4-5</docDate>

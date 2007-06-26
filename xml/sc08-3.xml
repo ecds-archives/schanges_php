@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
 <TEI.2 id="sc08-31204">
   <teiHeader id="sc08-31201" type="text">
@@ -35,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 8, Number 3. September 1986</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 8</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1986-09">September 1986</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -684,8 +685,8 @@ odds of taking the statehouse will improve from none to possible.</p>
           <p>But November is a long time off, and Baxley can still win. He is a
 skillful campaigner and a strong debater, and he has a large following
 of loyal Democrats who will work hard for him and the party. His
-immediate challenge is convincing the uncommitted that it was Graddick
-Ñ not a five-man Democratic conspiracy--who stole their votes
+immediate challenge is convincing the uncommitted that it was
+Graddick&#x2014; not a five-man Democratic conspiracy&#x2014; who stole their votes
 through his willful and greedy violation of the Voting Rights Act.</p>
           <p>
             <hi rend="bold">Excerpts from booklet published during Alabama Democratic

@@ -37,8 +37,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 1, Number 2.  October-November
-1978</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1978-10">October-November 1978</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

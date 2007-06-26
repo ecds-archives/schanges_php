@@ -33,7 +33,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 18, Number 3-4 1996</bibl>
+        <bibl><title></title>. <biblScope type="volume">Volume 18</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1996">1996</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -64,8 +64,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 	    <date value="1996-09-01">1996</date></p>
         <div2 id="sc18-3-4002" n="A Question of Power: Race and Democracy in Rural Electric Co-ops" type="Article">
           <head>A Question of Power: Race and Democracy in Rural Electric Co-ops</head>
-          <byline>By <docAuthor><name reg="Leifermann,
-	       Henry" type="person">Henry Leifermann</name> with <name reg="Wehner, Pat" type="person">Pat Wehner</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="Leifermann, Henry" type="person">Henry Leifermann</name> with <name reg="Wehner, Pat" type="person">Pat Wehner</name></docAuthor></byline>
           <docDate value="1996-09-01">Vol. 18, No. 3-4, 1996 pp. 3-15</docDate>
           <p rend="italic">Throughout rural America, few institutions are as powerful, economically significant, and effectively unregulated as electric and telephone membership cooperatives. In the South--the section of the United States with the highest proportion of rural and poor residents--co-ops control up to fourteen billion dollars in total assets. Having expanded to include far more than the electric lines that first brought power to the countryside, these combined resources represent the capacity to construct a better future for the rural South through homegrown economic development, job creation, and the improvement of local infrastructures.</p>
           <p rend="italic">Designed to be democratic, with each customer entitled to a vote, the co-ops have instead often functioned as private reserves of capital for local elites. In areas like the Black Belt, self-selected boards of economically powerful whites have dominated management of the co-ops through intimidation, misinformation, and blatant manipulation of electoral procedures.</p>
@@ -523,9 +522,7 @@ Present&#x2217;&#x2217;</cell>
             <p>**Members present at 1995 annual meetings.</p>
             <p>Source: The Rural Utility Service's Co-op Financial and Statistical Reports (RUS Form 7) for period ending December 31, 1995.</p>
           </div3>
-          <div3 id="sc18-3-4007" n="Debt Write-Downs
-						     Unlikely To
-						     Impact Development" type="Sidebar">
+          <div3 id="sc18-3-4007" n="Debt Write-Downs            Unlikely To            Impact Development" type="Sidebar">
             <p rend="center">
               <hi rend="bold">Debt Write-Downs Unlikely To Impact
 Development</hi>
@@ -552,8 +549,7 @@ Cooperative Service Department.</p>
             <p>Henry Leifermann is an Atlanta-based free-lance writer whose work includes the book <title>Crystal Lee</title>, adapted for the movie "Norma Rae." He is a <title>New York Times</title> magazine contributor and former <title>Newsweek</title> correspondent. Additional research and writing for this article was done by Pat Wehner, a graduate student at Emory University.</p>
           </div3>
         </div2>
-        <div2 id="sc18-3-4008" n="Massive Electrical Resistance:
-The Struggle for Democracy at Mecklenburg Co-op" type="Article">
+        <div2 id="sc18-3-4008" n="Massive Electrical Resistance: The Struggle for Democracy at Mecklenburg Co-op" type="Article">
           <head>Massive Electrical Resistance: The Struggle for Democracy at
 Mecklenburg Co-op</head>
           <byline>By <docAuthor><name reg="Leifermann, Henry" type="person">Henry Leifermann</name> and <name reg="Quesenberry,  Preston" type="person"> Preston Quesenberry</name></docAuthor></byline>
@@ -696,8 +692,7 @@ customers. The plaintiffs tried to convince the court that Delta <hi rend="itali
           <p>According to Paul Sonn of the NAACP Legal Defense Fund, this reading of Title VI--which required a direct "nexus" between the federal funds used by a program and the specific manner in which the program discriminated--was common in the early- to mid-1980s. In 1984, the U.S. Supreme Court upheld this way of reading Title VI in Grove City College v. Bell.</p>
           <p>But in 1988, the U.S. Congress decided that Title VI was meant to offer broader protection against racial discrimination in federally-funded institutions and passed the Civil Rights Restoration Act. The act states that an institution receiving federal funding cannot discriminate (either intentionally or effectively) in any of its activities. Because of this act, Sonn says a similar suit brought against Delta today could not be dismissed for the same reasons.</p>
           <p>--P.Q.</p>
-          <div3 id="sc18-3-4012" n="Opportunity Comes to
-						Roanoke Electric" type="Sidebar">
+          <div3 id="sc18-3-4012" n="Opportunity Comes to       Roanoke Electric" type="Sidebar">
             <head>Opportunity Comes to Roanoke Electric</head>
             <p>What may be the only majority-black electric cooperative board in
 the nation resulted, in large part, from a consistently active

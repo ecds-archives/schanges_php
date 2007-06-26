@@ -32,7 +32,7 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 15, Number 3. Fall, 1993</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 15</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1969-12">Fall 1993</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -57,8 +57,7 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc15-3001" n="Southern Changes 15:3" type="Issue">
         <head> Southern Changes. Volume 15, Number 3, 1993 </head>
         <p><title> Southern Changes</title>. Volume 15, Number 3, Fall, <date value="1993-09-01">1993</date></p>
-        <div2 id="sc15-3002" n="Voting Rights and the Court:
-      Drawing the Lines" type="Article">
+        <div2 id="sc15-3002" n="Voting Rights and the Court:       Drawing the Lines" type="Article">
           <head><hi rend="italic">Voting Rights and the Court:</hi><lb/>Drawing the Lines</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 1-6</docDate>

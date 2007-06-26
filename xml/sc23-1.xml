@@ -37,7 +37,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 23, Number 1.  Spring, 2001</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 23</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1969-12">Spring 2001</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -69,8 +69,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc23-1001" n="Southern Changes 23:1" type="Issue">
         <head>Southern Changes. Volume 23, Number 1, 2001</head>
         <p><title>Southern Changes.</title> Volume 23, Number 1, <date value="2001-03-01">2001</date></p>
-        <div2 id="sc23-1002" n="Voices and Choices: Workplace Justice
-			      and the Poultry Industry" type="Article">
+        <div2 id="sc23-1002" n="Voices and Choices: Workplace Justice          and the Poultry Industry" type="Article">
           <byline>Edited by<docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot
 Sullivan</name></docAuthor></byline>
           <docDate value="2001-03-01">Vol. 23, No. 1, 2001 pp. 3-7</docDate>
@@ -139,8 +138,7 @@ seek to encounter the presence of the divine in every person, and
 respond accordingly, for "just as you did it to one of the least of
 these. . . you did it to me" (<hi rend="italic">Matthew
 25:40</hi>).</p>
-          <div3 id="sc23-1003" n="Will Bush's DOL Enforce Wage and Hour
-			       Laws?" type="Sidebar">
+          <div3 id="sc23-1003" n="Will Bush's DOL Enforce Wage and Hour           Laws?" type="Sidebar">
             <byline>
               <docAuthor>
                 <name reg="Sullivan, S." type="person">S. Sullivan</name>
@@ -196,10 +194,8 @@ in the poultry industry.</p>
             <p>This essay was excerpted and adapted from <title>Voices and Choices</title> and edited by Susan Stevenot Sullivan, a member of the team that developed the pastoral statement. Sullivan is a writer, editor, and photographer based in the Atlanta area. <title>Voices and Choices</title> is available in printed form  from St. Anthony Messenger Press (1-800-488-0488) or on the web at: www.americancatholic.org/News/PoultryPastoral/default.asp.</p>
           </div3>
         </div2>
-        <div2 id="sc23-1004" n="Voces y Opciones: Justicia en el Lugar 
-de Trabajo en la Industria  Av&#x00ED;cola" type="Article" lang="es">
-          <byline>Edited by <docAuthor><name reg="Sullivan, Susan
-Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
+        <div2 id="sc23-1004" n="Voces y Opciones: Justicia en el Lugar  de Trabajo en la Industria  Av&#x00ED;cola" type="Article" lang="es">
+          <byline>Edited by <docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
           <docDate value="2001-03-01">Vol. 23, No. 1, 2001 pp. 8-12, 26</docDate>
           <head>Voces y Opciones: Justicia en el Lugar de Trabajo en la
 Industria  Av&#x00ED;cola</head>
@@ -289,8 +285,7 @@ peque&#x00F1;os...a m&#x00ED; lo hiciste..." (<hi rend="italic">Mateo 25:40</hi>
           <div3 id="sc23-1024" type="About">
             <p>Este escrito fue sacado y adaptado de <title>Voces  y Opciones</title> y redactado por Susan Stevenot Sullivan, miembra del equipo que desarroll&#x00F3; la declaraci&#x00F3;n de los Obispos. Sullivan es escritora, editora y fot&#x00F3;grafa basada an el &#x00E1;rea de Atlanta. <title>Voces y Opciones</title> es disponible en forma escrita en St. Anthony Messenger Press (1-800-488-0488) o en la Pagina Red: www.americancatholic.org/News/PoultryPastoral/default.asp. Redactado por Blanca Rojas.</p>
           </div3>
-          <div3 id="sc23-1005" n="&#x00BF;El DOL de Bush Complir&#x00E1;
-			       con las Leyes el Sueldo y Hora?" type="Sidebar">
+          <div3 id="sc23-1005" n="&#x00BF;El DOL de Bush Complir&#x00E1;           con las Leyes el Sueldo y Hora?" type="Sidebar">
             <head>&#x00BF;El DOL de Bush Cumplir&#x00E1; con las Leyes el
 	       Sueldo y Hora?</head>
             <byline>
@@ -352,8 +347,7 @@ trabajadores de la industria av&#x00ED;cola.</p>
             <byline>S. Sullivan</byline>
           </div3>
         </div2>
-        <div2 id="sc23-1006" n="SRC Study Contributes to Georgia
-			       Election Reform" type="Article">
+        <div2 id="sc23-1006" n="SRC Study Contributes to Georgia           Election Reform" type="Article">
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
@@ -409,8 +403,7 @@ for Policy Alternatives's website at: www.cfpa.org.</p>
             <p>Sarah E. Torian is associate editor of Southern Changes and a communications coordinator at the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc23-1008" n="History and Memory: 2000 Lillian Smith
-			       Book Awards" type="Article">
+        <div2 id="sc23-1008" n="History and Memory: 2000 Lillian Smith           Book Awards" type="Article">
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
@@ -474,7 +467,7 @@ the author of <title>A Fire You Can't Put Out: The Civil Rights Life
 of Birmingham's Reverend Fred Shuttlesworth</title>. Mr. Manis was
 born in 1954, the year of the <hi rend="italic">Brown v. the Board of Education</hi> decision. He grew up in Birmingham and remembers, as he says, dimly, some of the events that occurred during the 50s and 60s. He remembers the epic struggles, the violence, the hatred, the turmoil, and the coverage that focused the eyes of the world on Birmingham and arguably brought about the Civil Rights Act and the Voting Rights Act. </p>
           <p>In  <title>A Fire You Can't Put Out</title>, Dr. Manis chronicles the civil rights life of one of the Movement's greatest heroes--the most significant one in the stronghold of Southern segregation--the Reverend Shuttlesworth. Dr. Manis's biography is marvelous. It is profoundly researched; it is crisply written; it contains elegant prose; it is passionate writing. It is just a splendid book. </p>
-          <p></p>
+          <p/>
           <p rend="bold">Andrew Manis:</p>
           <p>Thank you so much for this wonderful honor and this beautiful occasion to share with all of you and to rejoice in a great deal of hard work--work that was a great joy to do along the way. It took me twelve years to write this book and many times Rev. Shuttlesworth was unsure whether I would ever  really be able to finish. But I am delighted at being honored with an award that bears the name of Lillian Smith. </p>
           <p>Why would anyone spend twelve years, writing about a relatively unsung hero of the Civil Rights Movement, someone about whom only a small circle beyond the participants in the Movement and a few historians had ever heard? There are professional reasons why professors must write things in order to keep their profession. But there are also some personal ones. And, it is the personal ones that generally energize you and give you the stamina to complete the sort of massive task that this book turned out to be. The personal ones connect with what has been called the white Southern racial conversion narrative--a literary genre with which many Southern writers, including of course Lillian Smith, have been involved. When Lillian Smith later spoke of writing her book Killers of the Dream, she said that writing that book was an act of penance and a step toward redemption. Like other prophets to the South, Smith assumed that somewhere embedded in the white Southern psyche was a conscience that could somehow be shamed into seeing the light. Much of the Civil Rights Movement, at least the segment led by Dr. King and Rev. Shuttlesworth, was predicated on the strategy of appealing to the conscience of, not just our region, but also our entire nation. At times, Dr. King and Rev. Shuttlesworth I'm sure would have agreed with Thurgood Marshall who once commented, "You know, sometimes I just get awfully tired of trying to save the white man's soul." </p>
@@ -483,7 +476,7 @@ born in 1954, the year of the <hi rend="italic">Brown v. the Board of Education<
           <p>I was nine when that famous footage of the dogs and firehoses and Bull Connor's tanks were filmed in my hometown. Although there were some nine-year old Birminghamians with skin darker than mine who participated in the Movement, the Movement bypassed me. In a sense then, this book is partly a product of a racial conversion and a desire to put myself on the right side of history, to participate in a Movement that I missed. </p>
           <p>But more importantly, I wrote about Fred Shuttlesworth because he became for many others and, especially for me in the writing of this book, an icon whose memory and story could transport me back to what historians of religion call "a sacred time of origins." "Sacred" because it was a time that shaped who I am as a white Birminghamian--and even more "sacred" because it reshaped all of America. To be associated with the name of Lillian Smith and with the others who have accepted this award before me is probably the greatest honor of my life. </p>
           <p>To Fred Shuttlesworth, who was the President of the Alabama Christian Movement for Human Rights and certainly the most unsung hero of the entire Civil Rights Movement, who is currently the pastor of the Greater New Life Baptist Church in Cincinnati, Ohio. To Rev. Shuttlesworth, for allowing me to be a part of his life and to have the honor of telling that story. </p>
-          <p></p>
+          <p/>
           <p>Reverend Fred Shuttlesworth:</p>
           <p>I heard of the Southern Regional Council years back, when there were no voices of clarity being heard about whether or not blacks did have some rights that whites should respect. There was always a word that I could read from the Southern Regional Council and I always thank God for them, because they said segregation was wrong. Most white people that I knew that said anything about segregation tried to make it right. So, I want to congratulate you for just down-to-earth saying the truth.</p>
           <p>I came up under the dark days of segregation, the Klan, and the collective efforts of state and local officials to stop and block integration at any cost. But I must say that this is God's world and he moves, sometimes, in his own way. Every once in a while there is someone who by faith can feel as if God is with them and that God really owns them and they want to see God overcome some of the evil in this world. He moves in the hearts of people. And I've often said that when God has a contract for work to be done it has to be the men and women who have faith. We need more people who can hear the voice of God, and who can understand that God, if he is for anything at all, he is for justice first. </p>
@@ -494,7 +487,7 @@ born in 1954, the year of the <hi rend="italic">Brown v. the Board of Education<
           <p>So, I close with this incident. See, the worst problem I ever had was not in Birmingham. It was in St. Augustine, Florida, when those Klansmen had even the policemen almost running. So we decided that if we were going to win, we couldn't let those segregationists go to bed every night and sleep well, that the business of getting freedom ought to be both night and day, so we decided to have night marches. As we could, the leaders would go down and get the people marching. </p>
           <p>Hosea and I led the first night's demonstration and we had policemen with guns and mace and one of them even had a riot gun on his shoulder. In Florida, in the section where we were marching, there was a grove that came up on each side of the street and then we would be right out into the wide-open street, about eight lanes. The policemen were so nervous--they even admitted it to Hosea and me. Any Klansmen could be out there with a gun. So I said to the policemen, "You shouldn't be worried, you've got guns to match their guns, haven't you?"  I said, "We've got something stronger than guns." He didn't understand that. Hosea and I were at the front. When we got just about up to the grove--the police believed that the Klansmen were really out there, I guess--so they kind of slunk back. Hosea and I joined hands and we walked out. When we got right back to the edge of the street, Hosea threw his head back and yelled, "God will take care of you," and everybody started singing. And, do you know, that made the policemen happy? You can be happy too, you know. If you do God's will and work, God will take care of you.</p>
           <p>I could go on but let me just thank God for this organization, for what you have done, for what you will do, and what you mean to those behind us.</p>
-          <p></p>
+          <p/>
           <p rend="bold">
             <title>Troubled Memory</title>
           </p>

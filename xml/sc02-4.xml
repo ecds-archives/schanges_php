@@ -36,7 +36,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Web Project</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl>Southern Changes.  Volume 2, Number 4,  January 1980</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1980-01">January 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -498,8 +498,7 @@ Bank or about how to set up a food bank can contact Bill Boiling or
 Harriette Brown at (404) 873-5427 or write to Community Food Bank, 435
 Peachtree Street, N.E. Atlanta, Georgia 30308.</p>
         </div2>
-        <div2 id="sc02-4010" n="Economic Development:
-Southern Representatives Oppose Welfare Reform" type="Article">
+        <div2 id="sc02-4010" n="Economic Development: Southern Representatives Oppose Welfare Reform" type="Article">
           <head>Economic Development:
 Southern Representatives Oppose Welfare Reform</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
