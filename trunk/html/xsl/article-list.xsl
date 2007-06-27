@@ -32,12 +32,12 @@ select="ino:response/xq:query"/></xsl:variable>
   <xsl:element name="ul">
     <xsl:attribute name="class">contents</xsl:attribute>
   <xsl:element name="li">
-    <xsl:apply-templates select="dccreator"/>, <xsl:element name="a">
+    <xsl:apply-templates select="name"/>, <xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
-      select="substring-after(dcidentifier,'cti-schangesfw-')"/>&amp;mdid=<xsl:value-of
-      select="substring-after(//sibling/issueid/dcidentifier,'cti-schangesfw-') "/></xsl:attribute> <xsl:value-of
-      select="dctitle"/>, </xsl:element> <!-- a -->
-<xsl:value-of select="dcdescription"/>
+      select="@id"/>&amp;mdid=<xsl:value-of
+      select="issue-id"/></xsl:attribute> <xsl:value-of
+      select="head"/>, </xsl:element> <!-- a -->
+<xsl:value-of select="docDate"/>
     
   </xsl:element> <!-- li -->
   </xsl:element><!-- ul -->
