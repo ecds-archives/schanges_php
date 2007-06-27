@@ -5,12 +5,16 @@
 // optionally, pass search terms for highlighting; for example;
 // browse.php?id=iln38.1068.002&term=lincoln  
 
-include_once("taminoConnection.class.php");
+include_once("config.php");
+include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 $id = $_GET["id"];
 $term = $_GET["term"];
 $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
+
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
 
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "SRC",
@@ -22,17 +26,17 @@ $tamino = new taminoConnection($args);
 //$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
 //$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
 //$url = "http://tamino.library.emory.edu/tamino/SRC/schanges?_xquery=
-$query = "for \$b in input()/TEI.2//div1/div2
+$query = "for \$b in /TEI.2//div1/div2
 where \$b/@id = '$id'
 return 
 \$b";
 
-$rval = $tamino->xquery($query);
+/*$rval = $tamino->xquery($query);
 if ($rval) {       // tamino Error code (0 = success)
   print "<p>Error: failed to retrieve contents.<br>";
   print "(Tamino error code $rval)</p>";
   exit();
-} 
+  } */
 
 $xsl_file = "browse.xsl";
 

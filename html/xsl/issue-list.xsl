@@ -30,8 +30,8 @@
   <xsl:element name="li">
     <xsl:element name="a">
       <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-      select="dcidentifier"/></xsl:attribute>
-      <xsl:apply-templates select="dcdescription"/>
+      select="@id"/></xsl:attribute>
+      <xsl:apply-templates select="head"/>
     </xsl:element> <!-- a -->
   </xsl:element> <!-- li -->
   </xsl:element> <!-- ul -->
