@@ -16,7 +16,7 @@ function getCSS () {
   
   // $css_basepath = "http://chaucer.library.emory.edu/iln/";
   // development
-  $css_basepath = "http://reagan.library.emory.edu/alice/schanges/";
+  $css_basepath = "http://wilson.library.emory.edu/~ahickco/schanges/";
   //$css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   // production
   //  $css_basepath = "http://cti.library.emory.edu/iln/";

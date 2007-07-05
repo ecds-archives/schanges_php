@@ -19,7 +19,7 @@ print '<div class="content">';
 print '<h2>Issues</h2>';
 
 // query for all volumes -- eXist
-$allquery = 'for $b in /TEI.2//div1
+$query = 'for $b in /TEI.2//div1
 order by ($b/p/date/@value)
 return
 <result>
@@ -27,21 +27,14 @@ return
 {$b/head}
 </result>';
 
-$xsl_file = "xsl/issue-list.xsl";
+$xsl_file = "issue-list.xsl";
 $xsl_params = array('mode' => "flat", "vol" => $vol);
 
 // run the query 
-$xmldb->xquery($allquery);
+$xmldb->xquery($query);
 $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
 
-
-/*$rval = $tamino->xquery($allquery);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} */
 
 
 
@@ -50,9 +43,7 @@ include("xml/footer.xml");
    
 </div>
    
-<?php
-  //include("xml/footer.xml");
-?>
+
 
 
 </body>
