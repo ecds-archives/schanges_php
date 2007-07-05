@@ -31,15 +31,17 @@ select="ino:response/xq:query"/></xsl:variable>
 <xsl:template match="result">
   <xsl:element name="ul">
     <xsl:attribute name="class">contents</xsl:attribute>
+    <xsl:for-each select="article">
   <xsl:element name="li">
     <xsl:apply-templates select="name"/>, <xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
       select="@id"/>&amp;mdid=<xsl:value-of
-      select="issue-id"/></xsl:attribute> <xsl:value-of
+      select="../issue-id/@id"/></xsl:attribute> <xsl:value-of
       select="head"/>, </xsl:element> <!-- a -->
 <xsl:value-of select="docDate"/>
     
   </xsl:element> <!-- li -->
+    </xsl:for-each>
   </xsl:element><!-- ul -->
 
 </xsl:template>
