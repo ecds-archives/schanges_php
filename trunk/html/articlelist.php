@@ -26,12 +26,15 @@ print '<div class="content">';
 print '<h2>Articles</h2>';
 
 //query for single issue list of articles
-$query = 
-'for $b in /TEI.2//div1[@id = "' . "$id" . '"]
-for $a in $b/div2
+$query = '<result>
+{
+for $b in /TEI.2//div1[@id = "' . "$id" . '"]
 return 
-<result>
 <issue-id>{$b/@id}</issue-id>
+}
+{
+for $a in /TEI.2//div1[@id = "' . "$id" . '"]/div2
+return
 <article>
 {$a/@id}
 {$a/@type}
@@ -39,12 +42,13 @@ return
 {$a/byline/docAuthor/name}
 {$a/docDate}
 </article>
+}
 </result>';
 
-$xsl_file = "xsl/article-list.xsl";
+$xsl_file = "article-list.xsl";
 
 // run the query 
-$xmldb->xquery($allquery);
+$xmldb->xquery($query);
 $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
 
