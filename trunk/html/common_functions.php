@@ -20,7 +20,7 @@ function getCSS () {
   //$css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   // production
   //  $css_basepath = "http://cti.library.emory.edu/iln/";
-  //  $css_basepath = "http://cti.library.emory.edu/southernchanges";
+  //  $css_basepath = "http://beck.library.emory.edu/southernchanges";
   $css = "schanges.css"; 
  /* if ($browser == "MSIE") {
     if ($os == "mac") {
