@@ -7,11 +7,10 @@ include("common_functions.php");
 
 $id = $_GET['id'];
 
-$args = array('host' => $tamino_server,
-		'db' => $tamino_db["data-db"],
-	      	'coll' => $tamino_coll["data-coll"],
-	      'debug' => false);
-$tamino = new xmlDbConnection($args);
+
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
+
 
 // search terms
 $kw = $_GET["keyword"];
@@ -50,8 +49,8 @@ html_head($doctitle);
 
 include("xml/header_search.xml");
 
-$declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"  declare namespace xs = "http://www.w3.org/2001/XMLSchema" ';
-$for = ' for $a in input()/TEI.2/:text/body/div1/div2[';
+/*$declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"  declare namespace xs = "http://www.w3.org/2001/XMLSchema" ';*/
+$for = ' for $a in /TEI.2/:text/body/div1/div2[';
 if ($docid != '') { $for .= "@id = '$docid' and "; }
 
 
