@@ -6,9 +6,9 @@
     * insert-nbsp       : insert a specified number of non-breaking spaces
     * replace-string    : replace all occurrences of one string with another in a specified string
     * javascript-escape : escape characters javascript regards as 'special'
+    * string-after-last : return string after last occurrence of specified delimeter string
+    * min		: return the smaller of two numbers
  -->
-
-  <xsl:output method="xml"/>
 
   <!-- template to convert normal spaces to  non-breaking spaces -->
   <xsl:template name="space-to-nbsp">
@@ -118,5 +118,57 @@
   <xsl:value-of select="normalize-space($step3)"/>	<!-- normalize to handle line breaks -->
   
 </xsl:template>
+
+
+  <!-- recursive template string-after-last;
+       returns substring after LAST instance of specified delimiter string -->
+  <xsl:template name="string-after-last">
+    <xsl:param name="str"/>	<!-- input string -->
+    <xsl:param name="after"/>	<!-- delimiter string -->
+
+    <xsl:choose>
+      <xsl:when test="contains($str, $after)">
+        <xsl:call-template name="string-after-last">
+          <xsl:with-param name="str" select="substring-after($str, $after)"/>
+          <xsl:with-param name="after" select="$after"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="$str"/>
+      </xsl:otherwise>
+    </xsl:choose>
+
+  </xsl:template>
+
+
+<!-- return the smaller of two numbers -->
+<xsl:template name="min">
+  <xsl:param name="num1"/>
+  <xsl:param name="num2"/>
+
+  <xsl:choose>
+    <xsl:when test="$num1 > $num2">
+      <xsl:value-of select="$num2"/>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="$num1"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
+<!-- return the larger of two numbers -->
+<xsl:template name="max">
+  <xsl:param name="num1"/>
+  <xsl:param name="num2"/>
+  <xsl:choose>
+    <xsl:when test="number($num1) > number($num2)">
+      <xsl:value-of select="$num1"/>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="$num2"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
 
 </xsl:stylesheet>
