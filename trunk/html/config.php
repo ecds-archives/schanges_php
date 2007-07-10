@@ -77,4 +77,9 @@ $exist_args = array('host'   => $server,
 		    'db'     => $db,
 		    'dbtype' => "exist");
 
+// shortcut to include common tei xqueries
+$teixq = 'import module namespace teixq="http://www.library.emory.edu/xquery/teixq" at
+"xmldb:exist:///db/xquery-modules/tei.xqm"; '; 
+
+
 ?>
