@@ -27,15 +27,17 @@ $htmltitle = "Southern Changes Digital Archive";
 // use article query with context added
 // note: using |= instead of &= because we want context for any of the
 // keyword terms, whether they appear together or not
-$xquery = $teixq . "let \$doc := document('/db/schanges/$docname.xml')//div2[@id = \"$id\"]
+$xquery = "let \$doc := /TEI.2//div2[@id = \"$id\"]
 return 
-<TEI.2>
+<item>
 {\$doc/@id}
 {\$doc/head}
 {\$doc/byline/docAuthor}
 {\$doc/docDate}
-<kwic>{teixq:kwic-context(\$doc, '$keyword')}</kwic>
-</TEI.2>";
+<context>
+{for \$c in \$doc//*[. |= \"$keyword\"]
+   return if (name(\$c) = 'hi') then \$c/..  else \$c }</context>
+</item>";
 
 
 /* this is one way to specify context nodes  (filter based on the kinds of nodes to include)

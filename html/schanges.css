@@ -210,4 +210,6 @@ li.resultlink, li.firstresultlink {
 li.firstresultlink { border-left: none; }
 div.resultlink { float: right; padding-right: 0.5in;}
 
-span.match { font-weight: bold; }
+/*span.match { font-weight: bold; }*/
+span.match { font-weight:bold; background-color:#200674; color:#FFFFFF; }
+
