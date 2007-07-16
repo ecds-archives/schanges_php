@@ -92,6 +92,10 @@
       <xsl:apply-templates mode="split"/>	<!-- handle text nodes -->
   </xsl:template>
 
+<!-- tokenize list items also -->
+  <xsl:template match="context//list/item" mode="split">
+    <xsl:apply-templates mode="split"/>
+  </xsl:template>
 
   <!-- special case: if a single word is inside a hi tag, the tamino
        highlighting may not necessarily be nested properly 

@@ -15,12 +15,12 @@ $term3 = $_GET["term3"];
 
 $exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
-
+/*
 $args = array('host' => "vip.library.emory.edu",
 		'db' => "SRC",
         	'debug' => false,
 		'coll' => 'schanges');
-$tamino = new taminoConnection($args);
+		$tamino = new taminoConnection($args);*/
 
 
 //$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
