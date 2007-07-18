@@ -213,3 +213,38 @@ div.resultlink { float: right; padding-right: 0.5in;}
 /*span.match { font-weight: bold; }*/
 span.match { font-weight:bold; background-color:#200674; color:#FFFFFF; }
 
+/* next/prev/etc. navigation */
+div.searchnav {
+  background:#200674; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+}
+/* for first/next/last links spacing to be consistent,
+   all links should always be present with no link text if there is no url */
+div.searchnav a, table.searchnav a {
+  color:#ffffff; 
+  line-height:20px;
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+}
+div.searchnav a:hover, table.searchnav a:hover {
+  color: #FF9933;
+}
+
+table.searchnav { 
+  background:#200674; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+  width:100%;
+  clear:both;
+}
+table.searchnav td { 
+  width:25%; 
+}
+
+form#jumpnav { float:right; }
+
+th { text-align:left; }

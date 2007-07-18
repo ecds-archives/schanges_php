@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>  
 
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
-	xmlns:xql="http://metalab.unc.edu/xql/">
+	xmlns:xql="http://metalab.unc.edu/xql/"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	exclude-result-prefixes="exist" version="1.0">
 
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
@@ -225,6 +226,7 @@
 
 <!-- display articles relative to position of current article -->
 <xsl:element name="tr">
+<xsl:if test="//prev/@id">
 <xsl:element name="th">
     <xsl:text>Previous: </xsl:text>
 </xsl:element>
@@ -238,9 +240,11 @@
 <xsl:element name="td"><xsl:apply-templates
 select="//prev/docDate"/></xsl:element>
 </xsl:element><!-- end td -->
+</xsl:if>
 </xsl:element><!-- end  prev row --> 
 
 <xsl:element name="tr">
+<xsl:if test="//next/@id">
 <xsl:element name="th">
     <xsl:text>Next: </xsl:text>
 </xsl:element>
@@ -254,6 +258,7 @@ select="//prev/docDate"/></xsl:element>
 <xsl:element name="td"><xsl:apply-templates
 select="//next/docDate"/></xsl:element>
 </xsl:element><!-- end td -->
+</xsl:if>
 </xsl:element><!-- end  next row --> 
 
 
@@ -271,6 +276,11 @@ select="//next/docDate"/></xsl:element>
 </xsl:element> <!-- p -->
 
 </xsl:template>
+
+<!-- mark exist matches for highlighting -->
+  <xsl:template match="exist:match">
+    <span class="match"><xsl:apply-templates/></span>
+  </xsl:template>
 
 <!-- simple table test by Alice Hickcox, March 8, 2006 -->
 <!-- this works -->

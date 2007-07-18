@@ -30,8 +30,10 @@ return
 $xsl_file = "issue-list.xsl";
 $xsl_params = array('mode' => "flat", "vol" => $vol);
 
+$maxdisplay = "110";
+
 // run the query 
-$xmldb->xquery($query);
+$xmldb->xquery($query, $maxdisplay);
 $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
 

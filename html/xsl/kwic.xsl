@@ -33,6 +33,18 @@
 
   </xsl:template>
 
+<xsl:template match="name">
+    <xsl:choose>
+      <xsl:when test="position() = 1"/>
+      <xsl:when test="position() = last()">
+        <xsl:text> and </xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:text> </xsl:text>
+      </xsl:otherwise>
+  </xsl:choose>
+    <xsl:apply-templates />
+</xsl:template>
 
 
 

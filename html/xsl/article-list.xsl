@@ -50,7 +50,7 @@ select="ino:response/xq:query"/></xsl:variable>
 <!-- copied from tgfwfw/src/cocoon/webapp/tgfw/stylesheets/search-results-metadata.xsl  -->
 <!-- browse list of unique authors  (returns two or more dccreators for each name) 
   authoritative author name (title page name[, other title page name(s)]) --> 
-<xsl:template match="dccreator">
+<xsl:template match="name">
   <!-- <xsl:template match="dccreator"> -->
 
     <xsl:choose>

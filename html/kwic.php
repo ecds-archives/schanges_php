@@ -15,9 +15,9 @@ global $collection;
 
 
 $id = $_GET["id"]; 
-$docname = $_GET["docname"];
+//$docname = $_GET["docname"];
 $keyword = $_GET["keyword"];
-print "DEBUG: id=$id, docname=$docname, keyword=$keyword, database=$db";
+//print "DEBUG: id=$id, docname=$docname, keyword=$keyword, database=$db";
 
 $htmltitle = "Southern Changes Digital Archive";
 
