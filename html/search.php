@@ -33,7 +33,7 @@ if ($kw)
 if ($doctitle)
   array_push($options, ".//div2/head &= '$doctitle'");
 if ($auth)
-  array_push($options, "(.//div2/byline/author/name &= '$auth' or .//div2/byline/author/name/@reg &= '$auth')");
+  array_push($options, "(.//div2/byline/docAuthor/name &= '$auth' or .//div2/byline/docAuthor/name/@reg &= '$auth')");
 if ($date)
   array_push($options, "(.//div2/docDate &= '$date' or .//div2/docDate/@value &= '$date')");
 /*if ($subj)
@@ -48,7 +48,7 @@ if (count($options)) {
   $query = "for \$a in /TEI.2//div2$searchfilter
 let \$t := \$a//div2/head
 let \$doc := \$a//div2/@id
-let \$auth := \$a//div2/byline/docAuthor
+let \$auth := \$a//div2/byline/docAuthor/name
 let \$date := \$a//div2/docDate
 let \$matchcount := text:match-count(\$a)
 order by \$matchcount descending
@@ -66,7 +66,7 @@ return <item>{\$a/@id}";
   $query .= "</item>";
   $xsl = "exist-search.xsl";
   //$xsl_params = array('field' => $field, 'value' => $value, 'max' => $max);
-  $xsl_params = array('mode' => "search", 'keyword' => $kw, 'max' => $max);
+  $xsl_params = array('mode' => "search", 'keyword' => $kw, 'doctitle' => $doctitle, 'auth' => $auth, 'date' => $date,  'max' => $max);
 }
 
 
@@ -108,8 +108,8 @@ $db->xquery($query, $pos, $max);
     print "<li>date matches '$date'</li>";
   if ($subj)
     print "<li>subject matches '$subj'</li>";
-  if (isset($searchcoll) && $searchcoll[0] != "ALL")
-    print "<li>collection is '" . stripslashes(implode($searchcoll, "' or '")) . "'</li>";
+/*if (isset($searchcoll) && $searchcoll[0] != "ALL")
+ print "<li>collection is '" . stripslashes(implode($searchcoll, "' or '")) . "'</li>";*/
   
   
   print "</ul>";

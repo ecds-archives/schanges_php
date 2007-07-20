@@ -30,7 +30,7 @@
   <xsl:element name="li">
     <xsl:element name="a">
       <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-      select="@id"/></xsl:attribute>
+      select="@id"/>&amp;docdate=<xsl:value-of select="docdate/@value"/></xsl:attribute>
       <xsl:apply-templates select="head"/>
     </xsl:element> <!-- a -->
   </xsl:element> <!-- li -->

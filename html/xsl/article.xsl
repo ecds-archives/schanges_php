@@ -271,7 +271,8 @@ select="//next/docDate"/></xsl:element>
       <xsl:element name="p">
 	Go to Article List for <xsl:element name="a">
 	  <xsl:attribute
-	      name="href">articlelist.php?id=<xsl:value-of select="//issueid/@id"/></xsl:attribute><xsl:value-of select="//issueid/head"/> 
+	      name="href">articlelist.php?id=<xsl:value-of
+	      select="//issueid/@id"/>&amp;docdate=<xsl:value-of select="//docDate/@value"/></xsl:attribute><xsl:value-of select="//issueid/head"/> 
 </xsl:element> <!-- a --> 
 </xsl:element> <!-- p -->
 

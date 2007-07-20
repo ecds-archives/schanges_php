@@ -6,6 +6,7 @@ include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET["id"];
+$docdate = $_GET["docdate"];
 
 /*$args = array('host' => $tamino_server,
 	      'db' => $tamino_db["meta-db"],
@@ -27,13 +28,32 @@ print '<h2>Articles</h2>';
 
 //query for single issue list of articles
 $query = '<result>
-{
-for $b in /TEI.2//div1[@id = "' . "$id" . '"]
+{for $b in /TEI.2//div1[@id = "' . "$id" . '"]
 return 
 <issue-id>{$b/@id}</issue-id>
 }
-{
-for $a in /TEI.2//div1[@id = "' . "$id" . '"]/div2
+{let $curdate := xs:date("' . "$docdate" . '")
+let $previd := (for $d in /TEI.2//div1[p/date/@value < $curdate]
+    order by $d/p/date/@value
+return $d)[last()]
+return 
+    <prev>
+    {$previd/@id}
+     <docdate>{$previd/p/date/@value}</docdate>
+    {$previd/head}
+</prev>
+}
+{let $curdate := xs:date("' . "$docdate" . '")
+let $nextid := (for $c in /TEI.2//div1[p/date/@value > $curdate]
+    order by $c/p/date/@value
+return $c)[1]
+return
+<next>
+{$nextid/@id}
+ <docdate>{$nextid/p/date/@value}</docdate>
+  {$nextid/head}
+</next>}
+{for $a in /TEI.2//div1[@id = "' . "$id" . '"]/div2
 return
 <article>
 {$a/@id}

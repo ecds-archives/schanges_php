@@ -25,15 +25,19 @@ return
 <result>
 {$b/@id}
 {$b/head}
+<docdate>
+{$b/p/date/@value}
+</docdate>
 </result>';
 
 $xsl_file = "issue-list.xsl";
 $xsl_params = array('mode' => "flat", "vol" => $vol);
 
-$maxdisplay = "110";
+$maxdisplay = "110"; //show all the issues
+$position = "1"; //start here
 
 // run the query 
-$xmldb->xquery($query, $maxdisplay);
+$xmldb->xquery($query, $position, $maxdisplay);
 $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
 
