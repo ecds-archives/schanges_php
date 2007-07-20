@@ -8,10 +8,13 @@
   <xsl:param name="mode">search</xsl:param>	 <!-- browse or search -->
 
   <!-- search terms -->
-  <xsl:param name="field"/>
-  <xsl:param name="value"/>
-  <xsl:param name="letter"/>
+  <xsl:param name="doctitle"/>
+  <xsl:param name="auth"/>
+  <xsl:param name="date"/>
   <xsl:param name="keyword"/>
+  <xsl:param name="subject"/>
+
+  <xsl:variable name="url_suffix">keyword=<xsl:value-of select="$keyword"/>&amp;doctitle=<xsl:value-of select="$doctitle"/>&amp;date=<xsl:value-of select="$date"/>&amp;author=<xsl:value-of select="$auth"/>&amp;subject=<xsl:value-of select="$subject"/>&amp;</xsl:variable>
 
   <!-- information about current set of results  -->
   <xsl:variable name="position"><xsl:value-of select="//@exist:start"/></xsl:variable>
@@ -78,7 +81,7 @@
           <xsl:if test="//item/hits"><th class="hits">hits</th></xsl:if>
           <th class="num">#</th>
           <xsl:if test="//item/head"><th>title</th></xsl:if>
-          <xsl:if test="//item/docAuthor"><th>author</th></xsl:if>
+          <xsl:if test="//item/name"><th>author</th></xsl:if>
           <xsl:if test="//item/docDate"><th>date</th></xsl:if>
        <!--   <xsl:if test="//item/ethnicity"><th>ethnicity</th></xsl:if>
           <xsl:if test="//item/genre"><th>genre</th></xsl:if>
@@ -103,7 +106,7 @@
   <xsl:template match="item">
     <tr>	<!-- calculate item's position in total result set -->
     <xsl:apply-templates select="hits" mode="table"/>
-      <td class="num"><xsl:value-of select="position() + $position - 1"/>.</td>
+      <td class="num" width="4%"><xsl:value-of select="position() + $position - 1"/>.</td>
       <xsl:value-of select="$nl"/>
 
       <!--      <xsl:apply-templates select="*[not(self::hits)]" mode="table"/> -->
@@ -111,17 +114,20 @@
       <!-- there should ALWAYS be a table cell for a field if any of
       the records include that field (e.g., some texts that have no date) -->
 
-      <xsl:if test="//item/head">
-        <td><xsl:element name="a"><xsl:attribute
-				      name="href">article.php?id=<xsl:value-of
-	select="//item/@id"/>&amp;keyword=<xsl:value-of
-	select="$keyword"/></xsl:attribute><xsl:apply-templates select="head" mode="table"/></xsl:element></td>
+      <xsl:if test="//item/head"> 
+	<td class="title"><xsl:element name="a">
+	  <xsl:attribute name="href">article.php?id=<xsl:value-of
+	select="id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
+	  <xsl:apply-templates select="head" mode="table"/>
+	</xsl:element></td>
       </xsl:if>
-      <xsl:if test="//item/docAuthor">
-        <td><xsl:apply-templates select="docAuthor" mode="table"/></td>
+      <xsl:if test="//item/name">
+        <td class="author"  width="20%">
+<xsl:apply-templates select="name" />
+    </td>
       </xsl:if>
       <xsl:if test="//item/docDate">
-        <td><xsl:apply-templates select="docDate" mode="table"/></td>
+        <td class="date"  width="25%"><xsl:apply-templates select="docDate" mode="table"/></td>
       </xsl:if>
      <!-- <xsl:if test="//item/ethnicity">
         <td><xsl:apply-templates select="ethnicity" mode="table"/></td>
@@ -158,15 +164,12 @@
     </xsl:if>
   </xsl:template>
 
-  <!-- don't display edited/unedited -->
-  <xsl:template match="item/form" mode="table"/>
 
   <xsl:template match="item/hits" mode="table">
     <td class="hits">
       <a>
         <xsl:attribute name="href">kwic.php?id=<xsl:value-of
-	select="../id/@id"/>&amp;keyword=<xsl:value-of
-	select="$keyword"/></xsl:attribute>
+	select="../id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
         <xsl:apply-templates select="."/>
       </a>
     </td>
@@ -241,6 +244,8 @@
   </xsl:if>
       <xsl:apply-templates select="."/>
 </xsl:template>
+
+
 <!-- don't need this
 <xsl:template match="title">
   <a>
@@ -252,25 +257,25 @@
 
 <!-- browse list of unique authors: reg is attached to author, may include multiple names
   authoritative author name (title page name, other title page name(s)) --> 
-<xsl:template match="author">
+<!-- <xsl:template match="author"> -->
   <!-- canonical/regularized version of author name -->
-  <xsl:variable name="reg">   	<!-- reg is in either one of these two places -->
-    <xsl:value-of select="@reg"/>  
+<!--  <xsl:variable name="reg">   -->	<!-- reg is in either one of these two places -->
+<!--    <xsl:value-of select="@reg"/>  
     <xsl:value-of select="name/@reg"/>
   </xsl:variable>
   <a>
     <xsl:attribute name="href">browse.php?field=author&amp;value=<xsl:value-of select="normalize-space($reg)"/></xsl:attribute>
     <xsl:value-of select="$reg"/>
   </a>
-  <xsl:if test="$reg != name">	<!-- (only display if different) -->
-    [<xsl:apply-templates select="name"/>] <!-- title page version(s) of author name -->
-  </xsl:if>
-</xsl:template>
+  <xsl:if test="$reg != name"> --> 	<!-- (only display if different) -->
+<!--    [<xsl:apply-templates select="name"/>]  --> <!-- title page version(s) of author name -->
+<!--  </xsl:if>
+</xsl:template> -->
 
-<!-- possibly multiple names in authorlist mode -->
-<xsl:template match="author/name">
+<!-- possibly multiple names in table mode -->
+<xsl:template match="item/name">
   <a>
-    <xsl:attribute name="href">browse.php?field=author&amp;value=<xsl:value-of select="normalize-space(.)"/></xsl:attribute>
+    <xsl:attribute name="href">search.php?author=<xsl:value-of select="normalize-space(.)"/></xsl:attribute>
     <xsl:apply-templates/>
   </a>
   <xsl:if test="position() != last()">
@@ -291,11 +296,11 @@
       <xsl:choose>
         <xsl:when test="$mode = 'browse'">browse.php?field=<xsl:value-of select="$field"/><xsl:if test="$value">&amp;value=<xsl:value-of select="$value"/></xsl:if><xsl:if test="$letter">&amp;letter=<xsl:value-of select="$letter"/></xsl:if>
       </xsl:when>
-      <xsl:when test="$mode = 'search'">search.php?keyword=<xsl:value-of select="$keyword"/></xsl:when>
+      <xsl:when test="$mode = 'search'">search.php?keyword=<xsl:value-of select="$myurlsuffix"/></xsl:when>
     </xsl:choose>
   </xsl:variable>
 
-    <table class="searchnav">
+  <table class="searchnav">
       <!-- always build a table with four cells so spacing will be consistent -->
       <tr>
       <xsl:choose>

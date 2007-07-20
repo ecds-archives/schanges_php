@@ -10,9 +10,9 @@
 <!-- param for flat mode: all volumes or single volume -->
 <xsl:param name="vol">all</xsl:param>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
-<xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
+<!-- <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
 <xsl:variable name="query"><xsl:value-of
-select="ino:response/xq:query"/></xsl:variable>
+select="ino:response/xq:query"/></xsl:variable> -->
 
 <!-- <xsl:variable name="total_count" select="count(//div1 |
 //div2[figure])" /> -->
@@ -36,7 +36,8 @@ select="ino:response/xq:query"/></xsl:variable>
     <xsl:apply-templates select="name"/>, <xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
       select="@id"/>&amp;mdid=<xsl:value-of
-      select="../issue-id/@id"/></xsl:attribute> <xsl:value-of
+      select="../issue-id/@id"/>&amp;docdate=<xsl:value-of
+      select="docDate/@value"/></xsl:attribute><xsl:value-of
       select="head"/>, </xsl:element> <!-- a -->
 <xsl:value-of select="docDate"/>
     
@@ -92,38 +93,44 @@ select="ino:response/xq:query"/></xsl:variable>
   </xsl:choose>
 </xsl:template>
 
+
 <xsl:template name="next-prev">
-<xsl:variable name="main_id"><xsl:value-of
-select="//issueid/dcidentifier"/></xsl:variable>
-<!-- <xsl:message>DEBUG: main id is <xsl:value-of
-select="//issueid/dcidentifier"/></xsl:message> -->
-<!-- get the position of the current document in the siblings list -->
-<xsl:variable name="position">
-  <xsl:for-each
-      select="//sibling/issueidlist">
-	      <xsl:if test="dcidentifier=$main_id">
-      <xsl:value-of select="position()"/>
-	      </xsl:if>
-  </xsl:for-each> 
-</xsl:variable>
-<!-- <xsl:message>Position = <xsl:value-of
-select="$position"/></xsl:message> -->
 <xsl:element name="table">
-  <xsl:attribute name="width">100%</xsl:attribute>
+  <xsl:attribute name="width">75%</xsl:attribute>
 
-<!-- display articles relative to position of current article -->
+<!-- display issues relative to position of current article -->
+<xsl:element name="tr">
+<xsl:if test="//prev/@id">
+<xsl:element name="th">
+    <xsl:text>Previous issue: </xsl:text>
+</xsl:element>
+<xsl:element name="td">
+ <xsl:element name="a">
+   <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
+		select="//prev/@id"/>&amp;docdate=<xsl:value-of select="//prev/docdate/@value"/></xsl:attribute>
+   <xsl:apply-templates select="//prev/head"/>
+ </xsl:element><!-- end td -->
+</xsl:element></xsl:if>
+</xsl:element><!-- end  prev row --> 
 
-  <xsl:apply-templates select="//sibling/issueidlist[$position - 1]">
-    <xsl:with-param name="mode">Previous</xsl:with-param>
-  </xsl:apply-templates>
+<xsl:element name="tr">
+<xsl:if test="//next/@id">
+<xsl:element name="th">
+    <xsl:text>Next issue: </xsl:text>
+</xsl:element>
+<xsl:element name="td">
+ <xsl:element name="a">
+   <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
+		select="//next/@id"/>&amp;docdate=<xsl:value-of select="//next/docdate/@value"/></xsl:attribute>
+   <xsl:apply-templates select="//next/head"/>
+ </xsl:element><!-- end td -->
+</xsl:element><!-- end td -->
+</xsl:if>
+</xsl:element><!-- end  next row --> 
 
-  <xsl:apply-templates select="//sibling/issueidlist[$position + 1]">
-    <xsl:with-param name="mode">Next</xsl:with-param>
-  </xsl:apply-templates>
 
 </xsl:element> <!-- table -->
 </xsl:template>
-
 <!-- print next/previous link with title & summary information -->
 <xsl:template match="sibling/issueidlist">
 <xsl:param name="mode"/>

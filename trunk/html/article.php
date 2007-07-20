@@ -35,11 +35,6 @@ let $next := $art/following-sibling::div2[1]
   let $issue := $art/..';
 $return='return
 <result>
-{$art/@id}
-{$art/@type}
-{$art/head}
-{$art/byline}
-{$art/docDate}
 {$art}
 <issueid>
 {$issue/@id}
