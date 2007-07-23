@@ -11,11 +11,11 @@
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="context/p|context/l">
+  <xsl:template match="context/p|context/l|context/item">
     <p class="kwic">
-      <xsl:attribute name="pn">
-        <xsl:value-of select="@pn"/>
-      </xsl:attribute>
+     <!-- <xsl:attribute name="pn">
+        <xsl:value-of select="@pn"/> 
+      </xsl:attribute> -->
       <!-- FIXME: how to get the page number if it is INSIDE the paragraph? -->
       <xsl:choose>
         <xsl:when test="count(.//match) > 1">

@@ -17,14 +17,14 @@
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="context//p">
+  <xsl:template match="context//p | context//item">
     <xsl:choose>
       <xsl:when test="string-length(.) &gt; $minParaSize">      
       <!-- only display a paragraph if it is larger than a certain size -->
       <!-- NOTE: this was added to deal with parts of Lincoln Sermon titles tagged as paragraphs -->
         <xsl:element name="p">
           <xsl:attribute name="class">kwic</xsl:attribute>
-
+<!--
           <xsl:variable name="page">
             <xsl:choose>
               <xsl:when test="@pn">
@@ -33,14 +33,15 @@
               <xsl:when test="parent::page/@n = ''">
                 <xsl:value-of select="./pb/@n"/>
               </xsl:when>
-              <xsl:otherwise>
+              <xsl:otherwise> -->
                 <!-- note: xquery max function returns numbers as 11.0; strip off the decimal -->
-                <xsl:value-of select="substring-before(parent::page/@n, '.')"/>
+<!--                <xsl:value-of select="substring-before(parent::page/@n, '.')"/>
               </xsl:otherwise>
             </xsl:choose>
           </xsl:variable>
-
-          <xsl:attribute name="pn"><xsl:value-of select="$page"/></xsl:attribute>
+-->
+    <!--      <xsl:attribute name="pn"><xsl:value-of
+    select="$page"/></xsl:attribute> -->
           <!-- FIXME: how to check if a pb occurs within paragraph, before first keyword ? -->
           <xsl:apply-templates mode="split"/> 
        </xsl:element>
@@ -83,7 +84,7 @@
   <xsl:template match="context//p/ln" mode="split"/>
 
   <!-- make sure to tokenize text in hi tags, too -->
-  <xsl:template match="context//p/hi" mode="split">
+  <xsl:template match="context//hi" mode="split">
       <xsl:apply-templates mode="split"/>	<!-- handle text nodes -->
   </xsl:template>
 
@@ -92,19 +93,20 @@
       <xsl:apply-templates mode="split"/>	<!-- handle text nodes -->
   </xsl:template>
 
-<!-- tokenize list items also -->
-  <xsl:template match="context//list/item" mode="split">
-    <xsl:apply-templates mode="split"/>
-  </xsl:template>
+<!-- ignore list items inside p in SC; items are matched separately -->
+  <xsl:template match="context//p/list" mode="split"/>
+
+
+   
 
   <!-- special case: if a single word is inside a hi tag, the tamino
        highlighting may not necessarily be nested properly 
        (e.g., looks something like <hi><MATCH>word</hi><MATCH> ) -->
-  <xsl:template match="context//p/hi[processing-instruction('MATCH')]" mode="split">
+<!--   <xsl:template match="context//p/hi[processing-instruction('MATCH')]" mode="split">
     <xsl:choose>
       <xsl:when test="contains(., ' ')">
-      <xsl:apply-templates mode="split"/>	<!-- handle text nodes normally -->
-      </xsl:when>
+      <xsl:apply-templates mode="split"/> -->	<!-- handle text nodes normally -->
+<!--      </xsl:when>
       <xsl:otherwise>
         <match>
          <xsl:attribute name="rend"><xsl:value-of select="@rend"/></xsl:attribute>
@@ -113,12 +115,19 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+-->
 
 
   <!-- for anything besides text, do default action -->
   <xsl:template match="context//p//*" mode="split" priority="-1">   
     <xsl:apply-templates select="."/> 
  </xsl:template>  
+
+ <!-- split on list items also -->
+  <xsl:template match="context//item//*" mode="split" priority="-1">   
+    <xsl:apply-templates select="."/> 
+ </xsl:template>  
+
 
   <!-- tokenization logic from Jeni Tennison -->
   <xsl:template match="text()" mode="split" name="split">

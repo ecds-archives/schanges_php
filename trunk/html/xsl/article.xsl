@@ -180,6 +180,17 @@
 </p>
 </xsl:template>
 
+<!-- sic : show 'sic' as an editorial comment -->
+<xsl:template match="sic">
+  <xsl:apply-templates select="text()"/>
+  <!-- show the text between the sic tags -->
+  <xsl:element name="span">
+    <xsl:attribute name="class">editorial</xsl:attribute>
+	[sic]
+  </xsl:element>
+</xsl:template>
+
+
 <!-- line group -->
 <xsl:template match="lg">
   <xsl:element name="p">
