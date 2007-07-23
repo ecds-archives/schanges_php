@@ -36,7 +36,7 @@ return
 {\$doc/docDate}
 <context>
 {for \$c in \$doc//*[. |= \"$keyword\"]
-   return if (name(\$c) = 'hi') then \$c/..  else \$c }</context>
+   return if (name(\$c) = 'hi') then \$c/..[. |= \"$keyword\"] else  \$c }</context>
 </item>";
 
 

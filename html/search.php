@@ -46,10 +46,10 @@ if (count($options)) {
   print("DEBUG: Searchfilter is $searchfilter");
   
   $query = "for \$a in /TEI.2//div2$searchfilter
-let \$t := \$a//div2/head
-let \$doc := \$a//div2/@id
-let \$auth := \$a//div2/byline/docAuthor/name
-let \$date := \$a//div2/docDate
+let \$t := \$a/head
+let \$doc := \$a/@id
+let \$auth := \$a/byline/docAuthor/name
+let \$date := \$a/docDate
 let \$matchcount := text:match-count(\$a)
 order by \$matchcount descending
 return <item>{\$a/@id}";

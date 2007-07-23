@@ -49,10 +49,11 @@
 
 
   <!-- use kwic mode to show context # of words around match terms -->
-  <xsl:template match="//p|//head|//note|//item">
+<!--  <xsl:template match="//p|//head|//note|//item"> -->
     <!-- FIXME: adding l shows only keyword, and not context -->
-    <p><xsl:apply-templates select="." mode="kwic"/></p>
-  </xsl:template>
+    <!-- <p><xsl:apply-templates select="." mode="kwic"/></p>
+    <hr class="kwic"/>
+  </xsl:template> -->
 
   <!-- poetry lines are short enough; shouldn't need parsing out words -->
   <xsl:template match="l">

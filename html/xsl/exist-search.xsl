@@ -296,7 +296,7 @@
       <xsl:choose>
         <xsl:when test="$mode = 'browse'">browse.php?field=<xsl:value-of select="$field"/><xsl:if test="$value">&amp;value=<xsl:value-of select="$value"/></xsl:if><xsl:if test="$letter">&amp;letter=<xsl:value-of select="$letter"/></xsl:if>
       </xsl:when>
-      <xsl:when test="$mode = 'search'">search.php?keyword=<xsl:value-of select="$myurlsuffix"/></xsl:when>
+      <xsl:when test="$mode = 'search'">search.php?<xsl:value-of select="$url_suffix"/></xsl:when>
     </xsl:choose>
   </xsl:variable>
 
@@ -406,6 +406,16 @@
           <xsl:when test="$mode = 'search'">
             <input name="keyword" type="hidden">
               <xsl:attribute name="value"><xsl:value-of select="$keyword"/></xsl:attribute>
+            </input>
+            <input name="author" type="hidden">
+              <xsl:attribute name="value"><xsl:value-of select="$auth"/></xsl:attribute>
+            </input>            <input name="doctitle" type="hidden">
+              <xsl:attribute name="value"><xsl:value-of select="$doctitle"/></xsl:attribute>
+            </input>            <input name="date" type="hidden">
+              <xsl:attribute name="value"><xsl:value-of select="$date"/></xsl:attribute>
+            </input>
+            <input name="subject" type="hidden">
+              <xsl:attribute name="value"><xsl:value-of select="$subject"/></xsl:attribute>
             </input>
           </xsl:when>
         </xsl:choose>

@@ -147,6 +147,7 @@ p#beck {margin-left: auto;
 /*p#src {float: right; margin-right: 25%; margin-bottom: 1em;}*/
 
 span#bc, span#src {padding: 0 2em;}
+span.editorial { color: #545454; font-size: 10px; font-weight: normal; /* same as body text, even inside a head */ }
 
 span.speaker {font-weight: bold;}
 
