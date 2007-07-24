@@ -64,7 +64,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc02-5001" n="Southern Changes 2:5" type="Issue">
         <head>Southern Changes. Volume 2, Number 5, 1980</head>
         <p><title>Southern Changes</title>. Volume 2, Number 5, <date value="1980-02-01">1980</date></p>
-        <div2 id="sc02-5002" n="Interchange" type="Article">
+        <div2 id="sc02-5002" n="1" type="Article">
           <head>Interchange</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980 pp. 2-3</docDate>
@@ -81,7 +81,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 Southerners  for - Economic Justice telling us that workman's compensation laws now provide largely for employer's compensation and an analysis of the recent Congressional vote on limiting powers of the Federal Trade Commission - a movement which Southerners led with swiftness and overwhelming support - offering some notable contrast with their votes on welfare reform reported last issue.</p>
           <p>In all these areas and enterprises, honorable or ignoble, people are searching for ways in which to protect their values and further their own interests and those whom they support. It's a process of trial and error  for which there is no clear reward to tell us who is trying rightfully. Knowing what is wrong and what fails is much easier in hindsight. Eugene Witherspoon had his own system: for his friends and those of whose work he approved, he went to the hen house and gave them eggs. Mr. Witherspoon's insight that "being right" isn't enough should be tempered with the recollection that he did kn6w and value his friends, even if in his lifetime he couldn't get them all to do right.</p>
         </div2>
-        <div2 id="sc02-5003" n="The Impact of Desegregation on Society: Are Values Changing?" type="Article">
+        <div2 id="sc02-5003" n="2" type="Article">
           <head>The Impact of Desegregation on Society: Are Values Changing?</head>
           <byline>By <docAuthor><name reg="Gavins, Ray" type="person">Ray Gavins</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 5-9</docDate>
@@ -182,7 +182,7 @@ recent Southern history. By bringing to the campus retired organizers like Ella 
             <p>An associate professor of history at Duke University, Ray Gavins is a member of the Southern Regional Council. This article is from a paper which he delivered to the National Conference on Desegregation in Higher Education, July 19, 1979, Raleigh, North Carolina.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5004" n="The South: Its Attitudes and Changes, Its People" type="Article">
+        <div2 id="sc02-5004" n="3" type="Article">
           <head>The South: Its Attitudes and
 Changes, Its People</head>
           <byline>By <docAuthor><name reg="Stokes, Bettie Green" type="person">Bettie Green Stokes</name></docAuthor></byline>
@@ -222,7 +222,7 @@ organizations supporting the civil rights movement, women's rights and
 civil liberties.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5014" n="Greensboro Deaths Were Foretold" type="Article">
+        <div2 id="sc02-5014" n="4" type="Article">
           <head>Greensboro Deaths Were Foretold</head>
           <byline>By <docAuthor><name reg="Young, Peter B." type="person">Peter B. Young</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 12</docDate>
@@ -244,7 +244,7 @@ may not have been officially members of any Klan organization, yet they are so o
 </p>
           </div3>
         </div2>
-        <div2 id="sc02-5005" n="The Unmaking of a Black Candidate: Memphis" type="Article">
+        <div2 id="sc02-5005" n="5" type="Article">
           <head>The Unmaking of a Black Candidate: Memphis</head>
           <byline>By <docAuthor><name reg="Keeter, Terry" type="person">Terry Keeter</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1908, pp. 13-15</docDate>
@@ -296,7 +296,7 @@ for some reason apparently known only to the candidate to change the name of Bea
             <p>Terry Keeter is a reporter for the <hi rend="italic">Commercial Appeal</hi> in Memphis, Tennessee.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5006" n="Interchange" type="Article">
+        <div2 id="sc02-5006" n="6" type="Article">
           <head>Affirmative Inaction in Blackbelt Governments</head>
           <byline>By <docAuthor><name reg="Manderson, Marge" type="person">Marge Manderson</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 16-18</docDate>
@@ -326,7 +326,7 @@ the law, when a reasonable basis exists for determining that Affirmative Action 
             <p>Marge Manderson is a program officer for the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc02-5007" n="Women and Minorities in Louisiana Elections Despair or Hope?" type="Article">
+        <div2 id="sc02-5007" n="7" type="Article">
           <head>Women and Minorities in Louisiana Elections Despair or Hope?</head>
           <byline>By <docAuthor><name reg="Dyess, Norma" type="person">Norma Dyess</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 19-23</docDate>
@@ -424,7 +424,7 @@ reporter for the <hi rend="italic">Louisiana News Bureau</hi>, a
 private state government reporting and service agency. </p>
           </div3>
         </div2>
-        <div2 id="sc02-5009" n="ERA and the South" type="Article">
+        <div2 id="sc02-5009" n="8" type="Article">
           <head>ERA and the South</head>
           <byline>By <docAuthor><name reg="Brinson, Betsy" type="person">Betsy Brinson</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1908, pp. 24-25</docDate>
@@ -457,7 +457,7 @@ the campaign. One specific example is in Virginia where the Virginia Education A
 Women's Rights Project. She was recently selected as one of<title> Ms.</title> magazine's "Women to Watch in the 80's."</p>
           </div3>
         </div2>
-        <div2 id="sc02-5010" n="Workers' Compensation Systems" type="Article">
+        <div2 id="sc02-5010" n="9" type="Article">
           <head>Workers' Compensation Systems</head>
           <byline>By <docAuthor><name reg="Southerners for Economic Justice" type="corporate">Southerners for Economic Justice</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 26-27</docDate>
@@ -487,7 +487,7 @@ particular jeopardy. If workers' needs and rights are met fairly, the whole comm
 Released by Southerners for Economic Justice, 1931 Laurel Ave., Knoxville, Tennessee 37916</p>
           </div3>
         </div2>
-        <div2 id="sc02-5011" n="Federal Trade Commission" type="Article">
+        <div2 id="sc02-5011" n="10" type="Article">
           <head>Federal Trade Commission</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-02-01">Vol. 2, No. 5, 1980, pp. 28</docDate>

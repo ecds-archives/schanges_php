@@ -65,7 +65,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc02-3001" n="Southern Changes 2:3" type="Issue">
         <head>Southern Changes. Volume 2, Number 3, 1979</head>
         <p><title>Southern Changes.</title>. Volume 2, Number 3, <date value="1979-12-01">1979</date></p>
-        <div2 id="sc02-2002" n="In This Issue" type="Article">
+        <div2 id="sc02-2002" n="1" type="Article">
           <head>In This Issue</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 2</docDate>
@@ -133,7 +133,7 @@ newnewed commitment by many to both reflection and action on the
 central issues about which opinions have been plentiful and progress
 has been short.</p>
         </div2>
-        <div2 id="sc02-3003" n="Greensboro Slayings" type="Article">
+        <div2 id="sc02-3003" n="2" type="Article">
           <head>Greensboro Slayings</head>
           <byline>By <docAuthor><name reg="Powell, Janis" type="person">Janis Powell</name> &#x0026;
 <name reg="Powell, Bob" type="person">Bob Powell</name></docAuthor></byline>
@@ -168,7 +168,7 @@ legislative investigations into the activities of the Klan; and (4)
 open, public Congressional hearings about the activities of the Ku
 Klux Klan nationwide.</p>
         </div2>
-        <div2 id="sc02-3004" n="Changing Politics in Mississippi" type="Article">
+        <div2 id="sc02-3004" n="3" type="Article">
           <head>Changing Politics in Mississippi</head>
           <byline>By <docAuthor><name reg="Klein, JoAnn" type="person">JoAnn Klein</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 5-6</docDate>
@@ -199,7 +199,7 @@ along the Mississippi River.</p>
             <p>JoAnn Klein is a political reporter for <title>The Clarion-Ledger</title> in Jackson, Mississippi.</p>
           </div3>
         </div2>
-        <div2 id="sc02-3005" n="Election day in Mississippi" type="Article">
+        <div2 id="sc02-3005" n="4" type="Article">
           <head>Election day in Mississippi</head>
           <byline>By <docAuthor><name reg="Dorsey, L.C." type="person">L.C. Dorsey</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 7-8</docDate>
@@ -237,7 +237,7 @@ were also charges of vote-buying.</p>
             <p>L.C. Dorsey is a civil rights worker and author of <title>Freedom Came to Mississippi</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc02-3006" n="Atlanta Blacks Lose in Special Election" type="Article">
+        <div2 id="sc02-3006" n="5" type="Article">
           <head>Atlanta Blacks Lose in Special Election</head>
           <byline>By <docAuthor><name reg="Lewis, Boyd" type="person">Boyd Lewis</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 9-10</docDate>
@@ -270,7 +270,7 @@ there is no longer any effective voter education /voter registration effort ongo
 Georgia.</p>
           </div3>
         </div2>
-        <div2 id="sc02-3007" n="The Election of Birmingham's Black Mayor" type="Article">
+        <div2 id="sc02-3007" n="6" type="Article">
           <head>The Election of Birmingham's Black Mayor</head>
           <byline>By <docAuthor><name reg="Casey, Ron" type="person">Ron Casey</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 11-14</docDate>
@@ -329,7 +329,7 @@ Ron Casey is an editorial writer for the <title>Birmingham News</title>.
 </p>
           </div3>
         </div2>
-        <div2 id="sc02-3008" n="The Business of Blacks In the Mississippi Delta" type="Article">
+        <div2 id="sc02-3008" n="7" type="Article">
           <head>The Business of Blacks In the Mississippi Delta</head>
           <byline>
             <docAuthor>
@@ -416,7 +416,7 @@ climate in which basic civil rights are protected - and in a manner no
 more revolutionary than, say, a meeting of the board of the Chase
 Manhattan Bank.</p>
         </div2>
-        <div2 id="sc02-3009" n="Rural, Poor and Southern Directions of the Civil Rights Movement" type="Article">
+        <div2 id="sc02-3009" n="8" type="Article">
           <head>Rural, Poor and Southern Directions of the Civil Rights Movement</head>
           <byline>
             <docAuthor>
@@ -506,7 +506,7 @@ American Dream.</p>
 Poor,</hi> a Ford Foundation report.</p>
           </div3>
         </div2>
-        <div2 id="sc02-3010" n="The Case for Small Farms" type="Article">
+        <div2 id="sc02-3010" n="9" type="Article">
           <head>The Case for Small Farms</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name>
 and <name reg="Norton, Duna" type="person">Duna Norton</name></docAuthor></byline>
@@ -568,7 +568,7 @@ substandard housing that was found in Greene County during the 1970 census.</p>
 Duna Norton is director of the Agricultural Marketing Project in Tuscaloosa, Alabama.</p>
           </div3>
         </div2>
-        <div2 id="sc02-3011" n="Southern Politics" type="Article">
+        <div2 id="sc02-3011" n="10" type="Article">
           <head>Southern Politics</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 26</docDate>
@@ -646,7 +646,7 @@ members voted "yea". No House member from Mississippi or Arkansas supported the 
           <p>Harris</p>
           <p>Fisher</p>
         </div2>
-        <div2 id="sc02-3012" n="Economic Development" type="Article">
+        <div2 id="sc02-3012" n="11" type="Article">
           <head>Economic Development</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 27</docDate>
@@ -712,7 +712,7 @@ unemployment. While the South may still lead the nation in rapid
 economic growth and number of jobs available, the benefits of the boom
 have not yet been seen by Southerners in the unemployment lines.</p>
         </div2>
-        <div2 id="sc02-3013" n="Southern Women" type="Article">
+        <div2 id="sc02-3013" n="12" type="Article">
           <head>Southern Women</head>
           <byline>By <docAuthor><name reg="Powell, Janis" type="person">Janis Powell</name></docAuthor></byline>
           <docDate value="1979-12-01">Vol. 2, No. 3., 1979, pp. 28</docDate>

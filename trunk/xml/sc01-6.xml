@@ -65,10 +65,10 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc01-6001" n="Southern Changes 1:6" type="Issue">
         <head>Southern Changes. Volume 1, Number 6, 1979</head>
         <p><title>Southern Changes</title>. Volume 1, Number 6, <date value="1979-03-01">1979</date></p>
-        <div2 id="sc01-6003" n="Tribute to Gwendolyn Cherry" type="Article">
+        <div2 id="sc01-6003" n="1" type="Article">
           <head>Tribute to Gwendolyn Cherry</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.2-3</docDate>
+          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 2-3</docDate>
           <p> On February 7, Gwen Cherry, the Vice-President of the Southern
 Regional Council, died in an automobile accident in Tallahassee,
 Florida. Her death leaves the Council without one of its valued
@@ -119,10 +119,10 @@ and devoted to the just and humane world of which she gave us a clear
 vision.
 </p>
         </div2>
-        <div2 id="sc01-6004" n="A Return to the Sun" type="Article">
+        <div2 id="sc01-6004" n="2" type="Article">
           <head>A RETURN TO THE SUN</head>
           <byline>By <docAuthor><name reg="Sun" type="institution">SUN</name> &#x0026; <name reg="Rep" type="institution">REP</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.4,12</docDate>
+          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 4, 12</docDate>
           <p>Five thousand years ago men worshipped the sun. After a 50 century hiatus, man is turning his attention and hope - toward that same sun. Today, we are caught in the middle of the most sophisticated technological web ever spun on this earth. The spider is energy - fossil fuels like coal, oil and natural gas, and nuclear power. There is one possible avenue of escape - the sun, and its energy in the form of wind power, water power, biomass, geothermal energy and others.</p>
           <p>The energy dialogue poses three critical questions about our resources: (1) Are they limitless? (2) Are they safe? and (3) Who controls them? With regard to the first question, there is no infinite amount of any extractable natural resource: none are renewable. There is only so much oil, for example, and even though new reserves are periodically discovered, the cost of bringing oil to the surface is substantial and increasing daily. Also, the demand for energy is likewise increasing at an alarming rate.</p>
           <p>The second point, safety, produces damning evidence against all fuels, especially nuclear power. Burning fossil fuels produces a staggering amount of air and water pollution; and nuclear fuels are hazardous to extract, transport, use, store and dispose of. Finally, because the raw material of fossil fuels is site specific, requiring elaborate extraction, transport, refining and distribution equipment and systems, no individual acting alone or collectively has the ability to control the fuel he uses for heat and cooling. The capital investment needed in bringing such fuels to homes, businesses and industries has been great, encouraging large and powerful corporations to dominate and control our energy.</p>
@@ -164,7 +164,7 @@ SUN/REP, Suite 412, 3110 Maple Dr., Atlanta, Georgia 30305. Phone:
 (404) 261-1764.</p>
           </div3>
         </div2>
-        <div2 id="sc01-6005" n="Black Farmers: A Vanishing Breed" type="Article">
+        <div2 id="sc01-6005" n="3" type="Article">
           <head>Black Farmers: A Vanishing Breed</head>
           <byline>By <docAuthor><name reg="Press, Robert M." type="person">Robert M. Press</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 5-7</docDate>
@@ -248,7 +248,7 @@ Science Monitor</title>. c 1978: The Christian Science Publishing
 Society. All rights reserved.</p>
           </div3>
         </div2>
-        <div2 id="sc01-6013" n="Solar Greenhouses: The Greening of the South" type="Article">
+        <div2 id="sc01-6013" n="4" type="Article">
           <head>Solar Greenhouses: The Greening of the South</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 3, 1979 pp. 8-10</docDate>
@@ -332,7 +332,7 @@ land.</p>
 Solar Greenhouse Book</title>, James C. McCullogh; "Organic Gardening &#x0026;
 Farming" magazine. December 1977.</p>
         </div2>
-        <div2 id="sc01-6007" n="Solar Greenhouses: A Method of Survival for Small Farmers" type="Interview">
+        <div2 id="sc01-6007" n="5" type="Interview">
           <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
           <byline>By <docAuthor><name reg="Graham Center Staff" type="institution">the Staff of the Graham Center</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 10-12</docDate>
@@ -379,7 +379,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
 </p>
           </div3>
         </div2>
-        <div2 id="sc01-6006" n="Wilcox County--A Day in Wilcox County: 1967" type="Article">
+        <div2 id="sc01-6006" n="6" type="Article">
           <head>Wilcox County--A Day in Wilcox County: 1967</head>
           <byline>By <docAuthor><name reg="Hunter, Floyd" type="person">Floyd Hunter</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 13-14</docDate>
@@ -432,7 +432,7 @@ structure. The other informants underscored what he had to say. This man was cal
 and Educational Bankruptcy, National Education Association, Commission
 on Professional Rights and Responsibilities, June 1967.</p>
         </div2>
-        <div2 id="sc01-6002" n="A New Day in Wilcox County: 1978" type="Article">
+        <div2 id="sc01-6002" n="7" type="Article">
           <head>A New Day in Wilcox County: 1978</head>
           <byline>By <docAuthor><name reg="Swift, Harriet" type="person">Harriet Swift</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 15, 16, 28</docDate>
@@ -506,7 +506,7 @@ Harriet Swift is a copy editor at the <title>Birmingham Post-Herald</title>.
 </p>
           </div3>
         </div2>
-        <div2 id="sc01-6014" n="Problems  of Pain" type="Article">
+        <div2 id="sc01-6014" n="8" type="Article">
           <head>Problems  of Pain</head>
           <byline>By <docAuthor><name reg="Adamson, June" type="person">June Adamson</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 17-18</docDate>
@@ -547,7 +547,7 @@ was one of the doctors on emergency service. In an accent that told me his backg
 June Adamson, a former working journalist, now teaches journalism at the University of Tennessee.</p>
           </div3>
         </div2>
-        <div2 id="sc01-6008" n="Segregation Order at Readsville Prison" type="Article">
+        <div2 id="sc01-6008" n="9" type="Article">
           <head>Segregation Order at Reidsville Prison</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.19-21</docDate>
@@ -608,7 +608,7 @@ sue the state. In August, Hopper, the warden who recognized the inmate council, 
 studying the effects of rape on women and the ways they resolve problems caused by the assault.</p>
           </div3>
         </div2>
-        <div2 id="sc01-6009" n="Games Prison Bureaucrats Play: The Story of the Olympic Prison" type="Article">
+        <div2 id="sc01-6009" n="10" type="Article">
           <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
           <byline>By <docAuthor><name reg="Hall, Andy" type="person">Andy Hall</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.22-25</docDate>
@@ -708,7 +708,7 @@ two-and-a-half years before moving to Atlanta recently to work for NMP
 in the Southern states.</p>
           </div3>
         </div2>
-        <div2 id="sc01-6johnston.010" n="URBAN AND RURAL DEVELOPMENT" type="Article">
+        <div2 id="sc01-6johnston.010" n="11" type="Article">
           <head>URBAN AND RURAL DEVELOPMENT</head>
           <byline>By <docAuthor><name reg="Johnston, Diane" type="person">Diane Johnston</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 26</docDate>
@@ -727,7 +727,7 @@ in the Southern states.</p>
 effectively. Meanwhile, the future of the small farmer, and perhaps
 the American Agricultural Movement, remains uncertain.</p>
         </div2>
-        <div2 id="sc01-6011" n="SOUTHERN WOMEN" type="Article">
+        <div2 id="sc01-6011" n="12" type="Article">
           <head>SOUTHERN WOMEN</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 27-28</docDate>

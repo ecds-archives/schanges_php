@@ -65,7 +65,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 8, Number 4, 1986</head>
         <p><title>Southern Changes</title>.  Volume 8, Number 4,
 	       <date value="1986-10-01">1986</date></p>
-        <div2 id="sc08-4002" n="The Climate for Workers in the U.S." type="Article">
+        <div2 id="sc08-4002" n="1" type="Article">
           <head>The Climate for Workers in the U.S.:  Summary of a Study by the
 Southern Labor Institute. A Special Project of the Southern Regional
 Council</head>
@@ -125,11 +125,11 @@ Board Chairman of the Southern Labor Institute; and Vice President of
 the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc08-3003" n="Where Does the South Stand?" type="Article">
+        <div2 id="sc08-3003" n="2" type="Article">
           <head>The Climate for Workers: Where Does the South Stand?</head>
           <byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline>
           <docDate value="1986-10-01">Vol. 8, No. 4, 1986, pp. 3-15</docDate>
-          <div3 id="sc08-3004" n="Where Does the South Stand?" type="Section">
+          <div3 id="sc08-3004" type="Section">
             <p>We believe the true test of economic conditions is how working
 people--the vast majority of citizens--fare in these times of economic
 change. This report examines how the economic climates in the states
@@ -237,9 +237,9 @@ death rates of thirteen or higher, include six more states from the
 Southeast.</p>
             <p>These and other study results are detailed in this report.</p>
           </div3>
-          <div3 id="sc08-3005" n="Findings" type="Section">
+          <div3 id="sc08-3005" type="Section">
             <head>FINDINGS:</head>
-            <div4 id="sc08-3006" n="Jobs and Income" type="Part">
+            <div4 id="sc08-3006" type="Part">
               <head>Jobs and Income</head>
               <p>The relationship between job growth and personal income is perhaps
 the best of all signs of the economic health of a state, addressing
@@ -701,7 +701,7 @@ our time frame for short-term income change, were examined to fill out
 the national income picture. The eight states where annual pay was
 less than $15,000 include four from the Southeast: North Carolina,
 South Carolina, Arkansas, and Mississippi. Also at the 
-<pb n=""/>
+<pb n="10"/>
 bottom in this
 category are Vermont and Maine from New England, and Nebraska and
 South Dakota from the Plains states.</p>
@@ -784,7 +784,7 @@ where the gain in hourly wages exceeded $2 over these five years are
 New Jersey, New Mexico, Kansas, Minnesota, Missouri, Connecticut,
 Maine, California, Illinois, and Alaska.</p>
             </div4>
-            <div4 id="sc08-3007" n="Poverty" type="Part">
+            <div4 id="sc08-3007" type="Part">
               <head>Poverty</head>
               <p>
                 <hi rend="bold">
@@ -824,7 +824,7 @@ the poverty level are North and South Dakota in the Plains; Maine,
 Vermont and New Hampshire in New England; Hawaii in the Pacific; and
 Nevada and Washington in the Far West.</p>
             </div4>
-            <div4 id="sc08-3008" n="State Actions" type="Part">
+            <div4 id="sc08-3008" type="Part">
               <head>State Actions</head>
               <p>
                 <hi rend="bold">
@@ -971,7 +971,7 @@ highest in Washington ($2,366.89). Other states in the top ten, where
 revenue contributions per pupil exceed $1,500, are Hawaii, Delaware,
 New York, Georgia, Florida, Minnesota, California, and New Mexico.</p>
             </div4>
-            <div4 id="sc08-3009" n="Hazardous Jobs" type="Part">
+            <div4 id="sc08-3009" type="Part">
               <head>Hazardous Jobs</head>
               <p>
                 <hi rend="bold">
@@ -1018,7 +1018,7 @@ Delaware, West Virginia, and Wyoming. Other states with 7 percent or
 higher are Kentucky, South Carolina, Louisiana, New Hampshire, and
 Oklahoma.</p>
             </div4>
-            <div4 id="sc08-3010" n="Commuting Time" type="Part">
+            <div4 id="sc08-3010" type="Part">
               <head>Commuting Time</head>
               <p>
                 <hi rend="bold">
@@ -1043,7 +1043,7 @@ percent), Maryland (18 percent), and New Jersey (16 percent). Illinois
 (17 percent) is also in this group. Other states in the bottom ten are
 Louisiana, Virginia and West Virginia, Pennsylvania and California.</p>
             </div4>
-            <div4 id="sc08-3011" n="Health Care" type="Part">
+            <div4 id="sc08-3011" type="Part">
               <head>Health Care</head>
               <p>
                 <hi rend="bold">
@@ -1083,7 +1083,7 @@ with 7.7 infant deaths per thousand, and in nine other states with
 infant mortality rates of 10 or below: New Hampshire, Massachusetts,
 Idaho, Utah, Colorado, Nebraska, Iowa, Hawaii and New Mexico.</p>
             </div4>
-            <div4 id="sc08-3012" n="Equal Employment" type="Part">
+            <div4 id="sc08-3012" type="Part">
               <head>Equal Employment</head>
               <p>
                 <hi rend="bold">
@@ -1137,7 +1137,7 @@ percent in Arkansas. The remaining bottom ten states are Mississippi,
 Kentucky, Tennessee, North Carolina, South Carolina and Georgia from
 the Southeast, and Utah and Indiana.</p>
             </div4>
-            <div4 id="sc08-3013" n="Labor Membership" type="Part">
+            <div4 id="sc08-3013" type="Part">
               <head>Labor Membership</head>
               <p>
                 <hi rend="bold">
@@ -1161,7 +1161,7 @@ Kansas. The others are Arizona, Oklahoma, Texas, New Hampshire and
 Utah.</p>
             </div4>
           </div3>
-          <div3 id="sc08-3014" n="Conclusions" type="Section">
+          <div3 id="sc08-3014" type="Section">
             <head>CONCLUSIONS:</head>
             <p>While this report began with a number of conclusions to be drawn
 from some thirty-three indicators of the quality of working life, the
@@ -1261,7 +1261,7 @@ member of the Southern Labor Institute and a former staffer of the
 Southern Office of the National Rural Center.</p>
           </div3>
         </div2>
-        <div2 id="sc08-4015" n="Labor Gives to Make Saturn Work" type="Article">
+        <div2 id="sc08-4015" n="4" type="Article">
           <head>Labor Gives to Make Saturn Work</head>
           <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline>
           <docDate value="1986-10-01">Vol. 8, No. 4, 1986, p. 19</docDate>
@@ -1322,7 +1322,7 @@ Dunn is not bound by this peace treaty.  Dunn, who was governor from
 1971-1975, feels the Saturn agreement "violates the spirit of
 Tennessee's right-to-work law."</p>
         </div2>
-        <div2 id="sc08-4016" n="GM's Saturn Auto Plant Arrives in Spring Hill, Tennessee" type="Article">
+        <div2 id="sc08-4016" n="3" type="Article">
           <head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
 Arrives in Spring Hill, Tennessee</head>
           <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline>
