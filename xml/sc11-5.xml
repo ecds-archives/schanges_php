@@ -65,7 +65,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 11, Number 5, 1989</head>
         <p><title>Southern Changes</title>.  Volume 11, Number 5,
 	       <date value="1989-11-01">1989</date></p>
-        <div2 id="sc11-5002" n="Land of Deepest Shade" type="Article">
+        <div2 id="sc11-5002" n="2" type="Article">
           <head>Land of Deepest Shade: An Interview with John McWilliams</head>
           <byline>
             <docAuthor>
@@ -298,11 +298,11 @@ has for us in terms of being a source of life. But also the sense of
 the cesspool, the dumping ground that it can be. I really want to
 explore that.</p>
         </div2>
-        <div2 id="sc11-5003" n="Native Southerners" type="Article">
+        <div2 id="sc11-5003" n="1" type="Article">
           <head>Native Southerners</head>
           <byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
-          <div3 id="sc11-5004" n="Native Southerners" type="Section">
+          <div3 id="sc11-5004" type="Section">
             <p>Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
 Florida where the Cherokees and the Seminoles/Miccosukees maintain
@@ -356,7 +356,7 @@ particularly the English, demanded native land and allegiance. A
 growing dependence on European goods left Indians little bargaining
 room, and so they relinquished territory and sovereignty.</p>
           </div3>
-          <div3 id="sc11-5005" n="Indians in Slavery" type="Section">
+          <div3 id="sc11-5005" type="Section">
             <head>Indians in Slavery</head>
             <p>In the South, the colonial economy quickly came to depend on
 agriculture. In the early years, native peoples sustained this economy
@@ -400,7 +400,7 @@ struggled to maintain their status and identity as Indians in a South
 that increasingly defined itself as biracial, that is, black and
 white.</p>
           </div3>
-          <div3 id="sc11-5006" n="Coping with a Biracial Society" type="Section">
+          <div3 id="sc11-5006" type="Section">
             <head>Coping with a "Biracial" Society</head>
             <p>For those Indians who constituted sizeable communities of readily
 identified historical peoples, the task was somewhat simpler. The
@@ -499,7 +499,7 @@ reservations, and until recently, the limited economic resources of
 the Cherokees gave them little alternative to catering to these
 expectations.</p>
           </div3>
-          <div3 id="sc11-5007" n="Debating Federal Termination" type="Section">
+          <div3 id="sc11-5007" type="Section">
             <head>Debating Federal Termination</head>
             <p>In the late nineteenth and twentieth centuries, some native peoples
 did manage to secure a reservation, a commonly held tract of land
@@ -671,7 +671,7 @@ Indians, it is a matter of regional concern and may well be a pressing
 cultural and racial issue of the twenty-first century.</p>
           </div3>
         </div2>
-        <div2 id="sc11-5008" n="The Law" type="Review">
+        <div2 id="sc11-5008" n="8" type="Review">
           <head>The Law.</head>
           <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
@@ -846,7 +846,7 @@ abbreviated version of this review appeared in <title>Foundation
 News</title>, May/June, 1989.)</p>
           </div3>
         </div2>
-        <div2 id="sc11-5009" n="Politics of Nativism" type="Review">
+        <div2 id="sc11-5009" n="7" type="Review">
           <head>Politics of Nativism.</head>
           <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
@@ -945,9 +945,9 @@ right.</p>
 now a U.S. Air Force historian living in Ohio.</p>
           </div3>
         </div2>
-        <div2 id="sc11-5019" n="Victorian Reformer" type="Review">
+        <div2 id="sc11-5019" n="5" type="Review">
           <head>Victorian Reformer.</head>
-          <byline>Reviewed by <docAuthor><name reg="FLEMING, HAROLD G." type="person">HAROLD G. FLEMING</name></docAuthor></byline>
+          <byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
           <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
@@ -1018,7 +1018,7 @@ and in countless other ways served civil rights and the enlargement of
 American justice.</p>
           </div3>
         </div2>
-        <div2 id="sc11-5010" n="Transformed Color" type="Review">
+        <div2 id="sc11-5010" n="6" type="Review">
           <head>Transformed Color</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
@@ -1116,7 +1116,7 @@ rewards the reader who keeps at it.</p>
 <title>Southern Changes.</title></p>
           </div3>
         </div2>
-        <div2 id="sc11-5011" n="A New Heaven and Earth" type="Review">
+        <div2 id="sc11-5011" n="4" type="Review">
           <head>A New Heaven and Earth.</head>
           <byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
@@ -1253,7 +1253,7 @@ of Mississippi, now lives in Rochester, N. Y., where she practices
 marriage and family therapy.</p>
           </div3>
         </div2>
-        <div2 id="sc11-5012" n="The Cold Hard Truth" type="Article">
+        <div2 id="sc11-5012" n="9" type="Article">
           <head>The Cold Hard Truth</head>
           <byline>
             <docAuthor>
@@ -1332,7 +1332,7 @@ have been worth the trip.</p>
 writer.</p>
           </div3>
         </div2>
-        <div2 id="sc11-5013" n="Portraits from Slavery" type="Review">
+        <div2 id="sc11-5013" n="3" type="Review">
           <head>Portraits from Slavery.</head>
           <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline>
           <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 15-16</docDate>

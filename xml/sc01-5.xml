@@ -65,11 +65,11 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc01-5001" n="Southern Changes 1:5" type="Issue">
         <head>Southern Changes. Volume 1, Number 5, 1979</head>
         <p><title>Southern Changes</title>. Volume 1, Number 5, <date value="1979-02-01">1979</date></p>
-        <div2 id="sc01-5003" n="When Shall We Overcome?" type="Article">
+        <div2 id="sc01-5003" n="9" type="Article">
           <head>When Shall We Overcome?</head>
-          <byline>
+          <byline>By 
             <docAuthor>
-              <name reg="Lincoln, C. Eric" type="person">By C. Eric Lincoln</name>
+              <name reg="Lincoln, C. Eric" type="person">C. Eric Lincoln</name>
             </docAuthor>
           </byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 4-5</docDate>
@@ -143,7 +143,7 @@ intransigence.</p>
 in Durham, North Carolina.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5004" n="Declining Donkeydom in Presleyland" type="Article">
+        <div2 id="sc01-5004" n="2" type="Article">
           <head>Declining Donkeydom in Presleyland</head>
           <byline>By <docAuthor><name reg="Lewis, Boyd" type="person">Boyd Lewis</name></docAuthor></byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 6</docDate>
@@ -168,7 +168,7 @@ publicized show of unity, joy and Prussian organization. But as with the weather
             <p>Boyd Lewis is an Atlanta free-lance writer.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5005" n="The Wallace Phenomenon" type="Article">
+        <div2 id="sc01-5005" n="3" type="Article">
           <head>The Wallace Phenomenon</head>
           <byline>By <docAuthor><name reg="Russakoff, Dale" type="person">Dale Russakoff</name></docAuthor></byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 7-9</docDate>
@@ -248,7 +248,7 @@ senior citizens from Geneva, relatives from Clayton, a beautician from Jasper, a
             <p>Reprinted from <title>The Atlanta Journal and Constitution</title>.Dale Russakoff is a staff writer for the <title>Atlanta Journal</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5006" n="Johnny 'Imani' Harris and the Alabama Death Sentence " type="Article">
+        <div2 id="sc01-5006" n="4" type="Article">
           <head>Johnny 'Imani' Harris and the Alabama Death Sentence
 </head>
           <byline>By <docAuthor><name reg="Gardner, Tom" type="person">Tom Gardner</name></docAuthor></byline>
@@ -374,7 +374,7 @@ the other for medical treatment  We had to make and sign a statement before even
             <p>Tom Gardner is an Atlanta free-lance writer who is active on the defense committee for Johnny 'Imani' Harris.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5007" n="Montgomery Widows: A Struggle to Survive" type="Article">
+        <div2 id="sc01-5007" n="5" type="Article">
           <head>Montgomery Widows: A Struggle to Survive</head>
           <byline>By <docAuthor><name reg="Hughes, Roxie" type="person">Roxie Hughes</name></docAuthor></byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 15-17</docDate>
@@ -432,7 +432,7 @@ me wherever I go and am very careful."</p>
 Montgomery.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5002" n="National Advisory Committee for Women and       the 'Friday Afternoon Massacre'" type="Article">
+        <div2 id="sc01-5002" n="6" type="Article">
           <head>National Advisory Committee for Women and the 'Friday Afternoon
 Massacre'</head>
           <byline>By <docAuthor><name reg="Reese, Lenora" type="person">Lenora Reese</name></docAuthor></byline>
@@ -492,7 +492,7 @@ better understanding of the whole thing. Time will tell."</p>
 Lenora Reese is on the staff at the Alabama Journal in Montgomery.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5008" n="EDUCATION" type="Article">
+        <div2 id="sc01-5008" n="7" type="Article">
           <head>EDUCATION</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 21-22</docDate>
@@ -536,7 +536,7 @@ Discipline</title>, Vol. 1, No. 9, published by the American Friends
 Service Committee Southeastern Public Education Program.</p>
           </div3>
         </div2>
-        <div2 id="sc01-5009" n="Health Care" type="Article">
+        <div2 id="sc01-5009" n="8" type="Article">
           <head>HEALTH CARE</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-02-01">Vol. 1, No. 5, 1979, pp. 22-23</docDate>

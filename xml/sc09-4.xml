@@ -65,7 +65,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 9, Number 4, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 4,
 	       <date value="1987-10-01">1987</date></p>
-        <div2 id="sc09-4002" n="The South Revisited" type="Article">
+        <div2 id="sc09-4002" n="2" type="Article">
           <head>The South Revisited</head>
           <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
@@ -383,7 +383,7 @@ Country</title>, and <title>I Rode With the Klan.</title> He lives
 near Jacksonville, Fla.</p>
           </div3>
         </div2>
-        <div2 id="sc09-4003" n="The Cold Hard Truth" type="Article">
+        <div2 id="sc09-4003" n="5" type="Article">
           <head>The Cold Hard Truth: Wishing Justice for Bork</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut. Jr.</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
@@ -484,7 +484,7 @@ of the Supreme Court.</p>
 and writer.</p>
           </div3>
         </div2>
-        <div2 id="sc09-4004" n="The Making of A Judge" type="Article">
+        <div2 id="sc09-4004" n="4" type="Article">
           <head>The Making of A Judge</head>
           <byline>By <docAuthor><name reg="Callahan, Nancy" type="person">Nancy Callahan</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
@@ -909,7 +909,7 @@ Montgomery. Her book, <title>The Freedom Quilting Bee</title>, will be
 published this fall by the University of Alabama Press.</p>
           </div3>
         </div2>
-        <div2 id="sc09-4005" n="The Poverty of Reaganomics" type="Article">
+        <div2 id="sc09-4005" n="1" type="Article">
           <head>The Poverty of Reaganomics</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
@@ -1036,9 +1036,9 @@ sixty-two percent in 1985.</p>
 in young families in 1985 were poor--nearly double the twenty-six
 percent rate in 1973.</p>
         </div2>
-        <div2 id="sc09-4006" n="Tuscaloosa's Solid-Waste Turkey" type="Article">
+        <div2 id="sc09-4006" n="3" type="Article">
           <head>Tuscaloosa's Solid-Waste Turkey</head>
-          <byline>By <docAuthor><name reg="United Citizens         Against Toxic Chemicals" type="person">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
+          <byline>By <docAuthor><name reg="United Citizens Against Toxic Chemicals" type="corporate">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
           <docDate value="1987-10-01">Vol. 9, No. 4, 1987, 8-9</docDate>
           <p>Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows
