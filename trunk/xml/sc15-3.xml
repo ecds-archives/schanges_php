@@ -50,17 +50,25 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc15-31203">
     <body id="sc15-31202">
       <div1 id="sc15-3001" n="Southern Changes 15:3" type="Issue">
         <head> Southern Changes. Volume 15, Number 3, 1993 </head>
-        <p><title> Southern Changes</title>. Volume 15, Number 3, Fall, <date value="1993-09-01">1993</date></p>
-        <div2 id="sc15-3002" n="Voting Rights and the Court:       Drawing the Lines" type="Article">
-          <head><hi rend="italic">Voting Rights and the Court:</hi><lb/>Drawing the Lines</head>
+        <p><title> Southern Changes</title>. Volume 15, Number 3, Fall, <date value="1993-09">1993</date></p>
+        <div2 id="sc15-3002" n="1" type="Article">
+          <head><hi rend="italic">Voting Rights and the Court: </hi><lb/>Drawing the Lines</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 1-6</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 1-6</docDate>
           <p>On the last day of the 1993 term, the Supreme Court handed down one
 of the most controversial voting rights decisions of the last ten years, <hi rend="italic">Shaw v. Reno</hi>. The Court held that white residents of North Carolina could challenge the state's majority African American 12th congressional district because it was "so bizarre on its face that it is 'unexplainable on grounds other than race.'" Although the holding of the case is quite narrow&#x2014;there are not many, if any, districts as irregularly shaped as the 12th, which has been dubbed the "I-85 district" because it follows an interstate highway&#x2014;it opens the door for opponents of the Voting Rights Act to question the propriety of all race-conscious redistricting.</p>
           <p><hi rend="italic">Shaw v. Reno</hi> has stirred up public debate,
@@ -160,10 +168,10 @@ minority districts are a proven and effective remedy. </p>
             <p>Laughlin McDonald is the director of the American Civil Liberties Union Southern Regional Office, which specializes in voting rights cases.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3003" n="Lillian Smith: Poet Among Demagogues" type="Article">
+        <div2 id="sc15-3003" n="2" type="Article">
           <head><hi rend="bold">Lillian Smith:</hi><lb/> Poet Among Demagogues</head>
           <byline>By <docAuthor><name reg="Gladney, Margaret Rose" type="person">Margaret Rose Gladney</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 8-9</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 8-9</docDate>
           <p>Internationally acclaimed as author of the controversial novel, <hi rend="italic">Strange Fruit</hi> (1944), Lillian Smith was the most liberal and outspoken of white mid-twentieth century Southern writers on issues of social, and especially racial, justice. Her writing explored the interrelatedness of her culture's attitudes towards race and sexuality and the ways in which the South's economic, political, and religious institutions perpetuated a dehumanizing existence for all its people. When other Southern liberals such as Ralph McGill, Hodding Carter, Virginius Dabney, and Jonathan Daniels were charting a cautious course on racial change, Smith boldly and persistently called for an end to segregation. For such boldness she was often scorned by more moderate Southerners, threatened by arsonists, and denied the critical attention she deserved as a writer. Yet she continued to write and speak for improved human relations and social justice throughout her life.</p>
           <p>Smith refused to separate the seemingly conflicting roles of artist
 and activist. Calling the Supreme Court's ruling on school
@@ -213,10 +221,10 @@ Smith</hi> (1993).</p>
             <p>Margaret Rose Gladney is a professor of American Studies at the University of Alabama.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3004" n="A Letter from Lillian Smith to Gerda Lerner" type="Article">
+        <div2 id="sc15-3004" n="3" type="Article">
           <head>A Letter from Lillian Smith to Gerda Lerner</head>
           <byline>By <docAuthor><name reg="Smith, Lillian" type="person">Lillian Smith</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 10-11, 14</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 10-11, 14</docDate>
           <p>
             <hi rend="italic">Today Gerda Lerner is celebrated as a pioneer in women's history and a leading scholar in U. S. history. Before she began her academic career in the mid-1960s, however, she had published several short stories and a novel, a story, about her adolescence in Vienna, Austria, of 1934-38, and she was struggling to find a publisher for her second novel.</hi>
           </p>
@@ -284,10 +292,10 @@ you.</p>
             <p>This letter is in <title>How Am I to Be Heard? Letters of Lillian Smith</title>, edited by Margaret Rose Gladney and published in September by University of North Carolina Press. The letter is from the Smith collection at the Hargrett Rare Book and Manuscript Library at the University of Georgia.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3005" n="A Life in Letters" type="Review">
+        <div2 id="sc15-3005" n="4" type="Review">
           <head>A Life in Letters</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 15-16</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 15-16</docDate>
           <bibl><title>How Am I to be Heard? Letters of
 Lillian Smith</title>, edited by Margaret Rose Gladney (University of
 North Carolina Press, Chapel Hill, 1993, 384 pages).</bibl>
@@ -329,10 +337,10 @@ She was right. </p>
             <p>Nashville author and Lillian Smith Award winner John Egerton's newest book about the South, to be published by Knopf in 1994, covers much of the period during which Lillian Smith wrote, the years from Roosevelt through <title>Brown</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3006" n="Dogpatch, USA: The Road to Hokum" type="Article">
+        <div2 id="sc15-3006" n="5" type="Article">
           <head>Dogpatch, USA: The Road to Hokum</head>
           <byline>By <docAuthor><name reg="Brown, Rodger" type="person">Rodger Brown</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 18-26</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 18-26</docDate>
           <p>In May of 1968 cartoonist Al Capp motored into the Ozarks of north
 Arkansas smoking custom-rolled cigarettes, wearing dark glasses and a
 tailored English suit, and glibly dissembling for a pack of reporters. Capp's trip to the Ozarks was national news. Dogpatch USA, the first theme park based on his wildly successful comic strip <hi rend="italic"> Li'l Abner</hi>, was finally open for the tourist trade. The Lt. Governor was there. Miss Arkansas was there. With the snip of a ribbon and a slug of Kickapoo Joy Juice, Al Capp declared Dogpatch finally "real," and began welcoming the first of an expected torrent of tourists.</p>
@@ -496,10 +504,10 @@ you." </p>
             <p>Rodger Brown is author of <title>Party Out of Bounds: The B-52s, R.E.M., and The Kids Who Rocked Athens, Georgia</title>. He is completing a Southern travelogue to be published next fall.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3007" n="Martyr and Killer: Two Lives and Alabama" type="Review">
+        <div2 id="sc15-3007" n="6" type="Review">
           <head>Martyr and Killer: Two Lives and Alabama</head>
-          <byline>Reviewed by <docAuthor><name reg="WALTER, REV. FRANCIS X." type="person">REV. FRANCIS X. WALTER</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 27, 29-30</docDate>
+          <byline>Reviewed by <docAuthor><name reg="Walter, Rev. Francis X." type="person">Rev. Francis X. Walter</name></docAuthor></byline>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 27, 29-30</docDate>
           <bibl><title>Outside
 Agitator: Jon Daniels and the Civil Rights Movement in
 Alabama</title>, by Charles W. Eagles (The University of North
@@ -559,10 +567,10 @@ of America.</p>
             <p>The Rev. Francis X. Walter is currently rector of St. Andrews Episcopal Church in Birmingham. After Jonathan Daniels's death, Father Walter was sent by the Selma Interreligious Project to continue a ministry of presence in Selma and the surrounding counties.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3008" n="Thurmond" type="Review">
+        <div2 id="sc15-3008" n="6" type="Review">
           <head>Thurmond</head>
           <byline>Reviewed by <docAuthor><name reg="Terrill, Tom" type="person">Tom Terrill</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 30-32</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 30-32</docDate>
           <bibl><title>Strom Thurmond and the Politics of Southern
 Change</title>, Nadine Cohodas (Simon and Schuster, 1993, 574 pages).</bibl>
           <p>This is a workmanlike, well researched, but narrowly conceived study of one of the most durable politicians in American history. Focusing almost entirely on the single issue of Thurmond and race relations and ignoring virtually every other aspect of his career, Cohodas produced a relentlessly monothematic book that sometimes reduces the reader to being something like a spectator at a Depression-era marathon dance. The Senator dances on and on and on to the same tune: states rights and the preservation of Jim Crow, at least until Jim Crow expires. Even if one assumes that the Senator's political career is monothematic&#x2014;and I don't, that theme has more complexity than this narrative suggests.</p>
@@ -600,10 +608,10 @@ race remains the dominant theme in the politics of the South. </p>
             <p>Tom Terrill is professor of history at the University of South Carolina in Columbia. He is co-author of <title>The American South: A History</title>, published in 1991.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3009" n="Changing Appalachia" type="Review">
+        <div2 id="sc15-3009" n="7" type="Review">
           <head>Changing Appalachia</head>
           <byline>Reviewed by <docAuthor><name reg="Stanley, Tal" type="person">Tal Stanley</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 32-35</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 32-35</docDate>
           <bibl><title>Fighting Back in Appalachia:
 Traditions of Resistance and Change</title>, edited by Stephen
 L. Fisher (Temple University Press, Philadelpia, 1993, 365 pages).</bibl>
@@ -689,10 +697,10 @@ us one of those glimpses. </p>
             <p>A native of Southwest Virginia, Tal Stanley is at Emory University studying American regionalism in the context of Appalachia.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3010" n="Notable Re-releases" type="Review">
+        <div2 id="sc15-3010" n="8" type="Review">
           <head>Notable Re-releases</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 35-36</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 35-36</docDate>
           <p><title>Willie Mae</title>, by Elizabeth Kytle, has been
 re-issued again, this time by the University of Georgia Press. First
 published in 1958, an earlier re-release of this book about a black
@@ -731,10 +739,10 @@ which they run across. </p>
             <p>Leslie Dunbar, now a resident of Durham, N. C, is the former book review editor of <title>Southern Changes</title> and a life fellow of the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc15-3011" n="Living Out Here" type="Review">
+        <div2 id="sc15-3011" n="9" type="Review">
           <head>Living Out Here</head>
           <byline>Reviewed by <docAuthor><name reg="Howard, John" type="person">John Howard</name></docAuthor></byline>
-          <docDate value="1993-09-01">Vol. 15, No. 3, 1993, pp. 36-39</docDate>
+          <docDate value="1993-09">Vol. 15, No. 3, 1993, pp. 36-39</docDate>
           <bibl><title>Greetings from Out Here</title> by
 Ellen Spiro (1993, 57 mins., video Data Bank, School of the Art
 Institute of Chicago, 37 South Wabash Ave., Chicago, IL 60603).</bibl>

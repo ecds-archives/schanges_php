@@ -51,6 +51,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc24-1-21205">
@@ -59,10 +67,10 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         <head>Southern Changes.  Volume 24, Number 1-2,
 	    2002</head>
         <p><title>Southern Changes.</title> Volume 24, Number 1-2, <date value="2002-03-01">2002</date></p>
-        <div2 id="sc24-1-2002" n="Legacy of Violence" type="Article">
+        <div2 id="sc24-1-2002" n="1" type="Article">
           <head>Legacy of Violence</head>
           <byline>By <docAuthor><name reg="Johnson, Wendy" type="person">Wendy Johnson</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 p. 3</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 p. 3</docDate>
           <p>Between 1882 and 1968, 4,743 Americans are known to have been
 victims of the terrible and violent crime of lynching. A recent article in the <hi rend="italic">Atlanta Journal Constitution</hi> defined the word lynching as "an illegal death at the hands of a group acting under pretense of service, race or tradition." More than 70 percent of those who lost their lives to a violent and unchecked mob in the name of preserving "tradition" were black. The allegations for which lynchings were carried out include such shockingly innocent acts as "being obnoxious," "insolence," "trying to vote,"  "suing a white man," "frightening a white woman," and "acting suspiciously." The very word--lynching--was a feared and hateful term and it continues to strike fear in many African Americans who can clearly remember acts of racial violence committed for breaches of "tradition." </p>
           <p>This brand of terrorism enjoyed a perverse popularity especially in the seat of the former confederacy where four out of five lynchings occurred. Mississippi and Georgia sowed the most violence, recording more than five hundred lynchings each. Nearly 93 percent of lynchings in these two states were committed against African Americans. Texas ranks third with 493 lynchings.  </p>
@@ -79,11 +87,11 @@ remembrance and reconciliation.  The challenge offered by the <hi rend="italic">
             <p>Wendy Johnson is executive director of the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2003" n="Return to Sender: Confronting Lynching  and Our Haunted Landscapes" type="Article">
+        <div2 id="sc24-1-2003" n="2" type="Article">
           <head>"Return to Sender"<lb/>Confronting Lynching 
 and Our Haunted Landscapes</head>
           <byline>By <docAuthor><name reg="Auslander, Mark" type="person">Mark Auslander</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 4-7</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 4-7</docDate>
           <p>Last year, I took a walk in the woods with a friend, an African-American man in his fifties whom I will call "James." We had been seeking traces of an old slave cemetery, in which James had good reason to believe some of his ancestors were buried. Deep in the forest, he pointed out an old, gnarled oak that he was convinced marked the outer boundary of the graveyard. Finding this aged landmark was a relief, but a few minutes later, as we started back down the path, James paused and commented on the tree in different, more somber tones:</p>
           <p rend="italic">That tree'll talk to you if stand out here in the dark. You'll hear that Negro crying out to you, man. Can't you hear?...Shoot. Look at that tree man. That's an ugly tree. You never see limbs like that nowadays. That tree was bred for it. They just threw the rope up and pulled it up. Like this here, they just bring 'em here, hang 'em and throw 'em down in that pit. Shoot. You think that tree don't know? Look at them limbs here. You don't see limbs growing down like that. There been some dead folk here.</p>
           <p>The same tree that moments earlier had positively revealed to him one set of buried secrets, about an honored slave cemetery, becomes a dark, ominous figure, hinting at nocturnal lynching parties.</p>
@@ -144,14 +152,14 @@ For more information about the Moore's Ford Memorial Committee, visit: www.moore
 The Without Sanctuary exhibit is housed at the Martin Luther King, Jr. National Historic Site in Atlanta, Georgia, from May 1 through December 31, 2002. For more information on the exhibit and accompanying community events, visit: www.nps.gov/malu.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2004" n="Communities Lifting the Veil of Silence" type="Article">
+        <div2 id="sc24-1-2004" n="3" type="Article">
           <head>Communities Lifting the Veil of Silence</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 8-9</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 8-9</docDate>
           <p rend="center">
             <hi rend="bold">The 1898 Foundation, Wilmington, NC</hi>
           </p>
@@ -182,10 +190,10 @@ Rosewood, FL</hi>
 years until reporter Gary Moore published the story in the <hi rend="italic">St. Petersburg Times</hi>. Survivors and their family members soon after founded the Rosewood Family Reunion in Lacoochee, Florida. In 1994, the former African-American residents of Rosewood and their family members became the recipients of the first restitution payments for a racial riot. The state paid $150,000 to each survivor and the Rosewood Scholarship Fund was established.</p>
           <p>Since that time, survivors and their family members have been working to educate others about the events of the Rosewood Massacre and their relation to racial justice in the United States. Rosewood Bus Tours has carried more than 7,300 student, military group, family, church, and community groups on an educational journey through Rosewood. With Florida Humanities Council funding, the Rosewood Traveling Exhibit was designed. And "Rosewood," produced by Warner Brothers was released in 1997, providing a Hollywood version of the story to a broad national audience. To learn more about the Rosewood Heritage Foundation, visit: www.displaysforschools.com/rosewood.html.</p>
         </div2>
-        <div2 id="sc24-1-2005" n="Marge Baroni: The Awakening of Activism" type="Article">
+        <div2 id="sc24-1-2005" n="4" type="Article">
           <head>Marge Baroni: The Awakening of Activism</head>
           <byline>By <docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 9-12</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 9-12</docDate>
           <p>Marjorie Rushing Baroni (1942-1986) was in many ways an ordinary Southern woman of the last century. A housewife and resident of Natchez, Mississippi, she was neither wealthy nor famous. She was not killed in the civil rights days, nor were members of her family. She was willing, however, to live what she believed about the dignity of all people. She was an ordinary person who took an extraordinary stance for her time and paid a social and personal price for the rest of her life. </p>
           <p>The daughter of poor, white, Mississippi sharecroppers and the mother of six children, Marge Baroni departed from her cultural upbringing to become a civil rights activist in one of the most active Ku Klux Klan areas in Mississippi.   By living her faith in God's equal love for all races, she endangered herself and her family and was ostracized by white society--including relatives, friends, co-workers, and members of her Catholic parish.</p>
           <p>Books like <hi rend="italic">Local People: The Struggle for Civil
@@ -268,10 +276,10 @@ light to the blind!"	</p>
             <p rend="bold">Sullivan continues to piece together Marge Baroni's story and would appreciate hearing from anyone who can add additional information (write to Susan Stevenot Sullivan    c/o Southern Changes at 133 Carnegie Way, NW, Suite 900, Atlanta, GA 30303)</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2006" n="Race and Redistricting: Myths, Truths, and Facts" type="Article">
+        <div2 id="sc24-1-2006" n="5" type="Article">
           <head>Race and Redistricting: Myths, Truths, and Facts</head>
           <byline>By <docAuthor><name reg="Cox, Todd A." type="person">Todd A. Cox</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 13-14</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 13-14</docDate>
           <p>Federal court decisions regarding redistricting over the past several years have caused some to question how district line drawers can create redistricting plans that will provide all voters equal opportunity to elect candidates of choice. Since Shaw v. Reno, the courts have clarified the criteria for drawing district lines and made it clear that race can be a factor in redistricting and these clarifications have supported lawmakers and grassroots organizers who sought redistricting plans that allow fair representation for minorities in many states and localities since 2000. </p>
           <p>But, the process of redistricting is not complete throughout the South. States like Louisiana and North Carolina are still developing plans and, more importantly, countless communities across the South have yet to draw new city council, county commissioner, and school board plans. For this reason, it is imperative that local activists supporting fair representation for minorities are well informed of the role which race may play in redistricting. Line drawers may still try to argue against creating districts that fairly reflect minority voting strength. These arguments will essentially be based on myths about the role of race in redistricting. In order to advocate for the creation of fair redistricting plans, be prepared to debunk these myths.</p>
           <p><hi rend="bold">Myth</hi>: Race cannot be considered during redistricting.</p>
@@ -318,14 +326,14 @@ participate in the political process.</p>
             <p>Todd A. Cox is an Assistant Counsel with the Washington, D.C. office of NAACP Legal Defense and Educational Fund. For more information about its political participation program or to request copies of publications, call: 1-800-221-7822.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2007" n="Lillian Smith Book Awards" type="Article">
+        <div2 id="sc24-1-2007" n="6" type="Article">
           <head>Lillian Smith Book Awards</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 15-17</docDate>
           <p rend="italic">Each year, the Southern Regional Council hosts the Lillian Smith Book Awards in honor of the most liberal and outspoken of white mid-twentieth century Southern writers. In works such as Strange Fruit (1944) and Killers of the Dream (1949), Lillian Smith wrote boldly on issues of social and racial justice, calling persistently for an end to segregation. The Smith Awards honor authors today who, through their writing, carry on Smith's legacy of illuminating the condition of racial and social inequity and proposing a vision of justice and human understanding.</p>
           <p rend="italic">The 2001 Smith Awards honored the works of four writers. Pam Durban received the fiction award for <title>So Far Back</title> (New York: Picador USA, 2000). Natasha Trethewey received the poetry award for <title>Domestic Work</title> (Saint Paul: Graywolf Press, 2000). Hal Crowther received the non-fiction award for <title>Cathedrals of Kudzu: A Personal Landscape of the South</title> (Baton Rouge: Louisiana State University Press, 2000). Robert P. Moses received a special lifetime achievement award, recognizing his years of civil rights service in the Mississippi Delta and Boston as well as his book, co-authored with Charles E. Cobb, <title>Radical Equations: Math Literacy and Civil Rights</title> (Boston: Beacon Press, 2001). Following are excerpts from Durban, Trethewey, and Crowther's acceptance speeches and a review of Moses and Cobb's <title>Radical Equations</title>.</p>
           <p rend="bold">
@@ -413,10 +421,10 @@ reminds us that words are not mere playthings, <pb n="17"/>nor are they pure sou
             <p>"Drapery Factory, Gulfport, Mississippi, 1956" Copyright 2000 by Natasha Trethewey. Reprinted from Domestic Work with the permission of Graywolf Press, St. Paul, Minnesota.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2008" n="RADICAL GIFT" type="Review">
-          <head>RADICAL GIFT</head>
+        <div2 id="sc24-1-2008" n="7" type="Review">
+          <head>Radical Gift</head>
           <byline>Reviewed by <docAuthor><name reg="Moye, J. Todd" type="person">J. Todd Moye</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 18-19</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 18-19</docDate>
           <bibl>Robert P. Moses and Charles E. Cobb, Jr., <title>Radical Equations: Math Literacy and Civil Rights.</title> Boston: Beacon Press, 2001. With a foreword by David Dennis.</bibl>
           <p>You may not know it, but as you read this Ella Baker, Amzie Moore, and Fannie Lou Hamer are teaching kids to use complex graphing calculators in Cambridge, Massachusetts; Indianola, Mississippi; and Chicago, Illinois.</p>
           <p>Well...not quite. But Bob Moses and Dave Dennis, veterans of the Mississippi Civil Rights Movement of the 1960s, have used the organizing techniques and concepts they learned from Baker, Hamer, Moore, and others to teach lessons in math and citizenship to more than 40,000 underserved schoolchildren. Their Algebra Project is a community-organizing effort disguised as a school reform program. </p>
@@ -459,10 +467,10 @@ the new century.</p>
             <p>J. Todd Moye is the director of the National Park Service's Tuskegee Airmen Oral History Project.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2009" n="Recurring Deaths" type="Review">
+        <div2 id="sc24-1-2009" n="8" type="Review">
           <head>Recurring Deaths</head>
           <byline>Reviewed by <docAuthor><name reg="Anderson, Brenda" type="person">Brenda Anderson</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 20-21</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 20-21</docDate>
           <bibl>Randolph Loney, <title>A Dream of the Tattered Man: Stories from Georgia's Death Row</title>, Grand Rapids: Wm. B. Eerdsmans Publishing Company, 2001. With a Foreword by Will D. Campbell.</bibl>
           <p>In <title>A Dream of the Tattered Man</title>, Randolph Loney sheds light on what has been a dark and abandoned ghetto in our criminal justice system today: death row. Loney's book is a stirring account of what he has witnessed as a frequent visitor of Georgia's death row. He unlocks the gate to the reality underneath our superficial understanding of the death penalty through his experiences visiting death row inmates in the Georgia Diagnostic and Classification Prison near Jackson. Loney, a liberal minister and social activist who lives in rural Georgia, breaks the barrier our society encloses around convicted criminals by giving us an opportunity to get to know the human behind the criminal, something that otherwise our society would sadly overlook. By writing about the relationships with his friends on death row, Loney gives a voice to a deeper side of the story that is unfortunately suppressed and ignored.</p>
           <p>The book's title is taken from Loney's recurring dream from which he feels the "tattered" man that appears in it is a reflection of himself. Loney views the tattered man as an inner darkness in him and as representing feelings of shame. He expresses his frustration and shame with the death penalty system that we, as a society, embrace. Aside from the brutality behind the death penalty, Loney argues that the death penalty is unfairly applied, only targeting the powerless. Loney's seriousness and dedication in providing the weak with support is evident in his commitment to Georgia's death row inmates. He stresses the need for embracing the "least" of those in our communities, instead of executing them. </p>
@@ -500,10 +508,10 @@ her senior year. Originally from Laredo, Texas, Anderson plans to
 attend law school.</p>
           </div3>
         </div2>
-        <div2 id="sc24-1-2010" n="Justice Under Law" type="Review">
+        <div2 id="sc24-1-2010" n="9" type="Review">
           <head>Justice Under Law</head>
           <byline>Reviewed by <docAuthor><name reg="Bass, Jack" type="person">Jack Bass</name></docAuthor></byline>
-          <docDate value="2002-03-01">Vol. 24, No. 1-2, 2002 pp. 21-22</docDate>
+          <docDate value="2002-03">Vol. 24, No. 1-2, 2002 pp. 21-22</docDate>
           <bibl>Frank M. Johnson, <title>Defending Constitutional Rights</title>, Edited by Tony A. Freyer, Athens: University of Georgia Press, 2001.</bibl>
           <p> In this slender volume, Tony Freyer characterizes Judge Frank M. Johnson, Jr. as "a unique figure in American history" and provides a useful collection of Johnson's own articles, articulating his vision of justice based on law. This collection augments four biographies (one by this reviewer) of a federal trial judge unsurpassed in his impact for shaping Constitutional principles and expanding the civil rights of all Americans.</p>
           <p>"Intellectual acuity conditioned by life experience shaped

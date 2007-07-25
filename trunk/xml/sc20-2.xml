@@ -50,6 +50,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc20-21203">
@@ -57,12 +65,12 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc20-2001" n="Southern Changes 20:2" type="Issue">
         <head>Southern Changes.  Volume 20, Number 2, 1998</head>
         <p><title>Southern Changes.</title>  Volume 20, Number 2,
-	       <date value="1998-06-01">1998</date></p>
-        <div2 id="sc20-2002" n="Rethinking Race and Poverty  in the Global South" type="Article">
+	       <date value="1998-06">1998</date></p>
+        <div2 id="sc20-2002" n="1" type="Article">
           <head>Rethinking Race and Poverty
  in the Global South</head>
           <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998 pp. 3-4</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 3-4</docDate>
           <p>The borders of the South are collapsing. The forces of globalization are reconfiguring demographics, workplaces, and-not just in Miami or Atlanta, but in Tunica, Mississippi; Big Stone Gap, Tennessee; and Kannapolis, North Carolina.</p>
           <p>Among the most significant of these changes regards race: increasingly, we no longer confront a singular divide between Black and white, but a multivalent complex of "new" and "old" races. People from diverse nations and cultures are relocating to the South; those from Spanish-speaking countries find themselves newly identified as "Latino," and are the fastest growing minority in many areas. Others from the many nationalities and ethnicities of Asia further diversify the racial demographics of some states, becoming "Asian American."</p>
           <p>This is not to suggest that the historic legacy of African-American exploitation and poverty is no longer significant; quite the opposite. The new racial configurations could undermine Black voting strength and the fragile political coalitions that have been built in some areas. They threaten to inflame overt racial antagonism among white Southerners as well as Black, who see their neighborhoods and workplaces increasingly populated with new racial groups, especially Latinos. They raise difficult political questions about who should be eligible for minority set-aside programs, affirmative action, and other race-specific remedies that were designed to address African-American disfranchisement and dispossession.</p>
@@ -96,7 +104,7 @@ is upon us. What will we make of it?</p>
             <p>Barbara Ellen Smith is director of the Memphis Center on Women at the University of Memphis.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2003" n="One in Three Poor Children in America Lives in the South" type="Article">
+        <div2 id="sc20-2003" n="2" type="Article">
           <head>One in Three Poor Children in America
 Lives in the South</head>
           <byline>
@@ -104,7 +112,7 @@ Lives in the South</head>
               <name reg="Children's Defense Fund" type="person">Children's Defense Fund</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998 pp. 5-9</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 5-9</docDate>
           <p><hi rend="bold">Memphis, Tennessee</hi> - Despite a booming national economy and budget surpluses in fifteen Southern states (Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia) a new Children's Defense Fund report reveals that one-fourth of Southern children (5.5 million) remain poor. Half of them-2.6 million-live in extreme poverty with family incomes below half the federal poverty line. This means a family of three has to survive on cash income below $120 a week or $5.75 a person a day. </p>
           <p>"This is not enough to feed, clothe, house, and educate a child," said CDF President Marian Wright Edelman at an action forum on Children, Race &#x0026; Poverty held May 4-5 at the National Civil Rights Museum in Memphis where Dr. King was assassinated in 1968.</p>
           <p>"It is shameful that thirty years after Dr. King spent his final days fighting for better jobs, wages, education, and health care for children and families, child poverty rates in the South remain the same: 22.3 percent. Equally disturbing is the fact that the rest of the nation is 'catching up' with the South."</p>
@@ -190,14 +198,14 @@ reliance on social services; and are exposed to problems like lead
 poisoning and family breakdown that in turn contribute to future
 crime.	</p>
         </div2>
-        <div2 id="sc20-2012" n="Corridor of Change: Rob Amberg Photographs the Coming of I-26" type="Article">
+        <div2 id="sc20-2012" n="3" type="Article">
           <head>Corridor of Change: Rob Amberg Photographs the Coming of I-26</head>
           <byline>
             <docAuthor>
               <name reg="Gray, Samuel" type="person">Samuel Gray</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998 pp. 10-13</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 10-13</docDate>
           <p>In 1994, the state of North Carolina began construction of a seven-mile section of road in northeastern Madison County, North Carolina, that will eventually complete an Interstate highway link (I-26) between the Ohio Valley and the South Atlantic Coastal region. The completed highway will be a twenty-first century version of an ancient trans-montane corridor that possesses abiding historical significance. On the North Carolina side of the  mountains, the route joins the legendary "Drovers Road," the early nineteenth century trading path that connected Western North Carolina and East Tennessee mountains to low-country markets. </p>
           <p>At that time, the road followed the fabled French Broad River in a tortuous route that was subject to scouring by flood waters every few years. In the Civil War era, this region was the scene of numerous atrocities and skirmishes that characterized a complex border region at war. Located in the geographic heart of the Confederacy, the mountain farmers of western North Carolina and eastern Tennessee possessed few slaves and scant sympathies for the Southern cause. The result was a bloody war within the greater war that left indelible scars on the mountain communities.</p>
           <p>In the later 1800s, the region's scenic beauty attracted tourists arriving by train and stagecoach from Atlanta, Charlotte, Raleigh, and Richmond, who were as often entranced by the "otherness" of the southern mountaineers as by the scenery. Travel descriptions of the gracious hotels and rugged country north of Asheville became a popular literary genre around the turn of the century. The tourists were followed by missionary ladies and folklorists. The rural, isolated quality of these predominantly Scotch-Irish communities made the area a rich trove of traditional craft, music, and story from the settlement period to the present. Francis Goodrich, a teacher from Ohio, organized the first of many cottage industry cooperatives for mountain craftswomen at Allan's Stand along the Drovers Road in 1895. Cecil Sharpe first collected ballads in the area in 1916. He documented a folk music tradition that stretched back into eighteenth century England and continues to thrive today.</p>
@@ -206,10 +214,10 @@ crime.	</p>
           <p>In 1993, the Museums' Cooperative Committee of the Appalachian Consortium, a regional educational organization, began to discuss the dramatic changes taking place along the I-26 Corridor. The committee, consisting of representatives from various Southern Appalachian regional museums, undertook the project of documenting, wherever possible, the impact of the road on the families and communities in its path. The committee began working with photographer and local resident Rob Amberg, as well as Mars Hill College students and area residents to produce a video, still photography, and oral histories of the road. </p>
           <p>The goal of this undertaking is to record the sequential events along the construction right-of-way and their effects on the communities and people in its path. A second aim is to initiate a dialogue among regional historians, humanists, planners, and people of the local communities about the consequences of Interstate Highway development on indigenous rural cultures in order to bring into focus the shifting definitions of progress, regional identity, land use, spiritual values, and tradition.</p>
         </div2>
-        <div2 id="sc20-2006" n="Colorblind Injustice: Overcoming Shaw" type="Article">
+        <div2 id="sc20-2006" n="4" type="Article">
           <head>Colorblind Injustice: Overcoming Shaw</head>
           <byline>By <docAuthor><name reg="Kousser, J. Morgan" type="person">J. Morgan Kousser</name></docAuthor></byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 14-16, 22</docDate>
           <p>Students in history classes often confuse memorable events with important causes. Even those born long after the 1965 Selma-to-Montgomery march tend to make it the center of any discussion of the growth of post-Second World War African-American political power. It is a gripping event, featured in television documentaries, spotlighted in textbooks, easily discussed in class. There is violence, which always holds our attention; memorable protagonists, Martin Luther King, Jr., and Alabama governor George C. Wallace; a huge supporting cast, from nationwide civil rights advocates converging on Montgomery to Alabama State Troopers, Klansmen, and ordinary citizens, Black and white; a great, now consensual cause, the reenfranchisement of Black citizens illegally denied the vote for more than sixty years; a joyous climax, with King's speech before a sea of avid faces standing in streets that had witnessed the epochal bus boycott less than a decade earlier; and a triumphant denoument in Washington a few months later, with the passage of the Voting Rights Act.</p>
           <p>In fact, Selma was not the end of the twentieth century struggle to
 gain equal political power for minorities, but more nearly the beginning. It was not the dusk of the dark day of racism, but rather only the first light of a new era, one in which the battle had to be continued, long after the cameras and spotlights had been cleared away, in the workday activities of organizing, campaigning, litigating, and legislating against the still formidable legal and social barriers to equality. It is such subtle barriers and often overlooked or downplayed struggles, I contend in my new book, <hi rend="italic">Colorblind Injustice: Minority Voting Rights and the Undoing of the Second Reconstruction</hi>, that have primarily shaped the course of race relations in America.</p>
@@ -273,10 +281,10 @@ Selma, and this time, there was no televised confrontation to capture attention 
             <p>J. Morgan Kousser is Professor of History and social Science at Caltech in Pasadena. He has served as an expert witness in nineteen federal voting rights cases. His forthcoming book, Colorblind Injustice, will be published by the University of North Carolina in January 1999.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2007" n="Voting Rights On Trial Again in Alabama" type="Article">
+        <div2 id="sc20-2007" n="5" type="Article">
           <head>Voting Rights On Trial Again in Alabama</head>
           <byline>By <docAuthor><name reg="Braden, Anne" type="person">Anne Braden</name></docAuthor></byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 17-18</docDate>
           <p>Connie Tyree is a thirty-six-year-old single mother and grandmother in Greene County, Alabama, who cares for three children and is a volunteer community activist. In 1994, she helped 249 absentee voters cast their ballots.</p>
           <p>This year, Tyree cannot help anybody vote, and she cannot even vote herself. Instead, after years of community service untouched by any trouble with the law, she faces thirty-three months in prison; she was convicted in federal court in Birmingham of conspiracy to commit voter fraud. She is free now on bond, pending appeal, but a court order bars her from election activity.</p>
           <p>Tyree is a victim of a new attack against activists working for voting rights and fair representation for African Americans in the Alabama Black Belt. Twelve people have been indicted-eight in Greene County, and two each in Wilcox and Hale counties. These are Black-majority counties, where African Americans have won control of local governing bodies.</p>
@@ -315,15 +323,15 @@ covered the trial for the <hi rend="italic">Greene County Democrat</hi>, a Black
             <p>Anne Braden is co-chair of the Southern Organizing Committee for Economic and Social Justice (SOC) and a Life Fellow of the Southern Regional Council. She was deeply involved in the defense of Black Belt voting rights in the 1980s.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2008" n="Grand Opening: The Mississippi Sovereignty Commission" type="Article">
+        <div2 id="sc20-2008" n="6" type="Article">
           <head>Grand Opening:
 The Mississippi Sovereignty Commission</head>
-          <byline>
+          <byline>By 
             <docAuthor>
-              <name reg="Minor, Bill" type="person">by Bill Minor</name>
+              <name reg="Minor, Bill" type="person">Bill Minor</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998 pp. 20-22</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 20-22</docDate>
           <p>Mississippi recently had a Grand Opening. The grand opening of what? The old state Sovereignty Commission files, of course. </p>
           <p>Many in the news profession have been itching to get their hands on the whole sorry mass of tomfoolery the old state segregation watchdog agency was up to during its seventeen years of existence from 1956 to 1973. </p>
           <p> used to refer to it as the "KGB of the cotton patches" because of the way its agents went around spying on a lot of poor Black folks, many not long from the farm, if they bucked the system of white mastery. Of course, they also spied on some white folks as well, and doted on tracking anybody who came down from Yankee-land to "sow discord" among our happy Black folks. </p>
@@ -363,7 +371,7 @@ changed radically, however, after the 1954  <hi rend="italic">Brown v. Board of 
           <p>The Sovereignty Commission was finally put out of business in 1973
 when Gov. Bill Waller vetoed its appropriation, ending another sordid
 chapter of Mississippi history.</p>
-          <div3 id="sc20-2013" n="Alabama's Segregationist Agency's Files   Still Closed" type="Sidebar">
+          <div3 id="sc20-2013" type="Sidebar">
             <head>Alabama's Segregationist Agency's Files
   Still Closed</head>
             <p>From <title>Montgomery Advertiser</title>, March 23,
@@ -425,10 +433,10 @@ Mississippi journalist Bill Minor helped bring the
 nation's attention to the civil rights movement, Southern injustices, and corruption. Bricks and bullets shattered the windows and a cross was burned at the <title>Capitol Reporter</title> office, the weekly paper he owned in Jackson, after he published articles detailing the Klan's resurgence and influence in state government. (For more about Minor, see "Eyes on Mississippi" in the August/September 1992 <title>Southern Changes</title>.)</p>
           </div3>
         </div2>
-        <div2 id="sc20-2009" n="Walking the Walk" type="Review">
+        <div2 id="sc20-2009" n="7" type="Review">
           <head>Walking the Walk</head>
           <byline>Reviewed by <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998 pp. 23-25</docDate>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 23-25</docDate>
           <p>John Lewis with Michael D'Orso, <hi rend="italic">Walking With the Wind: A Memoir of the Movement</hi>, New York: Simon &#x0026; Schuster, 1998.</p>
           <p>David Halberstam, <hi rend="italic">The Children</hi>, New York: Random House, 1998.</p>
           <p>For readers who view the modern Black freedom struggle largely
@@ -472,11 +480,11 @@ public lives of his characters is perhaps <hi rend="italic">The Children's</hi> 
             <p>David J. Garrow, Presidential Distinguished Professor at Emory University, is the author of the Pulitzer Prize-winning biography <title>Bearing the Cross</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc20-2011" n="Listeners Respond to Will The Circle Be Unbroken?" type="Article">
+        <div2 id="sc20-2011" n="8" type="Article">
           <head>Listeners Respond to
 Will The Circle Be Unbroken?</head>
-          <byline>Introduction by <docAuthor><name reg="Lee,         Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
-          <docDate value="1998-06-01">Vol. 20, No. 2, 1998</docDate>
+          <byline>Introduction by <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
+          <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 26-28</docDate>
           <p>"Without a doubt, this was the most impressive radio program I've
 ever heard," writes a listener from Fort Myers, Florida, about the
 Southern Regional Council's radio series <title>Will the
@@ -556,11 +564,11 @@ I  can see this program taken further with the addition of visuals
           <p>P.S.: The commentator is very good</p>
           <p>S. M.L. B.</p>
         </div2>
-        <div2 id="sc20-2017" n="Reversal of Policy: SCETV Shows The Uprising of 34" type="Article">
+        <div2 id="sc20-2017" n="9" type="Article">
           <head>Reversal of Policy:
 SCETV Shows "The Uprising of '34"</head>
           <byline>By <docAuthor><name reg="Terrill, Tom" type="person">Tom Terrill</name></docAuthor></byline>
-          <docDate>Vol. 20, No. 2, <date value="1998-06-01">1998</date> p. 30</docDate>
+          <docDate>Vol. 20, No. 2, <date value="1998-06">1998</date> p. 30</docDate>
           <p>In a reversal of its 1995 decision, South Carolina Educational Television finally aired the award-winning  film, "The Uprising of '34" on June 2.  During a pre-recorded panel discussions after the airing George Stoney, co-producer of the film, James Morris, executive director of the South Carolina Manufacturer's  Alliance, and Thomas Terrill, professor of history at the University of South Carolina and a consultant on the film talked about the response evoked by the film in Southern mill communities.</p>
           <p>The School of Journalism at University of South Carolina, in cooperation with the Department of History and Media  Arts, conducted a symposium on the film on June 3 for students, faculty, and the public. Group viewings of the film are also planned.</p>
           <p>Recent changes at SCETV are probably what made the June telecast

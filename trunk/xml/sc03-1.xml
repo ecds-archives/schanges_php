@@ -50,17 +50,25 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc03-11203">
     <body id="sc03-11202">
       <div1 id="sc03-1001" n="Southern Changes 3:1" type="Issue">
         <head>Southern Changes. Volume 3, Number 1, 1980</head>
-        <p><title>Southern Changes</title>. Volume 3, Number 1, <date value="1980-12-01">1980</date></p>
+        <p><title>Southern Changes</title>. Volume 3, Number 1, <date value="1980-12">1980</date></p>
         <div2 id="sc03-1002" n="1" type="Article">
           <head>Changing the Politics of Bitterness</head>
           <byline>By <docAuthor><name reg="Jordan, Vernon" type="person">Vernon Jordan</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, p. 3</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, p. 3</docDate>
           <p>The year 1980 was when we saw the
 growth of politicized religion&#x2014;a heady mixture of
 fundamentalist gospel with extreme right wing political ideology. It
@@ -128,7 +136,7 @@ Regional Council.</p>
         <div2 id="sc03-1003" n="2" type="Article">
           <head>1981 Alabama and Georgia Legislatures: Revenue and Spending Top Priorities</head>
           <byline>By <docAuthor><name reg="Deveaux, Clint" type="person">Clint Deveaux</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 4-5</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 4-5</docDate>
           <p>Lawmakers in Alabama generally agreed with legislative activists in their state on the issues likely to be key during the 1981 legislative session. Topping the list of major concerns are: education, taxation and spending priorities, community development and unemployment and reapportionment. The Alabama legislature convenes Tuesday, February 3, 1981.</p>
           <p>A revenue shortfall for Alabama's Special Education Trust Fund combined with an increasingly inadequate state-local funding formula has generated heated debate about education priorities. Only Mississippi and Georgia spent less per pupil on elementary and secondary education than Alabama, according to National Education Association estimates for 1978-79, and Alabama's local communities shared less of the public education budget than the local communities of any state except Alaska, Hawaii, Kentucky and New Mexico.</p>
           <p>The trend toward earmarking of specific taxes for particular expenses has compounded Alabama education's financial problems. As economic conditions have worsened and as tax and spending limitations have been adopted, revenue collections from taxes designated for the Trust fund have not grown at a rate adequate to meet Alabama's educational needs. The current year's educational expenditures are being reduced by 7 percent across the board.</p>
@@ -170,7 +178,7 @@ days later will anyone know if the planned agendas survive.</p>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, p. 5</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, p. 5</docDate>
           <p>State legislators in Alabama and Georgia are often frustrated by the lack of support services. House members in the two states have only their desks on the chamber floors as offices. The combined salary and expense allotments are so low that hiring research staff is prohibitive and indeed many legislators serve at a considerable financial and business sacrifice. These circumstances prove so frustrating that the Speaker of Georgia's House has publicly lamented that qualified young Georgians simply can't afford to stay in the legislature.</p>
           <p>This is the frustration that generated the Southern Regional Council's new project, the Southern Legislative Research Council. It will provide research, analysis and general staff to twenty-five to thirty legislators in Alabama and in Georgia. The goal is to provide the help that is otherwise not provided and thus to show the great potential for more effective legislators when they have individual staff. Lawmakers served will be those who are most directly concerned with the needs of Black and poor Georgians and Alabamians.</p>
           <p>Former Georgia state legislator, Clint Deveaux directs the project. The staff includes Virginia Montes, research coordinator; Andrew Hall, research analyst and Vicki German, secretary. Interns, four in each state, will assist the staff during the legislative sessions. A panel of experts and resource people knowledgeable in priority areas will be available to provide information, legislative drafting assistance and testimony before legislative committees. The project will also distribute a newsletter as often as twice weekly to keep its legislative "clients" and others up to date on legislation.</p>
@@ -196,7 +204,7 @@ constituency's interests with the project's assistance.</p>
               <name reg="Chaney, Betty Norwood" type="person">By Betty Norwood Chaney and Steve Suitts</name>
             </docAuthor>
           </byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 6-8, 22-23</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 6-8, 22-23</docDate>
           <p>Because no one before or since his death is remembered by Blacks
 with as much reverence as Dr. Martin Luther King, Jr., his ideals have
 become the political yardsticks by which the activity of others is
@@ -753,7 +761,7 @@ of racism (if not usually considerably more), the yardstick for more and more Bl
         <div2 id="sc03-1008" n="5" type="Article">
           <head>Southern Republicans for a Change</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 10-13</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 10-13</docDate>
           <p>As deeply conservative Republican candidates began to celebrate
 their victories to the local bands' tunes of "When the Saints Come
 Marching In" and "Dixie" late evening November 4 and early morning
@@ -849,7 +857,7 @@ and the country's permit.</p>
         <div2 id="sc03-1009" n="6" type="Article">
           <head>Conservative Republicans Take Washington Seats</head>
 <byline>By <docAuthor><name reg="Staff" type="person">Staff</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, p. 14</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, p. 14</docDate>
           <p>Nine of the more than thirty new Republican seats in the U.S. House of Representatives will come from the South as a result of the November general election. While maintaining their 24 present House seats among the Southern delegations, Republicans also have gained four U.S. Senate seats from North Carolina, Florida, Georgia, and Alabama.</p>
           <p>Southern Democrats suffered a hard right swing from voters who aimed their harshest blows at moderate Democratic representatives. One-third of the South's Democratic representatives whose voting records in any way favored civil rights, civil liberties, labor, and liberal groups was defeated by the conservative Republicans. In all congressional elections where Southern Democratic incumbents were not to return to Congress because of defeat in the primary or retirement, Republicans won. All newly elected congressmen ran on a platform more conservative than their predecessor's.</p>
           <p>Those U.S. Representatives who served in the last Congress and won't be returning to Washington from the South because of defeat at the polls are listed below with ratings on their voting records from 1978 and 1980 by civil rights, civil liberties, labor, and liberal groups.</p>
@@ -1118,7 +1126,7 @@ in 1978 session.</hi>
         <div2 id="sc03-1010" n="7" type="Article">
           <head>South Carolina Senate Remains Totally White</head>
           <byline>By <docAuthor><name reg="Derfner, Mary Frances" type="person">Mary Frances Derfner</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 14-15, 22</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 14-15, 22</docDate>
           <p>"It's about time we elected a Black State Senator," declared the posters and the handouts on the street. Many South Carolinians, both Black and White, agreed that Bill Saunders, Charleston broadcasting executive and director of the Committee on Better Racial Assurance (COBRA), a human services agency, should become South Carolina's first Black state senator since Reconstruction. Saunders's record included voter registration drives in the 1950s, original membership on the State Human Affairs Commission, work as principal mediator in the 1969 Charleston hospital strike, and extensive service on task forces and committees working on problems of youth, the elderly and handicapped, health care, education, economic development and crime. As Director of COBRA, a group designed in part to establish a bridge between Charleston's Black and White communities, Saunders had worked with all elements of Charleston and Georgetown Counties, and seemed an ideal candidate.</p>
           <p>Saunders won the hotly contested June primary and runoff elections and became the Democratic nominee for State Senate Seat 1, Charleston and Georgetown Counties, with the support of what he describes as "one of the best coalitions ever put together in Charleston," involving "the whole nine yards" of the population. Active in the Saunders campaign were South Carolina Governor Richard Riley, Charleston local businessmen and civic leaders, and, says Saunders, more people who gave $2 and $5 contributions than were involved in any campaign of its size in local history. Despite this broadbased support, Bill Saunders lost to Charleston County Republican Party Chairman Glenn McConnell, receiving slightly less than 46 percent of the district wide vote.</p>
           <p>Local Republican and Democratic party officials cite the "coattail
@@ -1163,7 +1171,7 @@ to claim: "It's about time we elected a Black State Senator."</p>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, p. 15</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, p. 15</docDate>
           <p>Early precinct returns from across the South show that Blacks went to the polls in record numbers on November 4 to give Jimmy Carter 80-90 percent of their votes. Also, Southern Black voters apparently turned out in greater numbers and voted more consistently for Carter than Blacks in the rest of the nation.</p>
           <p>Breaking at least a 12 year trend, more than 65 percent of the registered Black voters may have turned out in both urban and rural areas in the region to cast their ballots. In places such as Birmingham (Ala.), Jacksonville (Fla.), and Baton Rouge (La.), predominantly Black precincts reported 60-70 percent turnout. At Hudson High School in Birmingham, for example, almost 79 percent of the Black precinct's voters cast a ballot on November 4. At the same time, Black precincts in Montgomery (Ala.) and Atlanta (Ga.) showed returns more in the neighborhood of 45-55 percent.</p>
           <p>While not as heavily populated, rural Black precincts showed almost
@@ -1179,7 +1187,7 @@ Louisiana, mostly Black boxes showed 60-65 percent participation as did those in
         <div2 id="sc03-1007" n="9" type="Article">
           <head>Woodcutters Organize: Echoes of Change in the South's Backwoods</head>
           <byline>By <docAuthor><name reg="Greenhaw, Wayne" type="person">Wayne Greenhaw</name></docAuthor></byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 16-19, 22</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 16-19, 22</docDate>
           <p>The tall huskily-built Black man opened his mouth and let his baritone voice ring out through the small plain rectangular frame church in southwest Alabama.</p>
           <p>Proud of his heritage, ready to pass on to his children and his children's children all that he knows of his past, Ralph Lee Johnson is trying his best to hang on to whatever he can make in the present.</p>
           <p>A pulpwood man, whose father was a woodcutter and whose great-grandfather came over to this country from Africa on a slavery ship, Ralph Lee Johnson ekes a living out of the Piney Woods like more than 150,000 others in Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi and Texas.</p>
@@ -1298,7 +1306,7 @@ day . . . "</p>
               <name reg="Williams, Randall" type="person">by Randall Williams</name>
             </docAuthor>
           </byline>
-          <docDate value="1980-12-01">Vol. 3, No. 1, 1980, pp. 20-21, 22</docDate>
+          <docDate value="1980-12">Vol. 3, No. 1, 1980, pp. 20-21, 22</docDate>
           <p>For Larry Threadgill, whose family has been active in civil rights
 organizing and Black politics here since the early 1960's, things are
 looking up.  It has not been too many years ago that his older sister

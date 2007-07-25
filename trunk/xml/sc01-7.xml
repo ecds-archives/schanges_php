@@ -58,17 +58,25 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc01-71203">
     <body id="sc01-71202">
       <div1 id="sc01-7001" n="Southern Changes 1:7" type="Issue">
         <head>Southern Changes. Volume 1, Number 7, 1979</head>
-        <p><title>Southern Changes</title>. Volume 1, Number 7, <date value="1979-04-01">1979</date></p>
+        <p><title>Southern Changes</title>. Volume 1, Number 7, <date value="1979-04">1979</date></p>
         <div2 id="sc01-7005" n="1" type="Article">
           <head>Interchange: In This Issue</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, p. 2</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, p. 2</docDate>
           <p>On February 16-18, the Southern Regional Council (SRC) held its
 Annual Meeting in Atlanta at the Colony Square Hotel. This year the
 Council renewed its charter after 25 years of incorporation, and to
@@ -120,7 +128,7 @@ rights."</p>
         <div2 id="sc01-7002" n="2" type="Article">
           <head>Renewal and Endurance: A Personal View</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 4-5</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 4-5</docDate>
           <p>In those torturous moments of human relations 35 years ago, five
 Southerners of prominence and good will signed their names to the
 legal charter of the Southern Regional Council, Inc. On January 7,
@@ -162,7 +170,7 @@ Publisher</byline>
         <div2 id="sc01-7006" n="3" type="Article">
           <head>The Role of Law in the South</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 6-8</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 6-8</docDate>
           <p>
             <hi rend="bold">[Introduction]</hi>
           </p>
@@ -245,7 +253,7 @@ much acclaim.</p>
         <div2 id="sc01-7003" n="4" type="Article">
           <head>Human Rights: From the South to South Africa"</head>
           <byline>By <docAuthor><name reg="Terry, Wallace" type="person">Wallace Terry</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 9-13</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 9-13</docDate>
           <p>I was profoundly affected by what I saw on the battlefields in Viet Nam from 1967 to 1969, particularly the outrageously racist behavior of White troops towards Blacks. I knew that most Blacks would receive far too little at home for the blood they spilled abroad. So with the kind and generous assistance of Leslie Dunbar and our friends at the Field Foundation and the Center for National Security Studies, I have spent the last few years recording and writing the Black GI's story. It seems a small way to salute them.</p>
           <p>From units all over the country and at any given moment, Black soldiers would meet to log their experiences with discrimination. From them I learned of our American sailors burning crosses at Cam Ranh Bay; wearing Ku Klux Klan costumes at the Navy base in Cua Viet; writing graffiti on the walls of latrines: "I wouldn't compare a gook to a nigger." Blacks were refused rides. They were held back in promotion. And if they became too militant, White officers shipped them to the DMZ where they were more likely to be killed in action. In effect, there were two wars in Viet Nam. And as the war against the Vietnamese wound down, the race war between Black and White Americans spread.</p>
           <p>Investigating these racial incidents, of course, made me very unpopular with the commands. Indeed, I think the Marines once tried to eliminate me. When a Marine chopper dropped me into a field, there was no one on the ground to meet me. And the chopper did not return to pick me up in this very hot zone. My escort, a White major, was, ironically, of no real use. He was from North Carolina, and always wanted me to pose in pictures with him, because he planned to run for sheriff back home. The pictures, he said, would help him get the "colored vote." Perhaps he had his eye on the White House, too. Anyway, I later learned that he was considered a roustabout, a troublemaker, so the Marines probably considered him expendable as well.</p>
@@ -318,7 +326,7 @@ at Howard University.</p>
         <div2 id="sc01-7007" n="5" type="Article">
           <head>Facing the Universal Imperatives</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 16-18</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 16-18</docDate>
           <p>[Introduction]</p>
           <p>
             <hi rend="italic">The world that we live in has changed; is changing, dangerous and uncertain - and I think that if you take a look at the concerns of the Southern Regional Council and some of the universal imperatives that impinge on those concerns, you can see that the main thing that will characterize the work of the Council, as it endures, is not that things will get easier- but they will get different. It'll be a different environment, but it will be equally treacherous.</hi>
@@ -370,7 +378,7 @@ sponsored by SRC.</p>
         <div2 id="sc01-7004" n="6" type="Article">
           <head>J.P. Stevens Workers Seek 'Some of the Harvest'</head>
           <byline>By <docAuthor><name reg="Finger, Bill" type="person">Bill Finger</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 19-21</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 19-21</docDate>
           <p>You would have thought it was the Darlington 500 the way people were flocking to the South Carolina Piedmont. But the gathering at Textile Hall in what the local chamber of commerce calls "the textile capital of the world" lacked the gaiety of a good stock car race.</p>
           <p>On this chilly March morning in Greenville, S.C., J.P. Stevens and
 Company was holding its 1979 stockholders meeting. The nation's second
@@ -421,7 +429,7 @@ Bill Finger, a freelance writer, lives in Raleigh, N.C.
         <div2 id="sc01-7014" n="7" type="Article">
           <head>Eatonton, Georgia: Rural Black Community Organizes for Change</head>
           <byline>By <docAuthor><name reg="Swift, Alice" type="person">Alice Swift</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 22-23</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 22-23</docDate>
           <p>The days of White mobs gathering to lynch a Black man simply because he is Black are gone, but there are still some occurrences with the same level of hatred behind them. What happened in Eatonton is a case in point.</p>
           <p>Until recently, Eatonton, Georgia, had a curfew which forbade anyone from being on the streets or in a public place between the hours of 11:00 p.m. and 6:00 a.m. This curfew was in the city records, but not to the knowledge of many people, especially the Black community. It had never been enforced. As one local citizen of Eatonton said, "I have been here most of my life and I've never heard anything about a curfew. We always came and went as we pleased, anytime we pleased."</p>
           <p>But, late one night, a White town policeman killed a young Black man, while he was taking a walk, and the only excuse the policeman offered was a never-before-used curfew. Moreover, the policeman knew the young man and knew that he had the habit of taking late night walks.</p>
@@ -459,7 +467,7 @@ Georgia.</p>
         <div2 id="sc01-7008" n="8" type="Article">
           <head>EDUCATION: The Issue of Desegregation</head>
           <byline>By <docAuthor><name reg="Johnston, Diane" type="person">Diane Johnston</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 25</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 25</docDate>
           <p>During a lively discussion on education at SRC's recent Annual Meeting, panelist Jean Fairfax, director of education programs for the NAACP Legal Defense Fund, remarked, "There is a lot more to the Brown case than school desegregation. It got us off the back of the bus into Colony Square."</p>
           <p>Fairfax's comment characterizes the main issues addressed at the session, which began with Assistant Attorney General Drew 5. Days III outlining the complexities of the desegregation issues as he sees them from the Justice Department.</p>
           <p>Days pointed out that desegregation goes beyond simply joining Black and White children in the classroom, and includes fair employment practices so that the faculty, as well as the student body, is integrated. Desegregation also covers discrimination by sex, and against the handicapped. He explained that too little has been done by the Justice Department and HEW in terms of coordinating their activities. As a result, Days said, there are currently about 250 discrimination cases pending, many without attorneys.</p>
@@ -491,7 +499,7 @@ Council.</p>
         <div2 id="sc01-7009" n="9" type="Article">
           <head>SOUTHERN POLITICS: Judge Robert Collins Speaks</head>
           <byline>By <docAuthor><name reg="Morris, Robert" type="person">Robert Morris</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 26</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26</docDate>
           <p>"Without a pool of competent attorneys who can focus on pressing the legitimate claims of minorities, those rights will be neglected, eroded, and perhaps eventually destroyed," said Judge Robert F. Collins, speaking to luncheon guests of the SRC Annual Meeting recently. President Carter's appointee to the U.S. District Court in New Orleans and the South's only Black federal judge in this century, Collins spoke of his own experiences in capsuling three decades of civil rights activity in the South. Collins' own education began as a court case. It took a lawsuit to open the doors for him and two other Blacks to enter the Louisiana State University Law School. After graduation, he worked on local counsel in Louisiana for the Congress of Racial Equality and cooperated with the NAACP Legal Defense Fund.</p>
           <p>During the 60s, Collins argued eight civil rights cases before the Supreme Court, including ones involving a student march on the Baton Rouge courthouse, Black students reading books in a Clinton, LA., library and sit-in protests in the streets.</p>
           <p>With the help of the Voter Education Project, Blacks worked for ten years in New Orleans to raise the number of registered Black voters from 20 to 45 percent, Collins said. "Because of similar effort, the state now has the highest percentage of Black elected officials in the United States." Although many are in minor positions, it is a start, he said. "Upon that base a lot can be built ... the number is still infinitesimal," Collins noted, referring to the fact that the number of Black elected officials in the United States is less than 2 percent.</p>
@@ -511,7 +519,7 @@ rights are not lost in the next generation.</p>
         <div2 id="sc01-7010" n="10" type="Article">
           <head>SOUTHERN POLITICS:Panelists look at Southern Political System</head>
           <byline>By <docAuthor><name reg="Jones, Jean" type="person">Jean Jones</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 26-27</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26-27</docDate>
           <p>"Tyranny and tragedy have been and still are the core of the Southern experience," Dr. Samuel Dubois Cook, president of Dillard University, remarked during an afternoon session on politics in the South at the Annual Meeting of the Southern Regional Council.</p>
           <p>The plight of Southern politics was analyzed by Dr. Cook,<hi rend="italic"> Nashville Tennesseean</hi> Publisher John Seigenthaler and Atlanta City Councilwoman Panke Bradley in a panel discussion. While recognizing the great social changes made in the political system of the South, each had enormous misgivings.</p>
           <p>"The South and the Southern political system are not 'free at
@@ -539,7 +547,7 @@ South" carried in this issue.</p>
         <div2 id="sc01-7011" n="11" type="Article">
           <head>URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought</head>
           <byline>By <docAuthor><name reg="Terry, Janet" type="person">Janet Terry</name></docAuthor></byline>
-          <docDate value="1979-04-01">Vol. 1, No. 7, 1979, pp. 27-28</docDate>
+          <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 27-28</docDate>
           <p>Is the South truly in the midst of an overdue, unparalleled economic boom, or is the image a mirage, fashioned by media hype, overeager expectations, and scattered development?</p>
           <p>Participants on the rural development panel at SRC's Annual Meeting did not debate the question long. In the words of Charles Prejean, executive director of the Atlanta-based Federation of Southern Cooperatives (FSC), "Despite the unsubtantiated claims of explosive Southern growth which emanate from Northern observers, the South, and especially the rural South, remains deeply impoverished."</p>
           <p>The poverty rate of Southern states, according to a report compiled

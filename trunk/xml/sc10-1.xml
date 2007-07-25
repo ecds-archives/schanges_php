@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc10-11203">
@@ -64,11 +72,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc10-1001" n="Southern Changes 10:1" type="Issue">
         <head>Southern Changes.  Volume 10, Number 1, 1988</head>
         <p><title>Southern Changes</title>.  Volume 10, Number 1,
-	       <date value="1988-01-01">1988</date></p>
+	       <date value="1988-01">1988</date></p>
         <div2 id="sc10-1002" n="1" type="Article">
           <head>Women and the '88 Elections</head>
           <byline>By <docAuthor><name reg="Hannon, Sharron" type="person">Sharron Hannon</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, pp. 1-3</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 1-3</docDate>
           <p>What role will women play in the '88 elections? Will the "gender
 gap" resurface? Will it affect the outcome of the presidential
 race?</p>
@@ -261,7 +269,7 @@ women's rights issues.</p>
         <div2 id="sc10-1003" n="2" type="Article">
           <head>In South Africa--The Politics of an Inquiry for Change</head>
           <byline>By <docAuthor><name reg="Wilson, Francis" type="person">Francis Wilson</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, pp. 4, 6-8</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 4, 6-8</docDate>
           <p>It is very difficult to be balanced when one talks about South
 Africa On the one hand one can make it too horrendous for words. On
 the other hand one can oversimplify and say, 'Well, you know it's not
@@ -656,7 +664,7 @@ remarks follow.</p>
         <div2 id="sc10-1004" n="5" type="Article">
           <head>A Letter from Lillian Smith</head>
           <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, pp. 11-12</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 11-12</docDate>
           <p>The following is the second of a series of letters selected from the
 correspondence of Lillian Smith to appear in <title>Southern
 Changes</title>. This issue's selection is from one of her letters to
@@ -757,7 +765,7 @@ at the University of Alabama, Tuscaloosa.</p>
         <div2 id="sc10-1005" n="6" type="Article">
           <head>Remembering 'Bud' Garrett</head>
           <byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name> and <name reg="Peterson,  Elizabeth" type="person"> Elizabeth Peterson</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, pp. 12, 14-15</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 12, 14-15</docDate>
           <p>Robert "Bud" Garrett died on November 24,1987. Perhaps
 appropriately, he suffered a heart attack during his third game of the
 folk marble game "rolley hole" the day before Thanksgiving.</p>
@@ -842,7 +850,7 @@ Tennessee State' Parks also contributed to this piece.</p>
         <div2 id="sc10-1006" n="7" type="Article">
           <head>When 'Justice Rose Like Water'</head>
           <byline>By <docAuthor><name reg="Clark, Septima Poinsette" type="person">Septima Poinsette Clark</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, p. 15</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 15</docDate>
           <p>Educator and activist Septima Clark, whose long,
 productive career placed her in the front lines of civil rights
 activities for six decades, died on December 15, 1987, in a nursing
@@ -896,7 +904,7 @@ and avoid pain, but to do the will of God, come what may.</p>
         <div2 id="sc10-1007" n="8" type="Article">
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, p. 16</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 16</docDate>
           <p>A powerful white Southern politician who for years has helped many
 black people, including this writer, sought last week to end an
 outrageous debate with a brother-in-law by asking me if I thought he
@@ -955,7 +963,7 @@ writer.</p>
         <div2 id="sc10-1008" n="3" type="Article">
           <head>Scenes from the Office: I. "The Pitfalls Facing Management"</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, p. 9</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, p. 9</docDate>
           <p>Editor's note: The following memo was circulated by the
 corporate legal department of a large Atlanta business through all
 levels of management in 1987. The employee who provided <hi rend="italic">Southern Changes</hi> a copy of this memo requested that
@@ -1056,7 +1064,7 @@ procedures.</p>
         <div2 id="sc10-1009" n="4" type="Article">
           <head>Scenes from the Office: II. The Supervisor in the Computer</head>
           <byline>Interview by <docAuthor><name reg="Sharpless, Rebecca" type="person">Rebecca Sharpless</name></docAuthor></byline>
-          <docDate value="1988-01-01">Vol. 10, No. 1, 1988, pp. 10-11</docDate>
+          <docDate value="1988-01">Vol. 10, No. 1, 1988, pp. 10-11</docDate>
           <p>Susan Lowe, age twenty-seven, works with 200 co-workers in the
 claims department of a large insurance firm in Atlanta. The claims
 department occupies an entire floor of a downtown high-rise office

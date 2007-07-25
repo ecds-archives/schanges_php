@@ -50,17 +50,25 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc21-31203">
     <body id="sc21-31202">
       <div1 id="sc21-3001" n="Southern Changes 21:3" type="Issue">
         <head>Southern Changes.  Volume 21, Number 3, 1999</head>
-        <p><title>Southern Changes.</title>  Volume 21, Number 3, <date value="1999-09-01">1999</date></p>
-        <div2 id="sc21-3002" n="Covering Race: A Deep White Sleep" type="Article">
+        <p><title>Southern Changes.</title>  Volume 21, Number 3, <date value="1999-09">1999</date></p>
+        <div2 id="sc21-3002" n="3" type="Article">
           <head>Covering Race: A Deep White Sleep</head>
-          <byline>By <docAuthor><name reg="GHIGLIONE, LOREN" type="person">LOREN GHIGLIONE</name></docAuthor></byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 8-9</docDate>
+          <byline>By <docAuthor><name reg="Ghiglione, Loren" type="person">Loren Ghiglione</name></docAuthor></byline>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 8-9</docDate>
           <p>Can three voices from the past help us improve press coverage of race? Recall the messages of three Americans: Harry Golden, Robert Maynard, and Ralph Ellison.
 Cigar-chomping humorist Harry Golden kept alive his Charlotte, North Carolina monthly, <title>The Carolina Israelite</title>, from 1942 to 1968, despite advertising boycotts orchestrated by white supremacists. He used wit to express his support for desegregation, earlier than most below the Mason-Dixon line. Recognizing that bank counters, supermarkets, and department stores allowed whites and blacks to stand in the same line, Golden proposed his "Vertical Negro Plan": Take the seats out of schools and have all students stand at their desks.</p>
           <p>Golden also implemented his "Out-of-Order Plan" by persuading a department store owner to turn off the water to a "White Only" fountain and slap on an "Out of Order" sign. Within three days Golden wrote, whites -- without even a whimper of complaint -- were drinking "segregated water" from the "Negro" fountain.
@@ -88,11 +96,11 @@ Loren Ghiglione, former director of the Journalism Program at Emory University, 
 from his talk at the "What's Right and Wrong about News Coverage of Race" panel held at Emory in February of 1999.  Photo of Harry Golden provided by the Charlotte-Mecklenberg Public Library. Photo of Robert Maynard provided by the Maynard Institute for Journalism Education.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3003" n="Deadly Cuts: Grady Hospital and the National Health Care Crisis" type="Article">
+        <div2 id="sc21-3003" n="1" type="Article">
           <head>Deadly Cuts: Grady Hospital
 and the National Health Care Crisis</head>
           <byline>By <docAuthor><name reg="Davis, Murphy" type="person">Murphy Davis</name></docAuthor></byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 3-5</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 3-5</docDate>
           <p>The county commissioner looked perplexed. "You understand, don't you, that we're the bottom of the food chain here. You're coming to us because you know who and where we are. But we're not the real cause of this crisis at Grady Hospital. It's much bigger than DeKalb and Fulton Counties."</p>
           <p>The commissioner is absolutely right and she is absolutely wrong. Grady, Atlanta's public hospital since 1892, is facing a $26.4 million deficit for the 1999 calendar year. To cut costs, the administration recommended to the Hospital Board that they begin to charge even the poorest of the poor a five dollar charge for each clinic visit and a ten dollar co-payment for each prescription and medical supply. This policy attempted to lay the budget problems on the backs of the city's poor. If enacted, it would amount to a death sentence for some Grady patients, especially the poorest many of whom are elderly and/or with chronic illnesses that require several medications to sustain life and health.</p>
           <p>The situation at Grady is a local problem with local causes. It is also a symptom of a national crisis with national causes. Local governments are responsible for the problem; local governments are victims of the problem. The health care crisis is a particular place where the national drama is being played out on a local level. Perhaps it might also be the place where we come together nationally and bring about significant change.</p>
@@ -139,14 +147,14 @@ the homeless and prisoners, particularly those on death row. Davis is
 the coordinator of the Southern Prison Ministry.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3004" n="Teaching the Movement: 'Will the Circle Be Unbroken' Now Available with a Curriculum Guide" type="Article">
+        <div2 id="sc21-3004" n="2" type="Article">
           <head>Teaching the Movement: "Will the Circle Be Unbroken" Now Available with a Curriculum Guide</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 6-7</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 6-7</docDate>
           <p>How many high school history courses fail to get past World War II to cover the Civil Rights Movement?  When courses do treat the Civil Rights Movement, how often do they focus on only a few prominent leaders and major events, giving little voice to the ordinary men and women across the South and their daily efforts that made the Movement?  </p>
           <p>Though a growing body of scholarship on the U.S. Civil Rights Movement has emerged in the past decade, there remains a disturbing absence of materials that make this crucial period of our history accessible to students.  Knowledge about this chapter in U.S. history is essential to understanding our diverse society today.  </p>
           <p>As the title of the lead article by national NAACP Board Chair Julian Bond in SRC's special issue of Southern Changes featuring "Will the Circle Be Unbroken?" reminds us, "Democracy Demands Memory."  In describing the results of a racial attitudes survey by SRC, Bond noted "The more poll respondents knew about our history, and the more results of ending race-specific remedies to discrimination were explained to them, the more likely they were to respond thoughtfully, rather than with bumper-sticker answers."  </p>
@@ -170,11 +178,11 @@ greatly enlarged individual liberties and protections. <pb n="7"/>As a consequen
             <p>The Peabody Award-winning series, "Will the Circle Be Unbroken?" was first broadcast in 1997 on National Public Radio on more than 250 stations nationwide.  Due to the tremendous response from the listening public to that initial broadcast, the series was rebroadcast in 1998.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3005" n="Which Came First,  the Statue or the Oppression?" type="Article">
+        <div2 id="sc21-3005" n="4" type="Article">
           <head>Which Came First, 
 the Statue or the Oppression?</head>
           <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 10, 27</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 10, 27</docDate>
           <p rend="italic">Below is an excerpt from James Loewen's most recent book, <title>Lies Across America: What Our Historic Sites and Monuments Get Wrong</title>, published in October 1999 by New Press, 416 pages.</p>
           <p>Markers and monuments don't cause history. It's more the other way around; dominant groups use their power to erect historic markers and monuments that present history from their viewpoint. This process typically distorts the past to explain and celebrate their own domination. In turn, controlling what people say and think about the past is an important source of social power.  Thus monuments and markers do make a difference.  Perhaps George Orwell would not mind this rephrasing of his famous couplet: Who controls the present controls the landscape.  Who controls the landscape controls the future. </p>
           <p>Three counties in south central Arkansas show these connections between the social structure of an area, its ideology, and the story its historic monuments tell. Camden, the county seat of Ouachita County, looks like a traditional town in the plantation South, complete with columned mansions. The Ouachita County courthouse sports a traditional monument, "To our Confederate Women," (see photo) dedicated in 1914. It joined a Confederate monument put up in 1886 in the Confederate Section of Oakland Cemetery that replaced an even earlier obelisk. These cemetery monuments were put up shortly after the war by people who grieved the dead.</p>
@@ -193,7 +201,7 @@ Confederate memorials.</note>
             <p>Jim Loewen is the author of <title>Lies My Teacher Told Me: Everything Your High School History Textbook Got Wrong</title> and is coauthor of <title>Mississippi: Conflict and Change</title> which won a Lillian Smith Award in 1976. Loewen taught race relations at the University of Vermont and now lives in Washington, D.C. where he continues his research on how Americans remember their past</p>
           </div3>
         </div2>
-        <div2 id="sc21-3006" n="Title I in Alabama: The Struggle to Meet Basic Needs" type="Article">
+        <div2 id="sc21-3006" n="5" type="Article">
           <head>Title I in Alabama:
 The Struggle to Meet Basic Needs</head>
           <byline>
@@ -201,7 +209,7 @@ The Struggle to Meet Basic Needs</head>
               <name reg="Citizen's Commission on Civil Rights" type="person">Citizen's Commission on Civil Rights</name>
             </docAuthor>
           </byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 12-15</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 12-15</docDate>
           <p rend="italic">The Citizens' Commission for Civil Rights, a nonpartisan organization founded in 1982 to monitor Federal civil rights policies and practices,  has launched a study to assess the progress made by the federal government, the states, and four targeted communities in complying with the 1994 amendments to Title I contained in the Improving America's Schools Act. Below are excerpts from the second of several reports on this issue in which the Citizens' Commission highlights field research in high-poverty communities in Alabama, a state that was chosen because of its long and severe legacy of underfunding education and denying educational opportunities on the basis of race. The study was published in the summer of 1999.</p>
           <p>The struggle for equal educational opportunity for African-American
 and poor students in Alabama at the end of the twentieth century
@@ -307,14 +315,14 @@ Enable All Students to Meet State Standards</hi>
             <p>Excerpts from Title I  in Alabama: The Struggle to Meet Basic Needs were printed with permission from the Citizens' Commission on Civil Rights. One free copy of the study may be obtained by contacting the Commission at: 2000 M Street, NW, Suite 400, Washington, D.C. 20036; phone 202-659-5565; web site www.cccr.org.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3007" n="Lillian Smith: A Struggle for Wholeness" type="Article">
+        <div2 id="sc21-3007" n="6" type="Article">
           <head>Lillian Smith: A Struggle for Wholeness</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 16-18</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 16-18</docDate>
           <p rend="italic">Internationally acclaimed as author of the controversial novel, Strange Fruit (1944), Lillian Smith was the most liberal and outspoken of white mid-twentieth century Southern writers on issues of social, and especially racial, injustice. When other Southern liberals such as Ralph McGill, Hodding Carter, Virginius Dabney, and Jonathan Daniels were charting a cautious course on racial change, Smith boldly and persistently called for an end to segregation. For such boldness she was often scorned by more moderate Southerners, threatened by arsonsists, and denied the critical attention she deserved as a writer. Yet she continued to write and speak for improved human relations and social justice throughout her life.</p>
           <p rend="italic">Born December 12, 1897, Lillian Smith grew up in Jasper, Florida, the daughter of a prominent business and civic leader. Smith's life as a daughter of upper-class whites in the small-town Deep South ended abruptly when her father lost his turpentine mills in 1915 and moved the family to their summer home in the mountains of Clayton, Georgia. Financially on her own, Smith's plans were altered when her parents, in ill health, asked her to direct their summer camp for girls. </p>
           <p rend="italic">Under her direction from 1925 through 1948, Laurel Falls Camp became an innovative educational institution. Encouraging emotional and psychological as well as physical development, Smith helped the daughters of white upper-class southerners question their world and begin to envision the possibility of change. </p>
@@ -361,11 +369,11 @@ healing and on man as a creature in a "dangerous state of flux," "only
 partially evolved," and in need of redemption. Transcendence and
 redemption were again Smith's themes the following year in <title>Our Faces, Our Words</title>, also a tribute to the Civil Rights Movement and a work that is, in many ways, an extension of <title>Killers of the Dream</title>. After telling the stories of several civil rights workers and sympathizers-including a white minister, plagued by conscience, who has determined that "some of us whites may need to die for our collective sins"-Smith speaks in the final chapter in her own voice. <title>"Redemption,"</title> she affirms, was the goal of the early Civil Rights Movement: "There was a surge of joy, of adventure, yes; of courage....It was beautiful to see. Perhaps never in American history has there been a movement of such gayety and intellectual richness." Those associated with the movement were engaged in a "search for the good life which they hunger to substitute for the hollow thing-obsessed life too many of us have lived. And all of it streaked with a fine sense of humor and humility they express in prayer."</p>
         </div2>
-        <div2 id="sc21-3008" n="Contingent Lives" type="Review">
+        <div2 id="sc21-3008" n="7" type="Review">
           <head>BOOKS</head>
           <head>Contingent Lives</head>
           <byline>Reviewed by <docAuthor><name reg="Easton, Terry" type="person">Terry Easton</name></docAuthor></byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 19-21</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 19-21</docDate>
           <p><bibl>Rebecca Sharpless, <title>Fertile Ground, Narrow
 Choices: Women on Texas Cotton Farms, 1900-1940</title>, Chapel Hill:
 University of North Carolina Press, 1999</bibl>; <bibl>Neil Foley, <title>The White Scourge: Mexicans, Blacks, and Poor Whites in Texas Cotton Culture</title>, Berkeley: University of California Press, 1997</bibl>.</p>
@@ -423,10 +431,10 @@ Davis in his 1940 novel <title>The White Scourge </title> and contemporary refor
             <p>Terry Easton is a graduate student in American Studies at Emory University in Atlanta, Georgia. His primary focus is labor history.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3010" n="Mama Dip's Kitchen" type="Article">
+        <div2 id="sc21-3010" n="8" type="Article">
           <head>Mama Dip's Kitchen</head>
           <byline>By <docAuthor><name reg="Council, Mildred" type="person">Mildred Council</name></docAuthor></byline>
-          <docDate value="1999-09-01">Vol. 21, No. 3, 1999 pp. 22-24</docDate>
+          <docDate value="1999-09">Vol. 21, No. 3, 1999 pp. 22-24</docDate>
           <p>For nearly twenty-five years, Mildred Council-better known as Mama Dip--has nourished folks in Chapel Hill, North Carolina. Her restaurant, Mama Dip's Kitchen, is a much-loved community institution that has gained loyal fans and customers from all walks of life, from New York Times food writer Craig Claiborne to former Tar Heel basketball player Michael Jordan. Her much anticipated cookbook,<title> Mama Dip's Kitchen</title> showcases the down-home, wholesome, everyday Southern cooking for which its namesake restaurant is celebrated. <title>Southern Changes</title> is pleased to offer the following excerpt from this new book.</p>
           <p>I was born a colored girl in Chatham County, North Carolina, to Ed
 Cotton and Effie Edwards Cotton; grew up a Negro in my youth; lived my
@@ -467,7 +475,7 @@ move from Chatham County into Chapel Hill.</p>
           <div3 id="sc21-3107" type="About">
             <p>Mama Dip's Kitchen is published by the University of North Carolina Press and is available in bookstores; via the publisher's website at http://www.uncpress.unc.edu; or by calling 800848-6224. This excerpt is reprinted with the permission of the publisher. Copyright &#xA9; 1999 by the University of North Carolina Press.</p>
           </div3>
-          <div3 id="sc21-3108" n="Aunt Mary's Old-Fashioned Stacked Double-Crust Applesauce Pie" type="Sidebar">
+          <div3 id="sc21-3108" type="Sidebar">
             <head>Aunt Mary's Old-Fashioned Stacked Double-Crust Applesauce Pie</head>
             <p>This was made with homegrown apples that ripened about the middle of August or early September. Buy tart apples such as Rome or Fuji to make this pie. Aunt Mary made her stacks three high, but some people stacked theirs six high.</p>
             <p>
@@ -490,7 +498,7 @@ remove the pies from the pans and stack one on top of the other to
 make a double-stacked single pie. Serves 12.</p>
           </div3>
         </div2>
-        <div2 id="sc21-3009" n="In Memorium: Pat Watters (1927-1999)" type="Article"><head>In Memorium: Pat Watters (1927-1999)</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1999-09-01">Vol. 21, No. 3, 1999 p. 25</docDate><p>Journalist and author Pat Watters, SRC's director of information from 1963 to 1975, died in Abbeville, Louisiana, on August 3 after a long struggle with cancer and emphysema. He was seventy-two. Friends and colleagues will long recall his soft-spoken, shyly self-deprecating manner-but also, and perhaps most memorably, his passionate and eloquent advocacy of racial justice in the South and nation.</p><p>A native of Spartanburg, South Carolina, Watters attended public schools in Georgia-Albany, Brunswick, and Atlanta-and earned a bachelor's degree from Emory University and a master's in journalism from the University of Iowa.</p><p>As a reporter, editor, and columnist for the <title>Atlanta Journal </title> from 1952 to 1963, and then in his
+        <div2 id="sc21-3009" n="9" type="Article"><head>In Memorium: Pat Watters (1927-1999)</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1999-09">Vol. 21, No. 3, 1999 p. 25</docDate><p>Journalist and author Pat Watters, SRC's director of information from 1963 to 1975, died in Abbeville, Louisiana, on August 3 after a long struggle with cancer and emphysema. He was seventy-two. Friends and colleagues will long recall his soft-spoken, shyly self-deprecating manner-but also, and perhaps most memorably, his passionate and eloquent advocacy of racial justice in the South and nation.</p><p>A native of Spartanburg, South Carolina, Watters attended public schools in Georgia-Albany, Brunswick, and Atlanta-and earned a bachelor's degree from Emory University and a master's in journalism from the University of Iowa.</p><p>As a reporter, editor, and columnist for the <title>Atlanta Journal </title> from 1952 to 1963, and then in his
 highly visible post with the Southern Regional Council, Watters
 traveled throughout the region covering most of the major events of
 the Civil Rights Movement. In addition to his many contributions to

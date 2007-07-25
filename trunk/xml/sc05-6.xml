@@ -57,17 +57,25 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc05-61203">
     <body id="sc05-61202">
       <div1 id="sc05-6001" n="Southern Changes 5:6" type="Issue">
         <head>Southern Changes.  Volume 5, Number 6, 1983</head>
-        <p><title>Southern Changes</title>.  Volume 5, Number 6, <date value="1983-12-01">1983</date></p>
+        <p><title>Southern Changes</title>.  Volume 5, Number 6, <date value="1983-12">1983</date></p>
         <div2 id="sc05-6002" n="1" type="Article">
           <head>Kissing Honest Politics Goodbye, Again?</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 1-3</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 1-3</docDate>
           <p>George Wallace's election with significant black support in Alabama
 in 1982 reaffirmed that politics makes strange bedfellows in the
 South. This November, Bill Allain's close election in the Mississippi
@@ -210,7 +218,7 @@ Regional Council.</p>
         <div2 id="sc05-6003" n="2" type="Article">
           <head>New Federalism and Minority Rights: After Three Years</head>
           <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 3-5</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 3-5</docDate>
           <p>When Ronald Reagan was elected President, he was widely regarded as
 a threat to the progressive social policies gradually put in place
 over the preceding five decades. In the main these policies--in civil
@@ -401,7 +409,7 @@ Foundation.</p>
         <div2 id="sc05-6004" n="3" type="Article">
           <head>Blockading the Bomb Plant</head>
           <byline>By <docAuthor><name reg="Bowman, Sue" type="person">Sue Bowman</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983 pp. 5-7</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983 pp. 5-7</docDate>
           <p>Demonstrations against the deployment of US Cruise and Pershing
 missiles have been mounted all over Europe this fall. In West Germany
 the campaign is called "Hot Autumn." Included in the protests are
@@ -646,7 +654,7 @@ publications.</p>
         <div2 id="sc05-6005" n="4" type="Article">
           <head>Demonstrating at Weapon World</head>
           <byline>By <docAuthor><name reg="Bernstein, Dan" type="person">Dan Bernstein</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 7-8</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 7-8</docDate>
           <p>The people who gathered on a baseball field under cloudy skies were
 as diverse a group as you could imagine. There were teen-agers and
 grandmothers; doctors and musicians; hippies and priests.</p>
@@ -727,7 +735,7 @@ into pieces.</p>
         <div2 id="sc05-6006" n="5" type="Article">
           <head>The Movement Remembered: "Like A Banked Fire"</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 8-13</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 8-13</docDate>
           <p><hi rend="bold">Worth Long:</hi> When did you first realize that
 there was a need for civil rights change, for change in the state of
 Mississippi?</p>
@@ -1170,7 +1178,7 @@ rights movement in the Deep South.</p>
         <div2 id="sc05-6007" n="6" type="Article">
           <head>The North Georgia Forty</head>
           <byline>By <docAuthor><name reg="Jones, Gregg" type="person">Gregg Jones</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, p. 13</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, p. 13</docDate>
           <p>Their rallying cry is "Keep public lands in public hands," and
 Dr. Phillip Greear hopes it will help save national forest land from
 the auction block.</p>
@@ -1250,7 +1258,7 @@ introduced.</p>
         <div2 id="sc05-6008" n="7" type="Article">
           <head>Reaping What We Sow</head>
           <byline>By <docAuthor><name reg="FOWLER, CARY" type="person">CARY FOWLER</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 14-18</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 14-18</docDate>
           <p>American agriculture is imported. All the major food crops grown in
 North America originated elsewhere.</p>
           <p>It is believed that agriculture began independently in Southwest
@@ -1871,7 +1879,7 @@ useful plants we already have.</p>
           <head>Fred Hobson. <title>Tell About the South: The Southern Rage to
 Explain,</title> Louisiana State University Press, 1983.</head>
           <byline>By <docAuthor><name reg="Gorn, Elliott" type="person">Elliott Gorn</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, 20-21</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, 20-21</docDate>
           <p>I recently attended a workshop for historians held at a Southern
 university. One scholar, who teaches in New York state and whose field
 of study is Latin America, confided to me that he couldn't understand
@@ -2017,7 +2025,7 @@ at the University of Alabama in Tuscaloosa.</p>
           <head>Marie Faulk Rudisill. <title>Truman Capote.</title> William
 Morrow &#x26; Co., 1983.</head>
           <byline>By <docAuthor><name reg="Swift, Harriet" type="person">Harriet Swift</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 21-23</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 21-23</docDate>
           <p>Marie Faulk Rudisill, Truman Capote's aunt, has succeeded in
 accomplishing what most people thought was impossible: she has brought
 her nephew and the homefolks in Monroe County, Alabama, into complete
@@ -2226,7 +2234,7 @@ County.</p>
 Luther King, Jr.</title> Harper and Row, 1982. Paper edition by Plume,
 New American Library, 1983.</head>
           <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
-          <docDate value="1983-12-01">Vol. 5, No. 6, 1983, pp. 23-24</docDate>
+          <docDate value="1983-12">Vol. 5, No. 6, 1983, pp. 23-24</docDate>
           <p><title>Let The Trumpet Sound</title> is the first biography of King
 to appear since David Lewis' <title>King: A Critical Biography</title>
 was published in 1970. One still might reasonably ask, "What could

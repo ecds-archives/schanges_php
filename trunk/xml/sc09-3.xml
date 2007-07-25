@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc09-31203">
@@ -64,11 +72,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc09-3001" n="Southern Changes 9:3" type="Issue">
         <head>Southern Changes.  Volume 9, Number 3, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 3,
-	       <date value="1987-08-01">1987</date></p>
+	       <date value="1987-08">1987</date></p>
         <div2 id="sc09-3002" n="2" type="Article">
           <head>Unseen Partners in the Economy</head>
           <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 4-6</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 4-6</docDate>
           <p>Women have long been "unseen partners" in
 agricultural production. They have been partners in the sense that
 their field labor in direct production and their household labor in
@@ -292,7 +300,7 @@ Center, P.O. Box 681, Tuskegee, Alabama 36088.</p>
         <div2 id="sc09-3003" n="5" type="Article">
           <head>Toward Economic Democracy</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 16-19</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 16-19</docDate>
           <p>The goals of economic development and job creation are terribly
 important but we must be clear that job creation means a job for
 everybody who is well and able to work and wants to work. We must be
@@ -612,7 +620,7 @@ Institute.</p>
         <div2 id="sc09-3004" n="4" type="Article">
           <head>Texas Finds Home-Grown Is Best</head>
           <byline>By <docAuthor><name reg="Hightower, Jim" type="person">Jim Hightower</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 9-15</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 9-15</docDate>
           <p>Everybody, of course, is all for economic development, but
 traditionally what that has meant is economic development for the few
 and the rest of you get in line-the "take that old cold tater and
@@ -1084,7 +1092,7 @@ Agriculture.</p>
         <div2 id="sc09-3005" n="1" type="Article">
           <head>Block Bork</head>
           <byline>By <docAuthor><name reg="Ellis, Deborah A." type="person">Deborah A. Ellis</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 1-2</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 1-2</docDate>
           <p>The most appropriate celebration of our Constitution in this
 bicentennial year would be the defeat of President Reagan's nomination
 of Judge Robert H. Bork to the Supreme Court. Defeating Bork would
@@ -1205,7 +1213,7 @@ judge.</p>
         <div2 id="sc09-3006" n="3" type="Article">
           <head>Coalition-Building for a New Labor Climate</head>
           <byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 8-9</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 8-9</docDate>
           <p>The release last fall of the Southern Labor Institute's report,
 <title>The Climate For Workers in the United States</title>, marked
 the first comprehensive look at our national economy from the
@@ -1349,7 +1357,7 @@ $5.</p>
         <div2 id="sc09-3007" n="6" type="Review">
           <head>Of Movements and a Man.</head>
           <byline>By <docAuthor><name reg="Chalmers, David" type="person">David Chalmers</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, pp. 20-22</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, pp. 20-22</docDate>
           <bibl><title>Bearing the Cross: Martin Luther
 King, Jr., and the Southern Christian Leadership
 Conference.</title> By David J. Garrow. (New York: William Morrow and
@@ -1542,7 +1550,7 @@ in the 1960s.</p>
         <div2 id="sc09-3008" n="8" type="Review">
           <head>Preacher's Parable.</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, p. 23</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 23</docDate>
           <bibl><title>Forty Acres and A Goat</title>. By
 Will D. Campbell. (Atlanta: Peachtree Publishers, Ltd., 1986. 336
 pp. $14.95.)</bibl>
@@ -1615,7 +1623,7 @@ Food</title>. He lives and works in Nashville.</p>
               <name reg="Chalmers, David" type="person">David Chalmers</name>
             </docAuthor>
           </byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, p. 21</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 21</docDate>
           <bibl><title>To Redeem the Soul of
 America: The Southern Christian Leadership Conference and Martin
 Luther King, Jr.</title>  By Adam Fairclough.  (Athens: University of
@@ -1681,7 +1689,7 @@ organizational skill."</p>
         <div2 id="sc09-3010" n="9" type="Article">
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut, Jr.</name></docAuthor></byline>
-          <docDate value="1987-08-01">Vol. 9, No. 3, 1987, p. 24</docDate>
+          <docDate value="1987-08">Vol. 9, No. 3, 1987, p. 24</docDate>
           <p>Mine enemies are legion and I can barely remember when that was not
 the case. In a somewhat perverse manner, I find that comforting and
 suffer no reason to embrace popular, superficial mainstream
