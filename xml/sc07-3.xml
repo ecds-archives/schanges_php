@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc07-31203">
@@ -64,7 +72,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc07-3001" n="Southern Changes 7:3" type="Issue">
         <head>Southern Changes.  Volume 7, Number 3-4, 1985</head>
         <p><title>Southern Changes</title>.  Volume 7, Number 3-4,
-	       <date value="1985-07-01">1985</date></p>
+	       <date value="1985-07">1985</date></p>
         <div2 id="sc07-3002" n="8" type="Article">
           <head>Mother Church</head>
           <byline>
@@ -72,7 +80,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
               <name reg="Campbell, Will D." type="person">Will D. Campbell</name>
             </docAuthor>
           </byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
           <p>Shortly after the spring thaw of 1573 a woman prayed for her
 children.</p>
           <p>
@@ -223,7 +231,7 @@ forty-four years ago this month. This essay is reprinted from
           <head>Organizing for Empowerment: The National Political Congress of
 Black Women</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 5-9</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate>
           <div3 id="sc07-3004" type="Section">
             <head>Excerpts and Observations</head>
             <p><hi rend="bold">Shirley Chisolm</hi>, president of the National
@@ -572,7 +580,7 @@ Paul M. Gaston. Mercer University Lamar Memorial Lectures,
 No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
 Press, 1984, 143 pages).</head>
           <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
           <p>The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
 you could have heard the lectures on which it is based. But whatever
@@ -746,7 +754,7 @@ they need to draw more far-reaching conclusions.</p>
         <div2 id="sc07-3008" n="7" type="Article">
           <head>Sixty five Years in Eufaula</head>
           <byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
           <p>I am DAVID FROST, Jr.</p>
           <p>This is an account of my life in Eufaula, Alabama and my family
 struggle for survival.</p>
@@ -1262,7 +1270,7 @@ catch me. I think I will have to stop making moonshine for good.</p>
           <head>The Southern Regional Council Beginning the Fifth Decade: Our
 Annual Report </head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
           <p>1985 marks the forty-first anniversary of the founding of the
 Southern Regional Council. Today, as in the past, the Council's vision
 of the South's future radiates from a belief in democratic
@@ -1913,7 +1921,7 @@ change.</p>
         <div2 id="sc07-3016" n="1" type="Article">
           <head>Abandoning Affirmative Action</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 1-2</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate>
           <p>The Reagan Administration stands on the verge of severely weakening
 affirmative action rules for federal contractors. As it is now
 drafted, a proposed Presidential Order eliminates existing
@@ -2005,7 +2013,7 @@ gains. </p>
           <head>Figures of Speech: Fish We've Never Seen</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
 	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
           <p>An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
 Death Festival was moved this year at the request of the Army Corps of
@@ -2765,7 +2773,7 @@ the right direction."</p>
         <div2 id="sc07-3018" n="2" type="Article">
           <head>Crackdown in the Black Belt: On to Greene County</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
-          <docDate value="1985-07-01">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
+          <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
           <p>Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as
 the Marion Three. Stymied, for the moment, is the Reagan Justice

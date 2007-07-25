@@ -58,6 +58,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc20-41203">
@@ -65,11 +73,11 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <div1 id="sc20-4001" n="Southern Changes 20:4" type="Issue">
         <head>Southern Changes.  Volume 20, Number 4, 1998</head>
         <p><title>Southern Changes.</title>  Volume 20, Number 4,
-	       <date value="1998-12-01">1998</date></p>
-        <div2 id="sc20-4002" n="Back to Birmingham" type="Article">
+	       <date value="1998-12">1998</date></p>
+        <div2 id="sc20-4002" n="1" type="Article">
           <head>Back to Birmingham</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
           <p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
           <p><hi rend="italic">This initiative on the part of Southern
 philanthropic, academic, and non-profit institutions, was inspired in
@@ -218,14 +226,14 @@ children.</p>
 Power.</p>
           </div3>
         </div2>
-        <div2 id="sc20-4023" n="Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views" type="Article">
+        <div2 id="sc20-4023" n="2" type="Article">
           <head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head>
           <byline>
             <docAuthor>
               <name reg="John Doble Research Associates" type="institution">John Doble Research Associates</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
           <p rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p>
           <p rend="center">
             <hi rend="bold">Combating Discrimination and Racism</hi>
@@ -265,11 +273,11 @@ analysis. The outcome of that debate can be changed; the battle for
 public opinion can be won and the goals of racial equality and
 intergroup tolerance advanced.</p>
         </div2>
-        <div2 id="sc20-4004" n="The Newtown Story: One Community's Fight for Environmental Justice" type="Article">
+        <div2 id="sc20-4004" n="3" type="Article">
           <head>The Newtown Story: One Community's Fight for Environmental Justice</head>
           <byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
 Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
           <p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
 independent photojournalist Michael A. Schwarz. This oral history chronicles the story of Newtown, an African-American neighborhood in Gainesville, Georgia.</p>
@@ -308,7 +316,7 @@ simple traditional mission: to care for the sick and comfort families as they bu
           <p>Grain dust, runoff, sewage, air pollution, and groundwater
 contamination create problems that extend beyond Newtown. Toxins endanger other African-American neighborhoods on the south side, where two emergency evacuations in 1995 sent dozens to the hospital and brought residents to challenge Cargill with releasing dangerous hexane emissions.</p>
           <p>The tour participants disembark at Bethel AME Church, feeling the weight of the evidence of life in a toxic zone. Newtown's perseverance against these environmental odds has become a symbol for other communities across the South. Partial victories along the way--and deep faith--have sustained the fight, though much work remains. </p>
-          <div3 id="sc20-4005" n="Wheel of Fortune" type="Sidebar">
+          <div3 id="sc20-4005" type="Sidebar">
             <head>"Wheel of Fortune"</head>
             <p>"Wheel of Fortune" spun on the television at the Hailey home on Friday, May 19, 1995, when Hall County emergency officials forced the family to evacuate down the street-away from noxious odors that would send Paul Halley to the hospital for five days. Halley was one of more than thirty people hospitalized. Most were treated and released, for severe nausea, skin irritation, headaches, burning eyes and throats, dizziness, shortness of breath and sleepiness.</p>
             <p>As emergency vehicles and personnel swarmed on Black Drive, where the Haileys live, and Cooley Drive, near Newtown, local hospital personnel were told to prepare for hexane poisoning. Environmental reports on the spill do not specify which form of hexane was suspected, but the chemical n-hexane may be the most highly toxic member of one family of neurological toxins, according to the recognized industrial toxicology guide. The odorous chemical rates as a severe fire and explosion hazard, and is associated with nausea, eye and skin irritation, dizziness, drowsiness, numbness of limbs, and bronchial and intestinal irritation.</p>
@@ -342,14 +350,14 @@ pre-trial period. Residents are appealing both decisions to the 11th
 Circuit Court of Appeals in Atlanta.</p>
           </div3>
         </div2>
-        <div2 id="sc20-4025" n="From New Orleans to Your Radio--It's American Routes" type="Interview">
+        <div2 id="sc20-4025" n="4" type="Interview">
           <head>From New Orleans to Your Radio--It's <title>American Routes</title></head>
           <byline>
             <docAuthor>
               <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
           <p>In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
 States. Based in New Orleans and syndicated by Public Radio
 International, with a list of stations that grows weekly (for the
@@ -545,7 +553,7 @@ hopelessly detached from the local and regional and is programmed entirely by nu
           <p><hi rend="bold">Tullos:</hi> What is the reception to <title>American Routes</title> in the program's inaugural year?</p>
           <p><hi rend="bold">Spitzer:</hi> <title>American Routes</title> started in April of 98 with an initial group of twelve stations. Public Radio International set a one-year goal of signing-up one-hundred stations to carry the show. We're already at around sixty-five stations (see the carriage list accompanying this interview). They are an interesting cross-section, ranging from news and information to community-based stations to classical stations,jazz stations, small towns, big cities, rural areas, Alaska and Alabama. It's very pleasing. We get letters and email from all over. From mayors and prisoners, musicians, storytellers, gas pump operators. The stations come in different types: sometimes the confidence of a state network joining us urges other state networks to join. When a classical station that has a weekend information format joins us, it encourages other classical stations to join. It's an additive process. We're trying to have broad appeal without sacrificing a sense of core continuity from the Gulf Southern cultures and from what I call "consistent eclecticism" that really speaks to the American experience
 from a perspective seasoned in New Orleans.</p>
-          <div3 id="sc20-4010" n="&quot;American Routes&quot; Staff" type="Sidebar">
+          <div3 id="sc20-4010" type="Sidebar">
             <head><title>American Routes</title> Staff</head>
             <p><title>American Routes</title> is not just a host, with
 music. There is a staff that produces the program and makes it happen
@@ -560,14 +568,14 @@ non-initiated who are a big segment of our audience. -N. S.
 </p>
           </div3>
         </div2>
-        <div2 id="sc20-4006" n="Here Comes the Farm Labor Organizing Committee" type="Article">
+        <div2 id="sc20-4006" n="5" type="Article">
           <head>Here Comes the Farm Labor Organizing Committee</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
           <p rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p>
           <p rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
 seasonal farmworkers, was founded in l967 by Baldemar
@@ -633,14 +641,14 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
 1221 Broadway, Toledo, Ohio 43609; telephone: (419) 243-3456, or Ramiro Sarabia at FLOC's North Carolina office at: (910) 267-1637.</p>
           </div3>
         </div2>
-        <div2 id="sc20-4009" n="Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners" type="Article">
+        <div2 id="sc20-4009" n="6" type="Article">
           <head>Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="1998-12-01">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
+          <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
           <p><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi><title>Walking with the Wind: A Memoir of the Movement</title><hi rend="italic">, New
 York: Simon and Schuster, 1998. In the category of fiction, the award

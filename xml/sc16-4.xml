@@ -50,6 +50,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc16-41203">
@@ -57,11 +65,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc16-4001" n="Southern Changes 16:4" type="Issue">
         <head> Southern Changes. Volume 16, Number 4, 1994 </head>
         <p><title> Southern Changes</title>. Volume 16, Number 4,
-	Winter, <date value="1994-12-01">1994</date></p>
-        <div2 id="sc16-4002" n="Voting Rights - Failure of Commitment" type="Article">
+	Winter, <date value="1994-12">1994</date></p>
+        <div2 id="sc16-4002" n="1" type="Article">
           <head><hi rend="italic">Voting Rights</hi>&#x2014;Failure of Commitment</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
-          <docDate value="1994-12-01">Vol. 16, No. 4, 1994, pp. 1-3</docDate>
+          <docDate value="1994-12">Vol. 16, No. 4, 1994, pp. 1-3</docDate>
           <p>As we approach the 30th anniversary of the Voting Rights Act, the quiet revolution that the Act has brought to the South is apparent, but public consensus about the racial fairness measures the law provides is shamefully lacking.</p>
           <p>Acting on challenges brought by white voters who allege no harm to themselves, recent Supreme Court decisions and a round of redistricting lawsuits threaten to undo the most effective means to date of providing representation for African American and Latino voters who have endured a history of exclusion.</p>
           <p>Believing that their 1994 election victory confirms white voter sentiment against race-based remedies, Republicans in Congress intend to implement policy initiatives that will undermine the movement toward racial equity. They started by eliminating the funding of the Congressional Black Caucus and the Congressional Hispanic Caucus.</p>
@@ -120,11 +128,11 @@ organizing, and coalition building. Most of all, it will require
 deciding&#x2014;as many did to get us this far&#x2014;that we must
 act.</p>
         </div2>
-        <div2 id="sc16-4003" n="Voting Rights and the Second       Reconstruction: The Rocky Road to the Present...and Beyond" type="Article">
+        <div2 id="sc16-4003" n="2" type="Article">
           <head>Voting Rights and the Second Reconstruction <lb/>The Rocky Road
 to the Present...and Beyond</head>
           <byline>By <docAuthor><name reg="Davidson, Chandler" type="person">Chandler Davidson</name></docAuthor></byline>
-          <docDate value="1994-12-01">Vol. 16, No. 4, 1994, pp. 4-7</docDate>
+          <docDate value="1994-12">Vol. 16, No. 4, 1994, pp. 4-7</docDate>
           <p>The quest for full political equality by people of color in America&#x2014;and particularly in the South&#x2014;is entering a critical phase. Troubling voting rights decisions issued by the Supreme Court, as well as the Republican ascendancy in Congress, increase the sense of foreboding among civil rights forces. People are asking, "Where are we, and where are we going?" Answering this requires us to ask as well, "Where have we been?" The 75th anniversary celebration of an organization that has played such an important role in the modern struggle for minority voting rights in the South is a particularly appropriate event at which to address both questions.</p>
           <p>The evidence we must assess goes back, at the very least, to the First Reconstruction. To streamline my argument, I want to focus on the problems faced by African Americans in a single state, my home state of Texas.</p>
           <p>Texas has long had a lower percentage of black population than any other state in the old Confederacy. The political scientist V.0. Key believed that white resistance to civil rights for blacks increased in direct proportion to the black percentage of the population, other things being equal. When he wrote his magnum opus, Southern Politics, Professor Key therefore singled out Texas in the late 1940s as the Southern state most likely to break free of the shackles of racism and forge a new, progressive trail for the other Southern states to follow. So I want to look at Texas historically, during both the First and Second Reconstructions.</p>
@@ -212,12 +220,12 @@ minority voters.</hi>
             <p>Chandler Davidson is a professor of sociology at Rice University in Houston, Texas and coeditor, with Bernard Grofman, of <title>Quiet Revolution in the South, The Impact of the Voting Rights Act 1965-1990</title>. This article is adapted from remarks prepared for the 75th Anniversary meeting of the Southern Regional Council in Atlanta, Nov. 19, 1994.</p>
           </div3>
         </div2>
-        <div2 id="sc16-4004" n="Twenty Years in the Making and Still       Unresolved:  Ayers Desegregation Suit Has Far-Reaching Impact on       Black Colleges" type="Article">
+        <div2 id="sc16-4004" n="3" type="Article">
           <head>Twenty Years in the Making and Still
 Unresolved:<hi rend="italic"> Ayers</hi> Desegregation Suit Has
 Far-Reaching Impact on Black Colleges</head>
           <byline>By <docAuthor><name reg="Smith, Faye McDonald" type="person">Faye McDonald Smith</name></docAuthor></byline>
-          <docDate value="1994-12-01">Vol. 16, No. 4, 1994, pp. 8-11, 14-16</docDate>
+          <docDate value="1994-12">Vol. 16, No. 4, 1994, pp. 8-11, 14-16</docDate>
           <p>In the heart of Dixie, publicly supported black colleges and universities in Mississippi have been dissected, diluted, or dismantled-on paper-for the past twenty years. Now, many people are concerned and outraged that the breakup of these institutions may actually occur, if proposed changes to address desegregation issues are implemented.</p>
           <p>Race, Mississippi politics, and the survivability of black colleges make a volatile mix that is only part of a complicated, long-standing lawsuit that decries a dual educational system for white and black students. Ayers v. Fordice has slogged through the courts for two decades, yet is still not resolved. The case reached the Supreme Court in 1992, was remanded back to the lower courts for specific remedy, and is expected to wind its way once again before the nation's highest court.</p>
           <p>For now, plaintiffs and defendants are awaiting a lower court ruling on their separate proposals regarding the restructuring of white and black publicly funded colleges and universities. Of particular concern to the plaintiffs is the preservation of traditionally black institutions and the accessibility of higher education to black students.</p>
@@ -337,10 +345,10 @@ would regard that as a passage of time worth celebrating.</p>
           <div3 id="sc16-4024" type="About">
             <p>Faye McDonald Smith is a writer living in Atlanta. She frequently covers business and educational issues.</p>
           </div3>
-          <div3 id="sc16-4005" n="State-Funded Historically Black Colleges       and Universities" type="Sidebar">
+          <div3 id="sc16-4005" type="Sidebar">
             <head>State-Funded Historically Black Colleges and Universities</head>
             <byline>Compiled by <docAuthor><name reg="Leak, Jeffrey">Jeffrey Leak</name></docAuthor></byline>
-            <docDate value="1994-12-01">Vol. 16, No. 4, 1994, p. 10</docDate>
+            <docDate value="1994-12">Vol. 16, No. 4, 1994, p. 10</docDate>
             <p rend="bold">Alabama</p>
             <p>1. Alabama A &#x0026; M University, Normal</p>
             <p>2. Alabama State University, Montgomery</p>
@@ -388,10 +396,10 @@ would regard that as a passage of time worth celebrating.</p>
             <p>33. West Virginia State College, Institute</p>
             <p>34. Bluefield State College, Bluefield</p>
           </div3>
-          <div3 id="sc16-4006" n="Similar Issues in Alabama" type="Sidebar">
+          <div3 id="sc16-4006" type="Sidebar">
             <head>Similar Issues in Alabama</head>
             <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-            <docDate value="1994-12-01">Vol. 16, No. 4, 1994, p. 9</docDate>
+            <docDate value="1994-12">Vol. 16, No. 4, 1994, p. 9</docDate>
             <p>Lawyers for Alabama's HBCUs spent much of February 1995 in a Birmingham federal courtroom arguing their own twenty-year-old higher education desegregation case. When it became clear in the 1960s that desegregation could no longer be avoided, both Auburn University and the University of Alabama built extension campuses in the front yards&#x2014;as it were&#x2014;of Montgomery's Alabama State University and Huntsville's Alabama A&#x0026;M University. Over the ensuing decades, millions of dollars that could have gone for improvements at the predominantly black schools were spent instead to develop competing programs at Auburn University at Montgomery (AUM) and the University of Alabama at Huntsville.</p>
             <p>Interestingly, civil rights lawyer Fred Gray lost a 1968 suit to
 block construction of AUM. In 1983, Gray was among the lawyers who
@@ -408,19 +416,19 @@ statements from the bench that indicated he was close to imposing a
 solution.</p>
           </div3>
         </div2>
-        <div2 id="sc16-4007" n="The 1994 Lillian Smith Book Awards" type="Article">
+        <div2 id="sc16-4007" n="4" type="Article">
           <head>The 1994 Lillian Smith Book Awards</head>
           <byline>By <docAuthor><name reg="SPEARS, ELLEN" type="person">ELLEN SPEARS</name></docAuthor></byline>
-          <docDate value="1994-12-01">Vol. 16, No. 4, 1994, pp. 17-22</docDate>
+          <docDate value="1994-12">Vol. 16, No. 4, 1994, pp. 17-22</docDate>
           <p>The 1994 Lillian Smith Book Awards were presented in Atlanta on
 November 18 to (from left) John Gregory Brown, winner for fiction, and
 Henry Louis Gates and John Dittmer, co-winners for
 non-fiction. Excerpts from their acceptance speeches follow.</p>
-          <div3 id="sc16-4008" n="John Gregory Brown: Decorations in a Ruined Cemetary" type="Article">
+          <div3 id="sc16-4008" type="Article">
             <head>John Gregory Brown <lb/><hi rend="italic">Decorations in a
 Ruined Cemetary</hi><lb/>(Houghton Mifflin)</head>
             <byline>By <docAuthor><name reg="Brown, John Gregory">John Gregory Brown</name></docAuthor></byline>
-            <docDate value="1994-12-01">Vol. 16, No. 4, 1994, p. 17-19</docDate>
+            <docDate value="1994-12">Vol. 16, No. 4, 1994, p. 17-19</docDate>
             <p>It has occurred to me, as it may have to others, the striking
 parallels between Lillian Smith's first novel, <hi rend="italic">Strange Fruit</hi>, and my own: two white Southerners writing about this great region's great tragedy of racial division and the fierce power that such a division can wield in determining the course of individual lives; two white Southerners attempting to step, with their imaginations, into the shoes of characters on both sides of that great dividing line, creating circumstances where that line is crossed and exploring the pitiful consequences, the injustice and misunderstanding that result from such a trespass.</p>
             <p>I should stop here, though, to make a confession. I had not read
@@ -457,11 +465,11 @@ have sunk and drowned. He should have disappeared. But he didn't.</p>
             <p>"He got some better job," my mother told me.</p>
             <p>Good for him, I thought. Good for him. </p>
           </div3>
-          <div3 id="sc16-4009" n="John Dittmer: Local People" type="Article">
+          <div3 id="sc16-4009" type="Article">
             <head>John Dittmer <lb/><hi rend="italic">Local
 People</hi>(University of Illinois Press)</head>
             <byline>By <docAuthor><name reg="Dittmer, John">John Dittmer</name></docAuthor></byline>
-            <docDate value="1994-12-01">Vol. 16, No. 4, 1994, p. 19-20</docDate>
+            <docDate value="1994-12">Vol. 16, No. 4, 1994, p. 19-20</docDate>
             <p>I am proud to receive the award named for Lillian Smith, who was active in the struggle for social justice long before most Americans could even conceive of a nation that was not governed by racial proscription and segregation. And I know that in recognizing this book, you are also honoring the "local people" whose stories I have tried to tell.</p>
             <p>Nearly a half century ago, black World War II veterans like Amzie
 Moore, Aaron Henry, and Medgar Evers returned home fighting, vowing to make Mississippi safe for democracy. In the mid-1950s, however, the hopes raised by the <hi rend="italic">Brown</hi> decision were dashed by a combination of Citizens' Council thuggery and the Eisenhower administration's indifference to violations of federal law in Mississippi.</p>
@@ -482,11 +490,11 @@ then, have an obligation to tell the stories of the unsung black women
 and men who were the real heroes of that turbulent period in our
 history. And I am particularly pleased that the Southern Regional Council, through this award, will make it possible for this story of the freedom struggle in Mississippi to reach a larger audience. Thank you all, very much. </p>
           </div3>
-          <div3 id="sc16-4010" n="Henry Louis Gates: Colored People: A Memoir" type="Article">
+          <div3 id="sc16-4010" type="Article">
             <head>Henry Louis Gates<lb/><hi rend="italic">Colored People: A
 Memoir</hi> (Knopf)</head>
             <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-            <docDate value="1994-12-01">Vol. 16, No. 4, 1994, p. 20-22</docDate>
+            <docDate value="1994-12">Vol. 16, No. 4, 1994, p. 20-22</docDate>
             <p>Gates's comments are excerpted from the "Writers Making a Difference" workshop at the SRC annual meeting, which followed the Lillian Smith Awards Luncheon.</p>
             <p><hi rend="bold">Gates:</hi> The Kerner Commission report [on the
 1960s rebellions] did not talk about class. It talked about two nations, white and black&#x2014;because of the residue of white racism. It was a moral warning. Now we have two nations, one is rich and one is poor. And in the black "community"&#x2014;also two nations; one is rich and one is poor. We always had class in the black community, but not a class of black people who had white money, as my mother used to say, as opposed to colored money. We used to live in the same neighborhood because of segregation: you could see the preacher, you could see the doctor, you could see the undertaker. You had role models. Now, I live in the suburbs. And so do a lot of my counterparts, whether they're in Atlanta or Birmingham or Montgomery or wherever. I mean we live in integrated neighborhoods, our kids go to integrated schools, etcetera. This is one of the things that I tried to get at in <hi rend="italic">Colored People</hi>. There were many gains but there were costs, and no one could predict those costs. No one could predict the world in which we live today, a world in which the black community is riven straight down the center by class.</p>

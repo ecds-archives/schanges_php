@@ -50,6 +50,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc13-41203">
@@ -57,11 +65,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc13-4001" n="Southern Changes 13:4" type="Issue">
         <head>Southern Changes.  Volume 13, Number 4, 1991</head>
         <p><title>Southern Changes.</title>  Volume 13, Number 4,
-	       <date value="1991-11-01">1991</date></p>
+	       <date value="1991-11">1991</date></p>
         <div2 id="sc13-4002" n="1" type="Article">
           <head>Empowerment and Democratic Education</head>
           <byline>By <docAuthor><name reg="Gonzalez, Irma" type="person">Irma Gonzalez</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 3-6</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 3-6</docDate>
           <p>IN THE LAST DECADE, empowerment has surfaced as an important theme in the women's movement, community organizing and the progressive movement for peace and social justice. It has also emerged as a concept in the push for democratic education.</p>
           <p>Virtually all serious discussions of empowerment emphasize the importance of community--of support and shared struggle in the process of empowerment. In fact, most empowerment theorists see individual and community destinies as interdependent and mutually reinforcing. Thus, empowerment is often described as a process of individual and group transformation in which individuals develop "mastery of their lives" and "participatory competence" through group problem-solving and collective action. Empowerment comes through dialogue and shred work to improve the lives of all members of a community. In the classroom, the empowerment of any one student is thus tied to the empowerment of her or his classmates. Or, as one teacher describes it, it is the climate of mutual respect in her class, where the group accepts that</p>
           <p>
@@ -118,7 +126,7 @@ ledge the humanity and aspiration of young people?</p>
         <div2 id="sc13-4003" n="2" type="Article">
           <head>Bloodlines: A Case Study of Educational Empowerment</head>
           <byline>By <docAuthor><name reg="MacLeod, Jay" type="person">Jay MacLeod</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 7-9</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 7-9</docDate>
           <p>THE RURAL ORGANIZING AND CULTURAL CENTER (ROCC) is a county-wide membership organization serving Holmes County, Miss., one of the nation's poorest counties. Through community organizing, ROCC strives to bring about changes in the social-economic-political fabric of the county that address the causes of poverty.</p>
           <p>As its name implies, the Rural Organizing and Cultural Center is founded on the premise that community organizing and local culture should reinforce each other. Personal and collective empowerment require an awareness of our culture and history but this awareness doesn't happen automatically. Appreciation of culture needs to be nurtured and this ROCC has endeavored to do.</p>
           <p>The year 1988 marked the birth of a new ROCC project designed to recover and explore local history. As part of a summer educational program serving sixty youngsters, a class of eighth and ninth graders produced <title>Bloodlines</title>, a seventy-page magazine based on interviews with elderly residents of the county.</p>
@@ -147,7 +155,7 @@ learn to organize, group, sequence, and paragraph--to make sense of the written 
         <div2 id="sc13-4004" n="3" type="Article">
           <head>Communities and Education</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 9-11</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 9-11</docDate>
           <p>Virtually every report on public education in the last half-decade has worried about one central, demographic projection: in the face of growing poverty, racial minorities--the least educated, the least skilled, and the mast frequent victims of discrimination--will be the fastest growing segment of our workforce over the next fifty years. Unless public education improves for these groups, all Americans will suffer losses in productivity, social security, and, perhaps, domestic tranquility.</p>
           <p>While these statistics have a compelling message, other trends--largely overlooked--will also have profound consequences for education in America Because of the decline in the birthrate of most American families, the nation has experienced over the last twenty years a decline in the number of school-age children. This trend has reduced to a very small minority in the population the number of American households which now have children in elementary or secondary public schools.</p>
           <p>In 1960 virtually half of all households had children under the age of 18. By 1988 hardly more than one in three households had such children. When adjusted to reflect only households with children of school age, these figures shrink to only one in five. Therefore, today only twenty percent of the households in the nation have children of school age. In several urban and rural communities, this decline in the real connection between public schools and the community has become even more pronounced, due to white flight to suburbs or private schools over the last twenty years. In Atlanta, for example, the enrollment in public education declined from a level of 115,582 in 1969 to only 61,378 in 1990.</p>
@@ -175,7 +183,7 @@ involvement. Too often, school administrators, social service agencies, and busi
         <div2 id="sc13-4005" n="4" type="Article">
           <head>Selma: What Has Changed?</head>
           <byline>By <docAuthor><name reg="Matthews, Christina" type="person">Christina Matthews</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 12-15</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 12-15</docDate>
           <p>More than two decades after the civil rights movement came to Selma. Ala, the public school system there remains segregated. Schools in Selma, like many schools throughout the U.S.. have been resegregated within the city, within buildings, and within classrooms. 1990 saw angry parents begin to protest when the first superintendent to challenge the Selma system--not coincidentally also the first African American superintendent--was fired, in a Board of Education (BOE) vote divided strictly along racial lines.</p>
           <p>Blatant as the problem is in Selma, it is dangerous to see it as an exception. Selma is not just a place somehow stuck in time, failing to be enlightened while the rest of the country has progressed. Tracking in the schools plagues New Haven, Conn.'s children as it does Selma's. Harassment for organizing opposition to such institutions occurs elsewhere as well. Certainly George Bush, in calling for the "power of the individual" suggests this country's intolerance for collective action, and its impatience with calls for a reshaping of institutions.  In a sense, Selma once again stands as an example. a place where the injustices of a racist and classist society are blatant enough as to make them easily recognizable.</p>
           <p>Though the Voting Rights Act followed closely on the heels of the violence on the Edmund Pettus Bridge, many things haven't changed in Selma. In this small Southern city of 27,000, 53 percent of whom are black. Joe T. Smitherman, the mayor who in 1965 lauded Sheriff Jim Clark's infamous attack on demonstrators at the Edmund Pettus Bridge. still holds that office. Clark himself is no longer the sherift but F. D. "Cotton" Nichols, a deputy in 1965, now holds the position. Then-city attorney Mclean Pitts is gone, but his son, Henry Pitts, now defends the city's interests on legal matters. Only in 1972 did Selma begin to elect city council members by district rather than in at-large elections.</p>
@@ -236,7 +244,7 @@ students than to black ones.</p>
         <div2 id="sc13-4006" n="5" type="Article">
           <head>Focus on School Desegregation: Is the Past Repeating?</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 17-19</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 17-19</docDate>
           <p>
             <hi rend="bold">Introduction</hi>
           </p>
@@ -246,7 +254,7 @@ students than to black ones.</p>
           <div3 id="sc13-4007" type="Article">
             <head>The Harmful Impact of Segregation</head>
             <byline>By <docAuthor><name reg="Griffin, John A.">John A. Griffin</name></docAuthor></byline>
-            <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 17-19</docDate>
+            <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 17-19</docDate>
             <p>In the South, it was known by only a very few that a major research project centered in Atlanta provided data which may well have influenced the 1954 <hi rend="italic">Brown v. Board of Education</hi> decision and the Court's implementation order thirteen months later.</p>
             <p>Court decisions during the forties and early fifties had made it clear that a Supreme Court decision on segregated schools was imminent. In thirteen southern states segregated schools were mandated by state law, and <hi rend="italic">de facto</hi> segregation was to be found in other regions. These dual school systems were operating under the doctrine of "separate but equal" as set forth in <hi rend="italic">Plessy v. Ferguson</hi>, which the Supreme Court had upheld in 1896. In 1952 the Court had heard oral arguments in five cases challenging the constitutionality  of segregated schools. These cases arose in various regions and were consolidated in the <hi rend="italic">Brown</hi> cases.</p>
             <p>There was no doubt that there were separate school systems, but there was insufficient data on the extent to which the separate systems were equal. In response to the need for such data the Ford Fund for the Advancement of Education decided to provide funds for a major study of dual school systems in the South as well as in other regions of the nation. But major universities in the South declined to be involved in a project so politically sensitive. So the Fund decided to bring a team of writers and scholars together and manage the study from its own offices.</p>
@@ -275,7 +283,7 @@ mended eleven proposals for action whatever the Court's decision. One of the pro
           <div3 id="sc13-4f2.008" type="Article">
             <head>Excerpts from <title>School Desegregation. A Social Science Statement</title></head>
             <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-            <docDate value="1991-11-01">Vol. 13, No. 4, 1991, p. 19</docDate>
+            <docDate value="1991-11">Vol. 13, No. 4, 1991, p. 19</docDate>
             <p>
               <hi rend="bold">III: Necessary conditions for effective <lb/>
 desegregation</hi>
@@ -303,7 +311,7 @@ Cambridge, MA 02138</p>
         <div2 id="sc13-4009" n="6" type="Review">
           <head>The Poor You Have With You</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991</docDate>
           <p><title>The Truly Disadvantaged</title>, by William Julius Wilson. (University of Chicago Press, 1987. xi. 254 pp.).<lb/><title>The Closing Door</title>, by Gary Orfield and Carole Ashkinaze, with a Foreword by Andrew Young. (University of Chicago Press, 1991. xx, 254 pp.).<lb/><title>The Undeserving Poor</title>, Michael B. Katz. (Pantheon Books, 1989. ix, 293 pp.).<lb/><title>A Common Destiny: Blacks and American Society</title>. Gerald David Jaynes and Robin M. Williams, Jr., editors. (National Academy Press. 1989. xiv. 608 pp.).<lb/><title>Unemployed and Uninsured</title>, and other occasional papers of the Center on Budget and Policy Priorities, Washington, D.C. 1991.<lb/><title>The State of America's Children 1991</title>, by the Children's Defense Fund, Washington, D.C.</p>
           <p>Not long ago I wrote in these pages that there seems to be no end to books about Atlanta. I had not known then of <title>The Closing Door</title>. After reading it one can only wish that there will be at least more book, one able to report that the blockage of most of black Atlantans from decent life chances which Mr. Orfield and Ms. Ashkinaze convincingly document, has been opened. Getting through <title>The Closing Door</title> is a struggle. It is an even more saddening and depressing study than is <title>The State of America's Children 1991</title> for though one comes from that full of sorrow and anger over our mistreatment of our children it is possible to feel at least a hope that changed political policies could make a great difference. <title>The Closing Door</title>, on the other hand, depicts the miring of people behind connected walls of social structure that are deeply grounded in social and economic realities, ones not likely to respond to such political decisions as we seem capable of. So it is hardly a criticism of the book to say that its least persuasive pages are those few at its end which discuss "what must done."</p>
           <p>Prior to those, the situations of black Atlantans in education, employment, and housing are relentlessly analyzed. In every area, the finding is that while many black Atlantans have done very well most have not, and that for them the conditions are worsening, a decline coincident with the Republican administrations since the early 1980s The door is closing for them.</p>
@@ -346,7 +354,7 @@ concludes as had Rustin that the welfare of America's poor, black and non-black,
         <div2 id="sc13-4010" n="7" type="Review">
           <head>The Ignorance of the Learned.</head>
           <byline>Reviewed by <docAuthor><name reg="Bussey, Charles J." type="person">Charles J. Bussey</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 25-26</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 25-26</docDate>
           <bibl><title>Making Haste Slowly: The Troubled History of Higher Education in Mississippi</title> by David G. Sansing. (Jackson: University Press of Mississippi, 1990, xii, 309 pp.).</bibl>
           <p>Publish or Perish! This argument continues to rage among academics, and it ignites passionate debates at my university today.
 <pb n="26"/></p>
@@ -372,7 +380,7 @@ concludes as had Rustin that the welfare of America's poor, black and non-black,
         <div2 id="sc13-4011" n="8" type="Review">
           <head>Portrait of Its People</head>
           <byline>Reviewed by <docAuthor><name reg="Griffin, John" type="person">John Griffin</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 26-27</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 26-27</docDate>
           <bibl><title>Living Atlanta: An Oral History of the City, 1914-1948,</title> by Clifford M. Kuhn, Harlon E. Joye, and E. Bernard West (Athens: University of Georgia Press, 1990. 406 pp., photographs, notes.).</bibl>
           <p>The "official" history of Atlanta, a three-volume work produced some years ago by the Atlanta Historical Society, was a painstakingly assembled work compiled from many sources and written by a historian and a journalist with extensive help from the Society's staff.</p>
           <p><title>Living Atlanta</title> is a different but no less important book, a history edited and organized by two historians and a sociologist and published jointly with the Historical Society.  Most of its raw material came not from traditional historical sources but from the memories of 173 men and women who lived in Atlanta at some time during the years 
@@ -391,7 +399,7 @@ between 1914 and 1948.</p>
         <div2 id="sc13-4012" n="9" type="Review">
           <head>Tell About the South</head>
           <byline>Reviewed by <docAuthor><name reg="Knox, Idris" type="person">Idris Knox</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991, pp. 27-28</docDate>
+          <docDate value="1991-11">Vol. 13, No. 4, 1991, pp. 27-28</docDate>
           <bibl><title>The Southern Writer in the Post-Modern World,</title> by Fred Hobson. (University of Georgia Press, 1991, $17.95.).</bibl>
           <p>Fred Hobson's book is full of ideas and examples without being pedantic--light and serious all you haven't read any of the authors he talks about, then attend to that before settling back to enjoy how he places them, where they fit in. How do we consider these writers who have gained national prominence since the 1960s? How do they differ from their predecessors? How are they inspiring and how do they disappoint? As Professor of English at UNC Chapel Hill, Hobson is  qualified to explore, follow hunches and state a few 
 <pb n="28"/>
@@ -415,7 +423,7 @@ She writes social commentary, but also about dreams. Hobson shows how she replie
         <div2 id="sc13-4013" n="10" type="Review">
           <head>An Abrupt Reversal</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1991-11-01">Vol. 13, No. 4, 1991,
+          <docDate value="1991-11">Vol. 13, No. 4, 1991,
 	       pp. 30-31</docDate>
           <bibl><title>Frank Porter Graham and the 1950 Senate Race in North Carolina,</title> by Julian M. Pleasants and Augustus M. Burns. (University of North Carolina Press, 1990, xv, 356 pp.).</bibl>
           <p>The Republican Party, and especially its southern wing, must be the most ideological major party in American history, and has been becoming so since the Goldwater candidacy in 1964, an overwhelming defeat which transformed a party of inertia into one of generative force.</p>

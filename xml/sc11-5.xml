@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc11-51203">
@@ -64,7 +72,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc11-5001" n="Southern Changes 11:5" type="Issue">
         <head>Southern Changes.  Volume 11, Number 5, 1989</head>
         <p><title>Southern Changes</title>.  Volume 11, Number 5,
-	       <date value="1989-11-01">1989</date></p>
+	       <date value="1989-11">1989</date></p>
         <div2 id="sc11-5002" n="2" type="Article">
           <head>Land of Deepest Shade: An Interview with John McWilliams</head>
           <byline>
@@ -72,7 +80,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
               <name reg="Rankin, Tom" type="person">Tom Rankin</name>
             </docAuthor>
           </byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
           <p>EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
 more than a hundred photographs by John McWilliams, is currently on
 view at the High Museum of Art in Atlanta. A book by the same
@@ -301,7 +309,7 @@ explore that.</p>
         <div2 id="sc11-5003" n="1" type="Article">
           <head>Native Southerners</head>
           <byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
           <div3 id="sc11-5004" type="Section">
             <p>Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
@@ -674,7 +682,7 @@ cultural and racial issue of the twenty-first century.</p>
         <div2 id="sc11-5008" n="8" type="Review">
           <head>The Law.</head>
           <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
           <bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
 Harvard University Press, 1987. 316 pp. $25. Paperback edition, 1989,
@@ -849,8 +857,8 @@ News</title>, May/June, 1989.)</p>
         <div2 id="sc11-5009" n="7" type="Review">
           <head>Politics of Nativism.</head>
           <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
           <bibl><title>The Party of Fear: From Nativist
 Movements to New Right in American History</title> by David H. Bennett
 (University of North Carolina Press, 1988. 509 pp. $29.95.)</bibl>
@@ -948,7 +956,7 @@ now a U.S. Air Force historian living in Ohio.</p>
         <div2 id="sc11-5019" n="5" type="Review">
           <head>Victorian Reformer.</head>
           <byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
           <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
 Georgia Press, 1989. 192 pp. $25.)</bibl>
@@ -1021,7 +1029,7 @@ American justice.</p>
         <div2 id="sc11-5010" n="6" type="Review">
           <head>Transformed Color</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
           <bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
 Ill.: Waveland Press, 1988, second edition. Paper, xii, 257
@@ -1119,7 +1127,7 @@ rewards the reader who keeps at it.</p>
         <div2 id="sc11-5011" n="4" type="Review">
           <head>A New Heaven and Earth.</head>
           <byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
           <bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
 1989. 416 pp. $19.95.)</bibl>
@@ -1260,7 +1268,7 @@ marriage and family therapy.</p>
               <name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut, Jr.</name>
             </docAuthor>
           </byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
           <p>I spoke recently in Pittsburgh at an annual NAACP
 banquet. Ordinarily, NAACP types are leery of me because they often
 naively believe every societal problem in the world can be settled in
@@ -1335,7 +1343,7 @@ writer.</p>
         <div2 id="sc11-5013" n="3" type="Review">
           <head>Portraits from Slavery.</head>
           <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline>
-          <docDate value="1989-11-01">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
+          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
           <bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of
 Texas, 1989. Paper, 144 pp. $19.95.)</bibl>

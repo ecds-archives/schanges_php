@@ -53,6 +53,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc17-21203">
@@ -60,14 +68,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
       <div1 id="sc17-2001" n="Southern Changes 17:2" type="Issue">
         <head>Southern Changes.  Volume 17, Number 2, 1995</head>
         <p><title>Southern Changes</title>. Volume 17, Number 2,
-	    <date value="1995-06-01">1995</date></p>
-        <div2 id="sc17-2002" n="Willful Retreat From Justice" type="Article">
+	    <date value="1995-06">1995</date></p>
+        <div2 id="sc17-2002" n="1" type="Article">
           <head>Willful Retreat From Justice</head>
           <byline>
             <docAuthor><name reg="Carter, Selwyn" type="person">Selwyn
 	       Carter</name>, Director of SRC Voting Rights Programs</docAuthor>
           </byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 1-3</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 1-3</docDate>
           <p>In this thirtieth anniversary year of the 1965 Voting Rights Act, the United States Supreme Court is busily erecting new barriers to the voting rights and political representation of African Americans and other minorities.</p>
           <p>This summer, in the name of a color-blind Constitution, the Court ruled that any use of race to prepare redistricting plans should be subject to strict scrutiny from the federal bench.</p>
           <p>In striking down a majority-black congressional district in Georgia, in dismissing--on technical grounds--a case involving a majority-black district in Louisiana, and in agreeing to add to its calendar for the October term two redistricting cases from Texas and North Carolina, the Court has opened the door to a new round of legal challenges to minority representation. Further, by restricting the authority of the Department of Justice under section 5 of the Voting Rights Act, the Court has weakened the federal protection and intervention which is indispensable for African Americans and other minorities seeking fairness and non-discrimination.</p>
@@ -96,13 +104,13 @@ in this issue of <hi rend="italic">Southern Changes</hi>) editors Chandler David
           <p>The dilemma facing African Americans and other minorities today is that while many white Americans continue to express support for the broad principle of racial fairness, they continue to resist the specific and practical steps necessary to achieve an equal and non-discriminatory society.</p>
           <p>For the Court to rule in 1995 that race-conscious redistricting violates the principle of a color-blind constitution is to ignore what has been a bitter reality for African Americans since the three-fifths clause was written into the Constitution--neither the Constitution nor the society has ever been color-blind. Despite a civil war, a civil rights movement, several civil rights acts, a voting rights act, amendments to the Constitution, and decades of litigation, race is still as central an issue in American life as it was when the nation was founded. Race-based remedies are a necessary means of redressing historical racial oppression and discrimination in the pursuit of justice.</p>
         </div2>
-        <div2 id="sc17-2003" n="The Engaged Observer" type="Article">
+        <div2 id="sc17-2003" n="2" type="Article">
           <head>The Engaged Observer</head>
           <byline>
             <docAuthor><name reg="Amberg, Rob" type="person">Rob
 	       Amberg</name> and <name reg="Dotter, Earl" type="person">Earl Dotter</name></docAuthor>
           </byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 4-13</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 4-13</docDate>
           <p>Editor's note: In the following pages Southern Changes features the work of two excellent and widely recognized contemporary social photographers--Rob Amberg and Earl Dotter--accompanied by brief autobiographical comments and discussion of photographic strategies. Amberg's pictures have appeared regularly in Southern Changes, providing complement and counterpoint to a number of writers' essays. Here we join his words to a selection of photos drawn from projects he has undertaken working from his base in Madison County, North Carolina. For years, Earl Dotter, one of the most well-known of American photographers, has documented the lives and livelihoods of working people. From an early emphasis on occupational health and safety, Dotter has expanded his range of subjects to include environmental hazards to public health.</p>
           <p rend="bold">Rob Amberg:</p>
           <p>For much of my twenty-year career in photography I have wrestled with issues of participation and observation: how to play an active role and establish everyday relationships in the rural communities that I photograph. This takes a lot of time. It also makes it difficult to earn a living doing engaged photography.</p>
@@ -155,7 +163,7 @@ nationally. I have begun projects on sustainable agriculture with the
 Rural Advancement Foundation International and, with the Appalachian
 Consortium, documentation of the current construction of a corridor of
 Interstate 26 as it cuts through my county.</p>
-          <pb n="5"/>
+          <pb n="9"/>
           <p rend="bold">Earl Dotter:</p>
           <p>By way of contrast, I now reside in the county where Rob Amberg
 grew up -- Montgomery County, Maryland. From there I head out to my assignments. I think Rob is fortunate to work where he lives. But a different set of challenges meets photographers who must travel to the locations where their subjects are.</p>
@@ -235,11 +243,11 @@ can only come over time. This has been key in my ability to succeed as
 a freelance photojournalist, and to make a contribution in which I can
 take pride.</p>
         </div2>
-        <div2 id="sc17-2005" n="The Last Innocents The Civil Rights Movement and the Teaching of High School History" type="Article">
-          <head>The Last Innocents The Civil Rights Movement and the Teaching of
+        <div2 id="sc17-2005" n="3" type="Article">
+          <head>The Last Innocents: The Civil Rights Movement and the Teaching of
 High School History</head>
           <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 14-17</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 14-17</docDate>
           <p>In 1974 Pantheon published the first revisionist textbook of state
 history in the United States, <hi rend="italic">Mississippi: Conflict
 and Change</hi>, edited by Charles Sallis and myself. The Southern Regional Council awarded the book the 1976 Lillian Smith Award for nonfiction, but the State of Mississippi rejected it for use as a public school text. This led to the lawsuit <hi rend="italic">Loewen et al. v. Turnipseed, et al.</hi>, which we finally won in 1980. As a result, Mississippi was ordered to adopt our textbook for six years beginning in 1980.</p>
@@ -312,7 +320,7 @@ two fictional white FBI agents who play out the hoary "good cop/bad
 cop" formula and in the process, double-handedly solve the murders. In
 reality, everyone in east Mississippi knew for weeks who did
 it. Supporters of the civil rights movement, including Michael
-Schwerner's widow, Rita, and every white northern friend<pb n="15"/>the movement
+Schwerner's widow, Rita, and every white northern friend<pb n="16"/>the movement
 could muster pressured Congress and the federal executive to force the
 FBI to open a Mississippi office and make bringing the murderers to
 justice a priority.<ref target="sc17-2001n3">3</ref> No innovative
@@ -398,7 +406,7 @@ the Montgomery movement and Martin Luther King, <hi rend="italic">American Adven
 movement pressured Congress to pass the 1964 Civil Rights Act, but in
 its vignette-chapter on Lyndon Johnson,<hi rend="italic">Adventures</hi> gives the credit to LBJ and Robert
 Kennedy.</note>
-          <div3 id="sc17-2035" n="untitled" type="sidebar">
+          <div3 id="sc17-2035" type="sidebar">
             <p>The twelve American history textbooks surveyed in <title>Lies My
 Teacher Told Me</title>, by James W. Loewen:</p>
             <p>
@@ -467,10 +475,10 @@ Columbus</title>, a "subversively true" poster book which also resulted from
 his research on American history textbooks.</p>
           </div3>
         </div2>
-        <div2 id="sc17-2006" n="BOOKS: Not So Quiet Anymore." type="Review">
-          <head>BOOKS<lb/>Not So Quiet Anymore.</head>
+        <div2 id="sc17-2006" n="4" type="Review">
+          <head>BOOKS: <lb/>Not So Quiet Anymore.</head>
           <byline>Reviewed by <docAuthor><name reg="Karlan, Pamela S." type="person">Pamela S. Karlan </name></docAuthor></byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
           <bibl><title>Quiet Revolution in the South: The Impact of the
 Voting Rights Act, 1965-1990</title>, edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</bibl>
           <p>There is a deep irony in the title of Chandler Davidson and Bernard Grofman's massive study of the Voting Rights Act's first twenty-five years. The revolution isn't so quiet anymore. Lani Guinier's ill-fated nomination, the creation of new majority-nonwhite legislative districts following the 1990 census, the Republican takeover of Congress, and now the Supreme Court's action overturning the 11th congressional district in Georgia have generated huge controversy over the Act's goals, assumptions, and techniques. Critics of the Voting Rights Act have seized the rhetorical and anecdotal high ground, throwing around phrases such as "balkanization" and "political apartheid," and examples such as former Virginia Governor Doug Wilder, U.S. Representative Gary Franks of Connecticut, and Dallas Mayor Ron Kirk. The critics' underlying assumptions are that the Act is no longer necessary, because black voters now participate fully in the political life of the Nation, and that the Act is pernicious, because it magnifies racial tensions and denies the possibilities of cross-racial coalitions and representation.</p>
@@ -514,10 +522,10 @@ Morgan Professor of Law at the University of Virginia, and a 1994-1995
 Visiting professor at Harvard Law School.</p>
           </div3>
         </div2>
-        <div2 id="sc17-2007" n="The Continuum of Struggle" type="Review">
+        <div2 id="sc17-2007" n="5" type="Review">
           <head>The Continuum of Struggle</head>
           <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995 pp. 21-22</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 21-22</docDate>
           <bibl><title>Georgia in Black and White: Explorations in the
 Race Relations of a Southern State, 1865-1950</title>, edited by John C. Inscoe (University of Georgia Press, 1994, 312 pages).</bibl>
           <p>If, like me, you went to school during the South's long Age of Denial, and if, like me, your introduction to Southern history came years before it was corrected by C. Vann Woodward, this book will come as a revelation.</p>
@@ -575,10 +583,10 @@ me a copy of <title>Georgia in Black and White</title>. </p>
             <p>Calvin Kytle is a retired publisher living in Chapel Hill, N. C. He was the author of "Race in the News" (1950), the Southern Regional Council's first study of discrimination in the press, and served briefly as deputy director of the U.S. Community Relations Service in the 1960s.</p>
           </div3>
         </div2>
-        <div2 id="sc17-2008" n="Muted Voices" type="Review">
+        <div2 id="sc17-2008" n="6" type="Review">
           <head>Muted Voices</head>
           <byline>Reviewed by <docAuthor><name reg="Delaney, Paul" type="person">Paul Delaney</name></docAuthor></byline>
-          <docDate value="1995-06-01">Vol. 17, No. 2, 1995</docDate>
+          <docDate value="1995-06">Vol. 17, No. 2, 1995</docDate>
           <bibl><title>The Black Press in Mississippi, 1865-1985</title>, by Julius E. Thompson (University Press of Florida, 1993, 242 pages).</bibl>
           <p>Thompson's is a fascinating and important, if not well-written,
 account of the black press in Mississippi, from its feeble beginnings in the aftermath of defeat and ruin at the end of the Civil War up through the mid-1980s. A press is supposed to be the voice of a people, but for decades what Thompson finds is not pretty: black editors "caught in a no-man's land, where they dared not criticize local whites," following a policy--as <title>Pittsburgh Courier</title> columnist George S. Schyler put it--of "generally avoiding nine-tenths of the real news and practically all of the possible topics crying for comment."</p>

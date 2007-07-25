@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc07-21203">
@@ -64,11 +72,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc07-2001" n="Southern Changes 7:2" type="Issue">
         <head>Southern Changes.  Volume 7, Number 2, 1985</head>
         <p><title>Southern Changes</title>.  Volume 7, Number 2,
-	       <date value="1985-05-01">1985</date></p>
+	       <date value="1985-05">1985</date></p>
         <div2 id="sc07-2002" n="5" type="Review">
           <head>Vengeance and Justice</head>
           <byline>By <docAuthor><name reg="Hahn, Steven" type="person">Steven Hahn</name></docAuthor></byline>
-          <docDate value="1985-05-01">Vol. 7, No. 2, 1985, pp. 22-24</docDate>
+          <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 22-24</docDate>
           <bibl><title>Vengeance and Justice: Crime and Punishment in the
 Nineteenth Century South.</title> By Edward L. Ayers. Oxford
 University Press, 1984.384 pp. $24.95</bibl>
@@ -266,7 +274,7 @@ Populism.</title> (Oxford Univ. Press, 1983).</p>
         <div2 id="sc07-2003" n="4" type="Review">
           <head>Victorian to Modernist Thought in the South, 1919 - 1945"</head>
           <byline>By <docAuthor><name reg="Hobson, Fred" type="person">Fred Hobson</name></docAuthor></byline>
-          <docDate value="1985-05-01">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
+          <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
           <bibl><title>The War Within: From Victorian to Modernist Thought in
 the South, 1919 - 1945.</title> By Daniel Joseph Singal. University of
 North Carolina Press, 1982.</bibl>
@@ -390,7 +398,7 @@ University of Alabama at Tuscaloosa. His most recent book is
         <div2 id="sc07-2004" n="1" type="Article">
           <head>Games Registrars Play</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1985-05-01">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
+          <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
           <p>Two decades after the passage of the Voting Rights Act, no one
 really knows how many black citizens are registered to vote in the
 South today. While no better basic standard exists by which to measure
@@ -492,7 +500,7 @@ Regional Council.</p>
         <div2 id="sc07-2005" n="2" type="Article">
           <head>Crackdown in the Black Belt: Not-So-Simple Justice</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
-          <docDate value="1985-05-01">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
+          <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
           <p>In a trial that should reveal the distance the Reagan Justice
 Department will travel to cooperate with local white officials in
 suppressing the voting rights of black citizens, the case of <hi rend="italic">United
@@ -1098,7 +1106,7 @@ one vote and a surer chance at fairness for black and white."</p>
         <div2 id="sc07-2006" n="3" type="Article">
           <head>Consorting with the Enemy</head>
           <byline>By <docAuthor><name reg="Witt, Elise" type="person">Elise Witt</name></docAuthor></byline>
-          <docDate value="1985-05-01">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
+          <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
           <p><hi rend="italic"> February 3.</hi> Miami, the cultural
 intermediary. Tropical vegetation, flowering bushes in
 February. Sultry air and a heavy, full moon. Spanish signs on Cuban

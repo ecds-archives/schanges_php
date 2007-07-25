@@ -50,6 +50,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc14-31203">
@@ -57,11 +65,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc14-3001" n="Southern Changes 14:3" type="Issue">
         <head>Southern Changes. Volume 14, Number 3, 1992.</head>
         <p><title>Southern Changes</title>. Volume 14, No. 3. August/September
-<date value="1992-08-01">1992.</date></p>
-        <div2 id="sc14-3002" n="Voting rights denied" type="Article">
+<date value="1992-08">1992.</date></p>
+        <div2 id="sc14-3002" n="1" type="Article">
           <head>Voting rights denied</head>
-          <byline>By <docAuthor><name reg="Editors, the" type="person">the Editors</name></docAuthor></byline>
-          <docDate value="1992-08-01">Volume 14, No. 3, pp. 1-4</docDate>
+          <byline>By <docAuthor><name>The Editors</name></docAuthor></byline>
+          <docDate value="1992-08">Volume 14, No. 3, pp. 1-4</docDate>
           <p>George Bush celebrated the July 4th weekend this year with the most
 flagrantly anti-democratic act of his presidency&#x2014;the veto of
 the National Voter Registration Act. The bill, which passed both
@@ -214,11 +222,11 @@ believe that it would increase electoral participation to any significant
 degree," Mr. Bush said in his veto message.<lb/> ATLANTA JOURNAL
 CONSTITUTION</p>
         </div2>
-        <div2 id="sc14-3003" n="The Salt of Memory&#x2014; Nostalgia, Class,       and the Lesbian in Fried Green Tomatoes at the       Whistle Stop Cafe" type="Article">
+        <div2 id="sc14-3003" n="2" type="Article">
           <head>The Salt of Memory&#x2014; Nostalgia, Class, and the Lesbian in
 <title>Fried Green Tomatoes at the Whistle Stop Cafe</title></head>
           <byline>By <docAuthor><name reg="Wilson, Julie" type="person">Julie Wilson</name></docAuthor></byline>
-          <docDate value="1992-08-01">Volume 14, No. 3, pp. 5-11</docDate>
+          <docDate value="1992-08">Volume 14, No. 3, pp. 5-11</docDate>
           <epigraph>
             <p>"Of course, most of the house is all boarded <corr>up
 and</corr> falling down now, but when we came down the street, the
@@ -659,10 +667,10 @@ works in Atlanta where she is an Emory graduate
 student.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3004" n="Bill Minor's Forty-Five Years of Progressive Journalism" type="Article">
+        <div2 id="sc14-3004" n="3" type="Article">
           <head>Bill Minor's Forty-Five Years of Progressive Journalism</head>
           <byline>By <docAuthor><name reg="Cooper, Michael L." type="person">Michael L. Cooper</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3,
+          <docDate value="1992-08">Vol. 14, No. 3,
 1992, pp. 12-17</docDate>
           <p>Bill Minor received a call in late 1947 from A. J. Liebling, media
 critic for the <hi rend="italic">New Yorker</hi>. Liebling had read
@@ -853,10 +861,10 @@ change just by making people aware of corruption."</p>
             <p>Michael L. Cooper was born and raised in eastern Kentucky. He now lives in New York City where he writes nonfiction for children. This fall Dutton/Lodestar will publish his next book, <title>Playing America's Game: The Story of Negro League Baseball</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3005" n="A Right to Be There" type="Article">
+        <div2 id="sc14-3005" n="4" type="Article">
           <head>A Right to Be There</head>
           <byline>By <docAuthor><name reg="Curry, Constance" type="person">Constance Curry</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 1, 1992, pp.18-23, 25</docDate>
+          <docDate value="1992-08">Vol. 14, No. 1, 1992, pp.18-23, 25</docDate>
           <p>It was Mae Bertha Carter on the phone. "I'm on my way to raise hell with the Mayor," she told me. "The City Council didn't reappoint Beverly to the School Board."</p>
           <p>In 1986, Beverly Carter, daughter of Mae Bertha and Matthew Carter,
 was the first African American to be appointed to the Drew,
@@ -1084,11 +1092,11 @@ sippi Law School, hangs his shingle in front of a Main Street office. Burner Smi
 as they talk about the task before them. "But you know, we won and
 kept our children in the white schools in the 60s by the help of God
 and hard work. Now we'll just have to set these schools straight."</p>
-          <div3 id="sc14-3025" n="And Here I am" type="Article">
+          <div3 id="sc14-3025"  type="Article">
             <head>And Here I am</head>
             <docAuthor>Beverly Carter, Spring, 1979, University of
 Mississippi</docAuthor>
-            <docDate value="1992-08-01">Vol. 14, No. 3, 1992, p. 24</docDate>
+            <docDate value="1992-08">Vol. 14, No. 3, 1992, p. 24</docDate>
             <p>Here I am, my fourth and final year in college. I am proud too, and I feel that I have every right to be. You see my mother only made it to the sixth grade and my father to the seventh. What they gave me in book knowledge was not much, but what they gave me in inspiration was great.</p>
             <p>I look back now and see my beginning. I see that small shabby house where I was born as Beverly Diana Carter, January 27, 1957. I see my mother, Mae Bertha Carter, and my father, Matthew Carter. I see seven sisters and five brothers. I see the fields of cotton and soybeans that surrounded my house, and I see that old gravel road that toughened the bottom of my feet during the hot summer months. I see the cotton sacks I had to pull across my shoulder, and I hear my mother's voice. She is fussing at my older sister for not picking at least one-hundred pounds of cotton today.</p>
             <p>I look back, but instead of smiling, I want to cry. It makes me sad
@@ -1112,10 +1120,10 @@ would say.</p>
 writing a book about the Carters of Sunflower County.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3008" n="RACE" type="Review">
-          <head>RACE</head>
+        <div2 id="sc14-3008" n="5" type="Review">
+          <head>Race</head>
           <byline>Reviewed by <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3, 1992, pp. 26-27</docDate>
+          <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 26-27</docDate>
           <bibl><title>Two Nations: Black and White, Separate, Hostile, Unequal</title> <hi rend="bold">, by Andrew Hacker (Charles Scribners' Sons, New York, 1992,
 xiii, 257 pages)</hi><title>Race:  How Blacks and Whites Think and
 Feel About the American Obsession</title><hi rend="bold">, by Studs Terkel (The New Press, New York, 1992, x, 403 pages)</hi></bibl>
@@ -1148,10 +1156,10 @@ on-going dialogue on race.</p>
             <p>Julian Bond, currently lives in Washington, D. C, and teaches at the University of Virginia.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3009" n="Incidental Ambassadors" type="Review">
+        <div2 id="sc14-3009" n="6" type="Review">
           <head>Incidental Ambassadors</head>
-          <byline>Reviewed by <docAuthor><name reg="BLACKFORD, LINDA" type="person">LINDA BLACKFORD</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3, 1992, pp. 28-29</docDate>
+          <byline>Reviewed by <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
+          <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 28-29</docDate>
           <bibl><title>An Education in Georgia</title> <hi rend="bold">, by Calvin Trillin, Foreword by Charlayne Hunter Gault (University of Georgia Press, 1991, 180 pages)</hi></bibl>
           <p>If prevailing wisdom is correct, the events and conditions detailed
 in Calvin Trillin's <hi rend="italic">An Education in Georgia</hi>
@@ -1190,10 +1198,10 @@ reporter with <hi rend="italic">The Observer</hi> of Charlottesville,
 Virginia.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3010" n="Demanding Change" type="Review">
+        <div2 id="sc14-3010" n="7" type="Review">
           <head>Demanding Change</head>
-          <byline>Reviewed by <docAuthor><name reg="MCMILLAN, CECILY" type="person">CECILY MCMILLAN</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3, 1992, pp. 29-32</docDate>
+          <byline>Reviewed by <docAuthor><name reg="McMillan, Cecily" type="person">Cecily McMillan</name></docAuthor></byline>
+          <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 29-32</docDate>
           <bibl><title>Praying for Sheetrock</title> <hi rend="bold">, Melissa Fay Greene (Addison-Wesley, Reading, MA, 1991, 416 pages).</hi></bibl>
           <p>There have been, over the years, more young white liberals than can ever be counted who ventured to small Southern towns hoping to improve the lives and political opportunities of the black people who lived there. Stirred by outrage at what seemed such obviously unjust economic and living conditions, these idealists set to their work&#x2014;as VISTA volunteers, Legal Aid lawyers, tutors, community organizers.</p>
           <p>Some stayed; a trickle keep coming; most, in the end, leave. Their stories of what might be called an internship with the poor get told around the table in Atlanta or Chapel Hill, to grantgivers in New York, to thesis advisors in Cambridge or Ann Arbor.</p>
@@ -1259,10 +1267,10 @@ little place."</p>
             <p>Cecily McMillan is a writer who divides her time between Cambridge, Massachusetts, and Frogmore, South Carolina, where she has been active in local public affairs.</p>
           </div3>
         </div2>
-        <div2 id="sc14-3011" n="Old Truths" type="Review">
+        <div2 id="sc14-3011" n="8" type="Review">
           <head>Old Truths</head>
-          <byline>Reviewed by <docAuthor><name reg="DUNBAR, TONY" type="person">TONY DUNBAR</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3, 1992, pp. 32-33</docDate>
+          <byline>Reviewed by <docAuthor><name reg="Dunbar, Tony" type="person">Tony Dunbar</name></docAuthor></byline>
+          <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 32-33</docDate>
           <bibl><title>The Measure of Our Success, A Letter to My Children and Yours</title>, Marian Wright Edelman (Beacon Press, 97 Pages)</bibl>
           <p>You need to know a little bit about Marian Weight Edelman before
 you pick up this book, or else you might not fully savor its
@@ -1291,10 +1299,10 @@ challenge contained in old truths.</p>
 the South. His latest book was <hi rend="italic">Delta Time</hi>&gt;, about the Mississippi Delta's present look. (An earlier version of this review appeared in the New Orleans <hi rend="italic">Times-Picayune</hi>.)</p>
           </div3>
         </div2>
-        <div2 id="sc14-3012" n="New Georgia" type="Review">
+        <div2 id="sc14-3012" n="9" type="Review">
           <head>New Georgia</head>
           <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
-          <docDate value="1992-08-01">Vol. 14, No. 3, 1992, pp. 33-35</docDate>
+          <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 33-35</docDate>
           <bibl><title>The Politics of Change in Georgia: A Political Biography of Ellis Arnall</title> <hi rend="bold">, by Harold Paulk Henderson (University of Georgia Press, Illustrated, 1991, 345 pages)</hi></bibl>
           <p>When World War II ended, my generation came home to a Georgia in
 which for the first time in our memory gallus-snapping Eugene Talmadge did not personify the state's politics, "Woolhats" and "Rednecks" did not constitute the voting majority, and appeals to white supremacy did not dominate State Capitol rhetoric. In letters from the States, in the pony edition of <hi rend="italic">Time</hi>, and occasionally from bulletins on Armed Forces Radio, we had learned bits and pieces of what had been going on in our absence. (That most of the news from Georgia, unlike that of only few years before, was of a kind to be read with pride rather than embarrassment had been especially appreciated by those of us quartered overseas with Ivy League Yankees.)</p>

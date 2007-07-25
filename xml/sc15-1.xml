@@ -50,17 +50,25 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc15-11203">
     <body id="sc15-11202">
       <div1 id="sc15-1001" n="Southern Changes 15:1" type="Issue">
         <head> Southern Changes. Volume 15, Number 1, 1993 </head>
-        <p><title> Southern Changes</title>. Volume 15, Number 1, Spring, <date value="1993-03-01">1993</date></p>
-        <div2 id="sc15-1002" n="'Freedom Buses' Roll Along Cancer Alley" type="Article">
+        <p><title> Southern Changes</title>. Volume 15, Number 1, Spring, <date value="1993-03">1993</date></p>
+        <div2 id="sc15-1002" n="1" type="Article">
           <head>'Freedom Buses' Roll Along Cancer Alley</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 1-11</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 1-11</docDate>
           <p>
             <hi rend="italic">On the weekend of December 4-6, 1992, more than 2,000 activists from around the South and the nation joined in an unprecedented gathering in New Orleans, drawn together in a common movement for environmental justice. With these unanticipated numbers and the diversity of participants, the meeting at the mouth of the Mississippi may come to be regarded&#x2014;like the October 1991 People of Color Environmental Leadership Summit in Washington, D.C., that inspired it&#x2014;as a watershed in the U S. environmental movement.</hi>
           </p>
@@ -287,10 +295,10 @@ movement that will change the river's course is in full swing. </p>
             <p>Ellen Spears is managing editor of <title>Southern Changes</title>.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1003" n="Anne Braden: Southern Activist" type="Article">
+        <div2 id="sc15-1003" n="2" type="Article">
           <head>Anne Braden: Southern Activist</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 13-14</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 13-14</docDate>
           <p>FOR OVER FORTY-FIVE YEARS, almost as long as the Southern Regional Council has existed, Anne Braden has stood for a South that embodies the very best democratic ideals and traditions. Born in Louisville, Kentucky, and reared in the Deep South, Anne had every opportunity as she was growing up in the 1930s to acclimate herself to the worst traditions of the South&#x2014;the worst habits of a white segregated society. But by the gifts of family and circumstances, and perhaps just that magic that some call fate and others call God's will, she came to understand in time and experience that the South of segregation was wrong in the 1940s, and, by God, the South of segregation need not be forever. While in 1992 that conclusion seems commonplace, for those who were coming of age in the 1930s and '40s, it was a leap of imagination which even the founders of the Southern Regional Council could not grasp in its beginning.</p>
           <p>Anne began in newspaper work in Birmingham, Alabama, and in Kentucky. She soon realized, however, that what she was covering, what she was seeing, needed to be changed more than reported. And so, she began to use her talents as a journalist and her self-made talents as an organizer to work with labor unions and burgeoning groups that later would call themselves civil rights groups. With her husband Carl, she began to change and challenge and did not stop.</p>
           <p>In 1957, the Bradens began to work with the Southern Conference
@@ -320,14 +328,14 @@ in civil rights and their work on anti-war activities were in fact one and the s
           <p>Bless her heart, she suffers fools poorly. She speaks her mind and she's always done so on behalf of what she sees as a just and right society. She always has been impatient with those who find practical problems with moving forward. Always impatient, yet always enduring, she has continued to help define the struggle to empower all citizens to have a voice and a stake in our peculiar institution of democracy.</p>
           <p>These are the examples of a lifetime that Anne Braden has brought to the South and this nation. History, I fear, will not do her justice since Anne's contributions represent characteristics that are not only too rare but too rarely appreciated.</p>
           <p>Tonight we are trying to do what I fear historians will not, to recognize the importance of these characteristics and the contributions they've enabled. Because she has given us a noble model of the qualities that are essential for anyone who works for a just and peaceful world, we have decided to give Anne Braden our highest honor and our deepest appreciation.</p>
-          <div3 id="sc15-1braden.003" n="Acceptance Remarks by Anne Braden" type="Article">
+          <div3 id="sc15-1braden.003" type="Article">
             <head>Acceptance Remarks by Anne Braden</head>
             <byline>
               <docAuthor>
                 <name reg="Staff" type="person">Staff</name>
               </docAuthor>
             </byline>
-            <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 14-16</docDate>
+            <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 14-16</docDate>
             <p>I find the matter of getting awards very awkward. It's something I don't have a long experience in. For most of my adult life I got brickbats and attacks. I learned by on-the-job training how to handle attacks: you use each attack as a platform to reach more people with what you were trying to say.</p>
             <p>I never got any awards until very recent years. The first group I ever got an award from was the local chapter of SCLC. Since then I've gotten some others. I find it a little embarrassing because part of it is longevity. You know if you stay around long enough people figure you must have done something.</p>
             <p>There is a poem I loved when I was young. I don't remember all of it but it is called "Defeat." And the poet is speaking to defeat, to the concept of defeat: "...you have insured that I will not be trapped by withering laurels..." I never had that temptation through most of my life. I'm kind of grateful for that.</p>
@@ -381,10 +389,10 @@ only the South but the country. </p>
             <p>Steve Suitts, executive director of the SRC, made these remarks in presenting a Life Fellows Award to Anne Braden.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1004" n="Remembering Harold and Marge" type="Article">
+        <div2 id="sc15-1004" n="3" type="Article">
           <head>Remembering Harold and Marge</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 17-18</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 17-18</docDate>
           <p>At the Atlanta/Fulton County Public Library November 19, 1992, Harold Fleming, former director of the Southern Regional Council, and Marge Manderson, long-time program officer, researcher, and writer, were memorialized by family and friends. Leslie Dunbar offered the following words.</p>
           <p>MY GOOD FORTUNE and privilege have been to know well both Harold and Marge. They were good and noble people, whom I cherished as friends.</p>
           <p>I worked under Harold at the Council, and later tried to live up to his example, his many examples, as his successor. When I first came to the Council's staff it was Marge, who had already been there for four years, who broke me in&#x2014;she was to be my assistant&#x2014;and who with her unflagging commitment to the Council worked with me during the next several full and challenging and always exciting years.</p>
@@ -417,10 +425,10 @@ and its graciousness and civility belonged as much to us radicals as to any Sout
 Harold and Marge served so well. If we truly honor them, the Council
 will hold to them as they did. </p>
         </div2>
-        <div2 id="sc15-1009" n="State of Change?" type="Review">
+        <div2 id="sc15-1009" n="4" type="Review">
           <head>State of Change?</head>
           <byline>Reviewed by <docAuthor><name reg="McMillan, Cecily" type="person">Cecily McMillan</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 22-23</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 22-23</docDate>
           <bibl><title>South Carolina in the Modern
 Age</title>, by Walter Edgar (University of South
 Carolina Press, 1991, 171 pages).</bibl>
@@ -471,10 +479,10 @@ it has indeed been the history of the state in the modern age.</p>
             <p>Cecily McMillan, writer and political activist, divides her time between Cambridge, Massachusetts, and Frogmore, South Carolina.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1010" n="Extraordinary Actions" type="Review">
+        <div2 id="sc15-1010" n="5" type="Review">
           <head>Extraordinary Actions</head>
           <byline>Reviewed by <docAuthor><name reg="Marshall, Suzanne" type="person">Suzanne Marshall</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 24-25</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 24-25</docDate>
           <bibl>
             <title>Refuse to Stand Silently By:
 An Oral History of Grass Roots Social Activism in America,
@@ -519,14 +527,14 @@ people.</p>
             <p>Suzanne Marshall is on the history faculty of Jacksonville State University in Alabama.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1011" n="Irreconcilable Priorities" type="Review">
+        <div2 id="sc15-1011" n="6" type="Review">
           <head>Irreconcilable Priorities</head>
           <byline>
             <docAuthor>
               <name reg="O'Brien, Thomas V." type="person">Reviewed by Thomas V. O'Brien</name>
             </docAuthor>
           </byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 25-27</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 25-27</docDate>
           <bibl><title>Black Scholar:  Horace Mann
 Bond, 1904-1972</title>,  by Wayne J. Urban
 (University of Georgia Press, 1992, xii, 266 pages, photographs).</bibl>
@@ -575,14 +583,14 @@ at Lincoln involved a plan to alter the historical mission of Lincoln University
             <p>Thomas V. O'Brien is an Assistant Professor of Educational Foundations at Millersville State University, Millersville, Pennsylvania.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1012" n="The FBI's Judicial Agenda" type="Review">
+        <div2 id="sc15-1012" n="7" type="Review">
           <head>The FBI's Judicial Agenda</head>
           <byline>
             <docAuthor>
               <name reg="Adcock-Steffey, Cindy" type="person">Reviewed by Cindy Adcock-Steffey</name>
             </docAuthor>
           </byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 27-28</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 27-28</docDate>
           <bibl><title>Cloak and Gavel: FBI
 Wiretaps, Bugs, Informers and the Supreme Court</title>, by Alexander Charns (University of Illinois Press, 1992, xviii, 206 pages).</bibl>
           <p>In <hi rend="italic">Cloak and Gavel</hi>, Alexander Charns, a Southern civil rights attorney, weaves a tale of deception and intrigue. His proposition is that J. Edgar Hoover, during his forty-eight year reign as director of the FBI, greatly influenced both the make-up and the decisions of the Supreme Court. His tale involves plots that most would find unbelievable:
@@ -614,10 +622,10 @@ the federal judiciary.</p>
             <p>Cindy Adcock-Steffey is a staff attorney with North Carolina Prisoner Legal Services.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1013" n="A Journalist's Education" type="Review">
+        <div2 id="sc15-1013" n="8" type="Review">
           <head>A Journalist's Education</head>
           <byline>Reviewed by <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 29-30</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 29-30</docDate>
           <bibl><title>In Our Place</title>, by Charlayne Hunter-Gault (Farrar, Strauss, Giroux, 1992, 257 pages).</bibl>
           <p>"We were simply doing what we were born to do."</p>
           <p>With this statement, journalist Charlayne Hunter-Gault recalls her
@@ -648,10 +656,10 @@ to do.</p>
             <p>Linda Blackford, who reviewed Calvin Trillin's book about Hunter-Gault's and Hamilton Holmes's desegregation of the University of Georgia in our August/September 1992 issue, is a reporter for <title>The Observer</title>, Charlottesville.</p>
           </div3>
         </div2>
-        <div2 id="sc15-1014" n="Cross-Examining America" type="Review">
+        <div2 id="sc15-1014" n="9" type="Review">
           <head>Cross-Examining America</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1993-03-01">Vol. 15, No. 1, 1993, pp. 30-31</docDate>
+          <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 30-31</docDate>
           <bibl><title>Declarations of Independence</title>, by Howard Zinn (Harper-Collins, 1990, 341
 pages).</bibl>
           <lb/>

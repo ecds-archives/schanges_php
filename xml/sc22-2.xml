@@ -51,6 +51,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc22-21203">
@@ -58,11 +66,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc22-2000" n="Southern Changes 22:2" type="Issue">
         <head>Southern Changes.  Volume 22, Number 2, 2000</head>
         <p> <title>Southern Changes.</title>  Volume 22, Number 2,
-	       <date value="2000-06-01">2000</date></p>
-        <div2 id="sc22-2001" n="New Century Politics" type="Article">
+	       <date value="2000-06">2000</date></p>
+        <div2 id="sc22-2001" n="1" type="Article">
           <head>New Century Politics</head>
           <byline>By <docAuthor><name reg="Johnson, Wendy S." type="person">Wendy S. Johnson</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 3-4</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 3-4</docDate>
           <p>The social activism of the 1960s gave us some of the most powerful and ground-breaking legislation of the last century--legislation that embraced the themes of freedom, justice, and democracy--most notably the Civil Rights Act of 1964 and the Voting Rights Act of 1965. As a result, millions of formerly disfranchised minorities gained a political voice through the power of voting. In the last two decades, we've seen a dramatic and disturbing rightward shift in our national policy. In this new century, we face a number of challenges as the future enforcement of these policies is thrown into doubt.</p>
           <p>As we prepare for the first presidential race of the new century and the much-anticipated and debated 2000 Census count results, minority voting rights are at a crossroads and questions continue to be raised in the enforcement of the Voting Rights Act of 1965.</p>
           <p>Threats to minority voting rights increased shortly after the 1990 reapportionment/redistricting cycle, which resulted in dramatic electoral gains for African-American and Latino voters in the 1992 elections.</p>
@@ -117,10 +125,10 @@ the growing disconnect and disenchantment of young voters with electoral politic
             <p>Wendy S. Johnson is executive director of the Southern Regional Council</p>
           </div3>
         </div2>
-        <div2 id="sc22-2004" n="Soft Money Showered on the States:     Redistricting and Election 2000" type="Article">
+        <div2 id="sc22-2004" n="2" type="Article">
           <head>Soft Money Showered on the States: Redistricting and Election 2000</head>
           <byline>By <docAuthor><name reg="Bender, Edwin" type="person">Edwin Bender</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 4-5</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 4-5</docDate>
           <p>Early in the 2000 election cycle, as the presidential candidates began their campaigns in earnest, the Tennessee Republican State Executive Committee was rolling in
 soft-money contributions passed down from the Republican National State Elections Committee. Usually low on the RNC's priority list for party-building funds, Federal Election Commission (FEC) records show the Tennessee Republican Party had received $423,000 as of August 1999,
 putting it second on the priority list behind California.</p>
@@ -162,10 +170,10 @@ on the role of soft and hard money in state campaigns, see the
 Institute's website at: www.followthemoney.org.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2007" n="The FlimFlam Campaign: Corporations Buy the     Conventions" type="Article">
+        <div2 id="sc22-2007" n="3" type="Article">
           <head>The FlimFlam Campaign: Corporations Buy the Conventions</head>
           <byline>By <docAuthor><name reg="Hightower, Jim" type="person">Jim Hightower</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 6-7</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 6-7</docDate>
           <p>Ready or not, heeeeere they come. [music: Happy
 days are here again] The Republican and Democratic national conventions have come to town! You've seen the pageantry on TV, the bunting and balloons, the speeches...
 but what they haven't shown you is the bald-faced corruption behind the hoopla, the selling of the very conventions that formally choose the nominees of the two big parties.</p>
@@ -217,14 +225,14 @@ conventions, visit the Center for Responsive Politics website at:
 www.opensecrets.org</p>
           </div3>
         </div2>
-        <div2 id="sc22-2010" n="Young Voters Flee the Polls" type="Article">
+        <div2 id="sc22-2010" n="4" type="Article">
           <head>Young Voters Flee the Polls</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 8-9</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 8-9</docDate>
           <p>If nonvoters constituted a political party in America today, far and away more citizens would belong to it than to all other political parties combined-and that party would be growing rapidly. In the 1998 midterm elections, various surveys show that more than six out often eligible voters or 128 million registered voters failed to vote, a 2.5 million increase over the 1994 midterm election. This continues a thirty-eight-year trend of declining participation rates in both presidential and midterm elections. One recent study found that our electorate has decreased to the point that, among the 131 democracies in the world, the United States ranks 103rd in voter participation.</p>
           <p>One of the most alarming realities shaping the steady drift of
 Americans away from the voting booths is that young people, eighteen
@@ -267,10 +275,10 @@ at (404) 522-8764 x39, or by email at:
 whagens@southerncouncil.org.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2012" n="Election 2000 Across the South" type="Article">
+        <div2 id="sc22-2012" n="5" type="Article">
           <head>Election 2000 Across the South</head>
           <byline>By <docAuthor><name reg="Torian, Sarah E." type="person">Sarah E. Torian</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 10-13</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 10-13</docDate>
           <p>Across the South, affirmative action, felony disfranchisement, the environment, and public education hang in the balance as states elect new governors, legislators, congresspeople, and judges. From the potential Republican ascension to complete statewide control in Virginia to the removal of more than sixty senior legislators in Florida due to term limits, this fall's elections will determine who is in control during the post2000 redistricting, whose agendas will be proposed and endorsed, and the extent of minority and female political representation as we enter the next century. Following are brief summaries of some significant elections and issues on the ballot across the South this November.</p>
           <p rend="center">
             <hi rend="bold">Disfranchised Voters in Alabama</hi>
@@ -377,10 +385,10 @@ the presidential election, across the South, 134 House seats, seven Senate seats
             <p>Sarah Torian is editorial coordinator at the Southern Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2014" n="The 2000 Elections and Voting Rights Act     Renewal" type="Article">
+        <div2 id="sc22-2014" n="6" type="Article">
           <head>The 2000 Elections and Voting Rights Act Renewal</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 14-15</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 14-15</docDate>
           <p>Alarmist email messages surfaced in the late 1990s
 claiming that "African-Americans will lose their right to
 vote in 2007." While the 110th Congress will not in any direct sense, be deciding whether or not black or Latino voters will retain the right to vote, key provisions of the Voting Rights Act of 1965--including Section 5, which gives the U.S. Department of Justice enforcement powers in covered jurisdictions--will end in 2007 unless Congress moves to extend them.</p>
@@ -429,10 +437,10 @@ Republican administration hostile to voting rights expansion.</p>
             <p>Ellen Spears is associate director of the Southern Regional Council. You can reach her by e-mail at espears@southerncouncil.org. Preston Quesenberry contributed to this article.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2016" n="Teaching 'Will the Circle Be Unbroken?' in South Carolina Schools" type="Article">
+        <div2 id="sc22-2016" n="7" type="Article">
           <head>Teaching "Will the Circle Be Unbroken?" in South Carolina Schools</head>
           <byline>By <docAuthor><name reg="Raschke, Diane" type="person">Diane Raschke</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 p. 16</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 p. 16</docDate>
           <p rend="italic">On June 14-15, SRC consultant and former education programs director Marcia Klenbort conducted an in-depth workshop for teachers from across South Carolina on using "Will the Circle Be Unbroken?" in grades 6 through 12. Following the workshop, the article below, entitled "Distant Voices to Recount South's Civil Rights Clashes: Key Civil Rights Voices Come Alive for Local Students in a New Documentary" appeared in <title>The State</title> newspaper.</p>
           <p>More than 250 new voices will help some Columbia, South Carolina, students learn about the Civil Rights Movement this fall.</p>
           <p>They belong to the men and women, both famous
@@ -463,10 +471,10 @@ schools; the Clarendon County segregation case, <hi rend="italic">Briggs v. Elli
             <p>Diane Raschke wrote this article for <title>The State</title> newspaper based in Columbia, South Carolina.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2018" n="REVIEWS:An Essential Toughness" type="Review">
+        <div2 id="sc22-2018" n="8" type="Review">
           <head>REVIEWS: An Essential Toughness</head>
           <byline>Reviewed by <docAuthor><name reg="Dittmer, John" type="person">John Dittmer</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 17-18</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 17-18</docDate>
           <bibl>Andrew M. Manis, <title>A Fire You Can't Put Out: The Civil Rights Life of Birmingham's Reverend Fred Shuttlesworth</title>, Tuscaloosa: The University of Alabama Press. 1999.</bibl>
           <p>The first thing you need to know about the Reverend Fred Shuttlesworth
 is that he was fearless. A case in point: during the 1961 Freedom
@@ -511,10 +519,10 @@ for her dedication to principle, put it best when she said, "Fred was practicall
 for Human Rights.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2020" n="Civil Rights Unionism" type="Review">
+        <div2 id="sc22-2020" n="9" type="Review">
           <head>Civil Rights Unionism</head>
           <byline>Reviewed by <docAuthor><name reg="Harris, Leslie Marie" type="person">Leslie Marie Harris</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 18-19</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 18-19</docDate>
           <bibl>Michael Keith Honey, <title>Black Workers Remember: An Oral History of Segregation, Unionism, and the Freedom Struggle</title>, Berkeley: University of California Press, 1999.</bibl>
           <p>Mention Memphis, labor, and the Civil Rights Movement and most
 people will immediately think of Marlin Luther King, Jr.'s, ill-fated
@@ -552,10 +560,10 @@ tell in their own voices of their pride in their work and their anguish at the s
 at Emory University in Atlanta, Georgia.</p>
           </div3>
         </div2>
-        <div2 id="sc22-2022" n="Film/Television: Lost Highways" type="Review">
+        <div2 id="sc22-2022" n="10" type="Review">
           <head>Film/Television: Lost Highways</head>
           <byline>Reviewed by <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 20-22</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 20-22</docDate>
           <bibl>"George Wallace: Settin' the Woods on Fire," a film in <title>The American Experience</title> series for the Public Broadcasting Service. Produced and directed by Daniel McCabe and Paul Stekler for WGBH, Boston. Written by McCabe, Stekler, and Steve Fayer. Executive Producer Margaret Drain. Based in part on <title>The Politics of Rage</title> by Dan T. Carter. 180 minutes.</bibl>
           <p>George Wallace, white reaction's pit bull in the desegregation and
 voting rights battles of the 1950s and 60s. was--in his prime--a
@@ -666,14 +674,14 @@ conclusion is a missed opportunity for assessing--and mourning--the lengthy dama
             <p>Allen Tullos is editor of <title>Southern Changes</title></p>
           </div3>
         </div2>
-        <div2 id="sc22-2024" n="Peace and Power: Earl Theodore Shinhoster (1950-2000)" type="Article">
+        <div2 id="sc22-2024" n="11" type="Article">
           <head>Peace and Power: Earl Theodore Shinhoster (1950-2000)</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 p. 23</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 p. 23</docDate>
           <p>Life-long activist Earl Shinhoster was "one of the brightest stars
 in the human rights galaxy," said SCLC President Emeritus Reverend
 Joseph Lowery at the June 16 memorial service commemorating his life
@@ -700,14 +708,14 @@ thirteen. Contributions to the fund may be made to Citizens Trust
 Bank, West Side Branch, 965 Martin Luther King, Jr. Drive,
 S.W. Atlanta,Georgia 30314.</p>
         </div2>
-        <div2 id="sc22-2025" n="Rebel with a Cause: Albert Turner,     Sr. (1936-2000)" type="Article">
+        <div2 id="sc22-2025" n="12" type="Article">
           <head>Rebel with a Cause: Albert Turner, Sr. (1936-2000)</head>
           <byline>
             <docAuthor>
               <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-06-01">Vol. 22, No. 2, 2000 pp. 24-26</docDate>
+          <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 24-26</docDate>
           <p>Albert Turner, Sr., a lifelong Alabama activist who led voting rights
 campaigns, sit-ins, and marches for freedom and equal rights, who served
 under Martin Luther King, Jr. in SCLC, who was elected to the Perry

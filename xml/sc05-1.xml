@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc05-11203">
@@ -64,12 +72,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc05-1001" n="Southern Changes 5:1" type="Issue">
         <head>Southern Changes.  Volume 5, Number 1, 1983</head>
         <p><title>Southern Changes</title>.  Volume 5, Number 1,
-	       <date value="1983-01-01">1983</date></p>
+	       <date value="1983-01">1983</date></p>
         <div2 id="sc05-1002" n="7" type="Review">
           <head><title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
           <p>The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
 G.O.P. muscle-building did not begin yesterday. Explaining this fact
@@ -174,7 +182,7 @@ Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</head>
           <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
           <p><title>Classic Country Music</title>, prepared by Bill C. Malone
 for the Smithsonian Institution, takes one back to the clear
 headwaters: the first commercial hillbilly recording (Eck Robertson's
@@ -543,7 +551,7 @@ American Region</title> (University of North Carolina Press,
         <div2 id="sc05-1004" n="1" type="Article">
           <head>Figures of Speech--Dressed for the H Bomb</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
           <p>By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
 procurers. Here was close to a billion dollars for Lockheed-Georgia's
@@ -804,7 +812,7 @@ license.</p>
 County.</title> John Rozier. The University of Georgia Press,
 1982.</head>
           <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
           <p>John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
 most observers felt reached fruition in 1968, the year that blacks
@@ -1028,7 +1036,7 @@ since the 1965 Voting Rights Act.</p>
         <div2 id="sc05-1006" n="4" type="Article">
           <head>Myra Page: Daughter of the South, Worker for Change</head>
           <byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
           <p>On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
 Yonkers, New York, telling the tale of her most recent
@@ -1438,7 +1446,7 @@ article copyright, 1988, by Mary Frederickson.</p>
           <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
           <byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, p. 13</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
           <p>The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
 her Bible--you had to or be an outcast in the village--but her
@@ -1542,7 +1550,7 @@ Press.</p>
         <div2 id="sc05-1008" n="3" type="Article">
           <head>The 1982 Lillian Smith Book Awards</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
           <p>The Southern Regional Council's annual Lillian Smith Awards
 Luncheon was held in Atlanta in November as a part of the SRC's annual
 meeting. The awards recognize the year's best fiction and non-fiction
@@ -1865,7 +1873,7 @@ Dykeman and Lottie Shackelford.</p>
         <div2 id="sc05-1009" n="2" type="Article">
           <head>Delta Politics and the Almost Possible</head>
           <byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline>
-          <docDate value="1983-01-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
+          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
           <p>During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 
 <pb n="5"/>

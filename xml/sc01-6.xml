@@ -58,17 +58,25 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc01-61203">
     <body id="sc01-61202">
       <div1 id="sc01-6001" n="Southern Changes 1:6" type="Issue">
         <head>Southern Changes. Volume 1, Number 6, 1979</head>
-        <p><title>Southern Changes</title>. Volume 1, Number 6, <date value="1979-03-01">1979</date></p>
+        <p><title>Southern Changes</title>. Volume 1, Number 6, <date value="1979-03">1979</date></p>
         <div2 id="sc01-6003" n="1" type="Article">
           <head>Tribute to Gwendolyn Cherry</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 2-3</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 2-3</docDate>
           <p> On February 7, Gwen Cherry, the Vice-President of the Southern
 Regional Council, died in an automobile accident in Tallahassee,
 Florida. Her death leaves the Council without one of its valued
@@ -122,7 +130,7 @@ vision.
         <div2 id="sc01-6004" n="2" type="Article">
           <head>A RETURN TO THE SUN</head>
           <byline>By <docAuthor><name reg="Sun" type="institution">SUN</name> &#x0026; <name reg="Rep" type="institution">REP</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 4, 12</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 4, 12</docDate>
           <p>Five thousand years ago men worshipped the sun. After a 50 century hiatus, man is turning his attention and hope - toward that same sun. Today, we are caught in the middle of the most sophisticated technological web ever spun on this earth. The spider is energy - fossil fuels like coal, oil and natural gas, and nuclear power. There is one possible avenue of escape - the sun, and its energy in the form of wind power, water power, biomass, geothermal energy and others.</p>
           <p>The energy dialogue poses three critical questions about our resources: (1) Are they limitless? (2) Are they safe? and (3) Who controls them? With regard to the first question, there is no infinite amount of any extractable natural resource: none are renewable. There is only so much oil, for example, and even though new reserves are periodically discovered, the cost of bringing oil to the surface is substantial and increasing daily. Also, the demand for energy is likewise increasing at an alarming rate.</p>
           <p>The second point, safety, produces damning evidence against all fuels, especially nuclear power. Burning fossil fuels produces a staggering amount of air and water pollution; and nuclear fuels are hazardous to extract, transport, use, store and dispose of. Finally, because the raw material of fossil fuels is site specific, requiring elaborate extraction, transport, refining and distribution equipment and systems, no individual acting alone or collectively has the ability to control the fuel he uses for heat and cooling. The capital investment needed in bringing such fuels to homes, businesses and industries has been great, encouraging large and powerful corporations to dominate and control our energy.</p>
@@ -167,7 +175,7 @@ SUN/REP, Suite 412, 3110 Maple Dr., Atlanta, Georgia 30305. Phone:
         <div2 id="sc01-6005" n="3" type="Article">
           <head>Black Farmers: A Vanishing Breed</head>
           <byline>By <docAuthor><name reg="Press, Robert M." type="person">Robert M. Press</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 5-7</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 5-7</docDate>
           <p><hi rend="bold">Bolivar County, Mississippi</hi>-Mary Coleman
 hunches over, shucking corn on the wooden porch of the small crossroads grocery store she runs here. Weedcroppers from the cotton fields will stop in around noon to buy cold bottles of sodapop, crackers, and Vienna sausage.</p>
           <p>Houston Coleman, her son, has come by to talk to this reporter about the problems he and other Black farmers are having. He is a big man, dressed in gray slacks, a long-sleeved shirt, and mud-spattered black street shoes. He wears a straw cowboy hat and talks in a booming voice.</p>
@@ -251,7 +259,7 @@ Society. All rights reserved.</p>
         <div2 id="sc01-6013" n="4" type="Article">
           <head>Solar Greenhouses: The Greening of the South</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 3, 1979 pp. 8-10</docDate>
+          <docDate value="1979-03">Vol. 1, No. 3, 1979 pp. 8-10</docDate>
           <p>
             <hi rend="bold">Publisher's Note:</hi>
             <hi rend="italic"> I was in no mood to he convinced when Bill Dow began to explain his idea last year. As he sat with his legs draped around one of my office chairs, I wondered what kind of bedside manner I was about to experience from this physician who prefers T-shirts and tennis shoes as work garments.</hi>
@@ -335,7 +343,7 @@ Farming" magazine. December 1977.</p>
         <div2 id="sc01-6007" n="5" type="Interview">
           <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
           <byline>By <docAuthor><name reg="Graham Center Staff" type="institution">the Staff of the Graham Center</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 10-12</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 10-12</docDate>
           <p>Today, the American small farmer is an endangered species. As control of land and the farm economy has concentrated in fewer and fewer hands, one of the biggest migrations in human history has occurred during the past 40 years as millions of people have moved into urban areas. In 1977, American farms vanished at the rate of 500 a week. In the South, the nation's fastest growing area, change in rural patterns are especially dramatic. Estimates project that Black-owned land in the rural South is disappearing at the rate of 6000 acres per week. At the present rate of attrition, the Black Southern farmer may well be extinct by 1990.</p>
           <p>Preserving the small farm in this country will require significant changes in our present political and economic systems. Through a reliance upon non-renewable fuels and increasingly complex technology, U.S. agriculture has become agribusiness. One movement towards change has been the development of low-cost, energy-efficient methods and new skills appropriate to the background and resources of small farmers.</p>
           <p>In support of this development, the Frank Porter Graham Center, a
@@ -382,7 +390,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
         <div2 id="sc01-6006" n="6" type="Article">
           <head>Wilcox County--A Day in Wilcox County: 1967</head>
           <byline>By <docAuthor><name reg="Hunter, Floyd" type="person">Floyd Hunter</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 13-14</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 13-14</docDate>
           <p>
             <hi rend="bold">Editor's Note:</hi>
             <hi rend="italic"> As part of a report by the National Education Association regarding conditions of teaching and learning in Wilcox County, Alabama, Floyd Hunter wrote that "Life in Wilcox County slays the same in spite of a lot of talk about 'progress' and 'change.' Substantively the Negro, as least common denominator in the social scale, stays put. Until there is an emerging newness in relation to his lot, no basic social change can actually be noted in Wilcox County."</hi>
@@ -435,7 +443,7 @@ on Professional Rights and Responsibilities, June 1967.</p>
         <div2 id="sc01-6002" n="7" type="Article">
           <head>A New Day in Wilcox County: 1978</head>
           <byline>By <docAuthor><name reg="Swift, Harriet" type="person">Harriet Swift</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 15, 16, 28</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 15, 16, 28</docDate>
           <p>"Bad Wilcox," the civil rights workers used to call it.</p>
           <p>"In Alabama they say that there are 66 counties and then there's Wilcox," sighs a federal official.</p>
           <p>Wilcox County, resting squarely in the center of Alabama's Black Belt, presents a storybook picture of the rural Deep South. Its sparse population has steadily declined since 1900, leaving only 16,000 people (about 68 percent of them Black) to populate the tiny towns and large plantations. A pleasing vista of fertile fields, rolling hills and proud Southern forests intertwined with the Alabama River, Wilcox is dotted with white-columned mansions and pathetic wood and tin shacks. The insular, provincial social life has bred a steady line of stock Southern characters from the imperious Miss Ann in the Big House to the wise and folksy Dilsey living out back.</p>
@@ -509,7 +517,7 @@ Harriet Swift is a copy editor at the <title>Birmingham Post-Herald</title>.
         <div2 id="sc01-6014" n="8" type="Article">
           <head>Problems  of Pain</head>
           <byline>By <docAuthor><name reg="Adamson, June" type="person">June Adamson</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 17-18</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 17-18</docDate>
           <p>The X-rays had been taken and I lay on the emergency room cot in the curtained cubicle waiting for the doctor to see whether I had any reason to be in such pain. My car had gone into a skid on the icy interstate and I felt lucky to be alive. But the breath had been knocked out of me, and now there was this intolerable pain in my side and under by shoulder blade. It was a Sunday, and I felt grateful that an orthopedic specialist who was an acquaintance was willing to come to the hospital to help me.</p>
           <p>On the other side of the yellow curtain that separated the cots
 that late afternoon someone was moaning. I was distracted from my own
@@ -550,7 +558,7 @@ June Adamson, a former working journalist, now teaches journalism at the Univers
         <div2 id="sc01-6008" n="9" type="Article">
           <head>Segregation Order at Reidsville Prison</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.19-21</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp.19-21</docDate>
           <p>In southeast Georgia last summer, the day before Independence Day, a decade of legal precedent was overturned at Georgia State Prison in Reidsville when U.S. District Judge Anthony Aliamo ordered the segregation of dormitories for a 60-day period. The segregation order, issued to cool tempers and ease the tension, came after one prisoner was killed and five others were wounded during a racial fight, one of a series of revengeful attacks since November 1976 that killed five inmates and injured 47. The court told prison officials to assign Black and White inmates to alternating dormitories in checkerboard fashion; the cell blocks, dining hall, recreation and work areas remained integrated.</p>
           <p>The court-ordered segregation marked the first time in modern history that a federal judge had directed a state to separate prisoners by race. Although prison officials said they opposed the order as a misguided and potentially troublesome attempt to end racial attacks, the state complied with the order without a legal challenge and later asked for an extension of it. The NAACP Legal Defense Fund, representing the prisoners, also did not appeal the judge's decision, preferring to publicly remain silent on segregation while privately negotiating for better conditions at the prison.</p>
           <p>The 60 days of segregation grew to eight months finally ending in mid-February. The state vacillated and LDF acquiesced to the judge's decision, thereby accepting the premise that separating the races was the only way to restore peace at Reidsville. Their illusion was dispelled in only a few weeks after the order was issued when racial violence again erupted in July and August.</p>
@@ -611,7 +619,7 @@ studying the effects of rape on women and the ways they resolve problems caused 
         <div2 id="sc01-6009" n="10" type="Article">
           <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
           <byline>By <docAuthor><name reg="Hall, Andy" type="person">Andy Hall</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp.22-25</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp.22-25</docDate>
           <p>In 11 short months the small village of Lake Placid, nestled high in the Adirondack mountain range of upstate New York, will provide the setting for the 13th Winter Olympiad. President Carter will preside at the opening ceremonies to symbolize the Olympic tradition, and, no doubt, to enunciate the desire of the American people for world peace and freedom for all people.</p>
           <p>The best athletes of some 40 nations will live together for three weeks of intense competition. The Olympic spirit of international cooperation and community, perhaps most tangibly represented by the Olympic Village, will captivate radio and television audiences around the world. Then the contests will end, the medals will be awarded, and the participants will head home. And finally, if all goes as planned, the Olympic Village will be quickly converted to the latest addition of what the Rev. William Sloane Coffin, minister at New York's Riverside Church, recently described as the American Gulag. Olympic Village will become a federal prison!</p>
           <p>For some the idea makes sense. For Olympics organizers, it is a free ride on the federal government. For area politicians, a federal prison may mean a few jobs for unemployed mountain people as prison guards. For prison bureaucrats, the Games provide a quick and easy means of further expansion. But as news of the Olympic Village-to-prison idea has spread, many others have been instantly appalled.</p>
@@ -711,7 +719,7 @@ in the Southern states.</p>
         <div2 id="sc01-6johnston.010" n="11" type="Article">
           <head>URBAN AND RURAL DEVELOPMENT</head>
           <byline>By <docAuthor><name reg="Johnston, Diane" type="person">Diane Johnston</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 26</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 26</docDate>
           <p>"...they were ready to face the odds and fight for what they fervently believe in -- the future of the family farmer." That was how <title>Atlanta Journal</title> reporter Charles Seabrook described the atmosphere surrounding the American Agricultural Movement's (AAM) tractorcade to the nation's capitol this January. It was the farmers' second trip to Washington to protest what they felt were unjustly low farm incomes. En route in January, the Southern contingent of the AAM stopped by the Southern Regional Council's office to hold a press briefing for the Atlanta media. It was an attempt on their part to help the media understand their complaints and to offer them an opportunity to explain their position relative to the rest of the nation as consumers.</p>
           <p>Those present included Alvin Jenkins of Colorado, one of the AAM's four founders, and Tommy Kersey of Unadilla, Georgia. Kersey is considered to be the head of the Georgia Agricultural Movement. They were accompanied by a handful of other AAM members, from Alabama, Texas, and even Montana.</p>
           <p>During the two-hour press session, the farmers presented their grievances. Basing their case on the need to preserve the family farm, they explained what they felt is happening to traditional agriculture today.</p>
@@ -730,7 +738,7 @@ the American Agricultural Movement, remains uncertain.</p>
         <div2 id="sc01-6011" n="12" type="Article">
           <head>SOUTHERN WOMEN</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1979-03-01">Vol. 1, No. 6, 1979, pp. 27-28</docDate>
+          <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 27-28</docDate>
           <p>Women are now in the majority of college students in the South, according to an analysis by the Southern Regional Education Board (SREB) of preliminary statistics of last fall's collegiate enrollment.</p>
           <p>The SREB analysis also notes that, although there were significant declines in the number of full-time students attending Southern institutions, they were offset by continued increases in part-time enrollment, which was up 5.6 percent in the South.</p>
           <p>Thus, enrollment in higher education remained essentially unchanged in the fall of 1978 over levels in the previous year, both in the South and the nation. Except for 1975, when there was a 10 percent increase in enrollment nationwide, the college population has not grown as dramatically in the 1970s as in the 1960s.</p>

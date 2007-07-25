@@ -57,17 +57,25 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc02-41203">
     <body id="sc02-41202">
       <div1 id="sc02-4001" n="Southern Changes 2:4" type="Issue">
         <head>Southern Changes. Volume 2, Number 4, 1980 </head>
-        <p><title>Southern Changes</title> Volume 2, Number 4, <date value="1980-01-01">1980</date></p>
+        <p><title>Southern Changes</title> Volume 2, Number 4, <date value="1980-01">1980</date></p>
         <div2 id="sc02-4002" n="1" type="Article">
           <head>In This Issue</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 2</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 2</docDate>
           <p>We are as wrought with opinion and reflection in this our first
 issue of the new year as we may heve been bereft of it last time. In
 December we did not carry our usual "Soapbox" opinion piece. As
@@ -136,7 +144,7 @@ continue to form to confront the bad is some good news in itself</p>
         <div2 id="sc02-4003" n="2" type="Article">
           <head>Too Poor for Food Stamps</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 1, No. 4, 1980, pp. 3-4</docDate>
+          <docDate value="1980-01">Vol. 1, No. 4, 1980, pp. 3-4</docDate>
           <p>Almost eight million poor Americans did not have ample food during
 this holiday season because of barriers and restrictions in the
 federal food stamp program. In a study, entitled "Too Poor for Food
@@ -167,7 +175,7 @@ Atlanta, Georgia 30303.</p>
         <div2 id="sc02-4004" n="3" type="Article">
           <head>Mandatory Sentencing</head>
           <byline>By <docAuthor><name reg="The Law Project" type="corporate">members of The Law Project</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 5-7</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 5-7</docDate>
           <p>There is a great push on, in the media and among politicians, to institute mandatory sentencing and to otherwise impose more stringent sentences. Unless strongly opposed, this effort will likely be successful in the next session of the Georgia General Assembly. People are concerned with crime and the uncertainties of modern living, and they crave certainty. However, mandatory sentencing is not the answer. It will merely aggravate the present problem: too many people, particularly young men, are being sent to prison.</p>
           <p>The Georgia penitentiary system is a crime. It brutalizes people, gives graduate instruction in crime and is seriously dangerous to your health. The United States regularly incarcerates more people per capita than any other country in the so-called free world except South Africa, and Georgia is regularly at the top of the list of states in per capita incarcerations. (We've also had more executions and lynchings than any other state.) Why do we pay such a price for social order when others don't seem to have to do so?</p>
           <p>Most "crimes" in Atlanta and elsewhere are committed by young men from about age 15 to
@@ -208,7 +216,7 @@ Project in Atlanta.</p>
         <div2 id="sc02-4005" n="4" type="Article">
           <head>Fighting the Klan in the Military</head>
           <byline>By <docAuthor><name reg="Wilayto, Phil" type="person">Phil Wilayto</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 8-11</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 8-11</docDate>
           <p>An aircraft carrier is really a small city. When it's out to sea with a full crew and a complement of marines, it's 5,000 people, almost all of them young men, enclosed in a small place for months at a time. In case of trouble, mechanical or social, there's no place to go.</p>
           <p>On February 9, 1979, a small one-foot wooden cross, covered with some kind of flammable fabric, was found burning in the enlisted dining area of the carrier USS America. In late January, a group of White sailors attacked a group of Blacks on the USS Concord, a 400-man supply ship estimated to have 20 Klan members aboard. The Navy has admitted that it is investigating Klan activity on at least one other East Coast ship, this one based in Charleston, S.C.</p>
           <p>And the trouble wasn't only on ships. Within the past year there have been crosses burned outside Ft. Eustis in nearby Hampton, in rural Chesapeake, there have been incidents of spraypainting of the letters "KKK" on Black people's property in Norfolk and in Virginia Beach.</p>
@@ -264,7 +272,7 @@ area.</p>
         <div2 id="sc02-4006" n="5" type="Article">
           <head>Reflections on Racial Progress in Mississippi:1964 Freedom Summer and Rosedale Mississippi 1979</head>
           <byline>By <docAuthor><name reg="Phillips, Ivory" type="person">Ivory Phillips</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 12-16</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 12-16</docDate>
           <p><hi rend="bold">Editor's Note</hi>: <hi rend="italic">In October 1979 a conference was held in Jackson, Mississippi to commemorate and assess the civil rights activities in the state during the summer of 1964. Known as Freedom Summer, it played an important part in changing the old system of segregation. It brought about 1,000 volunteers into the state to help in political organizations, to set up "freedom schools" and to bring national attention to conditions in Mississippi. It was a summer filled with violence, resulting in the murders of the three civil rights workers Michael Schwerner, James Chaney and Andrew Goodman.</hi></p>
           <p>
             <hi rend="italic">The four-day conference brought back together
@@ -349,7 +357,7 @@ place peacefully involving Blacks and Whites.</p>
         <div2 id="sc02-4007" n="6" type="Article">
           <head>Reflections on Racial Progress in Mississippi:'Freedom Summer' After Fifteen Years</head>
           <byline>By <docAuthor><name reg="Gibson, Gordon D." type="person">Gordon D. Gibson</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 17-19</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 17-19</docDate>
           <p>Mississippi in 1Q64 had long been"the dark hell-hole of the Black
 experience," in the words of Prof. William,Strickland of the University of Massachusetts. But in 1964 the Black people of Mississippi and their Black and White allies from all across the country rose up and proved that, even in Mississippi, change is possible. Looking back recently during a four-day symposium, Strickland and many other participants in Mississippi's 1964 "Freedom Summer" reflected on various facets of change.</p>
           <p>The symposium, even with its many flaws, uninvited people or last minute cancellations, was worthwhile. It focused the attention of Freedom Movement veterans (and a few current students who were in nursery school in 1964) on the changes wrought by Freedom Summer and other Movement efforts. One cannot understand the intervening 15 years without some knowledge of this history. One cannot understand the lesson that change is possible and, sadly, still necessary.</p>
@@ -399,7 +407,7 @@ while the struggle continued at its greatest intensity, but have now claimed cen
           <head>Blacks Confronting Minority Problems in the Sunshine
 State</head>
           <byline>By <docAuthor><name reg="Burt, Al" type="person">Al Burt</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 20-22</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 20-22</docDate>
           <p>For the first time in Florida, a broadly based coalition of Black organizations has adopted an agenda for political action. Its priorities reveal the nature of minority problems in Florida. It seeks changes in matters ranging from local police action to U.S. policy toward Haitian refugees.</p>
           <p>Known as the Florida Black Agenda Coalition, it has called for a task force to study the possibilities of a state operated lottery, whose funds would be earmarked for education, economic development and aid to the elderly; a change in the controversial Fleeing Felon Law, which permits law enforcement officers to shoot suspects fleeing the scene of a felony; property taxes scaled to income;, single-member legislative districts to increase minority representation; and the end of social promotions in the schools.</p>
           <p>The coalition further asks for universal voter registration by postcard to make political participation easier. They are also seeking a state-financed study of sickle cell anemia and the disproportionately high incidence of cancer among Blacks; prison administrations that reflect the prison populations; resources for the poor accused of capital crimes that match those of the prosecution; and political asylum for 8,000 Haitian refugees in Florida.</p>
@@ -443,7 +451,7 @@ Herald</title>.</p>
         <div2 id="sc02-4009" n="8" type="Article">
           <head>Atlanta Community Food Bank</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 22</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 22</docDate>
           <p>Every year 20 percent of the food in America is thrown away for
 such reasons as improperly labeled items, undersized or oversized
 products and partially opened cases. In the Atlanta metropolitan area
@@ -502,7 +510,7 @@ Peachtree Street, N.E. Atlanta, Georgia 30308.</p>
           <head>Economic Development:
 Southern Representatives Oppose Welfare Reform</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1980-01-01">Vol. 2, No. 4, 1980, pp. 24</docDate>
+          <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 24</docDate>
           <p>Proposing to increase present payments to the Southern poor, major welfare reform was passed in the U.S. House of Representatives on November 7th with strong opposition from a solid, Southern Congressional delegation.</p>
           <p>By a deceptively comfortable margin of 222 to 184, the House approved the Carter administration's proposal to seek greater uniformity among state welfare programs and to reduce costs. The heart of the legislation proposed a guaranteed payment equal to at least 65 percent of the poverty level approximately $4,700 of welfare payments to a family of four today.</p>
           <p>States would also be required to offer assistance to eligible

@@ -50,6 +50,14 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc22-11203">
@@ -57,11 +65,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
       <div1 id="sc22-1000" n="Southern Changes 22:1" type="Issue">
         <head>Southern Changes. Volume 22, Number 1, 2000</head>
         <p> <title>Southern Changes.</title>  Volume 22, Number 1, Spring
-	       <date value="2000-03-01">2000</date></p>
-        <div2 id="sc22-1001" n="Using our Past to Build the Future" type="Article">
+	       <date value="2000-03">2000</date></p>
+        <div2 id="sc22-1001" n="1" type="Article">
           <head>Using our Past to Build the Future</head>
           <byline>By <docAuthor><name reg="Johnson, Wendy S." type="person">Wendy S. Johnson</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 3-4</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 3-4</docDate>
           <p>The struggle for racial equity in the South has no timetable.  As we advance the eighty-year mission of the Southern Regional Council-to promote racial justice, protect democratic rights, and broaden civic participation in the Southeastern United States-we must heed the lessons of decades past.</p>
           <p> Marion A. Wright, Council president in 1952 wrote "SRC is the lengthened shadow of many men and women." Since the beginning of our predecessor organization in 1919, the Commission on Interracial Cooperation, Southerners and our nation have been radically transformed.  In the midst of this movement for change has been the Southern Regional Council, driven by the single-minded purpose of conquering  racism and inequality, through  research, education and action strategies.</p>
           <p>Our history demands that we look back and borrow, as often as we need it, the wisdom, courage and lessons of our past.</p>
@@ -83,11 +91,11 @@ Southern Changes Web Project at Emory University and the Southern Regional Counc
 Southern Regional Council</p>
           </div3>
         </div2>
-        <div2 id="sc22-1003" n="An Adventure in Faith: A Brief Story of the Interracial Movement in the South" type="Article">
+        <div2 id="sc22-1003" n="2" type="Article">
           <head>An Adventure in Faith: A Brief Story of the Interracial Movement
 in the South</head>
           <byline>By <docAuthor><name reg="Eleazer, Robert B." type="person">Robert B. Eleazer</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol.22, No. 1, Spring 2000 p. 5</docDate>
+          <docDate value="2000-03">Vol.22, No. 1, Spring 2000 p. 5</docDate>
           <p rend="italic">A booklet published by the Commission on Interracial Cooperation in 1930 reflected the CIC's concerns and goals from the 1920s. Robert Eleazer was education director at the time.</p>
           <p> The work of the CIC has been widely advertised as an "adventure in good will." It is that, undoubtedly, but it is something more. It is also an adventure in faith-a gamble on the essential soundness of human nature.</p>
           <p>At the close of the World War, when the country was seething with interracial suspicion, distrust, and hostility, when race riots were flaming in widely separated communities, and threatening to merge into a general conflagration, the Commission's mediatory work was inaugurated in the hope of tiding over the crisis. Its promoters believed that if white and Negro people understood each other they would not fight, and that if given the facts about any particular situation, the best of each group might safely be trusted to try to do right about it. They believed that Negroes were both capable and worthy of having a say-so in dealing with the problems affecting them. They believed that white people in turn could be appealed to successfully on the basis of good will, justice, and fair dealing. The Commission undertook, therefore, the stupendous task of establishing across the South, thousands of points of light of interracial contact through which mutual understanding might be created and the facts discovered and acted upon.</p>
@@ -97,10 +105,10 @@ in the South</head>
           </p>
           <p>The results have been notable. Assistance has been rendered in hundreds of educational enterprises for Negroes, involving millions of dollars; health campaigns have been promoted in every state, hospitals established, clinics conducted, public nurses employed; lynchings have been prevented and in a few cases, members of lynching mobs have been prosecuted and sent to penitentiary; legal aid had been extended to scores of helpless Negroes who were being intimidated, persecuted, or exploited; sewers, street pavings, water, lights, library facilities, restrooms, and other civic advantages have been secured for Negro communities; parks, playgrounds, and pools have been provided; Negro welfare agencies have been included in community chests; day nursuries and social centers conducted; colored probation officers secured-these are among a multitude of actual results achieved.</p>
         </div2>
-        <div2 id="sc22-1004" n="The Mob Still Rides" type="Article">
+        <div2 id="sc22-1004" n="3" type="Article">
           <head>The Mob Still Rides</head>
           <byline>By Dr. <docAuthor><name reg="Raper, Arthur F." type="person">Arthur F. Raper</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol.22, No.1, Spring 2000 p. 6</docDate>
+          <docDate value="2000-03">Vol.22, No.1, Spring 2000 p. 6</docDate>
           <p>During  the 1930s, the Commission on Interracial
 Cooperation worked closely with the Association of Southern Women for
 the Prevention of Lynching to end the brutal practice. Following an
@@ -124,14 +132,14 @@ several studies on them. Below is an excerpt from a 1935 study,
           <p>The optimism of ten years ago is waning; lynchings are not fading
 naturally from the American scene; the mob still rides.</p>
         </div2>
-        <div2 id="sc22-1005" n="Race and Suffrage in the South Since 1940" type="Article">
+        <div2 id="sc22-1005" n="4" type="Article">
           <head>Race and Suffrage in the South Since 1940</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-03-01">Vol.22, No.1, Spring 2000 pp. 8-9</docDate>
+          <docDate value="2000-03">Vol.22, No.1, Spring 2000 pp. 8-9</docDate>
           <p>In the June-July 1948 issue of <title>New
 South</title>, the Southern Regional Council published an assessment of the progress made toward unencumbered access to the ballot for Black Americans in the 1940s. Below is an edited version of the Council's perspective.</p>
           <p>In any future history of suffrage in the South, the decade of the 1940s will probably be known as the time of an awakening among Negroes and of a change of attitude by many whites toward Negro participation in this phase of government. Certainly during the last eight years the Negro has advanced in the exercise of the right of franchise at a much faster rate than at any other time in the past half century.</p>
@@ -165,14 +173,14 @@ have diminished the rigours of registration in some places; and above
 all else, they have been largely responsible for creating the
 favorable public opinion noted throughout this pamphlet.</p>
         </div2>
-        <div2 id="sc22-1006" n="Reflections on Redistricting in 2001" type="Article">
+        <div2 id="sc22-1006" n="5" type="Article">
           <head>Reflections on Redistricting in 2001</head>
           <byline>By 
             <docAuthor>
               <name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 9-10</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 9-10</docDate>
           <p>Despite the confusion created by the Supreme Court's recent decisions striking down majority black congressional districts, legislators would be advised to keep several things in mind as they approach the 2000 redistricting.</p>
           <p>The Court did <hi rend="italic">not</hi> rule that majority-minority districts are unconstitutional. To the contrary, the Court held that a state may conduct redistricting "with consciousness of race" and that it may put minority communities in a district where they have "some common thread of relevant interest." What a state may not do, according to the Court, is subordinate all of its traditional redistricting principles to race or redistrict solely on the basis of race.</p>
           <p>The Court also affirmed the constitutionality of the Voting Rights
@@ -203,10 +211,10 @@ and/or resulted in the dilution of minority voting strength. It could also resul
 Southern Regional Office of the American Civil liberties Union</p>
           </div3>
         </div2>
-        <div2 id="sc22-1007" n="An Educator's View of Segregation" type="Article">
+        <div2 id="sc22-1007" n="6" type="Article">
           <head>An Educator's View of Segregation</head>
           <byline>By <docAuthor><name reg="Travelstead, Chester" type="person">Chester Travelstead</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol. 21, No. 1, Spring 2000 pp. 11-12</docDate>
+          <docDate value="2000-03">Vol. 21, No. 1, Spring 2000 pp. 11-12</docDate>
           <p>On August 2, 1955, as Dean of the School of
 Education at the University of South Carolina, Chester Travelstead
 delivered a speech citing eight problems in education, an act which
@@ -246,10 +254,10 @@ are not at all <hi rend="italic">certain</hi> that abolishing the public schools
 John Ruskin. "Doing is the great thing. For if, resolutely, people do
 what is right, in time they come to like doing it."</p>
         </div2>
-        <div2 id="sc22-1008" n="When Public Means Private: School Vouchers" type="Article">
+        <div2 id="sc22-1008" n="7" type="Article">
           <head>When Public Means Private: School Vouchers</head>
           <byline>By <docAuthor><name reg="Greenlee, Gale" type="person">Gale Greenlee</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 12-13, 21</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 12-13, 21</docDate>
           <p>As the presidential race 2000 heats up, Democrats and Republicans take their places at opposite ends of the political totem pole to debate issues such as campaign finance reform, the Confederate flag, and police brutality. On the education front, no issue is more controversial than school vouchers. Voucher advocates, generally conservatives, plug school vouchers-which are often promoted as "school choice" or "opportunity scholarships"--as the cure-all for a beleaguered and much maligned public educational system. Detractors, generally progressive, teacher unions, minorities and many high profile organizations (such as the ACLU, the NAACP and the National Education Association), have publicly denounced such schemes as poorly disguised attempts by the right wing to subsidize religious schools, push a conservative political agenda and, in the process, dismantle public education as we know it.</p>
           <p>Currently, only three programs--in Milwaukee, Cleveland and the state of Florida--use tax dollars to fund students' education at private schools. Though the voucher movement is growing, it faces many obstacles and opponents.</p>
           <p>On the national level, the voucher debate has gained widespread attention due to recent court battles. In 1998, Wisconsin's State Supreme Court upheld Milwaukee's voucher program. Last year, on December 13, the U.S. Supreme Court refused to hear an appeal from a Vermont case, in which parents wanted state money to subsidize their children's education at parochial schools. One week later, a federal judge in Ohio declared Cleveland's four-year-old voucher program unconstitutional, stating that it violates the separation of church and state; that case is likely to wind up before the U.S. Supreme Court. More recently, on March 14, Florida State Circuit Judge L. Ralph Smith Jr., declared Florida's school voucher program unconstitutional. The state plans to appeal that decision.</p>
@@ -292,14 +300,14 @@ private <pb n="21"/>tuition grants and tax-funded options."</p>
             <p>Gale Greenlee is a writer and editor at the <hi rend="italic">Carolina Peacemaker</hi> in Greensboro, North Carolina. She served as a training and technical assistance coordinator for the Corporation for National Service's LEARNS program at the Southern Regional Council until October 1999.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1009" n="The Federal Executive and Civil Rights" type="Article">
+        <div2 id="sc22-1009" n="9" type="Article">
           <head>The Federal Executive and Civil Rights</head>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 15</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 15</docDate>
           <p>In 1961 the SRC submitted a forty-eight-page report to the Kennedy administration entitled the "Federal Executive and Civil Rights" in which it advised the implementation of eighteen steps for the administration to model in order to improve civil rights. Reproduced here is a truncated version of the report which appeared in the March 1961 issue of <title>New South</title>.</p>
           <p>The Southern Regional Council has submitted to President Kennedy and his administration a 48-page report proposing actions by the executive department to strengthen civil rights and improve race relations.</p>
           <p>The report, entitled "The Federal Executive and Civil Rights," states that the President holds power under the Constitution and existing statutes which, if used, "could carry the country far toward good race relations."</p>
@@ -326,9 +334,9 @@ private <pb n="21"/>tuition grants and tax-funded options."</p>
           <p>18. Guide federal housing programs with a policy of encouraging
 integration.</p>
         </div2>
-        <div2 id="sc22-1010" n="Youth Building the Rural South" type="Article">
+        <div2 id="sc22-1010" n="8" type="Article">
           <head>Youth Building the Rural South</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 14, 18</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 14, 18</docDate>
           <byline>By <docAuthor><name reg="Othow, Ajulo E." type="person">Ajulo E. Othow</name></docAuthor></byline>
           <p>Ajulo E. Othow is the Project Manager of the Southern Rural Development Initiative's (SRDI) Community Development Corporations projects and programs. SRDI is a unique collaborative of community-based institutions working in the poorest communities of the rural South based in Raleigh, North Carolina.</p>
           <p>I'd been working for the Southern Rural Development Initiative (SRDI) for only two months when we had our third Annual Assembly (trial by fire is integral to our institutional culture). Yearly we bring together our 33-member collaborative of community-based development institutions to learn and share, to be rejuvenated by our connection to a larger movement, to reaffirm our collaborative model, and to highlight our regional identity. </p>
@@ -350,9 +358,9 @@ we will address at this year's Annual Assembly, <hi rend="italic">Claiming Home:
 with some measure of success we'll find that our institutions and our
 communities will too.</p>
         </div2>
-        <div2 id="sc22-1011" n="Making the Promise of America Its Practice" type="Article">
+        <div2 id="sc22-1011" n="10" type="Article">
           <head>Making the Promise of America Its Practice</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 16</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 16</docDate>
           <byline>By <docAuthor><name reg="Herman, Alexis M." type="person">By Alexis M. Herman</name></docAuthor></byline>
           <p>The good news comes from everywhere, virtually every day. America is on a roll. More than twenty million new jobs have been created since President Clinton and Vice President Gore took office in 1993. Wages are up, and at 4.1 percent, the nation's unemployment rate is way down-especially among women.</p>
           <p>When the Commission on Interracial Cooperation, the Southern Regional Council's predecessor, was created in 1919, approximately one in five women worked. Today, women are nearly half the American workforce.
@@ -369,9 +377,9 @@ Not only has the number of working women more than doubled, but the jobs have al
             <p>Alexis M. Herman is U.S. Secretary of Labor. She co-founded the Black Women's Employment Project at SRC in 1972.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1012" n="Democracy in the South" type="Article">
+        <div2 id="sc22-1012" n="11" type="Article">
           <head>Democracy in the South</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 17-18</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 17-18</docDate>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <p>  Like an old Chinese proverb coming south for the winter, one side of  democracy in the American South today shows troubling, even treacherous signs  of crisis, and on the other side are rare moments for important opportunities. This  contrast is, of course a part of the ironic history of political participation in the South which has delivered the region from the land of segregation of thirty years ago to being home for most of the nation's registered black voters today. It is that  essential characteristic of a region that can encompass in one year more violations of the voting rights of its minority citizens than any other while electing more minority officials than all others. </p>
           <p>The dangers to democracy which haunt the South today are both immediate and  far-reaching. The region's population growth over the last ten years presents real obstacles to maintaining the voting strength of minority citizens beyond the local level. Most of the growth, for example, has been in suburban Congressional and legislative districts where minorities are a small part of the population and where incumbent voting records often show indifference or even hostility to the interest of black and Hispanic citizens. Racial bloc voting continues throughout the region, fencing out minority voters from any substantial influence in presidential elections. And Southern state officials--often elected with the support of minority voters--appear today as adamant in their opposition to the enforcement of the Voting Rights Act as they were decades ago. (Witness the never-ending oppositions of state officials to a fair redistricting of the Arkansas legislature and the judicial districts in seven Southern states.) </p>
@@ -395,9 +403,9 @@ elected by the votes of minority citizens continue <pb n="18"/>to enlarge. It wa
             <p>Steve Suitts, a native of Alabama, served as executive director of the Southern Regional Council from 1977 to 1995. He wrote the following essay which appeared in Southern Changes in  June of 1990.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1014" n="Affirmative Action Battle Hits Sunshine State" type="Article">
+        <div2 id="sc22-1014" n="12" type="Article">
           <head>Affirmative Action Battle Hits Sunshine State</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 19-20</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 19-20</docDate>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">By Ellen Spears</name></docAuthor></byline>
           <p>More than 11,000 students, teachers, union leaders, and grandmothers marched to the Florida State Capitol on March 8, 2000 to register their opposition to a two-pronged  assault on affirmative action: Sacramento businessman Ward Connerly's latest state initiative drive and Republican Gov. Jeb Bush's "One Florida" plan. The Florida fight is being shaped by presidential election-year politics and spurring fresh activism in the Sunshine State. </p>
           <p>Recognizing that affirmative action will not be easily eliminated through state legislative action (see Amy Wood's articles in Southern Changes, Spring 1998 and Summer 1999), opponents of affirmative action have sought other means-initiatives and executive orders. Florida is facing both.</p>
@@ -419,9 +427,9 @@ on-line interview March 27, Florida is a <pb n="20"/>"hotly contested state in t
             <p>Ellen Spears is managing editor of  Southern Changes.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1015" n="BOOKS: Breaking the Wall of Resistance" type="Review">
+        <div2 id="sc22-1015" n="13" type="Review">
           <head>BOOKS: Breaking the Wall of Resistance</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  pp. 22-24</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  pp. 22-24</docDate>
           <byline>By <docAuthor><name reg="Braden, Anne" type="person">Anne Braden</name></docAuthor></byline>
           <p rend="italic"> In 1954, Anne and Carl Braden purchased a home in an all-white neighborhood in Louisville, Kentucky, on behalf of a black couple, Andrew and Charlotte Wade. The Wall Between is Anne Braden's first-hand account of the consequences of that simple, bold action-mob violence against the Wades and the bombing of their house and Carl's imprisonment on charges of sedition.  A finalist for the 1958  National Book Award, The Wall Between was republished by the University of Tennessee Press in 1999. In an epilogue to the new edition, Braden brings the story up to the present. Below in an excerpt from that epilogue, Braden raises the challenge to today's social justice movement.</p>
           <p>I came into social justice movements at the height of the repression of the Cold War. The labor movement was being decimated by anti-Communist hysteria: the CIO's "Operation Dixie" to organize the South, lay shipwrecked on this division. Organizations seeking civil rights, peace, and justice had been crushed everywhere.  People were being told that social change groups were subversive. Communists, and then many others, were fired from their jobs, careers were destroyed, many people went to jail, and some committed suicide. Most people became afraid to speak, to meet, to organize; the "Silent '50s" descended. Social problems festered that still plague us today....</p>
@@ -460,9 +468,9 @@ of people of <pb n="24"/>color around the world, with fewer and fewer opportunit
             <p>Anne Braden is the co-chair of the board of directors of the Southern Organizing Committee for Economic and Social Justice in Louisville, Kentucky.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1016" n="Freedom Election Campaign" type="Article">
+        <div2 id="sc22-1016" n="14" type="Article">
           <head>Freedom Election Campaign</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000 pp. 24-27</docDate>
           <byline>By <docAuthor><name reg="Curry, Constance" type="person">Constance Curry</name></docAuthor></byline>
           <p>Early in 1963, the Voter Education Project had been firmly established in Greenwood, and local participation was increasing satisfactorily. The Negroes of Greenwood and Leflore County were facing the anticipated reprisals and intimidations, but general morale seemed to be holding up. Then on the night of February 28, as they drove out of Greenwood, Bob Moses and two coworkers noticed that they were being followed. Earlier, they had spotted a late-model Buick with no license plates parked in front of their headquarters and had seen several white men in it. Jim Travis, a local worker, was driving along with Moses and Randolph Blackwell, a representative of the Southern Regional Council in Atlanta. As they were talking about the trailing car, it pulled alongside of them, and thirteen .45 caliber bullets came shattering into their car. Two struck Travis in the shoulder and neck. The Buick sped away, and Moses, who was sitting in the middle, guided the car to a stop as Travis slumped down in the seat. Neither Moses nor Blackwell was hit.</p>
           <p>Moses called me later that night to tell what had happened. He said that Travis was seriously injured but that doctors at the Greenwood hospital expected him to recover. He was being transferred to the hospital in Jackson. Moses had alerted the local authorities, but the assailants' car, without plates, could only be given a general identification.</p>
@@ -523,9 +531,9 @@ while  combing the Clarksdale area for whites interested in peaceful
 school desegregation in Mississippi. Thirty-three years later, a group of Henry's friends, after reading Curry's first book, <title>Silver Rights,</title> asked her to write Henry's biography. After reluctantly agreeing to the project, Henry died in 1997 just as the project commenced. Below is an excerpt from <title>Aaron Henry: The Fire Ever Burning</title>, published in spring 2000 by the University of Mississippi Press.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1017" n="Who and What Runs Georgia?" type="Article">
+        <div2 id="sc22-1017" n="15" type="Article">
           <head>Who and What Runs Georgia?</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 28</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 28</docDate>
           <byline>By <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name> and <name reg="Mackay,  James" type="person"> James Mackay</name></docAuthor></byline>
           <p rend="italic">In 1948, four years after the Supreme Court nullified  the white primary, Herman Talmadge ran for governor of Georgia equipped with a strategy to keep the white primary intact. Alarmed, George Mitchell, then- executive director of the Council commissioned Calvin Kytle and James Mackay to conduct a study to determine what had precipitated this development and what could be done in response. Below is a segment from the report, first published in book form by the University of Georgia Press in 1998  as <title>Who Runs Georgia?: A Contemporary Account of the 1947 Crisis that Set the Stage for Georgia's Political Transformation.</title></p>
           <p>Money, we repeat, does run the politics of Georgia. But this does not refute the fact that ignorance is the root evil. The powerful men of wealth who back a candidate for private gain, who block legislation for the general welfare to gratify immediate self-interest, are ignorant. If the rich and privileged were not so ignorant, they would prefer to invest their money in honest government rather than pay it to shakedown administrations; they would know that government by the few can only lead to government by the fewer; and they would put their surplus profits in a program for human advancement.</p>
@@ -541,9 +549,9 @@ school desegregation in Mississippi. Thirty-three years later, a group of Henry'
             <p>Calvin Kytle is a writer and former publisher who lives in Chapel Hill, North Carolina. James Mackay is a former Georgia state legislator and U. S. Congressman. He now lives in Rising Fawn, Georgia.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1018" n="Freedom Hammer" type="Review">
+        <div2 id="sc22-1018" n="16" type="Review">
           <head>Freedom Hammer</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, Spring 2000</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, Spring 2000</docDate>
           <byline>Reviewed by <docAuthor><name reg="Moye, Todd" type="person">Todd Moye</name></docAuthor></byline>
           <p rend="bold">&gt;Chana Kai Lee. <hi rend="italic">For Freedom's Sake: The Life of Fannie Lou Hamer</hi>. Urbana and Chicago: University of Illinois Press, 1999.</p>
           <p>Fannie Lou Hamer emerged from deep poverty and anonymity in the Mississippi Delta to become easily the most recognizable and influential poor person of her time. Her Mississippi Freedom Democratic Party challenged an all-white Democratic state party delegation at the 1964 Democratic National Convention and forced the national party to confront its historical exclusion of African Americans  from the democratic process. It is not an exaggeration to say that Hamer forced Americans to reconsider the notion of democracy itself. </p>
@@ -580,9 +588,9 @@ permanently damaged, and left with a limp for the rest of <pb n="30"/>her life, 
             <p>Todd Moye is a postdoctoral fellow at the Avery Research Center for African-American History and Culture in Charleston, South Carolina. He is working on a book about the civil rights movement in Sunflower County, Mississippi.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1019" n="Crazy Caucus" type="Review">
+        <div2 id="sc22-1019" n="17" type="Review">
           <head>Crazy Caucus</head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 32</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 32</docDate>
           <byline>By <docAuthor><name reg="Curry, Constance" type="person">Constance Curry</name></docAuthor></byline>
           <bibl>Harriet Keyserling. <title>Against the Tide: One Woman's Political Struggle.</title> Columbia: University of South Carolina, 1998.</bibl>
           <p>In 1944, Harriet Keyserling left New York City and moved to Beaufort, South Carolina, with her husband Herbert, a physician and native son.  While raising their four children, she volunteered for local projects in education, health, and the arts and organized a chapter of the League of Women Voters.  Thirty years later, in 1974, she jumped, or maybe waded, into political waters.  She was a woman, a yankee in a southern world, and Jewish in a predominantly Christian society.  She describes herself as "shy, not great at small talk, and not even assertive, much less aggressive."</p>
@@ -595,16 +603,16 @@ permanently damaged, and left with a limp for the rest of <pb n="30"/>her life, 
             <p> Constance Curry lives and writes in Atlanta.  She is co-author of, Aaron Henry: The Fire Ever Burning, just published by the University Press of Mississippi.</p>
           </div3>
         </div2>
-        <div2 id="sc22-1020" n="Southern Changes Social Justice Database  Now On-Line " type="Article">
+        <div2 id="sc22-1020" n="18" type="Article">
           <head>Southern Changes Social Justice Database 
 Now On-Line </head>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 33</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 33</docDate>
           <byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
           </byline>
-          <p>The veteran writers and new voices who have written for the journal Southern Changes for more than two decades make the continuing movement for social justice come alive-often reporting stories before they became news in the mainstream press, consistently providing alternative interpretation. Now the analysis and observations of these writers is available to students, teachers, researchers, activists, public officials, and citizens-at no cost- from an online website and digital database: http://chaucer.library.emory.edu:8080/schanges.html  </p>
+          <p>The veteran writers and new voices who have written for the journal Southern Changes for more than two decades make the continuing movement for social justice come alive-often reporting stories before they became news in the mainstream press, consistently providing alternative interpretation. Now the analysis and observations of these writers is available to students, teachers, researchers, activists, public officials, and citizens-at no cost- from an online website and digital database: http://beck.library.emory.edu/southernchanges  </p>
           <p>Where else but in Southern Changes can you read ...
 <list><item>Julian Bond reminding us that "democracy demands memory," legendary filmmaker George Stoney telling how he and Judith Helfand made the textile workers documentary film "The Uprising of '34," author Denise Giardina discussing Appalachian culture, Pulitzer Prize winners David Garrow, Harry Ashmore, and Claude Sitton writing on the history of the civil rights movement. </item><item>Essays and reviews by distinguished historians such as Dan T. Carter, Paul Gaston, Peter Wood, Patricia Sullivan, Mary Fredrickson, David E. Whisnant, and Theda Perdue. </item><item>Commentaries and interviews by John Egerton, Congressman John Lewis, Texas populist Jim Hightower, Rev. Will D. Campbell, voting rights attorney Laughlin McDonald, director of the NAACP Legal Defense Fund Julius Chambers, novelist Pat Conroy, Selma attorney J. L. Chestnut Jr., Septima Clark, Viginia Durr, homeless activist Rev. Murphy Davis, U. S. Secretary of Labor Ray Marshall, Rose Gladney, Lillian Smith, political economist Barbara Ellen Smith, Stetson Kennedy, Leslie Dunbar, Steve Suitts, Tony Dunbar . . .  and many, many more observers and interpreters of the American South.</item></list></p>
           <p>In collaboration, the Beck Center for Electronic Collections at
@@ -617,10 +625,10 @@ to make digital versions of <hi rend="italic">Southern Changes</hi>. Next, the s
 Regional Council who worked to produce the digital archive available includes Joan Gotwals, Vice Provost and Director of the Emory libraries; Elizabeth Patterson, director of the Virtual Library Project; Wendy Johnson, Executive Director of the Southern Regional Council; Alice Hickcox, Charles Spornick, Scott Ellis, and Brendan Corcoran of Emory's Beck Center; Allen Tullos, editor of <hi rend="italic">Southern Changes</hi>; David Dreger, Information Systems Manager at SRC; and Ellen Spears, managing editor of the journal and communications director at the SRC.</p>
           <p>The launching of the <hi rend="italic">Southern Changes</hi> digital database coincides with the commemoration this spring of eighty years of work by the Southern Regional Council since the founding of its predecessor organization, the Commission on Interracial Cooperation, in 1919.  A major event, "The Homecoming," on April 27, 2000 will highlight the past and present contributions of Southerners in promoting racial justice, protecting democratic rights, and broadening civic participation.</p>
         </div2>
-        <div2 id="sc22-1022" n="In Memoriam: Philip G. Hammer (1915-2000)" type="Article">
+        <div2 id="sc22-1022" n="19" type="Article">
           <head>In Memoriam: Philip G. Hammer (1915-2000)</head>
           <byline>By <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
-          <docDate value="2000-03-01">Vol. 22, No. 1, 2000,  p. 34</docDate>
+          <docDate value="2000-03">Vol. 22, No. 1, 2000,  p. 34</docDate>
           <p>Philip Gibbon Hammer, a pioneering urban planner and an
 influential figure in the movement to end segregation in the South,
 died January 21 in Edgewater, Maryland. He was 85.</p>

@@ -57,6 +57,14 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
+      <change>
+        <date>2007</date>
+        <respStmt>
+          <name>Alice Hickcox</name>
+          <resp>Electronic text specialist</resp>
+        </respStmt>
+        <item>text in div2/@n replaced with number</item>
+      </change>
     </revisionDesc>
   </teiHeader>
   <text id="sc09-41203">
@@ -64,11 +72,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc09-4001" n="Southern Changes 9:4" type="Issue">
         <head>Southern Changes.  Volume 9, Number 4, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 4,
-	       <date value="1987-10-01">1987</date></p>
+	       <date value="1987-10">1987</date></p>
         <div2 id="sc09-4002" n="2" type="Article">
           <head>The South Revisited</head>
           <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
-          <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
+          <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
           <p>"One difference between you and most of the Southerners who
 pioneered in the reform movement of the Thirties and Forties is that
 you are still alive," one of the editors of <title>Southern
@@ -386,7 +394,7 @@ near Jacksonville, Fla.</p>
         <div2 id="sc09-4003" n="5" type="Article">
           <head>The Cold Hard Truth: Wishing Justice for Bork</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">By J.L. Chestnut. Jr.</name></docAuthor></byline>
-          <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
+          <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
           <p>WASHINGTON-This unstable, political, kooky town is in an absolute
 frenzy, even if measured by its own unreal standards. My favorite
 Washington cab driver and political philosopher, Jack Curtis, who also
@@ -487,7 +495,7 @@ and writer.</p>
         <div2 id="sc09-4004" n="4" type="Article">
           <head>The Making of A Judge</head>
           <byline>By <docAuthor><name reg="Callahan, Nancy" type="person">Nancy Callahan</name></docAuthor></byline>
-          <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
+          <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
           <p>In 1816, North Carolina planter Joseph Gee bought a massive tract
 of land in a bend in the Alabama River, in Wilcox County. On his death
 in 1824, his plantation-Gee's Bend-fell to his nephews, Sterling and
@@ -912,7 +920,7 @@ published this fall by the University of Alabama Press.</p>
         <div2 id="sc09-4005" n="1" type="Article">
           <head>The Poverty of Reaganomics</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1987-10-01">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
+          <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
           <p>In its twilight years the Reagan Administration is returning to its
 extravagant rhetoric about having created the "opportunity society."
 According to Administration officials--proud of low inflation and a
@@ -1039,7 +1047,7 @@ percent rate in 1973.</p>
         <div2 id="sc09-4006" n="3" type="Article">
           <head>Tuscaloosa's Solid-Waste Turkey</head>
           <byline>By <docAuthor><name reg="United Citizens Against Toxic Chemicals" type="corporate">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
-          <docDate value="1987-10-01">Vol. 9, No. 4, 1987, 8-9</docDate>
+          <docDate value="1987-10">Vol. 9, No. 4, 1987, 8-9</docDate>
           <p>Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows
 better. We are a citizens group from Tuscaloosa and we don't want you
