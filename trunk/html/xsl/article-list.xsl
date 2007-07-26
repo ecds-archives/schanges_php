@@ -10,12 +10,6 @@
 <!-- param for flat mode: all volumes or single volume -->
 <xsl:param name="vol">all</xsl:param>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
-<!-- <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
-<xsl:variable name="query"><xsl:value-of
-select="ino:response/xq:query"/></xsl:variable> -->
-
-<!-- <xsl:variable name="total_count" select="count(//div1 |
-//div2[figure])" /> -->
 
 <xsl:output method="html"/>
 <xsl:template match="/">
@@ -23,37 +17,47 @@ select="ino:response/xq:query"/></xsl:variable> -->
 <!-- begin content -->
 <xsl:element name="div">
 <xsl:attribute name="class">contents</xsl:attribute>
+<xsl:element name="h3">
+   Issue: <xsl:value-of select="//issue-id/head"/>
+  </xsl:element>
   <xsl:apply-templates select="//result"/>
 </xsl:element>
+<xsl:element name="p"/> <!-- spacer -->
 <xsl:call-template name="next-prev"/>
 </xsl:template>
 
+
 <xsl:template match="result">
-  <xsl:element name="ul">
+  <xsl:element name="table">
     <xsl:attribute name="class">contents</xsl:attribute>
+    <xsl:element name="tr">
+      <xsl:element name="th">Author</xsl:element>
+      <xsl:element name="th">Title</xsl:element>
+      <xsl:element name="th">Type</xsl:element>
+      <xsl:element name="th">Pages</xsl:element>
+    </xsl:element>
     <xsl:for-each select="article">
-  <xsl:element name="li">
-    <xsl:apply-templates select="name"/>, <xsl:element name="a">
+  <xsl:element name="tr">
+    <xsl:element name="td"><xsl:attribute name="width">15%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:apply-templates
+    select="name"/></xsl:element> 
+    <xsl:element name="td"><xsl:attribute name="valign">top</xsl:attribute><xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
       select="@id"/>&amp;mdid=<xsl:value-of
       select="../issue-id/@id"/>&amp;docdate=<xsl:value-of
       select="docDate/@value"/></xsl:attribute><xsl:value-of
-      select="head"/>, </xsl:element> <!-- a -->
-<xsl:value-of select="docDate"/>
-    
-  </xsl:element> <!-- li -->
+      select="head"/></xsl:element></xsl:element>
+      <xsl:element name="td"><xsl:attribute name="width">10%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of
+      select="@type"/></xsl:element>
+      <xsl:element name="td"><xsl:attribute name="width">25%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of select="docDate"/></xsl:element>
+    </xsl:element> <!-- tr -->
     </xsl:for-each>
-  </xsl:element><!-- ul -->
+  </xsl:element><!-- table -->
 
 </xsl:template>
 
-<!-- handle multiple dccreators -->
-<!-- copied from tgfwfw/src/cocoon/webapp/tgfw/stylesheets/search-results-metadata.xsl  -->
-<!-- browse list of unique authors  (returns two or more dccreators for each name) 
-  authoritative author name (title page name[, other title page name(s)]) --> 
-<xsl:template match="name">
-  <!-- <xsl:template match="dccreator"> -->
+<!-- handle multiple authors -->
 
+<xsl:template match="name">
     <xsl:choose>
       <xsl:when test="position() = 1"/>
  <xsl:when test="position() = last()">

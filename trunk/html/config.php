@@ -10,9 +10,6 @@ session_start();
 //error_reporting(E_ERROR);	// for production
 //error_reporting(E_ERROR | E_PARSE);    // for development
 
-// root directory and url where the website resides
-// development version
-
 
 //root directory and url for wilson website
 //development
@@ -38,29 +35,6 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":
 $cssfile = "schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-/* tamino settings common to all pages
-   Note: all pages use same database, but there are three (two for SRC) different collections
- */
-//$tamino_server = "vip.library.emory.edu";
-//tamino_db = "WW1";
-/* define all these in one place so it is easy to change for testing */
-//$tamino_coll["poetry"] = "poetry";
-//$tamino_coll["links"] = "links";
-//$tamino_coll["postcards"] = "postcards";
-//$tamino_coll["postcards"] = "postcards-test";
-
-/* tamino settings common to all pages
-   Note: pages use different databases, metadata from the META(_TEST)/schangesfw-metadata, data from SRC(_TEST)/schanges
- */
-/*
-$tamino_server = "vip.library.emory.edu";
-$tamino_db["data-db"] = "SRC_TEST"; //Test db
-//$tamino_db["data-db"] = "SRC"; //production server
-$tamino_db["meta-db"] = "META_TEST"; //metadata test db
-//$tamino_db["meta-db"] = "META"; //metadata production db
-$tamino_coll["meta-coll"] = "schangesfw-metadata"; //metadata collection
-$tamino_coll["data-coll"] = "schanges"; //data collection
-/*
 
 /* exist settings  */
 if ($in_production) {

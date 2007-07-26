@@ -6,11 +6,9 @@ include_once("lib/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 
-//$issueid = $_GET["mdid"];
-
 $terms = $_GET["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Article", true);
@@ -19,7 +17,6 @@ html_head("Article", true);
 include("xml/browse-head.xml");
 
 print '<div class="content">';
-//$tamino->highlightInfo($terms);
 
 print '<h2>Article</h2>';
 

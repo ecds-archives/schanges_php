@@ -2,12 +2,9 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 
 $db = new xmlDbConnection($exist_args);
-//$connectionArray{"debug"} = false;
-
-//$xdb = new xmlDbConnection($connectionArray);
 
 global $title;
 global $abbrev;
@@ -15,9 +12,8 @@ global $collection;
 
 
 $id = $_GET["id"]; 
-//$docname = $_GET["docname"];
 $keyword = $_GET["keyword"];
-//print "DEBUG: id=$id, docname=$docname, keyword=$keyword, database=$db";
+
 
 $htmltitle = "Southern Changes Digital Archive";
 

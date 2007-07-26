@@ -9,8 +9,8 @@
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
 
-<xsl:include href="teihtml-tables.xsl"/>
-<xsl:include href="table.xsl"/>
+<!-- <xsl:include href="teihtml-tables.xsl"/>
+<xsl:include href="table.xsl"/> -->
 <xsl:include href="footnotes.xsl"/>
 <xsl:output method="html"/>  
 
