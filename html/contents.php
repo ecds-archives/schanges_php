@@ -1,5 +1,5 @@
 <?php
-
+  //This code is not used in current site AH 7-26-07
 //one possibe way to deal with messy xqueries & the urls they produce
 
 include_once("taminoConnection.class.php");

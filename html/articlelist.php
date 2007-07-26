@@ -8,13 +8,7 @@ include("common_functions.php");
 $id = $_GET["id"];
 $docdate = $_GET["docdate"];
 
-/*$args = array('host' => $tamino_server,
-	      'db' => $tamino_db["meta-db"],
-	      'coll' => $tamino_coll["meta-coll"],
-	      'debug' => false);
-	      $tamino = new xmlDbConnection($args);*/
-
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Article Browse", true);
@@ -30,9 +24,10 @@ print '<h2>Articles</h2>';
 $query = '<result>
 {for $b in /TEI.2//div1[@id = "' . "$id" . '"]
 return 
-<issue-id>{$b/@id}</issue-id>
+<issue-id>{$b/@id}
+{$b/head}</issue-id>
 }
-{let $curdate := xs:date("' . "$docdate" . '")
+{let $curdate := ("' . "$docdate" . '")
 let $previd := (for $d in /TEI.2//div1[p/date/@value < $curdate]
     order by $d/p/date/@value
 return $d)[last()]
@@ -43,7 +38,7 @@ return
     {$previd/head}
 </prev>
 }
-{let $curdate := xs:date("' . "$docdate" . '")
+{let $curdate := ("' . "$docdate" . '")
 let $nextid := (for $c in /TEI.2//div1[p/date/@value > $curdate]
     order by $c/p/date/@value
 return $c)[1]
@@ -54,6 +49,7 @@ return
   {$nextid/head}
 </next>}
 {for $a in /TEI.2//div1[@id = "' . "$id" . '"]/div2
+	  order by xs:int($a/@n)
 return
 <article>
 {$a/@id}
@@ -73,20 +69,6 @@ $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
 
 
-/*
-$rval = $tamino->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
-
-
-//$xsl_params = array('mode' => "flat", "vol" => $vol);
-$tamino->xslTransform($xsl_file); //, $xsl_params);
-//$tamino->xslTransform($xsl_file);
-$tamino->printResult();
-*/
 ?> 
    
 </div>

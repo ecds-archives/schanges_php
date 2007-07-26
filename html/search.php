@@ -16,8 +16,7 @@ $doctitle = $_REQUEST["doctitle"];
 $auth = $_REQUEST["author"];
 $date = $_REQUEST["date"];
 //$subj = $_REQUEST["subject"];
-//$searchcoll = $_GET["coll"];	// limit to certain/multiple collections (array)
-// need a filter if we are in a collection
+
 
 $pos = $_REQUEST["position"];
 $max = $_REQUEST["max"];
@@ -65,7 +64,6 @@ return <item>{\$a/@id}";
 
   $query .= "</item>";
   $xsl = "exist-search.xsl";
-  //$xsl_params = array('field' => $field, 'value' => $value, 'max' => $max);
   $xsl_params = array('mode' => "search", 'keyword' => $kw, 'doctitle' => $doctitle, 'auth' => $auth, 'date' => $date,  'max' => $max);
 }
 
@@ -108,8 +106,6 @@ $db->xquery($query, $pos, $max);
     print "<li>date matches '$date'</li>";
   if ($subj)
     print "<li>subject matches '$subj'</li>";
-/*if (isset($searchcoll) && $searchcoll[0] != "ALL")
- print "<li>collection is '" . stripslashes(implode($searchcoll, "' or '")) . "'</li>";*/
   
   
   print "</ul>";
