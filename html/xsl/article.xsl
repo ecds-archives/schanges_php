@@ -78,6 +78,13 @@
   <xsl:apply-templates />
   </xsl:element>
   </xsl:if>
+  <xsl:if test="@type='sidebar'">
+  <xsl:element name="span">
+      <xsl:attribute name="class">sidebar</xsl:attribute>
+  <xsl:apply-templates />
+  </xsl:element>
+  </xsl:if>
+
 </xsl:template>
 
 
