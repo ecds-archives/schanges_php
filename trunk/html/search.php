@@ -2,7 +2,7 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -42,7 +42,7 @@ if ($date)
 if (count($options)) {
 
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-  print("DEBUG: Searchfilter is $searchfilter");
+  //print("DEBUG: Searchfilter is $searchfilter");
   
   $query = "for \$a in /TEI.2//div2$searchfilter
 let \$t := \$a/head

@@ -7,7 +7,7 @@ include("common_functions.php");
 
 $id = $_GET["id"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Browse", true);
