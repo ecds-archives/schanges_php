@@ -12,8 +12,7 @@
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
 <xsl:variable name="query"><xsl:value-of select="ino:response/xq:query"/></xsl:variable>
-<!-- <xsl:variable name="total_count" select="count(//div1 |
-//div2[figure])" /> -->
+
 
 <xsl:output method="html"/>
 <xsl:template match="/">
