@@ -172,7 +172,7 @@ span#con span#euc span#ul span#eu {padding: 0 1em}
 
 hr.foot {width: 613px;}
 
-//Styles for search matching, tables
+/*Styles for search matching, tables*/
 
 td.count { width:15%; 
 	 text-align: center; }
