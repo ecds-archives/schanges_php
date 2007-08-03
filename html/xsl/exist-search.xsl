@@ -29,42 +29,8 @@
 
 
   <xsl:template match="/">
-<!--    <xsl:apply-templates select="//profile"/>
-    <xsl:apply-templates select="//alphalist"/> -->
     <xsl:call-template name="itemlist"/>
   </xsl:template>
-<!--
-  <xsl:template match="profile">
-    <div class="browse">
-      <h1>Select a browse category:</h1>
-      <ul class="browse">
-        <li><a href="browse.php?field=title">All Titles</a></li>
-        <xsl:if test="./form = 'Edited'">
-          <li><a href="browse.php?field=criticaledition">Critical Editions</a></li>
-        </xsl:if>
-        <li>Ethnicity: <xsl:apply-templates select="ethnicity"/></li>
-        <li>Genre: <xsl:apply-templates select="genre"/></li>
-        <li>Geography: <xsl:apply-templates select="geography"/></li>
-        <li>Period: <xsl:apply-templates select="period"/></li>
-        <li><a href="browse.php?field=publisher">Source Publisher List</a></li>
-        <li><a href="browse.php?field=author">Author List</a></li>
-        <li><a href="browse.php?field=subject">Subject List</a></li>
-      </ul>
-    </div>
-  </xsl:template>
--->
-<!--
-  <xsl:template match="profile/ethnicity|profile/genre|profile/geography|profile/period">
-    <a>
-      <xsl:attribute name="href">browse.php?field=<xsl:value-of select="name()"/>&amp;value=<xsl:value-of select="."/></xsl:attribute>
-      <xsl:value-of select="."/>
-    </a>
-    <xsl:if test="position() != last()">
-      <xsl:text> | </xsl:text>
-    </xsl:if>
-  </xsl:template>
--->
-
 
   <xsl:template name="itemlist">
     <xsl:if test="count(//item) > 0">
@@ -83,16 +49,9 @@
           <xsl:if test="//item/head"><th>title</th></xsl:if>
           <xsl:if test="//item/name"><th>author</th></xsl:if>
           <xsl:if test="//item/docDate"><th>date</th></xsl:if>
-       <!--   <xsl:if test="//item/ethnicity"><th>ethnicity</th></xsl:if>
-          <xsl:if test="//item/genre"><th>genre</th></xsl:if>
-          <xsl:if test="//item/geography"><th>geography</th></xsl:if>
-          <xsl:if test="//item/period"><th>period</th></xsl:if>
-          <xsl:if test="//item/publisher"><th>source publisher</th></xsl:if>-->
-          <!--          <xsl:if test="//item/??"><th>collection</th></xsl:if> -->
 	<xsl:if test="//item/subject"><th>subject</th></xsl:if>
         <xsl:if test="//item/editor"><th>editor</th></xsl:if>
-   <!--     <xsl:if test="//item/collection"><th>collection</th>
- </xsl:if> -->
+
       </tr>
     </thead>
     <tbody align="left" valign="top" style="font-size:small;">
@@ -129,31 +88,9 @@
       <xsl:if test="//item/docDate">
         <td class="date"  width="25%"><xsl:apply-templates select="docDate" mode="table"/></td>
       </xsl:if>
-     <!-- <xsl:if test="//item/ethnicity">
-        <td><xsl:apply-templates select="ethnicity" mode="table"/></td>
-      </xsl:if>
-      <xsl:if test="//item/genre">
-        <td><xsl:apply-templates select="genre" mode="table"/></td>
-      </xsl:if>
-      <xsl:if test="//item/geography">
-        <td><xsl:apply-templates select="geography" mode="table"/></td>
-      </xsl:if>
-      <xsl:if test="//item/period">
-        <td><xsl:apply-templates select="period" mode="table"/></td>
-      </xsl:if>
-      <xsl:if test="//item/publisher">
-        <td><xsl:apply-templates select="publisher" mode="table"/></td>
-      </xsl:if> -->
-      <xsl:if test="//item/subject">
+    <xsl:if test="//item/subject">
         <td><xsl:apply-templates select="subject" mode="table"/></td>
       </xsl:if>
-  <!--    <xsl:if test="//item/editor">
-        <td><xsl:apply-templates select="editor" mode="table"/></td>
-      </xsl:if>
-      <xsl:if test="//item/collection">
-        <td><xsl:apply-templates select="collection" mode="table"/></td>
-      </xsl:if> -->
-
     </tr>
     <xsl:value-of select="$nl"/>
   </xsl:template>
@@ -176,66 +113,7 @@
     <xsl:value-of select="$nl"/>
   </xsl:template>
 
-  <!-- display multiple authors for a single text in one table cell -->
-  <!-- <xsl:template match="item/docAuthor/name" mode="table">
-    <xsl:if test="count(preceding-sibling::name) > 0">
-      <br/>
-    </xsl:if>
-    <xsl:apply-templates select="."/>
-  </xsl:template>
--->
-  <!-- display multiple dates for a single text in one table cell -->
-<!--  <xsl:template match="item/docDate" mode="table">
-    <xsl:if test="count(preceding-sibling::docDate) > 0">
-      <br/>
-    </xsl:if>
-    <xsl:apply-templates select="."/>
-  </xsl:template>
--->
 
-
-
-  <!-- display multiple collections for a single text in one table cell -->
-<!--  <xsl:template match="item/collection" mode="table">
-    <xsl:if test="count(preceding-sibling::collection) > 0">
-      <br/>
-    </xsl:if>
-        <span>
-          <xsl:attribute name="class"><xsl:call-template name="collection-shorthand"/></xsl:attribute>
-          <xsl:apply-templates select="."/>
-        </span>
-  </xsl:template>
--->
-  <!-- convert collection name into shorthand name (for css coloring, site urls) -->
-<!--  <xsl:template name="collection-shorthand"> -->
-    <!-- escape apostrophe by storing in a variable-->
-<!--    <xsl:variable name="advocacy">Women's Advocacy</xsl:variable>
-
-    <xsl:choose>
-      <xsl:when test=". = 'Genre Fiction'">
-        genrefiction
-      </xsl:when>
-      <xsl:when test=". = 'Early Modern through the 18th Century'">
-        earylmodern
-      </xsl:when>
-      <xsl:when test=". = 'Early 20th Century Literature'">
-        twentieth
-      </xsl:when>
-      <xsl:when test=". = 'World War I'">
-        worldwar1
-      </xsl:when>
-      <xsl:when test=". = 'Native American'">
-        nativeamerican
-      </xsl:when>
-      <xsl:when test=". = 'Abolition, Freedom, and Rights'">
-        abolition
-      </xsl:when>
-      <xsl:when test=". = $advocacy">
-        advocacy
-      </xsl:when>
-    </xsl:choose>
-  </xsl:template>
--->
 
 <!-- display multiple subjects for a single text in one table cell -->
 <xsl:template match="item/subject" mode="table">
@@ -245,32 +123,6 @@
       <xsl:apply-templates select="."/>
 </xsl:template>
 
-
-<!-- don't need this
-<xsl:template match="title">
-  <a>
-    <xsl:attribute name="href">toc.php?id=<xsl:value-of select="../id"/></xsl:attribute>
-    <b><xsl:apply-templates/></b>
-  </a>
-</xsl:template>
--->
-
-<!-- browse list of unique authors: reg is attached to author, may include multiple names
-  authoritative author name (title page name, other title page name(s)) --> 
-<!-- <xsl:template match="author"> -->
-  <!-- canonical/regularized version of author name -->
-<!--  <xsl:variable name="reg">   -->	<!-- reg is in either one of these two places -->
-<!--    <xsl:value-of select="@reg"/>  
-    <xsl:value-of select="name/@reg"/>
-  </xsl:variable>
-  <a>
-    <xsl:attribute name="href">browse.php?field=author&amp;value=<xsl:value-of select="normalize-space($reg)"/></xsl:attribute>
-    <xsl:value-of select="$reg"/>
-  </a>
-  <xsl:if test="$reg != name"> --> 	<!-- (only display if different) -->
-<!--    [<xsl:apply-templates select="name"/>]  --> <!-- title page version(s) of author name -->
-<!--  </xsl:if>
-</xsl:template> -->
 
 <!-- possibly multiple names in table mode -->
 <xsl:template match="item/name">
