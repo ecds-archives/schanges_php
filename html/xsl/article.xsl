@@ -9,8 +9,6 @@
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
 
-<!-- <xsl:include href="teihtml-tables.xsl"/>
-<xsl:include href="table.xsl"/> -->
 <xsl:include href="footnotes.xsl"/>
 <xsl:output method="html"/>  
 
@@ -303,7 +301,7 @@ select="//next/docDate"/></xsl:element>
 
 <!-- simple table test by Alice Hickcox, March 8, 2006 -->
 <!-- this works -->
-<!--    <xsl:param name="tableAlign">left</xsl:param> -->
+
    <xsl:param name="tableAlign">center</xsl:param>
    <xsl:param name="cellAlign">left</xsl:param>
 

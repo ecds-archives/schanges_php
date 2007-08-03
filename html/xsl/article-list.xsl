@@ -72,11 +72,6 @@
     <xsl:apply-templates />
  
 
-<!--
-  <xsl:if test="position() = last()">
-    <xsl:text>)</xsl:text>
-  </xsl:if>
--->
 </xsl:template>
 
 
@@ -167,26 +162,9 @@
       <xsl:value-of select="dcdescription"/><!-- <xsl:call-template name="cleantitle"/> -->
   </xsl:element> <!-- a -->   
   </xsl:element> <!-- td -->
-<!-- 
-  <xsl:element name="td">
-  <xsl:attribute name="valign">top</xsl:attribute>
-  </xsl:element> 
---><!-- td -->
-<!--  
-  <xsl:element name="td">
-  <xsl:attribute name="valign">top</xsl:attribute>
-  <xsl:element name="font">
-   <xsl:attribute name="size">-1</xsl:attribute> 
--->
-<!-- for ILN  
-<xsl:value-of select="bibl/biblScope[@type='volume']"/>,
-  <xsl:value-of select="bibl/biblScope[@type='issue']"/>,
-  <xsl:value-of select="bibl/biblScope[@type='pages']"/>.
-  (<xsl:value-of select="bibl/extent"/>) -->
+
   </xsl:element> <!-- font -->
-<!--
- </xsl:element> --> <!-- td -->
-<!-- </xsl:element> --> <!-- tr -->
+
 </xsl:template>
 
 

@@ -35,14 +35,6 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":
 $cssfile = "schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-
-/* exist settings  */
-if ($in_production) {
-  $server = "bohr.library.emory.edu";           //production
-} else {
-  $server = "wilson.library.emory.edu";         // test
-}
-
 $port = "8080";
 $db = "schanges";
 

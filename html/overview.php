@@ -4,7 +4,7 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$id = $_GET["dcidentifier"];
+//$id = $_GET["dcidentifier"];
 
 
 html_head("Overview", true);
