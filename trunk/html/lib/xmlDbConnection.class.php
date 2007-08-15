@@ -42,7 +42,7 @@ class xmlDbConnection {
   function xmlDbConnection($argArray) {
     $this->host = $argArray['host'];
     $this->db = $argArray['db'];
-    $this->coll = $argArray['coll'];
+    //    $this->coll = $argArray['coll'];
     $this->debug = $argArray['debug'];
 
     $this->dbtype = $argArray['dbtype'];

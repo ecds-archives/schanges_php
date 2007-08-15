@@ -5,7 +5,7 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$id = $_GET["id"];
+//$id = $_GET["id"];
 
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
@@ -31,7 +31,7 @@ return
 </result>';
 
 $xsl_file = "issue-list.xsl";
-$xsl_params = array('mode' => "flat", "vol" => $vol);
+$xsl_params = array('mode' => "flat");
 
 $maxdisplay = "110"; //show all the issues
 $position = "1"; //start here

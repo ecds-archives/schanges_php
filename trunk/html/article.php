@@ -21,7 +21,7 @@ print '<div class="content">';
 print '<h2>Article</h2>';
 
 $xsl_file = "article.xsl";
-$xsl_params = array('mode' => "flat", "vol" => $vol);
+$xsl_params = array('mode' => "flat");
 
 
 
