@@ -3,7 +3,7 @@
 /* Configuration settings for entire site */
 
 // pick up login/authorization information
-session_start();
+  //session_start();
 
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)

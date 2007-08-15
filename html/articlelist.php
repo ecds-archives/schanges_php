@@ -65,7 +65,7 @@ $xsl_file = "article-list.xsl";
 
 // run the query 
 $xmldb->xquery($query);
-$xmldb->xslTransform($xsl_file, $xsl_params);
+$xmldb->xslTransform($xsl_file);
 $xmldb->printResult();
 
 
