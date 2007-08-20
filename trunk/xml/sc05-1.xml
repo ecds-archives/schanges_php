@@ -74,11 +74,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <p><title>Southern Changes</title>.  Volume 5, Number 1,
 	       <date value="1983-01">1983</date></p>
         <div2 id="sc05-1002" n="7" type="Review">
-          <head><title>Elephants in the Cottonfields: Ronald Reagan and the New
-Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</head>
+          <head>Elephants in the Cottonfields</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
-          <p>The growing strength of the Republican party in Dixie has taken
+          <bibl><title>Elephants in the Cottonfields: Ronald Reagan and the New
+Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</bibl><p>The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
 G.O.P. muscle-building did not begin yesterday. Explaining this fact
 is only one of the services performed here by author Wayne Greenhaw,
@@ -177,13 +177,17 @@ Montgomery, is a Yellow-dog Democrat.</p>
           </div3>
         </div2>
         <div2 id="sc05-1003" n="8" type="Review">
-          <head><title>The Smithsonian Collection of Classic Country
-Music,</title> selected and annotated by Bill Malone (Washington,
-D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
-with 55 pp. illustrated brochure. $54.95.</head>
+          <head>The Smithsonian Collection of Classic Country
+Music</head>
+
           <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
-          <p><title>Classic Country Music</title>, prepared by Bill C. Malone
+         
+<bibl><title>The Smithsonian Collection of Classic Country
+Music,</title> selected and annotated by Bill Malone (Washington,
+D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
+with 55 pp. illustrated brochure. $54.95.</bibl>
+<p><title>Classic Country Music</title>, prepared by Bill C. Malone
 for the Smithsonian Institution, takes one back to the clear
 headwaters: the first commercial hillbilly recording (Eck Robertson's
 "Sally Gooden" for Victor in 1922); the first big sellers (Vernon
@@ -808,12 +812,13 @@ license.</p>
           </div3>
         </div2>
         <div2 id="sc05-1005" n="6" type="Review">
-          <head><title>Black Boss: Political Revolution in a Georgia
-County.</title> John Rozier. The University of Georgia Press,
-1982.</head>
+          <head>Black Boss: Political Revolution in a Georgia
+County</head>
           <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
-          <p>John Rozier's <title>Black Boss</title> is a narrative of John
+          <bibl><title>Black Boss: Political Revolution in a Georgia
+County.</title> John Rozier. The University of Georgia Press,
+1982.</bibl><p>John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
 most observers felt reached fruition in 1968, the year that blacks
 became the majority of members of the county commission. Rozier, a
