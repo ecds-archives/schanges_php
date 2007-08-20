@@ -38,7 +38,7 @@ return
     {$previd/head}
 </prev>
 }
-{let $curdate := ("' . "$docdate" . '")
+x{let $curdate := ("' . "$docdate" . '")
 let $nextid := (for $c in /TEI.2//div1[p/date/@value > $curdate]
     order by $c/p/date/@value
 return $c)[1]
