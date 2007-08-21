@@ -12,7 +12,7 @@ $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Browse", true);
 
-include("xml/browse-head.xml");
+include("web/xml/browse-head.xml");
 
 print '<div class="content">';
 
@@ -30,7 +30,7 @@ return
 </docdate>
 </result>';
 
-$xsl_file = "issue-list.xsl";
+$xsl_file = "xslt/issue-list.xsl";
 $xsl_params = array('mode' => "flat");
 
 $maxdisplay = "110"; //show all the issues
@@ -44,13 +44,9 @@ $xmldb->printResult();
 
 
 
-include("xml/footer.xml");
+include("web/xml/footer.xml");
 ?> 
    
 </div>
-   
-
-
-
 </body>
 </html>

@@ -14,14 +14,13 @@ function getCSS () {
   if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
-  // $css_basepath = "http://chaucer.library.emory.edu/iln/";
+
   // development
   $css_basepath = "http://wilson.library.emory.edu/~ahickco/schanges/";
-  //$css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
+
   // production
-  //  $css_basepath = "http://cti.library.emory.edu/iln/";
   //  $css_basepath = "http://beck.library.emory.edu/southernchanges";
-  $css = "schanges.css"; 
+  $css = "web/css/schanges.css"; 
  /* if ($browser == "MSIE") {
     if ($os == "mac") {
       $css = "iln-iemac.css";
@@ -54,7 +53,7 @@ print "<html>
 <script language=\"Javascript\" 
 	src=\"$base_url/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
- }*/
+}*/
 print "<script language=\"Javascript\"
        src=\"$base_url/image_viewer/launchViewer.js\"></script>
  </head>";

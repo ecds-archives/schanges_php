@@ -21,7 +21,7 @@
 
   <xsl:template match="titleStmt/author">
     <xsl:element name="dc:creator">
-      <xsl:apply-templates/>
+      <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
   </xsl:template>
 
@@ -46,7 +46,7 @@
 
 
   <!-- ignore for now; do these fit anywhere? -->
-  <xsl:template match="publicationStmt/address"/>
+  <xsl:template match="publicationStmt//address/addrLine"/>
   <xsl:template match="publicationStmt/pubPlace"/>
   <xsl:template match="respStmt"/>
 
@@ -66,23 +66,26 @@
   <xsl:template match="sourceDesc/bibl">
     <xsl:element name="dc:source">
       <!-- process all elements, in this order. -->
-      <xsl:apply-templates select="author"/>
+     <!-- <xsl:apply-templates select="author"/> not using this -->
       <xsl:apply-templates select="title"/>
-      <xsl:apply-templates select="editor"/>
+     <!-- <xsl:apply-templates select="editor"/> -->
       <xsl:apply-templates select="pubPlace"/>
       <xsl:apply-templates select="publisher"/>
       <xsl:apply-templates select="date"/>
+      <xsl:apply-templates select="biblScope[@type='volume']"/>
+      <xsl:apply-templates select="biblScope[@type='issue']"/>
       <!-- in case source is in plain text, without tags -->
       <xsl:apply-templates select="text()"/>
     </xsl:element>
   </xsl:template>
 
   <!-- formatting for bibl elements, to generate a nice citation. -->
-  <xsl:template match="bibl/author"><xsl:apply-templates/>. </xsl:template>
+  <!-- <xsl:template
+  match="bibl/author"><xsl:apply-templates/>. </xsl:template> -->
   <xsl:template match="bibl/title"><xsl:apply-templates/>. </xsl:template>
-  <xsl:template match="bibl/editor">
+ <!-- <xsl:template match="bibl/editor">
     <xsl:text>Ed. </xsl:text><xsl:apply-templates/><xsl:text>. </xsl:text>
-  </xsl:template>
+  </xsl:template> -->
   <xsl:template match="bibl/pubPlace">
 	<xsl:if test=". != ''">
           <xsl:apply-templates/>:
@@ -93,10 +96,14 @@
       <xsl:apply-templates/>, 
     </xsl:if>
   </xsl:template>
+  <xsl:template
+      match="bibl/biblScope[@type='volume']"><xsl:apply-templates/>, </xsl:template>
+  <xsl:template
+      match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>,
+  </xsl:template>
   <xsl:template match="bibl/date"><xsl:apply-templates/>.</xsl:template>
-
-
-  <xsl:template match="encodingDesc/projectDesc">
+  
+  <xsl:template match="encodingDesc/projectDesc/p">
     <xsl:element name="dc:description">
       <xsl:apply-templates/>
     </xsl:element>

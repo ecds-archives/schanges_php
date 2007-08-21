@@ -8,16 +8,16 @@ include("common_functions.php");
 
 html_head("Acknowledgments", true);
 
-include("xml/overview-head.xml");
+include("web/xml/overview-head.xml");
 
 print '<div class="content">';
 print '<h2>Acknowledgments</h2>';
 
 
-print transform("xml/acknowledgments.xml", "xsl/overview.xsl"); 
+print transform("web/xml/acknowledgments.xml", "xslt/overview.xsl"); 
 
 
-include("xml/footer.xml");
+include("web/xml/footer.xml");
 
 ?> 
 

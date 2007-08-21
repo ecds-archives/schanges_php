@@ -14,13 +14,13 @@ $xmldb = new xmlDbConnection($exist_args);
 html_head("Article", true);
 
 
-include("xml/browse-head.xml");
+include("web/xml/browse-head.xml");
 
 print '<div class="content">';
 
 print '<h2>Article</h2>';
 
-$xsl_file = "article.xsl";
+$xsl_file = "xslt/article.xsl";
 $xsl_params = array('mode' => "flat");
 
 
@@ -63,7 +63,7 @@ $xmldb->printResult();
 </div>
    
 <?php
-  include("xml/footer.xml");
+  include("web/xml/footer.xml");
 ?>
 
 

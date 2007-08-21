@@ -63,7 +63,7 @@ return <item>{\$a/@id}";
    $query .= "{for \$s in \$a//keywords/list/item return <subject>{string(\$s)}</subject>}";*/
 
   $query .= "</item>";
-  $xsl = "exist-search.xsl";
+  $xsl = "xslt/exist-search.xsl";
   $xsl_params = array('mode' => "search", 'keyword' => $kw, 'doctitle' => $doctitle, 'auth' => $auth, 'date' => $date,  'max' => $max);
 }
 
@@ -72,14 +72,14 @@ return <item>{\$a/@id}";
 <html>
  <head>
 <title><?= $htmltitle ?> : Search Results</title>
-    <link rel="stylesheet" type="text/css" href="schanges.css">
+    <link rel="stylesheet" type="text/css" href="web/css/schanges.css">
  <!--   <link rel="shortcut icon" href="ewwrp.ico" type="image/x-icon">
     <script src='<?= $baseurl ?>/projax/js/prototype.js' type='text/javascript'></script>
     <script src='<?= $baseurl ?>/projax/js/scriptaculous.js' type='text/javascript'></script> -->
 </head>
 <body>
 
-<? include("xml/browse-head.xml") ?>
+<? include("web/xml/browse-head.xml") ?>
 
 
 <div class="content">

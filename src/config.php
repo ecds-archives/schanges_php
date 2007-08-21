@@ -8,7 +8,7 @@
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
 //error_reporting(E_ERROR);	// for production
-error_reporting(E_ERROR | E_PARSE);    // for development
+  //error_reporting(E_ERROR | E_PARSE);    // for development
 
 
 //root directory and url for wilson website
@@ -29,10 +29,10 @@ $base_url = "http://$server$base_path/";
 */
 
 // add basedir to the php include path (for header/footer files and lib directory)
-set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/xml");
+set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/web/xml");
 
 //shorthand for link to main css file
-$cssfile = "schanges.css";
+$cssfile = "web/css/schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 $port = "8080";

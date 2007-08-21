@@ -9,18 +9,18 @@ include("common_functions.php");
 
 html_head("Overview", true);
 
-include("xml/overview-head.xml");
+include("web/xml/overview-head.xml");
 
 print '<div class="content">';
 print '<h2>Overview</h2>';
 
-print transform("xml/overview.xml", "xsl/overview.xsl"); 
+print transform("web/xml/overview.xml", "xslt/overview.xsl"); 
 
 
 
 print '<div class="acklink"><a href="acknowledgments.php">Acknowledgments</a></div>';
 
-include("xml/footer.xml");
+include("web/xml/footer.xml");
 
 ?> 
 

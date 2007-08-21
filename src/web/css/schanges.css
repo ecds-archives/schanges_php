@@ -1,14 +1,14 @@
 @import "footnotes.css";
 body { text-color: #333333;
-     background-image: url(images/blue2.gif);}
+     background-image: url(../images/blue2.gif);}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
 /*div.header { border: 3px solid #02023a; text-align:center;} */
 
 /* styles for main part of page */ 
-a:link {color: #200674; text-decoration: none; }
-a:visited {color: #0028b9; text-decoration:none;}
+a:link {color: #003399; text-decoration: none; }
+a:visited {color: #330066; text-decoration:none;}
 
 div.header h1 { font-family: "Gill Sans", "MS Arial", sans-serif; 
 	   font-size: 36pt; 
