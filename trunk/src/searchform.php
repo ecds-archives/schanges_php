@@ -2,11 +2,11 @@
 include("config.php");
 include("common_functions.php");
 
-html_head("Search", "search.css");
+html_head("Search", "web/css/search.css");
 
-include("xml/header_search.xml");
+include("web/xml/header_search.xml");
 include("searchoptions.php");
-include("xml/footer.xml");
+include("web/xml/footer.xml");
 
 ?>
 

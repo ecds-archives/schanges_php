@@ -11,8 +11,8 @@ global $abbrev;
 global $collection;
 
 
-$id = $_GET["id"]; 
-$keyword = $_GET["keyword"];
+$id = $_REQUEST["id"]; 
+$keyword = $_REQUEST["keyword"];
 
 
 $htmltitle = "Southern Changes Digital Archive";
@@ -43,26 +43,23 @@ return
 */
 
 $db->xquery($xquery);
-//$doctitle = $db->findnode("title");
-// truncate document title for html header
-//$doctitle = str_replace(", an electronic edition", "", $doctitle);
 
 
 print "$doctype
 <html>
  <head>
     <title>$htmltitle : $doctitle : Keyword in Context</title>
-    <link rel='stylesheet' type='text/css' href='schanges.css'>";
+    <link rel='stylesheet' type='text/css' href='web/css/schanges.css'>";
 
-include("xml/header_search.xml");
+include("web/xml/header_search.xml");
 
 print "<div class='content'>
 <div class='title'><a href='index.html'>$title</a></div>";
 
 $xsl_params = array("url_suffix" => "keyword=$keyword");
 
-$db->xslBind("kwic-towords.xsl");
-$db->xslBind("kwic.xsl", $xsl_params);
+$db->xslBind("xslt/kwic-towords.xsl");
+$db->xslBind("xslt/kwic.xsl", $xsl_params);
 
 $db->transform();
 $db->printResult();
