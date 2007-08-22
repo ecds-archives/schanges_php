@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dcterms="http://purl.org/dc/terms"
                 version="1.0">
 
-  <xsl:output method="xml"/>
+  <xsl:output method="xml" omit-xml-declaration="yes"/>
 
   <xsl:template match="/">
     <dc>
     <xsl:apply-templates select="//teiHeader"/>
+    <xsl:apply-templates select="//article"/>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
@@ -57,7 +59,7 @@
   </xsl:template>
 
   <xsl:template match="seriesStmt/title">
-    <xsl:element name="dc:relation">
+    <xsl:element name="dcterms:isPartOf">
       <!-- fixme: should we specify isPartOf? -->
       <xsl:apply-templates/>
     </xsl:element>
@@ -75,7 +77,7 @@
       <xsl:apply-templates select="biblScope[@type='issue']"/>
       <xsl:apply-templates select="date"/>
       <!-- in case source is in plain text, without tags -->
-      <xsl:apply-templates select="text()"/>
+    <!--  <xsl:apply-templates select="text()"/> -->
     </xsl:element>
   </xsl:template>
 
@@ -95,11 +97,26 @@
   <xsl:template
       match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>, </xsl:template>
   <xsl:template match="bibl/date"><xsl:apply-templates/>. </xsl:template>
-<!--  
-  <xsl:template match="encodingDesc/projectDesc/p">
-    <xsl:element name="dc:description">
-      <xsl:apply-templates/>
+  
+  <xsl:template match="article">
+    <xsl:element name="dcterms:description.tableOfContents">
+      <xsl:for-each select="article">
+	<xsl:apply-templates select="name"/>, <xsl:apply-templates
+	select="head"/>. <xsl:apply-templates select="docDate"/>.
+      </xsl:for-each>
     </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="name">
+    <xsl:choose>
+      <xsl:when test="position() = 1"/>
+ <xsl:when test="position() = last()">
+        <xsl:text> and </xsl:text>
+      </xsl:when>
+    <xsl:otherwise>
+	<xsl:text>, </xsl:text>
+      </xsl:otherwise>
+  </xsl:choose>
   </xsl:template>
 
   <xsl:template match="profileDesc/creation/date">
@@ -107,17 +124,17 @@
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
-
+<!--
   <xsl:template match="profileDesc/creation/rs[@type='geography']">
     <xsl:element name="dc:coverage">
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
 -->
-  <!-- ignore other rs types for now -->
-  <xsl:template match="profileDesc/creation/rs[@type!='geography']"/>
+ 
 
   <!-- ignore these: encoding specific information -->
+  <xsl:template match="encodingDesc/projectDesc"/>
   <xsl:template match="encodingDesc/tagsDecl"/>
   <xsl:template match="encodingDesc/refsDecl"/>
   <xsl:template match="encodingDesc/editorialDecl"/>

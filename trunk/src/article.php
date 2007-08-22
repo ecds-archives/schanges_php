@@ -12,7 +12,7 @@ $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Article", true);
-
+print "</head>";
 
 include("web/xml/browse-head.xml");
 
