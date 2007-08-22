@@ -26,14 +26,14 @@ University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
 this header is included in its entirety.  For inquiries about
-commercial uses, contact either: Southern Changes Web Project or Lewis
+commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
         </availability>
         <date>2004</date>
       </publicationStmt>
       <seriesStmt>
-        <title>Southern Changes Web Project</title>
+        <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1979-10">October 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
@@ -42,7 +42,7 @@ University, Atlanta, Georgia 30322</p>
     <encodingDesc>
       <projectDesc>
         <p>This text is produced in conjunction with the
-Southern Changes Web Project at Emory University and the Southern
+Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
@@ -60,7 +60,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <change>
         <date>2007</date>
         <respStmt>
-          <name>Alice Hickcox</name>
+          <name id="AH">Alice Hickcox</name>
           <resp>Electronic text specialist</resp>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
@@ -136,7 +136,7 @@ grammatically correct &#x2014; but unfortunately it left an incorrect
 impression &#x2014; and I have promised the author, Paige Gutierrez
 &#x2014; that we will print the correction. The error comes on page
 25, midway through the first column. It <hi rend="bold">should</hi>
-read "The Geenteel Acadian is likely to be a speaker of standard
+read "The Genteel Acadian is likely to be a speaker of standard
 French, whereas the "Proud Coonass" is more likely to speak a
 nonstandard Cajun dialect."</p>
         </div2>
