@@ -11,7 +11,7 @@ $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 html_head("Browse", true);
-
+print "</head>";
 include("web/xml/browse-head.xml");
 
 print '<div class="content">';

@@ -71,9 +71,9 @@
      <!-- <xsl:apply-templates select="editor"/> -->
       <xsl:apply-templates select="pubPlace"/>
       <xsl:apply-templates select="publisher"/>
-      <xsl:apply-templates select="date"/>
       <xsl:apply-templates select="biblScope[@type='volume']"/>
       <xsl:apply-templates select="biblScope[@type='issue']"/>
+      <xsl:apply-templates select="date"/>
       <!-- in case source is in plain text, without tags -->
       <xsl:apply-templates select="text()"/>
     </xsl:element>
@@ -87,22 +87,15 @@
     <xsl:text>Ed. </xsl:text><xsl:apply-templates/><xsl:text>. </xsl:text>
   </xsl:template> -->
   <xsl:template match="bibl/pubPlace">
-	<xsl:if test=". != ''">
-          <xsl:apply-templates/>:
-        </xsl:if>
-  </xsl:template>
+          <xsl:apply-templates/>:  </xsl:template>
   <xsl:template match="bibl/publisher">
-    <xsl:if test=". != ''">
-      <xsl:apply-templates/>, 
-    </xsl:if>
-  </xsl:template>
+      <xsl:apply-templates/>, </xsl:template>
   <xsl:template
       match="bibl/biblScope[@type='volume']"><xsl:apply-templates/>, </xsl:template>
   <xsl:template
-      match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>,
-  </xsl:template>
-  <xsl:template match="bibl/date"><xsl:apply-templates/>.</xsl:template>
-  
+      match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>, </xsl:template>
+  <xsl:template match="bibl/date"><xsl:apply-templates/>. </xsl:template>
+<!--  
   <xsl:template match="encodingDesc/projectDesc/p">
     <xsl:element name="dc:description">
       <xsl:apply-templates/>
@@ -120,7 +113,7 @@
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
-
+-->
   <!-- ignore other rs types for now -->
   <xsl:template match="profileDesc/creation/rs[@type!='geography']"/>
 

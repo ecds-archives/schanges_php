@@ -8,7 +8,7 @@ include("common_functions.php");
 
 
 html_head("Overview", true);
-
+print "</head>";
 include("web/xml/overview-head.xml");
 
 print '<div class="content">';

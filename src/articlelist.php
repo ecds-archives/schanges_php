@@ -60,6 +60,7 @@ $xmldb->xslTransformResult($header_xsl2);
 
 html_head("Article Browse", true);
 $xmldb->printResult();
+print "</head>";
 include("web/xml/browse-head.xml");
 
 print '<div class="content">';
