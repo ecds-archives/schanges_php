@@ -54,9 +54,9 @@ print "<html>
 	src=\"$base_url/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
 }*/
-print "<script language=\"Javascript\"
-       src=\"$base_url/image_viewer/launchViewer.js\"></script>
- </head>";
+/*print "<script language=\"Javascript\"
+ src=\"$base_url/image_viewer/launchViewer.js\"></script>*/
+//print "</head>";
 }
 
 

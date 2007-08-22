@@ -7,7 +7,7 @@ include("common_functions.php");
 
 
 html_head("Acknowledgments", true);
-
+print "</head>";
 include("web/xml/overview-head.xml");
 
 print '<div class="content">';
