@@ -5,11 +5,15 @@
                 version="1.0">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
+  <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
+  <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
   <xsl:template match="/">
     <dc>
-    <xsl:apply-templates select="//teiHeader"/>
-    <xsl:apply-templates select="//article"/>
+      <xsl:apply-templates select="//result"/>
+<!--    <xsl:apply-templates select="//teiHeader"/>
+    <xsl:apply-templates select="//issue-id"/>
+    <xsl:apply-templates select="//article"/> -->
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
@@ -18,6 +22,14 @@
   <xsl:template match="titleStmt/title">
     <xsl:element name="dc:title">
       <xsl:value-of select="."/>
+    </xsl:element>
+    <xsl:call-template name="issueid"/>
+  </xsl:template>
+
+  <xsl:template name="issueid" match="result//issue-id">
+    <xsl:element name="dc:identifier">
+      <xsl:value-of select="$baseurl"/><xsl:value-of
+      select="$siteurl"/>/article-list.php?<xsl:value-of select="@id"/>      
     </xsl:element>
   </xsl:template>
 
@@ -63,7 +75,13 @@
       <!-- fixme: should we specify isPartOf? -->
       <xsl:apply-templates/>
     </xsl:element>
+    <xsl:element name="dc:identifier">
+      <xsl:value-of select="$baseurl"/><xsl:value-of
+      select="$siteurl"/>      
+    </xsl:element>
   </xsl:template>
+
+
 
   <xsl:template match="sourceDesc/bibl">
     <xsl:element name="dc:source">
@@ -82,12 +100,8 @@
   </xsl:template>
 
   <!-- formatting for bibl elements, to generate a nice citation. -->
-  <!-- <xsl:template
-  match="bibl/author"><xsl:apply-templates/>. </xsl:template> -->
+ 
   <xsl:template match="bibl/title"><xsl:apply-templates/>. </xsl:template>
- <!-- <xsl:template match="bibl/editor">
-    <xsl:text>Ed. </xsl:text><xsl:apply-templates/><xsl:text>. </xsl:text>
-  </xsl:template> -->
   <xsl:template match="bibl/pubPlace">
           <xsl:apply-templates/>:  </xsl:template>
   <xsl:template match="bibl/publisher">
@@ -98,19 +112,22 @@
       match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>, </xsl:template>
   <xsl:template match="bibl/date"><xsl:apply-templates/>. </xsl:template>
   
+
   <xsl:template match="article">
     <xsl:element name="dcterms:description.tableOfContents">
-      <xsl:for-each select="article">
+      <xsl:for-each select=".">
 	<xsl:apply-templates select="name"/>, <xsl:apply-templates
-	select="head"/>. <xsl:apply-templates select="docDate"/>.
-      </xsl:for-each>
+	select="head"/>, <xsl:apply-templates select="docDate"/>.</xsl:for-each>
     </xsl:element>
+      <xsl:call-template name="dcidentifier"/>
   </xsl:template>
 
+<!-- FIXME: this template doesn't work -->
+<!-- handle multiple names -->
   <xsl:template match="name">
     <xsl:choose>
       <xsl:when test="position() = 1"/>
- <xsl:when test="position() = last()">
+  <xsl:when test="position() = last()">
         <xsl:text> and </xsl:text>
       </xsl:when>
     <xsl:otherwise>
@@ -119,21 +136,25 @@
   </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="profileDesc/creation/date">
-    <xsl:element name="dc:coverage">
-      <xsl:apply-templates/>
+<!-- add a space after titles in the head -->
+  <xsl:template match="head/title">
+    <xsl:apply-templates/><xsl:text> </xsl:text>
+  </xsl:template>
+
+<!-- FIXME: this one doesn't work -->
+  <xsl:template name="dcidentifier">
+    <xsl:element name="dc:identifier">
+    <xsl:for-each select="article">
+      <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id="</xsl:text><xsl:apply-templates select="@id"/><xsl:text>"</xsl:text>
+    </xsl:for-each>
     </xsl:element>
   </xsl:template>
-<!--
-  <xsl:template match="profileDesc/creation/rs[@type='geography']">
-    <xsl:element name="dc:coverage">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
--->
  
 
+
   <!-- ignore these: encoding specific information -->
+  <xsl:template match="next"/>
+  <xsl:template match="prev"/>
   <xsl:template match="encodingDesc/projectDesc"/>
   <xsl:template match="encodingDesc/tagsDecl"/>
   <xsl:template match="encodingDesc/refsDecl"/>
