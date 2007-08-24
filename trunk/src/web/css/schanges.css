@@ -1,10 +1,9 @@
 @import "footnotes.css";
-body { text-color: #333333;
-     background-image: url(../images/blue2.gif);}
+body {background-image: url(../images/blue2.gif);
+      background-color: #000000;}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
-/*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
-/*div.header { border: 3px solid #02023a; text-align:center;} */
+
 
 /* styles for main part of page */ 
 a:link {color: #003399; text-decoration: none; }
@@ -23,7 +22,7 @@ div.header h2 { font-family: "Gill Sans", "MS Arial", sans-serif;
 div.headerseachbox {text-align: center;
 		   display: block;
 	    	   width: 50%; }
-p.searchbox {font-family: Gill Sans, sans-serif;
+p.searchbox {font-family: "Gill Sans", sans-serif;
 	    font-size:90%; 
 	    text-align: center;
 	    display: block; 
@@ -51,7 +50,7 @@ img.headimage {display: block;
 	      margin-left: auto; 
 	      margin-right: auto;}
 
-div.nav {font-family: "Gill Sans Ultra Bold", Gill Sans, MS Arial, sans-serif;
+div.nav {font-family: "Gill Sans Ultra Bold", "Gill Sans", "MS Arial", sans-serif;
 	font-size: 24pt;  
 	text-decoration: none; 
 	text-align: center;}
@@ -76,7 +75,7 @@ img.teenimage {display: block;
 
 p.credit {text-align: right;
 	 font-size:8pt;
-	 font-family: MS Arial, Gill Sans, sans-serif;
+	 font-family: "MS Arial", "Gill Sans", sans-serif;
 	 margin-right: 36%;
 	 margin-top: -0.125em;}
 
@@ -92,7 +91,7 @@ img.teensub {display: block;
 	      margin-right: auto;}
 	    
 
-div.subnav {font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
+div.subnav {font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-serif;
 	   font-size: 18pt; 
 	   text-decoration: none; 
 	   text-align: center;} 
@@ -108,14 +107,14 @@ span#br {padding: 0 1em;}
 span#se {padding: 0 1em;}
 
 
-div.content {font-family: "Gill Sans", MS Arial, Gill Sans, sans-serif; 
+div.content {font-family: "Gill Sans", "MS Arial", sans-serif; 
 	    font-size: 12pt; 
 	    text-decoration: none; 
 	    text-align: left; 
 	    margin-left: 2em;
 	    margin-right: 2em;}
 
-div.contents {font-family: "Gill Sans", MS Arial, Gill Sans, sans-serif; 
+div.contents {font-family: "Gill Sans", "MS Arial", sans-serif; 
 	    font-size: 12pt; 
 	    text-decoration: none; 
 	    text-align: left; 
@@ -134,7 +133,7 @@ div.acklink { font-family: "Gill Sans", "MS Arial", sans-serif;
 	   margin-left: 0em;} 
 
 div.externalnav {text-align: center; 
-		font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif; 
+		font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-serif; 
 		font-size: 14pt; 
 		text-decoration: none;
 	   	text-shadow: 0.1em 0.1em 0.1em black}
@@ -160,8 +159,8 @@ span.sidebar {display: block;
 	     margin-top: 1%;}
 
 div.foot {display:block; 
-	 font-family: "Gill Sans Ultra Bold",  MS Arial, Gill Sans, sans-serif;
-	 font-size: 12; 
+	 font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-serif;
+	 font-size: 12pt; 
 	 text-decoration: none; 
 	 text-align: center;}
 
@@ -197,7 +196,7 @@ table.kwic { margin: 5px 0.5in 5px 0.5in;
 	   border-bottom: 1px solid #cccccc;}
 
 table.kwic td.pn { width: 65px; 
-	   vertical-align: center;}
+	   vertical-align: middle}
 
 /* link results - display as horizontal list, inline, with lines between */
 li.resultlink, li.firstresultlink { 
