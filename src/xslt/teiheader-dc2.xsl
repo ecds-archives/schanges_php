@@ -5,43 +5,40 @@
                 version="1.0">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
-  <xsl:param name="mode">article</xsl:param> <!-- article when from article.php-->
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
   <xsl:template match="/">
     <dc>
       <xsl:apply-templates select="//result"/>
-<!--    <xsl:apply-templates select="//teiHeader"/>
-    <xsl:apply-templates select="//issue-id"/>
-    <xsl:apply-templates select="//article"/> -->
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
   </xsl:template>
 
+  <xsl:template match="div2">
+    <xsl:element name="dc:title">
+      <xsl:value-of select="head"/>
+    </xsl:element>
+    <xsl:element name="dc:creator">
+	<xsl:apply-templates select="byline//name"/>
+    </xsl:element>
+    <xsl:element name="dc:identifier">
+      <xsl:value-of select="$baseurl"/><xsl:value-of
+      select="$siteurl"/><xsl:text>article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
+    </xsl:element>
+  </xsl:template>
+
+
   <xsl:template match="titleStmt/title">
-      <xsl:choose>
-      <xsl:when test="mode='article'">
-	<xsl:element name="dcterms:isPartOf">
-      <xsl:apply-templates select="." mode="article"/>
+     <xsl:element name="dcterms:isPartOf">
+      <xsl:value-of select="."/>
     </xsl:element>
     <xsl:element name="dc:identifier">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
       select="//result//issueid/@id" mode="article"/>      
     </xsl:element>
-      </xsl:when>
-      <xsl:otherwise>
-    <xsl:element name="dc:title">
-      <xsl:value-of select="."/>
-    </xsl:element>
-    <xsl:element name="dc:identifier">
-      <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/>/article-list.php?id=<xsl:value-of select="//result/issue-id/@id"/>      
-    </xsl:element>
-      </xsl:otherwise>
-      </xsl:choose>
   </xsl:template>
 
   <xsl:template match="titleStmt/author">
@@ -124,23 +121,8 @@
   <xsl:template match="bibl/date"><xsl:apply-templates/>. </xsl:template>
   
 
-  <xsl:template match="result/article">
-    <xsl:element name="dcterms:description.tableOfContents">
-      <xsl:for-each select=".">
-	<xsl:apply-templates select="name"/>, <xsl:apply-templates
-	select="head"/>, <xsl:apply-templates select="docDate"/>.</xsl:for-each>
-    </xsl:element>
-<xsl:element name="dc:identifier">
-    <xsl:for-each select=".">
-      <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
-    </xsl:for-each>
-    </xsl:element>
-  </xsl:template>
-
-<!-- FIXME: this template doesn't work; when it is implemented the
-     names don't appear, but the "and" does. -->
 <!-- handle multiple names -->
-  <xsl:template match="name">
+  <xsl:template name="multiname" match="name">
     <xsl:choose>
       <xsl:when test="position() = 1"><xsl:apply-templates/></xsl:when>
   <xsl:when test="position() = last()">
@@ -157,25 +139,10 @@
     <xsl:apply-templates/><xsl:text> </xsl:text>
   </xsl:template>
 
-  <xsl:template match="result/div2">
-  <xsl:choose>
-    <xsl:when test="mode='article'">
-    <xsl:element name="dc:title">
-      <xsl:value-of select="head"/>
-    </xsl:element>
-    <xsl:element name="dc:creator">
-	<xsl:apply-templates select="byline//name"/>
-    </xsl:element>
-    <xsl:element name="dc:identifier">
-      <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/><xsl:text>article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
-    </xsl:element>
-    </xsl:when>
-  </xsl:choose>
-  </xsl:template>
 
   <!-- ignore these: encoding specific information -->
-  <xsl:template match="div2"/>
+  <xsl:template match="div2/p"/>
+  <xsl:template match="div2/div3"/>
   <xsl:template match="issue-id/head"/>
   <xsl:template match="issueid/head"/>
   <xsl:template match="next"/>
