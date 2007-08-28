@@ -54,8 +54,8 @@ $xmldb->xquery($query);
 // metadata information for cataloging
 $header_xsl1 = "xslt/teiheader-dc.xsl";
 $header_xsl2 = "xslt/dc-htmldc.xsl";
-$header_params = array('mode' => "list");
-$xmldb->xslTransform($header_xsl1, $header_params);
+//$header_params = array('mode' => "list");
+$xmldb->xslTransform($header_xsl1);
 $xmldb->xslTransformResult($header_xsl2);
 
 html_head("Article Browse", true);
