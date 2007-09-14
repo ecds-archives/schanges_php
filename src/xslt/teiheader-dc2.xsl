@@ -8,6 +8,9 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
+  <xsl:variable name="date">
+    <xsl:apply-templates select="//sourceDesc/bibl/date"/>
+  </xsl:variable>
 
   <xsl:template match="/">
     <dc>
@@ -15,6 +18,11 @@
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
+  </xsl:template>
+
+  <xsl:template match="//result">
+    <xsl:apply-templates select="//div2"/>
+    <xsl:apply-templates select="//fileDesc"/>
   </xsl:template>
 
   <xsl:template match="div2">
@@ -31,78 +39,58 @@
   </xsl:template>
 
 
-  <xsl:template match="titleStmt/title">
+  <xsl:template match="fileDesc">
      <xsl:element name="dcterms:isPartOf">
-      <xsl:value-of select="."/>
+      <xsl:value-of select="titleStmt/title"/>
     </xsl:element>
-    <xsl:element name="dc:identifier">
+    <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
       select="//result//issueid/@id" mode="article"/>      
     </xsl:element>
-  </xsl:template>
 
-  <xsl:template match="titleStmt/author">
     <xsl:element name="dc:creator">
+      <xsl:text>Southern Regional Council</xsl:text>
+    </xsl:element>
+
+    <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
-  </xsl:template>
 
-  <xsl:template match="titleStmt/editor">
-    <xsl:element name="dc:contributor">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
-
-  <xsl:template match="publicationStmt/publisher">
     <xsl:element name="dc:publisher">
-      <xsl:apply-templates/>
+      <xsl:value-of select="publicationStmt/publisher"/>
     </xsl:element>
-  </xsl:template>
 
-  <!-- electronic publication date: is this the right date to use? -->
-  <xsl:template match="publicationStmt/date">
-    <xsl:element name="dc:date">
-      <xsl:apply-templates/>
+    <xsl:element name="dcterms:issued">
+      <xsl:apply-templates select="publicationStmt/date"/>
     </xsl:element>
-  </xsl:template>
 
+  <!-- electronic publication date: Per advice of LA -->
+    <xsl:element name="dcterms:created">
+      <xsl:value-of select="sourceDesc/bibl/date/@value"/>
+    </xsl:element>
 
-  <!-- ignore for now; do these fit anywhere? -->
-  <xsl:template match="publicationStmt//address/addrLine"/>
-  <xsl:template match="publicationStmt/pubPlace"/>
-  <xsl:template match="respStmt"/>
-
-  <xsl:template match="availability">
     <xsl:element name="dc:rights">
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="publicationStmt/availability/p"/>
     </xsl:element>
-  </xsl:template>
 
-  <xsl:template match="seriesStmt/title">
     <xsl:element name="dcterms:isPartOf">
-      <!-- fixme: should we specify isPartOf? -->
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="seriesStmt/title"/>
     </xsl:element>
-    <xsl:element name="dc:identifier">
+
+    <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>      
     </xsl:element>
-  </xsl:template>
 
-
-
-  <xsl:template match="sourceDesc/bibl">
     <xsl:element name="dc:source">
       <!-- process all elements, in this order. -->
-     <!-- <xsl:apply-templates select="author"/> not using this -->
-      <xsl:apply-templates select="title"/>
-     <!-- <xsl:apply-templates select="editor"/> -->
-      <xsl:apply-templates select="pubPlace"/>
-      <xsl:apply-templates select="publisher"/>
-      <xsl:apply-templates select="biblScope[@type='volume']"/>
-      <xsl:apply-templates select="biblScope[@type='issue']"/>
-      <xsl:apply-templates select="date"/>
+      <xsl:apply-templates select="sourceDesc/bibl/title"/>
+      <xsl:apply-templates select="sourceDesc/bibl/pubPlace"/>
+      <xsl:apply-templates select="sourceDesc/bibl/publisher"/>
+      <xsl:apply-templates select="sourceDesc/bibl/biblScope[@type='volume']"/>
+      <xsl:apply-templates select="sourceDesc/bibl/biblScope[@type='issue']"/>
+      <xsl:apply-templates select="sourceDesc/bibl/date"/>
       <!-- in case source is in plain text, without tags -->
     <!--  <xsl:apply-templates select="text()"/> -->
     </xsl:element>
@@ -125,14 +113,15 @@
 <!-- handle multiple names -->
   <xsl:template name="multiname" match="name">
     <xsl:choose>
-      <xsl:when test="position() = 1"><xsl:apply-templates/></xsl:when>
+      <xsl:when test="position() = 1"></xsl:when>
   <xsl:when test="position() = last()">
-        <xsl:text> and </xsl:text><xsl:apply-templates/>
+        <xsl:text> and </xsl:text>
       </xsl:when>
     <xsl:otherwise>
-	<xsl:text>, </xsl:text><xsl:apply-templates/>
+	<xsl:text>, </xsl:text>
       </xsl:otherwise>
   </xsl:choose>
+  <xsl:apply-templates/>
   </xsl:template>
 
 <!-- add a space after titles in the head -->
@@ -140,6 +129,11 @@
     <xsl:apply-templates/><xsl:text> </xsl:text>
   </xsl:template>
 
+  <!-- ignore for now; do these fit anywhere? -->
+  <xsl:template match="publicationStmt//address/addrLine"/>
+  <xsl:template match="publicationStmt/pubPlace"/>
+  <xsl:template match="respStmt"/>
+  <xsl:template match="profileDesc/langUsage/p"/>
 
   <!-- ignore these: encoding specific information -->
   <xsl:template match="div2/p"/>

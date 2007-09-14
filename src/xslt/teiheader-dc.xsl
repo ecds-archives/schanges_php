@@ -24,6 +24,14 @@
     <xsl:apply-templates select="//issue-id/@id"/>
   </xsl:variable>
 
+  <xsl:template match="result">
+    <xsl:apply-templates select="//fileDesc"/>
+    <xsl:element name="dcterms:description.tableOfContents">
+	<xsl:apply-templates select="article" mode="toc"/>
+    </xsl:element>
+    <xsl:call-template name="hasPart"/>
+  </xsl:template>
+	
   <xsl:template match="fileDesc">
     <xsl:element name="dc:title">
       <xsl:apply-templates select="titleStmt/title"/>, <xsl:value-of select="$date"/>
@@ -91,28 +99,32 @@
   <!-- format AACR2-like list for ToC -->
 
 <!-- create ToC list and url ids for "hasPart" -->
-  <xsl:template match="article">
-    <xsl:element name="dcterms:description.tableOfContents">
-	<xsl:apply-templates select="." mode="toc"/></xsl:element>
-    <xsl:element name="dcterms:hasPart">
-      <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
-    </xsl:element>
+  <xsl:template name="hasPart">
+	  <xsl:for-each select="article">
+        <xsl:element name="dcterms:hasPart">
+      <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="./@id"/>
+	</xsl:element>
+	  </xsl:for-each>
      </xsl:template>
+
   <!-- keep on one line to avoid #10#9 output -->  
      <xsl:template match="article" mode="toc">
-       <xsl:value-of select="head"/>/ <xsl:value-of select="name"/>, <xsl:value-of select="docDate"/> --      </xsl:template>
+       <xsl:value-of select="head"/><xsl:text>/ </xsl:text><xsl:value-of select="name"/><xsl:text>, </xsl:text><xsl:value-of select="docDate"/><xsl:text> --
+</xsl:text>
+     </xsl:template>
 
 <!-- handle multiple names -->
   <xsl:template match="name">
     <xsl:choose>
-      <xsl:when test="position() = 1"><xsl:apply-templates/></xsl:when>
+      <xsl:when test="position() = 1"></xsl:when>
   <xsl:when test="position() = last()">
-        <xsl:text> and </xsl:text><xsl:apply-templates/>
+        <xsl:text> and </xsl:text>
       </xsl:when>
     <xsl:otherwise>
-	<xsl:text>, </xsl:text><xsl:apply-templates/>
+	<xsl:text>, </xsl:text>
       </xsl:otherwise>
   </xsl:choose>
+  <xsl:apply-templates/>
   </xsl:template>
 
 <!-- normalize space in titles -->
