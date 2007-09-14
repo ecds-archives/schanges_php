@@ -3,108 +3,73 @@
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
 		xmlns:dcterms="http://purl.org/dc/terms"
                 version="1.0">
-
+  <!-- This stylesheet creates Dublin core metadata for the issue
+       (article list) page -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
-  <xsl:param name="mode">article</xsl:param> <!-- article when from article.php-->
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
   <xsl:template match="/">
     <dc>
       <xsl:apply-templates select="//result"/>
-<!--    <xsl:apply-templates select="//teiHeader"/>
-    <xsl:apply-templates select="//issue-id"/>
-    <xsl:apply-templates select="//article"/> -->
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
   </xsl:template>
+  <xsl:variable name="date">
+    <xsl:apply-templates select="//sourceDesc/bibl/date"/>
+  </xsl:variable>
 
-  <xsl:template match="titleStmt/title">
-      <xsl:choose>
-      <xsl:when test="mode='article'">
-	<xsl:element name="dcterms:isPartOf">
-      <xsl:apply-templates select="." mode="article"/>
-    </xsl:element>
-    <xsl:element name="dc:identifier">
-      <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
-      select="//result//issueid/@id" mode="article"/>      
-    </xsl:element>
-      </xsl:when>
-      <xsl:otherwise>
+  <xsl:variable name="issue-id">
+    <xsl:apply-templates select="//issue-id/@id"/>
+  </xsl:variable>
+
+  <xsl:template match="fileDesc">
     <xsl:element name="dc:title">
-      <xsl:value-of select="."/>
+      <xsl:apply-templates select="titleStmt/title"/>, <xsl:value-of select="$date"/>
     </xsl:element>
     <xsl:element name="dc:identifier">
       <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/>/article-list.php?id=<xsl:value-of select="//result/issue-id/@id"/>      
+      select="$siteurl"/>/article-list.php?id=<xsl:value-of
+      select="$issue-id"/>      
     </xsl:element>
-      </xsl:otherwise>
-      </xsl:choose>
-  </xsl:template>
-
-  <xsl:template match="titleStmt/author">
     <xsl:element name="dc:creator">
+      <xsl:text>Southern Regional Council</xsl:text>
+    </xsl:element>
+    <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
-  </xsl:template>
-
-  <xsl:template match="titleStmt/editor">
-    <xsl:element name="dc:contributor">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
-
-  <xsl:template match="publicationStmt/publisher">
     <xsl:element name="dc:publisher">
-      <xsl:apply-templates/>
+      <xsl:value-of select="publicationStmt/publisher"/>
     </xsl:element>
-  </xsl:template>
-
-  <!-- electronic publication date: is this the right date to use? -->
-  <xsl:template match="publicationStmt/date">
-    <xsl:element name="dc:date">
-      <xsl:apply-templates/>
+    <xsl:element name="dcterms:issued">
+      <xsl:apply-templates select="publicationStmt/date"/>
     </xsl:element>
-  </xsl:template>
 
-
-  <!-- ignore for now; do these fit anywhere? -->
-  <xsl:template match="publicationStmt//address/addrLine"/>
-  <xsl:template match="publicationStmt/pubPlace"/>
-  <xsl:template match="respStmt"/>
-
-  <xsl:template match="availability">
+  <!-- electronic publication date: Per advice of LA -->
+    <xsl:element name="dcterms:created">
+      <xsl:value-of select="sourceDesc/bibl/date/@value"/>
+    </xsl:element>
     <xsl:element name="dc:rights">
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="publicationStmt/availability/p"/>
     </xsl:element>
-  </xsl:template>
 
-  <xsl:template match="seriesStmt/title">
     <xsl:element name="dcterms:isPartOf">
-      <!-- fixme: should we specify isPartOf? -->
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="seriesStmt/title"/>
     </xsl:element>
-    <xsl:element name="dc:identifier">
+    <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>      
     </xsl:element>
-  </xsl:template>
 
-
-
-  <xsl:template match="sourceDesc/bibl">
     <xsl:element name="dc:source">
       <!-- process all elements, in this order. -->
-     <!-- <xsl:apply-templates select="author"/> not using this -->
-      <xsl:apply-templates select="title"/>
-     <!-- <xsl:apply-templates select="editor"/> -->
-      <xsl:apply-templates select="pubPlace"/>
-      <xsl:apply-templates select="publisher"/>
-      <xsl:apply-templates select="biblScope[@type='volume']"/>
-      <xsl:apply-templates select="biblScope[@type='issue']"/>
-      <xsl:apply-templates select="date"/>
+      <xsl:apply-templates select="sourceDesc/bibl/title"/>
+      <xsl:apply-templates select="sourceDesc/bibl/pubPlace"/>
+      <xsl:apply-templates select="sourceDesc/bibl/publisher"/>
+      <xsl:apply-templates select="sourceDesc/bibl/biblScope[@type='volume']"/>
+      <xsl:apply-templates select="sourceDesc/bibl/biblScope[@type='issue']"/>
+      <xsl:apply-templates select="sourceDesc/bibl/date"/>
       <!-- in case source is in plain text, without tags -->
     <!--  <xsl:apply-templates select="text()"/> -->
     </xsl:element>
@@ -122,23 +87,21 @@
   <xsl:template
       match="bibl/biblScope[@type='issue']"><xsl:apply-templates/>, </xsl:template>
   <xsl:template match="bibl/date"><xsl:apply-templates/>. </xsl:template>
-  
 
-  <xsl:template match="result/article">
+  <!-- format AACR2-like list for ToC -->
+
+<!-- create ToC list and url ids for "hasPart" -->
+  <xsl:template match="article">
     <xsl:element name="dcterms:description.tableOfContents">
-      <xsl:for-each select=".">
-	<xsl:apply-templates select="name"/>, <xsl:apply-templates
-	select="head"/>, <xsl:apply-templates select="docDate"/>.</xsl:for-each>
-    </xsl:element>
-<xsl:element name="dc:identifier">
-    <xsl:for-each select=".">
+	<xsl:apply-templates select="." mode="toc"/></xsl:element>
+    <xsl:element name="dcterms:hasPart">
       <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
-    </xsl:for-each>
     </xsl:element>
-  </xsl:template>
+     </xsl:template>
+  <!-- keep on one line to avoid #10#9 output -->  
+     <xsl:template match="article" mode="toc">
+       <xsl:value-of select="head"/>/ <xsl:value-of select="name"/>, <xsl:value-of select="docDate"/> --      </xsl:template>
 
-<!-- FIXME: this template doesn't work; when it is implemented the
-     names don't appear, but the "and" does. -->
 <!-- handle multiple names -->
   <xsl:template match="name">
     <xsl:choose>
@@ -152,14 +115,23 @@
   </xsl:choose>
   </xsl:template>
 
+<!-- normalize space in titles -->
+  <xsl:template match="head">
+    <xsl:value-of select="normalize-space(.)"/>
+  </xsl:template>
+
 <!-- add a space after titles in the head -->
   <xsl:template match="head/title">
     <xsl:apply-templates/><xsl:text> </xsl:text>
   </xsl:template>
 
+<!-- handle <lb/> in head -->
+   <xsl:template match="lb">
+      <xsl:apply-templates/><xsl:text> </xsl:text>
+   </xsl:template>
+
+<!-- is this doing anything?
   <xsl:template match="result/div2">
-  <xsl:choose>
-    <xsl:when test="mode='article'">
     <xsl:element name="dc:title">
       <xsl:value-of select="head"/>
     </xsl:element>
@@ -170,9 +142,7 @@
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/><xsl:text>article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
     </xsl:element>
-    </xsl:when>
-  </xsl:choose>
-  </xsl:template>
+  </xsl:template> -->
 
   <!-- ignore these: encoding specific information -->
   <xsl:template match="div2"/>
