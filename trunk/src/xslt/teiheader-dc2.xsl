@@ -41,18 +41,18 @@
 
   <xsl:template match="fileDesc">
      <xsl:element name="dcterms:isPartOf">
-      <xsl:value-of select="titleStmt/title"/>
+      <xsl:value-of select="titleStmt/title"/><xsl:text>, </xsl:text><xsl:value-of select="$date"/> 
     </xsl:element>
     <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
       select="//result//issueid/@id" mode="article"/>      
     </xsl:element>
-
+<!--
     <xsl:element name="dc:creator">
       <xsl:text>Southern Regional Council</xsl:text>
     </xsl:element>
-
+-->
     <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
