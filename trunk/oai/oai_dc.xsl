@@ -10,7 +10,7 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
-  <xsl:include href="../xsl/response.xsl"/>
+  <xsl:include href="xmldbOAI/xsl/response.xsl"/>
 
   <!-- match the top-level element in a tamino response & jump to the
   relevant portion (in order to skip tamino messages & cursor

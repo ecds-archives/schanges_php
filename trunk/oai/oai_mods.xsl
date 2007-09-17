@@ -8,7 +8,7 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
-  <xsl:include href="../xsl/response.xsl"/>
+  <xsl:include href="xmldbOAI/xsl/response.xsl"/>
   <!-- <xsl:include href="sets.xsl"/> -->
   
 
