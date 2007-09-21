@@ -11,7 +11,7 @@ $terms = $_GET["keyword"];
 $exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
-
+/*The query here should match wrappers and structure, sort of with the query in oai/xquery.xml*/
 
 $for='for $art in /TEI.2//div2[@id="' . "$id" . '"]';
 if ($terms != '') {$for .= "[. |= \"$terms\"]";}
