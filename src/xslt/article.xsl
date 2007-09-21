@@ -14,7 +14,7 @@
 
 <xsl:template match="/"> 
     <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
-    <xsl:apply-templates select="//div2"/>
+    <xsl:apply-templates select="//TEI"/>
 
 </xsl:template>
 
@@ -22,7 +22,7 @@
 <xsl:template match="/"> 
   <!-- recall the article list -->
   <xsl:call-template name="return" />
-<xsl:apply-templates select="//div2" />
+<xsl:apply-templates select="//TEI//div2" />
 <!-- display footnotes at end -->
     <xsl:call-template name="endnotes"/>
   <!-- recall the article list -->
@@ -33,7 +33,7 @@
 
 
 <!-- print out the content-->
-<xsl:template match="div2">
+<xsl:template match="TEI//div2">
 <!-- get everything under this node -->
   <xsl:apply-templates/> 
 </xsl:template>

@@ -8,7 +8,7 @@ $id = $_GET["id"];
 
 $terms = $_GET["keyword"];
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 
@@ -20,8 +20,8 @@ let $prev := $art/preceding-sibling::div2[1]
 let $next := $art/following-sibling::div2[1]
   let $issue := $art/..';
 $return='return
-<result>
-<header>{$hdr}</header>
+<TEI>
+{$hdr}
 {$art}
 <issueid>
 {$issue/@id}
@@ -39,7 +39,7 @@ $return='return
 {$next/head}
 {$next/docDate}
 </next>
-</result>';
+</TEI>';
 
 $query="$for $let $return";
 
