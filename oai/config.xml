@@ -35,57 +35,107 @@
   <xqueryFile>xquery.xml</xqueryFile>
 
   <!-- connection settings for xml database -->
+
   <connectionParameters>
-    <xmldb type="tamino">
-      <host>vip.library.emory.edu</host>
-      <database>SRC</database> 
-      <collection>schanges</collection> 
-      <debug>false</debug>
+    <xmldb type="exist">
+      <host>wilson.library.emory.edu</host>
+      <port>8080</port> 
+      <database>schanges</database> 
+      <collection></collection> 
+      <debug>true</debug>
     </xmldb>          
   </connectionParameters>
 
-  <sets>
+   <sets>
     <!--set must be listed here and defined with in each metadata
 	queries doc-->
 <!-- revise these sts for Schanges -->
-    <set name="Articles" setSpec="Articles">
-       <description>Articles from the Illustrated London News</description>
-    </set>
-    <set name="Illustrations" setSpec="Illustrations">
-        <description>Illustrations from the Illustrated London News</description>
-    </set>            
-    <set name="Volume 38" setSpec="vol38">
-       <description>Volume 38, 1861</description>
-    </set>
-    <set name="Volume 39" setSpec="vol39">
-       <description>Volume 39</description>
-    </set>
-    <set name="Volume 40" setSpec="vol40">
-       <description>Volume 40</description>
-    </set>
-    <set name="Volume 41" setSpec="vol41">
-       <description>Volume 41</description>
-    </set>
-    <set name="Volume 42" setSpec="vol42">
-       <description>Volume 42</description>
-    </set>
-    <set name="Volume 43" setSpec="vol43">
-       <description>Volume 43</description>
-    </set>
-    <set name="Volume 44" setSpec="vol44">
-       <description>Volume 44</description>
-    </set>
-    <set name="Volume 45" setSpec="vol45">
-       <description>Volume 45</description>
-    </set>
-    <set name="Volume 46" setSpec="vol46">
-       <description>Volume 46</description>
-    </set>
-    <set name="Volume 47" setSpec="vol47">
-       <description>Volume 47</description>
-    </set>
-  </sets>
 
+<!-- not using sets right now
+    <set name="Articles" setSpec="Articles">
+       <description>Articles from Southern Changes</description>
+
+    </set>
+    <set name="Reviews" setSpec="Reviews">
+      <description>Reviews from Southern Changes</description>
+    </set>
+
+    <set name="Volume 1" setSpec="vol1">
+       <description>Volume 1, 1978-1979</description>
+    </set>
+    <set name="Volume 2" setSpec="vol2">
+       <description>Volume 2, 1979-1980</description>
+    </set>
+    <set name="Volume 3" setSpec="vol3">
+       <description>Volume 3, 1980-1981</description>
+    </set>
+    <set name="Volume 4" setSpec="vol4">
+       <description>Volume 4, 1981-1982</description>
+    </set>
+    <set name="Volume 5" setSpec="vol5">
+       <description>Volume 5, 1983</description>
+    </set>
+    <set name="Volume 6" setSpec="vol6">
+       <description>Volume 6, 1984</description>
+    </set>
+    <set name="Volume 7" setSpec="vol7">
+       <description>Volume 7, 1985</description>
+    </set>
+    <set name="Volume 8" setSpec="vol8">
+       <description>Volume 8, 1986</description>
+    </set>
+    <set name="Volume 9" setSpec="vol9">
+       <description>Volume 9, 1987</description>
+    </set>
+    <set name="Volume 10" setSpec="vol10">
+       <description>Volume 10, 1988</description>
+    </set>
+    <set name="Volume 11" setSpec="vol11">
+       <description>Volume 11, 1989</description>
+    </set>
+    <set name="Volume 12" setSpec="vol12">
+       <description>Volume 12, 1990</description>
+    </set>
+    <set name="Volume 13" setSpec="vol13">
+       <description>Volume 13, 1991</description>
+    </set>
+    <set name="Volume 14" setSpec="vol14">
+       <description>Volume 14, 1992</description>
+    </set>
+    <set name="Volume 15" setSpec="vol15">
+       <description>Volume 15, 1993</description>
+    </set>
+    <set name="Volume 16" setSpec="vol16">
+       <description>Volume 16, 1994</description>
+    </set>
+    <set name="Volume 17" setSpec="vol17">
+       <description>Volume 17, 1995</description>
+    </set>
+    <set name="Volume 18" setSpec="vol18">
+       <description>Volume 18, 1996</description>
+    </set>
+    <set name="Volume 19" setSpec="vol19">
+       <description>Volume 19, 1997</description>
+    </set>
+    <set name="Volume 20" setSpec="vol20">
+       <description>Volume 20, 1998</description>
+    </set>
+    <set name="Volume 21" setSpec="vol21">
+       <description>Volume 21, 1999</description>
+    </set>
+    <set name="Volume 22" setSpec="vol22">
+       <description>Volume 22, 2000</description>
+    </set>
+    <set name="Volume 23" setSpec="vol23">
+       <description>Volume 23, 2001</description>
+    </set>
+    <set name="Volume 24" setSpec="vol24">
+       <description>Volume 24, 2002</description>
+    </set>
+    <set name="Volume 25" setSpec="vol25">
+       <description>Volume 25, 2003</description>
+    </set> -->
+  </sets>
   <metadataFormats>
     <!-- Add additional metadataFormat entries for each supported metadata format.
 	 At minimum oai_dc must be supported.
