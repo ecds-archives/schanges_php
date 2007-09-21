@@ -8,7 +8,7 @@
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
 //error_reporting(E_ERROR);	// for production
-  error_reporting(E_ERROR | E_PARSE);    // for development
+  //error_reporting(E_ERROR | E_PARSE);    // for development
 
 
 //root directory and url for wilson website

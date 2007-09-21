@@ -1,58 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
-		xmlns:dcterms="http://purl.org/dc/terms"
-                version="1.0">
+		xmlns:dcterms="http://purl.org/dc/terms" version="1.0"
+		xmlns:exist="http://exist.sourceforge.net/NS/exist"
+		>
   <!-- This stylesheet creates Dublin core metadata for the article
   level page -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
-  <xsl:variable name="date">
-    <xsl:apply-templates select="//sourceDesc/bibl/date"/>
-  </xsl:variable>
 
   <xsl:template match="/">
     <dc>
-      <xsl:apply-templates select="//result"/>
+      <xsl:apply-templates select="//TEI"/>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
   </xsl:template>
 
-  <xsl:template match="//result">
-    <xsl:apply-templates select="//div2"/>
-    <xsl:apply-templates select="//fileDesc"/>
+  <xsl:template match="//TEI">
+    <xsl:apply-templates select=".//div2"/>
+    <xsl:apply-templates select=".//fileDesc"/>
   </xsl:template>
 
   <xsl:template match="div2">
     <xsl:element name="dc:title">
-      <xsl:value-of select="head"/>
+      <xsl:apply-templates select="head"/>
     </xsl:element>
+      <xsl:for-each select=".//docAuthor">
     <xsl:element name="dc:creator">
-	<xsl:apply-templates select="byline//name"/>
+	<xsl:apply-templates select="name/@reg"/>
     </xsl:element>
+      </xsl:for-each> 
     <xsl:element name="dc:identifier">
       <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/><xsl:text>article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
+      select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
     </xsl:element>
   </xsl:template>
 
 
   <xsl:template match="fileDesc">
+  <xsl:variable name="date">
+    <xsl:apply-templates select=".//sourceDesc/bibl/date"/>
+  </xsl:variable>
      <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="titleStmt/title"/><xsl:text>, </xsl:text><xsl:value-of select="$date"/> 
     </xsl:element>
     <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
       select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
-      select="//result//issueid/@id" mode="article"/>      
+      select="//TEI//issueid/@id"/>      
     </xsl:element>
-<!--
-    <xsl:element name="dc:creator">
+
+    <xsl:element name="dc:contributor">
       <xsl:text>Southern Regional Council</xsl:text>
     </xsl:element>
--->
+
     <xsl:element name="dc:contributor">
       <xsl:text>Lewis H. Beck Center</xsl:text>
     </xsl:element>
@@ -127,6 +130,11 @@
 <!-- add a space after titles in the head -->
   <xsl:template match="head/title">
     <xsl:apply-templates/><xsl:text> </xsl:text>
+  </xsl:template>
+
+<!-- make a line break a space in the head -->
+  <xsl:template match="head/lb">
+    <xsl:text> </xsl:text>
   </xsl:template>
 
   <!-- ignore for now; do these fit anywhere? -->
