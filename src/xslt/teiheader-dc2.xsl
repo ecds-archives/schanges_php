@@ -19,7 +19,7 @@
   </xsl:template>
 
   <xsl:template match="TEI">
-    <xsl:apply-templates select=".//div2"/>
+    <xsl:apply-templates select=".//div2"/><xsl:text>DEBUG div2 matched</xsl:text>
     <xsl:apply-templates select=".//fileDesc"/>
   </xsl:template>
 
