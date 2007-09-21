@@ -90,8 +90,8 @@
 		 {$a/docDate}
                  {$root/TEI.2/teiHeader}
                  <LastModified>{$time}</LastModified>
-	        </div2>
 		 <issueid>{$issue/@id}</issueid>
+	        </div2>
 		</TEI>
        ]]>                
      </return>
