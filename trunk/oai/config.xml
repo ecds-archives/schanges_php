@@ -42,7 +42,7 @@
       <port>8080</port> 
       <database>schanges</database> 
       <collection></collection> 
-      <debug>true</debug>
+      <debug>false</debug>
     </xmldb>          
   </connectionParameters>
 
