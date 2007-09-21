@@ -48,8 +48,8 @@
     </xsl:element>
     <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/>/article-list.php?id=<xsl:apply-templates
-      select="issueid/@id"/>      
+      select="$siteurl"/>/article-list.php?id=<xsl:value-of
+      select="//issueid/@id"/>      
     </xsl:element>
 
     <xsl:element name="dc:contributor">
