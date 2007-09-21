@@ -24,24 +24,23 @@
     <xsl:apply-templates select="//div2"/>
   </xsl:template>
 -->
-  <xsl:template match="/">
-    <xsl:apply-templates/> <!-- get everything -->
-  </xsl:template>
+<!--  <xsl:template match="/">
+    <xsl:apply-templates/> 
+  </xsl:template> -->
 
   <!-- list identifiers : header information only -->
-  <xsl:template match="div2" mode="ListIdentifiers">
+  <xsl:template match="TEI" mode="ListIdentifiers">
     <xsl:call-template name="header"/>
   </xsl:template>
 
   <!-- get or list records : full information (header & metadata) -->
-  <xsl:template match="//TEI">
+  <xsl:template match="TEI">
     <record>
       <xsl:call-template name="header"/>
       <metadata>
         <oai_dc:dc>
           <xsl:apply-templates select=".//div2"/>
 	  <xsl:apply-templates select=".//fileDesc"/>
-	  <xsl:apply-templates select=".//issueid"/>
 
           <!--        <dc:identifier>PURL</dc:identifier> -->
           <dc:type>Text</dc:type>
@@ -56,10 +55,10 @@
     <xsl:element name="header">            
     <xsl:element name="identifier">
       <!-- identifier prefix is passed in as a parameter; should be defined in config file -->
-      <xsl:value-of select="concat($prefix, @id)" /> 
+      <xsl:value-of select="concat($prefix, .//div2/@id)" /> 
     </xsl:element>
     <xsl:element name="datestamp">
-      <xsl:value-of select="LastModified"/>
+      <xsl:value-of select=".//div2/LastModified"/>
     </xsl:element>
 
     <!-- not using sets for SC at this time -->
