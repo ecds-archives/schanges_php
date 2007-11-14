@@ -38,7 +38,9 @@
     <xsl:call-template name="total-jumplist"/>
     
     <xsl:if test="//item/hits">
-      <p class="info">Click on the number of hits to see your search terms in context.</p>
+      <p class="info">Click on the number of hits to see your search
+      terms in context. Click on the title to view the whole
+      article. Click on the author name to view more articles by that author.</p>
     </xsl:if>
 
       <table class="browse">

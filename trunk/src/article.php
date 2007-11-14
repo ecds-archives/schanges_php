@@ -8,7 +8,7 @@ $id = $_GET["id"];
 
 $terms = $_GET["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 /*The query here should match wrappers and structure, sort of with the query in oai/xquery.xml*/

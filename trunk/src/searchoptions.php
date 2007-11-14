@@ -7,10 +7,10 @@
 
 <form name="articlequery" action="search.php" method="get">
 <table class="searchform" border="0">
-<tr><th>Keyword</th><td class="input"><input type="text" size="40" name="keyword" value="<?php print $kw ?>"></td></tr>
-<tr><th>Title</th><td class="input"><input type="text" size="40" name="doctitle" value="<?php print $doctitle ?>"></td></tr>
-<tr><th>Author</th><td class="input"><input type="text" size="40" name="author" value="<?php print $auth ?>"></td></tr>
-<tr><th>Article Date</th><td class="input"><input type="text" size="40" name="date" value="<?php print $date ?>"></td></tr>
+<tr><th>Keyword</th><td class="input"><input type="text" size="40" name="keyword" value="<?php if (isset($kw)) print $kw ?>"></td></tr>
+<tr><th>Title</th><td class="input"><input type="text" size="40" name="doctitle" value="<?php if (isset($doctitle)) print $doctitle ?>"></td></tr>
+<tr><th>Author</th><td class="input"><input type="text" size="40" name="author" value="<?php if (isset($auth)) print $auth ?>"></td></tr>
+<tr><th>Article Date</th><td class="input"><input type="text" size="40" name="date" value="<?php if (isset($date)) print $date ?>"></td></tr>
 
 <tr><td></td><td><input type="submit" value="Submit"> <input type="reset" value="Reset"></td></tr>
 </table>
