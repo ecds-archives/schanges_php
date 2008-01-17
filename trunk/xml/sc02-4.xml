@@ -59,7 +59,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
       <change>
         <date>2007</date>
         <respStmt>
-          <name>Alice Hickcox</name>
+          <name id="AH">Alice Hickcox</name>
           <resp>Electronic text specialist</resp>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
@@ -502,7 +502,7 @@ areas could be established with increased food bank resources, thereby
 bringing hunger relief to greater numbers of those in need.</p>
           <p>Anyone interested in learning more about the Atlanta Community Food
 Bank or about how to set up a food bank can contact Bill Boiling or
-Harriette Brown at (404) 873-5427 or write to Community Food Bank, 435
+Harriette Brown at <del rend="strikethrough" resp="AH">(404) 873-5427</del><add rend="italic" resp="AH">number no longer current</add> or write to Community Food Bank, 435
 Peachtree Street, N.E. Atlanta, Georgia 30308.</p>
         </div2>
         <div2 id="sc02-4010" n="9" type="Article">

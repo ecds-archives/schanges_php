@@ -34,7 +34,7 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 23</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="2001">2001</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 23</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="2001-09">2001</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -73,7 +73,7 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
     <body id="sc23-3-41202">
       <div1 id="sc23-3-4000" n="Southern Changes 23:3-4" type="Issue">
         <head>Southern Changes.  Volume 23, Number 3-4, 2001</head>
-        <p><title>Southern Changes.</title> Volume 23, Number 3-4, <date value="2001-09-01">2001</date></p>
+        <p><title>Southern Changes.</title> Volume 23, Number 3-4, <date value="2001-09">2001</date></p>
         <div2 id="sc23-3-4001" n="1" type="Article">
           <head>Democracy at Home</head>
           <byline>
