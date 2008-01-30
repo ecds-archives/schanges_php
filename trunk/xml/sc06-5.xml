@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
-<TEI.2 id="sc06-51204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc06-51204">
   <teiHeader id="sc06-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -72,32 +70,25 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 6, Number 5, 1984</head>
         <p><title>Southern Changes</title>.  Volume 6, Number 5,
 	       <date value="1984-10">1984</date></p>
-        <div2 id="sc06-5002" n="1" type="Article">
-          <head>The Present Danger</head>
-          <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 1-3</docDate>
-          <p>In the current presidential campaign, the forces of reaction have
+        <div2><head>The Present Danger</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 1-3</docDate><bibl> </bibl><p>In the current presidential campaign, the forces of reaction have
 sought to win by controlling the tone of public discussion. By
 portraying Reagan's superficiality as innocent pleasantry, any real
 concern with issues can be put down as nuisance. If the Republicans
 succeed it will merely postpone candid discussion of the national
-condition and obscure the present danger.</p>
-          <p>For years Reagan has engineered a reputation as essentially
+condition and obscure the present danger.</p><p>For years Reagan has engineered a reputation as essentially
 harmless, good natured and tolerant. Now, the forces he has asembled,
 and who have assembled him, pose a real danger to the ideals of open
 and egalitarian society and to the gains we have made in recent
 years. <hi rend="italic">Unless the Reagan Administration is defeated in
 November, popularly elected leaders will constitute the main threat to
-established freedoms</hi>.</p>
-          <p>The present danger arises out of this president's rhetorical stance
+established freedoms</hi>.</p><p>The present danger arises out of this president's rhetorical stance
 for "less government" and the reality of an increasingly invasive new
 statism of the right wing. As federal domestic policy, "Reaganomics"
 is deceptively dressed as a comprehensive alternative to the social
 welfare state. In practice it has come to represent a marginal attack
 directed not against manifest shortcomings of welfarism, but against a
 few redistributive reforms developed since the presidency of Lyndon
-Johnson.</p>
-          <p>These programs applied innovative strategies to improve the lives
+Johnson.</p><p>These programs applied innovative strategies to improve the lives
 of blacks and the poor. They were "re-distributive" because they
 promoted the "transfer" of money to the disadvantaged and mandated
 "maximum" participation by recipients. These programs covered the
@@ -105,11 +96,9 @@ concerns of much of the progressive thought of the times: 1) an alarm
 that large sections of the nation continued to live in material
 poverty and 2) the belief that the ability of people to conquer
 misfortune would be enhanced by their participation in the policy
-making process.</p>
-          <p>These concerns dovetailed with the activism of the Civil Rights
+making process.</p><p>These concerns dovetailed with the activism of the Civil Rights
 Movement and became interwoven with the fight to ban racism and all
-other forms of discrimination from our society.</p>
-          <p>In its heroic moments the Great Society tried to be affirmative. It
+other forms of discrimination from our society.</p><p>In its heroic moments the Great Society tried to be affirmative. It
 sought to move away from safety net policies and to move toward
 strategies for empowerment. It realized that 
 <pb n="2"/>
@@ -118,14 +107,12 @@ of the past--for example Social Security or the G I bill--offered
 models which suggested how to adress current problems. It realized
 that piecemeal legislation would not overcome stiff resistance to an
 open political process. Bold action was needed: We got the War on
-Poverty (1963) and the Voting Rights Act (1964).</p>
-          <p>Innovative federal policies were enacted even in succeeding
+Poverty (1963) and the Voting Rights Act (1964).</p><p>Innovative federal policies were enacted even in succeeding
 Republican administrations. In certain cases--Head Start, the Voting
 Righs Act, Legal Services--there have been powerful, positive
 results. The success of the effort--both in getting the attention of
 government and in realizing some of the intended goals--promoted an
-optimism about some federal programs.</p>
-          <p>But the Great Society was hardly an unqualified success. By the
+optimism about some federal programs.</p><p>But the Great Society was hardly an unqualified success. By the
 Carter years, with an array of social programs in place, and a
 Democratic administration in power, mounting doubt grew about the
 actual function of welfare policy. Improvement--although present--was
@@ -136,13 +123,11 @@ including administrative streamlining, changes in funding levels, or
 decentralization. There would have been concern about the
 "professionalization" of the delivery system. The question would have
 been raised: after all, can the goals we seek be accomplished within
-the American two-party system?</p>
-          <p>An unheralded achievement of the Reagan Administration has been to
+the American two-party system?</p><p>An unheralded achievement of the Reagan Administration has been to
 coopt that debate. Reaganite hostility to Great Society goals and
 programs took the ground out from under the looming critique and
 transformed would-be critics of the troubled sub-system into defenders
-of the <hi rend="italic">status que ante</hi>.</p>
-          <p>The Reagan forces tapped a preexisting
+of the <hi rend="italic">status que ante</hi>.</p><p>The Reagan forces tapped a preexisting
 skepticism. "Neo"-conservatives, some of whom were former advocated of
 reform, were the idealogical point-men for the Administration. Black
 neoconservatives--typified by Thomas Sowell--gave racial legitimacy to
@@ -156,14 +141,12 @@ Education</hi>, the 1954 Supreme Court decision against school
 segregation, was undue government interference. No sacred cows here:
 positive government was necessarily evil and especially so in trying
 to implement lofty intentions. Reaganites went to Washington
-determined to cripple its governing institutions.</p>
-          <p>What is revealing, however, is the limited nature of the
+determined to cripple its governing institutions.</p><p>What is revealing, however, is the limited nature of the
 cutback. The basic welfare structure remains in place even after a
 full Reagan term. There have been program cutbacks, to be sure, and
 they have had disastrous effects on the recipient population. Yet the
 troubled structure is still in place. No doubt much of this comes from
-congressional resistance.</p>
-          <p>It is possible to interpret these developments as a defeat for
+congressional resistance.</p><p>It is possible to interpret these developments as a defeat for
 Ronald Reagan. In fact however, they seem to represent changing
 priorities of conservative forces operating at the helm of a powerful
 state apparatus. Now, in domestic affairs, the threat of the Reagan
@@ -171,14 +154,12 @@ regime comes less from a frontal attack on government than in the way
 it would prune its operations to make this a more paternal, as opposed
 to participatory, bureaucracy. The positive state would become a tool
 for on-going administration of a permanent underclass rather than a
-means of its transformation.</p>
-          <p>The new statism of the Reaganites is the basis for alarm. It comes
+means of its transformation.</p><p>The new statism of the Reaganites is the basis for alarm. It comes
 at a time when the Republicans have nearly completely capitulated to
 right wing extremist groups. The spiritual fervor of these groups is
 sustained by anticipation or expanding their influence through the
 exercise of official authority.
-<pb n="3"/></p>
-          <p>Boring within the Republican party represents something of a
+<pb n="3"/></p><p>Boring within the Republican party represents something of a
 turnabout for these groups. The fundamentalist network had been part
 of the base used by Jimmy Carter to gain national prominence. Yet
 Carter, whose personal religious expression fit the mode, disappointed
@@ -187,10 +168,8 @@ separation of state and church. This congregation has gone over to
 Ronald Reagan who is much less religious but who has been willing to
 support government-enforced prayer, segregated religious schools, and
 the like--and who is willing to individualize responsibility for
-whatever plight grows out of oppressive social conditions.</p>
-          <p>Reagan's posture encourages resistance among those who use race,
-sex or religious beliefs to protect their advantages.</p>
-          <p>When Reagan went to Washington, it first appeared that our greatest
+whatever plight grows out of oppressive social conditions.</p><p>Reagan's posture encourages resistance among those who use race,
+sex or religious beliefs to protect their advantages.</p><p>When Reagan went to Washington, it first appeared that our greatest
 domestic threat would come through efforts to abolish social welfare
 programs that help the poor or, in attempts to frustrate the
 enforcement of hard-won civil rights gains. And, indeed, his
@@ -201,24 +180,17 @@ will use it to actively promote conformity. Insofar as Reagan, his New
 Right or business allies are perceived as merely racist or excessively
 frugal, we obscure the real threat his reelection will mean to the
 poor, to women, to minorities--and to our hope for democratic
-society.</p>
-          <div3 id="sc06-5022" type="About">
+society.</p><div3 id="sc06-5022" type="About">
             <p>Alex Willingham lives in Shreveport, Louisiana. He is
 editor of the <title>Voting Rights Review.</title></p>
-          </div3>
-        </div2>
-        <div2 id="sc06-5003" n="2" type="Article">
-          <head>Wolves in Robes</head>
-          <byline>By <docAuthor><name reg="Crowther, Hal" type="person">Hal Crowther</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 3-4</docDate>
-          <p>To people outside North Carolina, it may sound like a parochial,
+          </div3></div2>
+        <div2><head>Wolves in Robes</head><byline>By <docAuthor><name reg="Crowther, Hal" type="person">Hal Crowther</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 3-4</docDate><bibl> </bibl><p>To people outside North Carolina, it may sound like a parochial,
 partisan quarrel between courtroom personalities who rub each other
 the wrong way. But the decision by Judge James H. Pou Bailey of Wake
 County Superior Court to publicly oppose the nomination of Samuel
 T. Currin for a federal judgeship is one of the state's most
 significant political stories, and one that deserves national
-attention.</p>
-          <p>Bailey, the Superior Court's senior resident judge, is a
+attention.</p><p>Bailey, the Superior Court's senior resident judge, is a
 conservative Democrat and a personal friend of Sen. Jesse Helms, who
 recommended Currin for the nomination. It isn't his habit or his style
 to become involved in political controversies. His decision was
@@ -226,17 +198,14 @@ obviously a matter of personal conscience, and it was crucial because
 he's one of the few public officials in Eastern North Carolina whose
 personal reputation and lack of further political ambition make him
 immune to the kind of tactics the Currin crowd seems to employ against
-its enemies. His statement was neither mild nor diplomatic.</p>
-          <p>"I personally believe Sam Currin would use any method for any
+its enemies. His statement was neither mild nor diplomatic.</p><p>"I personally believe Sam Currin would use any method for any
 purpose he thought was right," Bailey said. "I can conceive of no more
 dangerous person than a fanatic with power. If he is appointed a
-judge, that's what we would have."</p>
-          <p>This is, on a small scale, the same kind of "enough is enough" that
+judge, that's what we would have."</p><p>This is, on a small scale, the same kind of "enough is enough" that
 secure, older conservatives were finally forced to declare to call a
 halt to the reckless rise of Sen. Joseph McCarthy. They ,were the only
 ones who could. McCarthy's critics on the left and even in the center
-had been neutralized by fear and public ignorance.</p>
-          <p>Currin, age thirty-five, a former aide to Sen. Helms, is a
+had been neutralized by fear and public ignorance.</p><p>Currin, age thirty-five, a former aide to Sen. Helms, is a
 right-wing zealot who has been clawing his way to power in the office
 of US Attorney for North Carolina's Eastern District. The Colcor
 investigation, of which Currin was partial architect, was the code
@@ -247,23 +216,20 @@ cases were based on the agent-invented crimes that are currently so
 fashionable in law enforcement circles. When it became more than a
 rumor that assistant US attorneys had tried to sucker several of the
 defendants' lawyers into embarrassing situations, Colcor was generally
-discredited.</p>
-          <p>Colcor finally soured with both judges and juries, but not before
+discredited.</p><p>Colcor finally soured with both judges and juries, but not before
 it ended the careers (perhaps mercifully) of a lieutenant governor and
 a state senator, among others. More damning evidence against young
 Currin is the current testimony by one of his former assistants that
 he lied under oath to justify the firing of an employee, Nancy
 Jones. Worse yet, the sexual insinuation of the story that he
 apparently concocted shows a brutal kind of disregard for her career
-and reputation.</p>
-          <p>There are those who feel that a forced resignation and even
+and reputation.</p><p>There are those who feel that a forced resignation and even
 disbarment would be a more fitting reward for Samuel T. Currin than
 the federal bench. But more important than Currin's personal
 shortcomings, which seem to be legion, is the symbolic split between
 conservatives like Judge Bailey and conservatives like Currin. I
 suggest that even Sen. Helms is unaware of the alarming emptiness of
-some of these fierce young men that he sees as his political heirs.</p>
-          <p>A conservative is profoundly distrustful of major changes in the
+some of these fierce young men that he sees as his political heirs.</p><p>A conservative is profoundly distrustful of major changes in the
 way people speak, dress, build their houses, arrange their families,
 use their land, direct their energies and have sex with each
 other. I'm afflicted with this distrust as much as anyone I know, and
@@ -275,8 +241,7 @@ test of
 character for a conservative, which I feel the Senator fails,
 is whether he can exert his influence without attempting to condemn or
 coerce the people who don't share his background and can't share his
-views.</p>
-          <p>Conservatism with or without character is proper to people
+views.</p><p>Conservatism with or without character is proper to people
 approaching middle life, at the, earliest. There's something unnatural
 about a youthful reactionary. He isn't trying to preserve anything, in
 a responsible way, because he hasn't been around long enough to
@@ -289,16 +254,14 @@ impose authority, capable of passionate commitment of obsolete and
 oversimplified ideologies. It's not surprising that Currin and some of
 the Congressional Club's other iron babies are referred to in private
 as "the Hitler Youth." And it's natural, in a political movement that
-attracts a lot of sheep, that wolves rise rapidly.</p>
-          <p>As Judge Bailey pointed out, there could be nothing much worse than
+attracts a lot of sheep, that wolves rise rapidly.</p><p>As Judge Bailey pointed out, there could be nothing much worse than
 making judges of them, even at the traffic-court level. Inevitably
 many of our cases would be decided not on their legal merits but on
 what we seemed to represent to the judge--whether he sees you as one
 of his own or one of the others. In matters of pure law, of precedent
 and constitutionality, it would be impossible to exaggerate the
 destructive potential of men who had been such unscrupulous
-prosecutors, let alone their ideology.</p>
-          <p>This case is North Carolina's, but it epitomizes a national
+prosecutors, let alone their ideology.</p><p>This case is North Carolina's, but it epitomizes a national
 crisis. Never in fifty years, not since the first election of Franklin
 D. Roosevelt, has the power of the federal courts been open to such
 harsh and narrow-minded men. To me the most critical issue in the 1984
@@ -312,11 +275,9 @@ cramped and rigid and uncharitable, than the one we grew up in. With
 Ed Meese as Attorney General, Sam Currin on the federal bench and his
 slightly older counterparts on the Supreme Court, there's going to be
 very lisle in this country that we oldtimers are going to recognize as
-justice.</p>
-          <p>(Currin's nomination, along with those of other controversial
+justice.</p><p>(Currin's nomination, along with those of other controversial
 judicial candidates, has been put on ice to be revived after the
-November election.)</p>
-          <p>But I understand that seventy-five percent of the electorate isn't
+November election.)</p><p>But I understand that seventy-five percent of the electorate isn't
 interested in that issue. They aren't interested in the environment or
 in the world population explosion, which our government is currently
 addressing with the most shortsighted and reactionary policy any
@@ -328,14 +289,12 @@ race or about a President (what an intergalactic fathead he really is,
 that senile soap salesman we send around the world on Air Force One)
 who drives the Russians crazy by making jokes about blowing them to
 pieces. The voters aren't especially offended by an administration
-that is creating a republic of, by and for affluent white men.</p>
-          <p>All they're interested in, according to the polls, is the
+that is creating a republic of, by and for affluent white men.</p><p>All they're interested in, according to the polls, is the
 economy. Like pigs at the trough, they signal their preference turning
 their snouts toward whichever candidate seems to have the most swill
 in his bucket. And snout voting, as I call it, is most predictable
 among the fattest pigs. Gluttony fires a hunger that starvation can't
-touch.</p>
-          <p>Snout voters are going to look up from the trough some day and find
+touch.</p><p>Snout voters are going to look up from the trough some day and find
 their lives in the hands of men who make Samuel T. Currin look like a
 shy legal scholar. Men whose idea of criminal justice is to pick out
 types that look suspicious and tempt them and hound them until they
@@ -343,21 +302,15 @@ commit crimes. Men who would take you, your pregnant 14-year-old
 daughter and the doctor who has the reckless courage to give her an
 abortion and put all three of you behind bars. They've as much as
 promised. You may or may not have a full belly, but that's going to be
-expensive swill.</p>
-          <div3 id="sc06-5023" type="About">
+expensive swill.</p><div3 id="sc06-5023" type="About">
             <p>Hal Crowther, principal columnist for <title>Spectator
 Magazine</title> in Raleigh, North Carolina, formerly covered law and
 education for <title>Time</title>, and media for
 <title>Newsweek</title>. More recently a film and television
 scriptwriter, he lives in Pittsboro (NC) and teaches courses at Duke
 University.</p>
-          </div3>
-        </div2>
-        <div2 id="sc06-5004" n="3" type="Article">
-          <head>Changing Decades</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 4-8</docDate>
-          <p>This year, Southern Regional Council marks the fortieth anniversary
+          </div3></div2>
+        <div2><head>Changing Decades</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 4-8</docDate><bibl> </bibl><p>This year, Southern Regional Council marks the fortieth anniversary
 of its founding. Today, as in the past, the Council's vision of the
 South's future radiates from a belief in democratic principles. From
 its beginning, the Council has affirmed the nation's democratic values
@@ -365,8 +318,7 @@ while at the same time holding them up as a standard by which to
 measure and change Southern realities. Thus it has analyzed, exposed,
 and helped to remove many of the cruel ways in which democracy has
 been thwarted by segregation, disfranchisement, and the denial of hope
-and opportunity to the region's people.</p>
-          <p>As the South's olderst biracial organization, the Council's
+and opportunity to the region's people.</p><p>As the South's olderst biracial organization, the Council's
 uniqueness lies in its ability to help others turn knowledge and
 vision into tools for constructive change. Over the past four decades
 it has played a major role in reconstructing the South. It challenged
@@ -382,29 +334,24 @@ forefront of the attack on segregated schools and it has remained a
 watchful advocate of equal educational opportunity. Perhaps most
 important of all, the Southern Regional Council has cast a vision of
 what a humane and democratic South might look like.
-<pb n="5"/></p>
-          <p>Many of the Council's objectives have been achieved, but its work
+<pb n="5"/></p><p>Many of the Council's objectives have been achieved, but its work
 continues to be vital to the South. Indeed, the very achievement of
 many goals has had the ironic effect of disguising new ways in which
 opportunities are blunted, the disadvantaged abused, and democracy
-denied.</p>
-          <p>Now, as in the past, the Council's task is to provide research,
+denied.</p><p>Now, as in the past, the Council's task is to provide research,
 information, and technical assistance to individuals and groups who
 are able to bring change and to provide forums for Southerners of good
 will to think and act together. In a new era aptly called the "Age of
 Information," the Council is uniquely suited to use its skills and
-"data bases" to shape the region's future for the better.</p>
-          <p>No facet of Southern life ought to escape the Council's ,attention,
+"data bases" to shape the region's future for the better.</p><p>No facet of Southern life ought to escape the Council's ,attention,
 but the agenda for the future has been drawn up around the following
 broad concerns where democratic principles must be affirmed and
 extended: (1) the ballot box, (2) the workplace, (3) the schoolhouse,
 (4) the courthouse, (5) the marketplace of ideas and information, and
-(6) the uses of technology and information.</p>
-          <p>
+(6) the uses of technology and information.</p><p>
             <hi rend="bold">The Ballot Box: More Democratic Governments in the
 South</hi>
-          </p>
-          <p>No more important task lies ahead for the region and the Council
+          </p><p>No more important task lies ahead for the region and the Council
 than assuring that government in the South at all levels becomes truly
 democratic. Almost twenty years after the passage of the Voting Rights
 Act the promise of democratic government remains elusive, often
@@ -413,8 +360,7 @@ of district lines for Congress, state legislatures, county
 commmisions, city councils, and school boards. As the US Supreme Court
 has said, redistricting is a primary means by which "racial and
 political groups have been fenced out of the political process and
-their voting strength invidiously minimized..."</p>
-          <p>For almost four years the Council has been drawing model
+their voting strength invidiously minimized..."</p><p>For almost four years the Council has been drawing model
 redistricting plans designed to promote democratic government and to
 prevent the dilution of minority voting strength. It has drawn more
 than three hundred model plans, for jurisdictions at every level,
@@ -429,13 +375,11 @@ redistricting. While progress is being made and plans continue to be
 challenged and redrawn, redistricting in this decade is already a
 missed opportunity because so few historically disfranchised groups
 were prepared to participate effectively in drafting, assessing, and
-proposing fair redistricting plans.</p>
-          <p>To make matters more complex, local and state govern" meets have
+proposing fair redistricting plans.</p><p>To make matters more complex, local and state govern" meets have
 begun to employ sophisticated means of drawing plans using modern
 computers and other related technology. Because of a lack of access to
 data and expertise in computers, community goups have been and will
-increasingly be at a disadvantage.</p>
-          <p>The Council proposes to help here by continuing to assist local
+increasingly be at a disadvantage.</p><p>The Council proposes to help here by continuing to assist local
 groups to draft model reapportionment plans and to begin to prepare
 for the reapportionment of the 1990s. Our continued work will require
 the development of sophisticated bases of data, improved uses of
@@ -445,14 +389,12 @@ computers. Already the Council has prepared perhaps the only computer
 programming for micro computers that will develop adequately fair
 reapportionment plans of local governments. This work and the
 increased the use of accessible computer technology in this field must
-continue.</p>
-          <p>The Council will also extend its research and technical assistance
+continue.</p><p>The Council will also extend its research and technical assistance
 to assure that the Voting Rights Act is fully enforced. By helping
 local groups participate in the administrative review of voting
 changes in the South and by monitoring the enforcement of the Voting
 Rights Act, the Council can help to assure that all stand equally at
-the ballot box.</p>
-          <p>The work in both redistricting and enforcing the Voting Rights Act
+the ballot box.</p><p>The work in both redistricting and enforcing the Voting Rights Act
 can be effective only if there is a systematic collection and analysis
 of the major indicators of political participation and political
 effectiveness. In the South today, there is a dearth of reliable,
@@ -466,8 +408,7 @@ participation which they were impeding. Today, much of this
 information remains uncollected by the states and scattered in many
 different places. Without hard, reliable data collected and easily
 available, the tests of how political participation can be increased
-for all are almost impossible.</p>
-          <p>The information that is available is usually collected today at the
+for all are almost impossible.</p><p>The information that is available is usually collected today at the
 county level--making it woefully inadequate in judging accurately the
 current levels of political participation and the effective methods of
 increasing it. Data on the major indicators of political participation
@@ -475,8 +416,7 @@ must be collected and analyzed on the precinct level; this level of
 information can enable real assessments of the problems and
 barriers. Without this information there simply cannot be a
 systematicc analysis which indicates where scarce resources and
-activities should be placed.</p>
-          <p>The final focus of our work in this area will be our continued
+activities should be placed.</p><p>The final focus of our work in this area will be our continued
 research and technical assistance, by request, to 
 <pb n="6"/>
 State legislators on
@@ -485,25 +425,21 @@ state governments have become increasingly important in deciding the
 fate of both state and federal programs that aid the disadvantaged. At
 the same time, the opportunity for state officials in the South to
 address, on their own, the problems of poverty and discrimination has
-noticeably widened.</p>
-          <p>Since 1979, the Council has provided state legislators in the Deep
+noticeably widened.</p><p>Since 1979, the Council has provided state legislators in the Deep
 South with research, analysis, model legislation, and current
 information about issues relating to blacks and the poor. This work
 has remarkably improved the ability of state officials to address the
 historic needs in the region and it is setting a standard by which
 state governments can become more effective and more representative by
 their improved use of information and research. It must continue if
-democratic governments are to serve all Southerners.</p>
-          <p>The South is now moving into its second generation of democratic
+democratic governments are to serve all Southerners.</p><p>The South is now moving into its second generation of democratic
 government unbridled by segregation. If the region is to travel from
 the end of segregation to the presence of full democracy, a journey
 that can benefit both the region and the nation, the Council's efforts
 to assure the democratic promise of the ballot box will be
-essential.</p>
-          <p>
+essential.</p><p>
             <hi rend="bold">More Democracy in the Workplace</hi>
-          </p>
-          <p>Attracted to the South's low-wage, non-union labor--lower wages
+          </p><p>Attracted to the South's low-wage, non-union labor--lower wages
 than anywhere else in the country--and its cheapened land, both
 resident and newcomer companies created an unparalleled number of jobs
 during the last decade and, with the aid of the climate, earned the
@@ -514,8 +450,7 @@ income for the South in the last ten years has been concentrated in
 parts of Florida, Texas, and Virginia. Three Southern states lost as
 many jobs in the last five years as they had gained in the first five
 years of the 1970s. Unemployment in the region as a whole remains
-above the national average.</p>
-          <p>The Sunbelt fascination may turn into an extended disaster. The
+above the national average.</p><p>The Sunbelt fascination may turn into an extended disaster. The
 economy of the nation and the region is increasingly becoming
 international and this trend surely limits the future prospects for
 jobs in the South so long a' low wages and cheap land are its major
@@ -524,16 +459,14 @@ communities with relocation to Central America, Africa or Indochina
 where wage scales are abysmally low. In the absence of workplaces in
 which meeting the needs of the region's people is as important as
 maximizing profits, the South's hopes and the Sunbelt's glitter soon
-will be eclipsed.</p>
-          <p>The Council hopes to address many of these issues with its recently
+will be eclipsed.</p><p>The Council hopes to address many of these issues with its recently
 created Southern Labor Institute. The Institute will bring together
 representatives of labor unions, business civil rights organizations,
 environmental groups, govern meet, education, and other interests to
 help create common agendas for the region's economic development. It
 will also carry out research to monitor and assesses the South's
 development of industrial relations and policies that promote the
-welfare of workers.</p>
-          <p>In the next few years the Institute will develop a sound,
+welfare of workers.</p><p>In the next few years the Institute will develop a sound,
 alternative economic development strategy for Southern states and
 local governments--a strategy that avoids the heavy reliance upon
 cheap land and cheap labor. At the same time, the Council will
@@ -545,8 +478,7 @@ practices of equitable, accessible capital formation, especially among
 religious groups, churches, and labor unions, and, (2) establishing a
 network in which marketing expertise and product development can
 become available to a larger number of minority, worker-owned small
-businesses.</p>
-          <p>Also, today, more than seventy percent of the land of the South is
+businesses.</p><p>Also, today, more than seventy percent of the land of the South is
 served by ostensibly democratic, economic institutions--the electric
 utility cooperatives which by law are controlled by their
 customers. Through years of neglect and a history of segregation,
@@ -556,20 +488,17 @@ ecology, and prudent use of energy in their own communities. This
 essential industry in the South will continue to be a central concern
 of the Council's research and technical assistance in an effort to
 improve democratic decision-making, promote jobs and protect the
-environment.</p>
-          <p>
+environment.</p><p>
             <hi rend="bold">The Schoolhouse: Equal Opportunity to an Excellent Integrated
 Education</hi>
-          </p>
-          <p>The goal of excellence in education has little, if any, opposition
+          </p><p>The goal of excellence in education has little, if any, opposition
 in the South or the nation. But controversies do arise over how to
 define excellence and how to make certain that no students are denied
 a full opportunity to achieve it. Following its long-held views, the
 Council will increase its work in this area in the years ahead in
 order to assure that citizens of all races and incomes have an
 opportunity to find the agreeable means by which everyone has the
-opportunity for an excellent education.</p>
-          <p>The involvement of local community groups and parents in the
+opportunity for an excellent education.</p><p>The involvement of local community groups and parents in the
 decision-making in schools was instrumental in the resolution of many
 problems encountered in dismantling the legally segregated school
 systems of the South and that involvement is essential for any
@@ -578,29 +507,24 @@ equitable agreement on the
 means to achieve improved education for
 all. The Council will encourage local and state groups to develop
 agendas and define ways of improving the administration and quality of
-educaion, regardless of race or income.</p>
-          <p>The Council will also continue its research and analysis of trends
+educaion, regardless of race or income.</p><p>The Council will also continue its research and analysis of trends
 in the South relating to equal opportunity in education and its
 assessment of the effects of different means which federal, state, and
-local governments can choose to accomplish this goal.</p>
-          <p>Of particular importance, especially in the rural South, is the
+local governments can choose to accomplish this goal.</p><p>Of particular importance, especially in the rural South, is the
 continued existence of tax-exempt, segregation academies. These
 private discriminatory schools have an influence not only in keeping
 white children away from public schools but also in influencing local
 and state public policies concerning school administration and school
 finance in both urban and rural areas. The Council will examine this
 area of education and especially the effects of segregation academies
-on education in the region.</p>
-          <p>
+on education in the region.</p><p>
             <hi rend="bold">The Courthouse: Just Men and Women in the Institutions Of
 Justice</hi>
-          </p>
-          <p>Few institutuions have been as important in shaping the future of
+          </p><p>Few institutuions have been as important in shaping the future of
 the South as its institutions of justice. The federal courts have had
 a central role in shaping the region's future and while that role has
 diminished in recent years, the courts remain a strategic influence
-upon the course of the South.</p>
-          <p>For much of its history, the Council has been concerned about who
+upon the course of the South.</p><p>For much of its history, the Council has been concerned about who
 are the men and women who occupy important positions in the
 institutions of justice. That concern will continue in the future. It
 was not until 1979, after the release of an SRC report, that the
@@ -609,15 +533,12 @@ has also been only: recently that civil rights lawyers, blacks, and
 women have had an opportunity to be appointed to the federal bench. At
 the state level, surveys by the Council in the late 1970's showed that
 most judicial and quasi-judicial administrative agencies remained
-predominantly white and too often entirely segregated.</p>
-          <p>Through research and technical assistance, the Council will
+predominantly white and too often entirely segregated.</p><p>Through research and technical assistance, the Council will
 continue to monitor, study, and prod the courts to be fully integrated
-and fair institutions.</p>
-          <p>
+and fair institutions.</p><p>
             <hi rend="bold">More Democracy in the Marketplace of Ideas and
 Information</hi>
-          </p>
-          <p>As it continues to help shape public policy options, the Southern
+          </p><p>As it continues to help shape public policy options, the Southern
 Regional Council will also continue trying to reach the hearts and
 minds of Southerners, to make human relations and government more
 democratic. Its public education work has involved assistance to the
@@ -625,16 +546,14 @@ news media, conferences, the publication of magazines and special
 reports, and, most recently, radio and television production. In the
 future, the Council will increase its efforts to reach a larger number
 of Southerners who in the decades ahead can share a vision of the
-region.</p>
-          <p>The use of mass media by the Council will continue to branch into
+region.</p><p>The use of mass media by the Council will continue to branch into
 new areas as we try to diversify the marketplace of information and
 ideas. Already, the Council is preparing radio programming for
 distribution to public and commercial radio stations across the region
 and exploring ways of establishing syndicated programming to different
 stations throughout the area. This programming will provide
 information, education, and a sense of history about the region in
-lively and entertaining formats.</p>
-          <p>In television, the Council also has begun efforts to reach a larger
+lively and entertaining formats.</p><p>In television, the Council also has begun efforts to reach a larger
 audience. With the Atlanta Media Project, the Council recently
 established the Southern Network, where it produced each weekday two
 hours of non-partisan programming for nine weeks about the
@@ -643,16 +562,14 @@ by cable systems to more than one million households in Alabama,
 Florida, and Georgia. The Council's first venture into production of
 programming will be followed by a cooperative venture of groups across
 the region, and perhaps the country, to provide by cable a link among
-people and organizations of good will.</p>
-          <p>As it has for more than forty years, the Council will continue to
+people and organizations of good will.</p><p>As it has for more than forty years, the Council will continue to
 provide information, consultations, and advice on regional isues to
 the regional, national and international news media. This informal
 service helps to illuminate problems and opportunities and to guide
 the coverage of issues by the mass media. A formal part of this
 assistance to news media may be a yearly press institute where bureau
 chiefs, editors, and reporters meet and discuss the major regional
-issues.</p>
-          <p>The Council also hopes to improve its services to the news media by
+issues.</p><p>The Council also hopes to improve its services to the news media by
 providing a subscription service of microfilmed newspaper
 clippings. This collection covers more than thirty years and contains
 more than 1.3 million newspaper clippings about people, places, and
@@ -660,8 +577,7 @@ events of the South's recent history. For subscribing news media, this
 microfilm service would be available in order to provide background on
 issues, place, or people through computer retrieval. This service will
 also be used to improve the Council's general use of an increased
-"data base" in research and technical assistance in other areas.</p>
-          <p>Although the Southern Regional Council intends to move further in
+"data base" in research and technical assistance in other areas.</p><p>Although the Southern Regional Council intends to move further in
 reaching a larger audience through mass communications, it also
 intends to maintain its own modest journal of opinion which is a
 tradition as old as the organization and as important as free
@@ -673,8 +589,7 @@ critically about the region as a whole. In the days ahead, the Council
 hopes to begin to syndicate some articles in Southern Changes to daily
 and weekly newspapers around the country in order to enlarge its
 readership and to provide a regional perspective on current events
-which is seldom available elsewhere.</p>
-          <p>As the Council reaches out to new eyes and ears it will also need
+which is seldom available elsewhere.</p><p>As the Council reaches out to new eyes and ears it will also need
 to understand better the currents of opinions in the
 region. Complementing other aspects of its work, the organization will
 begin periodic surveying of the opinions of the public (and different
@@ -686,11 +601,9 @@ education and research. Surveying will also be used as a tool in other
 areas of the Council's work for assessing opinions on education,
 understanding patterns of political participation, and aiding in
 testing marketing concepts for emerging worker-owned and minority
-businesses.</p>
-          <p>
+businesses.</p><p>
             <hi rend="bold">More Democratic Use of Technology and Information</hi>
-          </p>
-          <p>In this age of information, new and alternative technologies--some
+          </p><p>In this age of information, new and alternative technologies--some
 very simple and others very complicated--are shifting radically the
 manner in which services are provided and decisions are made. In this
 dramatic shift, no sector of society appears less equipped to master
@@ -699,20 +612,16 @@ historically disfranchised of the South. Computers,
 telecommunications, health care technology, solar technics--these and
 other developments of recent years must be understood and mastered by
 community leaders in the days ahead if their constitutencies are to be
-represented adequately.</p>
-          <p>In the future, the Council will explore ways to help community
+represented adequately.</p><p>In the future, the Council will explore ways to help community
 groups and non-profit organizations in the South find useful
 applications for new technologies. This area of work will be done in
-very practical ways and as an extension of SRC's ongoing work.</p>
-          <p>By increasing its own capacity to use new technologies, the Council
+very practical ways and as an extension of SRC's ongoing work.</p><p>By increasing its own capacity to use new technologies, the Council
 will share its technical knowledge, computer programming, and
 practical applications with others across the region so that there can
 be more democratic access and use of the technology and information on
-which the region's future will be built.</p>
-          <p>
+which the region's future will be built.</p><p>
             <hi rend="bold">"A Bunch of Renegades"</hi>
-          </p>
-          <p>In dealing with the old or the new, no region of the country has
+          </p><p>In dealing with the old or the new, no region of the country has
 experienced greater and more rapid change than the South. In that fact
 lies the promise of even greater change for the region and the
 nation. It is the promise of democracy: that people can change
@@ -721,35 +630,26 @@ that simple notion, so precious and fragile today as in the past, the
 Southern Regional Council has devoted its energies. With increased
 capacities the Council will continue, as one of its founders, Ralph
 McGill, said, "to be a bunch of renegades who insist upon telling the
-truth."</p>
-          <div3 id="sc06-5024" type="About">
+truth."</p><div3 id="sc06-5024" type="About">
             <p>Steve Suitts is the executive director of the Southern
 Regional Council.</p>
-          </div3>
-        </div2>
-        <div2 id="sc06-5005" n="4" type="Article">
-          <head>Time and Time Again: The Women, the Union and the Vanity
-Factory</head>
-          <byline>By <docAuthor><name reg="Mclendon, Paula" type="person">Paula Mclendon</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 8-17</docDate>
-          <p>Sarah Boykin: Mr. Hundley was the plant manager when we first
+          </div3></div2>
+        <div2><head>Time and Time Again: The Women, the Union and the Vanity
+Factory</head><byline>By <docAuthor><name reg="Mclendon, Paula" type="person">Paula Mclendon</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 8-17</docDate><bibl> </bibl><p>Sarah Boykin: Mr. Hundley was the plant manager when we first
 started organizing. They told us that he had found a better job. But I
 don't believe that because he had twenty years in with Vanity
 Fair. And he went to that cabinet shop right up the road. I don't
-believe he would have thrown away that many years.</p>
-          <p>I think they got rid of Mr. Hundley because he didn't have t in his
+believe he would have thrown away that many years.</p><p>I think they got rid of Mr. Hundley because he didn't have t in his
 heart to do the things that Vanity Fair likes done to their
 employees. He was a Christian man. He was a good man too. When we
 started organizing, everything changed. They had to get rid of him
 because he was too easy, too soft. They had to get rid of him. They
 gave us Larry Windham. That was the meanest man that ever walked in
-Vanity Fair.</p>
-          <p>Emily Woodyard: Mr. Hundley respected the women. He wanted to get
+Vanity Fair.</p><p>Emily Woodyard: Mr. Hundley respected the women. He wanted to get
 the work out, but he wouldn't ride you like you were a machine or
 something. The rest of them did. It didn't matter to them as long as
 they got their quota out and they looked good on that little piece of
-paper that came out.</p>
-          <p>
+paper that came out.</p><p>
             <hi rend="bold">In 1976, Sarah Boykin, Emily Woodyard, Wilda Blackmon and
 Rebecca Blackmon led a successful union campaign in Jackson, Alabama,
 at Clarke Mills, a division of Vanity Fair Mills, manufacturers of
@@ -759,18 +659,15 @@ out of over five hundred cast. The union was bitterly resisted by the
 Clarke Mills' management and by the parent VF Corporation, a non-union
 multi-plant operation that employed approximately eight thousand women
 in south Alabama and the Florida panhandle.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">In 1979, these four women, textile workers each with over a
 decade of experience, sat down to talk with me about how and why they
 came to form a union. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">In 1982, after a company counter-campaign in which Vanity
 Fair employed a considerable array of intimidators against union
 supporters, Local 118 was decertified. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">In 1984, I asked Sarah, Emily, Wilda and Rebecca for another
 interview together. They talked about the circumstances which led to
 the loss of their union. They considered the various wiles and
@@ -779,23 +676,19 @@ about themselves and their co-workers--what they had learned, and what
 they had gained from all they had given to the union
 campaign. </hi>
             <pb n="9"/>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The Setting</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Jackson, a town of six thousand people' sits along Alabama's
 Tombighee River in Clarke County, about sixty miles north of
 Mobile. Clarke was a cotton plantation county in the antebellum
 South. Fifty percent of its 1850 population of 9,800 consisted of
 slaves. Today, blacks comprise forty- tree percent of the county's
 total population of 28,000. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Nearly half of Clarke County's black citizens live in
 poverty. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">During the twentieth century, Clarke County's agricultural
 production has undergone a long and steady decline. In the decades
 since World War 11, commercial pulpwood and timber interests, together
@@ -806,13 +699,11 @@ individuals and companies have assembled large landholdings into pine
 plantations ranging from ten-thousand to seventy-thousand acres
 each. Clarke leads Alabama's counties in the yearly cutting of pine
 lumber and is near the top in pulpwood production.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Scotch Lumber, Allied Paper Company and Clarke Mills together
 account for more than three-fourths of the county's three-thousand
 manufacturing jobs. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Since its beginnning in 1939, Vanity Fair's Clarke Mills has
 drawn its workforce from local women. Today it is the largest employer
 of women in a county where only sixty-three percent of adult whites
@@ -820,8 +711,7 @@ and twenty-six percent of black adults have high school
 diplomas. Residents are quick to acknowledge Vanity Fair's significant
 role in the local economy, yet the low-wage, labor-intensive industry
 has hardly brought prosperity. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The decision to try to organize a union at Clarke Mills arose
 not out of any one disagreement with Vanity Fair but came as a result
 of accumulated frustrations. Women found it increasingly difficult to
@@ -829,8 +719,7 @@ support families on wages of $2.65 an hour. Retirement and health
 benefits were inadequate. "Used to be," recalls an elderly former
 employee, "your retirement check would just about pay your light
 bill."</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Workers expressed dissatisfaction with workplace policies
 such as the longstanding practice of mandatory overtime and the
 partiality shown by supervisors in determining work assignments and in
@@ -838,80 +727,60 @@ selecting those workers who went home during lay-offs. Workers could
 not make complaints without fear of reprisal. The company, it was
 said, maintained an "open door policy": the door was open and you went
 out of the plant if you disagreed with management. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Except for my narrative background and occasional bridging of
 time and topics, the women's words and their perspectives fill the
 following pages. Their voices are joined occasionally by that of
 Richard Boykin (Sarah's husband) and Eileen Brown, the ILGWU organizer
 who worked in the Clarke Mills effort. </hi>
-          </p>
-          <p>Sarah Boykin: The company had been in Jackson thirtysomething
+          </p><p>Sarah Boykin: The company had been in Jackson thirtysomething
 years. They had all the time they needed to prove themselves and they
 didn't. There would never have been changes without our local . You
 would either have done what they said or you would have been at
-home.</p>
-          <pb n="10"/>
-          <p>I never had any trouble with Vanity Fair. They had never done
+home.</p><pb n="10"/><p>I never had any trouble with Vanity Fair. They had never done
 anything to me that I didn't let them know how I felt about it. But
 there were so many people there that I would see crying--just crying
 to no end. They were so upset they'd just lose all control. That would
 upset me. I don't know; I have a very tender heart for other people. I
 don't like to see people mistreated. And there are those--somebody
 could be standing over them with a gun and they're not going to try
-and defend themselves.</p>
-          <p>I would come home and tell my husband about it. I would just cry
-and he would ask me, "Why are you crying?"</p>
-          <p>I said, "Because if you had seen it then you would cry."</p>
-          <p>He said, "Well don't cry. What you need to do is get a union." So
-that's how we started.</p>
-          <p>I was the one who first contacted the union. This was around March,
+and defend themselves.</p><p>I would come home and tell my husband about it. I would just cry
+and he would ask me, "Why are you crying?"</p><p>I said, "Because if you had seen it then you would cry."</p><p>He said, "Well don't cry. What you need to do is get a union." So
+that's how we started.</p><p>I was the one who first contacted the union. This was around March,
 1976. I spoke with my husband's union representative, Herbert
 Belt. [Sarah's husband, Richard, worked for the United Parcel Service,
 represented by the Teamsters.] Mr. Belt told me his union did not
 handle garment workers. He let the ILGWU know I wanted to talk with
 them. I guess it must have been probably a couple of weeks after the
 first mention of the union a Mr. Ashley was supposed to have met
-us. He didn't show. A couple of us carried the meeting on.</p>
-          <p>The first time we met it was just a few of us. We didn't sign
+us. He didn't show. A couple of us carried the meeting on.</p><p>The first time we met it was just a few of us. We didn't sign
 anything, but we wanted to have phone numbers so we could keep in
 touch. At the fourth meeting we had thirty-five to show. Sometimes it
-would be less members, sometimes more.</p>
-          <p>Wilda Blackmon: But this too. The people wouldn't come out. They
-were still afraid to say "union" in the plant.</p>
-          <p>Sarah: If you said "union" to one lady she would say, "Oh don't
+would be less members, sometimes more.</p><p>Wilda Blackmon: But this too. The people wouldn't come out. They
+were still afraid to say "union" in the plant.</p><p>Sarah: If you said "union" to one lady she would say, "Oh don't
 talk to me about that. " She said, "They don't even allow you to say
-union in this plant."</p>
-          <p>Emily Woodyard: They tried to have a working condition where you
-were scared to talk to your neighbor.</p>
-          <p>Rebecca Blackmon: That was supposed to have been mandatory at one
-time--that you could not talk during work hours.</p>
-          <p>You sit there for twenty years doing everthing the company says
+union in this plant."</p><p>Emily Woodyard: They tried to have a working condition where you
+were scared to talk to your neighbor.</p><p>Rebecca Blackmon: That was supposed to have been mandatory at one
+time--that you could not talk during work hours.</p><p>You sit there for twenty years doing everthing the company says
 without questioning, you're not going to change overnight. You have to
 be shown that even though you are standing up and saying, "Hey, look,
 you didn't treat me right," that the company can't eat you. You're
-going to have to be shown time and time again.</p>
-          <p>Emily: I had been working at Vanity Fair since I was eighteen. It
+going to have to be shown time and time again.</p><p>Emily: I had been working at Vanity Fair since I was eighteen. It
 was 1974. I was running late as usual. I had my card, trying to clock
 it. It was one minute till. We had a three minute whistle and a seven
 o'clock whistle. And there was a man who said, "You're not clocking
-that card." The man grabbed me and would not let me clock in.</p>
-          <p>That never left me. I made the statement if I ever found a way to
-do anything to make it better at Vanity Fair I'd do it.</p>
-          <p>Wilda: I went to work there twenty-three years ago. The day I
+that card." The man grabbed me and would not let me clock in.</p><p>That never left me. I made the statement if I ever found a way to
+do anything to make it better at Vanity Fair I'd do it.</p><p>Wilda: I went to work there twenty-three years ago. The day I
 really made up my mind to look into the union was when one of the
 engineers came out--I was doing a most difficult job. I mean it was
 almost impossible to do and I had found a better way to do it. He came
 out and found out the way I was sewing it and asked me, "Who do you
 think you are to change my method?" I had to go back to his way, a
-harder way. That's the day I started looking at the union.</p>
-          <p>Rebecca: What motivated me was the income. I didn't think I'd get
+harder way. That's the day I started looking at the union.</p><p>Rebecca: What motivated me was the income. I didn't think I'd get
 rich working under a union but I thought we could get a better
-wage.</p>
-          <p>
+wage.</p><p>
             <hi rend="bold">The Company</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The VF Corporation designs, manufactures and markets apparel
 through three wholly-owned subsidiari--in addition to Vanity Fair
 Mills--H.D. Lee, Inc. and Kay Windsor, Inc. Vanity Fair Mills posted
@@ -919,8 +788,7 @@ profits of $15.5 million on sales of $184 million in 1982. H.D. Lee's
 eight production sites in north Alabama, combined with Vanity Fair's
 eleven plants in south Alabama, make the VF Corporation one of the
 state's largest private employers--with some 8,500 workers.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Vanity Fair Mills originated in Reading, Pennsylvania in 1899
 as Reading Glove and Mitten Manufacturing Company. After several
 changes of names and production lines, Vanity Fair began shifting its
@@ -928,8 +796,7 @@ manufacturing to the non-union South in 1937 by opening plant in
 Monroeville, Alabama--thirty-five miles east of Jackson. By the late
 1950s, the company had ceased all its Pennsylvania
 production.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The opening of a textile plant in 1939 in Jackson, then a
 town of three thousand, offered many white women their first
 opportunity to work for non-farm wages. Vanity Fair's Clarke Mills
@@ -938,20 +805,17 @@ nylon lingerie. The plant is still known to older citizens of the area
 as the "silk mill. " With the construction of a new sewing facility in
 Jackson in 1975, the original factory became the site of knitting
 operations, producing Vanity Fair fabric.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">One long-time resident recalled the subsistence farming that
 was still familiar when Vanity Fair arrived. "Folks didn't have
 nothing to do with. You couldn't make a penny. Just what little if you
 hoed or picked cotton. That's all there was. The silk mill took a lot
 of folks out of the field."</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The company played upon this historical sense of gratitude
 and dependence among older white women workers when organizing efforts
 began in 1976.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Following the Monroeville and Jackson plants, Vanity Fair
 built factories in several similar south Alabama towns: Atmore, Bayou
 La Batre, Butler, Demopolis, Luverne and Robertsdale. So hospitable
@@ -959,8 +823,7 @@ was Alabama for Vanit Fair that the company now runs only two
 out-of-state plants, both in the Florida panhandle. At every location,
 their workforce is overwhelmingly female. </hi>
             <pb n="11"/>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">In the mid-1970s, Vanity Fair expanded operations in both
 Monroeville and Jackson. A cutting plant opened in Monroeville in
 1973. This meant that Vanity Fair could dye, finish and cut the fabric
@@ -968,8 +831,7 @@ manufactured in nearby Jackson. The finished and cut fabric could then
 be distributed to the various sewing plants, which by l 975, included
 Clarke Mills. It was at the sewing facility that organizing efforts
 were initiated in 1976.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Clarke Mills' sewing plant--a one-story, windowless,
 slab--sits on what was once a farm just outside the Jackson city
 limits. In 1976 the sewing plant employed over five hundred
@@ -977,34 +839,27 @@ workers. Nearly all were women. There were four hundred sewing machine
 operators, fifty-three examiners who checked finished garments for
 mistakes, thirty-six packers, and seven mechanics (all
 male).</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The plant's work was divided among eleven operation or
 production lines, each of which had its own supervisor and one
 "service girl " who made sure that sewing machine operators always had
 the materials they needed to work without interruption.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">To earn more than minimum wage, the women had to meet a
 "production" quota, a quantity of work calculated by time-motion stud
 ies and set to a torturous pace.</hi>
-          </p>
-          <p>Sarah: When you have to sit there and do so many garments in so
+          </p><p>Sarah: When you have to sit there and do so many garments in so
 many minutes--and this is an eight hour job--it's not easy. It's not
 easy. A lot of times I psyched myself out, you know, "I can do it."
 But you don't always do the same job. Styles change, jobs change, you
-change machines.</p>
-          <p>I think that the people that pack are very skilled, more so than a
+change machines.</p><p>I think that the people that pack are very skilled, more so than a
 machine operator. But they can't run a machine. Then, on the other
-hand, I can't pack either.</p>
-          <p>You have to be skilled, in my sight, to be able to pack those
+hand, I can't pack either.</p><p>You have to be skilled, in my sight, to be able to pack those
 garments as fast as they do. When you have a job where "production" is
 the main word, you are forever busy. And you would be surprised one
-minute will cost you a dollar.</p>
-          <p>
+minute will cost you a dollar.</p><p>
             <hi rend="bold">The Women</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Sarah McDonald Boykin grew up in nearby McIntosh where her
 mother worked for a local restaurant and the family farmed. Like her
 thirteen brothers and sisters, she left home after high school
@@ -1012,95 +867,74 @@ graduation, eventually living in California for several years. She
 returned to Jackson in the 1 960s to be near her family. She met and
 married Richard Boykin, a native of Clarke County and an active civil
 rights worker.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Sarah began work at Vanity Fair in 1966 at the age of
 twenty-two. She was among the first black women trained as sewing
 machine operators. Sarah was elected president of Local 118 in
 1976.</hi>
-          </p>
-          <p>Sarah: I had heard Vanity Fair didn't hire black people. This was
+          </p><p>Sarah: I had heard Vanity Fair didn't hire black people. This was
 in 1965. I went up and put in an application. The first thing they
 told me was I didn't pass the test and that I needed to pass the test
 in order to be hired. So I forgot about it. And one day they called
-me. It was in April 1966, I believe.</p>
-          <p>
+me. It was in April 1966, I believe.</p><p>
             <hi rend="bold">Wilda Blackmon has always lived in Jackson, Alabama. One of
 eleven children, married since she was fifteen, Wilda first began at
 Vanity Fair over twenty years ago as a sewing machine operator. She
 continued to work there on and off through the birth of her three
 children.</hi>
-          </p>
-          <p>"This last time," Wilda recalls, "I had been back working for ten
+          </p><p>"This last time," Wilda recalls, "I had been back working for ten
 years. Up until we got the union, you couldn't take time off to have a
 baby. You had to quit and come back in. Now you can have maternity
-leave and your time continues with the company."</p>
-          <p>
+leave and your time continues with the company."</p><p>
             <hi rend="bold">As the shop steward, Wilda was responsible for handling
 worker grievances. She also served as president of the local after the
 departure of Sarah Boykin in 1980.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Rebecca Blackmon was unique among the union supporters in
 that she had held supervisory positions with Vanity Fair on several
 occasions. In 1976she was employed as a machine operator.</hi>
-          </p>
-          <p>Rebecca: I went to work at sixteen. I worked on and off for about
+          </p><p>Rebecca: I went to work at sixteen. I worked on and off for about
 thirteen years. I was skilled at sewing on nearly every machine. I
-worked in the press and pack department.</p>
-          <p>I very much surprised people by being for the union. I had several
+worked in the press and pack department.</p><p>I very much surprised people by being for the union. I had several
 of them tell me that they were shocked because I had been a supervisor
-and to be a supervisor is the ultimate in the company.</p>
-          <p>
+and to be a supervisor is the ultimate in the company.</p><p>
             <hi rend="bold">Emily Woodyard, like Rebecca Blackmon and Wilda Blackmon, is
 white. She was one of fifty examiners who worked at Vanity Fair in
 1976. Both Emily and Rebecca were members of the shop committee that
 negotiated the local's first contract. Neither she nor Rebecca had
 completed high school when they went to work at Vanity
 Fair. </hi>
-          </p>
-          <p>Emily: One thing they used against us, Becky and myself, was that
+          </p><p>Emily: One thing they used against us, Becky and myself, was that
 we had not finished high school. They'd say, "Look at the people
 that's your leaders." So we went back and took our GED tests. Now
-we've got a high school diploma.</p>
-          <p>
+we've got a high school diploma.</p><p>
             <hi rend="bold">In 1976 the ILGWU sent organizer Eileen Brown to Clarke
 Mills. An organizer for the past ten years, Eileen travels throughout
 the Southeast for the ILG but still lives in her hometown of
 Talladega, Alabama. For over fifteen years, Eileen, a mother of three
 children, worked as a sewing machine operator. </hi>
-          </p>
-          <p>Emily: Eileen was a key factor. I do not think just any organizer
+          </p><p>Emily: Eileen was a key factor. I do not think just any organizer
 could have carried it off. She had what it took to go out and meet the
 people. She could go in their homes.
-<pb n="12"/></p>
-          <p>Rebecca: She was just basically a decent person.</p>
-          <p>Emily: And that came across with people who would not let an
+<pb n="12"/></p><p>Rebecca: She was just basically a decent person.</p><p>Emily: And that came across with people who would not let an
 organizer in their home. Even they had to admit she was a good
-person.</p>
-          <p>
+person.</p><p>
             <hi rend="bold">The Union</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Soon after the union drive began, rumors began to circulate
 that Clarke Mills would close if the campaign were
 successful. </hi>
-          </p>
-          <p>Eileen Brown: If you can just imagine you're working in the
+          </p><p>Eileen Brown: If you can just imagine you're working in the
 plant. You feel a lot of these people accusing you of taking their
 jobs away, causing work to be short, causing the plant to close. It's
-not easy at all.</p>
-          <p>Emily: Say two supervisors would get behind one operator while she
+not easy at all.</p><p>Emily: Say two supervisors would get behind one operator while she
 was sewing and talk about--well, say our work turning up in another
-plant, machines being moved.</p>
-          <p>Rebecca: Things that were not supposed to have been happening. Yet
+plant, machines being moved.</p><p>Rebecca: Things that were not supposed to have been happening. Yet
 they were making sure that the people that would be the most scared of
-it knew what was happening.</p>
-          <p>Sarah: I reported rumors to the union. The main one was about a
+it knew what was happening.</p><p>Sarah: I reported rumors to the union. The main one was about a
 supervisor who said Vanity Fair was the first one that hired black
 women out of the cotton patch and that if the union were voted in we
-would be back in the cotton patch.</p>
-          <p>
+would be back in the cotton patch.</p><p>
             <hi rend="bold">This rumor contradicted the actual experience of black
 women. Excluded from jobs in Clarke Mills until the mid-1960s, these
 women did not come to Vanity Fair from the fields. The fields, by
@@ -1108,47 +942,37 @@ then, had been planted in pines. The rumor revealed more about the
 attitudes and perceptions of whites than about black women
 workers. But it did touch on the crucial issue of available wage
 work. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Vanity Fair held a virtual monopoly on jobs for black women
 in the town of Jackson where today ninety percept of all managerial,
 administrative, sales, clerical, technical and professional work (with
 the exception of teaching) continues to be held by whites. </hi>
-          </p>
-          <p>Eileen: Work slow-down times were different when the campaign was
+          </p><p>Eileen: Work slow-down times were different when the campaign was
 going on. I'm sure what they did was step up the change of
 styles. You'd go in and this girl was laid off for so many days and
-that girl was laid off for so many days.</p>
-          <p>And you'd go visit them in the evening and she'd say, "Lord, no, I
+that girl was laid off for so many days.</p><p>And you'd go visit them in the evening and she'd say, "Lord, no, I
 can't sign a card because if I do and they get word of it, they'll
-fire me."</p>
-          <p>Nobody had ever told her point blank, "I'll fire you if you sign a
+fire me."</p><p>Nobody had ever told her point blank, "I'll fire you if you sign a
 union card." But the implications were there. The little strategic
 lay-offs. If they felt we were beginning to get a little deeper in,
-there would be lay-offs in that section.</p>
-          <p>Rebecca: Even though the supervisors or management could not come
+there would be lay-offs in that section.</p><p>Rebecca: Even though the supervisors or management could not come
 out directly and say, "You will be fired if you go through with this,"
 they could tell you the same thing in so many ways. And you'd know
-what they were saying.</p>
-          <p>Emily: The supervisors would come out of meetings every
+what they were saying.</p><p>Emily: The supervisors would come out of meetings every
 morning--they'd spread rumors. They would harass the people on their
 line and when we'd take it to the company, "We didn't know they were
 doing it." "They're not doing it because we told them to." And of
-course the supervisors would keep their mouths shut.</p>
-          <p>But the company was putting them up to it. The company was
+course the supervisors would keep their mouths shut.</p><p>But the company was putting them up to it. The company was
 schooling them on what to do. They'd pick out people that they knew
-they could...</p>
-          <p>Rebecca:...buffalo. That they knew they could scare to death and
+they could...</p><p>Rebecca:...buffalo. That they knew they could scare to death and
 just ride them. Stand over their shoulder and pick on everything they
-did. Or stand there and just talk.</p>
-          <p>
+did. Or stand there and just talk.</p><p>
             <hi rend="bold">Prejudices, not only of race but of sex and class, were
 exploited in an attempt to divide workers at Clarke Mills: white
 workers against black workers; sewing machine mechanics (all male)
 against sewing machine operators (all female); and sewing line
 supervisors against operators. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The male sewing machine mechanics actively opposed
 unionization even though--because wage increases were based on current
 pay and they were the highest paid workers--they would receive the
@@ -1158,83 +982,62 @@ the later decertification effort, averaged $6.37 per hour during a
 two-week pay period. During the same time period a sewing machine
 operator with thirty years experience averaged $3.38 per
 hour.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">While organizers drew little or no support from men in the
 workplace, one man who did offer moral and practical support during
 the organizing campaign was Sarah Boykins's husband, Richard. He made
 after-hour visits to workers' homes, attended meetings, and enlisted
 support among members of the black community. </hi>
             <pb n="13"/>
-          </p>
-          <p>Eileen: Sarah's husband, Richard, would do his job and then if
+          </p><p>Eileen: Sarah's husband, Richard, would do his job and then if
 there were people way back in the hills--see he knew everybody because
 he's the UPS (United Parcel Service) man--he would go with us. He
-would go wherever he was needed.</p>
-          <p>Richard: I think the company didn't fight the union as hard as they
+would go wherever he was needed.</p><p>Richard: I think the company didn't fight the union as hard as they
 would have if it had been men. They didn't think that the women were
 going to be successful. It surprised the devil out of them when they
-won.</p>
-          <p>Wilda: It was nerve wracking. But in the end the tears were worth
+won.</p><p>Wilda: It was nerve wracking. But in the end the tears were worth
 it all. One person asked me, they said, "Well, if you do go union who
-will go to negotiate the contract? You know nothing about it."</p>
-          <p>I said, "Well, we've learned this far. Why can't we continue to
-learn?"</p>
-          <p>They said, "You mean you're going to get on the road?" And there
-wasn't a trip we took that I wasn't there.</p>
-          <p>Richard: A lot of times I would come home in the evenings and get
+will go to negotiate the contract? You know nothing about it."</p><p>I said, "Well, we've learned this far. Why can't we continue to
+learn?"</p><p>They said, "You mean you're going to get on the road?" And there
+wasn't a trip we took that I wasn't there.</p><p>Richard: A lot of times I would come home in the evenings and get
 in my car and drive around through the county--Barlow Bend, Whatley,
-Grove Hill--to get cards signed.</p>
-          <p>Eileen: Home contacts are the mainstay. That's what you do from day
+Grove Hill--to get cards signed.</p><p>Eileen: Home contacts are the mainstay. That's what you do from day
 one until day zero because you have to have a contact with the
 people. Where the company can have a command audience, we can't. We
-have to do ours while they're off, while they're home.</p>
-          <p>Richard: Some of the people, especially the older people, they
+have to do ours while they're off, while they're home.</p><p>Richard: Some of the people, especially the older people, they
 would say, "Vanity Fair has been putting bread on my table for twenty
-years. Why should I turn against them?"</p>
-          <p>I would tell them, "If Vanity Fair is putting bread on your table
+years. Why should I turn against them?"</p><p>I would tell them, "If Vanity Fair is putting bread on your table
 they'd send you a check at the end of the week. You wouldn't have to
-get up and go out there each morning at seven o'clock."</p>
-          <p>Wilda: And so many of them came back with, "If you start this union
-Vanity Fair will close their doors."</p>
-          <p>Emily: They did move our work out of the Jackson plant. We had
+get up and go out there each morning at seven o'clock."</p><p>Wilda: And so many of them came back with, "If you start this union
+Vanity Fair will close their doors."</p><p>Emily: They did move our work out of the Jackson plant. We had
 shevelva [trade name for brushed nylon fabric used in manufacture of
 women's lounge wear]. I was on shevelva. And the shevelva line turned
 up in Butler. We would go to meetings in Butler and the girls would
 say, "Well, we're doing shevelva. It's your work. They will shut the
-plant down."</p>
-          <p>And they would take my card--your cards have four different places
+plant down."</p><p>And they would take my card--your cards have four different places
 you could cut it and put your clock number on it and put it with
 different work if you split your bundle. And my work was being split
 up back then. If they found bad work on other people what they were
 doing was taking their numbers out of the pockets of shevelva robes
 and putting my number in it. I got to where I marked my numbers with a
 certain kind of mark, a different one every day or cut the corner
-off. I fixed the card where they could not use it but one time.</p>
-          <p>I had a big mouth. And I wasn't afraid to stand up and tell Larry
+off. I fixed the card where they could not use it but one time.</p><p>I had a big mouth. And I wasn't afraid to stand up and tell Larry
 Windham in the meeting what I thought of him. I even put George Heard
 [director of industrial relations] on the spot. I came right out and
 asked him if we were going to be fired for our union activities
 whether or not it went in. "Say for instance it wasn't voted in," I
-said. "Are we going to be fired?"</p>
-          <p>He didn't answer.</p>
-          <p>So I spoke up even louder and asked him again. He didn't have any
+said. "Are we going to be fired?"</p><p>He didn't answer.</p><p>So I spoke up even louder and asked him again. He didn't have any
 choice but to answer, "No, the company cannot fire you for your union
 activities." I feel like putting him on the spot had a lot to do with
-me being put on the spot.</p>
-          <p>Sarah: I think I'd be right in saying they laid off the majority
-that were very outspoken and that supported the union.</p>
-          <p>Richard: But they made it a point not to mess with the committee
+me being put on the spot.</p><p>Sarah: I think I'd be right in saying they laid off the majority
+that were very outspoken and that supported the union.</p><p>Richard: But they made it a point not to mess with the committee
 members. They didn't push them around because they were scared they'd
-get kickback from the Labor Relations Board.</p>
-          <p>Wilda: But even during the campaign we did not get easy jobs. We
+get kickback from the Labor Relations Board.</p><p>Wilda: But even during the campaign we did not get easy jobs. We
 were in the plant. We took the worst. When we would leave at 3:30 in
 the afternoon our machines would be sewing fine. Go back at seven in
-the morning with trouble.</p>
-          <p>
+the morning with trouble.</p><p>
             <hi rend="bold">Sex, Race and Class</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Wives and/or mothers first, the women who organized Local 118
 felt strong obligations to their families. They experienced varying
 degrees of conflict as the result of their activities depending on the
@@ -1243,75 +1046,58 @@ amount</hi>
             <hi rend="bold">of support they received at home. The decision to organize
 Clarke Mills, in the face of traditional demands of work and family,
 was a major act of assertion. </hi>
-          </p>
-          <p>Emily: Women are at a disadvantage. They put in their eight hours a
+          </p><p>Emily: Women are at a disadvantage. They put in their eight hours a
 day--or ten--whatever is required of them. They go home; they cook
 supper; they tend to the kids. And they get ready for another day at
-the plant.</p>
-          <p>Rebecca: There are unions in this town--granted, they are the men's
+the plant.</p><p>Rebecca: There are unions in this town--granted, they are the men's
 jobs. And that's one thing l cannot understand because a lot of the
 women working at Vanity Fair had husbands who worked on union
 jobs. And yet they didn't want Vanity Fair organized. I really do not
 understand it. The men worked at union jobs and made good money. They
-paid union dues. The women had grown up with it.</p>
-          <p>Emily: It's got something to do with the men saying, "Hey, I want
-her home to cook cornbread."</p>
-          <p>Wilda: I don't think any of them liked to see us away from home but
+paid union dues. The women had grown up with it.</p><p>Emily: It's got something to do with the men saying, "Hey, I want
+her home to cook cornbread."</p><p>Wilda: I don't think any of them liked to see us away from home but
 it was something that we believed so strongly nobody would say, "Don't
-do it."</p>
-          <p>Sarah: We had to go out. Leave home at six o'clock in the
+do it."</p><p>Sarah: We had to go out. Leave home at six o'clock in the
 morning--I'd have to make a few stops on the way to work--and get back
-at midnight.</p>
-          <p>You would just work your heart out trying to see some sign of
+at midnight.</p><p>You would just work your heart out trying to see some sign of
 improvement and people would just be so ugly to you. You'd let all
 your work get behind at home. You'd go home and work real hard and go
 to bed. You couldn't sleep. You lay there thinking, "What have I said
-or what have I done to cause these people to feel like this?"</p>
-          <p>
+or what have I done to cause these people to feel like this?"</p><p>
             <hi rend="bold">Potentially divisive racial issues were a constant concern
 during the months before the election and afterwards during contract
 negotiations. The biracial shop committee tried to overcome workers'
 racial prejudice and build unity. On the overnight trips to
 out-of-town negotiation meetings, black and white committee members
 shared hotel rooms. </hi>
-          </p>
-          <p>Sarah: The first time I shared a room with Wilda Blackmon. After
+          </p><p>Sarah: The first time I shared a room with Wilda Blackmon. After
 that we decided everybody would share rooms, with one white and one
 black to the room. Wilda wore the name of "rigger lover" and they call
-me a "honky." You had to not hear that and keep on pushing.</p>
-          <p>
+me a "honky." You had to not hear that and keep on pushing.</p><p>
             <hi rend="bold">As the sir-month campaign drew to a close, the pressure at
 the workplace increased but so did the determination of the
 women. </hi>
-          </p>
-          <p>Sarah: I never thought about what it would be like if we lost until
+          </p><p>Sarah: I never thought about what it would be like if we lost until
 after the election. It never crossed my mind until the evening before
 the election. This girl was riding home with me. We were coming along
 Forest Avenue and I stopped at the IGA. I said, "Well, tomorrow is the
-big day."</p>
-          <p>She said, "You know we're going to lose."</p>
-          <p>And I stopped in the middle of the street and said, "Don't say
+big day."</p><p>She said, "You know we're going to lose."</p><p>And I stopped in the middle of the street and said, "Don't say
 that. Don't say that." I said, "If that's the way you talk get out of
-my car." And I was going to put her right out in the street.</p>
-          <p>And she said, "Well, we ought to think about that. It's going to be
+my car." And I was going to put her right out in the street.</p><p>And she said, "Well, we ought to think about that. It's going to be
 hard if you lose." But I never really thought about it. It never even
-crossed my mind.</p>
-          <p>
+crossed my mind.</p><p>
             <hi rend="bold">Of the approximately 530 workers eligible to vote on October
 29, 1976, 509 cast their votes: 260 in favor of union representation
 and 244 against the union. (Five votes were challenged and not
 included in the final tally.)</hi>
-          </p>
-          <p>Eileen: The National Labor Relations Board (NLRB) conducts the
+          </p><p>Eileen: The National Labor Relations Board (NLRB) conducts the
 election. You go into booths. You mark your ballot. You put nothing
 else on it--"yes" or "no." And you bring it out and drop it into the
-box.</p>
-          <p>There are usually two observers from the company and two from the
+box.</p><p>There are usually two observers from the company and two from the
 union and they stay with those ballots from the beginning until the
 count. When the ballots are counted, they are read "yes" and "no" and
 "yes" and "no." And you die a little bit every time you hear a
-"no."</p>
-          <p>
+"no."</p><p>
             <hi rend="bold">During meetings held in Atlanta in 1977 plant committee
 members Wilda Blackmon, Sarah Boykin, Rebecca Blackmon, Vevelyn
 Gilchrist and Eleanor Shaw, together with James Goldberg, legal
@@ -1322,108 +1108,86 @@ additional holiday, improved health and welfare benefits and job
 seniority. The contract also provided for a grievance procedure with
 arbitration, the first step in providing a more equitable balance of
 power between employer and employee.</hi>
-          </p>
-          <p>Sarah: Used to be if you didn't come in on Saturday when they'd
+          </p><p>Sarah: Used to be if you didn't come in on Saturday when they'd
 want you to work overtime, Monday morning you were in the office. And
 you possibly wouldn't have a job. After the contract, it was
-different. Overtime wasn't mandatory. You could say no.</p>
-          <p>
+different. Overtime wasn't mandatory. You could say no.</p><p>
             <hi rend="bold">As the first and only union in the Vanity Fair chain, Clarke
 Mills' Local 118 continued to face opposition from a management who
 sought to stop union activity from spreading to the remaining Vanity
 Fair sites. Company representatives filed objections with the National
 Labor Relations Board following the October, 1976, election. These
 objections were resolved in favor of the local.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">When contract negotiations were completed in 1977, Vanity
 Fair granted gains won by the union to its nonunion
 employees. </hi>
             <pb n="15"/>
-          </p>
-          <p>Wilda: In negotiations they'd say, "We can't do this because we've
+          </p><p>Wilda: In negotiations they'd say, "We can't do this because we've
 got so many workers. If we do it for you we're going to have to do it
 for them." So we knew from the beginning that we were really
-negotiating for every plant Vanity Fair owned.</p>
-          <p>
+negotiating for every plant Vanity Fair owned.</p><p>
             <hi rend="bold">In 1979 workers indicated that the local brought immediate,
 if modest, improvement to Clarke Mills. But at the same time they
 expressed the belief that Local 118's presence brought no fundamental
 change of attitude on the part of Vanity Fair and, in fact,
 exacerbated management attitudes and working conditions. </hi>
-          </p>
-          <p>Sarah: At first, when we went in, you could just feel the
-resentment.</p>
-          <p>Emily: They're still punishing the people for voting the union
+          </p><p>Sarah: At first, when we went in, you could just feel the
+resentment.</p><p>Emily: They're still punishing the people for voting the union
 in. In the past you could run a high unit hour over there. You'd work
 yourself to death but you'd have a fair paycheck. But they messed our
-work up.</p>
-          <p>They don't bring in good styles. They bring in the short running
+work up.</p><p>They don't bring in good styles. They bring in the short running
 styles where in the past the Jackson plant had a slip style that ran
 for years. Now they're putting in the six weeks runners. It takes six
-weeks to work the bugs out of it.</p>
-          <p>In Vanity Fair's case if they would quit spending all that money
+weeks to work the bugs out of it.</p><p>In Vanity Fair's case if they would quit spending all that money
 trying to fight it and put a little bit of it back into people's
 pockets they would have much happier employees. You have a lot of
-women there that's supporting their families.</p>
-          <p>Rebecca: The women are what made Vanity Fair the company it is. Not
+women there that's supporting their families.</p><p>Rebecca: The women are what made Vanity Fair the company it is. Not
 only the women doing the work--the actual work--but the women buying
 the products. And the company still will not recognize the fact that
 to keep the women working like they are they need to treat them
-better. They just have not accepted that.</p>
-          <p>
+better. They just have not accepted that.</p><p>
             <hi rend="bold">By the end of 1980, as Local 118's first contract neared
 expiration, several of the union's most experienced members no longer
 worked at Clarke Mills. Some had leg because of personal and family
 demands, a few had located better jobs in the Jackson area. The loss
 of these women made the local more vulnerable when a petition for
 decertification was filed. </hi>
-          </p>
-          <p>Wilda: Every time a good strong union member would leave you would
+          </p><p>Wilda: Every time a good strong union member would leave you would
 get a little bit of hack. "She couldn't take it no more. She had to
-go."</p>
-          <p>
+go."</p><p>
             <hi rend="bold">Emily Woodyard left because of the birth of her third child
 in 1978. </hi>
-          </p>
-          <p>Emily: I certainly had not planned on leaving. I had planned to
+          </p><p>Emily: I certainly had not planned on leaving. I had planned to
 stay there. It's a daily struggle with myself because I'm not over
-there actively involved.</p>
-          <p>Rebecca: My husband's health was not good. He became totally
+there actively involved.</p><p>Rebecca: My husband's health was not good. He became totally
 disabled. And there's no way one person working at this plant could
-support a family. So I knew I had to do something.</p>
-          <p>I left Vanity Fair voluntarily in 1979.1 really hated to leave the
+support a family. So I knew I had to do something.</p><p>I left Vanity Fair voluntarily in 1979.1 really hated to leave the
 plant because of the people, leaving the people. I went to work at a
 chemical plant making two-and-a-half times the salary that I had made,
 with a union, better working conditions, retirement, the whole
 works. I was there until 1983 when the plant cut production, leaving a
-lot of people out of work.</p>
-          <p>Sarah: I had an allergy problem. I was allergic to the fabric and
+lot of people out of work.</p><p>Sarah: I had an allergy problem. I was allergic to the fabric and
 dust at work. I was spending more than I made on medicine. I went back
 on two separate occasions. The last time I told them I would not be
-back.</p>
-          <p>
+back.</p><p>
             <hi rend="bold">Sarah Boykin subsequently took a position as a paralegal. She
 resigned as president of the local in the fall of 1980 and was
 succeeded by Wilda Blackmon. </hi>
-          </p>
-          <p>Sarah: A lot of times I've thought about it. I really hated I
+          </p><p>Sarah: A lot of times I've thought about it. I really hated I
 resigned. It was a hard thing to do. I felt sad. It came down to my
-health or the job and I chose my health.</p>
-          <p>On September 17, 1980, Local 118 and Vanity Fair entered came into
+health or the job and I chose my health.</p><p>On September 17, 1980, Local 118 and Vanity Fair entered came into
 a memorandum of agreement extending their contract, with
 modifications, through 1983. On that same date Paul Parden, sewing
 machine mechanic and an employee for over twelve years, petitioned the
-NLRB seeking a decertification election.</p>
-          <p>Parden obtained legal representation from The Center on National
+NLRB seeking a decertification election.</p><p>Parden obtained legal representation from The Center on National
 Labor Policy,; an organization that describes itself as "a non-profit,
 non-partisan charitable legal foundation that works through the courts
 to restore individual rights lost through abuse of union power."
 Headquartered in northern Virginia, the Center's list of clients has
 included the Stevens People and Friends for Freedom, a group of
 J.P. Stevens employees supportive of the company in its battle against
-the Amalgamated Clothing and Textile Workers.</p>
-          <p>Parden, who is white, continued to act as the leader of those
+the Amalgamated Clothing and Textile Workers.</p><p>Parden, who is white, continued to act as the leader of those
 workers who opposed the union. He argued that the union was not strong
 enough to do its members any good, although he and other mechanics
 benefited the most as the result of the local's first contract. There
@@ -1432,78 +1196,64 @@ decertified. Rumors persist that mechanics and supervisors were
 promised 
 <pb n="16"/>
 raises and/or bonuses in return for their opposition to the
-union.</p>
-          <p>Rebecca: The mechanics are a small group but at some time or
+union.</p><p>Rebecca: The mechanics are a small group but at some time or
 another they talked to almost every sewing machine operator in that
 plant. They have access to every examiner. There's no person in that
-plant that a mechanic cannot go talk to.</p>
-          <p>Wilda: I went to the first open meeting they had. Paul Parden and
+plant that a mechanic cannot go talk to.</p><p>Wilda: I went to the first open meeting they had. Paul Parden and
 Benny Harrison were there. The lawyer said he was free. It didn't cost
 Paul Parden anything to bring him down here. The lawyer said he was
 interested in getting the company out from under the union. He
 explained how to get the union out. To the best of my knowledge the
-only black women that went in were with me.</p>
-          <p>Emily: Benny Harrison was a preacher. A lot of women would just
-flock in behind him because he was.</p>
-          <p>
+only black women that went in were with me.</p><p>Emily: Benny Harrison was a preacher. A lot of women would just
+flock in behind him because he was.</p><p>
             <hi rend="bold">A decertification election was held in July of 1981. While
 initially impounded, the ballots were later counted and revealed that
 a majority were cast against the UH ion by a vote of 199 to 11 7. This
 election was set aside in April, 1982,followingan NLRB administrative
 hearing. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Testimony at the hearing called into question Vanity Fair's
 neutral position in the election campaign. The company first posted
 its "no solicitation, no distribution" notice in 1978. According to
 the new policy, employees were forbidden to solicit or distribute
 material on company time or company property. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Numerous breaches of the policy took place when collections
 were made for retirement, baby and birthday gifts. Moreover,
 Tupperware and Avon products were sold during work time with the
 knowledge of supervisors. In contrast, a sewing machine operator who
 passed out union buttons in the workplace in 1981 received an
 immediate reprimand from Joe Nichols, personnel supervisor. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Administrative Law Judge Huffon S. Brandon found that Vanity
 Fair applied its no solicitation policy to prohibit all union activity
 while taking no action to prohibit non-union solicitation. He ordered
 a new election for September 1982. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Time and Time Again</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">Although the union prevailed in the 1982administrative
 hearing it was not to be taken as encouraging sign. The local's
 ability to counter fears and to generate support had declined between
 1976and 1982. Union membership dropped to forty-five by the time of
 the NLRB-ordered election. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">On September 24, 1982, the vote went against the union 188 to
 134. </hi>
-          </p>
-          <p>Wilda: I don't know what the members expected. I think they wanted
+          </p><p>Wilda: I don't know what the members expected. I think they wanted
 a miracle--for the union to go in, all their jobs to get easier and
-their pay to get better. We never promised anything like that.</p>
-          <p>We had gained a contract that the company had to go by. We had
+their pay to get better. We never promised anything like that.</p><p>We had gained a contract that the company had to go by. We had
 several grievances that we went through satisfactorily. In fact we got
 back pay for some of the girls. We got standards lowered on some of
 them. But three-fourths of them would not even file a grievance on
 their standard when they couldn't reach it. And I couldn't go in the
-office and file a grievance for them.</p>
-          <p>
+office and file a grievance for them.</p><p>
             <hi rend="bold">Workers' fears were reflected in the fact that in all three
 elections there were many more union votes than union members. The
 company's campaign of intimidation never lost its effectiveness. A
 union dues checkoff provision in the local's contract meant that the
 identity of union supporters was readily known.</hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">The fears that Vanity Fair would close its doors rather than
 accept a union were intensified by the decline (from five-hundred to
 350) in the number of jobs at the plant. That many of these lost jobs
@@ -1513,28 +1263,23 @@ and committed leaders like Rebecca, Emily and Sarah who had devoted so
 much time and energy to the campaign. Their influence extended beyond
 the work place and into the community. Their absence was felt deeply
 by the union women who remained at Clarke Mills. </hi>
-          </p>
-          <p>
+          </p><p>
             <hi rend="bold">In addition, the ILG's attempts to broaden their base of
 support by organizing Vanity Fair plants in surrounding counties were
 unsuccessful. </hi>
-          </p>
-          <p>Emily: If we could have gotten the cutting plant in Monroeville we
+          </p><p>Emily: If we could have gotten the cutting plant in Monroeville we
 would have been on a roll. But when we lost the cutting plant it was
 downhill. We hung on but all those plants were watching us to see if
-we were going to survive.</p>
-          <p>
+we were going to survive.</p><p>
             <hi rend="bold">Wilda Blackmon was the last to leave Clarke Mills. She
 continued to work for a year following the 1982 decertification
 election. </hi>
-          </p>
-          <p>Wilda: I left last year the week before Easter, 1983. I came home
+          </p><p>Wilda: I left last year the week before Easter, 1983. I came home
 that afternoon--I can't remember if it was Monday or Tuesday--with
 chest pains that lasted through the night. I got up the next morning
 and went to the doctor. They sent me to Mobile and the hospital that
 day. I stayed in the hospital the rest of the week under heart
-monitor.</p>
-          <p>When I went back to work Joe Nichols put me in a training room on a
+monitor.</p><p>When I went back to work Joe Nichols put me in a training room on a
 mirror hemmer. That is the most difficult, nerve-wracking job there is
 to learn. It's finish hemming a garment. You have to hold the same
 width of fabric in the machine all the way around. That was the most
@@ -1542,171 +1287,124 @@ difficult job in the plant for an old operator to learn. Now for a new
 operator coming in off the street who has never worked on the machines
 before, it's easy to pick up. I worked on it one day. I went back to
 talk to Joe. I told him that no way could I take it right then. I got
-another doctor's leave and stayed off a couple of weeks.</p>
-          <p>When my leave was up I went in and said, "Joe, if you have
+another doctor's leave and stayed off a couple of weeks.</p><p>When my leave was up I went in and said, "Joe, if you have
 something in this plant that I'm capable of doing that I've already
 been trained on I'll be glad to come back to work." He said there was
 nothing else in that plant to be done except mirror hemming and I
-could "take it or leave it."</p>
-          <p>
+could "take it or leave it."</p><p>
             <hi rend="bold">Sarah Boykin, still employed as a paralegal, adopted a
 daughter in 1981 and is in the process of adopting a son. Emily
 Woodyard, now the mother of four, works for a grocery store
 chain. Rebecca Blackmon recently began a job as an office
 worker. Neither woman plans to return to Vanity Fair. </hi>
-          </p>
-          <p>Rebecca: I don't think I could sit there all day again-
+          </p><p>Rebecca: I don't think I could sit there all day again-
 <pb n="17"/>
-hour after hour--just sit there.</p>
-          <p>Emily: After being on the job I'm on now, I can say the same
-thing. I don't see any future at Vanity Fair.</p>
-          <p>Wilda: To me the job wasn't the most important part of my life. But
+hour after hour--just sit there.</p><p>Emily: After being on the job I'm on now, I can say the same
+thing. I don't see any future at Vanity Fair.</p><p>Wilda: To me the job wasn't the most important part of my life. But
 to a lot of them it was. It was their life. They will admit that real
 quick. I can't see them enjoying the work, but some say they
-do. Needing the money is more.</p>
-          <p>Sarah: I get angry. All the days and nights I left my family and
+do. Needing the money is more.</p><p>Sarah: I get angry. All the days and nights I left my family and
 this is where it ended. What did I really gain? I think about
-that. Did I help or hurt others? I don't know.</p>
-          <p>Rebecca: I have mixed feelings. Sometimes I have trouble dealing
+that. Did I help or hurt others? I don't know.</p><p>Rebecca: I have mixed feelings. Sometimes I have trouble dealing
 with some aspects of it. I really do. Because we really gave a lot of
-ourselves. From leaving the kids at home and all of that.</p>
-          <p>We really believed a union would help Vanity Fair. I never thought
+ourselves. From leaving the kids at home and all of that.</p><p>We really believed a union would help Vanity Fair. I never thought
 much about what the consequences would be. I never thought I was
-wrong. I still don't think I was wrong.</p>
-          <p>If you don't take care of yourself nobody else will do it for
-you. And that's a hard lesson to learn the way we did.</p>
-          <p>Emily: I believed once we got a union in it would stay.</p>
-          <p>Rebecca: I did too,</p>
-          <p>Emily: I did not know the committee was going to go in different
-directions.</p>
-          <p>Rebecca: I don't think anybody did.</p>
-          <p>Wilda: I don't regret any of the things I've done. I'm happy with
+wrong. I still don't think I was wrong.</p><p>If you don't take care of yourself nobody else will do it for
+you. And that's a hard lesson to learn the way we did.</p><p>Emily: I believed once we got a union in it would stay.</p><p>Rebecca: I did too,</p><p>Emily: I did not know the committee was going to go in different
+directions.</p><p>Rebecca: I don't think anybody did.</p><p>Wilda: I don't regret any of the things I've done. I'm happy with
 my life as it is now. That's all behind me. It was an experience for
 me to go through--a learning experience. It taught me self
 confidence. That I was capable of being an equal to any of the people
 in the plant. The supervisors were not above me--not even the plant
 manager or personnel manager. I'm not saying our education was the
-same, but education doesn't always make a smart person.</p>
-          <p>Emily: You can get a union voted in. Just because you get the
+same, but education doesn't always make a smart person.</p><p>Emily: You can get a union voted in. Just because you get the
 contract signed, it does not stop there. You've got to educate
 people. Whether it's to get them to a union meeting, which is
 practically impossible, or whether it's waiting 'til their feathers
 lay down and you can talk to them. It won't happen overnight. It won't
 happen in six months. It won't happen in a year. All the company had
-to do was wait long enough.</p>
-          <p>Sarah: It happened once. Even though it's no longer there, it
-happened after all. That's why I know it can happen again.</p>
-          <div3 id="sc06-5025" type="About">
+to do was wait long enough.</p><p>Sarah: It happened once. Even though it's no longer there, it
+happened after all. That's why I know it can happen again.</p><div3 id="sc06-5025" type="About">
             <p>Paula Mclendon is a native of Jackson, Alabama who now
 lives in Birmingham.</p>
-          </div3>
-        </div2>
-        <div2 id="sc06-5006" n="5" type="Article">
-          <head>The Union Comes to Dooly County</head>
-          <byline>By <docAuthor><name reg="Ransom, Dave" type="person">Dave Ransom</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 17-18</docDate>
-          <p>"We made history!" rejoiced Bettie Lloyd, after she and the
+          </div3></div2>
+        <div2><head>The Union Comes to Dooly County</head><byline>By <docAuthor><name reg="Ransom, Dave" type="person">Dave Ransom</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 17-18</docDate><bibl> </bibl><p>"We made history!" rejoiced Bettie Lloyd, after she and the
 forty-seven other workers at Rosewood Nursing Home in Byromville,
 Georgia--predominantly black, mostly women--voted this summer
-two-to-one to unionize.</p>
-          <p>She was right. By voting to become a chapter in SEIU Local 579,
+two-to-one to unionize.</p><p>She was right. By voting to become a chapter in SEIU Local 579,
 they were leading the way in rural south Georgia, where employers have
 made it clear that their distaste for unions is as strong as their
-appetite for low wages.</p>
-          <p>Byromville is a small town in Dooly County, a farm county of some
+appetite for low wages.</p><p>Byromville is a small town in Dooly County, a farm county of some
 eleven thousand people. The town's main industries are a cotton gin, a
-fertilizer plant, a packing house--and the nursing home.</p>
-          <p>When local 579 staff members from Atlanta leafletted workers at the
+fertilizer plant, a packing house--and the nursing home.</p><p>When local 579 staff members from Atlanta leafletted workers at the
 nursing home last February, they got a flurry of interested phone
-calls.</p>
-          <p>The Rosewood workers described arbitrary firings, low staffing,
+calls.</p><p>The Rosewood workers described arbitrary firings, low staffing,
 lack of respect, and incredibly low wages, remembers Peter French, the
-staff member who helped them organize.</p>
-          <p>The pay at Rosewood is the lowest of the three homes operated by
+staff member who helped them organize.</p><p>The pay at Rosewood is the lowest of the three homes operated by
 Beverly Enterprises that Local 579 has organized in Georgia. Workers
 with ten or fifteen years at the home are making less than $3.65 an
-hour, says French. "We're talking long-term poverty."</p>
-          <p>Since many of the women have children to feed, and are sometimes
+hour, says French. "We're talking long-term poverty."</p><p>Since many of the women have children to feed, and are sometimes
 alone in doing so, they often must hold second jobs. Some families
 pick fruit or work in the packing sheds during peach season "to make
-ends meet."</p>
-          <p>A particularly difficult supervisor made things worse. "We figured
+ends meet."</p><p>A particularly difficult supervisor made things worse. "We figured
 we had to get something in to help us out," says Jessie Bell Spivey,
-now chief union steward at the home.</p>
-          <p>But home workers were equally concerned about the patients. There
+now chief union steward at the home.</p><p>But home workers were equally concerned about the patients. There
 wasn't enough linen, they told French. Not enough clothing. Not enough
-food--breakfasts without eggs, dinners without meat.</p>
-          <p>"I enjoy working with old people--they really need us," says
+food--breakfasts without eggs, dinners without meat.</p><p>"I enjoy working with old people--they really need us," says
 Mrs. Spivey, a fourteen-year veteran at the home who began working the
 night shift years ago so she could get her children off to school in
-the mornings.</p>
-          <p>But the home's administration, she said, stood between the workers
-and doing a good job.</p>
-          <p>The patients at Rosewood come from all across Georgia. But many are
+the mornings.</p><p>But the home's administration, she said, stood between the workers
+and doing a good job.</p><p>The patients at Rosewood come from all across Georgia. But many are
 from the small towns in Dooly County, and some have been members of
 the congregations of the churches that home workers attend. Beverly
 gets the lion's share of its income from federal Medicaid payments for
 these people's care, including high ax-executive salaries and a good
-profit.</p>
-          <p>In effect, the good people of Dooly County are paying federal
+profit.</p><p>In effect, the good people of Dooly County are paying federal
 income taxes to support their old folks--only to 
 <pb n="18"/>
 have Beverly skim off
 their profits, leaving the old folks with meatless dinners and paying
-poverty wages to the people who take care of them.</p>
-          <p>When Rosewood workers began looking at the union as an answer to
+poverty wages to the people who take care of them.</p><p>When Rosewood workers began looking at the union as an answer to
 their problems, the home's management didn't take kindly to it. Twice
 administrators drove slowly by union meetings--held at one worker's
 house trailer on a dead-end road. And they began giving supporters a
-hard time on the job.</p>
-          <p>When the workers' organizing committee began handing out leaflets,
+hard time on the job.</p><p>When the workers' organizing committee began handing out leaflets,
 Jessie Bell Spivey was one of the first to stand by the door with
 them. Two days later the home found a pretext to fire her. She thinks
 they believed she was the "main, head leader" and that getting rid of
 her would throw fear into other supporters and weaken the the
-drive.</p>
-          <p>"But they didn't give up," she says, proudly, "They got stronger."
+drive.</p><p>"But they didn't give up," she says, proudly, "They got stronger."
 The firing just strengthened their conviction that management was
 going to keep messing with them until they stood up against them,
-united.</p>
-          <p>Spivey is active in her church and the local women's club as well
+united.</p><p>Spivey is active in her church and the local women's club as well
 as the Dooly County chapter of the NAACP. Her husband is Byromville's
 only black city council member. She is known to be a good,
 conscientious worker. So her firing also strengthened community
-support for the Rosewood workers, from whites as well as blacks.</p>
-          <p>Support for the workers' drive to organize was shown at a meeting
+support for the Rosewood workers, from whites as well as blacks.</p><p>Support for the workers' drive to organize was shown at a meeting
 they held at a local church. With hymns and prayers they sought the
 path to justice, rising to recount their mistreatment and their
-grievances.</p>
-          <p>George Winters, the principal of the local grade school, who
+grievances.</p><p>George Winters, the principal of the local grade school, who
 remembered working as an orderly at the home, was there to give his
 support. The Rev. James Orange of the Southern Christian Leadership
 Conference(SCLC) reminded them that south Georgia workers need to
 stick together more than anywhere else because of the animosity
-towards blacks getting organized.</p>
-          <p>The ministers of two local Baptist churches and Roscoe Keaton, head
-of the county NAACP chapter, also pledged their support.</p>
-          <p>Casting their ballots secretly in an election supervised by federal
+towards blacks getting organized.</p><p>The ministers of two local Baptist churches and Roscoe Keaton, head
+of the county NAACP chapter, also pledged their support.</p><p>Casting their ballots secretly in an election supervised by federal
 authorities, the Rosewood workers--nurse's aides, orderlies, dietary,
 laundry, and maintenance workers--voted to join the union thirty-one
-to fifteen. Then they held a joyous victory celebration.</p>
-          <p>Additionally, Beverly investigated and reinstated Jessie Bell
+to fifteen. Then they held a joyous victory celebration.</p><p>Additionally, Beverly investigated and reinstated Jessie Bell
 Spivey, with back pay. Despite their vote, many workers didn't believe
 it would actually happen. "When I went back, people acted like they
 were crazy," says Mrs. Spivey. That's when she said to herself,
-"There's something to it, I know there's something to it."</p>
-          <p>For Rosewood workers, voting for the union is only the first step
+"There's something to it, I know there's something to it."</p><p>For Rosewood workers, voting for the union is only the first step
 towards achieving that "something." Next--and perhaps even more
 difficult--is winning a legal contract with Beverly that outlines
-wages, benefits, working conditions.</p>
-          <p>But Local 579 President Herman Lewis, who credits a "very strong"
+wages, benefits, working conditions.</p><p>But Local 579 President Herman Lewis, who credits a "very strong"
 organizing committee with the election win, thinks that their strength
-can also win a contract.</p>
-          <p>Tell Beverly one thing, says Mrs. Spivey: "Do unto others as you
+can also win a contract.</p><p>Tell Beverly one thing, says Mrs. Spivey: "Do unto others as you
 wish them to do unto you." If management can live by that rule, she
 says, they will earn the goodwill of their workers and all--including
-patients--will benefit.</p>
-          <div3 id="sc06-5026" type="About">
+patients--will benefit.</p><div3 id="sc06-5026" type="About">
             <p>Dave Ransom is editor of <title>Service
 Employee</title>.</p>
             <p>Editor's note: The two-year long campaign of the Service Employees
@@ -1725,14 +1423,8 @@ bolstered efforts in the North and West where the SEIU already had
 many strong locals. In addition, an organizing campaign is underway in
 the South, where Beverly Enterprises has dozens of nursing
 homes.</p>
-          </div3>
-        </div2>
-        <div2 id="sc06-5007" n="6" type="Article">
-          <head>Tending Our Gardens</head>
-          <byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline>
-          <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 18-24</docDate>
-          <p>I.</p>
-          <p>My grandparents grew two kinds of sweet potatoes in
+          </div3></div2>
+        <div2><head>Tending Our Gardens</head><byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline><docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 18-24</docDate><bibl> </bibl><p>I.</p><p>My grandparents grew two kinds of sweet potatoes in
 back of their farmhouse in central North Carolina. The main staple was
 the orange-skinned type, so much like the color of the soil that you
 had to look carefully not to miss them in the field after plowing them
@@ -1750,8 +1442,7 @@ of South America; the second variety was a yam, first domesticated a
 world apart in West Africa or Asia. Both had come to North America a
 bit earlier than the time that my Pennsylvania Dutch forbearers,
 pushed out of the Rhineland valleys, were moving onto the promising
-new ground of Pennsylvania and later North Carolina.</p>
-          <p>Large scale agribusiness today offers a simpler vision of
+new ground of Pennsylvania and later North Carolina.</p><p>Large scale agribusiness today offers a simpler vision of
 agriculture in the South. The fields that grow soybeans, cotton and
 corn are as wide as the genetic base of commercial crop seedstocks is
 narrow. Yet back of many farmhouses 
@@ -1762,8 +1453,7 @@ gardens often exhibit diverse horticultural and ethnic traditions in
 Southern gardening. One of the most persistent as well as the most
 hidden of these historical connections has to do with the
 Afro-Americans and their gardens in the colonial Caribbean and
-Southeast.</p>
-          <p>The obscurity of this tradition which is renewed with every spring
+Southeast.</p><p>The obscurity of this tradition which is renewed with every spring
 planting of okra, milo, eggplant, peanuts or yams is partly due to the
 fact that its earliest practitioners were Caribbean black slaves and
 native Americans of the same region. The colonial Caribbean was a
@@ -1779,8 +1469,7 @@ into the South. The openness of colonial farmers to all new crops
 probably made some of the strange "provision garden" plants seem less
 unusual than they appear to be today, when matched against the
 cool-weather- and basic-soil-loving favorites of organic gardening
-manuals such as <title>Crockett's Victory Garden.</title></p>
-          <p>However, these migrants were also able to move north and become
+manuals such as <title>Crockett's Victory Garden.</title></p><p>However, these migrants were also able to move north and become
 assimilated into the diet and gardens of the English and German
 settlers of the Southern backcountry because of an ecological
 compatibility between Africa and the warmer and wetter parts of the
@@ -1792,8 +1481,7 @@ Africa and South America. The same closeness extends to plants, and
 every summer these tropical crops, whether African or new-world
 analogues of African plants, break through the soil in the American
 South, retelling in many small harvests the achievements of the
-AfroAmerican style of gardening.</p>
-          <p>When the African plants first appeared in the new world, their
+AfroAmerican style of gardening.</p><p>When the African plants first appeared in the new world, their
 importers were Afro-American slaves, interested in the reform of
 plantation agriculture on their own terms. When tall grass with tight
 clusters of glossy black seeds called "guinea corn" first came to the
@@ -1813,8 +1501,7 @@ region had been disappearing, pushed off their islands forever by
 enslavement, disease, and psychological shock and depression. African
 blacks, first transported as replacements, laborers substituted for
 this dying people, thus became the ironic sharers in a new world
-planting tradition.</p>
-          <p>More often, blacks in the Caribbean or the American Southeast were
+planting tradition.</p><p>More often, blacks in the Caribbean or the American Southeast were
 left on their own in finding their way with the plants and animals
 upon which they were partly forced to rely. Sometimes a kind of
 botanical dead reckoning guided them, with identifications made on the
@@ -1833,8 +1520,7 @@ aside: "All parts of the tree have a rank if not fetid smell; nor is
 the fruit relished but by a very few, except negroes." This interest
 was more than a matter of taste, since the African kin of the paw-paw
 had important medical uses in the homeland of blacks transported to
-the new world.</p>
-          <p>Identifications were not always on first sight, and an older
+the new world.</p><p>Identifications were not always on first sight, and an older
 African botanical vocabulary often enabled Africans to read their new
 world better and thus to estimate the help it would give them in their
 radically changed lives. Part of this ability to translate between
@@ -1845,8 +1531,7 @@ subtropical plants which, though distributed from continent to
 continent, are all similar in appearance. The paw paw patches growing
 along the rich bottomland of muddy Piedmont creeks are members of the
 custard apple family which has outliers across the tropics, in Asia as
-well as in Africa.</p>
-          <p>Another set of plants provides a silent commentary on this
+well as in Africa.</p><p>Another set of plants provides a silent commentary on this
 exchange. "Elephant ears" are familiar today as plants lined up along
 the edge of main street porches along with pots of ferns, their
 utility as a food crop long forgotten. The term "elephant ears"
@@ -1858,8 +1543,7 @@ across the Atlantic, dasheen was probably grown interchangeably with
 South American root crops such as manioc or cassava, and tanniers. In
 fact, all of these plants were aroids, resembling each other in flower
 shape and growth form, even though originating in widely separate but
-often tropical regions.</p>
-          <p>The white yam grown in my grandparents' garden, much like the
+often tropical regions.</p><p>The white yam grown in my grandparents' garden, much like the
 dasheen, arrived by an earlier and equally confused route from Asia to
 Africa and, eventually, to America. By the time that this yam variety
 had been successfully naturalized in Africa and had taken its place as
@@ -1878,9 +1562,7 @@ world. In this way, the millets and yams that were carried to the new
 world and traded within it by Africans were more than a dietary
 supplement. These crops allowed AfroAmericans to reject their temporal
 white master's bread, to grow their own food, in what must have seemed
-symbolic "victory gardens."</p>
-          <p>II</p>
-          <p>Not only the plants that grew there, but also the manner of tending
+symbolic "victory gardens."</p><p>II</p><p>Not only the plants that grew there, but also the manner of tending
 the new-world AfroAmerican garden set it apart. To the eye of the
 former master, the garden of "Daddy Jupiter," his former slave on the
 nineteenth-century Sea Island coast of Georgia, looked unruly and
@@ -1893,8 +1575,7 @@ image of how a garden should look and function, no matter where it was
 rooted. Plots resembling Daddy Jupiter's nineteenth-century garden,
 still grow in the American Southeast (although the tradition' is
 fading) and flourish farther south, particularly in the Caribbean.
-<pb n="21"/></p>
-          <p>Anthropologists working on intensive gardening practices today have
+<pb n="21"/></p><p>Anthropologists working on intensive gardening practices today have
 abstracted the technical reasons for the common success and widespread
 occurrence of this style of cultivation. The "comingled luxuriance" of
 Daddy Jupiter's garden partly owed its productivity to the way in
@@ -1913,8 +1594,7 @@ logic of this pattern of food growing is not confined to the garden
 plot, but will also work on a larger scale. Whether in gardens or in
 farm fields, tightening the land's hold on potassium, phosphorus, or
 nitrogen provides a kind of inexpensive crop insurance for succeeding
-harvests.</p>
-          <p>Very often American scientists have probed nutrient and other
+harvests.</p><p>Very often American scientists have probed nutrient and other
 efficiencies of small-scale agriculture in order to seek food-growing
 alternatives for supporting the increasing populations of the
 "developing world." Ironically, the impetus for their work has often
@@ -1925,8 +1605,7 @@ direct the same kind of attention to our self-development that we are
 willing to offer abroad to a "developing world" that always seems
 outside our borders. An effective effort at agricultural change at
 home will, however, require remembering the lessons and traditions of
-the past and applying them to our future.</p>
-          <p>Just to the south, in the Caribbean, a historical crisis in
+the past and applying them to our future.</p><p>Just to the south, in the Caribbean, a historical crisis in
 agriculture occurred many years ago which prefigures some of the
 change Southern agriculture has faced and may face again. The sugar
 plantations in the Caribbean pioneered an industrial style of farm
@@ -1937,19 +1616,16 @@ insect and plant diseases, and soil infertility, once they had taken
 hold, worked together to cause a constant drain against the land. In
 later years the economic vigor of these operations lagged as well, in
 spite of the involuntary subsidy drawn from the labor and farming
-skills of black slaves.</p>
-          <p>When the system faltered for the final time, blacks were left to
+skills of black slaves.</p><p>When the system faltered for the final time, blacks were left to
 apply their horticultural skills to their own ground, and the
 intensively cultivated garden plots that resulted became a lasting and
-reliable survival tool amid the poverty of postcolonial times.</p>
-          <p>The end of the plantation system in the American South was not
+reliable survival tool amid the poverty of postcolonial times.</p><p>The end of the plantation system in the American South was not
 succeeded by the integrated world of small farmers that some reformers
 had envisioned or, as happened in the Caribbean, by a peasant society
 granted autonomy by poverty, isolation, and resistance. Instead, the
 scale and manner of cultivation that marked pre-war times in the South
 carried over into the postwar period, bringing with it many of the
-problems that still shadow Southern agriculture today.</p>
-          <p>The major theme of the region's agriculture continued to be a
+problems that still shadow Southern agriculture today.</p><p>The major theme of the region's agriculture continued to be a
 simple one of dependence on a handful of major cash crops. The amount
 of land turned over, fresh and damp, for planting each spring in the
 South, thus depended and has continued to depend on off-farm factors
@@ -1963,8 +1639,7 @@ land, millions of acres in the South, abandoned and reclaimed by old
 field-grown pines, slowly pinched down the horizon with green. The
 remarkable scale of abandonment is reflected by the ninety percent
 share held by harvested "old field" pine in the Southern softwood
-market today.</p>
-          <p>During the boom times that followed World War 11, the cycle
+market today.</p><p>During the boom times that followed World War 11, the cycle
 reversed itself temporarily, and in order to accommodate a ten-fold
 increase in Southern soybean acreage by the mid-seventies, new fields
 were opened in the former 
@@ -1979,8 +1654,7 @@ pampa rangeland in soybeans, today, and is rapidly increasing the
 acreage devoted to this crop. Other potential commodity competitors,
 such as Brazilian-produced palm oil, have appeared on the horizon as
 an effective substitute for soybean oil as well, and the future for
-the latest Southern staple crop is less than bright.</p>
-          <p>Whether in Argentina or Missouri, the land itself always pays part
+the latest Southern staple crop is less than bright.</p><p>Whether in Argentina or Missouri, the land itself always pays part
 of the cost of one- or two-crop dependency in agriculture. The most
 important damage comes from simple physical phenomena such as
 erosion. Today forty percent of Southern cropland is undergoing a rate
@@ -2006,8 +1680,7 @@ erosion may be exerting a downward pull on production that will become
 stronger as soil depth and structure is further damaged. Yet these
 explanations could be read alternately as symptoms of the same
 underlying problem, of a Southern agriculture showing signs of nearing
-the limits of its productivity.</p>
-          <p>The newest strategy in Southern farming, called no-till or
+the limits of its productivity.</p><p>The newest strategy in Southern farming, called no-till or
 conservation tillage, is working only to hold onto the yield advances
 in Southern agriculture, instead of dramatically forcing up the yield
 of crops. Under "no till" a crop is planted in a field in which winter
@@ -2018,8 +1691,7 @@ increase in Southern soybean acreage, in part because the method
 reduces the cost of double cropping, or taking two crops per year off
 the same piece of land. As we have seen, soybeans are naturally
 adapted by their fast growth and maturation to this agricultural
-strategy.</p>
-          <p>Although "no till" and soybeans (and corn) are natural partners,
+strategy.</p><p>Although "no till" and soybeans (and corn) are natural partners,
 the "no till" system has also been aggressively marketed from two very
 different quarters. On the one hand, chemical companies have been in
 the fore. The "Southeastern No-Tillage Conferences" have been partly
@@ -2031,15 +1703,13 @@ stemming from the accidents with its very toxic product.) The second,
 and more objective voice proposing the expanded use of this new method
 has come from agronomists and soil scientists, who because of their
 intense concern about soil erosion put the stress on the term
-"conservation tillage" rather than "no till."</p>
-          <p>In the final analysis, however, "no till" and the pattern of
+"conservation tillage" rather than "no till."</p><p>In the final analysis, however, "no till" and the pattern of
 conventional tillage practiced over the past two decades in the South
 are surprisingly similar: both make use of nearly equivalent amounts
 of chemical herbicides and fertilizers to sustain high yields, and
 both are adapted closely to an export-based staple crop style of
 farming to which small and large producers are increasingly tied.
-<pb n="23"/></p>
-          <p>The pattern of consolidation and increase in the scale of
+<pb n="23"/></p><p>The pattern of consolidation and increase in the scale of
 agriculture today is accompanied by a technology powerful enough to
 temporarily screen out small but real difficulties that may make the
 future of agriculture in the South more uncertain than it promises to
@@ -2061,8 +1731,7 @@ times and greater possibility of damage. Both new technologies and new
 farm programs are tools that foster a kind of optimism that problems
 can be calculated and managed away. Yet if the agricultural past and
 present of the South are any guide, the future will be accompanied by
-a high level of economic and environmental uncertainty.</p>
-          <p>One trend that adds appreciably to this trend toward instability is
+a high level of economic and environmental uncertainty.</p><p>One trend that adds appreciably to this trend toward instability is
 the increasing scale and corporate sponsorship of Southern
 farming. The capitalization of Southern agriculture by banks,
 insurance companies, and individual investors increases the problem of
@@ -2080,8 +1749,7 @@ achieved by large-scale farmers only through using new mechanical and
 chemical farming methods such as "no till" cultivation. In this way
 much of the intensification that is pushing the capacity of the
 Southern soil to a kind of natural limit may, in fact, be a surplus
-product.</p>
-          <p>Southern agriculture today is a game of limits, of shrinking
+product.</p><p>Southern agriculture today is a game of limits, of shrinking
 margins of investment and crop yield, of the health of the land and
 with it the long-term security of food production. The problem down
 the line is more than one of credit and chemicals. Food crops must be
@@ -2091,9 +1759,7 @@ instruments of cultivation. The problem is therefore one of social
 goals, of, in Wendell Berry's phrase, a "culture and agriculture"
 challenged to break out of a dependent past in order to create a
 farming economy that can be stable over generations rather than riding
-the old roller coaster of uncertainty and jeopardy.</p>
-          <p>III</p>
-          <p>Among the lessons that the Southern past offers is that there is
+the old roller coaster of uncertainty and jeopardy.</p><p>III</p><p>Among the lessons that the Southern past offers is that there is
 time enough for change. The Southern land, which has shown resilience
 in the face of centuries of damage, allows this time, and remembering
 the diverse cultural terrain of the South can open up new and needed
@@ -2102,8 +1768,7 @@ approaches to growing food in gardens and fields are among the
 Southern traditions of ethnic cultivation that can teach their own
 lessons. The Afro-American way of gardening in particular seems to
 have a special message concerning the value of caution in
-agriculture.</p>
-          <p>In contrast to Southern agriculture today, the Afro-American logic
+agriculture.</p><p>In contrast to Southern agriculture today, the Afro-American logic
 of cultivation has been deeply conservative. In the coastal South and
 Caribbean, long after the business of the plantation was defunct,
 blacks tilled their gardens and survived. And in this sense the
@@ -2111,8 +1776,7 @@ Afro-American gardening style deserves to be called a tradition,
 since, like all 
 <pb n="24"/>
 traditions, it has an active meaning and application
-for the present.</p>
-          <p>The Afro-American cultivation tradition offers a way toward
+for the present.</p><p>The Afro-American cultivation tradition offers a way toward
 changing Southern agriculture in a practical as well as a
 philosophical sense. Its ecological logic, tested and sound, can be
 applied to planting crops in fields as well as gardens. Stressing
@@ -2121,8 +1785,7 @@ open up some acreage now growing soybeans at a loss to crop mixtures
 designed to allow both farmers and fields to benefit. And though not
 incompatible with chemicals, machines, and technology, its
 conservative nature can discipline change in farming in order to avoid
-stumbling into costly agricultural blind alleys.</p>
-          <p>Yet the overriding importance of this among other farming
+stumbling into costly agricultural blind alleys.</p><p>Yet the overriding importance of this among other farming
 traditions in the South is that it was largely built out of a
 combination of desperately held tradition and improvisation as
 AfroAmerican slaves faced a new world forced upon them. Thus, it can
@@ -2146,13 +1809,11 @@ challenging new world flexibly and positively is already in
 place. Like the Afro-Americans on Jamaica who "took care to preserve
 and propagate such vegetables as grew in their own country, to use
 them as they saw occasion," we should' not forget to tend our own past
-in looking toward our region's agricultural future.</p>
-          <div3 id="sc06-5027" type="About">
+in looking toward our region's agricultural future.</p><div3 id="sc06-5027" type="About">
             <p>Tom Hatley lives in Durham, North Carolina. His article
 "Forestry and Equity" appeared in <title>Southern Changes</title> for
 July/August, 1983.</p>
-          </div3>
-        </div2>
+          </div3></div2>
       </div1>
     </body>
   </text>
