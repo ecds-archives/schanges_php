@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "./schanges-tei.dtd">
-<TEI.2 id="sc08-41204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc08-41204">
   <teiHeader id="sc08-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -72,17 +70,12 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 8, Number 4, 1986</head>
         <p><title>Southern Changes</title>.  Volume 8, Number 4,
 	       <date value="1986-10">1986</date></p>
-        <div2 id="sc08-4002" n="1" type="Article">
-          <head>The Climate for Workers in the U.S.:  Summary of a Study by the
+        <div2><head>The Climate for Workers in the U.S.:  Summary of a Study by the
 Southern Labor Institute. A Special Project of the Southern Regional
-Council</head>
-          <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
-          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate>
-          <p>The challenge facing the South is to create jobs with the income
+Council</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate><bibl> </bibl><p>The challenge facing the South is to create jobs with the income
 and benefits needed to bring the region's workers above the poverty
 level - not just new jobs, but jobs that will significantly improve
-the standard of living for people who work full-time, year-round.</p>
-          <p>"THE 'BUSINESS climate' and 'ideal places to live' are regularly
+the standard of living for people who work full-time, year-round.</p><p>"THE 'BUSINESS climate' and 'ideal places to live' are regularly
 assessed, but there have rarely been indexes of good places to
 work. Indeed, the criteria used by most business climate reports
 assume that low wages, limited unemployment compensation and worker
@@ -91,8 +84,7 @@ protection, and weak unions, are good
 for business. This is a strange
 assumption for people who also profess to believe that people are our
 most important asset.  <title>The Climate for Workers</title> report
-demonstrates the error in this traditional assumption.</p>
-          <p>"To attract business by maintaining and encouraging low wages and
+demonstrates the error in this traditional assumption.</p><p>"To attract business by maintaining and encouraging low wages and
 weak worker protection was always shortsighted, but in an
 internationalized information world it is ludicrous.  American
 companies cannot compete in the international arena on the basis of
@@ -113,30 +105,22 @@ leaders recognize the futility of the all-too-frequent strategy of
 attempting to compete by depressing wages.  Attention must be focused
 on other aspects of human resource development, that also are
 important in improving workers' welfare and therefore the quality of
-life in any state.</p>
-          <p>"This report puts job growth in the Southeast into proper
+life in any state.</p><p>"This report puts job growth in the Southeast into proper
 perspective and evaluates the overall benefits of work.  The climate
 for workers in the sunny South is rather chilly.  Those who believe
 that 'the Southern economy no longer exists' or that 'the South has
 thrown off its history,' should consider the findings of <title>The
-Climate for Workers</title>.</p>
-          <p>"As with any new indexing undertaking, <title>The Climate for
+Climate for Workers</title>.</p><p>"As with any new indexing undertaking, <title>The Climate for
 Workers</title> has technical weaknesses.  However, its thrust is
 sound and it should initiate discussion to improve technical quality
-in future reports."</p>
-          <div3 id="sc08-4022" type="About">
+in future reports."</p><div3 id="sc08-4022" type="About">
             <p>Dr. Ray Marshall, former U. S. Secretary of Labor, holds
 the Audre and Bernard Rapoport Chair in Economics and Public Affairs
 at the LBJ School of Public Affairs, University of Texas at Austin; is
 Board Chairman of the Southern Labor Institute; and Vice President of
 the Southern Regional Council.</p>
-          </div3>
-        </div2>
-        <div2 id="sc08-3003" n="2" type="Article">
-          <head>The Climate for Workers: Where Does the South Stand?</head>
-          <byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline>
-          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate>
-          <div3 id="sc08-3004" type="Section">
+          </div3></div2>
+        <div2><head>The Climate for Workers: Where Does the South Stand?</head><byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate><bibl> </bibl><div3 id="sc08-3004" type="Section">
             <p>We believe the true test of economic conditions is how working
 people--the vast majority of citizens--fare in these times of economic
 change. This report examines how the economic climates in the states
@@ -243,8 +227,7 @@ Mississippi and South Carolina. The eleven worst states, all with
 death rates of thirteen or higher, include six more states from the
 Southeast.</p>
             <p>These and other study results are detailed in this report.</p>
-          </div3>
-          <div3 id="sc08-3005" type="Section">
+          </div3><div3 id="sc08-3005" type="Section">
             <head>FINDINGS:</head>
             <div4 id="sc08-3006" type="Part">
               <head>Jobs and Income</head>
@@ -1167,8 +1150,7 @@ remaining states are in the Plains region: North and South Dakota and
 Kansas. The others are Arizona, Oklahoma, Texas, New Hampshire and
 Utah.</p>
             </div4>
-          </div3>
-          <div3 id="sc08-3014" type="Section">
+          </div3><div3 id="sc08-3014" type="Section">
             <head>CONCLUSIONS:</head>
             <p>While this report began with a number of conclusions to be drawn
 from some thirty-three indicators of the quality of working life, the
@@ -1257,8 +1239,7 @@ the early 1960s. Given the climate for workers in the region, there
 are few chances indeed for these groups to help themselves. In the
 absence of policies and programs that directly address their needs,
 there is little hope for help from other sources.</p>
-          </div3>
-          <div3 id="sc08-3023" type="About">
+          </div3><div3 id="sc08-3023" type="About">
             <p>Kenny Johnson is the director of the Southern Labor
 Institute, a project of the Southern Regional Council. A native of
 Louisiana, he is a former regional director of the National Rural
@@ -1266,25 +1247,18 @@ Center. Johnson joined the Council after having served as field
 director of the Voter Education Project. Marilyn Scurlock is a staff
 member of the Southern Labor Institute and a former staffer of the
 Southern Office of the National Rural Center.</p>
-          </div3>
-        </div2>
-        <div2 id="sc08-4015" n="4" type="Article">
-          <head>Labor Gives to Make Saturn Work</head>
-          <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline>
-          <docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate>
-          <p>The Saturn Agreement has set a new pattern for UAW bargaining in
+          </div3></div2>
+        <div2><head>Labor Gives to Make Saturn Work</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate><bibl> </bibl><p>The Saturn Agreement has set a new pattern for UAW bargaining in
 the automobile industry and is affecting many negotiations carried out
 by other unions.  Despite an early GM promise to the UAW insistence
 that Saturn not be a precedent, GM's Chairman Roger Smith talks of the
 need to "Saturnize" industry and UAW Vice President Donald Ephlin now
-declares "We need a lot more Saturns."</p>
-          <p>From the beginning, the Saturn Project was a joint effort of GM and
+declares "We need a lot more Saturns."</p><p>From the beginning, the Saturn Project was a joint effort of GM and
 the UAW.  The 1985 accord has its genesis with the establishment of a
 joint study center in the spring of 1983 to map out "a new approach to
 union-management relations and the more effective use of human
 resources if assembly of small cars was to be feasible in the United
-States."</p>
-          <p>The unusual union contract has created controversy within UAW and a
+States."</p><p>The unusual union contract has created controversy within UAW and a
 debate within the nation's union movement.  Some charge that the UAW
 has sold out under what Saturn calls its new "philosophy of total
 cooperation."  UAW leaders are defensive; perhaps because "no party to
@@ -1292,8 +1266,7 @@ Saturn has risked more with this experiment than the UAW," according
 to labor writer Anthony Border.  GM's William Hoglund stresses that
 the UAW is a partner and "a stakeholder in Saturn and participates in
 decisions.  A UAW advisor is on the Saturn management staff and is a
-part of all enterprises."</p>
-          <p>The contract reflects the concessions typical of the Reagan era as
+part of all enterprises."</p><p>The contract reflects the concessions typical of the Reagan era as
 well as autoworkers' desire for job security.  Saturn employees,
 called members, will take a twenty percent pay cut in straight-time GM
 wages in return for profit-sharing and additional income based on
@@ -1301,8 +1274,7 @@ meeting production, quality and productivity goals.  Production will
 be carried out by small work units of five to twenty-five people
 rather than by assembly line.  "Our work teams are going to do it
 all-seek resources, keep records, communicate and work with supplier
-partners and insure quality," according to GM's Hoglund.</p>
-          <p>In order to get a commitment of relatively secure employment for
+partners and insure quality," according to GM's Hoglund.</p><p>In order to get a commitment of relatively secure employment for
 eighty percent of the workers, the union gave up normal grievance
 procedures, seniority rights, fixed work rules and practices, and
 traditional job descriptions.  The Agreement reads "Saturn will not
@@ -1315,26 +1287,19 @@ practicable."  The UAW was willing to agree to this because of
 numerous layoffs and the rapid loss of members in an industry which
 has seen forty-seven facilities shut down since 1980.  However, the
 deep concessions make it clear Saturn was designed to compete with
-domestic as well as foreign autoworkers.</p>
-          <p>Once the agreement was complete, GM picked a right-to-work state to
+domestic as well as foreign autoworkers.</p><p>Once the agreement was complete, GM picked a right-to-work state to
 test it.  Saturn was to be kept away from GM's other plants where
 there are strong anti-management sentiments and more traditional labor
 contracts.  GM's labor relations chief, Alfred S. Warren Jr., said
 that the UAW fought the Spring Hill location "up until the last
 moment" as the ninty-nine member union/management team debated
-sites.</p>
-          <p>While Tennessee governor Alexander has made his peace with the UAW
+sites.</p><p>While Tennessee governor Alexander has made his peace with the UAW
 in order to get the plant, Republican gubernatorial candidate Winfield
 Dunn is not bound by this peace treaty.  Dunn, who was governor from
 1971-1975, feels the Saturn agreement "violates the spirit of
-Tennessee's right-to-work law."</p>
-        </div2>
-        <div2 id="sc08-4016" n="3" type="Article">
-          <head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
-Arrives in Spring Hill, Tennessee</head>
-          <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline>
-          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate>
-          <p>Spring Hill Mayor George Jones says he learned the same time you
+Tennessee's right-to-work law."</p></div2>
+        <div2><head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
+Arrives in Spring Hill, Tennessee</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate><bibl> </bibl><p>Spring Hill Mayor George Jones says he learned the same time you
 did, if you were watching television on July 30, 1985, that General
 Motors planned to build the world's most expensive manufacturing plant
 in his middle Tennessee community, population 1,275. By that point
@@ -1347,21 +1312,17 @@ megawatts of free electricity for twenty years, or to Minnesota, which
 pledged tax concessions and other prizes worth $1.3 billion, or even
 to Kentucky, which legislated a $306 millon educational aid package
 after word got out that GM considered the Bluegrass State's school
-system inadequate.</p>
-          <p>Instead, Saturn came to a sleepy town off I-65 thirty miles south
+system inadequate.</p><p>Instead, Saturn came to a sleepy town off I-65 thirty miles south
 of Nashville. At the moment Mayor Jones watched GM's announcement on
 his television set, Spring Hill had not even a single full-time police
 officer, fireman, or physician. The announcement, said Jones, was like
-something "falling from the sky."</p>
-          <p>Spring Hill's experience raises many questions about corporate
+something "falling from the sky."</p><p>Spring Hill's experience raises many questions about corporate
 power in the U.S., about industrial recruiting as practiced by most
 state governments, about the role of organized labor in a rapidly
 shifting economy, and about the ability of localities to control their
-own destinies.</p>
-          <p>
+own destinies.</p><p>
             <hi rend="bold">Were They Just Lucky or What?</hi>
-          </p>
-          <p>In effect, Tennessee won a national lottery for a promised 6,000
+          </p><p>In effect, Tennessee won a national lottery for a promised 6,000
 industrial jobs and a huge addition to the tax base. After the
 amazement wore off, one of the first questions asked in Spring Hill
 was, why us? The answer may be that GM was less interested in what
@@ -1370,8 +1331,7 @@ lacked experience in negotiating with large companies, other prospects
 for economic development, county-wide planning or zoning, organized
 citizen groups which might have opposed GM's plans or at least have
 complicated matters, and the history of labor-management antagonism
-that characterizes many of the locales of other auto plants.</p>
-          <p>Spring Hill residents are minor actors, if not pawns, in a grand
+that characterizes many of the locales of other auto plants.</p><p>Spring Hill residents are minor actors, if not pawns, in a grand
 auto industry manuever. General Motors' plans for Saturn represent the
 company's main effort to 
 <pb n="17"/>
@@ -1383,47 +1343,40 @@ produce half a million subcompact Saturn cars a year with about
 one-third of the workforce that would be needed at other GM
 facilities. Board Chairman Roger Smith touts Saturn as the key to the
 giant corporation's survival and competitiveness as a domestic
-producer.</p>
-          <p>Construction of the Spring Hill plant will require four thousand
+producer.</p><p>Construction of the Spring Hill plant will require four thousand
 construction workers for two-and-a-half years. Limited production is
 expected to begin in late 1989. When the plant reaches full capacity
 (some years later), GM claims that it will provide six thousand direct
 jobs and twelve thousand to fourteen thousand indirect jobs among
-suppliers, service firms, groceries, eating places and motels.</p>
-          <p>In choosing Middle Tennessee, GM joined a Southbound migration for
+suppliers, service firms, groceries, eating places and motels.</p><p>In choosing Middle Tennessee, GM joined a Southbound migration for
 automakers, including a Nissan plant at Smyrna, Tenn., just thirty
 miles from Spring Hill, and Kentucky's planned Toyota
 facility. Michigan has gone to extraordinary lengths to preserve its
 hold on the industry, but the mid-South has become the location of
-choice for both U.S. and Japanese carmakers.</p>
-          <p>In addition to presumably docile labor, Spring Hill was chosen
+choice for both U.S. and Japanese carmakers.</p><p>In addition to presumably docile labor, Spring Hill was chosen
 because it lies within five-hundred miles of three-fourths of the
 U.S. domestic market. The area had a railroad, interstates, and could
 provide four million gallons of water daily. Geographically it is a
 flat site about two square miles in size. In the rural setting, there
-were a small number of landowners from whom to acquire land.</p>
-          <p>"The final ingredients were simple but of the right combination,"
+were a small number of landowners from whom to acquire land.</p><p>"The final ingredients were simple but of the right combination,"
 according to Jan White of Landauer Associates. This New York firm
 which researched the sites for GM never revealed the nature of that
 secret combination. For seven months, Landauer employees visited
 potential locations, examined tax structures and school systems, went
 to parks, and read back editions of local newspapers to determine how
-each community solved their problems.</p>
-          <p>With so many suitors, GM could take its time. The national media
+each community solved their problems.</p><p>With so many suitors, GM could take its time. The national media
 provided millions of dollars of free advertising for the future car. A
 GM-commissioned poll showed that Saturn had 49 percent name
 recognition without building a plant or even designing a product. This
 public relations triumph, achieved largely because of U.S. desperation
-for jobs, is proudly heralded by Saturn's executives.</p>
-          <p>By early February 1985, GM had information about every realistic
+for jobs, is proudly heralded by Saturn's executives.</p><p>By early February 1985, GM had information about every realistic
 location "already on the computer," according to Stan Hall, a Saturn
 spokesperson. Peter Laerman of the United Auto Workers (UAW) chastised
 the corporation for encouraging a waste of public resources. "In cases
 where GM knows perfectly well those sites will not be chosen, they
 should make that clear before any more money is spent." But GM kept up
 the "search" for another five months as desperate hamlets bid higher
-for the prize.</p>
-          <p>The site GM chose is in Maury County, just a few miles from its
+for the prize.</p><p>The site GM chose is in Maury County, just a few miles from its
 border with Williamson County. The latter is Tennessee's richest and
 fastest growing county with an unemployment rate of 3.1 percent in
 July of 1986. Williamson County Executive Robert Ring says of Saturn,
@@ -1432,8 +1385,7 @@ somewhere else." Williamson County residents are concerned about the
 rapid changes in their county which is evolving from an agricultural
 to a bedroom community feeding metro Nashville's booming "office
 parks." The result is a controversial growth management plan that is
-unprecedented in <hi rend="italic">laissez-faire</hi> Tennessee. </p>
-          <p>In Maury County, with 9.6 percent unemployment, the planning
+unprecedented in <hi rend="italic">laissez-faire</hi> Tennessee. </p><p>In Maury County, with 9.6 percent unemployment, the planning
 infrastructure was non-existent. Judy Langston, a county native who
 was hired when the planning office was finally set up three months
 after the Saturn announcement, explains: "Maury County government did
@@ -1447,11 +1399,9 @@ unsightly commercial strip next to its "campus-style plant." Even
 though Saturn hired the Vanderbilt Law School Dean to work with the
 county to develop a scenic parkway, the old neighbors quickly let
 their new neighbor and politicians know that it would be a long time
-before they would tolerate that much "governmental interference."</p>
-          <p>
+before they would tolerate that much "governmental interference."</p><p>
             <hi rend="bold">What Did Tennessee Offer?</hi>
-          </p>
-          <p>Governor Lamar Alexander trumpeted his state's victory in full-page
+          </p><p>Governor Lamar Alexander trumpeted his state's victory in full-page
 newspaper ads published around the country. The considerable prize was
 said to be the largest one-time investment in U.S. history, and Saturn
 thus took on mythical dimensions and qualities far beyond the jobs and
@@ -1459,8 +1409,7 @@ related industries it will bring to Middle Tennessee. To Tennessee's
 Republican administrators, Saturn testified to the state's
 attractiveness to manufacturing investors and to their own competitive
 ability in the politically prime arena of industrial recruitment.
-<pb n="18"/></p>
-          <p>Alexander and former Senate Majority Leader Howard Baker had lauded
+<pb n="18"/></p><p>Alexander and former Senate Majority Leader Howard Baker had lauded
 Tennessee's right-to-work law, its "pro-business climate and its
 hardworking labor force" to GM Chairman Smith in early 1985. These
 same factors were among the reasons the Southern Labor Institute
@@ -1476,20 +1425,17 @@ poor and near the bottom in manufacturing wages and income
 distribution. Since Tennessee is projected to have higher than
 national unemployment at least through the 1990s, this would be a
 state which would appreciate GM, whatever its pay and benefits, for a
-long time to come.</p>
-          <p>Tennessee also was promoted as a state whose tax structure has been
+long time to come.</p><p>Tennessee also was promoted as a state whose tax structure has been
 tailored for big business: a one percent investment tax credit for
 industrial machinery, no sales tax on industrial and pollution control
 machinery, a tax exemption on finished goods, low worker's
 compensation insurance rate, and no personal income tax. Over
 forty-nine percent of the state's regressive tax revenue comes from
-high sales taxes, including a tax on food.</p>
-          <p>Tennessee's industrial recruiting ads say, "Grow with a
+high sales taxes, including a tax on food.</p><p>Tennessee's industrial recruiting ads say, "Grow with a
 pro-business tax structure. Only four states have a lower state and
 local tax burden than Tennessee. Tennessee does not offer large tax
 concessions to attract business to the state--the tax structure is
-already attractive for business!"</p>
-          <p>With the nation watching and his 1988 Vice Presidential aspirations
+already attractive for business!"</p><p>With the nation watching and his 1988 Vice Presidential aspirations
 perhaps in mind, Tennessee's governor eagerly courted the
 industrialists. Alexander had won one such prize in 1982-the Nissan
 plant- and wanted another. (Nissan made the largest U.S. industrial
@@ -1499,13 +1445,10 @@ may have helped guarantee the second win. If GM wanted to prove it
 could compete with the Japanese, why not on the same turf? And the
 UAW, GM's partner in Saturn, may have desired to locate nearby in
 hopes that Saturn's union influence would rub off on non-union
-Nissan.</p>
-          <p>
+Nissan.</p><p>
             <hi rend="bold">Greasing GM's Wheels</hi>
-          </p>
-          <p>In a less than candid statement, Alexander contended, "New York
-offered $1.2 billion. We didn't offer a penny."</p>
-          <p>But Tennessee's General Assembly rushed to provide housewarming
+          </p><p>In a less than candid statement, Alexander contended, "New York
+offered $1.2 billion. We didn't offer a penny."</p><p>But Tennessee's General Assembly rushed to provide housewarming
 gifts to the new corporate arrival. In early 1986 Maury County
 legislators introduced a bill to put a $500,000 cap on the realty
 transfer tax and another cap on mortgage fees. Written to benefit very
@@ -1514,8 +1457,7 @@ agreement among legislators, Saturn officials and the governor. The
 state lost a one time payment of $2.5 million to $3 million while
 local governments lost $75,000. Alexander also pushed through the
 Legislature a seat belt law wanted by GM to help forestall national
-air bag legislation.</p>
-          <p>In addition to the usual benevolence to large corporations, the
+air bag legislation.</p><p>In addition to the usual benevolence to large corporations, the
 governor has promised Saturn $50 million worth of roads, including a
 new I-65 exit and a new five-mile connecting "Saturn parkway" (much
 like that built for Nissan). Saturn will get its cars to market faster
@@ -1524,8 +1466,7 @@ Nashville. Spring Hill is getting a bypass, two stop lights,
 state-paid planners and engineers. Tennessee pays for water quality
 and regional impact studies. Saturn will receive and control $20
 million worth of job training, with no requirement that Tennesseans
-will be trained.</p>
-          <p>Justifying all this is Revenue Commissioner Don Jackson, who
+will be trained.</p><p>Justifying all this is Revenue Commissioner Don Jackson, who
 optimistically predicts that Tennessee may get ten dollars in tax
 revenues for every dollar it spends on support facilities for
 Saturn. The state's sales tax revenues will increase when Saturn
@@ -1538,19 +1479,15 @@ the state
 government may eventually experience a return on its
 investment in Saturn, Saturn's neighbors fear that the bulk of the
 costs will be borne by the taxpayers of the counties and
-municipalities.</p>
-          <p>Meanwhile, many Maury County citizens wonder just who will act in <hi rend="italic">their</hi> best interest. Many feel that their local
+municipalities.</p><p>Meanwhile, many Maury County citizens wonder just who will act in <hi rend="italic">their</hi> best interest. Many feel that their local
 officials failed to represent all of Maury County when negotiating the
 in-lieu-of-tax agreement with GM. Many more, including many local
 officials, wonder whose side the state is on when it comes to the
 negotiating with Saturn and to the planning for the trauma of its
-arrival.</p>
-          <p>
+arrival.</p><p>
             <hi rend="bold">Will Tennesseans Get the Jobs?</hi>
-          </p>
-          <p>Much of the intense courting of Saturn was inspired by the lure of
-thousands of new jobs.</p>
-          <p>In November 1985, four months after Saturn's site selection, a copy
+          </p><p>Much of the intense courting of Saturn was inspired by the lure of
+thousands of new jobs.</p><p>In November 1985, four months after Saturn's site selection, a copy
 of the secret labor agreement between GM and the United Auto workers
 was leaked to the Spring Hill Area Concerned Citizens Group. It
 revealed that aa majority of the full initial complement of operating
@@ -1559,14 +1496,12 @@ throughout the United States." The document concludes that "because of
 the qualifications and experience of the current GM-UAW workforce,
 they will be a primary source for the initial complement, up to full
 capacity of operating and skilled trades technicians. The parties will
-actively recruit GM-UAW employees."</p>
-          <p>This news stunned Maury County officials, who had made large tax
+actively recruit GM-UAW employees."</p><p>This news stunned Maury County officials, who had made large tax
 concessions expecting the majority of jobs for area residents. The
 Citizens Group leaders had been asking since early September for
 eighty percent of the Saturn workforce to come from the county and the
 state. GM says it made no promises.
-<pb n="20"/></p>
-          <p>Not surprisingly, UAW Vice President Donald Ephlin has reported
+<pb n="20"/></p><p>Not surprisingly, UAW Vice President Donald Ephlin has reported
 that union members all over the country are interested in the Saturn
 jobs. "We don't need applications. Every day I get letters inquiring
 about employment," he said. Ephlin predicts that of the estimated six
@@ -1574,24 +1509,20 @@ thousand jobs about five thousand will be in the UAW bargaining
 unit. These could be filled ten times over by the fifty-four thousand
 UAW members now laid off, not to mention the forty-one thousand GM
 says it may soon lay off or the current GM workers who may want to
-move when Saturn begins hiring.</p>
-          <p>Many local people resent outsiders' having a lock on the majority
+move when Saturn begins hiring.</p><p>Many local people resent outsiders' having a lock on the majority
 of Saturn's jobs. GM has quietly let its Saturn partner, the union, be
 played off against the local communities so that the UAW is faulted by
 many as having taken the jobs Maury County residents thought were to
-be their main benefit from Saturn.</p>
-          <p>Spring Hill resident and fiberglass manufacturer Jim Miller said,
+be their main benefit from Saturn.</p><p>Spring Hill resident and fiberglass manufacturer Jim Miller said,
 "the governor kept talking about at least three thousand jobs." But,
 "once we read the agreement we knew we could not get any jobs out of
 the project." He added, "the governor and GM 'foxed' people on jobs."
 Miller asked the governor why no Tennesseans were guaranteed jobs and
 "Dear old Alexander said that if not one Tennessean gets a job at
 Saturn, it will still be good for Tennessee. Now that may be good for
-Tennessee, but what about Maury County?"</p>
-          <p>
+Tennessee, but what about Maury County?"</p><p>
             <hi rend="bold">GM Unwilling to Pay Full Property Tax</hi>
-          </p>
-          <p>Tennessee helped Saturn choose a county with lower property rates
+          </p><p>Tennessee helped Saturn choose a county with lower property rates
 than surrounding areas. Saturn then hammered Maury County governmental
 officials into an unprecedented forty year in-lieu-of-tax
 agreement. According to county budget director, A. C. Howell, "the
@@ -1601,8 +1532,7 @@ deal. It was a GM idea and they took pretty much a hard line on it."
 GM's leverage was that its choice of this county was "tentative" until
 it got the deal it sought. By withholding the labor agreement from the
 public and county officials, GM had a further advantage in
-negotiations.</p>
-          <p>Maury County's industrial board agreed to hold title to the site so
+negotiations.</p><p>Maury County's industrial board agreed to hold title to the site so
 Saturn is not burdened with real and personal property taxes, the
 county's primary revenue source. The first year Saturn agreed to pay
 $7.5 million; in 1987 and 1988, $3.5 million each year; from 1989 to
@@ -1613,15 +1543,13 @@ amounts of funds up front since normally the property tax would not
 show up in significant amounts until the plant was fully built. "The
 plan of action is to use the front end money to handle the initial
 impacts. Then we'll have to develop some mechanisms to make sure
-future developers have to pay their own way," said Howell.</p>
-          <p>Local residents and officials were skeptical of the deal since most
+future developers have to pay their own way," said Howell.</p><p>Local residents and officials were skeptical of the deal since most
 "high growth" counties find it impossible to make developers cover all
 the costs of new services. If Saturn doesn't pay for expanded services
 and if the developers who follow Saturn to Maury County don't pay, who
 will? The residents of Maury County, who currently enjoy a low two
 percent property tax rate, expect that they will have to pick up the
-tab.</p>
-          <p>Despite being spelled out in an official agreement there are still
+tab.</p><p>Despite being spelled out in an official agreement there are still
 different estimates of just how much the county has given away to
 GM. Auto industry watcher Ralph Nader has estimated that the
 in-lieu-of-tax deal will cost Maury County almost $57 million during
@@ -1630,8 +1558,7 @@ as proposed is built "the full tax value would have been $14 million"
 annually, a figure less than half the $32.9 million detailed in
 published reports elsewhere. Even if Howell is accurate, this means
 that after construction GM will pay $77 million less than the normal
-county tax rate during the seven year period from 1989-1995.</p>
-          <p>Nader staffer Jim Musselman said Maury County officials failed to
+county tax rate during the seven year period from 1989-1995.</p><p>Nader staffer Jim Musselman said Maury County officials failed to
 compare what GM said it was willing to pay in property tax with what
 it was already paying at its facilities in Michigan and Ohio. GM
 wasn't about to volunteer that it pays almost twice as much tax on
@@ -1640,29 +1567,25 @@ few other places during the six to eight weeks of negotiations, but he
 wishes there had been more time for research. While GM clearly
 benefited from the pressure of time it applied, Howell says the
 greatest urgency came from state officials who wanted an agreement to
-be reached but nevertheless offered very little assistance.</p>
-          <p>On February 28, 1986, Saturn ceremoniously made its first payment
+be reached but nevertheless offered very little assistance.</p><p>On February 28, 1986, Saturn ceremoniously made its first payment
 of $2 million. Its next checks were delivered in late May and
 September to the Maury County Industrial Development Board. Posing in
 front of the enlarged check, Howell wondered whether he should smile
 or frown. It probably is not the best deal in the world but when you
 go to buy a car you don't get the deal you want. I can't tell whether
 it was a good deal or not. I think it was as good a deal as we could
-have gotten... History will tell."</p>
-          <p>Maury County found that, once the negotiations on an overall amount
+have gotten... History will tell."</p><p>Maury County found that, once the negotiations on an overall amount
 from Saturn were concluded, the wrangling had just begun. Separate
 agreements had to be made to divide its new revenues with the
 incorporated towns of Spring Hill, Columbia, and Mount Pleasant. The
 various county departments openly squabbled over the remainder. The
 School Board has even threatened to sue to get its standard
-forty-seven percent of county taxes.</p>
-          <p>Even with its own discounted rate Saturn has become Maury County's
+forty-seven percent of county taxes.</p><p>Even with its own discounted rate Saturn has become Maury County's
 largest taxpayer; its nearest contender pays less than a third of GM's
 amount. Saturn's employees will double the county's 1985 manufacturing
 labor force, giving the new constituents tremendous political clout in
 a county which was projected to have only 25,375 households in
-1990.</p>
-          <p>Further, GM's actions in other parts of the nation suggest that
+1990.</p><p>Further, GM's actions in other parts of the nation suggest that
 Maury County will be asked in the future for more tax cuts. GM has
 demanded real property tax reductions of up to eighty percent in
 eighteen Michigan locations and has threatened to move its plants if
@@ -1672,32 +1595,26 @@ already given
 in. "For GM the Saturn plant represents another step in its ongoing
 experiment to discover just how far it can lower its tax obligations,"
 concludes labor writer Anthony Borden in <title>The Nation</title>
-(June 21,1986).</p>
-          <p>
+(June 21,1986).</p><p>
             <hi rend="bold">Will the Town Get its Fair Share?</hi>
-          </p>
-          <p>"More and more it looks like GM came to this rural area of
+          </p><p>"More and more it looks like GM came to this rural area of
 Tennessee looking for a colony to exploit instead of a community to
 respect," said Ralph Nader. "The Volunteer State better start
 volunteering more citizen and governmental oversight and get the
-free-loading GM off welfare."</p>
-          <p>"Let's be honest. The plant is going to affect us the most," Spring
+free-loading GM off welfare."</p><p>"Let's be honest. The plant is going to affect us the most," Spring
 Hill Mayor Jones exclaimed in late August 1985. "We're the ones who
 are going to be dealing with the traffic and having our roads and our
 land and our homes torn apart. Nobody seems to be interested in Spring
-Hill."</p>
-          <p>Martha Torrence, a school teacher who moved from Nashville to
+Hill."</p><p>Martha Torrence, a school teacher who moved from Nashville to
 retire in Spring Hill and is secretary of the Spring Hill Citizen's
 Group, said of Saturn's first year, "We just can't understand why
 we've been ignored, they forgot about us, just like we were dust to be
-moved around."</p>
-          <p>For several weeks, the state officials, Saturn and the UAW ignored
+moved around."</p><p>For several weeks, the state officials, Saturn and the UAW ignored
 the mayor's letters and requests for a meeting with the townspeople to
 explain what was going on and to answer citizen's questions. Only in
 September 1985, when Mayor Jones warned that he might oppose zoning
 changes needed for initial construction, did the three agree to the
-town meeting.</p>
-          <p>Spring Hill's annual property tax revenue was around $21,000 before
+town meeting.</p><p>Spring Hill's annual property tax revenue was around $21,000 before
 any GM payments. A recent property reappraisal had the effect of a
 major tax hike and Mayor Jones did not want to raise taxes so soon to
 pay for new facilities. When the mayor's efforts to get a financial
@@ -1705,26 +1622,22 @@ commitment from the county and GM failed, the city council began the
 procedure to annex the Saturn site, just two miles outside the city
 limits. This would have brought the town an estimated $8.5 million
 annually, instead of the $11.5 million over a forty-year period to
-which they eventually agreed.</p>
-          <p>Upon learning about the annexation plan, Saturn's general counsel
+which they eventually agreed.</p><p>Upon learning about the annexation plan, Saturn's general counsel
 threatened that GM would leave the Spring Hill area before the company
 had turned one shovel of dirt. "I don't know if I'd call it
 blackmail," Mayor Jones told the Flint (Mich.) Journal. "I have heard
 accusations before that if we don't do this or that Saturn will pull
 out." Jones reports that during this period he received a number of
 death threats from developers who were panicked they would lose
-anticipated substantial profits if GM did not come.</p>
-          <p>Spring Hill's threat to annex Saturn's property, followed by
+anticipated substantial profits if GM did not come.</p><p>Spring Hill's threat to annex Saturn's property, followed by
 Saturn's threat to leave, is credited with giving the town enough
 leverage with Maury County to get a large part of the in-lieu-of-tax
 money. For $250,000 annually, Spring Hill committed itself in writing
 not to annex the Saturn site. Mayor Jones is adamant that the
 annexation proposal is merely tabled and will be activated if the
-county fails to pay.</p>
-          <p>
+county fails to pay.</p><p>
             <hi rend="bold">Speculators Descend</hi>
-          </p>
-          <p>"We didn't have any real estate offices in Spring Hill before
+          </p><p>"We didn't have any real estate offices in Spring Hill before
 Saturn hit. The next day we had five," says Joan W. Jackson, the
 manager of the only branch bank in town. "Land speculators blew into
 town with money in hand, bought land, and flipped it." Two months
@@ -1732,24 +1645,20 @@ after the announcement, land values had risen from $1,000 to $2,000
 per acre to $5,000 to $10,000 per acre, with some acreage selling as
 high as $35,000. Activity tripled at the county's Register of Deeds,
 which collected more than a million dollars in recording fees and
-transfer taxes.</p>
-          <p>During the early "gold rush fever," the mayor distributed signs "My
+transfer taxes.</p><p>During the early "gold rush fever," the mayor distributed signs "My
 home is not for sale. Compliments of George Jones, Mayor." He
-explained, Y want my neighbors to know I want to keep them."</p>
-          <p>By Spring 1986 real estate activity had slowed to a trickle. Many
+explained, Y want my neighbors to know I want to keep them."</p><p>By Spring 1986 real estate activity had slowed to a trickle. Many
 local people only made money as the outsiders let their options
 expire. Real estate agents and bankers predict a second boom as soon
 as the town's bypass location is announced and when Saturn plant
 <pb n="22"/>
-construction begins.</p>
-          <p>As the unemployed began to come to the boomtown, Mayor Jones and
+construction begins.</p><p>As the unemployed began to come to the boomtown, Mayor Jones and
 the Board of Aldermen bought them one-way tickets to Columbia or
 Nashville. The bus doesn't stop in Spring Hill, but a policeman takes
 the indigent newcomers to Main Street and flags it down. Legal
 Services personnel worry that the bus trip may await some local people
 as well. After Nissan was built local people with low incomes became
-homeless as the property values rose.</p>
-          <p>"The rental situation here is already deplorable," says Bill Haley,
+homeless as the property values rose.</p><p>"The rental situation here is already deplorable," says Bill Haley,
 Legal Services director in Maury County. "The trailer parks, which
 will be the primary places available for the transient construction
 workers, have outrageous lease provisions, which allow landlords to
@@ -1758,8 +1667,7 @@ up. We're going to see local people evicted, as the landlords jack up
 rents to lease to outsiders. Every county in the area has a long
 waiting list for low-income housing now. With the tremendous real
 estate pressures, homelessness is going to be an overwhelming problem
-and the counties are doing little to address it."</p>
-          <p>The arrival of the county's largest taxpayer frightens local
+and the counties are doing little to address it."</p><p>The arrival of the county's largest taxpayer frightens local
 residents who wonder whether they can afford to stay. Rising land
 values will increase taxes at the same time as the demand for new
 services calls for increased county revenues. While the mayor is proud
@@ -1770,34 +1678,26 @@ just to get the job. But when you've got to pay a dollar and a quarter
 to get a one dollar job, you're talking one step backwards and it's
 not good business. If it's going to cost us more to have them here
 than we're going to get in return, then I think we're making a big
-mistake."</p>
-          <p>"It will be the people on fixed income who will suffer," says Mayor
+mistake."</p><p>"It will be the people on fixed income who will suffer," says Mayor
 Jones. Citizen's group leader Martha Torrence agrees: "We who are
 trying to continue here might have to move out of the area because of
-taxes."</p>
-          <p>Homeowners are not the only victims. Randy Lockridge, who farms a
+taxes."</p><p>Homeowners are not the only victims. Randy Lockridge, who farms a
 thousand acres, declares that Saturn, named for the Roman god of
 agriculture, "will ruin farming in Spring Hill and have a negative
-effect on farming in all of Maury County."</p>
-          <p>Dairy equipment supplier John Campbell, president of the Citizens
+effect on farming in all of Maury County."</p><p>Dairy equipment supplier John Campbell, president of the Citizens
 Group, agrees that "farming's a thing of the past in Spring Hill." The
 town's farm implement dealership is already closed, and the rapidly
-rising land prices seem to affirm his conclusion.</p>
-          <p>"Many people in the community who were in favor of the project have
+rising land prices seem to affirm his conclusion.</p><p>"Many people in the community who were in favor of the project have
 now turned against it after seeing the way GM operates," said
-Campbell.</p>
-          <p>In the wake of recent elections, Jim Cathey, a landowner, said, "We
-really should be voting on getting that plant here."</p>
-          <p>Cathey's words echo the thoughts of thousands of Southerners who
+Campbell.</p><p>In the wake of recent elections, Jim Cathey, a landowner, said, "We
+really should be voting on getting that plant here."</p><p>Cathey's words echo the thoughts of thousands of Southerners who
 suddenly are faced with the rapid changes and unintended results of
 development decisions made secretively by a few state or local
 officials in pressured negotiating sessions with outside giant
 corporations. There are no mechanisms for public participation, much
-less approval.</p>
-          <p>
+less approval.</p><p>
             <hi rend="bold">State Needed to Manage Growth</hi>
-          </p>
-          <p>Governor Alexander has used the Nissan and Saturn catches to
+          </p><p>Governor Alexander has used the Nissan and Saturn catches to
 catapult himself into the National Governor's Association Chairmanship
 and to national political prominence great enough to cause talk about
 an Alexander role in the White House. Alexander has 90 tied his image
@@ -1806,8 +1706,7 @@ me right along with it." More than $460,000 of state funds have been
 spent on Saturn-oriented public relations in which media professionals
 have crafted Alexander's positive, concerned image. Yet near the plant
 site, among officials and citizens alike, few are Alexander
-boosters.</p>
-          <p>"We don't understand the governor letting such a thing come into
+boosters.</p><p>"We don't understand the governor letting such a thing come into
 our state. We think he should have said, "Okay, but give us so many
 jobs," complains Martha Torrence. Mayor Jones's struggles to get the
 governor's attention are well known. Alexander committed the state to
@@ -1817,65 +1716,53 @@ Howell, "We really feel like they should have helped us more in
 planning. The city of Columbia and the county are entitled to the same
 thing Spring Hill was. I think they gave more to Spring Hill to hold
 down the press situation. We weren't making that much noise so they
-didn't have to do anything to quiet us down."</p>
-          <p>The Saturn mishandling by the state led to a fundamental
+didn't have to do anything to quiet us down."</p><p>The Saturn mishandling by the state led to a fundamental
 questioning of the state's conduct of industrial recruitment by
 representatives of other localities, including the Tennessee Municipal
-Bond Fund vice president, Ed Young.</p>
-          <p>"What role should the state play in helping local governments deal
+Bond Fund vice president, Ed Young.</p><p>"What role should the state play in helping local governments deal
 with a mushrooming situation like this involving a major international
 corporation, the Tennessee Valley Authority, some seven or eight
 municipalities, several counties, a couple of development districts,
 at least a dozen state departments and agencies, and numerous other
 entities such as school and utility districts?" Young asks. Recruiting
-success is just the first step in a process-not the final one."</p>
-          <p>"There were a number of task forces the governor appointed in the
+success is just the first step in a process-not the final one."</p><p>"There were a number of task forces the governor appointed in the
 Spring Hill situation. They had one on transportation, one on water
 and sewer, but there was not the overall coordination of these
 functions. Only the governor can provide that," said Young. "State
 officials must begin to develop an institutionalized memory and
 expertise regarding growth management so that the right things are
 done by the right people at the right time and the mistakes of the
-past are avoided."</p>
-          <p>
+past are avoided."</p><p>
             <hi rend="bold">Making Modern Mythology</hi>
-          </p>
-          <p>The Saturn myth is far more important than the Saturn reality to
+          </p><p>The Saturn myth is far more important than the Saturn reality to
 all concerned. This is why, what in reality is one more branch plant
-locating in the rural South, has captured the national imagination.</p>
-          <p>To the company, the Saturn myth represents a 
+locating in the rural South, has captured the national imagination.</p><p>To the company, the Saturn myth represents a 
 <pb n="23"/>
 resurgence in
 thirty-eight states of the time-worn notion that "what's good for GM
 is good for the country." GM has found that even corporate giants can
 be given the aid and comfort Americans usually reserve for underdogs
 in the nationalistic crusade to beat the foreign competition (some of
-which is owned by GM).</p>
-          <p>The legendary dimensions of Saturn have built political careers and
+which is owned by GM).</p><p>The legendary dimensions of Saturn have built political careers and
 justified raids on public treasuries from the county's to the
 nation's. Even in the latest tax "reform" bill, the deficit-ridden
 Congress showed its support by writing in a special $60 million
-tax-break specifically for Saturn.</p>
-          <p>For the union and the industry the Saturn myth has come to
+tax-break specifically for Saturn.</p><p>For the union and the industry the Saturn myth has come to
 symbolize the "pattern for the Twenty-first Century industrial
 operation." No matter that eighty percent of it is already in
 practice. The union is willing to forego hard-fought contract elements
 like seniority and grievance systems for a chance to be a partner in
-this undertaking of mythic proportions.</p>
-          <p>Saturn's shiny, state-of-the-art features mesh with the public's
+this undertaking of mythic proportions.</p><p>Saturn's shiny, state-of-the-art features mesh with the public's
 desire to believe in reindustrialization--that the glories of Henry
-Ford's revolution can come back in a high-tech form.</p>
-          <p>For Tennessee and Maury County Saturn's myth is that the industrial
+Ford's revolution can come back in a high-tech form.</p><p>For Tennessee and Maury County Saturn's myth is that the industrial
 recruitment lottery can be won. There is now hope that young people
 will not have to leave their rural homes to find jobs. There is the
 illusion that our local and state officials are in charge even as they
-carry out decisions made in distant corporate boardrooms.</p>
-          <p>Despite the tremendous odds against them, communities across
+carry out decisions made in distant corporate boardrooms.</p><p>Despite the tremendous odds against them, communities across
 America have gone into a period of self-flagellation and blame that GM
 did not choose them. Most have learned nothing from the massive
 expenditures of time and money. They have fallen back on the losers
-dictim: "Try harder next time."</p>
-          <p>The desperate desire to win justifies all public actions on the
+dictim: "Try harder next time."</p><p>The desperate desire to win justifies all public actions on the
 basis of what they will do for industrial recruitment. In the wake of
 the Saturn success, the governor's State of the State speech instilled
 fear in the legislature that, if they don't pass his three billion
@@ -1883,8 +1770,7 @@ dollar roads program--"jobs corridors"--they would lose the Saturn
 suppliers to one of the eleven other states within two hundred-fifty
 miles of the new plant site. Similarly, better schools, higher sales
 taxes, and a myriad of other unrelated governmental items are
-justified to Americans by industrial recruitment.</p>
-          <p>Why are Americans so vulnerable to such mythology? There simply are
+justified to Americans by industrial recruitment.</p><p>Why are Americans so vulnerable to such mythology? There simply are
 not enough jobs to go around. Saturn has proven that states, and even
 unions, are willing to do most anything for jobs. A relative few is
 all Saturn will really provide. While the optimistic twenty thousand
@@ -1892,37 +1778,30 @@ eventual plant and related jobs sounds impressive, Governor Alexander
 in more candid moments indicates that two hundred thousand jobs, or
 ten percent of the state's workforce, are lost annually to plant
 closings, bankruptcies and shutdowns. Saturn's total job impact-ten
-percent of what is lost annually in one state-is thus miniscule.</p>
-          <p>Few will bother to look beyond the comforting myths at the reality
+percent of what is lost annually in one state-is thus miniscule.</p><p>Few will bother to look beyond the comforting myths at the reality
 when industrial recruitment succeeds. Maury County now is a living
-example-and the real effects will not be known for years.</p>
-          <p>What is known is that the three reasons for industrial
+example-and the real effects will not be known for years.</p><p>What is known is that the three reasons for industrial
 recruitment--jobs for locals, a better tax 
 <pb n="24"/>
 base, and community
 improvement and an era of progress for those who reside there - have
 not materialized. Many long-term residents have little hope that they
-ever will.</p>
-          <p>"Tomorrow's Jobs, Yesterday's Values" is the new Tennessee state
+ever will.</p><p>"Tomorrow's Jobs, Yesterday's Values" is the new Tennessee state
 slogan. At eighty percent of the industry standard pay, Saturn will
 surely bring yesterday's wages. A tax rate less than a third of normal
 promises a reprise of yesteryear's company town scenario. Which of
-yesterday's values are being preserved?</p>
-          <p>Saturn is preserving yesterday's elements that corporations
+yesterday's values are being preserved?</p><p>Saturn is preserving yesterday's elements that corporations
 value--a docile, concession-prone workforce located in a community
 already nervous by every rumor that its corporate benefactor may leave
-or is having financial woes.</p>
-          <p>In self-appreciation festivals in each of Tennessee's ninety-five
+or is having financial woes.</p><p>In self-appreciation festivals in each of Tennessee's ninety-five
 counties, citizens are gathering to learn about and celebrate their
 past as part of Homecoming 1986. Despite the attempted parallels
 between the early pioneers and those charting the frontiers of Saturn,
 there is a real awareness that something is being forgotten, something
-irretrievably lost in Tennessee.</p>
-          <p>What about the values of self reliance, of community-building. of
+irretrievably lost in Tennessee.</p><p>What about the values of self reliance, of community-building. of
 democratic local decision-making, of charting one's own economic
 destiny? Tennesseans may remember that their foreparents came here to
-escape their economic dependence on the Saturns of yesteryear.</p>
-          <p>Amidst the booths demonstrating barnraisings, furnituremaking,
+escape their economic dependence on the Saturns of yesteryear.</p><p>Amidst the booths demonstrating barnraisings, furnituremaking,
 spinning, and even moonshining, Tennesseans may get in touch with the
 real values needed to put all our unemployed citizens and resources
 back to work. While this may at first seem naive, economists say the
@@ -1931,13 +1810,11 @@ large corporations. Tennessee's Economic and Community Development
 Department, despite its almost exclusive emphasis on industrial
 recruitment, documents that over a five-year period almost seventy
 percent of the state's new manufacturing jobs were from Tennessee
-firms expanding or starting up.</p>
-          <p>As the 999 sites which didn't get Saturn ponder Maury County's
+firms expanding or starting up.</p><p>As the 999 sites which didn't get Saturn ponder Maury County's
 situation, maybe they should be grateful. If they can wean themselves
 from the Saturn myth, they have a chance to proactively develop their
 economy rather than reactively awaiting the next announcement from a
-far-off corporate boardroom.</p>
-          <p>The states, counties, and cities have shown they are willing to
+far-off corporate boardroom.</p><p>The states, counties, and cities have shown they are willing to
 subsidize every step of a company's business -build the roads, provide
 all the social and physical services, do the planning and growth
 management, subsidize the utilities, provide job training, waive the
@@ -1945,8 +1822,7 @@ taxes, own the factory and land, and sometimes pay the initial wages -
 taking all the risks. It's time public entities use these resources to
 support locally-generated forms of economic development which will
 hire local people, complement the ways of life of current residents,
-and build a stable local tax base and economy.</p>
-          <div3 id="sc08-4036" type="About">
+and build a stable local tax base and economy.</p><div3 id="sc08-4036" type="About">
             <p>Carter Garber is the founder of Southern Neighborhoods
 Network, a regional organization providing training and assistance to
 community economic development groups. Verna Fausey is editor of the
@@ -1957,8 +1833,7 @@ issues in Tennessee. The authors wish to thank Paul Elwood, a member
 of their editorial board, who assisted with interviewing, research,
 and editing. Research funding was provided by National Rural Coalition
 as well as SNN's Economic Development Policy Project.</p>
-          </div3>
-        </div2>
+          </div3></div2>
       </div1>
     </body>
   </text>
