@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc07-5001" n="Southern Changes 7:5" type="Issue">
         <head>Southern Changes.  Volume 7, Number 5, 1985</head>
         <p><title>Southern Changes</title>.  Volume 7, Number 5, <date value="1985-10">1985</date></p>
-        <div2><head>The Attack on Voting Rights</head><byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate><bibl> </bibl><p>The Reagan Administration continues to widen its attack on minority
+        <div2 id="sc07-5002" n="1" type="Article"><head>The Attack on Voting Rights</head><byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate><bibl/><p>The Reagan Administration continues to widen its attack on minority
 voting rights. In its latest depredation, it has filed a friend of the
 court brief with the Supreme Court arguing that the election of even a
 single black to office forecloses a challenge to a disputed election
@@ -233,7 +233,7 @@ progress in minority voting rights.</p><div3 id="sc07-5022" type="About">
             <p>Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union.</p>
           </div3></div2>
-        <div2><head>The Importance of Black Legislators</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate><bibl> </bibl><p>The Southern state legislature, once the incarnation of
+        <div2 id="sc07-5003" n="2" type="Article"><head>The Importance of Black Legislators</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate><bibl/><p>The Southern state legislature, once the incarnation of
 backwardness in Southern politics, now stands to become a center for
 innovation in regional affairs. The formerly all-male, all-white,
 one-party bastions of prejudice and reactionary social policy have
@@ -421,7 +421,7 @@ powers of reaction.</p><div3 id="sc07-5023" type="About">
 Rockefeller Foundation Fellow, he is writing a book about Southern
 reapportionment.</p>
           </div3></div2>
-        <div2><head>Economics and a Murder Trial</head><byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate><bibl> </bibl><p>The road to Hayneville and Selma (No. 80) leads to dreams of
+        <div2 id="sc07-5004" n="3" type="Article"><head>Economics and a Murder Trial</head><byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate><bibl/><p>The road to Hayneville and Selma (No. 80) leads to dreams of
 asphodel and honey. The old cotton fields are now meadows filled with
 slow-moving fat cattle that drift from one patch of shade to the
 other, and in the Spring they are covered with waves and sheets and
@@ -685,12 +685,12 @@ trouble already. So I thought of Eliza Foster--my great-grandmother on
 my father's side--and Virginia Heard--my father's mother--and I signed
 "Eliza Heard."</p>
           </div3></div2>
-        <div2><head>Grace and guts</head><byline>
+        <div2 id="sc07-5005" n="4" type="Article"><head>Grace and guts</head><byline>
             <docAuthor>
               <name reg="Durr, Virginia" type="person">Virginia
                Durr</name>
             </docAuthor>
-          </byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate><bibl> </bibl><p>
+          </byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate><bibl/><p>
             <hi rend="bold">Steve Suitts:</hi>
           </p><p>I have the privilege of introducing Virginia Durr, a remarkable
 Alabamian whose life, spanning more than eight decades of Southern
@@ -914,7 +914,7 @@ Southern Changes presents excerpts from Virginia's luncheon talk, as
 well as the introductory comments of SRC executive director Steve
 Suitts. Steve Suitts.</p>
           </div3></div2>
-        <div2><head>The Origins of the Montgomery Bus Boycott</head><byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate><bibl> </bibl><p>Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
+        <div2 id="sc07-5006" n="5" type="Article"><head>The Origins of the Montgomery Bus Boycott</head><byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate><bibl/><p>Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
 summer of 1949 to join the English Department at all-black Alabama
 State College. A thirty-three year old native of Culloden, Georgia,
 twenty-five miles from Macon, she was the twelfth and youngest child
@@ -1401,8 +1401,8 @@ Martin Luther King, Jr., and the Southern Christian Leadership
 Conference, 1955-1968</title>, which William Morrow &#x26;Co. will publish
 in the fall of l986.</p>
           </div3></div2>
-        <div2><head><title>The Journey Is Home</title> by Nelle Morton. Boston:
-Beacon Press, 1985. 248 pp. $21.95.</head><byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate><bibl> </bibl><p>Among feminist theologians, the name Nelle Morton conjures up
+        <div2 id="sc07-5007" n="6" type="Review"><head><title>The Journey Is Home</title> by Nelle Morton. Boston:
+Beacon Press, 1985. 248 pp. $21.95.</head><byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate><bibl/><p>Among feminist theologians, the name Nelle Morton conjures up
 images of courage, intelligence, and friendship. Morton was the first
 (and for years only) woman on the faculty of the Theological School of
 Drew University; a worker for civil and other human rights; and a

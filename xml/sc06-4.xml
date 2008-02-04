@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 6, Number 4, 1984</head>
         <p><title>Southern Changes</title>.  Volume 6, Number 4,
 	       <date value="1984-08">1984</date></p>
-        <div2><head>Emelle, Alabama Toxic Waste Cadillac</head><byline>By <docAuthor><name reg="Gunter, Booth" type="person">Booth Gunter</name> and <name reg="Williams,  Mike" type="person"> Mike Williams</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate><bibl> </bibl><p>Down in the Heart of Dixie, in the gently rolling hills of the
+        <div2 id="sc06-4002" n="1" type="Article"><head>Emelle, Alabama Toxic Waste Cadillac</head><byline>By <docAuthor><name reg="Gunter, Booth" type="person">Booth Gunter</name> and <name reg="Williams,  Mike" type="person"> Mike Williams</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate><bibl/><p>Down in the Heart of Dixie, in the gently rolling hills of the
 Black Belt, lie gigantic pits--twice as wide as football fields are
 long--filled to the brim with an alphabet soup mix of dangerous
 chemicals.</p><p>Silver and maroon tanker trucks wind down a narrow blacktop,
@@ -471,7 +471,7 @@ outsiders, aided by the greed and dishonesty of some of the region's
 own politicians, taking advantage of the South's resources for
 profit.</p>
           </div3></div2>
-        <div2><head>Hazardous Waste in Georgia</head><byline>By <docAuthor><name reg="Breman, Vicki" type="person">Vicki Breman</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate><bibl> </bibl><p>If you are poor, black and live in the South, you are much more
+        <div2 id="sc06-4003" n="2" type="Article"><head>Hazardous Waste in Georgia</head><byline>By <docAuthor><name reg="Breman, Vicki" type="person">Vicki Breman</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate><bibl/><p>If you are poor, black and live in the South, you are much more
 likely to live near a hazardous waste landfill than if you are white
 and middle class. How much more likely? Well, it seems that no one
 knows for sure and until recently, no one has tried very hard to find
@@ -865,7 +865,7 @@ generations to come--is considerable and ultimately unacceptable.</p><div3 id="s
             <p>Vicki Breman is an attorney with the Georgia office of
 the Legal Environmental Assistance Foundation.</p>
           </div3></div2>
-        <div2><head>Blues for Mr. President</head><byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate><bibl> </bibl><p>
+        <div2 id="sc06-4004" n="3" type="Article"><head>Blues for Mr. President</head><byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate><bibl/><p>
             <hi rend="bold">MR. PRESIDENT</hi>
           </p><p>
             <hi rend="italic">Oh, went down to the employment office this
@@ -1024,7 +1024,7 @@ Arts Recording Company, Route 1, Box 59, in Greenville, North Carolina
 Jackson, Mississippi. An exhibit of his photographs opens Oct. 12 at
 Vanderbilt University.</p>
           </div3></div2>
-        <div2><head>Southern Electric Cooperatives Still Segregated</head><byline>By <docAuthor><name reg="Pace, David" type="person">David Pace</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate><bibl> </bibl><p>Only two percent of the board members of rural electric
+        <div2 id="sc06-4005" n="4" type="Article"><head>Southern Electric Cooperatives Still Segregated</head><byline>By <docAuthor><name reg="Pace, David" type="person">David Pace</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate><bibl/><p>Only two percent of the board members of rural electric
 cooperatives in twelve Southern states are black, even though the
 population of the areas served by those cooperatives is about
 twenty-four percent black.</p><p>That's one of the findings of a two-year study of Southern electric
@@ -1160,7 +1160,7 @@ ways to get at their nonresponsiveness to customers.</p><p>"As it is, they sit r
 and get the benefit of the worst abuses of both," he said.</p><div3 id="sc06-4025" type="About">
             <p>David Pace writes for the Associated Press.</p>
           </div3></div2>
-        <div2><head>The Electric Valley</head><byline>Reviewed by <docAuthor><name reg="Whisnant, David" type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 18-22</docDate><bibl> </bibl><bibl><title>The Electric Valley.</title> Directed and produced by
+        <div2 id="sc06-4006" n="5" type="Review"><head>The Electric Valley</head><byline>Reviewed by <docAuthor><name reg="Whisnant, David" type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 18-22</docDate><bibl/><bibl><title>The Electric Valley.</title> Directed and produced by
 Ross Spears, music by Kenton Coe, narration by Wilma Dykeman, research
 and writing by Richard Couto, cinematography by Anthony Forma. Funding
 provided by the National Endowment for the Arts, the National
@@ -1366,7 +1366,7 @@ University of Maryland, Baltimore County. He is the author of
 American Region</title> (University of North Carolina Press,
 1983).</p>
           </div3></div2>
-        <div2><head>This Land, This South</head><byline>Reviewed by <docAuthor><name reg="Ayers, Edward L." type="person">Edward L. Ayers</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 22-23</docDate><bibl> </bibl><bibl><title>This Land, This South: An Environmental History</title>
+        <div2 id="sc06-4007" n="6" type="Review"><head>This Land, This South</head><byline>Reviewed by <docAuthor><name reg="Ayers, Edward L." type="person">Edward L. Ayers</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 22-23</docDate><bibl/><bibl><title>This Land, This South: An Environmental History</title>
 by Albert E. Cowdrey. University of Kentucky Press, 1983. 236
 pp. $23.00</bibl><p>The land has always set the stage. Our literature, history, memory,
 and experience have always been permeated by the delta, the mountains,
@@ -1430,7 +1430,7 @@ University of Virginia. He is author of <title>Vengeance and Justice:
 Crime and Punishment in the 19th-Century American South</title>
 (Oxford University Press, 1984).</p>
           </div3></div2>
-        <div2><head>Southern Progressivism</head><byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate><bibl> </bibl><bibl><title>Southern Progressivism: The Reconciliation of Progress
+        <div2 id="sc06-4008" n="7" type="Review"><head>Southern Progressivism</head><byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate><bibl/><bibl><title>Southern Progressivism: The Reconciliation of Progress
 and Tradition</title> by Dewey W. Grantham. University of Tennessee
 Press, 1983. 502 pp.$34.95 cloth, $16.95 paper. paper.</bibl><p>The Progressive movement that spawned a succession of far-reaching
 social reforms in the first quarter of this century is most directly

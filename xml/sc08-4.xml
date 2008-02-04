@@ -70,9 +70,9 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 8, Number 4, 1986</head>
         <p><title>Southern Changes</title>.  Volume 8, Number 4,
 	       <date value="1986-10">1986</date></p>
-        <div2><head>The Climate for Workers in the U.S.:  Summary of a Study by the
+        <div2 id="sc08-4002" n="1" type="Article"><head>The Climate for Workers in the U.S.:  Summary of a Study by the
 Southern Labor Institute. A Special Project of the Southern Regional
-Council</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate><bibl> </bibl><p>The challenge facing the South is to create jobs with the income
+Council</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate><bibl/><p>The challenge facing the South is to create jobs with the income
 and benefits needed to bring the region's workers above the poverty
 level - not just new jobs, but jobs that will significantly improve
 the standard of living for people who work full-time, year-round.</p><p>"THE 'BUSINESS climate' and 'ideal places to live' are regularly
@@ -120,7 +120,7 @@ at the LBJ School of Public Affairs, University of Texas at Austin; is
 Board Chairman of the Southern Labor Institute; and Vice President of
 the Southern Regional Council.</p>
           </div3></div2>
-        <div2><head>The Climate for Workers: Where Does the South Stand?</head><byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate><bibl> </bibl><div3 id="sc08-3004" type="Section">
+        <div2 id="sc08-3003" n="2" type="Article"><head>The Climate for Workers: Where Does the South Stand?</head><byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate><bibl/><div3 id="sc08-3004" type="Section">
             <p>We believe the true test of economic conditions is how working
 people--the vast majority of citizens--fare in these times of economic
 change. This report examines how the economic climates in the states
@@ -1248,7 +1248,7 @@ director of the Voter Education Project. Marilyn Scurlock is a staff
 member of the Southern Labor Institute and a former staffer of the
 Southern Office of the National Rural Center.</p>
           </div3></div2>
-        <div2><head>Labor Gives to Make Saturn Work</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate><bibl> </bibl><p>The Saturn Agreement has set a new pattern for UAW bargaining in
+        <div2 id="sc08-4015" n="4" type="Article"><head>Labor Gives to Make Saturn Work</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate><bibl/><p>The Saturn Agreement has set a new pattern for UAW bargaining in
 the automobile industry and is affecting many negotiations carried out
 by other unions.  Despite an early GM promise to the UAW insistence
 that Saturn not be a precedent, GM's Chairman Roger Smith talks of the
@@ -1298,8 +1298,8 @@ in order to get the plant, Republican gubernatorial candidate Winfield
 Dunn is not bound by this peace treaty.  Dunn, who was governor from
 1971-1975, feels the Saturn agreement "violates the spirit of
 Tennessee's right-to-work law."</p></div2>
-        <div2><head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
-Arrives in Spring Hill, Tennessee</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate><bibl> </bibl><p>Spring Hill Mayor George Jones says he learned the same time you
+        <div2 id="sc08-4016" n="3" type="Article"><head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
+Arrives in Spring Hill, Tennessee</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate><bibl/><p>Spring Hill Mayor George Jones says he learned the same time you
 did, if you were watching television on July 30, 1985, that General
 Motors planned to build the world's most expensive manufacturing plant
 in his middle Tennessee community, population 1,275. By that point

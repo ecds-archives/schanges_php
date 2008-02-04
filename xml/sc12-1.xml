@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 12, Number 1, 1990</head>
         <p><title>Southern Changes</title>.  Volume 12, Number 1,
 	       <date value="1990-01">1990</date></p>
-        <div2><head>Five Decades of Activism</head><byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate><bibl> </bibl><p>"THE SOUTHERN MOVEMENT provided a permanent flame from which the
+        <div2 id="sc12-1002" n="2" type="Article"><head>Five Decades of Activism</head><byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate><bibl/><p>"THE SOUTHERN MOVEMENT provided a permanent flame from which the
 rest of the nation could draw inspiration, light and heat. You were
 always there burning, percolating, in the dark sometimes, but going
 ahead, holding aloft even the smallest candle which ultimately became
@@ -317,8 +317,8 @@ long and it bends towards justice."</p><div3 id="sc12-1022" type="About">
 for the Study of Civil Rights at the Carter G. Woodson Institute for
 Afro-American and African Studies, Charlottesville, Va.</p>
           </div3></div2>
-        <div2><head>Slapping Together a Coalition. . . To Win Below the
-Mason-Dixon</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate><bibl> </bibl><p>Virginia Durr: There's no sense trying to reform capitalism,
+        <div2 id="sc12-1003" n="3" type="Article"><head>Slapping Together a Coalition. . . To Win Below the
+Mason-Dixon</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate><bibl/><p>Virginia Durr: There's no sense trying to reform capitalism,
 because it can't be reformed any more than slavery could be
 reformed. It's a very bad system. You've got to realize that you have
 lost the power of your government. You do not own your government. It
@@ -435,7 +435,7 @@ Turnipseed at a workshop on the Economy of the South; Southern
 Conference 51st anniversary, Birmingham, Dec. 2, 1989; sponsored by
 the Southern Organizing Committee.</p>
           </div3></div2>
-        <div2><head>An Imperfect Assessment of Movement Flank Actions.</head><byline>Reviewed by <docAuthor><name reg="Morgan, Mary Nell" type="person">Mary Nell Morgan</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate><bibl> </bibl><bibl><title>Black
+        <div2 id="sc12-1004" n="5" type="Review"><head>An Imperfect Assessment of Movement Flank Actions.</head><byline>Reviewed by <docAuthor><name reg="Morgan, Mary Nell" type="person">Mary Nell Morgan</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate><bibl/><bibl><title>Black
 Radicals and the Civil Rights Mainstream, 1954 1970</title> By Herbert
 H. Haines (Knoxville: University of Tennessee Press. 1988. 244
 pps. $24.95).</bibl><p>Herbert Haines's analysis in <title>Black Radicals and the
@@ -540,11 +540,11 @@ College in Saratoga Springs New Fork. Early in her career, in the
 mid-1970s, Dr. Morgan was a research assistant at the Southern
 Regional Council.</p>
           </div3></div2>
-        <div2><head>Keeping The Faith On Abortion</head><byline>
+        <div2 id="sc12-1005" n="1" type="Article"><head>Keeping The Faith On Abortion</head><byline>
             <docAuthor>
               <name reg="Ledbetter, Brownie" type="person">Brownie Ledbetter</name>
             </docAuthor>
-          </byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate><bibl> </bibl><p>The argument about abortion must develop into a substantive
+          </byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate><bibl/><p>The argument about abortion must develop into a substantive
 debate. We must deal with questions of morality, medical ethics,
 medical technology, health care, environment, economics, separation of
 church and state, individual rights, and women's rights, to name a
@@ -740,7 +740,7 @@ stake. Prolonging the debate has become destructive.</p><p>Somebody has to call 
             <p>Brownie Ledbetter is a Presbyterian elder in Little Rock,
 Arkansas' and a longtime civil rights activist.</p>
           </div3></div2>
-        <div2><head>Collusion Between Worker and Power Structure.</head><byline>Reviewed by <docAuthor><name reg="Kravitz, Linda" type="person">Linda Kravitz</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate><bibl> </bibl><bibl><title>Habits of
+        <div2 id="sc12-1006" n="6" type="Review"><head>Collusion Between Worker and Power Structure.</head><byline>Reviewed by <docAuthor><name reg="Kravitz, Linda" type="person">Linda Kravitz</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate><bibl/><bibl><title>Habits of
 Industry: White Culture and the Transformation of the Carolina
 Piedmont.</title> By Allen Tullos (Chapel Hill: University of North
 Carolina Press. 1989. 419 pp. $34.95; $12.95 paper.).</bibl><p>In the late 1920s, to attract manufacturers to the Piedmont region
@@ -892,7 +892,7 @@ days she worked a summer at the Council. She is co-author of the Other
 Housing Crisis, published by HAC and the Center on Policy and Policy
 Priorities, 1989.</p>
           </div3></div2>
-        <div2><head>Angela Davis: 'Rekindle the Flame'</head><byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate><bibl> </bibl><p>Angela Davis, one of America's best known activists of the 1960s
+        <div2 id="sc12-1008" n="4" type="Article"><head>Angela Davis: 'Rekindle the Flame'</head><byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate><bibl/><p>Angela Davis, one of America's best known activists of the 1960s
 and 1970s, encouraged an overflow crowd in Austin, Texas, on Martin
 Luther King Day to renew a commitment to activism in the 1990s--to
 "rekindle the flame."</p><p>In 1972 Davis was acquitted of charges of murder and conspiracy
@@ -982,7 +982,7 @@ written Women, Race and Class (Random House, 1982); her latest book is
 <title>Women, Culture and Politics</title> (Random House,
 1989).</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By <docAuthor><name reg="Chestnust, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate><bibl> </bibl><p>Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
+        <div2 id="sc12-1009" n="7" type="Article"><head>The Cold Hard Truth</head><byline>By <docAuthor><name reg="Chestnust, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline><docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate><bibl/><p>Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
 municipal government and personal lawyer and advisor to Marion Barry,
 the embattled and dishonored mayor of the nation's capitol city. Herb
 taught me criminal law at Howard University in Washington and

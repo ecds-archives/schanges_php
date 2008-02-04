@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 10, Number 5, 1988</head>
         <p><title>Southern Changes</title>.  Volume 10, Number 5,
 	       <date value="1988-10">1988</date></p>
-        <div2><head>Living the Day Labor Life</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 7, 20</docDate><bibl> </bibl><p>Earlier this year, the Southern Regional Council
+        <div2 id="sc10-5002" n="3" type="Article"><head>Living the Day Labor Life</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 7, 20</docDate><bibl/><p>Earlier this year, the Southern Regional Council
 published a lengthy investigative and analytical report of the growing
 temporary manual labor industry. Workers in these "labor pools" are
 among the least protected and most poorly rewarded persons in the
@@ -152,7 +152,7 @@ or something like that you might do it. But if you want to go to
 Antone's, or a club with entertainment, if you like blues, and I am a
 blues fan... I've been trying to get there but I never can afford the
 $20 it takes.</p></div2>
-        <div2><head>A Southerner in Nicaragua</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 1-5</docDate><bibl> </bibl><p>David E. Whisnant, longtime commentator on Southern
+        <div2 id="sc10-5003" n="1" type="Article"><head>A Southerner in Nicaragua</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 1-5</docDate><bibl/><p>David E. Whisnant, longtime commentator on Southern
 Appalachian culture who is perhaps best known as the author of All
 That Is Native and Fine (The Politics of Culture in an American Region
 CINC Press, 1983), returned this summer from a five-month visit to
@@ -427,8 +427,8 @@ find themselves able to draw upon their own experience to comprehend
 and empathize with the struggle of Nicaraguan people to survive,
 decolonize, recover and reinterpret their own cultural past, and shape
 a cultural future for their children.</p></div2>
-        <div2><head>Henry Wallace's Campaign Foreshadowed the Movement as Well as
-the Rainbow</head><byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 11, 16-17</docDate><bibl> </bibl><p>Late in the summer of 1948, presidential candidate Henry Wallace
+        <div2 id="sc10-5004" n="6" type="Article"><head>Henry Wallace's Campaign Foreshadowed the Movement as Well as
+the Rainbow</head><byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 11, 16-17</docDate><bibl/><p>Late in the summer of 1948, presidential candidate Henry Wallace
 embarked on a week-long tour through the Deep South. For a brief time,
 he was able to break through much of the Cold war hysteria that
 clouded the Progressive Party, and focus public attention on a
@@ -608,8 +608,8 @@ for the Study of Civil Rights at the Carter G. Woodson Institute for
 Afro-American and African Studies, Charlottesville,
 Virginia.</p>
           </div3></div2>
-        <div2><head>From Protest to Process: Ann Braden's Inside View of the Rainbow
-Campaign</head><byline>Interview By <docAuthor><name reg="Kuhn, Cliff" type="person">Cliff Kuhn</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate><bibl> </bibl><div3 id="sc10-5006" type="Section">
+        <div2 id="sc10-5005" n="5" type="Article"><head>From Protest to Process: Ann Braden's Inside View of the Rainbow
+Campaign</head><byline>Interview By <docAuthor><name reg="Kuhn, Cliff" type="person">Cliff Kuhn</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate><bibl/><div3 id="sc10-5006" type="Section">
             <head>I. Winning and Losing at the 1988 Democratic Convention</head>
             <p>As a supporter of the Rainbow Coalition and the Jackson campaign I
 felt pretty good about the convention. Now, some people didn't so
@@ -1046,7 +1046,7 @@ government. Now wouldn't it be nice to be real proud of our government
 for a change.</p>
             <p>I think we are going to live to see that.</p>
           </div3></div2>
-        <div2><head>Pursuing the Shadow Government</head><byline>By <docAuthor><name reg="Guthey, Eric" type="person">Eric Guthey</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate><bibl> </bibl><p>Last May, <title>Southern Changes</title> reported on the work of
+        <div2 id="sc10-5012" n="2" type="Article"><head>Pursuing the Shadow Government</head><byline>By <docAuthor><name reg="Guthey, Eric" type="person">Eric Guthey</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate><bibl/><p>Last May, <title>Southern Changes</title> reported on the work of
 the Christic Institute, a Washington-based public interest law firm
 that has a strong history of legal activism throughout the South.</p><p>The Christic Institute had filed a civil suit in a Miami Federal
 court against twenty-nine alleged members of the "Secret Team"
@@ -1189,7 +1189,7 @@ Institute--deserve recognition and support.</p><div3 id="sc10-5032" type="About"
             <p>Eric Guthey is a student in the Graduate Institute of
 Liberal Arts at Emory University.</p>
           </div3></div2>
-        <div2><head>A Letter from Lillian Smith</head><byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 22-23</docDate><bibl> </bibl><p>This is the final letter in a series published over the last year
+        <div2 id="sc10-5013" n="8" type="Article"><head>A Letter from Lillian Smith</head><byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 22-23</docDate><bibl/><p>This is the final letter in a series published over the last year
 by <title>Southern Changes</title> exploring the correspondence of
 Lillian Smith. The selection for this issue was written in the fall of
 1955 after Smith had spent a month as writer-in-residence at Vassar
@@ -1286,7 +1286,7 @@ of the fire.</p><p>Affectionately,</p><p>Lillian</p><div3 id="sc10-5023" type="A
             <p>Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p>
           </div3></div2>
-        <div2><head>U.S. Community Organizer Wounded by Contras</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No.5, 1988, p. 8</docDate><bibl> </bibl><p>The Rev. Lucius Walker, of the Interreligious Foundation for
+        <div2 id="sc10-5014" n="4" type="Article"><head>U.S. Community Organizer Wounded by Contras</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No.5, 1988, p. 8</docDate><bibl/><p>The Rev. Lucius Walker, of the Interreligious Foundation for
 Community Organization was wounded in August while leading a study
 tour to Nicaragua. Walker is the founding director of IFCO, a
 national, ecumenical, social justice agency.</p><p>Walker and nine other tour members were on a civilian ferry from
@@ -1326,7 +1326,7 @@ sponsors Central American Information Weeks during which speakers are
 made available throughout a state. Such events were held recently in
 South Carolina and Kentucky. For information, contact IFCO, 402
 W. 145th St., New York, NY 10031; 212-926-6757.</p></div2>
-        <div2><head>A Holiday Shopper's Guide to Alternative Giving</head><byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 18-20</docDate><bibl> </bibl><p>When my mother was a little girl in Centreville, Alabama, she
+        <div2 id="sc10-5015" n="7" type="Article"><head>A Holiday Shopper's Guide to Alternative Giving</head><byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 18-20</docDate><bibl/><p>When my mother was a little girl in Centreville, Alabama, she
 received the gift of an apple--not a real apple, but a wooden one with
 a tiny wooden tea set inside. The cups were no bigger than the tips of
 her fingers.</p><p>I loved hearing about that apple tea set as a child. For me it
@@ -1448,7 +1448,7 @@ Reconciliation, Box 271, Nyack, NY 10960.</item></list></item></list></p><div3 i
             <p>Writer and editor Kelly Dowe lives in Tuscaloosa,
 Ala.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 24, 23</docDate><bibl> </bibl><p>In the fall and winter of 1984, fifty
+        <div2 id="sc10-5016" n="9" type="Article"><head>The Cold Hard Truth</head><byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline><docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 24, 23</docDate><bibl/><p>In the fall and winter of 1984, fifty
 white FBI agents came bustling into five west Alabama black-majority
 counties. The feds visited more than 1,000 black voters, often late at
 night, and many of them elderly. Alabama State Troopers later joined

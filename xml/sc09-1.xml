@@ -70,8 +70,8 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 9, Number 1, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 1,
 	       <date value="1987-03">1987</date></p>
-        <div2><head>Popular Education in Nicaragua</head><byline>By <docAuthor><name reg="Collier, Marty" type="person">Marty
-               Collier</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 7-9</docDate><bibl> </bibl><p>"Watching the Nicaraguan popular educators reaffirmed my own
+        <div2 id="sc09-1002" n="3" type="Article"><head>Popular Education in Nicaragua</head><byline>By <docAuthor><name reg="Collier, Marty" type="person">Marty
+               Collier</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 7-9</docDate><bibl/><p>"Watching the Nicaraguan popular educators reaffirmed my own
 experience that to do popular education, you have to start from
 people's own experiences. In SALT this is what we do," said Linda
 Martin, a staffer of Southern Appalachian Leadership Training
@@ -284,7 +284,7 @@ education. She has been a member of the editorial board of and has
 worked in popular education through the Southern Neighborhoods
 Network, P.O. Box 121133. Nashville, TN, 37212.</p>
           </div3></div2>
-        <div2><head>Building the Union in an Anti-Union Age</head><byline>By <docAuthor><name reg="Acuff, Stewart" type="person">Stewart Acuff</name> and <name reg="Sarason, Robert" type="person">Robert Sarason</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 10-11</docDate><bibl> </bibl><p>How does a labor union organize and represent a group of employees
+        <div2 id="sc09-1003" n="4" type="Article"><head>Building the Union in an Anti-Union Age</head><byline>By <docAuthor><name reg="Acuff, Stewart" type="person">Stewart Acuff</name> and <name reg="Sarason, Robert" type="person">Robert Sarason</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 10-11</docDate><bibl/><p>How does a labor union organize and represent a group of employees
 who neither have a collective bargaining contract nor any federal or
 state collective bargaining legislation under the protections of the
 National Labor Relations Act? In light of the Reagan Administration's
@@ -419,9 +419,9 @@ will build and change will come.</p><div3 id="sc09-1023" type="About">
 Local 1985. Robert Sarason is a regional coordinator of
 SEIU.</p>
           </div3></div2>
-        <div2><head>Lillian Smith: <title>A Southerner Confronting the
+        <div2 id="sc09-1004" n="5" type="Review"><head>Lillian Smith: <title>A Southerner Confronting the
 South</title>. By Anne Loveland. (Baton Rouge: Louisiana State
-University Press, 1986. $22.50).</head><byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 13-14</docDate><bibl> </bibl><p>Before she died in 1966 Lillian Smith was contacted and sometimes
+University Press, 1986. $22.50).</head><byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 13-14</docDate><bibl/><p>Before she died in 1966 Lillian Smith was contacted and sometimes
 interviewed by several prospective biographers. Because she knew her
 worth, Smith cooperated and compiled a rather extensive collection of
 autobiographical notes, chronologies, and lists of significant friends
@@ -522,8 +522,8 @@ appreciation of her character remains to be written.</p><div3 id="sc09-1024" typ
             <p>Rose Gladney is assistant professor of American Studies
 at the University of Alabama, Tuscaloosa.</p>
           </div3></div2>
-        <div2><head><title>Myth, Media, and the Southern Mind</title> By Stephen
-A. Smith (Fayetteville: University of Arkansas Press, 1986.)</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 15-16</docDate><bibl> </bibl><p>If anything is more prolific than kudzu in the South, it's
+        <div2 id="sc09-1005" n="6" type="Review"><head><title>Myth, Media, and the Southern Mind</title> By Stephen
+A. Smith (Fayetteville: University of Arkansas Press, 1986.)</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 15-16</docDate><bibl/><p>If anything is more prolific than kudzu in the South, it's
 mythology. The collective imagination of Southerners--romantic,
 gothic, adventurous, heroic, humorous, instructive--has thrived in
 courtroom and classrooms, pulpits and porch swings, since the
@@ -631,7 +631,7 @@ important step in the direction of understanding reality--the true
 meaning of our past, present, and future. Thanks to Stephen Smith's
 insightful book, we have more much-needed help in understanding the
 once and future South.</p></div2>
-        <div2><head>H.L. Mitchell A Lifetime of Organizing and Hell-Raising</head><byline>By <docAuthor><name reg="Land, Mike" type="person">Mike Land</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 3-7</docDate><bibl> </bibl><p>The way H.L. Mitchell figures it, the central mission of his life
+        <div2 id="sc09-1006" n="2" type="Article"><head>H.L. Mitchell A Lifetime of Organizing and Hell-Raising</head><byline>By <docAuthor><name reg="Land, Mike" type="person">Mike Land</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 3-7</docDate><bibl/><p>The way H.L. Mitchell figures it, the central mission of his life
 has been to "raise hell."</p><p>"I always believed that if you raised enough hell, something
 would be done about a problem," he said, smiling.</p><p>"And I always tried to do that."</p><p>Armed with a socialist's convictions and a cutting dry wit,
 Mitchell has raised that hell far and wide. In 1934 he helped found
@@ -809,7 +809,7 @@ the sky, and if something gets in their eyes, they can then say:
             <p>Mike Land is a reporter for the
 <title>Alabama Journal</title> in Montgomery.</p>
           </div3></div2>
-        <div2><head>More Cuts for the Poor</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 1-2</docDate><bibl> </bibl><p>Most attention to President Reagan's proposed 1987 budget has been
+        <div2 id="sc09-1007" n="1" type="Article"><head>More Cuts for the Poor</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-03">Vol. 9, No. 1, 1987, pp. 1-2</docDate><bibl/><p>Most attention to President Reagan's proposed 1987 budget has been
 placed on the overall size of the budget and the record-breaking
 deficits. But this budget is also important because it continues the
 Reagan effort to cut programs that serve the poor.</p><p>An analysis of the proposed budget by the Washington-based Center

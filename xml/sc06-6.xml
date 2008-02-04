@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 6, Number 6, 1984</head>
         <p><title>Southern Changes</title>.  Volume 6, Number 6,
 	       <date value="1984-12">1984</date></p>
-        <div2><head>It's Jesse Again</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 1-3</docDate><bibl> </bibl><p>Relying on $14 million worth of accusation, racial invective and
+        <div2 id="sc06-6002" n="1" type="Article"><head>It's Jesse Again</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 1-3</docDate><bibl/><p>Relying on $14 million worth of accusation, racial invective and
 unrepentant lying, Sen. Jesse Helms has been reelected.</p><p>He defeated North Carolina's popular governor, Jim Hunt, by
 fifty-one percent to forty-nine percent of the vote. Thus, a state
 once considered the South's most progressive has offered--once
@@ -218,7 +218,7 @@ fact, that was precisely what he had done.</p><p>Astonishly enough, the lying pr
             <p>Frye Gaillard is an editorial page writer for the
 <title>Charlotte Observer</title>.</p>
           </div3></div2>
-        <div2><head>Plantation Portraits: Women of the Louisiana Cane Fields</head><byline>By <docAuthor><name reg="Laudin, Tika" type="person">Tika Laudin</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 4-6</docDate><bibl> </bibl><p>
+        <div2 id="sc06-6003" n="2" type="Article"><head>Plantation Portraits: Women of the Louisiana Cane Fields</head><byline>By <docAuthor><name reg="Laudin, Tika" type="person">Tika Laudin</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 4-6</docDate><bibl/><p>
             <hi rend="bold">HELEN CASSIMERE</hi>
           </p><p>
             <hi rend="bold">Jeanerette, formerly Kilgro and Hope Plantations.</hi>
@@ -342,8 +342,8 @@ residents.</p>
 for five dollars from the Southern Mutual Help Association, P. O. Box
 850, Jeanerette, Louisiana 70544.</p>
           </div3></div2>
-        <div2><head>Southern Hunger in the Eighties: Win this one for the
-Reaper</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 6-11, 13-16</docDate><bibl> </bibl><epigraph>
+        <div2 id="sc06-6004" n="3" type="Article"><head>Southern Hunger in the Eighties: Win this one for the
+Reaper</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 6-11, 13-16</docDate><bibl/><epigraph>
             <p>"There's no basis for this demagoguery that somehow we
 have punished, and are picking on, or trying to get our recovery on
 the backs of the needy. . . there is not one single fact or
@@ -878,8 +878,8 @@ and Texas"; "Hunger in Illinois and Missouri." Boston. October,
 War</title>. New York: Pantheon. 1982.</p><p>U.S. Department of Commerce, Bureau of the Census. <title>Money
 Income and Poverty Status of Families and Persons in the United
 States</title>: 1983. Washington. August, 1984.</p></div2>
-        <div2><head>Statement of Dr. Aaron Shirley before the House Select Committee
-on Hunger. Greenwood, Mississippi June 25, 1984</head><byline>By <docAuthor><name reg="Shirley, Aaron" type="person">Aaron Shirley</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, p. 12</docDate><bibl> </bibl><p>My name is Aaron Shirley. I am a practicing pediatrician and the
+        <div2 id="sc06-6005" n="4" type="Article"><head>Statement of Dr. Aaron Shirley before the House Select Committee
+on Hunger. Greenwood, Mississippi June 25, 1984</head><byline>By <docAuthor><name reg="Shirley, Aaron" type="person">Aaron Shirley</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, p. 12</docDate><bibl/><p>My name is Aaron Shirley. I am a practicing pediatrician and the
 project director of the Jackson Hinds Comprehensive Health Center in
 Jackson, Mississippi. I also serve as chairman of the Board of
 Trustees of the Mississippi Medical and Surgical Association, an
@@ -951,7 +951,7 @@ between a child who is healthy, happy and capable of learning and
 developing into a productive citizen or one who is hungry and
 malnourished, apathetic and vulnerable to sickness and disease and
 possibly a shortened life span.</p></div2>
-        <div2><head>Of Hungry Children, 1967</head><byline>By <docAuthor><name reg="Wheeler, Raymond M., M.D." type="person">Raymond M. Wheeler, M.D.</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, p. 15</docDate><bibl> </bibl><p>I am distressed and concerned that Senators Stennis and Eastland
+        <div2 id="sc06-6006" n="5" type="Article"><head>Of Hungry Children, 1967</head><byline>By <docAuthor><name reg="Wheeler, Raymond M., M.D." type="person">Raymond M. Wheeler, M.D.</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, p. 15</docDate><bibl/><p>I am distressed and concerned that Senators Stennis and Eastland
 interpret my remarks this morning as libelous to the state of
 Mississippi.</p><p>I was born and reared and educated in the South. I love the region
 as much as they do. I reported what I saw because it is intolerable to
@@ -1000,7 +1000,7 @@ the presentations of the physicians, Mississippi Senators James
 libel to the state of Mississippi. " Dr. Wheeler then made the
 following reply.</p>
           </div3></div2>
-        <div2><head>Southern Banks Charge Ahead</head><byline>By <docAuthor><name reg="Overton, Jim" type="person">Jim Overton</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 18-20</docDate><bibl> </bibl><p>A financial services revolution is underway and Southern banks are
+        <div2 id="sc06-6007" n="6" type="Article"><head>Southern Banks Charge Ahead</head><byline>By <docAuthor><name reg="Overton, Jim" type="person">Jim Overton</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 18-20</docDate><bibl/><p>A financial services revolution is underway and Southern banks are
 doing their damndest to make sure they get as large a slice of the pie
 as possible. In the process they are likely to wreak havoc on the
 access to banking services that people at the lower end of the income
@@ -1182,10 +1182,10 @@ uncertain future.</p><div3 id="sc06-6027" type="About">
             <p>Jim Overton is the associate publisher of <title>The
 North Carolina Independent.</title></p>
           </div3></div2>
-        <div2><head><title>The Bear.</title> A film from Embassy Pictures,
+        <div2 id="sc06-6008" n="7" type="Review"><head><title>The Bear.</title> A film from Embassy Pictures,
 1984. Larry G. Spangler, producer; Richard Sarafian, director; written
 by Michael Kane; starring Gary Busey as Coach Paul "Bear"
-Bryant.</head><byline>Reviewed by <docAuthor><name reg="Gorn, Elliott J." type="person">Elliott J. Gorn</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 20, 22-23</docDate><bibl> </bibl><p>I first moved to Tuscaloosa, carpetbag in hand, in 1981. I was
+Bryant.</head><byline>Reviewed by <docAuthor><name reg="Gorn, Elliott J." type="person">Elliott J. Gorn</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 20, 22-23</docDate><bibl/><p>I first moved to Tuscaloosa, carpetbag in hand, in 1981. I was
 enough of a football fan to know that the University of Alabama
 produced consistently strong teams and that Paul "Bear" Bryant was one
 of the most successful coaches in the country. Still, I was
@@ -1338,7 +1338,7 @@ at the University of Alabama in Tuscaloosa. He is completing study of
 the early history of prize fighting in America, to be entitled
 <title>The Manly Art.</title></p>
           </div3></div2>
-        <div2><head>The Politics of Culture in an American Region</head><byline>Reviewed by <docAuthor><name reg="Williamson, J.W." type="person">J.W. Williamson</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 23-24</docDate><bibl> </bibl><bibl><title>All That Is Native and Fine: The Politics of Culture in
+        <div2 id="sc06-6009" n="8" type="Review"><head>The Politics of Culture in an American Region</head><byline>Reviewed by <docAuthor><name reg="Williamson, J.W." type="person">J.W. Williamson</name></docAuthor></byline><docDate value="1984-12">Vol. 6, No. 6, 1984, pp. 23-24</docDate><bibl/><bibl><title>All That Is Native and Fine: The Politics of Culture in
 an American Region</title> by David E. Whisnant. University of North
 Carolina Press, 1983. 340 pp.</bibl><p>The first time I ever laid eyes on David Whisnant was at a big
 conference in the mountains called "Toward 1984: The Future of

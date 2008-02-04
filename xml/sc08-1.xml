@@ -70,9 +70,9 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 8, Number 1, 1986</head>
         <p><title>Southern Changes</title>.  Volume 8, Number 1,
 	       <date value="1986-02">1986</date></p>
-        <div2><head><title>Southern Liberal Journalists and the Issue of Race,
+        <div2 id="sc08-1002" n="5" type="Review"><head><title>Southern Liberal Journalists and the Issue of Race,
 1920-1944</title> by John T. Kneebone. Chapel Hill: The University of
-North Carolina Press, 1985.</head><byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 22-24</docDate><bibl> </bibl><p>The term "liberal" often obscures more than it explains. The
+North Carolina Press, 1985.</head><byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 22-24</docDate><bibl/><p>The term "liberal" often obscures more than it explains. The
 adjective "southern" is certain to add to the confusion.</p><p>There is an implicit assumption that "southern liberal" means white
 southern liberal. The image of a southern liberal between the two
 world wars, the period John Kneebone addresses, evokes an ambivalent
@@ -255,7 +255,7 @@ explore.</p><div3 id="sc08-1022" type="About">
 the Study of Civil Rights and lecturer in history at the University of
 Virginia.</p>
           </div3></div2>
-        <div2><head>Women and Children in Poverty </head><byline>By <docAuthor><name reg="Pearce, Diana" type="person">Diana Pearce</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate><bibl> </bibl><p>
+        <div2 id="sc08-1003" n="1" type="Article"><head>Women and Children in Poverty </head><byline>By <docAuthor><name reg="Pearce, Diana" type="person">Diana Pearce</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate><bibl/><p>
             <hi rend="italic">Two out of three adults in poverty today are
 women. Three-fourths of America's more than 34 million poor consist of
 women and their children. Over half of children in poverty live in
@@ -589,7 +589,7 @@ poverty issues, and coined the phrase the "feminization of poverty" in
 desegregation, including serving as an expert witness in the Yonkers
 (NY) Ouachita Parish (Monroe, LA) cases.</p>
           </div3></div2>
-        <div2><head>American Poverty, World Poverty</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate><bibl> </bibl><p>For poor people in this country, and in the world, the outlook is
+        <div2 id="sc08-1004" n="2" type="Article"><head>American Poverty, World Poverty</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate><bibl/><p>For poor people in this country, and in the world, the outlook is
 not good. And because the lives of the poor are joined together with
 ours, their problems and poverty are ours-directly and indirectly, in
 our communities, through international trade, and through
@@ -876,7 +876,7 @@ South a better place for all of our people.</p><div3 id="sc08-1024" type="About"
 in Economics and Public Affairs at the University of Texas at Austin,
 and is  vice-president of the Southern Regional Council.</p>
           </div3></div2>
-        <div2><head>Casualty Count.  The War Against the Poor</head><byline>By <docAuthor><name reg="Greenstein, Robert" type="person">Robert Greenstein</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate><bibl> </bibl><p>If you look at the statistics of American poverty today, one
+        <div2 id="sc08-1005" n="3" type="Article"><head>Casualty Count.  The War Against the Poor</head><byline>By <docAuthor><name reg="Greenstein, Robert" type="person">Robert Greenstein</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate><bibl/><p>If you look at the statistics of American poverty today, one
 set--the figures for children's poverty--hits you over the
 head. Fifteen years ago the child poverty rate was between thirteen
 and fourteen percent. Last year it was over twenty-one percent. The
@@ -1044,7 +1044,7 @@ write to 236 Massachusetts Ave., NE, .Suite 305, Washington, DC
 from his talk at the 1985 annual meeting of the Southern Regional
 Council.</p>
           </div3></div2>
-        <div2><head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &#x26;Row 247 pp. $15.95</head><byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No.1, 1986, pp. 20-22</docDate><bibl> </bibl><p>The tumultuous decade of the 1960s still hovers over us like a
+        <div2 id="sc08-1006" n="5" type="Review"><head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &#x26;Row 247 pp. $15.95</head><byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1986-02">Vol. 8, No.1, 1986, pp. 20-22</docDate><bibl/><p>The tumultuous decade of the 1960s still hovers over us like a
 great gray cloud, a mighty shadow of lingering hope and despair and
 wonder. We look back now with amazement bordering on disbelief at the
 exhilarating and traumatic ascensions and plunges that our society

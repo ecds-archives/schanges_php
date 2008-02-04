@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 11, Number 6, 1989</head>
         <p><title>Southern Changes</title>.  Volume 11, Number 6,
 	       <date value="1989-12">1989</date></p>
-        <div2><head>An Unending Stream: History One Day at a Time.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate><bibl> </bibl><bibl><title>The News
+        <div2 id="sc11-6002" n="6" type="Review"><head>An Unending Stream: History One Day at a Time.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate><bibl/><bibl><title>The News
 and Observer,</title> Raleigh, North Carolina, (Friday, November 17,
 1989, five sections, $0.25).</bibl><p>We are swamped by information. The least of us knows, sort of,
 things that the wisest of old could hardly imagine; nor the most
@@ -233,7 +233,7 @@ man, 175 feet aloft.</p><div3 id="sc11-6022" type="About">
             <p>LESLIE DUNBAR is the review editor of 
 <title>Southern Changes.</title></p>
           </div3></div2>
-        <div2><head>An Insider's Account of Race and Politics in the Delta.</head><byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 17-19</docDate><bibl> </bibl><bibl><title>Even Mississippi</title> by Melany Neilson (Tuscaloosa:
+        <div2 id="sc11-6003" n="5" type="Review"><head>An Insider's Account of Race and Politics in the Delta.</head><byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 17-19</docDate><bibl/><bibl><title>Even Mississippi</title> by Melany Neilson (Tuscaloosa:
 University of Alabama Press, 1989. xiv, pp. 199).</bibl><p>Part memoir and part campaign history, <title>Even
 Mississippi</title> is worthwhile reading for its insider's account of
 race and politics in the Mississippi Delta of the early 1980s.</p><p>Melany Neilson grew up in the turbulent wake of the civil rights
@@ -339,11 +339,11 @@ for the first time, and then slipped quietly out the back.</p><div3 id="sc11-602
 Smith, former editor and publisher of the Holmes County
 <title>Lexington Advertiser.</title></p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By 
+        <div2 id="sc11-6004" n="7" type="Article"><head>The Cold Hard Truth</head><byline>By 
             <docAuthor>
               <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name>
             </docAuthor>
-          </byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate><bibl> </bibl><p>The unspeakable and cowardly Sunday morning bombing and slaughter
+          </byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate><bibl/><p>The unspeakable and cowardly Sunday morning bombing and slaughter
 of the four children in Birmingham's Sixteenth Street Baptist Church
 is like it happened yesterday. It will always remain so in the minds
 of many.</p><p>Scores of my associates cannot recall many days since that bombing
@@ -394,7 +394,7 @@ questions.</p><p>Peace.</p><div3 id="sc11-6024" type="About">
             <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3></div2>
-        <div2><head>The Pittston Strike</head><byline>By <docAuthor><name reg="Thompson, Charlie D." type="person">Charlie D. Thompson</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate><bibl> </bibl><p>AFTER CROSSING THE Clinch River and heading into the extreme
+        <div2 id="sc11-6005" n="1" type="Article"><head>The Pittston Strike</head><byline>By <docAuthor><name reg="Thompson, Charlie D." type="person">Charlie D. Thompson</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate><bibl/><p>AFTER CROSSING THE Clinch River and heading into the extreme
 southwestern corner of Virginia, the terrain begins to close in around
 you. The rolling farmland to the east gives way to steep mountains
 with valleys barely wide enough to fit both a road and a house
@@ -588,7 +588,7 @@ a strike of international dimensions is underway. Those who know this
 continue to come. Those who have always been here pledge to remain as
 solid as the mountains which surround them. They are not about to give
 in now.</p></div2>
-        <div2><head>Culture-Bound Southern Baptists and Their Exiles.</head><byline>Reviewed by <docAuthor><name reg="Hendricks, Joseph" type="person">Joseph Hendricks</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate><bibl> </bibl><bibl><title>Churches in Cultural Captivity, A History of the Social Attitudes of Southern
+        <div2 id="sc11-6006" n="4" type="Review"><head>Culture-Bound Southern Baptists and Their Exiles.</head><byline>Reviewed by <docAuthor><name reg="Hendricks, Joseph" type="person">Joseph Hendricks</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate><bibl/><bibl><title>Churches in Cultural Captivity, A History of the Social Attitudes of Southern
 Baptists</title> by John Lee Eighmy (Knoxville: The University of
 Tennessee Press, 1972, revised 1987).</bibl><p>When John Lee Eighmy suffered a fatal heart attack in 1970, he had
 almost completed his important study on the influence of the social
@@ -685,7 +685,7 @@ without being <hi rend="italic">of</hi> it.</p><div3 id="sc11-6026" type="About"
 Mercer University, a Southern Baptist, and a long-time active
 challenger of injustice in Georgia and the South.</p>
           </div3></div2>
-        <div2><head>We the Baptists: Trading Away a Birthright.</head><byline>Reviewed by <docAuthor><name reg="Finlator, W. W." type="person">W. W. Finlator</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate><bibl> </bibl><bibl><title>The Southern Baptists: A Subculture in Transition</title> by Ellen Rosenberg (Knoxville: University of
+        <div2 id="sc11-6007" n="3" type="Review"><head>We the Baptists: Trading Away a Birthright.</head><byline>Reviewed by <docAuthor><name reg="Finlator, W. W." type="person">W. W. Finlator</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate><bibl/><bibl><title>The Southern Baptists: A Subculture in Transition</title> by Ellen Rosenberg (Knoxville: University of
 Tennessee Press, 1989, 240 pp.).</bibl><p>There are times when the publication of a book is greeted with a
 Glory Be, Welcome Thrice Welcome, Amen and Amen! Such is my response
 to anthropologist Ellen Rosenberg's <title>The Southern Baptists, A
@@ -747,7 +747,7 @@ Liberties (1989's was to Claude Sitton, editor of the News and
 Observer) the "W.W. Finlator Award." Has any other Southern Baptist
 preacher been so honored?</p>
           </div3></div2>
-        <div2><head>The Court and the Black Community</head><byline>By <docAuthor><name reg="Chambers, Julius L." type="person">Julius L. Chambers</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate><bibl> </bibl><p>EDITORS' NOTE: The following essay is an edited version of a talk
+        <div2 id="sc11-6008" n="2" type="Article"><head>The Court and the Black Community</head><byline>By <docAuthor><name reg="Chambers, Julius L." type="person">Julius L. Chambers</name></docAuthor></byline><docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate><bibl/><p>EDITORS' NOTE: The following essay is an edited version of a talk
 presented November 15, 1989, as the second lecture in the Grace Towns
 Hamilton Lecture Series, sponsored by the African-American And African
 Studies programs at Emory University in honor of retired Georgia State

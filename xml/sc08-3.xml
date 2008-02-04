@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 8, Number 3, 1989</head>
         <p><title>Southern Changes</title>.  Volume 8, Number 3,
 	       <date value="1986-09">1986</date></p>
-        <div2><head>The Poverty of Policy</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 1-3</docDate><bibl> </bibl><p>In late August the casualty list for 1986 in America's half-hearted
+        <div2 id="sc08-3002" n="1" type="Article"><head>The Poverty of Policy</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 1-3</docDate><bibl/><p>In late August the casualty list for 1986 in America's half-hearted
 war on poverty revealed that fourteen percent of Americans were living
 in "official" poverty (an annual income of below $10,989 for a family
 of four). As this year's Census Bureau statistics stood four-tenths of
@@ -187,7 +187,7 @@ courts.</p><div3 id="sc08-3022" type="About">
             <p>Steve Suitts is executive director of the Southern
 Regional Council.</p>
           </div3></div2>
-        <div2><head>Taking the Fifth</head><byline>By <docAuthor><name reg="Davis, Marilyn" type="person">Marilyn Davis</name> and <name reg="Willingham,  Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 7-9</docDate><bibl> </bibl><p>Two election contests have drawn much attention to Georgia this
+        <div2 id="sc08-3003" n="3" type="Article"><head>Taking the Fifth</head><byline>By <docAuthor><name reg="Davis, Marilyn" type="person">Marilyn Davis</name> and <name reg="Willingham,  Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 7-9</docDate><bibl/><p>Two election contests have drawn much attention to Georgia this
 year: a race crucial in determining the party alignment in the US
 Senate, and a struggle between long-time allies that will send a
 strong and articulate black Southerner to Congress. Indeed, the Senate
@@ -407,7 +407,7 @@ College in Atlanta. Alex Willingham is research associate at the
 Southern Regional Council and a contributing editor of <title>Southern
 Changes</title>.</p>
           </div3></div2>
-        <div2><head>In Wallace's Wake--New Demagoguery for the Eighties</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 10-12</docDate><bibl> </bibl><p>"Alabama has it all," brag the interstate billboards leading into
+        <div2 id="sc08-3004" n="4" type="Article"><head>In Wallace's Wake--New Demagoguery for the Eighties</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 10-12</docDate><bibl/><p>"Alabama has it all," brag the interstate billboards leading into
 the Heart of Dixie. The slogan is aimed mostly at Florida- or
 Louisiana-bound tourists but nowadays applies equally well to the
 contest for the state's governorship.</p><p>The Democratic primary and run-off were held in June, but the
@@ -610,7 +610,7 @@ right-wing organizations.</hi>
 <title>Southern Changes</title> and a partner in the Black Belt
 Communications Group of Montgomery, Alabama.</p>
           </div3></div2>
-        <div2><head>CDC Study Reveals--South's Hysterectomy Rate Highest</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">AET</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 13-14</docDate><bibl> </bibl><p>Nearly five million American women underwent hysterectomies in the
+        <div2 id="sc08-3005" n="5" type="Article"><head>CDC Study Reveals--South's Hysterectomy Rate Highest</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">AET</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 13-14</docDate><bibl/><p>Nearly five million American women underwent hysterectomies in the
 last decade, making this procedure one of the most frequently
 performed operations for women of reproductive age and an important
 public health concern. Since 1970, the Centers for Disease Control
@@ -703,7 +703,7 @@ and Sara W. Gill (of the Research and Statistics Branch), Division of
 Reproductive Health, Center for Health Promotion and
 Education.</p>
           </div3></div2>
-        <div2><head>Empty Rituals in the War on Drugs</head><byline>By <docAuthor><name reg="Crowther, Hal" type="person">Hal Crowther</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 14-15</docDate><bibl> </bibl><p>Two months dead and Len Bias is still making headlines. When
+        <div2 id="sc08-3006" n="6" type="Article"><head>Empty Rituals in the War on Drugs</head><byline>By <docAuthor><name reg="Crowther, Hal" type="person">Hal Crowther</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 14-15</docDate><bibl/><p>Two months dead and Len Bias is still making headlines. When
 cocaine claims a victim who's young and famous and a gifted athlete,
 it has to be someone else's fault. Find the dealer--some other black
 kid on a Washington street corner who might have made twenty sales
@@ -826,7 +826,7 @@ side.</p><div3 id="sc08-3026" type="About">
             <p>Hal Crowther writes for the <title>Spectator</title> of
 Raleigh, N.C., from which this article is adapted.</p>
           </div3></div2>
-        <div2><head>Uneasy Victories in the Supreme Court</head><byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 15-18</docDate><bibl> </bibl><p>During the 1985-1986 term, the Supreme Court decided eight major
+        <div2 id="sc08-3007" n="7" type="Article"><head>Uneasy Victories in the Supreme Court</head><byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 15-18</docDate><bibl/><p>During the 1985-1986 term, the Supreme Court decided eight major
 race discrimination cases. Four involved employment discrimination and
 affirmative action, three involved jury selection and the seventh
 voting rights. In all eight, the basic positions (if not the specific
@@ -1192,7 +1192,7 @@ Nation's racial minorities.</p><div3 id="sc08-3027" type="About">
             <p>Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union Foundation.</p>
           </div3></div2>
-        <div2><head>Tombee: Portrait of a Cotton Planter</head><byline>Reviewed by <docAuthor><name reg="Wood, Peter H." type="person">Peter H. Wood</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 21-24</docDate><bibl> </bibl><bibl><title>Tombee: Portrait of a Cotton Planter</title> by
+        <div2 id="sc08-3008" n="10" type="Review"><head>Tombee: Portrait of a Cotton Planter</head><byline>Reviewed by <docAuthor><name reg="Wood, Peter H." type="person">Peter H. Wood</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 21-24</docDate><bibl/><bibl><title>Tombee: Portrait of a Cotton Planter</title> by
 Theodore Rosengarten. With the <title>Journal of Thomas
 B. Chaplin</title> (1822-1890). New York: William Morrow and Company,
 Inc., 1986. $22.95.  <title>Drums and Shadows: Survival Studies Among 
@@ -1409,7 +1409,7 @@ Early American History at Duke University. He is the author of
 <title>Black Majority: Negroes in Colonial South Carolina from 1670
 Through the Stono Rebellion</title>.</p>
           </div3></div2>
-        <div2><head>Steve Earle's Hope on the Highway</head><byline>By <docAuthor><name reg="Orr, Jay" type="person">Jay Orr</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 19-21</docDate><bibl> </bibl><p>Steve Earle has caused a stir in the Nashville music industry with
+        <div2 id="sc08-3009" n="9" type="Article"><head>Steve Earle's Hope on the Highway</head><byline>By <docAuthor><name reg="Orr, Jay" type="person">Jay Orr</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 19-21</docDate><bibl/><p>Steve Earle has caused a stir in the Nashville music industry with
 the release of his debut album, Guitar Town, on MCA records. In
 February 1985, I first saw Earle and his rock 'n' roll band, the
 Dukes, in the basement of a high-rise residence hall at Vanderbilt
@@ -1513,7 +1513,7 @@ cultural, and social importance.</p><div3 id="sc08-3029" type="About">
             <p>Jay Orr works at the library of the Country Music
 Foundation in Nashville.</p>
           </div3></div2>
-        <div2><head>The Shame of Contra Aid</head><byline>By <docAuthor><name reg="Finlator, W.W." type="person">W.W. Finlator</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 18-19</docDate><bibl> </bibl><p>The Old Testament prophet called down woe upon those who said that
+        <div2 id="sc08-3010" n="8" type="Article"><head>The Shame of Contra Aid</head><byline>By <docAuthor><name reg="Finlator, W.W." type="person">W.W. Finlator</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 18-19</docDate><bibl/><p>The Old Testament prophet called down woe upon those who said that
 darkness was light and light was darkness. We today fall within the
 shadow of that prophetic judgment since, led by our super-patriotic
 President, we have come to call what is truly American, un-American,
@@ -1594,7 +1594,7 @@ Congress and why we must hold them to strict account.</p><div3 id="sc08-3030" ty
             <p>Rev. W. W. Finlator is the retired pastor of Pullen
 Memorial Baptist Church in Raleigh, N. C.</p>
           </div3></div2>
-        <div2><head>Cells for Sale</head><byline>By <docAuthor><name reg="Wray, Harmon L., Jr." type="person">Harmon L. Wray, Jr.</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 3-6</docDate><bibl> </bibl><p>The rush to transfer government services and functions from public
+        <div2 id="sc08-3011" n="2" type="Article"><head>Cells for Sale</head><byline>By <docAuthor><name reg="Wray, Harmon L., Jr." type="person">Harmon L. Wray, Jr.</name></docAuthor></byline><docDate value="1986-09">Vol. 8, No. 3, 1986, pp. 3-6</docDate><bibl/><p>The rush to transfer government services and functions from public
 to profit-making hands has lately found its way to the "field" of
 incarceration and corrections. The current leader in this new growth
 industry is the Nashville-based Corrections Corporation of America,

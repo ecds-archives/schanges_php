@@ -70,8 +70,8 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 12, Number 3, 1990</head>
         <p><title>Southern Changes</title>.  Volume 12, Number 3,
 	       <date value="1990-08">1990</date></p>
-        <div2><head>Letting Loose of Liberalism: Some Thoughts on Cultural Work and
-the Limits of Polite Discourse</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 1-11</docDate><bibl> </bibl><p>IN Walker Percy's story "The Last Donahue Show," the topic of the
+        <div2 id="sc12-3002" n="1" type="Article"><head>Letting Loose of Liberalism: Some Thoughts on Cultural Work and
+the Limits of Polite Discourse</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 1-11</docDate><bibl/><p>IN Walker Percy's story "The Last Donahue Show," the topic of the
 day is "sexual preference." Midway through, the show is interrupted by
 three intruders: a black-cloaked Calvin-like spokesman for the old
 culture of Puritan New England, handsome Col. John Pelham, a paragon
@@ -636,8 +636,8 @@ region. Currently he is working on a book on the politics of culture
 in Nicaragua. This essay was prepared for the southeastern regional
 meeting of the state humanities councils, May 19, 1990.</p>
           </div3></div2>
-        <div2><head>Politics the Beloved Commune: Arkansas has the opportunity to
-learn from the experiences of other Southern states</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 13-16</docDate><bibl> </bibl><p>THE YEAR 1990 may be remembered as a profound moment for Arkansas
+        <div2 id="sc12-3004" n="2" type="Article"><head>Politics the Beloved Commune: Arkansas has the opportunity to
+learn from the experiences of other Southern states</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 13-16</docDate><bibl/><p>THE YEAR 1990 may be remembered as a profound moment for Arkansas
 politics. This is the 25th anniversary of the passage of the Voting
 Rights Act, perhaps the most powerful instrument in the twentieth
 century for fairness in the U.S. political process. And it is this
@@ -812,7 +812,7 @@ land of politics, the politics of a beloved community?</p><div3 id="sc12-3024" t
 Regional Council. This article is excerpted from is May 1990 speech to
 the Arkansas Political Exchange in West Memphis, Ark.</p>
           </div3></div2>
-        <div2><head>Human Heroics in Uniting an Old Culture to New Religion.</head><byline>Reviewed by <docAuthor><name reg="Prejean, Charles" type="person">Charles Prejean</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 17-18</docDate><bibl> </bibl><bibl><title>Ain't you Got a Right to the Tree of Life?</title> Recorded and
+        <div2 id="sc12-3005" n="4" type="Review"><head>Human Heroics in Uniting an Old Culture to New Religion.</head><byline>Reviewed by <docAuthor><name reg="Prejean, Charles" type="person">Charles Prejean</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 17-18</docDate><bibl/><bibl><title>Ain't you Got a Right to the Tree of Life?</title> Recorded and
 edited by Guy and Candie Carawan, with a preface by Charles Joyner and
 an afterword by Bernice Johnson Reagon. (The University of Georgia
 Press, 1989, second edition, 240 pp., $29.95.)</bibl><p>This important book restates the values and updates the chronicle
@@ -902,11 +902,11 @@ Federation of Southern Cooperatives, has been one of the outstanding
 leaders of the rural South. He is now teaching political science at
 Xavier.</p>
           </div3></div2>
-        <div2><head>The Importance of Race in the Classroom.</head><byline>
+        <div2 id="sc12-3006" n="5" type="Review"><head>The Importance of Race in the Classroom.</head><byline>
             <docAuthor>
               <name reg="L.W.D" type="person">L. W. D.</name>
             </docAuthor>
-          </byline><docDate value="1990-08">Vol. 12, No. 3, 1990, p. 18</docDate><bibl> </bibl><bibl><title>RACE, CLASS, AND EDUCATION: The Polities
+          </byline><docDate value="1990-08">Vol. 12, No. 3, 1990, p. 18</docDate><bibl/><bibl><title>RACE, CLASS, AND EDUCATION: The Polities
 	       of Second-Generation Discrimination</title> by Kenneth
 	       J. Meier, Joseph Stewart Jr., and Robert E;. England
 	       (University of Wisconsin Press, 1989, xiv, 194 pp.,
@@ -920,7 +920,7 @@ teachers, second-generation discrimination against black students
 would be significantly worse." This is a book that should be
 useful to school reformers and administrators, especially those
 equipped to deal with statistics.</p></div2>
-        <div2><head>The Need to Pierce Self-Serving Veils of Economic 'Expertise.'</head><byline>Reviewed by <docAuthor><name reg="Howland, Jacob" type="person">Jacob Howland</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 21-23</docDate><bibl> </bibl><bibl><title>Communities in Economic Crisis: Appalachia and the
+        <div2 id="sc12-3007" n="8" type="Review"><head>The Need to Pierce Self-Serving Veils of Economic 'Expertise.'</head><byline>Reviewed by <docAuthor><name reg="Howland, Jacob" type="person">Jacob Howland</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 21-23</docDate><bibl/><bibl><title>Communities in Economic Crisis: Appalachia and the
 South.</title> Edited by John Gaventa, Barbara Ellen Smith, and Alex
 Willingham (Temple University Press, 1990. xiii, 301 pp.).</bibl><p>Where should economic policy originate? Whom should it serve? What
 are its proper goals? The needs of any community include food,
@@ -1054,8 +1054,8 @@ a democratic and humane one.</p><div3 id="sc12-3027" type="About">
             <p>Jacob Howland is on the philosophy faculty at the
 University of Tulsa.</p>
           </div3></div2>
-        <div2><head>Making Votes Count in Arkansas--Challenge to Plantation-Style
-Politics</head><byline>By <docAuthor><name reg="Fleshler, Dan" type="person">Dan Fleshler</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 14-15</docDate><bibl> </bibl><p>Nearly every day this past year, M.C. Jeffers watched news reports
+        <div2 id="sc12-3008" n="3" type="Article"><head>Making Votes Count in Arkansas--Challenge to Plantation-Style
+Politics</head><byline>By <docAuthor><name reg="Fleshler, Dan" type="person">Dan Fleshler</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 14-15</docDate><bibl/><p>Nearly every day this past year, M.C. Jeffers watched news reports
 of Eastern European crowds clamoring for meaningful elections, for the
 right to run for political office. He heard smug commentators explain
 that people in places like Romania yearned for American-style
@@ -1149,7 +1149,7 @@ some places--throughout the Delta.</p><div3 id="sc12-3028" type="About">
 NAACP Legal Defense and Educational Fund, Inc. His article is adapted
 from <title>Equal Justice: LDF News.</title></p>
           </div3></div2>
-        <div2><head>A White Progressive Sounds the Trumpet from Inside.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Anthony" type="person">Anthony Dunbar</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 18-20</docDate><bibl> </bibl><bibl><title>Hearts and Minds, A Personal Chronicle of Race in
+        <div2 id="sc12-3009" n="6" type="Review"><head>A White Progressive Sounds the Trumpet from Inside.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Anthony" type="person">Anthony Dunbar</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 18-20</docDate><bibl/><bibl><title>Hearts and Minds, A Personal Chronicle of Race in
 America</title> by Harry S. Ashmore. Foreword by Harold C. Fleming
 (Cabin John, Maryland: Seven Locks Press. Revised Edition,
 1988. $14.95 paper.).</bibl><p>It was an exceptional book when it was first published in 1982, and
@@ -1277,7 +1277,7 @@ stature and vintage is still sounding that trumpet.</p><div3 id="sc12-3029" type
 lawyer. His latest book, <title>Delta Times</title>, reflects on
 Mississippi's Delta and its people.</p>
           </div3></div2>
-        <div2><head>A Passionate, First-Hand Story of One Place in the Movement.</head><byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 20-21</docDate><bibl> </bibl><bibl><title>JACKSON, MISSISSIPPI: An American Chronicle of Struggle and
+        <div2 id="sc12-3010" n="7" type="Review"><head>A Passionate, First-Hand Story of One Place in the Movement.</head><byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline><docDate value="1990-08">Vol. 12, No. 3, 1990, pp. 20-21</docDate><bibl/><bibl><title>JACKSON, MISSISSIPPI: An American Chronicle of Struggle and
 Schism</title> by John R Salter Jr. (Malabar, Florida: Robert
 E. Krueger Publishing Co., Inc. 1987. 256 pp., no price).</bibl><p>John Salter's book, which evokes the emotions, the frustrations,
 and the fears of Jackson in the early 1960s, is particularly valuable
@@ -1365,11 +1365,11 @@ edition.</p><div3 id="sc12-3030" type="About">
             <p>Writer Michael Cooper has been researching
 Mississippi.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By 
+        <div2 id="sc12-3011" n="9" type="Article"><head>The Cold Hard Truth</head><byline>By 
             <docAuthor>
               <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut. Jr.</name>
             </docAuthor>
-          </byline><docDate value="1990-08">Vol. 12, No. 3, 1990, p. 24</docDate><bibl> </bibl><p>There is a growing army of poor, suffering black souls all over
+          </byline><docDate value="1990-08">Vol. 12, No. 3, 1990, p. 24</docDate><bibl/><p>There is a growing army of poor, suffering black souls all over
 America. They are the "Unreachables."</p><p>They form the core of the crime and welfare problem. They make up
 the statistics on welfare cheats, crime increases, illegitimate
 children and the myriad pathologies that a society structured, in
