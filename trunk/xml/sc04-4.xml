@@ -70,8 +70,8 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 4, Number 4-5, 1982</head>
         <p><title>Southern Changes</title>.  Volume 4, Number 4-5,
 	       <date value="1982-08">1982</date></p>
-        <div2><head>Black Political Participation in the 1980's: Challenged by
-Conservatism</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 5-11</docDate><bibl> </bibl><p>Assessing the state of black politics today requires a
+        <div2 id="sc04-4002" n="3" type="Article"><head>Black Political Participation in the 1980's: Challenged by
+Conservatism</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 5-11</docDate><bibl/><p>Assessing the state of black politics today requires a
 fundamentally different approach from what would have been appropriate
 even ten years ago. For one thing we have the administration of Ronald
 Reagan which seeks to curb federal policies designed to promote racial
@@ -637,7 +637,7 @@ in the fall. He is editor of <title>SPECTRUM</title>, a forthcoming
 publication of the National Conference of Black Political
 Scientists.</p>
           </div3></div2>
-        <div2><head>Daddy's Missile: Shaping the South's Pre-war Economy</head><byline>By <docAuthor><name reg="Schlesinger, Tom" type="person">Tom Schlesinger</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate><bibl> </bibl><p>In mid-May 1982, the American Academy of Arts and Sciences and
+        <div2 id="sc04-4003" n="1" type="Article"><head>Daddy's Missile: Shaping the South's Pre-war Economy</head><byline>By <docAuthor><name reg="Schlesinger, Tom" type="person">Tom Schlesinger</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate><bibl/><p>In mid-May 1982, the American Academy of Arts and Sciences and
 Harvard's Center for Science and International Affairs co-sponsored a
 meeting about the dangers of prospective budget cuts. "As other,
 non-military, government spending is reduced," wrote the conference
@@ -1250,7 +1250,7 @@ pages 15-17.</note>
 living in Tennessee. He currently works with the Highlander Center's
 Strategic Minerals and Defense Industry Project.</p>
           </div3></div2>
-        <div2><head>A Few Proposals: From Black Agenda To National Policy</head><byline>By <docAuthor><name reg="Piliawsky, Monte" type="person">Monte Piliawsky</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 11-16</docDate><bibl> </bibl><p>Upon initial consideration, the offering of policy proposals which
+        <div2 id="sc04-4005" n="4" type="Article"><head>A Few Proposals: From Black Agenda To National Policy</head><byline>By <docAuthor><name reg="Piliawsky, Monte" type="person">Monte Piliawsky</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 11-16</docDate><bibl/><p>Upon initial consideration, the offering of policy proposals which
 grow out of a "black agenda" might appear to be a futile
 exercise. Given the prevailing conservative mood in the United States,
 black political leaders currently exert insignificant influence in the
@@ -1679,7 +1679,7 @@ The Search for Political Power</title>. New York: Longman, Inc.,
 science at Dillard University. He is author of <title>Exit 13:
 Oppression and Racism in Academia.</title></p>
           </div3></div2>
-        <div2><head>Biting the Budget At Legal Services</head><byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 19-22</docDate><bibl> </bibl><p>In the first budget that Ronald Reagan proposed as President, he
+        <div2 id="sc04-4006" n="6" type="Article"><head>Biting the Budget At Legal Services</head><byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 19-22</docDate><bibl/><p>In the first budget that Ronald Reagan proposed as President, he
 recommended the elimination of the Legal Services Corporation. Reagan
 wanted legal aid for the poor provided through block grants and
 voluntary efforts of private attorneys. Michael Horowitz, counsel for
@@ -1927,9 +1927,9 @@ Evaluation of Co-op Programs in Georgia</title>, available from the
 Southern Regional Council for four dollars plus handling and
 postage.</p>
           </div3></div2>
-        <div2><head>Laying By</head><byline>
+        <div2 id="sc04-4007" n="5" type="Article"><head>Laying By</head><byline>
             <docAuthor><name reg="Hays, Brooks" type="person">Brooks Hays</name>: 1898-1981</docAuthor>
-          </byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 17-18</docDate><bibl> </bibl><p>My grandfather was a Republican. To some this may not sound like an
+          </byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 17-18</docDate><bibl/><p>My grandfather was a Republican. To some this may not sound like an
 arresting statement, but to one born in 1898 in the impregnable
 Democratic South, and destined to spend a lifetime in politics, the
 fact was of profound significance.</p><p>I made my first race for governor of Arkansas in 1928, when Civil
@@ -2094,7 +2094,7 @@ harvest.</p>
 Louisiana State University Press, and reprinted here with
 permission.</p>
           </div3></div2>
-        <div2><head>Laments on the Demise of Tom Turnipseed</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, p. 31</docDate><bibl> </bibl><p>I hated to see it a few weeks ago when ole Tom Turnipseed went up
+        <div2 id="sc04-4008" n="7" type="Article"><head>Laments on the Demise of Tom Turnipseed</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, p. 31</docDate><bibl/><p>I hated to see it a few weeks ago when ole Tom Turnipseed went up
 in flames. Turnipseed, of course, was a candidate for lieutenant
 governor of South Carolina, who lost a primary runoff to Mike
 Daniel.</p><p>Daniel may make a terrific lieutenant governor. Turnipseed might
@@ -2146,7 +2146,7 @@ wrong.</p><div3 id="sc04-4028" type="About">
 Charlotte <title>Observer,</title> where this article originally
 appeared.</p>
           </div3></div2>
-        <div2><head>More Than Steel Mills Are Silent</head><byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 3-5</docDate><bibl> </bibl><p>Several times, thinking about it all, I've been taken back to the
+        <div2 id="sc04-4009" n="2" type="Article"><head>More Than Steel Mills Are Silent</head><byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline><docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 3-5</docDate><bibl/><p>Several times, thinking about it all, I've been taken back to the
 First Presbyterian Church in Montgomery.</p><p>It is a particular Sunday in the early 1960's that I remember. I
 must have been eleven. I was waiting in our pew in the middle section
 of the cavernous sanctuary for services to begin, my family nested

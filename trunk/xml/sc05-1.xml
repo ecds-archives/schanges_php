@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 5, Number 1, 1983</head>
         <p><title>Southern Changes</title>.  Volume 5, Number 1,
 	       <date value="1983-01">1983</date></p>
-        <div2><head>Elephants in the Cottonfields</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate><bibl> </bibl><bibl><title>Elephants in the Cottonfields: Ronald Reagan and the New
+        <div2 id="sc05-1002" n="7" type="Review"><head>Elephants in the Cottonfields</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate><bibl/><bibl><title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</bibl><p>The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
 G.O.P. muscle-building did not begin yesterday. Explaining this fact
@@ -152,8 +152,8 @@ Greenhaw has given us a good look at the landscape.</p><div3 id="sc05-1022" type
             <p>Randall Williams, a writer and editor who lives in
 Montgomery, is a Yellow-dog Democrat.</p>
           </div3></div2>
-        <div2><head>The Smithsonian Collection of Classic Country
-Music</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate><bibl> </bibl><bibl><title>The Smithsonian Collection of Classic Country
+        <div2 id="sc05-1003" n="8" type="Review"><head>The Smithsonian Collection of Classic Country
+Music</head><byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate><bibl/><bibl><title>The Smithsonian Collection of Classic Country
 Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</bibl><p><title>Classic Country Music</title>, prepared by Bill C. Malone
@@ -491,7 +491,7 @@ University of Maryland, Baltimore County. He is the author of
 American Region</title> (University of North Carolina Press,
 1983).</p>
           </div3></div2>
-        <div2><head>Figures of Speech--Dressed for the H Bomb</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate><bibl> </bibl><p>By any reasonable and fair-minded standard, our Southern members of
+        <div2 id="sc05-1004" n="1" type="Article"><head>Figures of Speech--Dressed for the H Bomb</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate><bibl/><p>By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
 procurers. Here was close to a billion dollars for Lockheed-Georgia's
 beginning production of fifty C-5B Air Force transport airplanes, a
@@ -715,8 +715,8 @@ productivity. The bacon would yet come home to roost.</p><div3 id="sc05-1024" ty
 of <title>Southern Changes</title> which grants the editor temporary
 license.</p>
           </div3></div2>
-        <div2><head>Black Boss: Political Revolution in a Georgia
-County</head><byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate><bibl> </bibl><bibl><title>Black Boss: Political Revolution in a Georgia
+        <div2 id="sc05-1005" n="6" type="Review"><head>Black Boss: Political Revolution in a Georgia
+County</head><byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate><bibl/><bibl><title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
 1982.</bibl><p>John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
@@ -921,7 +921,7 @@ Harvard University. He is presently studying Hancock County as part of
 his dissertation on black political participation in the rural South
 since the 1965 Voting Rights Act.</p>
           </div3></div2>
-        <div2><head>Myra Page: Daughter of the South, Worker for Change</head><byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate><bibl> </bibl><p>On a summer evening this past August, Myra Page sat surrounded by
+        <div2 id="sc05-1006" n="4" type="Article"><head>Myra Page: Daughter of the South, Worker for Change</head><byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate><bibl/><p>On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
 Yonkers, New York, telling the tale of her most recent
 demonstration. Her lively eyes belied the eighty-two years that her
@@ -1279,8 +1279,8 @@ Center for Research on Women, Mary Frederickson is now assistant
 professor of history at the University of Alabama in Birmingham. This
 article copyright, 1988, by Mary Frederickson.</p>
           </div3></div2>
-        <div2><head>From Southern Cotton Mills and Labor, 1929, 
-by Myra Page</head><byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate><bibl> </bibl><p>The next afternoon I went to see my friend, Marg. Marg was always a
+        <div2 id="sc05-1007" n="5" type="Article"><head>From Southern Cotton Mills and Labor, 1929, 
+by Myra Page</head><byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate><bibl/><p>The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
 her Bible--you had to or be an outcast in the village--but her
 religion didn't bother her much. She thought and spoke for herself,
@@ -1359,7 +1359,7 @@ interrupted during the McCarthy era when Viking was to publish
 book was subsequently published by New York's Citadel
 Press.</p>
           </div3></div2>
-        <div2><head>The 1982 Lillian Smith Book Awards</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate><bibl> </bibl><p>The Southern Regional Council's annual Lillian Smith Awards
+        <div2 id="sc05-1008" n="3" type="Article"><head>The 1982 Lillian Smith Book Awards</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate><bibl/><p>The Southern Regional Council's annual Lillian Smith Awards
 Luncheon was held in Atlanta in November as a part of the SRC's annual
 meeting. The awards recognize the year's best fiction and non-fiction
 books about the South. The 1982 winners were John Ehle for <title>The
@@ -1645,7 +1645,7 @@ Regional Council and chairperson of the Smith Awards Committee. Other
 committee members for 1982 included Tony Dunbar, John Popham, Wilma
 Dykeman and Lottie Shackelford.</p>
           </div3></div2>
-        <div2><head>Delta Politics and the Almost Possible</head><byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate><bibl> </bibl><p>During the recent redistricting process, black leaders felt that it
+        <div2 id="sc05-1009" n="2" type="Article"><head>Delta Politics and the Almost Possible</head><byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline><docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate><bibl/><p>During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 
 <pb n="5"/>
 win Mississippi's Second

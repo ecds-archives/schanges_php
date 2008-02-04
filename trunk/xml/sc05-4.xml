@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 5, Number 4, 1983</head>
         <p><title>Southern Changes</title>.  Volume 5, Number 4,
 	       <date value="1983-07">1983</date></p>
-        <div2><head>Witness In Montgomery</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 1-6</docDate><bibl> </bibl><p>Not since the celebrated bus boycott of 1955-56 or the Selma March
+        <div2 id="sc05-4002" n="1" type="Article"><head>Witness In Montgomery</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 1-6</docDate><bibl/><p>Not since the celebrated bus boycott of 1955-56 or the Selma March
 days of 1965 has the atmosphere in Montgomery, Alabama, been so
 charged with racial tensions. The immediate cause is a string of
 incidents involving blacks and the Montgomery police, but behind these
@@ -428,8 +428,8 @@ surgery."</p><div3 id="sc05-4022" type="About">
             <p>Randall Williams is a Montgomery resident and a
 contributing editor of <title>Southern Changes.</title></p>
           </div3></div2>
-        <div2><head>Long Journey Home</head><byline>By <docAuthor><name reg="Simpson, Bland" type="person">Bland
-	       Simpson</name> and <name reg="Conway, Cece" type="person">Cece Conway</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 17-19</docDate><bibl> </bibl><p>One of the world's great collections of Southern and country music
+        <div2 id="sc05-4003" n="7" type="Article"><head>Long Journey Home</head><byline>By <docAuthor><name reg="Simpson, Bland" type="person">Bland
+	       Simpson</name> and <name reg="Conway, Cece" type="person">Cece Conway</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 17-19</docDate><bibl/><p>One of the world's great collections of Southern and country music
 has come home, and therein lies a ballad.</p><p>Early one morning in late April, a truck from California rolled
 into Chapel Hill, bringing the John Edwards Memorial
 Collection--nearly a thousand boxes of old 78-rpm phonograph records,
@@ -558,7 +558,7 @@ Conway its a lecturer in English at UNC, a folklorist and co-director
 of the recent film <title>Tommy Jarrell--Sprout Wings and
 Fly.</title></p>
           </div3></div2>
-        <div2><head>The Freeze Down South</head><byline>By <docAuthor><name reg="Roach, Margaret" type="person">Margaret Roach</name> and <name reg="Tullos,  Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 11-14</docDate><bibl> </bibl><p>In the fall of 1982, the Nuclear Freeze Campaign mobilized the
+        <div2 id="sc05-4004" n="5" type="Article"><head>The Freeze Down South</head><byline>By <docAuthor><name reg="Roach, Margaret" type="person">Margaret Roach</name> and <name reg="Tullos,  Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 11-14</docDate><bibl/><p>In the fall of 1982, the Nuclear Freeze Campaign mobilized the
 largest referendum drive in United States history. Over eleven million
 Americans voted for the freeze. It won in nine of ten states and in
 all but three of thirty-seven local referendums that were held in
@@ -806,7 +806,7 @@ South. It's going to take a lot of work and time to reverse that."</p><div3 id="
 Freeze/Jobs With Peace Campaign. Allen Tullos is the editor of
 <title>Southern Changes.</title></p>
           </div3></div2>
-        <div2><head>"A Nation at Risk"</head><byline>By <docAuthor><name reg="Mcdonald, Joseph A." type="person">Joseph A. Mcdonald</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 8-10</docDate><bibl> </bibl><p>The Report from The National Commission on Excellence in Education,
+        <div2 id="sc05-4005" n="3" type="Article"><head>"A Nation at Risk"</head><byline>By <docAuthor><name reg="Mcdonald, Joseph A." type="person">Joseph A. Mcdonald</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 8-10</docDate><bibl/><p>The Report from The National Commission on Excellence in Education,
 "A Nation at Risk," has generated tremendous reaction. Newscasts,
 newspapers, journals, and magazines, in the South and across the
 nation, are devoting more space than usual to a commission
@@ -978,7 +978,7 @@ Newberry (SC) College. He its currently investigating the impact of
 textile mill closings on Southern workers and
 communities.</p>
           </div3></div2>
-        <div2><head>The Smokehouse of Politics</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 14, 16-17</docDate><bibl> </bibl><p>
+        <div2 id="sc05-4006" n="6" type="Article"><head>The Smokehouse of Politics</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 14, 16-17</docDate><bibl/><p>
             <hi rend="bold">John Lewis:</hi>
           </p><p>If we were to measure the Reagan Administration by a "humanity
 index," we would have to conclude that the politics and record of this
@@ -1160,7 +1160,7 @@ Issues," held earlier this year in Jackson, Mississippi, we present
 excerpts from. the observations of Atlanta City Councilman John Lewis
 and Texas Commissioner of Agriculture Jim Hightower.</p>
           </div3></div2>
-        <div2><head>Forestry and Equity</head><byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 19-23</docDate><bibl> </bibl><p>If you travel along a state highway during the Southern winter,
+        <div2 id="sc05-4007" n="8" type="Article"><head>Forestry and Equity</head><byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 19-23</docDate><bibl/><p>If you travel along a state highway during the Southern winter,
 your eyes follow unavoidably the constants of the land: field openings
 of red, brown, and dun-colored soil breaking against the highway, and
 never far off, green seams of forest against the horizon. The
@@ -1484,7 +1484,7 @@ rural Southern heritage.</p><div3 id="sc05-4027" type="About">
 writer, is spending the summer at the International Institute for
 Applied Systems Analysis in Laxenburg, Austria.</p>
           </div3></div2>
-        <div2><head>Can We Be Saved from School Savers?</head><byline>By <docAuthor><name reg="Gaston, Paul" type="person">Paul Gaston</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 10-11</docDate><bibl> </bibl><p>Before I had a university professorship, wrote a book, received a
+        <div2 id="sc05-4008" n="4" type="Article"><head>Can We Be Saved from School Savers?</head><byline>By <docAuthor><name reg="Gaston, Paul" type="person">Paul Gaston</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 10-11</docDate><bibl/><p>Before I had a university professorship, wrote a book, received a
 Ph.D., won a Fulbright to study abroad, and graduated from the college
 of my choice, I spent fifteen years (three of them as a
 kindergartener) working in wood, clay, leather, and silver; singing;
@@ -1594,7 +1594,7 @@ Virginia and its the author of <title>The New South Creed</title>
 member of the executive committee of the Southern Regional
 Council.</p>
           </div3></div2>
-        <div2><head>Denial of Tenure At Vanderbilt</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 7-8</docDate><bibl> </bibl><p>By almost any measure, the last year has been a good one for
+        <div2 id="sc05-4009" n="2" type="Article"><head>Denial of Tenure At Vanderbilt</head><byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline><docDate value="1983-07">Vol. 5, No. 4, 1983, pp. 7-8</docDate><bibl/><p>By almost any measure, the last year has been a good one for
 Elizabeth Langland. Her first two books, published by the University
 of Chicago Press and the University Press of New England, have drawn
 praise from the critics, and a third book--<title>Society and the

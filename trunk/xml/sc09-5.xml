@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 9, Number 5, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 5,
 	       <date value="1987-12">1987</date></p>
-        <div2><head>Waiting for the Gag Reflex</head><byline>By <docAuthor><name reg="Teepen, Tom" type="person">Tom Teepen</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate><bibl> </bibl><p>The killing is picking up, not that anyone notices much any
+        <div2 id="sc09-5002" n="1" type="Article"><head>Waiting for the Gag Reflex</head><byline>By <docAuthor><name reg="Teepen, Tom" type="person">Tom Teepen</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate><bibl/><p>The killing is picking up, not that anyone notices much any
 more.</p><p>We killed a man in Georgia the other night. The paper front-paged
 his execution, but most of the TV stations ho-hummed it. Just another
 electrocution, now commonplace enough that it was reported somewhere
@@ -128,8 +128,8 @@ some point, we will prove still to have a gag reflex.</p><div3 id="sc09-5022" ty
             <p>Tom Teepen is editor of the editorial page of the Atlanta
 Constitution</p>
           </div3></div2>
-        <div2><head>As We Have Sown: The new struggle is the same old fight to make
-enough to survive</head><byline>By <docAuthor><name reg="Ritchie, Mark" type="person">Mark Ritchie</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate><bibl> </bibl><p>History is a good place to begin. The important thing about
+        <div2 id="sc09-5003" n="2" type="Article"><head>As We Have Sown: The new struggle is the same old fight to make
+enough to survive</head><byline>By <docAuthor><name reg="Ritchie, Mark" type="person">Mark Ritchie</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate><bibl/><p>History is a good place to begin. The important thing about
 agriculture in the United States from the beginning of European
 colonization is that from the moment this country was founded,
 small-scale subsistence farming was everywhere. That is how we think
@@ -392,8 +392,8 @@ recently in Atlanta at the conference, "Urban Connections to the
 Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
           </div3></div2>
-        <div2><head>As We Have Sown: At current rates, blacks will own no land by
-the end of this century</head><byline>By <docAuthor><name reg="Pennick, Edward" type="person">Edward Pennick</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate><bibl> </bibl><p>For black Americans the rural crisis is not limited to any region,
+        <div2 id="sc09-5004" n="3" type="Article"><head>As We Have Sown: At current rates, blacks will own no land by
+the end of this century</head><byline>By <docAuthor><name reg="Pennick, Edward" type="person">Edward Pennick</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate><bibl/><p>For black Americans the rural crisis is not limited to any region,
 profession or economic class. It touches us all though probably
 nowhere is the farm crisis more acute than in the rural South.</p><p>The decline in black land ownership over the past twenty years is
 alarming and unabated. The problem is so severe that a different
@@ -552,8 +552,8 @@ recently in Atlanta at the conference, "Urban Connections to the
 Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
           </div3></div2>
-        <div2><head>Rural Advancement Fund Celebrates 50 Years of Farm
-Advocacy</head><byline>By <docAuthor><name reg="Amberg, Robert" type="person">Robert Amberg</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate><bibl> </bibl><p>This year the Rural Advancement Fund/National Sharecroppers Fund
+        <div2 id="sc09-5005" n="4" type="Article"><head>Rural Advancement Fund Celebrates 50 Years of Farm
+Advocacy</head><byline>By <docAuthor><name reg="Amberg, Robert" type="person">Robert Amberg</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate><bibl/><p>This year the Rural Advancement Fund/National Sharecroppers Fund
 celebrates its fiftieth anniversary as an advocate for family farms
 and rural communities. Initially formed as an annual "National
 Sharecroppers Week," cosponsored by the Workers Defense League and the
@@ -769,7 +769,7 @@ as tenants of men on the earth..."</hi>
 for the Rural Advancement Fund. A book-length history of RAF/NSF by
 Tevere MacFadyen will be published this winter.</p>
           </div3></div2>
-        <div2><head>Lost Causes &#x26;Then Some</head><byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate><bibl> </bibl><p>This is the second of two articles on the once and future South, as
+        <div2 id="sc09-5006" n="5" type="Article"><head>Lost Causes &#x26;Then Some</head><byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate><bibl/><p>This is the second of two articles on the once and future South, as
 viewed from the perspective of a life-long organizer, activist and
 writer. Forty years have elapsed since publication of the author's
 book, Southern Exposure. The players have changed, but in too many
@@ -1270,7 +1270,7 @@ Jacksonville, Fla., where he is putting together a selection of his
 writings under the title, "Land Be Bright," and an autobiography,
 "Dissident-at-Large."</p>
           </div3></div2>
-        <div2><head>South Leads in Black Officeholders</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate><bibl> </bibl><p>Mississippi leads the nation in total number of black elected
+        <div2 id="sc09-5007" n="6" type="Article"><head>South Leads in Black Officeholders</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate><bibl/><p>Mississippi leads the nation in total number of black elected
 officials and Alabama has the highest percentage of black
 officeholders in the United States, according to the annual <title>Black
 Elected Officials: A National Roster,</title> published by the Joint Center
@@ -1314,7 +1314,7 @@ population.</p><p>For a copy of <title>Black Elected Officials: A National
 Roster</title>, 1987, send $29.50 to Publications Office, Joint Center
 for Political Studies, 1301 Pennsylvania Avenue, N.W., #400,
 Washington, D.C. 20004.</p></div2>
-        <div2><head>Sermonette on the Movement</head><byline>By <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate><bibl> </bibl><p>Mary King is like her ancestors. She walks a very straight line for
+        <div2 id="sc09-5008" n="7" type="Article"><head>Sermonette on the Movement</head><byline>By <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate><bibl/><p>Mary King is like her ancestors. She walks a very straight line for
 a long time. She was always like that: solid, linear, historical,
 careful, analytical, objective, thorough. And stouthearted. The
 amazing thing is that she wrote this book at all. To have gone back
@@ -1562,7 +1562,7 @@ abbreviated form as a preface to <title>Freedom Song</title> and is
 presented here as a reflection on the period and the
 book.</p>
           </div3></div2>
-        <div2><head>Avedon's West</head><byline>By <docAuthor><name reg="Ponder, Art" type="person">Art Ponder</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate><bibl> </bibl><p>Richard Avedon is generally known as a fashion photographer, the
+        <div2 id="sc09-5009" n="8" type="Article"><head>Avedon's West</head><byline>By <docAuthor><name reg="Ponder, Art" type="person">Art Ponder</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate><bibl/><p>Richard Avedon is generally known as a fashion photographer, the
 man who creates the "idealized," sexist icons for the covers of such
 magazines as Vogue and Self. Others may know him as a contributor to
 Rolling Stone or the photographer who turned his large format camera
@@ -1683,7 +1683,7 @@ with no voice to offer us their sagas of life and work.</p><div3 id="sc09-5029" 
 <title>Southern Changes</title> who is currently stationed in
 Atlanta.</p>
           </div3></div2>
-        <div2><head>Women and 'Men's Work' During the War Years.</head><byline>By <docAuthor><name reg="Thomas, Mary Martha" type="person">Mary Martha Thomas</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate><bibl> </bibl><bibl><title>Riveting
+        <div2 id="sc09-5010" n="9" type="Review"><head>Women and 'Men's Work' During the War Years.</head><byline>By <docAuthor><name reg="Thomas, Mary Martha" type="person">Mary Martha Thomas</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate><bibl/><bibl><title>Riveting
 and Rationing in Dixie: Alabama Women and the Second World War</title>
 by Mary Martha Thomas. (Tuscaloosa: University of Alabama Press,
 	       1987.145 pp. $16.95, cloth.)</bibl><p>Beyond the dull, dull, dull style there's an
@@ -1728,7 +1728,7 @@ Alabama House of Representatives defeated such a proposal in 1945.</p><p>By 1950
 in 1940. In short, says Thomas, the "forces of continuity seem to
 have prevailed over the forces of change during the war years in
 Alabama."</p></div2>
-        <div2><head>The Struggle Goes to Hollywood</head><byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate><bibl> </bibl><p>In the eyes of a South African filmmaker who has seen <title>Cry
+        <div2 id="sc09-5011" n="13" type="Article"><head>The Struggle Goes to Hollywood</head><byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate><bibl/><p>In the eyes of a South African filmmaker who has seen <title>Cry
 Freedom</title>  while visiting the United States recently, Richard
 Attenborough's epic film about Donald Woods and Stephen Biko is a
 technical success but flawed in its judgment.</p><p>From her perspective, the film, which is currently drawing large
@@ -1792,7 +1792,7 @@ uncut in South Africa. Some apartheid watchers interpret the move as a
 gamble on the part of the Botha government to win points abroad by
 trying to show that the film will have minimal adverse effect in South
 Africa.</p></div2>
-        <div2><head>A Letter from Lillian Smith</head><byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate><bibl> </bibl><p>As writer, intellectual, and social critic of 20th century Southern
+        <div2 id="sc09-5012" n="10" type="Article"><head>A Letter from Lillian Smith</head><byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate><bibl/><p>As writer, intellectual, and social critic of 20th century Southern
 and American life, Lillian Smith corresponded with a variety of
 notables about subjects of major historical, political, and cultural
 interest. The following selection from her correspondence with Eleanor
@@ -1894,7 +1894,7 @@ unwavering stand for the democratic decencies.</p><p>Most sincerely yours,</p><p
             <p>Rose Gladney is assistant professor of American studies
 at the University of Alabama, Tuscaloosa.</p>
           </div3></div2>
-        <div2><head>The 1987 Lillian Smith Book Awards</head><byline>By <docAuthor><name reg="Davis, Thadious" type="person">Thadious Davis</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate><bibl> </bibl><p>When Georgia author Lillian Smith died in 1966, the Southern
+        <div2 id="sc09-5013" n="11" type="Article"><head>The 1987 Lillian Smith Book Awards</head><byline>By <docAuthor><name reg="Davis, Thadious" type="person">Thadious Davis</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate><bibl/><p>When Georgia author Lillian Smith died in 1966, the Southern
 Regional Council established an award not only to honor her work and
 her memory, but also to foster in others the spirit of her courageous
 struggle for human rights in the South. Smith's first novel,
@@ -2044,7 +2044,7 @@ its selections, the committee reviewed approximately forty strong
 entries in fiction, history, and autobiography! memoir published
 between July 1, 1986, and June 30, 1987.</p>
           </div3></div2>
-        <div2><head>On Guard Against Good Intentions.</head><byline>By <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate><bibl> </bibl><bibl><title>The Thanatos
+        <div2 id="sc09-5014" n="12" type="Review"><head>On Guard Against Good Intentions.</head><byline>By <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate><bibl/><bibl><title>The Thanatos
 Syndrome</title> by Walker Percy. (New York: Farrar, Straus, and
 Giroux, 1987. 372 pp. $17.95.)</bibl><p>In Walker Percy's latest novel, <title>The Thanatos
 Syndrome</title>, Dr. Thomas More, a psychiatrist recently paroled
@@ -2182,11 +2182,11 @@ being dead.</p><div3 id="sc09-5034" type="About">
             <p>George Littleton is a writer on the staff of the Alabama
 Commission on Higher Education in Montgomery.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By 
+        <div2 id="sc09-5015" n="14" type="Article"><head>The Cold Hard Truth</head><byline>By 
             <docAuthor>
               <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name>
             </docAuthor>
-          </byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate><bibl> </bibl><p>This is the 200th year of the U.S. Constitution, but that document
+          </byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate><bibl/><p>This is the 200th year of the U.S. Constitution, but that document
 remains shrouded in fiction, misunderstanding and ignorance. Millions
 of Americans know so little about the Constitution, it is a miracle we
 have been able to hold on to it.</p><p>Speakers and writers, who should know better, continue to pay

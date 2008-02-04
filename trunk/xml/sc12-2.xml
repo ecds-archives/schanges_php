@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 12, Number 2, 1990</head>
         <p><title>Southern Changes</title>.  Volume 12, Number 2,
 	       <date value="1990-06">1990</date></p>
-        <div2><head>Democracy in the South</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 1-3</docDate><bibl> </bibl><p>Like an old Chinese proverb coming south for the winter, one side
+        <div2 id="sc12-2002" n="1" type="Article"><head>Democracy in the South</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 1-3</docDate><bibl/><p>Like an old Chinese proverb coming south for the winter, one side
 of democracy in the American South today shows troubling, even
 treacherous signs of crisis, and on the other side are rare moments
 for important opportunities. This contrast is, of course a part of the
@@ -168,7 +168,7 @@ enlarging democracy in this region we stubbornly call home.</p><div3 id="sc12-20
 director of the Southern Regional Council and the publisher of this
 journal.</p>
           </div3></div2>
-        <div2><head>A mayor who was never addicted to steel.</head><byline>Reviewed by <docAuthor><name reg="Morgan, Charles, Jr." type="person">Charles Morgan Jr.</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 22-23</docDate><bibl> </bibl><bibl><title>BACK TO
+        <div2 id="sc12-2003" n="7" type="Review"><head>A mayor who was never addicted to steel.</head><byline>Reviewed by <docAuthor><name reg="Morgan, Charles, Jr." type="person">Charles Morgan Jr.</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 22-23</docDate><bibl/><bibl><title>BACK TO
 BIRMINGHAM: Richard Barrington, Jr. and His Times</title> by Jimmie
 Lewis Franklin (Tuscaloosa: The University of Alabama Press,
 1989).</bibl><p>Whether to review the biography, the subject of it, the place, or
@@ -285,7 +285,7 @@ from the A.C.L.U. and took up private practice in Washington, no
 lawyer did more or with more commitment, and none with more lasting
 cadet.</p>
           </div3></div2>
-        <div2><head>A decade of litigation a Southern 'Devil's Island.'</head><byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 17-19</docDate><bibl> </bibl><bibl><title>Reform and Regret</title> by Larry W. Yackle (New York: Oxford
+        <div2 id="sc12-2004" n="5" type="Review"><head>A decade of litigation a Southern 'Devil's Island.'</head><byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 17-19</docDate><bibl/><bibl><title>Reform and Regret</title> by Larry W. Yackle (New York: Oxford
 University Press. 1989. 322 pp.).</bibl><p><title>Reform and Regret,</title> by Larry W. Yackle, is an
 engrossing, carefully written story of two federal lawsuits, <hi rend="italic">Pugh v. Locke</hi> and <hi rend="italic">James
 v. Wallace</hi>, filed in 1974 to reform the Alabama prison
@@ -434,8 +434,8 @@ Office of the American Civil Liberties Union and a lawyer who has
 himself been actively involved in numerous cases involving prisons,
 noting rights and civil rights.</p>
           </div3></div2>
-        <div2><head>'You Have a Right . . .' Voices from the Movement in
-Mississippi</head><byline>Edited by <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 10-14</docDate><bibl> </bibl><p>The following narratives are condensed from interviews
+        <div2 id="sc12-2005" n="3" type="Article"><head>'You Have a Right . . .' Voices from the Movement in
+Mississippi</head><byline>Edited by <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 10-14</docDate><bibl/><p>The following narratives are condensed from interviews
 conducted by young people from Bloodlines, regroup of black
 Mississippi high school students with a special interest in the seeds
 of the Civil Rights Movement in their area. The people they
@@ -775,7 +775,7 @@ Democrats. And I thought that was interesting and asked her the other
 day did she think as young people we should be training them to be
 Democrats or Republicans? And she said, 'Neither one. Instead we
 should be training ya'll to be thinking.'</p></div2>
-        <div2><head>The Biggest Texan: John Henry Faulk 1913-1990</head><byline>By <docAuthor><name reg="Durr, Virginia" type="person">Virginia Durr</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 15-17</docDate><bibl> </bibl><p>Editor's note: When John Henry Faulk died
+        <div2 id="sc12-2006" n="4" type="Article"><head>The Biggest Texan: John Henry Faulk 1913-1990</head><byline>By <docAuthor><name reg="Durr, Virginia" type="person">Virginia Durr</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 15-17</docDate><bibl/><p>Editor's note: When John Henry Faulk died
 in Texas on April 9, 1990, many people lost a treasured friend and
 this nation lost one of its most passionate and articulate advocates
 of free speech. One of Faulk's friends and fellow first amendment
@@ -907,7 +907,7 @@ Times</hi> and the <hi rend="italic">Washington Post</hi> but nobody
 mentioned it here. Walker Percy was in the paper, but of course he is
 a native Alabamian. </p><p>Virginia Durr's recollections of John Henry Faulk were recorded,
 transcribed and edited by George Littleton.</p></div2>
-        <div2><head>Telling a Mouthful about the South.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 19-22</docDate><bibl> </bibl><bibl><title>Encyclopedia of
+        <div2 id="sc12-2007" n="6" type="Review"><head>Telling a Mouthful about the South.</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 19-22</docDate><bibl/><bibl><title>Encyclopedia of
 Southern Culture.</title> Charles Reagan Wilson and William Ferris,
 co-editors. (Chapel Hill: University of North Carolina Press,
 1989. $49.95.)</bibl><p>Is an encyclopedia, and this one in particular, a book or an event,
@@ -1094,11 +1094,11 @@ pages.</p><div3 id="sc12-2027" type="About">
 Field Foundation and the Southern Regional Council, is the book editor
 of <title>Southern Changes</title>.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By 
+        <div2 id="sc12-2008" n="8" type="Article"><head>The Cold Hard Truth</head><byline>By 
             <docAuthor>
               <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name>
             </docAuthor>
-          </byline><docDate value="1990-06">Vol. 12, No. 2, 1990, p. 24</docDate><bibl> </bibl><p>Editor's Note: It has been a turbulent in Dallas County,
+          </byline><docDate value="1990-06">Vol. 12, No. 2, 1990, p. 24</docDate><bibl/><p>Editor's Note: It has been a turbulent in Dallas County,
 Alabama, where the twenty-fifth anniversary of the Voting Rights Act
 was celebrated earlier this year with more than just reenactments. A
 bitter controversy over white control of majority black public schools
@@ -1140,11 +1140,11 @@ however, we can't solve the problems running from them.</p><p>I am not afraid of
             <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3></div2>
-        <div2><head>The Vote and Change</head><byline>
+        <div2 id="sc12-2009" n="2" type="Article"><head>The Vote and Change</head><byline>
             <docAuthor>
               <name reg="Bond, Julian" type="person">Julian Bond</name>
             </docAuthor>
-          </byline><docDate value="1990-06">Vol. 12, No. 2, 1990, p. 4-9</docDate><bibl> </bibl><p>These edited remarks are from a panel discussion held on
+          </byline><docDate value="1990-06">Vol. 12, No. 2, 1990, p. 4-9</docDate><bibl/><p>These edited remarks are from a panel discussion held on
 political participation during last winter's annual meeting of the
 Southern Regional Council. The participants, all with long involvement
 in the drive to expand political participation, included former SNCC

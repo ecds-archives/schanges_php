@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <head>Southern Changes.  Volume 20, Number 4, 1998</head>
         <p><title>Southern Changes.</title>  Volume 20, Number 4,
 	       <date value="1998-12">1998</date></p>
-        <div2><head>Back to Birmingham</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate><bibl> </bibl><p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p><p><hi rend="italic">This initiative on the part of Southern
+        <div2 id="sc20-4002" n="1" type="Article"><head>Back to Birmingham</head><byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate><bibl/><p rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p><p><hi rend="italic">This initiative on the part of Southern
 philanthropic, academic, and non-profit institutions, was inspired in
 part by Nashville writer John Egerton's book,</hi> <title>Speak Now
 Against the Day: The Generation Before the Civil Rights Movement in
@@ -186,11 +186,11 @@ children.</p><div3 id="sc20-4003" type="Sidebar">
             <p>Photos courtesy of Alabama
 Power.</p>
           </div3></div2>
-        <div2><head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head><byline>
+        <div2 id="sc20-4023" n="2" type="Article"><head>Seeking an America as Good as its Promise: Remedies for Racial Inequality: The Public's Views</head><byline>
             <docAuthor>
               <name reg="John Doble Research Associates" type="institution">John Doble Research Associates</name>
             </docAuthor>
-          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate><bibl> </bibl><p rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p><p rend="center">
+          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate><bibl/><p rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p><p rend="center">
             <hi rend="bold">Combating Discrimination and Racism</hi>
           </p><p>Most Americans believe discrimination ought to be punished. First, people favor legal sanctions against discriminators. A plurality say that top priority should be given to legally punishing companies that discriminate in hiring and promotion and real estate agents who steer blacks away from white neighborhoods. A majority also places investigating and prosecuting those responsible for fires in black churches in the South as a top priority. These measures, to directly punish wrongdoers, are especially supported by blacks, younger adults, and those with low incomes.</p><p>Second, people want to ban discrimination in employment. In a
 July-September, 1995 <title>Washington Post</title> poll, 58 percent agreed that, "The federal government should enact tougher anti-discrimination laws to reduce racial discrimination in the workplace." Also, in an October, 1996 CBS poll, 61 percent believed "it is necessary to have laws to protect racial minorities from discrimination in hiring and employment ...."</p><p>People are highly supportive of educational measures to improve inter-group relations. In the SRC study 87 percent said that the country should "actively promote and teach racial tolerance and cooperation in the schools." Likewise, an August 1993 research poll found that 65 percent thought it was very desirable for schools to "teach all students about the racial, cultural, and ethnic groups that together make up American society today." In addition, there is support for instructing people about the history of racial groups and discrimination. For example, an April 1994 <title>Los Angeles Times</title> poll found that 63 percent felt it was very important to teach students "about the history of the slavery of black people in the United States." However, feelings are very mixed about whether more instruction is needed. In the 1994 General Social Survey, 23 percent said that too much attention is given to the experiences of racial and ethnic minority groups in history classes, 43 percent said that the right amount of attention was given, 21 percent said that too little was given, and 13 percent did not know.</p><p>Americans realize that black-white relations are strained and many see them worsening. In addition, most think that discrimination is still widespread and is a significant cause of the racial disparities in education, occupation, and income that exist. But neither improving race relations, nor decreasing racial inequality are high priorities to mostwhite Americans. Many whites think conditions for blacks and
@@ -214,8 +214,8 @@ was brought forth during 1996 and 1997, gives evidence of this
 analysis. The outcome of that debate can be changed; the battle for
 public opinion can be won and the goals of racial equality and
 intergroup tolerance advanced.</p></div2>
-        <div2><head>The Newtown Story: One Community's Fight for Environmental Justice</head><byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
-Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate><bibl> </bibl><p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
+        <div2 id="sc20-4004" n="3" type="Article"><head>The Newtown Story: One Community's Fight for Environmental Justice</head><byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
+Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate><bibl/><p rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
 independent photojournalist Michael A. Schwarz. This oral history chronicles the story of Newtown, an African-American neighborhood in Gainesville, Georgia.</p><p rend="italic">Following a deadly tornado that ripped through Gainesville in 1936,
 segregated housing for black residents was built on a landfill beside
@@ -268,11 +268,11 @@ grounds that insufficient evidence of injury was provided during the
 pre-trial period. Residents are appealing both decisions to the 11th
 Circuit Court of Appeals in Atlanta.</p>
           </div3></div2>
-        <div2><head>From New Orleans to Your Radio--It's <title>American Routes</title></head><byline>
+        <div2 id="sc20-4025" n="4" type="Interview"><head>From New Orleans to Your Radio--It's <title>American Routes</title></head><byline>
             <docAuthor>
               <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
-          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate><bibl> </bibl><p>In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
+          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate><bibl/><p>In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
 States. Based in New Orleans and syndicated by Public Radio
 International, with a list of stations that grows weekly (for the
 station nearest you, see page 22), <title>American Routes</title> explores the roots
@@ -434,11 +434,11 @@ whether we're being effective or not to the network and the
 non-initiated who are a big segment of our audience. -N. S.
 </p>
           </div3></div2>
-        <div2><head>Here Comes the Farm Labor Organizing Committee</head><byline>
+        <div2 id="sc20-4006" n="5" type="Article"><head>Here Comes the Farm Labor Organizing Committee</head><byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
-          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate><bibl> </bibl><p rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p><p rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
+          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate><bibl/><p rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p><p rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
 seasonal farmworkers, was founded in l967 by Baldemar
 Velasquez. Concentrating most of its work in the Midwestern states of
 Ohio and Michigan, FLOC negotiated contracts in the tomato and
@@ -470,11 +470,11 @@ in the South.</p><p>As these workers organize, as they vote and participate in d
 Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
 1221 Broadway, Toledo, Ohio 43609; telephone: (419) 243-3456, or Ramiro Sarabia at FLOC's North Carolina office at: (910) 267-1637.</p>
           </div3></div2>
-        <div2><head>Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners</head><byline>
+        <div2 id="sc20-4009" n="6" type="Article"><head>Lewis, D'Orso, and Cox: 1998 Lillian Smith Book Award Winners</head><byline>
             <docAuthor>
               <name reg="Staff">Staff</name>
             </docAuthor>
-          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate><bibl> </bibl><p><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
+          </byline><docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate><bibl/><p><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi><title>Walking with the Wind: A Memoir of the Movement</title><hi rend="italic">, New
 York: Simon and Schuster, 1998. In the category of fiction, the award
 went to Elizabeth Cox for her book</hi> <title>Night Talk</title><hi rend="italic">, Graywolf Press, 1998. Below are the remarks of Lillian Smith jury members Cleophus Thomas and Suzanne Jones who introduced Lewis and Cox respectively, and the remarks of the award winners. The awards are given annually by the Southern Regional Council.</hi></p><p rend="bold">Cleophus Thomas:</p><p>Mr. Lewis's affecting narrative is at once a coming of age

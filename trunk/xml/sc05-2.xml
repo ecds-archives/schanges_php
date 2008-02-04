@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 5, Number 2, 1983</head>
         <p><title>Southern Changes</title>.  Volume 5, Number 2,
 	       <date value="1983-03">1983</date></p>
-        <div2><head>Ethics and Equations</head><byline>By <docAuthor><name reg="Paddock, Polly" type="person">Polly Paddock</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate><bibl> </bibl><p>I was never much of a math or science student. During high school
+        <div2 id="sc05-2002" n="2" type="Article"><head>Ethics and Equations</head><byline>By <docAuthor><name reg="Paddock, Polly" type="person">Polly Paddock</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate><bibl/><p>I was never much of a math or science student. During high school
 and college, I went to great lengths to avoid taking any courses in
 those fields beyond what was absolutely required. Why dissect a fetal
 pig or struggle with calculus, I figured, when you could be reading
@@ -142,7 +142,7 @@ Hunt, Capitol Building, Raleigh, N.C. 27611.</p><div3 id="sc05-2022" type="About
             <p>Polly Paddock is an editorial page writer for the
 Charlotte <title>Observer.</title></p>
           </div3></div2>
-        <div2><head>Money on the Mainline</head><byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate><bibl> </bibl><p>Bob Scherer, Chief Executive Officer and Chairman of the Board of
+        <div2 id="sc05-2003" n="1" type="Article"><head>Money on the Mainline</head><byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate><bibl/><p>Bob Scherer, Chief Executive Officer and Chairman of the Board of
 the Georgia Power Company, believes that electric rates should not be
 regulated. "Regulation isn't working," he explained recently to a
 reporter from <title>Industry Week</title> magazine.</p><p>"If we were deregulated tomorrow," he continued, "and we could
@@ -471,8 +471,8 @@ bought into Plant Vogtle on its own.</p><div3 id="sc05-2023" type="About">
 Service Commission and the Consumers' Utility Counsel of Georgia, its
 an Atlanta writer and organizer.</p>
           </div3></div2>
-        <div2><head><title>Almost Family.</title>  Roy Hoffman. The Dial Press,
-1983.</head><byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate><bibl> </bibl><p>White mistresses and their black maids have intrigued many
+        <div2 id="sc05-2004" n="5" type="Review"><head><title>Almost Family.</title>  Roy Hoffman. The Dial Press,
+1983.</head><byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate><bibl/><p>White mistresses and their black maids have intrigued many
 generations of American writers. From the stereotypical portraits of
 the nineteenth century, to Faulkner's more individualized but
 basically stereotypical Dilsey, to Alice Childress' sassy Mildred,
@@ -601,8 +601,8 @@ Tuscaloosa. Her book, <title>From Mammies to Militants: Domestics in
 Black American Literature</title>, was published by Temple University
 Press in December, 1982.</p>
           </div3></div2>
-        <div2><head><title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
-1982.</head><byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate><bibl> </bibl><p>Speaking at the University of Florida in 1962, Lillian Smith
+        <div2 id="sc05-2005" n="6" type="Review"><head><title>The Color Purple.</title> Alice Walker. Harcourt, Brace,
+1982.</head><byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate><bibl/><p>Speaking at the University of Florida in 1962, Lillian Smith
 observed that women were only beginning "to break the million year
 silence about themselves." "Women rarely tell the truth," she said,
 "even in their diaries, about their sex experiences, or their most
@@ -744,8 +744,8 @@ sisterhood.</p><div3 id="sc05-2025" type="About">
             <p>Rose Gladney is associate professor of American Studies
 at the University of Alabama in Tuscaloosa.</p>
           </div3></div2>
-        <div2><head>Union Power, Soul Power: The Story of 1199B and Labor's Search
-for A Southern Strategy</head><byline>By <docAuthor><name reg="Fink, Leon" type="person">Leon Fink</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 9-20</docDate><bibl> </bibl><p>Hospitals are one of the last centers of employment in the United
+        <div2 id="sc05-2006" n="4" type="Article"><head>Union Power, Soul Power: The Story of 1199B and Labor's Search
+for A Southern Strategy</head><byline>By <docAuthor><name reg="Fink, Leon" type="person">Leon Fink</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 9-20</docDate><bibl/><p>Hospitals are one of the last centers of employment in the United
 States to be touched by unionization. Efforts to organize hospital
 workers had barely begun by 1960, and by the end of that decade, few
 areas outside the biggest metropolitan concentrations on either coast
@@ -1544,7 +1544,7 @@ union co-authored by Brian Greenberg to be published by Harvard
 University Press in 1984. The author gratefully acknowledges the help
 of Stephen Hoffius and David J. Garrow in his research.</p>
           </div3></div2>
-        <div2><head>Mississippi Makes Up Its Mind</head><byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 8-9</docDate><bibl> </bibl><p>The passage of an educational reform package by the Mississippi
+        <div2 id="sc05-2007" n="3" type="Article"><head>Mississippi Makes Up Its Mind</head><byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline><docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 8-9</docDate><bibl/><p>The passage of an educational reform package by the Mississippi
 Legislature was an important victory for public involvement. Pushing
 the legislature to act on the education issue involved a broader based
 public effort than any other issue in recent Mississippi history. Such

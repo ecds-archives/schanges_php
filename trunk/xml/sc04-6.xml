@@ -70,13 +70,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 4, Number 6, 1982</head>
         <p><title>Southern Changes.</title>  Volume 4, Number 6,
 	       <date value="1982-11">1982</date></p>
-        <div2><head><title>The Germ of Laziness: Rockefeller Philanthropy and Public
+        <div2 id="sc04-6002" n="7" type="Review"><head><title>The Germ of Laziness: Rockefeller Philanthropy and Public
 Health in the New South.</title> by John Ettling, Harvard University
 Press, 1981.</head><byline>By 
             <docAuthor>
               <name reg="Tullos, Allen" type="person">Allen Tullos</name>
             </docAuthor>
-          </byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 15-17</docDate><bibl> </bibl><p>Toward the end of his study of the Rockefeller Sanitary Commission
+          </byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 15-17</docDate><bibl/><p>Toward the end of his study of the Rockefeller Sanitary Commission
 for the Eradication of Hookworm Disease, John Ettling writes that "so
 large a hand has the [Rockefeller] Foundation had in shaping the
 features of our society that any wholesale indictment of its
@@ -241,7 +241,7 @@ been the real problem all along. Yet to have faced the origins of New
 South poverty required an introspection that the hookworm evangelists,
 busy with their attempts to chase the demons out of dispossessed poor
 whites, could not allow.</p></div2>
-        <div2><head>Fifty Years With Highlander</head><byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate><bibl> </bibl><p>At Christmas time in 1931 in Copenhagen, Denmark, a young man off
+        <div2 id="sc04-6003" n="3" type="Article"><head>Fifty Years With Highlander</head><byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate><bibl/><p>At Christmas time in 1931 in Copenhagen, Denmark, a young man off
 an East Tennessee farm made a note to himself:</p><p>
             <q direct="unspecified">I can't sleep but there are dreams: a school where young men and
 women can come and he inspired . . . expressing themselves through
@@ -579,7 +579,7 @@ Lincoln Brigade and died in the Spanish Civil War.</p><p>Candie Carawan its curr
             <p>Sue Thrasher is on the program staff at
 Highlander.</p>
           </div3></div2>
-        <div2><head>Local Color Defaulting On Justice</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate><bibl> </bibl><p>Long lines at the Supreme Court building in Washington are
+        <div2 id="sc04-6004" n="1" type="Article"><head>Local Color Defaulting On Justice</head><byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate><bibl/><p>Long lines at the Supreme Court building in Washington are
 commonplace as tourists and school kids come daily to walk the halls
 and rummage the displays along its vacuous ground floor. Yet, many who
 lined up on the Court's concrete plaza shortly after dawn on Monday,
@@ -697,7 +697,7 @@ Justices. They may be right. But, if the protection of civil rights
 and integrated public education now depends largely on the initiatives
 of the Burger Court, in the fact of a hostile president and an
 immobile Congress, O Ye, O Ye, God save this country.</p></div2>
-        <div2><head>Reapportionment Roundup</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 20-24</docDate><bibl> </bibl><p>Reapportionment moved into the courtrooms across the South during
+        <div2 id="sc04-6005" n="10" type="Article"><head>Reapportionment Roundup</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 20-24</docDate><bibl/><p>Reapportionment moved into the courtrooms across the South during
 the summer as federal judges were deluged with petitions and prayers
 for relief from lawyers of civil rights groups attempting to halt
 primary elections which they charged were to be held under
@@ -1043,11 +1043,11 @@ incredible," remarks Jack Gravely, the head of the NAACP.</p><div3 id="sc04-6025
             <p>This report was prepared by the staff of the Southern
 Regional Council.</p>
           </div3></div2>
-        <div2><head>Denton and Helms: The Enemies Within.  Patriotism in Peace</head><byline>
+        <div2 id="sc04-6006" n="4" type="Article"><head>Denton and Helms: The Enemies Within.  Patriotism in Peace</head><byline>
             <docAuthor>
               <name reg="Arkansas Gazette" type="institution">From the Arkansas Gazette</name>
             </docAuthor>
-          </byline><docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate><bibl> </bibl><p>Betty Bumpers' Peace Links may draw from a remarkable episode in
+          </byline><docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate><bibl/><p>Betty Bumpers' Peace Links may draw from a remarkable episode in
 the United States Senate impressive reassurance that it is gaining in
 effectiveness and influence. The Senate, only hours before adjourning,
 not only adopted a resolution asking President Reagan to declare
@@ -1081,7 +1081,7 @@ that made by Senator Denton. It is one of many grass-roots
 organizations that are demanding that steps be taken at the highest
 political levels to prevent a nuclear war. Peace Links and other like
 groups are practicing patriotism of a high order.</p></div2>
-        <div2><head>North Carolina Pays the Price</head><byline>By <docAuthor><name reg="Sitton, Claude" type="person">Claude Sitton</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate><bibl> </bibl><p>Americans don't ask much of
+        <div2 id="sc04-6007" n="5" type="Article"><head>North Carolina Pays the Price</head><byline>By <docAuthor><name reg="Sitton, Claude" type="person">Claude Sitton</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate><bibl/><p>Americans don't ask much of
 those whom they send to the U.S. Senate. A senator can usually pass
 muster at the polls if he tips the pork barrel toward home
 occasionally, votes his constitutents' pocketbook interests and keeps
@@ -1159,10 +1159,10 @@ of keeping this true believer of radical stripe in the Senate.</p><div3 id="sc04
             <p>Claude Sitton its the editor of the <title>Raleigh News
 and Observer</title>.</p>
           </div3></div2>
-        <div2><head><title>Killing Our Own: The Disaster of America's Experience
+        <div2 id="sc04-6008" n="9" type="Review"><head><title>Killing Our Own: The Disaster of America's Experience
 with Atomic Radiation.</title> By Harvey Wasserman and Norman Solomon
 with Robert Alverez and Eleanor Walters, New York: Dell Publishing
-Co., 1982, $12.95.</head><byline>By <docAuthor><name reg="Northrop, John" type="person">John Northrop</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 19-20</docDate><bibl> </bibl><p>Hiroshima proved that the atomic bomb could wipe out cities, but it
+Co., 1982, $12.95.</head><byline>By <docAuthor><name reg="Northrop, John" type="person">John Northrop</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 19-20</docDate><bibl/><p>Hiroshima proved that the atomic bomb could wipe out cities, but it
 was years later before many people began paying much attention to the
 possible side effects of radiation. Big mistake.</p><p>Evidently, Americans have paid an extraordinary price for nuclear
 technology from almost the very beginning. Immediately after the war,
@@ -1273,7 +1273,7 @@ its high human costs?</p><div3 id="sc04-6028" type="About">
             <p>John Northrop is a member of the Conservation Committee
 of the Birmingham Audubon Society.</p>
           </div3></div2>
-        <div2><head>Beaufort Academy--"None Ever Applied"</head><byline>By <docAuthor><name reg="Mcmillan, George" type="person">George Mcmillan</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate><bibl> </bibl><p>If Congress wants to know how a typical tax exempt segregated
+        <div2 id="sc04-6009" n="2" type="Article"><head>Beaufort Academy--"None Ever Applied"</head><byline>By <docAuthor><name reg="Mcmillan, George" type="person">George Mcmillan</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate><bibl/><p>If Congress wants to know how a typical tax exempt segregated
 school works in a typical Southern town it should look at Beaufort
 Academy in this South Carolina Low Country community.</p><p>Beaufort Academy is a flourishing place. It's not in the least like
 one of those barren campuses plopped down on the rim of some Southern
@@ -1389,7 +1389,7 @@ answer" on whether he was a John Birch member.</p><div3 id="sc04-6029" type="Abo
             <p>George McMillan its a freelance writer who lives in
 Frogmore, South Carolina.</p>
           </div3></div2>
-        <div2><head>Worker Owned: Some Southern Beginnings</head><byline>By <docAuthor><name reg="Connette, Woody" type="person">Woody Connette</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate><bibl> </bibl><p>In September 1979, a small group of Windsor, North Carolina
+        <div2 id="sc04-6010" n="6" type="Article"><head>Worker Owned: Some Southern Beginnings</head><byline>By <docAuthor><name reg="Connette, Woody" type="person">Woody Connette</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate><bibl/><p>In September 1979, a small group of Windsor, North Carolina
 residents transformed a vacant automobile showroom into a garment cut
 and sew operation. They chose a name that desribes exactly what they
 are: The Workers' Owned Sewing Company. There were no Chamber of
@@ -1776,8 +1776,8 @@ these worker owned businesses.</p><div3 id="sc04-6020" type="About">
             <p>Woody Connette is managing attorney at Legal Services of
 Southern Piedmont, Inc., in Concord, North Carolina.</p>
           </div3></div2>
-        <div2><head><title>Bad Blood: The Tuskegee Syphilis Experiment. By James
-H. Jones.</title> New York: The Free Press, 1981. $14.95.</head><byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 17-19</docDate><bibl> </bibl><p>In 1972 the Associated Press broke the story of the Tuskegee
+        <div2 id="sc04-6011" n="8" type="Review"><head><title>Bad Blood: The Tuskegee Syphilis Experiment. By James
+H. Jones.</title> New York: The Free Press, 1981. $14.95.</head><byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline><docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 17-19</docDate><bibl/><p>In 1972 the Associated Press broke the story of the Tuskegee
 experiment, a forty-year study of the effect of syphilis on six
 hundred Macon County, Alabama, black men. Nine years later James Jones
 published <title>Bad Blood</title>, a history of what he describes as

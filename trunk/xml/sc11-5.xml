@@ -70,11 +70,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 11, Number 5, 1989</head>
         <p><title>Southern Changes</title>.  Volume 11, Number 5,
 	       <date value="1989-11">1989</date></p>
-        <div2><head>Land of Deepest Shade: An Interview with John McWilliams</head><byline>
+        <div2 id="sc11-5002" n="2" type="Article"><head>Land of Deepest Shade: An Interview with John McWilliams</head><byline>
             <docAuthor>
               <name reg="Rankin, Tom" type="person">Tom Rankin</name>
             </docAuthor>
-          </byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate><bibl> </bibl><p>EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
+          </byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate><bibl/><p>EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
 more than a hundred photographs by John McWilliams, is currently on
 view at the High Museum of Art in Atlanta. A book by the same
 title--with an introduction by Theodore Rosengarten and more than sixty
@@ -266,7 +266,7 @@ goes into it, what comes out of it. The kind of power that the ocean
 has for us in terms of being a source of life. But also the sense of
 the cesspool, the dumping ground that it can be. I really want to
 explore that.</p></div2>
-        <div2><head>Native Southerners</head><byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate><bibl> </bibl><div3 id="sc11-5004" type="Section">
+        <div2 id="sc11-5003" n="1" type="Article"><head>Native Southerners</head><byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate><bibl/><div3 id="sc11-5004" type="Section">
             <p>Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
 Florida where the Cherokees and the Seminoles/Miccosukees maintain
@@ -631,7 +631,7 @@ fully from this model. Because the South has so many non-recognized
 Indians, it is a matter of regional concern and may well be a pressing
 cultural and racial issue of the twenty-first century.</p>
           </div3></div2>
-        <div2><head>The Law.</head><byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate><bibl> </bibl><bibl><title>Whose Votes Count? Affirmative Action and
+        <div2 id="sc11-5008" n="8" type="Review"><head>The Law.</head><byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate><bibl/><bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
 Harvard University Press, 1987. 316 pp. $25. Paperback edition, 1989,
 $10.95.)</bibl><p>The Voting Rights Act of 1965 has had a profound impact on minority
@@ -782,7 +782,7 @@ attorney has been responsible for as many redistricting cases. (An
 abbreviated version of this review appeared in <title>Foundation
 News</title>, May/June, 1989.)</p>
           </div3></div2>
-        <div2><head>Politics of Nativism.</head><byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate><bibl> </bibl><bibl><title>The Party of Fear: From Nativist
+        <div2 id="sc11-5009" n="7" type="Review"><head>Politics of Nativism.</head><byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate><bibl/><bibl><title>The Party of Fear: From Nativist
 Movements to New Right in American History</title> by David H. Bennett
 (University of North Carolina Press, 1988. 509 pp. $29.95.)</bibl><p>Right wing extremist groups are scarcely a neglected
 subject. Persistent survival from one era to another, violence,
@@ -868,7 +868,7 @@ right.</p><div3 id="sc11-5029" type="About">
             <p>LARRY KILBOURNE graduated from Brandeis University and is
 now a U.S. Air Force historian living in Ohio.</p>
           </div3></div2>
-        <div2><head>Victorian Reformer.</head><byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate><bibl> </bibl><bibl><title>Lugenia Burns Hope: Black Southern
+        <div2 id="sc11-5019" n="5" type="Review"><head>Victorian Reformer.</head><byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate><bibl/><bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
 Georgia Press, 1989. 192 pp. $25.)</bibl><p>If a truly definitive history of the South is ever written, some of
 its best pages will be devoted to those unsung women of the region who
@@ -926,7 +926,7 @@ director. Since then, he has led the Potomac Institute, in Washington,
 and in countless other ways served civil rights and the enlargement of
 American justice.</p>
           </div3></div2>
-        <div2><head>Transformed Color</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate><bibl> </bibl><bibl><title>The Mississippi Chinese</title> by
+        <div2 id="sc11-5010" n="6" type="Review"><head>Transformed Color</head><byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate><bibl/><bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
 Ill.: Waveland Press, 1988, second edition. Paper, xii, 257
 pp. $8.95.)</bibl><p>Whatever has set off the South from other societies, set off its
@@ -1009,7 +1009,7 @@ rewards the reader who keeps at it.</p><div3 id="sc11-5030" type="About">
             <p>LESLIE DUNBAR is the book review editor of
 <title>Southern Changes.</title></p>
           </div3></div2>
-        <div2><head>A New Heaven and Earth.</head><byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate><bibl> </bibl><bibl><title>The Temple of My
+        <div2 id="sc11-5011" n="4" type="Review"><head>A New Heaven and Earth.</head><byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate><bibl/><bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
 1989. 416 pp. $19.95.)</bibl><p>Alice Walker in <title>The Temple of My Familiar</title> creates a
 mythical saga, a journey to the source of unity behind our racial,
@@ -1125,11 +1125,11 @@ spat offthe back porch, and said "Ooo Wee!"</p><div3 id="sc11-5031" type="About"
 of Mississippi, now lives in Rochester, N. Y., where she practices
 marriage and family therapy.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth</head><byline>By 
+        <div2 id="sc11-5012" n="9" type="Article"><head>The Cold Hard Truth</head><byline>By 
             <docAuthor>
               <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name>
             </docAuthor>
-          </byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate><bibl> </bibl><p>I spoke recently in Pittsburgh at an annual NAACP
+          </byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate><bibl/><p>I spoke recently in Pittsburgh at an annual NAACP
 banquet. Ordinarily, NAACP types are leery of me because they often
 naively believe every societal problem in the world can be settled in
 the courts. That is one of the reasons many of them don't march or
@@ -1183,7 +1183,7 @@ have been worth the trip.</p><p>Peace.</p><div3 id="sc11-5032" type="About">
             <p>J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3></div2>
-        <div2><head>Portraits from Slavery.</head><byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate><bibl> </bibl><bibl><title>Winslow Homer's Images of
+        <div2 id="sc11-5013" n="3" type="Review"><head>Portraits from Slavery.</head><byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline><docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate><bibl/><bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of
 Texas, 1989. Paper, 144 pp. $19.95.)</bibl><p>Until the civil rights movement of the 1960s, the Civil War and
 Reconstruction years were the most significant period of events for

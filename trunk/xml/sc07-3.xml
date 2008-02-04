@@ -70,11 +70,11 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 7, Number 3-4, 1985</head>
         <p><title>Southern Changes</title>.  Volume 7, Number 3-4,
 	       <date value="1985-07">1985</date></p>
-        <div2><head>Mother Church</head><byline>
+        <div2 id="sc07-3002" n="8" type="Article"><head>Mother Church</head><byline>
             <docAuthor>
               <name reg="Campbell, Will D." type="person">Will D. Campbell</name>
             </docAuthor>
-          </byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate><bibl> </bibl><p>Shortly after the spring thaw of 1573 a woman prayed for her
+          </byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate><bibl/><p>Shortly after the spring thaw of 1573 a woman prayed for her
 children.</p><p>
             <q direct="unspecified">
               <hi rend="italic">O holy Father, sanctify the children of Thy
@@ -200,8 +200,8 @@ preacher? And how shall they preach, except they be sent?</hi>
 forty-four years ago this month. This essay is reprinted from
 <title>Christianity and Crisis.</title></p>
           </div3></div2>
-        <div2><head>Organizing for Empowerment: The National Political Congress of
-Black Women</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate><bibl> </bibl><div3 id="sc07-3004" type="Section">
+        <div2 id="sc07-3003" n="3" type="Article"><head>Organizing for Empowerment: The National Political Congress of
+Black Women</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate><bibl/><div3 id="sc07-3004" type="Section">
             <head>Excerpts and Observations</head>
             <p><hi rend="bold">Shirley Chisolm</hi>, president of the National
 Political Congress of Black Women: Ever since we started to put this
@@ -539,10 +539,10 @@ humanity.</p>
             <p>Sisters Chapel, Spelman College Campus,
 Atlanta. June 7-9,1985.</p>
           </div3></div2>
-        <div2><head>The Women of Fairhope.  <title>Women of Fairhope,</title> by
+        <div2 id="sc07-3007" n="9" type="Review"><head>The Women of Fairhope.  <title>Women of Fairhope,</title> by
 Paul M. Gaston. Mercer University Lamar Memorial Lectures,
 No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
-Press, 1984, 143 pages).</head><byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate><bibl> </bibl><p>The charm of Paul Gaston's  <title>The Women of Fairhope </title>
+Press, 1984, 143 pages).</head><byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate><bibl/><p>The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
 you could have heard the lectures on which it is based. But whatever
 may have been lost in the translation from spoken to written form, the
@@ -701,7 +701,7 @@ non-Fairhope women of their generation. Yet he has offered his readers
 a small jewel--a series of microcosms of individual women's
 experiences. And he has offered those of his readers who so choose all
 they need to draw more far-reaching conclusions.</p></div2>
-        <div2><head>Sixty five Years in Eufaula</head><byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate><bibl> </bibl><p>I am DAVID FROST, Jr.</p><p>This is an account of my life in Eufaula, Alabama and my family
+        <div2 id="sc07-3008" n="7" type="Article"><head>Sixty five Years in Eufaula</head><byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate><bibl/><p>I am DAVID FROST, Jr.</p><p>This is an account of my life in Eufaula, Alabama and my family
 struggle for survival.</p><p>This account parallels the struggles of Blacks in the rural south
 during this period. It presents a series of my experiences and is
 written with the dialect and grammatically terms of the section in
@@ -1125,8 +1125,8 @@ still again. But what made me stop making moonshine for good was, I
 found out I cannot run fast anymore. Most of the time when I ran, I
 caught a cramp and fell out. For that reason, I knew the law would
 catch me. I think I will have to stop making moonshine for good.</p></div2>
-        <div2><head>The Southern Regional Council Beginning the Fifth Decade: Our
-Annual Report </head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate><bibl> </bibl><p>1985 marks the forty-first anniversary of the founding of the
+        <div2 id="sc07-3009" n="6" type="Article"><head>The Southern Regional Council Beginning the Fifth Decade: Our
+Annual Report </head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate><bibl/><p>1985 marks the forty-first anniversary of the founding of the
 Southern Regional Council. Today, as in the past, the Council's vision
 of the South's future radiates from a belief in democratic
 principles. And, as in the past, the Council's task remains that of
@@ -1765,7 +1765,7 @@ Council'stask is to provide research, information, and technical
 assistance to individuals and groups who are able to bring
 change.</p>
           </div3></div2>
-        <div2><head>Abandoning Affirmative Action</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate><bibl> </bibl><p>The Reagan Administration stands on the verge of severely weakening
+        <div2 id="sc07-3016" n="1" type="Article"><head>Abandoning Affirmative Action</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate><bibl/><p>The Reagan Administration stands on the verge of severely weakening
 affirmative action rules for federal contractors. As it is now
 drafted, a proposed Presidential Order eliminates existing
 requirements that deficient federal contractors set attainable goals
@@ -1841,8 +1841,8 @@ the draft executive order that undercuts affirmative action for
 federal contractors, setting his hand to yet one more action in the
 continuing effort to push back twenty years of civil rights
 gains. </p></div2>
-        <div2><head>Figures of Speech: Fish We've Never Seen</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
-	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate><bibl> </bibl><p>An annual highlight of the late summer in Fayetteville, North
+        <div2 id="sc07-3017" n="4" type="Article"><head>Figures of Speech: Fish We've Never Seen</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
+	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate><bibl/><p>An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
 Death Festival was moved this year at the request of the Army Corps of
 Engineers to Columbus, Mississippi to coincide with the June 1
@@ -2422,7 +2422,7 @@ southbound river, the Tombigbee--bodies of water that haven't met in at
 least forty million years, perhaps never. Some fine tuning is
 inevitable in this. But the main thing is to get the bucks flowing in
 the right direction."</p></div2>
-        <div2><head>Crackdown in the Black Belt: On to Greene County</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate><bibl> </bibl><p>Fifth of July "not guilty" verdicts by a
+        <div2 id="sc07-3018" n="2" type="Article"><head>Crackdown in the Black Belt: On to Greene County</head><byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline><docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate><bibl/><p>Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as
 the Marion Three. Stymied, for the moment, is the Reagan Justice
 Department's effort to help local white officials reverse the

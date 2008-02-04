@@ -69,7 +69,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       <div1 id="sc06-2001" n="Southern Changes 6:2" type="Issue">
         <head>Southern Changes.  Volume 6, Number 2, 1984</head>
         <p><title>Southern Changes</title>.  Volume 6, Number 2, <date value="1984-03">1984</date></p>
-        <div2><head>Figures of speech--High Tech Drifter</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 1-3</docDate><bibl> </bibl><p>
+        <div2 id="sc06-2002" n="1" type="Article"><head>Figures of speech--High Tech Drifter</head><byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 1-3</docDate><bibl/><p>
             <hi rend="italic">There is an unmistakable glint in Dirty Gary's eye
 as he takes point blank aim at the man who holds the Democratic Party
 hostage. "Go ahead Mondale, make my day."</hi>
@@ -164,7 +164,7 @@ question?"</p><p>"Yes. What happens when the Great Communicator hears about
 this?"</p><p>"Reagan puts on his coat and tie just like I do," Dirty Gary
 replies, "one shoulder holster at a time. I think it's clear that the
 New is not new enough for both of us."</p></div2>
-        <div2><head>Meese and Civil Rights</head><byline>By <docAuthor><name reg="Neas, Ralph G." type="person">Ralph G. Neas</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 3-4</docDate><bibl> </bibl><p>We are here this morning to announce that the Leadership Conference
+        <div2 id="sc06-2003" n="2" type="Article"><head>Meese and Civil Rights</head><byline>By <docAuthor><name reg="Neas, Ralph G." type="person">Ralph G. Neas</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 3-4</docDate><bibl/><p>We are here this morning to announce that the Leadership Conference
 will strongly oppose the confirmation of Edwin Meese to be Attorney
 General of the United States.</p><p>In the course of its thirty-four years, the Conference has only
 rarely taken a position on a presidential nomination. Indeed, this is
@@ -255,7 +255,7 @@ representing blacks, Hispanics and Asian Americans, women, labor, the
 disabled, the aged, religious groups and minority businesses and
 professions.</p>
           </div3></div2>
-        <div2><head>Deep South Votes With Feet, Not With Hart</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 4-5</docDate><bibl> </bibl><p>According to a Southern Regional Council analysis of 106 targeted
+        <div2 id="sc06-2004" n="3" type="Article"><head>Deep South Votes With Feet, Not With Hart</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 4-5</docDate><bibl/><p>According to a Southern Regional Council analysis of 106 targeted
 voting precincts in Alabama and Georgia, black voters in these two
 states turned out in almost unprecedented numbers in the March 13
 presidential primary while whites generally stayed away from the
@@ -333,7 +333,7 @@ precincts, Mondale always received at least eleven percent of the
 vote. "Mondale's strength which gave him enough votes to win the two
 states was in its breadth and not its depth of support." Suitts
 says.</p><p>For more information on the study, contact the SRC office.</p></div2>
-        <div2><head>LEAF</head><byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 5-9</docDate><bibl> </bibl><p>Atlanta environmentalist Deborah Sheppard was organizing a state
+        <div2 id="sc06-2005" n="4" type="Article"><head>LEAF</head><byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 5-9</docDate><bibl/><p>Atlanta environmentalist Deborah Sheppard was organizing a state
 conference for a coalition of environmental groups in 1982. Among the
 offers of volunteer help she received, one stands out.</p><p>"This woman called. She was a mother of two, a former nurse with
 the World Health Organization and a law student at the University of
@@ -576,8 +576,8 @@ Knoxville, Tennessee 37902  <lb/>615-637-5172</p><div3 id="sc06-2025" type="Abou
             <p>Tim Johnson is executive director of the Educational
 Campaign for a Prosperous Georgia.</p>
           </div3></div2>
-        <div2><head>Gloria Naylor, <title>The Women of Brewster Place.</title> New
-York: Viking Press, 1982. Penguin, 1983.</head><byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 12-13</docDate><bibl> </bibl><p>Gloria Naylor's <title>The Women of Brewster Place</title> is a
+        <div2 id="sc06-2006" n="5" type="Review"><head>Gloria Naylor, <title>The Women of Brewster Place.</title> New
+York: Viking Press, 1982. Penguin, 1983.</head><byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 12-13</docDate><bibl/><p>Gloria Naylor's <title>The Women of Brewster Place</title> is a
 volume destined for long life. A collection of nine sections which
 together form a unified whole, the volume is powerful and strikingly
 well written. It captures the pain, suffering and futile attempts at
@@ -690,8 +690,8 @@ handles the task so well.</p><div3 id="sc06-2026" type="About">
 English Department at the University of North Carolina, Chapel
 Hill.</p>
           </div3></div2>
-        <div2><head><title>Mary, Wayfarer, An Autobiography,</title> by Mary
-E. Mebane. New York: Viking Press. 1983.</head><byline>By <docAuthor><name reg="Painter, Nell Irvin" type="person">Nell Irvin Painter</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 13-14</docDate><bibl> </bibl><p>In the second volume of her autobiography, Mary Mebane again talks
+        <div2 id="sc06-2007" n="6" type="Review"><head><title>Mary, Wayfarer, An Autobiography,</title> by Mary
+E. Mebane. New York: Viking Press. 1983.</head><byline>By <docAuthor><name reg="Painter, Nell Irvin" type="person">Nell Irvin Painter</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 13-14</docDate><bibl/><p>In the second volume of her autobiography, Mary Mebane again talks
 of desegregation and takes aim at the black bourgeoisie--or more
 exactly, the brown bourgeoisie. Early in <title>Mary,
 Wayfarer,</title> she fires a telling shot:</p><p>
@@ -777,9 +777,9 @@ is the author of <title>The Narrative of Hosea Hudson: His Life as a
 Negro Communist in the South.</title> This review first appeared in
 the <title>North Carolina Independent.</title></p>
           </div3></div2>
-        <div2><head>Steven Hahn, <title>The Roots of Southern Populism: Yeomen
+        <div2 id="sc06-2008" n="7" type="Review"><head>Steven Hahn, <title>The Roots of Southern Populism: Yeomen
 Farmers and the Transformation of the Georgia Upcountry,
-1850-1890</title> New York: Oxford University Press, 1983.</head><byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 14-16</docDate><bibl> </bibl><p>When Frank Owsley completed his study, <title>The Plain Folk of the
+1850-1890</title> New York: Oxford University Press, 1983.</head><byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 14-16</docDate><bibl/><p>When Frank Owsley completed his study, <title>The Plain Folk of the
 Old South,</title> in 1949, he considered the title "The Forgotten Man
 of the Old South," but rejected it as too flamboyant. Three decades
 later this rejected title, enlarged to include the Forgotten Woman,
@@ -941,8 +941,8 @@ it is historical.</p><div3 id="sc06-2028" type="About">
             <p>Bess Beatty is assistant professor of history at Shorter
 College in Rome, Georgia.</p>
           </div3></div2>
-        <div2><head>The 39th Year Report of the Southern Regional Council,
-1983</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 16-20, 22-24</docDate><bibl> </bibl><p>The Southern Regional Council, the South's oldest biracial
+        <div2 id="sc06-2009" n="8" type="Article"><head>The 39th Year Report of the Southern Regional Council,
+1983</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, pp. 16-20, 22-24</docDate><bibl/><p>The Southern Regional Council, the South's oldest biracial
 organization, consists of 120 Council Members in eleven Southern
 states. The work of the Council is supported by foundations, labor
 unions and corporations and by the contributions of individuals and
@@ -1416,7 +1416,7 @@ discuss, question and explore common or emerging issues, problems and
 concerns in the South. More than fifty groups receive the Roundtable
 mailings and attend meetings in Atlanta. The Council hosts the
 Southern Roundtable.</p></div2>
-        <div2><head>"Winners of Lillian Smith Award"</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, p. 21</docDate><bibl> </bibl><p>1968 George B. Tindall, <title>The Emergence of the New
+        <div2 id="sc06-2010" n="9" type="Article"><head>"Winners of Lillian Smith Award"</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1984-03">Vol. 6, No. 2, 1984, p. 21</docDate><bibl/><p>1968 George B. Tindall, <title>The Emergence of the New
 South</title></p><p>1968 Dan T. Carter, <title>Scottsboro</title></p><p>1970 Paul M. Gaston, <title>The New South Creed</title></p><p>1971
 Tony Dunbar, <title>Our Land, Too</title></p><p>1972 Robert Coles,
 <title>Children of Crisis</title>, Vols. II and III</p><p>1973 Harold

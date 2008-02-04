@@ -70,7 +70,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         <head>Southern Changes.  Volume 9, Number 4, 1987</head>
         <p><title>Southern Changes</title>.  Volume 9, Number 4,
 	       <date value="1987-10">1987</date></p>
-        <div2><head>The South Revisited</head><byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate><bibl> </bibl><p>"One difference between you and most of the Southerners who
+        <div2 id="sc09-4002" n="2" type="Article"><head>The South Revisited</head><byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate><bibl/><p>"One difference between you and most of the Southerners who
 pioneered in the reform movement of the Thirties and Forties is that
 you are still alive," one of the editors of <title>Southern
 Changes</title> said to me. "That is why we would like to get from
@@ -339,7 +339,7 @@ author of <title>Southern Exposure</title>, <title>Palmetto
 Country</title>, and <title>I Rode With the Klan.</title> He lives
 near Jacksonville, Fla.</p>
           </div3></div2>
-        <div2><head>The Cold Hard Truth: Wishing Justice for Bork</head><byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut. Jr.</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate><bibl> </bibl><p>WASHINGTON-This unstable, political, kooky town is in an absolute
+        <div2 id="sc09-4003" n="5" type="Article"><head>The Cold Hard Truth: Wishing Justice for Bork</head><byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut. Jr.</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate><bibl/><p>WASHINGTON-This unstable, political, kooky town is in an absolute
 frenzy, even if measured by its own unreal standards. My favorite
 Washington cab driver and political philosopher, Jack Curtis, who also
 happens to be black, was so busy denouncing "Tint? White Washington
@@ -411,7 +411,7 @@ of the Supreme Court.</p><p>I wish him hell.</p><p>How about that, Mr. Jack Curt
             <p>J. L. Chestnut is an Alabama trial lawyer
 and writer.</p>
           </div3></div2>
-        <div2><head>The Making of A Judge</head><byline>By <docAuthor><name reg="Callahan, Nancy" type="person">Nancy Callahan</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate><bibl> </bibl><p>In 1816, North Carolina planter Joseph Gee bought a massive tract
+        <div2 id="sc09-4004" n="4" type="Article"><head>The Making of A Judge</head><byline>By <docAuthor><name reg="Callahan, Nancy" type="person">Nancy Callahan</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate><bibl/><p>In 1816, North Carolina planter Joseph Gee bought a massive tract
 of land in a bend in the Alabama River, in Wilcox County. On his death
 in 1824, his plantation-Gee's Bend-fell to his nephews, Sterling and
 Charles Gee. Charles managed the behemoth holdings; Sterling returned
@@ -759,7 +759,7 @@ did.' And you just go on, and it's good. Yeah, it's good." </p><div3 id="sc09-40
 Montgomery. Her book, <title>The Freedom Quilting Bee</title>, will be
 published this fall by the University of Alabama Press.</p>
           </div3></div2>
-        <div2><head>The Poverty of Reaganomics</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate><bibl> </bibl><p>In its twilight years the Reagan Administration is returning to its
+        <div2 id="sc09-4005" n="1" type="Article"><head>The Poverty of Reaganomics</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate><bibl/><p>In its twilight years the Reagan Administration is returning to its
 extravagant rhetoric about having created the "opportunity society."
 According to Administration officials--proud of low inflation and a
 proposed treaty with the Russians--President Reagan will leave office
@@ -857,7 +857,7 @@ increased by nearly half, from forty-three percent in 1973 to
 sixty-two percent in 1985.</p><p> Nearly one-half (forty-eight percent) of all children living
 in young families in 1985 were poor--nearly double the twenty-six
 percent rate in 1973.</p></div2>
-        <div2><head>Tuscaloosa's Solid-Waste Turkey</head><byline>By <docAuthor><name reg="United Citizens Against Toxic Chemicals" type="corporate">United Citizens Against Toxic Chemicals</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, 8-9</docDate><bibl> </bibl><p>Your city is actively considering buying an incinerator. Should you
+        <div2 id="sc09-4006" n="3" type="Article"><head>Tuscaloosa's Solid-Waste Turkey</head><byline>By <docAuthor><name reg="United Citizens Against Toxic Chemicals" type="corporate">United Citizens Against Toxic Chemicals</name></docAuthor></byline><docDate value="1987-10">Vol. 9, No. 4, 1987, 8-9</docDate><bibl/><p>Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows
 better. We are a citizens group from Tuscaloosa and we don't want you
 to make the same mistakes we did. Here's our story, as told by the
