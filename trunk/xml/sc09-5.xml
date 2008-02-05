@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc09-51204">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2 id="sc09-5_1204">
   <teiHeader id="sc09-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -18,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p>1996 Emory
+          <p id="sc09-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -38,7 +39,7 @@ University, Atlanta, Georgia 30322</p>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>This text is produced in conjunction with the
+        <p id="sc09-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
@@ -64,76 +65,105 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
     </revisionDesc>
   </teiHeader>
-  <text id="sc09-51203">
-    <body id="sc09-51202">
-      <div1 id="sc09-5001" n="Southern Changes 9:5" type="Issue">
+  <text id="sc09-5_1203">
+    <body id="sc09-5_1202">
+      <div1 id="sc09-5_001" n="Southern Changes 9:5" type="Issue">
         <head>Southern Changes.  Volume 9, Number 5, 1987</head>
-        <p><title>Southern Changes</title>.  Volume 9, Number 5,
+        <p id="sc09-5_103"><title>Southern Changes</title>.  Volume 9, Number 5,
 	       <date value="1987-12">1987</date></p>
-        <div2 id="sc09-5002" n="1" type="Article"><head>Waiting for the Gag Reflex</head><byline>By <docAuthor><name reg="Teepen, Tom" type="person">Tom Teepen</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate><bibl/><p>The killing is picking up, not that anyone notices much any
-more.</p><p>We killed a man in Georgia the other night. The paper front-paged
+        <div2 id="sc09-5_002" n="1" type="Article">
+          <head>Waiting for the Gag Reflex</head>
+          <byline>By <docAuthor><name reg="Teepen, Tom" type="person">Tom Teepen</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 1-2</docDate>
+          <bibl/>
+          <p id="sc09-5_104">The killing is picking up, not that anyone notices much any
+more.</p>
+          <p id="sc09-5_105">We killed a man in Georgia the other night. The paper front-paged
 his execution, but most of the TV stations ho-hummed it. Just another
 electrocution, now commonplace enough that it was reported somewhere
 around the fund-raising banquet for the musically incontinent, TV's
-equivalent of a newspaper fate among the truss ads.</p><p>There were three executions on a recent Friday, in Alabama, Utah
+equivalent of a newspaper fate among the truss ads.</p>
+          <p id="sc09-5_106">There were three executions on a recent Friday, in Alabama, Utah
 and Florida. Even the hat trick didn't attract great notice. The last
 time three had been executed in one day was twenty-five years ago, but
-the event this time was a big yawn.</p><p>You can expect an increased rate of executions--and of general
-indifference about them.</p><p>A majority of the U.S. Supreme Court's justices kissed off a major
+the event this time was a big yawn.</p>
+          <p id="sc09-5_107">You can expect an increased rate of executions--and of general
+indifference about them.</p>
+          <p id="sc09-5_108">A majority of the U.S. Supreme Court's justices kissed off a major
 challenge to the death penalty in April--the last major challenge,
 most experts feel-by saying they don't really care if the death
 penalty is applied with apparent racial or other inequity. That put a
 number of death sentences, held in abeyance, back on the killing
-track.</p><p>The persons who follow such matters do not expect exactly a blood
+track.</p>
+          <p id="sc09-5_109">The persons who follow such matters do not expect exactly a blood
 bath in the nation's death chambers, but on the other hand the
 prospect is for a steadily rising frequency. The court of last resort
 has made it plain that it is impatient with challenges and doesn't
-want to be bothered on the point.</p><p>The previous high for any year since the Supreme Court reinstated
+want to be bothered on the point.</p>
+          <p id="sc09-5_1011">The previous high for any year since the Supreme Court reinstated
 the death penalty in 1976 was twenty-one executions, but there have
 been about thirty this year, with a month to go. We are working our
 way back to the time when executions occurred every other day, or 
-<pb n="2"/>
+<pb id="sc09-5_1010" n="2"/>
 more
 often. There were 199 in 1935, the record. We may be only a few years
 from the dubious achievement of rivaling, or even exceeding, our worst
-year.</p><p>There are 1,900 men and women on the nation's death rows. About 250
-are being added annually.</p><p>Is all this killing doing any good? No, if by "good" you mean
+year.</p>
+          <p id="sc09-5_1012">There are 1,900 men and women on the nation's death rows. About 250
+are being added annually.</p>
+          <p id="sc09-5_1013">Is all this killing doing any good? No, if by "good" you mean
 reducing either the general crime rate or specifically the murder
-rate.</p><p>There were 18,784 murders nationally in 1976, and 20,616 last
+rate.</p>
+          <p id="sc09-5_1014">There were 18,784 murders nationally in 1976, and 20,616 last
 year. In between, the numbers rose to a high of 23,044 in 1980 and
 dropped to a low of 18,692 in 1984. Georgia had 692 murders in 1976
 and 653 last year, with a low of 460 in 1983 and a high of 877 in
-1979.</p><p>And if executions are supposed to deter murder, the lesson loses
+1979.</p>
+          <p id="sc09-5_1015">And if executions are supposed to deter murder, the lesson loses
 even the possibility of working when it becomes so common it goes
-virtually unreported.</p><p>The simple truth is that the death penalty brutalizes our society
+virtually unreported.</p>
+          <p id="sc09-5_1016">The simple truth is that the death penalty brutalizes our society
 without providing any offsetting advantages. It does nothing more, or
 finer, than throw bodies to a public bloodlust. And far from deterring
 killers, the death penalty may incite them. It is a statement,
 officially endorsed, that killing is sometimes a good way to solve
-problems.</p><p>We are not only failing to send the right message with
+problems.</p>
+          <p id="sc09-5_1017">We are not only failing to send the right message with
 executions. There is a very high risk we are sending just the wrong
-one.</p><p>Most countries that presume to the description
+one.</p>
+          <p id="sc09-5_1018">Most countries that presume to the description
 "civilized" have quit this pointless
 business. Britain's and Canada's parliaments recently have firmly
 rejected proposals to resume the practice. The few putatively
-civilized nations that retain capital punishment used it rarely.</p><p>Execution is quite the popular thing with Americans just now. All
+civilized nations that retain capital punishment used it rarely.</p>
+          <p id="sc09-5_1019">Execution is quite the popular thing with Americans just now. All
 the polls show it. All the polls know it. It is not going to be
-stopped, at least not anytime soon.</p><p>But we are killing the retarded without serious qualm. We are near
+stopped, at least not anytime soon.</p>
+          <p id="sc09-5_1020">But we are killing the retarded without serious qualm. We are near
 the point of killing persons for crimes they committed as
 children. And it is increasingly difficult not to notice and admit we
 are mainly executing people of marginal intelligence, doubtful sanity,
 debilitating poverty. The death penalty has become an act of class
-warfare, fought top-down against the poor and incompetent.</p><p>America may no longer have a heart in such matters, but perhaps, at
-some point, we will prove still to have a gag reflex.</p><div3 id="sc09-5022" type="About">
-            <p>Tom Teepen is editor of the editorial page of the Atlanta
+warfare, fought top-down against the poor and incompetent.</p>
+          <p id="sc09-5_1021">America may no longer have a heart in such matters, but perhaps, at
+some point, we will prove still to have a gag reflex.</p>
+          <div3 id="sc09-5_022" type="About">
+            <p id="sc09-5_1022">Tom Teepen is editor of the editorial page of the Atlanta
 Constitution</p>
-          </div3></div2>
-        <div2 id="sc09-5003" n="2" type="Article"><head>As We Have Sown: The new struggle is the same old fight to make
-enough to survive</head><byline>By <docAuthor><name reg="Ritchie, Mark" type="person">Mark Ritchie</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate><bibl/><p>History is a good place to begin. The important thing about
+          </div3>
+        </div2>
+        <div2 id="sc09-5_003" n="2" type="Article">
+          <head>As We Have Sown: The new struggle is the same old fight to make
+enough to survive</head>
+          <byline>By <docAuthor><name reg="Ritchie, Mark" type="person">Mark Ritchie</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5,  1987, pp. 5, 7-11</docDate>
+          <bibl/>
+          <p id="sc09-5_1023">History is a good place to begin. The important thing about
 agriculture in the United States from the beginning of European
 colonization is that from the moment this country was founded,
 small-scale subsistence farming was everywhere. That is how we think
-of our nation-as a nation founded by small farmers.</p><p>We were about 99 percent small farmers and somehow it has declined
+of our nation-as a nation founded by small farmers.</p>
+          <p id="sc09-5_1024">We were about 99 percent small farmers and somehow it has declined
 to about 2 percent now. We get the image of an inevitable natural
 process. However, agriculture in the U.S. until about the mid-1890s
 was pretty well split-the rural people who were small subsistence
@@ -145,27 +175,31 @@ system in the South, Spanish land grants with huge haciendas in the
 West, bonanza farms. Not until the mid-1850s did families begin to
 control land and to farm in a commercial way-where farm families
 themselves could build their productivity to produce crops large
-enough to be sold on a more commercial basis.</p><p>From almost the first moment when families began being the dominant
+enough to be sold on a more commercial basis.</p>
+          <p id="sc09-5_1025">From almost the first moment when families began being the dominant
 unit of commercial production, family farmers and the family ranchers
 of that time entered into the same kind of struggle that we face
 today, a struggle between the high prices of things they needed to
 live on the farm and the low prices they could get for their
-products.</p><p>At different times between the 1850s and the early 1900s that
+products.</p>
+          <p id="sc09-5_1026">At different times between the 1850s and the early 1900s that
 squeeze was enough to cause what we call a depression but was then
 called a panic, a much more useful term. We had five or six panics
 when what farmers were getting for the crops was too little to pay
 what they owed their creditors. In each panic rural people reached a
 point of desperation. Then they began to get organized. Sometimes they
 came together into cooperatives to defend themselves. Sometimes they
-came together into political parties-the Greenbacks, the Populists.</p><p>By the early 1900s it became clear that it was going to take more
+came together into political parties-the Greenbacks, the Populists.</p>
+          <p id="sc09-5_1028">By the early 1900s it became clear that it was going to take more
 than just farmers getting organized locally to defend
 themselves. Farmers began seeing that they had to move nationally with
 federal legislation if they were to 
-<pb n="7"/>
+<pb id="sc09-5_1027" n="7"/>
 begin leveling the playing field
 between the monopolies that were providing them with everything they
 needed to live and the monopolies they were forced to sell their
-products to on the other end.</p><p>In the 1920s, following the collapse of farm prices after World War
+products to on the other end.</p>
+          <p id="sc09-5_1029">In the 1920s, following the collapse of farm prices after World War
 I, farmers entered probably the most serious depression they had faced
 up to that time. They organized nationally and passed-three different
 times-federal farm legislation called the McNerry-Halgan bill. Three
@@ -178,11 +212,12 @@ back and pushing and pushing and finally in the early
 1930s-unfortunately not until after their depression had rolled into
 the cities and brought real misery to urban areas, too-they passed and
 made the President sign federal farm legislation to begin giving some
-security back to rural people, to farmers and ranchers.</p><p>That first farm legislation, often called the parity farm
+security back to rural people, to farmers and ranchers.</p>
+          <p id="sc09-5_1031">That first farm legislation, often called the parity farm
 legislation or the Roosevelt farm legislation or the New Deal farm
 legislation, was based on three principles. First, prices in the
 marketplace had to be high enough so that farmers 
-<pb n="8"/>
+<pb id="sc09-5_1030" n="8"/>
 could pay their
 bills and keep their families alive. The Roosevelt farm legislation
 through the Commodity Credit Corporation put a floor under
@@ -201,7 +236,8 @@ prices rose to a certain level national reserves were released into
 the market to bring the prices back down so that they were kept within
 a fairly narrow range to make it possible for farmers to keep their
 families going but to keep prices from skyrocketing for consumers in
-the cities as well.</p><p>The farm programs that started in the thirties rested on these
+the cities as well.</p>
+          <p id="sc09-5_1032">The farm programs that started in the thirties rested on these
 three bases for a long time. These programs were not without their own
 problems. The first programs were declared unconstitutional because
 there was a tax on the processors. Some of the benefits were not
@@ -212,18 +248,20 @@ make those programs right, to find the formula, as in all of society
 we were looking for different ways to solve our economic crisis. By
 the end of the 1930s people had really settled into a good solid
 pattern of federal farm legislation that was to serve our nation well
-through the early fifties.</p><p>THESE PROGRAMS WERE a big success for a lot of people. They held
+through the early fifties.</p>
+          <p id="sc09-5_1034">THESE PROGRAMS WERE a big success for a lot of people. They held
 farm prices to a fair level and consumer prices were also very low. We
 had a strong comeback for young farmers coming back onto the
 land. Farmers who had been foreclosed on in the thirties were able to
 come back onto their homesteads and continue farming. We had an
 explosion in soil and water conservation programs. The founding of the
 Soil Conservation Service and putting a few 
-<pb n="9"/>
+<pb id="sc09-5_1033" n="9"/>
 dollars back into farmers'
 pockets made it possible to begin terracing land to recover land and
 fix some of the things that we had done that had caused the great dust
-bowl.</p><p>The other place the programs were a success was for the
+bowl.</p>
+          <p id="sc09-5_1035">The other place the programs were a success was for the
 taxpayers. Because the programs were based on getting a price for
 farmers out of the market the farm programs themselves actually
 generated profit. The farm program from 1933 to 1953 on storable
@@ -231,7 +269,8 @@ commodities made about $12 million for the federal government. Now
 that is not much money, but if you compare it to spending $32 billion
 last year on the federal farm program you can see a pretty big
 difference between the programs of those days and what we have
-today.</p><p>Some people didn't like those farm programs. We should be clear
+today.</p>
+          <p id="sc09-5_1036">Some people didn't like those farm programs. We should be clear
 about this. In the same way that in the 1800s and the early 1900s
 farmers had to struggle with the people that were supplying them and
 the people they were selling to, those were the same forces that were
@@ -243,7 +282,8 @@ were selling less chemicals and less seed. Which was probably
 true. Somehow the companies did not notice that farmers needed to make
 a profit to be able to pay their bills. It turned out we had very very
 strong opposition from the agri-chemical and machinery companies as
-well.</p><p>On the other side we had opposition from the companies that were
+well.</p>
+          <p id="sc09-5_1037">On the other side we had opposition from the companies that were
 buying from the farmers. The cotton ginners, grain corporations, and
 meet packers felt that if the farmers had government assistance to put
 a floor under prices, that the commodity buyers were not going to be
@@ -263,7 +303,8 @@ or socialism. They were able to say that things that were keeping
 black farmers on the land were somehow anti-American. They rolled that
 sentiment together into a successful national lobbying effort to
 repeal laws, especially those on grain crops and some of the crops
-that were heavily developed in the midwest.</p><p>(I point out to Yankee friends that because the South had strongly
+that were heavily developed in the midwest.</p>
+          <p id="sc09-5_1038">(I point out to Yankee friends that because the South had strongly
 organized itself in Congress, the crops that the South was very
 dependent on at that time-tobacco, peanuts, sugar, dairy products, and
 fruits and vegetables- were able to hang on. In fact, they have been
@@ -277,21 +318,24 @@ South. The effect is seen in the more stable conditions that some
 farmers in the South have had. A state like Kentucky that still has
 115,000 farms is able to hold on to them because of the small tobacco
 quotas. Some of the success in Georgia has been that people have been
-able to hang on to those programs.)</p><p>From the late 1950s and early 1960s there was chaos in agriculture
+able to hang on to those programs.)</p>
+          <p id="sc09-5_1039">From the late 1950s and early 1960s there was chaos in agriculture
 because these programs were being taken away. There were some
 production increases because when farmers saw their prices being cut,
 they intensified production to make up for what they were losing. Big
 surpluses built up so bad the government would then shut down whole
 counties and the soil bank was a really big program. Whole regions
-were shut down.</p><p>The 196Os were also a time with a lot of industrial development in
+were shut down.</p>
+          <p id="sc09-5_1041">The 196Os were also a time with a lot of industrial development in
 this country. We were kicking a lot of people off their farms. It was
 an especially intense time for small black farmers being kicked off
 their farms in the South. There was the pull of the urban area and
 urban jobs, the 
-<pb n="10"/>
+<pb id="sc09-5_1040" n="10"/>
 auto industry and the steel industry. In some ways the
 farm crisis of the late 1950s and early 1960s was masked by the
-ability of people to move to industrial jobs.</p><p>By the early 1970s the crisis, particularly for the Northern grain
+ability of people to move to industrial jobs.</p>
+          <p id="sc09-5_1042">By the early 1970s the crisis, particularly for the Northern grain
 farms, wheat and corn and soybeans, became pretty intense. In the
 early 1970s, in Des Moines, Iowa, farmers were marching down the
 street and on the one side were anti-war demonstrators because Richard
@@ -305,7 +349,8 @@ quiet. Don't make corporations open up jobs, instead make them give a
 little bit of money to a summer youth employment program. In 1972,
 Congress developed a new approach to farm legislation in which we had
 a floor under prices at a very low level and we provided farmers with
-what was called a deficiency payment. How about that for language?</p><p>For the first couple of years the low prices and the deficiency
+what was called a deficiency payment. How about that for language?</p>
+          <p id="sc09-5_1043">For the first couple of years the low prices and the deficiency
 payments were enough for farmers to survive. But when Congress started
 this program-in the midst of the Vietnam war and our trade deficits
 and everything else in the early 1970s-they asked how much farmers
@@ -315,7 +360,8 @@ not take too long between the Vietnam war and the rest of our
 foolishness to not have enough money to give the farmers. Soon, the
 low market price and the deficiency payment to farmers were not enough
 combined to cover the cost of production. Then we began rolling into
-the crisis that we face today.</p><p>WE HAD ONE MORE trick up our sleeves to keep this whole crisis
+the crisis that we face today.</p>
+          <p id="sc09-5_1044">WE HAD ONE MORE trick up our sleeves to keep this whole crisis
 covered up. The nation was on an inflation binge so farmland prices,
 like everything else, were moving up rapidly. You could go into the
 bank at the end of the year and say, "I lost money on my corn this
@@ -323,7 +369,8 @@ year," and the banker would say, "That's okay. You lost money
 on your corn but your land went up another ten percent this year. By
 golly, I can just loan you more money-by the time you retire  you'll
 be a millionaire. Don't worry about losing money on your corn 'cause
-you're going to be a millionaire pretty soon."</p><p>Year after year people lost money on their crops but borrowed money
+you're going to be a millionaire pretty soon."</p>
+          <p id="sc09-5_1045">Year after year people lost money on their crops but borrowed money
 on their land. Farm debt went from around $20 billion in the early
 1970s to a peak of $225 billion by 1983-a thousand percent increase in
 farm debt in a little over a decade. Not because farmers were being
@@ -336,28 +383,33 @@ Brazil. At the end of the decade, as land prices began to fall, the
 first young farmers who had borrowed to the limit were not able to
 borrow any more money, so their banks sold them out. Other farmers saw
 their land values go down and banks would tell them they no longer had
-enough collateral in their land and move them out.</p><p>The crisis of the 1980s has been that downward spiral land values
+enough collateral in their land and move them out.</p>
+          <p id="sc09-5_1046">The crisis of the 1980s has been that downward spiral land values
 have fallen 60 percent in my state. U.S. farmers have lost $300
-billion.</p><p>As in other times when we have had crises farmers have begun to
+billion.</p>
+          <p id="sc09-5_1047">As in other times when we have had crises farmers have begun to
 respond and get organized. Farmers in Tennessee in the early 1980s did
 a sit-in at a FmHA office and farmers from around the country came
 with them. Nationwide there has been a movement of farmers re-entering
 the political process to find a solution. Enough people were concerned
 about this in 1984 that although Ronald Reagan swept the country in
 some states, Democrats who took a strong position on the farm crisis
-were able to stand against that tide and get elected.</p><p>By 1986 farmers had organized enough so that the farm crisis was a
+were able to stand against that tide and get elected.</p>
+          <p id="sc09-5_1048">By 1986 farmers had organized enough so that the farm crisis was a
 motivating factor in moving millions of people to the polls. In
 Georgia 10 percent of the people who voted in 1986 said the reason
 they went to the polls and the reason they chose to vote was the farm
 crisis. I think that is the tip of the iceberg that is beginning to
-develop now.</p><p>Farmers are not only getting out voters but they have been in
+develop now.</p>
+          <p id="sc09-5_1049">Farmers are not only getting out voters but they have been in
 Congress writing legislation for new ways to approach the debt
 problem. They are also trying to reestablish those successful farm
 programs that put a floor under prices that was fair, and those supply
 management programs like you still have on peanuts and tobacco that
 kept supply and demand in balance and that were good for keeping rural
 populations on the land so they are not being forced into the
-cities.</p><p>The concerns of farmers today have moved beyond their own
+cities.</p>
+          <p id="sc09-5_1051">The concerns of farmers today have moved beyond their own
 situations and their own financial problems. Farmers are looking at
 the environmental effects of legislation. If you are being paid a
 subsidy on each bushel you are forced to make the land grow more and
@@ -366,7 +418,7 @@ farm prices hurting our farmers here have ruined agriculture around
 the world; when we put rice at $3.50 here, you can imagine what that
 does to rice growing in west Africa and other parts of the
 world. Farmers are also concerned about where this 
-<pb n="11"/>
+<pb id="sc09-5_1050" n="11"/>
 rolls into our
 trade legislation. We talk about "free trade."
 What that means is turning over the world's food system to that
@@ -375,36 +427,48 @@ trade with Canada. That means moving all our meat packing jobs to
 Canada. President Reagan is talking about removing subsidies for
 farmers worldwide. What they really are talking about is wiping out
 farmers around the world so that the crisis we now face here now will
-be worldwide.</p><p>It is not only that we have had a farm crisis but it is also a
+be worldwide.</p>
+          <p id="sc09-5_1052">It is not only that we have had a farm crisis but it is also a
 social crisis. The farm crisis has brought farm people back into the
 mainstream of the social justice movement. Farmers are worried about
 the same issues that urban people are. We need to bring that coalition
 together concretely, realistically, politically-not just to solve this
 farm crisis, but to solve the national and international crisis of
-human spirit and of health and safety.</p><p>We need to bring these people together to address those crises as a
+human spirit and of health and safety.</p>
+          <p id="sc09-5_1053">We need to bring these people together to address those crises as a
 political coalition because that is the only way we will solve
-them-together. </p><div3 id="sc09-5023" type="About">
-            <p>Edward Pennick is director of the Emergency Land
+them-together. </p>
+          <div3 id="sc09-5_023" type="About">
+            <p id="sc09-5_1054">Edward Pennick is director of the Emergency Land
 Fund. Mark Ritchie, a native Georgian, is an agricultural policy
 analyst with the Minnesota Department of Agriculture.</p>
-            <p>The articles by Pennick and Ritchie are based on remarks they made
+            <p id="sc09-5_1055">The articles by Pennick and Ritchie are based on remarks they made
 recently in Atlanta at the conference, "Urban Connections to the
 Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
-          </div3></div2>
-        <div2 id="sc09-5004" n="3" type="Article"><head>As We Have Sown: At current rates, blacks will own no land by
-the end of this century</head><byline>By <docAuthor><name reg="Pennick, Edward" type="person">Edward Pennick</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate><bibl/><p>For black Americans the rural crisis is not limited to any region,
+          </div3>
+        </div2>
+        <div2 id="sc09-5_004" n="3" type="Article">
+          <head>As We Have Sown: At current rates, blacks will own no land by
+the end of this century</head>
+          <byline>By <docAuthor><name reg="Pennick, Edward" type="person">Edward Pennick</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, 5-7</docDate>
+          <bibl/>
+          <p id="sc09-5_1056">For black Americans the rural crisis is not limited to any region,
 profession or economic class. It touches us all though probably
-nowhere is the farm crisis more acute than in the rural South.</p><p>The decline in black land ownership over the past twenty years is
+nowhere is the farm crisis more acute than in the rural South.</p>
+          <p id="sc09-5_1057">The decline in black land ownership over the past twenty years is
 alarming and unabated. The problem is so severe that a different
 approach is now needed, one that appeals to survival instincts of both
-white as well as black individuals.</p><p>Like their counterparts in the Midwest and other parts of the
+white as well as black individuals.</p>
+          <p id="sc09-5_1058">Like their counterparts in the Midwest and other parts of the
 country white farmers are facing a serious economic problem. Many will
 not survive. That will have adverse effects on entire rural Southern
 communities and economies. Unlike their Midwestern counterparts most
 Southern white farmers are reluctant and even refuse to organize
 against those institutions and politicians responsible for putting
-them in this crisis situation.</p><p>White farmers for the most part are hesitant when it comes to
+them in this crisis situation.</p>
+          <p id="sc09-5_1060">White farmers for the most part are hesitant when it comes to
 joining with other groups whom they consider outsiders or
 anti-establishment although we at the Federation of Southern
 Cooperatives have noticed a significant increase in the numbers of
@@ -416,12 +480,13 @@ country. So the small white farmers for the most part continue to
 suffer mostly alone while still believing that the present system will
 rescue them. They refuse to believe that the key to their survival may
 mean joining forces with black farmers and landowners. Unfortunately 
-<pb n="6"/>
+<pb id="sc09-5_1059" n="6"/>
 these beliefs are encouraged by many of our private, public and
 religious institutions that are either too scared to rock the boat or
 they recognize the almost unlimited potential of a black and white
 Southern rural movement, a movement that would totally destroy the
-age-old Southern strategy of divide-and-conquer.</p><p>The Southern rural crisis is unique and complex. Yet for Southern
+age-old Southern strategy of divide-and-conquer.</p>
+          <p id="sc09-5_1061">The Southern rural crisis is unique and complex. Yet for Southern
 white farmers there is a glimmer of hope because whether they organize
 or not they will benefit from a successful conclusion to the current
 crisis. I believe that in the end the family farmer will prevail. This
@@ -430,10 +495,12 @@ prevail. Theirs is a different plight that requires constant
 struggle. When there was no rural crisis black farmers were out of
 sight and out of mind. Only recently has their situation been viewed
 by some as worthy of inclusion in the future of American
-agriculture.</p><p>More than 90 percent of black-owned land is located in the
+agriculture.</p>
+          <p id="sc09-5_1062">More than 90 percent of black-owned land is located in the
 South. The problem is that blacks average nearly 30 percent of the
 Southern farm population while they receive only a small fraction of
-the state and federal government agricultural services.</p><p>In fact, less than 25 percent of all black farmers have received
+the state and federal government agricultural services.</p>
+          <p id="sc09-5_1063">In fact, less than 25 percent of all black farmers have received
 assistance from the Farmers Home Administration. Given the current
 problems we are having with the FmHA some might consider that a
 blessing. Still, the point is that blacks as a whole have been denied
@@ -453,10 +520,12 @@ even prejudiced personnel within the various county agricultural
 offices. The bottom line is that even with the often heroic efforts of
 FSC and other concerned organizations and individuals, blacks are
 still losing land at a rate of a half million acres annually, over
-twice as fast as white land owners and farmers.</p><p>Depending on whose statistics you believe, blacks own between three
+twice as fast as white land owners and farmers.</p>
+          <p id="sc09-5_1064">Depending on whose statistics you believe, blacks own between three
 and one-half million and six million acres of land. No matter which
 numbers you use, at the current rate of decline blacks will own no
-land by the end of this century.</p><p>LET YOUR IMAGINATION take you to the year 1998. It is an election
+land by the end of this century.</p>
+          <p id="sc09-5_1065">LET YOUR IMAGINATION take you to the year 1998. It is an election
 year and the major black political, social and religious leaders have
 called a national press conference in Atlanta to bring to the public's
 attention the fact that black Americans who once owned nearly fifteen
@@ -471,7 +540,8 @@ leave. The overwhelming majority of blacks are concentrated in a few
 urban areas that are all but ignored by the government even though
 they are controlled by black politicians. These areas are quickly
 deteriorating and their occupants have all but lost hope for a better
-way of life.</p><p>Unless something dramatic is done today this imaginary scene will
+way of life.</p>
+          <p id="sc09-5_1066">Unless something dramatic is done today this imaginary scene will
 come true. The responsibility for preventing it falls first on those
 holding our imaginary press conference for it is they who should be
 dealing with the struggle for blacks to maintain, even increase their
@@ -479,10 +549,11 @@ land holdings in this country. One can ask where they are today. Land
 ownership affects all blacks. Some estimate that nearly half of the
 blacks who hold ownership interest in rural land are living in urban
 areas. It baffles me how some of our political leaders can speak of
-economic development and independence and ignore the land issue.</p><p>Too many black political and economic leaders still consider black
+economic development and independence and ignore the land issue.</p>
+          <p id="sc09-5_1068">Too many black political and economic leaders still consider black
 economic independence to be synonymous with more jobs. By jobs they
 mean working for the typical 
-<pb n="7"/>
+<pb id="sc09-5_1067" n="7"/>
 industries located primarily in urban
 areas. The fact is, these jobs are actually increasing black economic
 dependence. This becomes apparent when one looks at the present
@@ -493,7 +564,8 @@ accord the land issue the same attention and respect it does the more
 glamorous issues such as voting rights, integration, and stopping
 Bork. This is not to say that Bork is not important, but you can have
 nine Supreme Court justices, all of them black, and if you cannot feed
-yourself it does no good. The leadership must recognize that.</p><p>Land ownership-development is just as important and may well make
+yourself it does no good. The leadership must recognize that.</p>
+          <p id="sc09-5_1069">Land ownership-development is just as important and may well make
 it easier for us to accomplish our objectives in these other areas
 because we can then operate from a position of economic strength, not
 just as consumers. In short, economic independence through the control
@@ -502,7 +574,8 @@ independence. During the coming months when the black vote will be a
 valuable commodity, we must make black land retention and development
 an integral part of the test by which we will judge political
 candidates and those individuals and organizations that support
-them.</p><p>Also key participants in our imaginary press conference are our
+them.</p>
+          <p id="sc09-5_1070">Also key participants in our imaginary press conference are our
 black religious leaders. The church has always been the source of
 inspiration for blacks, especially during periods of intense struggle
 and suppression. We must have the black church's support during this
@@ -511,7 +584,8 @@ black land loss is not stopped. Many black ministers do not see black
 land ownership as important to their agenda. I cannot argue with the
 fact that there are other important issues, however, being the good
 Christian that I am, I believe that it is a sin not to be good
-stewards of the land.</p><p>Our foreparents have a history of good land stewardship. It was
+stewards of the land.</p>
+          <p id="sc09-5_1071">Our foreparents have a history of good land stewardship. It was
 through recently freed slaves-freed, uneducated and deeply religious
 slaves-that we were able to amass that fifteen million acres of land
 in the early 1900s. They recognized the importance of nourishing and
@@ -519,7 +593,8 @@ being nourished by the land. It was obvious that land stewardship was
 deeply ingrained in their religious faith. Modern-day black Christians
 have somehow lost the connection between the land and God. Like the
 politician, the church too must be judged and held accountable by how
-it stands and participates on the land issue.</p><p>FINALLY I WANT TO SAY to our white brethren in the religious,
+it stands and participates on the land issue.</p>
+          <p id="sc09-5_1072">FINALLY I WANT TO SAY to our white brethren in the religious,
 political and grassroots arenas that the so-called rural crisis can
 never be over unless blacks are full participants in its solution. You
 cannot advocate agricultural legislation or programs that do not
@@ -534,7 +609,8 @@ welcome you to the struggle and even fight for issues that may not
 have a direct bearing on the small black farmer. We do this because we
 believe that a policy detrimental to any family farmer is wrong and
 should be fought. But one of my fears is that once the current crisis
-is over blacks again will be left to fight alone.</p><p>I see encouraging signs in the joint efforts of black and white
+is over blacks again will be left to fight alone.</p>
+          <p id="sc09-5_1073">I see encouraging signs in the joint efforts of black and white
 farm organizations like the Federation of Southern Cooperatives,
 Prairiefire, Family Farm Coalition, and others. I think we are on the
 verge of creating a movement unparalleled in American history. We must
@@ -543,17 +619,24 @@ again. If we do miss this opportunity then it is possible that
 grassroots and progressive white leaders will also be participants in
 our imaginary press conference, because the farms will be owned by a
 few corporations that will give us all a lesson on what it means to
-control the land. </p><div3 id="sc09-5024" type="About">
-            <p>Edward Pennick is director of the Emergency Land
+control the land. </p>
+          <div3 id="sc09-5_024" type="About">
+            <p id="sc09-5_1074">Edward Pennick is director of the Emergency Land
 Fund. Mark Ritchie, a native Georgian, is an agricultural policy
 analyst with the Minnesota Department of Agriculture.</p>
-            <p>The articles by Pennick and Ritchie are based on remarks they made
+            <p id="sc09-5_1075">The articles by Pennick and Ritchie are based on remarks they made
 recently in Atlanta at the conference, "Urban Connections to the
 Rural Crisis," sponsored by the Federation of Southern
 Cooperatives and the National Council of Churches.</p>
-          </div3></div2>
-        <div2 id="sc09-5005" n="4" type="Article"><head>Rural Advancement Fund Celebrates 50 Years of Farm
-Advocacy</head><byline>By <docAuthor><name reg="Amberg, Robert" type="person">Robert Amberg</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate><bibl/><p>This year the Rural Advancement Fund/National Sharecroppers Fund
+          </div3>
+        </div2>
+        <div2 id="sc09-5_005" n="4" type="Article">
+          <head>Rural Advancement Fund Celebrates 50 Years of Farm
+Advocacy</head>
+          <byline>By <docAuthor><name reg="Amberg, Robert" type="person">Robert Amberg</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 11-15</docDate>
+          <bibl/>
+          <p id="sc09-5_1076">This year the Rural Advancement Fund/National Sharecroppers Fund
 celebrates its fiftieth anniversary as an advocate for family farms
 and rural communities. Initially formed as an annual "National
 Sharecroppers Week," cosponsored by the Workers Defense League and the
@@ -565,7 +648,8 @@ the non-profit Rural Advancement Fund to receive donations from
 supporters. Through the years RAF/NSF has grown in both scope and
 influence to become an award-winning organization with an
 international program and a staff of twenty-three that continues to
-argue forcefully for the rights of small farmers around the world.</p><p>In 1937, though, NSF's focus was the South. While the nation as a
+argue forcefully for the rights of small farmers around the world.</p>
+          <p id="sc09-5_1078">In 1937, though, NSF's focus was the South. While the nation as a
 whole was still mired in the depths of the Great Depression, the South
 and its predominantly rural population were faring worse than
 most. Agriculture was being revolutionized by mechanization, chemical
@@ -577,7 +661,8 @@ and the substandard living conditions contributed to diseases like
 pellagra, hookworm, syphilis and malaria. Educational opportunities
 for sharecroppers were nonexistent and the illiteracy rate was the
 highest of any occupational group in America.
-<pb n="12"/></p><p>Norman Thomas, a six-time socialist candidate for president and a
+<pb id="sc09-5_1077" n="12"/></p>
+          <p id="sc09-5_1079">Norman Thomas, a six-time socialist candidate for president and a
 long-term supporter of the National Sharecroppers Fund, speaking on a
 CBS radio broadcast for National Sharecroppers Week, described the
 situation: "We are speaking tonight in behalf of a group which
@@ -590,13 +675,15 @@ ten cents on the dollar at the plantation commissary for the credit
 advanced thousands of them, and they end every season in debt to the
 landlord, which means in practice that they are tied to his
 land. Other more direct forms of peonage--let's call it slavery--are
-fairly general."</p><p>Against this backdrop of misery and exploitation, eighteen
+fairly general."</p>
+          <p id="sc09-5_1080">Against this backdrop of misery and exploitation, eighteen
 men--black and white--met in July 1934, in a schoolhouse in Tyronza,
 Arkansas, to form the STFU. They were led by H. L. Mitchell [See
 <title>Southern Changes</title>, March 1987] and Clay East, admirers
 of Thomas. The union's goal was to work collectively for better
 working conditions and greater benefits for farmworkers hard hit by
-the labor-reducing Agricultural Adjustment Act of 1933.</p><p>While the goals seemed simple, the union had the weight of history
+the labor-reducing Agricultural Adjustment Act of 1933.</p>
+          <p id="sc09-5_1081">While the goals seemed simple, the union had the weight of history
 and culture against it. The union was interracial when Jim Crow was
 still law. Further, STFU's constituency worked outside the typical
 industrial setting and often viewed themselves as independent
@@ -604,7 +691,8 @@ producers. Finally, the union's leaders, Mitchell, East, J.R. Butler
 and Isaac Shaw were Southerners who had been heavily influenced by and
 eventually gravitated to socialism, the kind of socialism that had
 incubated in the immigrant ghettos of the urban Northeast and been
-practiced by many of this country's industrial labor unions.</p><p>By 1936 the union had a Southwide membership of over two thousand
+practiced by many of this country's industrial labor unions.</p>
+          <p id="sc09-5_1082">By 1936 the union had a Southwide membership of over two thousand
 and a continual shortage of cash. In an effort to ease the cash
 crunch, Sidney Hertzberg, a young staff member of the Workers Defense
 League who had worked with STFU during the summer, came up with the
@@ -613,7 +701,8 @@ educational and fundraising event was held annually in New York. The
 week of manuscript and print auctions, concerts and plays eventually
 included as sponsors such celebrities as Fiorello LaGuardia, John
 Steinbeck, Margaret Bourke-White, Eleanor Roosevelt, Upton Sinclair
-and A. Philip Randolph.</p><p>World War 11 slowed the organizing efforts of STFU and by 1943 it
+and A. Philip Randolph.</p>
+          <p id="sc09-5_1083">World War 11 slowed the organizing efforts of STFU and by 1943 it
 was obvious that an ongoing committee to raise funds year round was
 necessary. The Fund would regard STFU as its primary responsibility
 and take over the running of National Sharecroppers Week. But, as
@@ -624,43 +713,49 @@ organization in a direction independent of STFU when they said that
 groups working in the general field of improvement and eventual
 abolition of the sharecropper system." This step eventually
 transformed NSF from a labor organization to a
-farm-rural-international organization.</p><p>BY WAR'S END, THE changes in agriculture begun during the thirties
+farm-rural-international organization.</p>
+          <p id="sc09-5_1085">BY WAR'S END, THE changes in agriculture begun during the thirties
 had radically altered the lives of small farmers and farmworkers. Many
 abandoned their native South in search of industrial jobs in the
 North. Others, lucky enough to own land, stuck it out in the face of
 increasing competition from their better-equipped and 
-<pb n="13"/>
+<pb id="sc09-5_1084" n="13"/>
 better-financed
 neighbors. Still others, landless and without marketable skills,
 became a new class of farmworkers whose work was restricted to the
 planting and harvesting of crops. NSF chose to work with the last two
 groups--the small farmers who had opted to stay and the migrant
-farmworkers who had little choice.</p><p>In 1950 NSF established the National Committee on Agricultural Life
+farmworkers who had little choice.</p>
+          <p id="sc09-5_1086">In 1950 NSF established the National Committee on Agricultural Life
 and Labor. NCALL pressured state and federal governments by
 distributing information and focusing the collective efforts of over
 forty individual organizations working with rural issues. The
 establishment of NCALL signalled a more direct role in politics for
 NSF and a recognition that the problems of farmworkers are sometimes
-solved away from the fields.</p><p>NSF was guided in this period of transition and growth by Fay
+solved away from the fields.</p>
+          <p id="sc09-5_1087">NSF was guided in this period of transition and growth by Fay
 Bennett and Frank Porter Graham. Bennett became executive secretary of
 NSF in 1952, a post she held for eighteen years (she continues to
 serve on RAF/N8F's Board). She saw NSF in the role of an umbrella
 organization, and with Graham, a former U.S. Senator and President of
 the University of North Carolina who served as chairman of the board
-of directors, moved NSF in that direction.</p><p>While NSF had broadened its range of political activities, it
+of directors, moved NSF in that direction.</p>
+          <p id="sc09-5_1088">While NSF had broadened its range of political activities, it
 continued funding like-minded organizations working directly with
 rural people. In 1953, NSF sponsored the formation of the Migrant
 Children's Fund, an organization devoted to addressing the health and
 educational needs of migrant families, and throughout the fifties NSF
 supported organizing efforts by the National Agricultural Workers
-Union (formerly STFU).</p><p>In 1962, the year of NSF's 25th Anniversary, NSF sponsored the
+Union (formerly STFU).</p>
+          <p id="sc09-5_1089">In 1962, the year of NSF's 25th Anniversary, NSF sponsored the
 Bricks Conference, a three-day meeting on rural affairs which was
 widely attended by government officials, ministers, farmers and
 community leaders and represented another change in direction for
 NSF. In the past NSF had worked in opposition to most government
 agencies, but now, because of the influx of federal monies and FSF's
 reputation as an advocate for rural people, the organization was asked
-to work with government.</p><p>SHORTLY AFTER THE BRICKS Conference NSF began work on the first of
+to work with government.</p>
+          <p id="sc09-5_1091">SHORTLY AFTER THE BRICKS Conference NSF began work on the first of
 many contracts with the U.S. Department of Labor and the Office for
 Economic Opportunity. Offices were opened in Atlanta and Knoxville and
 programs implemented on illiteracy, job training and placement for
@@ -668,18 +763,20 @@ displaced farm workers, the construction of self-help housing and the
 formation of rural cooperatives. With funds generated by NSF's new
 tax-exempt subsidiary, the Rural Advancement Fund (RAF), NSF set up
 day-care and 
-<pb n="14"/>
+<pb id="sc09-5_1090" n="14"/>
 education centers, housing programs and a rural credit
 union. A Washington office was opened during this period to increase
 NSF's lobbying efforts and to take better advantage of new federal
-programs.</p><p>The late sixties and early seventies brought new internal changes
+programs.</p>
+          <p id="sc09-5_1092">The late sixties and early seventies brought new internal changes
 to RAF/NSF with the departure of Fay Bennett and the death of Frank
 Porter Graham. Jim Pierce, a labor and civil rights activist, took
 over as executive director and began building a rural demonstration
 and training center. The Graham Center, located in Anson County, N.C.,
 opened in 1974 based on the idea that "creative approaches to the
 farm problem could make good and profitable use of marginal land and
-resources."</p><p>THE GRAHAM CENTER'S free training program was aimed towards small
+resources."</p>
+          <p id="sc09-5_1093">THE GRAHAM CENTER'S free training program was aimed towards small
 farmers and their families and offered comprehensive training in all
 aspects of practical small farm operation and management. Courses in
 soil management, biological pest control, marketing, and crop and
@@ -687,7 +784,8 @@ livestock production were supplemented by courses putting agriculture
 in a social and historical context. The Graham Center also housed a
 resource center which offered research and public speaking on rural,
 political and economic issues to church, university and farm
-groups.</p><p>The Graham Center's approach to problem-solving--bringing farmers
+groups.</p>
+          <p id="sc09-5_1094">The Graham Center's approach to problem-solving--bringing farmers
 to one site for conferences and demonstrations--represented a real
 change in tactics for RAF/NSF. In the past the organization had always
 gone out to the farmers and their problems, meeting them on their own
@@ -695,14 +793,16 @@ ground. Now, the situation was reversed and many members of the staff
 and board were uncomfortable with the change. In addition, federal
 money had begun to dry up and the Graham Center was proving to be a
 constant drain on capital and resources rather than the
-self-sufficient model it was chartered to be.</p><p>This fiscal and identity crisis precipitated the phasing out of
+self-sufficient model it was chartered to be.</p>
+          <p id="sc09-5_1095">This fiscal and identity crisis precipitated the phasing out of
 training programs at the Graham Center in 19814 Kathryn Waller,
 executive director since the late 1970s, moved RAF/NSF back to its
 roots by instituting a traditional, grassroots organizing effort in
 the mold of STFU. Waller, along with program director Cary Fowler,
 also charted new territory for RAF/NSF by instituting an international
 program to address Third World problems and the worldwide loss of
-plant genetic diversity.</p><p>Beginning in 1982, RAF sent representatives into the field in
+plant genetic diversity.</p>
+          <p id="sc09-5_1096">Beginning in 1982, RAF sent representatives into the field in
 North Carolina and South Carolina. The goal was to organize farmers
 into a cohesive, multi-racial, farmer-led unit that could address
 issues affecting farmers and rural communities. The United Farmers
@@ -719,30 +819,35 @@ compassion will be forced on them." In the winter of 1987, UFO and
 other farm groups distributed $2.5 million worth of donated seed corn
 to farmers suffering the effects of the 1986 drought in North and
 South Carolina. Most of these farmers would not have been able to
-plant without this gift of seed.</p><p>Seed is the foundation of Rural Advancement Fund International
+plant without this gift of seed.</p>
+          <p id="sc09-5_1098">Seed is the foundation of Rural Advancement Fund International
 (RAFI). While the struggle for worldwide genetic conservation appears
 to be only distantly related the struggle facing farmers in the
 American South, the mandate is clear. As RAF program director Cary
 Fowler 
-<pb n="15"/>
+<pb id="sc09-5_1097" n="15"/>
 says, "The type of seeds we have available to plant into the
 ground have a lot to do with the kind of agricultural systems that
-we'll have as well."</p><p>RAFI works globally for plant genetic conservation and the control
+we'll have as well."</p>
+          <p id="sc09-5_1099">RAFI works globally for plant genetic conservation and the control
 of this invaluable natural resource by its rightful owners. Most of
 the world's plant genetic diversity exists in the Third World. It is
 the critical raw material needed by U.S.-based multinational seed and
 pharmaceutical companies in the production of new varieties. Thus,
 those who control this genetic diversity control the very future of
-agriculture.</p><p>RAFI advises governmental and non-governmental agencies on how best
+agriculture.</p>
+          <p id="sc09-5_10100">RAFI advises governmental and non-governmental agencies on how best
 to preserve their genetic resources, argues on behalf of Third World
 countries at the United Nations Food and Agriculture Organization in
 Rome, and assists in the development and dissemination of innovative
 seed-saving strategies through publications like <title>The Community
-Seed Bank Kit.</title></p><p>RAFI is also involved in the rapidly growing field of biotechnology
+Seed Bank Kit.</title></p>
+          <p id="sc09-5_10101">RAFI is also involved in the rapidly growing field of biotechnology
 and its effects on agriculture. RAFI publishes
 <title>Communique</title> which serves as an early-warning signal for
 Third World countries of impending changes that could radically affect
-their agricultural economies.</p><p>In the 1980s, RAF/NSF has also moved to diversify its efforts in
+their agricultural economies.</p>
+          <p id="sc09-5_10102">In the 1980s, RAF/NSF has also moved to diversify its efforts in
 rural communities. Volunteers trained by RAF monitor courtroom
 procedures for the poor and disfranchised in Robeson County, North
 Carolina. Robeson County has a long history of racial injustice and
@@ -750,13 +855,16 @@ its present district attorney has successfully prosecuted more capital
 murder cases than any prosecutor in the United States. RAF staff
 members in Robeson County have built community coalitions that seek a
 public defender for the county, a citizen's review board for the
-county's legal system and equal justice for poor people.</p><p>In this decade, RAF also instituted a voter registration project in
+county's legal system and equal justice for poor people.</p>
+          <p id="sc09-5_10103">In this decade, RAF also instituted a voter registration project in
 eastern North Carolina. This effort produced an increased turnout of
 30-40 percent in some key precincts in the last election which, in
 turn, helped elect a number of minority candidates to local and
-statewide office.</p><p>As RAF/NSF celebrates its fiftieth year of service to family
+statewide office.</p>
+          <p id="sc09-5_10104">As RAF/NSF celebrates its fiftieth year of service to family
 farmers and rural communities one appropriately recalls words from
-STFU's Ceremony of the Land:</p><p>
+STFU's Ceremony of the Land:</p>
+          <p id="sc09-5_10105">
             <hi rend="italic">"In man's greed for gold, he has destroyed the
 fruitful ness of the earth In his lust for power and dominion he has
 brought misery upon us all. The land cries out against those who waste
@@ -764,37 +872,50 @@ it. Thy children cry out against those who abuse and oppress
 them. Speed now the day when the plains and the hills and all the
 wealth thereof shall be the people's own and free men shall not live
 as tenants of men on the earth..."</hi>
-          </p><div3 id="sc09-5025" type="About">
-            <p>Robert Amberg is communications director and photographer
+          </p>
+          <div3 id="sc09-5_025" type="About">
+            <p id="sc09-5_10106">Robert Amberg is communications director and photographer
 for the Rural Advancement Fund. A book-length history of RAF/NSF by
 Tevere MacFadyen will be published this winter.</p>
-          </div3></div2>
-        <div2 id="sc09-5006" n="5" type="Article"><head>Lost Causes &#x26;Then Some</head><byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate><bibl/><p>This is the second of two articles on the once and future South, as
+          </div3>
+        </div2>
+        <div2 id="sc09-5_006" n="5" type="Article">
+          <head>Lost Causes &#x26;Then Some</head>
+          <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 16-24</docDate>
+          <bibl/>
+          <p id="sc09-5_10107">This is the second of two articles on the once and future South, as
 viewed from the perspective of a life-long organizer, activist and
 writer. Forty years have elapsed since publication of the author's
 book, Southern Exposure. The players have changed, but in too many
-respects the game remains the same.</p><p>World War II, as anticipated, generated a degree of black
+respects the game remains the same.</p>
+          <p id="sc09-5_10108">World War II, as anticipated, generated a degree of black
 disaffection which came up against American apartheid after the manner
 of the proverbial <sic>irresistable</sic> force against the immovable
-object.</p><p>"They ain't agonna do it--not so long as Gene Talmadge is
+object.</p>
+          <p id="sc09-5_10109">"They ain't agonna do it--not so long as Gene Talmadge is
 Governor, they ain't!" the "Wild Man of Sugar Creek" was
-bellowing.</p><p>As is the wont of those enamored of the status quo, 'twas said that
+bellowing.</p>
+          <p id="sc09-5_10110">As is the wont of those enamored of the status quo, 'twas said that
 legislation would be of no avail against race prejudice, and that only
 education could do the job "in time." But America's blacks had had
 enough of gradualist soft-soap. When a Southern judge admonished a
 black woman before the bar, "You people can't expect equal justice
 all in a minute," she retorted, "God knows it's been a long
-minute!"</p><p>In all of my scrawling and drawling I contended that there was no
+minute!"</p>
+          <p id="sc09-5_10111">In all of my scrawling and drawling I contended that there was no
 more educational a process than the experience of working, studying,
 playing, praying, living and traveling together-and hence the efficacy
-of civil rights legislation in all these fields.</p><p>I went on to point out that Southern blacks, during Reconstruction
+of civil rights legislation in all these fields.</p>
+          <p id="sc09-5_10112">I went on to point out that Southern blacks, during Reconstruction
 and ever after, had proven that they had no desire to supplant white
 supremacy with black. And to my white compatriots I argued further
 that desegregation would not hurt, and that they would feel much
 better about themselves when it was all over. And I often concluded
 with the observation of the preacher who said, "Since we're all
 hopefully headed for an integrated Heaven, we might as well start
-practicing now."</p><p>My first book, <title>Palmetto Country</title>, appeared at the
+practicing now."</p>
+          <p id="sc09-5_10113">My first book, <title>Palmetto Country</title>, appeared at the
 outset of the war. Charged by someone to pick it to pieces, Florida
 academia concluded sadly that it could find no error. A "premature
 anti-fascist" before the war, I was prevented by a back injury from
@@ -802,18 +923,22 @@ joining the armed forces. With all my classmates headed for the
 shooting war, I resolved to fight fascism at home by infiltrating the
 Klan and other terrorist groups. There were plenty of people
 inveighing against the Klan, but no one seemed to have the hard
-evidence needed to take it into a court of law.</p><p>First on my list of some twenty groups eventually infiltrated was
+evidence needed to take it into a court of law.</p>
+          <p id="sc09-5_10114">First on my list of some twenty groups eventually infiltrated was
 the White Front of Miami, which even after Britain got into the war
 was still distributing Nazi Propaganda Ministry materials, and
 threatening to drive "all the Jews on Miami Beach into the sea." As
 the war progressed, I put together a manuscript for another book,
 under the working title <title>The Four Freedoms Down
-South.</title></p><p>Meanwhile, Palmetto Country had caught the eye of Dr. George
+South.</title></p>
+          <p id="sc09-5_10115">Meanwhile, Palmetto Country had caught the eye of Dr. George
 S. Mitchell, who in 1944 invited me to join him in Atlanta as
 editorial assistant at his post as Southeastern director of
 CIO/PAC. My job was to write educational materials suitable for the
-union's rank-and-file.</p><p>"Stick to four-letter Anglo-Saxon," Mitchell said. "I
-don't want to see any Latin derivatives whatever."</p><p>I did as directed, turning out a series on the poll tax, white
+union's rank-and-file.</p>
+          <p id="sc09-5_10116">"Stick to four-letter Anglo-Saxon," Mitchell said. "I
+don't want to see any Latin derivatives whatever."</p>
+          <p id="sc09-5_10117">I did as directed, turning out a series on the poll tax, white
 primary, and other restrictions on voting in the South. After being
 first published in the SRC's Southern Frontier, reprints were ordered
 in the 100,000-range, and distributed to CIO locals throughout the
@@ -821,7 +946,8 @@ region, apparently with good effect. One of my union buddies,
 Georgia-boy R. E. Starnes, organizer for Steel, had a way of enhancing
 the effect by handing them out with the admonition, "I wouldn't
 spit on a union man who wouldn't give a dollar to help reelect
-FDR!"</p><p>In 1945, word came from Frank McCallister of the CIO's advisory
+FDR!"</p>
+          <p id="sc09-5_10118">In 1945, word came from Frank McCallister of the CIO's advisory
 council to the War Labor Board that the president of the Senate had
 relied heavily upon my "Plain Facts About the Polltax" in introducing
 an anti-poll tax bill. Rather than let Uncle Sam do it for them, the
@@ -829,48 +955,58 @@ poll tax states busied themselves abolishing it on their own. In
 Georgia, even Ole Gene Talmadge jumped on the bandwagon, writing in
 his <title>Statesman</title>, "I decided that the best way to keep
 the negroes from voting is to let all the white folks vote, and then
-pass the word that Mr. N-----r is not wanted at the polls."</p><p>When I approached him in my <hi rend="italic">nomme de Klan</hi>
+pass the word that Mr. N-----r is not wanted at the polls."</p>
+          <p id="sc09-5_10120">When I approached him in my <hi rend="italic">nomme de Klan</hi>
 guise as 
-<pb n="17"/>
+<pb id="sc09-5_10119" n="17"/>
 "John Perkins," I tried to pull his leg by saying that Ellis Arnall
 was claiming credit for abolishing the tax. Ole Gene just smirked,
 "Well, you know credit is like water--it sort of flows
-around."</p><p>The disunity/cheapness of Southern labor was no less of a
+around."</p>
+          <p id="sc09-5_10121">The disunity/cheapness of Southern labor was no less of a
 depressant than black exclusion. While Operation Dixie was striving
 mightily to organize the unorganized, I ventured to voice to director
 Van Bittner my concern that while his staff was doing its job of
 getting people signed up, the unions were doing an abysmal job of
 making confirmed unionists out of them once they were in. After scant
 reflection, Bittner replied, "Millions for organizing; not a penny
-for revivals."</p><p>I was not surprised, therefore, when for example the Lockheed plant
+for revivals."</p>
+          <p id="sc09-5_10122">I was not surprised, therefore, when for example the Lockheed plant
 shut down in Marietta, Georgia, the brethren and sistren of the union
 local voted unanimously to empty its treasury for a farewell beer and
 barbeque binge, after which they went back to being the same old
-non-unionists they had remained at heart.</p><p>In those days journalist George Seldes (now 97 and still producing)
+non-unionists they had remained at heart.</p>
+          <p id="sc09-5_10123">In those days journalist George Seldes (now 97 and still producing)
 was putting out his newsletter In Fact, dedicated to "exposing
 falsehood in the press" (it would take a lot more than four pages
 today), to which I sometimes contributed. Seldes knocked himself out,
 trying to convince labor that if it didn't launch its own media it
 could not hold its own, much less prevail, against all the anti-labor
 propaganda being leveled against it. The union bosses paid him no
-"nevermind," and labor has paid the price ever since.</p><p>By 1946 my wartime book manuscript had changed its name to
+"nevermind," and labor has paid the price ever since.</p>
+          <p id="sc09-5_10124">By 1946 my wartime book manuscript had changed its name to
 "Southern Exposure," and was scheduled for publication by
 Doubleday. But then came a telegram from editor Bucklin Moon: "Get
 here fast as you can. Bring all documentation. Lawyer says everything
-in it libelous."</p><p>When my cartons and I reached the lawyer's offices on Wall Street,
+in it libelous."</p>
+          <p id="sc09-5_10125">When my cartons and I reached the lawyer's offices on Wall Street,
 he howled, "Whadaya mean calling Prentiss a fascist? I play golf
-with him every weekend!"</p><p>But those were the days when publishers had a measure of principle
-and courage, and we went to press with nothing changed.</p><p>The impact of the book was all I had hoped for, and more. In
+with him every weekend!"</p>
+          <p id="sc09-5_10126">But those were the days when publishers had a measure of principle
+and courage, and we went to press with nothing changed.</p>
+          <p id="sc09-5_10127">The impact of the book was all I had hoped for, and more. In
 Atlanta it was banned, ostensibly for using (once) that fourletter
 word (Hemingway had just done it in <title>To Have and Nave
-Not</title>, so I thought I could too). Sales jumped appreciably.</p><p>Mississippi's Sen. Theodore "The Man" Bilbo was more to the
+Not</title>, so I thought I could too). Sales jumped appreciably.</p>
+          <p id="sc09-5_10129">Mississippi's Sen. Theodore "The Man" Bilbo was more to the
 point. From a hospital bed where he was being prepped for surgery for
 cancer of the mouth he called in reporters and read to them from
 <title>Southern Exposure</title> and Lillian Smith's <title>Color Blind.</title> He much preferred
 his doctor's throat-cutting style, he said--they were going to cut up
 and 
-<pb n="18"/>
-down, while books such as these cut across.</p><p>On the other hand, Ellis Arnall graciously reviewed it for the
+<pb id="sc09-5_10128" n="18"/>
+down, while books such as these cut across.</p>
+          <p id="sc09-5_10130">On the other hand, Ellis Arnall graciously reviewed it for the
 <title>New York Times</title>, and sat down to write his own
 <title>The Shore Dimly Seen</title>. Dr. Clark Foreman asked me to
 help research one for him, and I started under the title
@@ -881,9 +1017,11 @@ paper, titled "Under Exposed." After dutifully castigating it, the
 writer concluded, "But perhaps you should read it after all, and
 search your own conscience, and make up your own mind." I took
 this to be one more sign that the South might yet change its apartheid
-ways with less bloodletting than was generally being prophesied.</p><p>
+ways with less bloodletting than was generally being prophesied.</p>
+          <p id="sc09-5_10131">
             <hi rend="bold">TOGETHERNESS A MANY-DOORED THING</hi>
-          </p><p>Integration was destined to enter through many doors. For a long
+          </p>
+          <p id="sc09-5_10132">Integration was destined to enter through many doors. For a long
 time, whenever some "visiting fireman" from up North came to town,
 anti-apartheid Southern whites and blacks received them with what
 hospitality they could muster, but behind tightly-drawn blinds, lest
@@ -892,18 +1030,21 @@ Monteagle, Tennessee, small groups of whites and blacks braved fire
 and shotgun blasts in order to studying organizing, and do a little
 square-dancing. At Clayton, Georgia, Lillian Smith and Paula Snelling
 hosted interracial weekend rap sessions on the iniquity of Jim
-Crow.</p><p>The unsegregated annual meetings of the SCHW demonstrated that what
+Crow.</p>
+          <p id="sc09-5_10133">The unsegregated annual meetings of the SCHW demonstrated that what
 had not been possible in Birmingham was entirely possible in New
 Orleans. And the SRC, true to its promise, was using its good offices
 to persuade, for example, the city fathers of Macon to hire a black
 policeman (with the proviso that he not carry a gun, and not arrest
-any white folks). History took it from there--</p><p>From my vantage point, however, it seemed to me that the CIO
+any white folks). History took it from there--</p>
+          <p id="sc09-5_10134">From my vantage point, however, it seemed to me that the CIO
 deserves more credit than any other single organization for
 softening-up the white South for righteousness. Without regard to the
 degree of success which its Operation Dixie achieved in terms of
 members of locals, it was the CIO which gave the South's white and
 black working folk their first taste of solidarity, and I saw it
-happening.</p><p>When we first started holding union meetings at CIO HQ, 75 Ivey
+happening.</p>
+          <p id="sc09-5_10135">When we first started holding union meetings at CIO HQ, 75 Ivey
 Street, Atlanta, Mitchell and I were dismayed to see that whites and
 blacks segregated themselves, front and rear. We thought we had found
 the solution when we jumbled all the chairs in such manner that there
@@ -911,27 +1052,33 @@ were no discernible horizontal rows. But we had left the aisle down
 the middle, and the brothers and sisters promptly segregated
 themselves left and right. Finally we wiped out the center aisle,
 too. This time they got the idea, and sat down wherever they could
-find an empty chair.</p><p>Another of those traditional chasms was crossed when a union local
+find an empty chair.</p>
+          <p id="sc09-5_10136">Another of those traditional chasms was crossed when a union local
 decided to have a covered-dish supper. The perplexing problem of who
 would serve whom was solved by the white ladies taking it all upon
-themselves.</p><p>Then there was the matter of the drinking fountain at union
+themselves.</p>
+          <p id="sc09-5_10137">Then there was the matter of the drinking fountain at union
 headquarters. In the dark of night, some journeyman plumber took it
 upon himself to run a pipe three feet off to one side and attach to it
 a smaller auxiliary fount. No signs were affixed, but everybody knew
 which was who's. Again under cover of darkness, someone disconnected
 the auxiliary, and it stayed that way, a mute symbol of a South in
-transition.</p><p>Many a native white organizer "came through" in a well-nigh
+transition.</p>
+          <p id="sc09-5_10138">Many a native white organizer "came through" in a well-nigh
 religious sense on the race issue. Steel's Starnes was a sterling
 example. Inside the lionheart which enabled him and others to stand
 before a mill and say "I'm going to organize it" there was a poet, and
-he often sent me samples. One came with the handwritten note:</p><p>
+he often sent me samples. One came with the handwritten note:</p>
+          <p id="sc09-5_10139">
             <hi rend="italic">Stet look this over. Be sure to correct the
 spelling the typewriters they are making now days dont know how to
 spell. Let me know if the PAC can use it but don't put it in the Union
 Leader with my name on it if these people knew how I felt on this
 subject they would lynch me before night. In fact I think they have
 already got the tree picked out to hang me on.</hi>
-          </p><p>What he sent me was:</p><lg type="poem">
+          </p>
+          <p id="sc09-5_10140">What he sent me was:</p>
+          <lg type="poem">
             <l>Since we Rebels joined forces with the Yanks </l>
             <l>We've felled
 the Axis with their hateful pranks.  </l>
@@ -948,70 +1095,88 @@ our petty hate.  </l>
             <l>So it's time we workers were getting wise, </l>
             <l>and
 forgetting our hates, organize!</l>
-          </lg><p>
-            <pb n="19"/>
-          </p><p>There were also the likes of Bishop Shaw of the AME Church,
+          </lg>
+          <p id="sc09-5_10142">
+            <pb id="sc09-5_10141" n="19"/>
+          </p>
+          <p id="sc09-5_10143">There were also the likes of Bishop Shaw of the AME Church,
 Birmingham, who got up before a CIO regional convention and said,
 "When I first heard of this CIO, I asked 'What does it stand for?'
 The answer I got was, 'White and colored in the same union.' when I
 heard that, I put on my war-boots and my preachin'-coat, and I been
-preachin' the principles of CIO-ism ever since!"</p><p>Bishop Shaw went on to relate how, as a member of a CIO bargaining
+preachin' the principles of CIO-ism ever since!"</p>
+          <p id="sc09-5_10144">Bishop Shaw went on to relate how, as a member of a CIO bargaining
 committee, they got into the "front elevator" of the mill boss's
 skyscraper, and rode up to his offices on the top floor. They told the
 secretary to tell the boss that the bargaining committee was there and
 wanted to talk to him. In no time at all the boss popped out, saying
 "Come right in, boys! Seddown and have a chair! Have a
-cigar!"</p><p>"Power was on the throne!" Bishop Shaw exulted. He concluded
+cigar!"</p>
+          <p id="sc09-5_10145">"Power was on the throne!" Bishop Shaw exulted. He concluded
 by relating how he had told the boss, "We made you rich, now you
-let us live decent!"</p><p>Nor will I ever forget the black coal miner from Kentucky, who
+let us live decent!"</p>
+          <p id="sc09-5_10146">Nor will I ever forget the black coal miner from Kentucky, who
 spoke of the difficulty of telling, when the miners emerged from the
-pit all covered with coal dust, what color they were underneath.</p><p>"White or black, you're a coal miner still," he
+pit all covered with coal dust, what color they were underneath.</p>
+          <p id="sc09-5_10147">"White or black, you're a coal miner still," he
 said. Referring to the equal rights language in CIO charters, he went
 on to say, "I think we ought to either live up to it, or take it
 out." And he concluded, "If we ever goin' to get anywhere, we
-got to get there together!"</p><p>
+got to get there together!"</p>
+          <p id="sc09-5_10148">
             <hi rend="bold">WHEN THE SIGNS CAME DOWN</hi>
-          </p><p>I am not going to take space to tell how it was that blacks and
+          </p>
+          <p id="sc09-5_10149">I am not going to take space to tell how it was that blacks and
 whites did get together in the fifties and sixties, and march on and
 on until apartheid had been overcome and they could shout "Free at
 last! Great God Allmighty, free at last!" While I marched with King at
 Albany, Oxford, Selma, and St. Augustine, and chronicled the period in
 the pages of the Pittsburgh Courier, those events are still fresh in
-human memory, and need little recounting just yet.</p><p>What may be worth stressing is that the motive power came from
+human memory, and need little recounting just yet.</p>
+          <p id="sc09-5_10150">What may be worth stressing is that the motive power came from
 blacks themselves. And while there was adult leadership and
 participation, in a very real sense the freedom marches were a
 children's crusade (as what war isn't?). It was the spectacle of
 skinny-legged sub-teen girls who did not flinch when inches away
 police dogs gnashed their teeth that finally moved the American public
-and all three branches of Government to remedial action.</p><p>I recall how, on the morning after the Supreme Court decision of
+and all three branches of Government to remedial action.</p>
+          <p id="sc09-5_10151">I recall how, on the morning after the Supreme Court decision of
 '64 rending asunder the integument of apartheid, the first black I saw
-was riding a bike.</p><p>"Okay," I said silently to him and myself, "you're on
+was riding a bike.</p>
+          <p id="sc09-5_10152">"Okay," I said silently to him and myself, "you're on
 your own from here on out. At last you've got the same legal legs to
 stand on as all the immigrant groups who have hacked their way into
-the Mainstream."</p><p>It wasn't that I begrudged the lifetime I had spent in The
+the Mainstream."</p>
+          <p id="sc09-5_10154">It wasn't that I begrudged the lifetime I had spent in The
 Cause--far from it. I was as elated at having lived to see the outcome
 as he must have been. But I was tired, and there 
-<pb n="20"/>
+<pb id="sc09-5_10153" n="20"/>
 were so many causes
-crying out.</p><p>My personal contribution to the Jubilee was to gloat in <title>The
+crying out.</p>
+          <p id="sc09-5_10155">My personal contribution to the Jubilee was to gloat in <title>The
 Courier</title>, "Every day, gains are being made which can never
-be taken away!"</p><p>Some speech-writer for that other Kennedy (the one in the White
+be taken away!"</p>
+          <p id="sc09-5_10156">Some speech-writer for that other Kennedy (the one in the White
 House) must have picked up on it, for soon the Nation had the message
-on no lesser authority than that of JFK.</p><p>I, as a student of Reconstruction and human struggles for
+on no lesser authority than that of JFK.</p>
+          <p id="sc09-5_10157">I, as a student of Reconstruction and human struggles for
 liberation generally, should have known better. I don't know why he
 was so confident, but my faith was based upon black militancy. I
 didn't think blacks would ever allow anyone to take any of it from
 them. Now, a single generation later, it is all too apparent that the
 gains of the Second Reconstruction, like those of the First, can and
-are being whittled away.</p><p>It is not the bedsheet brigade this time (though they are with us
+are being whittled away.</p>
+          <p id="sc09-5_10158">It is not the bedsheet brigade this time (though they are with us
 yet), but plainclothed Klux in Washington, whose stock-in-trade is not
-to terrorize but bamboozle.</p><p>Before getting into that, let me say what a great day it was when
+to terrorize but bamboozle.</p>
+          <p id="sc09-5_10159">Before getting into that, let me say what a great day it was when
 the "White" and "Colored" signs came down all over America. I raced
 from dumpster to dumpster, retrieving them as artifacts for some
 future Museum of Horrors. (Alas, termites got them, which may be just
 as well.) Best of all was watching Woolworth's clear its shelves of
 what had so long been best-sellers. Perhaps they can recycle them as
-"Open to the Public," or even "Welcome" signs, I mused.</p><p>I must say I was extremely proud of the good grace which I most of
+"Open to the Public," or even "Welcome" signs, I mused.</p>
+          <p id="sc09-5_10160">I must say I was extremely proud of the good grace which I most of
 my white Southern brethren were able to muster for the desegregation
 process, after having sworn for so long that they would "die first."
 Perhaps the fundamentalist churches, albeit unwittingly, deserve a bit
@@ -1023,28 +1188,34 @@ time. For once the tradition of chivalry stood the South in good
 stead, as they vied with one another not merely in civility but
 conviviality. Nor was my enthusiasm more than slightly dampened when I
 recalled that lynchings, too, had sometimes been carried out with a
-certain air of <hi rend="italic">noblesse oblige</hi>.</p><p>
+certain air of <hi rend="italic">noblesse oblige</hi>.</p>
+          <p id="sc09-5_10161">
             <hi rend="italic">CHANGING, FOR BETTER OR WORSE:</hi>
-          </p><p>To be sure, the South has changed mightily--oft-times for the
-better, but not always.</p><p>Ever since its conquest by Europeans, until recently, the South was
+          </p>
+          <p id="sc09-5_10162">To be sure, the South has changed mightily--oft-times for the
+better, but not always.</p>
+          <p id="sc09-5_10163">Ever since its conquest by Europeans, until recently, the South was
 something of a self-contained continuum, with nobody much to deal with
 but damn yankees. Yet today the future of the South does not rest
 exclusively in the hands of white Southerners, nor white and black
 Southerners, nor those folks up yonder. While all of these still
 count, the fate of the South may hinge upon decisions made in such
-faraway places as Geneva and Tokyo.</p><p>This is not to say that the old hallmarks of Southern progress--the
+faraway places as Geneva and Tokyo.</p>
+          <p id="sc09-5_10164">This is not to say that the old hallmarks of Southern progress--the
 Constitutional formula for counting blacks as three-fifths of a
 person, Dred Scott, Secession, Emancipation, Reconstruction, Klan
 terror, Deal of '76, Booker Washington's half-a-loaf and Henry Grady's
 New South--have lost any of their historical meaning. It is just that
 if you're dead, you're dead, and all causes are lost ones. We need to
 watch out, in other words, for such things as mushroom clouds, aerosol
-cans, AIDS virus, and the penis rampant.</p><p>The very logo of the SRC--progressing as it has from map of the
+cans, AIDS virus, and the penis rampant.</p>
+          <p id="sc09-5_10165">The very logo of the SRC--progressing as it has from map of the
 South, to map of region within the Nation, to region upon the
 globe--reflecta our emancipation from the old provincialism. While
 there will always be a role for old-fashioned regionalism, the only
 regionalism which holds forth the hope of salvation nowadays is that
-which looks upon Earth as a region of the solar system.</p><p>The very concept of progress, as applied to the Southern scene, has
+which looks upon Earth as a region of the solar system.</p>
+          <p id="sc09-5_10166">The very concept of progress, as applied to the Southern scene, has
 itself been subject to change. During the first half of this century
 we were quite confident that one gain led to another, and that the
 path of the species led onward and upward. If we look to Starnes on
@@ -1053,9 +1224,10 @@ the cutting edge once again, in 1947 he was going around saying,
 organize a union. Now they just knock all your teeth out." Starnes is
 still around, but I do not know what he would say today, when
 anti-union propaganda has reached such a state-of-the-art as to almost
-make unionists hate themselves.</p><p>By mid-century I had already become sufficiently' alarmed to
+make unionists hate themselves.</p>
+          <p id="sc09-5_10168">By mid-century I had already become sufficiently' alarmed to
 conclude my remarks with the caution, "Great 
-<pb n="21"/>
+<pb id="sc09-5_10167" n="21"/>
 progress is being made;
 but reaction is making great progress too." Within a few years, the
 terror known as McCarthyism had demolished much that was decent and
@@ -1063,15 +1235,19 @@ caring about America (in much the same fashion that government'
 industry, agriculture, transport, environment, and solvency are being
 wrecked now). In one of those Question &#x26;Answer periods a little old
 lady who had given her entire life causes to help make a better world
-asked me tearfully, "Was it all in vain!"</p><p>I did not know the answer then, nor do I now. It all depends--</p><p>
+asked me tearfully, "Was it all in vain!"</p>
+          <p id="sc09-5_10169">I did not know the answer then, nor do I now. It all depends--</p>
+          <p id="sc09-5_10170">
             <hi rend="bold">HOW NOW TO PROTEST?</hi>
-          </p><p>Someone, after reflecting upon mankind's unending struggle to
+          </p>
+          <p id="sc09-5_10171">Someone, after reflecting upon mankind's unending struggle to
 create that better world, concluded somewhat cynically "The forms
 of exploitation change from time to time." That being true enough
 so far, it would seem to behoove us to consider whether forms of
 protest and struggle should also change accordingly. How best can we
 defend, consolidate, and advance--during what remains of this
-century--the gains which have been made?</p><p>Many of the traditional forms will never become outmoded--we need
+century--the gains which have been made?</p>
+          <p id="sc09-5_10172">Many of the traditional forms will never become outmoded--we need
 all the petitioning, lobbying, voting, organizing, sitting-in,
 meeting, marching, and confrontation we can get. One thing we do not
 need more of, however, are the liquor-and-TV riots which erupted
@@ -1083,7 +1259,8 @@ after TVs and Jack Daniels is no way to go after civil rights. I
 happened to be in Budapest during the Hungarian revolt of '56, and
 while all shop windows were smashed, nothing was touched. "A
 testament to the purity of our revolution," a Hungarian said to
-me.</p><p>As for the "burn, baby, burn" approach some blacks resorted
+me.</p>
+          <p id="sc09-5_10173">As for the "burn, baby, burn" approach some blacks resorted
 to when Mainstream America turned a deaf ear to the demand that doors
 be opened, it was an effective attention-getter (like hitting the mule
 over the head with a 2 x 4), and even had its roots in folksay,
@@ -1094,20 +1271,24 @@ few weapons within reach for the assertion of People Power. Burning
 down one's own neighborhood, however, can hardly be described as a
 well-directed form of protest. It is too much like the foreclosed
 mid-western farmers who blew out their own brains, as if they were
-somehow at fault.</p><p>I do have a couple of suggestions on tactics for the future, one of
+somehow at fault.</p>
+          <p id="sc09-5_10174">I do have a couple of suggestions on tactics for the future, one of
 which I would call "Non-Stop Protest." Discrimination has a way of
 being non-stop, of going on forever unless someone puts a stop to
 it. In the sixties it was so gross and omnipresent you could strike
 out in almost any direction and land a telling blow. Nowadays it is
-more insidious, and needs to be ferreted out and targeted.</p><p>Once an offending public or private enterprise has been identified,
+more insidious, and needs to be ferreted out and targeted.</p>
+          <p id="sc09-5_10175">Once an offending public or private enterprise has been identified,
 the offended community would serve notice for it to cease and desist,
 or face non-stop picketing until it did so. Ephemeral pickets are one
 thing, but picketing "in perpetuity if need be" by community
 organizations on a rotating basis would be a prospect few
-establishments would care to face.</p><p>The other suggestion is that we make massive use of protest
+establishments would care to face.</p>
+          <p id="sc09-5_10176">The other suggestion is that we make massive use of protest
 posters. Throughout Europe the poster is not only a potent weapon but
 a recognized art-form. We have the artists, ideas, and plenty of walls
-which could use some decoration and dedication.</p><p>American labor would also do well to look to its defenses and
+which could use some decoration and dedication.</p>
+          <p id="sc09-5_10177">American labor would also do well to look to its defenses and
 consider new forms of struggle. Actually, labor is in need of an
 awakening not unlike that brought on among blacks by the Montgomery
 bus boycott and Winston-Salem sit-in. There is no way that labor can
@@ -1117,21 +1298,24 @@ phalanx of industry-subsidized institutions arrayed against it. So
 long as American labor continues to swallow the cyanide-laced Kool-Aid
 that its interests and employer interests are one and the same, its
 doom is sealed. Knowledge of which side one's bread is buttered on is
-essential to the survival of any group, labor included.</p><p>What's more, labor must make common cause with women, minorities,
+essential to the survival of any group, labor included.</p>
+          <p id="sc09-5_10178">What's more, labor must make common cause with women, minorities,
 and other short-changed groups, and not let its well-known patriotism
 get it suckered in by any jingoist who comes out of the wings. Any
 time you find labor and management backing the same candidates, you
 can bet your boots that somebody is being suckered--and that it isn't
-management.</p><p>Beyond all this, the globalization of industry and the labor market
+management.</p>
+          <p id="sc09-5_10180">Beyond all this, the globalization of industry and the labor market
 is posing--in the form of wage rollbacks and plant closings--a threat
 to American labor of the same magnitude as the Klan terror which
 negated black rights after the Civil War. The unions may be able to
 follow 
-<pb n="22"/>
+<pb id="sc09-5_10179" n="22"/>
 industry from Ruse Belt to Sun Belt, but the bottom line
 question is: How can even a Japanese-run plant in the South compete
 with its own Made-in-Japan models, except by paying U.S. workers
-Japanese wages?</p><p>Anyone who has lived in as many has-been world powers as I have
+Japanese wages?</p>
+          <p id="sc09-5_10182">Anyone who has lived in as many has-been world powers as I have
 would hate to see it happen to us, for the economic and psychic
 consequences are traumatic indeed. Toynbee (of whom let it be said
 that no man ever amassed so many facts or drew so many erroneous
@@ -1140,25 +1324,31 @@ decided by their response to challenge. Are we a flash-in-the-pan
 nation, or aren't we? How can labor participation help American
 management, design, and engineering compete? Must the world's
 industrial wages be brought up or our's go down--
-<pb n="23"/>
+<pb id="sc09-5_10181" n="23"/>
 or is there some
-other answer to this dilemma?</p><p>
+other answer to this dilemma?</p>
+          <p id="sc09-5_10183">
             <hi rend="bold">TOWARDS THE THIRD RECONSTRUCTION</hi>
-          </p><p>While I may or may not have been the first to raise the standard of
+          </p>
+          <p id="sc09-5_10184">While I may or may not have been the first to raise the standard of
 a Second Reconstruction to carry out the unfinished business of the
 First, I do not want to miss this opportunity to call for yet a
-Third.</p><p>That the South does indeed stand in need of further reconstruction
+Third.</p>
+          <p id="sc09-5_10185">That the South does indeed stand in need of further reconstruction
 is self-evident. The agenda is replete with items of both Old Business
-and New.</p><p>To arrive at specifics we need only look back to what we were,
+and New.</p>
+          <p id="sc09-5_10186">To arrive at specifics we need only look back to what we were,
 around at what we are, and ahead to what we would like to be (as
-compared to where we seem to be going).</p><p>Where once our region was beset by a complex of problems somewhat
+compared to where we seem to be going).</p>
+          <p id="sc09-5_10187">Where once our region was beset by a complex of problems somewhat
 peculiar to it, today we are caught up, along with every other region
 on the planet, in an on-going freeway pile-up of problems which make
 the Flood, Plague, World Wars, and Great Depression seem like Sunday
 School picnics. While some of these problems are amenable to regional
 amelioration, many are not. It took virtually the entire human race,
 actively or passively, to get us into the messes we are in, and it
-will take no fewer to get us out.</p><p>Even so, the day of Operation Bootstrap is not done. States and
+will take no fewer to get us out.</p>
+          <p id="sc09-5_10188">Even so, the day of Operation Bootstrap is not done. States and
 regions can still take it upon themselves to clean up their own acts,
 and hope and prod that others may do likewise. It is high time
 something more constructive was being done in the name of state's
@@ -1167,97 +1357,132 @@ the abortive attempt of the erstwhile-Confederate states to avoid the
 integration of higher education by setting up a jointly funded
 regional college in Atlanta to which each state could ship its
 blacks. Time now for regional action on such matters as dumping, acid
-rain, offshore drilling, pesticides, and unplanned development.</p><p>To whom should we look for salvation? While there is much talk of
+rain, offshore drilling, pesticides, and unplanned development.</p>
+          <p id="sc09-5_10189">To whom should we look for salvation? While there is much talk of
 God and Country, Mammon is on the throne, devouring all things,
 including the elements. Is our only hope perhaps to make remedial
-measures more profitable than the on-going destruction?</p><p>In a simpler age, we fancied that all we had to do was join a good
+measures more profitable than the on-going destruction?</p>
+          <p id="sc09-5_10190">In a simpler age, we fancied that all we had to do was join a good
 union, register, and vote. Now it is plain to see that nothing less
 than a network of Debriefing Centers can keep us from voting against
 ourselves. We used to take pride in our ability to see through
 bunco-artists, but after being twice hooked on Reaganism, what can we
-say?</p><p>There are some who are saying, "Thank goodness, we've put all
+say?</p>
+          <p id="sc09-5_10191">There are some who are saying, "Thank goodness, we've put all
 that racism behind us!" But don't you believe it. It would be nice
 if it were all over and done with, and we could sit back and enjoy the
 Promised Land of Equal Opportunity and Justice. But we are not there
 yet. In a great many essential respects, we are very far from
-it. There is such a thing as desegregated racism, and we've got it.</p><p>We may no longer be Jim Crowed, but we are just as black ghettoed
-as ever.</p><p>Instead of just a token black here and there, we have a whole token
+it. There is such a thing as desegregated racism, and we've got it.</p>
+          <p id="sc09-5_10192">We may no longer be Jim Crowed, but we are just as black ghettoed
+as ever.</p>
+          <p id="sc09-5_10193">Instead of just a token black here and there, we have a whole token
 black middle class, but the black masses remain as impoverished,
-jobless, and hopeless as before.</p><p>There is one item of unfinished business that we may as well
+jobless, and hopeless as before.</p>
+          <p id="sc09-5_10194">There is one item of unfinished business that we may as well
 forget--the forty acres and a mule promised all Freedmen during the
 First Reconstruction. We can charge that one off to Profit &#x26;Loss,
 since it now takes upwards of 1,000 acres to make a go of it in
 agribiz, and we stopped making mules. Even if we were to start them up
-again, there wouldn't be anybody around who knew "Gee" from "Haw."</p><p>Cottonpicker came, and blacks went; but here come the robots, who
+again, there wouldn't be anybody around who knew "Gee" from "Haw."</p>
+          <p id="sc09-5_10195">Cottonpicker came, and blacks went; but here come the robots, who
 can't tell a blue collar from a black skin, and won't do nothing for
-you anyway unless you can talk to them in Japanese.</p><p>Nobody dares call anybody "n----r" anymore, but injury without
-insult is injury right on.</p><p>We may have the vote, but where can we find a people's candidate
-who can afford to run?</p><p>Lynching has gone into limbo, but look who's on Death Row.</p><p>Sure, we stopped putting the blowtorch to Bootjack McDaniel, but
+you anyway unless you can talk to them in Japanese.</p>
+          <p id="sc09-5_10196">Nobody dares call anybody "n----r" anymore, but injury without
+insult is injury right on.</p>
+          <p id="sc09-5_10197">We may have the vote, but where can we find a people's candidate
+who can afford to run?</p>
+          <p id="sc09-5_10198">Lynching has gone into limbo, but look who's on Death Row.</p>
+          <p id="sc09-5_10199">Sure, we stopped putting the blowtorch to Bootjack McDaniel, but
 any time the bugle sounds we join forces with the Yanks to firebomb
-thatched villages, with the best intentions in the world.</p><p>No more chaingangs, just concentration camps for black males.</p><p>No more sweatbox, just a rapacious cellmate with AIDS.</p><p>Ole Strom Thurmond and the latter-day Dixiecrats all gone over to
+thatched villages, with the best intentions in the world.</p>
+          <p id="sc09-5_10200">No more chaingangs, just concentration camps for black males.</p>
+          <p id="sc09-5_10201">No more sweatbox, just a rapacious cellmate with AIDS.</p>
+          <p id="sc09-5_10202">Ole Strom Thurmond and the latter-day Dixiecrats all gone over to
 the GOP--an outfit which folks say isn't exactly anti-black, it just
-doesn't care about people.</p><p>Nowadays you hardly ever see the attorney general of Mississippi up
+doesn't care about people.</p>
+          <p id="sc09-5_10203">Nowadays you hardly ever see the attorney general of Mississippi up
 before the Supreme Court, arguing against things like school busing
-and affirmative action; mostly it's the U.S. Attorney General.</p><p>Same old Klan out in the woods rehearsing for a black holocaust,
+and affirmative action; mostly it's the U.S. Attorney General.</p>
+          <p id="sc09-5_10205">Same old Klan out in the woods rehearsing for a black holocaust,
 but decked out now in battle fatigues and armed 
-<pb n="24"/>
+<pb id="sc09-5_10204" n="24"/>
 with automatic
-weapons.</p><p>Time was (1940) when the per capita income of Southerners was
+weapons.</p>
+          <p id="sc09-5_10206">Time was (1940) when the per capita income of Southerners was
 $309. That presented problems of sorts, but nothing like the
 $2,370,000,000,000 national debt that somebody has run up on our
 credit card. This is not conservatism, nor even reaction; it is
 anarchy and drunken-sailorism. (Reminds me of the refrain of a poem
 penned by a tippling classmate of mine: "There'll be muckle moaning
-at the bar, when my turn comes to pay.")</p><p>One remarkable thing about our plight is that we seem to be
+at the bar, when my turn comes to pay.")</p>
+          <p id="sc09-5_10207">One remarkable thing about our plight is that we seem to be
 blissfully unaware of it, like the patient who having been prepped for
 surgery goes to the table in such a state of euphoria he doesn't care
 whether he lives or dies. In our case, we have been administered
 tranquilizers and painkillers in the form of lowered taxes and
 increased plastic spending power--a sort of nothing down, cash rebate,
-pay later proposition which few seem able to refuse.</p><p>Where all the talk used to be of Black Belt and Bible Belt, now all
+pay later proposition which few seem able to refuse.</p>
+          <p id="sc09-5_10208">Where all the talk used to be of Black Belt and Bible Belt, now all
 we hear is Rust Belt and Sun Belt. The big idea seems to be to
 persuade industry to forsake the Rust Belt altogether and get a fresh
 start in the Sun Belt. Still baiting our hook with those
 old-reliables--free land, tax exemption, and non-union labor. (What we
 fail to realize is that it was organized labor, and nobody else but,
-who made the American standard of living what it is today.)</p><p>Strike-breaking and union-busting "ain't what it used to be," since
+who made the American standard of living what it is today.)</p>
+          <p id="sc09-5_10209">Strike-breaking and union-busting "ain't what it used to be," since
 the command post was moved from the Pinkerton Agency to the White
-House.</p><p>Mean old slave trade a thing of the past; nowadays we just leave
+House.</p>
+          <p id="sc09-5_10210">Mean old slave trade a thing of the past; nowadays we just leave
 'em and work 'em wherever they're at. All it takes is a few
 dime-a-dozen whipping bosses to keep them from getting any notions
-about free speech, solidarity, elections, and stuff like that.</p><p>No need to worry so much now about a Southern wage differential, as
-a S. Korean.</p><p>Stopped bringing in coolie labor a long time ago; doors still open
+about free speech, solidarity, elections, and stuff like that.</p>
+          <p id="sc09-5_10211">No need to worry so much now about a Southern wage differential, as
+a S. Korean.</p>
+          <p id="sc09-5_10212">Stopped bringing in coolie labor a long time ago; doors still open
 to wetbacks and islanders, but American industry is solving that
 problem for us by pulling up stakes and moving offshore and across the
-border.</p><p>Offshore industry is not all we've got. We used to say that America
+border.</p>
+          <p id="sc09-5_10213">Offshore industry is not all we've got. We used to say that America
 would never be in any danger of takeover by a military junta, but now
 we have seen how offshore government has been formulating foreign
 policy and waging wars in our name and at our expense, but outside of
-our laws and Constitution.</p><p>An unlamented loss is the Southern demagogue, whose distinctive
+our laws and Constitution.</p>
+          <p id="sc09-5_10214">An unlamented loss is the Southern demagogue, whose distinctive
 flavor was exceeded only by his deviltry. In place of Ole Gene and The
 Man in the Senate cafeteria demonstrating the respective merits of
 crumblin' or dunkin' cornbread into pot-likker, we have such
 mainstream models as a Marine colonel playing Rambo and a Dude Rancher
-cast as President.</p><p>Dies, Rankin and McCarthy all gone to their graves, but who needs
+cast as President.</p>
+          <p id="sc09-5_10215">Dies, Rankin and McCarthy all gone to their graves, but who needs
 thought-control when all you have to do is scatter a few cliches and
-flags around, and people will vote "Right" every time.</p><p>Problem used to be: unfree people who wanted to be free; problem
-now is, unfree people who think they are free.</p><p>Thought we had a Magic Bullet to stop VD, but now you need a
-wetsuit to go out on a spree.</p><p>Long before anybody else had heard of drugs, some residents of the
+flags around, and people will vote "Right" every time.</p>
+          <p id="sc09-5_10216">Problem used to be: unfree people who wanted to be free; problem
+now is, unfree people who think they are free.</p>
+          <p id="sc09-5_10217">Thought we had a Magic Bullet to stop VD, but now you need a
+wetsuit to go out on a spree.</p>
+          <p id="sc09-5_10218">Long before anybody else had heard of drugs, some residents of the
 black ghetto were sitting around "on the nod" from cocaine. Now all
 the world seems to be on the nod from one thing or another. Can it be
 because we are fast turning the world into one big ghetto, with all
-that that entails in emptiness and despair?</p><p>Anybody remember the good ole days when we had the likes of IT&#x26;T
-for absentee owner, instead of the Sheik of Bahrein?</p><p>Sho nuff, Ole Massa and Mr. Charlie done both gone with the wind,
-but here come Mr. Takahiro!</p><p>Our agenda could go on and on, but you see what I mean when I say
+that that entails in emptiness and despair?</p>
+          <p id="sc09-5_10219">Anybody remember the good ole days when we had the likes of IT&#x26;T
+for absentee owner, instead of the Sheik of Bahrein?</p>
+          <p id="sc09-5_10220">Sho nuff, Ole Massa and Mr. Charlie done both gone with the wind,
+but here come Mr. Takahiro!</p>
+          <p id="sc09-5_10221">Our agenda could go on and on, but you see what I mean when I say
 that ye olde problem-of-the-South has not only been transmogrified but
 transcended. We may have been Problem No. 1, but we don't need any
 final solutions. Like the man said, all the world's a stage, and if
-the thing catches fire there will be no way to save the South Wing.</p><p>Talk about Lost Causes--if Life and Earth make the list, the UDC
+the thing catches fire there will be no way to save the South Wing.</p>
+          <p id="sc09-5_10222">Talk about Lost Causes--if Life and Earth make the list, the UDC
 and SRC alike can hang it up. Old South and New; North, East and West;
 white, black, brown, and yellow; rich and poor; free and unfree;
 sinners and saints--we're all in the whale's belly together, and the
-whale is headed for the beach.</p><p>Somebody do something, quick!</p><div3 id="sc09-5026" type="About">
-            <p>Stetson Kennedy, a Florida native, played a prominent
+whale is headed for the beach.</p>
+          <p id="sc09-5_10223">Somebody do something, quick!</p>
+          <div3 id="sc09-5_026" type="About">
+            <p id="sc09-5_10224">Stetson Kennedy, a Florida native, played a prominent
 role in the pioneer civil rights movement of the thirties and
 forties. Taking it upon himself to infiltrate the KKK and a score of
 other racist/terrorist bands, his books <title>Southern Exposure, I
@@ -1269,20 +1494,29 @@ a global hotfoot to "do something." At 71, Kennedy lives near
 Jacksonville, Fla., where he is putting together a selection of his
 writings under the title, "Land Be Bright," and an autobiography,
 "Dissident-at-Large."</p>
-          </div3></div2>
-        <div2 id="sc09-5007" n="6" type="Article"><head>South Leads in Black Officeholders</head><byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate><bibl/><p>Mississippi leads the nation in total number of black elected
+          </div3>
+        </div2>
+        <div2 id="sc09-5_007" n="6" type="Article">
+          <head>South Leads in Black Officeholders</head>
+          <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 25</docDate>
+          <bibl/>
+          <p id="sc09-5_10225">Mississippi leads the nation in total number of black elected
 officials and Alabama has the highest percentage of black
 officeholders in the United States, according to the annual <title>Black
 Elected Officials: A National Roster,</title> published by the Joint Center
-for Political Studies.</p><p>Although blacks in the South continued to post electoral gains, the
+for Political Studies.</p>
+          <p id="sc09-5_10226">Although blacks in the South continued to post electoral gains, the
 overall increase in black officeholders slowed for the January 1986 to
 January 1987 period surveyed; the nationwide increase last year was
 4.1 percent, compared to 6.1 percent the previous year and 6.2 percent
-two years ago.</p><p>The ten states with the highest numbers of black elected officials
+two years ago.</p>
+          <p id="sc09-5_10227">The ten states with the highest numbers of black elected officials
 are Mississippi (548), Louisiana (505), Alabama (448), Georgia (445),
 Illinois (434), North Carolina (353), South Carolina (340), Arkansas
 (319), Michigan (316), and California (293). Nationally, the total
-increased from 6,424 to 6,681.</p><p>Not surprisingly, the geographic distribution of black elected
+increased from 6,424 to 6,681.</p>
+          <p id="sc09-5_10228">Not surprisingly, the geographic distribution of black elected
 officials closely parallels the distribution of the total black
 population in the U.S. The South has 53 percent of the nation's black
 population and 62 percent of all black elected officeholders. The
@@ -1291,30 +1525,42 @@ in the North Central U.S., where 19.8 percent of the nation's black
 population is located. The Northeast, with 18.5 percent of the total
 black population, has 10.6 percent of black elected officials, and 5.7
 percent of all black elected officials are in the West, where 8.9
-percent of all blacks live.</p><p>Southern blacks have had good success in translating their
+percent of all blacks live.</p>
+          <p id="sc09-5_10229">Southern blacks have had good success in translating their
 population concentration into electoral gains at the state and local
 levels but have managed to win few federal offices. Only three of
 twenty-three blacks in the U.S. House of Representatives are from
 Southern states--Reps. John Lewis of Georgia, Mike Espy of
-Mississippi, and Harold Ford of Tennessee.</p><p>A total of 71 black elected officials were elected last year in
+Mississippi, and Harold Ford of Tennessee.</p>
+          <p id="sc09-5_10230">A total of 71 black elected officials were elected last year in
 jurisdictions where no black American had ever before held elective
 office. Also, the number of black women elected officials continued to
-climb (to 1,564), and has now almost tripled since 1975 (530).</p><p>Seven blacks hold statewide office and 410 serve in
+climb (to 1,564), and has now almost tripled since 1975 (530).</p>
+          <p id="sc09-5_10231">Seven blacks hold statewide office and 410 serve in
 legislatures. At the municipal level, 303 blacks serve as mayors and
 2,485 as council members. The number of black mayors in cities larger
-than 30,000 population increased from twenty-eight to thirty-four.</p><p>There is a direct correlation, the Joint Center for Political
+than 30,000 population increased from twenty-eight to thirty-four.</p>
+          <p id="sc09-5_10232">There is a direct correlation, the Joint Center for Political
 Studies said, between black voting age population and the number of
 black elected officials. Mississippi leads in black elected officials
 but also has the highest proportion of voting-age blacks (30.8
 percent). Voting-age blacks are 66.6 percent of the total voting-age
 population in the District of Columbia, where 67.8 percent of all
-elected officials are black.</p><p>There are no black elected officials at all in Idaho, Montana and
+elected officials are black.</p>
+          <p id="sc09-5_10233">There are no black elected officials at all in Idaho, Montana and
 North Dakota, where blacks are less than .05 percent of the total
-population.</p><p>For a copy of <title>Black Elected Officials: A National
+population.</p>
+          <p id="sc09-5_10234">For a copy of <title>Black Elected Officials: A National
 Roster</title>, 1987, send $29.50 to Publications Office, Joint Center
 for Political Studies, 1301 Pennsylvania Avenue, N.W., #400,
-Washington, D.C. 20004.</p></div2>
-        <div2 id="sc09-5008" n="7" type="Article"><head>Sermonette on the Movement</head><byline>By <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate><bibl/><p>Mary King is like her ancestors. She walks a very straight line for
+Washington, D.C. 20004.</p>
+        </div2>
+        <div2 id="sc09-5_008" n="7" type="Article">
+          <head>Sermonette on the Movement</head>
+          <byline>By <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 27-29</docDate>
+          <bibl/>
+          <p id="sc09-5_10235">Mary King is like her ancestors. She walks a very straight line for
 a long time. She was always like that: solid, linear, historical,
 careful, analytical, objective, thorough. And stouthearted. The
 amazing thing is that she wrote this book at all. To have gone back
@@ -1325,7 +1571,8 @@ us could hardly keep up with our combs. When she left there she went
 with cartons and cartons of WATS line reports, pots and pans, and
 little scraps of paper. The Packrat. This is definitely the kind of
 head it took to write this book. It is so full of so many details,
-specifics.</p><p>It is, I think, a good book. It is personal, of course. Everyone's
+specifics.</p>
+          <p id="sc09-5_10236">It is, I think, a good book. It is personal, of course. Everyone's
 memories--everyone's slice of it--are personal, different. But she has
 spoken well and carefully to a good many of the major questions of the
 period. This book will be widely read in years to come, disputed and
@@ -1336,16 +1583,19 @@ other immigrant group. Like the Irish, they should just kind of meld
 in, (without intermarriage, of course). We'd like to forget slavery
 and the rigid caste system that followed. Really, slavery,
 Slavery. Not easily overcome. So it is good, Mary, to keep this
-information alive. You do history a favor.</p><p>I appreciate getting to write about your book. The movement was
+information alive. You do history a favor.</p>
+          <p id="sc09-5_10237">I appreciate getting to write about your book. The movement was
 everything to me: home and family, food and work, love and a reason to
 live. When I was no longer welcome there and then when it was no
 longer there at all, it was hard to go on. Many of us in this
 situation, especially the Southern whites, only barely made it
 through. I count myself lucky to be a survivor. But that is another
 story. For old times' sake, Mary, here are some comments on this
-story.</p><p>
+story.</p>
+          <p id="sc09-5_10238">
             <hi rend="bold">The Movement</hi>
-          </p><p>This story in Mary's words, meticulous Mary, comes out sounding
+          </p>
+          <p id="sc09-5_10239">This story in Mary's words, meticulous Mary, comes out sounding
 like what we were doing was the most natural and proper thing in the
 world, that we were heroines from the very beginning, that each move
 was carefully planned. I think for her, it probably was. Actually, as
@@ -1360,8 +1610,9 @@ grandmother's backyard when I was a child--the pomegranates and ripe
 figs, roses and swast peas, ferns and irises and crepe myrtles and
 oleanders, pecans and walnuts and swings and wet grass on little bare
 feet in the summer time. The movement was rich like that. And in like
-manner there is no going back.</p><p>There was a comfort in that time that was born of the 
-<pb n="28"/>
+manner there is no going back.</p>
+          <p id="sc09-5_10241">There was a comfort in that time that was born of the 
+<pb id="sc09-5_10240" n="28"/>
 absolute
 certainty that what I was doing was the right thing to be
 doing. Nothing compares to that except the carrying, bearing and
@@ -1374,12 +1625,14 @@ lie. We were told about equality but we discovered it didn't exist. We
 were the only truth-tellers, as far as we could see. It seldom
 occurred to us to be afraid. We were sheathed in the fact of our
 position. It was partly our naivete which allowed us to leap into this
-position of freedom, the freedom of absolute right action.</p><p>I think we were the only Americans who will ever experience
+position of freedom, the freedom of absolute right action.</p>
+          <p id="sc09-5_10242">I think we were the only Americans who will ever experience
 integration. We were the beloved community, harassed and happy, just
 like we'd died and gone to heaven and it was integrated there. We
 simply dropped race. This doesn't happen anymore. And in those little
 hot black rural churches, we went into the music, into the sound, and
-everyone was welcome inside this perfect place.</p><p>We were actually revolutionaries, in my opinion. Mary will tell you
+everyone was welcome inside this perfect place.</p>
+          <p id="sc09-5_10243">We were actually revolutionaries, in my opinion. Mary will tell you
 we weren't, but I think we were. We loved the untouchables. We
 believed the last should be first, and not only should be first, but
 in fact were first in our value system and it was only the blindness
@@ -1397,11 +1650,15 @@ organize everyone into it, make the whole world beloved with us, make
 the whole world our beloved, lead the whole world to the consciousness
 that it was our beloved and please come in to the fire, come in here
 by the fire. Come on in with us here by the fire and break taboos left
-and right. This is where it is truly safe.</p><p>The movement in its early days was a grandeur which feared no
-rebuke and assumed no false attitudes. It was a holy time.</p><p>This is of course, just my personal experience, as is Mary's
-experience, as is all of life.</p><p>
+and right. This is where it is truly safe.</p>
+          <p id="sc09-5_10244">The movement in its early days was a grandeur which feared no
+rebuke and assumed no false attitudes. It was a holy time.</p>
+          <p id="sc09-5_10245">This is of course, just my personal experience, as is Mary's
+experience, as is all of life.</p>
+          <p id="sc09-5_10246">
             <hi rend="bold">On Being Radicals</hi>
-          </p><p>Some of us were radicals. We liked to think of being radical as
+          </p>
+          <p id="sc09-5_10247">Some of us were radicals. We liked to think of being radical as
 going to the root of things. Of course, I was with the New Left folks
 a lot, the rowdies, although they were quieter and more scholarly
 then, before the war. Unfortunately radicals of the right came up with
@@ -1418,7 +1675,8 @@ the form intact: Traditionally, the notion that women are trapped by
 and need to be liberated from their childbearing function, their
 biology, is widely accepted in the women's movement. I think it's
 incorrect. If carried to its logical extreme this position would
-result in the eradication of the human race.</p><p>Why not take biology, the body, as positive and see the problem in
+result in the eradication of the human race.</p>
+          <p id="sc09-5_10248">Why not take biology, the body, as positive and see the problem in
 the society, the culture's attitude toward birth? No one talks about
 labor much anymore, and never about labor as a source of value and
 seldom about labor as in bearing children. Both are undervalued and
@@ -1431,11 +1689,13 @@ much as recognition and dignification and reward of this function and
 the child-rearing function that follows from it. This line of
 reasoning carries one into deep waters, of course. We used to think
 like this all the time, these radical approaches with astounding
-implications.</p><p>Mary talks about organizing lower class women, a mass movement. We
+implications.</p>
+          <p id="sc09-5_10249">Mary talks about organizing lower class women, a mass movement. We
 used to refer to the movement as a mass movement, back when it was
 happening. The word masses, like the word labor, is seldom used. What
 are some issues which touch all women rather than primarily or
-disproportionately benefiting upwardly mobile professional women?</p><p>I think about this one: Why is every second woman I talk to over
+disproportionately benefiting upwardly mobile professional women?</p>
+          <p id="sc09-5_10251">I think about this one: Why is every second woman I talk to over
 thirty suffering from irregular and heavy menstrual periods? Why are
 the doctors giving out hormones, DNC's and hysterectomies with abandon
 to handle the problem. What is the root cause? What is the relation of
@@ -1451,19 +1711,22 @@ act of giving birth, the insurance companies and the AMA. This issue
 is as important as abortion. The conscious experience of birth changes
 the relationship of the mother from unconscious to conscious and thus
 contributes to the survival and spiritual development of the human 
-<pb n="29"/>
+<pb id="sc09-5_10250" n="29"/>
 race. The next logical step in this thinking is to look at nursing
 homes, the profit motive's impersonal and depressing answer to how to
-orchestrate life's other most significant transition.</p><p>Of course, the AMA and the insurance companies are big groups to
+orchestrate life's other most significant transition.</p>
+          <p id="sc09-5_10252">Of course, the AMA and the insurance companies are big groups to
 take on. This didn't slow us down. We were brash and young. To address
 these issues means to address basic societal restructuring. It means
 all the same things it used to mean when we were into it. These issues
 cut across class lines. This is as it should be, as Mary
 suggests. These issues are about survival and spiritual truth. This is
 also as it should be. We need to think radically, even if it sounds a
-bit mad. Very few people, after all, know how.</p><p>
+bit mad. Very few people, after all, know how.</p>
+          <p id="sc09-5_10253">
             <hi rend="bold">What Goes Around Comes Around</hi>
-          </p><p>I know there is for you, Mary, something of a full circle in this
+          </p>
+          <p id="sc09-5_10254">I know there is for you, Mary, something of a full circle in this
 book. I know it took you twenty-five years to come to terms with much
 of this history, with yourself. This means a healing. The idea of
 coming full circle is important. Very important now in my life. It was
@@ -1478,7 +1741,8 @@ circles overlapping other circles as we all generated programs and
 things to do together. That was how the movement really was. Our side
 lost. But we were right. Hierarchy could not replace the circle dance
 (as Milan Kundera has also pointed out, I found out after writing
-this).</p><p>Bob Moses changed his name to his mother's maiden name, around this
+this).</p>
+          <p id="sc09-5_10255">Bob Moses changed his name to his mother's maiden name, around this
 time of the women's memos. It was going back to something else to make
 the present full, to say an understanding. He was the only one who
 knew what to do. Bob wanted to do his doctorate at Harvard on the
@@ -1491,7 +1755,8 @@ meant the mother of the tribe, the spiritual guide of the
 community. He said Ella was that. He told about when he was a kid in
 Harlem and his family was very poor and the only way they could afford
 milk was through a milk co-opt Years later in the South he learned
-that this milk co-op had been organized by Ella Baker.</p><p>Things do not always fall apart. Sometimes what looks like falling
+that this milk co-op had been organized by Ella Baker.</p>
+          <p id="sc09-5_10256">Things do not always fall apart. Sometimes what looks like falling
 apart is only part of a coming full back around. I think we have to
 hope for that, for a time when the truths women and old organizers
 know will be honored and the secret compassion we have secured in our
@@ -1500,15 +1765,18 @@ the people will find we have shared this all along. Somewhere in the
 questions that the Swahili/English text would raise must be the
 question of whether history is linear or circular, or maybe
 spiral. What is progress, really? How is history to be served? How do
-we serve each other? What is to be done? </p><p>This was the question which led to my drafting of our second memo,
+we serve each other? What is to be done? </p>
+          <p id="sc09-5_10257">This was the question which led to my drafting of our second memo,
 the Kind-of-Memo. It was so painful to see all the floundering about
 trying to figure out what to do, to be burning out oneself, and to see
 the community dissipating. It seemed like one should at least keep
 talking about what was really happening, what really mattered, with
 whoever would listen, whoever would talk back. That seemed to be what
-was to be done.</p><p>
+was to be done.</p>
+          <p id="sc09-5_10258">
             <hi rend="bold">Tell It Like It Is</hi>
-          </p><p>When I was working several years ago with Elaine Baker, another
+          </p>
+          <p id="sc09-5_10259">When I was working several years ago with Elaine Baker, another
 Tougaloo Freedom House grad, on an oral history project in a remote
 part of southern Colorado, we came up with this idea of putting tape
 recorders and tapes in the local library. Then we had the idea to get
@@ -1529,12 +1797,14 @@ between reality as we experienced it in the movement and what we read
 about that reality in print. We know that publication does not
 validate experience, nor do we need it for our experiences to be
 valid. What you record will be used, be useful, someday. It will be a
-service to the future. Save it for your grandchildren.</p><p>Well, this is not a review, exactly. It is more like a sermonette
+service to the future. Save it for your grandchildren.</p>
+          <p id="sc09-5_10260">Well, this is not a review, exactly. It is more like a sermonette
 combined with notes scribbled down the side of a page. But it is part
 of the healing and the moving forward and upward which is the root of
 this book. So in closing I will say the only thing that I really do
 want to say a great deal and which I think you will be glad I said,
-Mary:</p><p>For the Zen teacher body and mind are one. So for a brief time in
+Mary:</p>
+          <p id="sc09-5_10261">For the Zen teacher body and mind are one. So for a brief time in
 history, in our very own lives, art, religion and politics were
 one. Those of us with SNCC in the South in those days were political,
 it is true, but more radically, we were observers, participants, and
@@ -1547,8 +1817,9 @@ they could barely speak the English language. They will never see this
 book. They, and not we, were the heroes, the heroines. I was
 privileged to have been their servant for a while. To them, for all I
 learned from them and for all the beauty I witnessed, I extend my most
-sincere and humble thanks.</p><div3 id="sc09-5028" type="About">
-            <p>Editor's Note: Freedom Song by Mary King, William Morrow
+sincere and humble thanks.</p>
+          <div3 id="sc09-5_028" type="About">
+            <p id="sc09-5_10262">Editor's Note: Freedom Song by Mary King, William Morrow
 and Co., $22.95, 592 pp.) appeared this year and has been hailed by
 many reviewers as a monument to the civil rights movement. Ms. King
 worked for the Student Non-Violent Coordinating Committee during the
@@ -1561,8 +1832,14 @@ following was Hayden's response to this request. The essay appeared in
 abbreviated form as a preface to <title>Freedom Song</title> and is
 presented here as a reflection on the period and the
 book.</p>
-          </div3></div2>
-        <div2 id="sc09-5009" n="8" type="Article"><head>Avedon's West</head><byline>By <docAuthor><name reg="Ponder, Art" type="person">Art Ponder</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate><bibl/><p>Richard Avedon is generally known as a fashion photographer, the
+          </div3>
+        </div2>
+        <div2 id="sc09-5_009" n="8" type="Article">
+          <head>Avedon's West</head>
+          <byline>By <docAuthor><name reg="Ponder, Art" type="person">Art Ponder</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 30-31</docDate>
+          <bibl/>
+          <p id="sc09-5_10263">Richard Avedon is generally known as a fashion photographer, the
 man who creates the "idealized," sexist icons for the covers of such
 magazines as Vogue and Self. Others may know him as a contributor to
 Rolling Stone or the photographer who turned his large format camera
@@ -1575,7 +1852,8 @@ he takes as his subject not Vogue stereotypes, but the dispossessed,
 the drifting, the working class, the "ordinary people" of an American
 region. He does so in such a way as to startle nearly any viewe, and,
 in the end, make an ambiguous comment about the West, a comment devoid
-of humanity and thirsting for understanding.</p><p>In 1979 Avedon began what developed into a five-year project, in
+of humanity and thirsting for understanding.</p>
+          <p id="sc09-5_10264">In 1979 Avedon began what developed into a five-year project, in
 which he attempted to, as he says in the forward to his book <title>In
 The American West</title>, photograph "the men and women who work at
 hard, uncelebrated jobs, the people who are often ignored and
@@ -1595,13 +1873,15 @@ strategies, this silent theatre attempt to achieve an illusion: that
 everything embodied in the photography simply happened, that the
 person in the portrait was always there, was never encouraged to hide
 his hands, and in the end was not even in the presence of a
-photographer."</p><p>Such could not be further from the truth, for all of Avedon's
+photographer."</p>
+          <p id="sc09-5_10265">Such could not be further from the truth, for all of Avedon's
 pictures radiate with the presence of the photographer nearly as much
 as the subjects themselves. Like the portrait "Gordon Stevenson,
 drifter, Interstate 90, Butte, Montana, 8/25/79,n all of Avedon's
 subjects float in negative white space, rooted to nothing but perhaps
 the edge of the frame, stripped of place and context, able to speak
-only through their physical appearance.</p><p>In Avedon's view of the West no one is given the dignity to be
+only through their physical appearance.</p>
+          <p id="sc09-5_10266">In Avedon's view of the West no one is given the dignity to be
 viewed in their personal landscape. No one is seen in relation to
 place. For students of Southern culture, this resonates with
 exploitation, as Southerners have long been characterized as being
@@ -1623,7 +1903,8 @@ damage been done?" He asks his own question and his exhibition
 answers with a profound "yes," when we understand that he is offering
 a misinformed, distorted and exploitative vision of an American region
 that, by the nature of its circulation and hype, influences the views
-and opinions of many.</p><p>ONE OBSERVER OF THE exhibition commented that "many look as
+and opinions of many.</p>
+          <p id="sc09-5_10267">ONE OBSERVER OF THE exhibition commented that "many look as
 though Avedon had stormed their homes and forced them up against the
 white seamless backdrop paper, their pants unbuttoned, hair
 disheveled, and their demeanor reflecting utter resignation before
@@ -1633,7 +1914,8 @@ contends that with portraiture "the surface is all you've got. You
 can only get beyond the surface by working with the surface." This
 leads him to abstract all his subjects in a white background. In
 Avedon's portrait of the West there are no causes for dispossession
-and despair, simply dispossession and despair.</p><p>The show at the High Museum was sponsored in part by Rich's,
+and despair, simply dispossession and despair.</p>
+          <p id="sc09-5_10268">The show at the High Museum was sponsored in part by Rich's,
 Atlanta's large department store chain; shows in other cities were
 also underwritten by department stores, reflecting the high regard
 bestowed upon Avedon by the corporate fashion machine. At the grand
@@ -1647,7 +1929,8 @@ the powerful triumphs of the exhibition. One Atlanta
 <title>Journal-Constitution</title> writer overheard a shocked Atlanta
 matron responding to the show: "I know Jesus says you are supposed
 to love everyone, but I just can't. I just can't. I can't love dirty
-people or fat people."</p><p>A VIEW OF THE AVEDON show (or the book) is like viewing the
+people or fat people."</p>
+          <p id="sc09-5_10269">A VIEW OF THE AVEDON show (or the book) is like viewing the
 collection of a well-traveled entomologist; we see many types, all
 recorded by the collector in a similar fashion, but we know nothing of
 any of them except their name and where they were found. Like a
@@ -1668,7 +1951,8 @@ are silenced. Richard Bolton, a critic and an artist in Boston,
 reflects on Avedon with sharp criticism: "His approach is
 reminiscent of police photography--in the police photograph, one
 cannot help but look like a criminal; the format itself communicates
-guilt."</p><p>Countless viewers of the Avedon show, unaware of exactly how they
+guilt."</p>
+          <p id="sc09-5_10270">Countless viewers of the Avedon show, unaware of exactly how they
 feel about his work, offer such gut reactions as "powerful," "moving,"
 and "disturbing." The power of Avedon's work rests with the ability of
 these large, voyeuristic images to awake horrors in the minds and
@@ -1678,42 +1962,55 @@ tragedy, however, is that the provocation is an end in itself, and his
 approach never gets beyond the surface he holds so dear, generating
 not the least bit of understanding. Devoid of understanding and
 compassion, his subjects are left to drift helplessly and silently,
-with no voice to offer us their sagas of life and work.</p><div3 id="sc09-5029" type="About">
-            <p>Art Ponder is a drifter and a sometimes contributor to
+with no voice to offer us their sagas of life and work.</p>
+          <div3 id="sc09-5_029" type="About">
+            <p id="sc09-5_10271">Art Ponder is a drifter and a sometimes contributor to
 <title>Southern Changes</title> who is currently stationed in
 Atlanta.</p>
-          </div3></div2>
-        <div2 id="sc09-5010" n="9" type="Review"><head>Women and 'Men's Work' During the War Years.</head><byline>By <docAuthor><name reg="Thomas, Mary Martha" type="person">Mary Martha Thomas</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate><bibl/><bibl><title>Riveting
+          </div3>
+        </div2>
+        <div2 id="sc09-5_010" n="9" type="Review">
+          <head>Women and 'Men's Work' During the War Years.</head>
+          <byline>By <docAuthor><name reg="Thomas, Mary Martha" type="person">Mary Martha Thomas</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 31, 38-39</docDate>
+          <bibl/>
+          <bibl><title>Riveting
 and Rationing in Dixie: Alabama Women and the Second World War</title>
 by Mary Martha Thomas. (Tuscaloosa: University of Alabama Press,
-	       1987.145 pp. $16.95, cloth.)</bibl><p>Beyond the dull, dull, dull style there's an
+	       1987.145 pp. $16.95, cloth.)</bibl>
+          <p id="sc09-5_10272">Beyond the dull, dull, dull style there's an
 	       impressive research job and an intriguing view of
-	       social change in Riveting and Rationing in Dixie.</p><p>Some women, of course, had always worked outside the home, notably
+	       social change in Riveting and Rationing in Dixie.</p>
+          <p id="sc09-5_10274">Some women, of course, had always worked outside the home, notably
 blacks and poor whites. But the war, for the first time, created a
 large need for women to fill tradition-
-<pb n="38"/>
+<pb id="sc09-5_10273" n="38"/>
 ally male occupations. Thus the
 female labor force increased by 6.5 million from 1940-45, and the
 proportion of women who were employed increased from 25 to 36
-percent.</p><p>As always, race mattered. "Before the war, white women had
+percent.</p>
+          <p id="sc09-5_10275">As always, race mattered. "Before the war, white women had
 worked in laundries, restaurants, hotels, and retail and wholesale
 trade. These are all fields characterized by low pay and poor working
 conditions." During the war, white women moved up to higher-paying
 male jobs. Some black women moved up from "from agriculture and
 domestic work to the trade and service jobs that the white women had
-vacated."</p><p>The engineers of the war effort--all male, naturally--faced two
+vacated."</p>
+          <p id="sc09-5_10276">The engineers of the war effort--all male, naturally--faced two
 large problems: first, to convince housewives to take jobs in
 manufacturing and labor; second, to convince the women to give the
 jobs up when the war was over and the heads of households had come
-home.</p><p>This inherent conflict led to rather schizophrenic
+home.</p>
+          <p id="sc09-5_10278">This inherent conflict led to rather schizophrenic
 recruitment. Some ad campaigns depicted welders--helmets 
-<pb n="39"/>
+<pb id="sc09-5_10277" n="39"/>
 pushed
 back--applying lipstick, to show that femininity could be undiminished
 in a temporary male job. Meanwhile, women workers at the Huntsville
 Arsenal were being called "modern Amazons." A foreman bragged on "a
 slim girl, weighing merely 105 pounds but 'can take it' better than
-any man he ever saw."</p><p>Author Mary Martha Thomas, a history professor at Jacksonville
+any man he ever saw."</p>
+          <p id="sc09-5_10279">Author Mary Martha Thomas, a history professor at Jacksonville
 State University, observes a "certain uneasiness about women
 assuming these new roles." Early in the war effort, she writes,
 Alabamians supported the effort to recruit women to the war effort
@@ -1724,49 +2021,65 @@ delinquency" and called on women to "pay more attention to
 their maternal duties." Similarly, women's leaders began as early
 as 1942 to argue that women, substituting so well in other areas for
 men, should be allowed to serve on juries. But a committee of the
-Alabama House of Representatives defeated such a proposal in 1945.</p><p>By 1950, statewide female employment was only slightly higher than
+Alabama House of Representatives defeated such a proposal in 1945.</p>
+          <p id="sc09-5_10280">By 1950, statewide female employment was only slightly higher than
 in 1940. In short, says Thomas, the "forces of continuity seem to
 have prevailed over the forces of change during the war years in
-Alabama."</p></div2>
-        <div2 id="sc09-5011" n="13" type="Article"><head>The Struggle Goes to Hollywood</head><byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate><bibl/><p>In the eyes of a South African filmmaker who has seen <title>Cry
+Alabama."</p>
+        </div2>
+        <div2 id="sc09-5_011" n="13" type="Article">
+          <head>The Struggle Goes to Hollywood</head>
+          <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 39</docDate>
+          <bibl/>
+          <p id="sc09-5_10281">In the eyes of a South African filmmaker who has seen <title>Cry
 Freedom</title>  while visiting the United States recently, Richard
 Attenborough's epic film about Donald Woods and Stephen Biko is a
-technical success but flawed in its judgment.</p><p>From her perspective, the film, which is currently drawing large
+technical success but flawed in its judgment.</p>
+          <p id="sc09-5_10282">From her perspective, the film, which is currently drawing large
 audiences in major U.S. cities, has the welcome potential of showing
 millions the crushing reality of apartheid, but it obscures the basis
-of Biko's life and, ultimately, the reasons he died.</p><p>"I'm very positive about the actual film. It is beautifully made
+of Biko's life and, ultimately, the reasons he died.</p>
+          <p id="sc09-5_10283">"I'm very positive about the actual film. It is beautifully made
 and Denzel Washington is extremely good as Biko. Kevin Kline also
 gives a good performance as Woods. But <title>Cry Freedom</title>  is
 about the education of a white liberal, not about Steve Biko and his
-role in South Africa."</p><p>She believes that Woods, by structuring his book <title>Asking For
+role in South Africa."</p>
+          <p id="sc09-5_10284">She believes that Woods, by structuring his book <title>Asking For
 Trouble</title> as he did, and Attenborough, by using woods's book as
 the basis for <title>Cry Freedom</title>, have done "the antithesis
 of what Steve stood for. The story of Woods may be heroic, but not
 compared to that of Biko and other blacks who seldom have the
-opportunities to express their own stories."</p><p>Shaun Johnson, reviewing the film in the Nov. 20-26 issue of the
+opportunities to express their own stories."</p>
+          <p id="sc09-5_10285">Shaun Johnson, reviewing the film in the Nov. 20-26 issue of the
 <title>Weekly Mail</title>, a dissident newspaper published in
 Johannesburg, arrives at essentially the same point but is less
 critical of Attenborough. "Cry Freedom is surely the
 biggest-budget, widest-angled, most-marketed anti-apartheid statement
 the world has ever seen, and is likely to see for quite some time. It
 is beautifully crafted. It is Donald Wood's story, played under the
-shadow of Steve Biko."</p><p>Johnson observes that Attenborough has produced a "story for
+shadow of Steve Biko."</p>
+          <p id="sc09-5_10286">Johnson observes that Attenborough has produced a "story for
 foreigners and the reaction of someone in the midlands or midwest is
 what will decide its fate...in Cry Freedom, the struggle goes to
-Hollywood, or, more correctly, Hollywood goes to Harare."</p><p>The South African filmmaker said the American audience she was with
+Hollywood, or, more correctly, Hollywood goes to Harare."</p>
+          <p id="sc09-5_10287">The South African filmmaker said the American audience she was with
 appeared to react powerfully to Cry Freedom. "It's terrific that
 the film is going to be shown. Audiences will know a great deal more
 about Biko and about prison, torture and the absolute ruthlessness of
 apartheid. The security police in the film are marvelously authentic
 in that sense. But in terms of how Attenborough has structured the
 film, it may upset many black South Africans who have grown tired of
-their lives being portrayed through the experiences of whites."</p><p>On that basis, the film can be criticized as a reflection of the
+their lives being portrayed through the experiences of whites."</p>
+          <p id="sc09-5_10288">On that basis, the film can be criticized as a reflection of the
 evil it attempts to illuminate. The question is whether it was proper
 for Attenborough to use a white character to tell a black story. The
 director has responded to such criticism by saying he couldn't raise
-$22 million to tell Biko's story, which merely feeds the argument.</p><p><title>Weekly Mail</title> reviewer Johnson liked the film for what
+$22 million to tell Biko's story, which merely feeds the argument.</p>
+          <p id="sc09-5_10289"><title>Weekly Mail</title> reviewer Johnson liked the film for what
 it is, saying "Biko's full story, will (and must) be recorded
-elsewhere. Let this slice stand."</p><p>The South African filmmaker wishes Attenborough had been more
+elsewhere. Let this slice stand."</p>
+          <p id="sc09-5_10290">The South African filmmaker wishes Attenborough had been more
 courageous. "I think the error lies in misreading the responses of
 the world's audiences. It is the role of the filmmaker to advance new
 insights. Biko's personality, his youth, his humor, his image, would
@@ -1774,25 +2087,35 @@ have carried a film. The western world would have accepted him as a
 hero, though ironically neither he nor the black consciousness
 movement wanted heroes at all. They were quite an extraordinary group
 of people. Biko was an outstanding figure, but others had equally good
-contributions."</p><p>Despite her reservations, she applauds Attenborough's skill in
+contributions."</p>
+          <p id="sc09-5_10291">Despite her reservations, she applauds Attenborough's skill in
 making a superb movie, which arrives at a time when it is much
-needed.</p><p>"At the moment we have a state of emergency in South Africa and
+needed.</p>
+          <p id="sc09-5_10292">"At the moment we have a state of emergency in South Africa and
 Americans are getting no news. It is against the law to film any
 police or security action without official permission. The fact is,
 there are still thousands in prison and the security police can still
 pick up anybody they like anytime they please. One needs to remind
 people that it is happening still and <title>Cry Freedom</title> is a
 timely replacement for the sort of news that ought to be coming out of
-South Africa."</p><p>Among the most powerful of the film's images are the names
+South Africa."</p>
+          <p id="sc09-5_10293">Among the most powerful of the film's images are the names
 scrolling across the screen at the end, listing eighty other activists
 besides Biko who have died over the past decade from "suicide" or
-"falling down stairs" while in the hands of security police.</p><p>In late November, South African censors made the surprising and
+"falling down stairs" while in the hands of security police.</p>
+          <p id="sc09-5_10294">In late November, South African censors made the surprising and
 welcome announcement that <title>Cry Freedom</title> could be shown
 uncut in South Africa. Some apartheid watchers interpret the move as a
 gamble on the part of the Botha government to win points abroad by
 trying to show that the film will have minimal adverse effect in South
-Africa.</p></div2>
-        <div2 id="sc09-5012" n="10" type="Article"><head>A Letter from Lillian Smith</head><byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate><bibl/><p>As writer, intellectual, and social critic of 20th century Southern
+Africa.</p>
+        </div2>
+        <div2 id="sc09-5_012" n="10" type="Article">
+          <head>A Letter from Lillian Smith</head>
+          <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 32-33</docDate>
+          <bibl/>
+          <p id="sc09-5_10295">As writer, intellectual, and social critic of 20th century Southern
 and American life, Lillian Smith corresponded with a variety of
 notables about subjects of major historical, political, and cultural
 interest. The following selection from her correspondence with Eleanor
@@ -1801,7 +2124,8 @@ Franklin D.  Roosevelt Library, Hyde Park, New York) provides a
 glimpse of the extent, variety, and timeliness of the interests and
 concerns that underlay Smith's goals and achievements as a writer. It
 is from the first volume of <title>Selected Letters of Lillian
-Smith</title>, forthcoming from the University of Georgia Press.</p><p>Prior to the publication of her best-selling novel <title>Strange
+Smith</title>, forthcoming from the University of Georgia Press.</p>
+          <p id="sc09-5_10296">Prior to the publication of her best-selling novel <title>Strange
 Fruit</title> (1944), Smith supported herself by directing Laurel
 Falls Camp for Girls near Clayton, Georgia. However, her public
 writing career began in 1936 when she and her assistant camp director
@@ -1811,45 +2135,57 @@ and finally <title>South Today</title>. Designed to encourage fresh
 critical views of Southern literature and culture, it quickly became
 the region's most liberal literary voice, publishing and reviewing the
 works of blacks and whites, males and females, and calling for an
-immediate end to all forms of racial segregation.</p><p>In 1937 the Julius Rosenwald Fund, which had since 1928 focused
+immediate end to all forms of racial segregation.</p>
+          <p id="sc09-5_10297">In 1937 the Julius Rosenwald Fund, which had since 1928 focused
 primarily on developing black education, established a fellowship
 program open to Southern whites as well as to blacks in order to
 broaden its efforts to improve race relations. Because of the related
 interests and focus of their magazine, Smith and Snelling applied for
 and received joint Rosenwald Fellowships in 1939 and 1940, enabling
 them to travel widely throughout the South studying economic,
-political and cultural conditions.</p><p>In 1942, '43, and '44, they were again employed by the Rosenwald
+political and cultural conditions.</p>
+          <p id="sc09-5_10298">In 1942, '43, and '44, they were again employed by the Rosenwald
 Fund to travel throughout the South in search of potential fellowship
 recipients among the region's college students. Eleanor Roosevelt was
 also involved with the Rosenwald Fund; indeed, her response to this
 particular letter indicated that she would be unable to meet Smith
-because she would be "in Hampton attending a Rosenwald meeting."</p><p>As the following account indicates, Smith's impressions of Southern
+because she would be "in Hampton attending a Rosenwald meeting."</p>
+          <p id="sc09-5_10299">As the following account indicates, Smith's impressions of Southern
 college students and her assessment of major issues facing the region
 in 1942 sound eerily familiar some forty-five years later. Likewise,
 as in Smith's correspondence as a whole, this letter reveals the mind
 and spirit of a woman keenly observant of the world around her,
 especially conscious of the importance of all aspects of human
 relationships, and clearly aware of her role in shaping and
-interpreting the age in which she lived.</p><p>April 7, 1942</p><p>Mrs. Franklin Roosevelt,</p><p>The White
-House,</p><p>Washington, D.C.</p><p>My dear Mrs. Roosevelt:</p><p>Paula Snelling and I have this past week completed a trip through
+interpreting the age in which she lived.</p>
+          <p id="sc09-5_10300">April 7, 1942</p>
+          <p id="sc09-5_10301">Mrs. Franklin Roosevelt,</p>
+          <p id="sc09-5_10302">The White
+House,</p>
+          <p id="sc09-5_10303">Washington, D.C.</p>
+          <p id="sc09-5_10304">My dear Mrs. Roosevelt:</p>
+          <p id="sc09-5_10305">Paula Snelling and I have this past week completed a trip through
 the South during which we have interviewed for the Rosenwald Fund the
 young Negro and White college seniors who have applied for Rosenwald
-scholarship-aid grants.</p><p>We have found these interviews profoundly stirring and want in some
+scholarship-aid grants.</p>
+          <p id="sc09-5_10307">We have found these interviews profoundly stirring and want in some
 way, to share our findings with you. Some of our talks with the young
 Negroes were very disturbing, some most heartening, nearly all sincere
 and realistic. We found in the young whites--though there were
 exceptions--a shocking ignorance of their South, a concern primarily
 with their personal affairs, a restlessness about the future, 
-<pb n="33"/>
+<pb id="sc09-5_10306" n="33"/>
 little
 awareness of the international picture and our place in it. We found
 few educated whites who had ever met an educated Negro; few young
 Negroes who had met a racially unprejudiced white. We interviewed only
-the "cream" of the senior classes in 22 colleges.</p><p>Throughout the South, as we expected, we found many liberals giving
+the "cream" of the senior classes in 22 colleges.</p>
+          <p id="sc09-5_10308">Throughout the South, as we expected, we found many liberals giving
 up their liberalism "for the duration." Especially did this seem to be
 true of those who are labeled "friends of the Negro." The Negroes feel
 this too and are depressed and disheartened by the knowledge that many
-of their white friends disappear when crises arise.</p><p>Down in the Delta we found reaction rising like a great
+of their white friends disappear when crises arise.</p>
+          <p id="sc09-5_10309">Down in the Delta we found reaction rising like a great
 wave. Cotton is 26 cents in the Delta now and the general attitude
 among the planters is that neither Mr. Roosevelt nor God Himself is
 going to keep them from making some money while the making is
@@ -1862,18 +2198,21 @@ antagonistic to all liberal movements, growing suspicious of what I am
 teaching their children in my camp; so suspicious and antagonistic
 that I dared not tell them that I was on Rosenwald Fund business for
 their hospitality would not have been equal to such a strain being put
-upon it!)</p><p>There is something heartbreakingly valiant about the young of the
+upon it!)</p>
+          <p id="sc09-5_10310">There is something heartbreakingly valiant about the young of the
 Negro race, so eager to prove to white America their willingness to
 die for a country which has given them only the scraps from the white
 folks' democracy. There is resentment also; a quiet, strong
 resentment, running like a deep stream through their minds and hearts;
 something I think few white Americans are aware of, or want to
-face.</p><p>I shall be in Washington Friday, April 10th, at the Hay Adams
+face.</p>
+          <p id="sc09-5_10311">I shall be in Washington Friday, April 10th, at the Hay Adams
 House. I shall call Miss Thompson Friday morning and shall be honored
 to talk with you if you wish me to do so. I know you are a very busy
 person and I do not want to burden you further by a talk with me
 unless you think it will be useful to you to have in more detail this
-recent skimming of southern opinion.</p><p>Should you let me talk with you I would like to discuss with you
+recent skimming of southern opinion.</p>
+          <p id="sc09-5_10312">Should you let me talk with you I would like to discuss with you
 also the possibilities for making this new venture of the Rosenwald
 Fund a more creative and vital youth project. Some of us think--and
 Dr. Embree shares this opinion--that the project should be more than a
@@ -1886,15 +2225,26 @@ together, to have actual experience with each other, though heaven
 only knows how we can work it out in a South where such an idea can be
 mentioned now only in whispers. But how can the South ever work out
 its bi-racial problems when its intelligent and educated young whites
-and Negroes have never met an educated member of the other race?</p><p>I believe Miss Lucy Mason recently wrote you about Paula Snelling
+and Negroes have never met an educated member of the other race?</p>
+          <p id="sc09-5_10313">I believe Miss Lucy Mason recently wrote you about Paula Snelling
 and me and our magazine The <title>North Georgia Review</title> which
 has now changed its name to <title>South Today</title>. I merely
-mention this kindness to us so that it will help you identify us.</p><p>There are many of us who are deeply grateful to you for your
-unwavering stand for the democratic decencies.</p><p>Most sincerely yours,</p><p>Lillian E. Smith</p><div3 id="sc09-5032" type="About">
-            <p>Rose Gladney is assistant professor of American studies
+mention this kindness to us so that it will help you identify us.</p>
+          <p id="sc09-5_10314">There are many of us who are deeply grateful to you for your
+unwavering stand for the democratic decencies.</p>
+          <p id="sc09-5_10315">Most sincerely yours,</p>
+          <p id="sc09-5_10316">Lillian E. Smith</p>
+          <div3 id="sc09-5_032" type="About">
+            <p id="sc09-5_10317">Rose Gladney is assistant professor of American studies
 at the University of Alabama, Tuscaloosa.</p>
-          </div3></div2>
-        <div2 id="sc09-5013" n="11" type="Article"><head>The 1987 Lillian Smith Book Awards</head><byline>By <docAuthor><name reg="Davis, Thadious" type="person">Thadious Davis</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate><bibl/><p>When Georgia author Lillian Smith died in 1966, the Southern
+          </div3>
+        </div2>
+        <div2 id="sc09-5_013" n="11" type="Article">
+          <head>The 1987 Lillian Smith Book Awards</head>
+          <byline>By <docAuthor><name reg="Davis, Thadious" type="person">Thadious Davis</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 33-34, 36</docDate>
+          <bibl/>
+          <p id="sc09-5_10318">When Georgia author Lillian Smith died in 1966, the Southern
 Regional Council established an award not only to honor her work and
 her memory, but also to foster in others the spirit of her courageous
 struggle for human rights in the South. Smith's first novel,
@@ -1909,7 +2259,8 @@ debilitating system. Her visionary writing was accompanied by social
 and political activism. Whether functioning with national
 organizations, local groups, or personal friends, Smith committed her
 energy to persuading others to work for social justice and racial
-equality under the law.</p><p>The Lillian Smith Book Awards have been presented since 1967 in
+equality under the law.</p>
+          <p id="sc09-5_10319">The Lillian Smith Book Awards have been presented since 1967 in
 recognition of outstanding writing concerned with the Southern
 region. <sic>Recipents</sic> have not been restricted to Southerners,
 but they have been expected to contribute understanding of social
@@ -1919,15 +2270,17 @@ writers who have translated Smith's "struggle into terms
 appropriate to our own lives" today, as SRC President Paul
 M. Gaston puts it. Gaston points out that the intent is "honor the
 authors not so much for their own sakes. . . but so that others will,
-because of the award, learn about and read their books."</p><p>This year the Lillian Smith Book Awards have been 
-<pb n="34"/>
+because of the award, learn about and read their books."</p>
+          <p id="sc09-5_10321">This year the Lillian Smith Book Awards have been 
+<pb id="sc09-5_10320" n="34"/>
 jointly awarded
 in the non-fiction category to Thomas L. Johnson and Phillip C. Dunn
 for <title>A True Likeness: The Black South of Richard Samuel Roberts,
 1920-1936</title> and to Pauli Murray, posthumously, for <title>Song
 in a Weary Throat: An American Pilgrimage</title>. The 1987 Smith
 Award in the fiction category is to Mary Hood for the collection of
-short stories <title>And Venus Is Blue</title>.</p><p><title>A TRUE LIKENESS</title> IS A COLLECTION of the photographs
+short stories <title>And Venus Is Blue</title>.</p>
+          <p id="sc09-5_10322"><title>A TRUE LIKENESS</title> IS A COLLECTION of the photographs
 of Richard Samuel Roberts, a black Floridian who in 1920 moved to
 Columbia, S. C., where he operated a photography business in the black
 commercial district until his death in 1936. Selected from some three
@@ -1941,16 +2294,19 @@ photographed people and the artifacts of their material culture:
 studio backdrops, city streets, public buildings and private homes;
 weddings, christenings and wakes; family groups, school children and
 individual portraits; prominent citizens, day laborers and community
-leaders.</p><p>Anthony Paul Dunbar, a member of the awards committee, observed
+leaders.</p>
+          <p id="sc09-5_10323">Anthony Paul Dunbar, a member of the awards committee, observed
 that "Not only are the pictures artistically and technically
 excellent but they record a life that very few people knew existed. If
 you read the captions to the photographs you will see the civil rights
-movement emerging."</p><p>Published by two regional houses, Algonquin Press of Chapel Hill,
+movement emerging."</p>
+          <p id="sc09-5_10324">Published by two regional houses, Algonquin Press of Chapel Hill,
 N.C., and Bruccoli Clark of Columbia, S.C., <title>A True
 Likeness</title> is the result of a collaboration between Roberts's
 surviving children (Wilhelmina Roberts Wynn, Gerald E., Beverly N. and
 Cornelius C. Roberts) and Phillip C. Dunn, an art professor at the
-University of South Carolina specializing in photography.</p><p>With the support and assistance of the South Caroliniana Library's
+University of South Carolina specializing in photography.</p>
+          <p id="sc09-5_10325">With the support and assistance of the South Caroliniana Library's
 field archival program, Dunn cleaned and restored the glass negative
 plates, developed contact prints from which he selected "the most
 powerful and significant," and made exhibit-quality prints. Dunn and
@@ -1966,9 +2322,10 @@ descendants of that community as well as for those of a white
 community that never knew of its existence. His pictures recapture for
 all an aspect of Southern life rarely seen by outsiders and nearly
 forgotten by insiders; in the process, they further an understanding
-of the multicultural South.</p><p>PAULI MURRAY'S <title>Song in a Weary Throat</title>, published by
+of the multicultural South.</p>
+          <p id="sc09-5_10327">PAULI MURRAY'S <title>Song in a Weary Throat</title>, published by
 Harper and Row, is memoir of self and society by a 
-<pb n="36"/>
+<pb id="sc09-5_10326" n="36"/>
 woman who insisted
 on her full humanity as a person of color and as a female. It recounts
 with unusual clarity, passion, and compassion Murray's journey toward
@@ -1979,7 +2336,8 @@ keynote that sustained her through long years of commitment to civil
 rights and moral justice. Robert J. Norrell, chairman of the awards
 committee, termed it a "powerful statement of one person's
 challenge to a world that put a lot of obstacles before her but that
-she would not let daunt her."</p><p>Murray chronicles her life as "An American Pilgrimage" which took
+she would not let daunt her."</p>
+          <p id="sc09-5_10328">Murray chronicles her life as "An American Pilgrimage" which took
 her from early childhood in Baltimore to formative years in the black
 South of Durham, N.C. She presents her youthful ambitions and dreams
 along with the nearly devastating effects of discriminatory practices
@@ -1987,7 +2345,8 @@ upon them. She recounts her efforts to become a lawyer during a period
 when both her race and sex limited her opportunities for professional
 education. The University of North Carolina would not admit her
 because of her race; Harvard University would not admit her because of
-her sex.</p><p>Murray not only became a civil rights attorney and legal scholar,
+her sex.</p>
+          <p id="sc09-5_10329">Murray not only became a civil rights attorney and legal scholar,
 but she also was a founding member of the National Organization for
 Women. From the 1930s through the 1980s, she remained a tireless
 teacher-activist for the advancement of blacks and women, a cause that
@@ -2002,7 +2361,8 @@ teacher, friend, and minister come together in "the spirit of love
 and <sic>reconcilation</sic> drawing us all toward the goal of human
 wholeness." Murray died in 1985 while completing <title>Song in a
 Weary Throat</title>; the book is a fitting tribute to her quest for
-wholeness--for herself and all Americans.</p><p>MARY HOOD'S <title>And Venus is Blue</title> is a collection of
+wholeness--for herself and all Americans.</p>
+          <p id="sc09-5_10330">MARY HOOD'S <title>And Venus is Blue</title> is a collection of
 seven stories and title novella. Published by Ticknor and Fields, the
 work is about white Southerners in the contemporary world of change
 and transition. In these accomplished stories of physical and
@@ -2013,28 +2373,35 @@ people with the expansive perception of one who recognizes the quiet
 valor of their determination to remain fully human in dehumanizing
 times. One female character envisions the world as
 "untrammeling. . . widening in ripples about her," and sees herself as
-"the stone at the center that sets things moving."</p><p>Without condescension or caricature, Hood captures the often hidden
+"the stone at the center that sets things moving."</p>
+          <p id="sc09-5_10331">Without condescension or caricature, Hood captures the often hidden
 meaning of ordinary life, distills it with compassion, and renders it
 for others to share. Her special gift is for articulating the often
 unspoken conflicts of the heart among the working-class poor. A rural
 family man, for instance, struggles against the limits of his
-existence:</p><p>There was a little air stirring. The pines on tomorrow's cutting
+existence:</p>
+          <p id="sc09-5_10332">There was a little air stirring. The pines on tomorrow's cutting
 were tall against the first stars. Up toward Hammermill the sky was
 lighter. Cheney could see, after his eyes got sharper, the glint of
 the mayonnaise jar he had brought his tea in for lunch....He picked it
 up. the lid was missing. Cheney tossed it--it hit on something and
-smashed I'm so goddamn tired of being poor, he said.</p><p>His voice may not be eloquent, but the scene incompasses with
+smashed I'm so goddamn tired of being poor, he said.</p>
+          <p id="sc09-5_10333">His voice may not be eloquent, but the scene incompasses with
 accuracy and authority the contrast between the potential of the
 natural world and the reality of the unending human effort to create
-an inhabitable space within that world.</p><p>Hood lives in Georgia, whose northern foothills and mountain areas
+an inhabitable space within that world.</p>
+          <p id="sc09-5_10334">Hood lives in Georgia, whose northern foothills and mountain areas
 provide settings for her stories. Her fiction has evoked, for some
 readers, comparisons with Flannery O'Connor, another Georgian and
 master of the short story form. However, according to awards committee
 member Mary Frances Deriner, Hood's people and landscapes are neither
 O'Connoresque nor grotesque, but are instead the "essence of the
-modern South."</p><p>Race and Justice</p><p>Of the 5,710 judges and prosectors who play a role in deciding who
-will be executed in the United States, 178 (3.1 percent) are black.</p><div3 id="sc09-5033" type="About">
-            <p>Thadious Davis teaches at the University of North
+modern South."</p>
+          <p id="sc09-5_10335">Race and Justice</p>
+          <p id="sc09-5_10336">Of the 5,710 judges and prosectors who play a role in deciding who
+will be executed in the United States, 178 (3.1 percent) are black.</p>
+          <div3 id="sc09-5_033" type="About">
+            <p id="sc09-5_10337">Thadious Davis teaches at the University of North
 Carolina at Chapel Hill and was a member of the committee which
 selected this year's Lillian Smith prize winners. Other committee
 members were Robert J. Norrell, Center for the Study of Southern
@@ -2043,10 +2410,17 @@ Charleston, S.C.; and Anthony P. Dunbar, New Orleans, La. In making
 its selections, the committee reviewed approximately forty strong
 entries in fiction, history, and autobiography! memoir published
 between July 1, 1986, and June 30, 1987.</p>
-          </div3></div2>
-        <div2 id="sc09-5014" n="12" type="Review"><head>On Guard Against Good Intentions.</head><byline>By <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline><docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate><bibl/><bibl><title>The Thanatos
+          </div3>
+        </div2>
+        <div2 id="sc09-5_014" n="12" type="Review">
+          <head>On Guard Against Good Intentions.</head>
+          <byline>By <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, pp. 37-38</docDate>
+          <bibl/>
+          <bibl><title>The Thanatos
 Syndrome</title> by Walker Percy. (New York: Farrar, Straus, and
-Giroux, 1987. 372 pp. $17.95.)</bibl><p>In Walker Percy's latest novel, <title>The Thanatos
+Giroux, 1987. 372 pp. $17.95.)</bibl>
+          <p id="sc09-5_10338">In Walker Percy's latest novel, <title>The Thanatos
 Syndrome</title>, Dr. Thomas More, a psychiatrist recently paroled
 from federal prison, uncovers a nefarious scheme to "improve the
 quality of life" for the unsuspecting denizens of Feliciana Parish in
@@ -2055,7 +2429,8 @@ of the heavy sodium ion into the region's water supply. Dr. More
 becomes suspicious when his female patients present themselves
 rearward during analysis, and the hospital's black janitor, a hunting
 companion for forty years, addresses his friend with "standard,
-U.S. politeness, like a drive-up customer at Big Mac's."</p><p>In typical Percy fashion, this limited plot is carried along by the
+U.S. politeness, like a drive-up customer at Big Mac's."</p>
+          <p id="sc09-5_10339">In typical Percy fashion, this limited plot is carried along by the
 author's wry and perceptive analysis of modern America and revealed
 through his well-wrought but tiny band of characters. Opposing
 philosophies are offered by the Qualitarian scientists from Fedville,
@@ -2065,7 +2440,8 @@ Catholic priest who, isolated in a fire tower above his hospice for
 society's rejects, prattles on about his visit to Germany in the late
 1930s. Providing the logical and philosophical link between these
 elements is Dr. Tom, the novel's detached but keenly observant
-protagonist.</p><p>The story opens when Dr. Tom, fresh out of Fort Pelham Federal
+protagonist.</p>
+          <p id="sc09-5_10340">The story opens when Dr. Tom, fresh out of Fort Pelham Federal
 Detention Center, notices a variety of unusual occurrences, including
 the simian sexual behavior of his female patients and their
 willingness (and ability) to answer questions completely out of
@@ -2075,19 +2451,22 @@ their eyes, as though reading a computer printout, and provide
 latitudes and distances from major urban centers. Not knowing whether
 it is he or his patients who have changed during his detention, he
 seeks the help of his cousin, Dr. Lucy Lipscomb, epidemiologist,
-soybean farmer, and computer expert.</p><p>Together, they not only discover that sodium is in the water
+soybean farmer, and computer expert.</p>
+          <p id="sc09-5_10341">Together, they not only discover that sodium is in the water
 supply, but that it is being put there covertly by a select group of
 transcendent Qualitarians who plan to reveal their "numbers" just
 prior to the upcoming national elections. The Qualitarians, led by
 Drs. Bob Comeaux and John Van Dorn, will show that their project has
 undeniably improved the quality of life in Feliciana, and that any
 candidate who opposes their project opposes improved life for all
-Americans.</p><p>In the novel's vaguely futuristic setting, the Qualitarians are
+Americans.</p>
+          <p id="sc09-5_10342">In the novel's vaguely futuristic setting, the Qualitarians are
 they who believe in death with dignity. They believe it is better to
 terminate, through pedeuthanasia and gereuthanasia, a life that is a
 life without quality. They rhetorically ask Dr. Tom if he would
 condemn a little child to a life without love, or have someone
-needlessly suffer with AIDS.</p><p>When confronted with their colleague's discovery of the sodium
+needlessly suffer with AIDS.</p>
+          <p id="sc09-5_10343">When confronted with their colleague's discovery of the sodium
 project, Comeaux and Van Dorn smugly defend their plot and invite
 Dr. Tom to "join the team." The heavy sodium ion affects certain
 neurological and psychological traits through cortical suppression,
@@ -2100,25 +2479,29 @@ factories, and inmates et the Angola State Prison Farm sing spirituals
 in the fields and refuse to return to the cities upon release. Teenage
 pregnancies are eliminated by changing the female cycle from menstrual
 to estrus. How, ask the Qualitarians, can such results be argued
-with?</p><p>Dr. Tom, always the devil's advocate, mentions civil rights, secret
+with?</p>
+          <p id="sc09-5_10345">Dr. Tom, always the devil's advocate, mentions civil rights, secret
 assaults on people's psyches, and their speech and language function
 being reduced to two-word utter-
-<pb n="38"/>
+<pb id="sc09-5_10344" n="38"/>
 ances and the inability to write a
 complete sentence. Furthermore, the Qualitarians do not partake of the
 ion themselves, and there is the secondary discovery that Van Dorn is
 running a child pornography ring at his boarding school as part of
-what he calls the "sexual liberation of the Western world."</p><p>Meanwhile, Father Smith refuses to leave the fire tower. Fixated by
+what he calls the "sexual liberation of the Western world."</p>
+          <p id="sc09-5_10346">Meanwhile, Father Smith refuses to leave the fire tower. Fixated by
 the memory of a trip to pre-war Germany, Father Smith recounts, in a
 twenty-page intermezzo called "Father Smith's Confession," how he
 spent time among the country's most eminent psychiatrists, and how
 they argued over a book entitled The Release of the Destruction of
-Life Devoid of Value.</p><p>Although he was not particularly taken with the psychiatrists, who
+Life Devoid of Value.</p>
+          <p id="sc09-5_10347">Although he was not particularly taken with the psychiatrists, who
 as a group were great humanitarians and lovers of children, he
 recalled their debate over the relative importance of love of self and
 love of country. He also recalled them scoffing at Hitler's radio
 ravings over the presence of the "alien" within the pure organism of
-"Das Volk."</p><p>The true object of Simon's fascination was his cousin Helmut, a
+"Das Volk."</p>
+          <p id="sc09-5_10348">The true object of Simon's fascination was his cousin Helmut, a
 Brownshirt who aspired to become a full-fledged SS and join the ranks
 of the German army and fight for the Fatherland in the imminent
 war. Helmut's devotion to his cause and country inspired Simon in ways
@@ -2126,13 +2509,16 @@ he had never known. Father Smith confesses to Dr. Tom that, had he
 been a young German at the time, he would have followed his cousin
 Helmut into the Hitler Jugend. Interestingly, he said, Helmut had
 little interest in the Jews, saying only that they had volunteered for
-the Jugend and had been turned down.</p><p>Father Smith's next visit to Germany was as an American soldier
+the Jugend and had been turned down.</p>
+          <p id="sc09-5_10349">Father Smith's next visit to Germany was as an American soldier
 liberating a children's hospital. Its director had been one of the
 psychiatrists he had known from his earlier visit. A nurse there
 showed Father Smith a special room where the doctor regularly
-exterminated children with experimental gases.</p><p>Preparing to leave the fire tower, Dr. Tom asks Simon why he became
+exterminated children with experimental gases.</p>
+          <p id="sc09-5_10350">Preparing to leave the fire tower, Dr. Tom asks Simon why he became
 a priest. Simply, says Simon, because one must choose life or
-death.</p><p>The book ends when Dr. Tom returns to the boarding school to rescue
+death.</p>
+          <p id="sc09-5_10351">The book ends when Dr. Tom returns to the boarding school to rescue
 his children from the pederasts. In the novel's funniest scene, the
 staff of Belle Ame are forced to drink molar concentrations of heavy
 sodium, whereupon Mrs. Cheney presents rearward to Coach, causing
@@ -2140,7 +2526,8 @@ Dr. V. D. to thump his chest, bare his teeth, and attack. Their
 apelike aggression is mollified with a bag of Snickers until the
 police arrive to arrest the whole gang and shut off the sodium
 shunt. The crime rate rises, math scores plummet, and Felicianians
-engage in their conversation of old, as strange now as ever.</p><p><title>The Thanatos Syndrome</title> is an eminently readable, very
+engage in their conversation of old, as strange now as ever.</p>
+          <p id="sc09-5_10352"><title>The Thanatos Syndrome</title> is an eminently readable, very
 funny detective-adventure story peopled by a familiar crew we have all
 loved and despised. It is also a novelistic prophesy about the fate of
 modern America. Although the nature of this prophesy is
@@ -2152,7 +2539,8 @@ not the unwitting sodium recipients who are self-destructive; they
 remain intact, carefree as the animals they have come to resemble. It
 is instead the scientists, the transcendent, magnificent demigods of
 our age, who have decided to improve the quality of life for those
-below them, and in so doing lead our society towards death.</p><p>An important parallel develops between the Qualitarians planning an
+below them, and in so doing lead our society towards death.</p>
+          <p id="sc09-5_10353">An important parallel develops between the Qualitarians planning an
 improved society high in their Fedville offices, and Father Smith's
 consideration, high in his fire-tower, of the transformation of
 Helmut's personality. The divergent issue is that Father Smith
@@ -2160,14 +2548,16 @@ realizes the best intentions can turn imperceptibly to horror and
 cruelty. One day the boys in Brown are filled with love of country,
 the next they are manning the crematoriums. Thinking of the Fedville
 crowd, Father Smith remarks that compassion is the first step toward
-the gas chamber.</p><p>In an early essay entitled "Notes for a Novel About the End of the
+the gas chamber.</p>
+          <p id="sc09-5_10354">In an early essay entitled "Notes for a Novel About the End of the
 World," Percy acknowledged that his Catholic world view is "informed
 by a certain belief about man's nature and destiny that cannot fail to
 be central to any novel I write." A certain dose of this view is
 present here, especially in a general reverence for life and a
 consideration of man's free will unfettered by science, heavy sodium
 ions and the like. But the import of this novel's prophesy is more
-than a rehash of familiar principles.</p><p>The importance of the individual, already diminished by the
+than a rehash of familiar principles.</p>
+          <p id="sc09-5_10355">The importance of the individual, already diminished by the
 enormous killing potential of modern weapons, is degraded even more as
 the aura of technology mixes with the aura of power. The purveyors of
 such power become transcendent over the world and truly believe they
@@ -2178,68 +2568,89 @@ another. Thus, we as individuals must be on guard against those who
 would become extremists in pursuit of their good intentions. So too
 must the powerful remain sensitive to what it means to be human. We
 may be screwed-up, Percy seems to be saying, but it's better than
-being dead.</p><div3 id="sc09-5034" type="About">
-            <p>George Littleton is a writer on the staff of the Alabama
+being dead.</p>
+          <div3 id="sc09-5_034" type="About">
+            <p id="sc09-5_10356">George Littleton is a writer on the staff of the Alabama
 Commission on Higher Education in Montgomery.</p>
-          </div3></div2>
-        <div2 id="sc09-5015" n="14" type="Article"><head>The Cold Hard Truth</head><byline>By 
-            <docAuthor>
-              <name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name>
-            </docAuthor>
-          </byline><docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate><bibl/><p>This is the 200th year of the U.S. Constitution, but that document
+          </div3>
+        </div2>
+        <div2 id="sc09-5_015" n="14" type="Article">
+          <head>The Cold Hard Truth</head>
+          <byline>By 
+            <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
+          <docDate value="1987-12">Vol. 9, No. 5, 1987, p. 40</docDate>
+          <bibl/>
+          <p id="sc09-5_10357">This is the 200th year of the U.S. Constitution, but that document
 remains shrouded in fiction, misunderstanding and ignorance. Millions
 of Americans know so little about the Constitution, it is a miracle we
-have been able to hold on to it.</p><p>Speakers and writers, who should know better, continue to pay
+have been able to hold on to it.</p>
+          <p id="sc09-5_10358">Speakers and writers, who should know better, continue to pay
 homage to the Founding Fathers for the "Bill of Rights"--the first ten
 amendments to the Constitution. The original constitution drafted at
 Philadelphia in 1787 did not include the "Bill of Rights." Those
 amendments came later during the ratification process. That is why
-they are amendments.</p><p>Indeed, the fifty-five affluent white males who met in Philadelphia
+they are amendments.</p>
+          <p id="sc09-5_10359">Indeed, the fifty-five affluent white males who met in Philadelphia
 had no authority to write a constitution. They were only legally
 empowered to revise the old Articles of Confederation. They drafted a
 constitution anyway. The legal problems they created in doing so were
 probably resolved by the subsequent ratification of their unauthorized
-constitution.</p><p>In 1787, slaves were hardly considered people. The Founding Fathers
+constitution.</p>
+          <p id="sc09-5_10360">In 1787, slaves were hardly considered people. The Founding Fathers
 reached a compromise at Philadelphia and upgraded each black to
 three-fifths of a person. Women were ignored. The new constitution
 reflected the culture. It also set certain forces into motion which
 finally led to The Civil War and the end of slavery as an
-institution.</p><p>The Civil War and emancipation of blacks had no effect on
+institution.</p>
+          <p id="sc09-5_10361">The Civil War and emancipation of blacks had no effect on
 disfranchised white females. The Thirteenth, Fourteenth and Fifteenth
 amendments were added to the Constitution. These amendments, with the
 exception of the Fourteenth, were all pegged to color or "previous
 condition of servitude." Gender or sex proscriptions were conspicuous
-by their loud absence.</p><p>Nevertheless, another century after the Civil War, the civil rights
+by their loud absence.</p>
+          <p id="sc09-5_10362">Nevertheless, another century after the Civil War, the civil rights
 movement using those amendments spawned a whole new era regarding the
 status and rights of women. What had happened? Is the mere passage of
-time a sufficient explanation or is there something more?</p><p>I heard an interesting explanation at a women's conference in
+time a sufficient explanation or is there something more?</p>
+          <p id="sc09-5_10363">I heard an interesting explanation at a women's conference in
 Birmingham last week. Approximately half the 200 women present were
 white. One of the great loves of my life, sixty-two year old Shirley
 Chisholm, was keynote speaker. But the words of a white female friend,
-Ann Braden, really jarred my thinking.</p><p>Ann and I served as panelists during a workshop on racism and
+Ann Braden, really jarred my thinking.</p>
+          <p id="sc09-5_10364">Ann and I served as panelists during a workshop on racism and
 coalition-building. Years ago, Ann was a young reporter in Anniston
 and covered Bull Connor's Birmingham. She later wrote an interesting,
 frank and truthful book and many in the South will never forgive
 her. She is unlikely to forgive them and now as a senior citizen
-remains outspoken and a self-described "unabashed radical."</p><p>For the women delegates, Ann described racism as the "indefensible
+remains outspoken and a self-described "unabashed radical."</p>
+          <p id="sc09-5_10365">For the women delegates, Ann described racism as the "indefensible
 assumption that white males, by right, should rule all things and
 everything was created for their benefit." She said that is why native
 Americans (Indians) were wiped out by the settlers without the
 slightest guilt or remorse. She also said that is why our foreign
-policy is so dangerous in a world three-fourths non-white.</p><p>Ann's definition of racism reduces sexism to a component of
+policy is so dangerous in a world three-fourths non-white.</p>
+          <p id="sc09-5_10366">Ann's definition of racism reduces sexism to a component of
 racism. If her definition is correct, and I think it is, American
-history begins to make sense for the first time.</p><p>How else can one explain why intelligent, learned men would deny
+history begins to make sense for the first time.</p>
+          <p id="sc09-5_10367">How else can one explain why intelligent, learned men would deny
 their own mothers, wives and daughters certain fundamental rights
-these men risked their lives to secure for themselves?</p><p>Ordinarily, one would not consider that racism, but it obviously
+these men risked their lives to secure for themselves?</p>
+          <p id="sc09-5_10368">Ordinarily, one would not consider that racism, but it obviously
 was the exaltation of white males by white males at the expense of
-people they love and were closest to.</p><p>Women's rights did not move to the front after the Civil War and
+people they love and were closest to.</p>
+          <p id="sc09-5_10369">Women's rights did not move to the front after the Civil War and
 black emancipation because these developments were aimed at the
 institution of slavery and not racism. Racism remained in vogue; only
-slavery was outlawed.</p><p>A century later, the civil rights movement aimed its attack
-directly at racism and the women's movement caught fire.</p><p>The proof is in the pudding.</p><p>Peace.</p><div3 id="sc09-5035" type="About">
-            <p>J. L. Chestnut Jr. is an Alabama trial lawyer and
+slavery was outlawed.</p>
+          <p id="sc09-5_10370">A century later, the civil rights movement aimed its attack
+directly at racism and the women's movement caught fire.</p>
+          <p id="sc09-5_10371">The proof is in the pudding.</p>
+          <p id="sc09-5_10372">Peace.</p>
+          <div3 id="sc09-5_035" type="About">
+            <p id="sc09-5_10373">J. L. Chestnut Jr. is an Alabama trial lawyer and
 writer.</p>
-          </div3></div2>
+          </div3>
+        </div2>
       </div1>
     </body>
   </text>
