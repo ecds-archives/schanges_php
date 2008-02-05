@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc08-41204">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2 id="sc08-4_1204">
   <teiHeader id="sc08-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -18,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p>1996 Emory
+          <p id="sc08-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -38,7 +39,7 @@ University, Atlanta, Georgia 30322</p>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>This text is produced in conjunction with the
+        <p id="sc08-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
@@ -64,27 +65,34 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
     </revisionDesc>
   </teiHeader>
-  <text id="sc08-41203">
-    <body id="sc08-41202">
-      <div1 id="sc08-4001" n="Southern Changes 8:4" type="Issue">
+  <text id="sc08-4_1203">
+    <body id="sc08-4_1202">
+      <div1 id="sc08-4_001" n="Southern Changes 8:4" type="Issue">
         <head>Southern Changes.  Volume 8, Number 4, 1986</head>
-        <p><title>Southern Changes</title>.  Volume 8, Number 4,
+        <p id="sc08-4_103"><title>Southern Changes</title>.  Volume 8, Number 4,
 	       <date value="1986-10">1986</date></p>
-        <div2 id="sc08-4002" n="1" type="Article"><head>The Climate for Workers in the U.S.:  Summary of a Study by the
+        <div2 id="sc08-4_002" n="1" type="Article">
+          <head>The Climate for Workers in the U.S.:  Summary of a Study by the
 Southern Labor Institute. A Special Project of the Southern Regional
-Council</head><byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate><bibl/><p>The challenge facing the South is to create jobs with the income
+Council</head>
+          <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
+          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 1-2</docDate>
+          <bibl/>
+          <p id="sc08-4_104">The challenge facing the South is to create jobs with the income
 and benefits needed to bring the region's workers above the poverty
 level - not just new jobs, but jobs that will significantly improve
-the standard of living for people who work full-time, year-round.</p><p>"THE 'BUSINESS climate' and 'ideal places to live' are regularly
+the standard of living for people who work full-time, year-round.</p>
+          <p id="sc08-4_106">"THE 'BUSINESS climate' and 'ideal places to live' are regularly
 assessed, but there have rarely been indexes of good places to
 work. Indeed, the criteria used by most business climate reports
 assume that low wages, limited unemployment compensation and worker
 protection, and weak unions, are good 
-<pb n="2"/>
+<pb id="sc08-4_105" n="2"/>
 for business. This is a strange
 assumption for people who also profess to believe that people are our
 most important asset.  <title>The Climate for Workers</title> report
-demonstrates the error in this traditional assumption.</p><p>"To attract business by maintaining and encouraging low wages and
+demonstrates the error in this traditional assumption.</p>
+          <p id="sc08-4_107">"To attract business by maintaining and encouraging low wages and
 weak worker protection was always shortsighted, but in an
 internationalized information world it is ludicrous.  American
 companies cannot compete in the international arena on the basis of
@@ -105,33 +113,42 @@ leaders recognize the futility of the all-too-frequent strategy of
 attempting to compete by depressing wages.  Attention must be focused
 on other aspects of human resource development, that also are
 important in improving workers' welfare and therefore the quality of
-life in any state.</p><p>"This report puts job growth in the Southeast into proper
+life in any state.</p>
+          <p id="sc08-4_108">"This report puts job growth in the Southeast into proper
 perspective and evaluates the overall benefits of work.  The climate
 for workers in the sunny South is rather chilly.  Those who believe
 that 'the Southern economy no longer exists' or that 'the South has
 thrown off its history,' should consider the findings of <title>The
-Climate for Workers</title>.</p><p>"As with any new indexing undertaking, <title>The Climate for
+Climate for Workers</title>.</p>
+          <p id="sc08-4_109">"As with any new indexing undertaking, <title>The Climate for
 Workers</title> has technical weaknesses.  However, its thrust is
 sound and it should initiate discussion to improve technical quality
-in future reports."</p><div3 id="sc08-4022" type="About">
-            <p>Dr. Ray Marshall, former U. S. Secretary of Labor, holds
+in future reports."</p>
+          <div3 id="sc08-4_022" type="About">
+            <p id="sc08-4_1010">Dr. Ray Marshall, former U. S. Secretary of Labor, holds
 the Audre and Bernard Rapoport Chair in Economics and Public Affairs
 at the LBJ School of Public Affairs, University of Texas at Austin; is
 Board Chairman of the Southern Labor Institute; and Vice President of
 the Southern Regional Council.</p>
-          </div3></div2>
-        <div2 id="sc08-3003" n="2" type="Article"><head>The Climate for Workers: Where Does the South Stand?</head><byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate><bibl/><div3 id="sc08-3004" type="Section">
-            <p>We believe the true test of economic conditions is how working
+          </div3>
+        </div2>
+        <div2 id="sc08-4_sc08-3003" n="2" type="Article">
+          <head>The Climate for Workers: Where Does the South Stand?</head>
+          <byline>By <docAuthor><name reg="Johnson, Kenny" type="person">Kenny Johnson</name> and <name reg="Scurlock, Marilyn" type="person">Marilyn Scurlock</name></docAuthor></byline>
+          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 3-15</docDate>
+          <bibl/>
+          <div3 id="sc08-4_sc08-3004" type="Section">
+            <p id="sc08-4_1011">We believe the true test of economic conditions is how working
 people--the vast majority of citizens--fare in these times of economic
 change. This report examines how the economic climates in the states
 affect most workers.</p>
-            <p>Although it experienced extraordinary job growth during the past
+            <p id="sc08-4_1012">Although it experienced extraordinary job growth during the past
 ten years, the Southeast remains the least favorable region of the
 nation when considered from the perspective of working people and
 their families. More than in any other region, workers in the twelve
 states of the Southeast fail to enjoy the full fruits of their
 labors.</p>
-            <p>During a major restructuring away from traditional manufacturing
+            <p id="sc08-4_1013">During a major restructuring away from traditional manufacturing
 jobs (furniture, textiles, apparel) and toward service jobs
 (especially business and health services), manufacturing growth where
 it does occur is generally in machinery, electronic equipment, and
@@ -148,11 +165,11 @@ region. As the Southeast's economy follows the national trend of fewer
 manufacturing and more service sector jobs, the region's employed and
 unemployed workers are unlikely to see much change in their personal
 conditions.</p>
-            <p>Southern states fill the bottom rungs of nearly all of the more
+            <p id="sc08-4_1015">Southern states fill the bottom rungs of nearly all of the more
 than two dozen indicators considered in this study of the nation's
 labor climate. This situation is graphically depicted in the map on
 the next page. The top five states, meanwhile, are Massachusetts,
-Connecticut, Minnesota, California, and New York.<ref target="sc08-3003n1">1</ref><note id="sc08-3003n1" place="foot"><p> The national ranking for each state is n
+Connecticut, Minnesota, California, and New York.<ref target="sc08-3003n1">1</ref><note id="sc08-3003n1" place="foot"><p id="sc08-4_1014"> The national ranking for each state is n
 composite score based on a weighted total (called the worker climate
 index) that is derived from thirty-three indicators. The fifty states
 and the District of Columbia were examined across the spectrum of
@@ -164,33 +181,33 @@ indicators. A rank of one is beat fifty-one is worst. The nine
 regional divisions used in this report are based on those used by the
 U.S. Department of Commerce, Bureau of Economic Analysis; see map,
 p. 4.</p></note></p>
-            <p>The Southeast's extraordinary growth in jobs during the past ten
+            <p id="sc08-4_1016">The Southeast's extraordinary growth in jobs during the past ten
 years has been accompanied by the least change in personal income of
 any U.S. region. While four Southeastern states rank among the top
 nine in job growth for this ten year period, eight Southeastern states
 fall among the bottom eleven in personal income growth during the same
 years. Table VI shows the correlation in each geographic region
 between job growth, income and wage growth.</p>
-            <p>More and more people are working full-time year-round yet have
+            <p id="sc08-4_1017">More and more people are working full-time year-round yet have
 incomes below the poverty level. These are the working poor. Working
 people are much more likely to be poor in the Southeast than in any
 other U.S. region. Of the ten worst states, eight are in the
 Southeast--ranging from Tennessee, with 8.2 percent of its workers
 below poverty level, to Mississippi at 12.7 percent (the highest
 proportion in the nation).</p>
-            <p>Similarly, Southeastern states today have the lowest per capita
+            <p id="sc08-4_1018">Similarly, Southeastern states today have the lowest per capita
 incomes in the U.S., and nine of the twelve Southeastern states are
 among the bottom thirteen in manufacturing wages, averaging less than
 $8 per hour. The range in these states extends from $7.97 in Alabama
 to the national low of $6.95 per hour in Mississippi.</p>
-            <p>The Southeast region can rank high in job growth, and yet rank low
+            <p id="sc08-4_1019">The Southeast region can rank high in job growth, and yet rank low
 in wages and income, because in eight of the Southeastern states, more
 than 40 percent of the manufacturing jobs are in low-wage industries
 (those with national average wages of less than $8 per hour). These
 include lumber and wood products, furniture and fixtures, food and
 related products, textiles and apparel, rubber and plastics, leather
 and tanning, and miscellaneous manufacturing jobs.</p>
-            <p>Not surprisingly, the eight states with the least worker protection
+            <p id="sc08-4_1020">Not surprisingly, the eight states with the least worker protection
 are in the Southeast. When it comes to state statutes and labor
 department policies governing the workplace, protecting workers'
 rights and safety, and providing compensation for disability and
@@ -201,37 +218,38 @@ per week--are in the Southeast. In the nation's twelve worst states,
 the weekly unemployment benefit is $140 or less. Eight of these twelve
 are in the Southeast. At the bottom in the South and in the country is
 Mississippi ($105).</p>
-            <p>Until recently, blacks and women have been 
-<pb n="4"/>
+            <p id="sc08-4_1022">Until recently, blacks and women have been 
+<pb id="sc08-4_1021" n="4"/>
 excluded from
 traditionally white male occupations: officials/administrators,
 professionals, technicians, and craft workers. Southeastern states
 rank on the bottom in the percent of working blacks and women employed
 in these jobs.</p>
-            <p>Findings related to the quality of life in the states also echo
+            <p id="sc08-4_1023">Findings related to the quality of life in the states also echo
 some historically familiar refrains.</p>
-            <p>* The Northeastern states report the lowest rates of poverty,
+            <p id="sc08-4_1024">* The Northeastern states report the lowest rates of poverty,
 ranging from 8 percent in Connecticut to 13 percent in New York.</p>
-            <p>* The Southeast remains the nation's poorest region and Mississippi
+            <p id="sc08-4_1025">* The Southeast remains the nation's poorest region and Mississippi
 (with 24 percent of its population impoverished) ranks at the bottom
 of the South.</p>
-            <p>* Blacks are most likely to be poor in the Southeast. The nine
+            <p id="sc08-4_1026">* Blacks are most likely to be poor in the Southeast. The nine
 states with the highest proportions of black poor are in the
 Southeast. Rates of poverty for blacks in the South range from
 Virginia's 25 percent to Mississippi's 44 percent (highest in the
 nation).</p>
-            <p>* A baby is less likely to survive its first year of life in the
+            <p id="sc08-4_1027">* A baby is less likely to survive its first year of life in the
 Southeast. The two states with the worst infant mortality rates--over
 fifteen deaths for every one thousand successful births--are
 Mississippi and South Carolina. The eleven worst states, all with
 death rates of thirteen or higher, include six more states from the
 Southeast.</p>
-            <p>These and other study results are detailed in this report.</p>
-          </div3><div3 id="sc08-3005" type="Section">
+            <p id="sc08-4_1028">These and other study results are detailed in this report.</p>
+          </div3>
+          <div3 id="sc08-4_sc08-3005" type="Section">
             <head>FINDINGS:</head>
             <div4 id="sc08-3006" type="Part">
               <head>Jobs and Income</head>
-              <p>The relationship between job growth and personal income is perhaps
+              <p id="sc08-4_1029">The relationship between job growth and personal income is perhaps
 the best of all signs of the economic health of a state, addressing
 work opportunity as it increases or decreases over time, and the
 degree to which those jobs provide workers with an adequate standard
@@ -243,38 +261,38 @@ income we looked at the same three time periods: "long term" change
 during the ten years from 1975 to 1984; "short term" change from 1980
 to 1984, and the most recent one year period for which data is
 available, from 1984 to 1985.</note></p>
-              <p>
+              <p id="sc08-4_1030">
                 <hi rend="bold">
                   <hi rend="italic">Employment Change</hi>
                 </hi>
               </p>
-              <p>
+              <p id="sc08-4_1031">
                 <hi rend="bold">Top Five States</hi>
               </p>
-              <p>During the ten-year period from 1975 to 1984, three states gained
+              <p id="sc08-4_1033">During the ten-year period from 1975 to 1984, three states gained
 more than one million jobs: 2.7 million in California; 2 million in
 Texas; and 1.5 million in Florida. Other top ten states gained over
 450,000 employees: New York, New Jersey, Georgia, North Carolina,
-<pb n="5"/>
+<pb id="sc08-4_1032" n="5"/>
 Virginia, Massachusetts, and Arizona.</p>
-              <p>Based on the index and ranking system, the five states with the
+              <p id="sc08-4_1034">Based on the index and ranking system, the five states with the
 highest level of job growth over the long-term period (1975-1984) were
 California, Texas, Florida, New York, and Georgia. During these ten
 years, 17.4 million new jobs were created in the United States. Of
 this number, 7.6 million or 43.5 percent were created in the top five
 states (see Table I, next page).</p>
-              <p>For the intermediate length period (1980-1984), the same five
+              <p id="sc08-4_1035">For the intermediate length period (1980-1984), the same five
 states were again the top job growth performers, this time accounting
 for 2.6 million or 65 percent of the 3.9 million new jobs in the
 United States.</p>
-              <p>Analysis of the short-term period (1984-1985) shows that
+              <p id="sc08-4_1036">Analysis of the short-term period (1984-1985) shows that
 California, Florida, Texas and New York retained positions in the top
 five states in producing new jobs. Michigan rebounded from the loss of
 100,000 jobs and 48th ranking for the 1980-1984 period to edge out
 Georgia for the number five position. Over the short term, 2.75
 million new jobs were created and 40 percent were created in the top
 five states.</p>
-              <p>The economies of these top five states are similar. In the 1970s,
+              <p id="sc08-4_1037">The economies of these top five states are similar. In the 1970s,
 the national economy was dominated by manufacturing, as were the
 economies of the top five job creation states. In the 1980s, the rate
 of job growth in the manufacturing sector has been steadily declining
@@ -285,7 +303,7 @@ jobs. The intermediate period (1980-1984) saw only a one percent
 increase in manufacturing jobs (56,800), but a 22 percent increase in
 the service sector (1,331,900 new jobs) for the top five I performers
 in job growth.</p>
-              <p>The economy of the Deep South state of Georgia, like other Southern
+              <p id="sc08-4_1038">The economy of the Deep South state of Georgia, like other Southern
 states, continues to be dominated by the apparel and textiles
 industries. The service sector, which still ranks third behind trade
 and manufacturing, accounted for 29 percent of the job growth in the
@@ -294,14 +312,14 @@ three primary sectors and 30.6 percent of the total job growth for the
 jobs in the manufacturing sector; however, the rate of job growth in
 manufacturing declined (7.39 percent of total job growth) in the state
 for the 1980-1984 period.</p>
-              <p>A much clearer picture of the similarities in the economies of the
+              <p id="sc08-4_1039">A much clearer picture of the similarities in the economies of the
 top five job producing states and the U.S. economy can be seen through
 a comparison over the 1980-1984 period. The U.S. experienced a very
 slight increase in jobs (4.14 percent) as it moved from an employment
 base of 90.4 million in 1980 to 94.2 million in 1984. The increase in
 the number of service sector jobs was almost three-fourths of the net
 increase in jobs in the U.S. for these five years.</p>
-              <p>In 1980, the three leading industry sectors for job growth in the
+              <p id="sc08-4_1040">In 1980, the three leading industry sectors for job growth in the
 U.S. economy were manufacturing, services and retail
 trade. Manufacturing accounted for 22.4 percent of the total jobs,
 services for 19.8 percent, and retail trade for 16.6 percent. These
@@ -312,54 +330,54 @@ at 21 percent and retail was third at 17.3 percent. Over the five-year
 period, this represented a 3.4 percent decrease in manufacturing jobs,
 an 8.1 percent increase in retail jobs, and a 15.5 percent increase in
 jobs in the service sector.</p>
-              <p>In comparing job growth in the top five states to the U.S. job
+              <p id="sc08-4_1041">In comparing job growth in the top five states to the U.S. job
 growth performance for the 19801984 period in the manufacturing,
 trade, and service sectors, the decline in manufacturing is seen in
 all of the top five states. Indeed, there has been a loss of jobs in
 this sector in New York and Texas and only modest increases in
 California (2 percent) and Georgia (6 percent).</p>
-              <p>In all of the top five states, the service sector is producing jobs
+              <p id="sc08-4_1042">In all of the top five states, the service sector is producing jobs
 at an increasing rate (37 percent and 33 percent in Florida and
 Georgia, and 25 percent and 18 percent in Texas and California). The
 relatively low growth rate for service jobs in New York is somewhat
 misleading since that has long been the dominant sector in its
 economy.</p>
-              <p>The net effect over the five-year period in the top five states was
+              <p id="sc08-4_1043">The net effect over the five-year period in the top five states was
 a 1.9 percent decrease in manufacturing jobs and a 43.5 percent
 increase in service sector jobs (see Table I).</p>
-              <p>
+              <p id="sc08-4_1044">
                 <hi rend="bold">Bottom Five States</hi>
               </p>
-              <p>In ranking states according to job growth, the top five states
+              <p id="sc08-4_1045">In ranking states according to job growth, the top five states
 performed consistently. The bottom five states, however, had no
 discernible job growth patterns over the long, intermediate, and
 short-term time periods.</p>
-              <p>From 1975-1984, the bottom five states in job growth were North
+              <p id="sc08-4_1046">From 1975-1984, the bottom five states in job growth were North
 Dakota, Montana, South Dakota, District of Columbia, and West
 Virginia. During the 1975-1984 period, these five states added only
 183,000 new jobs, representing 1.05 percent of total job growth in the
 U.S. for the period.</p>
-              <p>The states in the bottom five for the 1980-1984 period; by rank,
+              <p id="sc08-4_1047">The states in the bottom five for the 1980-1984 period; by rank,
 were West Virginia, Michigan, Pennsylvania, Ohio and Illinois. Job
 growth was negative for these states, with a loss of 599,000 jobs, a
 decline-of 15.3 percent.</p>
-              <p>For the short-term period (1984-1985), the bottom five job growth
+              <p id="sc08-4_1048">For the short-term period (1984-1985), the bottom five job growth
 states were Oklahoma, West Virginia, North Dakota, Montana and
 Louisiana. The job loss total for this period was 8,700, a decline of
 0.3 percent.</p>
-              <p>For the intermediate period (1980-1984), the manufacturing sector
+              <p id="sc08-4_1049">For the intermediate period (1980-1984), the manufacturing sector
 lost 673,600 jobs in these five states while services added
 375,400. In every state, however, the increase in services was
 insufficient to keep the net job growth from being negative.</p>
-              <p>In Table II, the percentage of jobs in manufacturing, wholesale and
+              <p id="sc08-4_1050">In Table II, the percentage of jobs in manufacturing, wholesale and
 retail trade, and services are shown in 1980 and 1984 for the bottom
 five states. In 1980 manufacturing is clearly the dominant job sector
 in all except West Virginia. In 1984, manufacturing is still dominant
 in Michigan and Ohio, though less so. In every bottom five state, the
 percentage of services jobs i had increased.</p>
-              <p>Each of the bottom five states experienced job loss): levels
+              <p id="sc08-4_1052">Each of the bottom five states experienced job loss): levels
 significantly worse than the U.S. as a whole dur-
-<pb n="6"/>
+<pb id="sc08-4_1051" n="6"/>
 ing this
 period. Indeed, as a group they account for 36 percent of the
 U.S. total loss of 1,864,207 jobs. On an individual state basis, this
@@ -367,16 +385,16 @@ represented a loss of 257,200 jobs or -5.3 percent for Illinois;
 Michigan declined by 93,400 jobs (-2.91 percent); Ohio lost 126,300
 jobs (-2.89 percent); Pennsylvania lost 128,000 jobs (-2.67 percent);
 and West Virginia lost 62,700 jobs (-9.71 percent).</p>
-              <p>
+              <p id="sc08-4_1053">
                 <hi rend="bold">The Southeast</hi>
               </p>
-              <p>Despite its overall bottom national rank in <title>The Climate for
+              <p id="sc08-4_1054">Despite its overall bottom national rank in <title>The Climate for
 U.S. Workers</title>, employment change is one category where the
 Southeastern United States did exceedingly well. In fact, for each of
 the three time periods surveyed, the Southeast ranked number one as a
 region in job growth, both in absolute numbers and percentage
 change.</p>
-              <p>Between 1975 and 1984, the Southeast gained 5.2 million jobs, a 32
+              <p id="sc08-4_1055">Between 1975 and 1984, the Southeast gained 5.2 million jobs, a 32
 percent increase over the ten years. Florida had the largest gain,
 58.9 percent, while the smallest gain was made by West Virginia at
 1.48 percent. After Kentucky's modest gain of almost 15 percent, the
@@ -385,7 +403,7 @@ states in the region had employment increases greater than 500,000,
 and seven states gained between 100,000 and 300,000 jobs. West
 Virginia was the only state gaining less than 30,000 jobs for the ten
 years.</p>
-              <p>When examined by sectors of the Southeast's economy, job growth
+              <p id="sc08-4_1056">When examined by sectors of the Southeast's economy, job growth
 shows greater variation,withl3.5 million jobs, or 63 percent of the
 total employment in 1984, in manufacturing, retail and services. The
 1984 employment was distributed relatively evenly among the three
@@ -393,22 +411,22 @@ sectors in absolute and percentage terms. Manufacturing was second in
 relation to the three leading sectors, encompassing 33 percent of the
 employment in the three sectors, and 21 percent of the total for all
 sectors.</p>
-              <p>
+              <p id="sc08-4_1057">
                 <hi rend="bold">
                   <hi rend="italic">Income Change</hi>
                 </hi>
               </p>
-              <p>
+              <p id="sc08-4_1058">
                 <hi rend="bold">The Southeast</hi>
               </p>
-              <p>The substantial and sustained performance of the Southeast in job
+              <p id="sc08-4_1059">The substantial and sustained performance of the Southeast in job
 growth is undercut by its personal income statistics. Here, the region
 is at the bottom of the scale (see Table III).</p>
-              <p>In 1985, personal income per capita for the region was $11,169,
+              <p id="sc08-4_1060">In 1985, personal income per capita for the region was $11,169,
 last among all regions of the nation. When measured in absolute change
 for 1984-1985, the region does only slightly better, moving from the
 bottom rank of eighth to seventh, an absolute change of $537.</p>
-              <p>During the 1975-1984 period, personal income per capita for the
+              <p id="sc08-4_1061">During the 1975-1984 period, personal income per capita for the
 Southeast more than doubled, gaining $6,114, a 121 percent
 increase. Over the ten-year period, however, the region does not climb
 from its bottom rank. In fact, the picture is even bleaker. Among the
@@ -418,22 +436,22 @@ in personal income per capita. Only Virginia, (number 11) and Florida
 states from the regional pattern is perhaps because, unlike most
 Southern states, Virginia and Florida have the largest share of their
 jobs in trade, government and services, not manufacturing.</p>
-              <p>The performance of the Southeast during 1980-1984 was a slight
+              <p id="sc08-4_1062">The performance of the Southeast during 1980-1984 was a slight
 improvement. For this period, the region had an absolute gain in
 personal income of $3,020 and a regional rank of five (out of
 nine). This represented a 37 percent gain, exceeded only by New
 England at 44 percent and the Mideast at 38 percent. As mentioned
 earlier, however, this rate of growth was insufficient to move the
 region's personal income off the bottom of the scale at $11,168.</p>
-              <p>Analysts and state development officials have long argued that
+              <p id="sc08-4_1064">Analysts and state development officials have long argued that
 industry is attracted to the South by its low wages and low
 income. Certainly this correlation appears 
-<pb n="7"/>
+<pb id="sc08-4_1063" n="7"/>
 to hold for the ten years
 between 1975-1984 (see Table III), when the region ranked number one
 in job growth, eighth in personal income and seventh in hourly wages
 for production workers in manufacturing.</p>
-              <p>As Table III reveals, however, this relationship does not hold true
+              <p id="sc08-4_1065">As Table III reveals, however, this relationship does not hold true
 for all regions of the country. For example, the Far West region is
 ranked number two in job growth and number three in personal
 income. With a rank of four in wages, there is a correlation between
@@ -441,14 +459,14 @@ wages and income. Another example at the other end of the employment
 change scale is the Rocky Mountain region, which is eighth in job
 growth and seventh in personal income, yet comes in second among the
 regions in wage growth.</p>
-              <p>These variations are perhaps attributable to the job mix in each
+              <p id="sc08-4_1066">These variations are perhaps attributable to the job mix in each
 region's economy and, to a much larger degree, the incidence of
 low-wage manufacturing as a percent of the job total. For example, in
 the Far West, low-wage manufacturing represents 26 percent of the
 employment total, and in the Rocky Mountain region, 29 percent. In the
 Southeast, however, almost half (42 percent) of all jobs are
 classified as low-wage manufacturing for the ten-year period.</p>
-              <p>In the final analysis, the significant job growth in the Southeast
+              <p id="sc08-4_1067">In the final analysis, the significant job growth in the Southeast
 region, due in large measure to its reliance upon an industries with
 jobs at the lower end of the wage scale, has not led to an adequate
 standard of living for a sizeable portion of its population. More
@@ -459,11 +477,11 @@ poverty level. Indeed, the Southeast ranked worst of all regions when
 measured in terms of the incidence of working poor as well as income
 distribution, i.e., the proportion of families earning less than an
 adequate income.</p>
-              <p>
+              <p id="sc08-4_1068">
                 <hi rend="bold">The Nation: Low-Wage Jobs, the Working Poor, Unemployment,
 and Incidence of Low-Wage Manufacturing</hi>
               </p>
-              <p>One way to understand differences between states in wages and
+              <p id="sc08-4_1069">One way to understand differences between states in wages and
 income is to look at the number of low-wage jobs in the state
 economy. Low-wage industries--those with national average wages of
 less than $8 per hour--include lumber and wood products, furniture and
@@ -473,7 +491,7 @@ jobs. We looked at these low-wage jobs as a percent of all the
 manufacturing jobs in each state in 1982, and the results show why the
 Southeast can rank high in job growth and yet low in wages and
 income.</p>
-              <p>Only four of the twelve Southeastern states have less than 40
+              <p id="sc08-4_1070">Only four of the twelve Southeastern states have less than 40
 percent low-wage jobs (Kentucky, West Virginia, Louisiana and
 Florida). The other eight range from 40 percent in Virginia to 62
 percent low-wage jobs in North Carolina. Also at the bottom in this
@@ -482,7 +500,7 @@ in the Rocky Mountain region. Only the two Pacific states have a
 greater dependence on low-wage jobs: Hawaii with 66 percent; and
 Alaska with 77 percent of its manufacturing jobs in low-wage
 industries.</p>
-              <p>Jobs in these low-wage industry groups are too few to be counted by
+              <p id="sc08-4_1071">Jobs in these low-wage industry groups are too few to be counted by
 our source, the Bureau of Labor Statistics, in the Plains states of
 North Dakota and South Dakota and the Rocky Mountain state of
 Wyoming. The remaining seven states in the top ten--those having less
@@ -492,12 +510,12 @@ Southeastern state of West Virginia. Included in this top group are
 Nevada in the Far West, Arizona in the Southwest, Michigan in the
 Great Lakes, Kansas in the Plains, and Utah in the rocky Mountain
 Region.</p>
-              <p>
+              <p id="sc08-4_1072">
                 <hi rend="bold">
                   <hi rend="italic">Incidence of Working Poor</hi>
                 </hi>
               </p>
-              <p>Due in large part to the shift from manufacturing to services jobs
+              <p id="sc08-4_1073">Due in large part to the shift from manufacturing to services jobs
 and to the inadequacy of the minimum wage, more and more people work
 full-time year-round and still have income below the poverty
 level. These are the working poor, and they are measured here as a
@@ -505,11 +523,11 @@ percent of all householders who worked in 1979. Only three regions are
 represented in the ten states with the lowest proportion of working
 poor: New England with three states, the Mideast with four states, and
 the Great Lakes with three states.</p>
-              <p>States with less than 4 percent working poor are Connecticut,
+              <p id="sc08-4_1074">States with less than 4 percent working poor are Connecticut,
 Massachusetts, New York, and New Jersey. States with 4 to 4.5 percent
 working poor are Maryland, Pennsylvania, Michigan, Wisconsin,
 Illinois, and New Hampshire.</p>
-              <p>A person is much more likely to be poor despite working if they
+              <p id="sc08-4_1075">A person is much more likely to be poor despite working if they
 live in the Southeast: of the ten worst states, eight are in the
 Southeast. These range from Tennessee, with 8.2 percent of its workers
 below poverty level, to Mississippi, with 12.7 percent, the highest
@@ -518,21 +536,21 @@ Southeast at the bottom in this category are New Mexico and South
 Dakota. The only Southeastern states with lower percentages of working
 poor are North Carolina (7.7 percent), West Virginia (7.2 percent),
 Florida (7.1 percent), and Virginia (5.8 percent).</p>
-              <p>
+              <p id="sc08-4_1076">
                 <hi rend="bold">
                   <hi rend="italic">Unemployment Rates</hi>
                 </hi>
               </p>
-              <p>There is considerably more controversy about the accuracy of
+              <p id="sc08-4_1078">There is considerably more controversy about the accuracy of
 measures of joblessness and the connection between unemployment and
 economic hardship. It is generally conceded that the rate of long-term
 unemployed, if considered separately, would be lower; and 
-<pb n="8"/>
+<pb id="sc08-4_1077" n="8"/>
 that the
 rate for short-term unemployment would be considerably higher if there
 were more adequate measurement of economic distress in rural areas and
 of blacks and many other urban residents.</p>
-              <p>Unemployment compensation, for example, is often used to supplement
+              <p id="sc08-4_1079">Unemployment compensation, for example, is often used to supplement
 survey information in determining rates, yet many rural people
 traditionally do not apply for unemployment, and many are not eligible
 in the first place. Further, since labor on a family farm is counted
@@ -541,7 +559,7 @@ not be reflected in the statistics. In urban areas the count misses
 many in distress--black youth and black men, the homeless, migrant
 workers and illegal immigrants--who distrust the system and evade
 attempts to measure them.</p>
-              <p>The unemployment rate ignores the underground economy, unemployment
+              <p id="sc08-4_1080">The unemployment rate ignores the underground economy, unemployment
 compensation and multiple incomes within the same family. Yet it also
 misses the many people who work full-time at low incomes--an issue we
 discuss in connection with low-wage jobs and the working poor. The
@@ -552,21 +570,21 @@ full-time jobs are not available. The discouraged worker is not
 counted in the survey at all; the part-time worker is counted as
 employed. We must recognize, then, that the unemployment rates we
 discuss are but indications of the true depth of economic distress.</p>
-              <p>We looked at the percent of the civilian labor force that was
+              <p id="sc08-4_1081">We looked at the percent of the civilian labor force that was
 unemployed for both 1984 and 1985, and the percent of the youth labor
 force that was unemployed for 1984.</p>
-              <p>Unemployment rates for 1984 for the civilian labor force varied
+              <p id="sc08-4_1082">Unemployment rates for 1984 for the civilian labor force varied
 from a low of 4.3 percent in South Dakota to the national high of 15.0
 percent in West Virginia. For youth the lowest rate was 9.1 percent,
 also in South Dakota; the highest was in Mississippi at 32.7
 percent.</p>
-              <p>Looking at civilian unemployment alone for 1984, the rates were
+              <p id="sc08-4_1083">Looking at civilian unemployment alone for 1984, the rates were
 lowest in the six states with 5 percent or less of their labor force
 without a job: South Dakota, Nebraska, New Hampshire, Connecticut,
 Massachusetts, Virginia, and Arizona. Six states had double-digit
 rates: Alaska in the Pacific; Louisiana, Mississippi, Alabama and West
 Virginia in the Southeast; and Michigan in the Great Lakes region.</p>
-              <p>Youth unemployment, on the other hand, was at double-digit rates in
+              <p id="sc08-4_1084">Youth unemployment, on the other hand, was at double-digit rates in
 1984 in all but three states: South Dakota (9.1 percent unemployment);
 New Hampshire (9.6 percent); and Massachusetts (9.6 percent). The five
 worst states for young workers that year were all in the Southeast. In
@@ -574,23 +592,23 @@ Mississippi youth unemployment was higher than 30 percent; in four
 other Southeastern states the rate exceeded 25 percent: Tennessee
 (25.8 percent); West Virginia (28.3 percent); and Alabama (29.5
 percent.)</p>
-              <p>For the civilian labor force in 1985 unemployment rates ranged from
+              <p id="sc08-4_1085">For the civilian labor force in 1985 unemployment rates ranged from
 a low of 3.9 percent in Massachusetts to a high of 13.0 percent in
 West Virginia. Of the seven states with rates below 5.0 percent, five
 are in New England: Massachusetts, New Hampshire, Vermont, Connecticut
 and Rhode Island. Maryland is in the Mideast; and the lone state
 outside the northeastern U.S. in the top group is the Plains state of
 Kansas.</p>
-              <p>Unemployment was worst in the three states with rates exceeding 10
+              <p id="sc08-4_1087">Unemployment was worst in the three states with rates exceeding 10
 percent, all in the Southeast: 
-<pb n="9"/>
+<pb id="sc08-4_1086" n="9"/>
 Mississippi (10.3 percent); Lousiana
 (11.5 percent); and West Virginia, which once again had the highest
 unemployment rate in the country (13.0 percent). Rounding out the
 bottom seven, the four other states with unemployment rates at 9.0
 percent or higher were Illinois, Michigan, Alaska, and Kentucky,
 another Southeastern state.</p>
-              <p>Sharp regional differences emerge when we look at the change in the
+              <p id="sc08-4_1088">Sharp regional differences emerge when we look at the change in the
 unemployment rates from 1984 to 1985. Of the seventeen states from New
 England to the Mideast and across to the Great Lakes region, only
 Connecticut had an increase in unemployment (0.3%). On the opposite
@@ -600,21 +618,21 @@ states in the Southwest and four of five states in the Rocky Mountain
 region unemployment grew worse. There were similar increases from 1984
 to 1985 in four of seven Plains states and four of the twelve states
 in the Southeast.</p>
-              <p>
+              <p id="sc08-4_1089">
                 <hi rend="bold">
                   <hi rend="italic">Measures of Income</hi>
                 </hi>
               </p>
-              <p>
+              <p id="sc08-4_1090">
                 <hi rend="bold">Change in Personal Income</hi>
               </p>
-              <p>Personal income figures tell how well the people of a state have
+              <p id="sc08-4_1091">Personal income figures tell how well the people of a state have
 actually benefited from its jobs--whether those jobs provide workers
 with an adequate standard of living. We looked at each state's long-
 and short-term change in personal income per capita--the actual dollar
 amount gained--over the same periods we used to examine job growth:
 1975 to 1984; 1980 to 1984; and 1984 to 1985.</p>
-              <p>During the most recent period, income rose over $1,000 in four
+              <p id="sc08-4_1092">During the most recent period, income rose over $1,000 in four
 states. The greatest increase&#x2014;$1,127&#x2014; was in Nebraska, followed
 by Connecticut with $1,080, the District of Columbia with $1,039, and
 Massachusetts with $1,035 gained. New Jersey, New Hampshire and
@@ -624,7 +642,7 @@ Minnesota--had increases over $800. The greatest gains, then, occurred
 in the northeastern part of the nation: three of the top ten states
 are in New England and four are in the Mideast, while two are Plains
 states and one is in the Southeast.</p>
-              <p>The bottom fourteen states showed gains of less than $500 in
+              <p id="sc08-4_1093">The bottom fourteen states showed gains of less than $500 in
 personal income per capita over the 1984-85 period. Seven of the
 twelve Southeastern states make up half of this group: North Carolina
 ($462), Arkansas ($446), West Virginia ($404), South Carolina ($403),
@@ -635,19 +653,19 @@ Utah ($451), and Montana ($121); South Dakota ($303) in the Plains;
 and Alaska ($206) in the Pacific. Montana is the only state with a
 gain for the year of less than $200; Alaska and Louisiana are next to
 last.</p>
-              <p>The dollar change in personal income per capita for the preceding
+              <p id="sc08-4_1094">The dollar change in personal income per capita for the preceding
 five years, from 1980 to 1984, was greatest in eight states showing
 gains over $4,000. Connecticut topped the nation with an increase of
 $4,988, followed by the District of Columbia and Massachusetts. Alaska
 in the Pacific region is the only state in the top eight not in the
 northeastern U.S.; the others are in New England or the Mideast
 region, including New Jersey, New Hampshire, New York and Maryland.</p>
-              <p>Dollar gains over the five-year period were less than $2,000 in
+              <p id="sc08-4_1095">Dollar gains over the five-year period were less than $2,000 in
 only two states, West Virginia and, lowest in the country, Wyoming
 with an increase of only $1,229. Eight other states in the bottom ten
 showed dollar gains less than $2,500: Nevada, Oregon, Louisiana,
 Mississippi, New Mexico, Montana, Idaho and Utah.</p>
-              <p>Over the ten-year period from 1975 to 1984, the largest long-term
+              <p id="sc08-4_1096">Over the ten-year period from 1975 to 1984, the largest long-term
 dollar gains in personal income per capita were in the top eleven
 states. In two of these states the gains were over $9,000:
 Connecticut, with a ten-year income increase of $9,582, was followed
@@ -655,17 +673,17 @@ by the District of Columbia, with $9,118. In four states increases
 were greater than $8,000: Massachusetts, New Hampshire, New Jersey,
 and Alaska. The remaining five, where increases exceeded $7,500, are
 Maryland, New York, California, Colorado, and Virginia.</p>
-              <p>The smallest long-term increases in personal income occurred in the
+              <p id="sc08-4_1097">The smallest long-term increases in personal income occurred in the
 four states where gains were under $5,000: Idaho and Utah in the
 Rockies; and West Virginia and Mississippi--lowest in the nation--in
 the Southeast. Another five Southeastern states are among the eleven
 where dollar gains were lower than $5,500: South Carolina, Tennessee,
 Kentucky, Alabama and Arkansas. Also in this group are New Mexico in
 the Southwest and Montana in the Rocky Mountain region.</p>
-              <p>
+              <p id="sc08-4_1098">
                 <hi rend="bold">Income Distribution</hi>
               </p>
-              <p>We looked at median family income for 1979, the midpoint of our
+              <p id="sc08-4_1099">We looked at median family income for 1979, the midpoint of our
 period for long-term income change, and learned that families were
 struggling hardest to make ends meet in the Southeast. In ten of the
 twelve states in the region--excluding Virginia and Louisiana--over 70
@@ -674,7 +692,7 @@ bottom group are Montana, Idaho, Oklahoma, New Mexico, North Dakota,
 South Dakota, Vermont and Maine; in this category the proportion of
 families earning less than an adequate income ranges from 70.8 percent
 in Montana to the worst in the nation&#2014;79.6 percent&#x2014;in Arkansas.</p>
-              <p>No Southwestern or Southeastern state, however, is among the top
+              <p id="sc08-4_10100">No Southwestern or Southeastern state, however, is among the top
 ten, where less than 60 percent of working families earned under
 $25,000. The state with the lowest proportion is Alaska, with 43.6
 percent. The other Pacific state, Hawaii, is also in the top ten. In
@@ -683,19 +701,19 @@ Connecticut. Maryland and New Jersey from the Mideast, Illinois and
 Michigan from the Great Lakes, and Wyoming from the Rocky Mountain
 region are also among the top states with the lowest proportion of
 families earning less than $25,000 in 1979.</p>
-              <p>
+              <p id="sc08-4_10101">
                 <hi rend="bold">Average Annual Pay</hi>
               </p>
-              <p>Average annual salaries of most workers in 1983, the midpoint of
+              <p id="sc08-4_10103">Average annual salaries of most workers in 1983, the midpoint of
 our time frame for short-term income change, were examined to fill out
 the national income picture. The eight states where annual pay was
 less than $15,000 include four from the Southeast: North Carolina,
 South Carolina, Arkansas, and Mississippi. Also at the 
-<pb n="10"/>
+<pb id="sc08-4_10102" n="10"/>
 bottom in this
 category are Vermont and Maine from New England, and Nebraska and
 South Dakota from the Plains states.</p>
-              <p>The twelve states where workers made the most in 1983 include no
+              <p id="sc08-4_10104">The twelve states where workers made the most in 1983 include no
 Southeastern state and only one-Texas--from the Southwest. Again
 Alaska tops the nation, paying an average $23,844. The other ten
 states in the top twelve averaged annual pay between $18,000 and
@@ -705,10 +723,10 @@ Michigan and Illinois, and from the Far West, California and
 Washington. One state in each of three other regions averaged over
 $18,000 in 1983: Connecticut in New England; Texas in the Southwest;
 and Colorado in the Rocky Mountain region.</p>
-              <p>
+              <p id="sc08-4_10105">
                 <hi rend="bold">Cost of Living</hi>
               </p>
-              <p>Income does not always keep pace with the cost of living,
+              <p id="sc08-4_10106">Income does not always keep pace with the cost of living,
 however. In the second quarter of 1985, the American Chamber of
 Commerce Researchers Association (ACCRA) measured the cost of living
 for the largest available city in 45 states. These measures and the
@@ -719,7 +737,7 @@ relatively higher cost of living. The nine measured cities with a cost
 of living higher than the national average (indexed by ACCRA at 100)
 are topped by Anchorage, Alas., at 139.2, followed by New York City at
 137.3, and the Newark, N.J., metro area at 122.7.</p>
-              <p>Lower wages, on the other hand, are not always accompanied by a
+              <p id="sc08-4_10107">Lower wages, on the other hand, are not always accompanied by a
 lower cost of living. Of the twelve Southeastern cities measured, five
 are higher than the national average and seven are lower. The fifteen
 cities with a cost of living lower than the national average are led
@@ -729,10 +747,10 @@ measured cities in the region with a cost of living higher than the
 national average are Birmingham, Ala.; Columbia, S.C.; Jacksonville,
 Fla.; and Hampton Roads, Va., which includes the metro area
 encompassing Norfolk, Virginia Beach and Newport News.</p>
-              <p>
+              <p id="sc08-4_10108">
                 <hi rend="bold">Wages of Manufacturing Workers</hi>
               </p>
-              <p>To discover state and regional differences in manufacturing wages,
+              <p id="sc08-4_10110">To discover state and regional differences in manufacturing wages,
 we looked at average hourly earnings of production workers in 1984,
 the starting point of our one-year period for income change. Nine of
 the twelve Southeastern states--excluding Louisiana, West Virginia and
@@ -743,9 +761,9 @@ wage is from $7.97 in Alabama to the national low of $6.95 per hour in
 Mississippi. Joining the Southeast at the bottom in this category are
 Maine, Vermont, New Hampshire and Rhode Island from New England; New
 Mexico from the Southwest; and North Dakota and South Dakota from the
-<pb n="11"/>
+<pb id="sc08-4_10109" n="11"/>
 Plains region.</p>
-              <p>The top eleven states--where production workers in manufacturing
+              <p id="sc08-4_10111">The top eleven states--where production workers in manufacturing
 averaged over $10 per hour in 1984--include no Southwestern state and
 only Louisiana from the Southeast. The range here is from the highest
 average hourly wage in the nation, $12.25 in the Pacific state of
@@ -754,10 +772,10 @@ top eleven from the Great Lakes are Michigan, Ohio, Indiana and
 Illinois; the Rocky Mountain state of Montana; Oregon from the Far
 West, Iowa among the Plains states, and from the Mideast region, the
 District of Columbia.</p>
-              <p>
+              <p id="sc08-4_10112">
                 <hi rend="bold">Wage Growth 1980-1984</hi>
               </p>
-              <p>There are also differences between states in changes in pay over
+              <p id="sc08-4_10113">There are also differences between states in changes in pay over
 time. We looked at the gain in average hourly wages of production
 workers in manufacturing from 1980 to 1984, the same time frame for
 our examination of short-term income change. Only production workers
@@ -766,7 +784,7 @@ sixty-five cents gain over the entire five-year period. Other states
 where workers gained less than $1.50 are North Dakota ($1.30), Nevada
 ($1.40), and Alabama ($1.48). Rounding out the bottom ten are
 Mississippi, Arkansas, Iowa, Nebraska, Colorado, and Hawaii.</p>
-              <p>Production workers in manufacturing gained more than $2.50 per hour
+              <p id="sc08-4_10114">Production workers in manufacturing gained more than $2.50 per hour
 from 1980 to 1984 in only one state, Michigan, where wages increased
 by $2.66. Other states where workers gained more than $2.25 are Ohio
 ($2.39), Louisiana ($2.32), and Oklahoma ($2.28). Additional states
@@ -776,12 +794,12 @@ Maine, California, Illinois, and Alaska.</p>
             </div4>
             <div4 id="sc08-3007" type="Part">
               <head>Poverty</head>
-              <p>
+              <p id="sc08-4_10115">
                 <hi rend="bold">
                   <hi rend="italic">Persons in Poverty</hi>
                 </hi>
               </p>
-              <p>Six of the ten states with the largest proportion of poor people in
+              <p id="sc08-4_10116">Six of the ten states with the largest proportion of poor people in
 1979 are in the Southeast. All but one Southeastern
 state-Virginia--are in the bottom sixteen. These range from Florida
 with 13.5 percent poor persons to Mississippi with 23.9
@@ -789,16 +807,16 @@ percent. Joining the Southeast in the bottom ten are South Dakota,
 16.9 percent poor persons; New Mexico, 17.6 percent; and the District
 of Columbia, 18.6 percent. Texas,14.7 percent, joins the bottom
 sixteen.</p>
-              <p>Wyoming has the lowest proportion of poor, 7.9 percent. Other
+              <p id="sc08-4_10117">Wyoming has the lowest proportion of poor, 7.9 percent. Other
 states in the top ten--with less than 10 percent poor in their
 populations--are Connecticut, New Hampshire, Massachusetts, Wisconsin,
 Indiana, Nevada, Washington, New Jersey, Maryland, end Minnesota.</p>
-              <p>
+              <p id="sc08-4_10118">
                 <hi rend="bold">
                   <hi rend="italic">Black Persons in Poverty</hi>
                 </hi>
               </p>
-              <p>In 1979, a black person was most likely to be poor in the
+              <p id="sc08-4_10119">In 1979, a black person was most likely to be poor in the
 Southeast: all of the nine states with the highest proportion of black
 poor persons are in the Southeast; ten of the eleven worst states are
 in the Southeast. The only state with a similarly high proportion of
@@ -807,7 +825,7 @@ percent in North Carolina to 44 percent of the black population living
 in poverty in Mississippi. The only Southeastern states not ranked
 near the bottom still have over a quarter black poor: Virginia (26
 percent), and West Virginia (27 percent).</p>
-              <p>The top ten states--where blacks are least likely to be poor--range
+              <p id="sc08-4_10120">The top ten states--where blacks are least likely to be poor--range
 from 21.3 percent in Idaho to 10.9 percent black poor in Alaska. Other
 states with the lowest proportion of the black population living below
 the poverty level are North and South Dakota in the Plains; Maine,
@@ -816,13 +834,13 @@ Nevada and Washington in the Far West.</p>
             </div4>
             <div4 id="sc08-3008" type="Part">
               <head>State Actions</head>
-              <p>
+              <p id="sc08-4_10121">
                 <hi rend="bold">
                   <hi rend="italic">Statutory Protection of
 Workers</hi>
                 </hi>
               </p>
-              <p>We examined the states to see how many of fourteen common state
+              <p id="sc08-4_10122">We examined the states to see how many of fourteen common state
 statutes protecting workers were in effect, and whether or not their
 provisions made them meaningful. State statutes are not counted if
 they do not meet certain criteria; for example, state
@@ -834,7 +852,7 @@ along with the table showing which statutes were in force in each
 state a8 of Summer 1985. These are not included here but are available
 with the full text of the report. See <hi rend="bold">Order Info, page
 2.</hi></note>
-              <p>Briefly, these are laws prohibiting sexual harassment, electronic
+              <p id="sc08-4_10123">Briefly, these are laws prohibiting sexual harassment, electronic
 surveillance, and discrimination on the basis of race, religion,
 color, sex or physical handicap; laws providing whistleblower
 protection, access to personnel files, maternity leave, and time off
@@ -843,26 +861,26 @@ for overtime, timely payment of wages, and equal pay by sex; and laws
 guaranteeing employees' right to know about exposure to hazardous
 materials on the job and to obtain information about their welfare
 fund.</p>
-              <p>The eight states with the least worker protection are all in the
+              <p id="sc08-4_10125">The eight states with the least worker protection are all in the
 Southeast. In Alabama and Mississippi, not one of the fourteen laws
 had been enacted; in South Carolina only one; in Virginia and
 Louisiana only two; in Tenn-
-<pb n="12"/>
+<pb id="sc08-4_10124" n="12"/>
 essee, Florida and North Carolina only
 three. The other two states in the bottom ten are the Plains states of
 Iowa and North Dakota.</p>
-              <p>The state which comes within one law of having all fourteen is
+              <p id="sc08-4_10126">The state which comes within one law of having all fourteen is
 California, which lacks only legislation prohibiting electronic
 surveillance. The other states in the top ten--those providing the
 most protection to workers through state statutes--are Connecticut,
 Rhode Island, Massachusetts, Illinois, Ohio, Alaska, West Virginia,
 Kentucky, and Maryland.</p>
-              <p>
+              <p id="sc08-4_10127">
                 <hi rend="bold">
                   <hi rend="italic">State Minimum Wages</hi>
                 </hi>
               </p>
-              <p>At the end of 1985--when the federal minimum wage, which has not
+              <p id="sc08-4_10128">At the end of 1985--when the federal minimum wage, which has not
 been adjusted for inflation since 1981, remained at $3.35--state
 minimum wages in non-farm employment ranged from a high of $3.90 in
 the District of Columbia to a low of $1.40 in Texas. That is among
@@ -871,7 +889,7 @@ workers; nine states have none at all, including six states in the
 Southeast: Alabama, Florida, Louisiana, Mississippi, South Carolina
 and Tennessee. Two of the bottom nine are Plains states, Iowa and
 Missouri; and one, Arizona, is in the Southwest.</p>
-              <p>Of the forty-two states with minimum wage statutes, twenty-two set
+              <p id="sc08-4_10129">Of the forty-two states with minimum wage statutes, twenty-two set
 a rate even lower than the federal minimum. There are many gaps and
 inconsistencies in coverage even where minimum standards do exist. For
 example, the state maximum of $3.10 in North Dakota affects only
@@ -880,19 +898,19 @@ for manufacturing workers is lower at $2.95, and for public
 housekeeping workers lower still at $2.80. In Utah the maximum of
 $2.75 applies only in the Salt Lake City area; elsewhere it is
 $2.50.</p>
-              <p>Three states besides the District of Columbia have a minimum wage
+              <p id="sc08-4_10130">Three states besides the District of Columbia have a minimum wage
 higher than the federal minimum: Alaska, Maine, and
 Connecticut. Sixteen states equal the federal minimum of $3.35:
 Hawaii, California, Maryland, New Jersey, New York, Pennsylvania,
 Michigan, Illinois, Massachusetts, New Hampshire, Rhode Island,
 Vemlont, Minnesota, New Mexico, Oklahoma, and North Carolina.</p>
-              <p>
+              <p id="sc08-4_10131">
                 <hi rend="bold">
                   <hi rend="italic">Maximum Benefits for
 Disability</hi>
                 </hi>
               </p>
-              <p>While all states provide disability benefits for job-related
+              <p id="sc08-4_10132">While all states provide disability benefits for job-related
 injury, there is considerable variation in the maximum weekly
 benefit. The maximum weekly benefit for permanent total disability of
 $1,114 in Alaska in the Pacific region was almost two times the next
@@ -900,75 +918,75 @@ highest payment, $580 in Iowa. The top nine states, which paid over
 $350 per week as of January, 1985, also included Illinois, Michigan,
 Ohio, Maine, New Hampshire, Connecticut, and the District of
 Columbia.</p>
-              <p>At the bottom of the benefit scale, five of the six states that pay
+              <p id="sc08-4_10133">At the bottom of the benefit scale, five of the six states that pay
 the least for permanent total disability--under $200 per week--are in
 the Southeast region: Alabama, Arkansas, Tennessee, Georgia and
 Mississippi. Indiana in the Great Lakes region is also in this
 group. Joining them in the bottom ten--where states pay less than $220
 per week for job-related injury--are the Plains state of Nebraska and
 three Southwestern states: Oklahoma, Arizona and Texas.</p>
-              <p>
+              <p id="sc08-4_10134">
                 <hi rend="bold">
                   <hi rend="italic">Maximum Unemployment Benefits</hi>
                 </hi>
               </p>
-              <p>As of January 1984, weekly unemployment benefits varied from a high
+              <p id="sc08-4_10135">As of January 1984, weekly unemployment benefits varied from a high
 in Massachusetts of $278 (where the range is from $185 to $278) to the
 national lows of $105 in Mississippi and Missouri. In nine states the
 top range of the weekly unemployment check exceeds $200:
 Massachusetts, Connecticut, Ohio, Illinois, Alaska, West Virginia,
 Louisiana, Pennsylvania, and the District of Columbia.</p>
-              <p>In the twelve worst states, the weekly unemployment benefit is $140
+              <p id="sc08-4_10136">In the twelve worst states, the weekly unemployment benefit is $140
 or less. Eight of these twelve are in the Southeast: Kentucky,
 Virginia, Arkansas, Georgia, Alabama, South Carolina, Tennessee, and
 Mississippi. The Plains states at the bottom are Missouri, Nebraska,
 and South Dakota; the lone Southwestern state is Arizona.</p>
-              <p>
+              <p id="sc08-4_10137">
                 <hi rend="bold">
                   <hi rend="italic">State Per Capita Expenditure</hi>
                 </hi>
               </p>
-              <p>One measure of a state's investment in its citizens is its per
+              <p id="sc08-4_10138">One measure of a state's investment in its citizens is its per
 capita expenditures--the money spent per person (based on 1980
 population) by state government in all categories. The eight states
 investing $1,500 or more per capita are led by Alaska ($2,548) and
 Wyoming ($2,132). Other states with high per capita expenditures are
 Hawaii, New Mexico, North Dakota, Minnesota, and Delaware.</p>
-              <p>Eight states spend less than $1,000 per capita: Ohio, Indiana,
+              <p id="sc08-4_10139">Eight states spend less than $1,000 per capita: Ohio, Indiana,
 Arkansas, Florida, Tennessee, Texas, New Hampshire, and Missouri,
 which spends the least, $807 per person.</p>
-              <p>
+              <p id="sc08-4_10140">
                 <hi rend="bold">
                   <hi rend="italic">State Aid to Schools</hi>
                 </hi>
               </p>
-              <p>As an indication of state investment in education, we looked at
+              <p id="sc08-4_10142">As an indication of state investment in education, we looked at
 state revenue contributions per elementary and secondary school pupil
 for the 1980-81 school year. This figure was chosen to reflect state
 effort because the more 
-<pb n="13"/>
+<pb id="sc08-4_10141" n="13"/>
 familiar measure, per pupil expenditures,
 includes federal and local funds. It should be noted, however, that in
 some states, by law, localities bear the heavier proportion of costs,
 and this is not reflected here.</p>
-              <p>State revenue contributions per pupil are lowest in New Hampshire
+              <p id="sc08-4_10143">State revenue contributions per pupil are lowest in New Hampshire
 ($143.04) and second lowest in Nebraska ($688.77) The other nine
 states contributing less than $1,000 per pupil are Mississippi,
 Arkansas, South Carolina, Tennessee, Rhode Island, Connecticut,
 Vermont, Missouri, and South Dakota.</p>
-              <p>The state contribution is highest in Alaska ($4,210.66), and second
+              <p id="sc08-4_10144">The state contribution is highest in Alaska ($4,210.66), and second
 highest in Washington ($2,366.89). Other states in the top ten, where
 revenue contributions per pupil exceed $1,500, are Hawaii, Delaware,
 New York, Georgia, Florida, Minnesota, California, and New Mexico.</p>
             </div4>
             <div4 id="sc08-3009" type="Part">
               <head>Hazardous Jobs</head>
-              <p>
+              <p id="sc08-4_10145">
                 <hi rend="bold">
                   <hi rend="italic">Job-Related Death Rates</hi>
                 </hi>
               </p>
-              <p>The two industry sectors with the highest job-related death rates
+              <p id="sc08-4_10146">The two industry sectors with the highest job-related death rates
 (excluding agriculture) are construction, with a death rate of 37 per
 1,000 workers from 1945 to 1983, and mining/quarrying, with a death
 rate for the same period of 50 per 1,000 workers. Employment in these
@@ -976,20 +994,20 @@ two hazardous job sectors is measured here as a percent of all
 nonagricultural employment in the states for 1982. Since this was a
 recession year, the figures are lower than would normally be the
 case.</p>
-              <p>The eight states with the lowest proportion of these jobs--3.5
+              <p id="sc08-4_10147">The eight states with the lowest proportion of these jobs--3.5
 percent or less--are the District of Columbia, New York, Wisconsin,
 Michigan, Rhode Island, Massachusetts, Connecticut, and Oregon.</p>
-              <p>The seven states with the greatest dependence on these jobs--in
+              <p id="sc08-4_10148">The seven states with the greatest dependence on these jobs--in
 excess of 10 percent of total employment--are Texas, New Mexico,
 Oklahoma, Alaska, Louisiana, West Virginia, and Wyoming, which at 25.6
 percent has a proportion of hazardous jobs almost twice as large as
 the second worst state, 14.6 percent in West Virginia.</p>
-              <p>
+              <p id="sc08-4_10149">
                 <hi rend="bold">
                   <hi rend="italic">Rates of Occupational Disease</hi>
                 </hi>
               </p>
-              <p>The U.S. Occupational Safety and Health Administration has
+              <p id="sc08-4_10150">The U.S. Occupational Safety and Health Administration has
 identified six industry groups (excluding agriculture) generally
 considered to have unusually high rates of occupational disease. These
 are jobs in mining, cotton weaving mills and other cotton products
@@ -998,11 +1016,11 @@ products, and leather and tanning. Here we are looking at employment
 in these groups as a percent of all nonagricultural employment in the
 states for 1982. Again, during this recession year, the figures are
 lower than normal.</p>
-              <p>The states with the lowest proportion of jobs having high rates of
+              <p id="sc08-4_10151">The states with the lowest proportion of jobs having high rates of
 occupational disease--less than one percent--are Oregon, Washington,
 and Nebraska. States with 1.5 percent or less of these jobs are South
 Dakota, Minnesota, Vermont, Maryland, and Florida.</p>
-              <p>The states with the most jobs having high occupational disease
+              <p id="sc08-4_10152">The states with the most jobs having high occupational disease
 rates--in excess of 10 percent of all nonagricultural jobs--are
 Delaware, West Virginia, and Wyoming. Other states with 7 percent or
 higher are Kentucky, South Carolina, Louisiana, New Hampshire, and
@@ -1010,23 +1028,23 @@ Oklahoma.</p>
             </div4>
             <div4 id="sc08-3010" type="Part">
               <head>Commuting Time</head>
-              <p>
+              <p id="sc08-4_10153">
                 <hi rend="bold">
                   <hi rend="italic">Travel Time to Work</hi>
                 </hi>
               </p>
-              <p>Time spent commuting to and from work is more than a measure of
+              <p id="sc08-4_10154">Time spent commuting to and from work is more than a measure of
 inconvenience, in this case, a one-way travel time of 45 minutes or
 more. It also reflects the geographic distribution of jobs within a
 state and the degree of job concentration in congested urban areas.</p>
-              <p>In the top ten states, less than 6 percent of all workers have a
+              <p id="sc08-4_10155">In the top ten states, less than 6 percent of all workers have a
 one-way commute of 45 minutes or more. This group is dominated by the
 Plains region: Nebraska, South Dakota, North Dakota, Iowa--all in the
 top five, with less than 5 percent of all workers--and Kansas. Also in
 the top five is the Rocky Mountain state of Montana. The remaining
 states in the top ten are Alaska, Wisconsin, Nevada, and Rhode
 Island.</p>
-              <p>Four of the worst five, where over 15 percent of all workers have a
+              <p id="sc08-4_10156">Four of the worst five, where over 15 percent of all workers have a
 one-way commute of 45 minutes or more, are in the Mideast: New York
 with 25.3 percent of all workers, the District of Columbia (21
 percent), Maryland (18 percent), and New Jersey (16 percent). Illinois
@@ -1035,32 +1053,32 @@ Louisiana, Virginia and West Virginia, Pennsylvania and California.</p>
             </div4>
             <div4 id="sc08-3011" type="Part">
               <head>Health Care</head>
-              <p>
+              <p id="sc08-4_10157">
                 <hi rend="bold">
                   <hi rend="italic">Number of Physicians</hi>
                 </hi>
               </p>
-              <p>As one indication of the availability of health care, we looked at
+              <p id="sc08-4_10159">As one indication of the availability of health care, we looked at
 the number of physicians per 100,000 people, based on the 1980
 population. The rate is highest in the District of Columbia, with 511
 physicians per 100,000. 
-<pb n="14"/>
+<pb id="sc08-4_10158" n="14"/>
 The top eight states in this category have a
 rate over 200 and except for California, all are in the Northeast:
 Maryland, New York, Massachusetts, Connecticut, Vermont and Rhode
 Island.</p>
-              <p>Six of the thirteen states with the fewest physicians are in the
+              <p id="sc08-4_10160">Six of the thirteen states with the fewest physicians are in the
 Southeast. Their rates range from 127 per 100,000 in West Virginia to
 Mississippi, where the rate is the lowest in the nation at 102. Other
 Southeastern states in the bottom thirteen are Kentucky, South
 Carolina, Alabama and Arkansas, joined by Indiana, Oklahoma, Iowa,
 South Dakota, Alaska, Wyoming, and Idaho.</p>
-              <p>
+              <p id="sc08-4_10161">
                 <hi rend="bold">
                   <hi rend="italic">Infant Mortality</hi>
                 </hi>
               </p>
-              <p>A telling indication of the quality of health care in a state is
+              <p id="sc08-4_10162">A telling indication of the quality of health care in a state is
 its infant mortality rate, the number of infant deaths before age one,
 per thousand live births. The two states with the worst infant
 mortality rates--over 15 deaths for every thousand births--are
@@ -1068,30 +1086,30 @@ Mississippi and South Carolina. The eleven worst states, all with
 death rates of 13 or higher, include West Virginia, Alabama, North
 Carolina, Florida, Louisiana and Georgia, and, from outside the
 Southeast, Michigan, Illinois, and Delaware.</p>
-              <p>A baby has its best chance of surviving its first year in Vermont,
+              <p id="sc08-4_10163">A baby has its best chance of surviving its first year in Vermont,
 with 7.7 infant deaths per thousand, and in nine other states with
 infant mortality rates of 10 or below: New Hampshire, Massachusetts,
 Idaho, Utah, Colorado, Nebraska, Iowa, Hawaii and New Mexico.</p>
             </div4>
             <div4 id="sc08-3012" type="Part">
               <head>Equal Employment</head>
-              <p>
+              <p id="sc08-4_10164">
                 <hi rend="bold">
                   <hi rend="italic">Traditionally White Male Jobs</hi>
                 </hi>
               </p>
-              <p>Until recently, blacks and women have been excluded from
+              <p id="sc08-4_10165">Until recently, blacks and women have been excluded from
 traditionally white male (TWM) occupations, which are defined here as
 officials/administrators, professionals, technicians, and craft
 workers. What is being measured here is the number of blacks and women
 who were employed in these jobs as a percent of all blacks and women
 who were employed in private industry in 1981. Black men, black women,
 and white women are ranked separately.</p>
-              <p>The six states with the highest proportion of working black women
+              <p id="sc08-4_10166">The six states with the highest proportion of working black women
 holding TWM jobs--over 20 percent--are Montana, Idaho, Washington,
 California, New Hampshire and Vermont. Vermont at 32 percent
 outdistances second place Idaho at 24 percent.</p>
-              <p>Ten of the fourteen states where black women are more likely to be
+              <p id="sc08-4_10167">Ten of the fourteen states where black women are more likely to be
 excluded from these occupations--less than 13 percent of working black
 women in TWM jobs--are in the Southeast. Only Virginia and West
 Virginia in the region have slightly higher rates. The bottom fourteen
@@ -1100,11 +1118,11 @@ Carolina. Only Wisconsin at 9.0 percent has a lower proportion of
 working black women in these occupations; and only Wyoming, South
 Dakota and Nevada join the Southeast from other regions at the bottom
 in this category.</p>
-              <p>The thirteen states with the highest proportion of working black
+              <p id="sc08-4_10168">The thirteen states with the highest proportion of working black
 men in TWM jobs--over 30 percent--are Idaho, Montana, Utah, New
 Mexico, Vermont, New Hampshire, Massachusetts, Connecticut, and
 California.</p>
-              <p>The thirteen states where black men are still likely to be excluded
+              <p id="sc08-4_10169">The thirteen states where black men are still likely to be excluded
 from these occupations--less than 25 percent of working black men in
 TWM jobs--include eight of the Southeastern states: South Carolina,
 Kentucky, Arkansas, North Carolina, Georgia, Tennessee, Florida, and
@@ -1113,14 +1131,14 @@ North and South Dakota and Wisconsin. North Dakota at 7 percent is
 significantly more exclusionary than next worst Wisconsin, where 19
 percent of working black men hold jobs traditionally denied to
 them.</p>
-              <p>In fourteen states more than 26 percent of the working white women
+              <p id="sc08-4_10170">In fourteen states more than 26 percent of the working white women
 are employed in TWM jobs. The proportion is far higher in the District
 of Columbia (43 percent) than in second place New Mexico (29.3
 percent). New York, Maryland, Delaware, North Dakota, Washington,
 California, Colorado, Montana, Massachusetts, Connecticut, Alaska,
 Virginia and Texas also have a high proportion of working white women
 in TWM jobs.</p>
-              <p>In the bottom ten states, the proportion of working white women
+              <p id="sc08-4_10171">In the bottom ten states, the proportion of working white women
 holding TWM jobs is 21.4 percent or less. Eight of the ten are in the
 Southeast, from Alabama at 21.4 percent to the national low of 17.0
 percent in Arkansas. The remaining bottom ten states are Mississippi,
@@ -1129,19 +1147,19 @@ the Southeast, and Utah and Indiana.</p>
             </div4>
             <div4 id="sc08-3013" type="Part">
               <head>Labor Membership</head>
-              <p>
+              <p id="sc08-4_10172">
                 <hi rend="bold">
                   <hi rend="italic">Participation in Unions</hi>
                 </hi>
               </p>
-              <p>As an indication of freedom to organize bargaining units in the
+              <p id="sc08-4_10173">As an indication of freedom to organize bargaining units in the
 workplace, we looked at labor organization membership as a percent of
 non-agricultural employment in 1980. States with the greatest
 proportion of workers affililiated with labor or membership
 organizations--over 30 percent--are New York, Pennsylvania,
 Michigan, Ohio, Illinois, Indiaian, Washington, West Virginia, and
 Alaska.</p>
-              <p>Sixteen states have the lowest labor organization membership in
+              <p id="sc08-4_10174">Sixteen states have the lowest labor organization membership in
 their workforces, less than 18 percent, and eight of the sixteen are
 in the Southeast: Lousiana, Mississipppi, Arkansas, Georgia, Virginia,
 Florida and North and South Carolina, which at 9.6 and 7.8 percents,
@@ -1150,45 +1168,46 @@ remaining states are in the Plains region: North and South Dakota and
 Kansas. The others are Arizona, Oklahoma, Texas, New Hampshire and
 Utah.</p>
             </div4>
-          </div3><div3 id="sc08-3014" type="Section">
+          </div3>
+          <div3 id="sc08-4_sc08-3014" type="Section">
             <head>CONCLUSIONS:</head>
-            <p>While this report began with a number of conclusions to be drawn
+            <p id="sc08-4_10175">While this report began with a number of conclusions to be drawn
 from some thirty-three indicators of the quality of working life, the
 heart of the issue--the overall climate for workers in the U.S.--lies
 within the realm of jobs and income. From this perspective, several
 key points are clear:</p>
-            <p>* The U.S. economy is undergoing a major restructuring away from
+            <p id="sc08-4_10177">* The U.S. economy is undergoing a major restructuring away from
 traditional manufacturing jobs and toward a technology-driven economy
 dominated by 
-<pb n="15"/>
+<pb id="sc08-4_10176" n="15"/>
 service jobs.</p>
-            <p>* Contraction in manufacturing and expansion in services and
+            <p id="sc08-4_10178">* Contraction in manufacturing and expansion in services and
 high-tech industries is uneven. The Southeast in particular lags
 behind the national trend, and rural areas across the nation are
 suffering the most, with the slowest job growth and the lowest incomes
 for workers.</p>
-            <p>* This unevenness in job and income growth has been exacerbated in
+            <p id="sc08-4_10179">* This unevenness in job and income growth has been exacerbated in
 the farm states and the energy states--notably Alaska--where
 conditions have deteriorated during the past two years. This time
 period is not covered here in the same depth as the preceding ten
 years, and this report may have captured a high point in their
 economic well-being to which they may not return for some time to
 come.</p>
-            <p>* The transition to the new national job mix and away from
+            <p id="sc08-4_10180">* The transition to the new national job mix and away from
 traditional manufacturing jobs is causing serious dislocations of
 workers which, in the absence of a human resource development policy,
 threaten to become longterm. The new poverty figures released August
 1986, too late for consideration in this study, show a new and growing
 class of working poor.</p>
-            <p>* The thousands of new jobs that are being created are seldom
+            <p id="sc08-4_10181">* The thousands of new jobs that are being created are seldom
 filled by these dislocated workers, whose education and skills do not
 match the qualifications for high-tech manufacturing and service
 jobs.</p>
-            <p>* Even those dislocated workers who can make the leap from
+            <p id="sc08-4_10182">* Even those dislocated workers who can make the leap from
 traditional manufacturing to the new kinds of jobs are earning
 substantially less money now. Fast food chains are not paying
 steelworker wages.</p>
-            <p>* These changes in the U.S. economy and the consequences for
+            <p id="sc08-4_10183">* These changes in the U.S. economy and the consequences for
 workers caught in shrinking job areas have profound implications for
 the Southeast. Despite numerical gains in job growth that lead the
 nation and recent improvements in state financing of education, the
@@ -1196,12 +1215,12 @@ region has failed to meet the standards set by the rest of the nation
 in almost every other way: the smallest gains in wages and per capita
 personal income, the largest proportion of working poor, the highest
 incidences of poverty, and so on.</p>
-            <p>* The challenge and the task that face the Southeast today and in
+            <p id="sc08-4_10184">* The challenge and the task that face the Southeast today and in
 the future is to create jobs with the income and benefits needed to
 bring the region's workers above the poverty level--not just new jobs
 as in the past, but jobs that will significantly improve the standard
 of living for people who work full-time, year-round.</p>
-            <p>* The reality is that in order to attract these better jobs, the
+            <p id="sc08-4_10185">* The reality is that in order to attract these better jobs, the
 Southeast must improve the quality of education. Recent steps in a
 number of states in the region to set higher standards and increase
 the state share of financing elementary and secondary schools are keys
@@ -1209,7 +1228,7 @@ to a long-term strategy. Until it begins to take effect, another
 generation will leave the schools and enter the job market with skills
 and abilities well below those of workers in other regions, and in too
 many instances functionally illiterate.</p>
-            <p>* States that have been successful in attracting better jobs, as in
+            <p id="sc08-4_10186">* States that have been successful in attracting better jobs, as in
 Massachusetts, have invested in education. States that have been able
 to counter the shock of the structual changes in the economy, as is
 beginning to happen in the Great Lakes states, have successfully
@@ -1218,19 +1237,19 @@ states and regions that provide the greatest degree of worker
 protection and the most consideration for workers who become disabled
 or unemployed. They have higher wages and lower rates of poverty, and
 a better chance of rebounding from periods of unemployment.</p>
-            <p>* One of the most striking and consistent regional performances is
+            <p id="sc08-4_10187">* One of the most striking and consistent regional performances is
 the grouping of the Southeastern states at the very bottom of the
 rankings for equal employment opportunity. The glaring maldistribution
 of the benefits of employment away from the large population of
 minorities and women damages the entire region.</p>
-            <p>* There are in effect two Souths: one where jobs and income are
+            <p id="sc08-4_10188">* There are in effect two Souths: one where jobs and income are
 available, and one where they are not. Moreover, the effects are even
 more severe for blacks and women in the rural areas of the region.</p>
-            <p>* Regardless of improvements that may be made in job creation,
+            <p id="sc08-4_10189">* Regardless of improvements that may be made in job creation,
 human resource development, and education, unless these improvements
 are available to black and white Southerners alike, the region will
 remain the worst in the nation for wage-earners and their families.</p>
-            <p>* The poor, the working poor, minorities and women--especially in
+            <p id="sc08-4_10190">* The poor, the working poor, minorities and women--especially in
 the rural South--have formed a permanent underclass in the region, one
 that has been called "disadvantaged" and "structurally unemployed" for
 more than twenty years. With recent changes in federal policies and
@@ -1239,26 +1258,35 @@ the early 1960s. Given the climate for workers in the region, there
 are few chances indeed for these groups to help themselves. In the
 absence of policies and programs that directly address their needs,
 there is little hope for help from other sources.</p>
-          </div3><div3 id="sc08-3023" type="About">
-            <p>Kenny Johnson is the director of the Southern Labor
+          </div3>
+          <div3 id="sc08-4_sc08-3023" type="About">
+            <p id="sc08-4_10191">Kenny Johnson is the director of the Southern Labor
 Institute, a project of the Southern Regional Council. A native of
 Louisiana, he is a former regional director of the National Rural
 Center. Johnson joined the Council after having served as field
 director of the Voter Education Project. Marilyn Scurlock is a staff
 member of the Southern Labor Institute and a former staffer of the
 Southern Office of the National Rural Center.</p>
-          </div3></div2>
-        <div2 id="sc08-4015" n="4" type="Article"><head>Labor Gives to Make Saturn Work</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate><bibl/><p>The Saturn Agreement has set a new pattern for UAW bargaining in
+          </div3>
+        </div2>
+        <div2 id="sc08-4_015" n="4" type="Article">
+          <head>Labor Gives to Make Saturn Work</head>
+          <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey,  Verna" type="person"> Verna Fausey</name></docAuthor></byline>
+          <docDate value="1986-10">Vol. 8, No. 4, 1986, p. 19</docDate>
+          <bibl/>
+          <p id="sc08-4_10192">The Saturn Agreement has set a new pattern for UAW bargaining in
 the automobile industry and is affecting many negotiations carried out
 by other unions.  Despite an early GM promise to the UAW insistence
 that Saturn not be a precedent, GM's Chairman Roger Smith talks of the
 need to "Saturnize" industry and UAW Vice President Donald Ephlin now
-declares "We need a lot more Saturns."</p><p>From the beginning, the Saturn Project was a joint effort of GM and
+declares "We need a lot more Saturns."</p>
+          <p id="sc08-4_10193">From the beginning, the Saturn Project was a joint effort of GM and
 the UAW.  The 1985 accord has its genesis with the establishment of a
 joint study center in the spring of 1983 to map out "a new approach to
 union-management relations and the more effective use of human
 resources if assembly of small cars was to be feasible in the United
-States."</p><p>The unusual union contract has created controversy within UAW and a
+States."</p>
+          <p id="sc08-4_10194">The unusual union contract has created controversy within UAW and a
 debate within the nation's union movement.  Some charge that the UAW
 has sold out under what Saturn calls its new "philosophy of total
 cooperation."  UAW leaders are defensive; perhaps because "no party to
@@ -1266,7 +1294,8 @@ Saturn has risked more with this experiment than the UAW," according
 to labor writer Anthony Border.  GM's William Hoglund stresses that
 the UAW is a partner and "a stakeholder in Saturn and participates in
 decisions.  A UAW advisor is on the Saturn management staff and is a
-part of all enterprises."</p><p>The contract reflects the concessions typical of the Reagan era as
+part of all enterprises."</p>
+          <p id="sc08-4_10195">The contract reflects the concessions typical of the Reagan era as
 well as autoworkers' desire for job security.  Saturn employees,
 called members, will take a twenty percent pay cut in straight-time GM
 wages in return for profit-sharing and additional income based on
@@ -1274,7 +1303,8 @@ meeting production, quality and productivity goals.  Production will
 be carried out by small work units of five to twenty-five people
 rather than by assembly line.  "Our work teams are going to do it
 all-seek resources, keep records, communicate and work with supplier
-partners and insure quality," according to GM's Hoglund.</p><p>In order to get a commitment of relatively secure employment for
+partners and insure quality," according to GM's Hoglund.</p>
+          <p id="sc08-4_10196">In order to get a commitment of relatively secure employment for
 eighty percent of the workers, the union gave up normal grievance
 procedures, seniority rights, fixed work rules and practices, and
 traditional job descriptions.  The Agreement reads "Saturn will not
@@ -1287,19 +1317,27 @@ practicable."  The UAW was willing to agree to this because of
 numerous layoffs and the rapid loss of members in an industry which
 has seen forty-seven facilities shut down since 1980.  However, the
 deep concessions make it clear Saturn was designed to compete with
-domestic as well as foreign autoworkers.</p><p>Once the agreement was complete, GM picked a right-to-work state to
+domestic as well as foreign autoworkers.</p>
+          <p id="sc08-4_10197">Once the agreement was complete, GM picked a right-to-work state to
 test it.  Saturn was to be kept away from GM's other plants where
 there are strong anti-management sentiments and more traditional labor
 contracts.  GM's labor relations chief, Alfred S. Warren Jr., said
 that the UAW fought the Spring Hill location "up until the last
 moment" as the ninty-nine member union/management team debated
-sites.</p><p>While Tennessee governor Alexander has made his peace with the UAW
+sites.</p>
+          <p id="sc08-4_10198">While Tennessee governor Alexander has made his peace with the UAW
 in order to get the plant, Republican gubernatorial candidate Winfield
 Dunn is not bound by this peace treaty.  Dunn, who was governor from
 1971-1975, feels the Saturn agreement "violates the spirit of
-Tennessee's right-to-work law."</p></div2>
-        <div2 id="sc08-4016" n="3" type="Article"><head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
-Arrives in Spring Hill, Tennessee</head><byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline><docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate><bibl/><p>Spring Hill Mayor George Jones says he learned the same time you
+Tennessee's right-to-work law."</p>
+        </div2>
+        <div2 id="sc08-4_016" n="3" type="Article">
+          <head>Today's Jobs at Yesterday's Wages: GM's Saturn Auto Plant
+Arrives in Spring Hill, Tennessee</head>
+          <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name> and <name reg="Fausey, Verna" type="person">Verna Fausey</name></docAuthor></byline>
+          <docDate value="1986-10">Vol. 8, No. 4, 1986, pp. 16-24</docDate>
+          <bibl/>
+          <p id="sc08-4_10199">Spring Hill Mayor George Jones says he learned the same time you
 did, if you were watching television on July 30, 1985, that General
 Motors planned to build the world's most expensive manufacturing plant
 in his middle Tennessee community, population 1,275. By that point
@@ -1312,17 +1350,21 @@ megawatts of free electricity for twenty years, or to Minnesota, which
 pledged tax concessions and other prizes worth $1.3 billion, or even
 to Kentucky, which legislated a $306 millon educational aid package
 after word got out that GM considered the Bluegrass State's school
-system inadequate.</p><p>Instead, Saturn came to a sleepy town off I-65 thirty miles south
+system inadequate.</p>
+          <p id="sc08-4_10200">Instead, Saturn came to a sleepy town off I-65 thirty miles south
 of Nashville. At the moment Mayor Jones watched GM's announcement on
 his television set, Spring Hill had not even a single full-time police
 officer, fireman, or physician. The announcement, said Jones, was like
-something "falling from the sky."</p><p>Spring Hill's experience raises many questions about corporate
+something "falling from the sky."</p>
+          <p id="sc08-4_10201">Spring Hill's experience raises many questions about corporate
 power in the U.S., about industrial recruiting as practiced by most
 state governments, about the role of organized labor in a rapidly
 shifting economy, and about the ability of localities to control their
-own destinies.</p><p>
+own destinies.</p>
+          <p id="sc08-4_10202">
             <hi rend="bold">Were They Just Lucky or What?</hi>
-          </p><p>In effect, Tennessee won a national lottery for a promised 6,000
+          </p>
+          <p id="sc08-4_10203">In effect, Tennessee won a national lottery for a promised 6,000
 industrial jobs and a huge addition to the tax base. After the
 amazement wore off, one of the first questions asked in Spring Hill
 was, why us? The answer may be that GM was less interested in what
@@ -1331,10 +1373,11 @@ lacked experience in negotiating with large companies, other prospects
 for economic development, county-wide planning or zoning, organized
 citizen groups which might have opposed GM's plans or at least have
 complicated matters, and the history of labor-management antagonism
-that characterizes many of the locales of other auto plants.</p><p>Spring Hill residents are minor actors, if not pawns, in a grand
+that characterizes many of the locales of other auto plants.</p>
+          <p id="sc08-4_10205">Spring Hill residents are minor actors, if not pawns, in a grand
 auto industry manuever. General Motors' plans for Saturn represent the
 company's main effort to 
-<pb n="17"/>
+<pb id="sc08-4_10204" n="17"/>
 face down Japanese car competition. GM
 created the Saturn Corporation as a subsidiary--with its own
 executives, engineers, dealer network--and a "special" labor
@@ -1343,40 +1386,47 @@ produce half a million subcompact Saturn cars a year with about
 one-third of the workforce that would be needed at other GM
 facilities. Board Chairman Roger Smith touts Saturn as the key to the
 giant corporation's survival and competitiveness as a domestic
-producer.</p><p>Construction of the Spring Hill plant will require four thousand
+producer.</p>
+          <p id="sc08-4_10206">Construction of the Spring Hill plant will require four thousand
 construction workers for two-and-a-half years. Limited production is
 expected to begin in late 1989. When the plant reaches full capacity
 (some years later), GM claims that it will provide six thousand direct
 jobs and twelve thousand to fourteen thousand indirect jobs among
-suppliers, service firms, groceries, eating places and motels.</p><p>In choosing Middle Tennessee, GM joined a Southbound migration for
+suppliers, service firms, groceries, eating places and motels.</p>
+          <p id="sc08-4_10207">In choosing Middle Tennessee, GM joined a Southbound migration for
 automakers, including a Nissan plant at Smyrna, Tenn., just thirty
 miles from Spring Hill, and Kentucky's planned Toyota
 facility. Michigan has gone to extraordinary lengths to preserve its
 hold on the industry, but the mid-South has become the location of
-choice for both U.S. and Japanese carmakers.</p><p>In addition to presumably docile labor, Spring Hill was chosen
+choice for both U.S. and Japanese carmakers.</p>
+          <p id="sc08-4_10208">In addition to presumably docile labor, Spring Hill was chosen
 because it lies within five-hundred miles of three-fourths of the
 U.S. domestic market. The area had a railroad, interstates, and could
 provide four million gallons of water daily. Geographically it is a
 flat site about two square miles in size. In the rural setting, there
-were a small number of landowners from whom to acquire land.</p><p>"The final ingredients were simple but of the right combination,"
+were a small number of landowners from whom to acquire land.</p>
+          <p id="sc08-4_10209">"The final ingredients were simple but of the right combination,"
 according to Jan White of Landauer Associates. This New York firm
 which researched the sites for GM never revealed the nature of that
 secret combination. For seven months, Landauer employees visited
 potential locations, examined tax structures and school systems, went
 to parks, and read back editions of local newspapers to determine how
-each community solved their problems.</p><p>With so many suitors, GM could take its time. The national media
+each community solved their problems.</p>
+          <p id="sc08-4_10210">With so many suitors, GM could take its time. The national media
 provided millions of dollars of free advertising for the future car. A
 GM-commissioned poll showed that Saturn had 49 percent name
 recognition without building a plant or even designing a product. This
 public relations triumph, achieved largely because of U.S. desperation
-for jobs, is proudly heralded by Saturn's executives.</p><p>By early February 1985, GM had information about every realistic
+for jobs, is proudly heralded by Saturn's executives.</p>
+          <p id="sc08-4_10211">By early February 1985, GM had information about every realistic
 location "already on the computer," according to Stan Hall, a Saturn
 spokesperson. Peter Laerman of the United Auto Workers (UAW) chastised
 the corporation for encouraging a waste of public resources. "In cases
 where GM knows perfectly well those sites will not be chosen, they
 should make that clear before any more money is spent." But GM kept up
 the "search" for another five months as desperate hamlets bid higher
-for the prize.</p><p>The site GM chose is in Maury County, just a few miles from its
+for the prize.</p>
+          <p id="sc08-4_10212">The site GM chose is in Maury County, just a few miles from its
 border with Williamson County. The latter is Tennessee's richest and
 fastest growing county with an unemployment rate of 3.1 percent in
 July of 1986. Williamson County Executive Robert Ring says of Saturn,
@@ -1385,7 +1435,8 @@ somewhere else." Williamson County residents are concerned about the
 rapid changes in their county which is evolving from an agricultural
 to a bedroom community feeding metro Nashville's booming "office
 parks." The result is a controversial growth management plan that is
-unprecedented in <hi rend="italic">laissez-faire</hi> Tennessee. </p><p>In Maury County, with 9.6 percent unemployment, the planning
+unprecedented in <hi rend="italic">laissez-faire</hi> Tennessee. </p>
+          <p id="sc08-4_10213">In Maury County, with 9.6 percent unemployment, the planning
 infrastructure was non-existent. Judy Langston, a county native who
 was hired when the planning office was finally set up three months
 after the Saturn announcement, explains: "Maury County government did
@@ -1399,9 +1450,11 @@ unsightly commercial strip next to its "campus-style plant." Even
 though Saturn hired the Vanderbilt Law School Dean to work with the
 county to develop a scenic parkway, the old neighbors quickly let
 their new neighbor and politicians know that it would be a long time
-before they would tolerate that much "governmental interference."</p><p>
+before they would tolerate that much "governmental interference."</p>
+          <p id="sc08-4_10214">
             <hi rend="bold">What Did Tennessee Offer?</hi>
-          </p><p>Governor Lamar Alexander trumpeted his state's victory in full-page
+          </p>
+          <p id="sc08-4_10216">Governor Lamar Alexander trumpeted his state's victory in full-page
 newspaper ads published around the country. The considerable prize was
 said to be the largest one-time investment in U.S. history, and Saturn
 thus took on mythical dimensions and qualities far beyond the jobs and
@@ -1409,7 +1462,8 @@ related industries it will bring to Middle Tennessee. To Tennessee's
 Republican administrators, Saturn testified to the state's
 attractiveness to manufacturing investors and to their own competitive
 ability in the politically prime arena of industrial recruitment.
-<pb n="18"/></p><p>Alexander and former Senate Majority Leader Howard Baker had lauded
+<pb id="sc08-4_10215" n="18"/></p>
+          <p id="sc08-4_10217">Alexander and former Senate Majority Leader Howard Baker had lauded
 Tennessee's right-to-work law, its "pro-business climate and its
 hardworking labor force" to GM Chairman Smith in early 1985. These
 same factors were among the reasons the Southern Labor Institute
@@ -1425,17 +1479,20 @@ poor and near the bottom in manufacturing wages and income
 distribution. Since Tennessee is projected to have higher than
 national unemployment at least through the 1990s, this would be a
 state which would appreciate GM, whatever its pay and benefits, for a
-long time to come.</p><p>Tennessee also was promoted as a state whose tax structure has been
+long time to come.</p>
+          <p id="sc08-4_10218">Tennessee also was promoted as a state whose tax structure has been
 tailored for big business: a one percent investment tax credit for
 industrial machinery, no sales tax on industrial and pollution control
 machinery, a tax exemption on finished goods, low worker's
 compensation insurance rate, and no personal income tax. Over
 forty-nine percent of the state's regressive tax revenue comes from
-high sales taxes, including a tax on food.</p><p>Tennessee's industrial recruiting ads say, "Grow with a
+high sales taxes, including a tax on food.</p>
+          <p id="sc08-4_10219">Tennessee's industrial recruiting ads say, "Grow with a
 pro-business tax structure. Only four states have a lower state and
 local tax burden than Tennessee. Tennessee does not offer large tax
 concessions to attract business to the state--the tax structure is
-already attractive for business!"</p><p>With the nation watching and his 1988 Vice Presidential aspirations
+already attractive for business!"</p>
+          <p id="sc08-4_10220">With the nation watching and his 1988 Vice Presidential aspirations
 perhaps in mind, Tennessee's governor eagerly courted the
 industrialists. Alexander had won one such prize in 1982-the Nissan
 plant- and wanted another. (Nissan made the largest U.S. industrial
@@ -1445,10 +1502,13 @@ may have helped guarantee the second win. If GM wanted to prove it
 could compete with the Japanese, why not on the same turf? And the
 UAW, GM's partner in Saturn, may have desired to locate nearby in
 hopes that Saturn's union influence would rub off on non-union
-Nissan.</p><p>
+Nissan.</p>
+          <p id="sc08-4_10221">
             <hi rend="bold">Greasing GM's Wheels</hi>
-          </p><p>In a less than candid statement, Alexander contended, "New York
-offered $1.2 billion. We didn't offer a penny."</p><p>But Tennessee's General Assembly rushed to provide housewarming
+          </p>
+          <p id="sc08-4_10222">In a less than candid statement, Alexander contended, "New York
+offered $1.2 billion. We didn't offer a penny."</p>
+          <p id="sc08-4_10223">But Tennessee's General Assembly rushed to provide housewarming
 gifts to the new corporate arrival. In early 1986 Maury County
 legislators introduced a bill to put a $500,000 cap on the realty
 transfer tax and another cap on mortgage fees. Written to benefit very
@@ -1457,7 +1517,8 @@ agreement among legislators, Saturn officials and the governor. The
 state lost a one time payment of $2.5 million to $3 million while
 local governments lost $75,000. Alexander also pushed through the
 Legislature a seat belt law wanted by GM to help forestall national
-air bag legislation.</p><p>In addition to the usual benevolence to large corporations, the
+air bag legislation.</p>
+          <p id="sc08-4_10224">In addition to the usual benevolence to large corporations, the
 governor has promised Saturn $50 million worth of roads, including a
 new I-65 exit and a new five-mile connecting "Saturn parkway" (much
 like that built for Nissan). Saturn will get its cars to market faster
@@ -1466,7 +1527,8 @@ Nashville. Spring Hill is getting a bypass, two stop lights,
 state-paid planners and engineers. Tennessee pays for water quality
 and regional impact studies. Saturn will receive and control $20
 million worth of job training, with no requirement that Tennesseans
-will be trained.</p><p>Justifying all this is Revenue Commissioner Don Jackson, who
+will be trained.</p>
+          <p id="sc08-4_10226">Justifying all this is Revenue Commissioner Don Jackson, who
 optimistically predicts that Tennessee may get ten dollars in tax
 revenues for every dollar it spends on support facilities for
 Saturn. The state's sales tax revenues will increase when Saturn
@@ -1475,19 +1537,23 @@ but several more years will pass before the state realizes other tax
 dollars. Business tax income was not coming in from the Nissan plant
 by 1985, even though Nissan began production in 1983. Moreover, while
 the state 
-<pb n="19"/>
+<pb id="sc08-4_10225" n="19"/>
 government may eventually experience a return on its
 investment in Saturn, Saturn's neighbors fear that the bulk of the
 costs will be borne by the taxpayers of the counties and
-municipalities.</p><p>Meanwhile, many Maury County citizens wonder just who will act in <hi rend="italic">their</hi> best interest. Many feel that their local
+municipalities.</p>
+          <p id="sc08-4_10227">Meanwhile, many Maury County citizens wonder just who will act in <hi rend="italic">their</hi> best interest. Many feel that their local
 officials failed to represent all of Maury County when negotiating the
 in-lieu-of-tax agreement with GM. Many more, including many local
 officials, wonder whose side the state is on when it comes to the
 negotiating with Saturn and to the planning for the trauma of its
-arrival.</p><p>
+arrival.</p>
+          <p id="sc08-4_10228">
             <hi rend="bold">Will Tennesseans Get the Jobs?</hi>
-          </p><p>Much of the intense courting of Saturn was inspired by the lure of
-thousands of new jobs.</p><p>In November 1985, four months after Saturn's site selection, a copy
+          </p>
+          <p id="sc08-4_10229">Much of the intense courting of Saturn was inspired by the lure of
+thousands of new jobs.</p>
+          <p id="sc08-4_10230">In November 1985, four months after Saturn's site selection, a copy
 of the secret labor agreement between GM and the United Auto workers
 was leaked to the Spring Hill Area Concerned Citizens Group. It
 revealed that aa majority of the full initial complement of operating
@@ -1496,12 +1562,14 @@ throughout the United States." The document concludes that "because of
 the qualifications and experience of the current GM-UAW workforce,
 they will be a primary source for the initial complement, up to full
 capacity of operating and skilled trades technicians. The parties will
-actively recruit GM-UAW employees."</p><p>This news stunned Maury County officials, who had made large tax
+actively recruit GM-UAW employees."</p>
+          <p id="sc08-4_10232">This news stunned Maury County officials, who had made large tax
 concessions expecting the majority of jobs for area residents. The
 Citizens Group leaders had been asking since early September for
 eighty percent of the Saturn workforce to come from the county and the
 state. GM says it made no promises.
-<pb n="20"/></p><p>Not surprisingly, UAW Vice President Donald Ephlin has reported
+<pb id="sc08-4_10231" n="20"/></p>
+          <p id="sc08-4_10233">Not surprisingly, UAW Vice President Donald Ephlin has reported
 that union members all over the country are interested in the Saturn
 jobs. "We don't need applications. Every day I get letters inquiring
 about employment," he said. Ephlin predicts that of the estimated six
@@ -1509,20 +1577,24 @@ thousand jobs about five thousand will be in the UAW bargaining
 unit. These could be filled ten times over by the fifty-four thousand
 UAW members now laid off, not to mention the forty-one thousand GM
 says it may soon lay off or the current GM workers who may want to
-move when Saturn begins hiring.</p><p>Many local people resent outsiders' having a lock on the majority
+move when Saturn begins hiring.</p>
+          <p id="sc08-4_10234">Many local people resent outsiders' having a lock on the majority
 of Saturn's jobs. GM has quietly let its Saturn partner, the union, be
 played off against the local communities so that the UAW is faulted by
 many as having taken the jobs Maury County residents thought were to
-be their main benefit from Saturn.</p><p>Spring Hill resident and fiberglass manufacturer Jim Miller said,
+be their main benefit from Saturn.</p>
+          <p id="sc08-4_10235">Spring Hill resident and fiberglass manufacturer Jim Miller said,
 "the governor kept talking about at least three thousand jobs." But,
 "once we read the agreement we knew we could not get any jobs out of
 the project." He added, "the governor and GM 'foxed' people on jobs."
 Miller asked the governor why no Tennesseans were guaranteed jobs and
 "Dear old Alexander said that if not one Tennessean gets a job at
 Saturn, it will still be good for Tennessee. Now that may be good for
-Tennessee, but what about Maury County?"</p><p>
+Tennessee, but what about Maury County?"</p>
+          <p id="sc08-4_10236">
             <hi rend="bold">GM Unwilling to Pay Full Property Tax</hi>
-          </p><p>Tennessee helped Saturn choose a county with lower property rates
+          </p>
+          <p id="sc08-4_10237">Tennessee helped Saturn choose a county with lower property rates
 than surrounding areas. Saturn then hammered Maury County governmental
 officials into an unprecedented forty year in-lieu-of-tax
 agreement. According to county budget director, A. C. Howell, "the
@@ -1532,7 +1604,8 @@ deal. It was a GM idea and they took pretty much a hard line on it."
 GM's leverage was that its choice of this county was "tentative" until
 it got the deal it sought. By withholding the labor agreement from the
 public and county officials, GM had a further advantage in
-negotiations.</p><p>Maury County's industrial board agreed to hold title to the site so
+negotiations.</p>
+          <p id="sc08-4_10238">Maury County's industrial board agreed to hold title to the site so
 Saturn is not burdened with real and personal property taxes, the
 county's primary revenue source. The first year Saturn agreed to pay
 $7.5 million; in 1987 and 1988, $3.5 million each year; from 1989 to
@@ -1543,13 +1616,15 @@ amounts of funds up front since normally the property tax would not
 show up in significant amounts until the plant was fully built. "The
 plan of action is to use the front end money to handle the initial
 impacts. Then we'll have to develop some mechanisms to make sure
-future developers have to pay their own way," said Howell.</p><p>Local residents and officials were skeptical of the deal since most
+future developers have to pay their own way," said Howell.</p>
+          <p id="sc08-4_10239">Local residents and officials were skeptical of the deal since most
 "high growth" counties find it impossible to make developers cover all
 the costs of new services. If Saturn doesn't pay for expanded services
 and if the developers who follow Saturn to Maury County don't pay, who
 will? The residents of Maury County, who currently enjoy a low two
 percent property tax rate, expect that they will have to pick up the
-tab.</p><p>Despite being spelled out in an official agreement there are still
+tab.</p>
+          <p id="sc08-4_10240">Despite being spelled out in an official agreement there are still
 different estimates of just how much the county has given away to
 GM. Auto industry watcher Ralph Nader has estimated that the
 in-lieu-of-tax deal will cost Maury County almost $57 million during
@@ -1558,7 +1633,8 @@ as proposed is built "the full tax value would have been $14 million"
 annually, a figure less than half the $32.9 million detailed in
 published reports elsewhere. Even if Howell is accurate, this means
 that after construction GM will pay $77 million less than the normal
-county tax rate during the seven year period from 1989-1995.</p><p>Nader staffer Jim Musselman said Maury County officials failed to
+county tax rate during the seven year period from 1989-1995.</p>
+          <p id="sc08-4_10241">Nader staffer Jim Musselman said Maury County officials failed to
 compare what GM said it was willing to pay in property tax with what
 it was already paying at its facilities in Michigan and Ohio. GM
 wasn't about to volunteer that it pays almost twice as much tax on
@@ -1567,54 +1643,64 @@ few other places during the six to eight weeks of negotiations, but he
 wishes there had been more time for research. While GM clearly
 benefited from the pressure of time it applied, Howell says the
 greatest urgency came from state officials who wanted an agreement to
-be reached but nevertheless offered very little assistance.</p><p>On February 28, 1986, Saturn ceremoniously made its first payment
+be reached but nevertheless offered very little assistance.</p>
+          <p id="sc08-4_10242">On February 28, 1986, Saturn ceremoniously made its first payment
 of $2 million. Its next checks were delivered in late May and
 September to the Maury County Industrial Development Board. Posing in
 front of the enlarged check, Howell wondered whether he should smile
 or frown. It probably is not the best deal in the world but when you
 go to buy a car you don't get the deal you want. I can't tell whether
 it was a good deal or not. I think it was as good a deal as we could
-have gotten... History will tell."</p><p>Maury County found that, once the negotiations on an overall amount
+have gotten... History will tell."</p>
+          <p id="sc08-4_10243">Maury County found that, once the negotiations on an overall amount
 from Saturn were concluded, the wrangling had just begun. Separate
 agreements had to be made to divide its new revenues with the
 incorporated towns of Spring Hill, Columbia, and Mount Pleasant. The
 various county departments openly squabbled over the remainder. The
 School Board has even threatened to sue to get its standard
-forty-seven percent of county taxes.</p><p>Even with its own discounted rate Saturn has become Maury County's
+forty-seven percent of county taxes.</p>
+          <p id="sc08-4_10244">Even with its own discounted rate Saturn has become Maury County's
 largest taxpayer; its nearest contender pays less than a third of GM's
 amount. Saturn's employees will double the county's 1985 manufacturing
 labor force, giving the new constituents tremendous political clout in
 a county which was projected to have only 25,375 households in
-1990.</p><p>Further, GM's actions in other parts of the nation suggest that
+1990.</p>
+          <p id="sc08-4_10246">Further, GM's actions in other parts of the nation suggest that
 Maury County will be asked in the future for more tax cuts. GM has
 demanded real property tax reductions of up to eighty percent in
 eighteen Michigan locations and has threatened to move its plants if
 the cuts are not forthcoming. Four Michigan towns have 
-<pb n="21"/>
+<pb id="sc08-4_10245" n="21"/>
 already given
 in. "For GM the Saturn plant represents another step in its ongoing
 experiment to discover just how far it can lower its tax obligations,"
 concludes labor writer Anthony Borden in <title>The Nation</title>
-(June 21,1986).</p><p>
+(June 21,1986).</p>
+          <p id="sc08-4_10247">
             <hi rend="bold">Will the Town Get its Fair Share?</hi>
-          </p><p>"More and more it looks like GM came to this rural area of
+          </p>
+          <p id="sc08-4_10248">"More and more it looks like GM came to this rural area of
 Tennessee looking for a colony to exploit instead of a community to
 respect," said Ralph Nader. "The Volunteer State better start
 volunteering more citizen and governmental oversight and get the
-free-loading GM off welfare."</p><p>"Let's be honest. The plant is going to affect us the most," Spring
+free-loading GM off welfare."</p>
+          <p id="sc08-4_10249">"Let's be honest. The plant is going to affect us the most," Spring
 Hill Mayor Jones exclaimed in late August 1985. "We're the ones who
 are going to be dealing with the traffic and having our roads and our
 land and our homes torn apart. Nobody seems to be interested in Spring
-Hill."</p><p>Martha Torrence, a school teacher who moved from Nashville to
+Hill."</p>
+          <p id="sc08-4_10250">Martha Torrence, a school teacher who moved from Nashville to
 retire in Spring Hill and is secretary of the Spring Hill Citizen's
 Group, said of Saturn's first year, "We just can't understand why
 we've been ignored, they forgot about us, just like we were dust to be
-moved around."</p><p>For several weeks, the state officials, Saturn and the UAW ignored
+moved around."</p>
+          <p id="sc08-4_10251">For several weeks, the state officials, Saturn and the UAW ignored
 the mayor's letters and requests for a meeting with the townspeople to
 explain what was going on and to answer citizen's questions. Only in
 September 1985, when Mayor Jones warned that he might oppose zoning
 changes needed for initial construction, did the three agree to the
-town meeting.</p><p>Spring Hill's annual property tax revenue was around $21,000 before
+town meeting.</p>
+          <p id="sc08-4_10252">Spring Hill's annual property tax revenue was around $21,000 before
 any GM payments. A recent property reappraisal had the effect of a
 major tax hike and Mayor Jones did not want to raise taxes so soon to
 pay for new facilities. When the mayor's efforts to get a financial
@@ -1622,22 +1708,26 @@ commitment from the county and GM failed, the city council began the
 procedure to annex the Saturn site, just two miles outside the city
 limits. This would have brought the town an estimated $8.5 million
 annually, instead of the $11.5 million over a forty-year period to
-which they eventually agreed.</p><p>Upon learning about the annexation plan, Saturn's general counsel
+which they eventually agreed.</p>
+          <p id="sc08-4_10253">Upon learning about the annexation plan, Saturn's general counsel
 threatened that GM would leave the Spring Hill area before the company
 had turned one shovel of dirt. "I don't know if I'd call it
 blackmail," Mayor Jones told the Flint (Mich.) Journal. "I have heard
 accusations before that if we don't do this or that Saturn will pull
 out." Jones reports that during this period he received a number of
 death threats from developers who were panicked they would lose
-anticipated substantial profits if GM did not come.</p><p>Spring Hill's threat to annex Saturn's property, followed by
+anticipated substantial profits if GM did not come.</p>
+          <p id="sc08-4_10254">Spring Hill's threat to annex Saturn's property, followed by
 Saturn's threat to leave, is credited with giving the town enough
 leverage with Maury County to get a large part of the in-lieu-of-tax
 money. For $250,000 annually, Spring Hill committed itself in writing
 not to annex the Saturn site. Mayor Jones is adamant that the
 annexation proposal is merely tabled and will be activated if the
-county fails to pay.</p><p>
+county fails to pay.</p>
+          <p id="sc08-4_10255">
             <hi rend="bold">Speculators Descend</hi>
-          </p><p>"We didn't have any real estate offices in Spring Hill before
+          </p>
+          <p id="sc08-4_10256">"We didn't have any real estate offices in Spring Hill before
 Saturn hit. The next day we had five," says Joan W. Jackson, the
 manager of the only branch bank in town. "Land speculators blew into
 town with money in hand, bought land, and flipped it." Two months
@@ -1645,20 +1735,24 @@ after the announcement, land values had risen from $1,000 to $2,000
 per acre to $5,000 to $10,000 per acre, with some acreage selling as
 high as $35,000. Activity tripled at the county's Register of Deeds,
 which collected more than a million dollars in recording fees and
-transfer taxes.</p><p>During the early "gold rush fever," the mayor distributed signs "My
+transfer taxes.</p>
+          <p id="sc08-4_10257">During the early "gold rush fever," the mayor distributed signs "My
 home is not for sale. Compliments of George Jones, Mayor." He
-explained, Y want my neighbors to know I want to keep them."</p><p>By Spring 1986 real estate activity had slowed to a trickle. Many
+explained, Y want my neighbors to know I want to keep them."</p>
+          <p id="sc08-4_10259">By Spring 1986 real estate activity had slowed to a trickle. Many
 local people only made money as the outsiders let their options
 expire. Real estate agents and bankers predict a second boom as soon
 as the town's bypass location is announced and when Saturn plant
-<pb n="22"/>
-construction begins.</p><p>As the unemployed began to come to the boomtown, Mayor Jones and
+<pb id="sc08-4_10258" n="22"/>
+construction begins.</p>
+          <p id="sc08-4_10260">As the unemployed began to come to the boomtown, Mayor Jones and
 the Board of Aldermen bought them one-way tickets to Columbia or
 Nashville. The bus doesn't stop in Spring Hill, but a policeman takes
 the indigent newcomers to Main Street and flags it down. Legal
 Services personnel worry that the bus trip may await some local people
 as well. After Nissan was built local people with low incomes became
-homeless as the property values rose.</p><p>"The rental situation here is already deplorable," says Bill Haley,
+homeless as the property values rose.</p>
+          <p id="sc08-4_10261">"The rental situation here is already deplorable," says Bill Haley,
 Legal Services director in Maury County. "The trailer parks, which
 will be the primary places available for the transient construction
 workers, have outrageous lease provisions, which allow landlords to
@@ -1667,7 +1761,8 @@ up. We're going to see local people evicted, as the landlords jack up
 rents to lease to outsiders. Every county in the area has a long
 waiting list for low-income housing now. With the tremendous real
 estate pressures, homelessness is going to be an overwhelming problem
-and the counties are doing little to address it."</p><p>The arrival of the county's largest taxpayer frightens local
+and the counties are doing little to address it."</p>
+          <p id="sc08-4_10262">The arrival of the county's largest taxpayer frightens local
 residents who wonder whether they can afford to stay. Rising land
 values will increase taxes at the same time as the demand for new
 services calls for increased county revenues. While the mayor is proud
@@ -1678,26 +1773,34 @@ just to get the job. But when you've got to pay a dollar and a quarter
 to get a one dollar job, you're talking one step backwards and it's
 not good business. If it's going to cost us more to have them here
 than we're going to get in return, then I think we're making a big
-mistake."</p><p>"It will be the people on fixed income who will suffer," says Mayor
+mistake."</p>
+          <p id="sc08-4_10263">"It will be the people on fixed income who will suffer," says Mayor
 Jones. Citizen's group leader Martha Torrence agrees: "We who are
 trying to continue here might have to move out of the area because of
-taxes."</p><p>Homeowners are not the only victims. Randy Lockridge, who farms a
+taxes."</p>
+          <p id="sc08-4_10264">Homeowners are not the only victims. Randy Lockridge, who farms a
 thousand acres, declares that Saturn, named for the Roman god of
 agriculture, "will ruin farming in Spring Hill and have a negative
-effect on farming in all of Maury County."</p><p>Dairy equipment supplier John Campbell, president of the Citizens
+effect on farming in all of Maury County."</p>
+          <p id="sc08-4_10265">Dairy equipment supplier John Campbell, president of the Citizens
 Group, agrees that "farming's a thing of the past in Spring Hill." The
 town's farm implement dealership is already closed, and the rapidly
-rising land prices seem to affirm his conclusion.</p><p>"Many people in the community who were in favor of the project have
+rising land prices seem to affirm his conclusion.</p>
+          <p id="sc08-4_10266">"Many people in the community who were in favor of the project have
 now turned against it after seeing the way GM operates," said
-Campbell.</p><p>In the wake of recent elections, Jim Cathey, a landowner, said, "We
-really should be voting on getting that plant here."</p><p>Cathey's words echo the thoughts of thousands of Southerners who
+Campbell.</p>
+          <p id="sc08-4_10267">In the wake of recent elections, Jim Cathey, a landowner, said, "We
+really should be voting on getting that plant here."</p>
+          <p id="sc08-4_10268">Cathey's words echo the thoughts of thousands of Southerners who
 suddenly are faced with the rapid changes and unintended results of
 development decisions made secretively by a few state or local
 officials in pressured negotiating sessions with outside giant
 corporations. There are no mechanisms for public participation, much
-less approval.</p><p>
+less approval.</p>
+          <p id="sc08-4_10269">
             <hi rend="bold">State Needed to Manage Growth</hi>
-          </p><p>Governor Alexander has used the Nissan and Saturn catches to
+          </p>
+          <p id="sc08-4_10270">Governor Alexander has used the Nissan and Saturn catches to
 catapult himself into the National Governor's Association Chairmanship
 and to national political prominence great enough to cause talk about
 an Alexander role in the White House. Alexander has 90 tied his image
@@ -1706,7 +1809,8 @@ me right along with it." More than $460,000 of state funds have been
 spent on Saturn-oriented public relations in which media professionals
 have crafted Alexander's positive, concerned image. Yet near the plant
 site, among officials and citizens alike, few are Alexander
-boosters.</p><p>"We don't understand the governor letting such a thing come into
+boosters.</p>
+          <p id="sc08-4_10271">"We don't understand the governor letting such a thing come into
 our state. We think he should have said, "Okay, but give us so many
 jobs," complains Martha Torrence. Mayor Jones's struggles to get the
 governor's attention are well known. Alexander committed the state to
@@ -1716,53 +1820,65 @@ Howell, "We really feel like they should have helped us more in
 planning. The city of Columbia and the county are entitled to the same
 thing Spring Hill was. I think they gave more to Spring Hill to hold
 down the press situation. We weren't making that much noise so they
-didn't have to do anything to quiet us down."</p><p>The Saturn mishandling by the state led to a fundamental
+didn't have to do anything to quiet us down."</p>
+          <p id="sc08-4_10272">The Saturn mishandling by the state led to a fundamental
 questioning of the state's conduct of industrial recruitment by
 representatives of other localities, including the Tennessee Municipal
-Bond Fund vice president, Ed Young.</p><p>"What role should the state play in helping local governments deal
+Bond Fund vice president, Ed Young.</p>
+          <p id="sc08-4_10273">"What role should the state play in helping local governments deal
 with a mushrooming situation like this involving a major international
 corporation, the Tennessee Valley Authority, some seven or eight
 municipalities, several counties, a couple of development districts,
 at least a dozen state departments and agencies, and numerous other
 entities such as school and utility districts?" Young asks. Recruiting
-success is just the first step in a process-not the final one."</p><p>"There were a number of task forces the governor appointed in the
+success is just the first step in a process-not the final one."</p>
+          <p id="sc08-4_10274">"There were a number of task forces the governor appointed in the
 Spring Hill situation. They had one on transportation, one on water
 and sewer, but there was not the overall coordination of these
 functions. Only the governor can provide that," said Young. "State
 officials must begin to develop an institutionalized memory and
 expertise regarding growth management so that the right things are
 done by the right people at the right time and the mistakes of the
-past are avoided."</p><p>
+past are avoided."</p>
+          <p id="sc08-4_10275">
             <hi rend="bold">Making Modern Mythology</hi>
-          </p><p>The Saturn myth is far more important than the Saturn reality to
+          </p>
+          <p id="sc08-4_10276">The Saturn myth is far more important than the Saturn reality to
 all concerned. This is why, what in reality is one more branch plant
-locating in the rural South, has captured the national imagination.</p><p>To the company, the Saturn myth represents a 
-<pb n="23"/>
+locating in the rural South, has captured the national imagination.</p>
+          <p id="sc08-4_10278">To the company, the Saturn myth represents a 
+<pb id="sc08-4_10277" n="23"/>
 resurgence in
 thirty-eight states of the time-worn notion that "what's good for GM
 is good for the country." GM has found that even corporate giants can
 be given the aid and comfort Americans usually reserve for underdogs
 in the nationalistic crusade to beat the foreign competition (some of
-which is owned by GM).</p><p>The legendary dimensions of Saturn have built political careers and
+which is owned by GM).</p>
+          <p id="sc08-4_10279">The legendary dimensions of Saturn have built political careers and
 justified raids on public treasuries from the county's to the
 nation's. Even in the latest tax "reform" bill, the deficit-ridden
 Congress showed its support by writing in a special $60 million
-tax-break specifically for Saturn.</p><p>For the union and the industry the Saturn myth has come to
+tax-break specifically for Saturn.</p>
+          <p id="sc08-4_10280">For the union and the industry the Saturn myth has come to
 symbolize the "pattern for the Twenty-first Century industrial
 operation." No matter that eighty percent of it is already in
 practice. The union is willing to forego hard-fought contract elements
 like seniority and grievance systems for a chance to be a partner in
-this undertaking of mythic proportions.</p><p>Saturn's shiny, state-of-the-art features mesh with the public's
+this undertaking of mythic proportions.</p>
+          <p id="sc08-4_10281">Saturn's shiny, state-of-the-art features mesh with the public's
 desire to believe in reindustrialization--that the glories of Henry
-Ford's revolution can come back in a high-tech form.</p><p>For Tennessee and Maury County Saturn's myth is that the industrial
+Ford's revolution can come back in a high-tech form.</p>
+          <p id="sc08-4_10282">For Tennessee and Maury County Saturn's myth is that the industrial
 recruitment lottery can be won. There is now hope that young people
 will not have to leave their rural homes to find jobs. There is the
 illusion that our local and state officials are in charge even as they
-carry out decisions made in distant corporate boardrooms.</p><p>Despite the tremendous odds against them, communities across
+carry out decisions made in distant corporate boardrooms.</p>
+          <p id="sc08-4_10283">Despite the tremendous odds against them, communities across
 America have gone into a period of self-flagellation and blame that GM
 did not choose them. Most have learned nothing from the massive
 expenditures of time and money. They have fallen back on the losers
-dictim: "Try harder next time."</p><p>The desperate desire to win justifies all public actions on the
+dictim: "Try harder next time."</p>
+          <p id="sc08-4_10284">The desperate desire to win justifies all public actions on the
 basis of what they will do for industrial recruitment. In the wake of
 the Saturn success, the governor's State of the State speech instilled
 fear in the legislature that, if they don't pass his three billion
@@ -1770,7 +1886,8 @@ dollar roads program--"jobs corridors"--they would lose the Saturn
 suppliers to one of the eleven other states within two hundred-fifty
 miles of the new plant site. Similarly, better schools, higher sales
 taxes, and a myriad of other unrelated governmental items are
-justified to Americans by industrial recruitment.</p><p>Why are Americans so vulnerable to such mythology? There simply are
+justified to Americans by industrial recruitment.</p>
+          <p id="sc08-4_10285">Why are Americans so vulnerable to such mythology? There simply are
 not enough jobs to go around. Saturn has proven that states, and even
 unions, are willing to do most anything for jobs. A relative few is
 all Saturn will really provide. While the optimistic twenty thousand
@@ -1778,30 +1895,37 @@ eventual plant and related jobs sounds impressive, Governor Alexander
 in more candid moments indicates that two hundred thousand jobs, or
 ten percent of the state's workforce, are lost annually to plant
 closings, bankruptcies and shutdowns. Saturn's total job impact-ten
-percent of what is lost annually in one state-is thus miniscule.</p><p>Few will bother to look beyond the comforting myths at the reality
+percent of what is lost annually in one state-is thus miniscule.</p>
+          <p id="sc08-4_10286">Few will bother to look beyond the comforting myths at the reality
 when industrial recruitment succeeds. Maury County now is a living
-example-and the real effects will not be known for years.</p><p>What is known is that the three reasons for industrial
+example-and the real effects will not be known for years.</p>
+          <p id="sc08-4_10288">What is known is that the three reasons for industrial
 recruitment--jobs for locals, a better tax 
-<pb n="24"/>
+<pb id="sc08-4_10287" n="24"/>
 base, and community
 improvement and an era of progress for those who reside there - have
 not materialized. Many long-term residents have little hope that they
-ever will.</p><p>"Tomorrow's Jobs, Yesterday's Values" is the new Tennessee state
+ever will.</p>
+          <p id="sc08-4_10289">"Tomorrow's Jobs, Yesterday's Values" is the new Tennessee state
 slogan. At eighty percent of the industry standard pay, Saturn will
 surely bring yesterday's wages. A tax rate less than a third of normal
 promises a reprise of yesteryear's company town scenario. Which of
-yesterday's values are being preserved?</p><p>Saturn is preserving yesterday's elements that corporations
+yesterday's values are being preserved?</p>
+          <p id="sc08-4_10290">Saturn is preserving yesterday's elements that corporations
 value--a docile, concession-prone workforce located in a community
 already nervous by every rumor that its corporate benefactor may leave
-or is having financial woes.</p><p>In self-appreciation festivals in each of Tennessee's ninety-five
+or is having financial woes.</p>
+          <p id="sc08-4_10291">In self-appreciation festivals in each of Tennessee's ninety-five
 counties, citizens are gathering to learn about and celebrate their
 past as part of Homecoming 1986. Despite the attempted parallels
 between the early pioneers and those charting the frontiers of Saturn,
 there is a real awareness that something is being forgotten, something
-irretrievably lost in Tennessee.</p><p>What about the values of self reliance, of community-building. of
+irretrievably lost in Tennessee.</p>
+          <p id="sc08-4_10292">What about the values of self reliance, of community-building. of
 democratic local decision-making, of charting one's own economic
 destiny? Tennesseans may remember that their foreparents came here to
-escape their economic dependence on the Saturns of yesteryear.</p><p>Amidst the booths demonstrating barnraisings, furnituremaking,
+escape their economic dependence on the Saturns of yesteryear.</p>
+          <p id="sc08-4_10293">Amidst the booths demonstrating barnraisings, furnituremaking,
 spinning, and even moonshining, Tennesseans may get in touch with the
 real values needed to put all our unemployed citizens and resources
 back to work. While this may at first seem naive, economists say the
@@ -1810,11 +1934,13 @@ large corporations. Tennessee's Economic and Community Development
 Department, despite its almost exclusive emphasis on industrial
 recruitment, documents that over a five-year period almost seventy
 percent of the state's new manufacturing jobs were from Tennessee
-firms expanding or starting up.</p><p>As the 999 sites which didn't get Saturn ponder Maury County's
+firms expanding or starting up.</p>
+          <p id="sc08-4_10294">As the 999 sites which didn't get Saturn ponder Maury County's
 situation, maybe they should be grateful. If they can wean themselves
 from the Saturn myth, they have a chance to proactively develop their
 economy rather than reactively awaiting the next announcement from a
-far-off corporate boardroom.</p><p>The states, counties, and cities have shown they are willing to
+far-off corporate boardroom.</p>
+          <p id="sc08-4_10295">The states, counties, and cities have shown they are willing to
 subsidize every step of a company's business -build the roads, provide
 all the social and physical services, do the planning and growth
 management, subsidize the utilities, provide job training, waive the
@@ -1822,8 +1948,9 @@ taxes, own the factory and land, and sometimes pay the initial wages -
 taking all the risks. It's time public entities use these resources to
 support locally-generated forms of economic development which will
 hire local people, complement the ways of life of current residents,
-and build a stable local tax base and economy.</p><div3 id="sc08-4036" type="About">
-            <p>Carter Garber is the founder of Southern Neighborhoods
+and build a stable local tax base and economy.</p>
+          <div3 id="sc08-4_036" type="About">
+            <p id="sc08-4_10296">Carter Garber is the founder of Southern Neighborhoods
 Network, a regional organization providing training and assistance to
 community economic development groups. Verna Fausey is editor of the
 regional bimonthly <title>Southern Neighborhoods</title>, and the
@@ -1833,7 +1960,8 @@ issues in Tennessee. The authors wish to thank Paul Elwood, a member
 of their editorial board, who assisted with interviewing, research,
 and editing. Research funding was provided by National Rural Coalition
 as well as SNN's Economic Development Policy Project.</p>
-          </div3></div2>
+          </div3>
+        </div2>
       </div1>
     </body>
   </text>

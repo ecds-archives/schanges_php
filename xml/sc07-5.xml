@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc07-51204">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2 id="sc07-5_1204">
   <teiHeader id="sc07-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -18,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p>1996 Emory
+          <p id="sc07-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -38,7 +39,7 @@ University, Atlanta, Georgia 30322</p>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>This text is produced in conjunction with the
+        <p id="sc07-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
@@ -64,16 +65,22 @@ inserted in compliance with TEI guidelines using TEILITE</item>
       </change>
     </revisionDesc>
   </teiHeader>
-  <text id="sc07-51203">
-    <body id="sc07-51202">
-      <div1 id="sc07-5001" n="Southern Changes 7:5" type="Issue">
+  <text id="sc07-5_1203">
+    <body id="sc07-5_1202">
+      <div1 id="sc07-5_001" n="Southern Changes 7:5" type="Issue">
         <head>Southern Changes.  Volume 7, Number 5, 1985</head>
-        <p><title>Southern Changes</title>.  Volume 7, Number 5, <date value="1985-10">1985</date></p>
-        <div2 id="sc07-5002" n="1" type="Article"><head>The Attack on Voting Rights</head><byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate><bibl/><p>The Reagan Administration continues to widen its attack on minority
+        <p id="sc07-5_103"><title>Southern Changes</title>.  Volume 7, Number 5, <date value="1985-10">1985</date></p>
+        <div2 id="sc07-5_002" n="1" type="Article">
+          <head>The Attack on Voting Rights</head>
+          <byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate>
+          <bibl/>
+          <p id="sc07-5_104">The Reagan Administration continues to widen its attack on minority
 voting rights. In its latest depredation, it has filed a friend of the
 court brief with the Supreme Court arguing that the election of even a
 single black to office forecloses a challenge to a disputed election
-plan under the Voting Rights Act.</p><p>The case in which the brief was filed, <hi rend="italic">Thornburg
+plan under the Voting Rights Act.</p>
+          <p id="sc07-5_105">The case in which the brief was filed, <hi rend="italic">Thornburg
 v. Gingles</hi>, involves North Carolina's 1982 legislative
 reapportionment. In oral argument before the US Supreme Court, heard
 on December 4,1985, the Reagan Administration was represented by
@@ -83,7 +90,8 @@ Regional Council), argued against Fried and North Carolina Attorney
 General Lacy Thornburg on behalf of a group of black North
 Carolinians. Chambers told the Court that "blacks do not have and have
 not had an equal opportunity to participate in the electoral process
-and to elect representatives of their choice."</p><p>The Department of Justice originally approved the state's plan
+and to elect representatives of their choice."</p>
+          <p id="sc07-5_107">The Department of Justice originally approved the state's plan
 under the special preclearance provisions of Section 5 of the Act, but
 a three-judge court later ruled that features of the
 reapportionment--six multi-member and one single-member
@@ -94,13 +102,14 @@ elected in the challenged districts, this electoral success was "too
 minimal" and "too recent" in history to support a finding that race
 was no longer a significant adverse factor or that the elections were
 fair. Justice, however, in an effort to defend 
-<pb n="2"/>
+<pb id="sc07-5_106" n="2"/>
 its prior approval of
 the plan, is now arguing that the minimal minority success at the
 polls is a total bar to a further Section 2 challenge. Reduced to its
 essentials, the argument is the familiar one emanating from Reagan
 officials these days: that anything more than tokenism in civil rights
-is a quota or a form of prohibited affirmative action.</p><p>The Administration, despite its frequent rhetoric to the contrary,
+is a quota or a form of prohibited affirmative action.</p>
+          <p id="sc07-5_108">The Administration, despite its frequent rhetoric to the contrary,
 has never supported strong voting rights laws. When the extension of
 the Voting Rights Act was debated in the House in 1981, the
 Reaganites, saying they were "studying" the question, kept silent on
@@ -115,13 +124,15 @@ number of jurisdictions from compliance with preclearance, and another
 that would have made it easier for the remaining jurisdictions to
 enact new, potentially discriminatory voting laws. The Senate rejected
 the proposed amendments and adopted a version of Section 5 similar to
-that passed by the House.</p><p>Reagan and friends also vehemently fought the strengthening of
+that passed by the House.</p>
+          <p id="sc07-5_109">Reagan and friends also vehemently fought the strengthening of
 Section 2 of the Act. Section 2 is a general prohibition against
 discrimination in voting and is enforced in traditional lawsuits
 brought by the Attorney General or by private parties. Unlike Section
 5, it applies nationwide and to both old and new voting practices,
 even to those which may have been precleared by the Attorney
-General.</p><p>The civil rights community advocated the amendment of Section 2 to
+General.</p>
+          <p id="sc07-5_1010">The civil rights community advocated the amendment of Section 2 to
 include a "results" test for voting rights violations. The issue was
 important because the Supreme Court had indicated in a 1980 decision,
 <hi rend="italic">City of Mobile v. Bolden</hi>, that direct proof of a
@@ -129,7 +140,8 @@ racially discriminatory purpose was required in voting cases,
 regardless of how discriminatory a particular procedure was in
 practice. Given such a burden of proof, minorities could rarely expect
 to challenge successfully even the worst of discriminatory
-practices.</p><p>Attorney General William French Smith testified before the Senate
+practices.</p>
+          <p id="sc07-5_1011">Attorney General William French Smith testified before the Senate
 on behalf of the Administration in January, 1982 and urged that
 Congress reject the amendment of Section 2. He called the amendment
 "bad legislation" and a "dramatic change" in the law. It would, he
@@ -140,7 +152,8 @@ standard. The President later signed the Act into law in a Rose Garden
 ceremony, pronouncing the right to vote "the crown jewel of American
 liberties," and, without betraying a trace of irony, said the new
 legislation was evidence of his Administration's "unbending commitment
-to voting rights."</p><p>In light of Attorney General Smith's Senate testimony, it is not
+to voting rights."</p>
+          <p id="sc07-5_1012">In light of Attorney General Smith's Senate testimony, it is not
 surprising that the current Administration has taken a hostile view of
 Section 2 in <hi rend="italic">Gingles</hi>. What makes <hi rend="italic">Gingles</hi> critical is that the Court has never before
 revised the application of Section 2 to the particular facts of a
@@ -150,26 +163,30 @@ General are entitled to deference--at least in cases involving Section
 responsibilities. Whether or not the Court will defer to the Attorney
 General's opinion in this case, and whether it will establish
 restrictive guidelines for the implementation of Section 2, will weigh
-heavily on minority voting rights in the years ahead.</p><p>The government's arguments in the <hi rend="italic">Gingles</hi>
+heavily on minority voting rights in the years ahead.</p>
+          <p id="sc07-5_1013">The government's arguments in the <hi rend="italic">Gingles</hi>
 case, however, are refuted by Section 2 itself. The statute requires
 that political processes be "equally open" to minorities and that they
 not have "less opportunity than other members of the electorate to
 participate in the political process and to elect representatives of
 their choice." As the statute makes plain, the right protected is one
-of equal, not token, political participation.</p><p>In addition, the statute directs a court to consider "the totality
+of equal, not token, political participation.</p>
+          <p id="sc07-5_1014">In addition, the statute directs a court to consider "the totality
 of circumstances" in evaluating a violation, and provides that the
 extent to which minorities have been elected to office "is one
 circumstance that may be considered." If black electoral success is
 merely one of a number of circumstances which may be considered in a
 Section 2 case, a finding of minimal or any other level of minority
 candidate success could not, as the government argues, be
-sufficient.</p><p>Congress, in fact, expressly considered and rejected the very
+sufficient.</p>
+          <p id="sc07-5_1015">Congress, in fact, expressly considered and rejected the very
 argument now being pressed by the Reagan Administration in the Supreme
 Court. The Senate Report which accompanied amended Section 2 provides
 that while minority electoral success is a significant and relevant
-factor, it is n_ the be all or end all--it is not <hi rend="italic">dispositive</hi>.</p><p>Otherwise, the majority might evade the statute by manipulating the
+factor, it is n_ the be all or end all--it is not <hi rend="italic">dispositive</hi>.</p>
+          <p id="sc07-5_1017">Otherwise, the majority might evade the statute by manipulating the
 election of a "safe" minority candidate to 
-<pb n="3"/>
+<pb id="sc07-5_1016" n="3"/>
 give the appearance of
 racial fairness to a discriminatory election system. According to the
 Senate Report, which drew upon the language of prior voting rights
@@ -179,7 +196,8 @@ political process, we would merely be inviting attempts to circumvent
 the Constitution." Lower federal courts in Alabama, Texas, Louisiana
 and Illinois have decided cases on the basis of the new law and have
 predictably rejected the claim that minimal or token black success at
-the polls forecloses a Section 2 challenge.</p><p>The necessity of considering factors other than the election of
+the polls forecloses a Section 2 challenge.</p>
+          <p id="sc07-5_1018">The necessity of considering factors other than the election of
 minorities in the North Carolina case is particularly apparent in
 House District 21 (Wake County) and House District 23 (Durham County),
 where black candidates have enjoyed perhaps their greatest electoral
@@ -197,7 +215,8 @@ full slate without forfeiting any of their voting strength and still
 elect candidates of their choice. Such a system does not provide black
 voters equal access to the political process and is another reason the
 mere election of minorities to office should not foreclose a dilution
-challenge. The totality of circumstances must always be considered.</p><p>Aside from being contrary to the statute and legislative history,
+challenge. The totality of circumstances must always be considered.</p>
+          <p id="sc07-5_1019">Aside from being contrary to the statute and legislative history,
 the government's Section 2 argument is in opposition to the whole
 thrust of modern voting and civil rights enforcement. Congress enacted
 the Voting Rights Act in 1965 as an "uncommon exercise of
@@ -209,7 +228,8 @@ Act three times--in 1970,1975 and 1982. It would be illogical to
 suppose, that in amending Section 2, Congress suddenly retreated from
 its general commitment to racial equality in voting and adopted a
 statute providing only tokenism and minimal political
-participation.</p><p>Modern congressional enforcement of civil rights in other areas has
+participation.</p>
+          <p id="sc07-5_1020">Modern congressional enforcement of civil rights in other areas has
 similarly not been one of minimalism. Congress, for example, clearly
 intended to protect more than token access to public accommodations or
 employment when it enacted the Civil Rights Act in 1964, or token
@@ -219,7 +239,8 @@ success at the polls forecloses a voting rights challenge than to say
 the renting of a single motel room to a black forecloses a challenge
 to a discriminatory public accommodations policy, or that the presence
 of a few blacks in the jury pool bars challenge to a discriminatory
-jury selection system.</p><p>If the Reagan Administration prevails in its Supreme Court
+jury selection system.</p>
+          <p id="sc07-5_1021">If the Reagan Administration prevails in its Supreme Court
 argument, it will be impossible to eradicate discriminatory election
 procedures in places where minority candidates have had some
 success. On the other hand, jurisdictions in which blacks have had no
@@ -229,11 +250,18 @@ schemes. There will be no incentive for voluntary compliance with the
 Voting Rights Act and every inducement for circumvention. The Reagan
 Administration will have accomplished in the courts what it failed to
 do in the Congress--to significantly retard the nation's twenty year
-progress in minority voting rights.</p><div3 id="sc07-5022" type="About">
-            <p>Laughlin McDonald is director of the Southern Regional
+progress in minority voting rights.</p>
+          <div3 id="sc07-5_022" type="About">
+            <p id="sc07-5_1022">Laughlin McDonald is director of the Southern Regional
 Office of the American Civil Liberties Union.</p>
-          </div3></div2>
-        <div2 id="sc07-5003" n="2" type="Article"><head>The Importance of Black Legislators</head><byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate><bibl/><p>The Southern state legislature, once the incarnation of
+          </div3>
+        </div2>
+        <div2 id="sc07-5_003" n="2" type="Article">
+          <head>The Importance of Black Legislators</head>
+          <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate>
+          <bibl/>
+          <p id="sc07-5_1023">The Southern state legislature, once the incarnation of
 backwardness in Southern politics, now stands to become a center for
 innovation in regional affairs. The formerly all-male, all-white,
 one-party bastions of prejudice and reactionary social policy have
@@ -241,22 +269,25 @@ been changing in recent years. More change lies ahead. Political
 moderates, Republicans, women, and labor representatives have won
 seats, lending a bit of diversity to the legislatures. Blacks, whose
 lack of power has characterized the South's "peculiarity," have been
-elected in unprecedented numbers.</p><p>Before 1963, when Leroy Johnson served in the Georgia senate, no
+elected in unprecedented numbers.</p>
+          <p id="sc07-5_1025">Before 1963, when Leroy Johnson served in the Georgia senate, no
 black had won election to a Southern legislature since early in this
 century. Whites in the post-Reconstruction 
-<pb n="4"/>
+<pb id="sc07-5_1024" n="4"/>
 era eliminated blacks from
 public office--indeed, from registration and voting. Disfranchisement
 of blacks (and by the early 1900s, of poor whites as well) was the
 linchpin of the modern South's undemocratic order. The effects of
 disfranchisement have been shared not only by Southern state
-legislatures but by county and city governments.</p><p>Today 176 blacks--almost half of all black legislators in the
+legislatures but by county and city governments.</p>
+          <p id="sc07-5_1026">Today 176 blacks--almost half of all black legislators in the
 country--serve in the legislative chambers of the eleven Southern
 states. Change, once begun, has been swift and dramatic. In Louisiana,
 where blacks account for nearly a third of the population, there was
 only one black in the legislature as late as 1970. Today, there are
 eighteen, one of whom has been selected to the second ranking position
-in the state's lower house. </p><p>As important as these Southern changes have been, they co-exist
+in the state's lower house. </p>
+          <p id="sc07-5_1027">As important as these Southern changes have been, they co-exist
 with old continuities. For example, the racial composition of Southern
 state legislatures does not yet reflect the black population. Black
 legislators make up only ten percent of all Southern legislators, yet
@@ -264,34 +295,41 @@ blacks exceed twenty percent of the South's population. The forty-six
 member South Carolina senate received its first black member in 1983
 (see Southern Changes, May/June 1983). The number increased to four in
 1984, but an additional ten blacks would have to be elected before the
-senate would be representative of the state's black population.</p><p>The situation is the same in the other Southern states. It would be
+senate would be representative of the state's black population.</p>
+          <p id="sc07-5_1028">The situation is the same in the other Southern states. It would be
 necessary to more than double their current numbers for black
 legislators to achieve parity. In addition, reflective of continuing
 racial polarization, the overwhelming majority of those so far elected
 come from single-member districts composed primarily of black
 voters--districts created in recognition of the special difficulties
-facing black candidates.</p><p>And, resistance continues. The creation of single-member electoral
+facing black candidates.</p>
+          <p id="sc07-5_1029">And, resistance continues. The creation of single-member electoral
 districts has come under attack in North Carolina (see Laughlin
 McDonald's article in this issue of Southern Changes) where state and
 Reagan Administration officials have defended, before the US Supreme
 Court, a state legislative election plan that would make tokens of
-single-member districts and black voting strength.</p><p>Recent resistance has also taken the form of Justice Department
+single-member districts and black voting strength.</p>
+          <p id="sc07-5_1030">Recent resistance has also taken the form of Justice Department
 collusion with state and local white powerholders in a so-far
 unsuccessful two-year campaign involving the intimidation of rural
 black voters and the prosecution of voting rights activists in the
-Alabama Black Belt (see Southern Changes, May/June 1985).</p><p>Blacks who do win legislative office find the chambers that await
+Alabama Black Belt (see Southern Changes, May/June 1985).</p>
+          <p id="sc07-5_1031">Blacks who do win legislative office find the chambers that await
 them are fundamentally inhospitable to change. The accumulated wealth
 and practiced despotism of business interests make for fierce
 resistance or tempting accommodation. Setting out to represent the
 hopes of their largely poor and powerless constituencies, black
 legislators can find themselves stymied by the immovable, or swayed by
-the irresistible.</p><p>
+the irresistible.</p>
+          <p id="sc07-5_1032">
             <hi rend="bold">Winning Without A Majority</hi>
-          </p><p>The problems and prospects facing Southern black legislators were
+          </p>
+          <p id="sc07-5_1033">The problems and prospects facing Southern black legislators were
 discussed at a meeting in early November in Atlanta. Two questions
 dominated the talk of black legislators and their staffs: To what
 extent can the newly elected officials protect and expand their ranks?
-What can they do to be effective in their present situations?</p><p>"Winning Without a Majority," a conference paper prepared by Steve
+What can they do to be effective in their present situations?</p>
+          <p id="sc07-5_1034">"Winning Without a Majority," a conference paper prepared by Steve
 Suitts addressed the question of effectiveness. "For continued
 strength and increased clout," Suitts observed, "black legislators as
 a group cannot depend upon a growth of their numbers. They must find
@@ -304,7 +342,8 @@ require an extraordinary majority (i.e., a two-thirds or three-fourths
 majority). Black state legislators now have the opportunity and the
 numbers in most Southern states to win some important issues without a
 majority of the votes. Suitts drew examples from several states;
-legislators in attendance suggested others.</p><p>
+legislators in attendance suggested others.</p>
+          <p id="sc07-5_1035">
             <table cols="3" rows="14">
               <head>Blacks in Southern Legislatures, 1985</head>
               <row role="label">
@@ -373,55 +412,70 @@ legislators in attendance suggested others.</p><p>
                 <cell cols="1" role="data" rows="1">2</cell>
               </row>
             </table>
-          </p><p>Illustrative of one tactic are the Sanders Bills, so named for
+          </p>
+          <p id="sc07-5_1036">Illustrative of one tactic are the Sanders Bills, so named for
 Alabama State Senator Hank Sanders of Selma. These "local bills,"
 passed as custom decrees by the Alabama legislature upon request of
 the legislators from the affected counties, allow local governments in
 Senator Sanders' Black Belt district to change their method of county
 elections from at large to single member districts. The Sanders bills
 should insure proportional, bi-racial county and municipal governments
-in these majority black counties.</p><p>The effectiveness of black legislators will also be determined by
+in these majority black counties.</p>
+          <p id="sc07-5_1037">The effectiveness of black legislators will also be determined by
 their tenure. Seniority will not only make them more "equal" with
 their long-serving white colleagues but will let them look back on
-their own experiences, make adjustments, form alliances.</p><p>As for black increases in the present number of state legislators,
+their own experiences, make adjustments, form alliances.</p>
+          <p id="sc07-5_1039">As for black increases in the present number of state legislators,
 certainly the numerical potential exists throughout the South. In
 Georgia, for example, which has the largest number (twenty-seven) of
 black legislators, an additional thirty-two would have to be elected
 before 
-<pb n="5"/>
+<pb id="sc07-5_1038" n="5"/>
 the racial make-up of the general assembly represented the
 state's population. Black representation in the South Carolina Senate
 is only ten percent of what it would be if proportionate to the
 population; Mississippians would need to elect forty additional black
-legislators.</p><p>It seems clear, however, that the "easy" advances have already been
-made; the "tough" cases remain.</p><p>Most black representatives are elected in urban areas. Their
+legislators.</p>
+          <p id="sc07-5_1040">It seems clear, however, that the "easy" advances have already been
+made; the "tough" cases remain.</p>
+          <p id="sc07-5_1041">Most black representatives are elected in urban areas. Their
 districts have compact populations, ready availability of candidates,
 higher prospects for registration and voting, and a broader tolerance
 for bi-racial politics. These patterns are nearly reversed in rural
 areas where few blacks have been elected to the legislatures and where
 opposition has been most persistent in opposition to black political
-participation.</p><p>In the past, and at least through the 1990 census, most hopes for
+participation.</p>
+          <p id="sc07-5_1042">In the past, and at least through the 1990 census, most hopes for
 increasing the number of black legislators have lain and will lie with
 redistricting. Now, with a visible, if small, number of blacks among
 their ranks, white, Southern state legislators will claim even more
 reason to resist substantial additions. The presence of even a few
-blacks becomes a justification for no change.</p><p>Token change in the racial make-up of Southern legislatures will
+blacks becomes a justification for no change.</p>
+          <p id="sc07-5_1043">Token change in the racial make-up of Southern legislatures will
 kill the promise of recent years. This would be tragic. In the coming
 decade, state policies will be crucial in dealing with plant closings,
 community development, job training, and in finding sources of money
-for health care and public education.</p><p>Business and corporate representatives are pressing their state
+for health care and public education.</p>
+          <p id="sc07-5_1044">Business and corporate representatives are pressing their state
 legislative agendas with the intention of avoiding anything and
 everything which does not contribute to profitmaking. Moral guardian
 groups are intent on retaining the death penalty, assaulting welfare
 programs, and invading personal privacy. The election of black
 legislators--like any search for popular participation
 strategies--should speak to all Southerners who seek to counter the
-powers of reaction.</p><div3 id="sc07-5023" type="About">
-            <p>Alex Willingham lives in Shreveport, Louisiana. As a
+powers of reaction.</p>
+          <div3 id="sc07-5_023" type="About">
+            <p id="sc07-5_1045">Alex Willingham lives in Shreveport, Louisiana. As a
 Rockefeller Foundation Fellow, he is writing a book about Southern
 reapportionment.</p>
-          </div3></div2>
-        <div2 id="sc07-5004" n="3" type="Article"><head>Economics and a Murder Trial</head><byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate><bibl/><p>The road to Hayneville and Selma (No. 80) leads to dreams of
+          </div3>
+        </div2>
+        <div2 id="sc07-5_004" n="3" type="Article">
+          <head>Economics and a Murder Trial</head>
+          <byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate>
+          <bibl/>
+          <p id="sc07-5_1046">The road to Hayneville and Selma (No. 80) leads to dreams of
 asphodel and honey. The old cotton fields are now meadows filled with
 slow-moving fat cattle that drift from one patch of shade to the
 other, and in the Spring they are covered with waves and sheets and
@@ -431,22 +485,26 @@ the fields, the banks, the center stretches of the road and is
 accented and made even more beautiful by patches of purple vetch and
 crimson clover. In the Spring it brings the Black Belt glory and along
 with the primerose comes the honeysuckle, which is almost too sweet to
-be borne and drugs one's senses with its overpowering perfume.</p><p>The day of the first Liuzzo trial I went alone through the empty
+be borne and drugs one's senses with its overpowering perfume.</p>
+          <p id="sc07-5_1047">The day of the first Liuzzo trial I went alone through the empty
 countryside. A gentle wind rippled the primroses and brought the scent
 of the honeysuckle and I felt I was in Sleeping Beauty Land,
 everything was silent, empty and stretched for miles and miles under
 the empty sky. I began to feel a keen loneliness and was glad to pull
 in at a filling station to ask my way of a Negro youth who was keeping
 the station and the store. "Where was she shot?" I asked him while he
-serviced the car.</p><p>He knew at once whom I meant and said: "Just half a mile down the
-road on the left hand side."</p><p>I went just half a mile down the road and there on the left hand
+serviced the car.</p>
+          <p id="sc07-5_1048">He knew at once whom I meant and said: "Just half a mile down the
+road on the left hand side."</p>
+          <p id="sc07-5_1049">I went just half a mile down the road and there on the left hand
 side were still the skid marks, scarring the dirt where the car ran
 off the road with her dead hands on the steering wheel. And on this
 day in Hayneville a man accused of murder was on trial charged with
 shooting her fair in the face as he and others came abreast of her
 car. A cold-blooded, calculated, planned and above all impersonal
 murder was charged, for she was said to be utterly unknown to them,
-and simply killed on "principle."</p><p>When I finally got to the Courthouse in Hayneville, through more
+and simply killed on "principle."</p>
+          <p id="sc07-5_1050">When I finally got to the Courthouse in Hayneville, through more
 miles of deserted countryside, I found the Courthouse surrounded, by
 cars and by State Troopers, great, burly men with guns on their
 hips. I went past the Courthouse and up the pleasant street of white,
@@ -456,11 +514,12 @@ fence with red rags tied to it and I thought it was to keep birds away
 until a woman called to me from the porch, holding the screen door
 half open. Her voice was not pleasant when she said: "You can't park
 there, I don't want anyone parking there in front of my house. Didn't
-you see the string?"</p><p>So the red rags were not for the birds but for me, and this set the
+you see the string?"</p>
+          <p id="sc07-5_1052">So the red rags were not for the birds but for me, and this set the
 tone of the reception the "outsiders" received in Hayneville that
 day. I finally found a parking place and came back to the Courthouse,
 thinking, "I'll never get in, there'll 
-<pb n="15"/>
+<pb id="sc07-5_1051" n="15"/>
 be such a crowd." But when I
 did get in the courtroom was only half filled. It is a beautiful, tall
 windowed, high ceilinged old room, and a bird kept flying through the
@@ -470,14 +529,16 @@ like all of the other thousands and thousands of white men I had seen
 all my life in all of the little country towns of the South and I
 liked their looks and felt at once a sense of kinship with them, so I
 resented the whispered comment I heard in front of me, "Just a bunch
-of red necks."</p><p>This came from the newsmen who filled the front of the spectator
+of red necks."</p>
+          <p id="sc07-5_1053">This came from the newsmen who filled the front of the spectator
 side of the courtroom. There were over half a hundred: a clotted group
 of handsome, squat, powerful, long haired and well dressed Englishmen
 on the front row, and behind them the taller, cigarette smoking,
 nervous Americans from all the great papers, magazines and TV and
 radio chains, and mixed in with the Americans and English, a few
 others from all over the world, notably one young Swede who seemed to
-have the most feeling about the murder of anyone there.</p><p>When lunch time came I was invited by a local reporter, a
+have the most feeling about the murder of anyone there.</p>
+          <p id="sc07-5_1054">When lunch time came I was invited by a local reporter, a
 red-headed boy from Tallapoosa County, to have lunch with the newsmen
 on the lawn in front of the old white Courthouse. Every drug store and
 restaurant was closed tight against the "outsiders" but we were
@@ -489,17 +550,21 @@ and cynical and, I must also add, contemptuous. They looked on this
 trial as just another of the folkways of a barbaric Southland, for
 which they felt no affinity and no responsibility. They spoke casually
 of "fascism" and Nazism, compared the South to South Africa and seemed
-to think that here in the South was the repository of original sin.</p><p>Since none of the white residents of Hayneville would speak to
+to think that here in the South was the repository of original sin.</p>
+          <p id="sc07-5_1055">Since none of the white residents of Hayneville would speak to
 them, they asked me a thousand questions: "Was it true that one man in
 Lowndes County was known to have killed 15 Negroes and never even got
-indicted?"</p><p>I had heard the same tale, and thought of an old Negro who came by
+indicted?"</p>
+          <p id="sc07-5_1056">I had heard the same tale, and thought of an old Negro who came by
 once to cut the grass and in the course of the morning I found he had
 come from Lowndes County and worked for Mr.-------, whose reputation
 as a killer was so bad. I asked him, "Weren't you afraid working for
-Mr. ------?"</p><p>The old man shook his head, "No, Ma'm, I won't scared of him. He
+Mr. ------?"</p>
+          <p id="sc07-5_1057">The old man shook his head, "No, Ma'm, I won't scared of him. He
 won't no bad man, he wouldn't do nuthin' to you--that is less you
 'sputed wid him." Evidently the old man had "sputed wid him" as he was
-seeking sanctuary in Montgomery County.</p><p>I also remembered the tale of Walter Jones. The first white man
+seeking sanctuary in Montgomery County.</p>
+          <p id="sc07-5_1058">I also remembered the tale of Walter Jones. The first white man
 ever hung in Montgomery County, he had come up from Lowndes County
 where he too was known as a killer, and had hunted down his enemy, a
 white doctor who was sitting in a train at the Union Station, and
@@ -507,13 +572,16 @@ poked his gun in the window of the train and "blown his head off." I
 had heard that tale with embellishments a hundred times. And the tale
 always ended the same way, "The mistake he made was doing his killing
 in Montgomery County. If he had just waited till Dr.------ got back to
-Lowndes County he would never have been hung."</p><p>By the second day it was plain to see that the man charged with
+Lowndes County he would never have been hung."</p>
+          <p id="sc07-5_1059">By the second day it was plain to see that the man charged with
 Mrs. Liuzzo's killing would not get hung and probably not
 convicted. The feeling in the courtroom was not one of horror at the
-slaying but resentment that it had taken place in Lowndes County.</p><p>During that day's recess the reporters and I again had dinner on
+slaying but resentment that it had taken place in Lowndes County.</p>
+          <p id="sc07-5_1060">During that day's recess the reporters and I again had dinner on
 the grounds. Here, various groups sat rigidly to themselves, all
 eating from the same kinds of boxes and on the same ground, but having
-no word to say to each other.</p><p>The KKK group was large. There were there, also, weary looking
+no word to say to each other.</p>
+          <p id="sc07-5_1061">The KKK group was large. There were there, also, weary looking
 women, handsome children and sunburned men, country people, some who
 had gone to town and worked in the steel mills and suffered the
 torments of Hell in the burning mills and the dirty, smoky, town of
@@ -527,7 +595,8 @@ when they were off work in dingy company houses, traded with scrip at
 dingy company stores, and all day the smoke hovered over them, lit by
 the flames at night. We used to ride out to see a "run" and watch the
 little figures working with the molten steel and wondered how any
-human beings could stand the heat.</p><p>And out of this life had come many Alabama Ku Kluxers, the men
+human beings could stand the heat.</p>
+          <p id="sc07-5_1062">And out of this life had come many Alabama Ku Kluxers, the men
 looking slightly askew and their women weary and with that vague, wan
 look that suggests pellagra some time in their lives. Some looked as
 if they had had pellagra of the body, mind and soul. And I thought
@@ -542,28 +611,33 @@ their failure, as if it was their fault. And I remembered the gaunt,
 fanatic preachers who hollered at them that they had sinned and that
 their suffering was the price of their sinning, and who, as though
 they did not have Hell enough on this earth, sent them to an even
-hotter Hell each Sunday.</p><p>Out of these conditions had come these fanatic, joyless, pitiful
+hotter Hell each Sunday.</p>
+          <p id="sc07-5_1063">Out of these conditions had come these fanatic, joyless, pitiful
 and ignorant people who were filled with hate of the "riggers" and of
-all who helped them out.</p><p>There was a public relations man at the trial, looking like a
+all who helped them out.</p>
+          <p id="sc07-5_1064">There was a public relations man at the trial, looking like a
 parody of an old southern colonel, big, black hat, string tie, dirty
 white shirt and dirty white whiskers, passing out hate literature
 which went after not only the "riggers," but the Jews, Communists, and
 Catholics, the U. S. Supreme Court, the President of the United States
 and the United Nations. Hatred seemed to take in just about
-everybody.</p><p>Sitting close to the Klan was the Law, the big, powerful state
+everybody.</p>
+          <p id="sc07-5_1066">Sitting close to the Klan was the Law, the big, powerful state
 troopers, not only close to them in presence but it seemed in spirit;
 there was a communion there between the Kluxers and the troopers that
 could not be missed. Once 
-<pb n="16"/>
+<pb id="sc07-5_1065" n="16"/>
 again the newsmen said contemptuously,
 "Storm Troopers." Sitting to themselves were the County Prosecutor and
 his Assistant and the Judge, proper gentlemen doing a painful duty,
-and not happily.</p><p>The third day was the worst when the defendant's lawyer, Matt
+and not happily.</p>
+          <p id="sc07-5_1067">The third day was the worst when the defendant's lawyer, Matt
 Murphy, began his wild tirade to sway the Jury. A massive man, he had
 the same noble brow and handsome looks of all the famous aristocratic
 Percys from Mississippi. His uncle and grandfather had been general
 counsels for the steel mills and had been gentlemen and men of
-integrity, and had both died of their own hands.</p><p>But here was a descendant of the Percys, having descended into the
+integrity, and had both died of their own hands.</p>
+          <p id="sc07-5_1068">But here was a descendant of the Percys, having descended into the
 Pit and dragging all of the rest of us with him. He was unutterably
 and unnaturally vile. He accused the poor, dead woman of the nastiest
 sort of sex mania and the Negro boy of even worse. She had only come
@@ -571,7 +645,8 @@ South for purposes of sex, she was driving with the Negro boy for
 purposes of sex, she was going out to park with the Negro boy with no
 other purpose than sex. He piled vileness upon vileness until the
 whole courtroom stank. And all in the name of "Southern Tradition and
-pure white Southern Womanhood."</p><p>The visiting reporters were not so polite that day. I was the only
+pure white Southern Womanhood."</p>
+          <p id="sc07-5_1069">The visiting reporters were not so polite that day. I was the only
 example of pure, white and certainly southern womanhood they could
 talk to and they made it plain that they did not think I was worth the
 vileness that had taken place in my name and in the name of all "pure,
@@ -580,10 +655,12 @@ not get offended as I agreed with them; I, too, felt shame that such a
 cesspool should have overflowed into the courtroom in the name of
 "southern womanhood." I did not feel we women deserved it but then I
 did not feel we protested enough against it, and still again I did not
-think we were the real reason.</p><p>Killing may be done in our name but the real reason is much deeper
+think we were the real reason.</p>
+          <p id="sc07-5_1070">Killing may be done in our name but the real reason is much deeper
 and has been there forever, since the beginning of man, and that is
 the desire of one man to keep another man in bondage to him, so he may
-live at ease and the other man must do the hard work.</p><p>Life is pleasant in Hayneville and in all the other little southern
+live at ease and the other man must do the hard work.</p>
+          <p id="sc07-5_1071">Life is pleasant in Hayneville and in all the other little southern
 towns; that is if you are white and have even a small amount of
 money. You wake up in the morning to the sound of someone stirring in
 the kitchen, and come in to a hot breakfast. During the middle of the
@@ -591,16 +668,19 @@ day, you sit on your porch and direct a black man digging in the yard
 while another black woman cooks the dinner, cleans up the house,
 washes and irons the clothes and, above all, looks after the
 children. Cheap labor is one of the greatest luxuries of life, and to
-give it up is one of the hardest things there is to do.</p><p>And it is cheap labor and the power over cheap labor that is at the
+give it up is one of the hardest things there is to do.</p>
+          <p id="sc07-5_1072">And it is cheap labor and the power over cheap labor that is at the
 heart of Bloody Lowndes. The men accused of killing Mrs. Liuzzo were
-jobless steel workers.</p><p>Many southern white men have been brutalized and oppressed
+jobless steel workers.</p>
+          <p id="sc07-5_1073">Many southern white men have been brutalized and oppressed
 themselves and given nothing to comfort their souls but that "they
 were better than riggers." They feed their souls on it and when that
 support is removed, they must face the fact that they are nothing but
 "poor, white trash" with no one to look down on, but rather looked
 down on from above with the same kind of contempt and disgust they
-show Negroes.</p><p>There in Hayneville, the white men who own the county 
-<pb n="17"/>
+show Negroes.</p>
+          <p id="sc07-5_1075">There in Hayneville, the white men who own the county 
+<pb id="sc07-5_1074" n="17"/>
 and control
 it simply want to "keep the Negro in his place." They are determined
 to do so and when the jury came with a mistrial I realized that even
@@ -611,7 +691,8 @@ they did not find the Ku Kluxer guilty. In a second trial, a jury
 exonerated him. The defendant and other Ku Kluxers had taken delight
 in their actions and were still proud of themselves after the first
 trial was over, as they went to konclave after konclave to be
-worshipped and admired.)</p><p>I drove back by myself after the trial was over. Still alone in the
+worshipped and admired.)</p>
+          <p id="sc07-5_1076">I drove back by myself after the trial was over. Still alone in the
 empty countryside, for the first time I became afraid, and for a
 moment I had a feeling of terror such as I never had before. Just
 halfway between Hayneville and the junction with No. 80, on. a
@@ -624,7 +705,8 @@ beside them as they roared off up the road. I stopped the car until I
 could get my breath and my heart could stop beating so hard. I knew
 killing would strike again. For the white people of Hayneville had
 condoned the killing whatever they might say; there was killing in the
-air.</p><p>And it did strike again. This time a young white Episcopalian
+air.</p>
+          <p id="sc07-5_1077">And it did strike again. This time a young white Episcopalian
 priest was killed by a white man who comes from one of the "leading
 families" of Lowndes County and a young Catholic priest lies at the
 point of death from the same man. Bloody Lowndes is living up to its
@@ -634,10 +716,12 @@ white woman I knew from Hayneville who told me once, "I simply love
 living there; it is all just like one big family." Of course she meant
 the white people, and they do all stick together; the idea that the
 white man who killed the Rev. Mr. Daniels would be convicted was
-absurd.</p><p>Matt Murphy was not at this trial. he had been killed in an
+absurd.</p>
+          <p id="sc07-5_1078">Matt Murphy was not at this trial. he had been killed in an
 automobile wreck not long after the Liuzzo trial. But vileness was
 there, and this time the charge was merely manslaughter, and the
-verdict--not guilty.</p><p>I cannot see that just the "right to vote" is going to change these
+verdict--not guilty.</p>
+          <p id="sc07-5_1079">I cannot see that just the "right to vote" is going to change these
 kinds of counties very much, and they are the dark heart of
 Dixie. Lowndes County has a population of 81% Negro and 19% white, but
 the white people own almost all the land and practically all the
@@ -648,7 +732,8 @@ can the government do about giving them a living if they are fired?
 After the Civil War the federal army was down here to protect the
 right of the Negroes to vote, but they never got the 40 acres and a
 mule, and much good voting did them. As soon as the federal troops
-were withdrawn, the Negroes were thrown back into bondage.</p><p>Into these Black Counties have gone the SNCC kids, jeans, beards,
+were withdrawn, the Negroes were thrown back into bondage.</p>
+          <p id="sc07-5_1080">Into these Black Counties have gone the SNCC kids, jeans, beards,
 sandals and long haired girls, with courage that seems almost beyond
 belief. They live in the Negro communities, work and eat there and
 never walk alone, every minute in danger, and they know it. Suppose
@@ -660,8 +745,9 @@ said "a necessitous man is not a free man" and I see no way to make
 them free until they have a way to make a living, and in Lowndes
 County I don't see how they are going both to live and be free. Will
 Bloody Lowndes live up to its name again and again before it gives the
-Negroes life, freedom, and a living?</p><div3 id="sc07-5024" type="About">
-            <p>(Editor's Note) In October 1965, the Southern Regional
+Negroes life, freedom, and a living?</p>
+          <div3 id="sc07-5_024" type="About">
+            <p id="sc07-5_1081">(Editor's Note) In October 1965, the Southern Regional
 Council published "Economics and a Murder Trial" in its journal New
 South. The essay, a first-person account of the Hayneville, Alabama,
 trial of a Klansman indicted for the murder of civil rights worker
@@ -670,7 +756,7 @@ Foster Durr under the pen name of Eliza Heard. At the time, Virginia
 and her husband, attorney Clifford Durr, lived on a small farm near
 Wetumpka, Alabama. (See the accompanying article in this issue of
 <title>Southern Change</title>.)</p>
-            <p>"I was the only Southern white woman who went to the trial,"
+            <p id="sc07-5_1082">"I was the only Southern white woman who went to the trial,"
 Virginia Durr recalls. "I drove over by myself to Lowndes County every
 day. And all the journalists--who had come from throughout the
 world--wanted to take my picture. I said, 'You think you're doing me a
@@ -678,84 +764,104 @@ favor, but you 're just going to ruin me. All that will come out in
 the papers, you'll be gone to the next story, and I'll be the one who
 gets the late night phone calls and the threats. ' So they didn't run
 the pictures.</p>
-            <p>"For the same reason, when I wrote about the trial for Maggie Long
+            <p id="sc07-5_1083">"For the same reason, when I wrote about the trial for Maggie Long
 (editor of New South)--and I had to write about it because I was so
 mad--I felt I couldn't sign my name.  Cliff and I were in enough
 trouble already. So I thought of Eliza Foster--my great-grandmother on
 my father's side--and Virginia Heard--my father's mother--and I signed
 "Eliza Heard."</p>
-          </div3></div2>
-        <div2 id="sc07-5005" n="4" type="Article"><head>Grace and guts</head><byline>
+          </div3>
+        </div2>
+        <div2 id="sc07-5_005" n="4" type="Article">
+          <head>Grace and guts</head>
+          <byline>
             <docAuthor>
               <name reg="Durr, Virginia" type="person">Virginia
                Durr</name>
             </docAuthor>
-          </byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate><bibl/><p>
+          </byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate>
+          <bibl/>
+          <p id="sc07-5_1084">
             <hi rend="bold">Steve Suitts:</hi>
-          </p><p>I have the privilege of introducing Virginia Durr, a remarkable
+          </p>
+          <p id="sc07-5_1085">I have the privilege of introducing Virginia Durr, a remarkable
 Alabamian whose life, spanning more than eight decades of Southern
 history, chronicles the best aspirations of our region. In the great
 movements which the South has witnessed, which it has endured, and
 which it has triumphed in this century, Virginia Durr has been an
-irreplaceable part. It started even as she was a child.</p><p>At the age of six, in Birmingham, she went out to take a place in
+irreplaceable part. It started even as she was a child.</p>
+          <p id="sc07-5_1086">At the age of six, in Birmingham, she went out to take a place in
 the day's great crusade--for prohibition in Alabama. Virginia, the
 daughter of one of Birmingham's most respected Presbyterian ministers
 got ready to march. She was handed a sign that read: "Please save my
-father from the demon rum."</p><p>Even at six she knew that the daughter of a well-known minister
+father from the demon rum."</p>
+          <p id="sc07-5_1087">Even at six she knew that the daughter of a well-known minister
 ought not make such a public declaration. For the first and perhaps
 only time, she decided to forgo participation in a political
-movement.</p><p>Not too much later, when across the South working people began to
+movement.</p>
+          <p id="sc07-5_1088">Not too much later, when across the South working people began to
 organize and the struggle of the times became one between labor and
 capital, Virginia Durr took up with labor. When the Depression hit,
 Virginia-vice-president of the Junior League of Birmingham--didn't see
 just the small niceties of country club parties, she saw the hungry
 bellies. She saw the children wearing flour sacks, and she began to
 make a difference in the way she lived her life and in the way that
-people had to endure their lives in the South.</p><p>Ten years before the creation of the Southern Regional Council,
+people had to endure their lives in the South.</p>
+          <p id="sc07-5_1090">Ten years before the creation of the Southern Regional Council,
 Virginia Durr became one of the young men and 
-<pb n="18"/>
+<pb id="sc07-5_1089" n="18"/>
 women who went to
 Washington with the New Deal. When Franklin D. Roosevelt declared that
 the South was the nation's "number one economic problem," Virginia
 Durr already knew that. She was already working with a variety of
-Southerners concerned with the problems of poverty.</p><p>Virginia Durr was never, thank God, the soul of discretion. When,
+Southerners concerned with the problems of poverty.</p>
+          <p id="sc07-5_1091">Virginia Durr was never, thank God, the soul of discretion. When,
 after World War II, the nation began to tolerate the intolerance of
 McCarthyism, when white liberals separated themselves from long-time
 friends and stood silent when they were persecuted, Virginia Durr
 stood up and shrieked in protest. When people were ostracized,
 Virginia Durr would invite the accused to dinner and drinks. She
-protested that people cannot be guilty by their associations.</p><p>Twenty-five years before the creation of the Southern Regional
+protested that people cannot be guilty by their associations.</p>
+          <p id="sc07-5_1092">Twenty-five years before the creation of the Southern Regional
 Council's Voting Rights Project, Virginia Durr knew that one of the
 keys to a democratic South lay in the voting rights of blacks and poor
 whites. She successfully led the anti-poll tax efforts throughout the
-region and in the halls of Washington.</p><p>Now for most people that would be a lifetime of accomplishment. But
+region and in the halls of Washington.</p>
+          <p id="sc07-5_1093">Now for most people that would be a lifetime of accomplishment. But
 Virignia Durr was only getting started. When she returned to Alabama
 from Washington--because she would not hold her peace during the days
 of McCarthyism--she continued to work and to live a life which
 deserves all honor. When Rosa Parks decided she was not going to get
 up on the bus, Virginia Durr was there supporting that effort as an
-activist, as a friend, and as a white liberal.</p><p>When the Civil Rights Movement began to grow, the Durr farm near
+activist, as a friend, and as a white liberal.</p>
+          <p id="sc07-5_1094">When the Civil Rights Movement began to grow, the Durr farm near
 Montgomery was a center of activism, of retreat, and of planning for
 the defense of the defenseless. Long days and nights were spent there
-by many prominent leaders--and by many whom you never will know.</p><p>During the development of the anti-poverty programs, and later, the
+by many prominent leaders--and by many whom you never will know.</p>
+          <p id="sc07-5_1095">During the development of the anti-poverty programs, and later, the
 anti-war movement, the Durr farm continued to be a place where young
 men and women could understand that there had been others who came
-before them and that these would be others who would suppport them.</p><p>With the advent of the feminist movement, Virginia Durr was
+before them and that these would be others who would suppport them.</p>
+          <p id="sc07-5_1096">With the advent of the feminist movement, Virginia Durr was
 there. She said, "I've been doing that all my life." And she had. When
 it comes to speaking her mind, Virginia makes a few exceptions about
-being a Southern lady.</p><p>And now, in this age in which not fear but indifference causes
+being a Southern lady.</p>
+          <p id="sc07-5_1097">And now, in this age in which not fear but indifference causes
 inaction, Virginia Durr's continues to be the voice of
 encouragement. She is a woman who combines grace and guts. Her
 upbringing and even her voice reminds us of the accent of an
 aristocrat, of Southern high culture. But her beliefs, her actions,
-and her works are those of an egalitarian.</p><p>It's hard for me to recall Virginia without also recalling Cliff
+and her works are those of an egalitarian.</p>
+          <p id="sc07-5_1098">It's hard for me to recall Virginia without also recalling Cliff
 Durr. Their lives together showed how social commitment and personal
 loyalty to another can be lovingly and effectively combined. When
 Virginia faced Mississippi's Jim Eastland before the Senate witch hunt
 committee that he conducted in the South to find the communists and
 bolsheviks, she said, "My name is Virginia Durr. I'm the wife of Cliff
 Durr." A woman whose accomplishments were her own, she recalled
-herself in association with the person she most loved.</p><p>For a long time Virginia said about her sister Josephine and her
+herself in association with the person she most loved.</p>
+          <p id="sc07-5_1099">For a long time Virginia said about her sister Josephine and her
 brother-in-law Hugo Black that their lives were a marriage of justice
 and mercy. Virginia should know. For she is one of the region's models
 of both cherished qualities. Today we're privileged to have a
@@ -763,148 +869,187 @@ Southerner whose contributions to a democratic South have been a
 mighty force in shaping the opportunties that exist in the region. But
 just as important, Virginia Durr has given us the loveliest example of
 how to conduct a life with a commitment of love for those around
-us.</p><p>
+us.</p>
+          <p id="sc07-5_10100">
             <hi rend="bold">Virginia Durr:</hi>
-          </p><p>I have to explain that a few of the remarks just made about me,
+          </p>
+          <p id="sc07-5_10101">I have to explain that a few of the remarks just made about me,
 which were absolutely beautiful, were not true. The only reason I went
 to a prohibition meeting when I was age six is that my uncle, Malcolm
 Patterson, who was the governor of Tennessee, was running on a
 prohibition ticket. I went to hear him speak and ask people for votes,
-which he didn't get.</p><p>I got interested in the labor movement in Birmingham because my
+which he didn't get.</p>
+          <p id="sc07-5_10102">I got interested in the labor movement in Birmingham because my
 brother in-law, Hugo Black, was the lawyer for the unions. He used to
 have terrific fights with Forney Johnson who represented the big
 corporations. Because they didn't have any workman's compensation,
 Hugo would win big awards from juries. So I'd go to the courts
-sometimes to hear him argue.</p><p>I was delighted to hear that my father was a distinguished
+sometimes to hear him argue.</p>
+          <p id="sc07-5_10103">I was delighted to hear that my father was a distinguished
 Presbyterian preacher with the South Highland Church in
 Birmingham. But my father actually was thrown out of the
-church. There's a reason if you want to hear it.</p><p>My grandfather, who lived in Union Springs, Alabama, was quite well
+church. There's a reason if you want to hear it.</p>
+          <p id="sc07-5_10104">My grandfather, who lived in Union Springs, Alabama, was quite well
 off. He thought the Civil War was the stupidest thing in the wide
 world and the "fire-eaters" as he called them, William L. Yancey and
 all, he couldn't stand. So he sent his cotton to Liverpool and told
 the merchants there to save his money until after the War. Nearly
 everybody else in Alabama had nothing but Confederate money--which
-wasn't worth starting a fire with--but he had gold.</p><p>I was brought up to be very much ashamed of him because he wasn't a
+wasn't worth starting a fire with--but he had gold.</p>
+          <p id="sc07-5_10106">I was brought up to be very much ashamed of him because he wasn't a
 Confederate. My other grandfather had fought with General Nathan
 Bedford Forrest and was in the last battle at Selma; he was the hero
 of the family--this great dashing Confederate Colonel. But my
 grandfather in 
-<pb n="19"/>
+<pb id="sc07-5_10105" n="19"/>
 Indian Springs was not mentioned very much except that
-he was rich--"thank God."</p><p>My father had the opportunity of a very good education. He went to
+he was rich--"thank God."</p>
+          <p id="sc07-5_10107">My father had the opportunity of a very good education. He went to
 Southwestern, then to Hampden-Sydney, then Princeton, and on to
 Edinburgh in Scotland. He travelled to Berlin and Heidelberg. He went
 to the Holy Land. When he came back from his long tour he had some
 slight doubts in his mind as to whether every word in the Bible was
 literally true and dictated by God. He wrestled with it for a long
-time but he never said much about it.</p><p>In fact, I used to go to church, Sunday School, evening service on
+time but he never said much about it.</p>
+          <p id="sc07-5_10108">In fact, I used to go to church, Sunday School, evening service on
 Sundays, prayer meeting on Thursday night. We'd have morning prayers
-every morning and I'd sit there praying for food.</p><p>In those days, preachers sent you to hell at every meeting, and
+every morning and I'd sit there praying for food.</p>
+          <p id="sc07-5_10109">In those days, preachers sent you to hell at every meeting, and
 hell wasn't just somewhere down yonder, it was right under the
-floor. So I grew up in absolute terror of hell.</p><p>My father preached hell fire and damnation but he did have his
+floor. So I grew up in absolute terror of hell.</p>
+          <p id="sc07-5_10110">My father preached hell fire and damnation but he did have his
 doubts. One day the session of the Presbysterian Church came to him
 and said they'd suspected he wasn't really very orthodox, in fact they
 thought he was heretical. They told him he had to swear that he
 absolutely believed that the whale swallowed Jonah and then spat him
 up alive three days later just as happy and healthy as he ever
-was. They said they'd give him a week to decide.</p><p>My poor father came home and walked up and down for a week. We took
+was. They said they'd give him a week to decide.</p>
+          <p id="sc07-5_10111">My poor father came home and walked up and down for a week. We took
 him coffee. My mother cried. I was only seven or eight, and I
-cried. My brother and my sister cried.</p><p>He was in a terrible fix for a man in his forties. He had a wife
+cried. My brother and my sister cried.</p>
+          <p id="sc07-5_10112">He was in a terrible fix for a man in his forties. He had a wife
 and three children, and while his mother had that plantation down in
 Union Springs, you know it wasn't as good as it used to be in the old
-slavery days.</p><p>At the end of the week he came back and said he didn't believe
+slavery days.</p>
+          <p id="sc07-5_10113">At the end of the week he came back and said he didn't believe
 it. They threw him out of the whole Southern Presbyterian Church and
 declared him to be a heretic. And I swear to God that it was easier to
-be raised in Birmingham as a communist than as a heretic.</p><p>My father had to go into business, and of course he wasn't trained
+be raised in Birmingham as a communist than as a heretic.</p>
+          <p id="sc07-5_10114">My father had to go into business, and of course he wasn't trained
 to go into business. And, I hate to tell this, but my father had been
 raised in the days just after slavery and he really thought every
 black person had been born to wait on him. So to be poor and
 struggling too, and he went into an insurance business where he sold
-insurance to black people.</p><p>Steve Suitts said in his introduction how aristocratic I was, well,
-I can assure you the poorer we got the more aristocratic we became.</p><p>But you see my trouble has been--and the reason that I have caused
+insurance to black people.</p>
+          <p id="sc07-5_10115">Steve Suitts said in his introduction how aristocratic I was, well,
+I can assure you the poorer we got the more aristocratic we became.</p>
+          <p id="sc07-5_10116">But you see my trouble has been--and the reason that I have caused
 so many rifts--is because I cannot differentiate between politics and
 people. If I get into a movement, then I like the people or I don't
 like them. So when I got into the civil rights movement, I liked the
 people in the movement. I really adored Mrs. Mary McLeod Bethune. I
 felt like they were fighting for me. I was fighting, but they were
-fighting for me.</p><p>Because to be a sweet Southern girl in the South during the days
+fighting for me.</p>
+          <p id="sc07-5_10117">Because to be a sweet Southern girl in the South during the days
 that I grew up you were just like you were a prisoner. You couldn't do
 anything. You couldn't even kiss the boys without feeling guilty. The
-great ambition of a Southern girl's life was to marry well.</p><p>I got into voting rights and civil rights almost by chance. I got
+great ambition of a Southern girl's life was to marry well.</p>
+          <p id="sc07-5_10118">I got into voting rights and civil rights almost by chance. I got
 to Washington during the New Deal. My husband was working in the
 Reconstruction Finanace Corporation. I was free to go into town and
 take part in the women's division of the Democratic National
 Committee. I was urged to do that by my brother-in-law, Hugo
 Black. Hugo really believed that women's place was in the home; he
 certainly believed that his wife's place was in the home. But he
-encouraged me--I never knew why, but he did.</p><p>So I went in and got thrown immediately into the fight to get rid
+encouraged me--I never knew why, but he did.</p>
+          <p id="sc07-5_10120">So I went in and got thrown immediately into the fight to get rid
 of the poll tax. I won't go all into that, but we did get rid of
 it. Now everybody can vote. And, in Alabama, guess who they vote for?
 Year after year after year? George Wallace. They voted for him over
 and over and over and they'll probably vote for him this time if he's
 breathing.
-<pb n="20"/></p><p>Then came the question of the segregation and one heroine of that
+<pb id="sc07-5_10119" n="20"/></p>
+          <p id="sc07-5_10121">Then came the question of the segregation and one heroine of that
 era in the South was Rosa Parks. My husband went down and got her out
-of jail.</p><p>When you talk about heroines, you take a woman who makes
+of jail.</p>
+          <p id="sc07-5_10122">When you talk about heroines, you take a woman who makes
 twenty-three dollars a week in Montgomery, who has a sick husband,
 sick mother--she has to support these two people herself. Living in a
-public housing project. And she's a very well-educated woman.</p><p>As you know, there were a number of Yankee women who came South
+public housing project. And she's a very well-educated woman.</p>
+          <p id="sc07-5_10123">As you know, there were a number of Yankee women who came South
 after the Civil War and started missionary schools for black
 women. The school that Rosa Parks attended there in Montgomery was
 called Mrs. White's School. These Yankee school teachers taught these
 black women reading, writing and arithmetic--but also to be
-citizens.</p><p>Rosa Parks claimed the right of being a citizen of the United
+citizens.</p>
+          <p id="sc07-5_10124">Rosa Parks claimed the right of being a citizen of the United
 States. She sat there on that bus and was arrested and taken to
-jail. But it was a beginning of the end of segregation.</p><p>What we have to tackle now is poverty--no jobs, no money, nothing
-for people to do. And infant mortality. Let me give you an example.</p><p>Is anybody here a Baptist? Well don't get your feelings hurt when I
-talk about the Baptists and what happened in Montgomery, Alabama.</p><p>The Baptist Hospital in Montgomery, Alabama is the biggest hospital
+jail. But it was a beginning of the end of segregation.</p>
+          <p id="sc07-5_10125">What we have to tackle now is poverty--no jobs, no money, nothing
+for people to do. And infant mortality. Let me give you an example.</p>
+          <p id="sc07-5_10126">Is anybody here a Baptist? Well don't get your feelings hurt when I
+talk about the Baptists and what happened in Montgomery, Alabama.</p>
+          <p id="sc07-5_10127">The Baptist Hospital in Montgomery, Alabama is the biggest hospital
 in the city. It has a fine neo-natal care center and doctors who make
 lot of money. It has a beautiful statue out front: Jesus holding out
 his arms, saying, "Suffer all little children to come unto me." So
 poor, pregnant women--many of them teenagers--began to bring the
 little children unto them. They brought them from hither and yon, from
-all over South Alabama.</p><p>What did the hospital do? They closed the beds. Those big white
+all over South Alabama.</p>
+          <p id="sc07-5_10128">What did the hospital do? They closed the beds. Those big white
 bellied Baptists closed those beds and said, "If they can't pay,
 they've just got to die." And they didn't even take the statue of
-Jesus down.</p><p>Well, my son-in-law got real mad. He's a very nice guy, although he
+Jesus down.</p>
+          <p id="sc07-5_10129">Well, my son-in-law got real mad. He's a very nice guy, although he
 is a Yankee, he's not as much a Yankee as he used to be. He led
 several marches and helped get back some of the beds, not all of them
 by any means. NQW this is a rich hospital with a rich bunch of
-trustees and what they're doing is killing these children.</p><p>Now people tell me, "You can't go back to the New Deal. The New
-Deal is over. It's a new time."</p><p>Well it may be a new time, but hell, the New Deal took people who
+trustees and what they're doing is killing these children.</p>
+          <p id="sc07-5_10130">Now people tell me, "You can't go back to the New Deal. The New
+Deal is over. It's a new time."</p>
+          <p id="sc07-5_10131">Well it may be a new time, but hell, the New Deal took people who
 were without jobs--black and white--and put them to work. They had WPA
-and CCC and NYA and PWA.</p><p>And I think the government ought to give people jobs now. And if it
+and CCC and NYA and PWA.</p>
+          <p id="sc07-5_10132">And I think the government ought to give people jobs now. And if it
 takes public ownership of the means of production--now that's a
 serious phrase, that'll get you in jail every time if you say it at
 the wrong place. But I believe that to let people be idle and let the
 country go to hell while we put all our money into Star Wars is
-insane.</p><p>I believe all the nice things I've heard this morning about what to
+insane.</p>
+          <p id="sc07-5_10134">I believe all the nice things I've heard this morning about what to
 do about food stamps, or about public housing, or 
-<pb n="21"/>
+<pb id="sc07-5_10133" n="21"/>
 about learning a new
 skill. But what the hell use is it to learn a new skill when you can't
-get a job?</p><p>We've got to do something. Fiddling around isn't going to do any
+get a job?</p>
+          <p id="sc07-5_10135">We've got to do something. Fiddling around isn't going to do any
 good. I don't think we can just make it a little better here and a
-little better there. We've got to do something more drastic.</p><p>Now you all in Georgia have the lousiest bunch of
+little better there. We've got to do something more drastic.</p>
+          <p id="sc07-5_10136">Now you all in Georgia have the lousiest bunch of
 congressmen--except for Wyche Fowler--that I have ever known. We have
 an even worse bunch of congressmen in Alabama. We have a crazy man, a
 senator named Denton. I mean he's not just crazy in a polite sense of
-the word, he's crazy in the medical sense of the word.</p><p>And, of course, you cannot run for office in Montgomery, Alabama,
+the word, he's crazy in the medical sense of the word.</p>
+          <p id="sc07-5_10137">And, of course, you cannot run for office in Montgomery, Alabama,
 or anywhere unless you get on a television. And the people who get on
 the television the most seem to get elected the most. In Montgomery
 we've got Bill Dickinson, probably the worst congressman in the United
 States. He's on the television every fifteen minutes because he's paid
 for by the war contractors. He is the head of an armed services
-committee.</p><p>So, are we going to be run by this bunch of bastards or not? I mean
+committee.</p>
+          <p id="sc07-5_10138">So, are we going to be run by this bunch of bastards or not? I mean
 this is what we get down to. They're corrupt. They're stupid. They're
-absolutely lacking in any compassion. And Reagan is the worst.</p><p>Are we going to sit here and go to hell with the atomic bomb and
+absolutely lacking in any compassion. And Reagan is the worst.</p>
+          <p id="sc07-5_10139">Are we going to sit here and go to hell with the atomic bomb and
 become specks of dust or are we going to get busy and get mad and do
-something?</p><p>I mean Meese, Reagan--they're just such terrible people, they're
+something?</p>
+          <p id="sc07-5_10140">I mean Meese, Reagan--they're just such terrible people, they're
 not even real. They're just reflections of tv or movies. We've got to
 get busy because the people who are now running the country seem
 determined to destroy us. We've got to get together and stand up for
-ourselves or we're all going to be dead.</p><div3 id="sc07-5025" type="About">
-            <p>During the forty-first anniversary meeting of the
+ourselves or we're all going to be dead.</p>
+          <div3 id="sc07-5_025" type="About">
+            <p id="sc07-5_10141">During the forty-first anniversary meeting of the
 Southern Regional Council, held in Atlanta in early November, civil
 rights advocate Virginia Durr spoke at a luncheon held in honor of the
 publication of her autobiographical recollections. (Virginia Durr's
@@ -913,8 +1058,14 @@ Birmingham, is available from the University of Alabama Press.) Below,
 Southern Changes presents excerpts from Virginia's luncheon talk, as
 well as the introductory comments of SRC executive director Steve
 Suitts. Steve Suitts.</p>
-          </div3></div2>
-        <div2 id="sc07-5006" n="5" type="Article"><head>The Origins of the Montgomery Bus Boycott</head><byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate><bibl/><p>Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
+          </div3>
+        </div2>
+        <div2 id="sc07-5_006" n="5" type="Article">
+          <head>The Origins of the Montgomery Bus Boycott</head>
+          <byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate>
+          <bibl/>
+          <p id="sc07-5_10142">Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
 summer of 1949 to join the English Department at all-black Alabama
 State College. A thirty-three year old native of Culloden, Georgia,
 twenty-five miles from Macon, she was the twelfth and youngest child
@@ -932,14 +1083,16 @@ time. Twelve months later, after five years of teaching in Macon, Jo
 Ann Robinson moved to Atlanta to take an M.A. in English at Atlanta
 University and then accepted a teaching position at Mary Allen College
 in Crockett, Texas. After one year there, Mrs. Robinson received a
-better offer from Alabama State, and moved to Montgomery.</p><p>Mrs. Robinson was an enthusiastic teacher and responded
+better offer from Alabama State, and moved to Montgomery.</p>
+          <p id="sc07-5_10143">Mrs. Robinson was an enthusiastic teacher and responded
 energetically to her new position at Alabama State. She also became an
 active member of Dexter Avenue Baptist Church, which many Alabama
 State professors attended, and she joined the Women's Political
 Council, a black professional women's civic group that one of her
 English Department colleagues, Mrs. Mary Fair Burks, had founded three
 years earlier when the local League of Women Voters had refused to
-integrate.</p><p>It was a blissful fall, Mrs. Robinson later remembered. "I loved
+integrate.</p>
+          <p id="sc07-5_10144">It was a blissful fall, Mrs. Robinson later remembered. "I loved
 every minute of it. " Just prior to Christmas she made preparations to
 visit some relatives in Cleveland for the holidays. Storing her car in
 a garage, she boarded a Montgomery City Lines public bus for the ride
@@ -947,20 +1100,24 @@ to Dannelly Field, the municipal airport. Only two other passengers
 were aboard, and Mrs. Robinson, immersed in holiday thoughts, took a
 seat towards the front of the bus. Suddenly, however, she was roused
 from her thoughts about her family by angry words from the driver, who
-was ordering her to get up.</p><p>"He was standing over me, saying 'Get up from there! Get up from
-there,' with his hand drawn back," she later recalled.</p><p>Shaken and frightened, Mrs. Robinson fled from the bus. "I felt
+was ordering her to get up.</p>
+          <p id="sc07-5_10145">"He was standing over me, saying 'Get up from there! Get up from
+there,' with his hand drawn back," she later recalled.</p>
+          <p id="sc07-5_10146">Shaken and frightened, Mrs. Robinson fled from the bus. "I felt
 like a dog. And I got mad, after this was over, and I realized that I
 was a human being, and just as intelligent and far more trained than
 that bus driver was. But I think he wanted to hurt me, and he did
-. . . I cried all the way to Cleveland."</p><p>That experience convinced Mrs. Robinson that the 'Women's Political
+. . . I cried all the way to Cleveland."</p>
+          <p id="sc07-5_10148">That experience convinced Mrs. Robinson that the 'Women's Political
 Council ought to target Montgomery's segregated bus seating for
 immediate attention. "It was then that I made up . . . my mind that
 whatever Icould add to that organization that would help to bring that
 practice down, I would do it," Mrs. Robinson recalled. "When I came
 back, the first thing I did was to call a meeting . . . and tell 
-<pb n="22"/>
+<pb id="sc07-5_10147" n="22"/>
 them
-what had happened."</p><p>Only then did Mrs. Robinson learn that her experience was far from
+what had happened."</p>
+          <p id="sc07-5_10149">Only then did Mrs. Robinson learn that her experience was far from
 unique, that dozens of other black citizens, primarily women, had
 suffered similar abuse from Montgomery bus drivers. Over the previous
 few years several black women, Mrs. Geneva Johnson, Mrs. Viola White,
@@ -976,13 +1133,15 @@ segregated seating on Montgomery's street cars, a boycott that had won
 a refinement of the city ordinance so as to specify that no rider had
 to surrender a seat unless another was available. Nonetheless, drivers
 often made black riders who were seated just behind the whites-only
-section get up and stand so that all white passengers could sit.</p><p>Mrs. Burks thought black toleration of those seating practices and
+section get up and stand so that all white passengers could sit.</p>
+          <p id="sc07-5_10150">Mrs. Burks thought black toleration of those seating practices and
 other driver abuse, such as forcing black passengers to pay their dime
 at the front, and then get off and board the bus through the rear,
 side door, was scandalous. "Everyone would look the other way. Nobody
 would acknowledge what was going on," Mrs. Burks remembered. "It
 outraged me that this kind of conduct was going on," and that so far
-no black community organizations had done anything about it.</p><p>Black activism did exist in Montgomery, even though it had not yet
+no black community organizations had done anything about it.</p>
+          <p id="sc07-5_10151">Black activism did exist in Montgomery, even though it had not yet
 focused upon bus conditions, despite the widespread
 complaints. Several years earlier Arthur Madison, a New York lawyer
 who came from one of black Montgomery's most prominent families, had
@@ -995,7 +1154,8 @@ idiosyncratic to assume a leadership role in the community. The brutal
 rape of a black teenager, Gertrude Perkins, by two white policemen
 earlier in 1949had led Rev. Solomon S. Seay to repeated efforts to
 obtain justice in the case, but white officials had brushed off his
-complaints.</p><p>Another visible black activist was Pullman porter Edgar Daniel
+complaints.</p>
+          <p id="sc07-5_10152">Another visible black activist was Pullman porter Edgar Daniel
 Nixon, a member of A. Philip Randolph's Brotherhood of Sleeping Car
 Porters and a local leader of the National Association for the
 Advancement of Colored People (NMCP). Nixon served as Alabama state
@@ -1009,14 +1169,16 @@ party's Montgomery County Democratic Executive Committee, a tribute
 not only to the more than 1,500 black voters that Nixon and other
 activists like businessman Rufus A. Lewis had helped register, but
 also to the grudging respect that many whites felt for Nixon's
-tireless efforts.</p><p>Lewis, a well-known former football coach at Alabama State College,
+tireless efforts.</p>
+          <p id="sc07-5_10153">Lewis, a well-known former football coach at Alabama State College,
 had been especially active not only in encouraging black registration
 but also in trying to unify black Montgomery's civic
 activism. Although some colleagues viewed Lewis and Nixon as low-key
 rivals for top leadership, Lewis' Citizens Club served as a regular
 hang-out for politically-minded blacks; his Citizens Steering
 Committee, formed in the fall of 1952, looked to find ways to exert
-some black political influence over Montgomery's city policies.</p><p>Equally if not more important to the political life of black
+some black political influence over Montgomery's city policies.</p>
+          <p id="sc07-5_10154">Equally if not more important to the political life of black
 Montgomery than Nixon's Progressive Democrats, the NMCP branch, or
 Lewis' Citizens Committee, however, was Mrs. Burks and Mrs. Robinson's
 Women's Political Council. By the early 1950s Robinson had succeeded
@@ -1027,13 +1189,15 @@ Pierce, who were either faculty members at Alabama State, teachers in
 the local, segregated public schools, or wives of relatively
 well-to-do black professional men. More than either Nixon's circle or
 Lewis', these middle-class women were the most numerous, most
-reform-minded group of black civic activists in Montgomery.</p><p>The first notable opportunity for black political influence to make
+reform-minded group of black civic activists in Montgomery.</p>
+          <p id="sc07-5_10155">The first notable opportunity for black political influence to make
 itself felt came in November, 1953, in a special election to fill one
 vacant seat on the three-member Montgomery City Commission. The
 black-supported victor, Dave Birmingham, a genuine racial liberal, won
 fifty-three percent of the vote in a contest that involved little
 discussion of race and allowed Birmingham to construct an electoral
-coalition of blacks and lower-class whites.</p><p>Impressed by their success in representing the balance of power,
+coalition of blacks and lower-class whites.</p>
+          <p id="sc07-5_10157">Impressed by their success in representing the balance of power,
 black civic activists, led by the WPC, met in late 1953 with
 Birmingham and his two racially moderate colleagues, Mayor
 W. A. "Tacky" Gayle and George Cleere, to voice three complaints about
@@ -1041,12 +1205,14 @@ the racial practices of the municipally regulated and chartered bus
 company, Montgomery City Lines. Blacks having to stand over empty,
 white only seats on crowded buses was a constant insult and
 problem. So 
-<pb n="23"/>
+<pb id="sc07-5_10156" n="23"/>
 was most drivers' practice of forcing blacks to board
 through the rear door. Additionally, while buses stopped at every
 block in white sections of town, it was only every other block in
-black neighborhoods.</p><p>The three commissioners, Birmingham in particular, listened
-politely, but nothing came of the session.</p><p>Undaunted, Mrs. Robinson, who served as the WPC and black
+black neighborhoods.</p>
+          <p id="sc07-5_10158">The three commissioners, Birmingham in particular, listened
+politely, but nothing came of the session.</p>
+          <p id="sc07-5_10159">Undaunted, Mrs. Robinson, who served as the WPC and black
 community's principal spokesperson, obtained another audience with the
 commission in March, 1954, and reiterated the three complaints. The
 WPC, which historian of Montgomery J. Mills Thornton III has
@@ -1064,29 +1230,34 @@ overcrowded buses would eliminate the most serious problems, but the
 white officials rejected the WPC's proposal that the front-to-back
 seating of whites, and back-to-front seating of blacks, with no one
 having to stand over an empty seat or give one up after being seated,
-would in no way offend the state segregation law.</p><p>Mrs. Robinson and her colleagues were unhappy over the city is
+would in no way offend the state segregation law.</p>
+          <p id="sc07-5_10160">Mrs. Robinson and her colleagues were unhappy over the city is
 refusal to show any flexibility. In early May, the Commission did
 approve the hiring of Montgomery's first four black police officers,
 but many black Montgomerians attached greater importance to the
 ongoing prosecution of a black teenager, Jeremiah Reeves, who faced
-the death penalty for the supposed rape of a white woman in 1951.</p><p>Mrs. Robinson was already thinking of how to put more pressure on
+the death penalty for the supposed rape of a white woman in 1951.</p>
+          <p id="sc07-5_10161">Mrs. Robinson was already thinking of how to put more pressure on
 the Commission to improve bus conditions when, on May 17, came a news
 announcement that strengthened her determination. The United States
 Supreme Court, in Brown v. Board of Education of Topeka and five
 companion cases challenging racially segregated public schools, ruled
 that governmentally-mandated school segregation was unconstitutional
 and that the sixty-year-old doctrine of "separate but equal" was no
-longer valid.</p><p>Four days after the landmark Brown decision, Mrs. Robinson typed a
+longer valid.</p>
+          <p id="sc07-5_10162">Four days after the landmark Brown decision, Mrs. Robinson typed a
 letter to Montgomery's Mayor Gayle, with a copy to Montgomery City
 Lines manager J. H. Bagley. She, thanked Gayle for the March meeting
 and for the change in the buses' alternate block stopping practice,
 but reiterated the WPC's great unhappiness at the ongoing seating
 policies. Then she politely voiced the threat she had quietly been
-recommending to her black leadership colleagues.</p><p>
+recommending to her black leadership colleagues.</p>
+          <p id="sc07-5_10163">
             <hi rend="italic">Mayor Gayle, three-fourths of the riders of these
 public conveyances are Negroes. y Negroes did not patronize them, they
 could not possibly operate.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10164">
             <hi rend="italic">More and more of ourr people are already arrangin
 with neighbors and friends to ride to keep from being insulted and
 humiliated, by bus drivers. There has been talk from twenty-five or
@@ -1096,31 +1267,35 @@ for a convenience which is right for all bus passengers. We, the
 Council, believe that when this matter has been put before you and the
 Commissioners, that agreeable terms can be met in a quiet and
 unostensible manner to the satisfaction of all concerned.</hi>
-          </p><p>Mrs. Robinson pointedly noted that many Southern cities, including
+          </p>
+          <p id="sc07-5_10165">Mrs. Robinson pointedly noted that many Southern cities, including
 Mobile, already were using the front-to-back, back-to-front segregated
 seating plan that Montgomery refused to implement. "Please consider
 this plea, and if possible, act favorably upon it," she concluded,
 "for even now plans are being made to ride less, or not at all, on our
-buses. We do not want this."</p><p>Despite the extremely gentle and tactful language she employed in
+buses. We do not want this."</p>
+          <p id="sc07-5_10166">Despite the extremely gentle and tactful language she employed in
 her letter to Gayle, Mrs. Robinson was hoping that black community
 sentiment would support a bus boycott to force the Commission's
 hand. Another meeting with the white officials on June 1 registered no
 progress, but Mrs. Robinson found only modest interest in her boycott
 idea throughout much of the black community, and placed the idea on a
-back burner for the time being.</p><p>Next to bus conditions, the second civic concern troubling the WPC
+back burner for the time being.</p>
+          <p id="sc07-5_10168">Next to bus conditions, the second civic concern troubling the WPC
 and other black activists was the decidedly inferior quality of the
 segregated parks and recreation facilities; available to black
 Montgomerians. One step the WPG had identified as a partial remedy was
 the appointment of a black member, such as WPC member Mrs. Irene West,
 to the 
-<pb n="24"/>
+<pb id="sc07-5_10167" n="24"/>
 city's Parks and Recreation Board. Mrs. Robinson voiced this
 request at a January, 1955, meeting of the City Commission, but
 despite supportive comments from Birmingham and Mayor Gayle, nothing
 happened. Instead, attention turned to the upcoming mid-March city
 elections, and a public candidates' forum that E. D. Nixon's
 Progressive Democratic Association held on February 23 at the black
-Ben Moore Hotel.</p><p>All three incumbents, plus their major challengers, Harold McGlynn
+Ben Moore Hotel.</p>
+          <p id="sc07-5_10169">All three incumbents, plus their major challengers, Harold McGlynn
 for Gayle, Frank Parks for Cleere, and Sam Sterns and Clyde Sellers
 for Birmingham, attended the first-of-its-kind event and faced
 questions about bus conditions as well as the Parks and Recreation
@@ -1131,46 +1306,54 @@ candidates seemed impressive, one of Birmingham's challengers, former
 Auburn University football star and state highway patrol officer Clyde
 Sellers, saw the convocation, and Birmingham's sympathy for black
 concerns, as just the opening that was needed to cut into Birmingham's
-previously solid white working class electoral support.</p><p>Sellers' strategic desire to make race an election issue got a
+previously solid white working class electoral support.</p>
+          <p id="sc07-5_10170">Sellers' strategic desire to make race an election issue got a
 coincidental boost on March 2 when a fifteen-year-old black girl,
 Claudette Colvin, refused to give up her bus seat, well toward the
 rear of the vehicle, so as to accommodate an overflow of
-newly-boarding white passengers.</p><p>Police officers were able to drag Colvin from the bus only with
+newly-boarding white passengers.</p>
+          <p id="sc07-5_10171">Police officers were able to drag Colvin from the bus only with
 considerable force. The incident immediately sent the black leadership
 into action. Mrs. Rosa Parks, a seamstress and long time NAACP member
 who was adult advisor to the NAACP Youth Council, to which Claudette
 Colvin belonged, immediately began soliciting financial assistance for
 the her legal defense, as did Mrs. Parkst good friend Virginia Foster
-Durr, one of Montgomery's few racially liberal whites.</p><p>Rufus Lewis' newly formed Citizen's Coordinating Committee, yet
+Durr, one of Montgomery's few racially liberal whites.</p>
+          <p id="sc07-5_10172">Rufus Lewis' newly formed Citizen's Coordinating Committee, yet
 another leadershipunity organization which included E. D. Nixon and
 the WPC's Thelma Glass among its top officers, quickly sent out a
 mimeographed letter, "To Friends of Justice and Human Rights," seeking
 Colvin's acquittal, a reprimand of the bus driver involved, and
 clarification of the oft-ignored city provision that no rider had to
-give up a seat unless another was available.</p><p>Nixon and Mrs. Robinson, thinking that Colvin's case might supply
+give up a seat unless another was available.</p>
+          <p id="sc07-5_10173">Nixon and Mrs. Robinson, thinking that Colvin's case might supply
 an opportunity for a court challenge to the constitutionality of
 Montgomery's bus seating practices, interviewed the young woman, but
 concluded that her personal situation and the particulars of the
 arrest precluded using the incident as a test case. Robinson and
 others met, unsuccessfully, with city and bus company officials to
-seek dismissal of the charges.</p><p>Claudette Colvin was quickly convicted for both assault and battery
+seek dismissal of the charges.</p>
+          <p id="sc07-5_10174">Claudette Colvin was quickly convicted for both assault and battery
 and violating the segregation statute at a March 18 trial, only three
 days before the city election. When Colvin's attorney, young
 Montgomery native Fred Gray--who had been one of Mrs. Robinson's
 Alabama State students before attending law school in Ohio--filed
 notice of appeal, the prosecutor indicated that he would pursue only
-the assault and battery charge, not the segregation issue.</p><p>On the 21st, Sellers narrowly bested Dave Birmingham, who declined
+the assault and battery charge, not the segregation issue.</p>
+          <p id="sc07-5_10175">On the 21st, Sellers narrowly bested Dave Birmingham, who declined
 a possible runoff because of bad health, while Frank Parks, who had
 received black support, defeated Cleere. Disappointed both by the
 Colvin outcome and Birmingham's loss, the black leadership hoped for
-other opportunities.</p><p>In June, Mrs. Robinson, Gray and other black representatives met
+other opportunities.</p>
+          <p id="sc07-5_10176">In June, Mrs. Robinson, Gray and other black representatives met
 once again with city and bus company officials. Despite Gray's
 observations about Mobile's practices, the white officials,
 particularly bus company lawyer Jack Crenshaw, adhered firmly to their
 contention that no changes could be made legally in bus seating
 practices. Popular complaints about the seating situation and driver
 abuse remained at high levels, but no further organized initiatives
-were undertaken.</p><p>One relative newcomer to the city, Rev. Martin Luther King, Jr.,
+were undertaken.</p>
+          <p id="sc07-5_10177">One relative newcomer to the city, Rev. Martin Luther King, Jr.,
 who had succeeded Vernon Johns as pastor of Dexter Avenue Baptist
 Church in mid-1954 and accompanied Robinson's delegation to the early
 March meeting with the city, attributed a good part of the inaction to
@@ -1180,12 +1363,14 @@ among the active leaders, King thought, was the pervasive indifference
 of many middleclass black Montgomerians to any political or civic
 concern. Economic vulnerability and fear of white retribution
 understandably inhibited some, but "too much of the inaction was due
-to sheer apathy," King later wrote.</p><p>Although Mrs. Robinson still husbanded her hope that the WPC could
+to sheer apathy," King later wrote.</p>
+          <p id="sc07-5_10178">Although Mrs. Robinson still husbanded her hope that the WPC could
 at some point launch a boycott of the buses, the late summer and fall
 of 1955 passed with relative quiet; the October 21 arrest of one black
 woman, Mrs. Mary Louise Smith, for refusing to surrender her seat
 became known to most of the black leadership only several months
-later.</p><p>On Thursday evening December 1, Mrs. Rosa Parks, the NAACP activist
+later.</p>
+          <p id="sc07-5_10179">On Thursday evening December 1, Mrs. Rosa Parks, the NAACP activist
 who had assisted Claudette Colvin's defense, felt tired and weary from
 her seamstress work at the Montgomery Fair department store when she
 boarded one of the Cleveland Avenue route buses at Montgomery's Court
@@ -1196,27 +1381,31 @@ J. F. Blake, to get up so that one newly-boarding white man--who could
 not be accommodated in the front section--could sit. Although the
 other three people complied, Mrs. Parks silently refused, and two
 police officers were summoned to place her under arrest and transport
-her to the city jail.</p><p>Word of the incident spread quickly. E. D. Nixon called the jail to
+her to the city jail.</p>
+          <p id="sc07-5_10180">Word of the incident spread quickly. E. D. Nixon called the jail to
 learn about the charges, only to be refused an answer by the officer
 on duty. Knowing that attorney Gray was out of town for the day, Nixon
 called white lawyer Clifford Durr, who like his wife Virginia, already
 knew Mrs. Parks. The Durrs and Nixon drove to the jail to sign the
 bond for Mrs. Parks' release. A Monday trial date was set for the
-charge of violating the city's segregated seating ordinance.</p><p>While attorney Durr explained to Nixon and Mrs. Parks that they
+charge of violating the city's segregated seating ordinance.</p>
+          <p id="sc07-5_10182">While attorney Durr explained to Nixon and Mrs. Parks that they
 could win her acquittal since there had been no other seat available
 for her to take when driver Blake demanded hers, Nixon argued that the
 arrest of Mrs. Parks, 
-<pb n="25"/>
+<pb id="sc07-5_10181" n="25"/>
 a widely-known and well-respected person in
 black Montgomery, was precisely the opportunity the black leadership
 had long-awaited for challenging the entire bus seating
 situation. With some hesitance Mrs. Parks agreed, and Nixon went home
-to plan his next steps.</p><p>Later that evening Fred Gray returned to town, learned of
+to plan his next steps.</p>
+          <p id="sc07-5_10183">Later that evening Fred Gray returned to town, learned of
 Mrs. Parks' arrest and immediately called Mrs. Robinson, who he knew
 to be the "real moving force" among the black
 leadership. Mrs. Robinson in turn called Nixon. They quickly agreed
 that the moment for launching the long-pondered boycott of the buses
-was at hand.</p><p>Nixon would make the calls to set up a black leadership meeting
+was at hand.</p>
+          <p id="sc07-5_10184">Nixon would make the calls to set up a black leadership meeting
 Friday evening; Mrs. Robinson and her WPC colleagues would immediately
 start producing and distributing handbills calling upon black
 Montgomerians to stay off the buses on Monday, December 5. "We had
@@ -1224,39 +1413,48 @@ planned the protest long before Mrs. Parks was arrested,"
 Mrs. Robinson later emphasized. "There had been so many things that
 happened that the black women had been embarrassed over, and they were
 ready to explode." They knew immediately that "Mrs. Parks had the
-caliber of character we needed to get the city to rally behind us."</p><p>Wasting not a moment7 Mrs. Robinson sat down at her typewriter with
+caliber of character we needed to get the city to rally behind us."</p>
+          <p id="sc07-5_10185">Wasting not a moment7 Mrs. Robinson sat down at her typewriter with
 a mimeograph stencil and typed the same message on the sheet several
-times:</p><p>
+times:</p>
+          <p id="sc07-5_10186">
             <hi rend="italic">This is for Monday, December 5, 1955</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10187">
             <hi rend="italic">Another Negro woman has been arrested and thrown
 into jail because she refused to get up out of her seat on the bus for
 a white person to sit down.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10188">
             <hi rend="italic">It is the second time since the Claudette Colbert
 (sic) case that a Negro woman has been arrested for the same thing
 This has to be stopped.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10189">
             <hi rend="italic">Negroes have rights, too, for if Negroes did not
 ride the buses, they could not operate. Three-fourths of the riders
 are Negroes, yet we are arrested, or have to stand over empty
 seats. If we do not do something to stop these arrests, they will
 continue. The next time it may be you, or your daughter, or
 mother.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10190">
             <hi rend="italic">This woman 's case will come up on Monday. We are,
 therefore, asking every Negro to stay off the buses Monday in protest
 of the arrest and trial. Don 't ride the buses to work, to town, to
 school, or anywhere on Monday.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10191">
             <hi rend="italic">You can afford to stay out of school for one day if
 you have no other way to go except by bus.</hi>
-          </p><p>
+          </p>
+          <p id="sc07-5_10192">
             <hi rend="italic">You can also afford to stay out of town for one
 day. If you work, take a cab, or walk. But please, children and
 grown-ups, don't ride the bus at all on Monday. Please stay off of all
 buses Monday.</hi>
-          </p><p>The stencil complete. Mrs. Robinson called one of her Alabama State
+          </p>
+          <p id="sc07-5_10193">The stencil complete. Mrs. Robinson called one of her Alabama State
 colleagues, business department chairman John Cannon, who had access
 to the school's mimeograph room and readily agreed to join her for a
 long night of work. By daybreak they had run off thousands of sheets,
@@ -1265,7 +1463,8 @@ batches for distribution to dozens of WPC members and their
 friends. After teaching her first morning class, Mrs. Robinson and two
 students set out in her car, dropping off the bundles to helpers all
 across Montgomery. Thousands upon thousands of the leaflets went from
-hand-to-hand throughout black Montgomery.</p><p>While the WPC's network put the boycott into effect, E. D. Nixon
+hand-to-hand throughout black Montgomery.</p>
+          <p id="sc07-5_10194">While the WPC's network put the boycott into effect, E. D. Nixon
 made dozens of phone calls to assemble the black leadership. Like
 Robinson and her WPC colleagues, Nixon knew that for their protest to
 win mass support, the city's ministers, not always in the forefront to
@@ -1274,7 +1473,8 @@ their full and active support. The WPC's post-haste distribution of
 the announcements, Robinson and Nixon knew, ought to short-circuit any
 arguments that now was not a good time for a boycott, even before they
 could be voiced. As Fred Gray later emphasized, "the ministers didn't
-know anything about those leaflets until they appeared."</p><p>Although the Friday evening leadership caucus had some difficulties
+know anything about those leaflets until they appeared."</p>
+          <p id="sc07-5_10195">Although the Friday evening leadership caucus had some difficulties
 in overcoming the autocratic style of one black pastor, agreement was
 reached on further publicizing the Monday boycott and on holding a
 Monday evening mass rally to assess the first day's success. The
@@ -1282,18 +1482,21 @@ leadership would meet again Monday afternoon to plan the rally, and
 amidst scores of weekend phone conversations between the various black
 activists, a consensus gradually emerged that perhaps a new,
 all-encompassing community organization ought to be created to oversee
-this unique effort.</p><p>Mrs. Robinson and the WPC membership knew that with the protest
+this unique effort.</p>
+          <p id="sc07-5_10197">Mrs. Robinson and the WPC membership knew that with the protest
 going public, their state-payroll positions at Alabama State, and the
 budgetary vulnerability of the college to white political retaliation,
 required that they 
-<pb n="26"/>
+<pb id="sc07-5_10196" n="26"/>
 remain in the background. As Mrs. Burks later noted
 in explaining why the origin of the boycott leaflets was treated as a
 closely-guarded secret well into the 1960s, "the full extent of our
 activities was never revealed because of the fact that we worked at
-State."</p><p>Monday morning the amazing success of the protest was readily
+State."</p>
+          <p id="sc07-5_10198">Monday morning the amazing success of the protest was readily
 apparent as onlooker after onlooker observed no more than a handful of
-black bus riders on Montgomery's largely empty vehicles.</p><p>Also on Monday, Mrs. Parks, in a very brief trial, was convicted of
+black bus riders on Montgomery's largely empty vehicles.</p>
+          <p id="sc07-5_10199">Also on Monday, Mrs. Parks, in a very brief trial, was convicted of
 failing to obey-the driver's command to surrender- her seat. Hundreds
 of black Montgomerians, in a remarkable scene, gathered at the
 courthouse to show their support. That afternoon, when the black
@@ -1303,12 +1506,14 @@ Rev. Martin Luther King, Jr., to be president of their new community
 group, the Montgomery Improvement Association. A surprised King
 hesitantly accepted, and the leadership agreed to make continuation of
 the boycott beyond their one day success, contingent upon mass
-sentiment at the evening rally.</p><p>A huge and enthusiastic turnout for the evening event quickly and
+sentiment at the evening rally.</p>
+          <p id="sc07-5_10200">A huge and enthusiastic turnout for the evening event quickly and
 convincingly answered that question. Now the community leaders turned
 their efforts to organizing substitute means of transportation for the
 thousands of black Montgomerians eager to forsake a transportation
 system that most had assumed was an unpleasant but unavoidable fact of
-daily life.</p><p>Thursday morning, with the boycott four days old, more than half a
+daily life.</p>
+          <p id="sc07-5_10201">Thursday morning, with the boycott four days old, more than half a
 dozen MIA representatives, including King, Robinson and Gray, met with
 city and bus company officials under the auspices of the bi-racial
 Alabama Council for Human Relations. Even though King emphasized to
@@ -1317,7 +1522,8 @@ only to win the driver courtesy and first come, first seated
 front-to-back and back-to-front seating policy that the WPC had been
 requesting for well over a year, the white officials would not budge
 from their insistent refusal that no changes in seating practices
-could be implemented.</p><p>The whiles' complete intransigence, in the face of a black
+could be implemented.</p>
+          <p id="sc07-5_10202">The whiles' complete intransigence, in the face of a black
 community effort of such impressive proportions, surprised the black
 leadership, who had entered into those: first negotiations believing
 that their modest demands ought to make for a quick settlement. Since
@@ -1325,7 +1531,8 @@ that their modest demands ought to make for a quick settlement. Since
 they would be granted with little question." Only in the wake of that
 unproductive meeting did the MIA leaders begin to realize that it was
 the very fact of their challenge, and not the particulars of their
-demands, that had meaning for white Montgomery.</p><p>To the city and bus company officials such as Commissioner Clyde
+demands, that had meaning for white Montgomery.</p>
+          <p id="sc07-5_10203">To the city and bus company officials such as Commissioner Clyde
 Sellers and attorney Jack Crenshaw, the real issue was not which
 precise seating plan was legally permissible, but the defense of
 segregation's policies as an exemplar of the underlying doctrine of
@@ -1333,15 +1540,18 @@ white racial supremacy. On that question no compromise could be
 possible; there either was superiority or there wasn't. "They feared
 that anything they gave would be viewed by us as just a start,"
 Mrs. Robinson later reflected. "And you know, they were probably
-right."</p><p>An often shy and resolutely self-effacing person. Jo Ann Gibson
+right."</p>
+          <p id="sc07-5_10204">An often shy and resolutely self-effacing person. Jo Ann Gibson
 Robinson is now almost seventy and lives quietly b. herself in
 retirement in Los Angeles. Only with some gentle encouragement will
 she acknowledge herself as "the instigator of the movement to start
 that boycott." Even then, however, she seeks to avoid any special
 credit for herself or any other single individual. Very simply, she
-says, "the black women did it." And she's right.</p><p>
+says, "the black women did it." And she's right.</p>
+          <p id="sc07-5_10205">
             <hi rend="bold">Sources and Suggested Further Reading</hi>
-          </p><p>First and foremost, my understanding of Montgomery is based upon my
+          </p>
+          <p id="sc07-5_10207">First and foremost, my understanding of Montgomery is based upon my
 personal interviews with many of the principals--Mrs. Robinson,
 Mrs. Burks, Mr. Nixon, Mr. Lewis, attorney Gray, Rev. Seay, Mrs. Durr
 and the late Jack Crenshaw, as well as Rev. Ralph D. Abernathy,
@@ -1358,7 +1568,8 @@ Worth Long and Randall Williams. I also strongly recommend the
 Statewide Oral History Program collection of interviews, compiled in
 1973,by the Alabama Center for Higher Education, copies of which are
 on deposit at all of Alabama's traditionally black colleges.
-<pb n="27"/></p><p>There are a number of invaluable, unpublished manuscripts which
+<pb id="sc07-5_10206" n="27"/></p>
+          <p id="sc07-5_10208">There are a number of invaluable, unpublished manuscripts which
 shed crucial light on the boycott, particularly Mrs. Robinson's "The
 Montgomery Story," which the University of Tennessee Press will
 publish later this year, and Ralph D. Abernathy's "The Natural History
@@ -1378,7 +1589,8 @@ Montgomery Bus Boycott: A Case Study in the Emergence and Career of a
 Social Movement," Ph.D. dissertation, University of California,
 Berkeley, 1981; and Donald H. Smith, "Martin Luther King, Jr.:
 Rhetorician of Revolt," Ph.D. dissertation, University of Wisconsin,
-1964.</p><p>Among published works, the serious student will benefit from not
+1964.</p>
+          <p id="sc07-5_10209">Among published works, the serious student will benefit from not
 only chapter two of Dr. King's Stride Toward Freedom (New York: Harper
 &#x26;Bros., 1958), but also Preston Valien, "The Montgomery Bus Protest
 as a Social Movement," in Jitsuichi Masuoka &#x26;Valien, eds., Race
@@ -1391,8 +1603,9 @@ Analysis of Leadership Changes in Montgomery, Alabama," Phylon 26
 published analysis of the protest, and the place where anyone with
 further interest should begin, is J. Mills Thornton, III's "Challenge
 and Response in the Montgomery Bus Boycott of 1955-56," Alabama Review
-33 (July 1980): 163-235.</p><div3 id="sc07-5026" type="About">
-            <p>David J. Garrow is associate professor of political
+33 (July 1980): 163-235.</p>
+          <div3 id="sc07-5_026" type="About">
+            <p id="sc07-5_10210">David J. Garrow is associate professor of political
 science at the City College of New York and the City University
 Graduate School. He is the author of <title>Protest at Selma</title>
 (Yale,1978)and <title>The FBI and Martin Luther King, Jr.</title>
@@ -1400,16 +1613,23 @@ Graduate School. He is the author of <title>Protest at Selma</title>
 Martin Luther King, Jr., and the Southern Christian Leadership
 Conference, 1955-1968</title>, which William Morrow &#x26;Co. will publish
 in the fall of l986.</p>
-          </div3></div2>
-        <div2 id="sc07-5007" n="6" type="Review"><head><title>The Journey Is Home</title> by Nelle Morton. Boston:
-Beacon Press, 1985. 248 pp. $21.95.</head><byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline><docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate><bibl/><p>Among feminist theologians, the name Nelle Morton conjures up
+          </div3>
+        </div2>
+        <div2 id="sc07-5_007" n="6" type="Review">
+          <head><title>The Journey Is Home</title> by Nelle Morton. Boston:
+Beacon Press, 1985. 248 pp. $21.95.</head>
+          <byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline>
+          <docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate>
+          <bibl/>
+          <p id="sc07-5_10211">Among feminist theologians, the name Nelle Morton conjures up
 images of courage, intelligence, and friendship. Morton was the first
 (and for years only) woman on the faculty of the Theological School of
 Drew University; a worker for civil and other human rights; and a
 leader in the Southern Presbyterian Church and in the ecumenical
 global community. She is a theologian whose book many of us have been
 awaiting as if for the birth of a child. This remarkable book has
-arrived at last.</p><p>The significance of <title>The Journey Is Home</title> is not
+arrived at last.</p>
+          <p id="sc07-5_10212">The significance of <title>The Journey Is Home</title> is not
 primarily in the logic of either its structure (ten occasional
 pieces--lectures and essays that span the 1970s) or its content (a
 carefully crafted interplay of history, autobiography and theory that
@@ -1417,7 +1637,8 @@ focuses on language and metaphor). It is a well structured, deeply
 intelligent book, but the power of its impact resonates beyond the
 printed page. Beginning with its title, The Journey Is Home is a
 metaphor--which, as Morton shows, is not something that can be
-explained or analyzed discursively.</p><p>Emphasizing the vital role of metaphor in feminist theology, Morton
+explained or analyzed discursively.</p>
+          <p id="sc07-5_10213">Emphasizing the vital role of metaphor in feminist theology, Morton
 writes that it "begins with the concrete and demands total presence."
 [It] cannot be defined. It can only be actively followed on its
 journey and perceived in its functioning.... [It] is not metaphor
@@ -1428,7 +1649,8 @@ me. <title>The Journey Is Home</title> is the concrete, daily, lived
 experience of one woman who is inviting open-ended participation by
 others who cannot expect to have our way defined for us by the
 author. We can only follow this woman's journey and see for ourselves
-what happens.</p><p>I was shaken as I read, which is why I often shut the book for days
+what happens.</p>
+          <p id="sc07-5_10215">I was shaken as I read, which is why I often shut the book for days
 at a time, saying to friends who asked what I thought of it, "I'm not
 sure." One can be sure about what one thinks of most theological
 works--including most feminist texts. But one cannot be clear in the
@@ -1439,32 +1661,38 @@ theologian as an eighty-year-old white Southern woman whose "wild and
 bizarre" blood cells are keeping her alive; whose "cunt" is sacred
 space; and whose lifelong liberation journey with marginalized people
 of different colors, classes, and creeds has plumbed new depths during
-<pb n="30"/>
+<pb id="sc07-5_10214" n="30"/>
 the past decade, carrying her to the point at which, in her own words,
 "I am now in search of new positive images faithful to woman
-experience."</p><p>"Woman" experience is no grammatical or typographical error, any
+experience."</p>
+          <p id="sc07-5_10216">"Woman" experience is no grammatical or typographical error, any
 more than it is, for Morton, an historical aberration. The journey
 that unfolds in these pages is not merely about "women's" experiences
-or the "women's" movement.</p><p>
+or the "women's" movement.</p>
+          <p id="sc07-5_10217">
             <hi rend="italic">"The women's movement" [implies] something tangible
 and more organizational, such as NOW.... To say "the woman movement"
 . . . opens up a whole, moving, pervasive way of perceiving--an
 emerging, accelerating, enlarging, powerful, growing potential that
 cannot be contained by the use of the possessive "women's".</hi>
-          </p><p>Morton's dynamic journey becomes, for her and for this reader,
+          </p>
+          <p id="sc07-5_10218">Morton's dynamic journey becomes, for her and for this reader,
 woman home. She tells of the place that is no place--and every
 place--for the woman who is shackled within the politics of
 patriarchal logic and, in the same historical moment, is "heard into
 speech" by those who are willing to listen to her find her own story
-rather than attempt to tell her what it is.</p><p>Nellie Morton tells us nothing about what feminists ought to
+rather than attempt to tell her what it is.</p>
+          <p id="sc07-5_10219">Nellie Morton tells us nothing about what feminists ought to
 believe (which is one reason she suggests that this book is not
 "theology"). She tells us what being Nellie Morton involves and,
 through the lens of her particular life, something about what may be
 the costs and consequences, losses and gains of being ourselves in a
 world that is harsh with those whose love for life and justice knows
-no bounds.</p><p>
+no bounds.</p>
+          <p id="sc07-5_10220">
             <hi rend="bold">Shaken in a woman world</hi>
-          </p><p>Many Christian feminists may be troubled by Morton's unequivocal
+          </p>
+          <p id="sc07-5_10221">Many Christian feminists may be troubled by Morton's unequivocal
 indictment of God the Father. Unless we see, however, that the turmoil
 into which we may be spun is not Morton's fault, nor our own, but
 rather is rooted in the contradictions of living life as
@@ -1476,7 +1704,8 @@ specifically because her woman home includes the church. For her, the
 Christian church is no place for feminists to get stuck--but it is a
 place for Christian feminists to sojourn along the way that cannot be
 contained within patriarchal fixtures of institutional space or
-chronological time.</p><p>Morton realizes what many feminists lust after--to be
+chronological time.</p>
+          <p id="sc07-5_10222">Morton realizes what many feminists lust after--to be
 empowered/empowering women in a woman community that cuts across lines
 that divide us in patriarchal space. Christian/post-Christian,
 lesbian/straight, "academic"/ "common," older/younger are categorical
@@ -1484,7 +1713,8 @@ pitfalls into which Morton does not fall. She sees that common women
 are not to blame for the vicious consequences of patriarchal
 structures, including those which separate woman from woman--such as
 compulsory heterosexism, religious imperialism, racism, classism, and
-sexism.</p><p>Because Morton has been for several generations a public antagonist
+sexism.</p>
+          <p id="sc07-5_10223">Because Morton has been for several generations a public antagonist
 to white supremacy and economic exploitation, I was surprised and
 disappointed that she made no attempt in this book to integrate an
 analysis of racism and classism into her compelling metaphoric
@@ -1501,13 +1731,15 @@ class women, and the resources from which she draws her book have been
 cultivated by her engagement with the global work of liberation. She
 sets several of her essays and lectures explicitly in this context,
 not to "prove her credentials" but rather to help bring the written
-word into the praxis of real human struggle.</p><p>Morton makes no claims to speak authoritatively for or about the
+word into the praxis of real human struggle.</p>
+          <p id="sc07-5_10224">Morton makes no claims to speak authoritatively for or about the
 universal and daily liberation work of all people who are
 oppressed. She speaks with confidence only of that which she, a white
 middle-class woman, believes. And, from her own struggle for justice,
 what Morton has come to believe is that God the Father is the supreme
 deity of racism, classism, sexism, and heterosexism, and that he is
-the deadly foe of all truly human liberation.</p><p>The last three essays of this book bear witness to Morton's most
+the deadly foe of all truly human liberation.</p>
+          <p id="sc07-5_10225">The last three essays of this book bear witness to Morton's most
 recent spiritual sojourning. It is here that we are introduced to the
 Goddess. She has come to Nelle Morton via a number of woman-loving
 groups and occasions, and most especially through meeting, "in a river
@@ -1515,21 +1747,23 @@ of blood"--and becoming--her own mother. In this reunion,
 Morton--already a strong, empowering woman to others of us--was reborn
 into a "new child," able at last to respect herself (and her mother),
 newly empowered to embody the heights--and depths--of her woman
-being.</p><p>Morton writes that no one whose imagination and creativity are
+being.</p>
+          <p id="sc07-5_10227">Morton writes that no one whose imagination and creativity are
 inhibited by the rationality of patriarchal theology will be able to
 hear what she is saying, and she is correct. For here is an <hi rend="italic">empowered
 woman, a citizen of planet earth in a pervasively patriarchal
 time/space, whose power is emerging full force through the aegis of
 other women as she moves into and beyond her eightieth year.</hi> Here is a
 formerly liberal Christian woman who was born again, if you will, in
-<pb n="32"/>
+<pb id="sc07-5_10226" n="32"/>
 meeting the Goddess. Morton has been moved to speech by a womanpower
 literally unavailable within the limits of patriarchal reason. She has
 experienced the creative power of God the Mother, <hi rend="italic">not</hi> God the Father:
 Wisdom, <hi rend="italic">not</hi> Word; being heard to new life, <hi rend="italic">not</hi> being taught new
 insights. She writes, "[In] a sexist culture and sexist religion the
 option for the <hi rend="italic">Goddess</hi> may be the only, the only sane, redemptive
-move."</p><p>Morton is an honest woman who is speaking the truth not only of her
+move."</p>
+          <p id="sc07-5_10228">Morton is an honest woman who is speaking the truth not only of her
 own life but moreover of the power of images in the life of the
 world/church. The <hi rend="italic">symbol</hi> of God the Father (which, Morton suggests,
 has lost whatever metaphoric power it may once have had) does <hi rend="italic">not</hi>
@@ -1537,7 +1771,8 @@ empower men to respect women or women to respect ourselves--no matter
 how He is dressed up, not even if He is called "She." The metaphoric,
 imaginative images of the Goddess--God the Mother, woman God, sister
 God, lover God--may be indeed the "only sane, redemptive" spiritual
-resource left for self-respecting woman.</p><p>As we come into our power, regardless of our patriarchal
+resource left for self-respecting woman.</p>
+          <p id="sc07-5_10229">As we come into our power, regardless of our patriarchal
 affiliations, we can begin to live as self-respecting, woman-loving,
 life-affirming, justice-making women whom the institutions of our
 lives have no power to break or destroy. Our strength to love
@@ -1548,7 +1783,8 @@ power and community carry us beyond the boundaries of our own skins
 into the past (which teaches us), the present (which presents us with
 our life work), and the future (which we are co-creating, and which
 belongs to us, although we may not, as individuals, live to taste the
-fruits of the harvest we sow).</p><p>Morton's faith rings with the same moral commitment and
+fruits of the harvest we sow).</p>
+          <p id="sc07-5_10230">Morton's faith rings with the same moral commitment and
 metaphysical implications that characterize other theologies of
 liberation, <hi rend="italic">but</hi> her radical feminist bias reveals what is missing from
 all nonfeminist liberation movements; a deeply woman-rooted,
@@ -1560,28 +1796,32 @@ permissive, not morbid and proscriptive. Her spirit is rooted and
 grounded in justice making, not in law and order. Most notably for
 Morton, the Goddess is <hi rend="italic">not</hi> merely another face of God. She is the
 antithesis of everything that the patriarchal deity has come to
-symbolize.</p><p>If other women want to spend energy trying cosmetically to touch up
+symbolize.</p>
+          <p id="sc07-5_10231">If other women want to spend energy trying cosmetically to touch up
 God the Father, to transform Him into an androgynous figure and
 thereby to "create the false impression of having arrived," Morton
 will not attempt to thwart us. It is simply the case that she herself
 is moving on. Lest we imagine that her vision is too facile for this
 oppression laden world, we should recognize that, for Morton, the
 journey is struggle. It is as bloody, angry, and conflictual as it is
-tender, playful, and celebrative.</p><p>Nelle Morton has not only shaken me to the core of my patriarchal
+tender, playful, and celebrative.</p>
+          <p id="sc07-5_10232">Nelle Morton has not only shaken me to the core of my patriarchal
 remnants. She has also, with this book, made me a wiser, happier
 feminist. For she is herself a metaphor, an image of what can happen
 to little Southern girls who "go barefooted and take off our winter
 underwear every spring" all the while aware that something bad is the
 matter with the world into which our mothers have borne us. Many of us
 have been there, and many are yet to come. Nelle Morton offers us
-fresh water for the journey.</p><div3 id="sc07-5027" type="About">
-            <p>Carter Heyward a native of Charlotte, N. C., is professor
+fresh water for the journey.</p>
+          <div3 id="sc07-5_027" type="About">
+            <p id="sc07-5_10233">Carter Heyward a native of Charlotte, N. C., is professor
 of theology of Episcopal Divinity School in Cambridge Mass,  she is
 the author of <title>Our Passion for Justice: Images of Power,
 Sexuality, and Liberation</title> (Pilgrim, 1984). This review of
 Nelle Morton's book is copyright 1985 by Christianity and Crisis, and
 reprinted with permission.</p>
-          </div3></div2>
+          </div3>
+        </div2>
       </div1>
     </body>
   </text>
