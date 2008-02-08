@@ -4,9 +4,9 @@ include_once("config.php");
 include("common_functions.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$id = $_GET["id"];
+$id = $_REQUEST["id"];
 
-$terms = $_GET["keyword"];
+$terms = $_REQUEST["keyword"];
 
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
