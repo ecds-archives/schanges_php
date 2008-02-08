@@ -42,9 +42,7 @@
     select="name"/></xsl:element> 
     <xsl:element name="td"><xsl:attribute name="valign">top</xsl:attribute><xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
-      select="@id"/>&amp;mdid=<xsl:value-of
-      select="../issue-id/@id"/>&amp;docdate=<xsl:value-of
-      select="docDate/@value"/></xsl:attribute><xsl:value-of
+      select="@id"/></xsl:attribute><xsl:value-of
       select="head"/></xsl:element></xsl:element>
       <xsl:element name="td"><xsl:attribute name="width">10%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of
       select="@type"/></xsl:element>
@@ -106,7 +104,7 @@
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-		select="//prev/@id"/>&amp;docdate=<xsl:value-of select="//prev/docdate/@value"/></xsl:attribute>
+		select="//prev/@id"/></xsl:attribute>
    <xsl:apply-templates select="//prev/head"/>
  </xsl:element><!-- end td -->
 </xsl:element></xsl:if>
@@ -120,7 +118,7 @@
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-		select="//next/@id"/>&amp;docdate=<xsl:value-of select="//next/docdate/@value"/></xsl:attribute>
+		select="//next/@id"/></xsl:attribute>
    <xsl:apply-templates select="//next/head"/>
  </xsl:element><!-- end td -->
 </xsl:element><!-- end td -->
