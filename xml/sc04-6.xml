@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc04-6_1204">
   <teiHeader id="sc04-61201" type="text">
     <fileDesc>
@@ -78,7 +78,7 @@ Press, 1981.</head>
           <byline>By 
             <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 15-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147r2</idno></bibl>
           <p id="sc04-6_104">Toward the end of his study of the Rockefeller Sanitary Commission
 for the Eradication of Hookworm Disease, John Ettling writes that "so
 large a hand has the [Rockefeller] Foundation had in shaping the
@@ -263,7 +263,7 @@ whites, could not allow.</p>
           <head>Fifty Years With Highlander</head>
           <byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 4-9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147s6</idno></bibl>
           <p id="sc04-6_1021">At Christmas time in 1931 in Copenhagen, Denmark, a young man off
 an East Tennessee farm made a note to himself:</p>
           <p id="sc04-6_1022">
@@ -666,7 +666,7 @@ Highlander.</p>
           <head>Local Color Defaulting On Justice</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 1-3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147tb</idno></bibl>
           <p id="sc04-6_1086">Long lines at the Supreme Court building in Washington are
 commonplace as tourists and school kids come daily to walk the halls
 and rummage the displays along its vacuous ground floor. Yet, many who
@@ -806,7 +806,7 @@ immobile Congress, O Ye, O Ye, God save this country.</p>
           <head>Reapportionment Roundup</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 20-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147vg</idno></bibl>
           <p id="sc04-6_10105">Reapportionment moved into the courtrooms across the South during
 the summer as federal judges were deluged with petitions and prayers
 for relief from lawyers of civil rights groups attempting to halt
@@ -1168,7 +1168,7 @@ create three new congressional districts this year. In this
 rearrangement the Hispanic caucus hopes to create one or two majority
 Hispanic congressional seats: in the state's southwest and around
 Dallas. If the legislature fails, as seems likely, the effort will
-probably be continued in court by the Mexican-American Legal Defense &#x26;
+probably be continued in court by the Mexican-American Legal Defense &amp;
 Education Fund. The Justice Department and thc federal courts will
 likely decide if the failure to create such districts has a racially
 discriminatory effect or purpose.</p>
@@ -1217,7 +1217,7 @@ Regional Council.</p>
             </docAuthor>
           </byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, p. 9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147wm</idno></bibl>
           <p id="sc04-6_10165">Betty Bumpers' Peace Links may draw from a remarkable episode in
 the United States Senate impressive reassurance that it is gaining in
 effectiveness and influence. The Senate, only hours before adjourning,
@@ -1262,7 +1262,7 @@ groups are practicing patriotism of a high order.</p>
           <head>North Carolina Pays the Price</head>
           <byline>By <docAuthor><name reg="Sitton, Claude" type="person">Claude Sitton</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 9-11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147xr</idno></bibl>
           <p id="sc04-6_10171">Americans don't ask much of
 those whom they send to the U.S. Senate. A senator can usually pass
 muster at the polls if he tips the pork barrel toward home
@@ -1362,7 +1362,7 @@ with Robert Alverez and Eleanor Walters, New York: Dell Publishing
 Co., 1982, $12.95.</head>
           <byline>By <docAuthor><name reg="Northrop, John" type="person">John Northrop</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 19-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147zw</idno></bibl>
           <p id="sc04-6_10187">Hiroshima proved that the atomic bomb could wipe out cities, but it
 was years later before many people began paying much attention to the
 possible side effects of radiation. Big mistake.</p>
@@ -1497,7 +1497,7 @@ of the Birmingham Audubon Society.</p>
           <head>Beaufort Academy--"None Ever Applied"</head>
           <byline>By <docAuthor><name reg="Mcmillan, George" type="person">George Mcmillan</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 3-4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14804</idno></bibl>
           <p id="sc04-6_10207">If Congress wants to know how a typical tax exempt segregated
 school works in a typical Southern town it should look at Beaufort
 Academy in this South Carolina Low Country community.</p>
@@ -1645,7 +1645,7 @@ Frogmore, South Carolina.</p>
           <head>Worker Owned: Some Southern Beginnings</head>
           <byline>By <docAuthor><name reg="Connette, Woody" type="person">Woody Connette</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 11-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14818</idno></bibl>
           <p id="sc04-6_10235">In September 1979, a small group of Windsor, North Carolina
 residents transformed a vacant automobile showroom into a garment cut
 and sew operation. They chose a name that desribes exactly what they
@@ -1952,7 +1952,7 @@ their communities. All of the worker owners I interviewed were proud
 of their struggles to make the businesses work and of how much they
 have learned in the process.</p>
           <p id="sc04-6_10278">
-            <hi rend="bold">From A&#x26;P to 0&#x26;0</hi>
+            <hi rend="bold">From A&amp;P to 0&amp;0</hi>
           </p>
           <p id="sc04-6_10279">Despite the attractions, all is not rosy in the world of worker
 ownership. Problems abound. The success stories can be countered with
@@ -2049,11 +2049,11 @@ local, with their proposals to open a new plant.</p>
 Union has been instrumental in establishing worker owned supermarkets
 in the wake of many supermarket closings in recent years. According to
 Wendell Young, President of UFCW Local 1357, his union began
-negotiations with A&#x26;P management in April 1982 for the lease of
-five former A&#x26;P stores to be opened as worker owner
+negotiations with A&amp;P management in April 1982 for the lease of
+five former A&amp;P stores to be opened as worker owner
 supermarkets. On October 13, 1982 the first worker owned retail
 supermarket in the country opened under his union's leadership in
-Philadelphia. The store, known as "O&#x26;O"--short for Worker Owned
+Philadelphia. The store, known as "O&amp;O"--short for Worker Owned
 and Operated--is completely owned by twenty-four full time worker
 owners who are also UFCW members. These worker owners have hired a
 professional manager who has no ownership interest in the
@@ -2091,7 +2091,7 @@ Southern Piedmont, Inc., in Concord, North Carolina.</p>
 H. Jones.</title> New York: The Free Press, 1981. $14.95.</head>
           <byline>By <docAuthor><name reg="Beatty, Bess" type="person">Bess Beatty</name></docAuthor></byline>
           <docDate value="1982-11">Vol. 4, No. 6, 1982, pp. 17-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1482d</idno></bibl>
           <p id="sc04-6_10292">In 1972 the Associated Press broke the story of the Tuskegee
 experiment, a forty-year study of the effect of syphilis on six
 hundred Macon County, Alabama, black men. Nine years later James Jones

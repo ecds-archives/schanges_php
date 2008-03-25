@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc11-5_1204">
   <teiHeader id="sc11-51201" type="text">
     <fileDesc>
@@ -79,7 +79,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mh7</idno></bibl>
           <p id="sc11-5_104">EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
 more than a hundred photographs by John McWilliams, is currently on
 view at the High Museum of Art in Atlanta. A book by the same
@@ -309,7 +309,7 @@ explore that.</p>
           <head>Native Southerners</head>
           <byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mjc</idno></bibl>
           <div3 id="sc11-5_004" type="Section">
             <p id="sc11-5_1040">Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
@@ -683,7 +683,7 @@ cultural and racial issue of the twenty-first century.</p>
           <head>The Law.</head>
           <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mkh</idno></bibl>
           <bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
 Harvard University Press, 1987. 316 pp. $25. Paperback edition, 1989,
@@ -859,8 +859,7 @@ News</title>, May/June, 1989.)</p>
           <head>Politics of Nativism.</head>
           <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-          <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mmn</idno></bibl>
           <bibl><title>The Party of Fear: From Nativist
 Movements to New Right in American History</title> by David H. Bennett
 (University of North Carolina Press, 1988. 509 pp. $29.95.)</bibl>
@@ -959,7 +958,7 @@ now a U.S. Air Force historian living in Ohio.</p>
           <head>Victorian Reformer.</head>
           <byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mns</idno></bibl>
           <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
 Georgia Press, 1989. 192 pp. $25.)</bibl>
@@ -1033,7 +1032,7 @@ American justice.</p>
           <head>Transformed Color</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mpx</idno></bibl>
           <bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
 Ill.: Waveland Press, 1988, second edition. Paper, xii, 257
@@ -1132,7 +1131,7 @@ rewards the reader who keeps at it.</p>
           <head>A New Heaven and Earth.</head>
           <byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mq2</idno></bibl>
           <bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
 1989. 416 pp. $19.95.)</bibl>
@@ -1271,7 +1270,7 @@ marriage and family therapy.</p>
           <byline>By 
             <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mr6</idno></bibl>
           <p id="sc11-5_10136">I spoke recently in Pittsburgh at an annual NAACP
 banquet. Ordinarily, NAACP types are leery of me because they often
 naively believe every societal problem in the world can be settled in
@@ -1347,7 +1346,7 @@ writer.</p>
           <head>Portraits from Slavery.</head>
           <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14msb</idno></bibl>
           <bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of
 Texas, 1989. Paper, 144 pp. $19.95.)</bibl>

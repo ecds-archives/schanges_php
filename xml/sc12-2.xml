@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc12-2_1204">
   <teiHeader id="sc12-21201" type="text">
     <fileDesc>
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Democracy in the South</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 1-3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n9h</idno></bibl>
           <p id="sc12-2_104">Like an old Chinese proverb coming south for the winter, one side
 of democracy in the American South today shows troubling, even
 treacherous signs of crisis, and on the other side are rare moments
@@ -189,7 +189,7 @@ journal.</p>
           <head>A mayor who was never addicted to steel.</head>
           <byline>Reviewed by <docAuthor><name reg="Morgan, Charles, Jr." type="person">Charles Morgan Jr.</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 22-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14nbn</idno></bibl>
           <bibl><title>BACK TO
 BIRMINGHAM: Richard Barrington, Jr. and His Times</title> by Jimmie
 Lewis Franklin (Tuscaloosa: The University of Alabama Press,
@@ -330,7 +330,7 @@ cadet.</p>
           <head>A decade of litigation a Southern 'Devil's Island.'</head>
           <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 17-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ncs</idno></bibl>
           <bibl><title>Reform and Regret</title> by Larry W. Yackle (New York: Oxford
 University Press. 1989. 322 pp.).</bibl>
           <p id="sc12-2_1036"><title>Reform and Regret,</title> by Larry W. Yackle, is an
@@ -506,7 +506,7 @@ noting rights and civil rights.</p>
 Mississippi</head>
           <byline>Edited by <docAuthor><name reg="Littleton, George" type="person">George Littleton</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 10-14</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ndx</idno></bibl>
           <p id="sc12-2_1058">The following narratives are condensed from interviews
 conducted by young people from Bloodlines, regroup of black
 Mississippi high school students with a special interest in the seeds
@@ -526,7 +526,7 @@ interviews were edited by George Littleton.</p>
           <p id="sc12-2_1059">
             <hi rend="bold">Mr. T.C. Johnson</hi>
           </p>
-          <p id="sc12-2_1060">Interviewed by Jaqueline Collins &#x26; Reginald Skinner July 21,
+          <p id="sc12-2_1060">Interviewed by Jaqueline Collins &amp; Reginald Skinner July 21,
 1989. Lexington, Miss.</p>
           <p id="sc12-2_1061">When I first got into the Movement, they had me like a so-called
 leader to encourage the others to come to meetings because a lot of
@@ -667,7 +667,7 @@ Bible, but it was fear is what it was.</p>
           <p id="sc12-2_1077">
             <hi rend="bold">William B. Eskridge</hi>
           </p>
-          <p id="sc12-2_1078">Interviewed by Dwayne Buchanan &#x26; John Darjean August
+          <p id="sc12-2_1078">Interviewed by Dwayne Buchanan &amp; John Darjean August
 2,1989. Carrolton, Miss.</p>
           <p id="sc12-2_1079">I been in the Civil Rights Movement since nineteen hundred and
 thirty-two. But I had to be in it very slowly at that time. I believe
@@ -734,9 +734,9 @@ test. That came later. Early on, they figured black folks didn't have
 the money to pay a poll tax, and later they had to use the literacy
 test.</p>
           <p id="sc12-2_1087">
-            <hi rend="bold">Mr. &#x26; Mrs. Cooper Howard</hi>
+            <hi rend="bold">Mr. &amp; Mrs. Cooper Howard</hi>
           </p>
-          <p id="sc12-2_1088">Interviewed by Felisha Dixon &#x26; Jeffrey Blackmon July 28,
+          <p id="sc12-2_1088">Interviewed by Felisha Dixon &amp; Jeffrey Blackmon July 28,
 1989. Goodman, Miss.</p>
           <p id="sc12-2_1089">I was in the first march that they had here in Holmes County to get
 people registered. We had about 200 people, cause the rest of the
@@ -776,7 +776,7 @@ stood up. And very few preachers would come out.</p>
           <p id="sc12-2_1094">
             <hi rend="bold">Viola Winters</hi>
           </p>
-          <p id="sc12-2_1095">Interviewed by Michael Hooker &#x26; Tamara Wright August 1,1989,
+          <p id="sc12-2_1095">Interviewed by Michael Hooker &amp; Tamara Wright August 1,1989,
 Durant. Miss.</p>
           <p id="sc12-2_1096">After the trouble we had getting hired at the plant and integrating
 public facilities, we met at Second Pilgrim Rest Church with the
@@ -806,7 +806,7 @@ man. A lot of 'em right now will carry messages back to him.</p>
           <p id="sc12-2_1099">
             <hi rend="bold">Dr. Martha Ann Davis</hi>
           </p>
-          <p id="sc12-2_10100">Interviewed by Marvin Noel &#x26; Willa WilliaMiss. November 8,
+          <p id="sc12-2_10100">Interviewed by Marvin Noel &amp; Willa WilliaMiss. November 8,
 1989. Brozville Road, Miss.</p>
           <p id="sc12-2_10102">Along with three young men, I started the Lexington Action Group
 (LAG) before the civil rights voting vet, as we know, back in Lyndon
@@ -899,7 +899,7 @@ should be training ya'll to be thinking.'</p>
           <head>The Biggest Texan: John Henry Faulk 1913-1990</head>
           <byline>By <docAuthor><name reg="Durr, Virginia" type="person">Virginia Durr</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 15-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14nf2</idno></bibl>
           <p id="sc12-2_10110">Editor's note: When John Henry Faulk died
 in Texas on April 9, 1990, many people lost a treasured friend and
 this nation lost one of its most passionate and articulate advocates
@@ -1054,7 +1054,7 @@ transcribed and edited by George Littleton.</p>
           <head>Telling a Mouthful about the South.</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, pp. 19-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ng6</idno></bibl>
           <bibl><title>Encyclopedia of
 Southern Culture.</title> Charles Reagan Wilson and William Ferris,
 co-editors. (Chapel Hill: University of North Carolina Press,
@@ -1273,7 +1273,7 @@ of <title>Southern Changes</title>.</p>
           <byline>By 
             <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, p. 24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14nhb</idno></bibl>
           <p id="sc12-2_10158">Editor's Note: It has been a turbulent in Dallas County,
 Alabama, where the twenty-fifth anniversary of the Voting Rights Act
 was celebrated earlier this year with more than just reenactments. A
@@ -1342,7 +1342,7 @@ writer.</p>
             </docAuthor>
           </byline>
           <docDate value="1990-06">Vol. 12, No. 2, 1990, p. 4-9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14njg</idno></bibl>
           <p id="sc12-2_10176">These edited remarks are from a panel discussion held on
 political participation during last winter's annual meeting of the
 Southern Regional Council. The participants, all with long involvement

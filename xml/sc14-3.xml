@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc14-3_1204">
   <teiHeader id="sc14-31201" type="text">
     <fileDesc>
@@ -68,7 +68,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Voting rights denied</head>
           <byline>By <docAuthor><name>The Editors</name></docAuthor></byline>
           <docDate value="1992-08">Volume 14, No. 3, pp. 1-4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r2v</idno></bibl>
           <p id="sc14-3_104">George Bush celebrated the July 4th weekend this year with the most
 flagrantly anti-democratic act of his presidency&#x2014;the veto of
 the National Voter Registration Act. The bill, which passed both
@@ -226,7 +226,7 @@ CONSTITUTION</p>
 <title>Fried Green Tomatoes at the Whistle Stop Cafe</title></head>
           <byline>By <docAuthor><name reg="Wilson, Julie" type="person">Julie Wilson</name></docAuthor></byline>
           <docDate value="1992-08">Volume 14, No. 3, pp. 5-11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r30</idno></bibl>
           <epigraph>
             <p id="sc14-3_1028">"Of course, most of the house is all boarded <corr>up
 and</corr> falling down now, but when we came down the street, the
@@ -672,7 +672,7 @@ student.</p>
           <byline>By <docAuthor><name reg="Cooper, Michael L." type="person">Michael L. Cooper</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3,
 1992, pp. 12-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r44</idno></bibl>
           <p id="sc14-3_1072">Bill Minor received a call in late 1947 from A. J. Liebling, media
 critic for the <hi rend="italic">New Yorker</hi>. Liebling had read
 the young <hi rend="italic">Times-Picayune</hi>
@@ -866,7 +866,7 @@ change just by making people aware of corruption."</p>
           <head>A Right to Be There</head>
           <byline>By <docAuthor><name reg="Curry, Constance" type="person">Constance Curry</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 1, 1992, pp.18-23, 25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r58</idno></bibl>
           <p id="sc14-3_10129">It was Mae Bertha Carter on the phone. "I'm on my way to raise hell with the Mayor," she told me. "The City Council didn't reappoint Beverly to the School Board."</p>
           <p id="sc14-3_10130">In 1986, Beverly Carter, daughter of Mae Bertha and Matthew Carter,
 was the first African American to be appointed to the Drew,
@@ -1126,7 +1126,7 @@ writing a book about the Carters of Sunflower County.</p>
           <head>Race</head>
           <byline>Reviewed by <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 26-27</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r6d</idno></bibl>
           <bibl><title>Two Nations: Black and White, Separate, Hostile, Unequal</title> <hi rend="bold">, by Andrew Hacker (Charles Scribners' Sons, New York, 1992,
 xiii, 257 pages)</hi><title>Race:  How Blacks and Whites Think and
 Feel About the American Obsession</title><hi rend="bold">, by Studs Terkel (The New Press, New York, 1992, x, 403 pages)</hi></bibl>
@@ -1163,7 +1163,7 @@ on-going dialogue on race.</p>
           <head>Incidental Ambassadors</head>
           <byline>Reviewed by <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 28-29</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r7j</idno></bibl>
           <bibl><title>An Education in Georgia</title> <hi rend="bold">, by Calvin Trillin, Foreword by Charlayne Hunter Gault (University of Georgia Press, 1991, 180 pages)</hi></bibl>
           <p id="sc14-3_10222">If prevailing wisdom is correct, the events and conditions detailed
 in Calvin Trillin's <hi rend="italic">An Education in Georgia</hi>
@@ -1206,7 +1206,7 @@ Virginia.</p>
           <head>Demanding Change</head>
           <byline>Reviewed by <docAuthor><name reg="McMillan, Cecily" type="person">Cecily McMillan</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 29-32</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r8p</idno></bibl>
           <bibl><title>Praying for Sheetrock</title> <hi rend="bold">, Melissa Fay Greene (Addison-Wesley, Reading, MA, 1991, 416 pages).</hi></bibl>
           <p id="sc14-3_10236">There have been, over the years, more young white liberals than can ever be counted who ventured to small Southern towns hoping to improve the lives and political opportunities of the black people who lived there. Stirred by outrage at what seemed such obviously unjust economic and living conditions, these idealists set to their work&#x2014;as VISTA volunteers, Legal Aid lawyers, tutors, community organizers.</p>
           <p id="sc14-3_10237">Some stayed; a trickle keep coming; most, in the end, leave. Their stories of what might be called an internship with the poor get told around the table in Atlanta or Chapel Hill, to grantgivers in New York, to thesis advisors in Cambridge or Ann Arbor.</p>
@@ -1276,7 +1276,7 @@ little place."</p>
           <head>Old Truths</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Tony" type="person">Tony Dunbar</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 32-33</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r9t</idno></bibl>
           <bibl><title>The Measure of Our Success, A Letter to My Children and Yours</title>, Marian Wright Edelman (Beacon Press, 97 Pages)</bibl>
           <p id="sc14-3_10265">You need to know a little bit about Marian Weight Edelman before
 you pick up this book, or else you might not fully savor its
@@ -1309,7 +1309,7 @@ the South. His latest book was <hi rend="italic">Delta Time</hi>&gt;, about the 
           <head>New Georgia</head>
           <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
           <docDate value="1992-08">Vol. 14, No. 3, 1992, pp. 33-35</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rbz</idno></bibl>
           <bibl><title>The Politics of Change in Georgia: A Political Biography of Ellis Arnall</title> <hi rend="bold">, by Harold Paulk Henderson (University of Georgia Press, Illustrated, 1991, 345 pages)</hi></bibl>
           <p id="sc14-3_10278">When World War II ended, my generation came home to a Georgia in
 which for the first time in our memory gallus-snapping Eugene Talmadge did not personify the state's politics, "Woolhats" and "Rednecks" did not constitute the voting majority, and appeals to white supremacy did not dominate State Capitol rhetoric. In letters from the States, in the pony edition of <hi rend="italic">Time</hi>, and occasionally from bulletins on Armed Forces Radio, we had learned bits and pieces of what had been going on in our absence. (That most of the news from Georgia, unlike that of only few years before, was of a kind to be read with pride rather than embarrassment had been especially appreciated by those of us quartered overseas with Ivy League Yankees.)</p>

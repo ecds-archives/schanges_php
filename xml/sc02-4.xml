@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc02-4_1204">
   <teiHeader id="sc02-41201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc02-4_101">&#x00A9;2004 Emory
+          <p id="sc02-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -74,7 +74,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>In This Issue</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144hs</idno></bibl>
           <p id="sc02-4_104">We are as wrought with opinion and reflection in this our first
 issue of the new year as we may heve been bereft of it last time. In
 December we did not carry our usual "Soapbox" opinion piece. As
@@ -144,7 +144,7 @@ continue to form to confront the bad is some good news in itself</p>
           <head>Too Poor for Food Stamps</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 1, No. 4, 1980, pp. 3-4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144jx</idno></bibl>
           <p id="sc02-4_1014">Almost eight million poor Americans did not have ample food during
 this holiday season because of barriers and restrictions in the
 federal food stamp program. In a study, entitled "Too Poor for Food
@@ -176,7 +176,7 @@ Atlanta, Georgia 30303.</p>
           <head>Mandatory Sentencing</head>
           <byline>By <docAuthor><name reg="The Law Project" type="corporate">members of The Law Project</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 5-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144k2</idno></bibl>
           <p id="sc02-4_1027">There is a great push on, in the media and among politicians, to institute mandatory sentencing and to otherwise impose more stringent sentences. Unless strongly opposed, this effort will likely be successful in the next session of the Georgia General Assembly. People are concerned with crime and the uncertainties of modern living, and they crave certainty. However, mandatory sentencing is not the answer. It will merely aggravate the present problem: too many people, particularly young men, are being sent to prison.</p>
           <p id="sc02-4_1028">The Georgia penitentiary system is a crime. It brutalizes people, gives graduate instruction in crime and is seriously dangerous to your health. The United States regularly incarcerates more people per capita than any other country in the so-called free world except South Africa, and Georgia is regularly at the top of the list of states in per capita incarcerations. (We've also had more executions and lynchings than any other state.) Why do we pay such a price for social order when others don't seem to have to do so?</p>
           <p id="sc02-4_1029">Most "crimes" in Atlanta and elsewhere are committed by young men from about age 15 to
@@ -189,7 +189,7 @@ the same offense, a middle class White person would skate
 <pb id="sc02-4_1030" n="6"/>
 by. (Lawyers have a motto: innocent till proven broke.) Poor Blacks
 will be particularly affected by harsher sentences, too. For example,
-the Atlanta <hi rend="italic">Journal &#x0026; Constitution</hi> (September 9, 1979 at 5-D) reports that in 1974 only 18 percent to 33 percent of those convicted of embezzlement, fraud and tax fraud went to prison and only for a year to a year-and-a-half. But 38 percent to 60 percent of the people convicted of burglary, larceny and auto theft went to prison for an average of two-and-ahalf to five years.</p>
+the Atlanta <hi rend="italic">Journal &amp; Constitution</hi> (September 9, 1979 at 5-D) reports that in 1974 only 18 percent to 33 percent of those convicted of embezzlement, fraud and tax fraud went to prison and only for a year to a year-and-a-half. But 38 percent to 60 percent of the people convicted of burglary, larceny and auto theft went to prison for an average of two-and-ahalf to five years.</p>
           <p id="sc02-4_1032">The prison system is one of the last bastions of raw White racism. Middle class Blacks don't like to make an issue of this because they don't want to be accused of being soft on crime (much like moderate Whites in the 50s and 60s didn't want to be tagged as a "nigger lover"). But, it is time for all concerned citizens to be upset by the inequities of the so-called criminal justice system.</p>
           <p id="sc02-4_1033">If putting more people in jail for longer periods would promote social order, it might be justifiable. But it won't. Statistics show that the rate of recidivism for persons who have been incarcerated is much higher than for persons who are given alternate methods of treatment, such as work release. And keeping people in prison is expensive in itself. This society will lose all the way around. A few years ago we did away with jury sentencing in Georgia on the ground that there was too thuch disparity in sentences. Judge sentencing did not solve the problem and has resulted in just as much disparity (and it allows the State to pistol whip defendants into guilty pleas, sometimes, by holding over their heads the certainty of a harsh judge-imposed sentence if they don't give in).</p>
           <p id="sc02-4_1034">If anything, we need to go back to jury sentencing which allowed a
@@ -218,7 +218,7 @@ Project in Atlanta.</p>
           <head>Fighting the Klan in the Military</head>
           <byline>By <docAuthor><name reg="Wilayto, Phil" type="person">Phil Wilayto</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 8-11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144m6</idno></bibl>
           <p id="sc02-4_1042">An aircraft carrier is really a small city. When it's out to sea with a full crew and a complement of marines, it's 5,000 people, almost all of them young men, enclosed in a small place for months at a time. In case of trouble, mechanical or social, there's no place to go.</p>
           <p id="sc02-4_1043">On February 9, 1979, a small one-foot wooden cross, covered with some kind of flammable fabric, was found burning in the enlisted dining area of the carrier USS America. In late January, a group of White sailors attacked a group of Blacks on the USS Concord, a 400-man supply ship estimated to have 20 Klan members aboard. The Navy has admitted that it is investigating Klan activity on at least one other East Coast ship, this one based in Charleston, S.C.</p>
           <p id="sc02-4_1044">And the trouble wasn't only on ships. Within the past year there have been crosses burned outside Ft. Eustis in nearby Hampton, in rural Chesapeake, there have been incidents of spraypainting of the letters "KKK" on Black people's property in Norfolk and in Virginia Beach.</p>
@@ -275,7 +275,7 @@ area.</p>
           <head>Reflections on Racial Progress in Mississippi:1964 Freedom Summer and Rosedale Mississippi 1979</head>
           <byline>By <docAuthor><name reg="Phillips, Ivory" type="person">Ivory Phillips</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 12-16</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144nb</idno></bibl>
           <p id="sc02-4_1070"><hi rend="bold">Editor's Note</hi>: <hi rend="italic">In October 1979 a conference was held in Jackson, Mississippi to commemorate and assess the civil rights activities in the state during the summer of 1964. Known as Freedom Summer, it played an important part in changing the old system of segregation. It brought about 1,000 volunteers into the state to help in political organizations, to set up "freedom schools" and to bring national attention to conditions in Mississippi. It was a summer filled with violence, resulting in the murders of the three civil rights workers Michael Schwerner, James Chaney and Andrew Goodman.</hi></p>
           <p id="sc02-4_1071">
             <hi rend="italic">The four-day conference brought back together
@@ -361,7 +361,7 @@ place peacefully involving Blacks and Whites.</p>
           <head>Reflections on Racial Progress in Mississippi:'Freedom Summer' After Fifteen Years</head>
           <byline>By <docAuthor><name reg="Gibson, Gordon D." type="person">Gordon D. Gibson</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 17-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144pg</idno></bibl>
           <p id="sc02-4_10113">Mississippi in 1Q64 had long been"the dark hell-hole of the Black
 experience," in the words of Prof. William,Strickland of the University of Massachusetts. But in 1964 the Black people of Mississippi and their Black and White allies from all across the country rose up and proved that, even in Mississippi, change is possible. Looking back recently during a four-day symposium, Strickland and many other participants in Mississippi's 1964 "Freedom Summer" reflected on various facets of change.</p>
           <p id="sc02-4_10114">The symposium, even with its many flaws, uninvited people or last minute cancellations, was worthwhile. It focused the attention of Freedom Movement veterans (and a few current students who were in nursery school in 1964) on the changes wrought by Freedom Summer and other Movement efforts. One cannot understand the intervening 15 years without some knowledge of this history. One cannot understand the lesson that change is possible and, sadly, still necessary.</p>
@@ -412,7 +412,7 @@ while the struggle continued at its greatest intensity, but have now claimed cen
 State</head>
           <byline>By <docAuthor><name reg="Burt, Al" type="person">Al Burt</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 20-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144qm</idno></bibl>
           <p id="sc02-4_10134">For the first time in Florida, a broadly based coalition of Black organizations has adopted an agenda for political action. Its priorities reveal the nature of minority problems in Florida. It seeks changes in matters ranging from local police action to U.S. policy toward Haitian refugees.</p>
           <p id="sc02-4_10135">Known as the Florida Black Agenda Coalition, it has called for a task force to study the possibilities of a state operated lottery, whose funds would be earmarked for education, economic development and aid to the elderly; a change in the controversial Fleeing Felon Law, which permits law enforcement officers to shoot suspects fleeing the scene of a felony; property taxes scaled to income;, single-member legislative districts to increase minority representation; and the end of social promotions in the schools.</p>
           <p id="sc02-4_10136">The coalition further asks for universal voter registration by postcard to make political participation easier. They are also seeking a state-financed study of sickle cell anemia and the disproportionately high incidence of cancer among Blacks; prison administrations that reflect the prison populations; resources for the poor accused of capital crimes that match those of the prosecution; and political asylum for 8,000 Haitian refugees in Florida.</p>
@@ -438,7 +438,7 @@ procedures be eliminated which systematically
 <pb id="sc02-4_10145" n="22"/>
 
 screen out Blacks; that there be an annual report outlining affirmative action performance at all levels of government; that each personnel office include minority recruiters; that the Florida Commission on Human Relations be more fully funded.</p>
-          <p id="sc02-4_10147">In education, the group wants a task force to study ways and means of helping Black students toward more positive attitudes and self-concepts; the monitoring of primary education to help under-achievers and the monitoring of education systems promotions to insure the upward mobility of Black educators; the elimination of social promotions for all students; the elimination of "tracking" (grouping by performance); better funding of programs at Florida A&#x0026;M University and a reaffirmation of its future; the Florida Student Assessment Test (literacy) to be used for diagnostic purposes only.</p>
+          <p id="sc02-4_10147">In education, the group wants a task force to study ways and means of helping Black students toward more positive attitudes and self-concepts; the monitoring of primary education to help under-achievers and the monitoring of education systems promotions to insure the upward mobility of Black educators; the elimination of social promotions for all students; the elimination of "tracking" (grouping by performance); better funding of programs at Florida A&amp;M University and a reaffirmation of its future; the Florida Student Assessment Test (literacy) to be used for diagnostic purposes only.</p>
           <p id="sc02-4_10148">In reference to the economy, recommendations include a request that the governor commission an annual minority economic conference (the first, a joint federal-state affair, was held Dec. 78 in Orlando); full implementation of the Small Business Administration Act; hiring of Blacks in policy positions of state government, particularly in positions relating to tourism and development in the Department of Commerce (a Black, Don Griffin, has been hired as deputy director of the Department of Commerce); that the governor solicit and encourage private, state and federal help in recruiting minority developers; the development of bonding capability for Black contractors and developers; that Black firms be included in domestic and international trade shows and missions; that Black contractors be considered in the letting of all government contracts.</p>
           <p id="sc02-4_10149">In addition to universal postcard voter registration, and the
  offering of registration on the day of the election, changes called
@@ -457,7 +457,7 @@ Herald</title>.</p>
           <head>Atlanta Community Food Bank</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144rr</idno></bibl>
           <p id="sc02-4_10155">Every year 20 percent of the food in America is thrown away for
 such reasons as improperly labeled items, undersized or oversized
 products and partially opened cases. In the Atlanta metropolitan area
@@ -517,7 +517,7 @@ Peachtree Street, N.E. Atlanta, Georgia 30308.</p>
 Southern Representatives Oppose Welfare Reform</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-01">Vol. 2, No. 4, 1980, pp. 24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144sw</idno></bibl>
           <p id="sc02-4_10162">Proposing to increase present payments to the Southern poor, major welfare reform was passed in the U.S. House of Representatives on November 7th with strong opposition from a solid, Southern Congressional delegation.</p>
           <p id="sc02-4_10163">By a deceptively comfortable margin of 222 to 184, the House approved the Carter administration's proposal to seek greater uniformity among state welfare programs and to reduce costs. The heart of the legislation proposed a guaranteed payment equal to at least 65 percent of the poverty level approximately $4,700 of welfare payments to a family of four today.</p>
           <p id="sc02-4_10164">States would also be required to offer assistance to eligible

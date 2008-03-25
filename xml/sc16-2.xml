@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc16-2_1204">
   <teiHeader id="sc16-21201" type="text">
     <fileDesc>
@@ -67,7 +67,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>A Far Cry from Apartheid</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 1-2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t5g</idno></bibl>
           <p id="sc16-2_104">The recent round of congressional redistricting in the South was
 hailed by the minority and civil rights communities as the most
 successful in the nation's history. New majority-minority districts
@@ -102,7 +102,7 @@ decision-making. </p>
           <head>The Places of AIDS</head>
           <byline>By <docAuthor><name reg="Raimondo, Meredith" type="person">Meredith Raimondo</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 3-12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t6m</idno></bibl>
           <p id="sc16-2_1014">"Cancer clinic has AIDS scare" was the title of the piece in <hi rend="italic">The Atlanta Constitution</hi>'s local news summary on July 30, 1985. Noting that "As many as 1,000 people may have been exposed to the AIDS virus in blood-derived drugs," the article mentioned only one patient by name: former Georgia Governor Lester Maddox.</p>
           <p id="sc16-2_1015">Only a week earlier, newspapers around the country had reported
 Rock Hudson's diagnosis with AIDS. In <hi rend="italic">Covering the
@@ -317,7 +317,7 @@ recent film <hi rend="italic">Philadelphia</hi>, this well-intentioned piece was
           <note id="sc16-2003n1" n="1">I surveyed the <title>AJC</title>'s local coverage of AIDS (stories which discuss some aspect of the AIDS crisis and Georgia including federal legislators but excluding the CDC) from January-July 1982, 1983-1986. Unless noted, all stories cited ran in this period.</note>
           <note id="sc16-2003n2" n="2">Gary W. Shannon and Gerald F. Pyle. "The Origin and Diffusion of AIDS: A View from Medical Geography," <title>The Annals of the Association of American Geographers</title> 79, 1 (March, 1989): 12.</note>
           <note id="sc16-2003n3" n="3">Harlon L. Dalton, "AIDS in
-Blackface," <title>D&#x00E6;dalus</title> 118, 3 (Summer, 1989): 210.</note>
+Blackface," <title>D&#xE6;dalus</title> 118, 3 (Summer, 1989): 210.</note>
           <note id="sc16-2003n4" n="4">Ron Taylor, "Blacks High AIDS Risk
 Spurs Push for Warning Campaign," <hi rend="italic">Atlanta Journal and Constitution</hi>, October 5, 1986: D, 1:1, 8.</note>
           <lb/>
@@ -345,7 +345,7 @@ no. 2 (1989): 147-158.</p>
           <head>Cross Purposes</head>
           <byline>Review Essay by <docAuthor><name reg="May, Vivian" type="person">Vivian May</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 13-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t7r</idno></bibl>
           <epigraph>
             <p id="sc16-2_1081">
               <hi rend="italic">"There came to me, in answer to prayer, a reward for my sufferings, the perfect maid. She is well trained, as good a cook as I, well educated, with almost my own tastes in literature and movies. She loves the country, she loves my dog, she loves company dinners, she dislikes liquor and has no interest in men"&#x2014;Marjorie Rawlings, Cross Creek.</hi>
@@ -503,7 +503,7 @@ Cross Creek community) a mirror for self-aggrandizement. </p>
           <head>Unfinished Tasks</head>
           <byline>By <docAuthor><name reg="Ashmore, Harry" type="person">Harry Ashmore</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 20-23, 31</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t8w</idno></bibl>
           <p id="sc16-2_10119">If American society is divided by horizontal class lines, there is also a vertical division based on race that begins at the point where the affluent are set apart from the poor. Analysis of 1990 census data showed that blacks in significant numbers lived in upscale urban and suburban neighborhoods, but intimate contact with their white neighbors was minimal. Generations of Southern demagogues had claimed that such residential race mixing would result in wholesale miscegenation, but the 53 million marriages recorded in the 1990 census included only 240,000 with a black spouse.</p>
           <p id="sc16-2_10120">In the upper strata of society racial attitudes, reinforced by ethnocentrism on both sides, still inhibited interaction and provided fertile ground for political exploitation. But in the ghettos the issues were still those that had existed throughout the nation's history. The greatly expanded opportunities available to middleclass blacks remained as far beyond the reach of most underclass youths as they had been for their sharecropping forebears. Segregation was still the dominant fact of life below the poverty line, and the issue was quite literally survival.</p>
           <p id="sc16-2_10121">In his campaign, Clinton had carefully avoided proposals targeted directly at the festering problems in the inner cities. If they could be persuaded to vote, the poor blacks who lived there could provide effective political support, but the threat of racial violence emanating from these neglected communities also worked against any candidate who embraced their cause in the name of social justice.</p>
@@ -635,7 +635,7 @@ kind of public and private leadership our age demands."</p>
           <head>Unreconciled Southerners</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 24-26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t91</idno></bibl>
           <bibl><title>A Southern Life, Letters of
 Paul Green, 1916-1981</title>, edited by Laurence
 G. Avery (University of North Carolina Press, 1994, 735 pages).</bibl>
@@ -684,7 +684,7 @@ different color, and according to
 you, their fathers and brothers are a threat to the security of this mighty nation. No sir!</p><p id="sc16-2_10174">This country was meant for better things than this!</p><p id="sc16-2_10175">I Know the sharp reply could be a pleading of the cause, the cause, the cause! Namely, the threat to our security. This is the way it always goes, always a cause for killing people whether armed or helpless.</p><p id="sc16-2_10176">But the true cause is the cause of man himself. Is it not that? Take
 any young man we are helping to murder in Vietnam. Is there any cause
 greater than the sanctity of his own life?</p></q></p>
-          <p id="sc16-2_10186">About three years later, after the Raleigh <hi rend="italic">News &#x0026; Observer</hi> had published the Greens' and the Jonathan Daniels' exchange of Christmas cards, Green having penned on theirs a comment about the Pentagon "hogs" and Daniels having told him to "pack up your pessimism," Green wrote to Daniels, that his cause
+          <p id="sc16-2_10186">About three years later, after the Raleigh <hi rend="italic">News &amp; Observer</hi> had published the Greens' and the Jonathan Daniels' exchange of Christmas cards, Green having penned on theirs a comment about the Pentagon "hogs" and Daniels having told him to "pack up your pessimism," Green wrote to Daniels, that his cause
 
 <q><p id="sc16-2_10178">. . . is the cause which the rubber-lipped trumpet-mouth politicians of today betray when above the cross-studded graves of the rotting young men they howl forth the old cliche-refrain that they did not die in vain for they died to keep America Free.</p><p id="sc16-2_10179">Nuts to the nutty! And oh the dark blood on the ground!</p><lb/><p id="sc16-2_10180" rend="center">...</p><p id="sc16-2_10181">Yes, it is the Cause of Life, of Life creative, more abundant, the Good life&#x2014;and the good life means the true, the beautiful and the useful life&#x2014;the heart beating life.</p><lb/><p id="sc16-2_10182" rend="center">...</p><p id="sc16-2_10183">My main quarrel is and ever will be with such men as those now occupying the Pentagon and the Kremlin&#x2014;bad men, evil men, blind men&#x2014;along with their tribal head-hunters in the CIA. They spell damnation to you and me and our children's children, and Dick Nixon&#x2014;spells the same.</p><lb/><p id="sc16-2_10184" rend="center">...</p><p id="sc16-2_10185">Yes suh, my bosom friend of these many years and many more I trust, I
 keep singing my song of hope and dedicated effort&#x2014;singing even louder
@@ -700,7 +700,7 @@ turn likewise.</p></q></p>
           <head>Sisters of Another Era</head>
           <byline>Reviewed by <docAuthor><name reg="Grant, Joanne" type="person">Joanne Grant</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 26-27</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tb5</idno></bibl>
           <bibl><title>Having Our Say: The Delany
 Sisters' First 100 Years</title>, by Sarah and
 A. Elizabeth Delany; with Amy Hill Hearth (Kodansha, 1994, 210 pages).</bibl>
@@ -729,7 +729,7 @@ story, as the Delany sisters like to say, is not meant as 'black' or
           <head>What Mama Had to Say</head>
           <byline>Reviewed by <docAuthor><name reg="Lovelace, Alice" type="person">Alice Lovelace</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 27-28</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tc9</idno></bibl>
           <bibl><title>Pushed Back to Strength: A Black
 Woman's Journey Home</title>, by Gloria Wade-Gayles
 (Beacon Press, 1993, 256 pages).</bibl>
@@ -766,7 +766,7 @@ Collected Poems.</title></p>
           <head>Spirit and Velocity</head>
           <byline>Reviewed by <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 28-31</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tdf</idno></bibl>
           <bibl><title>Local People: The Struggle for
 Civil Rights in Mississippi</title>, by John Dittmer
 (University of Illinois Press, 1994, 530 pages).</bibl>

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc17-2_1204">
   <teiHeader id="sc17-21201" type="text">
     <fileDesc>
@@ -74,7 +74,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 	       Carter</name>, Director of SRC Voting Rights Programs</docAuthor>
           </byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 1-3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tzn</idno></bibl>
           <p id="sc17-2_104">In this thirtieth anniversary year of the 1965 Voting Rights Act, the United States Supreme Court is busily erecting new barriers to the voting rights and political representation of African Americans and other minorities.</p>
           <p id="sc17-2_105">This summer, in the name of a color-blind Constitution, the Court ruled that any use of race to prepare redistricting plans should be subject to strict scrutiny from the federal bench.</p>
           <p id="sc17-2_106">In striking down a majority-black congressional district in Georgia, in dismissing--on technical grounds--a case involving a majority-black district in Louisiana, and in agreeing to add to its calendar for the October term two redistricting cases from Texas and North Carolina, the Court has opened the door to a new round of legal challenges to minority representation. Further, by restricting the authority of the Department of Justice under section 5 of the Voting Rights Act, the Court has weakened the federal protection and intervention which is indispensable for African Americans and other minorities seeking fairness and non-discrimination.</p>
@@ -110,7 +110,7 @@ in this issue of <hi rend="italic">Southern Changes</hi>) editors Chandler David
 	       Amberg</name> and <name reg="Dotter, Earl" type="person">Earl Dotter</name></docAuthor>
           </byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 4-13</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v0w</idno></bibl>
           <p id="sc17-2_1019">Editor's note: In the following pages Southern Changes features the work of two excellent and widely recognized contemporary social photographers--Rob Amberg and Earl Dotter--accompanied by brief autobiographical comments and discussion of photographic strategies. Amberg's pictures have appeared regularly in Southern Changes, providing complement and counterpoint to a number of writers' essays. Here we join his words to a selection of photos drawn from projects he has undertaken working from his base in Madison County, North Carolina. For years, Earl Dotter, one of the most well-known of American photographers, has documented the lives and livelihoods of working people. From an early emphasis on occupational health and safety, Dotter has expanded his range of subjects to include environmental hazards to public health.</p>
           <p id="sc17-2_1020" rend="bold">Rob Amberg:</p>
           <p id="sc17-2_1021">For much of my twenty-year career in photography I have wrestled with issues of participation and observation: how to play an active role and establish everyday relationships in the rural communities that I photograph. This takes a lot of time. It also makes it difficult to earn a living doing engaged photography.</p>
@@ -174,7 +174,7 @@ acquaint future art directors with photography so that they could direct a photo
           <p id="sc17-2_1056">A pivotal moment for me came in that same year. In another course
 at the School of Visual Arts we reversed roles, the students giving
 assignments to the teachers. One night we were meeting on the top
-floor of the Young &#x0026; Rubicam agency on Madison Avenue. We had
+floor of the Young &amp; Rubicam agency on Madison Avenue. We had
 as-signed our instructors to respond visually to the Bob Dylan song
 "Something is happening but you don't know what it is, do you
 Mr. Jones?" One of the teachers interrupted our session to announce
@@ -248,7 +248,7 @@ take pride.</p>
 High School History</head>
           <byline>By <docAuthor><name reg="Loewen, James W." type="person">James W. Loewen</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 14-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v11</idno></bibl>
           <p id="sc17-2_1073">In 1974 Pantheon published the first revisionist textbook of state
 history in the United States, <hi rend="italic">Mississippi: Conflict
 and Change</hi>, edited by Charles Sallis and myself. The Southern Regional Council awarded the book the 1976 Lillian Smith Award for nonfiction, but the State of Mississippi rejected it for use as a public school text. This led to the lawsuit <hi rend="italic">Loewen et al. v. Turnipseed, et al.</hi>, which we finally won in 1980. As a result, Mississippi was ordered to adopt our textbook for six years beginning in 1980.</p>
@@ -480,7 +480,7 @@ his research on American history textbooks.</p>
           <head>BOOKS: <lb/>Not So Quiet Anymore.</head>
           <byline>Reviewed by <docAuthor><name reg="Karlan, Pamela S." type="person">Pamela S. Karlan </name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 18-19, 21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v25</idno></bibl>
           <bibl><title>Quiet Revolution in the South: The Impact of the
 Voting Rights Act, 1965-1990</title>, edited by Chandler Davidson and Bernard Grofman (Princeton University Press, 1994, 512 pages)</bibl>
           <p id="sc17-2_10117">There is a deep irony in the title of Chandler Davidson and Bernard Grofman's massive study of the Voting Rights Act's first twenty-five years. The revolution isn't so quiet anymore. Lani Guinier's ill-fated nomination, the creation of new majority-nonwhite legislative districts following the 1990 census, the Republican takeover of Congress, and now the Supreme Court's action overturning the 11th congressional district in Georgia have generated huge controversy over the Act's goals, assumptions, and techniques. Critics of the Voting Rights Act have seized the rhetorical and anecdotal high ground, throwing around phrases such as "balkanization" and "political apartheid," and examples such as former Virginia Governor Doug Wilder, U.S. Representative Gary Franks of Connecticut, and Dallas Mayor Ron Kirk. The critics' underlying assumptions are that the Act is no longer necessary, because black voters now participate fully in the political life of the Nation, and that the Act is pernicious, because it magnifies racial tensions and denies the possibilities of cross-racial coalitions and representation.</p>
@@ -491,7 +491,7 @@ strength -- its dispassionate attention to detail -- leaves open the question of
           <p id="sc17-2_10120">Five conclusions emerge. First, the historical over-views show how many "traditional" American electoral practices, such as at-large elections and majority-vote requirements, were deliberately designed to dilute black voting strength. The persistence of these practices well into the 1980s show how resistant the South has been to full enfranchisement of blacks. The chapters' accounts of post-Act behavior, including numerous Section 5 objections to redistricting after the 1970 and 1980 censuses, show that these problems remain.</p>
           <p id="sc17-2_10121">Second, the Act has been tremendously successful at enfranchising black voters. Although some problems remain (which the 1993 National Voter Registration Act may address), the Voting Rights Act has eliminated most formal barriers to participation.</p>
           <p id="sc17-2_10122">Third, the Act has transformed the representational structure of Southern politics. In the 1960s, the vast majority of local governing bodies were elected at-large and substantial numbers of state legislators were chosen from multi-member districts; by 1990, single-member districts were the norm for both local governing bodies and legislative districts.</p>
-          <p id="sc17-2_10123">Fourth, most of the increase in black office-holding is attributable to the switch to single-member districts. Few blacks are elected in at-large elections. Of particular salience is the experience in cities using "mixed plans"ס blend of single-member and at-large seats. In these jurisdictions, the districted seats account for virtually all the black elected officials. The failure of black candidates to win election to at-large seats strongly suggests continued racial bloc voting: if white voters were willing to vote for black candidates, then one would expect success rates for districted and at-large seats within a given jurisdiction to be comparable.</p>
+          <p id="sc17-2_10123">Fourth, most of the increase in black office-holding is attributable to the switch to single-member districts. Few blacks are elected in at-large elections. Of particular salience is the experience in cities using "mixed plans"&#x5E1; blend of single-member and at-large seats. In these jurisdictions, the districted seats account for virtually all the black elected officials. The failure of black candidates to win election to at-large seats strongly suggests continued racial bloc voting: if white voters were willing to vote for black candidates, then one would expect success rates for districted and at-large seats within a given jurisdiction to be comparable.</p>
           <p id="sc17-2_10125">Fifth, the South did not change voluntarily. Litigation<pb id="sc17-2_10124" n="19"/>
 and the threat of litigation were the major factors in causing the abandonment of at-large elections. Indeed, the cross-state comparisons show that states such as Alabama and Mississippi, in which both local black political organizations and national civil rights groups were active litigators, made far more progress than states such as Virginia in which little litigation occurred. Moreover, the bulk of the litigation was brought by the civil rights bar, rather than the Department of Justice. Thus, while Section 5 is a critical tool in the voting rights enforcement arsenal once single-member districts have been created (because the decennial redistricting required by one-person, one-vote must pass through preclearance), a large number of the single-member district plans now used in the South would never have been created but for the litigation efforts of private groups and individuals.</p>
           <p id="sc17-2_10126">The second part of <title>Quiet Revolution</title> consists of three substantive chapters and a summary of the research findings. One chapter analyzes the Act's impact on voter registration; the other two deal with the effect of municipal election structure on black representation and the impact of the Voting Rights Act on black legislative and congressional representation.</p>
@@ -528,7 +528,7 @@ Visiting professor at Harvard Law School.</p>
           <head>The Continuum of Struggle</head>
           <byline>Reviewed by <docAuthor><name reg="Kytle, Calvin" type="person">Calvin Kytle</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995 pp. 21-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v39</idno></bibl>
           <bibl><title>Georgia in Black and White: Explorations in the
 Race Relations of a Southern State, 1865-1950</title>, edited by John C. Inscoe (University of Georgia Press, 1994, 312 pages).</bibl>
           <p id="sc17-2_10133">If, like me, you went to school during the South's long Age of Denial, and if, like me, your introduction to Southern history came years before it was corrected by C. Vann Woodward, this book will come as a revelation.</p>
@@ -590,7 +590,7 @@ me a copy of <title>Georgia in Black and White</title>. </p>
           <head>Muted Voices</head>
           <byline>Reviewed by <docAuthor><name reg="Delaney, Paul" type="person">Paul Delaney</name></docAuthor></byline>
           <docDate value="1995-06">Vol. 17, No. 2, 1995</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v4f</idno></bibl>
           <bibl><title>The Black Press in Mississippi, 1865-1985</title>, by Julius E. Thompson (University Press of Florida, 1993, 242 pages).</bibl>
           <p id="sc17-2_10150">Thompson's is a fascinating and important, if not well-written,
 account of the black press in Mississippi, from its feeble beginnings in the aftermath of defeat and ruin at the end of the Civil War up through the mid-1980s. A press is supposed to be the voice of a people, but for decades what Thompson finds is not pretty: black editors "caught in a no-man's land, where they dared not criticize local whites," following a policy--as <title>Pittsburgh Courier</title> columnist George S. Schyler put it--of "generally avoiding nine-tenths of the real news and practically all of the possible topics crying for comment."</p>

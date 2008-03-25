@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc01-2_1204">
   <teiHeader id="sc01-21201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc01-2_101">&#x00A9;2004 Emory
+          <p id="sc01-2_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -74,7 +74,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Interchange: In This Issue</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, p. 2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140ww</idno></bibl>
           <p id="sc01-2_104">Southern Changes, for those of you who are reading our pages for
 the first time, marks the beginning of the Southern Regional Council's
 fifth publishing venture. Our new publication is a process of "vision
@@ -97,7 +97,7 @@ to Voter Registration," the VEP head, herself a symbol of change - one of the fi
           <head>Hilldrup's Dilemma Is Not All Black And White</head>
           <byline>By <docAuthor><name reg="Gates, Harvey" type="person">Harvey Gates</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 3-4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140x1</idno></bibl>
           <p id="sc01-2_1015">In the September issue of Southern Changes, Mr. Robert P. Hilldrup struck a cord sensitive to my paternal instincts with his article entitled: "My Sons Are Growing Up Racists."</p>
           <p id="sc01-2_1016">His concern has wider implications than the family hearth. As a writer and father I feel compelled to respond, in my own way, to his comments because I am also concerned about the attitudes my Black sons will take in race relations.</p>
           <p id="sc01-2_1017">We are both fathers looking at the same coin from different sides. However, I do not think our responsibilities as parents can be paralleled. We can both teach our children to respect mankind and all other objects and creatures in this universe, but his children will have to develop tolerance, indeed love, for Blacks from their vantage of power. My boys will have to develop the same sentiments from their point of powerlessness.</p>
@@ -155,7 +155,7 @@ least, we are ahead of most of the others.</p>
           <head>The Courtesy of Becoming a Federal Judge</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts </name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 6,7,23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140z5</idno></bibl>
           <p id="sc01-2_1036">As a moderate segregationist governor of Mississippi, James P. Coleman once advised his supporters resisting integration that "any legislature can pass an act faster than the Supreme Court can erase it." As time showed, the strategy was partially effective since racial integration began to seep into Mississippi only after being confronted with civil rights legislation, an angry president, and federal court decisions. The governor's own course, however, may have had a more lasting effect. He retired from office, was appointed to a federal judgeship, and now sits on the Fifth Circuit Court of Appeals.</p>
           <p id="sc01-2_1037">Judge Coleman and his brethren on the Fifth Circuit will soon be joined by several others when the president announces the appointment of the 60 district and circuit judges who will be added to the federal bench in the South. Because of recent legislation, more than 150 new federal judges will be appointed throughout the nation. Never before have so many federal judges been appointed at one time.</p>
           <p id="sc01-2_1038">Although no one, including the president, knows exactly who will fill all these positions, there is clearly a moral obligation for him to appoint a large number of qualified Blacks and women. As a recent report of the Southern Regional Council revealed, the federal court system in the South has only one Black federal judge out of more than 130. Only one Black is a U.S. attorney and only three are U.S. marshals in Southern states. No Black is a full-time magistrate or chief clerk. Overall, no more than six percent of the entire personnel of the federal courts in the South is Black - an increase of only four percentage points since 1965.</p>
@@ -193,7 +193,7 @@ ago.</p>
           <head>Vivian Malone Jones and the VEP: From Integration to Voter Registration</head>
           <byline>By <docAuthor><name reg="Bledsoe, Christena" type="person">Christena Bledsoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 8-10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1410d</idno></bibl>
           <p id="sc01-2_1063">Sometime in her youth, Vivian Malone Jones decided she wanted to go
 to college. That wouldn't have been such an unusual decision except
 that her family was poor. Her father was a laborer. She was one of
@@ -208,7 +208,7 @@ accountant. She applied to the University of Alabama and was told
 out though. The school was all-White and accepting her would have
 meant integrating the university where Alabama's well-bred White
 families for generations had sent their young.</p>
-          <p id="sc01-2_1066">She was admitted to the state's Black school, Alabama A&#x0026;M, where Alabama tradition said she belonged. She majored in business education, the closest available field to her career choice, and attended for two years. But she wasn't satisfied. She wanted more: she wanted to be able to pick the school where the education received would help accomplish her goals. She persisted in trying to get into the University of Alabama. She sought advice from NAACP Legal Defense Fund in New York and two years later her admission was ordered by a court.</p>
+          <p id="sc01-2_1066">She was admitted to the state's Black school, Alabama A&amp;M, where Alabama tradition said she belonged. She majored in business education, the closest available field to her career choice, and attended for two years. But she wasn't satisfied. She wanted more: she wanted to be able to pick the school where the education received would help accomplish her goals. She persisted in trying to get into the University of Alabama. She sought advice from NAACP Legal Defense Fund in New York and two years later her admission was ordered by a court.</p>
           <p id="sc01-2_1067">She was, however, throwing herself and her family into an emotionally charged, possibly dangerous situation. Several other Black students changed their minds about entering the university after a man who identified himself as a representative of the state of Alabama spoke to their families.</p>
           <p id="sc01-2_1068">" 'You know,'" she recalls his words, "'there's going to be trouble here and we can't guarantee your child's safety under these conditions. Are you sure you want your child to go in there?'"</p>
           <p id="sc01-2_1069">Her family believed she should stick with her plans. They received threatening phone calls and had police protection for six months. "But nobody ever bombed the house or burned a cross. That's pretty good considering," she says now.</p>
@@ -266,7 +266,7 @@ writer living in Atlanta.</p>
           <head>Atlanta Metro School Suit: A Search for Equality</head>
           <byline>By <docAuthor><name reg="Cross-Briscoe, Marcia" type="person">Marcia Cross-Briscoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978 pp. 11-12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1411j</idno></bibl>
           <p id="sc01-2_10113">Atlanta may be "the city too busy to hate" but its process of desegregating its public school system reflects the trends of most communities in the South since the Brown decision in 1954. Between 1958 and 1973 five desegregation lawsuits were filed against school systems in metro Atlanta, and one is still pending in U.S. District Court for the Northern District of Georgia.</p>
           <p id="sc01-2_10114"><hi rend="italic">Emma Armour v. Jack P. Nix</hi> has been referred to as the "Metro suit" because the city of Atlanta and six surrounding counties were first charged with segregation in public education. The Compromise Plan of 1973 which stemmed from an earlier case, <hi rend="italic">Calhoun v. Cook</hi>, was supposed to solve this problem; however, the proposed remedies did not significantly integrate the public schools. Roughly 20 all-White schools were integrated but the remaining Black schools, which were in the majority, were left untouched by the plan.</p>
           <p id="sc01-2_10115">Several national leaders of the NAACP spoke out against the compromise which was created by the Board of Education of Atlanta and the Atlanta chapter of the NAACP. They charged that it violated national NAACP policy by leaving Black students in segregated schools. However, the plan was approved and busing of some 5,000 students to White schools occurred.</p>
@@ -279,7 +279,7 @@ writer living in Atlanta.</p>
 significant part of the case; however, they were not allowed to be
 introduced into the plaintiffs' testimony. At present under the
 Compromise, a student can participate in a program called the Majority
-to Minority (M&#x0026;M) Program. He may choose to transfer from a school
+to Minority (M&amp;M) Program. He may choose to transfer from a school
 where his race is in the majority to one where his race is in the
 minority. These voluntary transfers are not working as effectively as
 possible, however, because only Black students are choosing to go to
@@ -311,7 +311,7 @@ learning rather than placement of bodies.</p>
           <head>Dooty's Last Stand</head>
           <byline>By <docAuthor><name reg="Bledsoe, Jerry" type="person">Jerry Bledsoe</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978 pp. 13-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1412p</idno></bibl>
           <p id="sc01-2_10131">She had thought this would be the day, and all morning Luemer Plumley, whom her sisters call Dooty, sat on the porch watching and waiting.</p>
           <p id="sc01-2_10132">She watched expectantly as the power company truck lurched up the rough mountain road and one of the men got out and climbed the pole and tinkered with the wires at the top. She watched as they went on up to the church and passed back down again. And still she waited, but they didn't return.</p>
           <p id="sc01-2_10133">It was almost two o'clock in the afternoon when she finally broke her silence and spoke to her sister, Della.</p>
@@ -373,7 +373,7 @@ Charlotte Observer, has served as a contributing editor for <title>Esquire</titl
           <head>'My Soul Is Rested' Stirs Unrest In Marketing</head>
           <byline>By <docAuthor><name reg="Cutler, Bill" type="person">Bill Cutler</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 16-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1413t</idno></bibl>
           <p id="sc01-2_10166">"White people don't have much experience in running into that sort
 of prejudice. It fills you with a powerless anger. So I think it was
 maybe good for me, having recorded this history in as sensitive a way as I could, to then have the educational experience of feeling in a small way what millions of citizens in the South have had to deal with in a large way every day." Howell Raines spoke deliberately, calmly, without anger, about the marketing and distribution of his highly acclaimed book, <hi rend="italic">My Soul Is Rested</hi>, an oral history of the civil rights movement published last October.</p>
@@ -456,7 +456,7 @@ Atlanta; and Davison's Department Store, Atlanta.</p>
           <head>THE CHAINS THAT BIND: ERA and the Southern Black Woman</head>
           <byline>By <docAuthor><name reg="Cole, Sylvia Crudup" type="person">Sylvia Crudup Cole</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 19-21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1414z</idno></bibl>
           <p id="sc01-2_10183">Congress voted recently to extend -the- period for the states to ratify the ERA until June 30, 1982. This action, however, did not have support of many Southern Congressmen. They showed the same hostility to the amendment already shown by Southern state legislators, whose lack of support has so far helped block ratification. Since 1972, 35 states have ratified the proposed federal constitutional amendment and only three are needed for ERA to become law. Of the 15 states left to ratify, 10 of them, astoundingly, are Southern.</p>
           <p id="sc01-2_10184">Yet, not all the blame for the status of the ERA can be placed on
 the male-dominated Southern Congressional delegates and legislators. Ironically, Black women in the South, who suffer greater discrimination than their White counterparts because of both racism and sexism and who probably would be one of the prime beneficiaries of a ratified ERA, have done little to support it.</p>
@@ -509,7 +509,7 @@ in Raleigh, North Carolina.</p>
           <head>The Unchanged Patterns of Changing Migration</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 21-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14153</idno></bibl>
           <p id="sc01-2_10203">A lot of Southern history moves around in buses. In 1956. a domestic worker, Rosa Parks, refused to stir from her seat for a White man on a Montgomery, Alabama bus and prompted the historic boycott beginning a decade of mass movement for civil rights. Blacks and Whites suffered physical abuse and death when they banded together as the "Freedom Riders" to travel the South by commercial buses to integrate that segregated system. "Busing," of course, became a political obscenity for those who opposed school integration in the late 1960s. And throughout, one-way tickets from Eutaw, Greenville, and Valdosta to the North separated families and helped drain the South of more than 12 million of its own.</p>
           <p id="sc01-2_10204">Some of the old battlegrounds of civil rights, like the Birmingham bus station, still stand with discolored paint and memories. Many others including Atlanta's terminal are new structures offering modem conveniences and perhaps a clearer view of the confused strains of today's Southern ways.</p>
           <p id="sc01-2_10205">Shortly beyond the front door in the Atlanta terminal, visitors are welcomed by the smell of fat frying. A fast foods restaurant serves hamburgers and soft drinks with employees in red and yellow uniforms. Many take their food to the lobby where the open floor space is spotted with remaining cellophane wrappers and deformed cups. The Black men and women, who sit in most of the hard plastic seats waiting for a faceless voice to announce their particular bus, are traveling the same buses as their forebearers. Yet, they have reached their final destinations.</p>
@@ -550,7 +550,7 @@ counter. She is in Atlanta. She has arrived.</p>
           <byline>By <docAuthor><name reg="Miller, Dave" type="person">Dave
 Miller</name></docAuthor> and <docAuthor><name reg="Kenna, Gordon" type="person">Gordon Kenna</name></docAuthor></byline>
           <docDate value="1978-10">Vol. 1, No. 2, 1978, pp. 24-25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14167</idno></bibl>
           <p id="sc01-2_10222">Contracting opportunities for minority-owned businesses have been the subject of much attention of late, but the methods of achieving minority business participation are not so well known. Certainly, this is a new endeavor for both contractors and purchasing departmentswhich is often bound by law and tradition to do business using conservative and often unimaginative methods. But given a genuine desire and commitment to encourage minority business participation, affirmative action goals can be reached and even exceeded within the principles of sound business management and bidding practices.</p>
           <p id="sc01-2_10223">One such successful program has been implemented by the City of Atlanta in the construction of the new terminal building for the HartsfieldAtlanta International Airport. At the direction of Atlanta Mayor Maynard Jackson, three goals were established for the Airport Terminal Construction Program: (1) completion by a certain date; (2) completion within budget and; (3) significant involvement of small and minority business enterprise.</p>
           <p id="sc01-2_10224">The last goal envisioned a role considerably more encompassing than the conventional Equal Employment Opportunity standards commonly applied to construction programs of a large scale nature. Equal Employment Opportunity/Affirmative Action Programs in the past affected the composition of the staffs of the prime contractor and the sub-contractor, but not necessarily the ownership of the contracting firms. In those EEO/AA matters, Atlanta's "Hometown and Federal Plans" applied, however, it was in the area of ownership that the City wished to develop contracting procedures to increase the opportunities of small and minority firms to participate. Minority firms are those in which at least 50 percent of the ownership is held by persons who are defined by the United States Equal Opportunity Commission as minorities.</p>

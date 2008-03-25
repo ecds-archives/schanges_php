@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc20-4_1204">
   <teiHeader id="sc20-41201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc20-4_101">&#x00A9;2004 Emory
+          <p id="sc20-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Back to Birmingham</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zdv</idno></bibl>
           <p id="sc20-4_104" rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
           <p id="sc20-4_105"><hi rend="italic">This initiative on the part of Southern
 philanthropic, academic, and non-profit institutions, was inspired in
@@ -232,7 +232,7 @@ Power.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zf0</idno></bibl>
           <p id="sc20-4_1044" rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p>
           <p id="sc20-4_1045" rend="center">
             <hi rend="bold">Combating Discrimination and Racism</hi>
@@ -277,7 +277,7 @@ intergroup tolerance advanced.</p>
           <byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
 Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zg4</idno></bibl>
           <p id="sc20-4_1060" rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
 independent photojournalist Michael A. Schwarz. This oral history chronicles the story of Newtown, an African-American neighborhood in Gainesville, Georgia.</p>
@@ -358,7 +358,7 @@ Circuit Court of Appeals in Atlanta.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zh8</idno></bibl>
           <p id="sc20-4_1090">In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
 States. Based in New Orleans and syndicated by Public Radio
 International, with a list of stations that grows weekly (for the
@@ -436,7 +436,7 @@ combining that with a radio audience. The disadvantage of that format is that yo
           <p id="sc20-4_10101">As I began thinking more seriously about <title>American
 Routes</title>, I felt that it would have to come from the Gulf South
 or the Deep South because that's the source point of a lot of our
-mingled or creolized music forms--the old-time jazz, the rhythm &#x0026;
+mingled or creolized music forms--the old-time jazz, the rhythm &amp;
 blues, roots rock and roll, honky-tonk country, Cajun, and zydeco--that
 I think people can accept as such because these styles have been or
 are becoming part of our popular culture (albeit sometimes in awfully
@@ -496,7 +496,7 @@ points. This city is the second most popular urban tourist destination
 in the country, after San <pb id="sc20-4_10113" n="19"/>Francisco. It takes specialty regional and ethnic musics such as rhythm and blues, jazz, Cajun, zydeco, and creolizes them, becomes a serving bowl for them. That cultural mix of music was what led me here and it is what keeps me here. What New Orleans is facing now is how do we notch-up the regional quality and economic impact of cultural programming, cultural tourism, and music "industry"related activities without compromising values of community life and cultural expression for our own sake here with excessive commercialism and all the attendant problems for community-based music and other art forms of say a Motown- or Nashville-type situation.</p>
           <p id="sc20-4_10115">With the possible exception of TV cooking shows, I think <title>American Routes</title> is the only nationally syndicated public media program out of New Orleans and the Gulf Coast. As we aim for a broader audience on <title>American Routes</title>, we work outward from the creolized musics of the South, trying to convey qualities of New Orleans as our point of reference, our urban village, using ambient sounds and local voices. We're lucky enough to produce the show in the French Quarter in an old water bottling plant next to the historic Gallier House. The tourists pass down Royal Street, the hustlers lurk in the shadows, and the horses clip-clop by. It's all out there for the listening.</p>
           <p id="sc20-4_10116"><hi rend="bold">Tullos:</hi> Does being in such a musically distinctive city and region limit your programming?</p>
-          <p id="sc20-4_10117"><hi rend="bold">Spitzer:</hi> No, I think it's the opposite. With New Orleans as our base, we can still move widely around the country, seeking the subtleties of social relations that are in the music in a parallel way to our situation here. Recently we presented Jack Kerouac's Lowell, Massachussetts. We have chased moose through the Maine woods. We have talked to Navajos about the history of the highway that came through their land called Route 66 and brought problems (cultural loss and stereotypical teepee motels) and progress (more jobs, a restored sense of Navajo nomadic freedom to work on railroads or go West). On that show, we played versions of "Get Your Kicks on Route 66," along with Native American music, western swing, Texas oilfield rhythm &#x0026; blues--forms of music that both arrived with and comment on the nature of the travel west.</p>
+          <p id="sc20-4_10117"><hi rend="bold">Spitzer:</hi> No, I think it's the opposite. With New Orleans as our base, we can still move widely around the country, seeking the subtleties of social relations that are in the music in a parallel way to our situation here. Recently we presented Jack Kerouac's Lowell, Massachussetts. We have chased moose through the Maine woods. We have talked to Navajos about the history of the highway that came through their land called Route 66 and brought problems (cultural loss and stereotypical teepee motels) and progress (more jobs, a restored sense of Navajo nomadic freedom to work on railroads or go West). On that show, we played versions of "Get Your Kicks on Route 66," along with Native American music, western swing, Texas oilfield rhythm &amp; blues--forms of music that both arrived with and comment on the nature of the travel west.</p>
           <p id="sc20-4_10118"> Now, there are certain core genres in <title>American Routes</title>:
 blues, rhythm and blues, jazz, gospel as well as Cajun and zydeco, that have very strong associations with New Orleans and the region. We add in Memphis, Nashville and the rest of the Southern music by sub-region and that's a powerful palette. Then there are the artists or styles in "rootsy" popular music that draw on those forms whether it's Ray Charles or The Band, the Grateful Dead, Merle Haggard, Etta James--there are certain artists that embody those transformations or "routes" versions of "roots" music.</p>
           <p id="sc20-4_10119">Around that maybe 60 percent music core of the show,
@@ -504,7 +504,7 @@ we start adding other things, keeping in mind that one person's
 familiar song is not another person's familiar song if you went in a
 three song set. So, to give the example in Latin music, for people
 that are interested in Tejano and already like Latino music, they hear
-Santiago Jimenez doing a regionally well-known <hi rend="italic">ranchera</hi> like "Ay te dej&#x00F3; en San Antonio" ("I'm Going to Leave You in San Antonio"). After that you play something familiar to most people who have ever heard oldies, a song that was a novelty hit when it was made and most people don't know where it came from: Sam the Sham and the Pharoahs' 'Wooly Bully." In "Wooly Bully" you have a song that probably relates to humor about supernatural beliefs and certain types of malevolent animal spirits chasing around in everyday life, some people call it the "chupa cabra." Maybe you don't and maybe you do, but nonetheless that aesthetic, that humor is there to an original audience. 'Wooly Bully" was produced by Stan Kessler, who had worked with and written songs for Elvis at Memphis' Sun Records. It became a huge pop hit. But people still don't know what the Wooly Bully might be, they just kind of relate to the pulsing rockabilly/ rhythm &#x0026; blues feel and its exoticism.</p>
+Santiago Jimenez doing a regionally well-known <hi rend="italic">ranchera</hi> like "Ay te dej&#xF3; en San Antonio" ("I'm Going to Leave You in San Antonio"). After that you play something familiar to most people who have ever heard oldies, a song that was a novelty hit when it was made and most people don't know where it came from: Sam the Sham and the Pharoahs' 'Wooly Bully." In "Wooly Bully" you have a song that probably relates to humor about supernatural beliefs and certain types of malevolent animal spirits chasing around in everyday life, some people call it the "chupa cabra." Maybe you don't and maybe you do, but nonetheless that aesthetic, that humor is there to an original audience. 'Wooly Bully" was produced by Stan Kessler, who had worked with and written songs for Elvis at Memphis' Sun Records. It became a huge pop hit. But people still don't know what the Wooly Bully might be, they just kind of relate to the pulsing rockabilly/ rhythm &amp; blues feel and its exoticism.</p>
           <p id="sc20-4_10121">We put 'Wooly Bully" back in another context by
 <pb id="sc20-4_10120" n="20"/>playing it next to the traditional ranchera I mentioned in the Tejano
 conjunto tradition. Santiago Jimenez and Sam Samudio of Sam the Sham
@@ -513,7 +513,7 @@ set comes when you put Los Lobos on the other side of "Wooly Bully."
 The guys in Los Lobos appreciate "Wooly Bully" and the traditional
 Tejano music but are themselves progressive, next generation,
 intellectual <hi rend="italic">Mexicano</hi> Californians. They get how those songs are put together which are also well received by FM rock listeners of the 1970s, 80s, and 90s.</p>
-          <p id="sc20-4_10122">Once you've done that sort of three song segu&#x00E9; you help audiences hear the relationships between all of these things: the traditional ranchera, the pop standard that has been beaten to death in oldies formats, and Los Lobos singing about alienation in American life in a song called "One Time, One Night in America." So our art in the show is partly the art of the segu&#x00E9;, that continuity, that set of juxtapositions that allow these things to be heard in a fresh way. If was going to continue out of this set, knowing that guitarist David Hidalgo of Los Lobos grew up hearing and being influenced by the California rockabilly of the Bakersfield Arkies and Okies like Buck Owens, I'm now freed by having heard those guitar lines in Los Lobos to play some Buck Owens. (And I hope Buck or someone appreciates that!)</p>
+          <p id="sc20-4_10122">Once you've done that sort of three song segu&#xE9; you help audiences hear the relationships between all of these things: the traditional ranchera, the pop standard that has been beaten to death in oldies formats, and Los Lobos singing about alienation in American life in a song called "One Time, One Night in America." So our art in the show is partly the art of the segu&#xE9;, that continuity, that set of juxtapositions that allow these things to be heard in a fresh way. If was going to continue out of this set, knowing that guitarist David Hidalgo of Los Lobos grew up hearing and being influenced by the California rockabilly of the Bakersfield Arkies and Okies like Buck Owens, I'm now freed by having heard those guitar lines in Los Lobos to play some Buck Owens. (And I hope Buck or someone appreciates that!)</p>
           <p id="sc20-4_10123">Seriously, we try never to dwell too long on any genre of music. All of these people and musics are in migration in
 history, in real life and in our show. Things that pop culture has turned into static icons are freed and allowed to flow again.That's the kind of conscious effort we're trying for in our mix. To make those things possible, but to do it in a way that's not static. As much as I've talked about it just now, if 1 talked this much on the radio I'd be dead. It has to be done quickly. The music selections speak to each other and to listeners.</p>
           <p id="sc20-4_10124"> This flow of the music is the everyday, living, breathing aspect of <title>American Routes</title>. The way the show is put together always has a basis of juxtaposition, transformation, and texture. Making forms of American classical music (Ives, Still, Copeland) work with classic jazz (Ellington, Basie) next to blues, next to country, on and on. But we are also interested in themes. Sometimes themes are based around interviews. We're currently doing a series of programs featuring the living New Orleans piano professors like Allen Toussaint and Henry Butler. The theme is how these piano professors mingle European and popular music aesthetics with jazz and blues and new forms of African-American popular music. Artist interviews give a sense of an anchor to these programs that also include cuts from Louis Gottschalk, rural black banjo players, piano boogie music, and so on.</p>
@@ -561,7 +561,7 @@ music. There is a staff that produces the program and makes it happen
 every week. A research team helps make the segments fit together. We have a University of New Orleans staffer, Lauren Callihan who keeps us in touch with the university and the cityscape. Associate producer Lisa Richardson is an ethnomusicologist who has worked in Cajun country and has been a public radio host there. Lisa does background research and maintains archival materials. We also have a technical director, Matt Sakakeeny, who has
 come out of the mingling of musical performance practice, recording, and engineering. He's a graduate of the Peabody School and Johns Hopkins. Matt does all our editing digitally, so whether from an old 78, compact
 disc, LP, field recorded cassette or DAT, it all goes into the digital editing system so that it can be moved
-around, segu&#x00E9;d, raised and lowered in volume, and have noise levels reduced. Matt is the craftsman behind the very seamless sound that we get.</p>
+around, segu&#xE9;d, raised and lowered in volume, and have noise levels reduced. Matt is the craftsman behind the very seamless sound that we get.</p>
             <p id="sc20-4_10142">Mary Beth Kirchner is our executive producer, a wise woman in the world of programming for public radio and television. Mary Beth is responsible for a number of important documentaries on public radio over the years, from research into the frontiers of the brain to elderly nuns and the "graying
 of the convent." She helps us understand how we're communicating and
 whether we're being effective or not to the network and the
@@ -577,7 +577,7 @@ non-initiated who are a big segment of our audience. -N. S.
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zjd</idno></bibl>
           <p id="sc20-4_10143" rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p>
           <p id="sc20-4_10144" rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
 seasonal farmworkers, was founded in l967 by Baldemar
@@ -651,7 +651,7 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zkj</idno></bibl>
           <p id="sc20-4_10178"><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi><title>Walking with the Wind: A Memoir of the Movement</title><hi rend="italic">, New
 York: Simon and Schuster, 1998. In the category of fiction, the award
