@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc24-3-4_1204">
   <teiHeader id="sc24-3-41201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc24-3-4_101">&#x00A9;2004 Emory
+          <p id="sc24-3-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -76,7 +76,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <byline>By <docAuthor>U.S. Representative <name reg="Lewis, John" type="person">John Lewis</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002
 	       pp. 3-4, 12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1548w</idno></bibl>
           <p id="sc24-3-4_104">Remarks by Congressman John Lewis (D-GA) September 27, 2002 at the Howard University Convocation in Washington, D. C.</p>
           <p id="sc24-3-4_105">I was born the son of sharecroppers on a small farm outside of a
 little town called Troy, in the heart of rural Alabama. It is a great
@@ -172,7 +172,7 @@ Regional Council's Voter Education Project from 1970 to
           <head>The Masters of Augusta</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 5</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/15491</idno></bibl>
           <p id="sc24-3-4_1041">Discrimination takes many forms. It may not always be illegal, but it is always wrong.</p>
           <p id="sc24-3-4_1042">Prejudice based on race or gender is wrong, whether it occurs at a public university, the work place, or an exclusive private golf club. The golfers who play at such clubs and the members who belong to them condone discrimination by their presence.</p>
           <p id="sc24-3-4_1043">In the case of Augusta National Golf Club, the corporations who purchase memberships, the sponsors who supported televising the Masters' Tournament, and the broadcasters now without sponsors--they've been
@@ -202,7 +202,7 @@ served as a member of the board of the Southern Regional Council from
           <head>Effective Racial Profiling Legislation</head>
           <byline>By <docAuthor><name reg="Hartigan, Susie" type="person">Susie Hartigan</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4 2002 pp. 6-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154b5</idno></bibl>
           <p id="sc24-3-4_1055">Racial profiling presents one of the most pressing civil rights issues of our time. It extends beyond direct victims to negatively affect all persons of color of all generations and income levels. It undermines the legitimacy of the criminal justice system and hinders effective policing in the communities that need it the most.</p>
           <p id="sc24-3-4_1056">Under the narrowest definition, racial profiling occurs when a law
 enforcement officer stops and questions, searches, and/or arrests
@@ -302,7 +302,7 @@ instituteonraceandpoverty.org.</p>
             </docAuthor>
           </byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 8</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154c9</idno></bibl>
           <p id="sc24-3-4_1079" rend="italic">The Campaign Against Racial Profiling is a project of
 the American Civil Liberties Union (ACLU), a nationwide non-partisan
 organization of 300,000 members dedicated to preserving and defending
@@ -342,7 +342,7 @@ signal when changing lanes.</p>
           <head>Reform in Alabama?: The Nation's Worst Tax Structure</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 p. 9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154df</idno></bibl>
           <p id="sc24-3-4_1085">In a state known for Truman Capote, Harper Lee, and Rick Bragg, the most compelling, controversial, widely read, and strategically ignored piece of writing this election year was "An Argument for Tax Reform Based on Judeo-Christian Ethics" by Susan Pace Hamill, professor of la at the University of Alabama in Tuscaloosa. (See page 10 for an excerpt of Hamill's article.)</p>
           <p id="sc24-3-4_1086">Challenging the piety of politicians and the priorities of religious leaders in the Heart of Dixie, where nine out of ten residents say they practice some form of Christianity, Professor Hamill warns that "individuals claiming to be part of the People of God can no longer complacently tolerate Alabama's tax structure" which she identified as "the worst in the whole country."</p>
           <p id="sc24-3-4_1087">Susan Hamill is the most recent to rail against Alabama's regressive tax system and the antiquated 1901 state constitution which keeps it in place. Over a decade ago, the editorial page writers of the <title>Birmingham News</title> won a Pulitzer for their year-long, relentless hammering at tax reform. Nothing changed. Since then, Washington think tanks and state public policy institutes have hurled their own damning studies at Alabama's inadequate and inequitable ways of generating tax revenue. Governors and legislators come and go. Still nothing has changed.</p>
@@ -365,7 +365,7 @@ of American Studies at Emory University.</p>
           <head>Reform in Alabama?: The Nation's Worst Constitution</head>
           <byline>By <docAuthor><name reg="Hamill, Susan Pace" type="person">Susan Pace Hamill</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 10-11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154fk</idno></bibl>
           <p id="sc24-3-4_1094">There is a great deal of discussion in the press and among citizen groups, as to the need for constitutional reform in Alabama. Pointing to a tax structure that unfairly burdens the poorest Alabamians while raising dismally inadequate revenues and a legal structure that severely interferes with local governments' ability to meet local needs, constitutional reform supporters accuse Alabama's constitution of wrongfully locking in the present tax inequities and thwarting other desperately needed improvements.</p>
           <p id="sc24-3-4_1095">It remains, however, extremely difficult to convince average Alabamians that something as abstract and seemingly removed from day-to-day life as a constitution could possibly be guilty of concrete harm. A colleague, stopping me in the hall, expressed this dilemma well: "I wish someone would explain exactly how and why our constitution causes such bad results."</p>
           <p id="sc24-3-4_1096">A quick look at the United States Constitution, which enjoys widespread recognition as the highest example of how a constitution should work, provides helpful background. The U.S. Constitution guarantees all people certain fundamental rights, including freedom of speech, free exercise of religion, due process of law, equal protection under th laws, and the right to vote.</p>
@@ -433,7 +433,7 @@ www.law.ua.edu/directory/bio/shamill.html</p>
           <head>BOOKS: The Terrorist Next Door</head>
           <byline>By <docAuthor><name reg="Levitas, Daniel" type="person">Daniel Levitas</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 13-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154gq</idno></bibl>
           <bibl>Daniel Levitas, <title>The Terrorist Next Door: The Militia Movement and the Radical Right</title>, New York: Thomas Dunne Books/St. Martin's Press, Nov. 2002.</bibl>
           <p id="sc24-3-4_10111" rend="italic">Written by Atlanta author Daniel Levitas, <title>The Terror1st Next Door: The Militia Movement and the Radical Right</title> traces the emergence of white supremacist paramilitary groups from their roots in the post-Civil War period, through the segregationist violence of the civil rights era to the 1995 Oklahoma City bombing and beyond. It details the origins of the right-wing tax protest movement of the 1970s, the rural radical right of the 1980s and the militia movement of the 1990s.</p>
           <p id="sc24-3-4_10112" rend="italic">Levitas has written widely about racist, anti-Semitic, and neo-Nazi groups and has testified as an expert witness in American and Canadian courts since 1986. The former
@@ -499,7 +499,7 @@ enforced customs of segregation and the laws of Jim Crow.</p>
           <head>The New South Creed: Introduction</head>
           <byline>By <docAuthor><name reg="Norrell, Robert Jefferson" type="person">Robert Jefferson Norrell</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 15-16</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154hv</idno></bibl>
           <bibl>Paul M. Gaston, <title>The New South Creed: A Study in Southern Mythmaking</title>, Montgomery: New South Press; 2002. With a new afterword by the author and a new introduction by Robert Jefferson Norrell.</bibl>
           <p id="sc24-3-4_10131" rend="italic">An excerpt from Robert Jefferson Norrell's Introduction to the new edition of this influential book:</p>
           <p id="sc24-3-4_10132">With more than thirty years gone by since the original publication
@@ -554,7 +554,7 @@ Rights Movement in Tuskegee</title>, and other books.</p>
           <head>New South Creed: Looking Backward, 2001-1970</head>
           <byline>By <docAuthor><name reg="Gaston, Paul M." type="person">Paul M. Gaston</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 17-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154j0</idno></bibl>
           <p id="sc24-3-4_10142" rend="italic">An Excerpt from the Afterword to the New Edition of
 <title>The New South Creed</title>:</p>
           <p id="sc24-3-4_10143">Thirty years in the life of a book, not to mention in the
@@ -653,7 +653,7 @@ well as a contributing editor to Southern Changes.</p>
           <head>Black Mayors</head>
           <byline>Reviewed by <docAuthor><name reg="Chalmers, David" type="person">David Chalmers</name></docAuthor></byline>
           <docDate value="2002-09">Vol. 24, No. 3-4, 2002 pp. 19-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154k4</idno></bibl>
           <bibl>David R. Colburn and Jeffrey S. Adler, editors, <title>African American Mayors: Race, Politics, and the American City</title>, Urbana; University of Illinois Press, 2001.</bibl>
           <p id="sc24-3-4_10156">The breakthrough came in 1967 when Richard Hatcher was elected
 mayor of Gary, Indiana, and Carl Stokes was elected mayor of

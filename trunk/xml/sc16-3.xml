@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc16-3_1204">
   <teiHeader id="sc16-31201" type="text">
     <fileDesc>
@@ -67,7 +67,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Homegrown Progressives</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1994-09">Vol. 16, No. 3, 1994, pp. 1, 4-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tfk</idno></bibl>
           <p id="sc16-3_104">Of all the South's home-grown efforts to tackle regional social
 problems arising from the depression and the war, none were more
 extensive and substantial than those of the Southern Conference for
@@ -848,7 +848,7 @@ the
 
 <pb id="sc16-3_1078" n="16"/>
 
-Thirties and Forties&#2014;and several of them were out of the picture
+Thirties and Forties&#x7DE;and several of them were out of the picture
 by the time the war was over.</p>
           <p id="sc16-3_1080">Richard Wright gave up on the party in the early 1940s&#x2014;and
 then, a few years later, more or less gave up on his country. James
@@ -920,13 +920,13 @@ acted and sounded more like a Rotary Club regular than a scheming
 radical. He didn't conceal his purposes; he trumpeted them. In
 February 1947, he ran advertisements in several North Carolina
 newspapers announcing a Communist recruitment drive, and in a long
-interview with the Raleigh <hi rend="italic">News &#x0026; Observer</hi> he stated his and his
+interview with the Raleigh <hi rend="italic">News &amp; Observer</hi> he stated his and his
 party's aims in terms that could have served as the credo of a devoted
 liberal Democrat: to help the working class, to defend democracy, to
 prevent fascism, to erase poverty. Only one aim sounded a little
 strange: to bring about "the establishment of Socialism by the free
 choice of a majority of the American people."</p>
-          <p id="sc16-3_1086">The <hi rend="italic">News &#x0026; Observer</hi> story, quoting unnamed
+          <p id="sc16-3_1086">The <hi rend="italic">News &amp; Observer</hi> story, quoting unnamed
 sources, reported that "there are not more than 200 to 250 Party card
 holders in both North and South Carolina, and approximately one-fourth
 of these are affiliated with the Communist Club in Winston-Salem."
@@ -1036,7 +1036,7 @@ Book Award in 1984.</p>
           <head>In Birmingham, a Hearing on Human Rights</head>
           <byline>By <docAuthor><name reg="Braden, Anne" type="person">Anne Braden</name></docAuthor></byline>
           <docDate value="1994-09">Vol. 16, No. 3, 1994, p. 19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tgq</idno></bibl>
           <p id="sc16-3_1098">Charlotte Keys, who leads a fight against poisoning from an abandoned industrial site in Columbia, Mississippi, said the "American dream has become a toxic nightmare."</p>
           <p id="sc16-3_1099">Rose Sanders, who mentors a new generation of African-American youth in Alabama, said "separate and unequal education is active and alive."</p>
           <p id="sc16-3_10100">Tamika Elmore, of the Malcolm X Grassroots Movement in Birmingham,
@@ -1062,7 +1062,7 @@ Birmingham Jail."</p>
           <head>Filming 'The Uprising of '34'</head>
           <byline>By <docAuthor><name reg="Stoney, George" type="person">George Stoney</name></docAuthor></byline>
           <docDate value="1994-09">Vol. 16, No. 3, 1994, pp. 20-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14thv</idno></bibl>
           <p id="sc16-3_10110">Social class is something few Southerners are comfortable talking about, though it preoccupies us more than we'd like to admit. For the last five years, off and on, I have been gathering material for a film about textile workers, an undertaking that has turned into a voyage of selfdiscovery I never intended to take.</p>
           <p id="sc16-3_10111">Co-director Judith Helfand has been my constant traveling companion. A native of suburban Long Island, Judy was having her first extended encounter with my home territory. I was born and raised in Winston-Salem. Although most of my years since have been spent outside the South, I have written about it, and made documentary films about it, ever since I graduated from Chapel Hill in 1937.</p>
           <p id="sc16-3_10112">Our film was to deal with the textile workers' attempts to better their working conditions, using the general strike of 1934 as the dramatic core. This, the largest strike in U. S. history in a single industry, involved more than half a million Southern workers, the majority of them women.</p>
@@ -1161,7 +1161,7 @@ the South.</p>
           <head>Bearing Witness</head>
           <byline>Reviewed by <docAuthor><name reg="Gresham, Jewell Handy" type="person">Jewell Handy Gresham</name></docAuthor></byline>
           <docDate value="1994-09">Vol. 16, No. 3, 1994, pp. 25-28</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tj0</idno></bibl>
           <bibl><title>Women in the Civil Rights Movement:
 Trailblazers and Torchbearers, 1942-1965</title>, by
 Vicki L. Crawford, Jacqueline Anne Rouse, and Barbara Woods (Indiana
@@ -1259,8 +1259,8 @@ served the cause of human freedom so nobly.</p>
           <head>Testimony to the Power</head>
           <byline>Reviewed by <docAuthor><name reg="Vodicka, John Cole" type="person">John Cole Vodicka</name></docAuthor></byline>
           <docDate value="1994-09">Vol. 16, No. 3, 1994, pp. 28-31</docDate>
-          <bibl/>
-          <bibl><title>Memories of the Souther Civil
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tk4</idno></bibl>
+          <bibl><title>Memories of the Southern Civil
 Rights Movement</title>,<hi rend="bold"> by
 Danny Lyon (University of North Carolina Press, Duke University Center
 for Documentary Studies, 1992, 192 pages).</hi></bibl>

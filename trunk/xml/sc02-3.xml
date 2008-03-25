@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc02-3_1204">
   <teiHeader id="sc02-31201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc02-3_101">&#x00A9;2004 Emory
+          <p id="sc02-3_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -74,7 +74,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>In This Issue</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14434</idno></bibl>
           <p id="sc02-3_104">While admittedly too simple, much of the Southern life is still a
 saga about those two old notions of equality born in public policy
 during the first brief Reconstruction: the vote and forty acres and a
@@ -141,10 +141,10 @@ has been short.</p>
         </div2>
         <div2 id="sc02-3_003" n="2" type="Article">
           <head>Greensboro Slayings</head>
-          <byline>By <docAuthor><name reg="Powell, Janis" type="person">Janis Powell</name> &#x0026;
+          <byline>By <docAuthor><name reg="Powell, Janis" type="person">Janis Powell</name> &amp;
 <name reg="Powell, Bob" type="person">Bob Powell</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14448</idno></bibl>
           <p id="sc02-3_1013">Five people were slain and nine wounded in Greensboro, North Carolina November 3 as they participated in an anti-Klan rally. Fourteen members of the United Racist Front, a coalition of Nazis and Klansmen, were arrested and charged with first degree murder or conspiracy to murder by local authorities in connection with the slayings.</p>
           <p id="sc02-3_1014">The Communist Workers Party (CWP) had called the demonstration in Greensboro to protest the growing number of Klan attacks upon Black people and civil rights workers throughout the nation. One hour before the scheduled march and rally, the anti-Klan group of one hundred demonstrators changed the publicized meeting site from Windsor Center on Market Street to the Morningside Homes housing project. Both sites are in the Black community.</p>
           <p id="sc02-3_1015">Shortly after the rally began, five car loads of White men drove into the project shouting racist jeers and heckling the demonstrators. The two groups first confronted each other with rocks, sticks, and insults. Gunfire broke out and of the five killed (four White men and one Black woman), all but one were considered CWP leaders.</p>
@@ -155,7 +155,7 @@ the rally site but withdrew shortly before the shooting took place. Police said 
           <p id="sc02-3_1019">Despite the anti-Klan nature of the rally, Police Chief Swing
 confidently assured reporters that the situation was not racial. He
 said, "We're not talking about the Woolworth sit-ins in 1960 or the
-student rioting at A&#x0026;T State University in 1969, this is simply a case of White against White."</p>
+student rioting at A&amp;T State University in 1969, this is simply a case of White against White."</p>
           <p id="sc02-3_1020">Residents of Greensboro have many unanswered questions, which are being posed as the community searches to understand - why?</p>
           <p id="sc02-3_1021">&#x2014;How did the Klan know exactly where to come to if the rally site had been changed? Earlier in the week the Klan had secured through the city attorney's office the original route of the demonstrators. Despite the change in the rally site, the Klan drove straight to the site.</p>
           <p id="sc02-3_1022">&#x2014;When did the police discover the rally site had been changed?</p>
@@ -179,7 +179,7 @@ Klux Klan nationwide.</p>
           <head>Changing Politics in Mississippi</head>
           <byline>By <docAuthor><name reg="Klein, JoAnn" type="person">JoAnn Klein</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 5-6</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1445d</idno></bibl>
           <p id="sc02-3_1031">Mississippi &#x2015; fresh from legislative reapportionment designed to better reflect racial composition of voting age population - became the state with the greatest number of Black elected officials in elections November 6. Long a hotbed of racial conflict and struggle, the Deep South state took over the top spot from Louisiana by electing record numbers of Blacks to county offices and four-year legislative terms.</p>
           <p id="sc02-3_1032">In addition, William Winter, a former lieutenant governor, was elected governor by a 2-to-l majority. Winter, a three time candidate for the chief executive's slot, lost his first gubernatorial contest because he was considered too moderate on racial matters.</p>
           <p id="sc02-3_1033">Seventeen Blacks won seats in the Mississippi Legislature, an increase from six in the 1979 session. In the 122-member House of Representatives, Blacks will comprise 12.2 percent of the membership. Fifteen Black candidates, all Democrats, won seats in the lower chamber. Four are from Hinds County, the state's most populous county and the location of Jackson, the state capitol.</p>
@@ -211,7 +211,7 @@ along the Mississippi River.</p>
           <head>Election day in Mississippi</head>
           <byline>By <docAuthor><name reg="Dorsey, L.C." type="person">L.C. Dorsey</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 7-8</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1446j</idno></bibl>
           <p id="sc02-3_1051">As almost a hundred people crowded into Henry J. Kirksey's campaign headquarters, it was clear that they were also keeping their eyes on other races in the state.</p>
           <p id="sc02-3_1052">The November 6 general election saw the culmination of a concerted struggle for the fulfillment of the "one man, one vote" doctrine, which began in the mid-fifties, escalated in 1964 with the "Freedom Summer" activities and finally, fourteen years later, was realized when a federal court ordered plan guaranteed the election of Blacks to the Mississippi legislature.</p>
           <p id="sc02-3_1053">Henry Jay, as Kirksey is affectionately called by friends, was one
@@ -250,7 +250,7 @@ were also charges of vote-buying.</p>
           <head>Atlanta Blacks Lose in Special Election</head>
           <byline>By <docAuthor><name reg="Lewis, Boyd" type="person">Boyd Lewis</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 9-10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1447p</idno></bibl>
           <p id="sc02-3_1073">It's the hottest political secret of Atlanta, the city "too busy to hate", that the unhorsed barons of the old White power structure are now busily stringing together a collection of "great White hopes" to recapture the city's top political position from Black office-holders.</p>
           <p id="sc02-3_1074">There has been some anxiety as to just when the offensive will be launched. But with meticulous precision, the Ivan Allen Jr. Memorial Political Resurrection Machine is being assembled to pull the Atlanta mayorality, city council, county comission and the city's legislative delegation back into the right-thinking, White-thinking, commercially sensitive camp.</p>
           <p id="sc02-3_1075">But despite rumors to the contrary, the loss suffered by two Black candidates to the Whites in the City's October special election and run-off did not signal the opening of the crusade to recapture the Political Grail from the Black Mecca.</p>
@@ -284,7 +284,7 @@ Georgia.</p>
           <head>The Election of Birmingham's Black Mayor</head>
           <byline>By <docAuthor><name reg="Casey, Ron" type="person">Ron Casey</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 11-14</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1448t</idno></bibl>
           <p id="sc02-3_1094">Apparently there were two sets of voices vying- for Officer George Sand's attention as Birmingham Police Department car 71 pulled into the convenience store lot the night of June 22. The first was that of a White store employee whose co-worker stood inside with a bullet wound in his shoulder. "They're in there," Sands would later say he heard the worker yell as he pointed to a dark green Buick on the parking lot. "Look out. They've got a shotgun. They shot Mike." A group of Blacks would later testify they had been standing across the street yelling a different message to Sands: a warning he did not acknowledge.</p>
           <p id="sc02-3_1095">In plainclothes and with drawn revolver, Sands and his partner began to edge toward the car, commanding its occupant to remain still. As the two officers reached the back door of the vehicle, the passenger lunged suddenly downward into the seat. Sands responded with an almost instantaneous burst of gunfire. Three of his four bullets struck 21 year old Bonita Carter in the back. Later it would be learned that the young Black woman had apparently had nothing to do with the assault on the store employee. She had been an acquaintance of the assailant and had gotten into the car at his request when he ran away.</p>
           <p id="sc02-3_1096">The shooting awoke racial tensions in Birmingham that had lain dormant for more than a decade. And those tensions would become a double-edged sword that would, on the one hand, cut through the city's racial past and pave the way for its first Black mayor and, on the other, hound a man of long standing liberal credentials from office.</p>
@@ -345,7 +345,7 @@ Ron Casey is an editorial writer for the <title>Birmingham News</title>.
           <byline>By 
             <docAuthor><name reg="Anderson, Robert, Jr." type="person">Robert Anderson, Jr.</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 15-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1449z</idno></bibl>
           <p id="sc02-3_10124">On a Sunday afternoon in the spring of 1967, two White physicians who were conducting a survey for the Field Foundation came to Belzoni, Mississippi, and spent three hours talking to Black families. Their findings on this visit and on visits to similar places in rural Mississippi would later help awaken the nation to the fact of hunger and malnutrition in the United States and would trigger legislation leading to an expanded food stamp program and maternal and infant feeding program.</p>
           <p id="sc02-3_10125">The doctors wrote, "In sum, we saw children who are hungry and who are sick - children for whom hunger is a daily fact of life and sickness, in many forms, an inevitability. We do not want to quibble over words, but 'malnutrition' is not quite what we found; the boys and girls we saw were hungry - weak, in pain, sick, their lives are being shortened; they are, in fact, visibly and predictably losing their health, their spirits, their energy. They are suffering from hunger and disease and... they are dying from them - which is exactly what 'starvation' means."</p>
           <p id="sc02-3_10126">At the time of the doctors' visit, much of rural Mississippi was still a harsh, unyielding racist society, little changed by the civil rights movement of the 1960s. In its racial attitudes Belzoni itself was known as one of the state's most rigid towns. A local Black leader had been shot to death by White vigilantes only a few years before. As the doctors proceeded on that Sunday from one Black home to another, the chief of police followed behind them in his car, and a small crowd of unfriendly Whites gathered across the street. The afternoon ended without incident, yet the presence of the police was plainly intended to intimidate, and a sense of fear was pervasive.</p>
@@ -430,7 +430,7 @@ Manhattan Bank.</p>
           <byline>By 
             <docAuthor><name reg="Anderson, Robert, Jr." type="person">Robert Anderson, Jr.</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3, 1979, pp. 20-21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144b3</idno></bibl>
           <p id="sc02-3_10165">The American South has long had a singular attraction for scholars and journalists. The region has seemed to embody all our social and racial tensions. It has been all too easy to find in that society extreme examples of poverty and racism and the corrosive effects of both on the lives of people. In the last two decades a great deal of change has come to the South. Blacks at last have gained the right to vote, the right to equal educational opportunity, the right to equal employment - and the right to eat a hamburger at a lunch counter. In addition, the attitudes of Southern Whites have moderated to a degree that would have seemed impossible not too long ago.</p>
           <p id="sc02-3_10166">But harsh realities remain. Despite political gains and the lowering of social barriers, most Southern Blacks still face formidable economic obstacles. Although they constitute 20 percent of the region's population, their share of the financial benefits of the region's economy is far below that mark.</p>
           <p id="sc02-3_10167">The consequences of economic obstacles to the well-being of Southern Blacks are readily apparent in Bureau of the Census statistics. With 25 percent of the nation's total population, the South is home for 38 percent of the nation's poor. Comparisons between Black and White poverty are even more dramatic. More than half of rural Southern Black families are living at or below the poverty level while only 17 percent of rural Southern White families live in such conditions. Almost half of Southern farm laborers and about one fourth of all Southern farm owners live in poverty. However, the percentage of Black farm owners who are poor is nearly as high as the percentage for all farm laborers. (The average Black-owned farm is only about one-fourth the size of the average White-owned farm.)</p>
@@ -518,7 +518,7 @@ Poor,</hi> a Ford Foundation report.</p>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name>
 and <name reg="Norton, Duna" type="person">Duna Norton</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 22-25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144c7</idno></bibl>
           <p id="sc02-3_10180">When the State Legislature was forming the next-to last county in Alabama in 1877 from the southernmost hills of the Appalachian chain, the legislators joked that the land was so poor a crow would have to carry a sack of corn to survive flying from one end of the county to the other. Yet, the land that became Cuilman County had by 1920 become the top producer of a variety of crops and has since had the largest farm sales of any county in the state.</p>
           <p id="sc02-3_10182">While the reputation of Culiman County as a farming area has been
 growing, the reputation of one of the leading agricultural counties
@@ -580,7 +580,7 @@ Duna Norton is director of the Agricultural Marketing Project in Tuscaloosa, Ala
           <head>Southern Politics</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144dc</idno></bibl>
           <p id="sc02-3_10201">Alarmed by the enormous amounts of money that Political Action Committees (PACs) are contributing to campaigns, a majority of the members of the U.S. House of Representatives took a first step in October to limit the funds that PACs can contribute to House candidates.</p>
           <p id="sc02-3_10202">In a 217-198 vote House members decided to limit the "arms race. . . of campaign dollars . . . ." in approving an amendment sponsored by Dem. David Obey of Wisconsin and Rep. Tom Railsback of Illinois. The amendment which applies only to the lower house of Congress would prohibit House candidates from receiving more than $70,000 from any or all PACs in any two-year period preceding an election.</p>
           <p id="sc02-3_10203">PACs are often the political units of labor, business, or professional associations that presently can contribute any amount of money to any candidates for the U.S. House or Senate. A study by the Federal Elections Commission in 1978 showed that labor, corporate and trade association PACs gave almost three times as much money to incumbents as they did challengers. In 1978 almost 25 percent of all funds contributed to House candidates - nearly $23,000,000 came from PACs.</p>
@@ -659,7 +659,7 @@ members voted "yea". No House member from Mississippi or Arkansas supported the 
           <head>Economic Development</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 27</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144fh</idno></bibl>
           <p id="sc02-3_10248">While the South continues to show signs of rapid economic activity,
 the rate of unemployment in the region, which has not been an
 historically severe problem as in other regions, is suggesting that
@@ -726,7 +726,7 @@ have not yet been seen by Southerners in the unemployment lines.</p>
           <head>Southern Women</head>
           <byline>By <docAuthor><name reg="Powell, Janis" type="person">Janis Powell</name></docAuthor></byline>
           <docDate value="1979-12">Vol. 2, No. 3., 1979, pp. 28</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144gn</idno></bibl>
           <p id="sc02-3_10258">With an official proclamation and the announcement of an annual
 scholarship in her name, October 16 was declared as a day to honor
 Rosa Parks during a rally in Atlanta's Central City Park, co-sponsored

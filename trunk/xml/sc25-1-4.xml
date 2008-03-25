@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc25-1-4_1204">
   <teiHeader id="sc25-1-41201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc25-1-4_101">&#x00A9;2004 Emory
+          <p id="sc25-1-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Money Matters in Education</head>
           <byline>By <docAuthor><name reg="Borrero, Luz" type="person">Luz Borrero</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 p. 3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154m8</idno></bibl>
           <p id="sc25-1-4_104">The Southern Regional Council has long advocated full government responsibility in providing equal access to high quality education. This fundamental duty directly affects the lives of most minority and low-income children and youth. State and federal government must commit the necessary revenues and support to ensure that all children receive the same quality education that middle and upper class students do.</p>
           <p id="sc25-1-4_105">The 2001 No Child Left Behind Act, legislation to improve the basic skills of the approximately 47 million U. S. public school students, presents more obstacles than support for struggling children and schools. The Act focuses heavily on penalties for low-performing schools and offers little assistance to help those schools improve. No Child Left Behind mandates that states develop and implement accountability plans for academic performance and measure student progress through annual statewide testing. Schools can fall short of performance standards and risk losing federal funding if not enough students take the text. School populations are divided into subgroups by race, ethnicity, income, disability, and limited fluency in English. If less than 95 percent of any subgroup completes the tests, the school is not making adequate progress. In Georgia this year, 846 schools-42 percent of Georgia's public schools-failed to make adequate progress. More than 60 percent of those "failing" schools failed because of insufficient participation. If a Title I school fails to meet "Adequate Yearly Progress" (AYP) standards for two consecutive years, under federal law, the school is placed on a "Needs Improvement List." It is required to offer supplemental tutoring services, and its students are eligible to transfer to a higher-performing school at the expense of the school district or the school will face restructuring and ultimately the state take over of the school.</p>
           <p id="sc25-1-4_106">According to the Congressional Research Service, full funding of
@@ -99,7 +99,7 @@ Council.</p>
           <head>Embracing Thanatos: The War Machine and the Bush Administration</head>
           <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 4-5</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154nd</idno></bibl>
           <p id="sc25-1-4_1012">This year, Congress is on track to approve a Bush administration defense budget of $400 billion, a figure meaning that the United States now consumes more than 45 percent of the earth's military expenditures. And that total does not include this year's supplemental appropriations of as much as $87 billion for ongoing military operations in Afghanistan and Iraq or the $30 to $35 billion absorbed by the secret "black budget" of the Central Intelligence Agency and other intelligence operations.</p>
           <p id="sc25-1-4_1013">But this is only the beginning. While state and local governments scramble to maintain essential services and federal programs for the poor and working class face new restraints, Pentagon planners have outlined future increases that will lead to military expenditures of $500 billion annually by 2008-a 33 percent increase over today's spending levels and twice the amount of the mid-1990s.</p>
           <p id="sc25-1-4_1014">In the wake of September 11, we are told that these staggering increases are essential in order to protect American security. But even a cursory examination of the Pentagon's budget shows that most of these escalating expenditures are for elaborate weapons systems that are useless in confronting the asymmetrical national security challenges we are likely to face in the years ahead.</p>
@@ -116,7 +116,7 @@ country. And what do these companies have in common? They are
 politically well connected and they have given lavish political
 contributions to the Republican party.</p>
           <p id="sc25-1-4_1019">Third, these staggering increases in military expenditures--when coupled with the Bush administration's trillion dollar tax cuts for the wealthy-conveniently
-reinforce conservative demands that non-military expenditures be "restrained." Behind a fa&#x00E7;ade of "compassionate conservatism," the Bush administration moves by stealth toward the goal bluntly outlined by conservative ideologue Grover Norquist: gradually reducing the federal government's social programs until they can be "drowned in a bathtub."</p>
+reinforce conservative demands that non-military expenditures be "restrained." Behind a fa&#xE7;ade of "compassionate conservatism," the Bush administration moves by stealth toward the goal bluntly outlined by conservative ideologue Grover Norquist: gradually reducing the federal government's social programs until they can be "drowned in a bathtub."</p>
           <p id="sc25-1-4_1021">The events of the last two years have once again reminded us that war is always the enemy of social justice in a democratic society. But this administration already has earned a special place in historical infamy for its
 <pb id="sc25-1-4_1020" n="5"/>willingness to engage in what Nobel laureate George Akerlof has called "a form of looting" as it mortgages our future with its short-sighted economic policies and militaristic adventurism. The impact of this neo-imperial militarism is felt around the world provoking resentment from former allies and unalloyed hatred from those who once responded to us with a mixture of admiration and hostility.</p>
           <p id="sc25-1-4_1022">For those of us in this country who support the broad goals of a humane social democracy, it is particularly painful to see the way in which Bush administration policies skillfully unravel a safety net slowly constructed over much of the last century.</p>
@@ -145,7 +145,7 @@ University of South Carolina.</p>
           <head>Missing Martin</head>
           <byline>By <docAuthor><name reg="Gaston, Paul M." type="person">Paul M. Gaston</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 6-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154pj</idno></bibl>
           <p id="sc25-1-4_1033">Forty years ago, a quarter of a million Americans came to Washington in a march for jobs and freedom. Martin Luther King, Jr.'s, "I Have a Dream" speech, the riveting highlight of the occasion, began with a prediction that the day would "go down in history as the greatest demonstration for freedom in the history of our nation." And so it did.</p>
           <p id="sc25-1-4_1034">Now at its fortieth anniversary, the March on Washington is being commemorated all over the world, putting me in mind once more of the warning flag the southern writer James Agee hoisted many years ago. "The deadliest blow the enemy of the human soul can strike is to do fury honor," he wrote. "Official acceptance is the one unmistakable symptom that salvation is beaten again, and is the one surest sign of fatal misunderstanding, and is the kiss of Judas."</p>
           <p id="sc25-1-4_1035">Strong language. Vintage Agee. And, like most sweeping generalizations, it obscures some truths as it illuminates the big ones. Furious struggles for liberty are not universally robbed of their power to inspire; but they are routinely appropriated to serve other agendas and ambitions.</p>
@@ -179,7 +179,7 @@ southern history.</p>
           <head>Rally 'Round the Flag Boys: Continued White Flight from the Democratic Party</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 8-9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154qp</idno></bibl>
           <p id="sc25-1-4_1048">When Sonny Perdue took the oath of office in Atlanta in January 2003, he became the first Republican governor of Georgia since Rufus Bullock of Albion, New York, was elected to the post in 1868 during federal Reconstruction of the South after the Civil War. Perdue's election completed a process that began with the defection of whites from the Democratic Party beginning in the late 1940s.</p>
           <p id="sc25-1-4_1049">Southern Democrats, under the leadership of Strom Thurmond of South Carolina and styling themselves "Dixiecrats," staged an open revolt against Harry Truman and the national Democratic Party during the 1948 presidential election because of the party's pro-civil rights stance. Governor Fielding Wright of Mississippi, Thurmond's vice-presidential running mate, warned that the protection of minority rights called for by Truman and his Committee on Civil Rights "aimed to wreck the South and our institutions." Thurmond for his part railed against the proposed federal rights initiative and declared that ,.all the laws of Washington and all the bayonets of the army cannot force the Negro into our homes, our schools, our churches, and our places of recreation." In the ensuing election, the Thurmond/Wright Dixiecrat ticket carried four southern states-Alabama, Louisiana, Mississippi, and South Carolina-and marked the beginning of the end of the white Solid South which could always be counted on to vote Democratic.</p>
           <p id="sc25-1-4_1050">The formal development of the Republican Party in the South took place later around the 1964 presidential candidacy of Barry Goldwater, who adopted a Southern Strategy of opposing the Civil Rights Act of 1964. The Southern Strategy, like the Dixiecrat movement, was a calculated effort to attract white Democratic voters who were furious about the racial changes taking place in the South. Sonny Perdue's election was no exception.</p>
@@ -222,7 +222,7 @@ Press, 2003).</p>
           <head>Fighting to Find the Facts: Virginia Organizing Project on Racial Profiling</head>
           <byline>By <docAuthor><name reg="Vaughan, Steve" type="person">Steve Vaughan</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 p. 10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154rt</idno></bibl>
           <p id="sc25-1-4_1064">To solve a problem, one first needs to know how bad the problem is. While that might seem to be stating the obvious, a majority of the Virginia General Assembly disagrees with that common sense assertion.</p>
           <p id="sc25-1-4_1065">For the second year in a row, legislators have refused to pass a bill that would require Virginia police to record and retain records on the reasons for and the results of traffic stops in order to come to grips with the extent of the racial profiling problem in Virginia.</p>
           <p id="sc25-1-4_1066">Anecdotal evidence suggests that racial profiling abounds in Virginia. The state's principal of the year, an African-American man in Charlottesville, tells of having to carefully teach black students how to deal with police when pulled over for no apparent reason. Just before the legislature began in January, the normally conservative <title>Richmond Times-Dispatch</title> ran an informative story on what appeared to be a pretext stop caught on tape. A key black legislator, Delegate Kenneth Melvin, (D-Portsmouth) cast the deciding vote to kill a bill that would have required primary enforcement of the state's seat belt law--one of Democratic Governor Mark Warner's key legislative goals--for fear that it would serve as an excuse for "driving while black" pretext stops.</p>
@@ -249,7 +249,7 @@ www.virginia-organizing.org</p>
           <head>The Pryor Threat</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, no. 1-4, 2003 pp. 11-12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154sz</idno></bibl>
           <p id="sc25-1-4_1077">What happens when the Bush administration's obsession with handing federal judgeships to shrewd and articulate, right wing, strict-constructionist ideologues draws too big of a crowd to slip a nominee unnoticed through the door? Perhaps by the time you read this, Senate Republicans and Zell Miller (D-GA), back from summer recess, will have given up their all-out push to confirm Alabama Attorney General Bill Pryor as a judge on the Eleventh Circuit Court of Appeals. If not, seek cover for your children and your children's children. If so, consider how lengthy a record of reactionary positions, outrageous advocacies, and conflicts of interest must exist to deny a Bush choice, and then only by filibuster.</p>
           <p id="sc25-1-4_1078">Granted, the prize is big and the unwinding promise of Pryor's backward-looking future (he's forty-one) seems to stretch on forever. The Eleventh Circuit, based in
 Atlanta and handling federal appeals from Alabama, Georgia, and Florida, is one stop below the U. S. Supreme Court. Most cases that come into the Eleventh end in the Eleventh. Bill Pryor was nominated only after the Senate Judiciary Committee of the 107the Congress refused to advance the President's first choice, federal magistrate William H. Steele, also from Mobile, who, like Pryor, was strongly opposed by African-American civil rights organizations.</p>
@@ -283,7 +283,7 @@ Changes</title>.</p>
           <head>FILM: Education and Incarceration?</head>
           <byline>Reviewed by <docAuthor><name reg="Burkett, Randall" type="person">Randall Burkett</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 13-14</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154t3</idno></bibl>
           <bibl><title>The Intolerable Burden</title>. Directed by Chea Prince. Produced by Constance Curry. Blue Stream Production Films, 2003.</bibl>
           <p id="sc25-1-4_1091">Regular readers of these pages will be familiar with
 Constance Curry, whose prize-winning book <title>Silver Rights</title>
@@ -308,7 +308,7 @@ www.frif.com.</p>
           <head>BOOKS: Georgia's Quest for Fair Representation</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 15-16</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154v7</idno></bibl>
           <bibl>Laughlin McDonald, <title>A Voting Rights Odyssey: Black
 Enfranchisement in Georgia</title>, Cambridge University Press,
 2003.</bibl>
@@ -335,7 +335,7 @@ Regional Council.</p>
           <head>A Highway Up From Darkness</head>
           <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J." type="person">Robert J. Norrell</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 17-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154wc</idno></bibl>
           <bibl>J. Mills Thornton III, <title>Dividing Lines: Municipal Politics and the Struggle for Civil Rights in Montgomery, Birmingham, and Selma</title>. Tuscaloosa: The University of Alabama Press, 2002.</bibl>
           <p id="sc25-1-4_10110">At the end of the Selma march, Martin Luther King, Jr., gave a kind of valedictory address of the Civil Rights Movement near the front of the Alabama state capitol in which he reflected on the sequence of events that had brought them to that moment in history. King recalled the Montgomery bus boycott of 1955-56, and then the
 Birmingham demonstrations which made "the conscience of America begin to bleed," and finally Selma, the most honorable and inspiring "pilgrimage of clergymen and laymen" in the nation's history. Over the past decade, King concluded, the Civil Rights Movement had gone "from Montgomery to Birmingham, from Birmingham to Selma, from Selma back to Montgomery, a trail wound in a circle long and often bloody, yet it has become a highway up from darkness."</p>
@@ -364,7 +364,7 @@ white supremacy as a detriment to future economic progress. Thornton provides th
           <head>Jumping on Racism with Both Feet</head>
           <byline>Reviewed by <docAuthor><name reg="Spears, Ellen G." type="person">Ellen G. Spears</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 19-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154xh</idno></bibl>
           <epigraph>
             <p id="sc25-1-4_10122">"Racism is such a powerful force in this country, you
 have to always be jumping on it with both feet just to be able to hold
@@ -421,7 +421,7 @@ Wilson, Charles Reagan, ed. <title>The New Regionalism</title>. Jackson: Univers
           <head>"...Something Is Bound to Happen"</head>
           <byline>Reveiwed by <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="2003-09">Vol. 25, No. 1-4, 2003 pp. 21-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/154zn</idno></bibl>
           <bibl><title>Freedom Writer: Virginia Foster Durr Letters from
 the Civil Rights Years</title>, edited by Patricia Sullivan (New York: Routledge, 2003.</bibl>
           <p id="sc25-1-4_10139">There is delight and living history on every page of this welcome collection of the correspondence of Montgomery's Virginia Durr, who would have turned a hundred this year. Durr was already the subject of a fine oral history memoir (Outside the Magic Circle, 1985, University of Alabama Press), but the letters selected and annotated here by historian Patricia Sullivan show us afresh why Durr was not only colorful but also important. Few Southern white women of the 20th century lived as

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc17-3-4_1204">
   <teiHeader id="sc17-3-41201" type="text">
     <fileDesc>
@@ -76,7 +76,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
             </docAuthor>
           </byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 1-2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v5k</idno></bibl>
           <p id="sc17-3-4_104">A federal court lawsuit filed November 17 challenges the constitutionality of yet another congressional election district. The newest challenge, to U.S. Representative Robert Scott's Virginia district, represents the eleventh majority-black or -Hispanic district to be challenged by associates of the "Campaign for a Color Blind Society Legal Defense and Education Fund." In its aggressive and deliberate campaign to undermine and destroy hard-won democratic ideals, the political right wing has been skillful in standing history on its head--taking language and concepts defined and shaped by the Civil Rights Movement to undermine its past victories.</p>
           <p id="sc17-3-4_105">This misappropriation causes confusion, blurs the lines between inclusion and exclusion, and hides the real debate about the potent and powerful role race plays in the daily workings of this country, not only in gaining fair electoral representation, but also in having access to quality education, well-paying jobs, and equal opportunities.</p>
           <p id="sc17-3-4_106">Take, for example, the California "Civil Rights" Initiative. This proposed constitutional amendment for the November 1996 ballot (if it gains enough signatures) reads: "Neither the state of California or any of its political subdivisions or agents shall use race, sex, color, ethnicity or national origin as a criterion for either discriminating against, or granting preferential treatment to, any individual or group in the operation of the State's system for public employment, public education or public contracting."</p>
@@ -103,7 +103,7 @@ levels.</p>
           <head>The Latest Attack on Voting Rights</head>
           <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 3-5, 13</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v6q</idno></bibl>
           <p id="sc17-3-4_1016">In the past two years, decisions by the U. S. Supreme Court have
 voided congressional election systems in Georgia and threatened those
 in other states including North Carolina, California, Louisiana, and Texas. These decisions testify to the latest round of American racial conflict. They respond to opposition by whites to state district plans, drawn after the 1990 census, that promote the election of racial minorities protected under the federal Voting Rights Act. Civil rights groups and minorities had argued successfully that the Act required state officials to consider race and to maximize minority-race districts. Many did, and bitter complaints came from white voters. This resistance has now been consummated by the Court's decisions in two closely watched opinions, <hi rend="italic">Shaw v. Reno</hi> (North Carolina) and <hi rend="italic">Miller v. Johnson</hi> (Georgia) , resulting in the most serious attack on voting rights in more than a decade.</p>
@@ -171,7 +171,7 @@ disfranchisement.</p>
           <head>A Democracy To Be Proud Of</head>
           <byline>By <docAuthor><name reg="McKinney, Cynthia A." type="person">Cynthia A. McKinney</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 6-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v7v</idno></bibl>
           <p id="sc17-3-4_1041">One positive development to come out of the Supreme Court's narrow five to four decision striking down majority-minority districts is the broader discussion it has sparked regarding the way we elect members of Congress in general. Low voter turnout, distrust of elected officials, the term-limits movement, and the increasing desire for a third party are all strong indications that Americans are no longer satisfied with our representative democracy as practiced through the winner-takes-all assumption. As majority-minority districts across America are targeted for dismantling, many are discovering that oddly shaped super-majority white districts are quite common as well, yet remain unchallenged. For many, this apparent double standard is an indication that the entire method by which we draw congressional districts is flawed.</p>
           <p id="sc17-3-4_1042">It is important to remember that majority-minority districts exist only because our winner-takes-all assumption makes it inherently more difficult for African-Americans to have representation--due to racial block voting--particularly in the South. Four hundred years of slavery, segregation and discrimination have, without a doubt, created a set of circumstances and interests unique to African-Americans. Such interests can rarely be reflected in public policy as long as simple majorities are required to control state power. If we remain wedded to a system which does not employ proportional voting, majority-minority districts will continue to be necessary in order for African-Americans to have a stake in our polity. Hence, majority-minority districts are not the problem, they are merely symptoms of the much larger dysfunction under-mining our electoral system. Out of all the democracies in the world, only four--including the United States--still rely on the winner-takes-all method of electing public officials. The rest of the world's democracies have discovered that giving 100 percent of the state's power to the candidate who can secure 50 percent of the vote plus one, is not equitable.</p>
           <p id="sc17-3-4_1043">In its present form, our winner-takes-all assumption
@@ -211,7 +211,7 @@ the American electorate.</p>
 `Bizarre' Districts or Bizarre Decisions?</head>
           <byline>By <docAuthor><name reg="Karlan, Pamela S." type="person">Pamela S. Karlan</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 8-13</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v80</idno></bibl>
           <p id="sc17-3-4_1050">Last term, the Supreme Court took action in five voting rights cases: it struck down Georgia's majority-black Eleventh Congressional District; it denied standing to white voters in Louisiana who wished to challenge the state's majority-black Fourth Congressional District although none of them lived there; it upheld without comment California's legislative and congressional apportionments; and it agreed to hear oral argument regarding the constitutionality of Texas's and North Carolina's plans. These decisions reveal a Court seemingly committed to reviewing challenged congressional districts one by one and issuing opinions that depend so heavily on the peculiar facts of each case that they provide no real guidance to lower courts or legislatures.</p>
           <p id="sc17-3-4_1051">This essay raises three broad questions: First: Who now has legal
 standing to bring a wrongful districting claim? The rulings in <hi rend="italic">Shaw v. Reno</hi> (North Carolina)<ref target="sc17-3-4karlan.001n1">*</ref><note id="sc17-3-4karlan.001n1" n="*" place="foot">The North Carolina congressional
@@ -336,7 +336,7 @@ the Court's visions and revisions over the past three Terms have suggested. Demo
           <head>Charles G. Gomillion</head>
           <byline>By <docAuthor><name reg="Norrell, Robert J." type="person">Robert J. Norrell</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 14-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14v94</idno></bibl>
           <p id="sc17-3-4_1086">A few weeks ago I lost my hero--Charles Goode Gomillion, a 95-year-old man of whom relatively few people will have heard. But for me he embodied true greatness, and the meaning of his life speaks clearly to us today.</p>
           <p id="sc17-3-4_1087">A sociology professor at Tuskegee University, Gomillion led African-Americans in that small Black Belt town in a thirty-year struggle to gain the right to vote. In the late 1930s he began to organize professors to challenge the local board of registrars, which allowed only a handful of African-Americans to go the polls.</p>
           <p id="sc17-3-4_1088">Whites feared that if a
@@ -386,7 +386,7 @@ Charles Gomillion shows how we can face the future.</p>
           <head>Anne Romaine</head>
           <byline>By <docAuthor><name reg="Guerrero, Gene" type="person">Gene Guerrero</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 15-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vb8</idno></bibl>
           <p id="sc17-3-4_10106">On October 25, Anne Romaine died in Gastonia, North Carolina of complications from a burst appendix. She died about a week before she would have turned 53.</p>
           <p id="sc17-3-4_10107">Anne was best known for her music. In 1966 she and former SNCC Freedom Singer Bernice Reagon, who now leads Sweet Honey in the Rock, founded the Southern Folk Cultural Revival Project which for many years organized music tours of the South featuring grassroots black and white performers of traditional Southern music including Johnny Shines, Phyllis Boyens, Rev. Pearly Brown, Sparky Rucker, the Balfa Brothers, Ralph Stanley, Billy Ed Wheeler, the Georgia Sea Island Singers and Mabel Hillary. It was Anne who gave the legendary Nimrod Workman exposure on the national stage leading to his Smithsonian Institution appearances.</p>
           <pb id="sc17-3-4_10108" n="16"/>
@@ -417,7 +417,7 @@ Southern Communities, 522 Hill Street, SE, Atlanta, GA 30312.</p>
           <head>The Light of Freedom</head>
           <byline>Remarks by <docAuthor><name reg="Payne, Charles         M." type="person">Charles M. Payne</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 19-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vcd</idno></bibl>
           <p id="sc17-3-4_10123">Editor's note: The following essay is an edited
 version of Professor Payne's remarks at the Lillian Smith Book Awards
 luncheon held in Atlanta on November 3. His book <title>I've Got the
@@ -470,7 +470,7 @@ continue to renew our hope some fifty years later.</p>
             </docAuthor>
           </byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 p. 21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vdj</idno></bibl>
           <p id="sc17-3-4_10142">Wendy S. Johnson, former executive director of the Appalachian Community Fund, comes to the Southern Regional Council with a record of fifteen years leading effective and strategic nonprofit programs in the region.</p>
           <p id="sc17-3-4_10143">Johnson served first as an appointed member and then, in 1979, as executive director of the Human Rights Commission of Bowling Green, Kentucky, (her hometown) where she made effective use of the Commission's powers to take complaints, determine probable cause, and hold administrative hearings on allegations of discrimination in employment and housing.</p>
           <p id="sc17-3-4_10144">Seeking new arenas to expand her involvement in pushing for equity, Johnson joined Southeast Women's Employment Coalition to lead a newly
@@ -492,7 +492,7 @@ human rights."</p>
           Shining in Sunflower</head>
           <byline>Reviewed by <docAuthor><name reg="Hayden, Casey" type="person">Casey Hayden</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 22-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vfp</idno></bibl>
           <bibl><title>Silver Rights</title> by Constance Curry (Algonquin Books of Chapel Hill, 1995, 258 pages).</bibl>
           <p id="sc17-3-4_10148">In the dialect of local black Mississippians in the Freedom Movement of the 1960s, civil rights were "silver rights." This book is the story of one family who went after those rights.</p>
           <p id="sc17-3-4_10149">Matthew and Mae Bertha Carter, sharecroppers in Sunflower County in the Mississippi Delta, and parents of thirteen children, sent their kids to the white schools in Drew in 1965. They did so because the black schools didn't operate all year, closing twice to allow black children to chop down the weeds in the cotton fields and then pick the cotton. And the black schools were inferior; Matthew and Mae Bertha Carter knew that because they went to segregated schools themselves. Drew was known among civil rights workers as one of the most dangerous towns in the state.</p>
@@ -523,7 +523,7 @@ AFSC.</p>
           <head>Rendering Wallace</head>
           <byline>Reviewed by <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 24-27</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vgt</idno></bibl>
           <bibl><title>The Politics of Rage: George Wallace and the Transformation of American Politics</title>, by Dan T. Carter (Simon and Schuster, 1995, 572 pages).</bibl>
           <p id="sc17-3-4_10160">Beginning in Clio, Alabama (evoking the name of the Greek muse of history), and ending not too distantly in the future, George Wallace's life seemingly has been destined to be one of the grand morality plays of American politics, full of human pathos, the rough pageantry of consumptive ambition, and the ironies of forgiven mortal sins. His is also an essentially Southern story, one in which losers like him--be they good or evil--have more to tell us about ourselves and our times than many of the victors of our national history.</p>
           <p id="sc17-3-4_10161">Now, with the arrival of <title>The Politics of Rage: George Wallace and the Transformation of American Politics</title>, Southern historian Dan 'F. Carter has captured the essence of this tragedy in an easily readable, remarkably insightful biography of both Wallace and "Wallaceism," recreating how the man and his movement "to stand up for America" reshaped the language and limits of today's American political system. Seldom has a living politician's biography explained so clearly, so convincingly, both the person's complex nature and his unacknowledged, en-during influence on national life. And, like relatives enjoying a dishonorable inheritance about which they never speak, rarely have the heirs of a politician's achievements been so reluctant to admit the source of their legacy.</p>
@@ -582,7 +582,7 @@ their souls since the muse of history surely cannot.</p>
           <head>The Place of Justice</head>
           <byline>Reviewed by <docAuthor><name reg="Stanley, Tal" type="person">Tal Stanley</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 27-29</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vhz</idno></bibl>
           <bibl><title>Justice in the Coalfields</title>, directed by Anne Lewis. Camera: Andrew Garrison, Herb E. Smith, Joseph Gray, Tom Kaufman, Jerry Johnson. Sound: Anne Lewis, Alex Milenic. Assistants: Buck Maggard, Jim Branson. (Appalshop, 1995, 57 minutes.)</bibl>
           <p id="sc17-3-4_10179">Many of us can trace the development of our social consciousness to particular events that had a galvanizing effect upon the way we understand not only ourselves, but the places and cultures in which we live. Although our social consciousness is continually shaped in the context of the relationships and places of our lives, these central events often retain their force as we push our understanding of their historical importance. Sadly, in many cases these galvanizing moments are not ones in which we can point to the courageous stand we made or the way we joined with others to struggle for justice. During the 1989 United Mine Workers of America nonviolent civil disobedience strike against the Pittston Coal Company, I was living and working in Wythe County, Virginia. Every Sunday afternoon hundreds of Virginia State Police gathered at the Division Headquarters outside of Wytheville, the county seat, to be briefed before traveling into Russell, Wise, and Dickenson counties to enforce Virginia's right-to-work law against the striking miners and their supporters. Despite my woeful lack of understanding of all the issues at the time, I knew that more was at stake than the enforcement of law and the miners' demands for a living wage. In the years since, I have come to understand the strike's deeper issues of justice and to see my own standing-by as a complicity of sorts in systems of injustice.</p>
           <p id="sc17-3-4_10181">Anne Lewis' provocative and skillfully produced documentary of the
@@ -639,7 +639,7 @@ work, despite the long, long struggles ahead, <hi rend="italic">Justice in the C
           <head>Salute to the Vanguard</head>
           <byline>Letter from <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1995-09">Vol. 17, No. 3-4, 1995 pp. 30-31</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vj3</idno></bibl>
           <p id="sc17-3-4_10191">I feel obliged to take processor in hand to take exception to David
 J. Garrow's review [<title>Southern Changes</title>, Spring
 1995] of John Egerton's <title>Speak Now Against the Day: The Generation Before the Civil Rights Movement in the South</title>, which chronicles the largely untold story of the civil rights movement from 1932 to 1954.</p>

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc07-2_1204">
   <teiHeader id="sc07-21201" type="text">
     <fileDesc>
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Vengeance and Justice</head>
           <byline>By <docAuthor><name reg="Hahn, Steven" type="person">Steven Hahn</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 22-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cf7</idno></bibl>
           <bibl><title>Vengeance and Justice: Crime and Punishment in the
 Nineteenth Century South.</title> By Edward L. Ayers. Oxford
 University Press, 1984.384 pp. $24.95</bibl>
@@ -274,7 +274,7 @@ Populism.</title> (Oxford Univ. Press, 1983).</p>
           <head>Victorian to Modernist Thought in the South, 1919 - 1945</head>
           <byline>By <docAuthor><name reg="Hobson, Fred" type="person">Fred Hobson</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cgc</idno></bibl>
           <bibl><title>The War Within: From Victorian to Modernist Thought in
 the South, 1919 - 1945.</title> By Daniel Joseph Singal. University of
 North Carolina Press, 1982.</bibl>
@@ -399,7 +399,7 @@ University of Alabama at Tuscaloosa. His most recent book is
           <head>Games Registrars Play</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14chh</idno></bibl>
           <p id="sc07-2_1030">Two decades after the passage of the Voting Rights Act, no one
 really knows how many black citizens are registered to vote in the
 South today. While no better basic standard exists by which to measure
@@ -502,7 +502,7 @@ Regional Council.</p>
           <head>Crackdown in the Black Belt: Not-So-Simple Justice</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cjn</idno></bibl>
           <p id="sc07-2_1044">In a trial that should reveal the distance the Reagan Justice
 Department will travel to cooperate with local white officials in
 suppressing the voting rights of black citizens, the case of <hi rend="italic">United
@@ -1109,7 +1109,7 @@ one vote and a surer chance at fairness for black and white."</p>
           <head>Consorting with the Enemy</head>
           <byline>By <docAuthor><name reg="Witt, Elise" type="person">Elise Witt</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cks</idno></bibl>
           <p id="sc07-2_10133"><hi rend="italic"> February 3.</hi> Miami, the cultural
 intermediary. Tropical vegetation, flowering bushes in
 February. Sultry air and a heavy, full moon. Spanish signs on Cuban

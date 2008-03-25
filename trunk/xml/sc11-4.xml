@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc11-4_1204">
   <teiHeader id="sc11-41201" type="text">
     <fileDesc>
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Writing and Doing: Women in Civil Rights</head>
           <byline>By <docAuthor><name reg="Grant, Joanne" type="person">Joanne Grant</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 6</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ktc</idno></bibl>
           <p id="sc11-4_104">A spate of recent conferences has a common purpose: to assess the
 civil rights movement and place it in historical perspective. They
 have a common thesis as well--<hi rend="italic">la lutta continua</hi>,
@@ -153,7 +153,7 @@ anthology, <title>Black Protest</title>, and produced the film,
           <head><title>The Price of Empire</title> by J. William Fulbright, with Seth P. Tillman. (Pantheon Books, 1989. xi, 243 pages. $17.95)</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 27-28, 30</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kvh</idno></bibl>
           <p id="sc11-4_1016">Radicals would do well to read this book by the Arkansas
 aristocrat; it could teach them not to be so restrained.</p>
           <p id="sc11-4_1017">Americans generally, and Southerners in particular, ought to read
@@ -346,7 +346,7 @@ described; all opinions, one assumes, are those of both men.</p>
           <head>Hooked on the Drug Problem</head>
           <byline>By <docAuthor><name reg="Dreger, Ralph Mason" type="person">Ralph Mason Dreger</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 7-8</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kwn</idno></bibl>
           <p id="sc11-4_1039">How do we fight the drug problem? Well, first, it must be
 recognized that it is not "the drug problem," but a whole congeries of
 problems:
@@ -489,17 +489,17 @@ members of the SRC extended family are invited to submit essays from
           <head>Mergers in South Texas Colleges</head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kxs</idno></bibl>
           <p id="sc11-4_1058">The largely Hispanic population of south Texas now has a better
 opportunity to get the same quality of higher education as Texans
 living in other parts of the state, thanks to several bills signed in
 May that will merge five south Texas colleges with the state's two
 most prestigious university systems--the University of Texas and Texas
-A&#x26;M [<title>Southern Changes</title>, July/Aug 1988]. </p>
-          <p id="sc11-4_1059">Texas A&#x26;I in Kingsville, Corpus Christi State and Laredo State will
-combine with the A&#x26;M system and Pan American University's campuses at
+A&amp;M [<title>Southern Changes</title>, July/Aug 1988]. </p>
+          <p id="sc11-4_1059">Texas A&amp;I in Kingsville, Corpus Christi State and Laredo State will
+combine with the A&amp;M system and Pan American University's campuses at
 Edinburg and Brownsville will join the UT system, giving the schools
-access to the funds and management systems of UT and A&#x26;M and an
+access to the funds and management systems of UT and A&amp;M and an
 ability to grow into full-fledged four-year schools with graduate
 programs.</p>
           <p id="sc11-4_1060">The arrangement will expand the number of advanced degrees
@@ -524,7 +524,7 @@ resolve the lawsuit.</p>
           <head>Bear Poaching in North Carolina</head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kzx</idno></bibl>
           <p id="sc11-4_1065">Hundreds of black bears are being poached in the southern
 Appalachian Mountains for their heads, hides, teeth, claws, feet, pads
 and gall bladders. "When we caught him this one guy was carrying 29
@@ -556,7 +556,7 @@ alternatives but to survive in those enclaves," says Wade.</p>
           <head>Issues of Reliability and Validity</head>
           <byline>By <docAuthor><name reg="Clayton, Al" type="person">Al Clayton</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 11</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m05</idno></bibl>
           <p id="sc11-4_1070">Too often, standardized exams are not accurate even within the
 narrow range of things they are able to measure. The reasons for this
 problem can be found in the somewhat technical areas of test <hi rend="italic">reliability</hi> and <hi rend="italic">validity</hi>.</p>
@@ -637,7 +637,7 @@ from low-income and minority-group backgrounds.</p>
           <head>Kovach Named Nieman Curator</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m19</idno></bibl>
           <p id="sc11-4_1082">Bill Kovach, the former editor of the <title>Atlanta
 Journal-Constitution</title>, is the new curator of the Harvard-based
 Nieman Foundation program of journalism fellowships.</p>
@@ -655,7 +655,7 @@ worked for the <title>Nashville Tennessean</title> and the
           <head>He Is The Blues</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m2f</idno></bibl>
           <p id="sc11-4_1085">Erstwhile blues guitarist Lee Atwater, a former member of the
 Howard University board of trustees, is the subject of a new song,
 "The Man Who Would B.B. King," by Nashville song writers Marshall
@@ -713,7 +713,7 @@ target."</p>
           <head>Hormone-free Texas.  Beef Ships Out</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m3k</idno></bibl>
           <p id="sc11-4_10100">Twenty tons of hormone-free Texas beef left the Port of Houston in
 late July on their way to European customers. The shipment was the
 first U.S. beef allowed into Europe since the federal government and
@@ -736,7 +736,7 @@ said.</p>
           <head>Publications</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m4q</idno></bibl>
           <p id="sc11-4_10102"><title>War at Home: Covert Action Against U.S. Activists and What
 We Can Do About It</title> by movement lawyer Brian Glick traces
 "the history of CIA style 'covert action' by the FBI and other
@@ -784,7 +784,7 @@ Place, New York, NY10003.0r call 1-800-826-4357.</p>
           <head>Contemporary Hate Activity</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 16-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m5v</idno></bibl>
           <p id="sc11-4_10107">EDITOR'S NOTE: As Stetson Kennedy points out<corr resp="encoder">[see "One Less Voice for Discrimination, Vol. 11
 No. 4]</corr>, the problems of bigotry, violence and discrimination
 remain very much a part of the U.S. landscape. The following incidents
@@ -971,7 +971,7 @@ television show, "Race and Reason," on community access cable
 television for the past three years.</p>
           <p id="sc11-4_10153">* Fashion</p>
           <p id="sc11-4_10154">Two workers were fired in June for wearing KKK hoods while walking
-through the Southington, Conn., Pratt &#x26;Whitney plant. In
+through the Southington, Conn., Pratt &amp;Whitney plant. In
 Philadelphia, Pa., five civilian employees of the Graterford Prison
 were suspended following an incident in which two of them donned Klan
 costumes and harassed black and Puerto Rican inmates. None of the
@@ -999,7 +999,7 @@ for an Oct. 7 march permit on behalf of the Aryan Nations.</p>
           <head>Stopping the Overuse of Standardized Tests</head>
           <byline>By <docAuthor><name reg="Neill, Monty" type="person">Monty Neill</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 9-10, 12-14</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m60</idno></bibl>
           <p id="sc11-4_10157">During the past decade, a tidal wave of standardized testing has
 washed over the school systems of America. In its report,
 <title>Fallout From the Testing Explosion</title>, FairTest (the
@@ -1333,7 +1333,7 @@ develop coalitions and campaigns to end the overuse, misuse and abuse
 of standardized testing.</p>
           <div3 id="sc11-4_033" type="About">
             <p id="sc11-4_10226">Monty Neill is the Associate Director of FairTest, the
-National Center for Fair &#x26;Open Testing. Documentation, as well as a
+National Center for Fair &amp;Open Testing. Documentation, as well as a
 more extensive discussion of most of the points in this article, can
 be found in <title>Fallout Prom the Testing Explosion: How 100 Million
 Standardized Exams Undermine Equality and Excellence in America's
@@ -1346,7 +1346,7 @@ for $8.95 from FairTest, 342 Broadway, Cambridge, MA 02139; (617)
           <head>How Acre stopped testing in North Carolina</head>
           <byline>By <docAuthor><name reg="McCullough, Page" type="person">Page McCullough</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 12-13</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m74</idno></bibl>
           <p id="sc11-4_10227">In 1987, the North Carolina legislature voted against giving the
 California Achievement Test to first and second grade children.  In
 the following article, Page McCullough, the former executive director
@@ -1465,7 +1465,7 @@ available from FairTest, 342 Broadway, Cambridge, MA 02139.</p>
           <head>H.L. Mitchell, 1906-1989</head>
           <byline>By <docAuthor><name reg="Land, Mike" type="person">Mike Land</name> and <name reg="Williams,  Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m88</idno></bibl>
           <p id="sc11-4_10244">H.L. Mitchell, co-founder of the Southern Tenant Farmers Union and
 a life-long Southern radical and activist, died August 1 in
 Montgomery, where he had lived in semi-retirement since 1973. He was
@@ -1530,7 +1530,7 @@ the sky, and if something gets in their eyes, they can then say:
           <head>One Less Voice for Discrimination</head>
           <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 16</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14m9d</idno></bibl>
           <p id="sc11-4_10255">Any time a racist organization or hate sheet goes out of business
 is a time for rejoicing. The recent obituary in <title>The
 Spotlight</title> announcing the demise of <title>The Citizen</title>,
@@ -1613,7 +1613,7 @@ for 1990.</p>
           <head>Louisiana, Third World Dumping Ground</head>
           <byline>By <docAuthor><name reg="Greenpeace" type="institution">Greenpeace</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mbj</idno></bibl>
           <p id="sc11-4_10270">Oh, for the good old days, when U.S. environmentalists and their
 gangs of regulators were ruining the economy by forcing well-meaning
 companies to take their business abroad. Now, according to a report in
@@ -1644,7 +1644,7 @@ Louisiana."</p>
 Lee.</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mcp</idno></bibl>
           <p id="sc11-4_10273">A scene late in Spike Lee's movie, <title>Do Thc Right
 Thing</title>, depicts white firefighters trying to hose down the
 blazes at Sal's Pizzeria, torched earlier in a small riot in the
@@ -1725,7 +1725,7 @@ Council.</p>
           <head>Ruling in McKinney Surplus Property Case</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mdt</idno></bibl>
           <p id="sc11-4_10283">A homeless support group in Huntsville, Ala., has lost a federal
 court action aimed at forcing the U.S. Navy to make an unused
 warehouse available for shelter. However, the judge's ruling does
@@ -1752,7 +1752,7 @@ to the City.</p>
           <head>Affordable Housing Shortage at Crisis Stage</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, p. 23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mfz</idno></bibl>
           <p id="sc11-4_10286">A growing lack of affordable housing has reached a crisis stage for
 blacks and Hispanics, as well as for low income Americans in general,
 according to the Center on Budget and Policy Priorities.</p>
@@ -1805,7 +1805,7 @@ are the typical approaches of such efforts.</p>
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-07">Vol. 11, No. 4, 1989, pp. 32, 31</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mg3</idno></bibl>
           <p id="sc11-4_10296">On a morning in the midst of the Bill Lucas furor, I completed an
 informal poll in the skyscraper building which houses both local
 governments here in the Motor City. A small army is employed

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc08-6_1204">
   <teiHeader id="sc08-61201" type="text">
     <fileDesc>
@@ -75,7 +75,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Behind the Numbers on Black Crime</head>
           <byline>By <docAuthor><name reg="Barak, Gregg" type="person">Gregg Barak</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 8-9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f2x</idno></bibl>
           <p id="sc08-6_104">According to FBI figures for 1985, the four largest cities in
 Alabama--Birmingham, Mobile, Huntsville, and Montgomery--all
 registered increases in their crime rates that exceeded the national
@@ -248,7 +248,7 @@ black political organization, in Birmingham in October
 Lowcountry</head>
           <byline>By <docAuthor><name reg="Rosengarten, Dale" type="person">Dale Rosengarten</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 17-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f32</idno></bibl>
           <p id="sc08-6_1019">Coiled sea grass basketry flourishes today in the tidewater region
 of South Carolina. In all seasons, or any given day, travellers to
 Charleston can find dozens of basketmakers from the surburban
@@ -699,7 +699,7 @@ Carolina Arts Commission.</p>
           <head>A Southerner in South Africa</head>
           <byline>By <docAuthor><name reg="Gaston, Paul M." type="person">Paul M. Gaston</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 9-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f46</idno></bibl>
           <p id="sc08-6_1065">Few visitors return from South Africa these days with good news or
 give us much reason to be hopeful. Like those who have visited the
 country, most Americans fear and expect the worst from it. We are all
@@ -844,7 +844,7 @@ their daily lives, we felt, insulated them from the harsh world
 apartheid sustained. <hi rend="italic">One can live in total isolation
 from all this, as most do</hi>, I wrote in my diary. <hi rend="italic">Newspapers say little about the 'unrest,' as it is
 called. In fact, they are muzzled so they can't. Television news is
-unbelievably bland &#x26; uninformative. All 'unrest' areas are
+unbelievably bland &amp; uninformative. All 'unrest' areas are
 surrounded by police or cordoned off by road blocks. Few whites see
 them or have a picture of what is happening there. Life in
 middle-class neighborhoods like ours goes on cheerfully: folks see
@@ -1072,11 +1072,11 @@ down. They look to have a future."</p>
           <p id="sc08-6_10116">I also recorded some of my own responses that night drawing
 political lessons from the day's visit: <hi rend="italic">Thoughts on
 Crossroads: Again impression of enormous resilience of SA people and
-incredible friendliness. Warm &#x26; welcoming people determined to
+incredible friendliness. Warm &amp; welcoming people determined to
 make a life for themselves in this place, their own turf. Immense
-blindness of PW &#x26; Co. to the reality of their own people. How to
+blindness of PW &amp; Co. to the reality of their own people. How to
 get them to see it? Probably impossible. Probably too blinded by
-ideology, privilege &#x26; circumstances of their lives to be
+ideology, privilege &amp; circumstances of their lives to be
 reached. Only way is for power to transfer, circumstances of lives to
 change, and new views and senses of reality to emerge out of altered
 circumstances.</hi></p>
@@ -1180,7 +1180,7 @@ contributing editor of <title>Southern Changes</title>.</p>
           <head>Palmer Weber, 1914-1986</head>
           <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 5-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f5b</idno></bibl>
           <p id="sc08-6_10129">In 1948, Palmer Weber and Louis Burnham organized Henry Wallace's
 third party campaign in the South. Building on earlier voter
 registration and education efforts, the Southern campaign focused
@@ -1302,7 +1302,7 @@ and effectively in the South it was to challenge the segregation
 system everywhere--in public facilities, public speaking, blacks
 running for public office. In every city we conducted registration
 drives to register black voters. For example, in Greensboro, N.C., at
-A&#x26;T College we managed to have about thirty-five black
+A&amp;T College we managed to have about thirty-five black
 students. They qualified three thousand black voters and the next year
 they elected the first black city councilman since
 Reconstruction. Randolph Blackwell ran that campaign."</p>
@@ -1310,7 +1310,7 @@ Reconstruction. Randolph Blackwell ran that campaign."</p>
 Wallace campaign helped shape his life-long commitment to advancing
 economic and political justice. Blackwell remembered, "Palmer had as
 much influence on my professional development as anybody. We were
-always delighted when Palmer would come to North Carolina A&#x26;T
+always delighted when Palmer would come to North Carolina A&amp;T
 during the '48 campaign. He had a great influence on those of us whose
 lives he touched to dedicate ourselves to the task of ridding the
 society of racial discrimination." (After completing a law degree at
@@ -1390,7 +1390,7 @@ Virginia.</p>
           <head>Congressman Espy from Mississippi</head>
           <byline>By <docAuthor><name reg="Minor, Bill" type="person">Bill Minor</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 1-3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f6g</idno></bibl>
           <p id="sc08-6_10144">A studious, mild-mannered Yazoo City attorney, thirty-two years
 old, wrote Mississippi political history on November 4, when he became
 the first black sent to the U.S. Congress from this state since
@@ -1526,7 +1526,7 @@ lives in Jackson.</p>
           <head>Locking Up Liberty in the Atlanta Pen</head>
           <byline>By <docAuthor><name reg="Dolman, Joe" type="person">Joe Dolman</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 3-5</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f7m</idno></bibl>
           <p id="sc08-6_10168">The granite fortress occupies the ridge on McDonough Boulevard with
 imperial authority. Its gray steel and concrete outer wall stands as
 tall as thirty-seven feet and as thick as four feet; it seals off

@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc08-1_1204">
   <teiHeader id="sc08-11201" type="text">
     <fileDesc>
@@ -77,7 +77,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 North Carolina Press, 1985.</head>
           <byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 22-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d3z</idno></bibl>
           <p id="sc08-1_104">The term "liberal" often obscures more than it explains. The
 adjective "southern" is certain to add to the confusion.</p>
           <p id="sc08-1_105">There is an implicit assumption that "southern liberal" means white
@@ -277,7 +277,7 @@ Virginia.</p>
           <head>Women and Children in Poverty </head>
           <byline>By <docAuthor><name reg="Pearce, Diana" type="person">Diana Pearce</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d43</idno></bibl>
           <p id="sc08-1_1018">
             <hi rend="italic">Two out of three adults in poverty today are
 women. Three-fourths of America's more than 34 million poor consist of
@@ -681,7 +681,7 @@ desegregation, including serving as an expert witness in the Yonkers
           <head>American Poverty, World Poverty</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d57</idno></bibl>
           <p id="sc08-1_1089">For poor people in this country, and in the world, the outlook is
 not good. And because the lives of the poor are joined together with
 ours, their problems and poverty are ours-directly and indirectly, in
@@ -1042,7 +1042,7 @@ and is  vice-president of the Southern Regional Council.</p>
           <head>Casualty Count.  The War Against the Poor</head>
           <byline>By <docAuthor><name reg="Greenstein, Robert" type="person">Robert Greenstein</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d6c</idno></bibl>
           <p id="sc08-1_10162">If you look at the statistics of American poverty today, one
 set--the figures for children's poverty--hits you over the
 head. Fifteen years ago the child poverty rate was between thirteen
@@ -1250,10 +1250,10 @@ Council.</p>
           </div3>
         </div2>
         <div2 id="sc08-1_006" n="5" type="Review">
-          <head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &#x26;Row 247 pp. $15.95</head>
+          <head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &amp;Row 247 pp. $15.95</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No.1, 1986, pp. 20-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d7h</idno></bibl>
           <p id="sc08-1_10203">The tumultuous decade of the 1960s still hovers over us like a
 great gray cloud, a mighty shadow of lingering hope and despair and
 wonder. We look back now with amazement bordering on disbelief at the

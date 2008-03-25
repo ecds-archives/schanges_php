@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc01-1_1204">
   <teiHeader id="sc01-11201" type="text">
     <fileDesc>
@@ -17,7 +17,7 @@
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc01-1_101">&#x00A9;2004 Emory
+          <p id="sc01-1_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -73,7 +73,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
 A New Magazine: Our Creed and Hopes</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1978-09">Vol.1 No. 1, 1978, pp. 2-3</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140hc</idno></bibl>
           <p id="sc01-1_104">This first issue of <hi rend="bold">Southern Changes</hi> is nothing new.</p>
           <p id="sc01-1_105">On four prior occasions during the last 34 years, the Southern
 Regional Council has announced the premiere of a new publication. Each
@@ -216,7 +216,7 @@ and for the Council as dated as its first publication.</p>
       Another Political Year</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1 No. 1, 1978 pp. 5-6 </docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140jh</idno></bibl>
           <p id="sc01-1_1028">Southern politics has seldom offered an opportunity for hope or joy to the agitating Southerner. For those of us who bel eve that race and equality have not surrendered their central place in the life of the South, the scars and terrors of past political defeats have made us reluctantly more the observant than the participant. Perhaps, it has sharpened our ability to see clearly. Or, like the neighborhood wag sharing the tales of some highway accident, it may be that we've come to be satisfied with describing politics instead of engaging it.</p>
           <p id="sc01-1_1029">Yet, this year of all years brings a hope for some Southern liberals that the nature of politics is changing, that the politicians' views have improved, and that the nature of our problems has changed. As proof, it is noted that some of the most skillful masters of the old school of Southern politics are passing away from their places of political eminence. John McClellan of Arkansas, James Eastland of Mississippi, John Sparkman and Jim Allen of Alabama: none will sit in the U.S. Senate in 1979. Indeed, we are reminded that there has been no other year in the past twenty in which so many of the partricians of Southern heritage have relinquished their places.</p>
           <p id="sc01-1_1030">A little more memory may also tell us, however, that there have
@@ -283,7 +283,7 @@ segregated and, that in the South almost six out of every ten prohibit Blacks.</
           <head>My Sons Are Growing Up Racists</head>
           <byline>By <docAuthor><name reg="Hilldrup, Robert" type="person">Robert Hilldrup</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1 No. 1, 1978, pp. 7</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140kn</idno></bibl>
           <p id="sc01-1_1051">All my life, I've heard it said that the difference between us whites, South and North, is that the Southerner loved Blacks as individuals, and hated them as a race, while Northerners loved them as a race, and hated them as individuals.</p>
           <p id="sc01-1_1052">Now, I see this pattern emerging in my own family: my sons are growing up racists, despite having lived in a family which was consistently involved in efforts to promote integration and racial justice.</p>
           <p id="sc01-1_1053">To relate these efforts, by my wife and by myself, and the things we have endured from both Black and White as a result, would be self-serving. Worse, it would be embarassing, because what we have suffered is relatively little in comparison with the suffering of others--Black and White. Yet I am sure I speak for others who share my wife's persuasion and mine when I say that there is a growing feeling of isolation among us today, caught as we are between the hardening attitudes of fellow Whites at one end and the malignant violence of Black hatred at the other.</p>
@@ -323,7 +323,7 @@ of the Holocaust is something we dare not forget.</p>
           <byline>By <docAuthor><name reg="Borgos, Seth" type="person">Seth Borgos</name></docAuthor> and
 <docAuthor><name reg="Miller, Joshua" type="person">Joshua Miller</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 11-12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140ms</idno></bibl>
           <p id="sc01-1_1073">The first time we heard of Dr. Wayne Smith he sounded like a character out of Ibsen or Sinclair Lewis. A courageous, reformminded doctor criticizes the corrupt local hospital and thereby incurs the wrath of the medical establishment because he violated the unwritten rule that doctors protect their own. He incurs the hostility of the community because the rate of patient attendance of the hospital rapidly drops.</p>
           <p id="sc01-1_1074">What we found in Keber Springs, Arkansas, did not quite match the
 scenario. Wayne Smith is a combative man, a perfectionist. His
@@ -375,7 +375,7 @@ all politics for democracy.</p>
           <head>How To Tell You're In The South</head>
           <byline>By <docAuthor><name reg="Thomas, Richard K." type="person">Richard K. Thomas</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1 No. 1, 1978, pp. 13-15</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140nx</idno></bibl>
           <p id="sc01-1_1097">For two centuries students of regional science have engaged in debates over the existence of a Southern region of the United States. If one is willing to concede that there Is, In fact, a "South," the question still arises as to where it begins and where it ends. Can some defining phrase be applied to the South in a manner similar to that by which the Mississippi Delta has been delineated as stretching from the lobby of the Hotel Peabody in Memphis to Catfish Row In Vicksburg? Or, are its boundaries too vague to be clearly defined? Is the transition from the South to the North, to the Mid-west and to the West too gentle to be noted or is there a sociocultural boundary noticeable to any traveler?</p>
           <p id="sc01-1_1098">Since the 1900's, a series of attempts have been made to set the boundary between the South and the non-South. Some of the more subjective criteria utilized in this process have been derived from popular conceptions of the region. An example often noted in the media is the Mason and Dixon's Line. This 18th century demarcation, while initially serving to settle a boundary dispute between Pennsylvania and Maryland, came to be popularly accepted as the line separating the free and slave states. Despite the suggestion that the term "Dixie" is derived from this boundary, it is rather ineffective at setting even the northern perimeter of the region. (Not only that, but many of the stones implanted to mark its location have been stolen by souvenir hunters.)</p>
           <p id="sc01-1_1099">A more scientific approach to the use of folk terminology in defining the region was attempted by John Reed, His analysis was based on the existence of the identifiers Southern" and 'Dixie" as attached to places of business. By examining the telephone directories of nearly 100 U.S. cities for the existence of companies, storages and agencies which included one of these terms in their name, he was able to delimit the section of the country where "Southern" was most frequently utilized and another similar, but not coterminous, area where "Dixie" predominated.</p>
@@ -444,7 +444,7 @@ with such points being identified all along the border. On the west, as one pass
             </docAuthor>
           </byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 16-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140p2</idno></bibl>
           <p id="sc01-1_10122">
             <hi rend="bold">"A free, democratic society cannot cage inmates like
 animals or stack them like cattle in a warehouse and expect them to
@@ -524,7 +524,7 @@ and more caging facilities.</p>
 Experience: Some Findings in North Carolina</head>
           <byline>By <docAuthor><name reg="Landsberger, Betty H." type="person">Betty H. Landsberger</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 18-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140q6</idno></bibl>
           <p id="sc01-1_10173">
             <hi rend="bold">Editor's Note: In the mid 1970's, a difference of at least 15 years in life expectancy was found to exist between White females and Black males in the population of the United States. This finding led Dr. Betty H. Landsberger, a member of the School of Nursing a the University of North Carolina at Chapel Hill, to do some research into the possible contributing causes for this significant difference in life expectancy rates. What she found is that school experience may be one of the contributing causes. A condensation of her research follows.</hi>
           </p>
@@ -650,7 +650,7 @@ population it is designed to serve.</p>
           <head>The Politics Behind Georgia's Fair Employment Practices Law</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 21-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140rb</idno></bibl>
           <p id="sc01-1_10204">In an election year, bill-signing ceremonies become as fine an occasion to judge the issues of an incumbent governor's campaign as a speech at a barbecue picnic in Southwest Georgia. When Governor George Busbee signed the 1978 Georgia Fair Employment Practices Act into law in March, he spoke highly of the new law which could not have existed anywhere in the South 15 years ago. He called the bill "one of the most significant pieces of legislation to pass the general assembly in many years."</p>
           <p id="sc01-1_10205">Busbee made it clear to the press and other observers, however, that equal opportunity in employment would be brought to Georgia "through the type of working relationship already established and because our people want to do what is right." Echoing the strident words shouted in the past to resist such changes, the New South governor employed the old rhetoric about the way change effectively occurs. He said that fairness in state jobs won't come through threats, coercion, unruly demonstrations or nuisance court actions."</p>
           <p id="sc01-1_10206">The mixed symbols of the old and new politics of Georgia with which Busbee enacted the new legislation and campaigned for reelection explain much of the background behind the new law. The governor was campaigning for votes when he said that equal opportunity for a state job will now be afforded all applicants because officials want to do right." Honorable intentions did not cause any appreciable difference in Black employment after Busbee issued an executive order in July 1976, encouraging state agencies to hire and promote more Blacks and women. Eighteen months later he was admitting privately that the executive order had failed.</p>
@@ -724,7 +724,7 @@ self-serving enlightenment.</p>
           <head>Economic Development</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140sg</idno></bibl>
           <p id="sc01-1_10238">An order which was issued recently by the Secretary of Transportation, is expected to substantially increase opportunities for minority owned firms. However, the order has sparked a controversy in Atlanta over the definition of who is a minority.</p>
           <p id="sc01-1_10239">The order, which is now being prepared as a guideline for state highway departments, will require that each state establish specific goals for using minorityowned businesses as contractors and subcontractors. The regulation is expected to require that state transportation departments appoint a compliance officer and staff to implement the goals. A policy statement expressing "a commitment to utilize minority business enterprises in all aspects of procurement to the maximum extent feasible" will be required of all recipients of federal DOT grants. Because of the size and priority that transportation department budgets usually receive, the order could open numerous opportunities for minority contractors.</p>
           <p id="sc01-1_10240">The problem with the order is that a minority" company is defined as one 51%, or more owned and controlled by racial minorities, or by women, regardless of race. A coalition of civil rights and feminist leaders have vowed to have a "head-on tight" with the federal government over this definition.</p>
@@ -755,7 +755,7 @@ Order #4000.7A, dated March 3, 1978.</p>
           <head>Southern Women</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, 1978, pp. 25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140tm</idno></bibl>
           <p id="sc01-1_10246">A group of individuals gathered in Atlanta recently with Karen Nussbaum of the Working Women Organization Project (WWOP) to discuss the problems of Southern working women in the office place. This meeting represented the Project's first attempt to. start new organizations of women office workers in the Southern region.</p>
           <p id="sc01-1_10247">Ms. Nussbaum, citing U.S. Bureau of Labor Statistics said, "Women
 earn .56 to every dollar a man earns on the average. When it comes to
@@ -780,7 +780,7 @@ contact the group at 1258 Euclid Avenue, Room 206, Cleveland, Ohio,
           <head>Urban and Rural Development</head>
           <byline>By <docAuthor><name reg="Kporha, Elaine" type="person">Elaine Kporha</name></docAuthor></byline>
           <docDate value="1978-09">Vol. 1, No. 1, pp. 26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140vr</idno></bibl>
           <p id="sc01-1_10252">President Carter's urban policy proposal, calling for a "new partnership to conserve America's communities," has been highly publicized, roundly criticized, and widely analyzed. It is designed to reverse the deterioration of urban life by redirecting existing federal programs and creating new approaches to the solution of economic and social problems in distressed areas.</p>
           <p id="sc01-1_10253">The question now being asked by some is whether or not it offers relief to rural as well as to urban areas; in other words, to coin a phrase, is it also a rural politan" policy?</p>
           <p id="sc01-1_10254">According to the Department of Housing and Urban Development Secretary, Patricia Harris, urban problems are found everywhere. The emphasis of the policy is on combating poverty and unemployment wherever it exists. Therefore, the Administration has stated that both rural and urban areas may be considered distressed" and rural areas may be eligible to participate in some urban policy programs.</p>

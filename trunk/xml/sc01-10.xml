@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc01-10_1204">
   <teiHeader id="sc01-101201" type="text">
     <fileDesc>
@@ -19,7 +19,7 @@ University</pubPlace>
 Georgia</addrLine>
         </address>
         <availability>
-          <p id="sc01-10_101">&#x00A9;2004 Emory
+          <p id="sc01-10_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -76,7 +76,7 @@ Control</head>
           <byline>By 
             <docAuthor><name reg="Smith, Faye McDonald" type="person">Faye McDonald Smith</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 3,26-29</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1408d</idno></bibl>
           <p id="sc01-10_104">The days are over - pretty much - when Black people would do a
 double take when they turned on the television set and saw one of
 their own as a news reporter. They may have squinted their eyes and
@@ -181,7 +181,7 @@ in Atlanta.
 Lespedeza</head>
           <byline>By <docAuthor><name reg="Fowler, Cary" type="person">Cary Fowler</name></docAuthor></byline>
           <docDate value="1979-07"> Vol. 1, No. 10, 1979, pp. 4, 29-32</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1409j</idno></bibl>
           <p id="sc01-10_1065">Southern politics in the 1880s was alive with the fever of a
 native-born Populism. Led by the Southern Alliance (renamed the
 National Farmers Alliance in 1887), the Populists gained political
@@ -282,7 +282,7 @@ Center Seed Directory</title>.
 Land of <hi rend="bold">Southern Living</hi></head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979, pp. 7-10,32</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140bp</idno></bibl>
           <p id="sc01-10_1098">In the beginning," it is written in <hi rend="bold">Southern Living</hi> magazine, "man created Florida "Later on, men got around to creating Puerto Vallarta, where "luxury hotels are beginning to change the red-tile and adobe skyline of this picturesque little fishing village on the west coast of Mexico." And, somewhere along the way, arose the Land of Oz, a theme park constructed by Grover and Harry Robbins' Carolina Caribbean Corporation atop North Carolina's Beech Mountain: "there was this wild top-of-the-world mountain that could overwhelm you, and the Robbins didn't want to see it forever wasted."</p>
           <p id="sc01-10_1099">It is in such sentences of contradiction and divided allegiance
 that <hi rend="bold">Southern Living</hi> reflects the plight of the
@@ -407,9 +407,9 @@ Carolina.
           <head>Lillian Smith: The Winner Names the Age</head>
           <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 11-13</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140ct</idno></bibl>
           <p id="sc01-10_10139"><hi rend="bold">The Winner Names the Age: A Collection of Writings
-by Lillian Smith</hi>. Edited by Michelle Cliff. New York: W.W. Norton &#x0026; Company, Inc. 1978.</p>
+by Lillian Smith</hi>. Edited by Michelle Cliff. New York: W.W. Norton &amp; Company, Inc. 1978.</p>
           <p id="sc01-10_10141">Lillian Smith was a conscious regionalist. From 1936 to 1945 in her
 home in north Georgia' she and her friend Paula Snelling co-edited the
 most liberal journal in the South. (The name of the magazine changed
@@ -453,7 +453,7 @@ University of Alabama at Tuscaloosa.</p>
           <head>A Bluffer's Guide to Recent Southern Fiction</head>
           <byline>By <docAuthor><name reg="Derfner, Mary Frances" type="person">Mary Frances Derfner</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 14-18</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140dz</idno></bibl>
           <p id="sc01-10_10157">In late 1975 and early 1976, several seemingly innocuous pieces of
 paper got me into grim trouble, which has continued unabated ever
 since. The first was a notice informing me that I had been elected to
@@ -476,7 +476,7 @@ of my life and time. They have enabled me to discuss Plato,
 Kierkegaard, Wittgenstein and the like without having read them, and
 logical positivism, behaviorism, humanism and the like without having
 understood them. A little knowledge may indeed be dangerous - witness
-the fact that I was drafted for the Smith Awards Committee in the first place - but it somehow seems better than total ignorance. This time, however, Barnes &#x0026; Noble let me down: not a single guide to Southern literature. The salesperson hadn't even heard of Lillian Smith.</p>
+the fact that I was drafted for the Smith Awards Committee in the first place - but it somehow seems better than total ignorance. This time, however, Barnes &amp; Noble let me down: not a single guide to Southern literature. The salesperson hadn't even heard of Lillian Smith.</p>
           <p id="sc01-10_10161">The stereotypical librarian, however, had, as I learned at my next
 stop. The public library had none of Lillian Smith's works, and the
 librarian obviously thought me a pervert for having asked. The library
@@ -485,7 +485,7 @@ Southern literature as Louis D. Rubin, Jr., C. Hugh Holman, and Walter
 Sullivan. I emerged from the library four or five hours later, hav-
 <pb id="sc01-10_10160" n="15"/>
 ing discovered that one can get an extremely superficial handle on
-Southern fiction prior to the mid 1940's, but that the last three decades of Southern literature are incapable of broad-brush, Barnes &#x0026; Noble treatment. There seems to be greater disagreement among the aforementioned experts about these three decades than about the three centuries which preceded them.</p>
+Southern fiction prior to the mid 1940's, but that the last three decades of Southern literature are incapable of broad-brush, Barnes &amp; Noble treatment. There seems to be greater disagreement among the aforementioned experts about these three decades than about the three centuries which preceded them.</p>
           <p id="sc01-10_10162">I learned in my four-hour, selftaught Southern Lit. course that the
 South produced very little good literature between the beginning of
 the Late Unpleasantness and the end of World War I. At this time
@@ -626,7 +626,7 @@ stories. Yet they will be there." And they are.</p>
           <head>Southern Newspapers: Watching the Watchdogs</head>
           <byline>By <docAuthor><name reg="Noble, Larry" type="person">Larry Noble</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 19-23</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140f3</idno></bibl>
           <p id="sc01-10_10180">Daily newspapers play a key role in the lives of the people of the South. The papers provide us with commercial and economic information, with information on political and non-political events, with entertainment information and entertainment itself. They also present us with advice on what positions we should take on public affairs and furnish a controlled forum of letters to the editor.</p>
           <p id="sc01-10_10181">Newspapers are also very lucrative businesses. About two thirds of the space in the daily newspapers is devoted to advertising. Traditionally, the personnel costs of newspapers has been kept low, while revenues are high - a combination of which produces large profit margins. Adding to these substantial margins is the trend over the recent decades to be fewer newspapers, hence less competition, especially in the large cities.</p>
           <p id="sc01-10_10182">Newspapers, as watchdogs of our liberties, are especially protected
@@ -844,7 +844,7 @@ opposed to pro poverty and welfare policies.)</p>
           <head>Book Review: THE CAJUNS Essays on Their History and Culture</head>
           <byline>By <docAuthor><name reg="Gutierrez, C. Paige" type="person">C. Paige Gutierrez</name></docAuthor></byline>
           <docDate value="1979-07">Vol. 1, No. 10, 1979 pp. 24-25</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/140g7</idno></bibl>
           <p id="sc01-10_10218">Glenn K. Conrad, ed. <hi rend="bold">The Cajuns: Essays on Their History and Culture</hi>. Published by the Center for Louisiana Studies University of South-western Louoisiana, Lafayette, 1978. Illustrated.</p>
           <p id="sc01-10_10219">The Southern psyche has long been analyzed, romanticized, and mythologized by scholars, journalists, novelists and others who have taken up the task of explicating that most peculiar region of the United States. However, in their attempts to make sense of the area below the Mason-Dixon line, too few of these observed have seemed to notice that they have subsumed in their -generalizations a sub-region lying south of the Piney Woods, south of the South. The distinctiveness of the central Gulf Coast has often been overlooked by both the national and the Southern media, partly because of the fact that the area is, for better or worse, parceled out among several states whose boundaries extend considerably northward into "alien" territory. The analyst who concentrates on that which is encompassed by political boundaries is likely to miss the greater significance of that which is encompassed by historical /cultural boundaries.</p>
           <p id="sc01-10_10220">Coastal Louisiana has not been as complacent about this situation

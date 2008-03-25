@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc19-1_1204">
   <teiHeader id="sc19-11201" type="text">
     <fileDesc>
@@ -69,7 +69,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Democracy Demands Memory</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 3-4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wgx</idno></bibl>
           <epigraph>
             <p id="sc19-1_104">"I tell my children today they don't know
 anything. You know, when I hear young folk talking about what they
@@ -125,7 +125,7 @@ disinherited.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 5-20</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wh2</idno></bibl>
           <p id="sc19-1_1020" rend="italic">The voices you hear in the radio series, Will the Circle Be Unbroken? are edited and assembled from of a treasure trove of more than 250 interviews conducted by the Southern Regional Council and others with women and men who made one of America's most powerful social movements. In lengthier form seven of those interviews are excerpted here, stories largely untold about a few of the acts of conscience and courage that were undertaken by many people from many walks of life.</p>
           <p id="sc19-1_1021" rend="bold">Uncharted Trail:</p>
           <p id="sc19-1_1022" rend="bold">Ozell Sutton</p>
@@ -534,7 +534,7 @@ to get any results from doing it. People were talking about breaking ranks and t
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 22-26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wj6</idno></bibl>
           <p id="sc19-1_10256"><hi rend="bold">When Black Belt Press publisher Randall Williams
 suggested in 1978 that the Southern Regional Council publish
 a guidebook to civil rights historic sites in Montgomery, Alabama,
@@ -647,7 +647,7 @@ much more, 'These are the stories people are telling us. Let's try and see if th
           <pb id="sc19-1_10294" n="25"/>
           <p id="sc19-1_10295">During our research we uncovered a lot of archival oral history interviews that were (lone for academic purposes and were never intended for broadcast. So we had all of these wonderful interviews that were going to sound like junk compared to what you hear on the radio. But fortunately, with new digital technology, we were able to enhance the sound and filter out a lot of the extraneous noise. We also had to resort to baking some of the tapes in ovens because the oxide had started flaking off.</p>
           <p id="sc19-1_10296">Around the same time, we decided we wanted to put music in the programs, and not just music that had been part of the movement. In an attempt to engage listeners, I thought it would be interesting to try and put popular music into the soundtrack as a way of connecting people to a moment in time. Songs serve as locating points. If you play somebody a tune by Martha and the Vandella and if they were old enough to have heard it at the time it was recorded, they re member what was going on in their lives and what they were doing.</p>
-          <p id="sc19-1_10297">My decision to use popular music from that time was also based on the fact that there was some amazing music that came out of the '40s, '50s, and '60s in this country--blues, R&#x0026;B, country, gospel, rock and roll. So we brought on a music researcher named Thom Watson, who's clone an enormous amount of laboring in the vineyard, looking for appropriate music.</p>
+          <p id="sc19-1_10297">My decision to use popular music from that time was also based on the fact that there was some amazing music that came out of the '40s, '50s, and '60s in this country--blues, R&amp;B, country, gospel, rock and roll. So we brought on a music researcher named Thom Watson, who's clone an enormous amount of laboring in the vineyard, looking for appropriate music.</p>
           <p id="sc19-1_10298" rend="center">
             <hi rend="bold">Bringing it Home</hi>
           </p>
@@ -697,7 +697,7 @@ and it's something that I will never forget.</p>
           <head>Prejudices and Hopes</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 28-29, 31</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wkb</idno></bibl>
           <p id="sc19-1_10314" rend="italic">The personal stories in Will The Circle be Unbroken? remind us how recently American apartheid shed the force of law, and at what costs the changes were extracted. These recollections inevitably lead us to consider how things have changed and to identify the work that remains to be done if we are to create an equal society.</p>
           <p id="sc19-1_10315" rend="italic">What do Americans today have to say about current racial attitudes?</p>
           <p id="sc19-1_10316">"It is harder to put away the past than what we are trying to make it. If it was my people that got burned and beaten, their houses burned, it would be hard for me to forget, in just a few years." White man, Raleigh, North Carolina, January, 1996.</p>
@@ -744,7 +744,7 @@ next great challenges in winning full equality.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 p. 30</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wmg</idno></bibl>
           <p id="sc19-1_10343">PROLOGUE</p>
           <p id="sc19-1_10344" rend="italic">Race relations and social conditions across the American South prior to World War IL Written by Julian Bond.</p>
           <p id="sc19-1_10345" rend="bold">&gt;COLUMBIA, SOUTH CAROLINA</p>
@@ -825,7 +825,7 @@ high school students' mass protests.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 2, 26</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wnm</idno></bibl>
           <p id="sc19-1_10404">With this issue, <hi rend="italic">Southern Changes</hi> celebrates
 the SRC's civil rights radio documentary series, <hi rend="italic">Will The Circle Be Unbroken?</hi> Perhaps even more than most documentary productions, the radio series represents a collective enterprise. The person who was primarily in charge of the planning was not the person who was primarily in charge of the scripting, and the person who was in charge of the actual pilot programs and now the final programs was not the person who was involved in the original ideas.</p>
           <pb id="sc19-1_10405" n="26"/>

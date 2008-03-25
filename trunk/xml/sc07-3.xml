@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc07-3_1204">
   <teiHeader id="sc07-31201" type="text">
     <fileDesc>
@@ -79,7 +79,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cmx</idno></bibl>
           <p id="sc07-3_104">Shortly after the spring thaw of 1573 a woman prayed for her
 children.</p>
           <p id="sc07-3_105">
@@ -231,7 +231,7 @@ forty-four years ago this month. This essay is reprinted from
 Black Women</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cn2</idno></bibl>
           <div3 id="sc07-3_004" type="Section">
             <head>Excerpts and Observations</head>
             <p id="sc07-3_1025"><hi rend="bold">Shirley Chisolm</hi>, president of the National
@@ -581,7 +581,7 @@ No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
 Press, 1984, 143 pages).</head>
           <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cp6</idno></bibl>
           <p id="sc07-3_1076">The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
 you could have heard the lectures on which it is based. But whatever
@@ -756,7 +756,7 @@ they need to draw more far-reaching conclusions.</p>
           <head>Sixty five Years in Eufaula</head>
           <byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cqb</idno></bibl>
           <p id="sc07-3_1089">I am DAVID FROST, Jr.</p>
           <p id="sc07-3_1090">This is an account of my life in Eufaula, Alabama and my family
 struggle for survival.</p>
@@ -1273,7 +1273,7 @@ catch me. I think I will have to stop making moonshine for good.</p>
 Annual Report </head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14crg</idno></bibl>
           <p id="sc07-3_10183">1985 marks the forty-first anniversary of the founding of the
 Southern Regional Council. Today, as in the past, the Council's vision
 of the South's future radiates from a belief in democratic
@@ -1925,7 +1925,7 @@ change.</p>
           <head>Abandoning Affirmative Action</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14csm</idno></bibl>
           <p id="sc07-3_10283">The Reagan Administration stands on the verge of severely weakening
 affirmative action rules for federal contractors. As it is now
 drafted, a proposed Presidential Order eliminates existing
@@ -2018,7 +2018,7 @@ gains. </p>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
 	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ctr</idno></bibl>
           <p id="sc07-3_10295">An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
 Death Festival was moved this year at the request of the Army Corps of
@@ -2779,7 +2779,7 @@ the right direction."</p>
           <head>Crackdown in the Black Belt: On to Greene County</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cvw</idno></bibl>
           <p id="sc07-3_10482">Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as
 the Marion Three. Stymied, for the moment, is the Reagan Justice

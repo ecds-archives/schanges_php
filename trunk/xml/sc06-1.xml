@@ -1,4 +1,4 @@
-
+<?xml version="1.0"?>
 <TEI.2 id="sc06-1_1204">
   <teiHeader id="sc06-11201" type="text">
     <fileDesc>
@@ -76,7 +76,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 Domination</head>
           <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 1-3, 5-6</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149mq</idno></bibl>
           <div3 id="sc06-1_003" n="I" type="Section">
             <p id="sc06-1_104">Southerners, of all US citizens, should be best equipped to
 understand the peoples' rebellion in Central America. The forces which
@@ -415,7 +415,7 @@ and seventh to Cuba.</p>
           <head>The Kissinger Commission Report</head>
           <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 2</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149nv</idno></bibl>
           <p id="sc06-1_1066">The Kissinger Commission report (the President's commission on
 Central America) fails to recommend an alternative for Central
 America. It calls for more of what has already failed.</p>
@@ -438,7 +438,7 @@ the poor in reorganizing society to meet human needs.</p>
           <head>"The Logic of the Majority"</head>
           <byline>By <docAuthor><name reg="Gorostiaga, Xabier" type="person">Xabier Gorostiaga</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 6-10</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149p0</idno></bibl>
           <sp>
             <speaker>Xabier Gorostiaga: </speaker>
             <p id="sc06-1_1069">I was born in the Basque
@@ -901,7 +901,7 @@ workshop held in The Hague during the summer of 1983.</p>
           <head>The Bomb Plant on Trial</head>
           <byline>By <docAuthor><name reg="Bowman, Sue" type="person">Sue Bowman</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 10-12</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149q4</idno></bibl>
           <p id="sc06-1_10125">Fifty demonstrators who blockaded entrances to the Savannah River
 Plant last fall were found guilty of a traffic violation January 11,
 but the nuclear weapons facility which produces the plutonium for US
@@ -1088,7 +1088,7 @@ regularly about Southern disarmament activities.</p>
           <head>Populist Revival in Mississippi?</head>
           <byline>By <docAuthor><name reg="Pigott, Brad" type="person">Brad Pigott</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 12-17</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149r8</idno></bibl>
           <p id="sc06-1_10162"><q direct="unspecified">My opponent is not the man whose name will appear on the
 ballot. Instead, my opposition is a small group of very wealthy and
 very powerful men who are financing the campaign against me. These
@@ -1615,7 +1615,7 @@ campaign of Congressman Wayne Dowdy.</p>
             </docAuthor>
           </byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 17-19</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149sd</idno></bibl>
           <p id="sc06-1_10217">In 1947, when he first stopped in at my office at the Charlotte
 News, John Popham was the only newspaper correspondent assigned to a
 beat that stretched from the Potomac to Eagle Pass. His one-man bureau
@@ -1746,7 +1746,7 @@ Plaza Hotel, Atlanta, November 12, 1983.</p>
           <head>Popham: "Avoiding the Hit and Run Press"</head>
           <byline>By <docAuthor><name reg="Cooper, Eleanor Mccallie" type="person">Eleanor Mccallie Cooper</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 19-22</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149tj</idno></bibl>
           <p id="sc06-1_10235">"Just call it as you see it, John, anything that you can see in the
 South, the enormous changes that are about to take place. We don't
 know, nobody knows how it's going to be this time. We know it's a
@@ -2011,7 +2011,7 @@ Project.</p>
 Family.</title> University Press of Kentucky, 1983.</head>
           <byline>By <docAuthor><name reg="Campbell, Will D." type="person">Will D. Campbell</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 23-24</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149vp</idno></bibl>
           <p id="sc06-1_10271">For too long we have cataloged, systematized and categorized the
 places and ways of learning. And too often we neglect, ignore or fail
 to see resources near at hand.</p>
@@ -2159,7 +2159,7 @@ River.</title></p>
           <head>Voting for the "Covert" War</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 4</docDate>
-          <bibl/>
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149wt</idno></bibl>
           <p id="sc06-1_10291">On two occasions during the past year, most of the Southern
 representatives in the US House voted to endorse the Reagan
 Administration's war on Nicaragua. In the voting records shown below,
