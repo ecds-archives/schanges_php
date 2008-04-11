@@ -10,6 +10,8 @@
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
+  <xsl:key name="pid" match="idno" use="@n"/>
+
   <xsl:template match="/">
     <dc>
       <xsl:apply-templates select="//TEI"/>
@@ -24,6 +26,7 @@
   </xsl:template>
 
   <xsl:template match="div2">
+    <xsl:variable name="id" select="@id"/>
     <xsl:element name="dc:title">
       <xsl:apply-templates select="head"/>
     </xsl:element>
@@ -33,8 +36,10 @@
     </xsl:element>
       </xsl:for-each> 
     <xsl:element name="dc:identifier">
-      <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="@id"/>
+     <!-- <xsl:value-of select="$baseurl"/><xsl:value-of
+      select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates
+      select="@id"/> -->
+     <xsl:value-of select="key('pid', $id)"/>
     </xsl:element>
   </xsl:template>
 
