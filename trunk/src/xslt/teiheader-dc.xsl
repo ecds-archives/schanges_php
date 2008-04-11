@@ -9,6 +9,8 @@
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
+  <xsl:key name="pid" match="idno" use="@n"/> <!-- use @n to match @id in div2 -->
+
   <xsl:template match="/">
     <dc>
       <xsl:apply-templates select="//result"/>
@@ -101,8 +103,12 @@
 <!-- create ToC list and url ids for "hasPart" -->
   <xsl:template name="hasPart">
 	  <xsl:for-each select="article">
+	    <xsl:variable name="id" select="@id"/>
         <xsl:element name="dcterms:hasPart">
-      <xsl:value-of select="$baseurl"/><xsl:value-of select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates select="./@id"/>
+    <!--  <xsl:value-of select="$baseurl"/><xsl:value-of
+    select="$siteurl"/><xsl:text>/article.php?id=</xsl:text><xsl:apply-templates
+    select="./@id"/> -->
+    <xsl:apply-templates select="key('pid', $id)"/>
 	</xsl:element>
 	  </xsl:for-each>
      </xsl:template>
