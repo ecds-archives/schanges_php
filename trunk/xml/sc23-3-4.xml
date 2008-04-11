@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc23-3-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc23-3-4_1204">
   <teiHeader id="sc23-3-41201">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis
-H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis
+H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc23-3-4_001">http://pid.emory.edu/ark:/25593/153hr</idno>
+            <idno type="ark" n="sc23-3-4_002">http://pid.emory.edu/ark:/25593/153jw</idno>
+            <idno type="ark" n="sc23-3-4_004">http://pid.emory.edu/ark:/25593/153k1</idno>
+            <idno type="ark" n="sc23-3-4_005">http://pid.emory.edu/ark:/25593/153m5</idno>
+            <idno type="ark" n="sc23-3-4_006">http://pid.emory.edu/ark:/25593/153n9</idno>
+            <idno type="ark" n="sc23-3-4_007">http://pid.emory.edu/ark:/25593/153pf</idno>
+            <idno type="ark" n="sc23-3-4_011">http://pid.emory.edu/ark:/25593/153qk</idno>
+            <idno type="ark" n="sc23-3-4_008">http://pid.emory.edu/ark:/25593/153rq</idno>
+            <idno type="ark" n="sc23-3-4_009">http://pid.emory.edu/ark:/25593/153sv</idno>
+            <idno type="ark" n="sc23-3-4_010">http://pid.emory.edu/ark:/25593/153t0</idno>
+            <idno type="ark" n="sc23-3-4_055">http://pid.emory.edu/ark:/25593/153v4</idno>
+            <idno type="ark" n="sc23-3-4_013">http://pid.emory.edu/ark:/25593/153w8</idno>
+            <idno type="ark" n="sc23-3-4_014">http://pid.emory.edu/ark:/25593/153xd</idno>
+            <availability>
           <p id="sc23-3-4_101">1996 Emory University. Permission is granted to download, transmit,
 or otherwise reproduce, distribute or display the contributions to the
 work claimed by Emory University for non-profit educational purposes,
@@ -26,9 +36,7 @@ provided this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -36,22 +44,21 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 23</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="2001-09">2001</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc23-3-4_102">This text is produced in conjunction
 with the Southern Changes Digital Archive at Emory University and the
 Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
     <profileDesc>
       <langUsage id="es">
         <p id="sc23-3-4_103">Articles in Spanish are identified at the
       div level with a lang attribute.</p>
       </langUsage>
     </profileDesc>
-    <revisionDesc>
-      <change>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -59,8 +66,7 @@ Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML
 tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -68,7 +74,13 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc23-3-4_1203">
     <body id="sc23-3-4_1202">
@@ -83,7 +95,7 @@ tags inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 p. 3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153hr</idno></bibl>
+          
           <p id="sc23-3-4_105">Following the tragic
 loss of thousands of lives in two of our most diverse cities, our
 nation is struggling with feelings of suspicion, insecurity, and
@@ -184,7 +196,7 @@ Holland and Knight. </p>
 	       Responds to September 11</head>
           <byline>By <docAuthor><name reg="Wehner, Patrick" type="person">Patrick Wehner</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153jw</idno></bibl>
+          
           <p id="sc23-3-4_1017">Amid the pulse
 of satellite uplinks, videophones, webcasts, and
 tickertape displays,
@@ -458,7 +470,7 @@ for this issue of Southern Changes.</p>
 	       Datcher</name>, Southern Poverty Law Center</docAuthor>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153k1</idno></bibl>
+          
           <p id="sc23-3-4_1034">In the aftermath of the
 terrorist attacks on the World Trade Center and the Pentagon on
 September 11, another form of terrorism emerged. This terrorism was
@@ -621,7 +633,7 @@ www.tolerance.org.</p>
           <head>Race, Class, and Reconciliaton</head>
           <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153m5</idno></bibl>
+          
           <p id="sc23-3-4_1087">People of color have had to deal directly
 with issues of race for all of this nation's history; they couldn't
 avoid it. For those defined as "white," and particularly those outside
@@ -965,7 +977,7 @@ Symposium held at Emory University on January 26,
 The World Conference Against Racism</head>
           <byline>By <docAuthor><name reg="Robinson, Gwen" type="person">Gwen Robinson</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001 pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153n9</idno></bibl>
+          
           <p id="sc23-3-4_10129">On August 29th Rev. C.T. Vivian, the celebrated Atlanta civil rights activist, walked into the Non-Governmental Organization Forum (NGO) of the World Conference Against Racism, Racial Discrimination, Xenophobia, and Racial Intolerance in Durban, South Africa. Within minutes Rev. Vivian was surrounded by fellow activists, grassroots leaders and friends from around the South.  As he made his way to do an interview with South African Broadcasting, Rev. Vivian became the center of a group of friends from his generation of civil rights leaders in the U.S. South, admirers from younger generations in the U.S. and other countries, and reporters eager to hear his take on the U.N. Conference. While the United States government did not have a large, high-level (or, some would argue, positive) presence at the World Conference Against Racism (WCAR), Rev. Vivian and more than three hundred others from the U.S. South were there to make their voices heard.</p>
           <p id="sc23-3-4_10130">Southerners' experiences at the WCAR seem to fall into two categories: insiders and outsiders. For those people who were involved in the preparatory meetings that happened in the year before the conference, the World Conference was the culminating event in an ongoing process. There were major "prepcoms" (meetings to prepare the U.N. document on racism for the conference) in every region of the world. Southerners were represented at the meetings in Geneva, Switzerland; Santiago, Chile; and Quito, Ecuador among others. At the preparatory meetings the language for many issues was discussed, including whether the trans-Atlantic slave trade should be declared a crime, whether the treatment of dalits (the untouchables) in India should be included as racism, and whether Israel's actions towards the Palestinians should be included as the only nation specifically condemned for its actions.  </p>
           <p id="sc23-3-4_10131">"When we went to the prepcoms we spent most of our time lobbying for the language we wanted in the document and listening to the official governmental discussions.  Some of the work continued after the two or three-day meetings ended, so it was hard to keep up with all the decisions. You really had to pay attention," said Beni Ivey of the Center for Democratic Renewal in Atlanta, who is also on the U.S. NGO Steering Committee for the WCAR. Ray Winbush of the Race Relations Institute at Fisk University also participated in the prepcoms.  "We hit the ground running in Durban because we knew who we had to influence from the prepcoms. We met with the President of Senegal in Durban because he is the biggest opponent of declaring slavery a crime.  I would say that 80 percent of what we did was behind the scenes." While the debates over language may seem esoteric to most people, people involved with the process argue for its importance.  "Our struggles need to be enshrined in the document so that we can use it later in law," explained Elaine R. Jones of the NAACP Legal Fund. "You can't change anything without the force of law."   </p>
@@ -1022,7 +1034,7 @@ surely rebellious and alive.</p>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 p. 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153pf</idno></bibl>
+          
           <p id="sc23-3-4_10140">The Southern Regional Council's (SRC) participation in the Race and Nation in the Global South collaborative, focusing on recent immigration to the American South, is one element in SRC's new initiative, Partnerships for Racial Unity. </p>
           <p id="sc23-3-4_10141">As the SRC continues to work towards better understanding and collaboration between members of the white and African-American communities, the Partnerships Program allows the SRC to expand that work by learning from new immigrants as they arrive in and adapt to the South. The Partnerships program seeks to bridge racial and ethnic communities and foster multi-racial collaborations. </p>
           <p id="sc23-3-4_10142">The Race and Nation project combines community-based research with popular education to investigate and influence the changing racial dynamics of the region. We hope better to understand both the experiences of new immigrants as they arrive in and adapt to the South and the attitudes of more long-term residents toward new immigrants. The overall goal of the project is to identify areas of potential collaboration as well as conflict among different groups, and to encourage multiracial efforts to address common needs.</p>
@@ -1043,7 +1055,7 @@ general areas of special interest:
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 p. 17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153qk</idno></bibl>
+          
           <p id="sc23-3-4_10148">La participaci&#xF3;n del Southern Regional Council (SRC) en el
 proyecto "La nac&#xF3;n y la raza: construir comunidades nuevas en el sur", dedicado al estudio de la inmigrac&#xF3;n reciente en el sur de los Estados Unidos, forma parte de la nueva iniciativa<hi rend="italic">"Partnerships for Racial Unity"</hi> (Colaboraci&#xF3;n para la Unidad Racial).</p>
           <p id="sc23-3-4_10149">A trav&#xE9;s del programa <hi rend="italic">Partnerships</hi>, el
@@ -1073,7 +1085,7 @@ conducidas por el equipo del programa <hi rend="italic">Partnerships</hi> del SR
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 18-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153rq</idno></bibl>
+          
           <p id="sc23-3-4_10156" rend="italic">Homero Leon, an attorney with Georgia Legal Services, who was born in Cuba and immigrated to Miami with his family in 1960 at the age of four.</p>
           <p id="sc23-3-4_10157">My experiences growing up in Miami are varied because we arrived in early 1960 and were one of the first Cuban families to arrive in Miami. It was still pretty much an American town. I was just five years old and when I started school in the first grade, I couldn't speak English, not a word. It was a terrible experience but I remember it like it was yesterday, being in the classroom with all the English speakers. I'm sure I cried and I remember being scared. When I got to the second grade, the teachers took me aside and said they were going to fail me. They thought that I was a little slow, maybe a little retarded. So I failed the second grade. My problem was that I couldn't speak English-that was my "retardation." Now I am licensed to practice law in two states.</p>
           <p id="sc23-3-4_10158">The beginning was hard. My parents didn't speak English and although my father had a decent job in Cuba as a career military officer, he became a tomato picker in Homestead, Florida when we came here. My mother never learned English to this very day although she worked in the factories as a seamstress and has been in this country for about forty years. As more and more Cubans came and opened grocery stores, she would go to the grocery store where everyone spoke Spanish. Cubans opened banks and all kinds of businesses, so when she would go to a business, they spoke Spanish. She never had to learn English. Cubans own many television and radio stations, too!</p>
@@ -1100,7 +1112,7 @@ A Lotta Cultures Goin' On</head>
           <byline>By <docAuthor><name reg="Tobar, Hector" type="person">Hector Tobar</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153sv</idno></bibl>
+          
           <p id="sc23-3-4_10170" rend="italic">Reprinted with permission from the May 13, 2001 edition of the Los Angeles Times.</p>
           <p id="sc23-3-4_10171">In the center of Memphis, a river port known for its turbulent history of conflict between blacks and whites, there is a place where the old ideas about race and the South don't make sense anymore.</p>
           <p id="sc23-3-4_10172">Drive east from the Mississippi along Union Avenue, just past the studio where a then-unknown Elvis Presley showed up one day to record a song, and you'll come to an in-between place known as Midtown. Here, there are no ethnic or racial majorities.</p>
@@ -1148,7 +1160,7 @@ and <name reg="Smith, Barbara Ellen" type="person">Barbara Ellen
 Smith</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153t0</idno></bibl>
+          
           <p id="sc23-3-4_10207">Immigrants now play a critical part in the labor force across the country, and the same is increasingly true for Memphis. In 1999, according to the Bureau of Labor Statistics, Latinos made up 12 percent of the U.S. workforce. Whereas in the past Latino immigrants in the South tended to concentrate in agriculture, today they often work in the "new economy"-services, distribution and even construction. Although some have significant job skills and/or professional training, undocumented immigration status and/or limited English proficiency narrow the employment options of many Latinos to low-wage work.  </p>
           <p id="sc23-3-4_10208">Still, the social, economic, and demographic impact of the Latino population in Memphis is substantial.  Preliminary data from a study by The University of Memphis Center for Research on Women (CROW) highlights some important findings.</p>
           <p id="sc23-3-4_10209">Over the past decade, the Latino population has at least doubled in nine Southern states: Alabama, Arkansas, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, and Virginia. Tight labor markets (at least until quite recently) have been magnets for Latino migration. According to a report by the Selig Center for Economic Growth, North Carolina, Georgia, and Tennessee are among the top ten emerging states, as ranked by the rate of growth of Hispanic buying power during 1990-2001.</p>
@@ -1208,7 +1220,7 @@ contribute to regional economic development.	</p>
           </byline>
           <docDate value="2001-09">Vol. 23, No. 3-4, 2001
 pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153v4</idno></bibl>
+          
           <p id="sc23-3-4_10232">In 1992, very few Latinos lived in Knoxville, a city of 173,890
 nestled in the mountains of East Tennessee. Tne Latina women connected
 with the University of Tennessee in Knoxville organized HOLA in order
@@ -1304,7 +1316,7 @@ about Carpetbag Theater visit: www.korrnet.org/carpetbg/.</p>
           <byline>Reviewed by <docAuthor><name reg="Lang, Amy Schrager" type="person">Amy Schrager Lang</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 31-32, 34</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153w8</idno></bibl>
+          
           <bibl>Barbara Ehrenreich, <title>Nickel and Dimed: On (Not) Getting By in America</title>, New York: Metropolitan Books, 2001.</bibl>
           <p id="sc23-3-4_10243">In the summer of 1999, just as approximately four million women were about to be remanded to the workforce by welfare reform, Barbara Ehrenreich began an experiment. At the urging of her editor, she abandoned the "variety and drama" of her "real" life as a feminist author/journalist and set out to replicate the experience of an unskilled middle-aged female job-seeker in what appeared by all the customary measures to be an extremely favorable labor market. The object of this exercise was to try to "match income to expenses" on the wages commanded by the working poor. Or, to put it another way, to discover what mysterious economies, known only to the low-wage worker, made it possible to subsist on six or seven dollars an hour in late twentieth-century America; to see, in short, how the poor manage to live in poverty.</p>
           <p id="sc23-3-4_10244">I do not mean to be sardonic here. Ehrenreich, as almost every
@@ -1341,7 +1353,7 @@ reason or another but usually in order to <pb id="sc23-3-4_10251" n="34"/>expose
           <byline>By <docAuthor><name reg="Nasstrom, Kathryn L." type="person">Kathryn L. Nasstrom</name></docAuthor></byline>
           <docDate value="2001-09">Vol. 23, No. 3-4,
 2001 pp. 33-34</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/153xd</idno></bibl>
+          
           <p id="sc23-3-4_10254" rend="italic">Constance Curry, Joan C. Browning, Dorothy Dawson Burlage, Penny Patch, Theresa Del Pozzo, Sue Thrasher, Elaine DeLott Baker, Emmie Schrader Adams, and Casey Hayden, Deep in Our Hearts: Nine White Women in the Freedom Movement (Athens and London: The University of Georgia Press, 2000).</p>
           <p id="sc23-3-4_10255"><hi rend="italic">Deep in Our Hearts</hi>, which features essays by
 nine white women who participated in the southern civil rights

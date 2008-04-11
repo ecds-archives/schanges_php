@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc19-3-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc19-3-4_1204">
   <teiHeader id="sc19-3-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,25 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc19-3-4_002">http://pid.emory.edu/ark:/25593/14wzv</idno>
+            <idno type="ark" n="sc19-3-4_004">http://pid.emory.edu/ark:/25593/14x03</idno>
+            <idno type="ark" n="sc19-3-4_005">http://pid.emory.edu/ark:/25593/14x17</idno>
+            <idno type="ark" n="sc19-3-4_006">http://pid.emory.edu/ark:/25593/14x2c</idno>
+            <idno type="ark" n="sc19-3-4_008">http://pid.emory.edu/ark:/25593/14x3h</idno>
+            <idno type="ark" n="sc19-3-4_010">http://pid.emory.edu/ark:/25593/14x4n</idno>
+            <idno type="ark" n="sc19-3-4_009">http://pid.emory.edu/ark:/25593/14x5s</idno>
+            <availability>
           <p id="sc19-3-4_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +35,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 19</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1997-09">Fall/Winter 1997</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc19-3-4_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +56,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc19-3-4_1203">
     <body id="sc19-3-4_1202">
@@ -70,7 +76,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
 The Climate for Workers in the U.S. 1997</head>
           <byline>By <docAuthor><name reg="Quesenberry, Preston" type="person">Preston Quesenberry</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 3-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wzv</idno></bibl>
+          
           <p id="sc19-3-4_104">As we go to press with our fourth edition of the Southern Regional
 Council's <hi rend="italic">Climate for Workers</hi> survey, recent reports tell us the nation's economy couldn't be better. Unemployment is at generational lows. The stock market is still near record highs, despite recent volatility. Inflation is in check, and profits are rising. This, a business climate report might say, is as good as the "free market" gets.</p>
           <p id="sc19-3-4_105">But low unemployment rates have not given workers enough bargaining power to make any significant in-crease in wages--or even to fend off their real decline. The record numbers in the Dow have little relevance for the 71 percent of the population who own no stock or less than $2,000 worth (even in pension and mutual funds). And while most people like low inflation, the top one percent of the income scale (who make 40 percent of their income off investments) benefits far more than those at the middle and bottom.</p>
@@ -4423,7 +4429,7 @@ the interest of its members would hold these states up as minimum thresholds.</p
           <byline>By <docAuthor><name reg="Mathison, Alissa" type="person">Alissa
 Mathison</name> with <name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 21-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x03</idno></bibl>
+          
           <p id="sc19-3-4_10148">"This event is a watershed." Frank Curiel, lead organizer for the
 United Farm Worker's campaign in Quincy, Florida, sat across from me,
 his face alive with anticipation for a Saturday march and rally. The
@@ -4469,7 +4475,7 @@ Frank Curiel is no less committed to his position. "We'll be there in their face
           <head>The New Factories in the Fields: Georgia Poultry Workers</head>
           <byline>By <docAuthor><name reg="Guthey, Greg" type="person">Greg Guthey</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 23-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x17</idno></bibl>
+          
           <p id="sc19-3-4_10160">Author's note: While Atlanta promotes itself, somewhat legitimately, as an "international city" due in part to the non-U. S. origins of an increasing number of its population, there are similar changes occurring in more rural sections of the state of Georgia, and the South. These changes are occurring not only in field agriculture, but in rural industry--such as poultry processing. Some Mexican workers, arriving to work in Georgia poultry, have begun to settle in their new-found homes. My interviews, conducted over the past couple of years, with a number of Georgia poultry industry sources and employees point to increasing job tenure among immigrant Latino employees. Due to the sensitivity of immigration issues and the varying legal status of some of the workers, I offered sources anonymity in order to get the interviews upon which the following essay is based.</p>
           <p id="sc19-3-4_10161">"I have Hispanic employees who have on average one-and-a-half to two years' seniority," explained one personnel manager at a large poultry processing facility near Gainesville. "Two years ago, [Hispanic employee tenure] was less than a year. That deal of going back and forth [to Mexico] is not necessarily true." He noted that in southern and eastern Hall County, there are increasing numbers of Hispanic people purchasing houses. The reasons for this apparent settlement have more to do with issues related to globalization and Mexican government policy than with individuals' desires to become Americans. Indeed, many Mexican workers said they would prefer to live and work in Mexico save for the country's economic dislocations in recent years and the family obligations and network of social contacts they have developed in Georgia.</p>
           <p id="sc19-3-4_10162">"I think I am going to save money and go back to Mexico," explained one poultry worker who has been living in Gainesville and working at a plant for seven years. "[But] my kids are in school now. I think I will go back to Mexico, but you never know."</p>
@@ -4518,7 +4524,7 @@ Jalisco, Michoacan and other regions in Mexico.</p>
 Thirty Years Since Memphis</head>
           <byline>By <docAuthor><name reg="Honey, Michael" type="person">Michael Honey</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 26-29</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x2c</idno></bibl>
+          
           <p id="sc19-3-4_10182">The labor climate of the present, particularly in the South, is largely negative as far as most workers are concerned, and results from calculated decisions made by the owners of capital in the last thirty years. The possibility of changing that climate, however, depends on what poor people, workers, and their allies do. Social movements of the past teach the idea that people, when organized, can change the prevailing equations of power. As we approach the thirty-year anniversary of the death of Dr. Martin Luther King, Jr., that idea is one well worth remembering.</p>
           <p id="sc19-3-4_10183">As Dan Carter pointed out in the last issue of <hi rend="italic">Southern Changes</hi>, it is not the immutable forces of the "free market" that have nearly eliminated family waged working-class employment, and that have created a huge economic chasm between underemployed and ill-paid workers on one hand, and investors, bankers, and corporate owners on the other. It is primarily the decisions made by those who own capital that have led us to this new era of growing economic inequality.</p>
           <p id="sc19-3-4_10184">The broad outlines of what has happened are well known. As part of the division of labor markets across the globe, multi-national corporations based in the U.S. have shipped mass production jobs abroad and shifted to service and information labor markets at home. The attention of investors at the same time has focused on making money on the stock market through mergers and buy-outs, during which the assets of many profitable and productive industries have been "upstreamed" into corporations which make their money from paper transactions. Billions have poured into the pockets of stockholders in the process of destroying millions of unionized factory jobs, and corporate incomes have soared to almost unimaginable levels.</p>
@@ -4579,7 +4585,7 @@ from the University of California Press.</p>
           <head>Saints and Villains: An Interview with Denise Giardina</head>
           <byline>By <docAuthor><name reg="Taylor, Kerry" type="person">Kerry Taylor</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 30-32</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x3h</idno></bibl>
+          
           <p id="sc19-3-4_10211">Though she describes her writing as primarily theological rather than political, Appalachian writer Denise Giardina stands out among contemporary American authors for her ruthless depictions of capitalism and the violence it inflicts on people and the environment. In <title>Storming Heaven</title> (1987), and its sequel, <title>The Unquiet Earth</title> (1992), Giardina traces more than one hundred years in the struggle of West Virginia coal miners to protect their families, land, and unions from hostile coal companies and government indifference. Despite the heavy political content, Giardina's keen eye for detail, her complex portrayals of her novels' heroes and her tremendous gift for storytelling ensure that her writing never reads as preachy or polemical.</p>
           <p id="sc19-3-4_10212">In the following interview, Giardina locates the roots of her social conscience in her fundamentalist Christian upbringing, her
 mother's loving example, and the inequality she encountered growing up
@@ -4638,7 +4644,7 @@ reasons, Giardina moved to the Kentucky coal fields in the 1980s where she wrote
           <head>South Carolina Denies "UPRISING"</head>
           <byline>By <docAuthor><name reg="Stuart, Reginald" type="person">Reginald Stuart</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 33-35</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x4n</idno></bibl>
+          
           <p id="sc19-3-4_10239">For years, public television stations across the country have been expanding our grasp of the past by airing countless documentaries that trace our rich and complex history.</p>
           <p id="sc19-3-4_10240">In South Carolina, operators of the state's public television system have unintentionally succeeded in developing a new way to stir public interest in our history--don't air a documentary.</p>
           <p id="sc19-3-4_10241">Case in point: "Uprising of '34," a well crafted oral history about the campaign to organize Southern textile workers, a movement spurred by the promises of Franklin Roosevelt's 'New Deal.' (See Southern Changes, Fall 1994) .</p>
@@ -4692,7 +4698,7 @@ What's A Union For?: New Perspectives on Textile Unionism
 in the Post-World War II South</head>
           <byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline>
           <docDate value="1997-09">Vol. 19, No. 3-4, 1997 pp. 36-39</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x5s</idno></bibl>
+          
           <bibl>Daniel J. Clark, <title>Like Night and Day: Unionization in a
 Southern Mill Town</title>, Chapel Hill: University of North Carolina
 Press, 1997.</bibl>

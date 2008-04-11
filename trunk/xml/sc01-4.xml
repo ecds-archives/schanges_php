@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc01-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc01-4_1204">
   <teiHeader id="sc01-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc01-4_005">http://pid.emory.edu/ark:/25593/141jm</idno>
+            <idno type="ark" n="sc01-4_006">http://pid.emory.edu/ark:/25593/141kr</idno>
+            <idno type="ark" n="sc01-4_004"/>
+            <idno type="ark" n="sc01-4_007">http://pid.emory.edu/ark:/25593/141n1</idno>
+            <idno type="ark" n="sc01-4_002">http://pid.emory.edu/ark:/25593/141p5</idno>
+            <idno type="ark" n="sc01-4_008">http://pid.emory.edu/ark:/25593/141q9</idno>
+            <idno type="ark" n="sc01-4_staff.009">http://pid.emory.edu/ark:/25593/141rf</idno>
+            <idno type="ark" n="sc01-4_staff.010">http://pid.emory.edu/ark:/25593/141sk</idno>
+            <availability>
           <p id="sc01-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1979-01">January 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc01-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc01-4_1203">
     <body id="sc01-4_1202">
@@ -71,10 +78,10 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         <head>Southern Changes. Volume 1, Number 4, 1979 </head>
         <p id="sc01-4_103"><title>Southern Changes</title> Volume 1, Number 4, <date value="1979-01">1979</date></p>
         <div2 id="sc01-4_005" n="1" type="Article">
-          <head>South Carolina Vendetta</head>
+          <head><seg>South Carolina Vendetta</seg> <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141jm</idno></bibl></head>
           <byline>By <docAuthor><name reg="Wright, Marion" type="person">Marion Wright</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141jm</idno></bibl>
+          
           <p id="sc01-4_104">Editor's Note: "In recent years scholars have increasingly been turning their attention to Southern history. Tome after tome offers learned discourse on the profitability of slavery, the nature of the Black family, the causes and consequences of the Civil War, the reality of the New South, or the history of race relations in Dixie. Of growing interest is the story of the Southern White liberal. Who were the remarkable men and women who braved insults, suffered ostracism, risked losing their jobs and, in some cases, faced mobs to promote equal justice for all? Who sought to foster the climate of tolerance that would hasten the day when Dixie truly rejoined the Union? One such man is Marion Allen Wright, author of the speeches compiled in this book."</p>
           <p id="sc01-4_105">This is the opening paragraph in the book <hi rend="italic">Human Rights Odyssey</hi> by Wright and Arnold Shankman. Wright was the president of the Southern Regional Council during some of the most turbulent years of the 1950s. His speeches often received very cool receptions. The speech excerpted here is about Federal Judge J. Waties Waring, a White Southern liberal like Wright, but who, unlike Wright, was ostracized because of his rulings on controversial issues. In many instances, these issues are still sources of controversy today.</p>
           <p id="sc01-4_106" rend="bold">Introduction</p>
@@ -205,7 +212,7 @@ relations. Gradualism was another term for non-action.</p>
           <head>Fighting Discrimination in Macon: A Return to the Streets</head>
           <byline>By <docAuthor><name reg="Sparks, Yvette" type="person">Yvette Sparks</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141kr</idno></bibl>
+          
           <p id="sc01-4_1072">During the height of the civil rights movement when the call for integration resounded throughout the country, Macon, Georgia heard the reverberating echo. The calls for equal access to lunch counters and front seats on buses were sounded there, too.</p>
           <p id="sc01-4_1073">Blacks in Macon and elsewhere marched, sat-in, picketed, boycotted and went to jail in the name of equality. They fought against the White power structure for rights that had long been denied them. Some concessions were made some gains were won.</p>
           <p id="sc01-4_1074">But today, another call is ringing throughout Middle Georgia's major metropolitan city. It is a call painfully reminiscent of an era gone by. Civil rights activists in the conservative Southern city still are pleading for an end to discrimination in the city's hiring and promotion practices.</p>
@@ -255,10 +262,11 @@ Ficklin.</p>
           </div3>
         </div2>
         <div2 id="sc01-4_004" n="3" type="Article">
-          <head>Texas Prisoners Rights on Trial</head>
+          <head>Texas Prisoners Rights on Trial
+          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141mw</idno></bibl></head>
           <byline>By <docAuthor><name reg="Powell, Bob" type="person">Bob Powell</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 11-13, 24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141mw</idno></bibl>
+
           <epigraph>
             <q>
               <lg rend="italic" type="stanza">
@@ -270,6 +278,7 @@ Ficklin.</p>
             </q>
             <bibl>From Song, "Texas When I Die" by Tanya Tucker</bibl>
           </epigraph>
+
           <p id="sc01-4_1098">From cantaloupes to oilfields, Texans have always been known for
 things that are big. A recent prison rights case, the largest to date, is no exception to the rule. The case,<hi rend="italic"> Ruiz v. Estelle</hi>, now on trial in Houston, is wild and wooly in the best Texas tradition. The U.S. Justice Department alone, who has intervened on behalf of the prisoners, is expected to call 150 witnesses.</p>
           <p id="sc01-4_1099">In essence, Texas is the tip of the iceberg in a ten-year period in which Southern prison systems have come under greater federal court scrutiny. Interestingly enough, in an historic sense, <hi rend="italic">Ruiz</hi> is being fought exactly 10 years after the Virginia State Penitentiary strike in 1968. In that year, the strike led to an investigation by Congress and the FBI and to an offer from the Southern Regional Council to mediate the strike and provide national publicity on the Virginia system.</p>
@@ -340,7 +349,7 @@ prisons. The questions, after 10 years of prison litigation from<hi rend="italic
           <head>Bending With the Wind: A Lesson in Survival</head>
           <byline>By <docAuthor><name reg="Burt, Al" type="person">Al Burt</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 14-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141n1</idno></bibl>
+          
           <p id="sc01-4_10139">In his 72 years. Virgil D. Hawkins has learned something about the ways to fight and to survive and sometimes to succeed. But he wonders whether he ever can explain these hard lessons to the young. Some want to listen, and some do not.</p>
           <p id="sc01-4_10140">He was not the gunfighter who sought one dramatic showdown to
 decide whether he would live free or die. His has the patient courage, the kind easily misunderstood. He became free by inches, demanding year after year after year what was his, and finally winning.</p>
@@ -400,7 +409,7 @@ way.</p>
           <head>Legal Workers Battle for poor in Mississippi</head>
           <byline>By <docAuthor><name reg="Delaney, Joseph" type="person">Joseph Delaney</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp.17-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141p5</idno></bibl>
+          
           <p id="sc01-4_10172">They came during an unusual time of the year to discuss an important issue at an uncommon location. Many did not expect a crowd of legal workers from across the nation to assemble for a conference the day after Thanksgiving in Oxford, Mississippi, a town made famous during the 1960s by its resistance to the integration of its University, to discuss the First Amendment rights of legal workers.</p>
           <p id="sc01-4_10173">But they came. For as one observer put it, conditions had become
 much too critical to stay away. The issues discussed went well beyond
@@ -453,7 +462,7 @@ publication.</p>
           <head>HEALTH CARE</head>
           <byline>By <docAuthor><name reg="Staff">SRC Staff</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141q9</idno></bibl>
+          
           <p id="sc01-4_10196">Gayle Becker and Elaine Clark had been teaching nursing for over 16 years in an academic setting and felt the need to branch out into a different area of nursing.</p>
           <p id="sc01-4_10197">"Last fall Gayle and I decided that initiating a program of health care to migrant workers in the Sand Mountain area of Alabama might not only be a service to the community, but would allow us to fulfill our needs for personal and professional development as sell as allow us a means to identify additional learning experiences for our students," said Clark.</p>
           <p id="sc01-4_10198">The two of them applied for sabbatical leave for the spring and summer quarters and devoted the spring to upgrading their technical skills. They learned to speak Spanish, read hooks and magazine articles about migrant workers, and contacted appropriate individuals and agencies in DeKaIb County, which is tucked away in the northeastern corner of the state, bordered by Georgia to the east.</p>
@@ -495,7 +504,7 @@ distant locations.</p>
           <head>EDUCATION</head>
           <byline>By <docAuthor><name reg="Staff">SRC Staff</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141rf</idno></bibl>
+          
           <p id="sc01-4_10218">"Alienation is real, and it's growing! Citizens, young and old, and of varied political persuasions are expressing more and more their feelings of separation from government and politics they feel disenfranchised. They want to improve conditions and help solve governmental and political problems, but they don't know where to begin."</p>
           <p id="sc01-4_10219">So stated Marion Gonzalez, administrator of Georgia Close Up, a year-round, state-wide organization, funded by the Metropolitan Foundation of Atlanta, that is attempting to address itself to filling this void by providing programs in state government education for high school students in Georgia.</p>
           <p id="sc01-4_10220">The organization's mission, according to Gonzalez, is to formulate and implement programs which provide high school students with opportunities to study state and local government processes, politics and issues - in depth and "close-up." Their activities include panel presentations, keynote speaker addresses, interviews with individuals in government, public interest groups and media and topical discussions with staff members. The "close-up" program emphasizes participation, questioning, research and involvement by participants. All issues, Gonzalez says, are presented in a multi-partisan fashion and students are encouraged to fully explore all aspects of issues presented during programs. These issues, she reports, consist not only of specific items such as ERA, prison reform, tax reform, etc., but also include more indepth, humanistic examinations of why these issues are important, the historical development of our government ideologies and why people accept or reject them, the processes and problems involved in attempting to effect change or avoid changes in government laws and processes, and a host of other "valueoriented" items for thought.</p>
@@ -518,7 +527,7 @@ Georgia 30313. (404) 586-0947 or 586-0007.</p>
           <head>Southern Politics</head>
           <byline>By <docAuthor><name reg="Kenna, Gordon" type="person">Gordon Kenna</name></docAuthor></byline>
           <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141sk</idno></bibl>
+          
           <p id="sc01-4_10227">Traditionally the South, more than any other region, has maintained remarkable continuity in the leadership it has sent to Washington. That era is surely ending now as the South's senior Senators and Congressmen are being replaced by younger and often more moderate representatives.</p>
           <p id="sc01-4_10228">Republicans score a gain of two Senate seats in the eleven state South by winning races in Mississippi and Virginia. The GOP also had a net gain of two House seats in the region.</p>
           <p id="sc01-4_10229">Just how these and other changes will affect the South's
@@ -543,8 +552,6 @@ recent challenges to the committee chair system. On the Senate side, even in the
       </div1>
     </body>
   </text>
-</TEI.2>
-<!-- LocalWords:  Carolinians Warings Charlestonian Waties Ku Klux th se
--->
-<!-- LocalWords:  Timmerman
+</TEI.2><!-- LocalWords:  Carolinians Warings Charlestonian Waties Ku Klux th se
+--><!-- LocalWords:  Timmerman
 -->

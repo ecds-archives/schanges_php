@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc14-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc14-2_1204">
   <teiHeader id="sc14-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc14-2_002">http://pid.emory.edu/ark:/25593/14qsn</idno>
+            <idno type="ark" n="sc14-2_003">http://pid.emory.edu/ark:/25593/14qts</idno>
+            <idno type="ark" n="sc14-2_004">http://pid.emory.edu/ark:/25593/14qvx</idno>
+            <idno type="ark" n="sc14-2_005">http://pid.emory.edu/ark:/25593/14qw2</idno>
+            <idno type="ark" n="sc14-2_006">http://pid.emory.edu/ark:/25593/14qx6</idno>
+            <idno type="ark" n="sc14-2_007">http://pid.emory.edu/ark:/25593/14qzb</idno>
+            <idno type="ark" n="sc14-2_008">http://pid.emory.edu/ark:/25593/14r0k</idno>
+            <idno type="ark" n="sc14-2_009">http://pid.emory.edu/ark:/25593/14r1q</idno>
+            <availability>
           <p id="sc14-2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +36,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 14</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1992-3">Spring 1992</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc14-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +57,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc14-2_1203">
     <body id="sc14-2_1202">
@@ -68,7 +75,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Civil Rights In The Popular Culture</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 1-2, 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qsn</idno></bibl>
+          
           <p id="sc14-2_104">It was a familiar story with a different twist. On October 3, 1991, members of a white sorority at the University of Alabama attended a campus mixer dressed in blackface, basketballs stuffed in their shirts to imitate pregnancy.</p>
           <p id="sc14-2_105">The predilection of Southern white men to dress in black-faced drag had been appropriated by their sisters. Whatever advance against gender stereotyping of bigots this episode may reveal, these Tuscaloosa students were living a minstrel ritual over 150 years old. A century and a half before Amos and Andy, black-faced whites drew humor and instruction from imitations of blacks.</p>
           <p id="sc14-2_107">As apologies and a protest march followed public exposure of the Alabama incident, it became one of  
@@ -128,7 +135,7 @@ were just and right. Most of these productions miss that. They miss both the jus
           <head>Undemocratic America: A Former Secretary of Labor Explains Our Trend Toward a More Imperfect Union, and Offers Some Recipes for Change</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 8-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qts</idno></bibl>
+          
           <p id="sc14-2_1051">TODAY, AS IN THE PAST, America has a tendency to proclaim that we as a nation are doing quite well in achieving the goals of a democratic society. After all, the United States is the world's oldest, continuing democracy. We have the world's largest gross national product. We enjoy one of the largest per capita incomes in the world, and, at least until recently, we had the highest wages in the world (we are now about thirteenth).  For many, these signs of status are indisputable evidence of the full blessings of democracy.</p>
           <p id="sc14-2_1052">These findings cannot be dismissed. However, a more honest, searching examination of the state of democracy in the United States leads, I believe, to a much more discouraging, even alarming conclusion. In fact, as the first modern democracy, the United States now may rank last among the industrialized democracies of the world in achieving, as a whole, the goals of a democratic society. Said another way, simply, the United States may now be the most undemocratic nation among the industrialized democracies of the world.</p>
           <p id="sc14-2_1053">The United States is a rich country mainly because of our past, not because of our present and probably not of our future. The two things that made us the world's richest economy are no longer important advantages to us. One is we had an abundance of natural resources when natural resources were much more important. Second, we had the mass production system and economies of scale made possible by a large internal market. That is how Henry Ford could reduce the cost of a touring car from $850 to $350 in six years.</p>
@@ -213,7 +220,7 @@ the prejudice we had in our backgrounds. A lot of young people today not only fe
           <head>Son Ham's Hat</head>
           <byline>By <docAuthor><name reg="Curry, Connie" type="person">Connie Curry</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 15-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qvx</idno></bibl>
+          
           <p id="sc14-2_10116">I first met Matthew and Mae Bertha Carter in January 1966. I was Southern Field Representative for the American Friends Service Committee, a Quaker service organization. My job was to investigate the reports of intimidation and reprisals against black families who were attempting to desegregate the schools under Title VI of the Civil Rights Act of 1964. In order to comply with federal guidelines, many Southern school districts instituted  "Freedom of Choice" plans which provided that all parents could send their children to the school of their choice. The white opposition assumed that black families would not dare choose to send their children to an all-white school.</p>
           <p id="sc14-2_10117">In fact the Drew Municipal School System was so sure of its control of the situation that they opened up all twelve grades to freedom of choice, while many neighboring systems began with only one or two grades, adding one each year. Drew was and is a tiny cotton town in the middle of Sunflower County, in the middle of the Mississippi Delta. The Carter family sharecropped twenty-five acres on the Pemble Plantation nine miles out from Drew, but their choice of schools fell under the Drew plan. On August 11, 1965, Mae Bertha and Matthew were the first black parents to enroll their seven school-age children in the previously all-white schools in Drew.</p>
           <p id="sc14-2_10119">In 1990, I decided to record the story of this "choice" which so dramatically changed the Carters' lives. Often on my research trips Mae Bertha and I would get in the car and ride around Sunflower County. On one of our drives,  
@@ -246,7 +253,7 @@ march, sit-in and go to jail in Jackson. She became a constant source of support
           <head>A chorus for freedom and sell-determination</head>
           <byline>Reviewed by <docAuthor><name reg="Twining, Mary A." type="person">Mary A. Twining</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, p. 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qw2</idno></bibl>
+          
           <bibl><title>World Music of Struggle: We Shall Overcome,</title> Folkways/Columbia/Smithsonian tape (CT 47850), produced by Worth Long, Ralph Rinzler and Don DeVito.</bibl>
           <p id="sc14-2_10135">At a benefit for some political candidates from Blakely, Georgia, Charles Sherrod begin to sing as an introduction to his "few words" of exhortation. "A Charge to Keep I Have...," he sang, thereby opening up in a breathtaking moment his moral commitment to his own conscience, which would not rest well if he had not done all he could to ameliorate the suffering around him. The power of the words, the song and the singer took me back to the 1960s and 1970s when we believed telling the truth about what was going on would truly help to solve some problems. What has come clearly into focus since that exciting time is that the struggle continues.</p>
           <p id="sc14-2_10136">Trying to segregate the African American freedom struggle from that of the peoples all around the world, people have labeled it "Civil Rights." All, in fact, are fighting for human rights, a label freely used about other people's conflicts. Nowhere is this <hi rend="italic">a luta continua</hi> sentiment more beautifully expressed than in this fervently sung performance, taped live at the 1990 Smithsonian Festival of American Folklife.</p>
@@ -264,7 +271,7 @@ march, sit-in and go to jail in Jackson. She became a constant source of support
           <head>A complex web of irony and contradiction</head>
           <byline>Reviewed by <docAuthor><name reg="Davenport, Gene L." type="person">Gene L. Davenport</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qx6</idno></bibl>
+          
           <lb/>
           <bibl><title>Shades of Gray: Dispatches from the Modern South</title> by John Egerton. (Louisiana State University Press, 1991, 268 pages).</bibl>
           <p id="sc14-2_10144">John Egerton has been chronicling the changes of the South for a quarter of a century in the pages of publications as diverse as the <title>New York Times,</title> the <title>Progressive,</title><title>American Heritage,</title> and <title>Southern Exposure</title> and in his own books, the most notable, perhaps, being <title>The Americanization of Dixie.</title> (Actually, <title>Generations and Southern Food,</title> each in its own way, also contribute important perspectives on the changing South.) The subjects of his essays have likewise been diverse.</p>
@@ -289,7 +296,7 @@ with the victims of change ("The King Coal Good Time Blues"). They extend furthe
           <head>A mythical vision of a non-meddling military</head>
           <byline>Reviewed by <docAuthor><name reg="Bussey, Charles" type="person">Charles Bussey</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 25-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14qzb</idno></bibl>
+          
           <bibl><title>Negative Intelligence: The Army and the American Left, 1917-1941</title> by Roy Talbert, Jr. (Jackson: University Press of Mississippi, 1991, xiv, 303 pages).</bibl>
           <p id="sc14-2_10156">In October 1989, I sat in St. James Episcopal Church at Hyde Park, New York. Walter Cronkite received the Freedom of Speech Award at the FDR Four Freedoms Celebration, and he said:</p>
           <p id="sc14-2_10158">
@@ -325,7 +332,7 @@ story, and there were days when I came up from the microfilm reader... depressed
           <head>A strong figure in a tumultuous era</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1992-03">Vol 14, No. 2, 1992, pp. 27-29</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r0k</idno></bibl>
+          
           <bibl><title>Chronicles of Faith, The Autobiography of Frederick D. Patterson,</title> edited by Martia Graham Goodson, with a foreword by Harry V. Richardson (University of Alabama Press, 1991, xiv, 220 pages).</bibl>
           <p id="sc14-2_10180">Frederick D. Patterson was one of the dominant figures of the black community for half this century. President of Tuskegee Institute from 1935 until 1953,  
  <pb id="sc14-2_10179" n="28"/>
@@ -368,7 +375,7 @@ Carver Research Foundation. The money was in government bonds. Carver said that 
           <head>A brave voice in the wilderness</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1992-03">Vol. 14, No. 2, 1992, pp. 29-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14r1q</idno></bibl>
+          
           <bibl><title>Simple Decency &amp; Common Sense: The Southern Conference Movement,</title> 1938-1963, by Linda Reed. (Indiana University Press, 1991. 257 pp.).</bibl>
           <p id="sc14-2_10199">In a half-century of painful fits and starts preceding <hi rend="italic">Brown v. Board of Education</hi> and the Montgomery bus boycott, a thin trickle of Southerners, white and black, opposed the angry tide of racial discrimination that flowed from region-wide passage of the segregation laws.</p>
           <p id="sc14-2_10201">The efforts were meager, halting, ambivalent, and finally, woefully inadequate. On a few occasions, independent people and delegates from Southern organizations and institutions came together in hopes of finding comprehensive solutions to the region's social problems.  

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc18-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc18-2_1204">
   <teiHeader id="sc18-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc18-2_002">http://pid.emory.edu/ark:/25593/14w00</idno>
+            <idno type="ark" n="sc18-2_004">http://pid.emory.edu/ark:/25593/14w14</idno>
+            <idno type="ark" n="sc18-2_006">http://pid.emory.edu/ark:/25593/14w28</idno>
+            <idno type="ark" n="sc18-2_007">http://pid.emory.edu/ark:/25593/14w3d</idno>
+            <idno type="ark" n="sc18-2_008">http://pid.emory.edu/ark:/25593/14w4j</idno>
+            <idno type="ark" n="sc18-2_009">http://pid.emory.edu/ark:/25593/14w5p</idno>
+            <idno type="ark" n="sc18-2_010">http://pid.emory.edu/ark:/25593/14w6t</idno>
+            <idno type="ark" n="sc18-2_011">http://pid.emory.edu/ark:/25593/14w7z</idno>
+            <availability>
           <p id="sc18-2_101">2004 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +36,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 18</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1996-06">Summer 1996</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc18-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +57,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc18-2_1203">
     <body id="sc18-2_1202">
@@ -68,7 +75,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>The Disposable Olympics Meets the City of Hype</head>
           <byline>By <docAuthor><name reg="Quesenberry, Preston" type="person">Preston Quesenberry</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 3-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w00</idno></bibl>
+          
           <p id="sc18-2_104">Not since the height of the Civil Rights movement have the Southern states, and Atlanta in particular, received as much extended media coverage as they are due to receive in the next month. The 1996 Centennial Olympic Games will draw not only fifteen thousand members of the press covering the athletic events, but also an anticipated live to ten thousand additional national and international journalists looking to use the Olympics as a backdrop for human interest stories and feature articles on Atlanta, Georgia, and the South.</p>
           <p id="sc18-2_105">Anticipating this incoming media wave, the Atlanta Chamber of Commerce, along with other trade and tour-ism organizations, has established a press information center at the site of a former bus station in the middle of downtown Atlanta to assist international reporters re-searching, among other things, "Southern lifestyle and culture." The world's journalists are not likely to settle for a South viewed through the Chamber's lens, but those who drop by the center will receive press kits presenting two central images. One is an "Old South" of "genteel Southern plantations," "Southern hospitality," "nostalgic, charming towns," and "tastes of the region like sweet tea, cornbread, black-eyed peas, barbecue, and peach pie." This evocation of a "region rich in tradition" is then juxtaposed with depictions of a forward looking, rapidly progressing, economically booming "New South."</p>
           <p id="sc18-2_106">Of course, pre-packaged images of Southern traditions iron out all
@@ -389,7 +396,7 @@ from the Olympics."--P. Q.</p>
           <head>Assessing the Olympic Legacy</head>
           <byline>By <docAuthor><name reg="Rutheiser, Charles" type="person">Charles Rutheiser</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 16-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w14</idno></bibl>
+          
           <p id="sc18-2_10105">Compared to the massive displacements that accompanied the Olympics in Seoul (1988) and Barcelona (1992) , the demolitions and removals occasioned by the 1996 Centennial Games in Atlanta are relatively minor. For example, several hundred thousand people were displaced by the Korean government's efforts to make its capital a showplace for its new-found economic prosperity. Barcelona, too, utilized the occasion to relocate large numbers of its poor, although it did so as part of a comprehensive vision that included building a twenty-first-century urban infrastructure for itself. In the case of Atlanta, a good deal of damage has already been inflicted by three decades of renewal, redevelopment, and revitalization, although the fundamental unevenness of these processes has often been obscured by the metropolitan area's fervid, long-lasting boom and the manifold labors of myriad imagineers.</p>
           <p id="sc18-2_10106">What is highly ironic, given the course of subsequent events, is that Atlanta got the Games, in part, on the basis of what the AOCG and city leaders liked to call its peerless modern infrastructure. By this they referred not to the
 city's roads, sewers, and viaducts--which actually proved in need of approximately a billion dollars in repairs--but such things as the MARTA rail system, Hartsfield International Airport, the Georgia Dome/World Congress Center complex, and the most extensive fiber-optic network in the world. Aside from the $150 million realized from the bond issue, which probably would have not been passed without the occasion of the Olympics to provide the motive force, most of the monies expended on infrastructure improvement will be spent to provide the World Congress Center with a new parking deck and International Plaza ($30 million) and the airport with a flashy new $300-plus-million postmodern ambience. The State Assembly declined, however, to provide the necessary 10 percent of expenses (the federal government would have provided the rest) to build a central multimodal station for a heavy rail system that would have ameliorated the metro area's unwholesome addiction to the automobile. Instead of an integrated commuter rail network, Atlanta's Olympic transportation legacy (aside from seeing if MARTA can work beyond its designed capacity for three weeks) will be the neo-Orwellian Advanced Transportation Management System and high-occupancy vehicle lanes for the expressways within the Perimeter.</p>
@@ -448,7 +455,7 @@ of problems to be "rediscovered" in
           <head>Organized Labor and the Olympics</head>
           <byline>By <docAuthor><name reg="Acuff, Stewart" type="person">Stewart Acuff</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 19-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w28</idno></bibl>
+          
           <p id="sc18-2_10117">On September 18, 1992 the Olympic Flag arrived in Atlanta from Barcelona, Spain signifying the transfer of the Olympic Movement, the Olympic Spirit, and the Olympic Games.</p>
           <p id="sc18-2_10118">The Atlanta Committee for the Olympic Games held a celebration at Underground Atlanta to greet the flag.</p>
           <p id="sc18-2_10119">The Atlanta Labor Council held a ten thousand person march and demonstration to greet the flag.</p>
@@ -494,7 +501,7 @@ six-month planning process to disrupt the celebration, demonstrate our collectiv
           <head>Passing the Torch, Torching the Past</head>
           <byline>By <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 21-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w3d</idno></bibl>
+          
           <p id="sc18-2_10146">Known as many things since its founding in 1837--a city resurrected from the ashes of the Civil War to lead the South in commerce and industry, a city supposedly above the racial intolerance which has typified the United States, and a city poised to join the international <corr sic="metropolian">metropolitan</corr> ranks--Atlanta enjoys a reputation that is the cumulative handiwork of generations of local business moguls, newspaper publishers and editors, politicians, and civic boosters. One of the most extended and impressive public relations campaigns waged in this century of PR has constructed the climate that envelops the daily lives of so many greater Atlantans. With a shrinking population inside Atlanta's city limits that is increasingly black and poor, the polishing of the metropolitan image is being taken over by movers and shakers who live in the affluent, predominantly white, suburbs to the north.</p>
           <p id="sc18-2_10147">Atlanta's advertisements for itself began in earnest in the wake of
 the torching given by General William T. Sherman's troops during the Civil War. Henry Grady, part owner and managing editor of the Atlanta <hi rend="italic">Constitution</hi> after 1880, set the tone of a New South intent upon the money-making potentials of reconciliation with the North. The symbol of this resurgence, the phoenix, remains attached to the city in a series of Olympic-year print and TV ads, or the iron grates of the newly rebuilt Woodruff Park.</p>
@@ -527,7 +534,7 @@ University</p>
           <head>Remembering Another Atlanta: Gate City</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w4j</idno></bibl>
+          
           <p id="sc18-2_10161"><hi rend="italic">"South--that part of the United States south
 of Mason's and Dixon's line, the Ohio River, and the southern
 boundaries of Missouri and Kansas."</hi> (Webster's New Collegiate
@@ -614,7 +621,7 @@ H. Bayor, University of North Carolina Press, Chapel Hill,
           <head>Contours of the Color Line</head>
           <byline>Reviewed by <docAuthor><name reg="Kuhn, Cliff" type="person">Cliff Kuhn</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 26-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w5p</idno></bibl>
+          
           <bibl><title>Where Peachtree Meets Sweet Auburn: The Saga of
 Two Families and the Making of Atlanta</title> by Gary M. Pomerantz. (Scribner's, 1996, 550 pages).</bibl>
           <bibl><title>Race and the Shaping of Twentieth Century
@@ -676,7 +683,7 @@ history.</p>
           <head>A Modest Remedy</head>
           <byline>Reviewed by <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996 pp. 27-29</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w6t</idno></bibl>
+          
           <bibl><title>In Defense of Affirmative Action</title>, by Barbara R. Bergmann (New Republic/Basic Books, 1996, 213 pages).</bibl>
           <p id="sc18-2_10215">"Before we gave up on integration, we should have tried it," wrote Jack E. White in "Why We Need to Raise Hell," part of Time's April 29 cover story on the death of school integration. The same must be said about affirmative action--we should have tried it.</p>
           <p id="sc18-2_10216">In her straightforward book, <title>In Defense of Affirmative Action</title>, American University economist Barbara Bergmann makes the case for this modest remedy to centuries of white supremacy in the U.S., documenting the nation's reluctant use of affirmative action and the unlikelihood of achieving fairness without it.</p>
@@ -734,7 +741,7 @@ debate.</p>
           <head>Tilling the Ground for Change</head>
           <byline>Reviewed by <docAuthor><name reg="Lassiter, Matthew" type="person">Matthew Lassiter</name></docAuthor></byline>
           <docDate value="1996-06">Vol. 18, No. 2, 1996</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w7z</idno></bibl>
+          
           <bibl><title>Days of Hope: Race and Democracy in the New Deal
 Era</title>, by Patricia Sullivan (University of North Carolina Press, 1996, 335 pages).</bibl>
           <p id="sc18-2_10230">The travails of Southern liberals and radicals during the 1930s and

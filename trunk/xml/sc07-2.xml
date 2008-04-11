@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc07-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc07-2_1204">
   <teiHeader id="sc07-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,18 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc07-2_002">http://pid.emory.edu/ark:/25593/14cf7</idno>
+            <idno type="ark" n="sc07-2_003">http://pid.emory.edu/ark:/25593/14cgc</idno>
+            <idno type="ark" n="sc07-2_004">http://pid.emory.edu/ark:/25593/14chh</idno>
+            <idno type="ark" n="sc07-2_005">http://pid.emory.edu/ark:/25593/14cjn</idno>
+            <idno type="ark" n="sc07-2_006">http://pid.emory.edu/ark:/25593/14cks</idno>
+            <availability>
           <p id="sc07-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +29,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +37,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 7</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1985-05">May-June 1985</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc07-2_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +53,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +61,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc07-2_1203">
     <body id="sc07-2_1202">
@@ -75,7 +79,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Vengeance and Justice</head>
           <byline>By <docAuthor><name reg="Hahn, Steven" type="person">Steven Hahn</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cf7</idno></bibl>
+          
           <bibl><title>Vengeance and Justice: Crime and Punishment in the
 Nineteenth Century South.</title> By Edward L. Ayers. Oxford
 University Press, 1984.384 pp. $24.95</bibl>
@@ -274,7 +278,7 @@ Populism.</title> (Oxford Univ. Press, 1983).</p>
           <head>Victorian to Modernist Thought in the South, 1919 - 1945</head>
           <byline>By <docAuthor><name reg="Hobson, Fred" type="person">Fred Hobson</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 21-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cgc</idno></bibl>
+          
           <bibl><title>The War Within: From Victorian to Modernist Thought in
 the South, 1919 - 1945.</title> By Daniel Joseph Singal. University of
 North Carolina Press, 1982.</bibl>
@@ -399,7 +403,7 @@ University of Alabama at Tuscaloosa. His most recent book is
           <head>Games Registrars Play</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 1-2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14chh</idno></bibl>
+          
           <p id="sc07-2_1030">Two decades after the passage of the Voting Rights Act, no one
 really knows how many black citizens are registered to vote in the
 South today. While no better basic standard exists by which to measure
@@ -502,7 +506,7 @@ Regional Council.</p>
           <head>Crackdown in the Black Belt: Not-So-Simple Justice</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 2-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cjn</idno></bibl>
+          
           <p id="sc07-2_1044">In a trial that should reveal the distance the Reagan Justice
 Department will travel to cooperate with local white officials in
 suppressing the voting rights of black citizens, the case of <hi rend="italic">United
@@ -1109,7 +1113,7 @@ one vote and a surer chance at fairness for black and white."</p>
           <head>Consorting with the Enemy</head>
           <byline>By <docAuthor><name reg="Witt, Elise" type="person">Elise Witt</name></docAuthor></byline>
           <docDate value="1985-05">Vol. 7, No. 2, 1985, pp. 15-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cks</idno></bibl>
+          
           <p id="sc07-2_10133"><hi rend="italic"> February 3.</hi> Miami, the cultural
 intermediary. Tropical vegetation, flowering bushes in
 February. Sultry air and a heavy, full moon. Spanish signs on Cuban

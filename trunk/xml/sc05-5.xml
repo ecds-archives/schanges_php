@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc05-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc05-5_1204">
   <teiHeader id="sc05-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc05-5_002">http://pid.emory.edu/ark:/25593/14907</idno>
+            <idno type="ark" n="sc05-5_sc05-6003">http://pid.emory.edu/ark:/25593/1491c</idno>
+            <idno type="ark" n="sc05-5_004">http://pid.emory.edu/ark:/25593/1492h</idno>
+            <idno type="ark" n="sc05-5_005">http://pid.emory.edu/ark:/25593/1493n</idno>
+            <idno type="ark" n="sc05-5_006">http://pid.emory.edu/ark:/25593/1494s</idno>
+            <idno type="ark" n="sc05-5_007">http://pid.emory.edu/ark:/25593/1495x</idno>
+            <idno type="ark" n="sc05-5_008">http://pid.emory.edu/ark:/25593/14962</idno>
+            <idno type="ark" n="sc05-5_009">http://pid.emory.edu/ark:/25593/14976</idno>
+            <availability>
           <p id="sc05-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1983-10">October-November 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc05-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc05-5_1203">
     <body id="sc05-5_1202">
@@ -75,7 +82,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Checking the Teeth of Change</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14907</idno></bibl>
+          
           <p id="sc05-5_104">The obvious changes in Southern politics usually deserve our most
 intense suspicions, and Mississippi's recent democratic primary
 election for the state legislature is only the most recent reminder of
@@ -179,7 +186,7 @@ Regional Council.</p>
           <head>Drawing the Lines: A Reapportionment Primer</head>
           <byline>By <docAuthor><name reg="Sherman, Brian" type="person">Brian Sherman</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1491c</idno></bibl>
+          
           <p id="sc05-5_1017">Reapportionment occurs, or at least should occur, every ten
 years--when the results of the population census are released. Three
 years after the 1980 census, some jurisdictions (states, counties,
@@ -634,7 +641,7 @@ Door.</title></p>
 in the Old South.</title> Oxford University Press, 1982.</head>
           <byline>By <docAuthor><name reg="Morgan, Lynda" type="person">Lynda Morgan</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1492h</idno></bibl>
+          
           <p id="sc05-5_1082">In his <title>History of the Southern Confederacy,</title>
 published in 1954, Clement Eaton noted that students of the American
 South needed to pay more attention to "Southern honor" and its role in
@@ -792,7 +799,7 @@ is more to Southern honor than Wyatt-Brown is telling us.</p>
           <head>White Politics in a Black Land</head>
           <byline>By <docAuthor><name reg="Minor, Bill" type="person">Bill Minor</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1493n</idno></bibl>
+          
           <p id="sc05-5_1093">It was the sort of affair which a few years ago would have been
 unthinkable in Mississippi: an NAACP fundraising luncheon in
 Vicksburg, the Civil War "Gibraltar of the Confederacy," and almost
@@ -1360,7 +1367,7 @@ lives in Jackson. </p>
           <head>Testing for Competency</head>
           <byline>By <docAuthor><name reg="Dixon, Hortense" type="person">Hortense Dixon</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1494s</idno></bibl>
+          
           <p id="sc05-5_10194">Twenty-one states now base teacher certification on the results of
 competency tests. These tests measure what is considered to be "basic
 knowledge" appropriate for the eighth grade level. At the same time,
@@ -1521,7 +1528,7 @@ Southern Regional Council.</p>
           <head>Aaron Henry from Clarksdale</head>
           <byline>By <docAuthor><name reg="Long, Worth" type="person">Worth Long</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1495x</idno></bibl>
+          
           <p id="sc05-5_10216">This is Aaron Henry and I'm from Clarksdale, have always lived
 here. Born outside of the city limits on a plantation called Flowers'
 Brothers. It's still out there. I grew up chopping cotton, picking
@@ -1803,7 +1810,7 @@ Project.</p>
           <head>Black Women's Health Conference</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14962</idno></bibl>
+          
           <p id="sc05-5_10255">In 1970 Byllye Avery had it made. She was married to a wonderful
 man. He was college educated and had a good job. They owned their
 home, had a station wagon and two children. They were a black family
@@ -1929,7 +1936,7 @@ Crisis: Disadvantaged Women and Their Children,</title> May
 1983.</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1983-10">Vol. 5, No. 5, 1983, p. 19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14976</idno></bibl>
+          
           <list>
             <item> In its 1982 report on health insurance coverage and employment
 for minorities and women, the U.S. Commission on Civil Rights noted

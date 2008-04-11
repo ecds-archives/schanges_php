@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc21-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc21-1_1204">
   <teiHeader id="sc21-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,30 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc21-1_002">http://pid.emory.edu/ark:/25593/14zmp</idno>
+            <idno type="ark" n="sc21-1_003">http://pid.emory.edu/ark:/25593/14znt</idno>
+            <idno type="ark" n="sc21-1_004">http://pid.emory.edu/ark:/25593/14zpz</idno>
+            <idno type="ark" n="sc21-1_005">http://pid.emory.edu/ark:/25593/14zq3</idno>
+            <idno type="ark" n="sc21-1_006">http://pid.emory.edu/ark:/25593/14zr7</idno>
+            <idno type="ark" n="sc21-1_007">http://pid.emory.edu/ark:/25593/14zsc</idno>
+            <idno type="ark" n="sc21-1_008">http://pid.emory.edu/ark:/25593/14zth</idno>
+            <idno type="ark" n="sc21-1_009">http://pid.emory.edu/ark:/25593/14zvn</idno>
+            <idno type="ark" n="sc21-1_010">http://pid.emory.edu/ark:/25593/14zws</idno>
+            <idno type="ark" n="sc21-1_011">http://pid.emory.edu/ark:/25593/14zxx</idno>
+            <idno type="ark" n="sc21-1_012">http://pid.emory.edu/ark:/25593/14zz2</idno>
+            <idno type="ark" n="sc21-1_013">http://pid.emory.edu/ark:/25593/1500c</idno>
+            <availability>
           <p id="sc21-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +40,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title/>. <biblScope type="volume">Volume 21</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1999-03">1999</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc21-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +61,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc21-1_1203">
     <body id="sc21-1_1202">
@@ -68,7 +79,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Reshaping Education Forty-Five Years After Brown</head>
           <byline>By <docAuthor><name reg="Johnson, Wendy S." type="person">Wendy S. Johnson</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zmp</idno></bibl>
+          
           <p id="sc21-1_104">An SRC survey on racial attitudes found sixty percent of Americans rank improving schools and education as a top priority over any other issue. The reasons are many.  Education is the foundation for a decent job and livelihood and central to almost every other measure of a society's well-being.</p>
           <p id="sc21-1_105">Yet, as education improves in the South, inequalities  within the educational system persist. Forty-five years after Brown began to break through barriers to educational participation, we confront the realities of institutional resistance to change. </p>
           <p id="sc21-1_106">The Washington, D.C.-based Education Trust reports that while tremendous progress was made toward  closing the gap in reading scores between white and African-American and Latino students during  the two decades leading up to 1989, today the reverse is true.  During the 1970s and 1980s, the gap in achievement,between African-American and white students,  as measured by reading scores,  narrowed by about half, while the gap between Latino and white students narrowed by about one-third.  Beginning in the late 80s, with some exceptions, that gap has begun to widen.  In math, "while almost all groups are gaining, the gains among white students outpace gains among African Americans and Latinos," the Education Trust reported.</p>
@@ -96,7 +107,7 @@ education.  Dianne Pich&#xE9; of the Citizen's Commission on Civil Rights writes
 A Decade of Education Reform</head>
           <byline>By <docAuthor><name reg="Torian, Sarah Ellen" type="person">Sarah Ellen Torian</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 4-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14znt</idno></bibl>
+          
           <p id="sc21-1_1015">"It's not a problem to be behind," George Washington Carver Middle School Principal Robert Markham constantly reminds students, teachers, and parents, "but it's an absolute sin to be behind and not try to catch up." Seeing Carver Middle School in Meridian, Mississippi, struggle to meet the needs of its majority-black students, many of whom receive free or reduced-cost lunches, Markham understands the challenge of engaging students. Markham looked beyond the negative media images of urban schools such as Carver that teach poor, black students without many black teachers or administrators to serve as positive role models when he became principal twelve years ago and set high expectations  for all of Carver's students. He promotes a "family" atmosphere in which parents, students, and school personnel are working toward the same goal-to have all students reading, writing, and computing on grade level by the time they finish seventh grade. </p>
           <p id="sc21-1_1016">Five years ago, Gwen Williams left her job as a middle school teacher in Atlanta, to become director of the Peachtree Urban Writing Project. The Project is one of 165 such sites around the world that empowers teachers as leaders and helps them improve their teaching of reading and writing. Williams and her team of ten teacher-consultants host study groups throughout the year. Hosted at Georgia State University, the project offers teachers on-going professional support from Williams and her team, examining integrative and project-based learning. "With project-based learning," Williams says, "students initiate some of their own learning, so that they become critical thinkers and learners. It empowers students to learn through projects that they design."</p>
           <p id="sc21-1_1017">In Monticello, Arkansas, only 52 percent of the adult population holds a high school diploma. Shirley Martin, the only one of six siblings to earn a college degree and one of the two who earned a high school diploma, is not satisfied with that low level of educational attainment. Since 1994 she has been project director of the Southeast Arkansas Foster Grandparents program, a part of the National Senior Service Corps. She currently leads a body of one-hundred senior volunteers in giving more than five-hundred "at risk" children, ranging in age from birth to second grade, the literacy skills they need. During the last school year, sixteen volunteers worked daily in a pilot program with first and second graders who had scored in the bottom quartile at their schools.  By the end of the year, 58 percent were reading at or near their grade level and several were reading one or two levels above. "I want to be a piece of the picture for education reform," says Martin.</p>
@@ -237,7 +248,7 @@ Davis, Gale Greenlee, and Rene&#xE9; Wood.</p>
           <head>Tracking Hurts Children</head>
           <byline>By <docAuthor><name reg="Klenbort, Marcia" type="person">Marcia Klenbort</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zpz</idno></bibl>
+          
           <p id="sc21-1_1097"><hi rend="italic">What is "tracking"?</hi> A high school sophomore who spent most of his schooling in low-level courses, says: "You live in the basement, you die in the basement. You know what I mean?"</p>
           <p id="sc21-1_1098"><hi rend="italic">Where did "tracking" in Southern classrooms originate?</hi> When desegregation moved from a fear in the minds of Southern white legislators, elected officials and school leaders, to a reality, the most frequent measure taken to resegregate the schools along racial lines was to separate students according to "ability groups."  It was known as "tracking" because children put in a certain ability group (low, medium, or high) tended to stay there.</p>
           <p id="sc21-1_1099"><hi rend="italic">Is tracking still used today?</hi> It is. It is sanctioned by state departments of education, which plan for "gifted and talented" programs for about 5 percent of the student population.  Those  offer the liveliest curriculum, the most hands-on  activities, the greatest choice for students, and frequently have the best teachers. Research shows that all students benefit from these conditions.  </p>
@@ -253,7 +264,7 @@ Davis, Gale Greenlee, and Rene&#xE9; Wood.</p>
           <head>The Right Attacks Public Schools</head>
           <byline>By <docAuthor><name reg="Miner, Barbara" type="person">Barbara Miner</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 15-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zq3</idno></bibl>
+          
           <p id="sc21-1_10105">The religious right, helped by more moderate conservative forces, is taking aim at the very concept of public education.</p>
           <p id="sc21-1_10106">Buoyed by the conservative movement's success in gutting welfare and other social programs, the religious right increasingly is targeting its sights on public schools.</p>
           <p id="sc21-1_10107">The survival of this country's tradition of public education has far-reaching implications for all who are committed to a democratic society that respects diversity. No matter how much this tradition is tarnished and battered in practice, it remains a cornerstone of our democratic vision. </p>
@@ -325,7 +336,7 @@ religious right's overall goals but <pb id="sc21-1_10145" n="18"/>who are concer
           <head>Promote Educational Success, Not Failure</head>
           <byline>By <docAuthor><name reg="Malhoit, Gregory" type="person">Gregory Malhoit</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zr7</idno></bibl>
+          
           <p id="sc21-1_10150">North Carolina's State Board of Education seems determined to adopt a "quick fix" education policy that could hold back thousands of students who fail state-administered multiple-choice tests.</p>
           <p id="sc21-1_10151">The policy is grade retention-an approach that has been experimented with in many school systems and studied by educational researchers. After decades of research, many have concluded that grade retention does far more harm than good,  increasing discipline problems and dropout rates while hurting long-term student achievement.</p>
           <p id="sc21-1_10152">Grade retention ignores what we know about the development of human intelligence: namely that children learn at different rates, just as they grow in spurts. They are human beings with unique skills and abilities, most of which cannot be measured by one multiple-choice test. We also know that some students don't test well, and that tests are not a perfect measure of what students know. Nevertheless, the proposed grade promotion policy places total reliance on a test score. It discounts students' classroom work, and encourages teachers to teach to the test.</p>
@@ -341,7 +352,7 @@ religious right's overall goals but <pb id="sc21-1_10145" n="18"/>who are concer
           <head>Tracking Hurts Children</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zsc</idno></bibl>
+          
           <p id="sc21-1_10158">Several Southern state legislatures are considering controversial school voucher proposals, which public education advocates call a thinly veiled ploy to undermine public school funding and secure public funding for religious schools. Bills introduced in Florida, Texas, and Georgia would deduct money from state school budgets to fund private school tuition and are being targeted at minorities and students at low performing schools, according to opponents of the initiatives.</p>
           <p id="sc21-1_10159">"The South is the next big area for vouchers," said Jamie Daly of People for the American Way, "both Florida and Texas are going to be the next big battles." </p>
           <p id="sc21-1_10160">Daly, a critic of voucher programs, is most concerned about Florida's proposal. On March 25, in a mostly partisan 71-49 vote, the Florida House approved a limited voucher program. It will now move to the Republican-controlled Senate where it is expected to face stronger opposition. Supported by Governor Jeb Bush and Lt. Governor Frank Brogan, former Florida commissioner of education, the bill would provide "opportunity scholarships."</p>
@@ -367,7 +378,7 @@ religious right's overall goals but <pb id="sc21-1_10145" n="18"/>who are concer
             </docAuthor>
           </byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zth</idno></bibl>
+          
           <p id="sc21-1_10172" rend="italic">A national survey of racial attitudes conducted by John Doble Research Associates for the Southern Regional Council (see Southern Changes, Spring 1997 and Spring and Winter 1998) found that most Americans see education as crucial to overcoming racial inequality. The research included four focus groups of white Southerners and a national telephone survey of 1216 randomly selected adults. Tom W. Smith, Director of the General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data.  The research was supported by a grant from the Charles Stewart Mott Foundation. </p>
           <p id="sc21-1_10173">Americans rate "improving schools and education" as a top priority over any other issue. Fifty-nine percent said education was a "top priority" and another 28 percent said it was an "above average" priority (a total of 87 percent showing strong support for education). Seventy-nine percent of blacks and 56 percent of whites said education was a "top priority" (the highest for both groups).  This top ranking on the SRC survey parallels a steady climb by education on the University of Chicago National Opinion Research Center's General Social Survey (GSS) from 6th and 5th place rankings in the 1970s.</p>
           <p id="sc21-1_10174">People surveyed were asked to consider a variety of specific
@@ -387,7 +398,7 @@ ten, said they favored a host of specific educational remedies:
           <head>Schools in Conflict: A History Lesson</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zvn</idno></bibl>
+          
           <p id="sc21-1_10177">The Supreme Court's school desegregation decision announced May 17, 1954 had been too long coming. The South's political order, aided by the nation's indifference to the ideals the decision professed, was the cause of the ensuing bitterness. It is not clear that the decision is fully yet accepted. </p>
           <p id="sc21-1_10178">It had been painfully arrived at. The five cases decided that day,
 answering the constitutional question of racial segregation, had been
@@ -445,7 +456,7 @@ Renew Federal Support to Under-Resourced Schools</head>
           <byline>By 
             <docAuthor><name reg="Pich&#xE9;, Dianne" type="person">Dianne Pich&#xE9;</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zws</idno></bibl>
+          
           <p id="sc21-1_10197">When Congress takes up the reauthorization of the Elementary and Secondary Education Act (ESEA) later this year, the stakes will be higher than ever for poor and minority children. Particularly for those children attending schools that receive support from Title I, the section of the law aiding under-resourced schools, the outcome of the looming Congressional debate could make a big difference  whether those children have access to the resources they need to succeed in school.</p>
           <p id="sc21-1_10198">With an appropriation now over $8 billion, Title I is by far the
 largest of the ESEA programs, providing supplemental funds to schools
@@ -526,7 +537,7 @@ appeared in <hi rend="italic">Poverty and Race</hi> (Nov/Dec 1998).  For more in
           <head>Standards Reform: Focus on Learning for All</head>
           <byline>By <docAuthor><name reg="Mizell, M. Hayes" type="person">M. Hayes Mizell</name></docAuthor></byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zxx</idno></bibl>
+          
           <p id="sc21-1_10215">During the past two decades, the South has emerged as the star graduate of the nation's remediation class. It ended up there after several centuries of making what a school counselor might euphemistically characterize as "bad decisions:" slavery, racial oppression, de jure segregation and massive resistance. But whether because of pathology or choice, the South had become rebellious and out of control. Striking the teacher was the last straw. It surprised no one when it flunked. Alone, down and out, with no money and no friends, it finally resorted to something it had avoided for centuries: learning. The more the South learned, and the more it used what it learned, the more self-confident it became. It discovered that skills have value, and folks who have money and want to make more money seek out skills. These skills, combined with the South's work ethic (it had never been afraid of hard work, it had just worked hard at the wrong things), made it prosperous and proud, embracing education almost as an article of faith.</p>
           <p id="sc21-1_10216">Like any low-performing student who migrates into the ranks of achievers, the South's progress has been impressive because its efforts to improve education started so far behind more prosperous areas of the country. For most of this century, it struggled to provide even a semblance of public education, from a full school year, to decent facilities, to adequately trained teachers. The South denied even these to children from low-income and African-American families, and, of course, to children with disabilities. Only in the 1970s did Southern states finally begin to provide inclusive public education systems similar to those elsewhere in the nation. </p>
           <p id="sc21-1_10217">Now, just as the South is catching up to the nation, the dynamics of schooling are changing dramatically. The emphasis is increasingly on the results of education, what students actually know and can do, rather than on merely providing the components of the educational process. There continue to be concerns about the fairness of some states' education financing systems and the supply of qualified teachers, but most policy makers and taxpayers are more concerned about what students are learning. Are schools challenging and encouraging all students to master increasingly difficult subject matter? Are schools adequately preparing students for the next grade? Will students have the knowledge and skills to compete successfully in a global economy? </p>
@@ -556,7 +567,7 @@ conspiracy to set the "bar" of academic perfor-<pb id="sc21-1_10223" n="28"/>man
             </docAuthor>
           </byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 pp. 29-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zz2</idno></bibl>
+          
           <p id="sc21-1_10231">"How can I get a copy of that wonderful civil rights documentary series produced by the Southern Regional Council that I heard on public radio?" The most frequently asked question among the fifteen hundred email messages to the "Will the Circle Be Unbroken?" web site now has an answer.  </p>
           <p id="sc21-1_10232">After June 1, 1999, copies of the Peabody-award winning civil rights audio documentary series produced by George King for the SRC will be available on compact disc and cassette.   </p>
           <p id="sc21-1_10233">SRC's "Will the Circle Be Unbroken?" tells the story of the Civil Rights Movement in five Southern cities: Little Rock, Arkansas; Jackson, Mississippi; Montgomery, Alabama; Atlanta, Georgia; and Columbia, South Carolina.  Aired on more than 250 public radio stations in 1997 and 1998, the series brought hundreds of comments from listeners in more than thirty-five states from Alaska to Maine.</p>
@@ -604,7 +615,7 @@ Virginia Foster Durr 1903-1999</head>
             </docAuthor>
           </byline>
           <docDate value="1999-03">Vol. 21, No. 1, 1999 p. 35</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1500c</idno></bibl>
+          
           <p id="sc21-1_10254">SRC Life Fellow Virginia Durr-born August 6, 1903- died February 24, 1999, in her sleep in a nursing home in Pennsylvania. She was one of the most outspoken white Southern progressives of the twentieth century and, though she never held elective office or any high position, one of its most influential. The wife of Clifford J. Durr and the sister-in-law of Hugo Black, she was the friend and confidante of Eleanor Roosevelt, Septima Clark, Rosa Parks, Myles Horton, E. D. Nixon, Martin Luther King, Jr., and many, many others.</p>
           <p id="sc21-1_10255">A Birmingham native, she attended Wellesley College, and after marrying Clifford Durr moved with him in 1933 to Washington to work in the New Deal. There she fought the poll tax and began her association with the Southern Conference on Human Welfare and the Commission on Interracial Cooperation, the forerunner of the Southern Regional Council. </p>
           <p id="sc21-1_10256">In the late forties, she worked in the Henry Wallace campaign and challenged McCarthyism. The Durrs moved to Montgomery, her husband's home, in 1951, and she served as his legal secretary. Their work brought them into contact and friendship with E. D. Nixon, the Pullman porter who led the Montgomery NAACP, and NAACP secretary Rosa Parks, whom Virginia Durr employed part-time as a seamstress and encouraged to attend a civil rights training session at the Highlander Folk School.</p>

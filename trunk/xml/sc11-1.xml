@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc11-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc11-1_1204">
   <teiHeader id="sc11-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,20 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc11-1_002">http://pid.emory.edu/ark:/25593/14jzt</idno>
+            <idno type="ark" n="sc11-1_003">http://pid.emory.edu/ark:/25593/14k02</idno>
+            <idno type="ark" n="sc11-1_004">http://pid.emory.edu/ark:/25593/14k16</idno>
+            <idno type="ark" n="sc11-1_005">http://pid.emory.edu/ark:/25593/14k2b</idno>
+            <idno type="ark" n="sc11-1_006">http://pid.emory.edu/ark:/25593/14k3g</idno>
+            <idno type="ark" n="sc11-1_007">http://pid.emory.edu/ark:/25593/14k4m</idno>
+            <idno type="ark" n="sc11-1_008">http://pid.emory.edu/ark:/25593/14k5r</idno>
+            <availability>
           <p id="sc11-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +31,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +39,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 11</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1989-01">January-February 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc11-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +55,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc11-1_1203">
     <body id="sc11-1_1202">
@@ -76,7 +82,7 @@ Changes.</title>  Volume 11, Number 1, <date value="1989-01">1989</date></p>
           <byline>By 
             <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jzt</idno></bibl>
+          
           <p id="sc11-1_104">My wife looked sternly across the dinner table one night recently
 and quietly reminded me of the flak I received 12 years ago from
 certain blacks and whites concerning the lawsuit that brought forth
@@ -132,7 +138,7 @@ writer.</p>
 Collins </head>
           <byline>By <docAuthor><name reg="Griffin, John" type="person">John Griffin </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 17-21, 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k02</idno></bibl>
+          
           <p id="sc11-1_1016">EDITOR'S NOTE: At the 1988 Annual Meeting, held in
 Atlanta in November, Leroy Collins of Florida and Margaret Walker
 Alexander of Mississippi were honored as Life Fellows of the Southern
@@ -697,7 +703,7 @@ Confederate Flag</head>
           <byline>By 
             <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 13, 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k16</idno></bibl>
+          
           <p id="sc11-1_1090"><corr resp="encoder">[Editor's Note:]</corr>On February 2,
 1988, fourteen black legislators were arrested in Alabama as they
 symbolically attempted to scale a fence to remove from the dome of the
@@ -809,7 +815,7 @@ Tuskegee University.</p>
           <head>Change Through Education </head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 1-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k2b</idno></bibl>
+          
           <p id="sc11-1_10102">EDITOR'S NOTE: "Change Through Education" was the 
 theme of the 1988 Annual
 Meeting of the Southern Regional Council, held in November in
@@ -1225,7 +1231,7 @@ ought to go about it. </p>
 Offending </head>
           <byline>By <docAuthor><name reg="Perry, Jack" type="person">Jack Perry </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k3g</idno></bibl>
+          
           <p id="sc11-1_10154">What does the Confederate flag mean?</p>
           <p id="sc11-1_10155">In asking the question, I have in mind that some black
 representatives are objecting to the flying of the Confederate flag
@@ -1338,7 +1344,7 @@ in the <title>Charlotte Observer</title>.</p>
           <head>Flag Waving Down South: Searching History for Solutions</head>
           <byline>By <docAuthor><name reg="Thurmond, Michael L." type="person">Michael L. Thurmond </name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k4m</idno></bibl>
+          
           <p id="sc11-1_10176">In the controversy surrounding proposals to remove the Confederate
 battle emblem from the Georgia state flag, one impression stands above
 all else: Most of the arguments on both sides are based on historical
@@ -1442,7 +1448,7 @@ History.</title></p>
           <head>Flag Waving Down South. How Long?: Battling an 'Inappropriate Display' </head>
           <byline>By <docAuthor><name reg="Shinhoster, Earl T." type="person">Earl T. Shinhoster</name></docAuthor></byline>
           <docDate value="1989-01">Vol. 11, No. 1, 1989, pp. 12-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k5r</idno></bibl>
+          
           <p id="sc11-1_10194"><corr resp="encoder">[Editor's Note:]</corr>On February 2, 1988, fourteen black legislators were arrested in Alabama as they symbolically attempted to scale a fence to remove from the dome of the state capitol the Confederate flag which flies there. The resulting misdemeanor convictions are being appealed, but the incident brought into focus renewed efforts to remove symbols of slavery and segregation from public places. In the essays below, various Southerners speak their minds about the meaning and significance of this controversial symbol.</p>
           <p id="sc11-1_10195">The Confederacy lives in the hearts and minds of the people of the Southland and the United States of America. Symbols are hard to die and harder still to demystify. In March 1987, the delegates to the Southeast Region NAACP Leadership Conference, meeting in Greenville, S.C., passed a resolution calling for the removal of the Confederate battle flags that fly atop state capitol buildings in Alabama and South Carolina and the removal of the Confederate battle flag from the official state flags in Mississippi and Georgia. The NAACP views the continued present display and misuse of the Confederate battle flag as an act of defiance and resistance of a defeated cause and vanquished philosophy. This symbol, the captured Confederate battle flag, is said to be the symbol of a people who fought against tyranny and for independence. That it represents the heritage and culture of the Southland and flies today as a tribute and memorial to those who sacrificed their lives for a cause. Indeed, the War of Rebellion--the Civil War between 1861-1865, was nothing short of America's own holocaust. Over 600,000 men in gray and blue gave their lives. One of every four Southern white males between the ages of 18 and 40 died.</p>
           <p id="sc11-1_10196">Historians disagree over the causes of secession and the war. Some suggest that the war was fought over the issue of Southern independence from a tyrannical majority, while others suggest that the issue was preservation of the Union. Regardless, the question of African slavery and the economic advantages and disadvantages created by the "peculiar institution" is interwoven into any full discussion of the war's causes. In fact, the course of the war was greatly affected by the presence and role of the African slaves and free Africans in the South and North.</p>

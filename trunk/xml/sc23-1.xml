@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc23-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc23-1_1204">
   <teiHeader id="sc23-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc23-1_002">http://pid.emory.edu/ark:/25593/1532z</idno>
+            <idno type="ark" n="sc23-1_004">http://pid.emory.edu/ark:/25593/15333</idno>
+            <idno type="ark" n="sc23-1_006">http://pid.emory.edu/ark:/25593/15347</idno>
+            <idno type="ark" n="sc23-1_007">http://pid.emory.edu/ark:/25593/1535c</idno>
+            <idno type="ark" n="sc23-1_008">http://pid.emory.edu/ark:/25593/1536h</idno>
+            <idno type="ark" n="sc23-1_009">http://pid.emory.edu/ark:/25593/1537n</idno>
+            <availability>
           <p id="sc23-1_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,22 +38,21 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 23</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="2001-03">Spring 2001</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc23-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
     <profileDesc>
       <langUsage id="es">
         <p id="sc23-1_103">Articles in Spanish are identified at the
       div level with a lang attribute.</p>
       </langUsage>
     </profileDesc>
-    <revisionDesc>
-      <change>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -60,8 +60,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -69,7 +68,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc23-1_1203">
     <body id="sc23-1_1202">
@@ -81,7 +86,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <byline>Edited by<docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot
 Sullivan</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 3-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1532z</idno></bibl>
+          
           <p id="sc23-1_105">In an unprecedented move this past November, the Roman Catholic bishops of the Southern United States released a pastoral statement on workplace justice issues. <title>Voices and Choices</title> studies the poultry industry to highlight the plight of "our brothers and sisters whose work exacts an intolerable personal and community cost." The project took two years and involved hundreds of people, from poultry processing workers and managers to labor and church officials.</p>
           <p id="sc23-1_106">Representing the immigration and language issues affecting the poultry industry, <title>Voices and Choices</title> is published in English and Spanish in the same binding. Endorsed by forty-one bishops from Virginia to Texas, it uses scripture and Catholic social teaching to assess the real price of our heaped plates of fried chicken. It includes statistics as well as stories of the workers (with their names changed) whose lives shape the labor and occupational health issues.</p>
           <p id="sc23-1_107">But <title>Voices and Choices</title> is not just about one contemporary industry:</p>
@@ -207,7 +212,7 @@ in the poultry industry.</p>
 Industria  Av&#xED;cola</head>
           <byline>Edited by <docAuthor><name reg="Sullivan, Susan Stevenot" type="person">Susan Stevenot Sullivan</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 8-12, 26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/15333</idno></bibl>
+          
           <p id="sc23-1_1057">En una movida sin precedente, el Noviembre pasado, los Obispos Cat&#xF3;licos Romanos del Sur de los Estados Unidos pusieron en circulaci&#xF3;n una declaraci&#xF3;n pastoral sobre temas injustas en el trabajo. <title>Voces y Opciones</title> estudio la industria av&#xED;cola para exponer el dilema de "nuestros hermanos y hermanas cuyo trabajo exige un costo personal y comunitario inaceptable."  El proyecto se llevo a cabo durante dos a&#xF1;os y involucro cientos de personas, desde trabajadores y gerentes de procesadoras av&#xED;colas a oficiales de labor y oficiales de la Iglesia. Representando los temas de inmigraci&#xF3;n y de lenguaje que afectan la industria av&#xED;cola, <title>Voces y Opciones</title> es publicada en Ingles y en Espa&#xF1;ol en el mismo libro. Respaldado por cuarenta y uno obispos desde Virginia hasta Texas, usa las escrituras y ense&#xF1;anzas social Cat&#xF3;licas para determinar el precio verdadero de nuestros platos amontonados con pollo frito. </p>
           <p id="sc23-1_1058">Incluye estad&#xED;sticas y historias de los trabajadores (con los nombres cambiados) cuyas vidas moldean los temas de ocupaci&#xF3;n y de la salud. Pero <title>Voces y Opciones</title> no es nada mas de una industria contemporada:</p>
           <p id="sc23-1_1059">"Aunque esta carta se centrara en la  falta de 'voz y opci&#xF3;n' para muchos de nuestros hermanos y hermanas que trabajan en la industria av&#xED;cola, esto no significa que se&#xF1;alemos este productivo mercado como caso &#xFA;nico. Usamos la industria av&#xED;cola como un ejemplo entre otros negocios, como agricultura y fabricaci&#xF3;n, los cuales comparten los mismos desaf&#xED;os, ya sea fabricando muebles, cosechando verduras, o criando  ganado bajo contrato."</p>
@@ -364,7 +369,7 @@ trabajadores de la industria av&#xED;cola.</p>
             </docAuthor>
           </byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 13-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/15347</idno></bibl>
+          
           <p id="sc23-1_10107">Following the 2000 election debacle in which the shortcomings of the Florida election system came under national negative scrutiny, the SRC conducted a study of 2000 election results in Georgia. The SRC study, based on data from the Georgia Secretary of State's office,  yielded fresh evidence of racial disparities in Georgia's voting systems. The findings of the SRC study and the Georgia Secretary of State Cathy Cox's report, entitled The 2000 Election: A Wake Up Call for Reform and Change led to the passage of a comprehensive election reform package (SB 213) that will mark a critical step to address the serious shortcomings of election systems in Georgia. The bill was signed into law by Governor Roy Barnes on April 18, 2001.</p>
           <p id="sc23-1_10108">The SRC study found substantial differences in the rates of effectiveness of voting machinery used in Georgia counties. The optical scanning technology, used in sixty-six counties, resulted in 2.72 percent of votes cast being discarded as uncounted votes. The lever system, used in seventy-four counties, was less reliable, with a 3.98 percent rate of uncounted votes. The punch card system, used in seventeen of Georgia's counties by 30.5 percent of Georgia voters, performed least effectively, with 4.67 percent of the ballots registering as uncounted votes. Georgia had a higher rate of uncounted votes than Florida. Statewide, the average rate of uncounted votes was 3.51 percent, worse than the rate for the state of Florida (2.9 percent) and much worse than the national undercount rate (1.9 percent).</p>
           <p id="sc23-1_10109">The SRC study found that the deficiencies of the punch card system had a disproportionate impact on Georgia's African-American voters who were almost two times more likely than white voters to live in counties using that most error-prone system. Almost half (46.23 percent)of Georgia's black voters live in punch card counties while less than one-quarter (24.73 percent) of Georgia's white voters live in punch card counties. Conversely, white voters in Georgia were 1.5 times more likely than black voters to use optical scanning equipment, which is least likely to yield uncounted votes. Fifty-seven percent of Georgia's white voters use optical scanning equipment compared to 36.5 percent of Georgia's black voters.</p>
@@ -383,7 +388,7 @@ for Policy Alternatives's website at: www.cfpa.org.</p>
           <head>Could the Death Penalty Die in Virginia?<lb/>Opportunities for Activism</head>
           <byline>By <docAuthor><name reg="Torian, Sarah E." type="person">Sarah E. Torian</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1535c</idno></bibl>
+          
           <p id="sc23-1_10113">Say the words "death penalty" these days and many people will automatically think of Texas. As then-Governor George W. Bush ran for President last year, the state's death penalty system and its record-setting 154 executions in the five years under Bush received a great deal of media attention. Many people would be surprised to learn, however, that, when state population is taken into consideration, the state of Virginia leads the nation in the rate of executions. Not only does Virginia, with eighty-two executions since it reinstated the death penalty in 1977, execute its citizens at a higher rate than any other state, but it also has the most limiting appeals process of any state. As Columbia law professor James Liebman explains, "When it comes to getting and keeping death sentences, the planets are just really aligned over Virginia."</p>
           <p id="sc23-1_10114">But, even in Virginia, growing public doubt of the infallibility and effectiveness of the death penalty system is beginning to show. The 2001 state legislative session marked a clear shift in the attitude of legislators regarding death penalty policies. "There was a dramatic difference this year," says Kent Willis, executive director of the Virginia ACLU which released a report on the injustices of the state's capital punishment system in April 2000. In the past five years there were proposals to add twenty-six additional capital offenses to the state law books--nine of which passed. The 2001 legislative session marked a significant change from that death penalty expansionism. In addition to a proposal to abolish the state's death penalty system completely, there were four proposals to place a moratorium on executions, and six proposals to ease the appeals and defense process for accused people--including a bill to cover DNA testing for anyone who has a life sentence. That bill was co-sponsored by ninety-six of one hundred delegates and thirty-six of forty senators. "For years, death penalty opponents have had to fight to prevent further expansion of the death penalty," explains Willis. "This year, the legislators moved from expansion to moratorium!" </p>
           <p id="sc23-1_10115" rend="center">
@@ -422,7 +427,7 @@ for Policy Alternatives's website at: www.cfpa.org.</p>
             </docAuthor>
           </byline>
           <docDate value="2001-03">Vol. 23, No. 1, 2001 pp. 17-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1536h</idno></bibl>
+          
           <p id="sc23-1_10132" rend="italic">Each year the Southern Regional Council hosts the Annual Lillian Smith Book Awards in honor of the most liberal and outspoken of white mid-twentieth century Southern writers. In works such as Strange Fruit and Killers of the Dream, Lillian Smith wrote boldly on issues of social and racial justice, calling persistently for an end to segregation. The Awards honor those authors who, through their writing, carry on Smith's legacy of illuminating the condition of racial and social inequity and proposing a vision of justice and human understanding. </p>
           <p id="sc23-1_10133" rend="italic">The 2000 Smith Awards honored the work of three non-fiction writers: Michael Keith Honey for Black Workers Remember: An Oral History of Segregation, Unionism, and the Freedom Struggle (Berkeley: University of California Press, 1999); Andrew Manis for A Fire You Can't Put Out: The Civil Rights Life of Birmingham's Reverend Fred Shuttlesworth (Tuscaloosa: University of Alabama Press, 1999); and Lawrence Powell for Troubled Memory: Anne Levy, the Holocaust, and David Duke's Louisiana (Chapel Hill: University of North Carolina Press, 2000). </p>
           <p id="sc23-1_10134" rend="italic">In addition to winning authors Manis and Powell,  Reverend Fred Shuttlesworth and Anne Levy were present and spoke. Following are excerpts from the Smith Awards speeches.</p>
@@ -519,7 +524,7 @@ born in 1954, the year of the <hi rend="italic">Brown v. the Board of Education<
           <head>REVIEWS</head>
           <byline>Reviewed by <docAuthor><name reg="Wehner, Pat" type="person">Pat Wehner</name></docAuthor></byline>
           <docDate value="2001-03">Vol. 23, No. 1 2001 pp. 23-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1537n</idno></bibl>
+          
           <bibl>Thomas Frank, <title>One Market Under God: Extreme Capitalism, Market Populism, and the End of Economic Democracy</title>, New York: Doubleday, 2000.</bibl>
           <p id="sc23-1_10183">I recently watched as a business school professor channeled the spirit of Henry Grady for a collection of visiting financiers, entrepreneurs, and vice presidents of marketing, important men who had braved rush hour traffic in hopes of having their warm tinglings about the "emerging markets of the global South" affirmed by a higher, or at least a tenured, authority. Like Grady, the American South's self-appointed ambassador of goodwill to the carpetbagging industrialists of the 1890s, the  professor promised that when everyone up North set aside their preconceptions and recognized the hard-working, brand merchandise-craving character of the folk, there would be no further talk about sweatshops and unions, no more agitating for labor laws, trade regulations, or environmental standards. Between sycophantic shout-outs to his visiting homeboys from Georgia Pacific and Equifax, the professor reassured us that according to figures helpfully supplied by the International Monetary Fund, standards of living were actually rising for the benighted people of Guatemala and Mexico, Thailand and Indonesia. Anyone who thought differently was out-of-touch, elitist, and quite probably racist in not permitting the world's diverse populations to exercise their universal, God-given right to be exploited. Furthermore, anyone foolish enough to hesitate now--say, to pause and wonder why all this breathless enthusing about the "new" economy sounds oddly like the squeakings of a helium abuser--was in for a shock. Corporate globalization was a done deal, a no-brainer, a slam-dunk. Gentlemen: I give you the future, with stock options.</p>
           <p id="sc23-1_10184">Though delivered with more than the usual helping of smug, there was nothing very original about this uplifting little sermon (or little sermon of uplift, any distinction being all but meaningless). One can easily find New York Times columnists riffing on the same themes any day of the week. It was somewhat more surprising to hear it spoken so confidently at a university, where critical thinking purportedly lives and thrives. And in fairness there were some stirrings of discomfort from the audience--the professor's cheering section of imported suits not withstanding. Yet the question that provoked the greatest response of the night, when everyone from the undergraduate beside me to the venture capitalists in the front row raised their hands unselfconsciously skyward, was when the professor asked, "How many people here have worked for minimum wage?"</p>

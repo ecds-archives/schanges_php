@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc07-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc07-5_1204">
   <teiHeader id="sc07-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc07-5_002">http://pid.emory.edu/ark:/25593/14cw1</idno>
+            <idno type="ark" n="sc07-5_003">http://pid.emory.edu/ark:/25593/14cx5</idno>
+            <idno type="ark" n="sc07-5_004">http://pid.emory.edu/ark:/25593/14cz9</idno>
+            <idno type="ark" n="sc07-5_005">http://pid.emory.edu/ark:/25593/14d0j</idno>
+            <idno type="ark" n="sc07-5_006">http://pid.emory.edu/ark:/25593/14d1p</idno>
+            <idno type="ark" n="sc07-5_007">http://pid.emory.edu/ark:/25593/14d2t</idno>
+            <availability>
           <p id="sc07-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +38,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 7</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1985-10">October-December 1985</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc07-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +54,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +62,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc07-5_1203">
     <body id="sc07-5_1202">
@@ -74,7 +79,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>The Attack on Voting Rights</head>
           <byline>By <docAuthor><name reg="Mcdonald, Laughlin" type="person">Laughlin Mcdonald</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 1-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cw1</idno></bibl>
+          
           <p id="sc07-5_104">The Reagan Administration continues to widen its attack on minority
 voting rights. In its latest depredation, it has filed a friend of the
 court brief with the Supreme Court arguing that the election of even a
@@ -260,7 +265,7 @@ Office of the American Civil Liberties Union.</p>
           <head>The Importance of Black Legislators</head>
           <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 3-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cx5</idno></bibl>
+          
           <p id="sc07-5_1023">The Southern state legislature, once the incarnation of
 backwardness in Southern politics, now stands to become a center for
 innovation in regional affairs. The formerly all-male, all-white,
@@ -474,7 +479,7 @@ reapportionment.</p>
           <head>Economics and a Murder Trial</head>
           <byline>By <docAuthor><name reg="Durr, Virginia" type="person">Eliza Heard (Virginia Durr)</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 14-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cz9</idno></bibl>
+          
           <p id="sc07-5_1046">The road to Hayneville and Selma (No. 80) leads to dreams of
 asphodel and honey. The old cotton fields are now meadows filled with
 slow-moving fat cattle that drift from one patch of shade to the
@@ -781,7 +786,7 @@ my father's side--and Virginia Heard--my father's mother--and I signed
             </docAuthor>
           </byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 17-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d0j</idno></bibl>
+          
           <p id="sc07-5_1084">
             <hi rend="bold">Steve Suitts:</hi>
           </p>
@@ -1064,7 +1069,7 @@ Suitts. Steve Suitts.</p>
           <head>The Origins of the Montgomery Bus Boycott</head>
           <byline>By <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, pp. 21-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d1p</idno></bibl>
+          
           <p id="sc07-5_10142">Jo Ann Gibson Robinson moved to Montgomery, Alabama, in the late
 summer of 1949 to join the English Department at all-black Alabama
 State College. A thirty-three year old native of Culloden, Georgia,
@@ -1620,7 +1625,7 @@ in the fall of l986.</p>
 Beacon Press, 1985. 248 pp. $21.95.</head>
           <byline>Reviewed by <docAuthor><name reg="Heyward, Carter" type="person">Carter Heyward</name></docAuthor></byline>
           <docDate value="1985-10">Vol. 7, No. 5, 1985, 29-30, 32</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d2t</idno></bibl>
+          
           <p id="sc07-5_10211">Among feminist theologians, the name Nelle Morton conjures up
 images of courage, intelligence, and friendship. Morton was the first
 (and for years only) woman on the faculty of the Theological School of

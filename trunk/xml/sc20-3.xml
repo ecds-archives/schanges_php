@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc20-3_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc20-3_1204">
   <teiHeader id="sc20-31201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,32 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc20-3_003">http://pid.emory.edu/ark:/25593/14xxt</idno>
+            <idno type="ark" n="sc20-3_004">http://pid.emory.edu/ark:/25593/14xzz</idno>
+            <idno type="ark" n="sc20-3_005">http://pid.emory.edu/ark:/25593/14z06</idno>
+            <idno type="ark" n="sc20-3_006">http://pid.emory.edu/ark:/25593/14z1b</idno>
+            <idno type="ark" n="sc20-3_007">http://pid.emory.edu/ark:/25593/14z2g</idno>
+            <idno type="ark" n="sc20-3_008">http://pid.emory.edu/ark:/25593/14z3m</idno>
+            <idno type="ark" n="sc20-3_009">http://pid.emory.edu/ark:/25593/14z4r</idno>
+            <idno type="ark" n="sc20-3_0010">http://pid.emory.edu/ark:/25593/14z5w</idno>
+            <idno type="ark" n="sc20-3_011">http://pid.emory.edu/ark:/25593/14z61</idno>
+            <idno type="ark" n="sc20-3_035">http://pid.emory.edu/ark:/25593/14z75</idno>
+            <idno type="ark" n="sc20-3_012">http://pid.emory.edu/ark:/25593/14z89</idno>
+            <idno type="ark" n="sc20-3_013">http://pid.emory.edu/ark:/25593/14z9f</idno>
+            <idno type="ark" n="sc20-3_014">http://pid.emory.edu/ark:/25593/14zbk</idno>
+            <idno type="ark" n="sc20-3_015">http://pid.emory.edu/ark:/25593/14zcq</idno>
+            <availability>
           <p id="sc20-3_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +42,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1998-09">1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc20-3_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +63,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc20-3_1203">
     <body id="sc20-3_1202">
@@ -68,7 +81,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>The "New" Disfranchisement</head>
           <byline>By <docAuthor><name reg="Hagens, Winnett" type="person">Winnett Hagens</name> and <name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xxt</idno></bibl>
+          
           <p id="sc20-3_104">Because the core premise of a democratic society is that legitimate rule is based on the consent of the governed, the linchpin of our democratic order is fair representation. And fair representation begins with access to the ballot. In an intentionally democratic system like ours, rules about who is allowed to vote inevitably affect who gets what. </p>
           <p id="sc20-3_105">In American history, outright disfranchisement has been one of the
 most common tactics employed by propertied interests seeking to
@@ -113,7 +126,7 @@ Lichtman shares his predictions of <pb id="sc20-3_1011" n="4"/>expanded Republic
           <head>The Midterm Elections in the South: Another Democratic Slide?</head>
           <byline>By <docAuthor><name reg="Lichtman, Allan J." type="person">Allan J. Lichtman</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 4-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xzz</idno></bibl>
+          
           <p id="sc20-3_1018">The notion that Bill Clinton saved the Democratic party by moving it from the left to the center of the political spectrum is another convenient theory exploded by inconvenient facts.  During the Clinton years  Democrats have suffered the worst drubbing at the polls since  World War I.</p>
           <p id="sc20-3_1019">Democrats have lost control of both houses of Congress and of numerous state house and senate chambers. Since 1990, the number of Democratic governors has declined from twenty-nine to sixteen. Of the ten largest states, only Florida and North Carolina still have Democratic governors.</p>
           <p id="sc20-3_1020">Nowhere has the decline of the Democratic party been more evident than in the once solidly Democratic South. Today, Democrats control a minority of U.S. House and Senate seats and governors' mansions in the South.</p>
@@ -147,7 +160,7 @@ public.</p>
           <head>When A Black Face Turns Away White Votes...</head>
           <byline>By <docAuthor><name reg="Reeves, Keith" type="person">Keith Reeves</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 6-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z06</idno></bibl>
+          
           <p id="sc20-3_1033">In the wake of the Supreme Court's flawed but significant rulings on race-based districting, two central questions remain: What happens when a black face turns away white votes and can blacks be elected from settings where whites comprise a majority of the population? With the Court's developing jurisprudence of racial gerrymandering, racial pluralism in Congress has been dealt a signifcant blow.</p>
           <p id="sc20-3_1034">In the entire checkered history of this country, only nine blacks have ever won election to the U.S. Congress from election districts where whites were overwhelmingly in the majority. Following the 1990 reapportionment, black congresspersons were elected from Florida for the first time ever, and from Alabama, North Carolina, South Carolina, and Virginia for the first time in more than a century. </p>
           <p id="sc20-3_1035">One of those riding the crest of political change in 1992 was Louisiana's Cleo Fields, the twenty-nine year-old state senator from Baton Rouge. With prodding from the Department of Justice, the state legislature interpreted the 1982 proviso to the Voting Rights Act to mean that "where a majority-black district could be created, one must be created." Thus, to gain approval of its reapportionment plan, it carved out the district from which Fields was elected. Of seven congressional districts, Louisiana now had two that were predominantly black-the Second and the Fourth. William Jefferson's geographically compact Second District in the New Orleans region was relatively easy to configure(see  map). By stark contrast, Field's widely dispersed district, the "'Z' with drips" district stretched from the northwestern city of Shreveport to his home base of Baton Rouge.</p>
@@ -185,7 +198,7 @@ remedy the problem of black voters' disfranchisement. And to a great extent, the
           <head>Redistricting at the Millennium</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 8-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z1b</idno></bibl>
+          
           <p id="sc20-3_1053">As we await the 2000 census that will trigger another round of
 redistricting at the congressional, state, and local levels, the
 U.S. Supreme Court has laid down a minefield of problems. In a series of 5-4 decisions, beginning with <hi rend="italic">Shaw v. Reno</hi> in 1993 (which has caused the destruction of majority black and Hispanic congressional districts in Georgia, North Carolina, Texas, Florida, Virginia, Louisiana, and New York), the Court has made redistricting not only racially unfair but nearly unmanageable. It has also created an elaborate set of special rules that can only be described as affirmative action for white voters, allowing them to challenge majority-minority election districts. The Justices who dissented in the <hi rend="italic">Shaw</hi> line of cases have correctly noted that the Court's new standards are "unworkable" (Breyer and Souter), lack "a definable constitutional core" (Stevens), "render redistricting perilous work for state legislatures" (Ginsburg), and "place at a disadvantage the very group,  African Americans, whom the Civil War Amendments sought to help" (Breyer).</p>
@@ -235,7 +248,7 @@ misguided <hi rend="italic">Shaw</hi> cases. They have created subjective and un
           <head>Who Pays for Election Campaigns?</head>
           <byline>By <docAuthor><name reg="Kehler, Randy" type="person">Randy Kehler</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 10-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z2g</idno></bibl>
+          
           <p id="sc20-3_1070">Anyone who stops to think about  how we Americans finance election campaigns  knows that this process makes a mockery of our democratic ideals and betrays the principles of political equality and "one person, one vote."  It's a matter of common sense that in politics as in everything else, those who "pay the piper" will always "call the tune."  And it will remain that way until we make that process fair, representative, and accountable. </p>
           <p id="sc20-3_1071">So, who does pay for the process of campaigning for public office? According to a recent survey supported by the Joyce Foundation, most of the money that funds federal elections comes from those who make contributions of at least $200. That group of donors accounts for less than  one-quarter of one percent of the population. This tiny elite is incredibly  unrepresentative of average Americans: 95 percent are white and fewer than one percent identify themselves  as persons of color (even though people of color comprise nearly a quarter of the U.S. population). Eighty percent of these big donors are men, and nearly half are over the age of sixty.  Eighty-one percent have annual incomes over $100,000 (as compared to under five percent for the general population), and 20 percent of them have incomes over $500,000 (as compared to 0.29 percent for the general population).</p>
           <p id="sc20-3_1072">This "contributor class" is not just unrepresentative in their backgrounds; they are equally unrepresentative in their outlooks.  The same study found that more than half support cutting taxes even if that means reducing public services.  By a two-to-one margin, the contributor class opposes cutting defense spending and supports free trade "even if jobs are lost." And a plurality reject national health insurance and disagree with spending more to reduce poverty.  Each one of these positions is at odds with those of the general public.  With most incumbent politicians preoccupied with raising money for their re-election campaigns and willing to do the bidding of their financial backers, is it any wonder that we have a government that is more concerned about profits for weapons manufacturers and capital gains for the wealthy than about public services, jobs, and health care for everyone else?</p>
@@ -265,7 +278,7 @@ practice, democracy.</p>
 Campaign Finance as a Civil Rights Issue</head>
           <byline>By <docAuthor><name reg="Basco, Sharon" type="person">Sharon Basco</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 13-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z3m</idno></bibl>
+          
           <p id="sc20-3_1086">Throughout United States history, the right to vote has been defined, expanded, contracted, and refined. Textbooks call voting "the most elemental form of democratic participation." So why, then, at the close of a century that has seen hard-fought, persistent campaigns to win and ensure the right to vote, do so few people choose to participate? One hundred years ago, 80 percent of registered voters went to the polls; today,only one-third vote in Congressional elections, and fewer than half in Presidential races.</p>
           <p id="sc20-3_1087">Why the apathy? Here are the two most  common answers: (1)My vote doesn't matter; (2) The candidates are pretty much all the same.</p>
           <p id="sc20-3_1088">Let's examine those two simple notions. On the "vote doesn't matter" ledger, we can consult one of America's most famous non-voters, Roger Tamraz. He's the multimillionaire businessman who startled U.S. Senators last fall by sharing with them his experience that money buys access in politics, and big money buys big access.</p>
@@ -327,7 +340,7 @@ the <hi rend="italic">Massey</hi> case will help change the system. He's the per
           <head>Getting Money Out of Politics</head>
           <byline>Interviewed by <docAuthor><name reg="Spears,         Ellen" type="person">Ellen Spears</name> and <name reg="Hagens, Winnett" type="person">Winnett Hagens</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 16-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z4r</idno></bibl>
+          
           <p id="sc20-3_10114" rend="italic">Veteran activsts in Alabama, North Carolina, and
 Louisiana who have been involved in local and state campaigns speak
 out about efforts to remove the corrupting influence of money in
@@ -587,7 +600,7 @@ Democracy Project in Baton Rouge. She ran for city council in 1992.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 p. 21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z5w</idno></bibl>
+          
           <list>
             <head>Alabama</head>
             <item><hi rend="bold">Greater Birmingham Ministries</hi><lb/>
@@ -728,7 +741,7 @@ Email gzucketto@wnpb.wvnet.edu</item>
           <head>Monopoly Politics, Southern-Style</head>
           <byline>By <docAuthor><name reg="Richie, Rob" type="person">Rob Richie</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 23-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z61</idno></bibl>
+          
           <p id="sc20-3_10163">Just who decides legislative elections in the United States? The voters cast ballots, but most Americans, most of the time, experience "no choice" legislative elections. They live in political monopolies that essentially are one-party fiefdoms created in redistricting to produce exactly such lopsided results. With voter turnout shrinking to one of the world's lowest levels-a 1997 study ranked the United States 103rd in voter turnout among 131 democracies in national elections since World War II-and with alienation from the political process increasing rapidly, particularly among the young, it is high time to consider changing the rules that create and sustain these political monopolies.</p>
           <p id="sc20-3_10164">Although the South's politics have undergone dramatic changes in recent decades, the region still provides the nation's most damning evidence of non-competitive elections and their impact on voter turnout. In 1996, every state in the region ranked among the bottom twenty in voter turnout in U.S. House elections. Of the Southern states, only Arkansas finished among the top twenty in competitive congressional House races (as measured by average victory margins). Six of the seven Southern states with partisan state legislative elections finished among the bottom ten states in the uncontested races, with more than half of races having only one major party candidate.</p>
           <p id="sc20-3_10165">Turnout and competitiveness are even lower in mid-term elections. In 1994, eight Southern states were among the nine lowest in the nation in voter turnout. No Southern state that year had more than 55 percent of its state legislative seats contested by both major parties, with four states having more than three in five state legislative races won without contest. Turnout in 1998 promises to be even worse; nearly half of the region's U.S. House races will be uncontested. </p>
@@ -753,7 +766,7 @@ state legislative elections from 1870 to 1980 is reassuring: as the <hi rend="it
           <head>Sampling the 2000 Census</head>
           <byline>By <docAuthor><name reg="Torian, Sarah E." type="person">Sarah E. Torian</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z75</idno></bibl>
+          
           <p id="sc20-3_10179">In the upcoming months the Supreme Court will be making an
 important decision that will affect what has been termed the "most
 important civil rights issue for the remainder of the 105th
@@ -831,7 +844,7 @@ at the Southern Regional Council</p>
           <head>Criminal Disfranchisement Laws</head>
           <byline>By <docAuthor><name reg="Shinhoster, Earl" type="person">Earl Shinhoster</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 26-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z89</idno></bibl>
+          
           <p id="sc20-3_10190">Criminal disfranchishment laws-the denial of the vote to citizens convicted of crimes-have lasted over a century and have continued to deny and dilute black voting strength long after the death of other disfranchisement laws such as literacy tests, poll taxes, understanding clauses, property tests, and other racist laws and practices banned by the Voting Rights Act of 1965 (Figure 1). </p>
           <p id="sc20-3_10191">In January 1997, The Sentencing Project released a report authored by Marc Mauer entitled "Intended and Unintended Consequences: State Racial Disparities in Imprisonment." This report pointed out that one of the consequences of a felony conviction in most states is the loss of voting rights. In all except four states, inmates lose their right to vote during the time they are incarcerated. In addition, thirty-one states disfranchise offenders during the time they are on probation and/or parole, and of these, thirteen states disfranchise most felons for life (Figure 2).</p>
           <p id="sc20-3_10192">Mauer writes, "As a result of increasing numbers of offenders being supervised in the criminal justice system, we estimate that approximately 4.2 million Americans are now either currently or permanently disfranchised from voting and, of these, 1.4 millon are black males (Figure 3). Indeed, these numbers may in fact be higher."</p>
@@ -863,7 +876,7 @@ Of this number 3,087 were black males and 1,010 <pb id="sc20-3_10196" n="27"/>we
 The Redistricting Cases as Badges of Slavery</head>
           <byline>By <docAuthor><name reg="Blacksher, James U." type="person">James U. Blacksher</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 28-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14z9f</idno></bibl>
+          
           <p id="sc20-3_10206">In a half dozen cases decided over the last three terms, beginning
 with <hi rend="italic">Shaw v. Reno</hi> (1993) and, most recently,
 <hi rend="italic">Abrams v. Johnson</hi> (1997), the Supreme Court has held that congressional districts in North Carolina, Texas, and Georgia, drawn for the predominant purpose of producing black voter majorities, violated the Fourteenth Amendment. </p>
@@ -924,7 +937,7 @@ the judge-made desegregation and one-person, one-vote constitutional principles 
           <head>BOOKS: The Culture of Whiteness</head>
           <byline>Reviewed by <docAuthor><name reg="Ownby, Ted" type="person">Ted Ownby</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 31-32</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zbk</idno></bibl>
+          
           <bibl>Grace Elizabeth Hale, <title>Making Whiteness: The Culture of
 Segregation in the South, 1890-1940</title>, New York: Pantheon
 Books, 1998.</bibl>
@@ -965,7 +978,7 @@ Studies at the University of Mississippi.</p>
           <head>The Origins of Inequality</head>
           <byline>Reviewed by <docAuthor><name reg="Hagens, Winnett" type="person">Winnett Hagens</name></docAuthor></byline>
           <docDate value="1998-09">Vol. 20, No. 3, 1998 pp. 32-33</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zcq</idno></bibl>
+          
           <bibl>Claude S. Fischer, Michael Hout, Martin Sanchez Jankowski,
 Samuel R. Lucas, Ann Swindler, and Kim Voss, Department of Sociology,
 University of California, Berkeley, <title>Inequality by Design:

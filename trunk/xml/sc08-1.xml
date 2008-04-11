@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc08-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc08-1_1204">
   <teiHeader id="sc08-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,18 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc08-1_002">http://pid.emory.edu/ark:/25593/14d3z</idno>
+            <idno type="ark" n="sc08-1_003">http://pid.emory.edu/ark:/25593/14d43</idno>
+            <idno type="ark" n="sc08-1_004">http://pid.emory.edu/ark:/25593/14d57</idno>
+            <idno type="ark" n="sc08-1_005">http://pid.emory.edu/ark:/25593/14d6c</idno>
+            <idno type="ark" n="sc08-1_006">http://pid.emory.edu/ark:/25593/14d7h</idno>
+            <availability>
           <p id="sc08-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +29,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +37,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 8</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1986-02">February-March 1986</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc08-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +53,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +61,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc08-1_1203">
     <body id="sc08-1_1202">
@@ -77,7 +81,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 North Carolina Press, 1985.</head>
           <byline>Reviewed by <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d3z</idno></bibl>
+          
           <p id="sc08-1_104">The term "liberal" often obscures more than it explains. The
 adjective "southern" is certain to add to the confusion.</p>
           <p id="sc08-1_105">There is an implicit assumption that "southern liberal" means white
@@ -277,7 +281,7 @@ Virginia.</p>
           <head>Women and Children in Poverty </head>
           <byline>By <docAuthor><name reg="Pearce, Diana" type="person">Diana Pearce</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986 pp. 1-2, 16-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d43</idno></bibl>
+          
           <p id="sc08-1_1018">
             <hi rend="italic">Two out of three adults in poverty today are
 women. Three-fourths of America's more than 34 million poor consist of
@@ -681,7 +685,7 @@ desegregation, including serving as an expert witness in the Yonkers
           <head>American Poverty, World Poverty</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 3-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d57</idno></bibl>
+          
           <p id="sc08-1_1089">For poor people in this country, and in the world, the outlook is
 not good. And because the lives of the poor are joined together with
 ours, their problems and poverty are ours-directly and indirectly, in
@@ -1042,7 +1046,7 @@ and is  vice-president of the Southern Regional Council.</p>
           <head>Casualty Count.  The War Against the Poor</head>
           <byline>By <docAuthor><name reg="Greenstein, Robert" type="person">Robert Greenstein</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No. 1, 1986, pp. 7-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d6c</idno></bibl>
+          
           <p id="sc08-1_10162">If you look at the statistics of American poverty today, one
 set--the figures for children's poverty--hits you over the
 head. Fifteen years ago the child poverty rate was between thirteen
@@ -1253,7 +1257,7 @@ Council.</p>
           <head><title>In Country,</title> a novel by Bobbie Ann Mason. Harper &amp;Row 247 pp. $15.95</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1986-02">Vol. 8, No.1, 1986, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14d7h</idno></bibl>
+          
           <p id="sc08-1_10203">The tumultuous decade of the 1960s still hovers over us like a
 great gray cloud, a mighty shadow of lingering hope and despair and
 wonder. We look back now with amazement bordering on disbelief at the

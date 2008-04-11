@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc02-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc02-1_1204">
   <teiHeader id="sc02-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc02-1_002">http://pid.emory.edu/ark:/25593/143gj</idno>
+            <idno type="ark" n="sc02-1_003">http://pid.emory.edu/ark:/25593/143hp</idno>
+            <idno type="ark" n="sc02-1_004">http://pid.emory.edu/ark:/25593/143jt</idno>
+            <idno type="ark" n="sc02-1_005">http://pid.emory.edu/ark:/25593/143kz</idno>
+            <idno type="ark" n="sc02-1_006">http://pid.emory.edu/ark:/25593/143m3</idno>
+            <idno type="ark" n="sc02-1_007">http://pid.emory.edu/ark:/25593/143n7</idno>
+            <idno type="ark" n="sc02-1_008">http://pid.emory.edu/ark:/25593/143pc</idno>
+            <idno type="ark" n="sc02-1_009">http://pid.emory.edu/ark:/25593/143qh</idno>
+            <availability>
           <p id="sc02-1_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1979-09">September 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc02-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc02-1_1203">
     <body id="sc02-1_1202">
@@ -74,7 +81,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>In this Issue</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143gj</idno></bibl>
+          
           <p id="sc02-1_104">This issue brings <hi rend="italic">Southern Changes</hi> full
 circle with its first anniversary. Because it has matured in format,
 and we hope, coverage of events and issues, the magazine has been
@@ -112,7 +119,7 @@ which make living in the South exciting and worrisome."</p>
           <head>The South's Economic Future</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143hp</idno></bibl>
+          
           <p id="sc02-1_1010">Southern state development leaders prefer low-wage industries and
 anti-union laws as the primary thrust for the future economic growth
 in the region, according to a survey released by the Southern Regional
@@ -213,7 +220,7 @@ each.
           <head>The Black Agenda For The 1980s</head>
           <byline>By <docAuthor><name reg="Jordan, Vernon" type="person">Vernon Jordan</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 5-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143jt</idno></bibl>
+          
           <p id="sc02-1_1025"><hi rend="bold">Publisher's Note:</hi> <hi rend="italic">On July 22nd, National Urban League President Vernon Jordan delivered the keynote address at the organization's annual conference. Most news accounts closely covered the portions of Jordan's speech on the coming Presidential campaign where he stated, "the Black strategy should be to hang loose and make the candidates come to us. No one can win without the Black vote. " His remarks on the status of race relations and the agenda for Blacks in the 1980S deserve much more circulation than they have yet received.</hi></p>
           <p id="sc02-1_1026">
             <hi rend="italic">Adopted from his speech, this article is the thinking and perspective of one of the country's leading Blacks, a native Southerner, and a former staff member of the Southern Regional Council.</hi>
@@ -304,7 +311,7 @@ faith in itself.</p>
           <head>Preparing Women For Engineering Technology</head>
           <byline>By <docAuthor><name reg="Hoffius, Steve" type="person">Steve Hoffius</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143kz</idno></bibl>
+          
           <p id="sc02-1_1082">Katherine Prior is a nurse, a long-time nurse. For 18 years she has worked at hospitals in the Carolinas, returned to classes for more education, and now is a licensed, practical nurse. She has never made more than $4.10 an hour.</p>
           <p id="sc02-1_1083">She's tired of it.</p>
           <p id="sc02-1_1084">Now, on a morning when she is scheduled for night work, she looks a little uncomfortable. She stands in an air conditioning and refrigeration workshop at Trident Technical College in Charleston, S.C., wearing protective goggles and holding an acetylene torch. Hesitantly, she moves the torch around two joined pieces of copper tubing, turning them a cherry red, and melts silver solder between them. She takes off her goggles and squints to see how she did. A little too much solder, says the instructor, but a good job. She has just soldered her first tube, and puts it aside carefully, beaming with pride. "I want to show my husband," she says. "He won't believe it."</p>
@@ -358,7 +365,7 @@ is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff 
           <head>Harris Neck Battles U.S. Government</head>
           <byline>By <docAuthor><name reg="Chini" type="person">Chini</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 14-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143m3</idno></bibl>
+          
           <p id="sc02-1_10108">For the people of a tiny fishing and farming community located on Georgia's rich Atlantic coast, standing up to the Klan and going to jail are but small prices to pay in their 37-year struggle with the United States government for reclamation of their community.</p>
           <p id="sc02-1_10109">Taken in 1942 by the federal government for the World War II campaign, the 2,687 acres of land known as the Harris Neck community provided an economic base for 75 to 95 Black families.</p>
           <p id="sc02-1_10110">Located 40 miles south of Savannah, Georgia, this plenteous tidal basin, intersected by three navigable rivers, is a natural bed for oysters, crabs, shrimp and clams. The topsoil of the area is a fecund mixture of black dirt and white sand.</p>
@@ -412,7 +419,7 @@ Chini is a member of the Southern Collective of African-American Writers.</p>
           <head>The Continuing Saga of the KKK</head>
           <byline>By <docAuthor><name reg="Gallman, Vanessa J." type="person">Vanessa J. Gallman</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 18-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143n7</idno></bibl>
+          
           <p id="sc02-1_10142">
             <hi rend="bold">Publisher's Note:</hi>
             <hi rend="italic"> The Ku Klux Klan traced the famous "Selma to Montgomery" march last month. While predicting a group of 2,000, the Klan leaders had fewer than sixty followers on US. highway 80; none the less, KKK related violence has grown over the past year without strong opposition from local authorities. In fact there has been only one recent prosecution of misconduct relating to Klan violence in the South - and then only by a federal prosecutor. This article by a Black editor of the Charlotte Observer looks at the Klan's activities and their meaning for present race relations.</hi>
@@ -466,7 +473,7 @@ with the Klan mentality, it's difficult to see an immediate reversal of the Klan
           <head>Southern Politics</head>
           <byline>By <docAuthor><name reg="Mullen, Patric" type="person">Patric Mullen</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143pc</idno></bibl>
+          
           <p id="sc02-1_10174">By most press accounts the 1979 session of the North Carolina General Assembly was lack luster, if not dull. While North Carolina's deliberative body met for 108 legislative days and considered 2,480 bills, which resulted in 1,077 new laws, the mood in the legislative building was decidedly anti-growth in government. Governor Hunt presented a very modest legislative program with few new initiatives. Even before the session began in early January, the President of the Senate and the Speaker of the House were both talking about adjournment at the earliest possible date.</p>
           <p id="sc02-1_10175">From the perspective of the state press, the entire session might well be characterized as a slow news day. After all, North Carolinians can only stand so much public debate on the new state rock (granite) or the new state reptile (the box turtle). Having passed the seemingly obligatory resolution calling upon the U.S. Congress to submit a constitutional amendment to the states which would require a balanced federal budget (despite the fact that one out of every four dollars in the state budget comes from the feds), the General Assembly settled down to a sessionlong debate on rewriting the state bingo laws.</p>
           <p id="sc02-1_10176">Midway through the session, having dispatched the Equal Rights
@@ -496,7 +503,7 @@ discharge; eliminate the practice of spousal deeming; relieve parents of financi
           <head>Urban and Rural Development</head>
           <byline>By <docAuthor><name reg="Moon, Harold" type="person">Harold Moon</name></docAuthor></byline>
           <docDate value="1979-09">Vol. 2, No. 1, 1979, pp. 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/143qh</idno></bibl>
+          
           <p id="sc02-1_10185">The status of equal opportunity in housing will be greatly influenced by two contrasting changes presently underway in Washington. One endangers the reporting of vital information needed to test compliance with civil rights laws and the other proposes to enlarge the enforcement effects of the government to insure fair housing.</p>
           <p id="sc02-1_10186">The first change involves the decision by the Department of Housing and Urban Development to no longer require recipients of its Community Development Block grants to submit data on race and sex in their progress reports on federally funded projects. In its effort to reduce paperwork at the request of the Office of Management and Budget, HUD has drawn heated objections from civil rights organizations because of its "abdication of the agency's responsibility" to evaluate and determine the actual equal opportunity performance of a project.</p>
           <p id="sc02-1_10187">The deletion of the Grantee Performance Report (GPR), a major document to evaluate exactly how a local community has allocated its grant funds, would deeply cripple the enforcement ability of HUD and side-step the Civil Rights Act of 1968. The GRP closely monitors and indicates by demographics if minorities and females are sharing in the fruits of the program. Although a grantee is required to comply with civil rights laws and regulations, the elimination of supportive data of race and sex will not provide HUD with sufficient information.</p>

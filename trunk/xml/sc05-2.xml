@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc05-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc05-2_1204">
   <teiHeader id="sc05-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc05-2_002">http://pid.emory.edu/ark:/25593/148cn</idno>
+            <idno type="ark" n="sc05-2_003">http://pid.emory.edu/ark:/25593/148ds</idno>
+            <idno type="ark" n="sc05-2_004">http://pid.emory.edu/ark:/25593/148fx</idno>
+            <idno type="ark" n="sc05-2_005">http://pid.emory.edu/ark:/25593/148g2</idno>
+            <idno type="ark" n="sc05-2_006">http://pid.emory.edu/ark:/25593/148h6</idno>
+            <idno type="ark" n="sc05-2_007">http://pid.emory.edu/ark:/25593/148jb</idno>
+            <availability>
           <p id="sc05-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +38,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1983-03">March-April 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc05-2_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +54,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +62,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc05-2_1203">
     <body id="sc05-2_1202">
@@ -75,7 +80,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Ethics and Equations</head>
           <byline>By <docAuthor><name reg="Paddock, Polly" type="person">Polly Paddock</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, p. 7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148cn</idno></bibl>
+          
           <p id="sc05-2_104">I was never much of a math or science student. During high school
 and college, I went to great lengths to avoid taking any courses in
 those fields beyond what was absolutely required. Why dissect a fetal
@@ -170,7 +175,7 @@ Charlotte <title>Observer.</title></p>
           <head>Money on the Mainline</head>
           <byline>By <docAuthor><name reg="Johnson, Tim" type="person">Tim Johnson</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 1-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148ds</idno></bibl>
+          
           <p id="sc05-2_1022">Bob Scherer, Chief Executive Officer and Chairman of the Board of
 the Georgia Power Company, believes that electric rates should not be
 regulated. "Regulation isn't working," he explained recently to a
@@ -570,7 +575,7 @@ an Atlanta writer and organizer.</p>
 1983.</head>
           <byline>By <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 21-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148fx</idno></bibl>
+          
           <p id="sc05-2_1092">White mistresses and their black maids have intrigued many
 generations of American writers. From the stereotypical portraits of
 the nineteenth century, to Faulkner's more individualized but
@@ -715,7 +720,7 @@ Press in December, 1982.</p>
 1982.</head>
           <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 23-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148g2</idno></bibl>
+          
           <p id="sc05-2_10104">Speaking at the University of Florida in 1962, Lillian Smith
 observed that women were only beginning "to break the million year
 silence about themselves." "Women rarely tell the truth," she said,
@@ -891,7 +896,7 @@ at the University of Alabama in Tuscaloosa.</p>
 for A Southern Strategy</head>
           <byline>By <docAuthor><name reg="Fink, Leon" type="person">Leon Fink</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 9-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148h6</idno></bibl>
+          
           <p id="sc05-2_10134">Hospitals are one of the last centers of employment in the United
 States to be touched by unionization. Efforts to organize hospital
 workers had barely begun by 1960, and by the end of that decade, few
@@ -1777,7 +1782,7 @@ of Stephen Hoffius and David J. Garrow in his research.</p>
           <head>Mississippi Makes Up Its Mind</head>
           <byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline>
           <docDate value="1983-03">Vol. 5, No. 2, 1983, pp. 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148jb</idno></bibl>
+          
           <p id="sc05-2_10226">The passage of an educational reform package by the Mississippi
 Legislature was an important victory for public involvement. Pushing
 the legislature to act on the education issue involved a broader based

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc20-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc20-2_1204">
   <teiHeader id="sc20-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,27 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc20-2_002">http://pid.emory.edu/ark:/25593/14xmk</idno>
+            <idno type="ark" n="sc20-2_003">http://pid.emory.edu/ark:/25593/14xnq</idno>
+            <idno type="ark" n="sc20-2_012">http://pid.emory.edu/ark:/25593/14xpv</idno>
+            <idno type="ark" n="sc20-2_006">http://pid.emory.edu/ark:/25593/14xq0</idno>
+            <idno type="ark" n="sc20-2_007">http://pid.emory.edu/ark:/25593/14xr4</idno>
+            <idno type="ark" n="sc20-2_008">http://pid.emory.edu/ark:/25593/14xs8</idno>
+            <idno type="ark" n="sc20-2_009">http://pid.emory.edu/ark:/25593/14xtd</idno>
+            <idno type="ark" n="sc20-2_011">http://pid.emory.edu/ark:/25593/14xvj</idno>
+            <idno type="ark" n="sc20-2_017">http://pid.emory.edu/ark:/25593/14xwp</idno>
+            <availability>
           <p id="sc20-2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +37,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1998-06">Summer 1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc20-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +58,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc20-2_1203">
     <body id="sc20-2_1202">
@@ -69,7 +77,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
  in the Global South</head>
           <byline>By <docAuthor><name reg="Smith, Barbara Ellen" type="person">Barbara Ellen Smith</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xmk</idno></bibl>
+          
           <p id="sc20-2_104">The borders of the South are collapsing. The forces of globalization are reconfiguring demographics, workplaces, and-not just in Miami or Atlanta, but in Tunica, Mississippi; Big Stone Gap, Tennessee; and Kannapolis, North Carolina.</p>
           <p id="sc20-2_105">Among the most significant of these changes regards race: increasingly, we no longer confront a singular divide between Black and white, but a multivalent complex of "new" and "old" races. People from diverse nations and cultures are relocating to the South; those from Spanish-speaking countries find themselves newly identified as "Latino," and are the fastest growing minority in many areas. Others from the many nationalities and ethnicities of Asia further diversify the racial demographics of some states, becoming "Asian American."</p>
           <p id="sc20-2_106">This is not to suggest that the historic legacy of African-American exploitation and poverty is no longer significant; quite the opposite. The new racial configurations could undermine Black voting strength and the fragile political coalitions that have been built in some areas. They threaten to inflame overt racial antagonism among white Southerners as well as Black, who see their neighborhoods and workplaces increasingly populated with new racial groups, especially Latinos. They raise difficult political questions about who should be eligible for minority set-aside programs, affirmative action, and other race-specific remedies that were designed to address African-American disfranchisement and dispossession.</p>
@@ -112,7 +120,7 @@ Lives in the South</head>
             </docAuthor>
           </byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 5-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xnq</idno></bibl>
+          
           <p id="sc20-2_1022"><hi rend="bold">Memphis, Tennessee</hi> - Despite a booming national economy and budget surpluses in fifteen Southern states (Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia) a new Children's Defense Fund report reveals that one-fourth of Southern children (5.5 million) remain poor. Half of them-2.6 million-live in extreme poverty with family incomes below half the federal poverty line. This means a family of three has to survive on cash income below $120 a week or $5.75 a person a day. </p>
           <p id="sc20-2_1023">"This is not enough to feed, clothe, house, and educate a child," said CDF President Marian Wright Edelman at an action forum on Children, Race &amp; Poverty held May 4-5 at the National Civil Rights Museum in Memphis where Dr. King was assassinated in 1968.</p>
           <p id="sc20-2_1024">"It is shameful that thirty years after Dr. King spent his final days fighting for better jobs, wages, education, and health care for children and families, child poverty rates in the South remain the same: 22.3 percent. Equally disturbing is the fact that the rest of the nation is 'catching up' with the South."</p>
@@ -206,7 +214,7 @@ crime.	</p>
             </docAuthor>
           </byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xpv</idno></bibl>
+          
           <p id="sc20-2_1064">In 1994, the state of North Carolina began construction of a seven-mile section of road in northeastern Madison County, North Carolina, that will eventually complete an Interstate highway link (I-26) between the Ohio Valley and the South Atlantic Coastal region. The completed highway will be a twenty-first century version of an ancient trans-montane corridor that possesses abiding historical significance. On the North Carolina side of the  mountains, the route joins the legendary "Drovers Road," the early nineteenth century trading path that connected Western North Carolina and East Tennessee mountains to low-country markets. </p>
           <p id="sc20-2_1065">At that time, the road followed the fabled French Broad River in a tortuous route that was subject to scouring by flood waters every few years. In the Civil War era, this region was the scene of numerous atrocities and skirmishes that characterized a complex border region at war. Located in the geographic heart of the Confederacy, the mountain farmers of western North Carolina and eastern Tennessee possessed few slaves and scant sympathies for the Southern cause. The result was a bloody war within the greater war that left indelible scars on the mountain communities.</p>
           <p id="sc20-2_1066">In the later 1800s, the region's scenic beauty attracted tourists arriving by train and stagecoach from Atlanta, Charlotte, Raleigh, and Richmond, who were as often entranced by the "otherness" of the southern mountaineers as by the scenery. Travel descriptions of the gracious hotels and rugged country north of Asheville became a popular literary genre around the turn of the century. The tourists were followed by missionary ladies and folklorists. The rural, isolated quality of these predominantly Scotch-Irish communities made the area a rich trove of traditional craft, music, and story from the settlement period to the present. Francis Goodrich, a teacher from Ohio, organized the first of many cottage industry cooperatives for mountain craftswomen at Allan's Stand along the Drovers Road in 1895. Cecil Sharpe first collected ballads in the area in 1916. He documented a folk music tradition that stretched back into eighteenth century England and continues to thrive today.</p>
@@ -219,7 +227,7 @@ crime.	</p>
           <head>Colorblind Injustice: Overcoming Shaw</head>
           <byline>By <docAuthor><name reg="Kousser, J. Morgan" type="person">J. Morgan Kousser</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 14-16, 22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xq0</idno></bibl>
+          
           <p id="sc20-2_1071">Students in history classes often confuse memorable events with important causes. Even those born long after the 1965 Selma-to-Montgomery march tend to make it the center of any discussion of the growth of post-Second World War African-American political power. It is a gripping event, featured in television documentaries, spotlighted in textbooks, easily discussed in class. There is violence, which always holds our attention; memorable protagonists, Martin Luther King, Jr., and Alabama governor George C. Wallace; a huge supporting cast, from nationwide civil rights advocates converging on Montgomery to Alabama State Troopers, Klansmen, and ordinary citizens, Black and white; a great, now consensual cause, the reenfranchisement of Black citizens illegally denied the vote for more than sixty years; a joyous climax, with King's speech before a sea of avid faces standing in streets that had witnessed the epochal bus boycott less than a decade earlier; and a triumphant denoument in Washington a few months later, with the passage of the Voting Rights Act.</p>
           <p id="sc20-2_1072">In fact, Selma was not the end of the twentieth century struggle to
 gain equal political power for minorities, but more nearly the beginning. It was not the dusk of the dark day of racism, but rather only the first light of a new era, one in which the battle had to be continued, long after the cameras and spotlights had been cleared away, in the workday activities of organizing, campaigning, litigating, and legislating against the still formidable legal and social barriers to equality. It is such subtle barriers and often overlooked or downplayed struggles, I contend in my new book, <hi rend="italic">Colorblind Injustice: Minority Voting Rights and the Undoing of the Second Reconstruction</hi>, that have primarily shaped the course of race relations in America.</p>
@@ -287,7 +295,7 @@ Selma, and this time, there was no televised confrontation to capture attention 
           <head>Voting Rights On Trial Again in Alabama</head>
           <byline>By <docAuthor><name reg="Braden, Anne" type="person">Anne Braden</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xr4</idno></bibl>
+          
           <p id="sc20-2_1096">Connie Tyree is a thirty-six-year-old single mother and grandmother in Greene County, Alabama, who cares for three children and is a volunteer community activist. In 1994, she helped 249 absentee voters cast their ballots.</p>
           <p id="sc20-2_1097">This year, Tyree cannot help anybody vote, and she cannot even vote herself. Instead, after years of community service untouched by any trouble with the law, she faces thirty-three months in prison; she was convicted in federal court in Birmingham of conspiracy to commit voter fraud. She is free now on bond, pending appeal, but a court order bars her from election activity.</p>
           <p id="sc20-2_1098">Tyree is a victim of a new attack against activists working for voting rights and fair representation for African Americans in the Alabama Black Belt. Twelve people have been indicted-eight in Greene County, and two each in Wilcox and Hale counties. These are Black-majority counties, where African Americans have won control of local governing bodies.</p>
@@ -332,7 +340,7 @@ The Mississippi Sovereignty Commission</head>
           <byline>By 
             <docAuthor><name reg="Minor, Bill" type="person">Bill Minor</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xs8</idno></bibl>
+          
           <p id="sc20-2_10124">Mississippi recently had a Grand Opening. The grand opening of what? The old state Sovereignty Commission files, of course. </p>
           <p id="sc20-2_10125">Many in the news profession have been itching to get their hands on the whole sorry mass of tomfoolery the old state segregation watchdog agency was up to during its seventeen years of existence from 1956 to 1973. </p>
           <p id="sc20-2_10126"> used to refer to it as the "KGB of the cotton patches" because of the way its agents went around spying on a lot of poor Black folks, many not long from the farm, if they bucked the system of white mastery. Of course, they also spied on some white folks as well, and doted on tracking anybody who came down from Yankee-land to "sow discord" among our happy Black folks. </p>
@@ -438,7 +446,7 @@ nation's attention to the civil rights movement, Southern injustices, and corrup
           <head>Walking the Walk</head>
           <byline>Reviewed by <docAuthor><name reg="Garrow, David J." type="person">David J. Garrow</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 23-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xtd</idno></bibl>
+          
           <p id="sc20-2_10161">John Lewis with Michael D'Orso, <hi rend="italic">Walking With the Wind: A Memoir of the Movement</hi>, New York: Simon &amp; Schuster, 1998.</p>
           <p id="sc20-2_10162">David Halberstam, <hi rend="italic">The Children</hi>, New York: Random House, 1998.</p>
           <p id="sc20-2_10163">For readers who view the modern Black freedom struggle largely
@@ -487,7 +495,7 @@ public lives of his characters is perhaps <hi rend="italic">The Children's</hi> 
 Will The Circle Be Unbroken?</head>
           <byline>Introduction by <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1998-06">Vol. 20, No. 2, 1998 pp. 26-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xvj</idno></bibl>
+          
           <p id="sc20-2_10186">"Without a doubt, this was the most impressive radio program I've
 ever heard," writes a listener from Fort Myers, Florida, about the
 Southern Regional Council's radio series <title>Will the
@@ -572,7 +580,7 @@ I  can see this program taken further with the addition of visuals
 SCETV Shows "The Uprising of '34"</head>
           <byline>By <docAuthor><name reg="Terrill, Tom" type="person">Tom Terrill</name></docAuthor></byline>
           <docDate>Vol. 20, No. 2, <date value="1998-06">1998</date> p. 30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xwp</idno></bibl>
+          
           <p id="sc20-2_10252">In a reversal of its 1995 decision, South Carolina Educational Television finally aired the award-winning  film, "The Uprising of '34" on June 2.  During a pre-recorded panel discussions after the airing George Stoney, co-producer of the film, James Morris, executive director of the South Carolina Manufacturer's  Alliance, and Thomas Terrill, professor of history at the University of South Carolina and a consultant on the film talked about the response evoked by the film in Southern mill communities.</p>
           <p id="sc20-2_10253">The School of Journalism at University of South Carolina, in cooperation with the Department of History and Media  Arts, conducted a symposium on the film on June 3 for students, faculty, and the public. Group viewings of the film are also planned.</p>
           <p id="sc20-2_10254">Recent changes at SCETV are probably what made the June telecast

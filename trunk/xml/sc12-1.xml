@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc12-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc12-1_1204">
   <teiHeader id="sc12-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,20 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc12-1_002">http://pid.emory.edu/ark:/25593/14n2j</idno>
+            <idno type="ark" n="sc12-1_003">http://pid.emory.edu/ark:/25593/14n3p</idno>
+            <idno type="ark" n="sc12-1_004">http://pid.emory.edu/ark:/25593/14n4t</idno>
+            <idno type="ark" n="sc12-1_005">http://pid.emory.edu/ark:/25593/14n5z</idno>
+            <idno type="ark" n="sc12-1_006">http://pid.emory.edu/ark:/25593/14n63</idno>
+            <idno type="ark" n="sc12-1_008">http://pid.emory.edu/ark:/25593/14n77</idno>
+            <idno type="ark" n="sc12-1_009">http://pid.emory.edu/ark:/25593/14n8c</idno>
+            <availability>
           <p id="sc12-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +31,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +39,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1990-01">January-February 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc12-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +55,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc12-1_1203">
     <body id="sc12-1_1202">
@@ -75,7 +81,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Five Decades of Activism</head>
           <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n2j</idno></bibl>
+          
           <p id="sc12-1_104">"THE SOUTHERN MOVEMENT provided a permanent flame from which the
 rest of the nation could draw inspiration, light and heat. You were
 always there burning, percolating, in the dark sometimes, but going
@@ -347,7 +353,7 @@ Afro-American and African Studies, Charlottesville, Va.</p>
 Mason-Dixon</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n3p</idno></bibl>
+          
           <p id="sc12-1_1027">Virginia Durr: There's no sense trying to reform capitalism,
 because it can't be reformed any more than slavery could be
 reformed. It's a very bad system. You've got to realize that you have
@@ -488,7 +494,7 @@ the Southern Organizing Committee.</p>
           <head>An Imperfect Assessment of Movement Flank Actions.</head>
           <byline>Reviewed by <docAuthor><name reg="Morgan, Mary Nell" type="person">Mary Nell Morgan</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n4t</idno></bibl>
+          
           <bibl><title>Black
 Radicals and the Civil Rights Mainstream, 1954 1970</title> By Herbert
 H. Haines (Knoxville: University of Tennessee Press. 1988. 244
@@ -614,7 +620,7 @@ Regional Council.</p>
             </docAuthor>
           </byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n5z</idno></bibl>
+          
           <p id="sc12-1_1059">The argument about abortion must develop into a substantive
 debate. We must deal with questions of morality, medical ethics,
 medical technology, health care, environment, economics, separation of
@@ -846,7 +852,7 @@ Arkansas' and a longtime civil rights activist.</p>
           <head>Collusion Between Worker and Power Structure.</head>
           <byline>Reviewed by <docAuthor><name reg="Kravitz, Linda" type="person">Linda Kravitz</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n63</idno></bibl>
+          
           <bibl><title>Habits of
 Industry: White Culture and the Transformation of the Carolina
 Piedmont.</title> By Allen Tullos (Chapel Hill: University of North
@@ -1026,7 +1032,7 @@ Priorities, 1989.</p>
           <head>Angela Davis: 'Rekindle the Flame'</head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n77</idno></bibl>
+          
           <p id="sc12-1_10117">Angela Davis, one of America's best known activists of the 1960s
 and 1970s, encouraged an overflow crowd in Austin, Texas, on Martin
 Luther King Day to renew a commitment to activism in the 1990s--to
@@ -1129,7 +1135,7 @@ written Women, Race and Class (Random House, 1982); her latest book is
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnust, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14n8c</idno></bibl>
+          
           <p id="sc12-1_10126">Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
 municipal government and personal lawyer and advisor to Marion Barry,
 the embattled and dishonored mayor of the nation's capitol city. Herb

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc04-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc04-4_1204">
   <teiHeader id="sc04-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,20 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc04-4_002">http://pid.emory.edu/ark:/25593/147h3</idno>
+            <idno type="ark" n="sc04-4_003">http://pid.emory.edu/ark:/25593/147j7</idno>
+            <idno type="ark" n="sc04-4_005">http://pid.emory.edu/ark:/25593/147kc</idno>
+            <idno type="ark" n="sc04-4_006">http://pid.emory.edu/ark:/25593/147mh</idno>
+            <idno type="ark" n="sc04-4_007">http://pid.emory.edu/ark:/25593/147nn</idno>
+            <idno type="ark" n="sc04-4_008">http://pid.emory.edu/ark:/25593/147ps</idno>
+            <idno type="ark" n="sc04-4_009">http://pid.emory.edu/ark:/25593/147qx</idno>
+            <availability>
           <p id="sc04-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +31,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +39,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 4-5</biblScope>. <date value="1982-08">August-September 1982</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc04-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +55,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc04-4_1203">
     <body id="sc04-4_1202">
@@ -76,7 +82,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 Conservatism</head>
           <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 5-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147h3</idno></bibl>
+          
           <p id="sc04-4_104">Assessing the state of black politics today requires a
 fundamentally different approach from what would have been appropriate
 even ten years ago. For one thing we have the administration of Ronald
@@ -725,7 +731,7 @@ Scientists.</p>
           <head>Daddy's Missile: Shaping the South's Pre-war Economy</head>
           <byline>By <docAuthor><name reg="Schlesinger, Tom" type="person">Tom Schlesinger</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 1-2, 23-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147j7</idno></bibl>
+          
           <p id="sc04-4_1088">In mid-May 1982, the American Academy of Arts and Sciences and
 Harvard's Center for Science and International Affairs co-sponsored a
 meeting about the dangers of prospective budget cuts. "As other,
@@ -1407,7 +1413,7 @@ Strategic Minerals and Defense Industry Project.</p>
           <head>A Few Proposals: From Black Agenda To National Policy</head>
           <byline>By <docAuthor><name reg="Piliawsky, Monte" type="person">Monte Piliawsky</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 11-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147kc</idno></bibl>
+          
           <p id="sc04-4_10168">Upon initial consideration, the offering of policy proposals which
 grow out of a "black agenda" might appear to be a futile
 exercise. Given the prevailing conservative mood in the United States,
@@ -1906,7 +1912,7 @@ Oppression and Racism in Academia.</title></p>
           <head>Biting the Budget At Legal Services</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 19-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147mh</idno></bibl>
+          
           <p id="sc04-4_10238">In the first budget that Ronald Reagan proposed as President, he
 recommended the elimination of the Legal Services Corporation. Reagan
 wanted legal aid for the poor provided through block grants and
@@ -2190,7 +2196,7 @@ postage.</p>
             <docAuthor><name reg="Hays, Brooks" type="person">Brooks Hays</name>: 1898-1981</docAuthor>
           </byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147nn</idno></bibl>
+          
           <p id="sc04-4_10270">My grandfather was a Republican. To some this may not sound like an
 arresting statement, but to one born in 1898 in the impregnable
 Democratic South, and destined to spend a lifetime in politics, the
@@ -2381,7 +2387,7 @@ permission.</p>
           <head>Laments on the Demise of Tom Turnipseed</head>
           <byline>By <docAuthor><name reg="Gaillard, Frye" type="person">Frye Gaillard</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, p. 31</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147ps</idno></bibl>
+          
           <p id="sc04-4_10293">I hated to see it a few weeks ago when ole Tom Turnipseed went up
 in flames. Turnipseed, of course, was a candidate for lieutenant
 governor of South Carolina, who lost a primary runoff to Mike
@@ -2457,7 +2463,7 @@ appeared.</p>
           <head>More Than Steel Mills Are Silent</head>
           <byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline>
           <docDate value="1982-08">Vol. 4, No. 4, 1982, pp. 3-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/147qx</idno></bibl>
+          
           <p id="sc04-4_10312">Several times, thinking about it all, I've been taken back to the
 First Presbyterian Church in Montgomery.</p>
           <p id="sc04-4_10313">It is a particular Sunday in the early 1960's that I remember. I

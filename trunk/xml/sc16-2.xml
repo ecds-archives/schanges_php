@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc16-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc16-2_1204">
   <teiHeader id="sc16-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc16-2_002">http://pid.emory.edu/ark:/25593/14t5g</idno>
+            <idno type="ark" n="sc16-2_003">http://pid.emory.edu/ark:/25593/14t6m</idno>
+            <idno type="ark" n="sc16-2_004">http://pid.emory.edu/ark:/25593/14t7r</idno>
+            <idno type="ark" n="sc16-2_005">http://pid.emory.edu/ark:/25593/14t8w</idno>
+            <idno type="ark" n="sc16-2_006">http://pid.emory.edu/ark:/25593/14t91</idno>
+            <idno type="ark" n="sc16-2_007">http://pid.emory.edu/ark:/25593/14tb5</idno>
+            <idno type="ark" n="sc16-2_008">http://pid.emory.edu/ark:/25593/14tc9</idno>
+            <idno type="ark" n="sc16-2_009">http://pid.emory.edu/ark:/25593/14tdf</idno>
+            <availability>
           <p id="sc16-2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +36,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 16</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1994-06">1994</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc16-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +57,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc16-2_1203">
     <body id="sc16-2_1202">
@@ -67,7 +74,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>A Far Cry from Apartheid</head>
           <byline>By <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 1-2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t5g</idno></bibl>
+          
           <p id="sc16-2_104">The recent round of congressional redistricting in the South was
 hailed by the minority and civil rights communities as the most
 successful in the nation's history. New majority-minority districts
@@ -102,7 +109,7 @@ decision-making. </p>
           <head>The Places of AIDS</head>
           <byline>By <docAuthor><name reg="Raimondo, Meredith" type="person">Meredith Raimondo</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 3-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t6m</idno></bibl>
+          
           <p id="sc16-2_1014">"Cancer clinic has AIDS scare" was the title of the piece in <hi rend="italic">The Atlanta Constitution</hi>'s local news summary on July 30, 1985. Noting that "As many as 1,000 people may have been exposed to the AIDS virus in blood-derived drugs," the article mentioned only one patient by name: former Georgia Governor Lester Maddox.</p>
           <p id="sc16-2_1015">Only a week earlier, newspapers around the country had reported
 Rock Hudson's diagnosis with AIDS. In <hi rend="italic">Covering the
@@ -345,7 +352,7 @@ no. 2 (1989): 147-158.</p>
           <head>Cross Purposes</head>
           <byline>Review Essay by <docAuthor><name reg="May, Vivian" type="person">Vivian May</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 13-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t7r</idno></bibl>
+          
           <epigraph>
             <p id="sc16-2_1081">
               <hi rend="italic">"There came to me, in answer to prayer, a reward for my sufferings, the perfect maid. She is well trained, as good a cook as I, well educated, with almost my own tastes in literature and movies. She loves the country, she loves my dog, she loves company dinners, she dislikes liquor and has no interest in men"&#x2014;Marjorie Rawlings, Cross Creek.</hi>
@@ -503,7 +510,7 @@ Cross Creek community) a mirror for self-aggrandizement. </p>
           <head>Unfinished Tasks</head>
           <byline>By <docAuthor><name reg="Ashmore, Harry" type="person">Harry Ashmore</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 20-23, 31</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t8w</idno></bibl>
+          
           <p id="sc16-2_10119">If American society is divided by horizontal class lines, there is also a vertical division based on race that begins at the point where the affluent are set apart from the poor. Analysis of 1990 census data showed that blacks in significant numbers lived in upscale urban and suburban neighborhoods, but intimate contact with their white neighbors was minimal. Generations of Southern demagogues had claimed that such residential race mixing would result in wholesale miscegenation, but the 53 million marriages recorded in the 1990 census included only 240,000 with a black spouse.</p>
           <p id="sc16-2_10120">In the upper strata of society racial attitudes, reinforced by ethnocentrism on both sides, still inhibited interaction and provided fertile ground for political exploitation. But in the ghettos the issues were still those that had existed throughout the nation's history. The greatly expanded opportunities available to middleclass blacks remained as far beyond the reach of most underclass youths as they had been for their sharecropping forebears. Segregation was still the dominant fact of life below the poverty line, and the issue was quite literally survival.</p>
           <p id="sc16-2_10121">In his campaign, Clinton had carefully avoided proposals targeted directly at the festering problems in the inner cities. If they could be persuaded to vote, the poor blacks who lived there could provide effective political support, but the threat of racial violence emanating from these neglected communities also worked against any candidate who embraced their cause in the name of social justice.</p>
@@ -635,7 +642,7 @@ kind of public and private leadership our age demands."</p>
           <head>Unreconciled Southerners</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t91</idno></bibl>
+          
           <bibl><title>A Southern Life, Letters of
 Paul Green, 1916-1981</title>, edited by Laurence
 G. Avery (University of North Carolina Press, 1994, 735 pages).</bibl>
@@ -700,7 +707,7 @@ turn likewise.</p></q></p>
           <head>Sisters of Another Era</head>
           <byline>Reviewed by <docAuthor><name reg="Grant, Joanne" type="person">Joanne Grant</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 26-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tb5</idno></bibl>
+          
           <bibl><title>Having Our Say: The Delany
 Sisters' First 100 Years</title>, by Sarah and
 A. Elizabeth Delany; with Amy Hill Hearth (Kodansha, 1994, 210 pages).</bibl>
@@ -729,7 +736,7 @@ story, as the Delany sisters like to say, is not meant as 'black' or
           <head>What Mama Had to Say</head>
           <byline>Reviewed by <docAuthor><name reg="Lovelace, Alice" type="person">Alice Lovelace</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tc9</idno></bibl>
+          
           <bibl><title>Pushed Back to Strength: A Black
 Woman's Journey Home</title>, by Gloria Wade-Gayles
 (Beacon Press, 1993, 256 pages).</bibl>
@@ -766,7 +773,7 @@ Collected Poems.</title></p>
           <head>Spirit and Velocity</head>
           <byline>Reviewed by <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1994-06">Vol. 16, No. 2, 1994, pp. 28-31</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14tdf</idno></bibl>
+          
           <bibl><title>Local People: The Struggle for
 Civil Rights in Mississippi</title>, by John Dittmer
 (University of Illinois Press, 1994, 530 pages).</bibl>

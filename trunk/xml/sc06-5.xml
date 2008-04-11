@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc06-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc06-5_1204">
   <teiHeader id="sc06-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc06-5_002">http://pid.emory.edu/ark:/25593/14bq7</idno>
+            <idno type="ark" n="sc06-5_003">http://pid.emory.edu/ark:/25593/14brc</idno>
+            <idno type="ark" n="sc06-5_004">http://pid.emory.edu/ark:/25593/14bsh</idno>
+            <idno type="ark" n="sc06-5_005">http://pid.emory.edu/ark:/25593/14btn</idno>
+            <idno type="ark" n="sc06-5_006">http://pid.emory.edu/ark:/25593/14bvs</idno>
+            <idno type="ark" n="sc06-5_007">http://pid.emory.edu/ark:/25593/14bwx</idno>
+            <availability>
           <p id="sc06-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +38,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1984-10">October-November 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc06-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +54,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +62,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc06-5_1203">
     <body id="sc06-5_1202">
@@ -75,7 +80,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>The Present Danger</head>
           <byline>By <docAuthor><name reg="Willingham, Alex" type="person">Alex Willingham</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 1-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bq7</idno></bibl>
+          
           <p id="sc06-5_104">In the current presidential campaign, the forces of reaction have
 sought to win by controlling the tone of public discussion. By
 portraying Reagan's superficiality as innocent pleasantry, any real
@@ -211,7 +216,7 @@ editor of the <title>Voting Rights Review.</title></p>
           <head>Wolves in Robes</head>
           <byline>By <docAuthor><name reg="Crowther, Hal" type="person">Hal Crowther</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14brc</idno></bibl>
+          
           <p id="sc06-5_1023">To people outside North Carolina, it may sound like a parochial,
 partisan quarrel between courtroom personalities who rub each other
 the wrong way. But the decision by Judge James H. Pou Bailey of Wake
@@ -358,7 +363,7 @@ University.</p>
           <head>Changing Decades</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 4-8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bsh</idno></bibl>
+          
           <p id="sc06-5_1040">This year, Southern Regional Council marks the fortieth anniversary
 of its founding. Today, as in the past, the Council's vision of the
 South's future radiates from a belief in democratic principles. From
@@ -734,7 +739,7 @@ Regional Council.</p>
 Factory</head>
           <byline>By <docAuthor><name reg="Mclendon, Paula" type="person">Paula Mclendon</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 8-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14btn</idno></bibl>
+          
           <p id="sc06-5_1090">Sarah Boykin: Mr. Hundley was the plant manager when we first
 started organizing. They told us that he had found a better job. But I
 don't believe that because he had twenty years in with Vanity
@@ -1608,7 +1613,7 @@ lives in Birmingham.</p>
           <head>The Union Comes to Dooly County</head>
           <byline>By <docAuthor><name reg="Ransom, Dave" type="person">Dave Ransom</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bvs</idno></bibl>
+          
           <p id="sc06-5_10274">"We made history!" rejoiced Bettie Lloyd, after she and the
 forty-seven other workers at Rosewood Nursing Home in Byromville,
 Georgia--predominantly black, mostly women--voted this summer
@@ -1735,7 +1740,7 @@ homes.</p>
           <head>Tending Our Gardens</head>
           <byline>By <docAuthor><name reg="Hatley, Tom" type="person">Tom Hatley</name></docAuthor></byline>
           <docDate value="1984-10">Vol. 6, No. 5, 1984, pp. 18-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bwx</idno></bibl>
+          
           <p id="sc06-5_10302">I.</p>
           <p id="sc06-5_10303">My grandparents grew two kinds of sweet potatoes in
 back of their farmhouse in central North Carolina. The main staple was

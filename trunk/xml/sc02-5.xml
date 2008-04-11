@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc02-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc02-5_1204">
   <teiHeader id="sc02-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,23 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc02-5_002">http://pid.emory.edu/ark:/25593/144t1</idno>
+            <idno type="ark" n="sc02-5_003">http://pid.emory.edu/ark:/25593/144v5</idno>
+            <idno type="ark" n="sc02-5_004">http://pid.emory.edu/ark:/25593/144w9</idno>
+            <idno type="ark" n="sc02-5_014">http://pid.emory.edu/ark:/25593/144xf</idno>
+            <idno type="ark" n="sc02-5_005">http://pid.emory.edu/ark:/25593/144zk</idno>
+            <idno type="ark" n="sc02-5_006">http://pid.emory.edu/ark:/25593/1450t</idno>
+            <idno type="ark" n="sc02-5_007">http://pid.emory.edu/ark:/25593/1451z</idno>
+            <idno type="ark" n="sc02-5_009">http://pid.emory.edu/ark:/25593/14523</idno>
+            <idno type="ark" n="sc02-5_010">http://pid.emory.edu/ark:/25593/14537</idno>
+            <idno type="ark" n="sc02-5_011">http://pid.emory.edu/ark:/25593/1454c</idno>
+            <availability>
           <p id="sc02-5_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +34,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +42,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1980-02">February 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc02-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +58,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +66,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc02-5_1203">
     <body id="sc02-5_1202">
@@ -74,7 +83,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Interchange</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980 pp. 2-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144t1</idno></bibl>
+          
           <p id="sc02-5_104">"Being right never won an election." Eugene Witherspoon:, once told me and others as we sat on the hog fence outside of Freedom Quilting Bee in Alberta, Alabama. "It takes all the votes of all the Black folks and smarts enough in figurin' out how to win before the White people do," he said.</p>
           <p id="sc02-5_105">As a local sage whose survival in his early years  required good instincts and common sense, Mr. Witherspoon was always trying to get young and  old Black people  in Wilcox county to register and vote so that the majority Black population could have its voice in local government. Yet, years of dodging the "White man's trouble" in the early 1900S convinced him that even in a majority Black county, Blacks  as well as Whites - in competition, or in concert - must know one another and each's values.</p>
           <p id="sc02-5_106">While he died before seeing the first Black elected to an important county office in Wilcox, Mr. Witherspoon's  rural wisdom introduces the question of everyday life which the region faces and this issue addresses: what specific strategies in the stateways and folkways of the South are Black and White people using to render change in the region and to understand one another?</p>
@@ -92,7 +101,7 @@ Southerners  for - Economic Justice telling us that workman's compensation laws 
           <head>The Impact of Desegregation on Society: Are Values Changing?</head>
           <byline>By <docAuthor><name reg="Gavins, Ray" type="person">Ray Gavins</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 5-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144v5</idno></bibl>
+          
           <p id="sc02-5_1015">
             <hi rend="bold">Selfishness is the most constant of human motives.Patriotism,
 humanity, or the love of God may lead to sporadic outbursts which
@@ -195,7 +204,7 @@ recent Southern history. By bringing to the campus retired organizers like Ella 
 Changes, Its People</head>
           <byline>By <docAuthor><name reg="Stokes, Bettie Green" type="person">Bettie Green Stokes</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 10-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144w9</idno></bibl>
+          
           <p id="sc02-5_1051">It seems to be a national concensus that the South has come into its own and is now a part of the nation. Through the social revolution and the death of Jim Crowism (1950s and '60s), a new image appears in full bloom. The majority population of the South has ridded itself of deep feelings of guilt and the largest minority population has raised its head from a cringing posture. The smog of bigotry is lifting, and on a clear day some see broad horizons for the South.</p>
           <p id="sc02-5_1052">Southern politicians, officials, and other concerned citizens are campaigning and speaking out in a forthright St atesmanship (or stateswomanship) manner. Coming out of Alabama, "the heart of Dixie," are officials ushering in a new rhetoric, declaring that the state of Alabama has long since dropped the racial issue. There is now a call for "a new beginning" from Alabama Gov. Fob James, and
 
@@ -235,7 +244,7 @@ civil liberties.</p>
           <head>Greensboro Deaths Were Foretold</head>
           <byline>By <docAuthor><name reg="Young, Peter B." type="person">Peter B. Young</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144xf</idno></bibl>
+          
           <p id="sc02-5_1067">In 1968-1969, as a consultant to the President's Commission on
 Violence I reported (as if from another planet) the existence of a large underclass of deeply troubled Whites in North Carolina and elsewhere. I described this phenomenon as a "White ghetto," with social pathology remarkably similar to that which is so well known in the Black ghetto: ignorance, unemployment, poor health, a drenching saturation of racism and random Saturday night violence.</p>
           <p id="sc02-5_1068">I further pointed out to the commission that routine police measures of surveillence and harassment were (and are) not only useless but also counterproductive. And I explicitly suggested the probability of a violent confrontation worse than any we had known in the 1960s.</p>
@@ -258,7 +267,7 @@ may not have been officially members of any Klan organization, yet they are so o
           <head>The Unmaking of a Black Candidate: Memphis</head>
           <byline>By <docAuthor><name reg="Keeter, Terry" type="person">Terry Keeter</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1908, pp. 13-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/144zk</idno></bibl>
+          
           <p id="sc02-5_1077">Otis Higgs, Jr. told the public that he did not want to be elected mayor of Memphis simply because he is Black, and in November the voters turned around the meaning of his remark and made that wish come true: he was not elected, simply because he is Black.</p>
           <p id="sc02-5_1078">Higgs campaigned hard in both the Black and White communities and made an unprecedented number of public appearances before church, civic and political groups. But as Higgs was pledging not to. run a campaign based on color, he was
 
@@ -311,7 +320,7 @@ for some reason apparently known only to the candidate to change the name of Bea
           <head>Affirmative Inaction in Blackbelt Governments</head>
           <byline>By <docAuthor><name reg="Manderson, Marge" type="person">Marge Manderson</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 16-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1450t</idno></bibl>
+          
           <p id="sc02-5_10103">On the roads of the rural Southern Blackbelt you are likely to almost as many Blacks as Whites. Nearly one of every four people you meet will be a Black woman. But in the region's courthouses and municipal offices, it is likely that you will never encounter a Black person behind a desk, a counter, or a typewriter as an employee of local government.</p>
           <p id="sc02-5_10104">The odds are considerably higher that you will not see a Black woman in such a position. And some rural Blackbelt governments, if you should search diligently you will not find a permanent, full time Black female employee - not even in traditionally Black menial jobs or traditionally female clerical jobs. In many large rural Blackbelt government workforces, you will find, at the most, a total of only three or four Black female employees.</p>
           <p id="sc02-5_10105">More than 2.4 million Blacks live in rural counties in the area sociologists have named the Blackbelt, the old plantation and slavery counties that stretch in a crescent from Virginia to Texas. Once, 300 of these counties had more Blacks than Whites. Even now, rural counties that lie along the old Blackbelt are at least 30 percent Black. In all such counties, 44 percent of the aggregate population is Black. Black women number 1.3 million. They are 23 percent of the aggregate population.</p>
@@ -342,7 +351,7 @@ the law, when a reasonable basis exists for determining that Affirmative Action 
           <head>Women and Minorities in Louisiana Elections Despair or Hope?</head>
           <byline>By <docAuthor><name reg="Dyess, Norma" type="person">Norma Dyess</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 19-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1451z</idno></bibl>
+          
           <p id="sc02-5_10124">At first glance,the 1979 election returns portend a grim future for women and minorities in Louisiana for the next four years. In fact, many human rights activists have been in despair feeling that the outcomes of the gubernatorial, statewide and legislative races represented a giant step backward.</p>
           <p id="sc02-5_10125">The main source of pessimism and alarm was the election of third district Congressman David C. Treen, the first Republican governor in 102 years. No moderate, Charles Percy-type Republican, Treen is a bedrock, longtime conservative who once belonged to the States Rights Party, was one of four Congressmen voting in 1974 against impeachment of Richard Nixon and has made feminist and civil rights activists recoil in distrust by his Washington voting record.</p>
           <p id="sc02-5_10126">Their concern was compounded by the fact that the governor of Louisiana is probably the most powerful governor of any of the 50 states. He controls the purse-strings, a vast array of appointments and patronage opportunities and generally oversees a network of political power that guarantees his formidable grasp on the harness of state government.</p>
@@ -441,7 +450,7 @@ private state government reporting and service agency. </p>
           <head>ERA and the South</head>
           <byline>By <docAuthor><name reg="Brinson, Betsy" type="person">Betsy Brinson</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1908, pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14523</idno></bibl>
+          
           <p id="sc02-5_10160">Early ERA advocate Crystal Eastman suggested in 1923 that "To blot out of every law book in the land, to sweep out of every dusty courtroom, to erase from every judge's mind that centuries old precedent as to women's inferiority and dependence and need for protection; to substitute for it at one blow the simple new precedent of equality, that is a fight worth making, if it takes ten years."</p>
           <p id="sc02-5_10161">Fifty-seven years later the goal of equal rights for women is still not yet realized within our system of law.</p>
           <p id="sc02-5_10162">After years of almost no movement, significant gain was realized in the last decade. In 1972,Congress voted to send the resolution to the states to secure the required 38 state votes needed to make ERA the 27th Amendment to the U.S. Constitution. Thirty-five states have voted "aye" but three additional states are needed to
@@ -475,7 +484,7 @@ Women's Rights Project. She was recently selected as one of<title> Ms.</title> m
           <head>Workers' Compensation Systems</head>
           <byline>By <docAuthor><name reg="Southerners for Economic Justice" type="corporate">Southerners for Economic Justice</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 26-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14537</idno></bibl>
+          
           <p id="sc02-5_10177">Workers' compensation systems across the country have fallen short of real worker compensation and often come closer to employer compensation, according to a report of the Southerners for Economic Justice. Originated only partly in response to the increased dangers workers were facing in the industrializing workplace of the early 1900s, the laws were also the result of industry's need to rationalize and predict production costs. Current analyses show that over the years compensation programs have served the needs of employers far better than workers and that workers are in fact carrying a double burden the physical and psychological risks of the workplace and the economic costs when those risks become reality. The South, in particular, falls short of adequate and just compensation in several important ways.</p>
           <p id="sc02-5_10178">In 1972, each state's compensation system was evaluated by the National Commission on State Workman's Compensation Laws. Even though members of the Commission were picked from agencies like insurance companies and the AMA, their analysis labelled workers' compensation "inadequate and
 
@@ -506,7 +515,7 @@ Released by Southerners for Economic Justice, 1931 Laurel Ave., Knoxville, Tenne
           <head>Federal Trade Commission</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-02">Vol. 2, No. 5, 1980, pp. 28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1454c</idno></bibl>
+          
           <p id="sc02-5_10189">With Southerners leading the charge, the U.S. Senate soon will consider legislation already passed by the House of Representatives subjecting the Federal Trade Commission's regulatory actions to a one-house Congressional veto and proposing to limit severely areas in which the FTC can act. In an overwhelming vote of 321 to 63, the House approved on November 27 an amendment sponsored by Rep. Elliot Levitas of Georgia that would halt any FTC action by vote of one chamber of Congress if the other chamber did not object within 30 days. Levitas praised the House vote as an end to "government by bureaucratic fiat."</p>
           <p id="sc02-5_10190">Rep. Bob Eckhart of Texas, one of the few Southerners opposing the amendment, argued against limiting the authority of the-only agency that we can call a consumer agency in the
 
