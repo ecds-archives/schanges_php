@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc01-6_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc01-6_1204">
   <teiHeader id="sc01-61201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,25 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc01-6_003">http://pid.emory.edu/ark:/25593/1423x</idno>
+            <idno type="ark" n="sc01-6_004">http://pid.emory.edu/ark:/25593/14242</idno>
+            <idno type="ark" n="sc01-6_005">http://pid.emory.edu/ark:/25593/14256</idno>
+            <idno type="ark" n="sc01-6_013">http://pid.emory.edu/ark:/25593/1426b</idno>
+            <idno type="ark" n="sc01-6_007">http://pid.emory.edu/ark:/25593/1427g</idno>
+            <idno type="ark" n="sc01-6_006">http://pid.emory.edu/ark:/25593/1428m</idno>
+            <idno type="ark" n="sc01-6_002">http://pid.emory.edu/ark:/25593/1429r</idno>
+            <idno type="ark" n="sc01-6_014">http://pid.emory.edu/ark:/25593/142bw</idno>
+            <idno type="ark" n="sc01-6_008">http://pid.emory.edu/ark:/25593/142c1</idno>
+            <idno type="ark" n="sc01-6_009">http://pid.emory.edu/ark:/25593/142d5</idno>
+            <idno type="ark" n="sc01-6_johnston.010">http://pid.emory.edu/ark:/25593/142f9</idno>
+            <idno type="ark" n="sc01-6_011">http://pid.emory.edu/ark:/25593/142gf</idno>
+            <availability>
           <p id="sc01-6_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +36,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +44,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date value="1979-03">March 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc01-6_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +60,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +68,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc01-6_1203">
     <body id="sc01-6_1202">
@@ -74,7 +85,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Tribute to Gwendolyn Cherry</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 2-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1423x</idno></bibl>
+          
           <p id="sc01-6_104"> On February 7, Gwen Cherry, the Vice-President of the Southern
 Regional Council, died in an automobile accident in Tallahassee,
 Florida. Her death leaves the Council without one of its valued
@@ -129,7 +140,7 @@ vision.
           <head>A RETURN TO THE SUN</head>
           <byline>By <docAuthor><name reg="Sun" type="institution">SUN</name> &amp; <name reg="Rep" type="institution">REP</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 4, 12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14242</idno></bibl>
+          
           <p id="sc01-6_1013">Five thousand years ago men worshipped the sun. After a 50 century hiatus, man is turning his attention and hope - toward that same sun. Today, we are caught in the middle of the most sophisticated technological web ever spun on this earth. The spider is energy - fossil fuels like coal, oil and natural gas, and nuclear power. There is one possible avenue of escape - the sun, and its energy in the form of wind power, water power, biomass, geothermal energy and others.</p>
           <p id="sc01-6_1014">The energy dialogue poses three critical questions about our resources: (1) Are they limitless? (2) Are they safe? and (3) Who controls them? With regard to the first question, there is no infinite amount of any extractable natural resource: none are renewable. There is only so much oil, for example, and even though new reserves are periodically discovered, the cost of bringing oil to the surface is substantial and increasing daily. Also, the demand for energy is likewise increasing at an alarming rate.</p>
           <p id="sc01-6_1015">The second point, safety, produces damning evidence against all fuels, especially nuclear power. Burning fossil fuels produces a staggering amount of air and water pollution; and nuclear fuels are hazardous to extract, transport, use, store and dispose of. Finally, because the raw material of fossil fuels is site specific, requiring elaborate extraction, transport, refining and distribution equipment and systems, no individual acting alone or collectively has the ability to control the fuel he uses for heat and cooling. The capital investment needed in bringing such fuels to homes, businesses and industries has been great, encouraging large and powerful corporations to dominate and control our energy.</p>
@@ -175,7 +186,7 @@ SUN/REP, Suite 412, 3110 Maple Dr., Atlanta, Georgia 30305. Phone:
           <head>Black Farmers: A Vanishing Breed</head>
           <byline>By <docAuthor><name reg="Press, Robert M." type="person">Robert M. Press</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 5-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14256</idno></bibl>
+          
           <p id="sc01-6_1027"><hi rend="bold">Bolivar County, Mississippi</hi>-Mary Coleman
 hunches over, shucking corn on the wooden porch of the small crossroads grocery store she runs here. Weedcroppers from the cotton fields will stop in around noon to buy cold bottles of sodapop, crackers, and Vienna sausage.</p>
           <p id="sc01-6_1028">Houston Coleman, her son, has come by to talk to this reporter about the problems he and other Black farmers are having. He is a big man, dressed in gray slacks, a long-sleeved shirt, and mud-spattered black street shoes. He wears a straw cowboy hat and talks in a booming voice.</p>
@@ -260,7 +271,7 @@ Society. All rights reserved.</p>
           <head>Solar Greenhouses: The Greening of the South</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 3, 1979 pp. 8-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1426b</idno></bibl>
+          
           <p id="sc01-6_1091">
             <hi rend="bold">Publisher's Note:</hi>
             <hi rend="italic"> I was in no mood to he convinced when Bill Dow began to explain his idea last year. As he sat with his legs draped around one of my office chairs, I wondered what kind of bedside manner I was about to experience from this physician who prefers T-shirts and tennis shoes as work garments.</hi>
@@ -345,7 +356,7 @@ Farming" magazine. December 1977.</p>
           <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
           <byline>By <docAuthor><name reg="Graham Center Staff" type="institution">the Staff of the Graham Center</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 10-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1427g</idno></bibl>
+          
           <p id="sc01-6_10135">Today, the American small farmer is an endangered species. As control of land and the farm economy has concentrated in fewer and fewer hands, one of the biggest migrations in human history has occurred during the past 40 years as millions of people have moved into urban areas. In 1977, American farms vanished at the rate of 500 a week. In the South, the nation's fastest growing area, change in rural patterns are especially dramatic. Estimates project that Black-owned land in the rural South is disappearing at the rate of 6000 acres per week. At the present rate of attrition, the Black Southern farmer may well be extinct by 1990.</p>
           <p id="sc01-6_10136">Preserving the small farm in this country will require significant changes in our present political and economic systems. Through a reliance upon non-renewable fuels and increasingly complex technology, U.S. agriculture has become agribusiness. One movement towards change has been the development of low-cost, energy-efficient methods and new skills appropriate to the background and resources of small farmers.</p>
           <p id="sc01-6_10137">In support of this development, the Frank Porter Graham Center, a
@@ -393,7 +404,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
           <head>Wilcox County--A Day in Wilcox County: 1967</head>
           <byline>By <docAuthor><name reg="Hunter, Floyd" type="person">Floyd Hunter</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 13-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1428m</idno></bibl>
+          
           <p id="sc01-6_10153">
             <hi rend="bold">Editor's Note:</hi>
             <hi rend="italic"> As part of a report by the National Education Association regarding conditions of teaching and learning in Wilcox County, Alabama, Floyd Hunter wrote that "Life in Wilcox County slays the same in spite of a lot of talk about 'progress' and 'change.' Substantively the Negro, as least common denominator in the social scale, stays put. Until there is an emerging newness in relation to his lot, no basic social change can actually be noted in Wilcox County."</hi>
@@ -447,7 +458,7 @@ on Professional Rights and Responsibilities, June 1967.</p>
           <head>A New Day in Wilcox County: 1978</head>
           <byline>By <docAuthor><name reg="Swift, Harriet" type="person">Harriet Swift</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 15, 16, 28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1429r</idno></bibl>
+          
           <p id="sc01-6_10180">"Bad Wilcox," the civil rights workers used to call it.</p>
           <p id="sc01-6_10181">"In Alabama they say that there are 66 counties and then there's Wilcox," sighs a federal official.</p>
           <p id="sc01-6_10182">Wilcox County, resting squarely in the center of Alabama's Black Belt, presents a storybook picture of the rural Deep South. Its sparse population has steadily declined since 1900, leaving only 16,000 people (about 68 percent of them Black) to populate the tiny towns and large plantations. A pleasing vista of fertile fields, rolling hills and proud Southern forests intertwined with the Alabama River, Wilcox is dotted with white-columned mansions and pathetic wood and tin shacks. The insular, provincial social life has bred a steady line of stock Southern characters from the imperious Miss Ann in the Big House to the wise and folksy Dilsey living out back.</p>
@@ -522,7 +533,7 @@ Harriet Swift is a copy editor at the <title>Birmingham Post-Herald</title>.
           <head>Problems  of Pain</head>
           <byline>By <docAuthor><name reg="Adamson, June" type="person">June Adamson</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142bw</idno></bibl>
+          
           <p id="sc01-6_10218">The X-rays had been taken and I lay on the emergency room cot in the curtained cubicle waiting for the doctor to see whether I had any reason to be in such pain. My car had gone into a skid on the icy interstate and I felt lucky to be alive. But the breath had been knocked out of me, and now there was this intolerable pain in my side and under by shoulder blade. It was a Sunday, and I felt grateful that an orthopedic specialist who was an acquaintance was willing to come to the hospital to help me.</p>
           <p id="sc01-6_10219">On the other side of the yellow curtain that separated the cots
 that late afternoon someone was moaning. I was distracted from my own
@@ -564,7 +575,7 @@ June Adamson, a former working journalist, now teaches journalism at the Univers
           <head>Segregation Order at Reidsville Prison</head>
           <byline>By <docAuthor><name reg="Looney, Ginny" type="person">Ginny Looney</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp.19-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142c1</idno></bibl>
+          
           <p id="sc01-6_10240">In southeast Georgia last summer, the day before Independence Day, a decade of legal precedent was overturned at Georgia State Prison in Reidsville when U.S. District Judge Anthony Aliamo ordered the segregation of dormitories for a 60-day period. The segregation order, issued to cool tempers and ease the tension, came after one prisoner was killed and five others were wounded during a racial fight, one of a series of revengeful attacks since November 1976 that killed five inmates and injured 47. The court told prison officials to assign Black and White inmates to alternating dormitories in checkerboard fashion; the cell blocks, dining hall, recreation and work areas remained integrated.</p>
           <p id="sc01-6_10241">The court-ordered segregation marked the first time in modern history that a federal judge had directed a state to separate prisoners by race. Although prison officials said they opposed the order as a misguided and potentially troublesome attempt to end racial attacks, the state complied with the order without a legal challenge and later asked for an extension of it. The NAACP Legal Defense Fund, representing the prisoners, also did not appeal the judge's decision, preferring to publicly remain silent on segregation while privately negotiating for better conditions at the prison.</p>
           <p id="sc01-6_10242">The 60 days of segregation grew to eight months finally ending in mid-February. The state vacillated and LDF acquiesced to the judge's decision, thereby accepting the premise that separating the races was the only way to restore peace at Reidsville. Their illusion was dispelled in only a few weeks after the order was issued when racial violence again erupted in July and August.</p>
@@ -626,7 +637,7 @@ studying the effects of rape on women and the ways they resolve problems caused 
           <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
           <byline>By <docAuthor><name reg="Hall, Andy" type="person">Andy Hall</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp.22-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142d5</idno></bibl>
+          
           <p id="sc01-6_10273">In 11 short months the small village of Lake Placid, nestled high in the Adirondack mountain range of upstate New York, will provide the setting for the 13th Winter Olympiad. President Carter will preside at the opening ceremonies to symbolize the Olympic tradition, and, no doubt, to enunciate the desire of the American people for world peace and freedom for all people.</p>
           <p id="sc01-6_10274">The best athletes of some 40 nations will live together for three weeks of intense competition. The Olympic spirit of international cooperation and community, perhaps most tangibly represented by the Olympic Village, will captivate radio and television audiences around the world. Then the contests will end, the medals will be awarded, and the participants will head home. And finally, if all goes as planned, the Olympic Village will be quickly converted to the latest addition of what the Rev. William Sloane Coffin, minister at New York's Riverside Church, recently described as the American Gulag. Olympic Village will become a federal prison!</p>
           <p id="sc01-6_10275">For some the idea makes sense. For Olympics organizers, it is a free ride on the federal government. For area politicians, a federal prison may mean a few jobs for unemployed mountain people as prison guards. For prison bureaucrats, the Games provide a quick and easy means of further expansion. But as news of the Olympic Village-to-prison idea has spread, many others have been instantly appalled.</p>
@@ -727,7 +738,7 @@ in the Southern states.</p>
           <head>URBAN AND RURAL DEVELOPMENT</head>
           <byline>By <docAuthor><name reg="Johnston, Diane" type="person">Diane Johnston</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142f9</idno></bibl>
+          
           <p id="sc01-6_10312">"...they were ready to face the odds and fight for what they fervently believe in -- the future of the family farmer." That was how <title>Atlanta Journal</title> reporter Charles Seabrook described the atmosphere surrounding the American Agricultural Movement's (AAM) tractorcade to the nation's capitol this January. It was the farmers' second trip to Washington to protest what they felt were unjustly low farm incomes. En route in January, the Southern contingent of the AAM stopped by the Southern Regional Council's office to hold a press briefing for the Atlanta media. It was an attempt on their part to help the media understand their complaints and to offer them an opportunity to explain their position relative to the rest of the nation as consumers.</p>
           <p id="sc01-6_10313">Those present included Alvin Jenkins of Colorado, one of the AAM's four founders, and Tommy Kersey of Unadilla, Georgia. Kersey is considered to be the head of the Georgia Agricultural Movement. They were accompanied by a handful of other AAM members, from Alabama, Texas, and even Montana.</p>
           <p id="sc01-6_10314">During the two-hour press session, the farmers presented their grievances. Basing their case on the need to preserve the family farm, they explained what they felt is happening to traditional agriculture today.</p>
@@ -747,7 +758,7 @@ the American Agricultural Movement, remains uncertain.</p>
           <head>SOUTHERN WOMEN</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1979-03">Vol. 1, No. 6, 1979, pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142gf</idno></bibl>
+          
           <p id="sc01-6_10324">Women are now in the majority of college students in the South, according to an analysis by the Southern Regional Education Board (SREB) of preliminary statistics of last fall's collegiate enrollment.</p>
           <p id="sc01-6_10325">The SREB analysis also notes that, although there were significant declines in the number of full-time students attending Southern institutions, they were offset by continued increases in part-time enrollment, which was up 5.6 percent in the South.</p>
           <p id="sc01-6_10326">Thus, enrollment in higher education remained essentially unchanged in the fall of 1978 over levels in the previous year, both in the South and the nation. Except for 1975, when there was a 10 percent increase in enrollment nationwide, the college population has not grown as dramatically in the 1970s as in the 1960s.</p>

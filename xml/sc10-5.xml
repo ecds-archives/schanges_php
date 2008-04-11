@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc10-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc10-5_1204">
   <teiHeader id="sc10-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,22 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc10-5_002">http://pid.emory.edu/ark:/25593/14j7x</idno>
+            <idno type="ark" n="sc10-5_003">http://pid.emory.edu/ark:/25593/14j82</idno>
+            <idno type="ark" n="sc10-5_004">http://pid.emory.edu/ark:/25593/14j96</idno>
+            <idno type="ark" n="sc10-5_005">http://pid.emory.edu/ark:/25593/14jbb</idno>
+            <idno type="ark" n="sc10-5_012">http://pid.emory.edu/ark:/25593/14jcg</idno>
+            <idno type="ark" n="sc10-5_013">http://pid.emory.edu/ark:/25593/14jdm</idno>
+            <idno type="ark" n="sc10-5_014">http://pid.emory.edu/ark:/25593/14jfr</idno>
+            <idno type="ark" n="sc10-5_015">http://pid.emory.edu/ark:/25593/14jgw</idno>
+            <idno type="ark" n="sc10-5_016">http://pid.emory.edu/ark:/25593/14jh1</idno>
+            <availability>
           <p id="sc10-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +33,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +41,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1988-10">October-November 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc10-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +57,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +65,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc10-5_1203">
     <body id="sc10-5_1202">
@@ -75,7 +83,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Living the Day Labor Life</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 7, 20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14j7x</idno></bibl>
+          
           <p id="sc10-5_104">Earlier this year, the Southern Regional Council
 published a lengthy investigative and analytical report of the growing
 temporary manual labor industry. Workers in these "labor pools" are
@@ -174,7 +182,7 @@ $20 it takes.</p>
           <head>A Southerner in Nicaragua</head>
           <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 1-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14j82</idno></bibl>
+          
           <p id="sc10-5_1017">David E. Whisnant, longtime commentator on Southern
 Appalachian culture who is perhaps best known as the author of All
 That Is Native and Fine (The Politics of Culture in an American Region
@@ -490,7 +498,7 @@ a cultural future for their children.</p>
 the Rainbow</head>
           <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 11, 16-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14j96</idno></bibl>
+          
           <p id="sc10-5_1056">Late in the summer of 1948, presidential candidate Henry Wallace
 embarked on a week-long tour through the Deep South. For a brief time,
 he was able to break through much of the Cold war hysteria that
@@ -694,7 +702,7 @@ Virginia.</p>
 Campaign</head>
           <byline>Interview By <docAuthor><name reg="Kuhn, Cliff" type="person">Cliff Kuhn</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 10, 12-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jbb</idno></bibl>
+          
           <div3 id="sc10-5_006" type="Section">
             <head>I. Winning and Losing at the 1988 Democratic Convention</head>
             <p id="sc10-5_1076">As a supporter of the Rainbow Coalition and the Jackson campaign I
@@ -1142,7 +1150,7 @@ for a change.</p>
           <head>Pursuing the Shadow Government</head>
           <byline>By <docAuthor><name reg="Guthey, Eric" type="person">Eric Guthey</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 5, 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jcg</idno></bibl>
+          
           <p id="sc10-5_10131">Last May, <title>Southern Changes</title> reported on the work of
 the Christic Institute, a Washington-based public interest law firm
 that has a strong history of legal activism throughout the South.</p>
@@ -1308,7 +1316,7 @@ Liberal Arts at Emory University.</p>
           <head>A Letter from Lillian Smith</head>
           <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jdm</idno></bibl>
+          
           <p id="sc10-5_10151">This is the final letter in a series published over the last year
 by <title>Southern Changes</title> exploring the correspondence of
 Lillian Smith. The selection for this issue was written in the fall of
@@ -1424,7 +1432,7 @@ Studies at the University of Alabama, Tuscaloosa.</p>
           <head>U.S. Community Organizer Wounded by Contras</head>
           <byline>By <docAuthor><name reg="Garber, Carter" type="person">Carter Garber</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No.5, 1988, p. 8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jfr</idno></bibl>
+          
           <p id="sc10-5_10166">The Rev. Lucius Walker, of the Interreligious Foundation for
 Community Organization was wounded in August while leading a study
 tour to Nicaragua. Walker is the founding director of IFCO, a
@@ -1475,7 +1483,7 @@ W. 145th St., New York, NY 10031; 212-926-6757.</p>
           <head>A Holiday Shopper's Guide to Alternative Giving</head>
           <byline>By <docAuthor><name reg="Dowe, Kelly" type="person">Kelly Dowe</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 18-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jgw</idno></bibl>
+          
           <p id="sc10-5_10172">When my mother was a little girl in Centreville, Alabama, she
 received the gift of an apple--not a real apple, but a wooden one with
 a tiny wooden tea set inside. The cups were no bigger than the tips of
@@ -1611,7 +1619,7 @@ Ala.</p>
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1988-10">Vol. 10, No. 5, 1988, pp. 24, 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14jh1</idno></bibl>
+          
           <p id="sc10-5_10183">In the fall and winter of 1984, fifty
 white FBI agents came bustling into five west Alabama black-majority
 counties. The feds visited more than 1,000 black voters, often late at

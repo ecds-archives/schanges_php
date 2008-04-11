@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc04-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc04-1_1204">
   <teiHeader id="sc04-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,13 +9,23 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc04-1_002">http://pid.emory.edu/ark:/25593/146j4</idno>
+            <idno type="ark" n="sc04-1_010">http://pid.emory.edu/ark:/25593/146k8</idno>
+            <idno type="ark" n="sc04-1_009">http://pid.emory.edu/ark:/25593/146md</idno>
+            <idno type="ark" n="sc04-1_003">http://pid.emory.edu/ark:/25593/146nj</idno>
+            <idno type="ark" n="sc04-1_004">http://pid.emory.edu/ark:/25593/146pp</idno>
+            <idno type="ark" n="sc04-1_013">http://pid.emory.edu/ark:/25593/146qt</idno>
+            <idno type="ark" n="sc04-1_011">http://pid.emory.edu/ark:/25593/146rz</idno>
+            <idno type="ark" n="sc04-1_014">http://pid.emory.edu/ark:/25593/146s3</idno>
+            <idno type="ark" n="sc04-1_005">http://pid.emory.edu/ark:/25593/146t7</idno>
+            <idno type="ark" n="sc04-1_006">http://pid.emory.edu/ark:/25593/146vc</idno>
+            <idno type="ark" n="sc04-1_008">http://pid.emory.edu/ark:/25593/146wh</idno>
+            <idno type="ark" n="sc04-1_007">http://pid.emory.edu/ark:/25593/146xn</idno>
+            <availability>
           <p id="sc04-1_101">&#xA9;1996 Emory University. Permission is granted to
           download, transmit, or otherwise reproduce, distribute or
           display the contributions to the work claimed by Emory
@@ -26,9 +35,7 @@
           Digital Archive or Lewis H. Beck Center for Electronic
           collections and services, Emory University, Atlanta, Georgia
           30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -36,22 +43,20 @@
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1981-11">November 1981</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc04-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -59,7 +64,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc04-1_1203">
     <body id="sc04-1_1202">
@@ -70,7 +81,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Amended Act Passes...</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, pp. 2-8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146j4</idno></bibl>
+          
           <p id="sc04-1_104">In a final vote showing overwhelming support from members of Congress in the South and elsewhere, the U.S. House of Representatives passed the Voting Rights Act virtually as amended earlier by the House Judiciary Committee. By a margin of 389 to 24, the House now sends to the Senate a bill with amendments that will permit some Southern local governments to bail out from Section 5, the provision of the Act that requires them to get the approval of the U.S. Justice Department before an act or practice affecting voting is implemented.</p>
           <p id="sc04-1_105">The bill also makes lawsuits on voting discrimination easier to prove and contains an unexpected change which will bar voters from receiving assistance in the ballot booth unless they are blind or disabled.</p>
           <p id="sc04-1_106">The debate on the bill began Friday, October 2, when Rep. Don Edwards of California, chairman of the House Subcommittee on Civil and Constitutional Rights, introduced H.R. 3112. Presenting the first arguments for the passage of the Act, Rep. Dan Glickman, a Kansas Democrat and co-sponsor of the bill, assured his colleagues that the Edwards subcommittee had "found overwhelming evidence that the Act is still needed.... I want to emphasize that this bill is important not only to those vitally affected citizens," Glickman said, "but also because it reinforces to the rest of the world our fundamental democratic principles."</p>
@@ -1171,7 +1182,7 @@ changes to original bill.</p>
           <head>What Does H.R. 3112 Provide?</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, p. 9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146k8</idno></bibl>
+          
           <p id="sc04-1_1074">The House bill HR 3112, passed on October 5, extends continuously the special provisions of the Voting Rights Act and changes two others. In essence, the bill amends Section 4 to permit jurisdictions to meet a new standard of exemption from the obligations of preclearing voting changes under Section 5; amends the standard of proof in Section 2 voting discrimination court cases; and extends the bilingual language assistance provisions until 1992.</p>
           <p id="sc04-1_1075">
             <hi rend="bold">Preclearance</hi>
@@ -1216,7 +1227,7 @@ discriminatory purpose and effect.</p>
           <head>"Why the South Needs the Voting Rights Act"</head>
           <byline>By <docAuthor><name reg="Askew, Reubin O'D." type="person">Reubin O'D. Askew</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146md</idno></bibl>
+          
           <p id="sc04-1_1091">With tear gas, with billy clubs, and with bullwhips, the eyes of America were opened at Selma, Alabama in 1965. The longstanding refusal of this nation to fulfill one of the most basic of its democratic commitments was revealed for all to see.</p>
           <p id="sc04-1_1092">American citizens were denied their constitutional right to vote,
 and they were beaten and jailed for protesting that denial, simply
@@ -1298,7 +1309,7 @@ Second Reconstruction</head>
           <byline>By 
             <docAuthor><name reg="Woodward, C. Vann" type="person">C. Vann Woodward</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 13-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146nj</idno></bibl>
+          
           <p id="sc04-1_10131">The last forty years have been an exciting time for the historian of race and race relations. Exploring the past, I was continually encountering the present&#x2014;or something strikingly like it&#x2014;and living in the present, I was constantly running head-on into the past. I never had any trouble in my teaching and writing with the demand for what students used to call "relevance." The danger was in confusing past with present and committing the offense historians call "presentism." One such danger lay in the tempting comparison between events of the 1860s and 1870s with events of a century later. I must assume responsibility for giving currency to the term "Second Reconstruction" as applied to events of our own time and for encouraging the development of some aspects of the analogy between the First and the Second Reconstruction. The analogy was almost inescapable, given the new confrontation between North and South, between white and black, between federal and state government and the daily evocation of the constitutional amendments, federal laws, government policies, and court decisions of the 1860s and 1870s.</p>
           <p id="sc04-1_10132">Historical analogies are notoriously dangerous things. I shall spare you a lecture on the differences between the First and Second Reconstruction, but I do believe that there is one experience of the Reconstruction in the previous century that should be of special interest in deliberations regarding changes in the Voting Rights Act of 1965. 1 have in mind the fateful decisions of the federal government that climaxed in 1876-1877 and led to the virtual abandonment of federal efforts to enforce the rights of the freedmen in the Southern states. Those rights, including the right to vote, were guaranteed by the Fourteenth and Fifteenth Amendments to the Constitution and federal laws to enforce them. The winning and guarantee of those rights were essential parts of the justification of the bloodiest war in our history that cost the lives of 600,000 Americans as well as the justification of the struggle for reconstruction that followed. Yet the white electorate, North as well as South, was wearied and disillusioned with the struggle and a majority was ready to give it up. In turning their back on promises, commitments, and principles of long standing, Republicans knew that the honor of their party was at stake.</p>
           <p id="sc04-1_10134">Before taking the final step and turning over to the Southern
@@ -1364,7 +1375,7 @@ naturally played an important part.</p>
           <head>How the Voting Rights Act is the Most Effective Act on the Books</head>
           <byline>By <docAuthor><name reg="Days, Drew" type="person">Drew Days</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 16, 25-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146pp</idno></bibl>
+          
           <p id="sc04-1_10149">As one who was charged with enforcing a host of other federal civil rights laws, I can attest that the Voting Rights Act of 1965 is by far the most effective statute on the books. While diligent efforts have been made to achieve compliance with laws prohibiting discrimination in housing, education, employment and the like, meaningful remedies for proven violations in these areas have come only after years of litigation. Administration of the preclearance provisions of the Voting Rights Act has, in contrast, prevented in a matter of days electoral changes likely to undercut or retard meaningful minority participation at the ballot box.</p>
           <p id="sc04-1_10150">It would be unfortunate, however, for anyone to take what I have just said about the relative effectiveness of the Voting Rights Act to mean that over a century of injustice against minority voters has been remedied and that we need no longer fear that new strategies will be devised to reverse or retard what few gains have been achieved since the Act came into existence. Nothing could be further from the truth.</p>
           <p id="sc04-1_10151">Though the Act has been on the books since 1965, any fair assessment of its enforcement history would have to conclude that it has been a meaningful weapon against other than the most direct forms of discrimination for less than a decade. It was not until 1969 that the Supreme Court made clear that private parties could sue to obtain compliance by covered jurisdictions with provisions of Section 5 and not until 1971 that the Justice Department received explicit Supreme Court approval to require that changes in polling place locations and in boundary lines by means of annexations receive approval pursuant to Section 5 procedures. Moreover, procedures for enforcing the Voting Rights Act have been the subject of broadly-based court challenges, several of which had to be resolved by the Supreme Court, almost every year since it was enacted.</p>
@@ -1440,7 +1451,7 @@ view. One possibility under review would be to limit the preclearance requiremen
           <head>Reappointment Roundup</head>
           <byline>By <docAuthor><name reg="Holton, Woody" type="person">Woody Holton</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 17-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146qt</idno></bibl>
+          
           <p id="sc04-1_10181">The Southern state capitals have been filled in the last few months with computer tapes, over-sized maps, and print-outs of census data as legislators decide the boundaries of state legislative and Congressional districts according to 1980 population. For the first time since the start of the century all Southern legislatures will pass some kind of re-districting plan, a feat that may be blemished by continuing historical efforts to dilute black voting strength.</p>
           <p id="sc04-1_10182">The job of reapportionment is not always easy. The Virginia legislature's first efforts produced a plan with one district more than the state constitution permitted. In the face of a court challenge, the North Carolina General Assembly had second thoughts about its plan which legislative leaders had boasted was "the best we can do" early in the year. The N.C. legislators returned in October for a second special session.</p>
           <p id="sc04-1_10183">Everywhere legislative reapportionment must meet the provisions of the state and federal constitutions, and in most Southern states black or Hispanic groups are challenging plans in court alleging constitutional violations. While state provisions may vary, federal courts usualy examine reapportionment plans by two standards: "one person&#x2014;one vote" and the protection of minority voters.</p>
@@ -1592,7 +1603,7 @@ U.S. Justice Department and the courts are expected</p>
           <head>Court Grants Virginia A Third Swing At Redistricting</head>
           <byline>By <docAuthor><name reg="Holton, Woody" type="person">Woody Holton</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146rz</idno></bibl>
+          
           <p id="sc04-1_10247">Virginia's court legislative redistricting plan survived neither a court challange nor U.S. Justice Department "preclearance" required by the Voting Rights Act.</p>
           <p id="sc04-1_10248">In July, Justice obliged legislators to hold a special August
 conclave to patch up two majority black House of Delegates districts they had drawn and quartered in their first reapportionment session last April. On August 25, a three-judge federal district court found that, by assigning much fewer voters to some House of Delegates districts than to others, the House had failed to give all voters an equal voice in electing delegates.</p>
@@ -1672,7 +1683,7 @@ Jr.</name>, <name reg="Smith, Joseph" type="person">Joseph Smith</name>, <name r
 Buskey</name>, <name reg="Turner, Abigail" type="person">Abigail Turner</name>,
 <name reg="Woods, Robert" type="person">Robert Woods</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 28-33</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146s3</idno></bibl>
+          
           <p id="sc04-1_10288">
             <hi rend="bold">Texas</hi>
           </p>
@@ -1870,7 +1881,7 @@ Subcommittee on Civil and Constitutional Rights on June 3, 1981.</p>
           <head>Barriers to Voter Registration Remain Southwide</head>
           <byline>By <docAuthor><name reg="Brown, Raymond" type="person">Raymond Brown</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 34-35</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146t7</idno></bibl>
+          
           <p id="sc04-1_10366">Since the end of the white primary system in the South, the most
 basic indication of the fulfillment of the right to register and vote
 has been the analysis of registration by race. Once the Supreme Court
@@ -1908,7 +1919,7 @@ Regional Council that is examining voting rights in the South.</p>
             <docAuthor><name reg="Jordan, Vernon E." type="person">Vernon
 E. Jordan</name> and <name reg="Kirkland, Lane" type="person">Lane Kirkland</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 36-37</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146vc</idno></bibl>
+          
           <p id="sc04-1_10383">
             <hi rend="bold">Vernon E. Jordan</hi>
           </p>
@@ -1978,7 +1989,7 @@ this burden, but we deeply believe that it is theirs to carry.</p>
           <head>Voting Rights Act is Needed in New York</head>
           <byline>By <docAuthor><name reg="Adams, Robert" type="person">Robert Adams</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, pp. 38-39</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146wh</idno></bibl>
+          
           <p id="sc04-1_10420">I speak as the elected Attorney General of the State of New York&#x2014;a state which has three of its largest counties covered by the special provisions of the Voting Rights Act. I believe that extension of those provisions is essential.</p>
           <p id="sc04-1_10421">The Voting Rights Act's prohibition against discrimination in voting applies nationwide. The special provisions of the Act apply only to states and political subdivisions that meet certain specifications. Kings, New York and Bronx counties in New York state are subject to the Act's special provisions, including Section 5, which requires preclearance of any changes in voting, and Section 203, which requires bilingual elections. New York's experience in complying with these requirements convinces me that neither requirement is overly burdensome and that both effectively serve to protect the rights of minority citizens.</p>
           <p id="sc04-1_10422">The counties of Kings, New York and Bronx first came within the purview of the Act in March, 1971. It was then that the United States Attorney General determined that the literacy requirement imposed by New York law was a "test or device" within the meaning of the Voting Rights Act.</p>
@@ -2016,7 +2027,7 @@ Robert Adams testified before Congress on June 10, 1981.</p>
           <head>"Extend the Protections of the Act"</head>
           <byline>By <docAuthor><name reg="Kennedy, Edward" type="person">Edward Kennedy</name></docAuthor></byline>
           <docDate value="1981-11">Vol. 4, No. 1, 1981, p. 40</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/146xn</idno></bibl>
+          
           <p id="sc04-1_10443">I am very pleased to join with Senators Mathias, Biden, Chafee, and Metzenbaum today in introducing the Voting Rights Amendments of 1981. Our bill will extend the essential protections of the historic Voting Rights Act. It will ensure that the hard won progress of the past is preserved, and that the effort to achieve full participation for all Americans in our democracy will continue in the future.</p>
           <p id="sc04-1_10444">Twice before, in 1970 and 1975, the crucial provisions of the Act have been extended. Each time the Act has come under attack. But each time, the Congress on a bipartisan basis, has come to its rescue, with the support of Americans from every part of the country. And in 1975, the Act's protection was also extended to Hispanic Americans and other language minorities, who have been the victim of similar discrimination in the right to vote.</p>
           <p id="sc04-1_10445">Now this landmark legislation is again imperiled. The most successful modern civil rights law is in danger of falling victim to its own success. Unless we act, its crucial safeguards will no longer protect those who have relied upon them the most.</p>

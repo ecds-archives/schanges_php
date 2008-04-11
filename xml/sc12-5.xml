@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc12-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc12-5_1204">
   <teiHeader id="sc12-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,23 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc12-5_002">http://pid.emory.edu/ark:/25593/14p66</idno>
+            <idno type="ark" n="sc12-5_003">http://pid.emory.edu/ark:/25593/14p7b</idno>
+            <idno type="ark" n="sc12-5_004">http://pid.emory.edu/ark:/25593/14p8g</idno>
+            <idno type="ark" n="sc12-5_005">http://pid.emory.edu/ark:/25593/14p9m</idno>
+            <idno type="ark" n="sc12-5_006">http://pid.emory.edu/ark:/25593/14pbr</idno>
+            <idno type="ark" n="sc12-5_007">http://pid.emory.edu/ark:/25593/14pcw</idno>
+            <idno type="ark" n="sc12-5_008">http://pid.emory.edu/ark:/25593/14pd1</idno>
+            <idno type="ark" n="sc12-5_009">http://pid.emory.edu/ark:/25593/14pf5</idno>
+            <idno type="ark" n="sc12-5_010">http://pid.emory.edu/ark:/25593/14pg9</idno>
+            <idno type="ark" n="sc12-5_sc12-4011">http://pid.emory.edu/ark:/25593/14phf</idno>
+            <availability>
           <p id="sc12-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +34,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +42,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1990-11">November 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc12-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +58,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +66,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc12-5_1203">
     <body id="sc12-5_1202">
@@ -75,7 +84,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>What Toxic Waste Facilities Attract</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, p. 10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14p66</idno></bibl>
+          
           <p id="sc12-5_104">The plight of Sumter County, Ala., is a good example for those who
 may be considering a toxic waste facility in their community or
 state. Waste Management Inc. took over the dumpsite in Emelle in
@@ -109,7 +118,7 @@ thing toxic waste facilities attract is more toxic waste.--KAY KIKER
           <head>The Lillian Smith Awards for 1990</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, p. 5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14p7b</idno></bibl>
+          
           <p id="sc12-5_1010">The Lillian Smith Awards are presented yearly to recognize and
 encourage outstanding writing about the American South. Smith long
 distinguished herself as one of the region's foremost advocates of
@@ -150,7 +159,7 @@ University of Alabama Press.</p>
           <head>The Inner Life of the Deadly Machine</head>
           <byline>By <docAuthor><name reg="Shortal, Helen" type="person">Helen Shortal</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 7-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14p8g</idno></bibl>
+          
           <bibl><title>Building
 Bombs.</title> Produced and directed by Mark Mori and Susan
 Robinson.</bibl>
@@ -370,7 +379,7 @@ purchase of <title>Building Bombs</title>, write to Box 5202, Station
           <head>Journey of Change.</head>
           <byline>Reviewed by <docAuthor><name reg="Poinsett, Alex" type="person">Alex Poinsett</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14p9m</idno></bibl>
+          
           <bibl><title>Delta Time: A Journey Through
 Mississippi,</title> by Tony Dunbar. (New York: Pantheon Books,
 1990. 245 pages.).</bibl>
@@ -451,7 +460,7 @@ long acquaintance of Mississippi, is a Contributing Editor of
             </docAuthor>
           </byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, p. 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14pbr</idno></bibl>
+          
           <bibl><title>The Long Haul,</title> an
 Autobiography by Myles Horton, with Judith Kohl and Herbert
 Kohl. (Doubleday, 1990. xvi, 245 pages.). <title>Whitney M. Young,
@@ -491,7 +500,7 @@ power to do something about them."--L.W.D.</p>
             </docAuthor>
           </byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, p. 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14pcw</idno></bibl>
+          
           <bibl><title>Ely, An Autobiography,</title> by
 Ely Green. Foreword by Bertram Wyatt Brown, Introduction by Lillian
 Smith, Afterword by Arthur Ben Chitty. (University of Georgia Press,
@@ -532,7 +541,7 @@ the most genteel spot in the South.--L.W.D.</p>
 With an introduction by Rose Gladney</head>
           <byline>By <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 4-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14pd1</idno></bibl>
+          
           <p id="sc12-5_1063">As contemporary debates concerning the National Endowment for the
 Arts remind us that censorship, like patriotism (to paraphrase Samuel
 Johnson), too often becomes the last refuge of scoundrels, the words
@@ -642,7 +651,7 @@ goodness and freedom and intelligence.</p>
           <head>Un-American Censorship.</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 11, 13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14pf5</idno></bibl>
+          
           <bibl><title>Advancing American Art</title> by
 Taylor D. Littleton and Maltby Sykes. Introduction by Leon
 Litwack. (University of Alabama Press, 1989. 159 pages.).</bibl>
@@ -781,7 +790,7 @@ paintings, worth one's making a trip to Auburn. </p>
           <head>Restarting Savannah River?</head>
           <byline>By <docAuthor><name reg="Connor, Tim" type="person">Tim Connor</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 6-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14pg9</idno></bibl>
+          
           <p id="sc12-5_1094">The Department of Energy (DOE) plans to resume operations in the
 coming weeks at its three aging production reactors near the
 Georgia-South Carolina border. Brushing aside questions about the need
@@ -896,7 +905,7 @@ lives in Augusta, Ga.</p>
           <head>The Two Faces of Southern Populism</head>
           <byline>By <docAuthor><name reg="Carter, Dan T." type="person">Dan T. Carter</name></docAuthor></byline>
           <docDate value="1990-11">Vol. 12, No. 5, 1990, pp. 1-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14phf</idno></bibl>
+          
           <p id="sc12-5_10115">With the strong showing of David Duke, the racism of the Jesse
 Helms and Guy Hunt campaigns and the nation's general mood of
 political dyspepsia, George Wallace's "populist" crusade of the 1960s

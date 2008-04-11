@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc02-7_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc02-7_1204">
   <teiHeader id="sc02-71201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc02-7_002">http://pid.emory.edu/ark:/25593/145fm</idno>
+            <idno type="ark" n="sc02-7_003">http://pid.emory.edu/ark:/25593/145gr</idno>
+            <idno type="ark" n="sc02-7_004">http://pid.emory.edu/ark:/25593/145hw</idno>
+            <idno type="ark" n="sc02-7_006">http://pid.emory.edu/ark:/25593/145j1</idno>
+            <idno type="ark" n="sc02-7_005">http://pid.emory.edu/ark:/25593/145k5</idno>
+            <idno type="ark" n="sc02-7_007">http://pid.emory.edu/ark:/25593/145m9</idno>
+            <idno type="ark" n="sc02-7_008">http://pid.emory.edu/ark:/25593/145nf</idno>
+            <idno type="ark" n="sc02-7_009">http://pid.emory.edu/ark:/25593/145pk</idno>
+            <availability>
           <p id="sc02-7_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 7</biblScope>. <date value="1980-06">June 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc02-7_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc02-7_1203">
     <body id="sc02-7_1202">
@@ -74,7 +81,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>A Tribute to Bell Wiley</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145fm</idno></bibl>
+          
           <p id="sc02-7_104">When I was at the University of Alabama I once had a theory that most professors and administrators showed up at meetings late because it was the custom of the university at that time to begin classes 10 minutes after the hour or half hour. With that impression of most college professors I was, of course, a bit surprised in a small way when Bell Wiley came to our meetings at the SRC offices usually ahead of time.</p>
           <p id="sc02-7_105">I should have known better. Bell was no stranger to me in style even at our first meeting. I had read many of his books on the Civil War and had come to know him as a very particular scholar. In the course of almost three years, I also came to appreciate the rare personal qualities of this Southerner who was in the best sense a scholar and a gentleman.</p>
           <p id="sc02-7_106">In fact, Bell was a far more gentle and quiet man than I had realized. While a Southern gentleman in manners, he seemed to favor sly folk humor and used it more than once. He also was obviously fond of bright red galluses.</p>
@@ -87,7 +94,7 @@ way that reminded me of the sage of the backwoods country store who always seeme
           <head>In this Issue</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 2-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145gr</idno></bibl>
+          
           <p id="sc02-7_1010">About this time of year in 1948 a simple, yet remarkable occurence
 took place in Richmond, Virginia. A Black man named Oliver Hill was
 elected to the City Council. In the next few years other political
@@ -164,7 +171,7 @@ been known or practiced on this soil.</p>
           <head>Survival Week Protests Budget Cuts</head>
           <byline>By <docAuthor><name reg="Powell, Janis Sharp" type="person">Janis Sharp Powell</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, p. 4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145hw</idno></bibl>
+          
           <p id="sc02-7_1021">"No cuts in poor people's programs" was the message being sent to Congress and the nation by the poor people and labor, civil rights, tenants and religious organizations involved in planning Survival Week.</p>
           <p id="sc02-7_1022">Over 150 organizations in nine Southern states organized and endorsed Survival Week, a series of activities that took place May 1-11 to protest Carter's efforts to "balance the budget" and "fight inflation" at the expense of poor people's needs for jobs, housing, medical care, food and education.</p>
           <p id="sc02-7_1023">The cuts threaten to close Black colleges, cripple health care for the young and elderly, and hundreds of thousands of families will face hunger, malnutrition, and starvation when the cuts eliminate the food stamp program. Organizers of Survival Week state that "Carter wants to spend $4 billion less on poor people so he can spend $4 billion more on guns and bullets." They feel that the federal government is trying to trade the need for medical care and a decent income for two submarines and a bomber.</p>
@@ -188,7 +195,7 @@ current rate of inflation, without an increase, the poor will have a
           <head>The Measure of Poverty</head>
           <byline>By <docAuthor><name reg="Einsenberg, Pablo" type="person">Pablo Einsenberg</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145j1</idno></bibl>
+          
           <p id="sc02-7_1028">When Lyndon Johnson proclaimed his unconditional War on Poverty in 1964, no one knew precisely the number or even the definition of "poor." As a result, the Council of Economic Advisors quickly sought to designate the poverty population and concluded among other things that in 1961 a family of two or more making under $3,000 a year had been in official poverty.</p>
           <p id="sc02-7_1029">An estimated food budget was the basis for determining the poverty index for different families. Based on 1955 surveys by the U.S. Department of Agriculture, the Council found that food expenditures accounted for one-third of a low-income family's total budget. With that evidence, the cost of the 1961 "economy food plan" was multiplied by three, yielding a total amount needed by that family to meet all costs. This figure became the official poverty line.</p>
           <p id="sc02-7_1030">Questions about the adequacy of the food plan were raised
@@ -263,7 +270,7 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
           <head>Political Changes in Terrible Terrell</head>
           <byline>By <docAuthor><name reg="Chaney, Betty" type="person">Betty Chaney</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 7-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145k5</idno></bibl>
+          
           <p id="sc02-7_1053">On a winter's day in January 1980, Dawson, Georgia, internationally known for the racially inflamed "Dawson Five" murder trial of three years ago, quietly eased itself into the pages of history again. For this small, predominately Black, southwestern Georgia town, the county seat for "Terrible Terrell" County, making history is not something new. Back in 1960 it became the first jurisdiction to be sued by the Justice Department under the 1957 Civil Rights Act for discrimination in voter registration. This time, however, unlike much of its past history when Black men lined up against White to do battle, three Black men stood alongside three White men and were sworn in together as Dawson City Council members.</p>
           <p id="sc02-7_1054">The victories for the Black men, Robert Albritten, Abraham Breedlove and Lucius Holloway, did not come easy. In fact they were the culmination of a long and fierce struggle. Terrell County was not nicknamed "terrible" because it rhymed; it had one of the worst records of race repression and violence in the South. Headlines about bombing and shooting of Black homes, the burning of Black churches, and even the murder of Blacks by Whites were not uncommon in Terrell County.</p>
           <p id="sc02-7_1055">The September 13, 1962, issue of <hi rend="italic">The Dawson Times</hi> carried the following account:</p>
@@ -341,7 +348,7 @@ a page from Dawson's history yet to be written.</p>
           <head>The Past Of Lowndes County's Future</head>
           <byline>By <docAuthor><name reg="Gordon, Tom" type="person">Tom Gordon</name></docAuthor></byline>
           <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145m9</idno></bibl>
+          
           <p id="sc02-7_1090">HAYNEVILLE, ALA.&#x2014;The 124-year-old courthouse in this Black Belt town once was the political hub and social watering hole for White Lowndes countians. Remembered as stylish and attractive, the whitewashed building with green shutters not only housed most county government offices but also was the site of square dances, dress balls, and other items on the social calendars of the local White populace. The dances usually took place in the second floor's courtroom, where couples would reach from an inside staircase or from two winding outer stairways facing the courthouse square.</p>
           <p id="sc02-7_1091">The outer stairways are gone now and the music of the courtroom's lively dances hasn't been heard for years. Today the courtroom couldn't host a ball, nor can it even house a trial. Leaks, cracks, peeling walls, and general deterioration prompted the state fire marshal to condemn the courtroom last fall. The rest of the courthouse is not far from a similar fate.</p>
           <p id="sc02-7_1092">The historic building is giving way to the strain and neglect of decades&#x2014;pressures that are perhaps as political and economic as architectural. Unlike the old faceless Confederate monument standing immovably and self-evident across the square, the courthouse has shifted symbolically with time and remains unrestored, condemned by local Black folks' memory of the past and the White people's view of the future.</p>
@@ -428,7 +435,7 @@ Star</hi> in Alabama.</p>
           <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
           <byline>By <docAuthor><name reg="Greenhaw, Wayne" type="person">Wayne Greenhaw</name></docAuthor></byline>
           <docDate value="1980-06"> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145nf</idno></bibl>
+          
           <p id="sc02-7_10146">A dark-skinned woman with a sharp straight nose, aged twisted lips,and legs slightly bigger around than a half dollar, Annie Bell Brown looked surprised when more than forty people walked into her scrub-brush front yard.</p>
           <p id="sc02-7_10147">She sat on a ragged old sofa somebody else had discarded years ago. She leaned forward and dipped Garrett snuff, and she cradled gnarled arthritic fingers gingerly around a swollen elbow that hung limply in a sling. A week before a local teenager had found her lying in a dirt street of Black Jack. Her arm was broken. Small dogs played around her frail body. The young man picked her up and carried her to an emergency room nearly twenty miles away.</p>
           <p id="sc02-7_10148">Annie Bell Brown is one of about two-hundred residents of Black Jack, a no-man's-land tucked between Saraland and Satsuma in Mobile County in south Alabama. Neither the county nor the towns will claim the territory.</p>
@@ -508,7 +515,7 @@ and a rustied-out car in the front yard.</p>
           <head>McDuffie: The Case Behind Miami's Riots</head>
           <byline>By <docAuthor><name reg="Gaines-Carter, Patrice" type="person">Patrice Gaines-Carter</name></docAuthor></byline>
           <docDate value="1980-06">Vol. 2, No. 7, 1980, pp. 20-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145pk</idno></bibl>
+          
           <p id="sc02-7_10178">The story has changed several times since its beginning the morning of December 17, in Miami, Florida. It was about 1:50 a.m when police officers there say they spotted Arthur Lee MeDuffie, a Black insurance executive, doing daredevil stunts on his motorcycle.</p>
           <p id="sc02-7_10179">After a high-speed chase, McDuffie was caught. At least a dozen police officers encircled him. For 20 minutes, according to reports, they beat him with nightsticks and flashlights. Four days later, after slipping into a coma, McDuffie, 33, was dead.</p>
           <p id="sc02-7_10180">The police officers wrote up an accident report, saying McDuffie sustained injuries when his motorcycle hit a curb and went out of control. But, the pieces didn't fit. The Dade County medical examiner became suspicious. Rumors about the "accident" were whispered throughout the police department, prompting an internal investigation of the case.</p>

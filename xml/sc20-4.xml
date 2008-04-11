@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc20-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc20-4_1204">
   <teiHeader id="sc20-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc20-4_002">http://pid.emory.edu/ark:/25593/14zdv</idno>
+            <idno type="ark" n="sc20-4_023">http://pid.emory.edu/ark:/25593/14zf0</idno>
+            <idno type="ark" n="sc20-4_004">http://pid.emory.edu/ark:/25593/14zg4</idno>
+            <idno type="ark" n="sc20-4_025">http://pid.emory.edu/ark:/25593/14zh8</idno>
+            <idno type="ark" n="sc20-4_006">http://pid.emory.edu/ark:/25593/14zjd</idno>
+            <idno type="ark" n="sc20-4_009">http://pid.emory.edu/ark:/25593/14zkj</idno>
+            <availability>
           <p id="sc20-4_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +38,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1998-12">Winter 1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc20-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2005</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +54,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +62,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc20-4_1203">
     <body id="sc20-4_1202">
@@ -75,7 +80,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Back to Birmingham</head>
           <byline>By <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 3-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zdv</idno></bibl>
+          
           <p id="sc20-4_104" rend="italic">On November 14-16, 1998, more than four-hundred Southerners convened in Birmingham, Alabama, on the sixtieth anniversary of the founding of the Southern Conference on Human Welfare to recommit to the challenging work for social justice ahead. The conference, "Unfinished Business: Overcoming Racism, Poverty, and Inequality in the South," capped a two-year process of local gatherings initiated by the Jessie Ball duPont Fund in conjunction with the Center for the Study of the American South, the Southern Regional Council, the Southern Education Foundation, the Southeastern Council of Foundations, and the Birmingham Civil Rights Institute.</p>
           <p id="sc20-4_105"><hi rend="italic">This initiative on the part of Southern
 philanthropic, academic, and non-profit institutions, was inspired in
@@ -232,7 +237,7 @@ Power.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 8-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zf0</idno></bibl>
+          
           <p id="sc20-4_1044" rend="italic">In September of 1996, the John Doble Research Associates conducted a national survey of racial attitudes for the Southern Regional Council (see <title>Southern Changes</title>, Spring 1997 and Spring 1998). Below is an excerpt from the Council's detailed analysis of this national survey. The research includedfourfocus groups of white Southerners and a national telephone survey of 1,216 randomly selected adults. Tom W. Smith, Director ofthe General Social Survey of the National Opinion Research Center at the University of Chicago further analyzed the data. In addition to Doble and Smith, the writing team included Ellen Spears and Preston Quesenberry. The research wassupported bya grant from the Charles Stewart Mott Foundation.</p>
           <p id="sc20-4_1045" rend="center">
             <hi rend="bold">Combating Discrimination and Racism</hi>
@@ -277,7 +282,7 @@ intergroup tolerance advanced.</p>
           <byline>By <docAuthor><name reg="Spears, Ellen Griffith" type="person">Ellen
 Griffith Spears</name>; Photos by <name reg="Schwarz, Michael A." type="person">Michael A. Schwarz</name></docAuthor></byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 12-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zg4</idno></bibl>
+          
           <p id="sc20-4_1060" rend="italic">The following excerpt is from <title>The Newtown Story: One Community's Fight for Environmental Justice</title>, written by <title>Southern
 Changes</title> managing editor Ellen Spears and photographed by Atlanta
 independent photojournalist Michael A. Schwarz. This oral history chronicles the story of Newtown, an African-American neighborhood in Gainesville, Georgia.</p>
@@ -358,7 +363,7 @@ Circuit Court of Appeals in Atlanta.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 16-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zh8</idno></bibl>
+          
           <p id="sc20-4_1090">In April of 1998 <title>American Routes</title>, a weekly, two-hour radio show featuring genre-busting sets of recorded music and original interviews went on the air across the United
 States. Based in New Orleans and syndicated by Public Radio
 International, with a list of stations that grows weekly (for the
@@ -577,7 +582,7 @@ non-initiated who are a big segment of our audience. -N. S.
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zjd</idno></bibl>
+          
           <p id="sc20-4_10143" rend="italic">Baldemar Velasquez founded and currently serves as president of the Farm Labor Organizing Committee. In August 1998, Velasquez was interviewed at the Southern Regional Council.</p>
           <p id="sc20-4_10144" rend="italic">The Farm Labor Organizing Committee (FLOC), a union of migrant and
 seasonal farmworkers, was founded in l967 by Baldemar
@@ -651,7 +656,7 @@ Mt. Olive boycott, contact Baldemar Velasquez or Mike Ferner at FLOC,
             </docAuthor>
           </byline>
           <docDate value="1998-12">Vol. 20, No. 4, 1998 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14zkj</idno></bibl>
+          
           <p id="sc20-4_10178"><hi rend="italic">On November 6, 1998, the 1998 Lillian Smith Book Award for
 nonfiction was awarded to John Lewis and Michael D'Orso for</hi><title>Walking with the Wind: A Memoir of the Movement</title><hi rend="italic">, New
 York: Simon and Schuster, 1998. In the category of fiction, the award

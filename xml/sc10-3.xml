@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc10-3_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc10-3_1204">
   <teiHeader id="sc10-31201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,25 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc10-3_002">http://pid.emory.edu/ark:/25593/14hhx</idno>
+            <idno type="ark" n="sc10-3_003">http://pid.emory.edu/ark:/25593/14hj2</idno>
+            <idno type="ark" n="sc10-3_004">http://pid.emory.edu/ark:/25593/14hk6</idno>
+            <idno type="ark" n="sc10-3_005">http://pid.emory.edu/ark:/25593/14hmb</idno>
+            <idno type="ark" n="sc10-3_006">http://pid.emory.edu/ark:/25593/14hng</idno>
+            <idno type="ark" n="sc10-3_007">http://pid.emory.edu/ark:/25593/14hpm</idno>
+            <idno type="ark" n="sc10-3_008">http://pid.emory.edu/ark:/25593/14hqr</idno>
+            <idno type="ark" n="sc10-3_009">http://pid.emory.edu/ark:/25593/14hrw</idno>
+            <idno type="ark" n="sc10-3_010">http://pid.emory.edu/ark:/25593/14hs1</idno>
+            <idno type="ark" n="sc10-3_011">http://pid.emory.edu/ark:/25593/14ht5</idno>
+            <idno type="ark" n="sc10-3_012">http://pid.emory.edu/ark:/25593/14hv9</idno>
+            <idno type="ark" n="sc10-3_013">http://pid.emory.edu/ark:/25593/14hwf</idno>
+            <availability>
           <p id="sc10-3_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +36,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +44,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 3</biblScope>. <date value="1988-05">May/June 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc10-3_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +60,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +68,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc10-3_1203">
     <body id="sc10-3_1202">
@@ -75,7 +86,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>A Letter from Lillian Smith</head>
           <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 16-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hhx</idno></bibl>
+          
           <p id="sc10-3_104">The letter below, written to the editors of the <title>ATLANTA
 CONSTITUTION</title> though it was never published there, is the
 fourth in a series from the correspondence of Lillian Smith. The
@@ -208,7 +219,7 @@ It</title> by Jo Ann Gibson Robinson. (Knoxville: University of
 Tennessee Press, 1987. 190 pp. $12.95.)</head>
           <byline>By <docAuthor><name reg="Barak, Gregg" type="person">Gregg Barak</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 18, 20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hj2</idno></bibl>
+          
           <p id="sc10-3_1029"><title>The Montgomery Bus Boycott and the Women Who Started
 It</title> is a historically significant contribution to the study of
 the civil rights movement. The book establishes the essential
@@ -343,7 +354,7 @@ T. Whatley. (Emmaus, Pa.: Rodale Press, 1987. 180 Pages. $24.95
 cloth. $17.95 paper.)</head>
           <byline>By <docAuthor><name reg="Frazer, Lyn" type="person">Lyn Frazer</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hk6</idno></bibl>
+          
           <p id="sc10-3_1044">As a book title, "How To Make $100,000 Farming 25 Acres" is not
 exactly a modest proposal, especially in these times in the farm
 economy. Booker T. Whatley, a former horticulture professor at
@@ -484,7 +495,7 @@ in Montgomery, Ala.</p>
           <head>The Cold Hard Truth</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hmb</idno></bibl>
+          
           <p id="sc10-3_1062">Phillip Henry Pitts is one helluva trial lawyer. The man is
 skilled, creative and deadly spontaneous. I have been aware of Henry's
 trial abilities for years. He and I have battled almost from the day
@@ -555,7 +566,7 @@ writer.</p>
           <head>A Time to Cast Away Stones</head>
           <byline>By <docAuthor><name reg="Waller, Kathryn J." type="person">Kathryn J. Waller</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 10-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hng</idno></bibl>
+          
           <p id="sc10-3_1076">It seemed an unlikely situation. I was driving to a farmer's rally
 in Conway, S.C., to hear speeches from local politicians, mostly
 white, building up to the keynote address by political activist Jesse
@@ -683,7 +694,7 @@ Advancement Fund.</p>
           <head>Dollars and Schools: Resource Development</head>
           <byline>By <docAuthor><name reg="Rosenfeld, Stuart A." type="person">Stuart. Rosenfeld</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 12-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hpm</idno></bibl>
+          
           <p id="sc10-3_1092">Today, attitudes toward education have changed--though not
 necessarily for altruistic or philosophical reasons--from the
 traditional view that human resource development meant higher
@@ -899,7 +910,7 @@ Council in November 1987.</p>
           <head>'Time to Revitalize' Southern Labor</head>
           <byline>By <docAuthor><name reg="Trifiro, Paul         McLennan" type="person">Paul McLennan</name> and <name reg="Trifiro, Vicki" type="person">Vicki Trifiro</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hqr</idno></bibl>
+          
           <p id="sc10-3_10127">For William Winpisinger, the message to corporate America from the
 5,000 workers gathered in an Atlanta parking lot on April 30 wee to
 remind corporate America that "workers are mad as hell."</p>
@@ -991,7 +1002,7 @@ Assistance Coalition.</p>
           <head>Just a Little Guy Who Got Hit by the Arms Truck</head>
           <byline>By <docAuthor><name reg="Guthey, Eric" type="person">Eric Guthey</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hrw</idno></bibl>
+          
           <p id="sc10-3_10141">I RAISED MY children according to the principle that if you see
 something that's not right," you report it, says Bob Fletcher, the
 former Marietta, Ga., toymaker who says his company was taken over by
@@ -1039,7 +1050,7 @@ they're still doing whatever they please."</p>
           <head>Contras in Dixie</head>
           <byline>By <docAuthor><name reg="Guthey, Eric" type="person">Eric Guthey</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 1-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hs1</idno></bibl>
+          
           <p id="sc10-3_10149">In 1984 an assassin's bomb intended for Contra leader Eden Pastora
 killed eight people, including an American journalist, at the Contra
 outpost of La Penca on the southern front of the U.S.-sponsored war
@@ -1438,7 +1449,7 @@ Liberal Arts at Emory University.</p>
           <head>Cubans in Limbo</head>
           <byline>By <docAuthor><name reg="Dolman, Joe" type="person">Joe Dolman</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, pp. 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ht5</idno></bibl>
+          
           <p id="sc10-3_10208">The Atlanta Federal Penitentiary was weirdly luminous in the bleak
 November dusk. U.S. Army floodlights, hauled in on long flatbed
 trailers, bathed its granite walls and gray cellhouses. Hovering
@@ -1590,7 +1601,7 @@ us to panic. </p>
           <head>Matewan</head>
           <byline>By <docAuthor><name reg="DAVID, JOHN P." type="person">John P. David</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1986, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hv9</idno></bibl>
+          
           <bibl><title>Matewan</title> (Written and directed by John
 Sayles. Filmed by Haskell Wexler. Music by Mason Daring. With James
 Earl Jones, Chris Cooper, Mary McDonnell, Will Oldham.)</bibl>
@@ -1738,7 +1749,7 @@ scheduled for cable distribution around the end of 1988.</p>
           <head>Labor, Environmental Coalition Wins Bill Passage</head>
           <byline>By <docAuthor><name reg="Acuff, Stewart" type="person">Stewart Acuff</name></docAuthor></byline>
           <docDate value="1988-05">Vol. 10, No. 3, 1988, p. 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14hwf</idno></bibl>
+          
           <p id="sc10-3_10248">It's not often that the environmental movement and the labor
 movement can find enough common ground to work together in a mutually
 beneficial effort. It is difficult for any coalition to hold itself

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc07-3_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc07-3_1204">
   <teiHeader id="sc07-31201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc07-3_002">http://pid.emory.edu/ark:/25593/14cmx</idno>
+            <idno type="ark" n="sc07-3_003">http://pid.emory.edu/ark:/25593/14cn2</idno>
+            <idno type="ark" n="sc07-3_007">http://pid.emory.edu/ark:/25593/14cp6</idno>
+            <idno type="ark" n="sc07-3_008">http://pid.emory.edu/ark:/25593/14cqb</idno>
+            <idno type="ark" n="sc07-3_009">http://pid.emory.edu/ark:/25593/14crg</idno>
+            <idno type="ark" n="sc07-3_016">http://pid.emory.edu/ark:/25593/14csm</idno>
+            <idno type="ark" n="sc07-3_017">http://pid.emory.edu/ark:/25593/14ctr</idno>
+            <idno type="ark" n="sc07-3_018">http://pid.emory.edu/ark:/25593/14cvw</idno>
+            <availability>
           <p id="sc07-3_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 7</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1985-07">July-September 1985</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc07-3_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc07-3_1203">
     <body id="sc07-3_1202">
@@ -79,7 +86,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 37-38</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cmx</idno></bibl>
+          
           <p id="sc07-3_104">Shortly after the spring thaw of 1573 a woman prayed for her
 children.</p>
           <p id="sc07-3_105">
@@ -231,7 +238,7 @@ forty-four years ago this month. This essay is reprinted from
 Black Women</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 5-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cn2</idno></bibl>
+          
           <div3 id="sc07-3_004" type="Section">
             <head>Excerpts and Observations</head>
             <p id="sc07-3_1025"><hi rend="bold">Shirley Chisolm</hi>, president of the National
@@ -581,7 +588,7 @@ No. 25. with foreword by Wayne Mixon. (Athens: University of Georgia
 Press, 1984, 143 pages).</head>
           <byline>By <docAuthor><name reg="Fox-Genovese, Elizabeth" type="person">Elizabeth Fox-Genovese</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 38-40</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cp6</idno></bibl>
+          
           <p id="sc07-3_1076">The charm of Paul Gaston's  <title>The Women of Fairhope </title>
 resembles that of treasured stories. Reading it makes you wish that
 you could have heard the lectures on which it is based. But whatever
@@ -756,7 +763,7 @@ they need to draw more far-reaching conclusions.</p>
           <head>Sixty five Years in Eufaula</head>
           <byline>By <docAuthor><name reg="Frost, David" type="person">David Frost</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 30-37</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cqb</idno></bibl>
+          
           <p id="sc07-3_1089">I am DAVID FROST, Jr.</p>
           <p id="sc07-3_1090">This is an account of my life in Eufaula, Alabama and my family
 struggle for survival.</p>
@@ -1273,7 +1280,7 @@ catch me. I think I will have to stop making moonshine for good.</p>
 Annual Report </head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 21-26, 28-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14crg</idno></bibl>
+          
           <p id="sc07-3_10183">1985 marks the forty-first anniversary of the founding of the
 Southern Regional Council. Today, as in the past, the Council's vision
 of the South's future radiates from a belief in democratic
@@ -1925,7 +1932,7 @@ change.</p>
           <head>Abandoning Affirmative Action</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 1-2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14csm</idno></bibl>
+          
           <p id="sc07-3_10283">The Reagan Administration stands on the verge of severely weakening
 affirmative action rules for federal contractors. As it is now
 drafted, a proposed Presidential Order eliminates existing
@@ -2018,7 +2025,7 @@ gains. </p>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen
 	       Tullos</name>, Photographs by<name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 10-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ctr</idno></bibl>
+          
           <p id="sc07-3_10295">An annual highlight of the late summer in Fayetteville, North
 Carolina and neighboring Fort Bragg, the United States Army's Heat and
 Death Festival was moved this year at the request of the Army Corps of
@@ -2779,7 +2786,7 @@ the right direction."</p>
           <head>Crackdown in the Black Belt: On to Greene County</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1985-07">Vol. 7, No. 3, 1985, pp. 2-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cvw</idno></bibl>
+          
           <p id="sc07-3_10482">Fifth of July "not guilty" verdicts by a
 federal jury in Selma have freed the voting rights activists known as
 the Marion Three. Stymied, for the moment, is the Reagan Justice

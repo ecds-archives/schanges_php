@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc11-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc11-2_1204">
   <teiHeader id="sc11-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc11-2_002">http://pid.emory.edu/ark:/25593/14k6w</idno>
+            <idno type="ark" n="sc11-2_003">http://pid.emory.edu/ark:/25593/14k71</idno>
+            <idno type="ark" n="sc11-2_004">http://pid.emory.edu/ark:/25593/14k85</idno>
+            <idno type="ark" n="sc11-2_005">http://pid.emory.edu/ark:/25593/14k99</idno>
+            <idno type="ark" n="sc11-2_007">http://pid.emory.edu/ark:/25593/14kbf</idno>
+            <idno type="ark" n="sc11-2_008">http://pid.emory.edu/ark:/25593/14kck</idno>
+            <idno type="ark" n="sc11-2_009">http://pid.emory.edu/ark:/25593/14kdq</idno>
+            <idno type="ark" n="sc11-2_011">http://pid.emory.edu/ark:/25593/14kfv</idno>
+            <idno type="ark" n="sc11-2_012">http://pid.emory.edu/ark:/25593/14kg0</idno>
+            <idno type="ark" n="sc11-2_013">http://pid.emory.edu/ark:/25593/14kh4</idno>
+            <idno type="ark" n="sc11-2_014">http://pid.emory.edu/ark:/25593/14kj8</idno>
+            <idno type="ark" n="sc11-2_015">http://pid.emory.edu/ark:/25593/14kkd</idno>
+            <idno type="ark" n="sc11-2_016">http://pid.emory.edu/ark:/25593/14kmj</idno>
+            <availability>
           <p id="sc11-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +37,7 @@ header is included in its entirety.  For inquiries about commercial
 uses, contact either: Southern Changes Digital Archive or Lewis H. Beck
 Center for Electronic collections and services, Emory University,
 Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,15 +45,14 @@ Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 11</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1989-03">March-April 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc11-2_102">This text is produced in conjunction with the Southern
 Changes Digital Archive at Emory University and the Southern Regional
 Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -53,8 +60,7 @@ Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -62,7 +68,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc11-2_1203">
     <body id="sc11-2_1202">
@@ -78,7 +90,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 12, 14-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k6w</idno></bibl>
+          
           <p id="sc11-2_104">Obsessions are never simple, and they usually lead to suffering. I,
 for instance, am almost reduced to going barefoot, my shirts are
 frayed at the collar and cuff, and I'm only thankful it was a mild
@@ -405,7 +417,7 @@ rural Alabama for most of his life.</p>
           <head>A Sampling of Other Catalogs </head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k71</idno></bibl>
+          
           <p id="sc11-2_1085">The Land's End catalog is only one of many with racially
 discriminatory model selection. The following catalogs were received
 at one middle-income Alabama household over the past few months. While
@@ -447,7 +459,7 @@ jewelry, art, furniture, electronics. Minority models: None.</item></list></p>
           <head>Lawsuit Alleges Bias in Real Estate Ads </head>
           <byline>By <docAuthor><name reg="Staff">Staff </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k85</idno></bibl>
+          
           <p id="sc11-2_1086">In New York, a lawsuit involving the absence of black models in
 advertisements for housing is pending against the <title>New York
 Times</title>. The suit was filed by the New York Open Housing Center
@@ -477,7 +489,7 @@ information.</p>
           <head>Excerpts from the 1988 Lillian Smith Awards Presentations </head>
           <byline>By <docAuthor><name reg="RJN" type="person">RJN </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14k99</idno></bibl>
+          
           <p id="sc11-2_1091">In 1966 the Southern Regional Council established the Lillian Smith
 Book Award in honor of a life member of the council who had made great
 contributions to improving human relations in the South. Lillian
@@ -730,7 +742,7 @@ Award for his book, <title>Our Land, Too.</title></p>
           <head>Doug Marlette . . . on Marlette </head>
           <byline>By <docAuthor><name reg="Marlette, Doug" type="person">Doug Marlette</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 7-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kbf</idno></bibl>
+          
           <p id="sc11-2_10116">EDITOR'S NOTE: The following comments by Doug Marlette
 are--with a few recent additions and editing--taken from a 1985
 interview conducted by Terry A. Schmitt for <title>Target: The
@@ -877,7 +889,7 @@ cartoonists are a lot like that.</p>
           <head>On Homelessness </head>
           <byline>By <docAuthor><name reg="Kozol, Jonathan" type="person">Jonathan Kozol</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kck</idno></bibl>
+          
           <p id="sc11-2_10138">I met a homeless man in San Antonio who could stand in for many. He
 fits none of the stereotypes. Wasn't crazy. He wasn't lazy, he wasn't
 a drug user, or an alcoholic. He was a former auto worker. He'd lost
@@ -934,7 +946,7 @@ homelessness published last year by Crown.</p>
           <head>Winthrop Rockefeller and Executions</head>
           <byline>By <docAuthor><name reg="Kirby, Martin" type="person">Martin Kirby </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 10-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kdq</idno></bibl>
+          
           <p id="sc11-2_10144">In the continuing debate over the death penalty, it is fitting to
 invoke the name of Winthrop Rockefeller, who was Governor of Arkansas,
 my home state, from 1967 to 1971. He managed to overcome the awful
@@ -1015,7 +1027,7 @@ North Augusta, South Carolina.</p>
           <head>Winning the South </head>
           <byline>By <docAuthor><name reg="Johnson, Ken" type="person">Ken Johnson </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 1, 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kfv</idno></bibl>
+          
           <p id="sc11-2_10154">For Democrats, the Solid South is history. This, having been true
 for the national party for some time now, is becoming the case for
 Democrats at the state and local level as well. Yet, despite the
@@ -1300,7 +1312,7 @@ from that report.</p>
           <head>Cartoonist Jumps Ship in Atlanta</head>
           <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kg0</idno></bibl>
+          
           <p id="sc11-2_10189">Doug Marlette, the Pulitzer-winning political cartoonist lured from
 the <title>Charlotte Observer</title> when Bill Kovach became editor
 of the <title>Atlanta Journal-Constitution</title>, has become the
@@ -1354,7 +1366,7 @@ Southerner should feel right at home."</p>
           <head>A Southern Exposure for Spring Planting </head>
           <byline>By <docAuthor><name reg="HRW" type="person">HRW</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 5-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kh4</idno></bibl>
+          
           <p id="sc11-2_10199">As soil is being worked and gardens laid this Spring, it may be
 useful to remember that all seeds are not created equal, and that
 there are alternatives to agribusiness and hybridization.</p>
@@ -1424,7 +1436,7 @@ a trip to the refrigerator for a beer.</p>
           <head>Hightower Chooses a Populist Agenda </head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 4-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kj8</idno></bibl>
+          
           <p id="sc11-2_10211">Jim Hightower has a way forward for the Democrat. Party. In order
 to pursue his strategy, Hightower has decided to run for re-election
 as Texas Agriculture Commissioner rather than challenging Republican
@@ -1492,7 +1504,7 @@ England.</p>
           <head>Bundy Killing No Cause for Celebration </head>
           <byline>By <docAuthor><name reg="Collins, Leroy" type="person">Leroy Collins </name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, p. 10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kkd</idno></bibl>
+          
           <p id="sc11-2_10220">Since I have a long record of opposing the death penalty, I have
 been asked what my reactions are to the Theodore Bundy execution.</p>
           <p id="sc11-2_10221">I have made very clear my reasons for opposing the death
@@ -1559,7 +1571,7 @@ comments originally appeared.</p>
           <head>The Cold Hard Truth </head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-03">Vol. 11, No. 2, 1989, pp. 24, 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14kmj</idno></bibl>
+          
           <p id="sc11-2_10232">I am proud of America and proud to be an American. Almost no other
 nation in the world would have waged a civil war to abolish slavery,
 enact the Thirteenth, Fourteenth and Fifteenth Amendments and pass

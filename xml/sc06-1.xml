@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc06-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc06-1_1204">
   <teiHeader id="sc06-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,22 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc06-1_002">http://pid.emory.edu/ark:/25593/149mq</idno>
+            <idno type="ark" n="sc06-1_006">http://pid.emory.edu/ark:/25593/149nv</idno>
+            <idno type="ark" n="sc06-1_007">http://pid.emory.edu/ark:/25593/149p0</idno>
+            <idno type="ark" n="sc06-1_008">http://pid.emory.edu/ark:/25593/149q4</idno>
+            <idno type="ark" n="sc06-1_009">http://pid.emory.edu/ark:/25593/149r8</idno>
+            <idno type="ark" n="sc06-1_010">http://pid.emory.edu/ark:/25593/149sd</idno>
+            <idno type="ark" n="sc06-1_011">http://pid.emory.edu/ark:/25593/149tj</idno>
+            <idno type="ark" n="sc06-1_012">http://pid.emory.edu/ark:/25593/149vp</idno>
+            <idno type="ark" n="sc06-1_013">http://pid.emory.edu/ark:/25593/149wt</idno>
+            <availability>
           <p id="sc06-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +33,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +41,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1984-01">January-February 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc06-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +57,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +65,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc06-1_1203">
     <body id="sc06-1_1202">
@@ -76,7 +84,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 Domination</head>
           <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 1-3, 5-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149mq</idno></bibl>
+          
           <div3 id="sc06-1_003" n="I" type="Section">
             <p id="sc06-1_104">Southerners, of all US citizens, should be best equipped to
 understand the peoples' rebellion in Central America. The forces which
@@ -415,7 +423,7 @@ and seventh to Cuba.</p>
           <head>The Kissinger Commission Report</head>
           <byline>By <docAuthor><name reg="Kirkpatrick, Dow" type="person">Dow Kirkpatrick</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149nv</idno></bibl>
+          
           <p id="sc06-1_1066">The Kissinger Commission report (the President's commission on
 Central America) fails to recommend an alternative for Central
 America. It calls for more of what has already failed.</p>
@@ -438,7 +446,7 @@ the poor in reorganizing society to meet human needs.</p>
           <head>"The Logic of the Majority"</head>
           <byline>By <docAuthor><name reg="Gorostiaga, Xabier" type="person">Xabier Gorostiaga</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 6-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149p0</idno></bibl>
+          
           <sp>
             <speaker>Xabier Gorostiaga: </speaker>
             <p id="sc06-1_1069">I was born in the Basque
@@ -901,7 +909,7 @@ workshop held in The Hague during the summer of 1983.</p>
           <head>The Bomb Plant on Trial</head>
           <byline>By <docAuthor><name reg="Bowman, Sue" type="person">Sue Bowman</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 10-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149q4</idno></bibl>
+          
           <p id="sc06-1_10125">Fifty demonstrators who blockaded entrances to the Savannah River
 Plant last fall were found guilty of a traffic violation January 11,
 but the nuclear weapons facility which produces the plutonium for US
@@ -1088,7 +1096,7 @@ regularly about Southern disarmament activities.</p>
           <head>Populist Revival in Mississippi?</head>
           <byline>By <docAuthor><name reg="Pigott, Brad" type="person">Brad Pigott</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 12-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149r8</idno></bibl>
+          
           <p id="sc06-1_10162"><q direct="unspecified">My opponent is not the man whose name will appear on the
 ballot. Instead, my opposition is a small group of very wealthy and
 very powerful men who are financing the campaign against me. These
@@ -1615,7 +1623,7 @@ campaign of Congressman Wayne Dowdy.</p>
             </docAuthor>
           </byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 17-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149sd</idno></bibl>
+          
           <p id="sc06-1_10217">In 1947, when he first stopped in at my office at the Charlotte
 News, John Popham was the only newspaper correspondent assigned to a
 beat that stretched from the Potomac to Eagle Pass. His one-man bureau
@@ -1746,7 +1754,7 @@ Plaza Hotel, Atlanta, November 12, 1983.</p>
           <head>Popham: "Avoiding the Hit and Run Press"</head>
           <byline>By <docAuthor><name reg="Cooper, Eleanor Mccallie" type="person">Eleanor Mccallie Cooper</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 19-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149tj</idno></bibl>
+          
           <p id="sc06-1_10235">"Just call it as you see it, John, anything that you can see in the
 South, the enormous changes that are about to take place. We don't
 know, nobody knows how it's going to be this time. We know it's a
@@ -2011,7 +2019,7 @@ Project.</p>
 Family.</title> University Press of Kentucky, 1983.</head>
           <byline>By <docAuthor><name reg="Campbell, Will D." type="person">Will D. Campbell</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, pp. 23-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149vp</idno></bibl>
+          
           <p id="sc06-1_10271">For too long we have cataloged, systematized and categorized the
 places and ways of learning. And too often we neglect, ignore or fail
 to see resources near at hand.</p>
@@ -2159,7 +2167,7 @@ River.</title></p>
           <head>Voting for the "Covert" War</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1984-01">Vol. 6, No. 1, 1984, p. 4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/149wt</idno></bibl>
+          
           <p id="sc06-1_10291">On two occasions during the past year, most of the Southern
 representatives in the US House voted to endorse the Reagan
 Administration's war on Nicaragua. In the voting records shown below,

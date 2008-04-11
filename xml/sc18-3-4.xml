@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc18-3-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc18-3-4_1204">
   <teiHeader id="sc18-3-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,13 +9,17 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc18-3-4_002">http://pid.emory.edu/ark:/25593/14w83</idno>
+            <idno type="ark" n="sc18-3-4_008">http://pid.emory.edu/ark:/25593/14w97</idno>
+            <idno type="ark" n="sc18-3-4_010">http://pid.emory.edu/ark:/25593/14wbc</idno>
+            <idno type="ark" n="sc18-3-4_011">http://pid.emory.edu/ark:/25593/14wch</idno>
+            <idno type="ark" n="sc18-3-4_013">http://pid.emory.edu/ark:/25593/14wdn</idno>
+            <idno type="ark" n="sc18-3-4_014">http://pid.emory.edu/ark:/25593/14wfs</idno>
+            <availability>
           <p id="sc18-3-4_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -24,9 +27,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
 Southern Changes Digital Archive or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -34,24 +35,22 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 18</biblScope>, <biblScope type="issue">Number 3-4</biblScope>. <date value="1996-09">1996</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc18-3-4_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -59,7 +58,13 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc18-3-4_1203">
     <body id="sc18-3-4_1202">
@@ -72,7 +77,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
           <head>A Question of Power: Race and Democracy in Rural Electric Co-ops</head>
           <byline>By <docAuthor><name reg="Leifermann, Henry" type="person">Henry Leifermann</name> with <name reg="Wehner, Pat" type="person">Pat Wehner</name></docAuthor></byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 3-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w83</idno></bibl>
+          
           <p id="sc18-3-4_104" rend="italic">Throughout rural America, few institutions are as powerful, economically significant, and effectively unregulated as electric and telephone membership cooperatives. In the South--the section of the United States with the highest proportion of rural and poor residents--co-ops control up to fourteen billion dollars in total assets. Having expanded to include far more than the electric lines that first brought power to the countryside, these combined resources represent the capacity to construct a better future for the rural South through homegrown economic development, job creation, and the improvement of local infrastructures.</p>
           <p id="sc18-3-4_105" rend="italic">Designed to be democratic, with each customer entitled to a vote, the co-ops have instead often functioned as private reserves of capital for local elites. In areas like the Black Belt, self-selected boards of economically powerful whites have dominated management of the co-ops through intimidation, misinformation, and blatant manipulation of electoral procedures.</p>
           <p id="sc18-3-4_106" rend="italic">This special issue of Southern Changes reflects on the fourteen year history of the SRC's Co-op Democracy and Development Project, surveys the issues affecting utility co-ops today, and raises questions about how these institutions can become a progressive force in the rural life of the South and the nation.</p>
@@ -561,7 +566,7 @@ Cooperative Service Department.</p>
 Mecklenburg Co-op</head>
           <byline>By <docAuthor><name reg="Leifermann, Henry" type="person">Henry Leifermann</name> and <name reg="Quesenberry,  Preston" type="person"> Preston Quesenberry</name></docAuthor></byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 16-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14w97</idno></bibl>
+          
           <p id="sc18-3-4_10103">For well over a decade, Cora Tucker, a civil rights activist and founder of the grassroots organization Citizens for a Better America, has been working to get African-American candidates democratically elected to the board of directors of the Mecklenburg Electric Co-op in Virginia, located on the North Carolina state line near I-95. African-American members have never elected one of their own candidates to the co-op board, despite making up more than a third of Mecklenburg's customers, says Tucker.</p>
           <p id="sc18-3-4_10104">Currently, two of Mecklenburg's eleven board members are African American,
 but African-American communities did not nominate either of them as candidates, Tucker says. In order to get people on the board who are selected by and accountable to local communities, Tucker and her supporters have been mailing out letters to all of the black churches in the service area, alerting their leaders to the upcoming board election in June of 1997 and asking them to consider whether they or anyone else in their
@@ -605,7 +610,7 @@ Liefermann</name> and <name reg="Quesenberry, Preston" type="person">Preston Que
           </byline>
           <byline>--H.L. AND P.Q.</byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 19-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wbc</idno></bibl>
+          
           <p id="sc18-3-4_10115">It took a coalition of whites and blacks to win the only election victory at a local utility co-op during the original Co-op Democracy Project efforts in 1983. Working together, the reform coalition successfully elected five new candidates to the board of directors of the Dixie Electric Membership Cooperative in Baton Rouge, Louisiana. What has happened since that victory serves as an example of both the opportunities offered by cooperatives and the difficulties in maintaining full democratic participation.</p>
           <p id="sc18-3-4_10116" rend="center">
             <hi rend="bold">Coalition and Change</hi>
@@ -668,7 +673,7 @@ into private sector facilities. The center also helps aspiring entrepreneurs set
             </docAuthor>
           </byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wch</idno></bibl>
+          
           <p id="sc18-3-4_10143">Challenging an institution as tricky to define in legal terms as a rural electric cooperative can prove a difficult task. An unsuccessful lawsuit filed in 1983 against the Delta Electric Power Association provides a vivid demonstration of some of these inherent complexities.</p>
           <p id="sc18-3-4_10144">The plaintiffs in the case of <hi rend="italic">Givens, et al. v. Delta Electric Power Association</hi> felt they had encountered a
 clear and egregious example of discrimination. Since 1967, the all-white Delta board of
@@ -758,7 +763,7 @@ monitor future hiring.</p>
             </docAuthor>
           </byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wdn</idno></bibl>
+          
           <p id="sc18-3-4_10167">The proposed deregulation of electric utilities is emerging as yet another obstacle to rural electric cooperatives becoming a progressive force in their communities. Currently, electric co-ops at least have the potential to address a wide variety of social needs in their service areas: economic development, democratic involvement, environmental protection, energy conservation, and affordable service for all customers (including low-income or hard-to-serve customers). But in the competitive, laissez faire environment created by deregulation, this host of concerns could very likely fall victim to the
 sole priority of generating power at the cheapest cost for what commercial utilities consider their most attractive customers--large industrial users and high-density service areas. Even worse, deregulation could threaten the very existence of cooperatives by re-moving all barriers to multi-state mergers and corporate takeovers in the utility industry.</p>
           <p id="sc18-3-4_10168">At the core of the policy debate over the deregulation of electric utilities is the concept of "retail wheeling." In a retail wheeling system, electric customers would no longer be required to buy power from their local utilities. Rather, the customer could buy electricity from a host of competing suppliers who would be given the right to "wheel" their power across the transmission lines of local utilities.</p>
@@ -812,7 +817,7 @@ in 1997.</p>
             </docAuthor>
           </byline>
           <docDate value="1996-09">Vol. 18, No. 3-4, 1996 pp. 27-29</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wfs</idno></bibl>
+          
           <p id="sc18-3-4_10186">The enduring, pivotal significance of the utility co-op movement is demonstrated by the simple, historical fact that never has there been another economic institution that has so many resources, that has so vital a role to play in the rural South's livelihood, and that is within the reach of democratic transformation. Utility co-ops offer a rare opportunity in America's private sector to unite democracy and development for the long-term direct benefit of the poor on a broad societal scale. At the moment, this effort has even more immediate significance, as the Congress has restructured vastly the terms by which the government assists the poor. The rural South is where the impact of the new welfare system will come home first for the simple reason that it is where jobs are scarcest. Amid welfare "reform" and all of the dangers and potential cruelties it includes, the utility co-op movement is a way in which to respond by attempting to link the needs of the poor with opportunities for economic development -- for the creation of jobs and job skills.</p>
           <p id="sc18-3-4_10187">The rural South is also where the majority of rural poor African Americans live, as well as the ancestral home of a majority of African Americans. There is no place more important to the rural poor, but especially the rural black poor, than the rural South. Not incidentally, it is where the greatest disrespect for the democratic principles of the utility co-op movement has been evident.</p>
           <p id="sc18-3-4_10188">Telephone and electric co-ops, which are meant to be run by the people they serve, provide the basic utility services for much of the rural South. As we watch government support for the poor diminish over the next few years, nothing will come home faster than whether people can afford to pay their utilities, to keep their homes heated in winter, and to keep from suffering enormously in the summer heat of the South. These largely unregulated utility co-ops will make the decisions about what rates the poor pay.</p>

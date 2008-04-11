@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc20-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc20-1_1204">
   <teiHeader id="sc20-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,30 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc20-1_002">http://pid.emory.edu/ark:/25593/14x6x</idno>
+            <idno type="ark" n="sc20-1_003">http://pid.emory.edu/ark:/25593/14x72</idno>
+            <idno type="ark" n="sc20-1_004">http://pid.emory.edu/ark:/25593/14x86</idno>
+            <idno type="ark" n="sc20-1_005">http://pid.emory.edu/ark:/25593/14x9b</idno>
+            <idno type="ark" n="sc20-1_012">http://pid.emory.edu/ark:/25593/14xbg</idno>
+            <idno type="ark" n="sc20-1_006">http://pid.emory.edu/ark:/25593/14xcm</idno>
+            <idno type="ark" n="sc20-1_007">http://pid.emory.edu/ark:/25593/14xdr</idno>
+            <idno type="ark" n="sc20-1_015">http://pid.emory.edu/ark:/25593/14xfw</idno>
+            <idno type="ark" n="sc20-1_008">http://pid.emory.edu/ark:/25593/14xg1</idno>
+            <idno type="ark" n="sc20-1_013">http://pid.emory.edu/ark:/25593/14xh5</idno>
+            <idno type="ark" n="sc20-1_014">http://pid.emory.edu/ark:/25593/14xj9</idno>
+            <idno type="ark" n="sc20-1_016">http://pid.emory.edu/ark:/25593/14xkf</idno>
+            <availability>
           <p id="sc20-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +40,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 20</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1998-03">Spring 1998</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc20-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +61,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc20-1_1203">
     <body id="sc20-1_1202">
@@ -67,7 +78,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Going Nowhere Fast - Affirmative Action Opponents Stymied in the States</head>
           <byline>By <docAuthor><name reg="Wood, Amy" type="person">Amy Wood</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 3-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x6x</idno></bibl>
+          
           <p id="sc20-1_104">Across the country, conservatives are realizing that affirmative action will not easily be eliminated through state legislative action. Despite sharp attacks in the courts and reports that state legislators from coast to coast are preparing to eliminate state affirmative action programs, during 1996 and 1997 only thirteen states actually introduced such legislation, and none of these bills was successful. And only one state, Washington, expects to have an initiative similar to California's Proposition 209 on the ballot in 1998. Events in 1998 show that affirmative action is still very much a viable force in America. In fact, those working to repeal affirmative action on the state level see themselves engaged in a difficult and potentially unsuccessful struggle.</p>
           <p id="sc20-1_105">Hopefully, this news will end the widespread perception that the foes of affirmative action constitute, as <title>The New York Times</title> put it in November 1997: "The national movement that has often seemed to have the momentum of an unstoppable freight train." It was a prominent report in the <title>Times</title> a year earlier, along with stories in <title>The Atlanta Constitution</title>, <title>The Dallas Morning News</title>, and other papers, that left the false impression that almost half the states were on the verge of eliminating their affirmative action programs.</p>
           <p id="sc20-1_106">In November of 1996, Sam Howe Verhovek of <title>The New York Times</title>, wrote that twenty-six states had introduced anti-affirmative action legislation that year. According to his assistant, Verhovek got the figures from the National Conference of State Legislatures (NCSL), a non-partisan organization that tracks state legislation. Yet, a closer look at the NCSL 1996 affirmative action report reveals that while twenty-six states introduced some form of legislation concerning discrimination and affirmative action, fewer than half that number of bills in 1996 actually sought comprehensive repeal. Indeed, some of the legislation was offered to support anti-discrimination laws. Though Verhovek correctly noted that "not a single bill passed," his numbers took on a life of their own.</p>
@@ -261,7 +272,7 @@ concepts of the civil rights movement, even distorting the words of Rev. Martin 
           <head>Affirmative Action: Overcoming Disparities Yields Economic Benefits</head>
           <byline>By <docAuthor><name reg="Wood, Amy" type="person">Amy Wood</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 12-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x72</idno></bibl>
+          
           <p id="sc20-1_1070">Opponents like to argue that affirmative action divides; the reality is that the failure to overcome persistent inequality divides Americans. Affirmative action is necessary to ensure equal opportunity and racial, gender, and ethnic diversity in our country's workplaces and schools, not only to compensate for past discrimination, but to remedy the economic inequalities that persist today, largely because of past injustices. Racial and gender disparities in income levels, material wealth, and professional and educational opportunities continue despite progress. Evidence shows that where affirmative action  has been applied, it has been beneficial. </p>
           <p id="sc20-1_1071">Before looking at the benefits of affirmative action, it is useful to see the income and educational disparities between white males and the groups targeted by affirmative action.</p>
           <p id="sc20-1_1072" rend="center">
@@ -497,7 +508,7 @@ Liberal Arts at Emory University.</p>
           <head>Another Legal Assault on Pluralism</head>
           <byline>By <docAuthor><name reg="Torian, Sarah" type="person">Sarah Torian</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 16-19, 34</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x86</idno></bibl>
+          
           <p id="sc20-1_10115">"It is preposterous," says Harvard educator Gary Orfield of the <hi rend="italic">Wooden</hi> case, a Georgia lawsuit filed in 1997. Challenging both the affirmative action programs at the state's predominantly white institutions and the legitimacy of its historically black universities, the case illustrates some of the ironies of anti-affirmative action arguments, as well as the complexity and difficulty of eliminating vestiges of segregation in higher education.</p>
           <p id="sc20-1_10116">This case, says Dennis Parker, who represents the NAACP LDF and the
 SCLC in the suit, will determine the future of "fair access by
@@ -625,7 +636,7 @@ plaintiffs would effect a drastic reduction in <pb id="sc20-1_10158" n="34"/>edu
           <head>Republican Effort Backfires: Resounding Defeat for Affirmative Action Foes in Georgia</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name> and <name reg="Torian,  Sarah" type="person"> Sarah Torian</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14x9b</idno></bibl>
+          
           <p id="sc20-1_10164">Opponents of affirmative action suffered a resounding defeat in the Georgia legislature during the 1998 session, when amendments banning affirmative action in the state were killed. A broad coalition of pro-equity advocates succeeded in retaining affirmative action programs by working effectively within the shifting dynamics of election year politics. Republican sponsors who had hoped to split Democratic constituencies found their party divided instead. </p>
           <p id="sc20-1_10165">Cobb County Republican Earl Ehrhart (R-Powder Springs) led the attempt to outlaw the few modest programs that promote inclusion in public higher education, contracting, and hiring. His effort was defeated February 18 by a Democratic-sponsored substitute in a 98 to 53 vote in the Georgia House. The Senate killed a similar amendment March 5 by a margin of 32 to 21. And, the "local legislation" Ehrhart succeeded in passing through the House repealing affirmative action in his home county, Cobb County, was later blocked by Republican state senators from the Cobb delegation.</p>
           <p id="sc20-1_10166" rend="center">
@@ -669,7 +680,7 @@ action in this state," says McDonald. A House <pb id="sc20-1_10173" n="21"/>Stud
             </docAuthor>
           </byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 p. 22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xbg</idno></bibl>
+          
           <p id="sc20-1_10190"><hi rend="italic">1953</hi>: Harry Truman's Committee on Governmental Contract Compliance urged the Bureau of Employment Security to "act positively and affirmatively to implement a policy of nondiscrimination" in its programs. </p>
           <p id="sc20-1_10191"><hi rend="italic">1961</hi>: John F. Kennedy signed Executive Order 10925, invoking the term "affirmative action" for the first time at the federal level.</p>
           <p id="sc20-1_10192"><hi rend="italic">1964</hi>: Congress passed the Civil Rights Act of 1964, a set of laws that prohibits discrimination in privately-owned facilities open to the public, in federally-funded programs, and in both private and public employment. Created the Equal Employment Opportunity Commission to prevent discrimination, but placed powers of enforcement in the realm of the courts.</p>
@@ -699,7 +710,7 @@ race as one of many factors.</p>
 Broad Support for Fairness Programs</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 p. 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xcm</idno></bibl>
+          
           <p id="sc20-1_10210" rend="italic">"The country is witnessing a concerted and well-planned campaign to destroy affirmative action for women and minorities. In the end that effort will fail, partly because those behind it are totally misreading public opinion." </p>
           <p id="sc20-1_10211"> - Veteran pollster Louis Harris, writing in The Future of Affirmative Action, 1996.</p>
           <p id="sc20-1_10212">By now we know that despite the momentum that appears against it in the courts and the press, polls reveal a majority of Americans support affirmative action. An even greater number support specific programs that assist women and people of color in overcoming the effects of present and past discrimination. </p>
@@ -724,7 +735,7 @@ The Truth about Affirmative Action</head>
             </docAuthor>
           </byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xdr</idno></bibl>
+          
           <p id="sc20-1_10222">The recent round of struggle over the future of affirmative action can be traced to events in California in the early 1990s. An anthropologist in the California university system, Glynn Custred, had been trying to focus public attention on the issue out of a conviction that affirmative action would force California down the road of racial strife. Custred believed that since the press was ignoring affirmative action, his only hope for a public debate was through a citizen initiative (which ultimately became California's Proposition 209). He gained an ally for his viewpoint in William Rusher, a journalist who wrote about Custred's efforts in his syndicated column. This led to the issue being taken up by William F. Buckley, Pat Buchanan, and other conservative pundits. The turning point came in 1994 when leading Republican presidential candidates Bob Dole, Phil Gramm, and Pete Wilson embraced opposition to affirmative action, compelling Bill Clinton to order the first-ever presidential review of  affirmative action. </p>
           <p id="sc20-1_10223">Since then, Republicans have become the majority in both houses of Congress and have continued to oppose affirmative action. Their arguments have been ideological, and full of distortions, fears, mischaracterizations, and myths. They demonize affirmative action as a system of "quotas" and "preferences" designed to give unfair advantages to unqualified minorities and women, with full knowledge that casting it in this way is the best strategy to generate public opposition. These tactics have been effective not simply because the public gives into such appeals, but because affirmative action is wrongly cast as a set of policies which violate Americans' sense of fairness. </p>
           <p id="sc20-1_10224">Republican opposition is a calculated effort to reap political rewards rather than engage an honest debate about the future of affirmative action. Race is being used as a partisan wedge. Evidence of this strategy can be seen in a document entitled "Language of the Twentieth Century: Affirmative Action," created by Luntz Research Companies and used by the Republican Party to coach  members on how to couch debate on the issue. According to the document, "Affirmative action is one of the most ideologically polarizing issues on the political map. A good communication effort makes this issue a real winner for most officials."</p>
@@ -769,7 +780,7 @@ Bureau of National Affairs.</p>
             </docAuthor>
           </byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 p. 26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xfw</idno></bibl>
+          
           <list>
             <label>American Association for Affirmative Action (AAAA)</label>
             <item>3905 Vincennes Rd., Suite 304<lb/>
@@ -847,7 +858,7 @@ http://www.quada.org/aaaa4.htm</item></list></item>
           <head>A Fair Assessment</head>
           <byline>Reviewed by <docAuthor><name reg="Jackson, Shirley" type="person">Shirley Jackson</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xg1</idno></bibl>
+          
           <bibl>Bryan K. Fair, <title>Notes of a Racial Caste Baby: Color Blindness and the End of Affirmative Action</title>, New York and London: New York University Press,1997.</bibl>
           <p id="sc20-1_10238">A coherent discussion of the politics surrounding affirmative
 action can be located in Bryan K. Fair's,<hi rend="italic"> Notes of a Racial Caste Baby: Color Blindness and the End of Affirmative Action</hi>. Fair, one of eight children born to a single mother in Columbus, Ohio, is currently an associate professor of law and assistant academic vice president at the University of Alabama. Fair acknowledges that remedial affirmative action has benefited him. A graduate of Duke University and the UCLA law school, Fair was able to take advantage of the remedial affirmative action programs in place at both institutions. Speaking from personal experience and as a law professor and administrator, Fair presents a well thought-out analysis of the key issues surrounding affirmative action and color blindness in the United States.</p>
@@ -868,7 +879,7 @@ action can be located in Bryan K. Fair's,<hi rend="italic"> Notes of a Racial Ca
           <head>Seeing Beyond Race</head>
           <byline>Reviewed by <docAuthor><name reg="Jackson, Shirley" type="person">Shirley Jackson</name></docAuthor></byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 29-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xh5</idno></bibl>
+          
           <bibl>Ellis Cose, <title>Color-Blind: Seeing Beyond Race in a
 Race-Obsessed World</title>, New York: HarperCollins, 1997</bibl>
           <p id="sc20-1_10251">Ellis Cose, a contributing editor for <title>Newsweek</title>, and
@@ -1028,7 +1039,7 @@ Ethnic Studies at Bowling Green State University in Ohio.</p>
 <name reg="Wood, Amy" type="person">Amy Wood</name></docAuthor>
           </byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 pp. 31-33</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xj9</idno></bibl>
+          
           <p id="sc20-1_10265" rend="bold">Affirmative Action Booklist</p>
           <p id="sc20-1_10266">Here is a partial annotated list of books on affirmative action, pro and con, published since 1996, compiled by Barry E. Lee and Amy Wood.</p>
           <p id="sc20-1_10267"><hi rend="bold">Bacchi, Carol Lee</hi>. <title>The Politics of Affirmative Action: "Women," Equality and Category Politics</title>. Sage Publishers, 1996.</p>
@@ -1112,7 +1123,7 @@ admissions, and California's "Civil Rights" Initiative (Proposition
             </docAuthor>
           </byline>
           <docDate value="1998-03">Vol. 20, No. 1, 1998 p. 34</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14xkf</idno></bibl>
+          
           <p id="sc20-1_10308">"So we stand: tied to the past and clutching at the stars!"  Harry Ashmore closed his acceptance speech as recipient of the 1982 Lillian Smith Book Award with a passage beginning with these words from the famed Georgia writer. </p>
           <p id="sc20-1_10309">Ashmore was born in Greenville, South Carolina, in 1916 and had his
 awareness of black problems shaped as a summer laborer on a cotton

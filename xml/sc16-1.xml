@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc16-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc16-1_1204">
   <teiHeader id="sc16-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,28 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc16-1_002">http://pid.emory.edu/ark:/25593/14st0</idno>
+            <idno type="ark" n="sc16-1_003">http://pid.emory.edu/ark:/25593/14sv4</idno>
+            <idno type="ark" n="sc16-1_004">http://pid.emory.edu/ark:/25593/14sw8</idno>
+            <idno type="ark" n="sc16-1_005">http://pid.emory.edu/ark:/25593/14sxd</idno>
+            <idno type="ark" n="sc16-1_006">http://pid.emory.edu/ark:/25593/14szj</idno>
+            <idno type="ark" n="sc16-1_007">http://pid.emory.edu/ark:/25593/14t0s</idno>
+            <idno type="ark" n="sc16-1_008">http://pid.emory.edu/ark:/25593/14t1x</idno>
+            <idno type="ark" n="sc16-1_009">http://pid.emory.edu/ark:/25593/14t22</idno>
+            <idno type="ark" n="sc16-1_010">http://pid.emory.edu/ark:/25593/14t36</idno>
+            <idno type="ark" n="sc16-1_011">http://pid.emory.edu/ark:/25593/14t4b</idno>
+            <availability>
           <p id="sc16-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +38,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 16</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1994-03">1994</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc16-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +59,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc16-1_1203">
     <body id="sc16-1_1202">
@@ -67,7 +76,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Ominous Crime Bill</head>
           <byline>By <docAuthor><name reg="Guerrero, Gene" type="person">Gene Guerrero</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 1-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14st0</idno></bibl>
+          
           <p id="sc16-1_104">Congress is about to pass yet another massive, omnibus crime bill&#x2014;the most expensive and possibly the most destructive ever. Like its predecessors, this crime bill was primarily fashioned with an eye towards the coming elections. What few genuine reforms it does contain are due largely to three Southern members.</p>
           <p id="sc16-1_105">Beginning in the mid-1960s, U.S. crime rates increased to the point where our rates of crimes of violence are three to ten times those in other industrialized countries. In 1943, for example, New York City had forty-four gunshot homicides. In 1992, with a slightly smaller population, 1,499 persons were killed by guns in the Big Apple. Today's seventh grader has an 80 percent chance of being a victim of a violent crime at least once during his or her lifetime. The impact of crime falls heaviest on the poor. Nearly half of all crimes are committed against households with incomes below $15,000.</p>
           <p id="sc16-1_106">Over the past twenty-five years politicians gave us first a "law and order" war on crime and then a "just say no" war on drugs as answers to crime. During the 1980s, while the nation's adult population increased by 13 percent, the number of prisoners grew by 139 percent. Today the odds of a black man being in prison in this country are almost five times greater than they would be if he were living in South Africa. Yet this massive lock-'em-up campaign did nothing to reduce violent crime. In fact, between 1986 and 1991, violent crime increased 23 percent, according to the FBI.</p>
@@ -210,7 +219,7 @@ Washington, DC 20004</hi>
           <head>Guilty as Charged</head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 8-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sv4</idno></bibl>
+          
           <p id="sc16-1_1050">In closing arguments at the January 27-February 5 trial of Byron de
 la Beckwith for the 1963 murder of Medgar Evers, Hinds County,
 Mississippi Assistant District Attorney Bobby DeLaughter asked the
@@ -397,7 +406,7 @@ documentary on Medgar Evers.</p>
           <head>The Six New Witnesses</head>
           <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 10-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sw8</idno></bibl>
+          
           <p id="sc16-1_1074">Highlights from the testimony of the six new witnesses in the Byron de la Beckwith trial, in the order in which they appeared before the court:</p>
           <p id="sc16-1_1075">In September 1966, Mary Ann Adams, 51, of Mississippi, went with a co-worker to a restaurant between Tchula and Greenwood in the Delta, where she met Beckwith: "He came to our table and was introduced as Byron de la Beckwith, the man who killed Medgar Evers. I refused to shake his hand and he got angry. He said he had not killed a man, but a 'damn chicken-stealing dog and you know what you have to do once they've tasted blood.' She told her mother, but not "the law" because she thought Beckwith couldn't be tried again. When she saw publicity about the case being reopened, she got in touch with Deputy District Attorney DeLaughter.</p>
           <p id="sc16-1_1076">Dan Prince, 49, of Chattanooga, Tennessee, rented an apartment in
@@ -454,7 +463,7 @@ hitter."</p>
           <head>Rosewood Massacre Survivors Win</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, p. 12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sxd</idno></bibl>
+          
           <p id="sc16-1_1084">Descendants of the black residents of Rosewood, Florida and survivors of the massacre that left at least eight dead and destroyed the town more than seventy years ago took their case to the state legislature in an effort to finally win compensation. At the close of the 1994 legislative session, they were victorious.</p>
           <p id="sc16-1_1085">"It's a matter of justice," said Florida Senate sponsor Daryl Jones (D-Miami), "a symbol of the countless secret deaths that took place in an era that has slipped from view." The state Senate's 26-14 vote on April 8 supported a $2.1 million claim which will pay eleven survivors $150,000 each and provide other benefits, including scholarships, to descendants.</p>
           <p id="sc16-1_1086">In January 1923, a white mob systematically burned down the town, claiming to be searching for a black man accused of assaulting a white woman. Terrorized survivors hid in the freezing piney woods outside the small Gulf Coast town, scattered to Tampa and Tallahassee, and left behind everything they owned. "The failure of elected white officials to take forceful actions to protect the safety and property of local black residents was part of a pattern in the state and throughout the region," a state investigative team reported to legislators. Levy County Sheriff Robert Elias Walker did not control the mob, the investigators concluded, and Governor Cary Hardee went hunting while Rosewood burned.</p>
@@ -468,7 +477,7 @@ family."</p>
           <head>What Will We Do With the Homeless?</head>
           <byline>By <docAuthor><name reg="Snodderly, Ed" type="person">Ed Snodderly</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14szj</idno></bibl>
+          
           <p id="sc16-1_1089">ED SNODDERLY: Joyce Brookshire is a songwriter and singer whose family
 comes from north Georgia. Joyce started writing songs when she was ten
 years old; as a child she sang with her family, mostly in church. She
@@ -521,7 +530,7 @@ reprinted from <title>Now and Then</title>, a journal from and about Appalachia.
           <head>Whitewash</head>
           <byline>Reviewed by <docAuthor><name reg="Norrell, Robert J." type="person">Robert J. Norrell</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 18-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t0s</idno></bibl>
+          
           <bibl><title>George Wallace:  American Populist</title>,
 by Stephan Lesher (Addison Wesley, 1994, 587 pages).</bibl>
           <p id="sc16-1_1095">"Watch out for George Wallace," warned Wayne Greenhaw, an Alabama journalist, in his 1976 expose of the four-time Alabama governor's continuing political ambitions. The warning ought still to be in effect for those who care about how we understand recent Southern history, because Wallace is attempting to manipulate the politics of memory to the same selfish end that he manipulated the politics of race in the 1960s and 1970s.</p>
@@ -580,7 +589,7 @@ Wallace.</p>
           <head>A Lottery for the Poor</head>
           <byline>Reviewed by <docAuthor><name reg="Vodicka, John Cole" type="person">John Cole Vodicka</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t1x</idno></bibl>
+          
           <bibl><title>Dead Man Walking:  An
 Eyewitness Account of the Death Penalty in the United States</title>,
 by Sister Helen Prejean (Random House, 1993, 278 pages).</bibl>
@@ -624,7 +633,7 @@ Koinonia Partners in Americus, Georgia. He has actively been involved against th
           <head>New York Lite</head>
           <byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t22</idno></bibl>
+          
           <bibl><title>New York Days</title>by
 Willie Morris (Little, Brown and Company, 1993, 396 pages).</bibl>
           <p id="sc16-1_10130">Willie Morris's <hi rend="italic">New York Days</hi>, his
@@ -675,7 +684,7 @@ and once, Hamlet-like, on a late night stroll over the battlefields at Gettysbur
           <head>Looking for the Morning</head>
           <byline>Reviewed by <docAuthor><name reg="Klenbort, Marcia" type="person">Marcia Klenbort</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 23-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t36</idno></bibl>
+          
           <bibl><title>Man and Mission, E.B. Gaston
 and the origins of the Fairhope Single Tax Colony</title>, by
 Paul Mershon Gaston (Black Belt Press, 1993, 161 pages).</bibl>
@@ -732,7 +741,7 @@ Fairhope Colony its due.</p>
           <head>Bottom Rails</head>
           <byline>Reviewed by <docAuthor><name reg="Sharpless, Rebecca" type="person">Rebecca Sharpless</name></docAuthor></byline>
           <docDate value="1994-03">Vol. 16, No. 1, 1994, pp. 25-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14t4b</idno></bibl>
+          
           <bibl><title>The Origins of Southern Sharecropping</title>, by
 Edward Royce (Temple University Press, 1993, 279 pages).</bibl>
           <p id="sc16-1_10162">Statistics on the South today are as bleak as ever: the highest poverty rate in the U.S., the highest infant mortality rate, the highest school drop-out rate. And we ask: How did things ever get this bad? How did the South become the nation's poorest region?</p>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc09-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc09-4_1204">
   <teiHeader id="sc09-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,18 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc09-4_002">http://pid.emory.edu/ark:/25593/14g1w</idno>
+            <idno type="ark" n="sc09-4_003">http://pid.emory.edu/ark:/25593/14g21</idno>
+            <idno type="ark" n="sc09-4_004">http://pid.emory.edu/ark:/25593/14g35</idno>
+            <idno type="ark" n="sc09-4_005">http://pid.emory.edu/ark:/25593/14g49</idno>
+            <idno type="ark" n="sc09-4_006">http://pid.emory.edu/ark:/25593/14g5f</idno>
+            <availability>
           <p id="sc09-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +29,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +37,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 9</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1987-10">October 1987</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc09-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +53,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +61,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc09-4_1203">
     <body id="sc09-4_1202">
@@ -75,7 +79,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>The South Revisited</head>
           <byline>By <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14g1w</idno></bibl>
+          
           <p id="sc09-4_104">"One difference between you and most of the Southerners who
 pioneered in the reform movement of the Thirties and Forties is that
 you are still alive," one of the editors of <title>Southern
@@ -394,7 +398,7 @@ near Jacksonville, Fla.</p>
           <head>The Cold Hard Truth: Wishing Justice for Bork</head>
           <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut. Jr.</name></docAuthor></byline>
           <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14g21</idno></bibl>
+          
           <p id="sc09-4_1052">WASHINGTON-This unstable, political, kooky town is in an absolute
 frenzy, even if measured by its own unreal standards. My favorite
 Washington cab driver and political philosopher, Jack Curtis, who also
@@ -496,7 +500,7 @@ and writer.</p>
           <head>The Making of A Judge</head>
           <byline>By <docAuthor><name reg="Callahan, Nancy" type="person">Nancy Callahan</name></docAuthor></byline>
           <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 9-13, 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14g35</idno></bibl>
+          
           <p id="sc09-4_1078">In 1816, North Carolina planter Joseph Gee bought a massive tract
 of land in a bend in the Alabama River, in Wilcox County. On his death
 in 1824, his plantation-Gee's Bend-fell to his nephews, Sterling and
@@ -922,7 +926,7 @@ published this fall by the University of Alabama Press.</p>
           <head>The Poverty of Reaganomics</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1987-10">Vol. 9, No. 4, 1987, pp. 1-2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14g49</idno></bibl>
+          
           <p id="sc09-4_10156">In its twilight years the Reagan Administration is returning to its
 extravagant rhetoric about having created the "opportunity society."
 According to Administration officials--proud of low inflation and a
@@ -1050,7 +1054,7 @@ percent rate in 1973.</p>
           <head>Tuscaloosa's Solid-Waste Turkey</head>
           <byline>By <docAuthor><name reg="United Citizens Against Toxic Chemicals" type="corporate">United Citizens Against Toxic Chemicals</name></docAuthor></byline>
           <docDate value="1987-10">Vol. 9, No. 4, 1987, 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14g5f</idno></bibl>
+          
           <p id="sc09-4_10182">Your city is actively considering buying an incinerator. Should you
 have one? Tuscaloosa, Ala., thought it should, but it now knows
 better. We are a citizens group from Tuscaloosa and we don't want you

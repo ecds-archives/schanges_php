@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc19-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc19-1_1204">
   <teiHeader id="sc19-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,13 +9,17 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc19-1_002">http://pid.emory.edu/ark:/25593/14wgx</idno>
+            <idno type="ark" n="sc19-1_003">http://pid.emory.edu/ark:/25593/14wh2</idno>
+            <idno type="ark" n="sc19-1_004">http://pid.emory.edu/ark:/25593/14wj6</idno>
+            <idno type="ark" n="sc19-1_005">http://pid.emory.edu/ark:/25593/14wkb</idno>
+            <idno type="ark" n="sc19-1_006">http://pid.emory.edu/ark:/25593/14wmg</idno>
+            <idno type="ark" n="sc19-1_008">http://pid.emory.edu/ark:/25593/14wnm</idno>
+            <availability>
           <p id="sc19-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the
 contributions to the work claimed by Emory University for non-profit
@@ -24,9 +27,7 @@ educational purposes, provided this header is included in its
 entirety.  For inquiries about commercial uses, contact either:
 Southern Changes Digital Archive or Lewis H. Beck Center for Electronic
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -34,22 +35,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 19</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1997-03">Spring 1997</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc19-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2005</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -57,7 +56,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc19-1_1203">
     <body id="sc19-1_1202">
@@ -69,7 +74,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Democracy Demands Memory</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wgx</idno></bibl>
+          
           <epigraph>
             <p id="sc19-1_104">"I tell my children today they don't know
 anything. You know, when I hear young folk talking about what they
@@ -125,7 +130,7 @@ disinherited.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 5-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wh2</idno></bibl>
+          
           <p id="sc19-1_1020" rend="italic">The voices you hear in the radio series, Will the Circle Be Unbroken? are edited and assembled from of a treasure trove of more than 250 interviews conducted by the Southern Regional Council and others with women and men who made one of America's most powerful social movements. In lengthier form seven of those interviews are excerpted here, stories largely untold about a few of the acts of conscience and courage that were undertaken by many people from many walks of life.</p>
           <p id="sc19-1_1021" rend="bold">Uncharted Trail:</p>
           <p id="sc19-1_1022" rend="bold">Ozell Sutton</p>
@@ -534,7 +539,7 @@ to get any results from doing it. People were talking about breaking ranks and t
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 22-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wj6</idno></bibl>
+          
           <p id="sc19-1_10256"><hi rend="bold">When Black Belt Press publisher Randall Williams
 suggested in 1978 that the Southern Regional Council publish
 a guidebook to civil rights historic sites in Montgomery, Alabama,
@@ -697,7 +702,7 @@ and it's something that I will never forget.</p>
           <head>Prejudices and Hopes</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 28-29, 31</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wkb</idno></bibl>
+          
           <p id="sc19-1_10314" rend="italic">The personal stories in Will The Circle be Unbroken? remind us how recently American apartheid shed the force of law, and at what costs the changes were extracted. These recollections inevitably lead us to consider how things have changed and to identify the work that remains to be done if we are to create an equal society.</p>
           <p id="sc19-1_10315" rend="italic">What do Americans today have to say about current racial attitudes?</p>
           <p id="sc19-1_10316">"It is harder to put away the past than what we are trying to make it. If it was my people that got burned and beaten, their houses burned, it would be hard for me to forget, in just a few years." White man, Raleigh, North Carolina, January, 1996.</p>
@@ -744,7 +749,7 @@ next great challenges in winning full equality.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 p. 30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wmg</idno></bibl>
+          
           <p id="sc19-1_10343">PROLOGUE</p>
           <p id="sc19-1_10344" rend="italic">Race relations and social conditions across the American South prior to World War IL Written by Julian Bond.</p>
           <p id="sc19-1_10345" rend="bold">&gt;COLUMBIA, SOUTH CAROLINA</p>
@@ -825,7 +830,7 @@ high school students' mass protests.</p>
             </docAuthor>
           </byline>
           <docDate value="1997-03">Vol. 19, No. 1, 1997 pp. 2, 26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14wnm</idno></bibl>
+          
           <p id="sc19-1_10404">With this issue, <hi rend="italic">Southern Changes</hi> celebrates
 the SRC's civil rights radio documentary series, <hi rend="italic">Will The Circle Be Unbroken?</hi> Perhaps even more than most documentary productions, the radio series represents a collective enterprise. The person who was primarily in charge of the planning was not the person who was primarily in charge of the scripting, and the person who was in charge of the actual pilot programs and now the final programs was not the person who was involved in the original ideas.</p>
           <pb id="sc19-1_10405" n="26"/>

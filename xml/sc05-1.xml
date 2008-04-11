@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc05-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc05-1_1204">
   <teiHeader id="sc05-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc05-1_002">http://pid.emory.edu/ark:/25593/1483j</idno>
+            <idno type="ark" n="sc05-1_003">http://pid.emory.edu/ark:/25593/1484p</idno>
+            <idno type="ark" n="sc05-1_004">http://pid.emory.edu/ark:/25593/1485t</idno>
+            <idno type="ark" n="sc05-1_005">http://pid.emory.edu/ark:/25593/1486z</idno>
+            <idno type="ark" n="sc05-1_006">http://pid.emory.edu/ark:/25593/14873</idno>
+            <idno type="ark" n="sc05-1_007">http://pid.emory.edu/ark:/25593/14887</idno>
+            <idno type="ark" n="sc05-1_008">http://pid.emory.edu/ark:/25593/1489c</idno>
+            <idno type="ark" n="sc05-1_009">http://pid.emory.edu/ark:/25593/148bh</idno>
+            <availability>
           <p id="sc05-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1983-01">January-February 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc05-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc05-1_1203">
     <body id="sc05-1_1202">
@@ -75,7 +82,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Elephants in the Cottonfields</head>
           <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1483j</idno></bibl>
+          
           <bibl><title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</bibl>
           <p id="sc05-1_104">The growing strength of the Republican party in Dixie has taken
@@ -181,7 +188,7 @@ Montgomery, is a Yellow-dog Democrat.</p>
 Music</head>
           <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1484p</idno></bibl>
+          
           <bibl><title>The Smithsonian Collection of Classic Country
 Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
@@ -555,7 +562,7 @@ American Region</title> (University of North Carolina Press,
           <head>Figures of Speech--Dressed for the H Bomb</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1485t</idno></bibl>
+          
           <p id="sc05-1_1056">By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
 procurers. Here was close to a billion dollars for Lockheed-Georgia's
@@ -816,7 +823,7 @@ license.</p>
 County</head>
           <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1486z</idno></bibl>
+          
           <bibl><title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
 1982.</bibl>
@@ -1044,7 +1051,7 @@ since the 1965 Voting Rights Act.</p>
           <head>Myra Page: Daughter of the South, Worker for Change</head>
           <byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14873</idno></bibl>
+          
           <p id="sc05-1_10109">On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
 Yonkers, New York, telling the tale of her most recent
@@ -1455,7 +1462,7 @@ article copyright, 1988, by Mary Frederickson.</p>
 by Myra Page</head>
           <byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14887</idno></bibl>
+          
           <p id="sc05-1_10160">The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
 her Bible--you had to or be an outcast in the village--but her
@@ -1560,7 +1567,7 @@ Press.</p>
           <head>The 1982 Lillian Smith Book Awards</head>
           <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1489c</idno></bibl>
+          
           <p id="sc05-1_10181">The Southern Regional Council's annual Lillian Smith Awards
 Luncheon was held in Atlanta in November as a part of the SRC's annual
 meeting. The awards recognize the year's best fiction and non-fiction
@@ -1884,7 +1891,7 @@ Dykeman and Lottie Shackelford.</p>
           <head>Delta Politics and the Almost Possible</head>
           <byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline>
           <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/148bh</idno></bibl>
+          
           <p id="sc05-1_10218">During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 
 <pb id="sc05-1_10217" n="5"/>

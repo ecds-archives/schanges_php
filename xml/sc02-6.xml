@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc02-6_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc02-6_1204">
   <teiHeader id="sc02-61201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,21 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc02-6_002">http://pid.emory.edu/ark:/25593/1455h</idno>
+            <idno type="ark" n="sc02-6_003">http://pid.emory.edu/ark:/25593/1456n</idno>
+            <idno type="ark" n="sc02-6_004">http://pid.emory.edu/ark:/25593/1457s</idno>
+            <idno type="ark" n="sc02-6_005">http://pid.emory.edu/ark:/25593/1458x</idno>
+            <idno type="ark" n="sc02-6_006">http://pid.emory.edu/ark:/25593/14592</idno>
+            <idno type="ark" n="sc02-6_007">http://pid.emory.edu/ark:/25593/145b6</idno>
+            <idno type="ark" n="sc02-6_008">http://pid.emory.edu/ark:/25593/145cb</idno>
+            <idno type="ark" n="sc02-6_009">http://pid.emory.edu/ark:/25593/145dg</idno>
+            <availability>
           <p id="sc02-6_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +32,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +40,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 2</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date value="1980-03">March-April 1980</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc02-6_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +56,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +64,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc02-6_1203">
     <body id="sc02-6_1202">
@@ -74,7 +81,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>In This Issue</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1455h</idno></bibl>
+          
           <p id="sc02-6_104">Probably no more persuasive eveidence of the divided and changeing
 nature of the South can be found outside the region's historic symbols
 of resistance and challenge in race relations. Massive numbers of
@@ -139,7 +146,7 @@ territory and influenced by the past we know as the South.</p>
           <head>The Fears of Race Relations: Confessions of a White Pastor</head>
           <byline>By <docAuthor><name reg="Wohlgemuth, Paul F." type="person">Paul F. Wohlgemuth</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 4-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1456n</idno></bibl>
+          
           <p id="sc02-6_1012">After serving 11 years as a pastor in two churches in racially changing areas I have concluded that nothing is more destructive to harmonious human relations than fear. I have analyzed my own feelings. I have observed and analyzed the words and actions of others. In all of these experiences and situations, attitudes and reactions, almost every time a racial problem is traced to its origin, it is found to be rooted in fear.</p>
           <p id="sc02-6_1013">In analyzing fear, it is necessary to assess your whole life &#x2014; from birth to the present. Most of us are not free of our past. We are, in a sense, what our pasts have made us. I am no exception.</p>
           <p id="sc02-6_1014">I first became aware of my fear of Black people when my wife and I
@@ -201,7 +208,7 @@ Atlanta area.</p>
           <head>An Observation on New Orleans</head>
           <byline>By <docAuthor><name reg="Assensoh, A.B." type="person">A.B. Assensoh</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1457s</idno></bibl>
+          
           <p id="sc02-6_1040">Former Alabama Gov. George Wallace had achieved such racial notoriety that before my arrival from Africa in New Orleans, I perceived that all the Southern region of the United States was an extension of the state of Alabama. I knew of the existence of the other 10 states, including Louisiana but I seldom placed them within the geographical ambit of the South.</p>
           <p id="sc02-6_1041">The state of Louisiana, in which I reside now, seems to have been blessed with the presence of several bayous and the Superdome described as a monument beyond imagination. New Orleans can easily fascinate the new visitor. Upon my arrival, in January 1979, 1 was anxious to visit several historical sites. I visited the former Congo Square, now called Beauregard Square, named after a Confederate general. I also had a glimpse of the famous French Quarters, the citadel for near-decadence, where male and female prostitution reportedly thrives like the oil industry.</p>
           <p id="sc02-6_1042">Strangely enough, the city appears to thrive on traditional ways, as it continues to be divided into parishes instead of counties. In some of these parishes can be found communities of foreign language groups, examples of which are the Hungarian settlement on the boundary line between Tangipahoa and Livingston Parishes; German groups in Acadia; Bohemians in Rapides; the Spanish settlements in St. Bernard; and the citrus-growing Yugoslavian community in the lower part of Plaquemine Parish. It was, also, interesting to note that more than any other racial group, the New Orleans French have maintained their culture, religion and, indeed, mode of living.</p>
@@ -216,7 +223,7 @@ Atlanta area.</p>
 American South</head>
           <byline>By <docAuthor><name reg="Noland, Thomas" type="person">Thomas Noland</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 8-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/1458x</idno></bibl>
+          
           <p id="sc02-6_1046">PARIS - As French television viewers watched in horror, 12 men
 leaped out of two vans and a car, crouched, and began firing guns at a
 group of people with signs. Bodies wilted like empty sacks and fell to
@@ -338,7 +345,7 @@ acquire is barely diffused beyond a closed circle of friends and associates. Mos
           <head>The Drama of Greensboro</head>
           <byline>By <docAuthor><name reg="Young, Charles" type="person">Charles Young</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 14-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14592</idno></bibl>
+          
           <p id="sc02-6_1083">Greensboro is the insurance capital of North Carolina, not a textile and tobacco town, as it was referred to in the national media back in November following the slaying of five leaders of the Communist Workers Party during the anti-Ku Klux Klan rally. The media may be excused its hasty retreat to historical stereotype, however, for the killings did take place in a Black neighborhood, and they were carried out by a band of raiding Klansmen. It is perhaps natural then, when viewing the incident from a distance, to assume that the attack falls into the pattern of old-fashioned Southern White-racists direct action. But the reality is a little more complicated than that.</p>
           <p id="sc02-6_1084">While textiles and tobacco do play a significant role in the city's economy, as employers of some of the lowest paid workers in the area, the real money is with insurance, and with those who look out for it, the bankers.</p>
           <p id="sc02-6_1085">Greensboro's skyline shows as much. Most of the traditional retail
@@ -443,7 +450,7 @@ familiar face.</p>
           <head>A Year After Alabama's New Beginning</head>
           <byline>By <docAuthor><name reg="Greenhaw, Wayne" type="person">Wayne Greenhaw</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145b6</idno></bibl>
+          
           <p id="sc02-6_10134">Less than a year after Governor Fob James took over the reins of government in Alabama from George Wallace, it was announced that the state was on the verge of bankruptcy.</p>
           <p id="sc02-6_10135">James' promised New Beginning looked as though it was about to crumble before a foundation was laid. His record with the Alabama Legislature during his first year was next to nil. The new constitution which he had promised by mid-spring failed to survive in committee. Then he announced a new tax oil gasoline just as the pumps began to register close to one dollar per gallon and the state highway department could do nothing but weep for lack of funds. And when his liaison personnel with House and Senate didn't count correctly the votes for James' War Against Illiteracy program, it failed and embarrassed the new governor.</p>
           <p id="sc02-6_10136">Within days of the announced bankruptcy, James, for the first time in any capital observers remembrance, handed over prepared budgets for the coming year to the legislators prior to the regular session. The proposed budget was thousands of pages long, lap-sized two volumes, and was taken with glee by Speaker of the House Joe McCorquodale and Lieutenant Governor George . McMillan. Both grinned like possums eating molasses as they held the gigantic volumes for the television cameras.</p>
@@ -474,7 +481,7 @@ Women's Earnings: A Ten Year Review</head>
 L. Norwood</name> and <name reg="Waidman, Elizabeth" type="person">Elizabeth Waidman</name></docAuthor>
           </byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 23, 25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145cb</idno></bibl>
+          
           <p id="sc02-6_10151">The old saying that "the more things change, the more they stay the same" seems to apply to women's earnings in relation to men's no matter which earnings are examined. In 1939, median earnings for women who worked year round, full time in the experienced labor force were $788, or 58 percent of the median for men. Similar figures for 1977, the latest period for which earnings over an entire year are available, show median earnings of about $8,800 for women, or 59 percent of the median for men.</p>
           <p id="sc02-6_10152">In the 10 years since the Census Bureau began to collect weekly earnings data, the ratio of women's to men's usual earnings has shown about the same pattern in May 1978, just as in May 1967, women full time workers still had median earnings that were only a little over 60 percent (61-62 percent) of the median earnings for men.</p>
           <p id="sc02-6_10153">By occupation, these data show that, although the male-female earnings ratio has varied considerably over the years, the median for women is usually substantially lower than the median for men. For example, in sales occupations, where a large proportion of women are employed in retail stores while a large proportion of men sell cars, machinery,and insurance, women's
@@ -508,7 +515,7 @@ self-confidence needed to seek aggressively the opportunities taken by men.</p>
           <head>Republican-Southern Democrat Coalition in Congress</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1980-03">Vol. 2, No. 6, 1980, pp. 23-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/145dg</idno></bibl>
+          
           <p id="sc02-6_10161">A majority of the Republicans and Southern Democrats formed in 1979 an effective, conservative voting bloc which moved Congress to revamp national priorities towards more spending for national defense and away from domestic programs. A Congressional Quarterly study in late January illustrates that when the Democrats of the South and the Republicans throughout the country voted together on issues, they were most likely to prevail. Last year in 70 percent of the roll call votes in which the coalition occurred, Republicans and Southern Democrats won. In 1978, the coalition had only a 52 percent rate of success.</p>
           <p id="sc02-6_10162">While not a formal voting group, the "conservative coalition" is an alliance of Republicans and Southern Democrats who vote against Northern Democrats. The first major voting alliance in Congress between the Republicans and Southern Democrats began more than a century ago as they joined ranks in the "Compromise of 1877" when Republican candidate Rutherford B. Hayes was declared by a Democratic House and Republican Senate the victor in the contested presidential election of 1876. In return for political patronage and the end of federal enforcement of civil rights laws and the Reconstruction amendments in the South, Southern Democrats joined with Hayes' Republicans. Since the late 1950s, when the coalition clearly developed to oppose proposed civil rights legislation, the voting group has coalesced on several different issues.</p>
           <p id="sc02-6_10163">In the 1979 session defense, energy policy, reducing federal spending, and race-related issues reflect the concerns on which Republicans and Southern Democrats joined forces.</p>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc06-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc06-4_1204">
   <teiHeader id="sc06-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,20 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc06-4_002">http://pid.emory.edu/ark:/25593/14bg8</idno>
+            <idno type="ark" n="sc06-4_003">http://pid.emory.edu/ark:/25593/14bhd</idno>
+            <idno type="ark" n="sc06-4_004">http://pid.emory.edu/ark:/25593/14bjj</idno>
+            <idno type="ark" n="sc06-4_005">http://pid.emory.edu/ark:/25593/14bkp</idno>
+            <idno type="ark" n="sc06-4_006">http://pid.emory.edu/ark:/25593/14bmt</idno>
+            <idno type="ark" n="sc06-4_007">http://pid.emory.edu/ark:/25593/14bnz</idno>
+            <idno type="ark" n="sc06-4_008">http://pid.emory.edu/ark:/25593/14bp3</idno>
+            <availability>
           <p id="sc06-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +31,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +39,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1984-08">August-September 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc06-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +55,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc06-4_1203">
     <body id="sc06-4_1202">
@@ -75,7 +81,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Emelle, Alabama Toxic Waste Cadillac</head>
           <byline>By <docAuthor><name reg="Gunter, Booth" type="person">Booth Gunter</name> and <name reg="Williams,  Mike" type="person"> Mike Williams</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 1-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bg8</idno></bibl>
+          
           <p id="sc06-4_104">Down in the Heart of Dixie, in the gently rolling hills of the
 Black Belt, lie gigantic pits--twice as wide as football fields are
 long--filled to the brim with an alphabet soup mix of dangerous
@@ -551,7 +557,7 @@ profit.</p>
           <head>Hazardous Waste in Georgia</head>
           <byline>By <docAuthor><name reg="Breman, Vicki" type="person">Vicki Breman</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 7-12</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bhd</idno></bibl>
+          
           <p id="sc06-4_1082">If you are poor, black and live in the South, you are much more
 likely to live near a hazardous waste landfill than if you are white
 and middle class. How much more likely? Well, it seems that no one
@@ -1008,7 +1014,7 @@ the Legal Environmental Assistance Foundation.</p>
           <head>Blues for Mr. President</head>
           <byline>By <docAuthor><name reg="Rankin, Tom" type="person">Tom Rankin</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 12-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bjj</idno></bibl>
+          
           <p id="sc06-4_10145">
             <hi rend="bold">MR. PRESIDENT</hi>
           </p>
@@ -1194,7 +1200,7 @@ Vanderbilt University.</p>
           <head>Southern Electric Cooperatives Still Segregated</head>
           <byline>By <docAuthor><name reg="Pace, David" type="person">David Pace</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bkp</idno></bibl>
+          
           <p id="sc06-4_10168">Only two percent of the board members of rural electric
 cooperatives in twelve Southern states are black, even though the
 population of the areas served by those cooperatives is about
@@ -1356,7 +1362,7 @@ and get the benefit of the worst abuses of both," he said.</p>
           <head>The Electric Valley</head>
           <byline>Reviewed by <docAuthor><name reg="Whisnant, David" type="person">David E. Whisnant</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 18-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bmt</idno></bibl>
+          
           <bibl><title>The Electric Valley.</title> Directed and produced by
 Ross Spears, music by Kenton Coe, narration by Wilma Dykeman, research
 and writing by Richard Couto, cinematography by Anthony Forma. Funding
@@ -1586,7 +1592,7 @@ American Region</title> (University of North Carolina Press,
           <head>This Land, This South</head>
           <byline>Reviewed by <docAuthor><name reg="Ayers, Edward L." type="person">Edward L. Ayers</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bnz</idno></bibl>
+          
           <bibl><title>This Land, This South: An Environmental History</title>
 by Albert E. Cowdrey. University of Kentucky Press, 1983. 236
 pp. $23.00</bibl>
@@ -1663,7 +1669,7 @@ Crime and Punishment in the 19th-Century American South</title>
           <head>Southern Progressivism</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1984-08">Vol. 6, No. 4, 1984, pp. 23-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14bp3</idno></bibl>
+          
           <bibl><title>Southern Progressivism: The Reconciliation of Progress
 and Tradition</title> by Dewey W. Grantham. University of Tennessee
 Press, 1983. 502 pp.$34.95 cloth, $16.95 paper. paper.</bibl>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc15-4_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc15-4_1204">
   <teiHeader id="sc15-41201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,24 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc15-4_002">http://pid.emory.edu/ark:/25593/14sm5</idno>
+            <idno type="ark" n="sc15-4_003">http://pid.emory.edu/ark:/25593/14sn9</idno>
+            <idno type="ark" n="sc15-4_004">http://pid.emory.edu/ark:/25593/14spf</idno>
+            <idno type="ark" n="sc15-4_005">http://pid.emory.edu/ark:/25593/14sqk</idno>
+            <idno type="ark" n="sc15-4_006">http://pid.emory.edu/ark:/25593/14srq</idno>
+            <idno type="ark" n="sc15-4_007">http://pid.emory.edu/ark:/25593/14ssv</idno>
+            <availability>
           <p id="sc15-4_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +34,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 15</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1993-12">1993</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc15-4_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +55,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc15-4_1203">
     <body id="sc15-4_1202">
@@ -67,7 +72,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>History, Hope and Heroes</head>
           <byline>By <docAuthor><name reg="Bond, Julian" type="person">Julian Bond</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 1-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sm5</idno></bibl>
+          
           <p id="sc15-4_104">In 1993, the grandson of an American slave teaches at the university slave owner Thomas Jefferson founded in Virginia, and teaches young Americans about the modern day struggle for human liberty. That struggle has its roots in Jefferson's words more than his deeds and its parallels in my grandfather, James Bond's, membership in a transcendent generation&#x2014;that body of black women and men born in the nineteenth century in servitude, freed by the Civil War, determined to make their way as free women and men.</p>
           <p id="sc15-4_105">My students are modern young men and women, filled with the cynicism and despair of their age. For them, these are the worst of times, and my documentation of a harsher and more oppressive past does not always convince them that these days are better times than those older days they study with me.</p>
           <p id="sc15-4_106">Today's world holds few heroes for my students, and this lack of heroes, coupled with their pessimism, makes them unlikely candidates to create a movement of their own.</p>
@@ -222,7 +227,7 @@ Rested</title>, p. 25, George Putnam's Sons, New York, (1977).</note>
           <head>A New Ecology of Poverty</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 8-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sn9</idno></bibl>
+          
           <p id="sc15-4_1091">While it is true that the poor have always been with us, poverty in America today is profoundly different and more disturbing than ever before. Our nation is now tolerating dimensions of poverty that threaten anew our collective well being, our communities, and our spiritual values. Over the last two decades, we have witnessed the arrival of new aspects of poverty and new faces of the poor without coming to terms individually and collectively with the human and moral costs to us all.</p>
           <p id="sc15-4_1092">As the latest census report confirms, for the first time in America, children have become in the 1990's our largest population in poverty. During the last twenty years this transformation has been slowly evident through a sea of official statistics and the carefully measured monotone of governmental reports. At bottom they tell us that one in five of all children in America is poor and almost one in four of all children under the age of six lives in poverty. America's poverty encompasses more than 13 million children.</p>
           <p id="sc15-4_1093">The United States may now be the only industrialized nation in the world where children are the largest population in poverty. Our rate of poverty among children in the last decade was probably more than twice as high as the rate in West Germany and almost double the rate in neighboring Canada. These statistics are reinforced by other international comparisons showing that in the United States our youth are more in jeopardy from infant mortality, birth at low weight, violent crime and teenage pregnancy than the youth among most of the world's other industrialized nations.</p>
@@ -334,7 +339,7 @@ poverty. </p>
           <head>1993 Lillian Smith Awards: The Power of Mercy</head>
           <byline>Acceptance Remarks by <docAuthor><name reg="Baldwin, William" type="person">William Baldwin</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 15-17</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14spf</idno></bibl>
+          
           <p id="sc15-4_10132">To say I'm flattered that you have chosen me to be one of this year's winners of the Lillian Smith Award is an understatement, but to keep myself honest I must make some confessions.</p>
           <p id="sc15-4_10133">Although, in my own little community, I'm still considered by some to be a wide-eyed, bomb throwing communist, by the standards of this room I am conservative&#x2014;conservative to the marrow. I can only mitigate that first confession by adding that I tend to vote the Democratic ticket. But for me voting Democrat is a form of prayer. I must tell you I am a conservative in the sense that I believe that human beings are not perfectible&#x2014;for better or worse, human nature is a constant.</p>
           <p id="sc15-4_10134">Furthermore and sadly, I can't claim to know much about civil rights. And I have not paid enough attention to public or even private education. I realize that these are important issues to all of you here, and I apologize.</p>
@@ -407,7 +412,7 @@ Awards jury. Three hundred guests attended the 1993 luncheon.</p>
           <head>Promises, Promises</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14sqk</idno></bibl>
+          
           <bibl><title>The Promise of the New south: Life
 After Reconstruction</title>, by Edward L. Ayers
 (Oxford University Press, New York, 1992, xii, 572 pages).</bibl>
@@ -482,7 +487,7 @@ South's and Southerners' enduring character. </p>
           <head>Delta Democrat</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14srq</idno></bibl>
+          
           <bibl><title>Hodding Carter: The Reconstruction of
 a Racist</title>, by Ann Waldron (Algonquin Books of
 Chapel Hill, 1993, 369 pages).</bibl>
@@ -528,7 +533,7 @@ editor, would have admired very much the thorough job she did. </p>
           <head>Whistling At History</head>
           <byline>Reviewed by <docAuthor><name reg="Harris, Trudier" type="person">Trudier Harris</name></docAuthor></byline>
           <docDate value="1993-12">Vol. 15, No. 4, 1993, pp. 28, 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ssv</idno></bibl>
+          
           <bibl><title>Wolf Whistle</title> by Lewis Nordan (Algonquin Books: Chapel Hill, 1993, 308 pages).</bibl>
           <p id="sc15-4_10200">"Irreverent," was my first reaction. And: "These characters aren't rising above stereotype fast enough to suit me." Next:"Too self-consciously aware of the novel being based on an historical incident." Then: "Hmm this guy knows the black and white folk speech of the South, like an ear for things such as 'I own know' for 'I don't know' and 'Co-Cola' for 'Coca-Cola.'"</p>
           <p id="sc15-4_10201">With this mixture of reactions, and several others that alternated with them, I raced my way through Lewis Nordan's <hi rend="italic">Wolf Whistle</hi>. In a matter of hours I had completed a book that was alternately sad, funny, outrageous, informed, violent, tragic, and lingering. It lingers because I expected the novelist to do what the historians, newspaper people, and lawyers did not do&#x2014;let the dead child raise his voice and reveal to me something that I didn't know before. I expected Nordan to pull back the veil of history and take me to a place of understanding, not one that would make 1955 any less painful, but that would make it more tolerable. And after all those reactions, I reminded myself. "This is a novel. It was written by a man who was profoundly influenced by an historical event, but it is a novel. Let it take you places. Don't impose your expectations upon it." It is from that rather ambivalent&#x2014;and hard to maintain&#x2014;perspective that I offer the following comments.</p>

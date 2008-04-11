@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc01-7_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc01-7_1204">
   <teiHeader id="sc01-71201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,24 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc01-7_005">http://pid.emory.edu/ark:/25593/142hk</idno>
+            <idno type="ark" n="sc01-7_002">http://pid.emory.edu/ark:/25593/142jq</idno>
+            <idno type="ark" n="sc01-7_006">http://pid.emory.edu/ark:/25593/142kv</idno>
+            <idno type="ark" n="sc01-7_003">http://pid.emory.edu/ark:/25593/142m0</idno>
+            <idno type="ark" n="sc01-7_007">http://pid.emory.edu/ark:/25593/142n4</idno>
+            <idno type="ark" n="sc01-7_004">http://pid.emory.edu/ark:/25593/142p8</idno>
+            <idno type="ark" n="sc01-7_014">http://pid.emory.edu/ark:/25593/142qd</idno>
+            <idno type="ark" n="sc01-7_008">http://pid.emory.edu/ark:/25593/142rj</idno>
+            <idno type="ark" n="sc01-7_009">http://pid.emory.edu/ark:/25593/142sp</idno>
+            <idno type="ark" n="sc01-7_010">http://pid.emory.edu/ark:/25593/142tt</idno>
+            <idno type="ark" n="sc01-7_011">http://pid.emory.edu/ark:/25593/142vz</idno>
+            <availability>
           <p id="sc01-7_101">&#xA9;2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +35,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +43,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 7</biblScope>. <date value="1979-04">April 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc01-7_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +59,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>XML tags
 inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +67,13 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc01-7_1203">
     <body id="sc01-7_1202">
@@ -74,7 +84,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</item>
           <head>Interchange: In This Issue</head>
           <byline>By <docAuthor><name reg="Chaney, Betty Norwood" type="person">Betty Norwood Chaney</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, p. 2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142hk</idno></bibl>
+          
           <p id="sc01-7_104">On February 16-18, the Southern Regional Council (SRC) held its
 Annual Meeting in Atlanta at the Colony Square Hotel. This year the
 Council renewed its charter after 25 years of incorporation, and to
@@ -129,7 +139,7 @@ rights."</p>
           <byline>Steve Suitts<lb/>
 Publisher</byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 4-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142jq</idno></bibl>
+          
           <p id="sc01-7_1012">In those torturous moments of human relations 35 years ago, five
 Southerners of prominence and good will signed their names to the
 legal charter of the Southern Regional Council, Inc. On January 7,
@@ -170,7 +180,7 @@ it<pb id="sc01-7_1025" n="5"/>is on terms advantageous to Whites. The rural Miss
           <head>The Role of Law in the South</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 6-8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142kv</idno></bibl>
+          
           <p id="sc01-7_1037">
             <hi rend="bold">[Introduction]</hi>
           </p>
@@ -254,7 +264,7 @@ much acclaim.</p>
           <head>Human Rights: From the South to South Africa"</head>
           <byline>By <docAuthor><name reg="Terry, Wallace" type="person">Wallace Terry</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 9-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142m0</idno></bibl>
+          
           <p id="sc01-7_1063">I was profoundly affected by what I saw on the battlefields in Viet Nam from 1967 to 1969, particularly the outrageously racist behavior of White troops towards Blacks. I knew that most Blacks would receive far too little at home for the blood they spilled abroad. So with the kind and generous assistance of Leslie Dunbar and our friends at the Field Foundation and the Center for National Security Studies, I have spent the last few years recording and writing the Black GI's story. It seems a small way to salute them.</p>
           <p id="sc01-7_1064">From units all over the country and at any given moment, Black soldiers would meet to log their experiences with discrimination. From them I learned of our American sailors burning crosses at Cam Ranh Bay; wearing Ku Klux Klan costumes at the Navy base in Cua Viet; writing graffiti on the walls of latrines: "I wouldn't compare a gook to a nigger." Blacks were refused rides. They were held back in promotion. And if they became too militant, White officers shipped them to the DMZ where they were more likely to be killed in action. In effect, there were two wars in Viet Nam. And as the war against the Vietnamese wound down, the race war between Black and White Americans spread.</p>
           <p id="sc01-7_1065">Investigating these racial incidents, of course, made me very unpopular with the commands. Indeed, I think the Marines once tried to eliminate me. When a Marine chopper dropped me into a field, there was no one on the ground to meet me. And the chopper did not return to pick me up in this very hot zone. My escort, a White major, was, ironically, of no real use. He was from North Carolina, and always wanted me to pose in pictures with him, because he planned to run for sheriff back home. The pictures, he said, would help him get the "colored vote." Perhaps he had his eye on the White House, too. Anyway, I later learned that he was considered a roustabout, a troublemaker, so the Marines probably considered him expendable as well.</p>
@@ -328,7 +338,7 @@ at Howard University.</p>
           <head>Facing the Universal Imperatives</head>
           <byline>By <docAuthor><name reg="Marshall, Ray" type="person">Ray Marshall</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 16-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142n4</idno></bibl>
+          
           <p id="sc01-7_10102">[Introduction]</p>
           <p id="sc01-7_10103">
             <hi rend="italic">The world that we live in has changed; is changing, dangerous and uncertain - and I think that if you take a look at the concerns of the Southern Regional Council and some of the universal imperatives that impinge on those concerns, you can see that the main thing that will characterize the work of the Council, as it endures, is not that things will get easier- but they will get different. It'll be a different environment, but it will be equally treacherous.</hi>
@@ -381,7 +391,7 @@ sponsored by SRC.</p>
           <head>J.P. Stevens Workers Seek 'Some of the Harvest'</head>
           <byline>By <docAuthor><name reg="Finger, Bill" type="person">Bill Finger</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 19-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142p8</idno></bibl>
+          
           <p id="sc01-7_10134">You would have thought it was the Darlington 500 the way people were flocking to the South Carolina Piedmont. But the gathering at Textile Hall in what the local chamber of commerce calls "the textile capital of the world" lacked the gaiety of a good stock car race.</p>
           <p id="sc01-7_10135">On this chilly March morning in Greenville, S.C., J.P. Stevens and
 Company was holding its 1979 stockholders meeting. The nation's second
@@ -433,7 +443,7 @@ Bill Finger, a freelance writer, lives in Raleigh, N.C.
           <head>Eatonton, Georgia: Rural Black Community Organizes for Change</head>
           <byline>By <docAuthor><name reg="Swift, Alice" type="person">Alice Swift</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142qd</idno></bibl>
+          
           <p id="sc01-7_10155">The days of White mobs gathering to lynch a Black man simply because he is Black are gone, but there are still some occurrences with the same level of hatred behind them. What happened in Eatonton is a case in point.</p>
           <p id="sc01-7_10156">Until recently, Eatonton, Georgia, had a curfew which forbade anyone from being on the streets or in a public place between the hours of 11:00 p.m. and 6:00 a.m. This curfew was in the city records, but not to the knowledge of many people, especially the Black community. It had never been enforced. As one local citizen of Eatonton said, "I have been here most of my life and I've never heard anything about a curfew. We always came and went as we pleased, anytime we pleased."</p>
           <p id="sc01-7_10157">But, late one night, a White town policeman killed a young Black man, while he was taking a walk, and the only excuse the policeman offered was a never-before-used curfew. Moreover, the policeman knew the young man and knew that he had the habit of taking late night walks.</p>
@@ -472,7 +482,7 @@ Georgia.</p>
           <head>EDUCATION: The Issue of Desegregation</head>
           <byline>By <docAuthor><name reg="Johnston, Diane" type="person">Diane Johnston</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142rj</idno></bibl>
+          
           <p id="sc01-7_10173">During a lively discussion on education at SRC's recent Annual Meeting, panelist Jean Fairfax, director of education programs for the NAACP Legal Defense Fund, remarked, "There is a lot more to the Brown case than school desegregation. It got us off the back of the bus into Colony Square."</p>
           <p id="sc01-7_10174">Fairfax's comment characterizes the main issues addressed at the session, which began with Assistant Attorney General Drew 5. Days III outlining the complexities of the desegregation issues as he sees them from the Justice Department.</p>
           <p id="sc01-7_10175">Days pointed out that desegregation goes beyond simply joining Black and White children in the classroom, and includes fair employment practices so that the faculty, as well as the student body, is integrated. Desegregation also covers discrimination by sex, and against the handicapped. He explained that too little has been done by the Justice Department and HEW in terms of coordinating their activities. As a result, Days said, there are currently about 250 discrimination cases pending, many without attorneys.</p>
@@ -505,7 +515,7 @@ Council.</p>
           <head>SOUTHERN POLITICS: Judge Robert Collins Speaks</head>
           <byline>By <docAuthor><name reg="Morris, Robert" type="person">Robert Morris</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142sp</idno></bibl>
+          
           <p id="sc01-7_10188">"Without a pool of competent attorneys who can focus on pressing the legitimate claims of minorities, those rights will be neglected, eroded, and perhaps eventually destroyed," said Judge Robert F. Collins, speaking to luncheon guests of the SRC Annual Meeting recently. President Carter's appointee to the U.S. District Court in New Orleans and the South's only Black federal judge in this century, Collins spoke of his own experiences in capsuling three decades of civil rights activity in the South. Collins' own education began as a court case. It took a lawsuit to open the doors for him and two other Blacks to enter the Louisiana State University Law School. After graduation, he worked on local counsel in Louisiana for the Congress of Racial Equality and cooperated with the NAACP Legal Defense Fund.</p>
           <p id="sc01-7_10189">During the 60s, Collins argued eight civil rights cases before the Supreme Court, including ones involving a student march on the Baton Rouge courthouse, Black students reading books in a Clinton, LA., library and sit-in protests in the streets.</p>
           <p id="sc01-7_10190">With the help of the Voter Education Project, Blacks worked for ten years in New Orleans to raise the number of registered Black voters from 20 to 45 percent, Collins said. "Because of similar effort, the state now has the highest percentage of Black elected officials in the United States." Although many are in minor positions, it is a start, he said. "Upon that base a lot can be built ... the number is still infinitesimal," Collins noted, referring to the fact that the number of Black elected officials in the United States is less than 2 percent.</p>
@@ -526,7 +536,7 @@ rights are not lost in the next generation.</p>
           <head>SOUTHERN POLITICS:Panelists look at Southern Political System</head>
           <byline>By <docAuthor><name reg="Jones, Jean" type="person">Jean Jones</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 26-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142tt</idno></bibl>
+          
           <p id="sc01-7_10194">"Tyranny and tragedy have been and still are the core of the Southern experience," Dr. Samuel Dubois Cook, president of Dillard University, remarked during an afternoon session on politics in the South at the Annual Meeting of the Southern Regional Council.</p>
           <p id="sc01-7_10195">The plight of Southern politics was analyzed by Dr. Cook,<hi rend="italic"> Nashville Tennesseean</hi> Publisher John Seigenthaler and Atlanta City Councilwoman Panke Bradley in a panel discussion. While recognizing the great social changes made in the political system of the South, each had enormous misgivings.</p>
           <p id="sc01-7_10196">"The South and the Southern political system are not 'free at
@@ -555,7 +565,7 @@ South" carried in this issue.</p>
           <head>URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought</head>
           <byline>By <docAuthor><name reg="Terry, Janet" type="person">Janet Terry</name></docAuthor></byline>
           <docDate value="1979-04">Vol. 1, No. 7, 1979, pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/142vz</idno></bibl>
+          
           <p id="sc01-7_10203">Is the South truly in the midst of an overdue, unparalleled economic boom, or is the image a mirage, fashioned by media hype, overeager expectations, and scattered development?</p>
           <p id="sc01-7_10204">Participants on the rural development panel at SRC's Annual Meeting did not debate the question long. In the words of Charles Prejean, executive director of the Atlanta-based Federation of Southern Cooperatives (FSC), "Despite the unsubtantiated claims of explosive Southern growth which emanate from Northern observers, the South, and especially the rural South, remains deeply impoverished."</p>
           <p id="sc01-7_10205">The poverty rate of Southern states, according to a report compiled

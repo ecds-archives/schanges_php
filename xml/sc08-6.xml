@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc08-6_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc08-6_1204">
   <teiHeader id="sc08-61201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,19 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc08-6_002">http://pid.emory.edu/ark:/25593/14f2x</idno>
+            <idno type="ark" n="sc08-6_003">http://pid.emory.edu/ark:/25593/14f32</idno>
+            <idno type="ark" n="sc08-6_004">http://pid.emory.edu/ark:/25593/14f46</idno>
+            <idno type="ark" n="sc08-6_005">http://pid.emory.edu/ark:/25593/14f5b</idno>
+            <idno type="ark" n="sc08-6_006">http://pid.emory.edu/ark:/25593/14f6g</idno>
+            <idno type="ark" n="sc08-6_007">http://pid.emory.edu/ark:/25593/14f7m</idno>
+            <availability>
           <p id="sc08-6_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +30,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +38,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 8</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date value="1986-12">December 1986</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc08-6_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +54,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +62,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc08-6_1203">
     <body id="sc08-6_1202">
@@ -75,7 +80,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
           <head>Behind the Numbers on Black Crime</head>
           <byline>By <docAuthor><name reg="Barak, Gregg" type="person">Gregg Barak</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f2x</idno></bibl>
+          
           <p id="sc08-6_104">According to FBI figures for 1985, the four largest cities in
 Alabama--Birmingham, Mobile, Huntsville, and Montgomery--all
 registered increases in their crime rates that exceeded the national
@@ -248,7 +253,7 @@ black political organization, in Birmingham in October
 Lowcountry</head>
           <byline>By <docAuthor><name reg="Rosengarten, Dale" type="person">Dale Rosengarten</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 17-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f32</idno></bibl>
+          
           <p id="sc08-6_1019">Coiled sea grass basketry flourishes today in the tidewater region
 of South Carolina. In all seasons, or any given day, travellers to
 Charleston can find dozens of basketmakers from the surburban
@@ -699,7 +704,7 @@ Carolina Arts Commission.</p>
           <head>A Southerner in South Africa</head>
           <byline>By <docAuthor><name reg="Gaston, Paul M." type="person">Paul M. Gaston</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 9-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f46</idno></bibl>
+          
           <p id="sc08-6_1065">Few visitors return from South Africa these days with good news or
 give us much reason to be hopeful. Like those who have visited the
 country, most Americans fear and expect the worst from it. We are all
@@ -1180,7 +1185,7 @@ contributing editor of <title>Southern Changes</title>.</p>
           <head>Palmer Weber, 1914-1986</head>
           <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 5-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f5b</idno></bibl>
+          
           <p id="sc08-6_10129">In 1948, Palmer Weber and Louis Burnham organized Henry Wallace's
 third party campaign in the South. Building on earlier voter
 registration and education efforts, the Southern campaign focused
@@ -1390,7 +1395,7 @@ Virginia.</p>
           <head>Congressman Espy from Mississippi</head>
           <byline>By <docAuthor><name reg="Minor, Bill" type="person">Bill Minor</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 1-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f6g</idno></bibl>
+          
           <p id="sc08-6_10144">A studious, mild-mannered Yazoo City attorney, thirty-two years
 old, wrote Mississippi political history on November 4, when he became
 the first black sent to the U.S. Congress from this state since
@@ -1526,7 +1531,7 @@ lives in Jackson.</p>
           <head>Locking Up Liberty in the Atlanta Pen</head>
           <byline>By <docAuthor><name reg="Dolman, Joe" type="person">Joe Dolman</name></docAuthor></byline>
           <docDate value="1986-12">Vol. 8, No. 6, 1986, pp. 3-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14f7m</idno></bibl>
+          
           <p id="sc08-6_10168">The granite fortress occupies the ridge on McDonough Boulevard with
 imperial authority. Its gray steel and concrete outer wall stands as
 tall as thirty-seven feet and as thick as four feet; it seals off

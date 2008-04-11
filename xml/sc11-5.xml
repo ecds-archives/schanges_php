@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc11-5_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc11-5_1204">
   <teiHeader id="sc11-51201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,22 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc11-5_002">http://pid.emory.edu/ark:/25593/14mh7</idno>
+            <idno type="ark" n="sc11-5_003">http://pid.emory.edu/ark:/25593/14mjc</idno>
+            <idno type="ark" n="sc11-5_008">http://pid.emory.edu/ark:/25593/14mkh</idno>
+            <idno type="ark" n="sc11-5_009">http://pid.emory.edu/ark:/25593/14mmn</idno>
+            <idno type="ark" n="sc11-5_019">http://pid.emory.edu/ark:/25593/14mns</idno>
+            <idno type="ark" n="sc11-5_010">http://pid.emory.edu/ark:/25593/14mpx</idno>
+            <idno type="ark" n="sc11-5_011">http://pid.emory.edu/ark:/25593/14mq2</idno>
+            <idno type="ark" n="sc11-5_012">http://pid.emory.edu/ark:/25593/14mr6</idno>
+            <idno type="ark" n="sc11-5_013">http://pid.emory.edu/ark:/25593/14msb</idno>
+            <availability>
           <p id="sc11-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +33,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +41,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 11</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date value="1989-11">November 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc11-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +57,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +65,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc11-5_1203">
     <body id="sc11-5_1202">
@@ -79,7 +87,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
             </docAuthor>
           </byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 10-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mh7</idno></bibl>
+          
           <p id="sc11-5_104">EDITORS' NOTE: "Land of Deepest Shade," an exhibition of
 more than a hundred photographs by John McWilliams, is currently on
 view at the High Museum of Art in Atlanta. A book by the same
@@ -309,7 +317,7 @@ explore that.</p>
           <head>Native Southerners</head>
           <byline>By <docAuthor><name reg="Perdue, Theda" type="person">Theda Perdue</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 1, 4-8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mjc</idno></bibl>
+          
           <div3 id="sc11-5_004" type="Section">
             <p id="sc11-5_1040">Southerners do not think very much about Indians unless, of course,
 they are vacationing in the Great Smoky Mountains or perhaps south
@@ -683,7 +691,7 @@ cultural and racial issue of the twenty-first century.</p>
           <head>The Law.</head>
           <byline>Reviewed by <docAuthor><name reg="McDonald, Laughlin" type="person">Laughlin McDonald</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 21-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mkh</idno></bibl>
+          
           <bibl><title>Whose Votes Count? Affirmative Action and
 Minority Voting Rights</title> by Abigail M. Thernstrom (Cambridge:
 Harvard University Press, 1987. 316 pp. $25. Paperback edition, 1989,
@@ -859,7 +867,7 @@ News</title>, May/June, 1989.)</p>
           <head>Politics of Nativism.</head>
           <byline>Reviewed by <docAuthor><name reg="Kilbourne, Larry" type="person">Larry Kilbourne</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mmn</idno></bibl>
+          
           <bibl><title>The Party of Fear: From Nativist
 Movements to New Right in American History</title> by David H. Bennett
 (University of North Carolina Press, 1988. 509 pp. $29.95.)</bibl>
@@ -958,7 +966,7 @@ now a U.S. Air Force historian living in Ohio.</p>
           <head>Victorian Reformer.</head>
           <byline>Reviewed by <docAuthor><name reg="Fleming, Harold G." type="person">Harold G. Fleming</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 18-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mns</idno></bibl>
+          
           <bibl><title>Lugenia Burns Hope: Black Southern
 Reformer</title> by Jacqueline Anne Rouse (Athens: The University of
 Georgia Press, 1989. 192 pp. $25.)</bibl>
@@ -1032,7 +1040,7 @@ American justice.</p>
           <head>Transformed Color</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 19-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mpx</idno></bibl>
+          
           <bibl><title>The Mississippi Chinese</title> by
 James W. Loewen, with a preface by Robert Coles. (Prospect Heights,
 Ill.: Waveland Press, 1988, second edition. Paper, xii, 257
@@ -1131,7 +1139,7 @@ rewards the reader who keeps at it.</p>
           <head>A New Heaven and Earth.</head>
           <byline>Reviewed by <docAuthor><name reg="Dean, Mary James" type="person">Mary James Dean</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 16-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mq2</idno></bibl>
+          
           <bibl><title>The Temple of My
 Familiar</title> by Alice Walker (New York: Harcourt Brace Jovanovich,
 1989. 416 pp. $19.95.)</bibl>
@@ -1270,7 +1278,7 @@ marriage and family therapy.</p>
           <byline>By 
             <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 24, 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14mr6</idno></bibl>
+          
           <p id="sc11-5_10136">I spoke recently in Pittsburgh at an annual NAACP
 banquet. Ordinarily, NAACP types are leery of me because they often
 naively believe every societal problem in the world can be settled in
@@ -1346,7 +1354,7 @@ writer.</p>
           <head>Portraits from Slavery.</head>
           <byline>Reviewed by <docAuthor><name reg="Campbell, Emory S." type="person">Emory S. Campbell</name></docAuthor></byline>
           <docDate value="1989-11">Vol. 11, No. 5, 1989, pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14msb</idno></bibl>
+          
           <bibl><title>Winslow Homer's Images of
 Blacks</title> by Peter H. Wood and Karen C.C. Dalton (University of
 Texas, 1989. Paper, 144 pp. $19.95.)</bibl>

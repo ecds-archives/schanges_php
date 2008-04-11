@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc22-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc22-2_1204">
   <teiHeader id="sc22-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,13 +9,24 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc22-2_001">http://pid.emory.edu/ark:/25593/151kt</idno>
+            <idno type="ark" n="sc22-2_004">http://pid.emory.edu/ark:/25593/151mz</idno>
+            <idno type="ark" n="sc22-2_007">http://pid.emory.edu/ark:/25593/151n3</idno>
+            <idno type="ark" n="sc22-2_010">http://pid.emory.edu/ark:/25593/151p7</idno>
+            <idno type="ark" n="sc22-2_012">http://pid.emory.edu/ark:/25593/151qc</idno>
+            <idno type="ark" n="sc22-2_014">http://pid.emory.edu/ark:/25593/151rh</idno>
+            <idno type="ark" n="sc22-2_016">http://pid.emory.edu/ark:/25593/151sn</idno>
+            <idno type="ark" n="sc22-2_018">http://pid.emory.edu/ark:/25593/151ts</idno>
+            <idno type="ark" n="sc22-2_020"/>
+            <idno type="ark" n="sc22-2_020">http://pid.emory.edu/ark:/25593/151vx</idno>
+            <idno type="ark" n="sc22-2_022">http://pid.emory.edu/ark:/25593/151w2</idno>
+            <idno type="ark" n="sc22-2_024">http://pid.emory.edu/ark:/25593/151x6</idno>
+            <idno type="ark" n="sc22-2_025">http://pid.emory.edu/ark:/25593/151zb</idno>
+            <availability>
           <p id="sc22-2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational
@@ -24,9 +34,7 @@ purposes, provided
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -34,22 +42,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 22</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="2000-06">2000</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc22-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -57,7 +63,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc22-2_1203">
     <body id="sc22-2_1202">
@@ -69,7 +81,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>New Century Politics</head>
           <byline>By <docAuthor><name reg="Johnson, Wendy S." type="person">Wendy S. Johnson</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 3-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151kt</idno></bibl>
+          
           <p id="sc22-2_104">The social activism of the 1960s gave us some of the most powerful and ground-breaking legislation of the last century--legislation that embraced the themes of freedom, justice, and democracy--most notably the Civil Rights Act of 1964 and the Voting Rights Act of 1965. As a result, millions of formerly disfranchised minorities gained a political voice through the power of voting. In the last two decades, we've seen a dramatic and disturbing rightward shift in our national policy. In this new century, we face a number of challenges as the future enforcement of these policies is thrown into doubt.</p>
           <p id="sc22-2_105">As we prepare for the first presidential race of the new century and the much-anticipated and debated 2000 Census count results, minority voting rights are at a crossroads and questions continue to be raised in the enforcement of the Voting Rights Act of 1965.</p>
           <p id="sc22-2_106">Threats to minority voting rights increased shortly after the 1990 reapportionment/redistricting cycle, which resulted in dramatic electoral gains for African-American and Latino voters in the 1992 elections.</p>
@@ -128,7 +140,7 @@ the growing disconnect and disenchantment of young voters with electoral politic
           <head>Soft Money Showered on the States: Redistricting and Election 2000</head>
           <byline>By <docAuthor><name reg="Bender, Edwin" type="person">Edwin Bender</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 4-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151mz</idno></bibl>
+          
           <p id="sc22-2_1024">Early in the 2000 election cycle, as the presidential candidates began their campaigns in earnest, the Tennessee Republican State Executive Committee was rolling in
 soft-money contributions passed down from the Republican National State Elections Committee. Usually low on the RNC's priority list for party-building funds, Federal Election Commission (FEC) records show the Tennessee Republican Party had received $423,000 as of August 1999,
 putting it second on the priority list behind California.</p>
@@ -174,7 +186,7 @@ Institute's website at: www.followthemoney.org.</p>
           <head>The FlimFlam Campaign: Corporations Buy the Conventions</head>
           <byline>By <docAuthor><name reg="Hightower, Jim" type="person">Jim Hightower</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 6-7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151n3</idno></bibl>
+          
           <p id="sc22-2_1042">Ready or not, heeeeere they come. [music: Happy
 days are here again] The Republican and Democratic national conventions have come to town! You've seen the pageantry on TV, the bunting and balloons, the speeches...
 but what they haven't shown you is the bald-faced corruption behind the hoopla, the selling of the very conventions that formally choose the nominees of the two big parties.</p>
@@ -234,7 +246,7 @@ www.opensecrets.org</p>
             </docAuthor>
           </byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 8-9</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151p7</idno></bibl>
+          
           <p id="sc22-2_1053">If nonvoters constituted a political party in America today, far and away more citizens would belong to it than to all other political parties combined-and that party would be growing rapidly. In the 1998 midterm elections, various surveys show that more than six out often eligible voters or 128 million registered voters failed to vote, a 2.5 million increase over the 1994 midterm election. This continues a thirty-eight-year trend of declining participation rates in both presidential and midterm elections. One recent study found that our electorate has decreased to the point that, among the 131 democracies in the world, the United States ranks 103rd in voter participation.</p>
           <p id="sc22-2_1054">One of the most alarming realities shaping the steady drift of
 Americans away from the voting booths is that young people, eighteen
@@ -281,7 +293,7 @@ whagens@southerncouncil.org.</p>
           <head>Election 2000 Across the South</head>
           <byline>By <docAuthor><name reg="Torian, Sarah E." type="person">Sarah E. Torian</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151qc</idno></bibl>
+          
           <p id="sc22-2_1065">Across the South, affirmative action, felony disfranchisement, the environment, and public education hang in the balance as states elect new governors, legislators, congresspeople, and judges. From the potential Republican ascension to complete statewide control in Virginia to the removal of more than sixty senior legislators in Florida due to term limits, this fall's elections will determine who is in control during the post2000 redistricting, whose agendas will be proposed and endorsed, and the extent of minority and female political representation as we enter the next century. Following are brief summaries of some significant elections and issues on the ballot across the South this November.</p>
           <p id="sc22-2_1066" rend="center">
             <hi rend="bold">Disfranchised Voters in Alabama</hi>
@@ -392,7 +404,7 @@ the presidential election, across the South, 134 House seats, seven Senate seats
           <head>The 2000 Elections and Voting Rights Act Renewal</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151rh</idno></bibl>
+          
           <p id="sc22-2_10107">Alarmist email messages surfaced in the late 1990s
 claiming that "African-Americans will lose their right to
 vote in 2007." While the 110th Congress will not in any direct sense, be deciding whether or not black or Latino voters will retain the right to vote, key provisions of the Voting Rights Act of 1965--including Section 5, which gives the U.S. Department of Justice enforcement powers in covered jurisdictions--will end in 2007 unless Congress moves to extend them.</p>
@@ -445,7 +457,7 @@ Republican administration hostile to voting rights expansion.</p>
           <head>Teaching "Will the Circle Be Unbroken?" in South Carolina Schools</head>
           <byline>By <docAuthor><name reg="Raschke, Diane" type="person">Diane Raschke</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 p. 16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151sn</idno></bibl>
+          
           <p id="sc22-2_10125" rend="italic">On June 14-15, SRC consultant and former education programs director Marcia Klenbort conducted an in-depth workshop for teachers from across South Carolina on using "Will the Circle Be Unbroken?" in grades 6 through 12. Following the workshop, the article below, entitled "Distant Voices to Recount South's Civil Rights Clashes: Key Civil Rights Voices Come Alive for Local Students in a New Documentary" appeared in <title>The State</title> newspaper.</p>
           <p id="sc22-2_10126">More than 250 new voices will help some Columbia, South Carolina, students learn about the Civil Rights Movement this fall.</p>
           <p id="sc22-2_10127">They belong to the men and women, both famous
@@ -480,7 +492,7 @@ schools; the Clarendon County segregation case, <hi rend="italic">Briggs v. Elli
           <head>REVIEWS: An Essential Toughness</head>
           <byline>Reviewed by <docAuthor><name reg="Dittmer, John" type="person">John Dittmer</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151ts</idno></bibl>
+          
           <bibl>Andrew M. Manis, <title>A Fire You Can't Put Out: The Civil Rights Life of Birmingham's Reverend Fred Shuttlesworth</title>, Tuscaloosa: The University of Alabama Press. 1999.</bibl>
           <p id="sc22-2_10140">The first thing you need to know about the Reverend Fred Shuttlesworth
 is that he was fearless. A case in point: during the 1961 Freedom
@@ -529,7 +541,7 @@ for Human Rights.</p>
           <head>Civil Rights Unionism</head>
           <byline>Reviewed by <docAuthor><name reg="Harris, Leslie Marie" type="person">Leslie Marie Harris</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 18-19</docDate>
-          <bibl><idno type="ark"></idno></bibl>
+          
           <bibl>Andrew M. Manis, <title>A Fire You Can't Put Out: The Civil Rights Life of Birmingham's Reverend Fred Shuttlesworth</title>, Tuscaloosa: The University of Alabama Press. 1999.</bibl>
           <p id="sc22-2_10140">The first thing you need to know about the Reverend Fred Shuttlesworth
 is that he was fearless. A case in point: during the 1961 Freedom
@@ -578,7 +590,7 @@ for Human Rights.</p>
           <head>Civil Rights Unionism</head>
           <byline>Reviewed by <docAuthor><name reg="Harris, Leslie Marie" type="person">Leslie Marie Harris</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 18-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151vx</idno></bibl>
+          
           <bibl>Michael Keith Honey, <title>Black Workers Remember: An Oral History of Segregation, Unionism, and the Freedom Struggle</title>, Berkeley: University of California Press, 1999.</bibl>
           <p id="sc22-2_10155">Mention Memphis, labor, and the Civil Rights Movement and most
 people will immediately think of Marlin Luther King, Jr.'s, ill-fated
@@ -620,7 +632,7 @@ at Emory University in Atlanta, Georgia.</p>
           <head>Film/Television: Lost Highways</head>
           <byline>Reviewed by <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151w2</idno></bibl>
+          
           <bibl>"George Wallace: Settin' the Woods on Fire," a film in <title>The American Experience</title> series for the Public Broadcasting Service. Produced and directed by Daniel McCabe and Paul Stekler for WGBH, Boston. Written by McCabe, Stekler, and Steve Fayer. Executive Producer Margaret Drain. Based in part on <title>The Politics of Rage</title> by Dan T. Carter. 180 minutes.</bibl>
           <p id="sc22-2_10163">George Wallace, white reaction's pit bull in the desegregation and
 voting rights battles of the 1950s and 60s. was--in his prime--a
@@ -739,7 +751,7 @@ conclusion is a missed opportunity for assessing--and mourning--the lengthy dama
             </docAuthor>
           </byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 p. 23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151x6</idno></bibl>
+          
           <p id="sc22-2_10183">Life-long activist Earl Shinhoster was "one of the brightest stars
 in the human rights galaxy," said SCLC President Emeritus Reverend
 Joseph Lowery at the June 16 memorial service commemorating his life
@@ -774,7 +786,7 @@ S.W. Atlanta,Georgia 30314.</p>
             </docAuthor>
           </byline>
           <docDate value="2000-06">Vol. 22, No. 2, 2000 pp. 24-26</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/151zb</idno></bibl>
+          
           <p id="sc22-2_10191">Albert Turner, Sr., a lifelong Alabama activist who led voting rights
 campaigns, sit-ins, and marches for freedom and equal rights, who served
 under Martin Luther King, Jr. in SCLC, who was elected to the Perry

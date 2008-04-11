@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc15-2_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc15-2_1204">
   <teiHeader id="sc15-21201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,26 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc15-2_002">http://pid.emory.edu/ark:/25593/14s0p</idno>
+            <idno type="ark" n="sc15-2_003">http://pid.emory.edu/ark:/25593/14s1t</idno>
+            <idno type="ark" n="sc15-2_004">http://pid.emory.edu/ark:/25593/14s2z</idno>
+            <idno type="ark" n="sc15-2_005">http://pid.emory.edu/ark:/25593/14s33</idno>
+            <idno type="ark" n="sc15-2_009">http://pid.emory.edu/ark:/25593/14s47</idno>
+            <idno type="ark" n="sc15-2_010">http://pid.emory.edu/ark:/25593/14s5c</idno>
+            <idno type="ark" n="sc15-2_011">http://pid.emory.edu/ark:/25593/14s6h</idno>
+            <idno type="ark" n="sc15-2_012">http://pid.emory.edu/ark:/25593/14s7n</idno>
+            <availability>
           <p id="sc15-2_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +36,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 15</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1993-06">Suumer 1993</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc15-2_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +57,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc15-2_1203">
     <body id="sc15-2_1202">
@@ -67,7 +74,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>Raveled Care</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 1-4</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s0p</idno></bibl>
+          
           <p id="sc15-2_104">If modern American presidents are known by the companies that keep them, this summer we are witnessing a shift from the era of military-industrial presidencies to those in thrall to the health insurance-medical industry. It's not that the Pentagon is on the verge of withering away into plowshares and stethoscopes. Hardly. More that there is a newly ascendant hog whose presence at the trough demands notice.</p>
           <p id="sc15-2_105">Postponed for decades, but forced now because of costs that are rising more than ten percent a year in a sector that takes 14 percent of our annual gross domestic product while leaving thirty-seven million people uninsured, the debate over the national crisis in health care is sure to continue for months and years to come. Yet, at some point late in the '92 campaign, Bill and Hillary Clinton firmly fastened on to the conservative Democratic "managed competition" strategy, a proposal that if put into practice will accelerate the pace at which this country's health care is being turned over to insurance industry giants. When Clintonians say "Be realistic, this is the best we can hope for," what they are really saying is "Be Prudential."</p>
           <p id="sc15-2_107">Believers in the irony theory of history might look back to October
@@ -146,7 +153,7 @@ ought to be the necessary public commitments of a just society.</p>
           <head>The Unquiet Stereotype</head>
           <byline>By <docAuthor><name reg="Giardina, Denise" type="person">Denise Giardina</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 6-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s1t</idno></bibl>
+          
           <p id="sc15-2_1028">
             <hi rend="italic">These remarks were given by Denise Giardina in accepting the 1992 Lillian Smith Book Award for Fiction for her novel, <title>The Unquiet Earth</title>.</hi>
           </p>
@@ -270,7 +277,7 @@ this award on behalf of the people of West Virginia.</p>
           <head><hi rend="italic">Save Our Cumberland Mountains</hi>&#x2014;<lb/>The Courage to Work for Justice</head>
           <byline>By <docAuthor><name reg="White, Connie" type="person">Connie White</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 11-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s2z</idno></bibl>
+          
           <p id="sc15-2_1059">
             <hi rend="italic">The following essay on the work and vision of SOCM (Save Our Cumberland Mountains) was presented as a talk to the Appalachian Studies Conference held in Berea, Kentucky, in March.</hi>
           </p>
@@ -368,7 +375,7 @@ communities or both.</p>
           <head>Chanting and Other Matters Queer</head>
           <byline>By <docAuthor><name reg="Taub, Aaron" type="person">Aaron Taub</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 16-19</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s33</idno></bibl>
+          
           <p id="sc15-2_1090">This critical essay was prompted by the specific chants and events of an October 31, 1992 demonstration organized by Queer Nation/Atlanta, participated in by other organizations such as ACLU, ACT UP/Atlanta, NOW, and Straight But Not Narrow and targeted against the Cracker Barrel corporation. It was one in a fairly regular series of demonstrations, which as readers may already know, began some two years ago, when the corporation first fired several gay and lesbian employees. Despite such tepid overtures as offering one of the most vocal employees her job, the company has refused to rehire the fired employees, to give back pay, or to institute a company non-discriminatory employment policy. In addition, it has actively sought and received federal intervention that would allow it to avoid presenting the issue to stockholder meetings. Although I had been mulling over a number of the ideas contained in this essay long before the demonstration, it was the demonstration itself that inspired me to write. Because of this, my discussion will be both specific and general, rooted in the particular events of October 31, yet extending beyond to a much broader range of issues of radical resistance.</p>
           <p id="sc15-2_1091">While I am not an active member of Queer Nation/Atlanta, I have participated in a number of their Cracker Barrel demonstrations and have an enormous amount of respect for their accomplishments. For two grueling years, they have relentlessly publicized Cracker Barrel's bigotry in the gay and straight media both in Atlanta and nationwide. In addition to demonstrating, they have purchased shares in the corporation, maintaining a dissonant presence at stockholder meetings. They have also made critical connections to Cracker Barrel's racism by pointing out the insult to people of color posed by the mammy dolls that Cracker Barrel sells. Therefore, I find Queer Nation's persistence on these and other fronts in the face of fierce indifference and hostility to be an extraordinary inspiration.</p>
           <p id="sc15-2_1093">Yet while I applaud the actual work of Queer Nation, I find myself
@@ -440,7 +447,7 @@ fighting their oppression.</note>
           <head>The Most Hated Man in Alabama</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 20-22</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s47</idno></bibl>
+          
           <bibl><title>Taming the Storm:  The Life
 and Times of Frank M. Johnson, Jr., and the South's Fight over Civil Rights</title>, by Jack Bass (Doubleday, New York, 1993, 512
 pages).</bibl>
@@ -485,7 +492,7 @@ matter once and for all.</p>
           <head>Blood On Our Hands</head>
           <byline>Reviewed by <docAuthor><name reg="Kennedy, Stetson" type="person">Stetson Kennedy</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 22-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s5c</idno></bibl>
+          
           <bibl><title>Terror in the Night</title>, by
 Jack Nelson (Simon &amp; Schuster, 1993, 287 pages).</bibl>
           <p id="sc15-2_10137">What Stalingrad was to World War II, Mississippi was to the Overcoming; and what Jack Nelson has given us here, while not purporting to be the whole story of all that took place on that crucial battlefield in the 1960s struggle to purge America of apartheid and white supremacy, is one of the most revelatory accounts yet.</p>
@@ -539,7 +546,7 @@ though it comes late, is as timely as can be.</p>
 descriptions"</head>
           <byline>Reviewed by <docAuthor><name reg="Boykin, Deborah" type="person">Deborah Boykin</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s6h</idno></bibl>
+          
           <bibl><title>Life, Liberty, and the Pursuit of Land: The
 Plunder of Early America</title>, by Daniel M. Friedenberg (Promethus
 Books, 1992, 423 pages).</bibl>
@@ -572,7 +579,7 @@ the nation established by those who took their place.</p>
           <head>Where the nation is heading?</head>
           <byline>Reviewed by <docAuthor><name reg="Boykin, Deborah" type="person">Deborah Boykin</name></docAuthor></byline>
           <docDate value="1993-06">Vol. 15, No. 2, 1993, pp. 25-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14s7n</idno></bibl>
+          
           <bibl><title>The Most Southern Place on Earth: The Mississippi Delta
 and the Roots of Southern Identity</title>, by James C. Cobb (Oxford
 University Press, 1993, 333 pages, index).</bibl>

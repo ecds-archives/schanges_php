@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc15-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc15-1_1204">
   <teiHeader id="sc15-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,27 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc15-1_002">http://pid.emory.edu/ark:/25593/14rpb</idno>
+            <idno type="ark" n="sc15-1_003">http://pid.emory.edu/ark:/25593/14rqg</idno>
+            <idno type="ark" n="sc15-1_004">http://pid.emory.edu/ark:/25593/14rrm</idno>
+            <idno type="ark" n="sc15-1_009">http://pid.emory.edu/ark:/25593/14rsr</idno>
+            <idno type="ark" n="sc15-1_010">http://pid.emory.edu/ark:/25593/14rtw</idno>
+            <idno type="ark" n="sc15-1_011">http://pid.emory.edu/ark:/25593/14rv1</idno>
+            <idno type="ark" n="sc15-1_012">http://pid.emory.edu/ark:/25593/14rw5</idno>
+            <idno type="ark" n="sc15-1_013">http://pid.emory.edu/ark:/25593/14rx9</idno>
+            <idno type="ark" n="sc15-1_014">http://pid.emory.edu/ark:/25593/14rzf</idno>
+            <availability>
           <p id="sc15-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2004</date>
-      </publicationStmt>
+        </availability><date>2004</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +37,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 15</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1993-03">Spring 1993</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc15-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2004</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +58,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc15-1_1203">
     <body id="sc15-1_1202">
@@ -67,7 +75,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
           <head>'Freedom Buses' Roll Along Cancer Alley</head>
           <byline>By <docAuthor><name reg="Spears, Ellen" type="person">Ellen Spears</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 1-11</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rpb</idno></bibl>
+          
           <p id="sc15-1_104">
             <hi rend="italic">On the weekend of December 4-6, 1992, more than 2,000 activists from around the South and the nation joined in an unprecedented gathering in New Orleans, drawn together in a common movement for environmental justice. With these unanticipated numbers and the diversity of participants, the meeting at the mouth of the Mississippi may come to be regarded&#x2014;like the October 1991 People of Color Environmental Leadership Summit in Washington, D.C., that inspired it&#x2014;as a watershed in the U S. environmental movement.</hi>
           </p>
@@ -298,7 +306,7 @@ movement that will change the river's course is in full swing. </p>
           <head>Anne Braden: Southern Activist</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 13-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rqg</idno></bibl>
+          
           <p id="sc15-1_10113">FOR OVER FORTY-FIVE YEARS, almost as long as the Southern Regional Council has existed, Anne Braden has stood for a South that embodies the very best democratic ideals and traditions. Born in Louisville, Kentucky, and reared in the Deep South, Anne had every opportunity as she was growing up in the 1930s to acclimate herself to the worst traditions of the South&#x2014;the worst habits of a white segregated society. But by the gifts of family and circumstances, and perhaps just that magic that some call fate and others call God's will, she came to understand in time and experience that the South of segregation was wrong in the 1940s, and, by God, the South of segregation need not be forever. While in 1992 that conclusion seems commonplace, for those who were coming of age in the 1930s and '40s, it was a leap of imagination which even the founders of the Southern Regional Council could not grasp in its beginning.</p>
           <p id="sc15-1_10114">Anne began in newspaper work in Birmingham, Alabama, and in Kentucky. She soon realized, however, that what she was covering, what she was seeing, needed to be changed more than reported. And so, she began to use her talents as a journalist and her self-made talents as an organizer to work with labor unions and burgeoning groups that later would call themselves civil rights groups. With her husband Carl, she began to change and challenge and did not stop.</p>
           <p id="sc15-1_10115">In 1957, the Bradens began to work with the Southern Conference
@@ -393,7 +401,7 @@ only the South but the country. </p>
           <head>Remembering Harold and Marge</head>
           <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rrm</idno></bibl>
+          
           <p id="sc15-1_10148">At the Atlanta/Fulton County Public Library November 19, 1992, Harold Fleming, former director of the Southern Regional Council, and Marge Manderson, long-time program officer, researcher, and writer, were memorialized by family and friends. Leslie Dunbar offered the following words.</p>
           <p id="sc15-1_10149">MY GOOD FORTUNE and privilege have been to know well both Harold and Marge. They were good and noble people, whom I cherished as friends.</p>
           <p id="sc15-1_10150">I worked under Harold at the Council, and later tried to live up to his example, his many examples, as his successor. When I first came to the Council's staff it was Marge, who had already been there for four years, who broke me in&#x2014;she was to be my assistant&#x2014;and who with her unflagging commitment to the Council worked with me during the next several full and challenging and always exciting years.</p>
@@ -430,7 +438,7 @@ will hold to them as they did. </p>
           <head>State of Change?</head>
           <byline>Reviewed by <docAuthor><name reg="McMillan, Cecily" type="person">Cecily McMillan</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 22-23</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rsr</idno></bibl>
+          
           <bibl><title>South Carolina in the Modern
 Age</title>, by Walter Edgar (University of South
 Carolina Press, 1991, 171 pages).</bibl>
@@ -485,7 +493,7 @@ it has indeed been the history of the state in the modern age.</p>
           <head>Extraordinary Actions</head>
           <byline>Reviewed by <docAuthor><name reg="Marshall, Suzanne" type="person">Suzanne Marshall</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 24-25</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rtw</idno></bibl>
+          
           <bibl>
             <title>Refuse to Stand Silently By:
 An Oral History of Grass Roots Social Activism in America,
@@ -535,7 +543,7 @@ people.</p>
           <byline>Reviewed by 
             <docAuthor><name reg="O'Brien, Thomas V." type="person">Thomas V. O'Brien</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 25-27</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rv1</idno></bibl>
+          
           <bibl><title>Black Scholar:  Horace Mann
 Bond, 1904-1972</title>,  by Wayne J. Urban
 (University of Georgia Press, 1992, xii, 266 pages, photographs).</bibl>
@@ -589,7 +597,7 @@ at Lincoln involved a plan to alter the historical mission of Lincoln University
           <byline>Reviewed by 
             <docAuthor><name reg="Adcock-Steffey, Cindy" type="person">Cindy Adcock-Steffey</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 27-28</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rw5</idno></bibl>
+          
           <bibl><title>Cloak and Gavel: FBI
 Wiretaps, Bugs, Informers and the Supreme Court</title>, by Alexander Charns (University of Illinois Press, 1992, xviii, 206 pages).</bibl>
           <p id="sc15-1_10218">In <hi rend="italic">Cloak and Gavel</hi>, Alexander Charns, a Southern civil rights attorney, weaves a tale of deception and intrigue. His proposition is that J. Edgar Hoover, during his forty-eight year reign as director of the FBI, greatly influenced both the make-up and the decisions of the Supreme Court. His tale involves plots that most would find unbelievable:
@@ -625,7 +633,7 @@ the federal judiciary.</p>
           <head>A Journalist's Education</head>
           <byline>Reviewed by <docAuthor><name reg="Blackford, Linda" type="person">Linda Blackford</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 29-30</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rx9</idno></bibl>
+          
           <bibl><title>In Our Place</title>, by Charlayne Hunter-Gault (Farrar, Strauss, Giroux, 1992, 257 pages).</bibl>
           <p id="sc15-1_10233">"We were simply doing what we were born to do."</p>
           <p id="sc15-1_10234">With this statement, journalist Charlayne Hunter-Gault recalls her
@@ -660,7 +668,7 @@ to do.</p>
           <head>Cross-Examining America</head>
           <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
           <docDate value="1993-03">Vol. 15, No. 1, 1993, pp. 30-31</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14rzf</idno></bibl>
+          
           <bibl><title>Declarations of Independence</title>, by Howard Zinn (Harper-Collins, 1990, 341
 pages).</bibl>
           <lb/>

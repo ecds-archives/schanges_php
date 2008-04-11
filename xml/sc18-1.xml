@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc18-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc18-1_1204">
   <teiHeader id="sc18-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,22 +9,30 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory University</pubPlace>
-        <address>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace>
+            <address>
           <addrLine>Atlanta, Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc18-1_002">http://pid.emory.edu/ark:/25593/14vk7</idno>
+            <idno type="ark" n="sc18-1_003">http://pid.emory.edu/ark:/25593/14vmc</idno>
+            <idno type="ark" n="sc18-1_004">http://pid.emory.edu/ark:/25593/14vnh</idno>
+            <idno type="ark" n="sc18-1_005">http://pid.emory.edu/ark:/25593/14vpn</idno>
+            <idno type="ark" n="sc18-1_006">http://pid.emory.edu/ark:/25593/14vqs</idno>
+            <idno type="ark" n="sc18-1_007">http://pid.emory.edu/ark:/25593/14vrx</idno>
+            <idno type="ark" n="sc18-1_008">http://pid.emory.edu/ark:/25593/14vs2</idno>
+            <idno type="ark" n="sc18-1_009">http://pid.emory.edu/ark:/25593/14vt6</idno>
+            <idno type="ark" n="sc18-1_010">http://pid.emory.edu/ark:/25593/14vvb</idno>
+            <idno type="ark" n="sc18-1_011">http://pid.emory.edu/ark:/25593/14vwg</idno>
+            <idno type="ark" n="sc18-1_012">http://pid.emory.edu/ark:/25593/14vxm</idno>
+            <idno type="ark" n="sc18-1_014">http://pid.emory.edu/ark:/25593/14vzr</idno>
+            <availability>
           <p id="sc18-1_101">1996 Emory University. Permission is granted to 
 download, transmit, or otherwise reproduce, distribute or display the contributions to 
 the work claimed by Emory University for non-profit educational purposes, provided  
 this header is included in its entirety.  For inquiries about commercial uses, contact 
 either: Southern Changes Digital Archive or Lewis H. Beck Center for Electronic 
 collections and services, Emory University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>2003</date>
-      </publicationStmt>
+        </availability><date>2003</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -33,22 +40,20 @@ collections and services, Emory University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 18</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1996-03">Spring 1996</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc18-1_102">This text is produced in conjunction with the  
 Southern Changes Digital Archive at Emory University and the Southern Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>2003</date>
         <respStmt>
           <name>Beck Center</name>
           <resp>Staff</resp>
         </respStmt>
         <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -56,7 +61,13 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc18-1_1203">
     <body id="sc18-1_1202">
@@ -72,7 +83,7 @@ Southern Changes Digital Archive at Emory University and the Southern Regional C
             </docAuthor>
           </byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 1-2</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vk7</idno></bibl>
+          
           <p id="sc18-1_104">With the election season looming, and both Clinton and the Congress
 positioning on the welfare reform debate, agreement on a welfare
 reform package is now considered unlikely this year. But the real
@@ -117,7 +128,7 @@ reprinted there with permission.</p>
           <head>Texas: Fundamentally Flawed</head>
           <byline>By <docAuthor><name reg="Bresette, Patrick" type="person">Patrick Bresette</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 2-3</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vmc</idno></bibl>
+          
           <p id="sc18-1_1010">The powerful impetus in Congress to reform this nation's welfare programs has rapidly degenerated into little more than an ideological contest, but one likely to yield disastrous consequences. Divorced from reality, ignoring current research, and focusing on all the wrong issues, Congress aims to implement welfare reform that would create vast inequities among the states and provide little meaningful change.</p>
           <p id="sc18-1_1011">The stated goal of welfare reform is simple enough--to convert welfare into a stepping stone to economic independence and self-sufficiency. Unfortunately, what has become lost in the current debate is the program's original intent--protecting disadvantaged children. The proposals being considered dismantle the current system without putting something better in place. These measures would likely push millions of poor families deeper into poverty.</p>
           <p id="sc18-1_1013">In Texas, poor women and children will be the ulti-<pb id="sc18-1_1012" n="3"/>mate victims of what has become a cynical display of overheated rhetoric versus reality. Instead of presenting a workplace plan during debate on welfare proposals, Senators joined House members in bickering over assistance to teen mothers and their children. It is a side issue--less than 5 percent of Texas welfare mothers are under age nineteen. Meanwhile, lawmakers have ignored the crucial problem of helping welfare mothers become economically independent.</p>
@@ -145,7 +156,7 @@ Star Forum</p>
           <head>Arkansas: Flexibility for Failure</head>
           <byline>By <docAuthor><name reg="Huddleston, Richard" type="person">Richard Huddleston</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 3-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vnh</idno></bibl>
+          
           <p id="sc18-1_1023">Courtesy of the Republican-controlled Congress, welfare reform block grants will soon be coming to Arkansas and other states. States will have unprecedented flexibility to set eligibility criteria, choose funding levels, and set program priorities.</p>
           <p id="sc18-1_1025">One common feature of these new block grant programs: states are
 not required to run their own programs. <pb id="sc18-1_1024" n="4"/>Instead, the states can turn them over to local jurisdictions. They would also permit private companies, non-profits, and charitable or religious organizations to run welfare programs. Ideally, such flexibility could enable states to experiment and redesign programs to better serve local needs. In reality, neither states nor local jurisdictions are equipped to shoulder these new responsibilities.</p>
@@ -179,7 +190,7 @@ surely fail.</p>
           <head>Virginia: Stinginess Amid Wealth</head>
           <byline>By <docAuthor><name reg="Myers, Steven L." type="person">Steven L. Myers</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 5-6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vpn</idno></bibl>
+          
           <p id="sc18-1_1037">Despite its relative wealth, Virginia spends far less to assist its poor citizens, most of whom are children, than most other states. During the 1980s, the income disparity between rich and poor families was more pronounced in Virginia than in any other state. The average annual income of the top fifth of Virginia's families increased nearly $21,747 while the average annual income of the bottom fifth actually fell $1,813. By the end of the decade, Virginia had the eighth largest income disparity between rich and poor families in the United States.</p>
           <p id="sc18-1_1038">Only seven states have average annual family income greater than Virginia's but Virginia's average monthly welfare payment ($277 for a family with two children) ranks only thirty-sixth in the country. As a result of Virginia's failure to adjust for inflation, the maximum welfare payment for a family of three in Virginia actually lost 58 percent of its value from 1970 to 1994.</p>
           <p id="sc18-1_1039">Today, welfare payments in Virginia provide less than 30 percent of the income needed to escape poverty. Even when other benefits, such as food stamps, are taken into account, most welfare families in Virginia are forced to survive on assistance totaling less than two-thirds of the federal poverty line.</p>
@@ -215,7 +226,7 @@ reforms honestly.</p>
           <head>Georgia: Scapegoats and Resentments</head>
           <byline>By <docAuthor><name reg="Keller, Marti" type="person">Marti Keller</name> and <name reg="Goldberg, Lane" type="person">Lane Goldberg</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 p. 6</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vqs</idno></bibl>
+          
           <p id="sc18-1_1045">The rhetoric surrounding the current debate over welfare reform plays on the growing insecurity in the U.S. today, appeals to our desire to find simple solutions to complex problems, and encourages us to seek scapegoats to bear the blame for the problems confronting our country.</p>
           <p id="sc18-1_1046">In Georgia, a survey commissioned by Senator Paul Coverdell (R-Ga.) revealed that many Georgia voters have great misconceptions of federal government spending. For example, of the six hundred respondents, a full 20 percent said that the government spends most of its money on welfare and food stamps. In reality Aid to Families with Dependent Children (AFDC) and food stamps amount to about 2.4 percent of total federal out-lays.</p>
           <p id="sc18-1_1047">Rhetoric driven by misinformation deceives the American public and obscures substantive issues which must be addressed. It ignores the fact that the majority of welfare recipients are children. Most significantly, the leading proposals for welfare reform, if implemented, will victimize our children. In fact:
@@ -237,7 +248,7 @@ constructively.</p>
           <head>Work First, People Last</head>
           <byline>By <docAuthor><name reg="Quesenberry, Preston" type="person">Preston Quesenberry</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 p. 7</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vrx</idno></bibl>
+          
           <p id="sc18-1_1052">In the name of "independence," and "responsibility," states around the nation have been implementing "Work First" programs designed to force welfare recipients into the workforce. While such programs are supported by their proponents as "giving families the help they need to become self-sufficient," they effectively entail using public dollars to coerce welfare recipients into the private sector's lowest-paying and least desirable occupations, with little hope of advancing from them. While welfare recipients are obviously not forced at gunpoint to engage in society's most-exploitative jobs, the time-limits and strict sanctions which accompany Work First legislation effectively coerce them with the threat of starvation.</p>
           <p id="sc18-1_1053">The federally-mandated Job Opportunity and Basic Skills (JOBS) programs had at least partially emphasized long-term training for work which really could provide participants with a modicum of independence and self-sufficiency. Thanks to federal waivers, however, the Southern states of Georgia, Mississippi, North Carolina, and Virginia have been revamping the JOBS programs and shifting the emphasis to getting welfare recipients into the workforce immediately. This fact is boldly proclaimed in government press releases boasting about the new programs, as in this statement from the office of North Carolina Governor Jim Hunt: "County departments of social services across North Carolina began shifting their welfare families from JOBS, a program that emphasized long-term training, to Work First, which emphasizes short-term training, work, and personal responsibility."</p>
           <p id="sc18-1_1054">Commenting on Virginia's Work First program, Virginia Poverty Law Center attorney Steve Myers pointed out the basic problems with this model, a model he said has "become the vogue and spread like wildfire among state governors." "According to the Work First model, education and training doesn't work; what works is work," Myers said. "The problem with this strategy is that half of AFDC recipients don't even have a high school education. How they are going to support themselves at the end of the time limit without further education or training is hard to understand."</p>
@@ -264,7 +275,7 @@ to independence and self-sufficiency.</p>
           <head>Voting Rights Assault: Heard This Song Before</head>
           <byline>By The Rev. <docAuthor><name reg="Lowery, Joseph" type="person">Joseph Lowery</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 8-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vs2</idno></bibl>
+          
           <p id="sc18-1_1060">In 1964, following the passage of the Public Accommodations Act, I
 was among a delegation that went with Martin King to see President Johnson
 to talk about voting rights. We were very concerned that there were less than three-hundred black elected officials in the United States and almost none in the South. President Johnson told us in his Texas drawl that we just had won one significant piece of legislation and there was no way in the world, this soon, following the '64 Act that we would have a voting rights act. "Y'all be patient and come back later." "Yessir, cap'n." And we went on back to Birmingham.</p>
@@ -320,7 +331,7 @@ motion with the fire in our belly.</p>
           <head>Black Southern Churches Under Fire</head>
           <byline>By <docAuthor><name reg="Lee, Barry E." type="person">Barry E. Lee</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 11-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vt6</idno></bibl>
+          
           <p id="sc18-1_1090">Historically, the church has been the "soul of the black community," says the Reverend Joseph Lowery, president of the Southern Christian Leadership Conference. Since April of 1993, at least twenty-seven black churches (and at least one with a racially mixed congregation) in the South have burned under suspicious circumstances. According to the Center for Democratic Renewal (CDR), an Atlanta-based civil and human rights action research center which specializes in tracking hate crimes, the number increases to forty-five if acts of vandalism are included.</p>
           <p id="sc18-1_1091">This recent rash of church fires brings back haunting memories of the horror of the bombing of the Sixteenth Street Baptist Church in Birmingham on September 15, 1963, in which four black girls were murdered. The apparent rebirth of what many black community and civic leaders consider "domestic terrorism" has generated great consternation, national focus and a sense of urgency to end the fires.</p>
           <p id="sc18-1_1092">Although church burnings were fairly common during the 1960s, the recent spate of fires has "caught everybody short," according to Mary Frances Berry, Chairwoman of the U.S. Commission on Civil Rights, because most groups had ceased to monitor incidents of this sort.</p>
@@ -401,7 +412,7 @@ Va.</item>
           <head>BOOKS: Freedom's Light</head>
           <byline>Reviewed by <docAuthor><name reg="Rouse, Jacqueline" type="person">Jacqueline Rouse</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 15-16</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vvb</idno></bibl>
+          
           <bibl><title>I've Got the Light of Freedom: The Organizing Tradition and the Mississippi Freedom Struggle</title> by Charles M. Payne (Berkeley: University of California Press, 1995, 525 pages).</bibl>
           <p id="sc18-1_10110">In grasping the tradition of organizing in the state of Mississippi during the decade of the sixties, Charles Payne seeks to analyze two components: how a large group of people "who were historically dependent, mostly apolitical, and vulnerable to violence," were moved to become activists in changing the conditions in their lives. And, how a new generation of young civil rights workers became carriers of the tradition of organizing in rural Mississippi. Payne forces us into the deep piney woods and hilly terrains of southern Mississippi, in order for us to appreciate the longevity of resistance by a cadre of undaunted "race" men and women. By acknowledging these new "movement centers," he provides an essential link in the evolving historiography of the modern civil rights movement.</p>
           <p id="sc18-1_10111">Drive-by shootings, firebombs, rattlesnakes thrown onto front porches, homes and crowds shot into, cars forced from rural and state roads--the "horrific terror of the system of Jim Crow" in Mississippi. Payne pulls us into the thicket of terrorism in order to release us into the safety of strong local independent leadership. Furious and free from economic reprisals from the local whites, these independent farmers, self-employed veterans, Pullman porters, entrepreneurs, and a few private professionals, organized community leagues, councils, and youth chapters of the NAACP.</p>
@@ -493,7 +504,7 @@ should be very proud of this award winning book.</p>
           <head>Anthologizing Appalachia</head>
           <byline>Reviewed by <docAuthor><name reg="Stanley, Tal" type="person">Tal Stanley</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 17-18</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vwg</idno></bibl>
+          
           <bibl><title>Appalachia Inside Out.</title> Volume I:<title>
 Conflict and Change;</title> Volume II: <title>Culture and Custom.</title> Edited by Robert J. Higgs,
 Ambrose N. Manning, and Jim Wayne Miller. (Knoxville: University of
@@ -532,7 +543,7 @@ culture and stereotypes of Appalachia.</p>
           <head>Available Light</head>
           <byline>Reviewed by <docAuthor><name reg="Amberg, Rob" type="person">Rob Amberg</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 18-20</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vxm</idno></bibl>
+          
           <p id="sc18-1_10134"><title>'Deaf Maggie Lee Sayre'--Photographs of a River Life</title> by Maggie Lee Sayre; edited by Tom Rankin (University of Mississippi Press, 1995, 84 pages).</p>
           <p id="sc18-1_10135">One of my abiding passions is understanding how people find their
 place in the world and come to do their life's work. <title>'Deaf Maggie Lee Sayre'</title> bears witness to a life story that is compelling, inspiring, and tragic.</p>
@@ -606,7 +617,7 @@ remember.</p>
           <head>Ruin and Redemption</head>
           <byline>Reviewed by <docAuthor><name reg="Egerton, John" type="person">John Egerton</name></docAuthor></byline>
           <docDate value="1996-03">Vol. 18, No. 1, 1996 pp. 20-21</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14vzr</idno></bibl>
+          
           <bibl><title>Like Judgment Day: The Ruin and Redemption of a Town Called Rosewood</title> by Michael D'Orso (Grosset-Putnam, 1996, 373 pages).</bibl>
           <p id="sc18-1_10150">What happened in the backwoods village of Rosewood, Florida, a tiny hamlet of black sawmill workers, in January 1923 was not at all uncommon in the South of that time, it is horrifying to contemplate now.</p>
           <p id="sc18-1_10151">A white millworker's wife in the neighboring town of

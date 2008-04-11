@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI.2 id="sc07-1_1204">
+<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc07-1_1204">
   <teiHeader id="sc07-11201" type="text">
     <fileDesc>
       <titleStmt>
@@ -10,15 +9,20 @@
         </respStmt>
       </titleStmt>
       <extent/>
-      <publicationStmt>
-        <publisher>Lewis H. Beck Center</publisher>
-        <pubPlace>Emory
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
 University</pubPlace>
-        <address>
+            <address>
           <addrLine>Atlanta,
 Georgia</addrLine>
         </address>
-        <availability>
+            <idno type="ark" n="sc07-1_002">http://pid.emory.edu/ark:/25593/14c68</idno>
+            <idno type="ark" n="sc07-1_003">http://pid.emory.edu/ark:/25593/14c7d</idno>
+            <idno type="ark" n="sc07-1_004">http://pid.emory.edu/ark:/25593/14c8j</idno>
+            <idno type="ark" n="sc07-1_005">http://pid.emory.edu/ark:/25593/14c9p</idno>
+            <idno type="ark" n="sc07-1_006">http://pid.emory.edu/ark:/25593/14cbt</idno>
+            <idno type="ark" n="sc07-1_007">http://pid.emory.edu/ark:/25593/14ccz</idno>
+            <idno type="ark" n="sc07-1_008">http://pid.emory.edu/ark:/25593/14cd3</idno>
+            <availability>
           <p id="sc07-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
@@ -27,9 +31,7 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability>
-        <date>1996</date>
-      </publicationStmt>
+        </availability><date>1996</date></publicationStmt>
       <seriesStmt>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
@@ -37,16 +39,15 @@ University, Atlanta, Georgia 30322</p>
         <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 7</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1985-03">March-April 1985</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <projectDesc>
+    <encodingDesc><projectDesc>
         <p id="sc07-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
-    </encodingDesc>
-    <revisionDesc>
-      <change>
+            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
+    <revisionDesc><change>
         <date>1998</date>
         <respStmt>
           <name>Beck Center</name>
@@ -54,8 +55,7 @@ Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
         </respStmt>
         <item>SGML tags
 inserted in compliance with TEI guidelines using TEILITE</item>
-      </change>
-      <change>
+      </change><change>
         <date>2007</date>
         <respStmt>
           <name>Alice Hickcox</name>
@@ -63,7 +63,13 @@ inserted in compliance with TEI guidelines using TEILITE</item>
         </respStmt>
         <item>text in div2/@n replaced with number</item>
       </change>
-    </revisionDesc>
+         <change><date>April 2008</date>
+            <respStmt>
+            <name>Alice Hickcox</name>
+                <resp>Electronic Text Specialist</resp>
+                </respStmt>
+            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
+        </revisionDesc>
   </teiHeader>
   <text id="sc07-1_1203">
     <body id="sc07-1_1202">
@@ -76,7 +82,7 @@ inserted in compliance with TEI guidelines using TEILITE</item>
 Been and Where We Are</head>
           <byline>By <docAuthor><name reg="Ashmore, Harry S." type="person">Harry S. Ashmore</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 8-10</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14c68</idno></bibl>
+          
           <p id="sc07-1_104">One of the things that disturbs me when people look back at the
 history we've lived through--some of us have lived through a good deal
 more of it than you younger ones--is that we tend to forget its
@@ -247,7 +253,7 @@ Southern Regional Council's Lillian Smith Award in 1982.</p>
 Collapse of Enforcement</head>
           <byline>By <docAuthor><name reg="Chambers, Julius L." type="person">Julius L. Chambers</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 10-13</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14c7d</idno></bibl>
+          
           <p id="sc07-1_1032">During the past week I have attended four meetings where we were
 discussing the Civil Rights Act of 1964 and the 1984 election. It has
 been a very depressing week.</p>
@@ -552,7 +558,7 @@ Council, is director of the NAACP Legal Defense Fund.</p>
 Comments</head>
           <byline>By<docAuthor><name reg="Fleming, Harold" type="person">Harold Fleming</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 13-14</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14c8j</idno></bibl>
+          
           <p id="sc07-1_1081">I'm want to footnote some of the things said in the excellent
 statements that Harry and Julius have just made. And I'm going to try
 not to celebrate the problem anymore than I can help.</p>
@@ -638,7 +644,7 @@ executive director of the Southern Regional Council.</p>
 <add>[Response]</add></head>
           <byline>By <docAuthor><name reg="Gaston, Paul" type="person">Paul Gaston</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 14-15</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14c9p</idno></bibl>
+          
           <p id="sc07-1_1092">Prompted by Harold and Harry's discussion of the new mythology--and
 particularly by Julius' recollection of his student days at Chapel
 Hill and his recent return visit--I would like to tell a brief anecdote
@@ -714,7 +720,7 @@ is president of the Southern Regional Council.</p>
           <head>The Rising Tide of Poverty</head>
           <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 5-8</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cbt</idno></bibl>
+          
           <p id="sc07-1_10108">"A rising tide lifts all boats," President Reagan explained four
 years ago when asked how his administration's policies would affect
 the poor. l hose were the days when Admini-
@@ -913,7 +919,7 @@ rates available.</p>
           <head>The South and the World Community</head>
           <byline>By <docAuthor><name reg="Thrasher, Sue" type="person">Sue Thrasher</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 20-1, 23-24</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14ccz</idno></bibl>
+          
           <p id="sc07-1_10132">At some moment during the 1950s and '60s, many of us in this room
 made a decision about where we were going to work and what we were
 going to work for--a decision that made us take a stand for the future
@@ -1190,7 +1196,7 @@ Atlanta this past November.</p>
           <head>Crackdown in the Black Belt</head>
           <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
           <docDate value="1985-03">Vol. 7, No. 1, 1985, pp. 1-5</docDate>
-          <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/14cd3</idno></bibl>
+          
           <p id="sc07-1_10179">In an apparent attempt to intimidate black voters in the rural
 South and push back electoral gains made since the passage of the 1965
 Voting Rights Act, federal prosecutors in Mobile, Montgomery and
