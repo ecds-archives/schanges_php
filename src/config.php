@@ -13,20 +13,20 @@
 
 //root directory and url for wilson website
 //development
-$basedir = "/home/ahickco/public_html/schanges";
+/*$basedir = "/home/ahickco/public_html/schanges";
 $server = "wilson.library.emory.edu";
 $base_path = "/~ahickco/schanges/";
 $base_url = "http://$server$base_path/";
-
+*/
 
 
 // root directory and url where the website resides
 // production version
-/* $basedir = "/home/httpd/html/beck/southernchanges";
+$basedir = "/home/httpd/html/beck/southernchanges";
 $server = "beck.library.emory.edu";
 $base_path = "/southernchanges";
 $base_url = "http://$server$base_path/";
-*/
+
 
 // add basedir to the php include path (for header/footer files and lib directory)
 set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/web/xml");

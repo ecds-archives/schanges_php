@@ -38,7 +38,7 @@
 
   <connectionParameters>
     <xmldb type="exist">
-      <host>wilson.library.emory.edu</host>
+      <host>bohr.library.emory.edu</host>
       <port>8080</port> 
       <database>schanges</database> 
       <collection></collection> 
