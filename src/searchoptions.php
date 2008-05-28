@@ -42,7 +42,7 @@ var linktext = "Beck Center Staff";
 document.write("<a href=" + "mail" + "to:" + username +
 "@" + hostname + ">" + linktext + "</a>")
 //-->
-</script><noscript> beckctr<img src="images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
+</script><noscript> beckctr<img src="web/images/at.gif" alt=" at "/>emory.edu</noscript>.</p>
 
 
 </div>
