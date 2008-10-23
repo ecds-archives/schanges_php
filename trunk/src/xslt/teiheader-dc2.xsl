@@ -7,10 +7,13 @@
   <!-- This stylesheet creates Dublin core metadata for the article
   level page -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
+
+  <xsl:param name="qualified">true</xsl:param>
+
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
   <xsl:variable name="siteurl">southernchanges</xsl:variable>
 
-  <xsl:key name="pid" match="idno" use="@n"/>
+  <xsl:key name="pid" match="idno" use="@n"/> <!-- use @n to match @id in div2-->
 
   <xsl:template match="/">
     <dc>
@@ -48,6 +51,8 @@
   <xsl:variable name="date">
     <xsl:apply-templates select=".//sourceDesc/bibl/date"/>
   </xsl:variable>
+  <xsl:choose>
+    <xsl:when test="$qualified = 'true'">
      <xsl:element name="dcterms:isPartOf">
       <xsl:value-of select="titleStmt/title"/><xsl:text>, </xsl:text><xsl:value-of select="$date"/> 
     </xsl:element>
@@ -56,7 +61,18 @@
       select="$siteurl"/>/article-list.php?id=<xsl:value-of
       select="../../issueid/@id"/>      
     </xsl:element>
-
+    </xsl:when>
+    <xsl:otherwise>
+     <xsl:element name="dc:relation">
+      <xsl:value-of select="titleStmt/title"/><xsl:text>, </xsl:text><xsl:value-of select="$date"/> 
+    </xsl:element>
+    <xsl:element name="dc:relation">
+      <xsl:value-of select="$baseurl"/><xsl:value-of
+      select="$siteurl"/>/article-list.php?id=<xsl:value-of
+      select="../../issueid/@id"/>      
+    </xsl:element>
+    </xsl:otherwise>
+  </xsl:choose>
     <xsl:element name="dc:contributor">
       <xsl:text>Southern Regional Council</xsl:text>
     </xsl:element>
@@ -69,27 +85,44 @@
       <xsl:value-of select="publicationStmt/publisher"/>
     </xsl:element>
 
+  <!-- electronic publication date: Per advice of LA -->
+<xsl:if test="$qualified = 'true'">
     <xsl:element name="dcterms:issued">
       <xsl:apply-templates select="publicationStmt/date"/>
     </xsl:element>
 
-  <!-- electronic publication date: Per advice of LA -->
     <xsl:element name="dcterms:created">
       <xsl:value-of select="sourceDesc/bibl/date/@value"/>
     </xsl:element>
+</xsl:if>
 
     <xsl:element name="dc:rights">
       <xsl:apply-templates select="publicationStmt/availability/p"/>
     </xsl:element>
 
-    <xsl:element name="dcterms:isPartOf">
-      <xsl:apply-templates select="seriesStmt/title"/>
-    </xsl:element>
+    <xsl:choose>
+      <xsl:when test="$qualified = 'true'">
+	<xsl:element name="dcterms:isPartOf">
+	  <xsl:apply-templates select="seriesStmt/title"/>
+	</xsl:element>
 
-    <xsl:element name="dcterms:isPartOf">
-      <xsl:value-of select="$baseurl"/><xsl:value-of
-      select="$siteurl"/>      
-    </xsl:element>
+	<xsl:element name="dcterms:isPartOf">
+	  <xsl:value-of select="$baseurl"/><xsl:value-of
+	  select="$siteurl"/>      
+	</xsl:element>
+      </xsl:when>
+
+      <xsl:otherwise>
+	<xsl:element name="dc:relation">
+	  <xsl:apply-templates select="seriesStmt/title"/>
+	</xsl:element>
+
+	<xsl:element name="dc:relation">
+	  <xsl:value-of select="$baseurl"/><xsl:value-of
+	  select="$siteurl"/>      
+	</xsl:element>
+      </xsl:otherwise>
+    </xsl:choose>
 
     <xsl:element name="dc:source">
       <!-- process all elements, in this order. -->
