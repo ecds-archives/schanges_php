@@ -41,7 +41,8 @@ $return='return
 </next>
 </TEI>';
 
-$query="$for $let $return";
+$query = "declare option exist:serialize 'highlight-matches=all';";
+$query .= "$for $let $return";
 
 // run the query 
 $xmldb->xquery($query);
