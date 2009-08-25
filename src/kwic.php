@@ -23,7 +23,8 @@ $htmltitle = "Southern Changes Digital Archive";
 // use article query with context added
 // note: using |= instead of &= because we want context for any of the
 // keyword terms, whether they appear together or not
-$xquery = "let \$doc := /TEI.2//div2[@id = \"$id\"]
+$xquery = "declare option exist:serialize 'highlight-matches=all';
+let \$doc := /TEI.2//div2[@id = \"$id\"]
 return 
 <item>
 {\$doc/@id}

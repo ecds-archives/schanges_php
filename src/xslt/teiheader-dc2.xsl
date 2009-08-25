@@ -17,7 +17,7 @@
 
   <xsl:template match="/">
     <dc>
-      <xsl:apply-templates select="//TEI"/>
+      <xsl:apply-templates/>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
     </dc>
