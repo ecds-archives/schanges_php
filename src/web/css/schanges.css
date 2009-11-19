@@ -99,7 +99,7 @@ div.subnav {font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-
 p.navlinks {margin-left: auto; 
 	   margin-right:auto;
 	   display: inline;
-	   text-shadow: 0.12em 0.12em 0.1em black} 
+	   /*text-shadow: 0.12em 0.12em 0.1em black*/} 
 
 span#ho {padding: 0 1em;} 
 span#ov {padding: 0 1em;} 
@@ -136,7 +136,7 @@ div.externalnav {text-align: center;
 		font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-serif; 
 		font-size: 14pt; 
 		text-decoration: none;
-	   	text-shadow: 0.1em 0.1em 0.1em black}
+	   	/*text-shadow: 0.1em 0.1em 0.1em black*/}
 
 p#beck {margin-left: auto; 
        margin-bottom: 1em; 

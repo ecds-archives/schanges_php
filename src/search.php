@@ -128,6 +128,8 @@ You may want to broaden your search or consult the search tips for suggestions.<
 
 
 </div>	
-
+<?php
+  include("web/xml/footer.xml");
+?>
 </body></html>
 
