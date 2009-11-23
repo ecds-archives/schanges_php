@@ -9,24 +9,12 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
-  <xsl:include href="xslt/teiheader-dc2.xsl"/>
+  <!-- need unqualified dublin core for Primo -->
+  <xsl:param name="qualified">false</xsl:param>
+
+  <xsl:include href="../xslt/teiheader-dc2.xsl"/>
   <xsl:include href="xmldbOAI/xsl/response.xsl"/>
 
-  <!-- match the top-level element in a tamino response & jump to the
-  relevant portion (in order to skip tamino messages & cursor
-  information) -->
-<!-- not using tamino
-  <xsl:template match="ino:response" mode="ListIdentifiers">
-    <xsl:apply-templates select="//div2" mode="ListIdentifiers"/>
-  </xsl:template>
-
-  <xsl:template match="ino:response">
-    <xsl:apply-templates select="//div2"/>
-  </xsl:template>
--->
-<!--  <xsl:template match="/">
-    <xsl:apply-templates/> 
-  </xsl:template> -->
 
   <!-- list identifiers : header information only -->
   <xsl:template match="TEI" mode="ListIdentifiers">

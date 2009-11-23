@@ -9,7 +9,7 @@
 // (will hide ugly warnings if databse goes offline/is unreachable)
   error_reporting(E_ALL ^ E_NOTICE);	// for production
   //error_reporting(E_ERROR | E_PARSE);    // for development
-$in_production = false;
+$in_production = true;
 
 // root directory and url where the website resides
 // production version
