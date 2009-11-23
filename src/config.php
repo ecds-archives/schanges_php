@@ -9,24 +9,31 @@
 // (will hide ugly warnings if databse goes offline/is unreachable)
   error_reporting(E_ALL ^ E_NOTICE);	// for production
   //error_reporting(E_ERROR | E_PARSE);    // for development
+$in_production = false;
+
+// root directory and url where the website resides
+// production version
+
+if($in_production) {
+$basedir = "/home/httpd/html/beck/southernchanges";
+$server = "bohr.library.emory.edu";
+ $webserver = "beck.library.emory.edu";
+$base_path = "/southernchanges";
+$base_url = "http://$webserver$base_path/";
+ $port = "7080";
+ } else {
 
 
 //root directory and url for wilson website
 //development
 $basedir = "/home/ahickco/public_html/schanges";
 $server = "wilson.library.emory.edu";
+ $webserver = "dev11.library.emory.edu";
 $base_path = "/~ahickco/schanges/";
-$base_url = "http://$server$base_path/";
+$base_url = "http://$webserver$base_path/";
+$port = "8080";
+ }
 
-
-
-// root directory and url where the website resides
-// production version
-/*$basedir = "/home/httpd/html/beck/southernchanges";
-$server = "beck.library.emory.edu";
-$base_path = "/southernchanges";
-$base_url = "http://$server$base_path/";
-*/
 
 // add basedir to the php include path (for header/footer files and lib directory)
 set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/web/xml");
@@ -35,7 +42,7 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":
 $cssfile = "web/css/schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-$port = "8080";
+
 $db = "schanges";
 
 $exist_args = array('host'   => $server,
