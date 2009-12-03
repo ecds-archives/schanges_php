@@ -44,7 +44,8 @@ if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
   //print("DEBUG: Searchfilter is $searchfilter");
   
-  $query = "for \$a in /TEI.2//div2$searchfilter
+  $query = "declare option exist:serialize 'highlight-matches=all';
+for \$a in /TEI.2//div2$searchfilter
 let \$t := \$a/head
 let \$doc := \$a/@id
 let \$auth := \$a/byline/docAuthor/name
