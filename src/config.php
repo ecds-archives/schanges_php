@@ -43,6 +43,12 @@ $cssfile = "web/css/schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 
+if($in_production) {
+  $port = "7080";
+ } else {
+  $port = "8080";
+ }
+
 $db = "schanges";
 
 $exist_args = array('host'   => $server,
