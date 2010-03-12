@@ -27,7 +27,7 @@ $base_url = "http://$webserver$base_path/";
 //root directory and url for wilson website
 //development
 $basedir = "/home/ahickco/public_html/schanges";
-$server = "wilson.library.emory.edu";
+$server = "kamina.library.emory.edu";
  $webserver = "dev11.library.emory.edu";
 $base_path = "/~ahickco/schanges/";
 $base_url = "http://$webserver$base_path/";

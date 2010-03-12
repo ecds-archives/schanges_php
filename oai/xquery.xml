@@ -15,7 +15,7 @@
       let $issue := $a/..
       ]]>                
     </let>    <where verb="GetRecord"><![CDATA[
-        $article/@id = "?"
+        $a/@id = "?"
         ]]>
     </where>
     <where>

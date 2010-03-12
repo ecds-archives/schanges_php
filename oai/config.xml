@@ -38,8 +38,8 @@
 
   <connectionParameters>
     <xmldb type="exist">
-      <host>wilson.library.emory.edu</host>
-      <port>8080</port> 
+      <host>bohr.library.emory.edu</host>
+      <port>7080</port> 
       <database>schanges</database> 
       <collection></collection> 
       <debug>false</debug>
