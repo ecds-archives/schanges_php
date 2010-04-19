@@ -1,38 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc10-2_1204">
-  <teiHeader id="sc10-21201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc10-2_1204">
+  <teiHeader xml:id="sc10-21201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 10, Number 2</title>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>staff</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc10-2_002">http://pid.emory.edu/ark:/25593/14gzm</idno>
-            <idno type="ark" n="sc10-2_003">http://pid.emory.edu/ark:/25593/14h0v</idno>
-            <idno type="ark" n="sc10-2_004">http://pid.emory.edu/ark:/25593/14h10</idno>
-            <idno type="ark" n="sc10-2_005">http://pid.emory.edu/ark:/25593/14h24</idno>
-            <idno type="ark" n="sc10-2_006">http://pid.emory.edu/ark:/25593/14h38</idno>
-            <idno type="ark" n="sc10-2_007">http://pid.emory.edu/ark:/25593/14h4d</idno>
-            <idno type="ark" n="sc10-2_008">http://pid.emory.edu/ark:/25593/14h5j</idno>
-            <idno type="ark" n="sc10-2_009">http://pid.emory.edu/ark:/25593/14h6p</idno>
-            <idno type="ark" n="sc10-2_010">http://pid.emory.edu/ark:/25593/14h7t</idno>
-            <idno type="ark" n="sc10-2_011">http://pid.emory.edu/ark:/25593/14h8z</idno>
-            <idno type="ark" n="sc10-2_012">http://pid.emory.edu/ark:/25593/14h93</idno>
-            <idno type="ark" n="sc10-2_013">http://pid.emory.edu/ark:/25593/14hb7</idno>
-            <idno type="ark" n="sc10-2_014">http://pid.emory.edu/ark:/25593/14hcc</idno>
-            <idno type="ark" n="sc10-2_015">http://pid.emory.edu/ark:/25593/14hdh</idno>
-            <idno type="ark" n="sc10-2_016">http://pid.emory.edu/ark:/25593/14hfn</idno>
-            <idno type="ark" n="sc10-2_017">http://pid.emory.edu/ark:/25593/14hgs</idno>
-            <availability>
-          <p id="sc10-2_101">1996 Emory
+        </address><idno type="ark" n="sc10-2_002">http://pid.emory.edu/ark:/25593/14gzm</idno><idno type="ark" n="sc10-2_003">http://pid.emory.edu/ark:/25593/14h0v</idno><idno type="ark" n="sc10-2_004">http://pid.emory.edu/ark:/25593/14h10</idno><idno type="ark" n="sc10-2_005">http://pid.emory.edu/ark:/25593/14h24</idno><idno type="ark" n="sc10-2_006">http://pid.emory.edu/ark:/25593/14h38</idno><idno type="ark" n="sc10-2_007">http://pid.emory.edu/ark:/25593/14h4d</idno><idno type="ark" n="sc10-2_008">http://pid.emory.edu/ark:/25593/14h5j</idno><idno type="ark" n="sc10-2_009">http://pid.emory.edu/ark:/25593/14h6p</idno><idno type="ark" n="sc10-2_010">http://pid.emory.edu/ark:/25593/14h7t</idno><idno type="ark" n="sc10-2_011">http://pid.emory.edu/ark:/25593/14h8z</idno><idno type="ark" n="sc10-2_012">http://pid.emory.edu/ark:/25593/14h93</idno><idno type="ark" n="sc10-2_013">http://pid.emory.edu/ark:/25593/14hb7</idno><idno type="ark" n="sc10-2_014">http://pid.emory.edu/ark:/25593/14hcc</idno><idno type="ark" n="sc10-2_015">http://pid.emory.edu/ark:/25593/14hdh</idno><idno type="ark" n="sc10-2_016">http://pid.emory.edu/ark:/25593/14hfn</idno><idno type="ark" n="sc10-2_017">http://pid.emory.edu/ark:/25593/14hgs</idno><availability>
+          <p xml:id="sc10-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -45,158 +26,134 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1988-03">March-April 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date when="1988-03">March-April 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc10-2_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc10-2_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1998</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc10-2_1203">
-    <body id="sc10-2_1202">
-      <div1 id="sc10-2_001" n="Southern Changes 10:2" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc10-2_1203">
+    <body xml:id="sc10-2_1202">
+      <div1 xml:id="sc10-2_001" n="Southern Changes 10:2" type="Issue">
         <head>Southern Changes.  Volume 10, Number 2, 1988</head>
-        <p id="sc10-2_103"><title>Southern Changes</title>.  Volume 10, Number 2,
-	       <date value="1988-03">1988</date></p>
-        <div2 id="sc10-2_002" n="4" type="Article">
+        <p xml:id="sc10-2_103"><title>Southern Changes</title>.  Volume 10, Number 2,
+	       <date when="1988-03">1988</date></p>
+        <div2 xml:id="sc10-2_002" n="4" type="Article">
           <head>Texas Leads in Pesticide Right-to-Know</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, p. 7</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Davenport, Elaine</reg><sic>Elaine Davenport</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, p. 7</docDate>
           
-          <p id="sc10-2_104">One of Texas Agricultural Commissioner Jim Hightower's pet projects
+          <p xml:id="sc10-2_104">One of Texas Agricultural Commissioner Jim Hightower's pet projects
 has come to fruition, and he is calling it "the beginning of a new
 age of enlightenment in the agricultural workplace."</p>
-          <p id="sc10-2_105">On January 1, Texas became the first state to require farm
+          <p xml:id="sc10-2_105">On January 1, Texas became the first state to require farm
 operators to provide workers with specific information about chemicals
 they may be exposed to in agricultural jobs. Known as the Farm worker
 Right-to-Know Law, it applies to employers with a gross annual payroll
 of $50,000 or more for permanent workers or $15,000 or more for
 seasonal workers.</p>
-          <p id="sc10-2_106">"That would apply to almost all vegetable and citrus growers, or
+          <p xml:id="sc10-2_106">"That would apply to almost all vegetable and citrus growers, or
 they shouldn't be in business," says program coordinator Beltran
 Chavez. In fact, the law is not meant to apply to small operators.</p>
-          <p id="sc10-2_107">Chavez estimates at least 10,000 employers are covered by the new
+          <p xml:id="sc10-2_107">Chavez estimates at least 10,000 employers are covered by the new
 law and must maintain a list--by crop--of every chemical used or
 stored on the farm in excess of fifty-five gallons or five hundred
 pounds. The employer must keep the records for thirty years, or send
 them to the Texas Department of Agriculture for storage and
 retrieval.</p>
-          <p id="sc10-2_108">The Texas Department of Agriculture and the Texas A&amp;M Extension
+          <p xml:id="sc10-2_108">The Texas Department of Agriculture and the Texas A&amp;M Extension
 Service are jointly responsible for training agricultural employees
 about the proper use of agricultural pesticides. This mandate differs
 from similar laws for other industries, which put the training burden
 on the employer.</p>
-          <p id="sc10-2_109">The TDA and Extension Service are developing bilingual crop
+          <p xml:id="sc10-2_109">The TDA and Extension Service are developing bilingual crop
 information sheets about the chemicals most widely used, their health
 effects, emergency procedures, employers' responsibilities and
 workers' rights. These sheets will be provided to employers for
 distribution to farm workers. Video training materials are also
 available.</p>
-          <p id="sc10-2_1010">The TDA has hired three staff persons for the project and five
+          <p xml:id="sc10-2_1010">The TDA has hired three staff persons for the project and five
 Right-to-Know specialists to work in the field. Despite recent hard
 economic times in Texas, the legislature authorized about $400,000 per
 year for the new program.</p>
-          <p id="sc10-2_1011">"Agriculture is the last major recognized industry to come on
+          <p xml:id="sc10-2_1011">"Agriculture is the last major recognized industry to come on
 board with right-to-know," says Chavez, who previously
 administered farm worker health programs at migrant clinics in both
 Texas and California. "That's probably because of the strength of
 the agricultural and chemical lobbies."</p>
-          <p id="sc10-2_1012">Surprisingly perhaps, there have been few harsh responses from
+          <p xml:id="sc10-2_1012">Surprisingly perhaps, there have been few harsh responses from
 employers. "We have had forty or fifty requests from producers for
 information," says Chavez. "They seem to have realized that
 some law was eventually going to affect them, so there was some
 measure of acceptance."</p>
-          <p id="sc10-2_1013">Chavez says that he expects other states to have right-to-know laws
+          <p xml:id="sc10-2_1013">Chavez says that he expects other states to have right-to-know laws
 for agriculture soon, probably not through legislation as in Texas but
 through regulations from the Environmental Protection Agency and other
 U.S. government agencies which will be extended to cover
 agriculture.</p>
-          <p id="sc10-2_1014">Commissioner Hightower has made the Right-to-Know program a
+          <p xml:id="sc10-2_1014">Commissioner Hightower has made the Right-to-Know program a
 priority because he thinks agriculture should stop and take a look at
 chemicals. "They are a habit and an expense," says
 Hightower. "We should see if chemicals are warranted in terms of
 the long-run ecological effect."</p>
-          <div3 id="sc10-2_022" type="About">
-            <p id="sc10-2_1015">Freelance reporter Elaine Davenport divides her time
+          <div3 xml:id="sc10-2_022" type="About">
+            <p xml:id="sc10-2_1015">Freelance reporter Elaine Davenport divides her time
 between Austin, Texas, and London, England.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_003" n="5" type="Article">
+        <div2 xml:id="sc10-2_003" n="5" type="Article">
           <head>Changing of the Era in Mississippi<lb/>  ...A Southern
 Tragedy</head>
-          <byline>By <docAuthor><name reg="Williams, Ed" type="person">Ed Williams</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 3, 1988, p. 10</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Williams, Ed</reg><sic>Ed Williams</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 3, 1988, p. 10</docDate>
           
-          <p id="sc10-2_1016">I remember Ross Barnett as a wonderful phrase-maker. In those more
+          <p xml:id="sc10-2_1016">I remember Ross Barnett as a wonderful phrase-maker. In those more
 trusting days, nobody thought that he might just be good at delivering
 phrases made by witty writers, as John Kennedy was then and Ronald
 Reagan is now.</p>
-          <p id="sc10-2_1017">Barnett was governor of Mississippi when I was a student at Ole
+          <p xml:id="sc10-2_1017">Barnett was governor of Mississippi when I was a student at Ole
 Miss in the early 1960s. I can see him now, standing on tiptoes behind
 a lectern, head back, right arm stretched skyward, poised to swoop
 like a diving hawk as he pounded home his point. Even after he was out
 of office, he continued to give speeches around the state, talking
 about Teddy Kennedy ("that grrrrrreat driver, that grrrrrreat
 swimmer") or the meddlesome federal government.</p>
-          <p id="sc10-2_1018">I still get a lot of laughs telling stories about ol' Ross. There
+          <p xml:id="sc10-2_1018">I still get a lot of laughs telling stories about ol' Ross. There
 was the time, for instance, when some Parchman prison trustys assigned
 as servants at the governor's mansion took off to Arkansas on an
 unauthorized trip that they obviously hoped would be one-way. Maybe
 they took the governor's silver with them; I can't recall.</p>
-          <p id="sc10-2_1019">Ross's comment: "If you can't trust a trusty, who can you
+          <p xml:id="sc10-2_1019">Ross's comment: "If you can't trust a trusty, who can you
 trust?"</p>
-          <p id="sc10-2_1020">Then there was the time Ross had flown to make a campaign speech in
+          <p xml:id="sc10-2_1020">Then there was the time Ross had flown to make a campaign speech in
 the Delta. He got out of the small plane and walked into the
 propeller, which was, thank heavens, rotating slowly. When he came to
 in the hospital, Ross said he had learned that "the front end of an
 airplane is like the back end of a mule"--that is, you've got to
 watch both of them.</p>
-          <p id="sc10-2_1021">The islands of Quemoy and Matsu, off the China coast, figured in
+          <p xml:id="sc10-2_1021">The islands of Quemoy and Matsu, off the China coast, figured in
 one of the debates between John Kennedy and Richard Nixon during the
 1960 presidential campaign. The islands were controlled by the Chinese
 anti-communists in exile on Taiwan, and the mainland Chinese bombarded
 them during the late '50s and occasionally in 1960.</p>
-          <p id="sc10-2_1022">Statehouse reporters asked ol' Ross what he would do about Quemoy
+          <p xml:id="sc10-2_1022">Statehouse reporters asked ol' Ross what he would do about Quemoy
 and Matsu. "I'd appoint 'em to the Game and Fish Commission,"
 he said.</p>
-          <p id="sc10-2_1023">Ross Barnett died recently at the age of 89. He had been a trial
+          <p xml:id="sc10-2_1023">Ross Barnett died recently at the age of 89. He had been a trial
 lawyer and a successful one, winning huge (for a poor state) verdicts
 in damage suits against power companies and other opponents with deep
 pockets. A friend of mine concluded that Barnett, the shrewd lawyer,
 had played the dumb ol' country boy before so many juries that he had
 finally become a dumb ol' country boy.</p>
-          <p id="sc10-2_1024">I don't know whether that was true, but I know that when he had a
+          <p xml:id="sc10-2_1024">I don't know whether that was true, but I know that when he had a
 chance to lead Mississippi into a better future he chose instead to
 embrace the bitter past.</p>
-          <p id="sc10-2_1025">People can sit around all night telling Ross Barnett stories and
+          <p xml:id="sc10-2_1025">People can sit around all night telling Ross Barnett stories and
 leave the impression that he was at worst a goodhearted, amiable
 buffoon, but that's only part of the story. He was also a committed
 racist. He believed that blacks were inferior, that segregation was
@@ -206,39 +163,39 @@ provoked a bloody insurrection on the Ole Miss campus when federal
 officials tried to enroll James Meredith. Two people died in the
 riot. The next day, federal troops occupied the campus to end what I
 have always considered the last battle of the Civil War.</p>
-          <p id="sc10-2_1026">Barnett was a pleasant companion and in some ways a good and caring
+          <p xml:id="sc10-2_1026">Barnett was a pleasant companion and in some ways a good and caring
 man. But he was an eager servant of the force that for centuries
 poisoned his region--racism.</p>
-          <p id="sc10-2_1027">Perhaps it seems unfair to blame political leaders such as Barnett,
+          <p xml:id="sc10-2_1027">Perhaps it seems unfair to blame political leaders such as Barnett,
 Orval Faubus of Arkansas and George Wallace of Alabama for reflecting
 the passions and prejudices of their time. To me, that is no
 defense. One measurement of excellence in political leaders is how
 well they grasp the important opportunities and help shape their
 times.</p>
-          <p id="sc10-2_1028">Remember, Ross Barnett was governor of Mississippi at the same time
+          <p xml:id="sc10-2_1028">Remember, Ross Barnett was governor of Mississippi at the same time
 Terry Sanford was governor of North Carolina. The difference in the
 two men says a lot about the differences in the two states.</p>
-          <div3 id="sc10-2_023" type="About">
-            <p id="sc10-2_1029">Ed Williams is editor of the <title>Charlotte
+          <div3 xml:id="sc10-2_023" type="About">
+            <p xml:id="sc10-2_1029">Ed Williams is editor of the <title>Charlotte
 Observer</title>'s editorial pages, from which this article is
 reprinted.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_004" n="6" type="Article">
+        <div2 xml:id="sc10-2_004" n="6" type="Article">
           <head>...'Our Day Has Come'</head>
-          <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 3, 1988, p. 10-11</docDate>
+          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 3, 1988, p. 10-11</docDate>
           
-          <p id="sc10-2_1030">My fellow Mississippians: Our day has come, and what a glorious day
+          <p xml:id="sc10-2_1030">My fellow Mississippians: Our day has come, and what a glorious day
 it is.</p>
-          <p id="sc10-2_1031">This is our day of hope and destiny, and we are eager to be about
+          <p xml:id="sc10-2_1031">This is our day of hope and destiny, and we are eager to be about
 our business. My speech will be brief--for the labor we have to do is
 long--and the future of this great state requires our deeds and not
 our words.</p>
-          <p id="sc10-2_1032">Yet, it is appropriate today to pause and think and talk about the
+          <p xml:id="sc10-2_1032">Yet, it is appropriate today to pause and think and talk about the
 journey we are beginning. For today marks not only the beginning of a
 new administration, but a new beginning for Mississippi.</p>
-          <p id="sc10-2_1033">This is, most of all, a time to speak of change and in these days
+          <p xml:id="sc10-2_1033">This is, most of all, a time to speak of change and in these days
 and weeks and months and years ahead, it truly will be our time to do
 the work of change. We do not take up this challenge with an illusion
 that it will be easy or fast, that all the barriers which have blocked
@@ -246,17 +203,17 @@ our progress will yield overnight. We know the struggle will be long
 and difficult. We bear the burdens of past shortcomings of promises
 unkept, of possibilities untapped, of dreams so long deferred, so
 often disappointed, that they almost seem to disappear.</p>
-          <p id="sc10-2_1035">Yet, now our people, in both parties, in every age, have risen
+          <p xml:id="sc10-2_1035">Yet, now our people, in both parties, in every age, have risen
 up--to reach beyond things as they are, to renew the quest for what
 Mississippi can become. Our purpose yours' and mine--is not to blame
 or look back in regret. Our, cause--yours and mine--is not to break
 with what is best in Mississippi, but at long last to fulfill it.
-<pb id="sc10-2_1034" n="11"/></p>
-          <p id="sc10-2_1036">Into that effort, we carry the blessings of this state--a
+<pb xml:id="sc10-2_1034" n="11"/></p>
+          <p xml:id="sc10-2_1036">Into that effort, we carry the blessings of this state--a
 magnificent heritage, an abundant land, an ideal location, and most of
 all a people as brave, as resilient, as honest and as hard-working as
 any in American history.</p>
-          <p id="sc10-2_1037">By all rights, Mississippi should be leading and not lagging. We
+          <p xml:id="sc10-2_1037">By all rights, Mississippi should be leading and not lagging. We
 have all had the faith that one day this would happen. We have been
 patient. We don't have to be patient any more, for our day has
 come. That new day demands of us here, of all who hold public office,
@@ -265,25 +222,25 @@ misdirected, represents a road not built, a school book not bought, a
 police officer not hired, a sick child not healed. Integrity is more
 than an ideal--and the cost of corruption must be counted not only in
 broken laws, but also in human hurts and broken hopes.</p>
-          <p id="sc10-2_1038">A new day also demands a new and uncompromising drive for the very
+          <p xml:id="sc10-2_1038">A new day also demands a new and uncompromising drive for the very
 best in education. In the elementary and secondary schools of this
 state, in our colleges and universities, at this very moment students
 are reading and writing and being graded. In the quality of all those
 classrooms, our future is also being written; our prospects can be
 read; and there today, we are deciding whether Mississippi will make
 the grade tomorrow.</p>
-          <p id="sc10-2_1039">We will not have first-rate schools if we give them second-rate
+          <p xml:id="sc10-2_1039">We will not have first-rate schools if we give them second-rate
 resources.</p>
-          <p id="sc10-2_1040">We will not advance economically if we are stalled
+          <p xml:id="sc10-2_1040">We will not advance economically if we are stalled
 educationally.</p>
-          <p id="sc10-2_1041">To any who say, "We cannot afford the price of better schools in
+          <p xml:id="sc10-2_1041">To any who say, "We cannot afford the price of better schools in
 Mississippi," we reply: Mississippi can't afford the cost of
 ignorance, illiteracy and wasted talent.</p>
-          <p id="sc10-2_1042">A new day in this state means a new prosperity for all our
+          <p xml:id="sc10-2_1042">A new day in this state means a new prosperity for all our
 people. For too long, we've only talked the talk; now, we must truly
 walk the walk. And the path to our prosperity will be marked by the
 milestones of our own efforts.</p>
-          <p id="sc10-2_1043">What is at stake is more than our statistical standing or our
+          <p xml:id="sc10-2_1043">What is at stake is more than our statistical standing or our
 material well-being. Opportunity is basic to human dignity; hope is
 basic to the human spirit. Good jobs with decent wages, with a chance
 for individuals to prove themselves and improve the standard of their
@@ -292,7 +249,7 @@ our families. None of us, none of us, wants to see the next generation
 moving away, drifting out, looking for work far from home. All of us,
 all of us, want Mississippi to be a place to live in, and not a place
 to leave.</p>
-          <p id="sc10-2_1044">Finally, a new day depends fundamentally on our resolve to banish
+          <p xml:id="sc10-2_1044">Finally, a new day depends fundamentally on our resolve to banish
 racism forever from the state of Mississippi. We know in our hearts
 that the chains of prejudice have bound more than one group: they have
 held us all back. A society divided against itself will not
@@ -300,54 +257,54 @@ prosper. And we know from history and from our own lives the anguish
 and the frustration of racial injustice--and we can be proud that so
 many among us have given so much in the belief that we shall
 overcome.</p>
-          <p id="sc10-2_1045">We share the faith that we are each God's children. After all the
+          <p xml:id="sc10-2_1045">We share the faith that we are each God's children. After all the
 years, let us hear anew His truth that we are all brothers and
 sisters. That ideal is written into our laws, and now it must be woven
 into the fabric of our lives.</p>
-          <p id="sc10-2_1046">Mississippi is among the oldest states of the American union, the
+          <p xml:id="sc10-2_1046">Mississippi is among the oldest states of the American union, the
 20th to be admitted, almost a century and three-quarters ago. Long
 time and turmoil, great achievement and heartache, have passed since
 that date in 1817--and since my own ancestors moved to Choctaw County
 less than 20 years later. Mississippi has been tempered and tested;
 this land and its people have known hard passages and good times--and
 we have given much.</p>
-          <p id="sc10-2_1047">Long enough have we endured. Now it is our turn to lead. It is our
+          <p xml:id="sc10-2_1047">Long enough have we endured. Now it is our turn to lead. It is our
 turn to gather the strength that is in us, in our spirit and our
 yearnings, and claim our rightful share of the American promise.</p>
-          <p id="sc10-2_1048">In this endeavor, let us work together--legislature and governor,
+          <p xml:id="sc10-2_1048">In this endeavor, let us work together--legislature and governor,
 separate branches in common purpose, willing to put politics aside for
 the sake of progress. Those of us, legislative and executive, who were
 honored by election last year were not chosen to simply stay where we
 are. If that is all we do, we will have failed and have forfeited the
 confidence of those who voted for us. None of us believe we will
 fail.</p>
-          <p id="sc10-2_1049">My fellow Mississippians: To you, we promise a government equal to
+          <p xml:id="sc10-2_1049">My fellow Mississippians: To you, we promise a government equal to
 your hopes. From you, we ask involvement and a determination to hold
 this government to a higher standard. To our children, we promise to
 fulfill the future by giving our all to the present. And to my father,
 I promise I will do my best.</p>
-          <p id="sc10-2_1050">History is something that should be controlled and not
+          <p xml:id="sc10-2_1050">History is something that should be controlled and not
 controlling. We in our generation can make the history of
 Mississippi. We are affected by the stream of events in other places,
 in earlier eras. But, in the end, the only limitations we face are
 those we put on ourselves.</p>
-          <p id="sc10-2_1051">So let us welcome this new beginning with a prayer for strength,
+          <p xml:id="sc10-2_1051">So let us welcome this new beginning with a prayer for strength,
 with a pride in our people and with the courage to do what is
 right.</p>
-          <p id="sc10-2_1052">Our day has come, so help us God.</p>
-          <div3 id="sc10-2_024" type="About">
-            <p id="sc10-2_1053">This is the text of the recent inaugural speech of Ray
+          <p xml:id="sc10-2_1052">Our day has come, so help us God.</p>
+          <div3 xml:id="sc10-2_024" type="About">
+            <p xml:id="sc10-2_1053">This is the text of the recent inaugural speech of Ray
 Mabus, the new governor of Mississippi and a member of the Southern
 Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_005" n="8" type="Article">
+        <div2 xml:id="sc10-2_005" n="8" type="Article">
           <head>Increasing Worker Participation Is Essential to Economic
 Growth</head>
-          <byline>By <docAuthor><name reg="Staff" type="person">Staff</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 3, 1988, pp. 18-19</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 3, 1988, pp. 18-19</docDate>
           
-          <p id="sc10-2_1054">The 1987 annual meeting of the Southern Regional Council
+          <p xml:id="sc10-2_1054">The 1987 annual meeting of the Southern Regional Council
 was organized as a conference on Unheard Voices: Worker Participation
 in the South's: Economy. Participants included men and women from all
 parts of the region, with diverse backgrounds in labor, law, activism,
@@ -355,10 +312,10 @@ day care, economic development, government, finance, agriculture and
 other fields. At the conclusion of the conference, the statement below
 was adopted. Following the statement are excerpts from the remarks of
 selected participants.</p>
-          <p id="sc10-2_1055">
+          <p xml:id="sc10-2_1055">
             <hi rend="bold">CONFERENCE STATEMENT</hi>
           </p>
-          <p id="sc10-2_1056">Increasing the participation of workers in decisions at their own
+          <p xml:id="sc10-2_1056">Increasing the participation of workers in decisions at their own
 workplace and in the economic policies of their own region and country
 is essential if the South and the nation are to realize future
 economic prosperity. Worker participation can take many
@@ -367,15 +324,15 @@ development cooperations, community- based enterprises,
 worker-controlled pension funds and others. All are valid so long as
 the voices of those who work are genuinely heard in the decisions
 about the workplace, wages, and the governing economic policies.</p>
-          <p id="sc10-2_1057">We believe that a country dedicated to democracy in its government
+          <p xml:id="sc10-2_1057">We believe that a country dedicated to democracy in its government
 cannot function efficiently and equitably with authoritarianism in its
 workplace.</p>
-          <p id="sc10-2_1058">Increased worker participation helps to improve productivity,
+          <p xml:id="sc10-2_1058">Increased worker participation helps to improve productivity,
 preserve jobs, improve wages, and increase the opportunity for
 economic gain by all. While these benefits are not the consequences of
 increased worker participation alone, they cannot be accomplished in
 the future in the South or in the nation without it.</p>
-          <p id="sc10-2_1059">By almost every reliable standard, United States industries have
+          <p xml:id="sc10-2_1059">By almost every reliable standard, United States industries have
 fallen behind as technology and the international economy have become
 more prevalent. Some parts of the South, especially, have declined in
 jobs and wages due to these trends. To reverse these developments--to
@@ -386,7 +343,7 @@ decision-making. Competitiveness--productivity, quality, flexibility,
 and innovation--in a worldwide economy depends on well-educated,
 well-trained people. Developed people are an almost unlimited asset;
 underdeveloped people are a serious liability.</p>
-          <p id="sc10-2_1060">Our future lies in recognizing this simple truth and in coming to
+          <p xml:id="sc10-2_1060">Our future lies in recognizing this simple truth and in coming to
 grips with its implications. Over the next thirty years the nation's
 and the South's workforce will change as much as the
 workplace. Demographic trends strongly suggest that within three
@@ -400,7 +357,7 @@ trained, and the least well-paid. Today, they continue to be the
 victims of private and governmental discrimination. Tomorrow, however,
 their work will determine the future of our regional and national
 economy.</p>
-          <p id="sc10-2_1061">Another important consideration influences our reassessment. If
+          <p xml:id="sc10-2_1061">Another important consideration influences our reassessment. If
 ever it was true, no longer in this country is there a direct,
 necessary connection between what is good for an "American" company
 and what is good for American communities and its workers. The
@@ -412,67 +369,67 @@ international and national policies that protect the interest of
 American communities by promoting the participation of workers in
 decision-making and establishing minimal global workplace
 standards.</p>
-          <p id="sc10-2_1062">To achieve the benefits of greater worker participation, we believe
+          <p xml:id="sc10-2_1062">To achieve the benefits of greater worker participation, we believe
 the following changes in policies and practices are vital:</p>
-          <p id="sc10-2_1063">~ The United States government should seek enforceable minimal
+          <p xml:id="sc10-2_1063">~ The United States government should seek enforceable minimal
 international labor standards that protect workers and promote human
 development just as it now seeks international trade agreements.</p>
-          <p id="sc10-2_1064">~ The federal and state governments should develop a system of
+          <p xml:id="sc10-2_1064">~ The federal and state governments should develop a system of
 lifelong education and training to foster improved worker skills and
 to invest in human development. In its universal application to job
 training, housing, and education, the system could be generally
 modeled after the G.I. Bill.</p>
-          <p id="sc10-2_1066">~ The federal and state governments should adopt policies that
+          <p xml:id="sc10-2_1066">~ The federal and state governments should adopt policies that
 provide more equitable sharing of the benefits 
-<pb id="sc10-2_1065" n="19"/>
+<pb xml:id="sc10-2_1065" n="19"/>
 and costs of economic
 change. Employers should be required to give adequate notice of plant
 closings and large scale layoffs. Workers should be guaranteed notice
 of and protection from hazardous materials in the workplace.</p>
-          <p id="sc10-2_1067">~ National and state investment banks should be created to meet
+          <p xml:id="sc10-2_1067">~ National and state investment banks should be created to meet
 important economic needs that promote job creation, job retention and
 improved wages--needs that are not now sufficiently met by private
 credit markets. These banks should support valid forms of worker
 participation.</p>
-          <p id="sc10-2_1068">~ The federal government should provide legislation guaranteeing
+          <p xml:id="sc10-2_1068">~ The federal government should provide legislation guaranteeing
 workers greater direct control of their own pension funds.</p>
-          <p id="sc10-2_1069">~ The federal government should improve the usefulness of federal
+          <p xml:id="sc10-2_1069">~ The federal government should improve the usefulness of federal
 laws relating to the voting rights of employees in stock ownership
 plans. It should also encourage more directly worker ownership through
 taxes, law, and funding.</p>
-          <p id="sc10-2_1070">~ The federal and state governments should spur the development of
+          <p xml:id="sc10-2_1070">~ The federal and state governments should spur the development of
 worker cooperatives and community development corporations and improve
 the laws requiring reinvestment by financial institutions and
 insurance companies into local communities and enterprises with valid
 worker participation.</p>
-          <p id="sc10-2_1071">~ The federal and state governments should affirmatively adopt and
+          <p xml:id="sc10-2_1071">~ The federal and state governments should affirmatively adopt and
 implement effective laws removing all forms of racism and sexism from
 the workplace.</p>
-          <p id="sc10-2_1072">~ The National Labor Relations Act should be strengthened to
+          <p xml:id="sc10-2_1072">~ The National Labor Relations Act should be strengthened to
 protect the rights of workers to organize and bargain collectively and
 to streamline the procedures permitting representation elections and
 prohibiting unfair labor practices. The Act also needs to be revamped
 to accommodate the growth of service and information industries.</p>
-          <p id="sc10-2_1073">~ The federal government should increase the minimum wage of the
+          <p xml:id="sc10-2_1073">~ The federal government should increase the minimum wage of the
 Fair Labor Standards Act so that the wage is at least half of the
 average wage in this country.</p>
-          <p id="sc10-2_1074">These changes will not solve all problems of the South's future
+          <p xml:id="sc10-2_1074">These changes will not solve all problems of the South's future
 economy; however, they will give a meaningful voice to workers and go
 further than other efforts to help assure future prosperity for all
 citizens and communities.</p>
         </div2>
-        <div2 id="sc10-2_006" n="14" type="Article">
+        <div2 xml:id="sc10-2_006" n="14" type="Article">
           <head>A Letter from Lillian Smith</head>
-          <byline>Edited by <docAuthor><name reg="Gladney, Rose" type="person">Rose Gladney</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 27-28</docDate>
+          <byline>Edited by <docAuthor><name type="person"><choice><reg>Gladney, Rose</reg><sic>Rose Gladney</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 27-28</docDate>
           
-          <p id="sc10-2_1075">The following is the third in a series of letters selected from the
+          <p xml:id="sc10-2_1075">The following is the third in a series of letters selected from the
 correspondence of Lillian Smith This issue's selection (from a carbon
 copy in the Lillian Smith Papers at Emory University) is from a letter
 to the Board of Directors of the Committee from Georgia, which was a
 state affiliate of the Southern Conference for Human Welfare
 (SCHW).</p>
-          <p id="sc10-2_1076">Organized in 1938 as a coalition of Southern liberals representing
+          <p xml:id="sc10-2_1076">Organized in 1938 as a coalition of Southern liberals representing
 farmers, labor, politicians, educators, youth, journalists and other
 professionals, SCHW advocated wide ranging reforms from improved labor
 conditions and expansion of Farm Security Administration Programs to
@@ -491,7 +448,7 @@ May 1945 because she felt the organization had grown narrowly
 political and controlled by a small faction of ideologues. However,
 she continued to support the goals of the Conference and served on the
 board of directors of its Georgia affiliate in 1946 and 1947.</p>
-          <p id="sc10-2_1077">The Committee for Georgia was one of the most active of the
+          <p xml:id="sc10-2_1077">The Committee for Georgia was one of the most active of the
 state-wide organizations of SCHW. In his study of SCHW (And Promises
 to Keep, Vanderbilt University Press, 1967), Thomas Krueger noted that
 the Committee for Georgia "sponsored two test suits challenging the
@@ -509,7 +466,7 @@ years." Furthermore, although Eugene Talmadge died in December
 in the state house and refused to relinquish their position until the
 Georgia Supreme Court ruled in favor of the Lt. Governor elect, Melvin
 E. Thompson.</p>
-          <p id="sc10-2_1078">Primarily because of financial difficulties, both SCHW and the
+          <p xml:id="sc10-2_1078">Primarily because of financial difficulties, both SCHW and the
 Committee for Georgia folded after 1947. However, Lillian Smith
 continued to advocate her psychocultural critique in political
 campaigns from Harry Truman to Lyndon Johnson. Always her political
@@ -522,16 +479,16 @@ analysis. Significantly, she repeatedly appealed to women, church
 leaders and journalists to exercise their power as moulders of public
 opinion; she always could translate her long-range philosophical
 perspective into concrete practices.</p>
-          <p id="sc10-2_1079">As with so many of her letters, this one seems uncomfortably timely
+          <p xml:id="sc10-2_1079">As with so many of her letters, this one seems uncomfortably timely
 to contemporary readers.</p>
-          <p id="sc10-2_1080">June 3, 1946</p>
-          <p id="sc10-2_1081">Dear Fellow Members:</p>
-          <p id="sc10-2_1082">I have been asked to go to India on the American Famine Mission at
+          <p xml:id="sc10-2_1080">June 3, 1946</p>
+          <p xml:id="sc10-2_1081">Dear Fellow Members:</p>
+          <p xml:id="sc10-2_1082">I have been asked to go to India on the American Famine Mission at
 the invitation and expense of the Government of India. We leave by
 plane on June 1 7th. Until then I am so rushed that I cannot come to
 our board meeting. I am disappointed. But perhaps you will let me say
 a few things that are on my mind:</p>
-          <p id="sc10-2_1083">I am haunted these days by a little theme that says itself again
+          <p xml:id="sc10-2_1083">I am haunted these days by a little theme that says itself again
 and again in my mind: The campaign may be more important to Georgia
 than the election. Politics is a game over which we get excited and
 this is a race calculated to raise anybody's blood pressure. With
@@ -543,33 +500,33 @@ campaign will be far more important in its effect upon our state than
 the man who is elected. After all, though we live in Georgia, we also
 live in the United States. No matter who our Governor is, we shall
 still have a certain protection.</p>
-          <p id="sc10-2_1084">But even the Constitution of the United States cannot protect us
+          <p xml:id="sc10-2_1084">But even the Constitution of the United States cannot protect us
 and our children from the hate microbes that Talmadge is scattering
 now from end to end of our state.</p>
-          <p id="sc10-2_1085">Lately, I have been thinking of children. Of white and colored
+          <p xml:id="sc10-2_1085">Lately, I have been thinking of children. Of white and colored
 children, sitting at radios hearing his words, reading them in the
 paper, listening to their elders talk. White children swelling with
 arrogance over having a white skin; colored children shamed to the
 bone over being "colored." White children overhearing "nigger"
 jokes...colored children overhearing bitter reactions from their
 folks. It is not a good thing to think about.</p>
-          <p id="sc10-2_1087">We know also that 10 percent of our population are mentally ill or
+          <p xml:id="sc10-2_1087">We know also that 10 percent of our population are mentally ill or
 on the fringe of illness. They are people unable to cope adequately
 with their fears and guilts. Talmadge's words open a window within
 their sick hearts, giving a direction in which they may turn their
 hats--and without consciences hurting. We know too, that a lot of hate
 that once released itself on Germany and Japan is now back home
 again. Free-floating hate, just waiting for somewhere 
-<pb id="sc10-2_1086" n="28"/>
+<pb xml:id="sc10-2_1086" n="28"/>
 to turn;
 somebody to attach itself to.</p>
-          <p id="sc10-2_1088">Our state which we all love so much is fertile soil for Talmadge's
+          <p xml:id="sc10-2_1088">Our state which we all love so much is fertile soil for Talmadge's
 words. And he knows it. He knows the loneliness of farms. . . the
 emptiness of the small town. . . the bitterness and lack of love in so
 many homes, and he is capitalizing on our weaknesses. He has appraised
 our spiritual and cultural and economic deficits and is exploiting
 them for his and his gang's advantage.</p>
-          <p id="sc10-2_1089">And we are letting him do it. We sit here and let him go up and
+          <p xml:id="sc10-2_1089">And we are letting him do it. We sit here and let him go up and
 down the state spreading germs of hate everywhere. Scattering bacteria
 over radio. If a mad man scattered germs by plane, he would be
 imprisoned. But Talmadge is free. I am not saying that he should have
@@ -577,7 +534,7 @@ his civil liberties taken from him though I think the day will come
 when men will not be free to spread hate. I think the day will come
 when their madness will be recognized and they will be put into
 hospitals--not prisons--for treatment.</p>
-          <p id="sc10-2_1090">But today, what can we do? I think we can do plenty. I think we can
+          <p xml:id="sc10-2_1090">But today, what can we do? I think we can do plenty. I think we can
 inoculate against these germs. I think we can use vaccines to
 counteract this poison. Maybe Mr. Carmichael has to talk about leaning
 on Southern Tradition. We don't have to. And we mustn't. We are making
@@ -588,11 +545,11 @@ of white Georgians, thousands of white Georgians are working with them
 for human decency, for the chance of Georgia children to grow. We must
 let them know that we want for all Georgia children the same things
 that we want for white children. No more, no less.</p>
-          <p id="sc10-2_1091">I wonder how many of us who are white have any idea what Talmadge's
+          <p xml:id="sc10-2_1091">I wonder how many of us who are white have any idea what Talmadge's
 talk does to Negro nerves. There is no way we can measure the
 hopelessness it creates, the desperation it breeds. A "white"
 imagination cannot embrace so much pain.</p>
-          <p id="sc10-2_1092">But it does as bad things to white folks. And this is what we must
+          <p xml:id="sc10-2_1092">But it does as bad things to white folks. And this is what we must
 find the way to tell the people of Georgia. We must let them know...we
 must make them understand how arrogance cripples a white child, just
 as shame cripples a colored child. We must persuade them to understand
@@ -604,8 +561,8 @@ well-known women could write such letters to the Georgia
 papers. Though it is not customary for Southern women to write letters
 to the press, I believe they would do it, if they realized the good
 they might do.</p>
-          <p id="sc10-2_1093">The harm now is in silence.</p>
-          <p id="sc10-2_1094">I think every minister in the state of Georgia should be
+          <p xml:id="sc10-2_1093">The harm now is in silence.</p>
+          <p xml:id="sc10-2_1094">I think every minister in the state of Georgia should be
 approached, not politically, but from the point of view of the harm
 this kind of talk does to growing children, how it promotes
 delinquency and lawlessness, how it spreads hate and unrest among
@@ -614,7 +571,7 @@ to take over this project of writing to all ministers and appealing to
 them to stem the tide of hate and fear and arrogance. I think a man
 like Bishop Arthur Moore might be chairman of such a group, with
 ministers from other denominations working with him. But would he?</p>
-          <p id="sc10-2_1095">I think we could get nursery school teachers and social workers to
+          <p xml:id="sc10-2_1095">I think we could get nursery school teachers and social workers to
 help on this. For delinquency is tied up so closely with the hate talk
 and with racial arrogance and racial shame. If we could convince the
 people of Georgia that Talmadge is waging warfare against the
@@ -624,7 +581,7 @@ harmed by racial discrimination. They think if they work for racial
 democracy, that they are working for Negroes. Our job is to convince
 them that they are working for themselves and their children's
 future.</p>
-          <p id="sc10-2_1096">I hope that we shall work in Georgia not only on political and
+          <p xml:id="sc10-2_1096">I hope that we shall work in Georgia not only on political and
 economic levels but I hope that we shall make of the Georgia Committee
 a strong cultural force in our state. I want us to plow deeply...Not
 all our misery in Georgia is caused by poverty and unemployment; not
@@ -645,35 +602,35 @@ mental hygiene clinics throughout the state. This more indirect, but
 fundamental approach to our racial and economic and political problems
 may in the end prove to be the best and most efficient way to work. I
 know we cannot do much with this until after election.</p>
-          <p id="sc10-2_1097">Sincerely yours, Lillian Smith</p>
-          <div3 id="sc10-2_026" type="About">
-            <p id="sc10-2_1098">Rose Gladney is an assistant professor of American
+          <p xml:id="sc10-2_1097">Sincerely yours, Lillian Smith</p>
+          <div3 xml:id="sc10-2_026" type="About">
+            <p xml:id="sc10-2_1098">Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_007" n="16" type="Article">
+        <div2 xml:id="sc10-2_007" n="16" type="Article">
           <head>The Cold Hard Truth</head>
-          <byline>By <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, p. 32</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Chestnut, J.L., Jr.</reg><sic>J.L. Chestnut, Jr.</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, p. 32</docDate>
           
-          <p id="sc10-2_1099">MOTHER: Child, I told you all your life that white folks is
+          <p xml:id="sc10-2_1099">MOTHER: Child, I told you all your life that white folks is
 trouble. Treat them right but keep your distance.</p>
-          <p id="sc10-2_10100">DAUGHTER: But, Momma Jean, I didn't do nothing wrong. I told the
+          <p xml:id="sc10-2_10100">DAUGHTER: But, Momma Jean, I didn't do nothing wrong. I told the
 lady she didn't give me the right change and she called me a
 liar. And, I told her she was one.</p>
-          <p id="sc10-2_10101">MOTHER: You didn't have to say that! Did she, Lawyer Chestnut?</p>
-          <p id="sc10-2_10102">CHESTNUT: Well, maybe she thought she had to say it. In terms of
+          <p xml:id="sc10-2_10101">MOTHER: You didn't have to say that! Did she, Lawyer Chestnut?</p>
+          <p xml:id="sc10-2_10102">CHESTNUT: Well, maybe she thought she had to say it. In terms of
 why you came to see me, it hardly matters. Her generation feels
 compelled to say many things we felt compelled not to say. The world
 is somewhat different these days.</p>
-          <p id="sc10-2_10103">MOTHER: Yes, Jesus, the Bible says the world would grow weaker but
+          <p xml:id="sc10-2_10103">MOTHER: Yes, Jesus, the Bible says the world would grow weaker but
 wiser. And, I have seen it. Don't get me wrong. I believe in voting,
 and the Lord knows I believed in Dr. King. But there is some crazy,
 mixed-up white folk who is dangerous. I want my child to be safe.</p>
-          <p id="sc10-2_10104">DAUGHTER: But, Momma, right is right. Why should I respect some
+          <p xml:id="sc10-2_10104">DAUGHTER: But, Momma, right is right. Why should I respect some
 fool who is going out of her way to disrespect me? If I do that, Momma
 Jean, I don't respect me.</p>
-          <p id="sc10-2_10105">MOTHER: You shut your mouth, child! Don't you be calling nobody a
+          <p xml:id="sc10-2_10105">MOTHER: You shut your mouth, child! Don't you be calling nobody a
 fool! You don't know the world the way I do. It is better to go around
 trouble than go asking somebody for it. I have taken more abuse and
 suffered so long, only God understands. And, I did it, child, cause I
@@ -688,21 +645,21 @@ to attack the devil in his element. God said, "Vengeance is mine!" We
 need to be careful. It is better for that white woman to keep that
 little money than for us to get all mixed up with the police and have
 to come bothering Lawyer Chestnut.</p>
-          <p id="sc10-2_10106">DAUGHTER: We are not bothering Lawyer Chestnut. We are his
+          <p xml:id="sc10-2_10106">DAUGHTER: We are not bothering Lawyer Chestnut. We are his
 clients. It is his business to straighten these things out.</p>
-          <p id="sc10-2_10107">MOTHER: I knowed Lawyer Chestnut when his Momma was carrying
+          <p xml:id="sc10-2_10107">MOTHER: I knowed Lawyer Chestnut when his Momma was carrying
 him. Don't tell me nothing bout no client. Lawyer Chestnut got real
 business and no time to be bothered with a mess you didn't even have
 to get yourself in.</p>
-          <p id="sc10-2_10108">CHESTNUT: Well, Mrs. (Blank), I want you to come see my anytime you
+          <p xml:id="sc10-2_10108">CHESTNUT: Well, Mrs. (Blank), I want you to come see my anytime you
 think I can be helpful. I would be disappointed if you didn't call or
 come by. Now, these things do happen. And, I quite understand
 everything you say and recognize the wisdom of your words. I think,
 however, because I have to deal with these young people all the time,
 I may understand somewhat the point your daughter is trying to
 make.</p>
-          <p id="sc10-2_10109">MOTHER: She ain't got no point!</p>
-          <p id="sc10-2_10110">CHESTNUT: Well, maybe so and maybe not. Let's look at it this
+          <p xml:id="sc10-2_10109">MOTHER: She ain't got no point!</p>
+          <p xml:id="sc10-2_10110">CHESTNUT: Well, maybe so and maybe not. Let's look at it this
 way. The saleslady called your daughter a liar and your daughter
 returned the accusation. You and I can agree that at that point they
 were both wrong and not acting like decent people. The saleslady is
@@ -716,50 +673,50 @@ case, your daughter was merely responding to Dr. King's message about
 not becoming part of the problem and standing up to prejudice. That is
 what I meant about the world has changed. There are new things you and
 I now have to accept, just as we accepted the old things.</p>
-          <p id="sc10-2_10111">MOTHER: Glory be, Lawyer Chest! This is a dangerous world. But, you
+          <p xml:id="sc10-2_10111">MOTHER: Glory be, Lawyer Chest! This is a dangerous world. But, you
 know more about it than I do. You take care of my child. And tell your
 Momma I will be to see her after the church revival ends. I have some
 talk for her.</p>
-          <p id="sc10-2_10112">Peace.</p>
-          <div3 id="sc10-2_027" type="About">
-            <p id="sc10-2_10113">J. L. Chestnut is an Alabama trial lawyer and
+          <p xml:id="sc10-2_10112">Peace.</p>
+          <div3 xml:id="sc10-2_027" type="About">
+            <p xml:id="sc10-2_10113">J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_008" n="3" type="Article">
+        <div2 xml:id="sc10-2_008" n="3" type="Article">
           <head>Pulling Farms Out of the Hole</head>
-          <byline>By <docAuthor><name reg="Hightower, Jim" type="person">Jim Hightower</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 5-8</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Hightower, Jim</reg><sic>Jim Hightower</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 5-8</docDate>
           
-          <p id="sc10-2_10114">The good news for American farmers in 1988 is that the farm crisis
+          <p xml:id="sc10-2_10114">The good news for American farmers in 1988 is that the farm crisis
 has officially been declared "over" by the Reagan Administration. The
 bad news is that their good news is a lie.</p>
-          <p id="sc10-2_10115">With the national media's attention recently riveted on Wall
+          <p xml:id="sc10-2_10115">With the national media's attention recently riveted on Wall
 Street's problems, the Administration is trying to spread the
 propaganda that the 1985 Farm Bill has worked and that prosperity is
 just around the corner-for U.S.  agriculture.</p>
-          <p id="sc10-2_10116">That is going to come as a surprise to the 235,000 farmers who have
+          <p xml:id="sc10-2_10116">That is going to come as a surprise to the 235,000 farmers who have
 been squeezed out of agriculture as a result of the price-busting,
 surplus-generating 1985 Farm Bill, and it is going to offer mighty
 cold comfort to the 130,000 other farmers forecast to go under in
 1988.</p>
-          <p id="sc10-2_10117">The Administration bases its rosy assessment of agriculture's
+          <p xml:id="sc10-2_10117">The Administration bases its rosy assessment of agriculture's
 prospects on the fact that net farm income rose in 1987 for the first
 time in years and that the volume of our farm exports increased. That
 would be happy news, indeed, except that the small increase in farm
 income last year came out of the taxpayer's pocket rather than from a
 healthy increase in commodity prices, and while export volume went up,
 the dollar value of those exports went down.</p>
-          <p id="sc10-2_10118">This Administration is proving again that figures don't lie, but
+          <p xml:id="sc10-2_10118">This Administration is proving again that figures don't lie, but
 liars do figure.</p>
-          <p id="sc10-2_10119">Our nation's farm economy still is a wreck. Last year was not quite
+          <p xml:id="sc10-2_10119">Our nation's farm economy still is a wreck. Last year was not quite
 as bad as 1986 or 1985, but it was not a year to celebrate, and 1988
 looks even worse. Farmers will know that the farm crisis is "over"
 when they start getting a-fair market price for their commodities and
 a warm smile from their bankers. That day will not come until we do
 away with Washington's ill-conceived farm program.</p>
-          <p id="sc10-2_10121">The Reagan Administration promised that the 1985 
-<pb id="sc10-2_10120" n="6"/>
+          <p xml:id="sc10-2_10121">The Reagan Administration promised that the 1985 
+<pb xml:id="sc10-2_10120" n="6"/>
 Farm Bill would
 accomplish four goals: (1) increase farm income; (2) reduce taxpayer
 costs; (3) increase agricultural exports; and (4) lower crop
@@ -767,7 +724,7 @@ surpluses. When Reagan signed the bill, he was quoted in the
 <title>New York Times</title> as saying the legislation "provides new
 hope for America's hard-working farmers and our rural
 communities.'"</p>
-          <p id="sc10-2_10122">After two years, we can see that the 1985 Farm Bill has failed
+          <p xml:id="sc10-2_10122">After two years, we can see that the 1985 Farm Bill has failed
 miserably on each point. Just consider this:
 <list><item>Net farm income rose by an average of $500 Million between
 1985 and 1987, when adjusted for inflation, which is an increase of
@@ -799,16 +756,16 @@ predict that the value of U.S. farm exports will decline by 2 percent
 in 1988.</item><item>Crop surpluses have not been reduced either, as the amount of
 U.S. wheat and feedgrains in storage is up by 10 percent over the past
 two years.</item></list></p>
-          <p id="sc10-2_10123">The results are as ugly as you would expect. The 1985 Farm Bill
+          <p xml:id="sc10-2_10123">The results are as ugly as you would expect. The 1985 Farm Bill
 forced another 235,000 farmers out of business, not because they were
 bad producers or bad managers, but because they had to fight bad farm
 policy. It's the same policy which, since 1981, has caused us to lose
 over 600,000 productive U.S. farmers--20 percent of our farmers shut
 down in a stunningly brief time.</p>
-          <p id="sc10-2_10124">According to the latest projections from the American Bankers
+          <p xml:id="sc10-2_10124">According to the latest projections from the American Bankers
 Association, well continue losing 2,504 U.S. farmers per week in
 1988.</p>
-          <p id="sc10-2_10125">These bad policies have stuck U.S. farmers with debts of nearly
+          <p xml:id="sc10-2_10125">These bad policies have stuck U.S. farmers with debts of nearly
 $175 billion, while farmland values have dropped by another 19 percent
 nationwide. In some parts of the Midwest. good, rich farmland is now
 worth less than one-third of what it was in 1981. Farm lenders now
@@ -817,7 +774,7 @@ cannot sell--of which the U.S. Farmers Home Administration possesses
 1.6 million acres. Sixty-seven percent of the farmland sold by FmHA
 was sold to speculators and agribusiness concerns which fall outside
 the mandate of the agency.</p>
-          <p id="sc10-2_10126">Both FmHA and the Farm Credit System are eager to sell only to
+          <p xml:id="sc10-2_10126">Both FmHA and the Farm Credit System are eager to sell only to
 those who can pay cash. No family farmer has the cash money to plunk
 down on farmland for a son or daughter, but an investment syndicate
 does. A real estate.  developer from Mesa, Ariz., has purchased dozens
@@ -829,12 +786,12 @@ increased by an area the size of Colorado. The twelve largest
 land-owning insurance companies hold three million acres of farmland
 worth $2.3 billion, while commercial banks hold about 400,000 acres
 worth $350 million.</p>
-          <p id="sc10-2_10127">The misery is compounded when you consider that the 1985 Farm Bill
+          <p xml:id="sc10-2_10127">The misery is compounded when you consider that the 1985 Farm Bill
 has produced another 25 percent decline in tractor sales, has prompted
 the layoff of another 8,800 farm implement workers, has forced another
 700 farm implement dealers to close, and has caused over 100
 agricultural banks to shut their doors.</p>
-          <p id="sc10-2_10128">While we are now selling 28 percent fewer John Deere tractors than
+          <p xml:id="sc10-2_10128">While we are now selling 28 percent fewer John Deere tractors than
 in 1981, sales of Mercedes Benzes in this country have skyrocketed by
 57 percent. While farm prices were falling, food-processing profits
 were going through the roof, and the power of the food industry was
@@ -845,13 +802,13 @@ of the world's grain trade. These are the companies that benefit from
 a farm policy which saw the United States, in 1986, stockpile 250
 million tons of unsold grain when only 40 million tons of grain would
 have averted the famine taking place in Africa.</p>
-          <p id="sc10-2_10130">If there is any good news for American farmers for 1988 
-<pb id="sc10-2_10129" n="7"/>
+          <p xml:id="sc10-2_10130">If there is any good news for American farmers for 1988 
+<pb xml:id="sc10-2_10129" n="7"/>
 it is
 contained in the farm credit rescue package that Congress passed and
 sent to the President shortly before Christmas. This legislation is
 good news for farmers for two reasons.</p>
-          <p id="sc10-2_10131">First, it is real, tangible help for farmers who have been
+          <p xml:id="sc10-2_10131">First, it is real, tangible help for farmers who have been
 struggling to pay old debts while trying to survive on less
 income. Secondly, passage of this legislation is a victory that nobody
 believed farmers could win until the American Agriculture Movement,
@@ -859,18 +816,18 @@ the National Farmers Union, the National Farmers Organization and the
 Save-the-Family-Farm Coalition stood shoulder to shoulder and demanded
 that the Farm Credit Act of 1987 address their credit problems as well
 as their bankers'.</p>
-          <p id="sc10-2_10132">This legislation includes debt restructuring and interest rate
+          <p xml:id="sc10-2_10132">This legislation includes debt restructuring and interest rate
 write-down provisions. Additionally, Congress provided up to $500,000
 per state for mediation services that can help farmers work through
 their debt problems.</p>
-          <p id="sc10-2_10133">Benefitting most from this legislation are the 150,000 farmers
+          <p xml:id="sc10-2_10133">Benefitting most from this legislation are the 150,000 farmers
 nationwide who have been fighting for seven years with the very
 federal agencies that were instructed by Congress to help them.</p>
-          <p id="sc10-2_10135">With a victory under our belts, the farm community 
-<pb id="sc10-2_10134" n="8"/>
+          <p xml:id="sc10-2_10135">With a victory under our belts, the farm community 
+<pb xml:id="sc10-2_10134" n="8"/>
 again has its
 work cut out. Priorities for 1988 include:</p>
-          <p id="sc10-2_10136"><hi rend="bold">Election of a Democratic President</hi>. No farm
+          <p xml:id="sc10-2_10136"><hi rend="bold">Election of a Democratic President</hi>. No farm
 program is better than the people who administer it. This
 <sic>Adminstration</sic> has used its discretion to hurt family
 farmers at every opportunity, by lowering target prices to the maximum
@@ -878,16 +835,16 @@ allowable, by failing to comply with court orders on farm lending
 practices, and by refusing to implement disaster programs authorized
 by Congress. Without a President who is committed to helping farmers,
 new farm legislation will be an impossibility.</p>
-          <p id="sc10-2_10137"><hi rend="bold">Strengthen the Democratic majority in the
+          <p xml:id="sc10-2_10137"><hi rend="bold">Strengthen the Democratic majority in the
 Senate</hi>. By retaining the Democrats we now have, such as
 Sen. Lloyd Bentsen from Texas, and winning contested seats in
 Missouri, Minnesota, Washington, Pennsylvania and Nebraska, farmers
 can gain additional clout for passing an effective successor to the
 1985 Farm Bill.</p>
-          <p id="sc10-2_10138"><hi rend="bold">Tinker with the '85 Farm Bill</hi>. An example is
+          <p xml:id="sc10-2_10138"><hi rend="bold">Tinker with the '85 Farm Bill</hi>. An example is
 eliminating penalties for farmers who try to cut production costs and
 protect the environment by reducing pesticides.</p>
-          <p id="sc10-2_10139"><hi rend="bold">Develop rural economic development
+          <p xml:id="sc10-2_10139"><hi rend="bold">Develop rural economic development
 legislation</hi>. The federal government has a role to play in helping
 farmers diversify production into new cash-value alternative crops and
 become processors of their commodities as well as producers. Such
@@ -896,15 +853,15 @@ alternative crops; financing for producer-owned and -operated
 processing operations; research funding for the production and
 marketing of alternative crops; and dissemination of market
 information on alternative crops.</p>
-          <p id="sc10-2_10140">Ultimately, there are three basic policy approaches to tackling the
+          <p xml:id="sc10-2_10140">Ultimately, there are three basic policy approaches to tackling the
 farm crisis: (1) let the family farm system go, leaving control of our
 food supply in the hands of investment syndicates and conglomerates;
 (2) stick with some version of heavy taxpayer subsidization of
 commodity producers and shippers; or (3) replace expensive tax
 subsidization with some form of effective supply management.</p>
-          <p id="sc10-2_10141">It is that third alternative that best serves American taxpayers
+          <p xml:id="sc10-2_10141">It is that third alternative that best serves American taxpayers
 and American farmers.</p>
-          <p id="sc10-2_10142">By strictly limiting our production of certain commodities to the
+          <p xml:id="sc10-2_10142">By strictly limiting our production of certain commodities to the
 known demand, U.S. farmers will eliminate price-busting, tax-eating
 surpluses. They will produce to meet the actual demands of the
 domestic market, world cash and credit markets, and world hunger
@@ -912,7 +869,7 @@ needs. In return for matching their production with real demand, a
 realistic and fair price floor would be established for these
 commodities at roughly the cost of production, thus preventing price
 busting by monopolistic purchasers.</p>
-          <p id="sc10-2_10143">By selling America's farm commodities in the marketplace, instead
+          <p xml:id="sc10-2_10143">By selling America's farm commodities in the marketplace, instead
 of to the government, we can "zero out" the humongous sums that
 taxpayers have been forced to pay in the form of crop subsidies to
 farmers, conglomerates and syndicates. In 1987, crop and storage
@@ -922,25 +879,25 @@ taxpayers $18 billion in its first year and $22 billion
 thereafter. Under this approach, the only taxpayer outlays are to
 combat world hunger, to create a conservation reserve, and to
 establish a crop disaster program.</p>
-          <p id="sc10-2_10144">Simply stated, this is the single best approach that exists for
+          <p xml:id="sc10-2_10144">Simply stated, this is the single best approach that exists for
 pulling good farmers, overburdened taxpayers and the rural economy out
 of the hole.</p>
-          <div3 id="sc10-2_028" type="About">
-            <p id="sc10-2_10145">Jim Hightower is serving his second four-year term as the
+          <div3 xml:id="sc10-2_028" type="About">
+            <p xml:id="sc10-2_10145">Jim Hightower is serving his second four-year term as the
 elected Texas commissioner of agriculture. His comments are excerpted
 from an address to the ninth annual convention of the American
 Agriculture Movement, which met in January in Wichita,
 Kansas.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_009" n="15" type="Review">
+        <div2 xml:id="sc10-2_009" n="15" type="Review">
           <head><title>Cause at Heart: A Former Communist Remembers</title> by
 Junius Irving Scales and Richard Nickson. (Athens: University of
 Georgia Press, 1987.427 pages. $24.95.)</head>
-          <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 29-31</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Sullivan, Patricia</reg><sic>Patricia Sullivan</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 29-31</docDate>
           
-          <p id="sc10-2_10146">In 1946 the Interracial Committee for North Carolina (CNC) of the
+          <p xml:id="sc10-2_10146">In 1946 the Interracial Committee for North Carolina (CNC) of the
 Southern Conference for Human Welfare considered support for a bill
 pending in the state legislature for the construction of a new
 hospital. To the obvious annoyance of many of the white members
@@ -961,7 +918,7 @@ criminal--that it is destroying my people.' His impressive figure
 trembling with emotion, he appeared to want to say something else, but
 instead he resumed to his seat amid a stunned silence and sat with his
 hand over his face."</p>
-          <p id="sc10-2_10147">Junius Scales came of age during the era of the depression and New
+          <p xml:id="sc10-2_10147">Junius Scales came of age during the era of the depression and New
 Deal, in a South where segregation was still firmly intact. As the
 hospital incident demonstrated, the majority of white liberals
 "still clung to separate but equal delusions; were eager to avoid
@@ -979,7 +936,7 @@ Scales's interest and subsequent membership in the Communist Party,
 the only political organization that actively challenged the
 segregation system and made racial equality a central component of its
 agenda.</p>
-          <p id="sc10-2_10148">Junius Scales appeared an unlikely Communist. He was born to one of
+          <p xml:id="sc10-2_10148">Junius Scales appeared an unlikely Communist. He was born to one of
 the most prominent families in North Carolina. John Rolfe and
 Pocahontas were among his maternal ancestors. Scales's paternal
 ancestors arrived in Jamestown, Va., in 1623, and after migrating to
@@ -997,7 +954,7 @@ children the futility of dedicating one's life to the accumulation of
 material wealth, and demonstrated the importance of public service
 through his political activities on behalf of liberal racial policies,
 women's suffrage, and religious tolerance.</p>
-          <p id="sc10-2_10149">While Scales shared his father's abiding concern for the greater
+          <p xml:id="sc10-2_10149">While Scales shared his father's abiding concern for the greater
 good, the traditional outlets for such a pursuit appeared less than
 satisfactory. Unlike the majority of his contemporaries entering the
 1938 freshman class at Chapel Hill, Scales had little interest in
@@ -1008,7 +965,7 @@ values, finding that most of the intellectual yeast for undergraduates
 was provided by "outsiders" from the North and West. (It was at Chapel
 Hill that he met Richard Nickson, a native of New Mexico, who became a
 life-long friend and assisted in the writing of this memoir.)</p>
-          <p id="sc10-2_10150">Abernathy's bookstore, a noted gathering place for intellectuals
+          <p xml:id="sc10-2_10150">Abernathy's bookstore, a noted gathering place for intellectuals
 and radicals which Scales had frequented since high school days,
 continued to provide a stimulating center for intellectual and
 political discourse. The critical point in his political development,
@@ -1021,7 +978,7 @@ Jones. Shortly thereafter he joined the American Student Union, and
 was soon invited to join the Communist Party. After careful
 consideration, he decided to join the Party on a "trial" basis in the
 spring of 1939.</p>
-          <p id="sc10-2_10152">Scales quickly became disillusioned with the sectarianism and lack
+          <p xml:id="sc10-2_10152">Scales quickly became disillusioned with the sectarianism and lack
 of purpose of the Chapel Hill chapter of the Communist Party. He was
 preparing to resign when he met Bart Logan, native Georgian and
 district organizer for North and South Carolina. Scales assisted Logan
@@ -1029,7 +986,7 @@ with a textile strike in High Point, an event that reaffimmed his
 commitment to the Communist Party as the means for advancing economic
 and racial justice. He was overwhelmed by the poverty and exploitation
 that dominated life in the 
-<pb id="sc10-2_10151" n="30"/>
+<pb xml:id="sc10-2_10151" n="30"/>
 textile mill. At the same time, Scales was
 stirred by the deep commitment of Logan and several veterans from the
 famous Gastonia strike to help the powerless move beyond fear and
@@ -1037,7 +994,7 @@ apathy by organizing. Scales concluded that more than a strike was
 taking place; it was a social revolution. For the next eighteen years,
 Junius Scales would strive to carry this effort forward as a leading
 member of the Communist Party in North Carolina.</p>
-          <p id="sc10-2_10153">Junius Scales provides an important and often moving account of the
+          <p xml:id="sc10-2_10153">Junius Scales provides an important and often moving account of the
 Communist Party's role in labor organizing and civil rights activities
 in the South during the 1940s. While Scales applies a critical eye to
 the events of the past, his memoir succeeds in capturing the hope and
@@ -1060,7 +1017,7 @@ push them as far as their program and membership would allow. Scales
 believed that if socialism were to be realized in the United States,
 it must come through the force of ideas and the ballot box, not by
 violence and rhetorical coercion.</p>
-          <p id="sc10-2_10155">Scales's account of the Party's positive contributions is
+          <p xml:id="sc10-2_10155">Scales's account of the Party's positive contributions is
 accompanied by a harsh critique of the dogmatism and moral limitations
 of Party policy, which often guided his own behavior. Recounting his
 part in the expulsion of two Party members, he writes, "was always,
@@ -1086,7 +1043,7 @@ white to serve as an officer of the organization. There was also the
 successful organization of the tobacco workers in Winston-Salem, a
 predominantly black union with a powerful leadership that became an
 active force in local politics. One final example is Scales's and
-<pb id="sc10-2_10154" n="31"/>
+<pb xml:id="sc10-2_10154" n="31"/>
 Louis Austin's timely intervention in the Mack Ingram case, helping to
 avert the "legal lynching" of a black man convicted of assaulting a
 white woman with his "glare," having never gotten within seventy feet
@@ -1095,7 +1052,7 @@ Times</title>, investigated the story, and fed it to <title>New York
 Post</title> reporter Ted Poston. The national and international
 attention that followed led to the appeal of the conviction, and its
 reversal.</p>
-          <p id="sc10-2_10156">The changing political climate of the late 1940s limited Scales's
+          <p xml:id="sc10-2_10156">The changing political climate of the late 1940s limited Scales's
 ability to maneuver within the parameters of Communist Party policy,
 as well as in the society at large. In 1947, he publicly declared his
 membership in the Communist Party in an effort to counteract
@@ -1110,7 +1067,7 @@ for Scales and others whose efforts to remain a creative force on the
 political scene became increasingly futile. For Scales, it came to an
 abrupt end on November 18, 1954, when he was arrested by FBI officials
 and charged with violating the Smith Act.</p>
-          <p id="sc10-2_10157">As Scales undertook a long and lonely legal battle, his
+          <p xml:id="sc10-2_10157">As Scales undertook a long and lonely legal battle, his
 disillusionment with the Communist Party and its increasing
 irrelevance to the American political scene culminated with his
 departure from the Party. Living outside of the Party, he writes, was
@@ -1129,7 +1086,7 @@ is an important study in Cold War domestic politics. Ultimately, the
 Supreme Court upheld Scales's conviction, 5-4, and he entered the
 federal penitentiary on October 2,1961, to begin serving a six-year
 sentence.</p>
-          <p id="sc10-2_10158">Scales's reflection on his prison experience comprises the last
+          <p xml:id="sc10-2_10158">Scales's reflection on his prison experience comprises the last
 part of this memoir and is an integral part of it, for this book is
 less a history of the Communist Party in North Carolina than the story
 of one individual's unending quest on behalf of human decency and
@@ -1148,7 +1105,7 @@ unless he "cooperated," Scales refused to consider the
 suggestion. Nevertheless, on Christmas Day 1962, Scales was reunited
 with his family following an executive commutation of his sentence
 (thus he remains a convicted felon).</p>
-          <p id="sc10-2_10159">Junius Scales's participation in the racial and social reform
+          <p xml:id="sc10-2_10159">Junius Scales's participation in the racial and social reform
 movements of the 1940s may seem little more than a footnote to that
 history. While he was being tried and serving time, the civil rights
 movement came to the fore of the national scene with the Brown
@@ -1168,17 +1125,17 @@ American workers. Junius Scales's "God" may have failed. But the
 struggle for economic and racial justice which challenged his youthful
 idealism remains a powerful reality, yet to penetrate the mainstream
 of American political discourse.</p>
-          <div3 id="sc10-2_029" type="About">
-            <p id="sc10-2_10160">Patricia Sullivan teaches history at Emory
+          <div3 xml:id="sc10-2_029" type="About">
+            <p xml:id="sc10-2_10160">Patricia Sullivan teaches history at Emory
 University.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_010" n="7" type="Article">
+        <div2 xml:id="sc10-2_010" n="7" type="Article">
           <head>Septima P. Clark 1898-1987</head>
-          <byline>By <docAuthor><name reg="Steverson, Bill" type="person">Bill Steverson</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 12-16</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Steverson, Bill</reg><sic>Bill Steverson</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 12-16</docDate>
           
-          <p id="sc10-2_10161">I WAS BORN IN CHARLESTON, S.C., the same place where I am living
+          <p xml:id="sc10-2_10161">I WAS BORN IN CHARLESTON, S.C., the same place where I am living
 now. My father was a slave on the Joel Poinsette plantation. He came
 out of slavery not feeling one bit of violence. I'm glad that he gave
 to me a lot of that, because I have never felt angry with the people
@@ -1187,7 +1144,7 @@ was not worthy of things that they enjoyed. I still have that feeling,
 however, that my life is a life that's different from theirs, so I
 don't have that hate in my heart and I'm sure that I'll never have it
 anymore.</p>
-          <p id="sc10-2_10162">Now my mother was different. My mother was a strict
+          <p xml:id="sc10-2_10162">Now my mother was different. My mother was a strict
 disciplinarian. Her mother was part Indian, and there were three sets
 of children in her family. My father, <emph>too</emph>, had a number
 of children, but he was Joel Poinsette's Great Fellow. He took the
@@ -1198,7 +1155,7 @@ to work, I felt that the nonviolence that he gave to all of us is
 worthwhile. My mother was raised in Haiti and came back here to South
 Carolina to live. She had an altogether different attitude from that
 of my father.</p>
-          <p id="sc10-2_10163">In South Carolina when I was around 18, I knew that there were no
+          <p xml:id="sc10-2_10163">In South Carolina when I was around 18, I knew that there were no
 public schools for black children. The missionaries from Boston,
 Massachusetts, came down here and they started what we call Avery
 Institute, but it was not a public school. We had to pay. We only paid
@@ -1209,7 +1166,7 @@ time, and there I helped take care of her children while she sewed,
 and I worked at others in sewing, then I was able to go to Avery
 Institute with that dollar and a half she paid me every month I could
 get my work in high school.</p>
-          <p id="sc10-2_10164">Those people did an excellent job. We had things in the
+          <p xml:id="sc10-2_10164">Those people did an excellent job. We had things in the
 languages--Greek and Latin and French and Spanish along with the
 English and social studies. When we finished, we took an examination
 from the state, and after taking that, examinations in eleven
@@ -1221,7 +1178,7 @@ Normal School for whites and they had the same kind of training that
 we had for blacks. But they taught the black children as well as the
 whites, and we could not go to those schools; nor could we teach at
 all. That was the way it was 1910-1919.</p>
-          <p id="sc10-2_10165">No matter what you wanted to buy, you couldn't try on a dress in
+          <p xml:id="sc10-2_10165">No matter what you wanted to buy, you couldn't try on a dress in
 any of those rooms in the stores. You had to go into a broom closet to
 try on whatever you wanted. And then when I got to the place where I
 would go down to the tax office to pay taxes on my house, I would have
@@ -1232,13 +1189,13 @@ families, and Irish families and Italian families all on that
 street. And when we got our skates at Christmas time we couldn't skate
 past their door. We had to go on the outside of the street to
 skate. That's what we had to do. We really had real segregation.</p>
-          <p id="sc10-2_10167">IN 1919 I CAME FROM THE ISLANDS and felt, well, there was an artist
+          <p xml:id="sc10-2_10167">IN 1919 I CAME FROM THE ISLANDS and felt, well, there was an artist
 here, Edwin Halston, who told us about a thing called the NAACP. I
 thought that was a good thing to join, and I did join. When I joined
 up, I heard about black teachers not being able to teach in the city
 of Charleston, so I took my class that I was teaching at Avery Normal
 Institute and went from door to door to see if black parents 
-<pb id="sc10-2_10166" n="13"/>
+<pb xml:id="sc10-2_10166" n="13"/>
 wanted
 their children to teach black children in the city of Charleston, and
 I found that they did, so we got their signatures, some of them on
@@ -1247,7 +1204,7 @@ gave them to the president of State College in Orangeburg-Tommy
 Miller. He took them to the Legislature and in 1920 we got black
 teachers in the school, and in 1921, they got black principals in the
 schools in Charleston.</p>
-          <p id="sc10-2_10168">When I taught on the islands at that time, I had 132 children in my
+          <p xml:id="sc10-2_10168">When I taught on the islands at that time, I had 132 children in my
 class and in my school. I was a teaching principal; there was one
 other teacher with me. We were paid $25 a month. We paid board out of
 that and taught the children as well. We had a schoolhouse with no
@@ -1258,7 +1215,7 @@ write our lessons on, and this is the way we taught. But you'd be
 suprised to know that I have a young man living there in New York who
 paddled across (to the island) to come to that school, and he is one
 of the highest paid lawyers in the United States.</p>
-          <p id="sc10-2_10169">During the (Depression) when we had no money whatsoever, and food
+          <p xml:id="sc10-2_10169">During the (Depression) when we had no money whatsoever, and food
 was being given, the only thing the people could do was to be sure
 whatever ground they had in front of them and plant vegetables so that
 they could have some vegetables to grow and to eat. We really didn't
@@ -1274,17 +1231,17 @@ after that we had people who suffered because they didn't have
 vegetables and meats, and because of that, pellagra took over, and we
 lost a lot of people on account of pellagra. It was around the last
 part of the 1920s into the '30s.</p>
-          <p id="sc10-2_10170">I WENT TO COLUMBIA in 1926 to work, and I worked there as a teacher
+          <p xml:id="sc10-2_10170">I WENT TO COLUMBIA in 1926 to work, and I worked there as a teacher
 for nineteen years. There I made a little bit more money. I got $62.50
 a month and paid my board out of that.</p>
-          <p id="sc10-2_10171">We found that white teachers were being paid so much more money
+          <p xml:id="sc10-2_10171">We found that white teachers were being paid so much more money
 than black teachers. In fact, when I was on the island, the white
 teacher that had her school there across from the one where I was
 teaching, was getting $85 a month while both of us were getting just
 $50 a month. So when I went to Columbia, I thought it would be a good
 time to try to see if we couldn't do something about equalization of
 teachers' salaries.</p>
-          <p id="sc10-2_10172">I went (to Columbia) to teach the third (grade) at the C.A. Johnson
+          <p xml:id="sc10-2_10172">I went (to Columbia) to teach the third (grade) at the C.A. Johnson
 High School. All grades were together at that school. And, I must say
 that I felt that the supervisor of that school-Mr. C.A. Johnson-was an
 excellent person. He came around monitoring the rooms, and when you
@@ -1295,7 +1252,7 @@ around five o'clock listening to Mr. Johnson teach teachers how to
 teach. Sometimes it would be to figure addition for the little
 children; another time it might be social studies for the bigger
 ones. But whatever it was, that's the way he worked.</p>
-          <p id="sc10-2_10173">But we still had segregation and we still had the unequal
+          <p xml:id="sc10-2_10173">But we still had segregation and we still had the unequal
 salaries. So Benedict College and Allen University had meetings, and
 with those meetings we learned something about the political side of
 life and what we needed to do to sit where we needed to sit on buses,
@@ -1311,9 +1268,9 @@ remember the name of the hospital now, but most of us gave something
 like fifty dollars apiece to get that hospital started. And in that
 way, we were able to get people to see the needs of a big city like
 Columbia, and get Columbia going so that we could have our rights.</p>
-          <p id="sc10-2_10174">Of course we walked at nights from one place to another with
+          <p xml:id="sc10-2_10174">Of course we walked at nights from one place to another with
 equalization of teachers' salaries.</p>
-          <p id="sc10-2_10175">And Thurgood Marshall came down and we showed him our checks, and
+          <p xml:id="sc10-2_10175">And Thurgood Marshall came down and we showed him our checks, and
 with those checks we went to the statehouse, and after a discussion of
 quite some time, they decided that the National Teachers' Exam should
 be given and black teachers would then be able, after taking that
@@ -1325,7 +1282,7 @@ would go back (to Charleston). You know I didn't have a bachelor's
 degree then. I taught in the mornings and went to Allen and Benedict
 at night. And when I finished Benedict in '42, I went to Hampton and
 got a degree in'46.</p>
-          <p id="sc10-2_10176">IN JANUARY 19,1957, the South Carolina Legislature passed a law
+          <p xml:id="sc10-2_10176">IN JANUARY 19,1957, the South Carolina Legislature passed a law
 that no city or state employee could be a member of the NAACP. The
 Clarendon County teachers decided they would say that yes, they were
 members. Most of our teachers wouldn't say yes. Forty-one teachers in
@@ -1337,16 +1294,16 @@ that, the next day the Legislature opened up and said, "Change the
 wording from 'no city or state employee could be a member of the NAACP
 to list your affiliations'." And those who listed their
 affiliations were dismissed also.</p>
-          <p id="sc10-2_10178">They took away my job and my pension and everything. Over my name
+          <p xml:id="sc10-2_10178">They took away my job and my pension and everything. Over my name
 went 726 letters to black teachers, and those black teachers were
 afraid, of course. And they had to be, because about 169 teachers came
 from Virginia and Washington to get our jobs. But you know the people
 in Clarendon County refused to board them. Anyway, they sent me a
 letter June 8,1956, that I could not teach in Charleston any 
-<pb id="sc10-2_10177" n="14"/>
+<pb xml:id="sc10-2_10177" n="14"/>
 longer,
 so I couldn't. That's when I went to Highlander Folk School.</p>
-          <p id="sc10-2_10179">I had put in money in my retirement pension-the letter's right
+          <p xml:id="sc10-2_10179">I had put in money in my retirement pension-the letter's right
 there-but I could not get them to say that I should have my
 retirement. Four per cent of my monthly money had to go to the
 retirement, and when I received an award down in Miami, in 1975, the
@@ -1360,13 +1317,13 @@ for my current pension. I'm supposed to get $5,000 a year until I die,
 but I haven't gotten it. I'm still working on it-I've got some people
 working on it now. I never did get back to teach any more in South
 Carolina, but I was a member of the School Board for eight years.</p>
-          <p id="sc10-2_10180">When we went down to the hearing at that courthouse, Judge
+          <p xml:id="sc10-2_10180">When we went down to the hearing at that courthouse, Judge
 (J. Waites) Waring was the (federal) judge here. When we down to that
 hearing, some of those white people didn't want us to sit in the
 seats, and Judge Waring said "Why they're the people that are
 supposed to sit in those seats. They're being tried." Then we sat
 on those seats.</p>
-          <p id="sc10-2_10181">Judge Waring played a great part in South Carolina. One night we
+          <p xml:id="sc10-2_10181">Judge Waring played a great part in South Carolina. One night we
 had a testimonial for him after he opened the Democratic Party, and he
 said that night that you know a judge has to live with his
 conscience. Judge Waring said, "I have to live with my conscience
@@ -1374,7 +1331,7 @@ and I can see white fellows that I know are bums come into that court
 and being treated like first class gentlemen, and I see black people
 come into that court who I know are great men, and they're treated
 like bums. I couldn't bear to see that go on."</p>
-          <p id="sc10-2_10182">Of course, you know he was terribly harassed. His wife was going to
+          <p xml:id="sc10-2_10182">Of course, you know he was terribly harassed. His wife was going to
 speak at the YWCA. That night some white men surrounded the house and
 took pieces of cement and threw through her window. She was sitting on
 the couch, but they didn't hit her, thank goodness. Another time he
@@ -1389,7 +1346,7 @@ Waring. She called them decadent and low-down when she spoke at the
 YWCA. She really blessed them out, but he never would do a thing like
 that. He just said to the reporters, now here are the papers, if you
 want something to print, here it is.</p>
-          <p id="sc10-2_10183">HIGHLANDER FOLK SCHOOL was really a school for problems. People
+          <p xml:id="sc10-2_10183">HIGHLANDER FOLK SCHOOL was really a school for problems. People
 were afraid of Highlander, but Highlander did an excellent job getting
 attitudes to change and making social change as we went along. I went
 in 1954. I felt very good about the Highlander Folk School, and then I
@@ -1398,7 +1355,7 @@ come to the Highlander Folk School. While up there, we got them to
 meet northern whites and southern whites, northern blacks and southern
 blacks. They slept in the same room. They washed dishes together, and
 held their conferences in the library together.</p>
-          <p id="sc10-2_10184">Esau Jenkins was one of the fellows. He decided it would be good if
+          <p xml:id="sc10-2_10184">Esau Jenkins was one of the fellows. He decided it would be good if
 he could come back home and get his people registered to vote, so they
 could have a better life on the islands-on Johns Island in particular
 at that time. And so, that's what they did. We didn't have a place. A
@@ -1410,7 +1367,7 @@ building. We started the Citizenship School there. We found out that
 they didn't want teachers who were certified teachers to teach them,
 so we found people who could read well aloud and write legibly to
 teach in those schools.</p>
-          <p id="sc10-2_10185">WE DIDN'T HAVE STORES over on the islands, so we had to teach them
+          <p xml:id="sc10-2_10185">WE DIDN'T HAVE STORES over on the islands, so we had to teach them
 how to fill out applications, how to write out money orders for things
 that they wanted. Some wanted to read the Bible-those who were living
 on plantations and having those Wednesday night meetings. There were
@@ -1420,7 +1377,7 @@ they needed, what they wanted. We worked on that, 'cause when we found
 out when they learned a word from the paper they could use it with the
 Bible, they could use it in other ways. That's the kind of thing that
 we did.</p>
-          <p id="sc10-2_10187">Then the Marshall Field Foundation came in and they gave us some
+          <p xml:id="sc10-2_10187">Then the Marshall Field Foundation came in and they gave us some
 money and we were able to get people together. When it was a busy time
 for them on the farm, we paid them to come to school at nights. And
 when we paid them to come to school, it was surprising to see them
@@ -1435,11 +1392,11 @@ the election laws." Now when they could read that, they could get
 a registration certificate. And when we were able to get through
 quickly, Esau taught them in the buses when he brought them over to
 the places. The men worked at 
-<pb id="sc10-2_10186" n="15"/>
+<pb xml:id="sc10-2_10186" n="15"/>
 nights on the wharf and so the women in
 turn had to teach their husbands how to memorize that part of the
 election laws. That's the way we did it.</p>
-          <p id="sc10-2_10188">Anyway, after we were able to get them to say that, the law was
+          <p xml:id="sc10-2_10188">Anyway, after we were able to get them to say that, the law was
 changed. Well, the Voting Rights Bill came and they did not have to
 read that section of the election law. I don't know if you know it:
 Georgia had thirty questions and they had to answer twenty-four of
@@ -1447,14 +1404,14 @@ those correctly. Louisiana had twenty-four questions, and one question
 was "I am not the father of an illegitimate child." Even though she
 was a woman she had to say that. All of those things have been wiped
 out with the Voting Rights Bill in 1965.</p>
-          <p id="sc10-2_10189">Alabama-it's real funny. We had a man with a Ph.D. there, teaching
+          <p xml:id="sc10-2_10189">Alabama-it's real funny. We had a man with a Ph.D. there, teaching
 at that Tuskegee, and he was teaching there and he could not answer
 that registrar. The question was, what is a thief? And he never could
 tell that man what is a thief. He found out when he came to Highlander
 that he should have said: "A thief is a nigger that steals." As
 long as he did not say that, he could not get a registration
 certificate, although he was a Ph.D. fellow.</p>
-          <p id="sc10-2_10190">In Mississippi we had twenty-four questions that they had to
+          <p xml:id="sc10-2_10190">In Mississippi we had twenty-four questions that they had to
 answer, and then there were questions after that that were given by
 the registrars. Those questions-they wanted to know how-something
 about living in Mississippi. As long as they couldn't tell how well
@@ -1463,7 +1420,7 @@ registration certificate. But you know, it's suprising, after the
 Voting Rights Bill when they didn't have to do all of that,
 Mississippi sent the first black man to its Legislature, by the name
 of Robert Clark.</p>
-          <p id="sc10-2_10191">HIGHLANDER WAS CLOSED DOWN in 1959. I was arrested, you know, in
+          <p xml:id="sc10-2_10191">HIGHLANDER WAS CLOSED DOWN in 1959. I was arrested, you know, in
 August of 1959. They had a court trial-teaching an integrated
 group. They really said I was serving whiskey but they found out that
 I was teaching-it was against the laws of the state of Tennessee to
@@ -1475,7 +1432,7 @@ workshop. They surrounded the school house, and we were showing a film
 that I had from the Southern Regional Council-<soCalled>"The Face of
 the South"</soCalled>-and it was telling how the Southern people
 failed to give black children education and the like.</p>
-          <p id="sc10-2_10192">They came in. They wanted to know, where's Septima Clark. I said:
+          <p xml:id="sc10-2_10192">They came in. They wanted to know, where's Septima Clark. I said:
 "Here I am." They put me in a car. The moving picture was still
 going on. The man told some of the people to turn it off, and they
 said, well, you have arrested Septima Clark and we don't know how to
@@ -1490,12 +1447,12 @@ two o'clock that morning, two white missionaries came to take me
 out. When they came, they would not let them use a check. They had to
 get cash money. And Esau said it was suprising to know that those
 people all came together and found $500.</p>
-          <p id="sc10-2_10193">THE FIRST TIME I MET Martin Luther King was in 1957 when we had
+          <p xml:id="sc10-2_10193">THE FIRST TIME I MET Martin Luther King was in 1957 when we had
 that 25th Anniversary [Highlander had been founded in 1932.]
 Mrs. Roosevelt came too. So Dr. King and Mrs. Roosevelt and a fellow
 from North Carolina- the fellow that did the evaluation of my book,
 <title>Echo In My Soul</title>, he came at that time too.</p>
-          <p id="sc10-2_10194">I thought well of (King). He spoke so well for a young man, and I
+          <p xml:id="sc10-2_10194">I thought well of (King). He spoke so well for a young man, and I
 was very happy to hear him talk about this nonviolence that he found
 was so great. That's when he talked about (how) the South is going to
 really go ahead of the North, and that integration and registration
@@ -1510,7 +1467,7 @@ they put <soCalled>"Communist Training School."</soCalled> Put them
 all up through Tennessee-from Georgia to Tennessee. I can't figure
 that man's name that came, but...this was a white fellow that was
 working with the governor in Atlanta, Georgia, at the time.</p>
-          <p id="sc10-2_10195">Right after the hearing-after we had that court trial- the school
+          <p xml:id="sc10-2_10195">Right after the hearing-after we had that court trial- the school
 was closed down, but we stayed on there and we worked right there. We
 had a big workshop of people from the foothills of Missouri. Lots of
 them were afraid, but they came. Then we had some people from the
@@ -1519,7 +1476,7 @@ their section at the time. They became afraid so they left, but the
 black people came on, and then we started our schools throughout. We
 started workshops, and we started schools in the eleven deep South
 states.</p>
-          <p id="sc10-2_10197">Rev. (Ralph) Abernathy's wife gathered together quite a number of
+          <p xml:id="sc10-2_10197">Rev. (Ralph) Abernathy's wife gathered together quite a number of
 women who came from the (Montgomery) Improvement Association. I can't
 think of quite a few of those ministers' names who came up one night,
 but we had lots of big workshops-fifty or more at a time would come,
@@ -1528,12 +1485,12 @@ were living and tried to get them to see that they needed to change
 the kind of government that they had so that things would be
 better. That's when we started branching into those various states,
 and starting affiliate groups 
-<pb id="sc10-2_10196" n="16"/>
+<pb xml:id="sc10-2_10196" n="16"/>
 throughout the eleven deep South states,
 and also starting the schools-teaching them to read and write. You
 know in some places they had to write their name in cursive writing
 [in order to vote].</p>
-          <p id="sc10-2_10198">IN 1957 I HAD A LETTER from Mrs. (Virginia) Durr telling me about
+          <p xml:id="sc10-2_10198">IN 1957 I HAD A LETTER from Mrs. (Virginia) Durr telling me about
 Rosa Parks. She wanted to know if Rosa Parks could come to the
 Highlander Folk School, and would we be able to send for her so that
 she could come free of charge. So, we sent her money to ride on the
@@ -1544,11 +1501,11 @@ her seat to a white man who came into the bus after she had been
 seated. And so, she was arrested. And after being arrested,
 fingerprinted, and Mr. Nixon from Montgomery went down there and took
 her out.</p>
-          <p id="sc10-2_10199">At the Fiftieth Anniversary (of the Highlander Center) she was
+          <p xml:id="sc10-2_10199">At the Fiftieth Anniversary (of the Highlander Center) she was
 there in Tennessee. So.  Rosa Parks turned a lot of things around from
 refusing to give that seat in Montgomery, Alabama. Well, it has been
 good to know her.</p>
-          <p id="sc10-2_10200">IN COLUMBIA, S.C., WHEN I was teaching there, there was a woman
+          <p xml:id="sc10-2_10200">IN COLUMBIA, S.C., WHEN I was teaching there, there was a woman
 named Fleming who got on that bus and refused to go to the back. And
 that bus driver thought that he was going to be very much of a
 hoodlum, I guess, and he was going to put her off that bus, but she
@@ -1562,14 +1519,14 @@ that other fellow, and he didn't have to wait for a man. He could wait
 for women, but he didn't have to wait for a man to get on the bus. He
 could get on the bus in front of a man, and he couldn't understand why
 that man had that kind of feeling.</p>
-          <p id="sc10-2_10201">They brought in a man from Atlanta who spoke to us and got us
+          <p xml:id="sc10-2_10201">They brought in a man from Atlanta who spoke to us and got us
 stirred up about that thing. I can't think of his name now but he was
 over there at one of those universities, and we all became concerned,
 and we decided that we were not going to let anybody tell us where to
 sit on those buses. We didn't get any result until the Rosa Parks
 affair, we really didn't get any results. We always had somebody
 fighting.</p>
-          <p id="sc10-2_10202">(Many people in South Carolina) didn't think about using the
+          <p xml:id="sc10-2_10202">(Many people in South Carolina) didn't think about using the
 courts. They were going try to do it themselves- violently. That's
 when we had a number of meetings at Benedict College, with Herman
 Long, and a number of meetings when Thurgood Marshall came down. Those
@@ -1578,7 +1535,7 @@ we could do any nonviolent work at all. We were going to fight that
 thing out ourselves. But we didn't have success, because over and over
 again those things were happening- you know-fussing and fighting on
 buses. We weren't going to sit to the back if we didn't have to.</p>
-          <p id="sc10-2_10203">We didn't feel as if we could listen to the people who were really
+          <p xml:id="sc10-2_10203">We didn't feel as if we could listen to the people who were really
 feeling that they had to work nonviolently. We didn't feel that
 way. Not only Columbia, but I know we had the same thing in Atlanta
 with Stokely Carmichael. He didn't feel as if we needed to work
@@ -1595,22 +1552,22 @@ England, and I happened (in 1972) to go to Washington and when I got
 into that Martin Luther King Center there, he was speaking. He saw me
 coming in the door, and he said, "Here comes the lady who helped me
 to be nonviolent."</p>
-          <p id="sc10-2_10204">But you know he came here two years ago, and I bet you 600
+          <p xml:id="sc10-2_10204">But you know he came here two years ago, and I bet you 600
 policemen surrounded that church in front of that Piggly
 Wiggly. They're still afraid of Stokeley Carmichael. Nevertheless,
 Stokeley spoke that night, and I said everybody else could take over
 the city because the policemen were all there.</p>
-          <p id="sc10-2_10205">We had numbers of people who didn't feel as if nonviolence was the
+          <p xml:id="sc10-2_10205">We had numbers of people who didn't feel as if nonviolence was the
 thing. They really didn't. They thought you were foolish to be
 non-violent. Stokeley thought so, too. He thought I was foolish to try
 to tell them not to fight. They were going to fight.</p>
-          <p id="sc10-2_10206">THE ONLY WAY YOU CAN GET (change) to happen is to get the people to
+          <p xml:id="sc10-2_10206">THE ONLY WAY YOU CAN GET (change) to happen is to get the people to
 see things like you see them. If you don't get them to organize
 themselves within and see what's happening to them, you don't get
 anything done. Don't try it by yourself. See how many people you can
 get to realize what you would like to have done, and this is the way
 you can get change.</p>
-          <p id="sc10-2_10207">When I first started, I thought that I would be able to just tell
+          <p xml:id="sc10-2_10207">When I first started, I thought that I would be able to just tell
 people (to change). I thought I could tell teachers that you just tell
 the people that you're going to be a member of the NAACP and that
 would solve the problem. It didn't happen that way. They didn't have
@@ -1622,38 +1579,38 @@ everything else. That was the way we got them to come together. If
 change is to come, we've got to get groups together who think about
 the things that need to be done, otherwise you don't get change to
 come. </p>
-          <div3 id="sc10-2_030" type="About">
-            <p id="sc10-2_10208">Septima Poinsette Clark died December 15,
+          <div3 xml:id="sc10-2_030" type="About">
+            <p xml:id="sc10-2_10208">Septima Poinsette Clark died December 15,
 1987, at a nursing home on John's Island, S.C. She was 89 years old,
 and during her long, productive life had been involved in many of the
 most significant civil rights struggles of the century. Her words
 below are excerpted from an interview recorded in 1983 by Worth Long
 and Randall Williams for the Southern Regional Council's Civil Rights
 Radio Documentaries Project.</p>
-            <p id="sc10-2_10209">Edited by BILL STEVERSON</p>
+            <p xml:id="sc10-2_10209">Edited by BILL STEVERSON</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_011" n="12" type="Article">
+        <div2 xml:id="sc10-2_011" n="12" type="Article">
           <head>What Price Are We Willing to Pay?</head>
-          <byline>By <docAuthor><name reg="Sanders, Rose" type="person">Rose Sanders</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 23-24</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Sanders, Rose</reg><sic>Rose Sanders</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 23-24</docDate>
           
-          <p id="sc10-2_10210">Since I have been in the South it has come to my attention that the
+          <p xml:id="sc10-2_10210">Since I have been in the South it has come to my attention that the
 Black Belt has the greatest potential of any region in this country to
 reach economic independence with equity and justice.</p>
-          <p id="sc10-2_10211">Historically, the Black Belt has experienced some of the harshest
+          <p xml:id="sc10-2_10211">Historically, the Black Belt has experienced some of the harshest
 forms of economic and racial repression. In spite of the political
 gains that have been made there since 1965, the Black Belt remains one
 of America's poorest regions. In spite of the fact that we now have
 black elected officials, we still remain economically under the
 control of the same people who politically controlled us for over a
 century.</p>
-          <p id="sc10-2_10212">But there is potential in the Black Belt and with the emergence of
+          <p xml:id="sc10-2_10212">But there is potential in the Black Belt and with the emergence of
 political voices, some of the desires of the people are beginning to
 be heard. Yet even the voices of our recently elected political
 officials in the region are not heard by those in power who can change
 things. For it is not in their best interest to change things.</p>
-          <p id="sc10-2_10213">It is disheartening for me as an individual, a mother, and a
+          <p xml:id="sc10-2_10213">It is disheartening for me as an individual, a mother, and a
 community worker to have people come up to me day after day and ask
 for something that should be very simple in this country. Teenagers
 with whom I work come to me and ask, "Ms. Sanders, can you help me
@@ -1662,14 +1619,14 @@ have gone to college asking me to help them find jobs. Only yesterday
 a hardworking couple that I know came to me wanting to buy a
 house. Despite their hard work, they remain without the income to
 purchase even a modest home.</p>
-          <p id="sc10-2_10214">We have a situation that clearly deserves a new vision.</p>
-          <p id="sc10-2_10216">Not long ago I had the opportunity to spend ten days in 
-<pb id="sc10-2_10215" n="24"/>
+          <p xml:id="sc10-2_10214">We have a situation that clearly deserves a new vision.</p>
+          <p xml:id="sc10-2_10216">Not long ago I had the opportunity to spend ten days in 
+<pb xml:id="sc10-2_10215" n="24"/>
 Cuba with a
 group of state legislators, including my husband. I was touched by
 things that I saw. I could not help but think of things I had
 experienced in the Black Belt.</p>
-          <p id="sc10-2_10217">In Cuba, I didn't see any beggars on the street. I didn't see any
+          <p xml:id="sc10-2_10217">In Cuba, I didn't see any beggars on the street. I didn't see any
 homeless people. In each of the communities that I went into there was
 a doctor taking care of the sick. I saw an educational system where
 every person received schooling up to the university level free of
@@ -1677,49 +1634,49 @@ charge. I saw a system where everyone had free medical care. I
 wondered how is it that a country that is considered "underdeveloped"
 can provide for its poor, can provide for women and minorities, while
 America, the richest country in the world cannot or will not.</p>
-          <p id="sc10-2_10218">If we ask who would agree that all people have the right to health
+          <p xml:id="sc10-2_10218">If we ask who would agree that all people have the right to health
 care, all of us would say yes. To an education? All of us would say
 yes. To live above the poverty level? All of us would say yes.</p>
-          <p id="sc10-2_10219">But how do we plan to achieve these ideals in the Black Belt or in
+          <p xml:id="sc10-2_10219">But how do we plan to achieve these ideals in the Black Belt or in
 America? I have just about reached the conclusion that the methods
 that we are using now will not do. We have economic development
 programs. We go to seminars on economic development But something
 remains wrong.</p>
-          <p id="sc10-2_10220">I recall asking my husband why would someone be against free
+          <p xml:id="sc10-2_10220">I recall asking my husband why would someone be against free
 medical care. He said, "Rose, don't you go back to America talking
 about free medical care. The doctors would have a fit. They have a
 monopoly on how many doctors, who is to be admitted, how much money is
 going to be made...."</p>
-          <p id="sc10-2_10221">What I am trying to say is that we have to focus on what we want
+          <p xml:id="sc10-2_10221">What I am trying to say is that we have to focus on what we want
 and how to get it. We don't want people in poverty. We don't want
 homeless people. We don't want people uneducated. How will we turn it
 around? How can we turn it around in this system?</p>
-          <p id="sc10-2_10222">One thing the Cuban people did right after the Revolution that
+          <p xml:id="sc10-2_10222">One thing the Cuban people did right after the Revolution that
 we're trying to do in the Black Belt of Alabama was to educate their
 people. To rid the country of illiteracy.</p>
-          <p id="sc10-2_10223">In the Black Belt of Alabama, there are as many people who can't
+          <p xml:id="sc10-2_10223">In the Black Belt of Alabama, there are as many people who can't
 read as there are those who can. So, even if we could find the jobs,
 how can people do the work? People who gain literacy gain hope. They
 are more likely to dream and to make those dreams come true. So, when
 we talk about economic development, we must place more emphasis on
 education.</p>
-          <p id="sc10-2_10224">How do we do it? In the Black Belt of Alabama, we are in control of
+          <p xml:id="sc10-2_10224">How do we do it? In the Black Belt of Alabama, we are in control of
 at least five of our school systems. We are physically in control of
 them, but we are, in fact, trapped by tradition. If you're in a race
 and you are behind, you can't do things like everybody else and expect
 to catch up. So it requires creative solutions not just with community
 organizations, but in institutions and in systems like the public
 school system.</p>
-          <p id="sc10-2_10225">There are a few superintendents who are beginning to move in that
+          <p xml:id="sc10-2_10225">There are a few superintendents who are beginning to move in that
 direction. But it should not surprise you if the innovators are being
 attacked by the power structure in the Black Belt that still finds a
 way to manipulate even though politically they are not in control.</p>
-          <p id="sc10-2_10226">Most of us want to maintain our present standard of living and not
+          <p xml:id="sc10-2_10226">Most of us want to maintain our present standard of living and not
 give up anything. Most of us, even the activists among us--including
 me--really don't want to change ourselves as much as we want to change
 those around us who are less fortunate. But, change is going require
 some sacrifice from us, the fortunate.</p>
-          <p id="sc10-2_10227">There's a community in the Black Belt very close to my nice house
+          <p xml:id="sc10-2_10227">There's a community in the Black Belt very close to my nice house
 that was one of the most impoverished that I have ever seen. The
 community was known locally as "Slave City." No water, no running
 water; the outhouses didn't have tops on them. There were ninety
@@ -1727,7 +1684,7 @@ children living in that community. We began a campaign to try to find
 decent housing for the people of that community. Because of the
 national attention we generated we were able to get those people into
 some decent housing.</p>
-          <p id="sc10-2_10228">But that did not solve the problem. The people who lived there had
+          <p xml:id="sc10-2_10228">But that did not solve the problem. The people who lived there had
 become so dejected, so full of hopelessness, that moving them out of
 their physical surroundings did not solve their problems. There are so
 many people in deep poverty who are psychologically enslaved, who do
@@ -1737,21 +1694,21 @@ are being mistreated, who are being paid low wages, who remain
 psychologically indebted to a system that has shown them very little
 grace. And then there are people like us who remain enslaved to old
 ideals and to old ways of thinking and doing things.</p>
-          <p id="sc10-2_10229">If we want full employment, if we want to make sure that there are
+          <p xml:id="sc10-2_10229">If we want full employment, if we want to make sure that there are
 no homeless people, if we want to decently educate every child, if we
 want to end hunger--what price are we willing to pay to make this
 happen?</p>
-          <div3 id="sc10-2_031" type="About">
-            <p id="sc10-2_10230">Rose Sanders practices law and community activism in
+          <div3 xml:id="sc10-2_031" type="About">
+            <p xml:id="sc10-2_10230">Rose Sanders practices law and community activism in
 Selma, Ala.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_012" n="11" type="Article">
+        <div2 xml:id="sc10-2_012" n="11" type="Article">
           <head>Unions Must Move Past the Plant Gates</head>
-          <byline>By <docAuthor><name reg="Raynor, Bruce" type="person">Bruce Raynor</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 22-23</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Raynor, Bruce</reg><sic>Bruce Raynor</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 22-23</docDate>
           
-          <p id="sc10-2_10231">The subject of the economic development of the South is never
+          <p xml:id="sc10-2_10231">The subject of the economic development of the South is never
 complete without some talk of the role of organized labor. Despite
 economic development, despite tremendous gains in other parts of the
 country, the South still trails the nation with the lowest wages and
@@ -1760,7 +1717,7 @@ fastest decline of high-paying jobs and the most rapid increase of
 low-paying jobs. Faced with the lowest wage-benefit structure in the
 country, the problems that Southern workers face are getting worse,
 not better.</p>
-          <p id="sc10-2_10232">You hear a lot of talk these days that new management strategies
+          <p xml:id="sc10-2_10232">You hear a lot of talk these days that new management strategies
 have made unions unnecessary. I think it's important to point out that
 despite the newest personnel policies, the development of human
 resources as a theory and a science, progressive employment programs,
@@ -1771,11 +1728,11 @@ Japanese plant that was put up in Macon, Ga. When we organized that
 plant, the management hired American anti-union lawyers and used the
 very American arguments to the workers about why they don't need a
 union:</p>
-          <p id="sc10-2_10233">You don't need a union because we don't want you to have the
+          <p xml:id="sc10-2_10233">You don't need a union because we don't want you to have the
 union. In Japan it's different, those are good unions. In Georgia,
 they're not good unions. If you support the union, we're going to fire
 you.</p>
-          <p id="sc10-2_10234">This version of Japanese management didn't work on the majority of
+          <p xml:id="sc10-2_10234">This version of Japanese management didn't work on the majority of
 the workers in the Macon plant; they voted for the union. Then we set
 out to bargain with the company, the American and Japanese
 managers. The Japanese manager didn't speak very good English, but he
@@ -1786,11 +1743,11 @@ use the sick days. In Georgia we give sick days and if workers don't
 get sick, they can still take these days away from work. Well, the
 Japanese managers didn't want to do that. They wanted to change the
 style of management and do away with sick days.</p>
-          <p id="sc10-2_10235">What it comes down to is a division of power and money between
+          <p xml:id="sc10-2_10235">What it comes down to is a division of power and money between
 management and workers. Whether it's Japanese style or American style,
 management will continue to make unions necessary.</p>
-          <p id="sc10-2_10237">So how do we establish a strong labor movement in the 
-<pb id="sc10-2_10236" n="23"/>
+          <p xml:id="sc10-2_10237">So how do we establish a strong labor movement in the 
+<pb xml:id="sc10-2_10236" n="23"/>
 South? Many
 of us have been at work for our entire adult lives trying to do
 this. It is widely understood that workers organize for better pay and
@@ -1809,7 +1766,7 @@ The power belongs to the companies. But with a union, workers achieve
 a measure of power. That's why Southern management opposes unions as
 vigorously as they do. It comes down to the question of sharing
 power.</p>
-          <p id="sc10-2_10238">The other by-product of unionization is leadership. Unions create
+          <p xml:id="sc10-2_10238">The other by-product of unionization is leadership. Unions create
 leaders. Workers develop leadership skills and abilities in their
 communities and their states. Political change in this part of the
 country needs to be aided by the power of a strong labor movement. We
@@ -1817,14 +1774,14 @@ don't have a strong labor movement in any single one of the Southern
 states, but I think labor with its allies has been able to achieve
 some significant progress in changing the social makeup of the
 South.</p>
-          <p id="sc10-2_10239">What does this mean for non-union people? Labor unions have tended
+          <p xml:id="sc10-2_10239">What does this mean for non-union people? Labor unions have tended
 to be our own worst enemy. The labor movement reflects society at
 large. And, when the South has in it a tremendous amount of racism,
 the labor movement has a tremendous amount of racism. When the South
 has conservatism, then that's mirrored in the labor movement. You
 cannot change the South, you cannot change the labor movement, without
 changing the social makeup of our organizations and our beliefs.</p>
-          <p id="sc10-2_10240">Some things that unions are doing in 1988 are different than what
+          <p xml:id="sc10-2_10240">Some things that unions are doing in 1988 are different than what
 has been done in the past. The only Southern state that has a law
 permitting public employees to organize is Florida. Traditionally
 labor has waited until it had the political power to achieve
@@ -1840,41 +1797,41 @@ embody with the progressive goals of affirmative action, of equality,
 of a just society. Such a union would become the single biggest force
 for social change in the state. I think this campaign deserves and
 needs the support of like-thinking people around the South.</p>
-          <p id="sc10-2_10241">Another area where people are organizing across broader lines is a
+          <p xml:id="sc10-2_10241">Another area where people are organizing across broader lines is a
 campaign called "Justice for Janitors." This is an effort to win
 recognition for the cleaning people in all the buildings in the
 growing cities across the South. In order to gain support for the
 janitors who clean the buildings for little more than minimum wage,
 the Service Employees Union is reaching out to the everyday person who
 uses the buildings.</p>
-          <p id="sc10-2_10242">If unions are to be successful organizing in the South, they have
+          <p xml:id="sc10-2_10242">If unions are to be successful organizing in the South, they have
 to move beyond the plant gates. Workers need to build ties with
 progressive elements in the community with whom they share a vision of
 a more just society. Millions of people here in the South have been
 economically, politically, and socially excluded from sharing power. I
 believe the labor movement offers an opportunity for people to break
 the barriers that separate the disfranchised.</p>
-          <div3 id="sc10-2_032" type="About">
-            <p id="sc10-2_10243">Bruce Raynor is the Southern regional director and an
+          <div3 xml:id="sc10-2_032" type="About">
+            <p xml:id="sc10-2_10243">Bruce Raynor is the Southern regional director and an
 international vice president of ACTWU.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_013" n="2" type="Article">
+        <div2 xml:id="sc10-2_013" n="2" type="Article">
           <head>Talking Down Reform: Filibustering Campaign Reform</head>
-          <byline>By <docAuthor><name reg="McBride, Ann" type="person">Ann McBride</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 4-5</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>McBride, Ann</reg><sic>Ann McBride</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 4-5</docDate>
           
-          <p id="sc10-2_10244">During February, the cots were back in the United States
+          <p xml:id="sc10-2_10244">During February, the cots were back in the United States
 Capitol. For the first time in years, the Senate was involved in an
 extended round-the-clock filibuster-endless debate to thwart the will
 of the majority.</p>
-          <p id="sc10-2_10245">The bill under discussion was S.2-the Senatorial Election Campaign
+          <p xml:id="sc10-2_10245">The bill under discussion was S.2-the Senatorial Election Campaign
 Act. This measure, introduced in 1987 on the first day of the 100th
 Congress, is a comprehensive campaign finance reform bill, designed to
 fundamentally transform congressional campaign financing. And while
 S.2 has fifty-two Senate co-sponsors and broad support in the country,
 a minority of Senators has blocked the bill.</p>
-          <p id="sc10-2_10246">There can be little debate that the present campaign financing
+          <p xml:id="sc10-2_10246">There can be little debate that the present campaign financing
 system is in desperate need of reform. Unlimited campaign spending, in
 the words of Majority Leader Robert Byrd (D-W.V.), threatens to make
 Congress "a part-time legislature because we must be full-time
@@ -1884,13 +1841,13 @@ average Senate seat now costs $3 million, requiring candidates to
 raise the equivalent of about $10,000 every week during a six-year
 term. The average cost of a House seat has also soared-from $87,000 in
 1976 to $329,000 in 1986.</p>
-          <p id="sc10-2_10247">With these costs, only those who are personally wealthy, or those
+          <p xml:id="sc10-2_10247">With these costs, only those who are personally wealthy, or those
 willing and able to raise large sums from special interests, can even
 consider seeking congressional office. This system of unlimited
 spending creates an arms race mentality in Congress-candidates faced
 with an unlimited spending system seek huge and ever-growing sums of
 money to run their campaigns.</p>
-          <p id="sc10-2_10248">Freshman Senator John Breaux (D-La.), elected in 1986, says:
+          <p xml:id="sc10-2_10248">Freshman Senator John Breaux (D-La.), elected in 1986, says:
 "MY first task in considering whether I would have the opportunity
 one day to serve in the U.S. Senate was not whether I was old enough,
 constitutionally, or whether I was smart enough to handle the job
@@ -1900,30 +1857,30 @@ going to raise enough money.... How much of my life and family life
 was I going to have to commit to raising enough money before I would
 be able to have the opportunity to exercise any talent or ability or
 education to be a good member of the U.S. Senate."</p>
-          <p id="sc10-2_10249">And retiring Senate President Pro Tem John Stennis (D-Miss.), first
+          <p xml:id="sc10-2_10249">And retiring Senate President Pro Tem John Stennis (D-Miss.), first
 elected in 1947, said, "The amount and sources of money spent in
 Senate campaigns is an embarrassment to our country and it is a blot
 on the integrity of the Senate because of the appearance of
 impropriety."</p>
-          <p id="sc10-2_10250">With the increase in campaign costs, congressional candidates have
+          <p xml:id="sc10-2_10250">With the increase in campaign costs, congressional candidates have
 increasingly gone hat-in-hand to the special interest political action
 committees (PACs). In 1974, PACs gave $12.5 million to congressional
 candidates. By 1986, PAC giving exceeded $130 million. As a result,
 the 100th Congress came into office more indebted to special interest
 PACs than any other in history.</p>
-          <p id="sc10-2_10251">PAC money, far from being even-handed, heavily favors incumbents
+          <p xml:id="sc10-2_10251">PAC money, far from being even-handed, heavily favors incumbents
 over challengers. In the 1986 election cycle, PACs gave $90.7 million
 to Senate and House incumbents and only $19.4 million to
 challengers. In the same election, according to a Common Cause study,
 one-third of all PACs gave 80 percent or more of their contributions
 to Senate and House incumbents.</p>
-          <p id="sc10-2_10252">PAC money is money given for a legislative purpose-it is
+          <p xml:id="sc10-2_10252">PAC money is money given for a legislative purpose-it is
 contributed to provide special access and special influence for
 special interest groups on Capitol Hill. Rep. Barney Frank (D-Mass.)
 put it most bluntly: "We are the only human beings in the world who
 are expected to take thousands of dollars from perfect strangers on
 important matters and not be affected by it."</p>
-          <p id="sc10-2_10253">To be sure, PAC contributions do not necessarily guarantee votes or
+          <p xml:id="sc10-2_10253">To be sure, PAC contributions do not necessarily guarantee votes or
 support; PACs do not always win. But the influx of special interest
 money is eroding public confidence in our elected officials and
 creating the image-if not always the reality-that PACs are buying
@@ -1933,13 +1890,13 @@ officials are beholden to special interests. This sense of alienation,
 this feeling that the electoral system is no longer their system, is
 responsible for much of the cynicism and lack of participation by
 citizens in politics today."</p>
-          <p id="sc10-2_10254">S.2 squarely addressed the fundamental problems of the current
+          <p xml:id="sc10-2_10254">S.2 squarely addressed the fundamental problems of the current
 system-unlimited spending and ever-increasing dependence on PAC
 dollars.</p>
-          <p id="sc10-2_10256">First, S.2 would establish a system of spending limits for Senate
+          <p xml:id="sc10-2_10256">First, S.2 would establish a system of spending limits for Senate
 elections; the individual limits would be based on the population of
 each state. In return for agreeing to 
-<pb id="sc10-2_10255" n="5"/>
+<pb xml:id="sc10-2_10255" n="5"/>
 spending limits, Senate
 candidates would receive public benefits, such as reduced mailing
 costs for their campaigns. No direct public financing is provided as
@@ -1947,48 +1904,48 @@ long as both candidates agree to abide by spending limits. If one
 candidate decides not to participate, and raises funds or makes
 campaign expenditures in excess of the spending limit, then public
 money would be provided to his or her opponent.</p>
-          <p id="sc10-2_10257">Second, S.2 would limit the growing dependence on PAC dollars by
+          <p xml:id="sc10-2_10257">Second, S.2 would limit the growing dependence on PAC dollars by
 establishing an overall limit on the amount of PAC contributions a
 candidate may accept. For House candidates, the limit is $100,000; the
 Senate limits are based on the population of each state. If the S.2
 limits had been in effect in 1986, PAC contributions to Senate
 candidates would have been cut by two-thirds-from $45 million to $16
 million.</p>
-          <p id="sc10-2_10258">S.2 received strong support within Congress. Fifty-two Senators
+          <p xml:id="sc10-2_10258">S.2 received strong support within Congress. Fifty-two Senators
 co-sponsored the bill-the first time since Watergate that a Senate
 majority has gone on record in support of a comprehensive reform
 bill. But Senate action on S.2 was blocked during the 1987
 filibuster.</p>
-          <p id="sc10-2_10259">S.2 moved to the Senate floor in June 1987, and Majority Leader
+          <p xml:id="sc10-2_10259">S.2 moved to the Senate floor in June 1987, and Majority Leader
 Byrd tried a record seven times to limit debate. While fifty-five
 Senators were willing, invoking cloture requires the support of sixty
 Senators-and the debate droned on.</p>
-          <p id="sc10-2_10260">The Senate returned to S.2 in February 1988 and again the
+          <p xml:id="sc10-2_10260">The Senate returned to S.2 in February 1988 and again the
 obstructionist minority turned to a filibuster. Sen. Byrd scheduled
 round-the-clock sessions in an effort to break the filibuster and took
 an eighth cloture vote. But the minority prevailed once again. And S.2
 was set aside.</p>
-          <p id="sc10-2_10261">During debate on S.2, opponents raised a number of false
+          <p xml:id="sc10-2_10261">During debate on S.2, opponents raised a number of false
 claims. "It will cost hundreds of millions," they argued. In
 reality, if both candidates in a Senate race agreed to spending
 limits, no direct public funds would be provided.</p>
-          <p id="sc10-2_10262">"S.2 doesn't do anything about PACs," opponents claimed,
+          <p xml:id="sc10-2_10262">"S.2 doesn't do anything about PACs," opponents claimed,
 ignoring the fact that the aggregate PAC limits established by the
 bill, had they been in effect during the 1986 campaign, would have cut
 PAC contributions to Senate candidates by two-thirds.</p>
-          <p id="sc10-2_10263">"S.2 will protect incumbents," they argued, ignoring the
+          <p xml:id="sc10-2_10263">"S.2 will protect incumbents," they argued, ignoring the
 tremendous advantages enjoyed by incumbents under the present campaign
 financing system.</p>
-          <p id="sc10-2_10264">"S.2 will prevent Republicans from winning in the South,"
+          <p xml:id="sc10-2_10264">"S.2 will prevent Republicans from winning in the South,"
 they argued. Yet this claim ignored the recent experience in the
 South. In 1980, for instance, four Southern Republican Senate
 candidates-all non-incumbents-won election while spending less than
 the limits in S.2. In 1986, three of these four candidates sought
 re-election as incumbents. Each Senator spent more than the S.2
 limits, and each Senator lost.</p>
-          <p id="sc10-2_10265">This issue will not go away. Efforts to reform the system will
+          <p xml:id="sc10-2_10265">This issue will not go away. Efforts to reform the system will
 continue.</p>
-          <p id="sc10-2_10266">Millions of citizens will be involved in the fight. More than
+          <p xml:id="sc10-2_10266">Millions of citizens will be involved in the fight. More than
 seventy national organizations have joined the coalition in support of
 S.2. Included are traditional allies within the public interest
 community, but also joining the coalition are such diverse
@@ -1997,24 +1954,24 @@ the American Jewish Committee, the American Public Health Association,
 the American Public Power Association, the International Association
 of Chiefs of Police, the National Farmers Organization, and the
 National Farmers Union.</p>
-          <p id="sc10-2_10267">In addition, more than 270 newspapers nationwide have supported the
+          <p xml:id="sc10-2_10267">In addition, more than 270 newspapers nationwide have supported the
 bill. The <title>Washington Post</title>, for instance, has
 called the current campaign financing system "fundamentally
 corrupt. Every citizen knows it. So does every legislator."</p>
-          <p id="sc10-2_10268">As former Watergate Special Prosecutor and Common Cause Chairman
+          <p xml:id="sc10-2_10268">As former Watergate Special Prosecutor and Common Cause Chairman
 Archibald Cox has noted, most scandals involve broken laws. In the
 case of the campaign financing scandal, the laws themselves are the
 scandal and they must be changed.</p>
-          <div3 id="sc10-2_033" type="About">
-            <p id="sc10-2_10269">Ann McBride is the Senior Vice President of Common Cause.</p>
+          <div3 xml:id="sc10-2_033" type="About">
+            <p xml:id="sc10-2_10269">Ann McBride is the Senior Vice President of Common Cause.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_014" n="9" type="Article">
+        <div2 xml:id="sc10-2_014" n="9" type="Article">
           <head>Community Development Corporations</head>
-          <byline>By <docAuthor><name reg="Lamm, Carol" type="person">Carol Lamm</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 19-20</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Lamm, Carol</reg><sic>Carol Lamm</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 19-20</docDate>
           
-          <p id="sc10-2_10270">Over the years, MACED has worked at economic development from many
+          <p xml:id="sc10-2_10270">Over the years, MACED has worked at economic development from many
 angles. We began by providing technical assistance to worker
 cooperatives and then went on to work with locally owned private
 businesses. We did our first policy work in the late 1970s when we
@@ -2025,21 +1982,21 @@ bankers to make mortgages more available to moderate income
 families. We have a couple of for-profit subsidiaries now that invest
 in businesses, mostly forest product industries, where we concentrate
 our technical assistance.</p>
-          <p id="sc10-2_10271">A couple of years ago, MACED decided that we could not continue to
+          <p xml:id="sc10-2_10271">A couple of years ago, MACED decided that we could not continue to
 put all our eggs in the diversification basket, that is, into looking
 for ways to get around the coal industry. We began to do some research
 and policy advocacy on ways to make the coal industry itself have a
 more developmental impact on the region.</p>
-          <p id="sc10-2_10272">Our most recent project involves grassroots education as we assist
+          <p xml:id="sc10-2_10272">Our most recent project involves grassroots education as we assist
 an organization in Kentucky's fifth congressional district which has
 the lowest percentage of high school graduates among its adult
 population of any congressional district in the country. Over the past
 year we have started or worked with seventeen affiliates in the
 district's twenty seven counties.</p>
-          <p id="sc10-2_10273">When I step back from this recitation of activities and ask,
+          <p xml:id="sc10-2_10273">When I step back from this recitation of activities and ask,
 "What have we learned that I can share today?" I came up with
 three major areas.</p>
-          <p id="sc10-2_10274">First of all, we have learned that economic development is more
+          <p xml:id="sc10-2_10274">First of all, we have learned that economic development is more
 than job creation. Ken Johnson spoke yesterday about the limits of
 counting jobs as a measure of progress. He pointed out that the ways
 wages are earned and the distribution of wages are other important
@@ -2049,7 +2006,7 @@ development can mean new and better jobs for people. But, economic
 development can also mean better housing, schools, and medical
 care. There are a number of ways to make the economy work better for
 people besides job creation, critical though that is.</p>
-          <p id="sc10-2_10275">A second lesson recognizes the importance of doing something, then
+          <p xml:id="sc10-2_10275">A second lesson recognizes the importance of doing something, then
 thinking about it, then doing the next project based on what you
 figured out. This sounds so obvious, but I have seen community
 organizations, to say nothing of state government agencies, that
@@ -2059,14 +2016,14 @@ brochures as we said we would?" One of the most satisfying aspects
 and exciting things about working for MACED is the way that we
 repeatedly step back and look at the results in the light of bigger
 goals. We keep getting new insights into what might work.</p>
-          <p id="sc10-2_10276">Let me tell you a little bit of how we looked at forest products
+          <p xml:id="sc10-2_10276">Let me tell you a little bit of how we looked at forest products
 when we started out about twelve years ago.</p>
-          <p id="sc10-2_10278">There are hundreds of small sawmills in eastern Kentucky. They are
+          <p xml:id="sc10-2_10278">There are hundreds of small sawmills in eastern Kentucky. They are
 very important in the economy for the low income people who are
 employed in them and in logging. So we began providing technical
 assistance to existing sawmills. Then, we stepped back from that and
 said, "Well this 
-<pb id="sc10-2_10277" n="20"/>
+<pb xml:id="sc10-2_10277" n="20"/>
 is not really having the effect that we would like
 to have. It is not creating new activity. Let's start working with
 sawmill startups." So we did that through financial and technical
@@ -2074,7 +2031,7 @@ assistance. Then we stepped back and said, "This is not getting us
 to very many people. What can we do that will give us a lever on this
 forest products industry and, actually make a significant
 difference?"</p>
-          <p id="sc10-2_10279">We saw that each of these little sawmills had marketing
+          <p xml:id="sc10-2_10279">We saw that each of these little sawmills had marketing
 problems. They were so small that they could not accumulate enough
 lumber to sell in certain markets, even if they knew where they
 were. They were selling high quality hardwoods to be made into pallets
@@ -2082,15 +2039,15 @@ because they could not get together enough of them to sell to a major
 buyer. So we established a lumber yard and sawmill that was big enough
 for the export market. This had an impact on many sawmills in the
 area. They now had a steadier market than before.</p>
-          <p id="sc10-2_10280">Our ability to act and reflect points to a special role that
+          <p xml:id="sc10-2_10280">Our ability to act and reflect points to a special role that
 Community Development Corporations can play in state policy-making,
 too. Because we are small and energetic organizations, CDC's can try
 out different approaches and get some feel for their relative success
 while the state bureaucracy is still waking up to the thought that a
 new direction is in order.</p>
-          <p id="sc10-2_10281">Part of thinking involves choosing issues opportunistically,
+          <p xml:id="sc10-2_10281">Part of thinking involves choosing issues opportunistically,
 strategically.</p>
-          <p id="sc10-2_10282">We looked the housing situation over for several years, looking at
+          <p xml:id="sc10-2_10282">We looked the housing situation over for several years, looking at
 the reasons given for the dearth of housing starts and the prevalence
 of sub-standard housing, even among middle-income families in the
 mountains. We chose a housing issue upon which we could make a
@@ -2100,13 +2057,13 @@ variable-rate mortgages with from twenty-five to thirty-three percent
 down payments, minimum. The thirty-year fixed-rate, five-percent down
 mortgages that were widely available throughout the US, simply weren't
 to be had in eastern Kentucky.</p>
-          <p id="sc10-2_10283">In the rest of the country, banks had figured out ways to sell
+          <p xml:id="sc10-2_10283">In the rest of the country, banks had figured out ways to sell
 their long term mortgages to buyers who wanted long term fixed rate
 investments through secondary mortgage market mechanisms. In eastern
 Kentucky, bankers weren't familiar with those mechanisms, and there
 existed a handful of regulations that made secondary mortgage
 marketing difficult in rural areas.</p>
-          <p id="sc10-2_10284">MACED organized a consortium of ninety-four out of the 102 bankers
+          <p xml:id="sc10-2_10284">MACED organized a consortium of ninety-four out of the 102 bankers
 in eastern Kentucky. We negotiated the necessary changes with one of
 the secondary mortgage market outfits that was receptive, and we
 organized training sessions with the bankers. They then were able to
@@ -2115,25 +2072,25 @@ also put together two bond issues that together raised $46 million for
 low-interest rate mortgages and used some innovative financing that
 made the mortgages available to considerably lower income families
 than would have qualified otherwise.</p>
-          <p id="sc10-2_10285">We chose that point of intervention very strategically to make a
+          <p xml:id="sc10-2_10285">We chose that point of intervention very strategically to make a
 difference.</p>
-          <div3 id="sc10-2_034" type="About">
-            <p id="sc10-2_10286">For the last nine years I have worked for MACED, the
+          <div3 xml:id="sc10-2_034" type="About">
+            <p xml:id="sc10-2_10286">For the last nine years I have worked for MACED, the
 Mountain Association for Community Economic Development. From an
 office in Berea, Kentucky, MACED works in the central Appalachian
 Mountains.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_015" n="13" type="Article">
+        <div2 xml:id="sc10-2_015" n="13" type="Article">
           <head>Framing the Debate from a Worker's View</head>
-          <byline>By <docAuthor><name reg="Johnson, Ken" type="person">Ken Johnson</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 24-25</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Johnson, Ken</reg><sic>Ken Johnson</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 24-25</docDate>
           
-          <p id="sc10-2_10287">For more than two decades, Southern governments, Chambers of
+          <p xml:id="sc10-2_10287">For more than two decades, Southern governments, Chambers of
 Commerce, business supporters and others, when measuring the South's
 economic well-being and quality of life, have framed the debate on
 economic development and prosperity in the most restrictive terms.</p>
-          <p id="sc10-2_10289">These debates have focused almost entirely on the number of new
+          <p xml:id="sc10-2_10289">These debates have focused almost entirely on the number of new
 jobs created. Obviously, when measured along these lines, the South of
 cheap land, low wages and low taxes has done exceedingly well. For the
 ten-year period 1975-1984, for example, Texas, Florida, and Georgia
@@ -2142,10 +2099,10 @@ Carolina and Virginia were among the top ten. But absent from these
 measures has been any discussion of the impact of these new jobs on
 the workers themselves and of the question of whether these new jobs
 raised the standard of 
-<pb id="sc10-2_10288" n="25"/>
+<pb xml:id="sc10-2_10288" n="25"/>
 living for the average workers of the
 region.</p>
-          <p id="sc10-2_10290">The Climate for Workers in the U. S., the report released last year
+          <p xml:id="sc10-2_10290">The Climate for Workers in the U. S., the report released last year
 by the Southern Labor Institute, sought to broaden the discussion on
 economic development and job creation policy. The report challenges
 the notion that economic development depends on cheap land,
@@ -2159,40 +2116,40 @@ national standards in almost every other way. The South exhibits the
 smallest gain in wages and per-capita personal income, the largest
 proportion of the working poor, and the highest incidences of
 poverty.</p>
-          <p id="sc10-2_10291">To quote directly from the report, "The challenge and the task
+          <p xml:id="sc10-2_10291">To quote directly from the report, "The challenge and the task
 that face the South today and in the future is to create jobs with the
 incomes and benefits needed to bring the region's workers above the
 poverty level. Not just new jobs as in the past, but jobs that will
 significantly improve the standards of living for people who work full
 time year round."</p>
-          <p id="sc10-2_10292">The picture has changed. Local economic developers can no longer
+          <p xml:id="sc10-2_10292">The picture has changed. Local economic developers can no longer
 rely on the South's usual selling points: low-cost of production and
 an abundant labor supply to attract traditional manufacturing
 jobs. Government and private sectors alike have been torn by import
 pressures and technological advances which have significantly reduced
 the job-creating potential.</p>
-          <p id="sc10-2_10293">Increasingly the potential for job growth is in service industries,
+          <p xml:id="sc10-2_10293">Increasingly the potential for job growth is in service industries,
 indigenous small businesses, and information based industries which
 have less demand for low production costs and more need for a
 well-educated work force, high quality of life, rapid transfer of
 goods and information, and access to financial capital.</p>
-          <p id="sc10-2_10294">In short, our competitive future rests on the quality of our work
+          <p xml:id="sc10-2_10294">In short, our competitive future rests on the quality of our work
 force and on the investments we're willing to make in the men and
 women who produce the goods and services that bring economic gains.</p>
-          <p id="sc10-2_10295">Southeastern states have banked their future on job growth while
+          <p xml:id="sc10-2_10295">Southeastern states have banked their future on job growth while
 neglecting the rewards and the protection of their workers. Southern
 states fill the bottom rung of nearly all of the more than two dozen
 indicators considered in this study of the nation's labor climate. The
 South's extraordinary job growth in jobs during the past ten years has
 been accompanied by the least change in personal income of any
 U.S. region.</p>
-          <p id="sc10-2_10296">Working people are more likely to be poor in the South than any
+          <p xml:id="sc10-2_10296">Working people are more likely to be poor in the South than any
 other U.S. region. Southeastern states have the lowest per-capita
 income in the nation. Nine Southern states are among the bottom
 thirteen in manufacturing wages, averaging less than $8 per hour. In
 eight southeastern states, more than 40 percent of the manufacturing
 jobs pay less than $8 an hour.</p>
-          <p id="sc10-2_10297">Treated as a percent of all the manufacturing jobs in each state,
+          <p xml:id="sc10-2_10297">Treated as a percent of all the manufacturing jobs in each state,
 the results show why the southeastern states can rank high in job
 growth and yet rank low in wages and income. A significant finding of
 the report reveals the poor standings of the southeastern states with
@@ -2200,7 +2157,7 @@ regard to statutory protection of workers, governing the workplace,
 protecting workers' rights and safety and providing compensation for
 disability and unemployment, the South falls considerably lower than
 all the other U.S. regions.</p>
-          <p id="sc10-2_10298">The report examines the states to see how many of fourteen common
+          <p xml:id="sc10-2_10298">The report examines the states to see how many of fourteen common
 statutes protecting workers were in effect and whether or not their
 provision made them meaningful. The eight states with the least worker
 protection are in the southeast. In Alabama and Mississippi, not one
@@ -2213,11 +2170,11 @@ disability, under $200 per week, are in the Southeast. In the nation's
 twelve worst states, the weekly unemployment benefits is $100 or less,
 and eight of the twelve are in the Southeast, with Mississippi on the
 bottom.</p>
-          <p id="sc10-2_10299">Until recently, blacks and women had been excluded from traditional
+          <p xml:id="sc10-2_10299">Until recently, blacks and women had been excluded from traditional
 white male occupations; officials, administrators, professionals,
 technicians and craft-workers. Southern states ranked on the bottom in
 the percent of working women and minorities employed in these jobs.</p>
-          <p id="sc10-2_10300">The report also considers several indicators of the states' general
+          <p xml:id="sc10-2_10300">The report also considers several indicators of the states' general
 quality of life. Among the findings are some historically familiar
 refrains. The Northeastern states report the lowest rates of poverty,
 from 8 percent in Connecticut to 13 percent in New York. The
@@ -2227,14 +2184,14 @@ likely to be poor in the Southeast. The nine states with the highest
 proportion of black poor are in the Southeast. Rates of poverty for
 blacks in the southeast range from Virginia's 25 percent to
 Mississippi's 44 percent, again, the highest in the nation.</p>
-          <p id="sc10-2_10301">A telling indicator of the quality of health care in the state is
+          <p xml:id="sc10-2_10301">A telling indicator of the quality of health care in the state is
 its infant mortality rate. Sadly, a baby is not likely to survive its
 first year of life in the Southeast. The two states with the worst
 infant mortality rates, over fifteen deaths for every thousand births,
 are Mississippi and South Carolina. The eleven worst states, all with
 death rates of thirteen or higher, include West Virginia, Alabama,
 North Carolina, Florida, Louisiana and Georgia.</p>
-          <p id="sc10-2_10302">We have heard and will continue to hear about the Sunbelt, but job
+          <p xml:id="sc10-2_10302">We have heard and will continue to hear about the Sunbelt, but job
 growth in the Southeast has occurred in large part at the bottom end
 of the wage scale and has not improved significantly the conditions or
 prospects for wage earners in the region. As the Southeast economy
@@ -2244,21 +2201,21 @@ likely to see much change in their personal conditions. Reversing
 these trends, of course, will depend largely on our ability and
 willingness to increase worker participation in both public policy and
 the workplace decision making process.</p>
-          <div3 id="sc10-2_035" type="About">
-            <p id="sc10-2_10303">Ken Johnson is director of the Southern Labor Institute
+          <div3 xml:id="sc10-2_035" type="About">
+            <p xml:id="sc10-2_10303">Ken Johnson is director of the Southern Labor Institute
 and co-author of <title>The Climate for Workers in the United
 States.</title></p>
           </div3>
         </div2>
-        <div2 id="sc10-2_016" n="1" type="Article">
+        <div2 xml:id="sc10-2_016" n="1" type="Article">
           <head>Women and the Constitution</head>
-          <byline>By <docAuthor><name reg="Hannon, Sharron" type="person">Sharron Hannon</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 1-3</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Hannon, Sharron</reg><sic>Sharron Hannon</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 1-3</docDate>
           
-          <p id="sc10-2_10304">In 1776, Abigail Adams wrote husband John, importuning him to
+          <p xml:id="sc10-2_10304">In 1776, Abigail Adams wrote husband John, importuning him to
 "remember the Ladies" in drafting the code of laws of the new
 nation.</p>
-          <p id="sc10-2_10305">However, the <soCalled>"ladies"</soCalled> were not remembered by
+          <p xml:id="sc10-2_10305">However, the <soCalled>"ladies"</soCalled> were not remembered by
 the founding fathers. Eleven years after Abigail Adams's letter, the
 framers of the Constitution drafted a document beginning, "We the
 people." What they meant was, "We the men." In 1787, women
@@ -2268,23 +2225,23 @@ life. It would take more than a hundred years of struggle to get the
 U.S. Constitution amended to allow women to vote; an amendment stating
 that women have equal rights with men has yet to be added, despite
 more than sixty years of trying.</p>
-          <p id="sc10-2_10306">In the fall of 1986, as preparations got underway for celebrating
+          <p xml:id="sc10-2_10306">In the fall of 1986, as preparations got underway for celebrating
 the bicentennial of the Constitution, a group of women approached
 former first lady Rosalynn Carter with the idea for a symposium that
 would "remember the ladies." She lent her support and so, in
 February 1988, an overflow crowd of 1,500 women from every state and
 ten foreign countries gathered in Atlanta to study and discuss and
 call attention to the founding fathers' omissions.</p>
-          <p id="sc10-2_10307">"Women and the Constitution: A Bicentennial Perspective" was
+          <p xml:id="sc10-2_10307">"Women and the Constitution: A Bicentennial Perspective" was
 sponsored by the Carter Center of Emory University in conjunction with
 the Carter Presidential Library and Georgia State University. Rosalynn
 Carter asked three former first ladies-Lady Bird Johnson, Betty Ford
 and Pat Nixon-to join her as convenors of the symposium. All agreed,
 although health problems prevented the latter two from actually
 attending the conference.</p>
-          <p id="sc10-2_10309">Nancy Reagan was also invited to be a convenor. She
+          <p xml:id="sc10-2_10309">Nancy Reagan was also invited to be a convenor. She
 declined-understandably. For while attempts were 
-<pb id="sc10-2_10308" n="2"/>
+<pb xml:id="sc10-2_10308" n="2"/>
 made to keep the
 conference scholarly and non-partisan, there was no way to avoid
 comparisons of women's generally forward progress during preceding
@@ -2293,136 +2250,136 @@ Reagan years. It was similarly impossible not to wonder what a change
 in White House tenants may mean for the future of issues like the
 Equal Rights Amendment, which was defeated three states short of
 ratification in 1982.</p>
-          <p id="sc10-2_10310">"We've become comfortable with our prejudices," noted
+          <p xml:id="sc10-2_10310">"We've become comfortable with our prejudices," noted
 Rosalynn Carter in a pre-symposium press conference. "We need to be
 inspired to make our country better. I hope that's something the next
 election can do."</p>
-          <p id="sc10-2_10311">Though none of the presidential candidates attended the symposium
+          <p xml:id="sc10-2_10311">Though none of the presidential candidates attended the symposium
 (being busy campaigning in New Hampshire at the time), the organizers
 no doubt hoped to catch their attention by scheduling the event less
 than a month before Super Tuesday. They at least caught the attention
 of the media: 150 reporters and radio and TV people swarmed around the
 hotel where the conference was held-a surprisingly large number for a
 conference on women.</p>
-          <p id="sc10-2_10312">But then there were some big drawing cards: Supreme Court Justice
+          <p xml:id="sc10-2_10312">But then there were some big drawing cards: Supreme Court Justice
 Sandra Day O'Connor and former Vice-Presidential candidate Geraldine
 Ferraro. Their presence drew attention to how far women have come
 since 1870, when Myra Bradwell was denied a license to practice law
 because she was a woman, and 1872, when Susan B. Anthony was arrested
 for trying to vote.</p>
-          <p id="sc10-2_10314">Women still have a long way to go, however. As Coretta Scott King
+          <p xml:id="sc10-2_10314">Women still have a long way to go, however. As Coretta Scott King
 noted in her address to conference participants, if black women were
 represented in Congress in proportion to their numbers in the general
 population, there would be 
-<pb id="sc10-2_10313" n="3"/>
+<pb xml:id="sc10-2_10313" n="3"/>
 thirty black women in the U.S. House of
 Representatives and seven Senators. Instead, there is only one black
 woman in Congress: Rep. Cardiss Collins of Illinois.</p>
-          <p id="sc10-2_10315">Many conference speakers pushed for women's increased involvement
+          <p xml:id="sc10-2_10315">Many conference speakers pushed for women's increased involvement
 in politics, both as voters and candidates. "If you don't run, you
 can't win," was the theme of Ferraro's speech.</p>
-          <p id="sc10-2_10316">Former U.S. Rep. Bella Abzug had a unique idea for speeding up
+          <p xml:id="sc10-2_10316">Former U.S. Rep. Bella Abzug had a unique idea for speeding up
 women's access to political power. "Let's ask both parties to
 commit all open seats to women until some measure of equity is
 reached," she suggested during the closing plenary. "Let's ask
 that one Senator of the two from each state be female. Why
 not?"</p>
-          <p id="sc10-2_10317">Other speakers looked at the judicial system as an arena for
+          <p xml:id="sc10-2_10317">Other speakers looked at the judicial system as an arena for
 advancing women's rights, pointing out that it wasn't until 1971 that
 the Supreme Court used the Equal Protection Clause of the Fourteenth
 Amendment to find sex discrimination unconstitutional. Since then,
 more than fifty cases have been heard by the Court relating to hiring,
 promotions, maternity leave, disability insurance, pension rights and
 seniority.</p>
-          <p id="sc10-2_10318">"Not all such challenges have been successful," noted
+          <p xml:id="sc10-2_10318">"Not all such challenges have been successful," noted
 Justice O'Connor in her keynote speech. "But there is no question
 that the Court has now made clear that it will no longer view as
 benign archaic and stereotypic notions concerning the roles and
 abilities of males and females."</p>
-          <p id="sc10-2_10319">In the l980s, however, the number of sex discrimination cases being
+          <p xml:id="sc10-2_10319">In the l980s, however, the number of sex discrimination cases being
 heard has declined. "There are not a lot of Fourteenth Amendment
 cases left to bring," said Isabelle Pinzler, director of the
 ACLU's Women's Rights Project, in a panel discussion with other
 attorneys on the role of advocacy in promoting women's
 rights. "Without the ERA, there won't be much change."</p>
-          <p id="sc10-2_10320">Another drawback to progress through the courts was raised by
+          <p xml:id="sc10-2_10320">Another drawback to progress through the courts was raised by
 former EEOC chair Eleanor Holmes Norton: "We must depend on the
 generosity of a largely male judiciary."</p>
-          <p id="sc10-2_10321">This is especially true of federal courts. Since 1981, President
+          <p xml:id="sc10-2_10321">This is especially true of federal courts. Since 1981, President
 Reagan has filled 334 seats on the federal bench-and only twenty-seven
 of his appointees have been female.</p>
-          <p id="sc10-2_10322">So what about the Equal Rights Amendment? It was the topic of both
+          <p xml:id="sc10-2_10322">So what about the Equal Rights Amendment? It was the topic of both
 a mini-plenary ("ERA: Was It Worth It?") and a panel discussion
 ("Putting Women in the Constitution: The Future of the ERA"), and it
 was obvious from both sessions that there is no consensus on the
 future of the struggle for ratification.</p>
-          <p id="sc10-2_10323">There is not even consensus on the past. Some regard the 1972-1982
+          <p xml:id="sc10-2_10323">There is not even consensus on the past. Some regard the 1972-1982
 period of national focus on the ERA as the finest hour of the women's
 movement.</p>
-          <p id="sc10-2_10324">"Never have women learned so much and moved so fast," said
+          <p xml:id="sc10-2_10324">"Never have women learned so much and moved so fast," said
 panelist Erma Bombeck, who spent a year traveling with former White
 House Press Secretary Liz Carpenter to lobby in unratified states.</p>
-          <p id="sc10-2_10325">Others, however, resented what political scientist Janet Bowles
+          <p xml:id="sc10-2_10325">Others, however, resented what political scientist Janet Bowles
 termed the "artificial consensus" to make the ERA the
 centerpiece of the women's movement. "The demise of the ERA gave
 feminists freedom to reassess other goals," she said.</p>
-          <p id="sc10-2_10326">Eleanor Smeal, who as president of the National Organization for
+          <p xml:id="sc10-2_10326">Eleanor Smeal, who as president of the National Organization for
 Women was the strategist behind the ERA Countdown Campaign, was
 unwilling to pause to argue the past.</p>
-          <p id="sc10-2_10327">"We must go forward," she said. "The drive for total
+          <p xml:id="sc10-2_10327">"We must go forward," she said. "The drive for total
 equality is still so needed. Statutes can be reversed. Executive
 orders overturned. What we knew then intellectually, we now know
 through experience-we need a constitutional guarantee."</p>
-          <p id="sc10-2_10328">NOW, in fact, has already launched a drive for "the new ERA" and
+          <p xml:id="sc10-2_10328">NOW, in fact, has already launched a drive for "the new ERA" and
 activists were busy circulating petitions among the conference
 participants. It was the only active organizing visible-a fact that
 troubled some.</p>
-          <p id="sc10-2_10329">"It doesn't make sense to spend these resources and gather this
+          <p xml:id="sc10-2_10329">"It doesn't make sense to spend these resources and gather this
 talent without using it as a stepping stone," said Margie Pitts
 Hames, an Atlanta attorney who argued <hi rend="italic">Doe
 v. Bolton</hi>, the companion case to Roe v. Wade, which established
 the right to abortion in 1973. "I see no agenda, no plan, no
 direction. We'll go back to our various places without mobilizing the
 energy I feel here."</p>
-          <p id="sc10-2_10330">Hames and others had hoped the conference might at least generate
+          <p xml:id="sc10-2_10330">Hames and others had hoped the conference might at least generate
 some resolutions. And they were further disappointed by what they
 perceived as a decision to avoid issues like abortion rights,
 homelessness and the feminization of poverty, which were not directly
 addressed in any of the thirty-one panels or five mini-plenaries.</p>
-          <p id="sc10-2_10331">But the goals of the conference were academic, not activist;
+          <p xml:id="sc10-2_10331">But the goals of the conference were academic, not activist;
 focused, not broad. What the organizers aimed to produce was not
 resolutions and a plan of action, but some serious scholarship on the
 conference topic which will be disseminated through various
 professional journals and through a secondary school curriculum being
 developed in conjunction with the Carter Center.</p>
-          <p id="sc10-2_10332">The research generated by the conference as well as audio and video
+          <p xml:id="sc10-2_10332">The research generated by the conference as well as audio and video
 tapes of the proceedings will be maintained by the Carter Center and
 the National Archives. Georgia Public Television is also putting
 together a documentary on the conference which will be shown on PBS
 stations nationwide.</p>
-          <p id="sc10-2_10333">For most conference participants, the best part was just being
+          <p xml:id="sc10-2_10333">For most conference participants, the best part was just being
 there-in one place at one time-with women who have been Cabinet
 members and served in Congress, who have argued or been plaintiffs in
 landmark court cases, who are deans of law schools and college
 presidents.</p>
-          <p id="sc10-2_10334">"It was a real high to literally rub elbows with so many
+          <p xml:id="sc10-2_10334">"It was a real high to literally rub elbows with so many
 incredible women," said Heather Kleiner, who is working to
 revitalize the Women's Studies Program at the University of
 Georgia.</p>
-          <p id="sc10-2_10335">It was impossible to come away from such a gathering not feeling
+          <p xml:id="sc10-2_10335">It was impossible to come away from such a gathering not feeling
 empowered and energized. "This conference is a kind of political
 chicken soup," noted Bella Abzug. "It helps you get out of bed
 in the morning and say, 'I can conquer the day.'".</p>
-          <div3 id="sc10-2_036" type="About">
-            <p id="sc10-2_10336">Sharron Hannon is a Georgia-based freelancer who writes frequently on women's rights issues.</p>
+          <div3 xml:id="sc10-2_036" type="About">
+            <p xml:id="sc10-2_10336">Sharron Hannon is a Georgia-based freelancer who writes frequently on women's rights issues.</p>
           </div3>
         </div2>
-        <div2 id="sc10-2_017" n="10" type="Article">
+        <div2 xml:id="sc10-2_017" n="10" type="Article">
           <head>Starting a Worker Owned Cooperative</head>
-          <byline>By <docAuthor><name reg="Adams, Frank" type="person">Frank Adams</name></docAuthor></byline>
-          <docDate value="1988-03">Vol. 10, No. 2, 1988, pp. 20-22</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Adams, Frank</reg><sic>Frank Adams</sic></choice></name></docAuthor></byline>
+          <docDate when="1988-03">Vol. 10, No. 2, 1988, pp. 20-22</docDate>
           
-          <p id="sc10-2_10337">There are a variety of reasons for starting a worker
+          <p xml:id="sc10-2_10337">There are a variety of reasons for starting a worker
 cooperative. They include workers' desires to own and work in a
 business where human values are of equal importance to productivity
 and profits, an owner's decision to retire or sell an existing
@@ -2430,39 +2387,39 @@ business, the threat of a plant closing, or a community's
 determination to help create jobs by starting a new business. Whatever
 the reasons for starting a worker cooperative, there are several steps
 which can be taken to increase the probability of success.</p>
-          <p id="sc10-2_10338">Most new businesses, including worker-owned cooperatives, typically
+          <p xml:id="sc10-2_10338">Most new businesses, including worker-owned cooperatives, typically
 develop through four phases:</p>
-          <p id="sc10-2_10339">Organizing. A three to six-month period in which the decision to
+          <p xml:id="sc10-2_10339">Organizing. A three to six-month period in which the decision to
 organize is made.</p>
-          <p id="sc10-2_10340">Startup. A phase that usually lasts for six months in which the
+          <p xml:id="sc10-2_10340">Startup. A phase that usually lasts for six months in which the
 basic business strategy is tested.</p>
-          <p id="sc10-2_10341">Growth. A phase that may last for several years in which the
+          <p xml:id="sc10-2_10341">Growth. A phase that may last for several years in which the
 markets are expanded, management techniques and governance systems are
 refined, production techniques are altered as dictated by experience,
 and the workforce is expanded.</p>
-          <p id="sc10-2_10342">Consolidation. The phase in which the worker-owners assess their
+          <p xml:id="sc10-2_10342">Consolidation. The phase in which the worker-owners assess their
 experience in reaching the targeted growth and develop the firm's
 goals and strategies for the next three to five years.</p>
-          <p id="sc10-2_10344">During the organizing phase prospective worker-owners 
-<pb id="sc10-2_10343" n="21"/>
+          <p xml:id="sc10-2_10344">During the organizing phase prospective worker-owners 
+<pb xml:id="sc10-2_10343" n="21"/>
 must decide
 whether they really want to establish a worker cooperative. If, for
 whatever reason, you are thinking of forming a worker-owned,
 democratically controlled business, either to produce goods or provide
 services, you must ask yourselves some hard questions about your
 motivation and the risks involved.</p>
-          <p id="sc10-2_10345">Are your reasons for wanting to start a worker-owned business
+          <p xml:id="sc10-2_10345">Are your reasons for wanting to start a worker-owned business
 sound? Do you and your prospective fellow owners share a common
 understanding and enthusiasm for the venture? Do you have a viable
 business idea or concept? Is there a market for your proposed product
 or service? If so, is the market growing or shrinking?</p>
-          <p id="sc10-2_10346">Are you knowledgeable about the various legal and organizational
+          <p xml:id="sc10-2_10346">Are you knowledgeable about the various legal and organizational
 forms which can be used to set up a democratic workplace? Is a worker
 cooperative the type of business you want to set up? What about
 finances? Do you have sufficient money to start or buy a business? How
 much money will have to come out of your own pockets and where can you
 obtain the rest?</p>
-          <p id="sc10-2_10347">Worker cooperatives are for-profit businesses in which only the
+          <p xml:id="sc10-2_10347">Worker cooperatives are for-profit businesses in which only the
 firm's employees can be owners, usually after a probationary
 period. Worker cooperatives are somewhat different from consumer and
 agricultural producer cooperatives. Consumer cooperatives are owned
@@ -2473,28 +2430,28 @@ marketing cooperatives created by independent farmers to purchase farm
 supplies or process and market their products. Neither type is owned
 or controlled by its employees, and neither type sees worker ownership
 and workplace democracy as its primary objectives.</p>
-          <p id="sc10-2_10348">Worker cooperatives are usually started by more than one
+          <p xml:id="sc10-2_10348">Worker cooperatives are usually started by more than one
 person. The organizing group, or steering committee, understands and
 accepts the basic tenets of workplace democracy:</p>
-          <p id="sc10-2_10349">~ Every worker-owner owns one membership share which entitles
+          <p xml:id="sc10-2_10349">~ Every worker-owner owns one membership share which entitles
 him/her to vote in the election of a board of directors and to
 participate in self-governance;</p>
-          <p id="sc10-2_10350">~ All worker-owners contribute both labor and capital; No one
+          <p xml:id="sc10-2_10350">~ All worker-owners contribute both labor and capital; No one
 outside the firm can be an owner. Profits earned or losses sustained
 are allocated to worker-owners according to hours worked, gross pay,
 or both;</p>
-          <p id="sc10-2_10351">~ Wages vary according to skill and seniority, but usually the
+          <p xml:id="sc10-2_10351">~ Wages vary according to skill and seniority, but usually the
 range between the highest and lowest paid workers and managers does
 not exceed a ratio of 5:1. This fosters the well-being of the entire
 group and insures that a few do not get rich in comparison with, or at
 the expense of, the lower paid workers.</p>
-          <p id="sc10-2_10352">Reading and agreeing with these tenets is easy, but putting them
+          <p xml:id="sc10-2_10352">Reading and agreeing with these tenets is easy, but putting them
 into practice in a business is tough. The fundamentals of
 worker-ownership are almost self-defining, but because most workers
 have had little or no experience owning or managing their workplace,
 putting these principles into practice requires experimentation,
 patience, and attention to fairness.</p>
-          <p id="sc10-2_10353">In order to fully understand worker cooperatives, it is necessary
+          <p xml:id="sc10-2_10353">In order to fully understand worker cooperatives, it is necessary
 to talk about the relationship of money and ownership to employees and
 workers. Money is needed to organize a worker with materials and a
 place to work, to meet the expenses of daily operation, and to use
@@ -2502,20 +2459,20 @@ when the going gets tough or business recessions occur. Whoever puts
 up the money to start the business becomes an owner and holds equity
 in the enterprise. These investors take the financial risks and earn
 the financial rewards of entrepreneurship.</p>
-          <p id="sc10-2_10354">In a traditional for-profit capitalist corporation, the degree of
+          <p xml:id="sc10-2_10354">In a traditional for-profit capitalist corporation, the degree of
 control is directly related to the equity held by the individual
 investor. Investors do not have to work in the business to exercise
 the rights of control. Dividends on the net profits of the business
 are paid out to the stockholders according to the size of their equity
 investment as denominated in the number of shares they own.</p>
-          <p id="sc10-2_10356">Unlike traditional capitalist corporations, worker cooperatives
+          <p xml:id="sc10-2_10356">Unlike traditional capitalist corporations, worker cooperatives
 give workers control of the business on a one person-one vote basis
 without regard to their level of equity except for the membership fee
 paid by each worker-member upon joining. The membership fee is a
 capital contribution equal to the contribution of every other member,
 which puts the new member at equal risk with fellow worker-owners. The
 balance sheet of a worker cooperative differs in several 
-<pb id="sc10-2_10355" n="22"/>
+<pb xml:id="sc10-2_10355" n="22"/>
 ways from a
 traditional firm where capital controls labor. In a pure labor-managed
 cooperative only workers are shareholders, and each owns only one
@@ -2531,16 +2488,16 @@ these accounts is the membership or equity contribution made by each
 member upon joining the cooperative. These internal accounts are the
 repository of the economic rights of the worker-owners. They derive
 from the contribution of labor, not the purchase of stock shares.</p>
-          <p id="sc10-2_10357">The worker cooperative system of internal accounts generates
+          <p xml:id="sc10-2_10357">The worker cooperative system of internal accounts generates
 internal debt capital for expansion and modernization, creates
 reserves against recessions, and provides worker-members with a share
 of equity.</p>
-          <p id="sc10-2_10358">It is largely through the internal, individual accounts system that
+          <p xml:id="sc10-2_10358">It is largely through the internal, individual accounts system that
 a worker cooperative raises the owner's share of risk capital to start
 a business and generates the internal debt capital to run a
 business. The internal accounts also help effectuate the principles of
 workplace democracy.</p>
-          <p id="sc10-2_10359">Another unique feature of work cooperatives is their policy of
+          <p xml:id="sc10-2_10359">Another unique feature of work cooperatives is their policy of
 employment security. They make every effort to keep their members
 employed even during economic downturns. In a conventional capitalist
 firm, workers directly involved in the production of goods and
@@ -2549,7 +2506,7 @@ demand warrants. Direct labor is determined by production, which is a
 function of sales and the desired level of inventory investment. If
 sales decline, workers are laid off or dismissed so that inventory
 does not build up too high.</p>
-          <p id="sc10-2_10360">In a worker cooperative these relationships are reversed. After a
+          <p xml:id="sc10-2_10360">In a worker cooperative these relationships are reversed. After a
 probationary period workers are either accepted into membership or
 rejected from membership and terminated. Thus the amount of labor is
 fixed, at least in the short run. Since the number of workers (and the
@@ -2557,20 +2514,20 @@ labor available) determines production, in order to match production
 with sales it is necessary to adjust inventories upward or reduce
 prices of products or services to maintain sales volume during
 economic downturns.</p>
-          <p id="sc10-2_10361">During business downturns or recessions worker cooperatives use a
+          <p xml:id="sc10-2_10361">During business downturns or recessions worker cooperatives use a
 variety of techniques to maintain employment levels and prevent
 layoffs. Worksharing, aggressive sales efforts including reductions in
 prices, and ultimately shared reductions in income, may be used as
 part of the strategy of balancing the production and sales
 equation.</p>
-          <p id="sc10-2_10362">Placing people ahead of profits in a worker cooperative increases
+          <p xml:id="sc10-2_10362">Placing people ahead of profits in a worker cooperative increases
 the importance of the planning process and of maintaining a flexible
 workforce; it also accentuates the need for good management. These are
 the same employment security principles which have used so
 successfully during the past two decades by a few enlightened American
 firms, and by the Basque worker cooperatives in Spain.</p>
-          <div3 id="sc10-2_037" type="About">
-            <p id="sc10-2_10363">Frank Adams is author of <title>Putting
+          <div3 xml:id="sc10-2_037" type="About">
+            <p xml:id="sc10-2_10363">Frank Adams is author of <title>Putting
 Democracy to Work</title>, a practical guide to worker
 cooperatives.</p>
           </div3>
@@ -2578,4 +2535,4 @@ cooperatives.</p>
       </div1>
     </body>
   </text>
-</TEI.2>
+</TEI>
