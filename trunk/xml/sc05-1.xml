@@ -1,30 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc05-1_1204">
-  <teiHeader id="sc05-11201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc05-1_1204">
+  <teiHeader xml:id="sc05-11201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 5, Number 1</title>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>staff</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc05-1_002">http://pid.emory.edu/ark:/25593/1483j</idno>
-            <idno type="ark" n="sc05-1_003">http://pid.emory.edu/ark:/25593/1484p</idno>
-            <idno type="ark" n="sc05-1_004">http://pid.emory.edu/ark:/25593/1485t</idno>
-            <idno type="ark" n="sc05-1_005">http://pid.emory.edu/ark:/25593/1486z</idno>
-            <idno type="ark" n="sc05-1_006">http://pid.emory.edu/ark:/25593/14873</idno>
-            <idno type="ark" n="sc05-1_007">http://pid.emory.edu/ark:/25593/14887</idno>
-            <idno type="ark" n="sc05-1_008">http://pid.emory.edu/ark:/25593/1489c</idno>
-            <idno type="ark" n="sc05-1_009">http://pid.emory.edu/ark:/25593/148bh</idno>
-            <availability>
-          <p id="sc05-1_101">1996 Emory
+        </address><idno type="ark" n="sc05-1_002">http://pid.emory.edu/ark:/25593/1483j</idno><idno type="ark" n="sc05-1_003">http://pid.emory.edu/ark:/25593/1484p</idno><idno type="ark" n="sc05-1_004">http://pid.emory.edu/ark:/25593/1485t</idno><idno type="ark" n="sc05-1_005">http://pid.emory.edu/ark:/25593/1486z</idno><idno type="ark" n="sc05-1_006">http://pid.emory.edu/ark:/25593/14873</idno><idno type="ark" n="sc05-1_007">http://pid.emory.edu/ark:/25593/14887</idno><idno type="ark" n="sc05-1_008">http://pid.emory.edu/ark:/25593/1489c</idno><idno type="ark" n="sc05-1_009">http://pid.emory.edu/ark:/25593/148bh</idno><availability>
+          <p xml:id="sc05-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -37,90 +26,66 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1983-01">January-February 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date when="1983-01">January-February 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc05-1_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc05-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1998</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc05-1_1203">
-    <body id="sc05-1_1202">
-      <div1 id="sc05-1_001" n="Southern Changes 5:1" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc05-1_1203">
+    <body xml:id="sc05-1_1202">
+      <div1 xml:id="sc05-1_001" n="Southern Changes 5:1" type="Issue">
         <head>Southern Changes.  Volume 5, Number 1, 1983</head>
-        <p id="sc05-1_103"><title>Southern Changes</title>.  Volume 5, Number 1,
-	       <date value="1983-01">1983</date></p>
-        <div2 id="sc05-1_002" n="7" type="Review">
+        <p xml:id="sc05-1_103"><title>Southern Changes</title>.  Volume 5, Number 1,
+	       <date when="1983-01">1983</date></p>
+        <div2 xml:id="sc05-1_002" n="7" type="Review">
           <head>Elephants in the Cottonfields</head>
-          <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Williams, Randall</reg><sic>Randall Williams</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 19-20</docDate>
           
           <bibl><title>Elephants in the Cottonfields: Ronald Reagan and the New
 Republican South.</title> Wayne Greenhaw. Macmillan, 1982.</bibl>
-          <p id="sc05-1_104">The growing strength of the Republican party in Dixie has taken
+          <p xml:id="sc05-1_104">The growing strength of the Republican party in Dixie has taken
 many Democrats by both storm and surprise, but the
 G.O.P. muscle-building did not begin yesterday. Explaining this fact
 is only one of the services performed here by author Wayne Greenhaw,
 though if he had accomplished nothing else <title>Elephants</title>
 would still bee success.</p>
-          <p id="sc05-1_105">In fact the book offers a great deal more. Greenhaw has assembled
+          <p xml:id="sc05-1_105">In fact the book offers a great deal more. Greenhaw has assembled
 detailed profiles of the leading personalities behind the Republican
 surge; he manages to give us a picture of the situation in every
 Southern state, and his interviews with young voters reveal what the
 South's political future might be if many Republican dreams--and
 Democratic nightmares--are realized.</p>
-          <p id="sc05-1_106">In that sense, Greenhaw's book is non-partisan political reportage;
+          <p xml:id="sc05-1_106">In that sense, Greenhaw's book is non-partisan political reportage;
 both Democrats and Republicans will come away from
 <title>Elephants</title> knowing much more about their respective
 parties.</p>
-          <p id="sc05-1_107">There is plenty of history here that never gets taught in many
+          <p xml:id="sc05-1_107">There is plenty of history here that never gets taught in many
 Southern schools. Greenhaw starts at the beginning, with the Southern
 reaction to the formation of the Republican party. Then he moves
 ahead, through secession, through war, then Reconstruction, then the
 return to power in the South of white Democrats.</p>
-          <p id="sc05-1_108">Of more immediate interest is the examination of how Goldwater
+          <p xml:id="sc05-1_108">Of more immediate interest is the examination of how Goldwater
 fever hit the South in 1964. Here Ronald Reagan appeared for the first
 time, and Richard Nixon returned, and the groundwork was laid for the
 first real two-party politics in the South in one hundred years.</p>
-          <p id="sc05-1_109">Greenhaw writes that this was no accident but an indicator of the
+          <p xml:id="sc05-1_109">Greenhaw writes that this was no accident but an indicator of the
 polarization within the Democratic party over racial issues. Strom
 Thurmond was not the only Democrat converting to Republicanism out of
 a belief that the South was being forced by national Democrats into a
 Second Reconstruction.</p>
-          <p id="sc05-1_1010">But as white Southern Democrats abandoned their party, blacks moved
+          <p xml:id="sc05-1_1010">But as white Southern Democrats abandoned their party, blacks moved
 into it. (The quotes by George Wallace--the '64 model--on this
 development are intriguing.) More than ninety percent of blacks voted
 Democratic in 1964, signaling the extent to which Lincoln's party and
 the Democrats had switched roles.</p>
-          <p id="sc05-1_1011"><title>Elephants</title> is a contemporary story from this point
+          <p xml:id="sc05-1_1011"><title>Elephants</title> is a contemporary story from this point
 on, and begins to be peopled by familiar characters. Here for example
 is Jesse Helms, who began as "a soda jerk at the local drugstore,
 sweeping out the weekly <title>Monroe Enquirer</title>, and writing up
@@ -128,7 +93,7 @@ the high school (athletic games)," and eventually became a newspaper,
 radio and television personality, which gave him the platform he
 needed to become a well-known conservative voice in the "tobacco
 valleys of eastern North Carolina."</p>
-          <p id="sc05-1_1012">Thousands of words have been written about Helms, but few have as
+          <p xml:id="sc05-1_1012">Thousands of words have been written about Helms, but few have as
 carefully explored his early career and the foundation of his
 astonishing political popularity built around a philosophy of
 negativism . . . "He has always against something, whether it was food
@@ -137,14 +102,14 @@ government-paid abortions for women who could not otherwise afford
 such drastic measures of birth control." Meanwhile, adds Greenhaw,
 "federal support for tobacco farmers was a necessity as (Helms) viewed
 it. Besides, his wife had a tobacco allotment."</p>
-          <p id="sc05-1_1013">Similarly profiled is Jeremiah Denton, the junior senator from
+          <p xml:id="sc05-1_1013">Similarly profiled is Jeremiah Denton, the junior senator from
 Alabama who rode his reputation as a Vietnam war hero into the
 Capitol. Both Denton and Helms are important to any discussion of
 Republicans today, but they do not represent the entire party. In
 fact, the detail with which Elephants examines the extreme right,
 especially the religious right, reveals the serious differences which
 exist within the Republican party.</p>
-          <p id="sc05-1_1014">Representing another faction of the GOP is Tennessee's Howard
+          <p xml:id="sc05-1_1014">Representing another faction of the GOP is Tennessee's Howard
 Baker, through whom Greenhaw illustrates the "new old Republican
 order." Baker's Senate seat adjoins those of both Helms and Denton,
 but his brand of Republicanism may as well be from another
@@ -152,48 +117,48 @@ planet. While Helms was reading segregationist editorials over the air
 in North Carolina in the Sixties, Baker was studiously keeping to the
 middle of the road, voting against federal funds for busing but for
 all major civil rights legislation.</p>
-          <p id="sc05-1_1015">Greenhaw's skill as a reporter has never been more evident than in
+          <p xml:id="sc05-1_1015">Greenhaw's skill as a reporter has never been more evident than in
 the chapter he does on Lee Atwater, the South Carolina protege of
 Thurmond who ramrodded the Reagan campaign in the South and in his
 spare time managed the campaigns of six Republican congressional
 candidates (all six won).</p>
-          <p id="sc05-1_1016">Atwater is the master--and originator, he says--of the Negative
+          <p xml:id="sc05-1_1016">Atwater is the master--and originator, he says--of the Negative
 Factor Theory of politics. This theory is put into practice through a
 simple technique: Never mind the issues, just raise lots of money,
 find dirt on the opponent, then publicize the hell out of it. If no
 dirt exists, invent some.</p>
-          <p id="sc05-1_1018">This chapter should be memorized by any Democrat planning to run
+          <p xml:id="sc05-1_1018">This chapter should be memorized by any Democrat planning to run
 for office in what used to be the Solid South. However, Greenhaw
 writes not just about Atwater's strategies, but about the man
 himself. In fact, he peels Atwater like an onion, layer by layer, yet
 he does 
-<pb id="sc05-1_1017" n="20"/>
+<pb xml:id="sc05-1_1017" n="20"/>
 it in such a way that probably no one will enjoy that chapter
 more than Atwater himself.</p>
-          <p id="sc05-1_1019">Greenhaw makes no projections for the future success or failure of
+          <p xml:id="sc05-1_1019">Greenhaw makes no projections for the future success or failure of
 Atwater and his Republican colleagues. He acknowledges that although
 Republicans are growing in strength, Democrats generally still control
 the South but with a looser grip than before.</p>
-          <p id="sc05-1_1020">What will become of the young Republicans who call themselves
+          <p xml:id="sc05-1_1020">What will become of the young Republicans who call themselves
 progressives, or the New Right apostles who viewed Reagan's election
 as a mandate for them? That remains to be seen, of course, but
 Greenhaw has given us a good look at the landscape.</p>
-          <div3 id="sc05-1_022" type="About">
-            <p id="sc05-1_1021">Randall Williams, a writer and editor who lives in
+          <div3 xml:id="sc05-1_022" type="About">
+            <p xml:id="sc05-1_1021">Randall Williams, a writer and editor who lives in
 Montgomery, is a Yellow-dog Democrat.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_003" n="8" type="Review">
+        <div2 xml:id="sc05-1_003" n="8" type="Review">
           <head>The Smithsonian Collection of Classic Country
 Music</head>
-          <byline>By <docAuthor><name reg="Whisnant, David E." type="person">David E. Whisnant</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Whisnant, David E.</reg><sic>David E. Whisnant</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 20-24</docDate>
           
           <bibl><title>The Smithsonian Collection of Classic Country
 Music,</title> selected and annotated by Bill Malone (Washington,
 D.C.: Smithsonian Institution, 1981). Eight LP or cassette set, boxed,
 with 55 pp. illustrated brochure. $54.95.</bibl>
-          <p id="sc05-1_1022"><title>Classic Country Music</title>, prepared by Bill C. Malone
+          <p xml:id="sc05-1_1022"><title>Classic Country Music</title>, prepared by Bill C. Malone
 for the Smithsonian Institution, takes one back to the clear
 headwaters: the first commercial hillbilly recording (Eck Robertson's
 "Sally Gooden" for Victor in 1922); the first big sellers (Vernon
@@ -209,7 +174,7 @@ example of mandolin cross-picking (Jim and Jesse's "Are You Missing
 Me" of 1952), and so on. Altogether a hundred and forty-three tunes,
 from Fiddlin' John Carson and the Stonemans to Tammy, Willie, Merle
 and Dolly. "Funny," as Willie sings, "How Time Slips Away."</p>
-          <p id="sc05-1_1023">So friends, don't delay. This offer is good for a limited time
+          <p xml:id="sc05-1_1023">So friends, don't delay. This offer is good for a limited time
 only. Send your check or money order for $54.95 TODAY to "Smithsonian,
 Washington, D.C. 20560." That's S-M-I-T-H-S-O-N-I-A-N, <hi rend="italic">Washington</hi>, D.C., two oh five, six oh. The first one
 hundred orders will receive, <hi rend="italic">in addition</hi> to these
@@ -226,17 +191,17 @@ wailing dobro, Lulu Belle and Scotty's "Remember Me (When the Candle
 Lights Are Gleaming)," and many, many more. It's an opportunity you
 <hi rend="italic">can't afford</hi> to miss. So send today. If you are
 not <hi rend="italic">completely</hi> satisfied, your money will be <hi rend="italic">cheerfully</hi> refunded.</p>
-          <p id="sc05-1_1025">Well, I "sent away," as they used to say in the days of boxtops,
+          <p xml:id="sc05-1_1025">Well, I "sent away," as they used to say in the days of boxtops,
 and I am indeed (almost) completely satisfied. Bill Malone has done,
 on the whole, an excellent job; it would be folly to expect that his
 (or anyone's) 143 choices 
-<pb id="sc05-1_1024" n="21"/>
+<pb xml:id="sc05-1_1024" n="21"/>
 (from a few tens of thousands) could ever
 satisfy everyone. Someone could always ask why this tune and not that
 one? So the task here is not to quibble about individual tunes, but to
 ask how well the eight records reflect the complicated and dynamic
 history of country music.</p>
-          <p id="sc05-1_1026">One the whole, very well indeed. Malone's strong and sensitive
+          <p xml:id="sc05-1_1026">One the whole, very well indeed. Malone's strong and sensitive
 commentary, arising from his recollections of growing up with country
 music as a poor boy in east Texas, is written with the grace and depth
 and gentleness that come from knowing--as most country songs tell
@@ -254,7 +219,7 @@ revival--cuts across several of the latter chronological
 periods. Malone's historical essay is supplemented by extensive
 discographical, historical and interpretative notes on each
 selection.</p>
-          <p id="sc05-1_1027">In his essay and notes, Malone surveys some of the major social,
+          <p xml:id="sc05-1_1027">In his essay and notes, Malone surveys some of the major social,
 political and economic factors that have shaped the music:
 developments in the radio, recording and television industries; the
 Depression and World War II; the urban folk revival; the movement of
@@ -271,7 +236,7 @@ tunes by copyrighted material; the gradual evolution from fiddle,
 banjo and guitar to drums, dobro, and pedal steel; and the
 technological drift from single takes on wax to twenty-four track
 taping, mixing, and overdubbing.</p>
-          <p id="sc05-1_1028">By selecting carefully from Malone's 143 tunes, one can also
+          <p xml:id="sc05-1_1028">By selecting carefully from Malone's 143 tunes, one can also
 assemble some interesting "sub-histories" of country music. One can
 follow to some extent the emergence of women performers, from the Coon
 Creek Girls through Patsy Montana and Molly O'Day to Patsy Cline and
@@ -290,7 +255,7 @@ between the older family-based groups and the newer luxury bus-owning
 stars--the last remnant of the close rural family before its final
 atomization, the archetypal (Jacob and Esau) binary pair struggling
 for unity and harmony against the fragmenting forces of a culture.</p>
-          <p id="sc05-1_1029">A fine collection, then, and a fine job of selection and
+          <p xml:id="sc05-1_1029">A fine collection, then, and a fine job of selection and
 presentation, terms of both and order Malone brings to it, and the
 other interpretative orderings it invites. Still, there are some
 problems that go beyond quibbling about "significant" (read favorite)
@@ -309,22 +274,22 @@ seriously under-represented in view of its prominence among those
 people who gave birth to and sustained country music. Virtually every
 country music radio or television show ever broadcast, after all,
 included at least one gospel song.</p>
-          <p id="sc05-1_1030">One also wonders why there is not a single example of country
+          <p xml:id="sc05-1_1030">One also wonders why there is not a single example of country
 blues, which admittedly was not featured on the major country music
 radio stations or barn dances, but which was every bit as important a
 part of the country music scene after 1920--both as separate idiom
 as influence on white performers--as were southern mountain string
 bands. Indeed, Malone himself treats these performers in his
 <title>Southern Music American Music</title> (1979).</p>
-          <p id="sc05-1_1032">But finally the larger questions beckon: why, toward what ends, and
+          <p xml:id="sc05-1_1032">But finally the larger questions beckon: why, toward what ends, and
 with what effect has the Smithsonian at long last ventured to dip its
 elite toe into the waters of commercial country music? The institution
 has been 
-<pb id="sc05-1_1031" n="22"/>
+<pb xml:id="sc05-1_1031" n="22"/>
 there since 1846, after all, and could well have documented
 at first hand most of the now long lost traditions from which country
 music draws its styles and idioms.</p>
-          <p id="sc05-1_1033">Why didn't it? Partly because its directors have almost always been
+          <p xml:id="sc05-1_1033">Why didn't it? Partly because its directors have almost always been
 natural scientists with at best a limited interest in humanistic or
 artistic matters. The Smithsonian's most significant foray into
 cultural work (prior to the 1960s, anyway) was the Bureau of
@@ -338,7 +303,7 @@ take what would appear to have been the logical step of moving from
 studying Indian life and culture to studying the rich and diverse
 culture of the country's many immigrant and enclaved cultural
 groups.</p>
-          <p id="sc05-1_1034">That did not mean that such studies fared poorly within federal
+          <p xml:id="sc05-1_1034">That did not mean that such studies fared poorly within federal
 institutions supposedly concerned with culture. The Library of
 Congress established its Archive of Folk Song in 1928, but it was (and
 remains to this day) small and poorly funded, particularly in
@@ -352,7 +317,7 @@ culture. The first major policy affirmation of federal commitment to
 the recognition of traditional culture (the American Folklife
 Preservation Act) was signed into law at the opening of the nation's
 two hundredth year.</p>
-          <p id="sc05-1_1035">Meanwhile, since the mid-1960s, the Smithsonian has been inching
+          <p xml:id="sc05-1_1035">Meanwhile, since the mid-1960s, the Smithsonian has been inching
 toward a rather tentative involvement with non-elite culture. It
 staged its first Festival of American Folklife in 1967, and opened a
 neighborhood museum in the mostly black District of Columbia suburb of
@@ -362,7 +327,7 @@ City was set up virtually in the front yard of the Smithsonian) and
 the urgings of a few individuals who had become infatuated by
 traditional music during the "folk revival" of the preceding
 decade.</p>
-          <p id="sc05-1_1036">If one looks closely at the institution's tentative gestures toward
+          <p xml:id="sc05-1_1036">If one looks closely at the institution's tentative gestures toward
 the culturally unwashed, however, they generally prove to have
 substantial ties to the old elitism. The Smithsonian's first major
 phonograph record issuing project was its six-record <title>Classic
@@ -377,7 +342,7 @@ country music became <hi rend="italic">chic</hi>, and designer-jeaned
 and powder blue cowboy-hatted Junior Leaguers began to listen to
 bluegrass and pump quarters into mechanical broncos at scores of
 Gilley's replicas all across the country.</p>
-          <p id="sc05-1_1037">Even at that, there are signs that the Smithsonian released
+          <p xml:id="sc05-1_1037">Even at that, there are signs that the Smithsonian released
 <title>Classic Country Music</title> with some sense of
 peril. Consider, for example, the preface to the fifty-six page
 brochure, supplied by the Smithsonian's Division of Performing Arts,
@@ -394,7 +359,7 @@ country music in terms more precise and analytically useful than those
 employed by disc jockeys and fans, most of whom couldn't care less
 whether Freddie Fender's "I'll Be There (Before the Next Teardrop
 Falls)" is atrophic or not.</p>
-          <p id="sc05-1_1038">As in so many cases, however, the technical terminology quickly
+          <p xml:id="sc05-1_1038">As in so many cases, however, the technical terminology quickly
 proves to be something of a mask for value judgments. The preface in
 fact uses musicological terminology partly to dignify music which
 someone et the Smithsonian apparently still judges to lack its own
@@ -406,7 +371,7 @@ played in a. "classical style," but are "struck," "twanged,"
 "artificial refinement." Subject matter leans toward "cynicism and
 wish-fulfillment" (rather like <title>Don Juan</title> or
 <title>Madame Butterfly</title>, one supposes).</p>
-          <p id="sc05-1_1039">The most obvious problem with such evaluations is that they simply
+          <p xml:id="sc05-1_1039">The most obvious problem with such evaluations is that they simply
 will not wash--unless one can reasonably describe Don Reno as
 "twanging," Vassar Clements and Clark Kessinger as "scraping," Jim
 Reeves' voice as "rough-edged," and Tom T. Hall's songs as lacking
@@ -417,7 +382,7 @@ bunch of strikers, twangers, scrapers, and flailers, Eck Robertson,
 Lilly Mae Ledford, Bill Monroe, Merle Travis, Chet Atkins, Earl
 Scruggs, Vassar Clements and their like manage to achieve a rather
 dazzling level of instrumental virtuosity.</p>
-          <p id="sc05-1_1041">A more important matter, however, is that in modern society, public
+          <p xml:id="sc05-1_1041">A more important matter, however, is that in modern society, public
 institutions such as the Smithsonian have considerable power to
 legitimize or de-legitimize certain cultural forms and expressions--to
 prescribe how and in what terms they shall be understood, and to
@@ -426,7 +391,7 @@ conferred. In this set of records, it seems to me, the Smithsonian has
 sent the public a mixed message: country music is a "truly democratic"
 art form (as they tell us) which by now even the more timid an'
 conventional amongst us can safely listen to in public, but 
-<pb id="sc05-1_1040" n="23"/>
+<pb xml:id="sc05-1_1040" n="23"/>
 it is
 withal a little scrape-y and twangy. And so we must distance ourselves
 from it, and confine our admiration of it to those aspects which can
@@ -438,7 +403,7 @@ might write to a wealthy and sophisticated friend back home in Boston
 or Marin County after one's elegant cruise ship has docked briefly at
 a funky cultural port. Oh, Millicent, the music of those people was
 simply so wonderfully primitive and wild!</p>
-          <p id="sc05-1_1042">In such a situation, those of us who can't afford the cruise would
+          <p xml:id="sc05-1_1042">In such a situation, those of us who can't afford the cruise would
 do well to keep at least a couple of things straight. Historically,
 poor and working people in this country have kept hillbilly, country,
 Cajun, blues, and gospel music alive <hi rend="italic">in the face of a
@@ -451,7 +416,7 @@ respect for the audience which gave the music birth and sustained
 it. It took an avalanche of designer jeans to do that. The weather
 vane that tops one of the castellated towers at 1000 Jefferson Drive
 isn't there for nothing.</p>
-          <p id="sc05-1_1043">That is one thing to remember. The other is this: country music has
+          <p xml:id="sc05-1_1043">That is one thing to remember. The other is this: country music has
 not only been nurtured and sustained by poor and working people with
 precious little assistance or approval from their own tax-supported
 public institutions, but it has also until recently been studied,
@@ -467,7 +432,7 @@ enterprise--one might almost say the political posture that informs
 it--is a spirit (and posture) of love, of <hi rend="italic">self</hi>-affirmation, of resistance, of advocacy, of
 defiant somebody too-ness. As such, it is invaluable and
 irreplaceable.</p>
-          <p id="sc05-1_1044">At length, then, it is less important that <title>Classic Country
+          <p xml:id="sc05-1_1044">At length, then, it is less important that <title>Classic Country
 Music</title> was issued (re-issues are plentiful, after all) than
 that the Smithsonian commissioned Bill Malone to do it. The energy
 that Malone has poured into country music scholarship for twenty
@@ -475,28 +440,28 @@ years--the very perspective he brings to it--comes ultimately from the
 physical, social, and cultural landscape of east Texas. That
 perspective both informed his choice of tunes and shaped his
 language:</p>
-          <p id="sc05-1_1046">
-            <q direct="unspecified">When my brother came home on his last furlough before going
+          <p xml:id="sc05-1_1046">
+            <q>When my brother came home on his last furlough before going
 overseas, he, my mother, another brother, and I sat around the Spring
 Street Bowling Alley watching the bowlers (pleasures were often simple
 and cheap for the poor) and waiting for the Trailways bus that would
 take him back to camp. I do not know </q>
-            <pb id="sc05-1_1045" n="24"/>
-            <q direct="unspecified">what thoughts ran through his
+            <pb xml:id="sc05-1_1045" n="24"/>
+            <q>what thoughts ran through his
 mind, but the possibility of not returning must have been one of
 them.</q>
           </p>
-          <p id="sc05-1_1047">The brother keeps feeding nickels into the jukebox, listening over
+          <p xml:id="sc05-1_1047">The brother keeps feeding nickels into the jukebox, listening over
 and over to the 1941 hit "When My Blue Moon Turns to Gold Again,"
 which Malone calls "a song of parting and of hoped-for
 reconciliation."</p>
-          <p id="sc05-1_1048">If the issuing of <title>Classic Country Music</title> betokens the
+          <p xml:id="sc05-1_1048">If the issuing of <title>Classic Country Music</title> betokens the
 beginning of a cultural reconciliation between the Smithsonian (indeed
 the whole federal cultural establishment)and the little people
 dropping quarters into jukeboxes in bus stations and bowling alleys
 all across the land, it is an event of not only musical but also
 profound social significance.</p>
-          <p id="sc05-1_1049">One of the worst sins a reviewer can commit is to judge a piece of
+          <p xml:id="sc05-1_1049">One of the worst sins a reviewer can commit is to judge a piece of
 work by irrelevant criteria, or to condemn it for not being what it
 does not pretend to be. <title>Classic Country Music</title> was not
 designed as a scholarly treatise. If one wants more extensive
@@ -507,14 +472,14 @@ the Blue Sky Boys, or the Sons of the Pioneers, one may turn to the
 fine albums produced by the tiny private John Edwards Memorial
 Foundation. If it is more intensive analysis one desires, that also is
 available.</p>
-          <p id="sc05-1_1050">The only fair question one may finally ask is whether
+          <p xml:id="sc05-1_1050">The only fair question one may finally ask is whether
 <title>Classic Country Music</title> does what it may reasonably be
 expected to do to entertain and educate the rather select group who
 will even know it exists, and who can afford to lay down the
 fifty-five dollars. And beyond that, whether it is a reliable document
 to place in the thousands of community and school libraries that will
 probably acquire it.</p>
-          <p id="sc05-1_1051">My own answer--not in any way intended either to belittle Malone's
+          <p xml:id="sc05-1_1051">My own answer--not in any way intended either to belittle Malone's
 work or to underestimate the formidable task he faced--is a qualified
 yes. The qualification has less to do with any of the objections I
 raised earlier (too much bluegrass, too little gospel, no country
@@ -524,7 +489,7 @@ are want to do upon occasion. Out of many possible examples, I mention
 two briefly: what about the "dark side" of country music, and what
 about its utility as a creative and correcting force in American
 life?</p>
-          <p id="sc05-1_1052">The dark side is almost impossible not to notice. To put it
+          <p xml:id="sc05-1_1052">The dark side is almost impossible not to notice. To put it
 bluntly, a good deal of country music has been (and remains) maudlin,
 racist, sexist, and jingoistic. Much of bluegrass in particular
 accepts (even celebrates) demeaning images of women and puerile
@@ -534,7 +499,7 @@ too, but it is another matter.) The lyrics have been cleaned up a bit
 other origins) linger to this day in fiddle and string band
 repertoire. And our every domestic or military misadventure produces
 its musical apologia on the country charts.</p>
-          <p id="sc05-1_1053">If one were to condemn every form of creative expression for its
+          <p xml:id="sc05-1_1053">If one were to condemn every form of creative expression for its
 lapses into bad taste, reactionary politics, or inhumane sentiment,
 <hi rend="italic">no</hi> form would survive (not even grand opera). The
 point is not to condemn or to dismiss, but to <hi rend="italic">understand the dialectic</hi>. Merle Haggard wrote <hi rend="italic">both</hi> "Okie from Muskogee" and "Mama's Hungry Eyes."
@@ -543,27 +508,27 @@ Lynn's coal miner's daughter memories may live on "in a cabin in
 Butcher Holler," but lately she has been doing commercials for Amax
 coal company. And Dolly doesn't wear her coat of many colors
 anymore.</p>
-          <p id="sc05-1_1054">To understand country music, the agonizing dialectic must not only
+          <p xml:id="sc05-1_1054">To understand country music, the agonizing dialectic must not only
 be faced as a feature of particular songs or individual careers; it
 must become the very foundation for analysis. Much of that task
 remains before us, and we who have grown up with the music must do it,
 or relinquish the task to those who know less about our values and
 perspectives than they need to to understand what happened between Eck
 Robertson and Willie Nelson.</p>
-          <div3 id="sc05-1_023" type="About">
-            <p id="sc05-1_1055">David E. Whisnant is professor of American Studies at the
+          <div3 xml:id="sc05-1_023" type="About">
+            <p xml:id="sc05-1_1055">David E. Whisnant is professor of American Studies at the
 University of Maryland, Baltimore County. He is the author of
 <title>All That Is Native and Fine: The Politics of Culture in an
 American Region</title> (University of North Carolina Press,
 1983).</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_004" n="1" type="Article">
+        <div2 xml:id="sc05-1_004" n="1" type="Article">
           <head>Figures of Speech--Dressed for the H Bomb</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 1-4</docDate>
           
-          <p id="sc05-1_1056">By any reasonable and fair-minded standard, our Southern members of
+          <p xml:id="sc05-1_1056">By any reasonable and fair-minded standard, our Southern members of
 Congress ought to have felt proud of the year they had as military
 procurers. Here was close to a billion dollars for Lockheed-Georgia's
 beginning production of fifty C-5B Air Force transport airplanes, a
@@ -577,27 +542,27 @@ named after the city itself. And here and there throughout the South
 were the scattered small contracts and subcontracts, like that of a
 few million dollars to Pineville, North Carolina's Aeronca,
 Incorporated, to supply titanium engine shrouds for the B-1 bomber.</p>
-          <p id="sc05-1_1057">Nor had the vigilance and resolve of these Southern statesmen gone
+          <p xml:id="sc05-1_1057">Nor had the vigilance and resolve of these Southern statesmen gone
 uncommended. At a convention of mercenaries held late in the year at
 Charlotte, General William Westmoreland saluted the signs of a rebirth
 of American fortitude. "The odds of war are exceptionally high in the
 future," said the former big gun, "but the route to peace lies in the
 ability to wage war." His audience tossed their cannisters in
 delight.</p>
-          <p id="sc05-1_1058">Despite such achievements and such blessings, and a $230 billion
+          <p xml:id="sc05-1_1058">Despite such achievements and such blessings, and a $230 billion
 military appropriations bill for 1983, the shrewder members of the
 Southern delegation felt a few shivers run through their early warning
 systems. Even before Christmas recess, these congressmen were seen
 nodding to each other. Nodding turned to huddling and then escalated
 into closeting.</p>
-          <p id="sc05-1_1060">Simply put, they had two problems: how to justify and 
-<pb id="sc05-1_1059" n="2"/>
+          <p xml:id="sc05-1_1060">Simply put, they had two problems: how to justify and 
+<pb xml:id="sc05-1_1059" n="2"/>
 secure their
 rightful share of the five year $1.6 trillion military build-up that
 President Reagan and Secretary of War Weinberger were pursuing, and
 how to deploy their counterforce to pin down and negate an
 increasingly bothersome disarmament movement.</p>
-          <p id="sc05-1_1061">When it comes to making military socks and raincoats and to
+          <p xml:id="sc05-1_1061">When it comes to making military socks and raincoats and to
 quartering troops, Southern legislators and contractors have long done
 all right by each other and may well continue to do so (see "Shaping
 the South's Pre-War Economy," <title>Southern Changes</title>,
@@ -608,7 +573,7 @@ the top seven states are Southern. The South supplies the War
 Department with textiles, tobacco, coal and food. Yet, most Southern
 states, compared with states in other regions of the U.S., sell little
 weaponry.</p>
-          <p id="sc05-1_1062">Under the Reagan-Weinberger rearmament campaign, an increasingly
+          <p xml:id="sc05-1_1062">Under the Reagan-Weinberger rearmament campaign, an increasingly
 larger proportion of the total military budget will be spent for
 weapons. For historical reasons (the old story of Southern defeat and
 colonialism and their long legacies), the South lacks the highly
@@ -620,7 +585,7 @@ percent for the Pacific states, sixteen percent for New England,
 fourteen percent for the East North Central, but only six percent for
 the East South Central and four percent for the West South Central
 states.</p>
-          <p id="sc05-1_1063">There are a few Southern congressmen, perhaps senators Pryor and
+          <p xml:id="sc05-1_1063">There are a few Southern congressmen, perhaps senators Pryor and
 Bumpers are the leading examples, whose residence in a state at the
 furthermost periphery of Pentagon contracting seems to have had a bit
 of a liberating effect. These men have grown more sceptical and more
@@ -631,24 +596,24 @@ delegation, however, has been trying to find ways to put their fingers
 on weaponry money while they; maneuver to keep their regular military
 dependents happy: "We must not let our conventional forces erode,"
 they say.</p>
-          <p id="sc05-1_1064">Even by the mega-boodle standards of corporate-state war
+          <p xml:id="sc05-1_1064">Even by the mega-boodle standards of corporate-state war
 contracting, the hardware that lies within the horizon of the 1980's
 is an enormity. By 1985, the Pentagon's budget (measured in constant,
 1972 dollars) will surpass that of both the Korean War and the Vietnam
 War at their peaks. In the eye of Creation, this is not to be spit
 at.</p>
-          <p id="sc05-1_1065">Not only does traditional pork barrel profit-taking make the
+          <p xml:id="sc05-1_1065">Not only does traditional pork barrel profit-taking make the
 weaponry of rearmament expensive, so does the increasing complexity of
 the products, and the extraordinary specialized resources--both human
 and natural--required for production.</p>
-          <p id="sc05-1_1066">In its military or non-military uses, technological change is
+          <p xml:id="sc05-1_1066">In its military or non-military uses, technological change is
 directed by human values. For some time now, the arms race has been
 propelled and the world jeopardized by the values of white males with
 seemingly unlimited appetites for power and vast capacities for
 suspicion and mistrust. Sophisticated systems of weaponry become
 antiquated at a faster and faster pace. "Security" keeps sliding
 away.</p>
-          <p id="sc05-1_1067">The continued unwillingness of nuclear nations to negotiate
+          <p xml:id="sc05-1_1067">The continued unwillingness of nuclear nations to negotiate
 disarmament has allowed military technicians to continue leaping the
 fences of invention. As we now stand, state-of-the-art war machinery
 is lodging itself ever deeper in the nervous system. For patrolling
@@ -657,7 +622,7 @@ become intolerably slow triggers. B52's hang on trees, clumsy plums of
 an outmoded husbandry. Instead, for example, we have hightech's high
 refinement, Stealth, a bomber so alienated that radar can't reach
 it.</p>
-          <p id="sc05-1_1068">Trends in the actual production of weapons have moved in tandem
+          <p xml:id="sc05-1_1068">Trends in the actual production of weapons have moved in tandem
 with the costs and the capabilities of the weapons
 themselves. Technological modernization (Tech Mod) by means of
 computer assisted design and manufacture (CAD/CAM) is putting the
@@ -671,15 +636,15 @@ are captured in a numerical control tape. It is relatively easy to
 train a new employee to load a tape and put material in a machine."
 Military contracting dollars shape the speed and direction of capital
 intensive Tech Mod.</p>
-          <p id="sc05-1_1070">Tech Mod may be the shaper of things to come, but shell South has
+          <p xml:id="sc05-1_1070">Tech Mod may be the shaper of things to come, but shell South has
 few manufacturers at the level of Lockheed. 
-<pb id="sc05-1_1069" n="3"/>
+<pb xml:id="sc05-1_1069" n="3"/>
 This circumstance, rather
 than gun-shyness, makes it a little easier to understand why several
 Southern congressmen seem to be moving slowly in giving their
 wholehearted support to portions of Reagan and Weinberger's proposed
 new weapons systems. Take the MX missile for instance.</p>
-          <p id="sc05-1_1071">At a late November (1982) news conference in far away Wyoming, that
+          <p xml:id="sc05-1_1071">At a late November (1982) news conference in far away Wyoming, that
 state's congressional delegation showed sheepish glee. "Senator
 Malcolm Wallop Brings Home the Big Bang," read the headline. For a
 time, one hundred MX missiles, worth from $26 billion to fifty billion
@@ -688,7 +653,7 @@ Cheyenne," said Mayor Bill Nation. "After all, the military has had a
 one hundred year relationship with the town, back to the days of the
 cavalry and old Fort Carlin. I think it's great." Blessed was the
 Peacekeeper.</p>
-          <p id="sc05-1_1072">The South, however, had little to gain from MX. The project's prime
+          <p xml:id="sc05-1_1072">The South, however, had little to gain from MX. The project's prime
 contractors--Martin Marietta, Rockwell, Northrop, Morton Thiokol,
 Boeing, Aerojet--were located in places like Colorado, California,
 Massachusetts, Utah and Washington. Realizing their need for Southern
@@ -697,21 +662,21 @@ contributions for the reelection of Florida Democrat and
 Appropriations Committee member Bill Chapell ($33,900) and Alabama
 Republican Bill Dickinson ($19,500), the ranking minority member of
 the Armed Services Committee.</p>
-          <p id="sc05-1_1073">Despite the contractors' and the Administration's efforts,
+          <p xml:id="sc05-1_1073">Despite the contractors' and the Administration's efforts,
 production of the weapon has been postponed. The Reaganites failed to
 strike sufficient terror or glamor into the hearts of members of
 Congress to give depressed Americans the Christmas gift of MX. Perhaps
 the contractors should have thrown a few meaty ribs towards Dixie. Was
 it coincidence that at the heart of the failure to get MX production
 underway was the opposition of two key Southern senators?</p>
-          <p id="sc05-1_1074">Coincidence or not, South Carolina's Ernest Hollings and Georgia's
+          <p xml:id="sc05-1_1074">Coincidence or not, South Carolina's Ernest Hollings and Georgia's
 Sam Nunn leaped on the Administration's marketing failure with MX,
 turning it into an opportunity to assume the leadership and vocabulary
 of the contingent of tough-minded friends of the Pentagon, the ones
 who do their homework and know the value of a dollar. Here, on the
 holy ground of American pragmatism, is where the battles for military
 procurement will be waged in the next few years.</p>
-          <p id="sc05-1_1075">By waving the spangled banner of industriousness, efficiency,
+          <p xml:id="sc05-1_1075">By waving the spangled banner of industriousness, efficiency,
 accountability and productivity, Hollings and Nunn (and the
 like-minded from other regions such as Ohio's John Glenn and at times,
 even Colorado's Gary Hart) seem capable of rallying a consensus and
@@ -725,7 +690,7 @@ gamesmanship, the hooked players look for a <hi rend="italic">winning
 strategy</hi> and for <hi rend="italic">high and stringent criteria</hi>
 for waging war. Such absurdity masquerades for realism in a world
 where thousands of warheads yearn for their night on the town.</p>
-          <p id="sc05-1_1076">"Most Americans," says Senator Carl Levin of Michigan, "have begun
+          <p xml:id="sc05-1_1076">"Most Americans," says Senator Carl Levin of Michigan, "have begun
 to connect military spending not with strength, but with waste." The
 ludicrous search for a secure MX basing mode has done much to help the
 public make the connection. This is where the punch card pragmatists
@@ -737,7 +702,7 @@ required," says Hollings, "if we are to maintain a strong, credible
 defense posture. Our economy has no room for procurement of a Pentagon
 wish list." His solution? Continue Pentagon spending at present levels
 plus three percent real growth per year.</p>
-          <p id="sc05-1_1077">Having gotten his multi-billion dollar C-5B airplane through
+          <p xml:id="sc05-1_1077">Having gotten his multi-billion dollar C-5B airplane through
 Congress for Lockheed and the homefolks, Senator Nunn was also ready
 to assume the stance of scrutiny. Adapting his lines from the cliche
 of a television wine commercial, he helped to stymie the MX until such
@@ -747,7 +712,7 @@ to do with it." Among his colleagues on the Armed Services Committee
 and on the Hill, the far-seeing Nunn's opinions wield considerable
 throw weight. In order to "fight recession," he is willing to "slash"
 defense spending by five or six billion dollars.</p>
-          <p id="sc05-1_1078">As an example of an imaginative proposal which Nunn says, "is
+          <p xml:id="sc05-1_1078">As an example of an imaginative proposal which Nunn says, "is
 simply dead in the present sober atmosphere," he cites Georgia
 Congressman Larry McDonald's attempt to ride the publicity plume
 thrown off by the completion and dedication of the Vietnam War
@@ -756,13 +721,13 @@ jobs program to trench away at North Georgia's Etowah Indian Mounds
 and produce a rubble and bone-filled crater as a monument to World War
 III. "It should be built now," McDonald pleaded, "so speeches can
 justify it and so there will be living tourists to visit it."</p>
-          <p id="sc05-1_1080">Nunn also disparaged Alabama Senator Jeremiah Denton's "Project
+          <p xml:id="sc05-1_1080">Nunn also disparaged Alabama Senator Jeremiah Denton's "Project
 Interface-Off." This would have posed an unblinking, laser killer
 satellite eyeball to eyeball in 
-<pb id="sc05-1_1079" n="4"/>
+<pb xml:id="sc05-1_1079" n="4"/>
 space with anything the Soviets chose
 to send up. Denton is gathering himself for another try.</p>
-          <p id="sc05-1_1081">More to Senator Nunn's liking was Strom Thurmond's promotion of a
+          <p xml:id="sc05-1_1081">More to Senator Nunn's liking was Strom Thurmond's promotion of a
 three billion dollar plutonium blender-reactor at South Carolina's
 Savannah River Plant where three reactors already produce the weapons
 grade plutonium that goes into all US nuclear warheads and bombs. "I
@@ -775,13 +740,13 @@ embarrassingly unpatriotic disclosures of two Atlanta
 <title>Constitution</title> reporters that residents near the Savannah
 River Plant have a much higher than normal incidence of Polycythemia
 vera, a rare blood disease linked to radiation exposure.</p>
-          <p id="sc05-1_1082">Other Southern congressmen have also begun to float on the rising
+          <p xml:id="sc05-1_1082">Other Southern congressmen have also begun to float on the rising
 pragmatic tide. Senator J. Bennett Johnston of Louisiana, a Democratic
 member of the Appropriations Committee, offers the Multiple Launch
 Rocket System, a mobile Army weapon that fires a dozen rockets a
 minute at targets eighteen miles away. He seeks as much of the four
 billion dollar system for his state as he can swing.</p>
-          <p id="sc05-1_1083">In Florida, St. Petersburg's Republican Congressman Bill Young,
+          <p xml:id="sc05-1_1083">In Florida, St. Petersburg's Republican Congressman Bill Young,
 noting that the bikini swimsuit was a spinoff of the atomic testing
 once done in the Pacific, has proposed that a five hundred square mile
 section of the Everglades National Wilderness be set aside as a
@@ -791,43 +756,43 @@ commercial possibilities of the inevitable fashion
 aftershock. Already, designers are toying with prototypes of the
 "Everglaze," a kind of permanent rain- and swimwear fused to the
 skin.</p>
-          <p id="sc05-1_1084">Even North Carolina Senators Helms and East are coming into phase
+          <p xml:id="sc05-1_1084">Even North Carolina Senators Helms and East are coming into phase
 with their call for authorization of Fayetteville and Fort Bragg's
 annual August Heat and Death Festival as the official 1984 World's
 Fair, or, in a compromising mood--as a kind of living, flaming
 monument of the sort Representative McDonald seeks at the Etowah
 Mounds.</p>
-          <p id="sc05-1_1085">"We like to close all our shows with a good sacred number." So
+          <p xml:id="sc05-1_1085">"We like to close all our shows with a good sacred number." So
 spoke the leader of minimalist rock band Po' White Noise one recent
 night as it rolled through Atlanta from Japhet, Georgia, lingering in
 a local bar long enough to deliver the lyrics:</p>
-          <p id="sc05-1_1086">
-            <q direct="unspecified">I'd rather die a red lizard's death on a limb Than ascend in
+          <p xml:id="sc05-1_1086">
+            <q>I'd rather die a red lizard's death on a limb Than ascend in
 that hydrogen cloud. *</q>
           </p>
-          <p id="sc05-1_1087">*"<title>Lizard On A Limb</title>," in lieu of copyright, Square
+          <p xml:id="sc05-1_1087">*"<title>Lizard On A Limb</title>," in lieu of copyright, Square
 Root Music, 1982.</p>
-          <p id="sc05-1_1088">Luckily, Senator Nunn and our elected Southern leadership never
+          <p xml:id="sc05-1_1088">Luckily, Senator Nunn and our elected Southern leadership never
 heard this cheap shot of a song from this disaffected bunch of street
 jeremiahs. In the land of promise, a way was opening. Death was the
 growth industry of the 80's and Megadeath the final index of
 productivity. The bacon would yet come home to roost.</p>
-          <div3 id="sc05-1_024" type="About">
-            <p id="sc05-1_1089"><title>Figures of Speech</title> is an occasional feature
+          <div3 xml:id="sc05-1_024" type="About">
+            <p xml:id="sc05-1_1089"><title>Figures of Speech</title> is an occasional feature
 of <title>Southern Changes</title> which grants the editor temporary
 license.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_005" n="6" type="Review">
+        <div2 xml:id="sc05-1_005" n="6" type="Review">
           <head>Black Boss: Political Revolution in a Georgia
 County</head>
-          <byline>By <docAuthor><name reg="Hanks, Lawrence J." type="person">Lawrence J. Hanks</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Hanks, Lawrence J.</reg><sic>Lawrence J. Hanks</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 16-18</docDate>
           
           <bibl><title>Black Boss: Political Revolution in a Georgia
 County.</title> John Rozier. The University of Georgia Press,
 1982.</bibl>
-          <p id="sc05-1_1090">John Rozier's <title>Black Boss</title> is a narrative of John
+          <p xml:id="sc05-1_1090">John Rozier's <title>Black Boss</title> is a narrative of John
 McCown of Hancock County, Georgia and the political revolution that
 most observers felt reached fruition in 1968, the year that blacks
 became the majority of members of the county commission. Rozier, a
@@ -837,7 +802,7 @@ fourteen years since blacks ascended to political power, yet the
 political science journals have yet to publish any analysis of the
 political changes in Hancock. Thus, <title>Black Boss</title> breaks
 new ground.</p>
-          <p id="sc05-1_1091">On leave from his post as Public Information Services director at
+          <p xml:id="sc05-1_1091">On leave from his post as Public Information Services director at
 Emory University, Rozier manages to do a thorough job of research. He
 interviewed numerous black and white Hancock citizens; he combed
 through the newspapers that covered the stories; he searched the files
@@ -847,13 +812,13 @@ the trials that were held. Rozier had sufficient information to give
 his readers a balanced story of John McCown and the political
 revolution in Hancock. The book's strength is its wealth of
 material.</p>
-          <p id="sc05-1_1092">Unfortunately, there is a serious problem with <title>Black
+          <p xml:id="sc05-1_1092">Unfortunately, there is a serious problem with <title>Black
 Boss.</title> The book has a blatant bias against McCown that
 permeates the work and inhibits the author's ability to view the
 political, social, and economic dynamics. While Rozier concentrates
 solely on the character of McCown, the changes that McCown stirred to
 life are more important historically than the man himself.</p>
-          <p id="sc05-1_1093">Although Rozier acknowledges the "widely varying views" concerning
+          <p xml:id="sc05-1_1093">Although Rozier acknowledges the "widely varying views" concerning
 McCown in his preface, he proceeds to use the negative appraisals of
 him as the central focus of the book. He never acknowledges, perhaps
 he does not realize, that he is telling one side of an extremely
@@ -868,7 +833,7 @@ move himself and his family there. His childhood in Loris, South
 Carolina, and his adolescence in Harlem taught him that only the bold,
 aggressive, and self-assured survived. These qualities became an
 integral part of his personality.</p>
-          <p id="sc05-1_1094">Hancock County was fertile soil for McCown to test his theory of
+          <p xml:id="sc05-1_1094">Hancock County was fertile soil for McCown to test his theory of
 black self-help through political participation. A devout believer in
 democratic theory, he emphasized the accountability of elected
 officials to their constituents. Moreover, he felt that political
@@ -883,7 +848,7 @@ were entitled to receive. One person could make a
 difference. Moreover, that one person, when organized with others,
 could make substantial changes. This is the legacy of McCown which
 Rozier totally neglects.</p>
-          <p id="sc05-1_1095">McCown organized the Eastern Central Committee for Opportunity
+          <p xml:id="sc05-1_1095">McCown organized the Eastern Central Committee for Opportunity
 (ECCO), a community development corporation, in 1970. By 1974, after
 having received approximately 5.5 million in private and federal aid,
 ECCO had established itself as the center of economic development in
@@ -906,7 +871,7 @@ supplied political contributions; black drivers from Hancock were
 routinely cited for violations while passing through; and on at least
 one occasion, a group of "night riders" entered the county to pay the
 ECCO headquarters a visit.</p>
-          <p id="sc05-1_1096">Much of this white reaction was due to the considerable amount of
+          <p xml:id="sc05-1_1096">Much of this white reaction was due to the considerable amount of
 political and economic power that the black community was
 gaining. Until the school desegregation squabbles of 1969 and 1970, a
 small portion of the white community supported ECCO. After the
@@ -917,10 +882,10 @@ determined to protect both. A good number of citizens, both black and
 white, carried guns at all times. For the remainder of the McCown Era,
 there would be at least two versions to practically everything that
 happened.</p>
-          <p id="sc05-1_1098">After almost four years of concerted effort to discredit ECCO and
+          <p xml:id="sc05-1_1098">After almost four years of concerted effort to discredit ECCO and
 McCown, events began to favor those opposed to ECCO. The Atlanta
 <title>Constitution</title> ran a series of 
-<pb id="sc05-1_1097" n="17"/>
+<pb xml:id="sc05-1_1097" n="17"/>
 articles (June 30, 1974 -
 July 4, 1974) which seriously questioned the legitimacy of McCown and
 the ECCO enterprises; this series had been preceded by a similar
@@ -940,7 +905,7 @@ most, John McCown, was killed in a plane crash in January 1976. Thus,
 the "McCown Era" ended with both sides unsatisfied. The anti-McCown
 group had wanted McCown to stand trial while the pro-McCown group felt
 that they had no alternative to pleading guilty.</p>
-          <p id="sc05-1_1099">In <title>Black Boss</title>, Rozier has shaped his first two
+          <p xml:id="sc05-1_1099">In <title>Black Boss</title>, Rozier has shaped his first two
 chapters, "Hancock County" and "John McCown," in a manner which
 prejudices readers thinking about the political movement in
 Hancock. First Hancock is portrayed as an unlikely place for a
@@ -956,7 +921,7 @@ contributing to the delinquency of minors, and rape. The picture has
 been painted clearly: an immoral degenerate comes to peaceful,
 idyllic, racially harmonious Hancock County and upsets the balance. In
 both instances, Rozier overstates the case.</p>
-          <p id="sc05-1_10100">Although race relations in Hancock were reputed to be relatively
+          <p xml:id="sc05-1_10100">Although race relations in Hancock were reputed to be relatively
 good, the credit for this state of affairs should not be contributed
 entirely to the good will of whites. With an overwhelming black
 population, blacks in Hancock have a history of assertion. Although
@@ -965,7 +930,7 @@ recount many stories about blacks from slavery to the present who
 challenged the authority of whites, demanded respect, and fought in
 the defense of rights. Conditions were not as peaceful as Rozier would
 have us believe.</p>
-          <p id="sc05-1_10101">Rozier's attempt to point out McCown's alleged moral weaknesses
+          <p xml:id="sc05-1_10101">Rozier's attempt to point out McCown's alleged moral weaknesses
 point to a major weakness in the book--the trustworthiness of
 anonymous sources. Moreover, much of the nonflattering information
 about McCown, e.g., his speeding tickets, his "shacking up" are simply
@@ -980,7 +945,7 @@ fact. His bias is most blatant when he has the opportunity to decide
 who is telling the truth between McCown and some other
 party. Illustrative of this is his treatment of the "arms race"
 incident and the burning of the Clinch House.</p>
-          <p id="sc05-1_10102">The "arms race" occurred in 1971 after several years of
+          <p xml:id="sc05-1_10102">The "arms race" occurred in 1971 after several years of
 tension. After hearing frequent shooting in the night, Mayor Patterson
 of Sparta, the county seat of Hancock, decided that McCown and his
 followers were practicing for a battle with the white citizens of
@@ -993,9 +958,9 @@ intervened. He convinced them both to dispose of their
 weapons. Although Rozier offers no concrete evidence that McCown or
 his followers were actually the source of the shooting, he writes
 under the assumption that McCown started the "arms race."</p>
-          <p id="sc05-1_10104">The Clinch House, an antebellum mansion, was burned while McCown
+          <p xml:id="sc05-1_10104">The Clinch House, an antebellum mansion, was burned while McCown
 was jailed during a disturbance in 
-<pb id="sc05-1_10103" n="18"/>
+<pb xml:id="sc05-1_10103" n="18"/>
 May of 1974. The house had been
 recently refurbished by the Hancock County Foundation for Historical
 Preservation; "the refurbished home was preserved as a reminder of the
@@ -1005,14 +970,14 @@ employees were guarding his jail cell, this was unlikely. In turn,
 McCown accused the mayor of "knowing something about the fire." Once
 more, without offering a shred of concrete evidence, Rozier accepts
 the anti-McCown version as fact.</p>
-          <p id="sc05-1_10105">Rozier criticizes the Thames Production Company, a British film
+          <p xml:id="sc05-1_10105">Rozier criticizes the Thames Production Company, a British film
 company, for bias in their film on the county; he also criticizes the
 <title>New Republic</title> for not being balanced in their March 6,
 1971 article on the events of the county: "the point of view of the
 McCown faction was accepted without question." It is ironic that he
 falls prey to his own criticism in reverse--he accepts without
 question the perspective of the anti-McCown faction.</p>
-          <p id="sc05-1_10106">The successful efforts for political empowerment in Hancock were
+          <p xml:id="sc05-1_10106">The successful efforts for political empowerment in Hancock were
 the source of local as well as national pride. Between 1966 and 1976,
 theory progressed to reality as blacks won every county office except
 sheriff. The stage was now set to see whether or not political power
@@ -1030,7 +995,7 @@ same number of offices. Although it has not yet happened in Hancock,
 black constituents usually grow accustomed to these nontangible
 benefits and grow apathetic if the black elected officials cannot
 convince industries to locate in the county to provide jobs.</p>
-          <p id="sc05-1_10107">The veterans of the civil rights movement greatly overemphasized
+          <p xml:id="sc05-1_10107">The veterans of the civil rights movement greatly overemphasized
 the power of the ballot to make changes. Although the Voting Rights
 Act freed blacks from legal barriers to voting, it did not remove the
 threat of economic intimidation. McCown realized that the black vote
@@ -1040,43 +1005,43 @@ Hancock, for a brief period, served as a national model for black
 political mobilization, especially in the Black-Belt South. Rozier's
 failure to critically examine the merits of this philosophy seriously
 diminishes the value of <title>Black Boss</title>.</p>
-          <div3 id="sc05-1_025" type="About">
-            <p id="sc05-1_10108">Lawrence J. Hanks is a graduate student in government at
+          <div3 xml:id="sc05-1_025" type="About">
+            <p xml:id="sc05-1_10108">Lawrence J. Hanks is a graduate student in government at
 Harvard University. He is presently studying Hancock County as part of
 his dissertation on black political participation in the rural South
 since the 1965 Voting Rights Act.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_006" n="4" type="Article">
+        <div2 xml:id="sc05-1_006" n="4" type="Article">
           <head>Myra Page: Daughter of the South, Worker for Change</head>
-          <byline>By <docAuthor><name reg="Frederickson, Mary" type="person">Mary Frederickson</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Frederickson, Mary</reg><sic>Mary Frederickson</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 10-12, 14-15</docDate>
           
-          <p id="sc05-1_10109">On a summer evening this past August, Myra Page sat surrounded by
+          <p xml:id="sc05-1_10109">On a summer evening this past August, Myra Page sat surrounded by
 books, papers and manuscripts in her home of thirty-nine years in
 Yonkers, New York, telling the tale of her most recent
 demonstration. Her lively eyes belied the eighty-two years that her
 face and hands proclaimed. A week before, she had joined a group of
 thirty peace activists, mostly women, as they faced fifty uniformed
 American Legionnaires in front of Yonker's World War I memorial.</p>
-          <p id="sc05-1_10110">The men insisted it was "sacriligious" for the demonstrators to
+          <p xml:id="sc05-1_10110">The men insisted it was "sacriligious" for the demonstrators to
 gather at the memorial that steamy Sunday morning on the anniversary
 of the Hiroshima bombing. Tension mounted as members of both groups
 exchanged comments about nuclear weapons. Several legionnaires proudly
 recalled where they had been when the bombs exploded in 1946; some
 argued that their lives had been saved, others that it hastened the
 end of the war.</p>
-          <p id="sc05-1_10111">As Page stood near the commander of the group, he whispered that he
+          <p xml:id="sc05-1_10111">As Page stood near the commander of the group, he whispered that he
 didn't want another war either, that he didn't want his grandson to
 have to fight.</p>
-          <p id="sc05-1_10112">The legionnaires moved into formation three deep around the war
+          <p xml:id="sc05-1_10112">The legionnaires moved into formation three deep around the war
 memorial. The protesters took positions across the street. As Page
 crossed over with her comrades, the Commander spoke to her again. This
 time loudly. "Don't worry lady, there'll never be another war!"</p>
-          <p id="sc05-1_10114">In reporting this event, as she had the many demonstrations and
+          <p xml:id="sc05-1_10114">In reporting this event, as she had the many demonstrations and
 protests in which she participated during six decades of work for
 labor, civil rights and human 
-<pb id="sc05-1_10113" n="11"/>
+<pb xml:id="sc05-1_10113" n="11"/>
 rights causes, Myra Page focused on the
 personal, highlighting the irony of a Legion commander disclosing
 private feelings about war to a peace activist. This personal
@@ -1085,7 +1050,7 @@ labor organizer in the 1920's, as a reporter for the labor press in
 the 1930's, and then as a writer of fiction. Her dual objectives have
 been to relate social conditions on a human scale and to place
 personal struggle within a framework of broader issues.</p>
-          <p id="sc05-1_10115">Sustained throughout a lifetime, Myra Page's belief in the priority
+          <p xml:id="sc05-1_10115">Sustained throughout a lifetime, Myra Page's belief in the priority
 of human rights developed during her childhood in Virginia. Myra, born
 Dorothy Page Gary, and her younger brother learned their first lesson
 in Southern racial mores one summer on their grandfather's farm in the
@@ -1095,7 +1060,7 @@ they disobeyed, Myra and her brother wept with a "great unnamed
 misery." She wrote later that "something big and ugly had descended
 upon us. Something which awoke in me a vast incoherent questioning and
 hate."</p>
-          <p id="sc05-1_10116">Page's father, the town physician in Newport News, Virginia, was a
+          <p xml:id="sc05-1_10116">Page's father, the town physician in Newport News, Virginia, was a
 humanitarian who served as a volunteer on the staff of the local black
 hospital, and treated black and white, rich and poor in an era when a
 family doctor was "almost like a preacher." Although opposed to his
@@ -1103,7 +1068,7 @@ eldest daughter becoming a doctor, Page's father took for granted that
 his four children, male and female, would go to college. He had seen
 enough destitute widows to want his three daughters to have the means
 to make their own living.</p>
-          <p id="sc05-1_10117">Page's mother did not openly oppose the status quo. Regarding race,
+          <p xml:id="sc05-1_10117">Page's mother did not openly oppose the status quo. Regarding race,
 she "accepted the traditional pattern in the South," while confiding
 to her children that she "thought it was a big mistake." Page saw her
 mother and three aunts as leading limited lives marked by ignored
@@ -1113,7 +1078,7 @@ question, without being very concrete, developed very early."
 Pressured by her mother to conform to a preconceived pattern of "the
 way life should be," Page rebelled against the traditional belief that
 daughters "owed everything to the family."</p>
-          <p id="sc05-1_10118">Page lived in a home filled with "endless books" and with parents
+          <p xml:id="sc05-1_10118">Page lived in a home filled with "endless books" and with parents
 who argued about George Bernard Shawl As a child accompanying her
 father on rounds to see his patients, Page saw "both sides of town,
 and all that went on." Like Mick Kelley in Carson McCuller's
@@ -1136,7 +1101,7 @@ unionism in the shipyard. Page's father supported organized labor,
 many of his patients were union members, and with them he viewed
 labor's platform as one antidote to the high rate of industrial
 accidents that plagued workers in Newport News.</p>
-          <p id="sc05-1_10119">Page grew close to Belle Franklin, the black woman who worked in
+          <p xml:id="sc05-1_10119">Page grew close to Belle Franklin, the black woman who worked in
 her parent's home; they sang hymns and folk songs in the kitchen and
 shared Myra's school lessons. Myra was repeatedly told, by Belle, to
 be glad she wasn't "born colored." Their bond deepened when Myra
@@ -1145,7 +1110,7 @@ she was born female. The black woman understood, when other adults did
 not, about "the injustices and the yearning for things you could not
 have." Myra began to rebel against "this bad Southern tradition of
 women."</p>
-          <p id="sc05-1_10120">When Page left home to attend Westhampton College in Richmond, she
+          <p xml:id="sc05-1_10120">When Page left home to attend Westhampton College in Richmond, she
 carried with her a complex legacy inherited from a society permeated
 by racial segregation, divided by fixed class lines, and steeped in a
 tradition of inflexible gender roles. At Westhampton, in the
@@ -1156,23 +1121,23 @@ close friends read <title>The Nation</title> and <title>The New
 Republic</title>, periodicals not allowed in the college library. "We
 were pacifists," Page recalled over sixty years later, "and very much
 against the idea of going into the First World War."</p>
-          <p id="sc05-1_10121">A small group of students, including Page, became active in the
+          <p xml:id="sc05-1_10121">A small group of students, including Page, became active in the
 YWCA in order to give substance to New Testament concepts of
 brotherhood and peace. Page remembers:</p>
-          <p id="sc05-1_10122">
-            <q direct="unspecified">It was in college that we first got a chance to know black
+          <p xml:id="sc05-1_10122">
+            <q>It was in college that we first got a chance to know black
 students, girls mainly, at the summer YWCA conferences. Up there in
 the beautiful rarefied air of Blue Ridge, North Carolina, you know, so
 many things seemed possible. At Blue Ridge we were able to be friends,
 to ignore color lines and to have discussions.</q>
           </p>
-          <p id="sc05-1_10123">Following one of the YWCA conferences, Page and a close friend
+          <p xml:id="sc05-1_10123">Following one of the YWCA conferences, Page and a close friend
 decided to invite a black YWCA secretary they had met at Blue Ridge to
 speak at Westhampton. Over the opposition of "ill-prepared" classmates
 who "went by us in the hall as if we had some disease that was
 catching," Page and her small group of friends organized and attended
 the first integrated meeting on their campus in 1917.</p>
-          <p id="sc05-1_10125">Through interracial work in the YWCA, by teaching music to young
+          <p xml:id="sc05-1_10125">Through interracial work in the YWCA, by teaching music to young
 industrial workers in a Richmond settlement house, and by working with
 women at the state reform school, Page met people from many
 backgrounds during her years in Richmond. Gradually, she began to
@@ -1180,26 +1145,26 @@ evaluate the regional effects of racism and industrialization, and to
 question her own place and function in the society which surrounded
 her. A dozen years went by, however, before Page wrote about the
 chaingangs she had 
-<pb id="sc05-1_10124" n="12"/>
+<pb xml:id="sc05-1_10124" n="12"/>
 seen as a student in Richmond (<title>The
 Nation,</title> 1931) and about her experiences with the forbidden
 black playmate, with Belle Franklin, and in the YWCA (<title>The
 Crisis,</title> 1931).</p>
-          <p id="sc05-1_10126">*  *  *</p>
-          <p id="sc05-1_10127">Page began to write about the South only after she left the region,
+          <p xml:id="sc05-1_10126">*  *  *</p>
+          <p xml:id="sc05-1_10127">Page began to write about the South only after she left the region,
 a process which occurred in stages, over a period of several
 years. Her first step out of Virginia was to attend graduate school at
 Columbia University in New York City. Page studied sociology with
 Franklin Henry Giddings and anthropology with Franz Boas, sat in on
 John Dewey's classes and attended lectures by Harry F. Ward and Harry
 Emerson Fosdick: "it was like a whole world opening up."</p>
-          <p id="sc05-1_10128">In the North, Page continued to be plagued by questions about
+          <p xml:id="sc05-1_10128">In the North, Page continued to be plagued by questions about
 race. In her university dormitory the young black woman who cleaned
 the rooms talked with the students about literature, and offered to
 loan one of Page's roommates her set of Victor Hugo's writings. The
 students discovered that the woman had graduated from college with
 honors, but could not get a job, except cleaning floors.</p>
-          <p id="sc05-1_10129">A year later, convinced that "the future of the country would lie
+          <p xml:id="sc05-1_10129">A year later, convinced that "the future of the country would lie
 with the workers getting organized and making good sensible reform,"
 Page joined the YWCA Industrial Department. As part of what she viewed
 as "a real movement of women for democracy," Page agreed to return
@@ -1209,7 +1174,7 @@ harmony and industrial reform meshed with her own agenda for social
 change in the region. Page came back to Virginia in 1920, "with a
 little sociology theory and Christian philosophy," to a job as YWCA
 Industrial Secretary in Norfolk.</p>
-          <p id="sc05-1_10130">In this non-union town, Page began to organize groups of women
+          <p xml:id="sc05-1_10130">In this non-union town, Page began to organize groups of women
 workers and to plan educational programs designed to prepare them for
 union membership. There were problems from the beginning. Page had to
 seek permission from management to meet with workers during their
@@ -1220,26 +1185,26 @@ and stressed that they would not continue to finance that kind of
 socialism through the YWCA. Progressives within the YWCA counseled
 Page to proceed gradually, to have patience and look ahead, but to
 Page, "suddenly the whole thing was a farce." She wrote later:</p>
-          <p id="sc05-1_10131">
-            <q direct="unspecified">We had been trained to believe that social relations would
+          <p xml:id="sc05-1_10131">
+            <q>We had been trained to believe that social relations would
 right themselves through Peace and Persuasion, through changing hearts
 one by one. Finally, for me there was no going on. The theory simply
 did not work. The system was stronger than individuals, and the
 solution depended on changing the system itself.</q>
           </p>
-          <p id="sc05-1_10132">Page resigned from the YWCA in 1921. Feeling that little social
+          <p xml:id="sc05-1_10132">Page resigned from the YWCA in 1921. Feeling that little social
 change could be accomplished in the South, she decided to
 leave. Despite close family ties and over her parents' objections,
 Page was determined "to break away" from a region totally dominated by
 a rigid system of caste and class.</p>
-          <p id="sc05-1_10133">Page left Norfolk for Philadelphia and St. Louis and~ worked as a
+          <p xml:id="sc05-1_10133">Page left Norfolk for Philadelphia and St. Louis and~ worked as a
 wage-earner in department stores and factories. In Philadelphia she
 clerked at Wannamaker's until the management discovered she had a
 college degree and suspected she might be an organizer. A stint in the
 hat trade, where organized male workers opposed the entry of women
 into the union, taught Page about occupational segregation by gender
 and demonstrated the consequences for the labor movement.</p>
-          <p id="sc05-1_10134">After several attempts to get work in the clothing trade, Page went
+          <p xml:id="sc05-1_10134">After several attempts to get work in the clothing trade, Page went
 to the Amalgamated Clothing Workers of America's Philadelphia
 office. There she met Hilda Shapiro, a staunchly feminist clothing
 worker from the New York's East Side. Page and Shapiro worked together
@@ -1248,7 +1213,7 @@ Amalgamated. The two women organized picket lines and entered open
 shop factories to get the workers to come out. In one shop Page
 remembered being "scared to death" when the boss came at them with a
 hot iron. Page found the whole set-up "like a jungle."</p>
-          <p id="sc05-1_10135">But the "vicious" experiences she had in unorganized shops
+          <p xml:id="sc05-1_10135">But the "vicious" experiences she had in unorganized shops
 contrasted sharply with her work-life in union factories. For Page,
 the union shops were havens in which men and women of different
 nationalities and races could work together. She saw herself
@@ -1257,7 +1222,7 @@ had been seeking in Norfolk began to appear. Through the labor
 movement, Page saw the goal of interracial industrial unionism, what
 she described later as "a freedom to be fought for and won, black and
 white alike," as an attainable end.</p>
-          <p id="sc05-1_10136">After four years in Philadelphia and St. Louis, Page left the shops
+          <p xml:id="sc05-1_10136">After four years in Philadelphia and St. Louis, Page left the shops
 to return to school and train as a teacher in workers' education. At
 the University of Minnesota, Page obtained a doctorate in sociology,
 taught a course in social movements, joined the teacher's union, and
@@ -1265,28 +1230,28 @@ became active in the Twin Cities labor movement. Appointed head of the
 Education Committee of the Minnesota State Federation of Labor, Page
 organized speakers and classes for union locals throughout the
 state.</p>
-          <p id="sc05-1_10137">As she taught the history of women in the trade union movement to
+          <p xml:id="sc05-1_10137">As she taught the history of women in the trade union movement to
 women in St. Paul, spoke at cooperatives, and interviewed miners in
 the Iron Range, Page thought about her first organizing experiences in
 Norfolk. Soon, she formulated a plan to write about textile workers in
 the South. To document the "traditional Southern attitudes" she saw as
 hampering union organization, Page lived for several months in a mill
 community outside Columbia, South Carolina.</p>
-          <p id="sc05-1_10139">Two books resulted from Page's PhD research on Southern
+          <p xml:id="sc05-1_10139">Two books resulted from Page's PhD research on Southern
 Textiles. The first, <title>Southern Cotton Mills and Labor</title>
 (1929) appeared immediately after a wave of textile strikes had spread
 across the Piedmont. The second work, Page's first novel, entitled
 <title>Gathering Storm</title> (1932) was a fictional account of the
 Gastonia Strike of 1929. In both manuscripts, she provided an analysis
 of textile workers which transcended traditional 
-<pb id="sc05-1_10138" n="14"/>
+<pb xml:id="sc05-1_10138" n="14"/>
 accounts. Page argued
 that although the culture of Southern textile workers (unlike that of
 miners) did not foster collective organization, neither did it
 preclude intense class consciousness and overt expressions of
 discontent. Taking the long view of textile unionism, she wrote:</p>
-          <p id="sc05-1_10140">
-            <q direct="unspecified">Ever since the textile industry has been well established in
+          <p xml:id="sc05-1_10140">
+            <q>Ever since the textile industry has been well established in
 the south, there have been intermittent union campaigns there. Usually
 these organizing efforts have been initiated by spontaneous strike
 movements among southern textile workers, with a national union then
@@ -1298,19 +1263,19 @@ courage, sacrifice, leadership and endurance that speaks well for the
 determination of southern mill hands to conquer all difficulties and
 build their union movement.</q>
           </p>
-          <p id="sc05-1_10141">Page held two basic criteria as crucial for the labor movement in
+          <p xml:id="sc05-1_10141">Page held two basic criteria as crucial for the labor movement in
 the South: First, it was essential to "organize black and white
 workers on an equal footing in industrial unions and unite them in
 struggles for full economic, political and social rights." Second,
 Page contended that only a "system of collective ownership and
 operation of mills" would provide the fundamental reorganization
 required to provide workers with a decent standard of living.</p>
-          <p id="sc05-1_10142">Page criticized AFL organizing efforts in Southern textiles,
+          <p xml:id="sc05-1_10142">Page criticized AFL organizing efforts in Southern textiles,
 arguing that the United Textile Workers (UTW) repeatedly entered local
 strike situations too late and then withdrew active support
 prematurely. Moreover, Page continued, the UTW either ignored black
 workers entirely or segregated them into separate locals.</p>
-          <p id="sc05-1_10143">In 1929 Page felt that the momentum for major change had begun and
+          <p xml:id="sc05-1_10143">In 1929 Page felt that the momentum for major change had begun and
 that "nothing can stop the revolt of Dixie mill hands. now under way."
 But the early 1930's proved to be difficult years for organizing and
 for the realization of interracial unionism. Nonetheless, as she met
@@ -1318,12 +1283,12 @@ with interracial groups of union men and women she argued that as
 Southerners "learned through their industrial struggles the common
 economic lot of white and black wage-earners, and the necessity of
 common action," they would be freed of racial prejudices.</p>
-          <p id="sc05-1_10144">During the 1930's Page's work as a reporter for the labor press
+          <p xml:id="sc05-1_10144">During the 1930's Page's work as a reporter for the labor press
 took her into Virginia, North Carolina, Georgia, Alabama, Tennessee
 and Arkansas. But it was in Alabama that she began to see the promise
 of what the union organization of agricultural workers, miners and
 industrial workers could mean.</p>
-          <p id="sc05-1_10145">Page came to Alabama several times in the early 1930's at the
+          <p xml:id="sc05-1_10145">Page came to Alabama several times in the early 1930's at the
 request of union men and women in "this land of steel, coal and
 cotton." She traveled by train into a rural Alabama county to meet
 with members of the sharecropper's union and there found "brave people
@@ -1335,14 +1300,14 @@ met with miners, one-third of whom were out of work, who had "downed
 tools" and demanded the right to bargain collectively and to obtain
 equal rights for black and white miners on the job and in the
 union.</p>
-          <p id="sc05-1_10146">In 1932, Page wrote phrases which echo fifty years later:</p>
-          <p id="sc05-1_10147">The big steel mills of Morgan's T.C.I. and Mellon's Republic Steel
+          <p xml:id="sc05-1_10146">In 1932, Page wrote phrases which echo fifty years later:</p>
+          <p xml:id="sc05-1_10147">The big steel mills of Morgan's T.C.I. and Mellon's Republic Steel
 Corporations which belch their crimson tongues of smoke and flame
 against the night, today are running around forty percent
 capacity. Nearly one-third of Alabama's coal miners are without
 work. In Birmingham, unemployed are estimated at forty-five to fifty
 thousand, affecting one out of every three households.</p>
-          <p id="sc05-1_10148">As Page left Birmingham to return to her home in the Northeast, she
+          <p xml:id="sc05-1_10148">As Page left Birmingham to return to her home in the Northeast, she
 predicted that "the outbreaks and struggles against Morgan and banking
 and landlord rule will become increasingly more violent and sweeping
 in character." Threatened strikes among miners and steelworkers meant
@@ -1352,7 +1317,7 @@ The organizing activity of workers in Birmingham confirmed Page's
 belief in interracial industrial unionism, and offered the promise of
 a time when the South "will be freed of its shadows; when its toiling
 people will march shoulder to shoulder, beyond the color line."</p>
-          <p id="sc05-1_10149">The optimism of Page's rhetoric in the early 1930's reflected her
+          <p xml:id="sc05-1_10149">The optimism of Page's rhetoric in the early 1930's reflected her
 belief that out of the ferment of the Great Depression "big changes
 were going to take place . . . that the working people were really
 going to get more control of their lives, and there would be much more
@@ -1368,17 +1333,17 @@ region's natural and industrial resources; also unrealized was her
 firm hope that the organization of Southern workers was inevitable,
 and once accomplished would be the key to labor's strength
 nationwide.</p>
-          <p id="sc05-1_10151">"We were young, enthusiastic, and thought things were going to
+          <p xml:id="sc05-1_10151">"We were young, enthusiastic, and thought things were going to
 happen faster," Page remembers. Today Page remains hopeful--"that one
 of these days we will get a working-class party" in the United States;
 that racism 
-<pb id="sc05-1_10150" n="15"/>
+<pb xml:id="sc05-1_10150" n="15"/>
 will diminish as the South and the nation become
 thoroughly integrated; that the United States has learned and will
 never forget the hard lesson of Vietnam; that the "creativity and
 determination of the American people" will allow us to solve our
 problems.</p>
-          <p id="sc05-1_10152">During the late 1930's Page took up her pen more frequently and
+          <p xml:id="sc05-1_10152">During the late 1930's Page took up her pen more frequently and
 struggled with questions about the South in her writing. As a member
 of the League of American Writers she was asked to come to Highlander
 Folk School in 1938 and 1939 to teach classes and workshops. While at
@@ -1390,7 +1355,7 @@ Blood</title>). Page's friendship with Hawkins grew out of an intense
 admiration for the strength of the women whose fathers, husband' end
 sons mined coal, and an appreciation of "a woman's part in the coal
 miner's struggle."</p>
-          <p id="sc05-1_10153">During these years Page continued to report for the labor press and
+          <p xml:id="sc05-1_10153">During these years Page continued to report for the labor press and
 to write radio play scripts and short stories to supplement her
 income. She had married John Markey, a fellow graduate student from
 Minnesota and then college professor, and they had had a daughter and
@@ -1398,14 +1363,14 @@ a son. Page still felt "a certain pull, a certain allegiance to the
 South." But family visits to Virginia in the 1930's were "painful,"
 and Page's rejection of the social and political status quo was
 manifest in her unwillingness to rear her children in the South.</p>
-          <p id="sc05-1_10154">In the post-war period, Page traveled South each summer and, again
+          <p xml:id="sc05-1_10154">In the post-war period, Page traveled South each summer and, again
 at Highlander Folk School, shared in the expansion and development of
 the civil rights movement. "We had crucial sessions at Highlander,"
 Page recalls. "The Southern people working in the field were leading
 . . . I took a little part, but not very much, because I wasn't living
 and working then in the South." But it was the movement for which Page
 had worked since before World War I.</p>
-          <p id="sc05-1_10155">As Page participated in civil rights work in the 1950's and 1960's,
+          <p xml:id="sc05-1_10155">As Page participated in civil rights work in the 1950's and 1960's,
 she noticed many Southern white women who "connected with the
 movement." To her, "it was noticeable that so many came north and
 worked." Page argues that these were Southern women who saw parallels
@@ -1414,13 +1379,13 @@ people. She believes that many of these white women, as she had done
 in 1920, felt a special kinship to the black quest for civil rights
 and as a result either "they got out from down there, or if they did
 stay in the South, they worked with the movement."</p>
-          <p id="sc05-1_10156">As the progressive gains of the 1960's became apparent within the
+          <p xml:id="sc05-1_10156">As the progressive gains of the 1960's became apparent within the
 South, Page shifted her attention to include an even wider range of
 issues: expanding civil rights efforts, anti-war work against Vietnam,
 a growing woman's movement, environmental concerns, and support for
 the United Mine Workers of America (to Page "the enduring backbone of
 the American labor movement").</p>
-          <p id="sc05-1_10157">In June of 1980, Page returned to Newport News, Virginia, the town
+          <p xml:id="sc05-1_10157">In June of 1980, Page returned to Newport News, Virginia, the town
 she had left sixty years earlier. Three months before her visit, the
 community's 16,500 shipyard workers had won their first United Steel
 Workers of America (USWA) contract with Tenneco. Members of the union
@@ -1436,7 +1401,7 @@ day has begun" (see <title>Mountain Life and Work</title>, November
 had believed in and fought for since she left Virginia to join the
 labor movement in 1920 (see <title>Southern Exposure</title>, Winter
 1981).</p>
-          <p id="sc05-1_10158">Over the years Page had seen many of her political dreams and
+          <p xml:id="sc05-1_10158">Over the years Page had seen many of her political dreams and
 social ideals flounder; early textile organizing efforts in the South
 faltered, the dream of a worker controlled society has not been
 fulfilled, a classless social system has yet to be established. On the
@@ -1450,32 +1415,32 @@ effectively only when black and white joined forces. Symbolically, the
 victory held a special personal significance for Myra Page--Dorothy
 Markey--because it meant that in a sense she had been able to come
 full circle, and to come home.</p>
-          <div3 id="sc05-1_026" type="About">
-            <p id="sc05-1_10159">Formerly a research fellow at the Wellesley College
+          <div3 xml:id="sc05-1_026" type="About">
+            <p xml:id="sc05-1_10159">Formerly a research fellow at the Wellesley College
 Center for Research on Women, Mary Frederickson is now assistant
 professor of history at the University of Alabama in Birmingham. This
 article copyright, 1988, by Mary Frederickson.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_007" n="5" type="Article">
+        <div2 xml:id="sc05-1_007" n="5" type="Article">
           <head>From Southern Cotton Mills and Labor, 1929, 
 by Myra Page</head>
-          <byline>By <docAuthor><name reg="Page, Myra" type="person">Myra Page</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Page, Myra</reg><sic>Myra Page</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, p. 13</docDate>
           
-          <p id="sc05-1_10160">The next afternoon I went to see my friend, Marg. Marg was always a
+          <p xml:id="sc05-1_10160">The next afternoon I went to see my friend, Marg. Marg was always a
 tonic, especially after such an experience as last night. Marg knew
 her Bible--you had to or be an outcast in the village--but her
 religion didn't bother her much. She thought and spoke for herself,
 and few gainsaid her, at least to her face. She belonged to the clan
 of Allen--feuders and government-fighters--and believed in Direct
 Action.</p>
-          <p id="sc05-1_10161">"Steps right in, honey," Marg called from her place in the
+          <p xml:id="sc05-1_10161">"Steps right in, honey," Marg called from her place in the
 swing. She pulled her black-and-gray-checkered dress tighter over her
 bosom, shifted her powerful frame so as to make room beside her, and
 with the hem of her dress wiped away the little brown streams of
 tobacco juice which had dried in the corners of her mouth.</p>
-          <p id="sc05-1_10162">"As I wuz sayin' th' las' time you was here, Hutchins mill ain't so
+          <p xml:id="sc05-1_10162">"As I wuz sayin' th' las' time you was here, Hutchins mill ain't so
 good for wages, but I've lived on worse hills. Hutchins is got a good
 char-ac-ter 'n that means a lot. All mills ain't. I wuz in one, once,
 soon after we come down from the mountains. My ole man hed ceasted, so
@@ -1483,7 +1448,7 @@ it wuz jes' me to care for th' babies. Every day I locked 'em in th'
 house afore I went to th' mill, 'n every night I run home scairt th'
 house'd burned down. I tell you, them wuz hard days, before th' hours
 wuz cut to tin.</p>
-          <p id="sc05-1_10163">"Well, that mill had a bad char-ac-ter, 'n I wanted to git
+          <p xml:id="sc05-1_10163">"Well, that mill had a bad char-ac-ter, 'n I wanted to git
 away. You know, us mill people ain't got nuthin' but our moral
 character, 'n we wanna keep on to that. Now you may be a good 'omen,
 but folks figger that if you live on a hill's what's got a bad name,
@@ -1494,20 +1459,20 @@ woulden. 'N I see with my own eyes, policymen goin' in 'n out. Sech
 drinkin"n carryin' on, you navah heard. 'N my gal gittin' bigger'n
 bigger, 'n me gone all day. So finally I made up my mind I'd take th'
 law in my own hands. Our family's used to that.</p>
-          <p id="sc05-1_10164">"So I gits down my gun, 'n I starts off to th' police office. It
+          <p xml:id="sc05-1_10164">"So I gits down my gun, 'n I starts off to th' police office. It
 was a Sadday aftanoon, 'n th' room wuz full of officers-of-th'-law,
 but I walks right up to th' desk, 'n I slams my hand down, 'n I
 says,'Jim,'I says, "I come to give warnin'. If you doan clean up that
 bad house before nex Sadday, I will. My gun's ready. And what's more,'
 her mountain eyes glittered happily as she told this, 'what's more,
 every blue coat 'n every brass button I see, them's my target.'</p>
-          <p id="sc05-1_10165">"And that's how I cleaned up Selby," Marg concluded. "Come in, Miz
+          <p xml:id="sc05-1_10165">"And that's how I cleaned up Selby," Marg concluded. "Come in, Miz
 Jones," she called to a little old woman, gnarled like a mountain oak,
 who was hobbling up the walk. "You wan some of my herbs, honey. Jes'
 help yourself. You know where they is. Brew 'em a little 'n apply th'
 warm juice to his rumitiz. It'll help. You might tie a string around
 his waist 'n middle left finger, too."</p>
-          <p id="sc05-1_10166">"Honey," Marg turned back to me, "I tell you what's on my
+          <p xml:id="sc05-1_10166">"Honey," Marg turned back to me, "I tell you what's on my
 mind. It's my boy, Tom. He wants to be an electrician, in th' worse
 way. Ever since he wuz a littl' boy, he's hankered after machinery 'n
 things like that. He's buyed books'n fixin's of all kinds. Well, his
@@ -1517,38 +1482,38 @@ dollar, but seein' as Tom was so anxious, they tole him he cud tek it
 for ninty-five. But we jes' can's seem to git that much
 ahead. Sickness, or th' mill runnin' slow, or somethin', jes sets us
 back. Tom's twenty-seven now, 'n I doan know's he ever will."</p>
-          <p id="sc05-1_10167">"Couldn't he take it up around here, at school, say?"</p>
-          <p id="sc05-1_10168">"Naw. They doan learn 'em no trade thar but mill work. I tell you,
+          <p xml:id="sc05-1_10167">"Couldn't he take it up around here, at school, say?"</p>
+          <p xml:id="sc05-1_10168">"Naw. They doan learn 'em no trade thar but mill work. I tell you,
 honey, these mill owners wans to keep us in th' mills. I knows, I've
 a-watched 'em forty-five year now. My gal tells me I shud keep my
 mouth shut. But I knows."</p>
-          <p id="sc05-1_10169">Marg peered through the green vines at another visitor coming up
+          <p xml:id="sc05-1_10169">Marg peered through the green vines at another visitor coming up
 the walk.</p>
-          <p id="sc05-1_10170">"That you, Miz Rhoads?"</p>
-          <p id="sc05-1_10171">"Yes'm, it's me. Kin I hev'n ear o' core?"</p>
-          <p id="sc05-1_10172">"Help yourself. Only git 'em ripe. 'N wean ye set a spell?"</p>
-          <p id="sc05-1_10173">Marg lowered her voice. "We live in common like, us six families
+          <p xml:id="sc05-1_10170">"That you, Miz Rhoads?"</p>
+          <p xml:id="sc05-1_10171">"Yes'm, it's me. Kin I hev'n ear o' core?"</p>
+          <p xml:id="sc05-1_10172">"Help yourself. Only git 'em ripe. 'N wean ye set a spell?"</p>
+          <p xml:id="sc05-1_10173">Marg lowered her voice. "We live in common like, us six families
 here." With her right thumb she indicated the houses fronting the
 little square of dirt before us. "Each one's got a littl' patch. Wages
 bein' what they is, we coulden git along without. One raises beans 'n
 peas, another, yellers' 'n tatters. 'N me, I raises corn. Whin meal
 time comes, we jes' go 'n help ourselves.</p>
-          <p id="sc05-1_10174">"Now, th' drought 'n hot weather is kill in' our crops, 'n th'
+          <p xml:id="sc05-1_10174">"Now, th' drought 'n hot weather is kill in' our crops, 'n th'
 mill's only runnin' part time. I tell you, they're gettin' us lower 'n
 lower. They wan us on our knees, that's what. We ain't low enuf fer
 'em, yit. Millionaires they are, Mr. Hutchins 'n th' res'. 'N I
 remember him as a littl' boy so poor he'd no breeches to cover him.</p>
-          <p id="sc05-1_10175">"They made their money out of us. I look at their fine houses whin
+          <p xml:id="sc05-1_10175">"They made their money out of us. I look at their fine houses whin
 I go to town, 'n I thinks to myself, 'You made that out 'o us. If we
 waran so poor, you'd not be so rich."N I rememba what th' Good Book
 says about th' rich 'n th' poor. They'll git theirs when they die."</p>
-          <p id="sc05-1_10176">"Hell?" I asked.</p>
-          <p id="sc05-1_10177">Marg spit a brown stream neatly between the rails.</p>
-          <p id="sc05-1_10178">"What else?" she answered.</p>
-          <p id="sc05-1_10179">"Well, that idea doan satisfy me," I replied, and we were off on an
+          <p xml:id="sc05-1_10176">"Hell?" I asked.</p>
+          <p xml:id="sc05-1_10177">Marg spit a brown stream neatly between the rails.</p>
+          <p xml:id="sc05-1_10178">"What else?" she answered.</p>
+          <p xml:id="sc05-1_10179">"Well, that idea doan satisfy me," I replied, and we were off on an
 argument.</p>
-          <div3 id="sc05-1_027" type="About">
-            <p id="sc05-1_10180">Myra Page (Dorothy Markey) is currently completing an
+          <div3 xml:id="sc05-1_027" type="About">
+            <p xml:id="sc05-1_10180">Myra Page (Dorothy Markey) is currently completing an
 autobiographical novel about her early years in Newport News entitled
 <title>Soundings</title>. Under the pen name Myra Page she hats
 written three novels and published numerous articles, stories, and two
@@ -1563,12 +1528,12 @@ book was subsequently published by New York's Citadel
 Press.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_008" n="3" type="Article">
+        <div2 xml:id="sc05-1_008" n="3" type="Article">
           <head>The 1982 Lillian Smith Book Awards</head>
-          <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
+          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 7-10</docDate>
           
-          <p id="sc05-1_10181">The Southern Regional Council's annual Lillian Smith Awards
+          <p xml:id="sc05-1_10181">The Southern Regional Council's annual Lillian Smith Awards
 Luncheon was held in Atlanta in November as a part of the SRC's annual
 meeting. The awards recognize the year's best fiction and non-fiction
 books about the South. The 1982 winners were John Ehle for <title>The
@@ -1576,10 +1541,10 @@ Winter People</title> (New York: Harper and Row) and Harry Ashmore for
 <title>Hearts and Minds: A History of Racism from Roosevelt to
 Reagan</title> (New York: McGraw-Hill). Following are excerpts from
 remarks at the luncheon.</p>
-          <p id="sc05-1_10182">
+          <p xml:id="sc05-1_10182">
             <hi rend="bold">Mary Frances Deriner</hi>
           </p>
-          <p id="sc05-1_10183">Lillian Smith, Georgia thinker, activist, author and Southern
+          <p xml:id="sc05-1_10183">Lillian Smith, Georgia thinker, activist, author and Southern
 Regional Council Life Member, died September 28, 1966, concluding a
 career of a Southerner who said that she never wanted to write about
 race, just about people. The Southern Regional Council created the
@@ -1588,7 +1553,7 @@ life, her work, and her commitment, and to recognize in her name those
 who, like her, have contributed to our understanding of or given us
 new insights into the Southern region, its people, its strengths, its
 problems and its weaknesses.</p>
-          <p id="sc05-1_10184">The Lillian Smith Awards are given annually. Five judges receive
+          <p xml:id="sc05-1_10184">The Lillian Smith Awards are given annually. Five judges receive
 from fifty to seventy-five entries and judge them seeking a certain
 quality which is something like the Supreme Court's definition of
 pornography--you can't define it, but you know it when you've seen
@@ -1599,7 +1564,7 @@ which makes them Lillian Smith Award winners. Both of this year's
 winners struck us immediately as having that quality, that relevance
 and humanity in abundance. This is a quality which brings to mind and
 keeps alive the life and work of Lillian Smith.</p>
-          <p id="sc05-1_10185">Lillian Smith's fame came with her first novel, <title>Strange
+          <p xml:id="sc05-1_10185">Lillian Smith's fame came with her first novel, <title>Strange
 Fruit</title>, a small town story of a tragic black-white love
 affair. It sold three million copies and was translated into fifteen
 languages. It made her a spokesperson to the world on Southern sins of
@@ -1617,25 +1582,25 @@ black or female or poor or a combination of the above. And the system,
 said Miss Smith, would work only so long as those wealthy white males
 could keep women and blacks and poor folks from joining forces with
 one another.</p>
-          <p id="sc05-1_10186">
+          <p xml:id="sc05-1_10186">
             <hi rend="bold">Tony Dunbar</hi>
           </p>
-          <p id="sc05-1_10187">John Ehle couldn't be with us today. Last year's Lillian Smith book
+          <p xml:id="sc05-1_10187">John Ehle couldn't be with us today. Last year's Lillian Smith book
 award winner for fiction was Pat Conroy, who was out of the
 country. John Ehle, his publisher tells us, is in the country and it's
 reassuring to know that there are still places in the South so far
 back that even someone as persistent as Mary Francis Derfner can't dig
 them out.</p>
-          <p id="sc05-1_10188">Those of you from North Carolina may know the man. He has been a
+          <p xml:id="sc05-1_10188">Those of you from North Carolina may know the man. He has been a
 writer of merit for twenty-five years and a champion of the arts in a
 state best known for tobacco and its residue: the politics of Jesse
 Helms.</p>
-          <p id="sc05-1_10189">The book we're honoring today is called <title>The Winter
+          <p xml:id="sc05-1_10189">The book we're honoring today is called <title>The Winter
 People</title>. It's unquestionably his finest work. In a better world
 ruled less by literary fashions and megabucks, this book would be a
 popular classic. Maybe today we can help it along in that
 direction.</p>
-          <p id="sc05-1_10190">The Winter People is set in the North Carolina mountains during the
+          <p xml:id="sc05-1_10190">The Winter People is set in the North Carolina mountains during the
 Depression. It is a story of love and violence, two human capacities
 frequently associated with mountain life. But the book is something
 more than that. It shows us an Appalachia before there was coal,
@@ -1651,13 +1616,13 @@ people in Ehle's wonderful prose. In giving us this first glimpse, I
 think, in fiction, of the people who pioneered our Southern highlands,
 Ehle has given us the year's most original work of Southern
 fiction.</p>
-          <p id="sc05-1_10191">
+          <p xml:id="sc05-1_10191">
             <hi rend="bold">Harry Ashmore</hi>
           </p>
-          <p id="sc05-1_10193">A few weeks ago I encountered one of your former executive
+          <p xml:id="sc05-1_10193">A few weeks ago I encountered one of your former executive
 directors, Leslie Dunbar, and was pleased to find that he had read
 <title>Hearts and Minds</title>--or at least 
-<pb id="sc05-1_10192" n="8"/>
+<pb xml:id="sc05-1_10192" n="8"/>
 had checked the index to
 see wherein he might be mentioned. Since no account of racism from
 Roosevelt to Reagan would be complete without numerous references to
@@ -1669,7 +1634,7 @@ reminded him that it also designated public accountants, but this did
 nothing to placate him since, like all budget-ridden foundation
 executives, he regards those who draw up balance sheets as natural
 enemies.</p>
-          <p id="sc05-1_10194">The chapter in which I certified Les begins with an anecdote I hope
+          <p xml:id="sc05-1_10194">The chapter in which I certified Les begins with an anecdote I hope
 bears repeating here today. I tell of returning to Atlanta to address
 the chief state school officers of the old Confederacy twenty-five
 years after Harold Fleming, John Griffin and I had arranged a
@@ -1686,7 +1651,7 @@ desegregation had never been mentioned. There were, as I recall,
 several apparent cardiac arrests when a rumor spread that young
 William Emerson of <title>Newsweek</title> had been seen skulking in
 the shrubbery.</p>
-          <p id="sc05-1_10195">Now, a quarter century later, I again faced the chief state school
+          <p xml:id="sc05-1_10195">Now, a quarter century later, I again faced the chief state school
 officers, but this time each was accompanied by a black deputy and the
 pepper-and-salt audience was assembled at the Atlanta Biltmore under
 the glare of television lights. It was, I noted, a far cry from the
@@ -1696,7 +1661,7 @@ Southern Education Foundation a block away, where we pulled down the
 shades and shared catered barbecue sandwiches--which, I must say, did
 represent an improvement over the cuisine available in a hotel
 ballroom, then or now.</p>
-          <p id="sc05-1_10196">My citation of the transformation that had, in that brief span,
+          <p xml:id="sc05-1_10196">My citation of the transformation that had, in that brief span,
 made Atlanta perhaps the most thoroughly desegregated major city in
 the nation prompted a question from one of the black participants. He
 agreed that on the surface there were a great many changes--but, deep
@@ -1706,7 +1671,7 @@ Southerners, white and black, acted on the assumption that there was a
 real difference between the two races: "Now we know this is not
 so. And that's the root of the problem--blacks have turned out to be
 just like us, and we're no damned good."</p>
-          <p id="sc05-1_10197">This back-handed assertion of common humanity did, in its ironic
+          <p xml:id="sc05-1_10197">This back-handed assertion of common humanity did, in its ironic
 way, recognize the widespread disillusionment among those of both
 races who had been sustained by soaring hopes in the glory days of the
 civil rights movement. The idealists had believed--perhaps had had to
@@ -1715,19 +1680,19 @@ white supporters would usher in the beloved community of Martin Luther
 King's dream. It was in this company that I placed Les Dunbar, quoting
 from his recent appraisal of <title>The South and the Near
 Future</title> in Clark College publication:</p>
-          <p id="sc05-1_10198">
-            <q direct="unspecified">We did not pass from a segregated to an integrated
+          <p xml:id="sc05-1_10198">
+            <q>We did not pass from a segregated to an integrated
 society. Only in a relative sense have we come from an unjust to a
 more just society; most certainly we have not passed from a wandering
 in the desert by blacks and from moral squalor of whites into a
 'beloved community.' We attained none of these. What was accomplished,
 however, is a vast enlargement of choice.</q>
           </p>
-          <p id="sc05-1_10199">And that, of course, is so. As the cliche has it, those who measure
+          <p xml:id="sc05-1_10199">And that, of course, is so. As the cliche has it, those who measure
 progress against the ideal of a fully integrated society see the
 bottle as half-empty; the pragmatists who measure against the point of
 departure see it as half full.</p>
-          <p id="sc05-1_10200">The indomitable woman in whose name we are gathered today surely
+          <p xml:id="sc05-1_10200">The indomitable woman in whose name we are gathered today surely
 qualified for the certification I bestowed upon Les Dunbar. By 1943,
 when SRC was created out of the remains of the more timorous
 Commission on Interracial Cooperation, Lillian Smith had already
@@ -1739,7 +1704,7 @@ she was unimpressed when Guy Johnson, the first executive director,
 replied that it was unrealistic to adopt a policy that would restrict
 SRC's membership to those who were willing to denounce segregation but
 were powerless to do anything about it.</p>
-          <p id="sc05-1_10201">If Miss Lillian did not prevail, neither did those she scorned as
+          <p xml:id="sc05-1_10201">If Miss Lillian did not prevail, neither did those she scorned as
 killers of the dream--the dream she shared with the dedicated young
 preacher who became her friend. Her adamant rejection of the demeaning
 social conventions of the day may have scared off some potential
@@ -1747,7 +1712,7 @@ allies, but it also made one of our most pragmatic presidents the
 first to employ the full authority of his office in support of
 Southern blacks who had taken to the streets to protest denial of
 their civil rights.</p>
-          <p id="sc05-1_10202">One evening early in 1960 Miss Lillian had dinner with Coretta and
+          <p xml:id="sc05-1_10202">One evening early in 1960 Miss Lillian had dinner with Coretta and
 Martin King, and afterward they drove her to Emory University hospital
 where she was undergoing treatment for cancer. As they passed through
 a corner of DeKalb County a patrolman noticed a white woman sitting
@@ -1760,11 +1725,11 @@ later, when he refused bond and went to jail in Atlanta to dramatize a
 student sit-in at Rich's, the DeKalb court charged him with violating
 parole. On this second trip to the drumhead he was whisked off in the
 dead of night to Reidsville state prison.</p>
-          <p id="sc05-1_10204">In desperation Coretta King put in a call to the young Democratic
+          <p xml:id="sc05-1_10204">In desperation Coretta King put in a call to the young Democratic
 candidate for president who was then heading into the home
 stretch. Jack Kennedy offered reassurance, Robert Kennedy got in touch
 with the 
-<pb id="sc05-1_10203" n="9"/>
+<pb xml:id="sc05-1_10203" n="9"/>
 DeKalb County judge, and Martin was returned to his father's
 Ebenezer Baptist Church in a blaze of televised glory. Daddy King, who
 had been publicly supporting Richard Nixon on the ground that his
@@ -1773,7 +1738,7 @@ and offered a ringing endorsement of the Democratic ticket. The
 resulting sweep of the black precincts in all the major cities
 provided Kennedy's narrow margin of victory, and left him beholden to
 Martin Luther King, Jr. and the movement he led.</p>
-          <p id="sc05-1_10205">From the beginning, the civil rights movement depended upon
+          <p xml:id="sc05-1_10205">From the beginning, the civil rights movement depended upon
 political finagling as well as eloquent appeals to the conscience of
 the white majority. There was a splendid irony in the maneuvering that
 took place in the traditional gap between rhetoric and reality--which
@@ -1785,7 +1750,7 @@ suspend his anti-Catholic bias in order to convert to the Democratic
 cause, he said, "Who would have thought that Martin Luther King's
 father could be a bigot?" Then, reflecting upon the life and times of
 old Joe Kennedy, he added, "But, then, we all have fathers."</p>
-          <p id="sc05-1_10206">So we do, and progress on the race front can be measured by the
+          <p xml:id="sc05-1_10206">So we do, and progress on the race front can be measured by the
 tempering of attitudes from one generation to the next. The fathers of
 my generation of white Southerners took their stand on what their
 preachers told them was biblically-sanctioned moral ground, reducing
@@ -1794,14 +1759,14 @@ white supremacy. My contemporaries, with no more valid claim to
 probity; concluded that they had rather abandon Jim Crow than pay the
 price required to maintain segregation in the face of mounting black
 protest.</p>
-          <p id="sc05-1_10207">So it was that when Bull Connor unleashed police dogs and firehoses
+          <p xml:id="sc05-1_10207">So it was that when Bull Connor unleashed police dogs and firehoses
 against black children in Birmingham, Jack Kennedy employed his
 cabinet's corporate heavyweights to convince the Big Mules of the
 Alabama establishment that racial violence was bad for business. After
 the White Only signs came down the President told Martin and his
 aides: "I don't think you should be totally harsh on Bull Connor. He's
 done as much for civil rights as anybody since Abraham Lincoln."</p>
-          <p id="sc05-1_10208">Those of you who labor in the vineyard of race relations are
+          <p xml:id="sc05-1_10208">Those of you who labor in the vineyard of race relations are
 painfully aware of the circularity that has always characterized
 public discussion of the basic issue. In the old days the demonstrably
 inferior social condition of the black minority was cited to justify
@@ -1811,10 +1776,10 @@ nation when blacks began to migrate from the South in substantial
 numbers. That ghost, at least, has been laid by the enlargement of
 choice that is the not inconsiderable legacy of the civil rights
 movement.</p>
-          <p id="sc05-1_10210">When the federal courts struck down the barriers of institutional
+          <p xml:id="sc05-1_10210">When the federal courts struck down the barriers of institutional
 segregation a third of the black population promptly moved into the
 mainstream, visibly giving the 
-<pb id="sc05-1_10209" n="10"/>
+<pb xml:id="sc05-1_10209" n="10"/>
 lie to the myth of inherent racial
 inferiority. In terms of educational attainment, income level, and
 type of employment these blacks are certifiably middle-class, and are
@@ -1824,7 +1789,7 @@ still confined to a poverty-stricken underclass--is a long way from
 being free of the residue from the racist past. But the tempering of
 restrictive majority attitudes has been sufficient to change the
 dimensions of the American dilemma.</p>
-          <p id="sc05-1_10211">This shows up most significantly in politics. Those of us who were
+          <p xml:id="sc05-1_10211">This shows up most significantly in politics. Those of us who were
 on the front line in the early days of the movement may be appalled by
 the resurrection of George Wallace in Alabama, but there is surely
 encouragement in the fact that he could re-enter the lists only by
@@ -1837,7 +1802,7 @@ everyone to understand that I am heart and soul in favor of the things
 that have been done in the name of civil rights and desegregation," he
 has proclaimed, and, if you accept his remarkably constricted view of
 contemporary society, there is no reason to doubt his sincerity.</p>
-          <p id="sc05-1_10212">But if the President has rejected the dogma of white supremacy he
+          <p xml:id="sc05-1_10212">But if the President has rejected the dogma of white supremacy he
 has fervently embraced the doctrine it produced--the old states rights
 federalism elaborated by our forefathers in defense of slavery and the
 second-class citizenship that succeeded it. The President's so-called
@@ -1855,7 +1820,7 @@ cheap labor; along with the Hispanics and poor whites who share its
 misery, the black underclass has become surplus population, a
 non-productive burden increasingly seen as intolerable in a shrinking
 economy.</p>
-          <p id="sc05-1_10213">The secular theology called Reaganomics holds that this condition
+          <p xml:id="sc05-1_10213">The secular theology called Reaganomics holds that this condition
 is of no concern to the federal government and can readily be disposed
 of by placing responsibility for its cure upon state and local
 authorities assisted by the benign working of the private sector. That
@@ -1863,7 +1828,7 @@ delusion cannot endure, and when it is finally dispelled there will be
 much work to do--particularly for organizations like SRC which have
 always had to find their way in the void between rhetoric and
 reality.</p>
-          <p id="sc05-1_10214">I have never been blessed with a faith strong enough to take me to
+          <p xml:id="sc05-1_10214">I have never been blessed with a faith strong enough to take me to
 the mountaintop from which Martin Luther King caught sight of the
 promised land, and assured his people that, with or without him, they
 would get there one day. But I have never doubted that his vision of a
@@ -1871,8 +1836,8 @@ beloved community represented the only goal that would, in the end,
 prove acceptable to Southerners. Miss Lillian believed that, too, and
 when, at the end of her life, she revised <title>Killers of the
 Dream</title>, she closed with these lines:</p>
-          <p id="sc05-1_10215">
-            <q direct="unspecified">So we stand: tied to the past and clutching at the stars!
+          <p xml:id="sc05-1_10215">
+            <q>So we stand: tied to the past and clutching at the stars!
 Only by the agonizing pull of our dream can we wrench ourselves from
 such fixating stuff and climb into the unknown. But we have always
 done it and we can do it again. We have the means, the techniques, we
@@ -1880,21 +1845,21 @@ have the knowledge and insight and courage. All have synchronized for
 the first time in history. Do we have the desire? This is a question
 that each of us must answer for himself.</q>
           </p>
-          <div3 id="sc05-1_028" type="About">
-            <p id="sc05-1_10216">Mary Frances Derfner is Vice-President of the Southern
+          <div3 xml:id="sc05-1_028" type="About">
+            <p xml:id="sc05-1_10216">Mary Frances Derfner is Vice-President of the Southern
 Regional Council and chairperson of the Smith Awards Committee. Other
 committee members for 1982 included Tony Dunbar, John Popham, Wilma
 Dykeman and Lottie Shackelford.</p>
           </div3>
         </div2>
-        <div2 id="sc05-1_009" n="2" type="Article">
+        <div2 xml:id="sc05-1_009" n="2" type="Article">
           <head>Delta Politics and the Almost Possible</head>
-          <byline>By <docAuthor><name reg="Barber, Rims" type="person">Rims Barber</name></docAuthor></byline>
-          <docDate value="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Barber, Rims</reg><sic>Rims Barber</sic></choice></name></docAuthor></byline>
+          <docDate when="1983-01">Vol. 5, No. 1, 1983, pp. 4-7</docDate>
           
-          <p id="sc05-1_10218">During the recent redistricting process, black leaders felt that it
+          <p xml:id="sc05-1_10218">During the recent redistricting process, black leaders felt that it
 would be impossible for a black candidate to 
-<pb id="sc05-1_10217" n="5"/>
+<pb xml:id="sc05-1_10217" n="5"/>
 win Mississippi's Second
 Congressional District as it ultimately came to be drawn. The narrow
 black population majority makes victory a very long shot for even the
@@ -1902,7 +1867,7 @@ exceptional campaign conducted with careful consideration of racial
 relationships. Yet when Delta Congressman David Bowen chose not to
 seek re-election in the newly drawn district, black state
 representative Robert Clark ran and almost won.</p>
-          <p id="sc05-1_10219">Robert Clark was an ideal candidate for the campaign. In 1967 he
+          <p xml:id="sc05-1_10219">Robert Clark was an ideal candidate for the campaign. In 1967 he
 became the first black elected to the Mississippi legislature since
 Reconstruction. He has served with distinction as Chairman of the
 House Education Committee. Clark has name recognition. He brought to
@@ -1911,7 +1876,7 @@ relations with education and labor organizations and a claim on the
 white Democratic leadership that few could match. The closeness of the
 race (twelve hundred votes out of 145,000) was in large part
 attributable to the qualities of the candidate himself.</p>
-          <p id="sc05-1_10220">The District is 53.4% black in overall population. Black voting age
+          <p xml:id="sc05-1_10220">The District is 53.4% black in overall population. Black voting age
 population is forty-eight percent. Estimates of registered voters show
 black strength at forty-four percent. This means that it will take a
 solid black vote, at or near record proportions, and a high white
@@ -1919,7 +1884,7 @@ crossover vote for a black Democratic candidate to win. In
 Mississippi, black candidates under most circumstances may expect to
 garner only two to three percent of the white vote. Clark received
 twelve to thirteen percent of the white vote.</p>
-          <p id="sc05-1_10222">Considering the closeness of the race, almost any shift of counties
+          <p xml:id="sc05-1_10222">Considering the closeness of the race, almost any shift of counties
 during reapportionment would have made a significant difference. Had
 the district not been gerrymandered to preserve the incumbency of
 First District Congressman Jamie Whitten, Tallahatchie County could
@@ -1928,12 +1893,12 @@ and Clark could have won. He lost these two small counties by more
 than the difference between himself and the winner, Republican Webb
 Franklin. In similar fashion, Franklin won Warren County by more than
 the final difference 
-<pb id="sc05-1_10221" n="6"/>
+<pb xml:id="sc05-1_10221" n="6"/>
 between the candidates. A split of Warren,
 similar to that made for state legislative districts would have
 shifted enough votes, as would a trade that put a small portion of
 northern Hinds into the Second District.</p>
-          <p id="sc05-1_10223">Victory in the spring, 1982, Democratic primary was crucial. Clark
+          <p xml:id="sc05-1_10223">Victory in the spring, 1982, Democratic primary was crucial. Clark
 won without a runoff although he had little more than one thousand
 white votes. A runoff would have been disastrous: there would have
 been little time to mobilize additional black voters, white support
@@ -1941,7 +1906,7 @@ that appeared in the general election would not have materialized for
 the runoff, and further racial polarization within the party would
 have occurred. There is a high probability that Clark would have lost
 a runoff and that blacks would have bolted the Democratic party.</p>
-          <p id="sc05-1_10224">The November general election attracted the second best black voter
+          <p xml:id="sc05-1_10224">The November general election attracted the second best black voter
 turnout ever; the highest occurred in the 1980 Presidential
 election. This time the vote was approximately ninety percent of that
 record turnout, with between 65,000 and 67,000 black voters. It was
@@ -1951,23 +1916,23 @@ electorate. Approximately forty-two percent of the voting age
 population of blacks turned out while in 1980 it was forty-five
 percent. Anything over sixty thousand is exceptional in this
 geographical area.</p>
-          <p id="sc05-1_10225">The black vote went overwhelmingly for Robert Clark by a margin of
+          <p xml:id="sc05-1_10225">The black vote went overwhelmingly for Robert Clark by a margin of
 ninety-four percent, slightly less than the ninety-six percent bloc
 vote that Jimmy Carter received in 1980.</p>
-          <p id="sc05-1_10226">There were however, some areas of black weakness. Five counties,
+          <p xml:id="sc05-1_10226">There were however, some areas of black weakness. Five counties,
 historically low in turnout, had less than forty percent of their
 black voting age population to vote: Coahoma, Sunflower, Tunica,
 Warren and Washington. Sunflower had the lowest at twenty-eight
 percent. These five counties contain about forty 'percept of the black
 voting age population in the District. Clearly, there is need for
 voter registration work.</p>
-          <p id="sc05-1_10227">There was a strong white turnout, about ten thousand more voters
+          <p xml:id="sc05-1_10227">There was a strong white turnout, about ten thousand more voters
 than had been predicted. As a percentage of the white voting age
 population, the turnout was about forty-eight percent (compared with
 fifty-seven percent in the 1980 Presidential race). Approximately
 81,000 whites voted (compared to 95,000 in 1980 and seventy thousand
 in 1978). Doubtless, racial overtones helped the white turnout.</p>
-          <p id="sc05-1_10228">Robert Clark received about twelve to thirteen percent of the white
+          <p xml:id="sc05-1_10228">Robert Clark received about twelve to thirteen percent of the white
 vote. This varied from over twenty percent in counties like Attala and
 Webster to five and six percent in Coahoma, Leflore and Tunica. In the
 Hill counties, it appears that Clark received a better white vote in
@@ -1976,15 +1941,15 @@ than in rural areas. The work of education and labor groups and the
 Democratic party paid off with significant numbers of whites voting
 for the candidate regardless of race. This was a brave first step for
 several thousand white voters.</p>
-          <p id="sc05-1_10229">The white vote in the District, however, has become increasingly
+          <p xml:id="sc05-1_10229">The white vote in the District, however, has become increasingly
 Republican over the past few years. This has been most pronounced when
 there has been a high white turnout; almost all of the added turnout
 has been Republican. Historically, the ratio of Democrats to
 Republicans among white voters has been one to two.</p>
-          <p id="sc05-1_10230">Over the last half dozen years, this has shifted to one Democrat
+          <p xml:id="sc05-1_10230">Over the last half dozen years, this has shifted to one Democrat
 for every three Republican whites. And in 1982, half of this
 diminished number of Democrats voted Republican.</p>
-          <p id="sc05-1_10231">A close contest is painful to lose and prompts a lot o. second
+          <p xml:id="sc05-1_10231">A close contest is painful to lose and prompts a lot o. second
 guessing. But the challenge in the Second District of Mississippi is
 to build the coalition that can bring victory and adequate
 representation for the District's people. Certainly, some factors
@@ -1995,7 +1960,7 @@ ago (and it might in 1984 if Reagan runs for reelection).</item><item>Had the bl
 consistent.</item><item>Had the white vote not been stirred by the opponent and voted
 in such strong numbers.</item><item>Had a greater number of whites been able to leap the racial
 barrier and vote their usual Democratic pattern.</item></list></p>
-          <p id="sc05-1_10232">Other factors, not so demonstrable, could also have made a
+          <p xml:id="sc05-1_10232">Other factors, not so demonstrable, could also have made a
 difference: had there been a stronger Democratic party structure
 across the District; had the coalition across racial lines been built
 more solidly; had there been less fragmentation in the campaign;
@@ -2003,7 +1968,7 @@ clearer lines of communication, less conflict over strategies; had
 there been more clear Democratic programmatic alternatives
 consistently put before the voter; had more effort been targeted at
 the weak black turnout areas.</p>
-          <p id="sc05-1_10233">The fact is that the election was so close that almost any
+          <p xml:id="sc05-1_10233">The fact is that the election was so close that almost any
 favorable change in reapportionment, registration turnout or
 Democratic party loyalty could have altered. the results. Of
 particular importance, however, is a strengthened and deepened
@@ -2016,28 +1981,28 @@ to increase voter turnout scare off potential white voters? How should
 time be budgeted to produce the best results--how much time ought to
 be spent on the ten to fifteen percent of the white vote that a black
 candidate might get?</p>
-          <p id="sc05-1_10234">Across the lines of race there is, at present, a growing sense of
+          <p xml:id="sc05-1_10234">Across the lines of race there is, at present, a growing sense of
 interdependence in Mississippi's Second District. Both blacks and
 whites are understanding that the kind of education provided their
 children makes a difference to everybody; that health care, from
 Medicare to the building of hospitals, makes a difference to
 everybody; that economic development and the survival of farming make
 a difference to everybody.</p>
-          <p id="sc05-1_10236">Out of Holmes County in the Second District in 1982 came both the
+          <p xml:id="sc05-1_10236">Out of Holmes County in the Second District in 1982 came both the
 Eddie Garthan trial and congressional candidate Robert
 Clark. Carthan's case stood for recent black attempts to gain local
 political power in the face of the long history of white supremacy
 (see "Black Political Participation and the Challenge of
 Conservatism," in <title>Southern Changes</title>, August/September
 1982). Clark's. candidacy gave hope for a new future of inter-racial
-<pb id="sc05-1_10235" n="7"/>
+<pb xml:id="sc05-1_10235" n="7"/>
 politics. For a while, past and future came together in Holmes
 County. In a room of the county courthouse, the Carthan case was
 suspended one day so the election could be conducted. As things turned
 out, Carthan was acquitted and Robert Clark lost by one percent of the
 total vote. Clark says he is "inclined to try again."</p>
-          <div3 id="sc05-1_029" type="About">
-            <p id="sc05-1_10237">Rims Barber is project director for the Childrens'
+          <div3 xml:id="sc05-1_029" type="About">
+            <p xml:id="sc05-1_10237">Rims Barber is project director for the Childrens'
 Defense Fund in Mississippi. He is a member of the Southern Regional
 Council and has been active in civil rights issue in Mississippi for
 eighteen years.</p>
@@ -2046,4 +2011,4 @@ eighteen years.</p>
       </div1>
     </body>
   </text>
-</TEI.2>
+</TEI>

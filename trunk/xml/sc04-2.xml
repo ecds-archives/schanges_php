@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc04-2_1204">
-  <teiHeader id="sc04-21201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc04-2_1204">
+  <teiHeader xml:id="sc04-21201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 4, Number 2</title>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>staff</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc04-2_002">http://pid.emory.edu/ark:/25593/146zs</idno>
-            <idno type="ark" n="sc04-2_003">http://pid.emory.edu/ark:/25593/14701</idno>
-            <idno type="ark" n="sc04-2_004">http://pid.emory.edu/ark:/25593/14715</idno>
-            <idno type="ark" n="sc04-2_005">http://pid.emory.edu/ark:/25593/14729</idno>
-            <idno type="ark" n="sc04-2_006">http://pid.emory.edu/ark:/25593/1473f</idno>
-            <idno type="ark" n="sc04-2_007">http://pid.emory.edu/ark:/25593/1474k</idno>
-            <idno type="ark" n="sc04-2_008">http://pid.emory.edu/ark:/25593/1475q</idno>
-            <availability>
-          <p id="sc04-2_101">1996 Emory
+        </address><idno type="ark" n="sc04-2_002">http://pid.emory.edu/ark:/25593/146zs</idno><idno type="ark" n="sc04-2_003">http://pid.emory.edu/ark:/25593/14701</idno><idno type="ark" n="sc04-2_004">http://pid.emory.edu/ark:/25593/14715</idno><idno type="ark" n="sc04-2_005">http://pid.emory.edu/ark:/25593/14729</idno><idno type="ark" n="sc04-2_006">http://pid.emory.edu/ark:/25593/1473f</idno><idno type="ark" n="sc04-2_007">http://pid.emory.edu/ark:/25593/1474k</idno><idno type="ark" n="sc04-2_008">http://pid.emory.edu/ark:/25593/1475q</idno><availability>
+          <p xml:id="sc04-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -36,53 +26,29 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date value="1982-04">April 1982</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 4</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date when="1982-04">April 1982</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc04-2_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc04-2_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1998</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc04-2_1203">
-    <body id="sc04-2_1202">
-      <div1 id="sc04-2_001" n="Southern Changes 4:2" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc04-2_1203">
+    <body xml:id="sc04-2_1202">
+      <div1 xml:id="sc04-2_001" n="Southern Changes 4:2" type="Issue">
         <head>Southern Changes.  Volume 4, Number 2, 1982</head>
-        <p id="sc04-2_103"><title>Southern Changes</title>.  Volume 4, Number 2,
-	       <date value="1982-04">1982</date></p>
-        <div2 id="sc04-2_002" n="5" type="Article">
+        <p xml:id="sc04-2_103"><title>Southern Changes</title>.  Volume 4, Number 2,
+	       <date when="1982-04">1982</date></p>
+        <div2 xml:id="sc04-2_002" n="5" type="Article">
           <head>Notes of a Klanwatcher</head>
-          <byline>By <docAuthor><name reg="Williams, Randall" type="person">Randall Williams</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 11-13</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Williams, Randall</reg><sic>Randall Williams</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, pp. 11-13</docDate>
           
-          <p id="sc04-2_104">It's easy and relatively safe, in 1982, to hate the KKK, but
+          <p xml:id="sc04-2_104">It's easy and relatively safe, in 1982, to hate the KKK, but
 explaining why an anti-Klan movement is necessary, and getting those
 in that movement to agree with the explanation, is less simple. After
 a year Klanwatching (a friend still calls us occasionally, asks, "Have
@@ -95,21 +61,21 @@ anti-racist group. The supporting parts in the photo are played by
 several dozen members of these two groups, battling in a melee
 apparently provoked by a difference of opinion on how best to oppose
 the racism and violence of the Ku Klux Klan in British Columbia.</p>
-          <p id="sc04-2_105">Looking at that photograph, <hi rend="italic">we</hi> at Klanwatch
+          <p xml:id="sc04-2_105">Looking at that photograph, <hi rend="italic">we</hi> at Klanwatch
 are apt to burst into hysterical laughter.</p>
-          <p id="sc04-2_106">Part of the problem is that there are so many contradictions
+          <p xml:id="sc04-2_106">Part of the problem is that there are so many contradictions
 involved; many questions about what author Stetson Kennedy calls the
 Bedsheet Brigade can be truthfully answered both "yes" and "no." We
 will look at other parts of the problem, but first, consider some of
 the contradictions.</p>
-          <p id="sc04-2_107">No, there aren't enough Klansmen and they aren't well enough
+          <p xml:id="sc04-2_107">No, there aren't enough Klansmen and they aren't well enough
 organized, right now, to pose the country any serious threat. Yes, you
 can still get hurt, killed or otherwise terrorized by the Klan if
 you're the "wrong" color or doing the "wrong" thing. Or if you happen
 to be married to California Klan leader Michael Mendonsa, who recently
 ended his wife's budding career in organized racism by blowing her
 apart with a shotgun.</p>
-          <p id="sc04-2_108">Still another contradiction involves the recently widely publicized
+          <p xml:id="sc04-2_108">Still another contradiction involves the recently widely publicized
 Klan recruitment of youth. No, the Klan Youth Corps is not
 experiencing a membership explosion similar to that of the Hitler
 Youth in the 1930s. Yes, the Klan today deliberately seeks out youth
@@ -119,14 +85,14 @@ harassment is committed by youngsters. Klan literature does show up in
 schools around the country. The stuff is available for the writing
 from three or four Klan publications and is advertised in gun and
 adventure magazines available at most grocery and drug stores.</p>
-          <p id="sc04-2_109">Where Klan chapters exist, it should not surprise anyone when the
+          <p xml:id="sc04-2_109">Where Klan chapters exist, it should not surprise anyone when the
 sons and daughters of Klansmen say or do racist things or pass around
 literature in school. However, the Klan youth camps which were seen on
 television in 1980 and written about in <title>Rolling Stone</title>
 and other publications were largely spontaneous creations for the
 benefit of the press, and the kids in them were almost all the
 children of adult Klan members.</p>
-          <p id="sc04-2_1010">I think the Klan has definite allure for certain types of white
+          <p xml:id="sc04-2_1010">I think the Klan has definite allure for certain types of white
 children. Kids dwell on mystery, violence and sensationalism, and the
 Klan has all of that, especially as portrayed by much of the reporting
 on the subject today. Some kids--perhaps most of them, really--are
@@ -136,7 +102,7 @@ can't make the debate team (or; equally likely, is never encouraged to
 try), gets beat out by black kids on the basketball team, and sits
 sullenly in the back of the classroom--that kid is ripe for
 recruitment.</p>
-          <p id="sc04-2_1011">But even the strength of the adult Klan is a contradiction. It is
+          <p xml:id="sc04-2_1011">But even the strength of the adult Klan is a contradiction. It is
 not true that the Klan's membership is currently growing by leaps and
 bounds, through reporter after reporter dutifully licks his pencil
 point and records it when the local head cone confides, "Well, son, we
@@ -151,23 +117,23 @@ people in Washington doing more harm with ink pens than the Klan is
 with axe handles. Elsewhere, racist violence, whether committed by
 actual Klan members or not, is at a sickeningly high level, as is
 religious bigotry.</p>
-          <p id="sc04-2_1012">There is genuine reason to be concerned about these turns of
+          <p xml:id="sc04-2_1012">There is genuine reason to be concerned about these turns of
 events, all condradictions notwithstanding, especially when the
 leaders of the nation seem blind to the existence of the problems and
 the causes.</p>
-          <p id="sc04-2_1014">Which brings us to today's sermon topic. We can cuss, meet, march,
+          <p xml:id="sc04-2_1014">Which brings us to today's sermon topic. We can cuss, meet, march,
 legislate and litigate until the proverbial freezing over of hell, but
 until we start thinking about Klansmen as people and consider how it
 is that we still have a society which spawns them we're not going to
 whip the problem. This is not to say that the current educational
 campaigns against the Klan are no good, or that the 
-<pb id="sc04-2_1013" n="12"/>
+<pb xml:id="sc04-2_1013" n="12"/>
 prosecutions and
 civil lawsuits against criminal Klansmen do not deter other racist
 violence, or that outspoken stands against the Klan philosophy have no
 effect. All of these are vital and are largely responsible for the
 current disarray within the Klan ranks.</p>
-          <p id="sc04-2_1015">But one of the obvious similarities of most Klansmen is an
+          <p xml:id="sc04-2_1015">But one of the obvious similarities of most Klansmen is an
 overwhelming ignorance and a complete alienation from our society and
 its institutions. It's a tough concept to sell the "Death of the Klan"
 crowd, but I think most Klansmen, the rank and file, are victimized
@@ -183,7 +149,7 @@ landlord, by George Wallace and Jim Eastland and the like, and finally
 by smooth-talking salesmen like Bill Wilkinson (head of the Invisible
 Empire), David Duke (National Association for the Advancement of White
 People), and Don Black (Knights of the KKK).</p>
-          <p id="sc04-2_1016">Having been ignored for so long, many of them are attracted by the
+          <p xml:id="sc04-2_1016">Having been ignored for so long, many of them are attracted by the
 aroma of power which surrounds Klan leaders. It must be power, the
 prospective Kluxer reasons, because people like Wilkinson get on the
 Phil Donahue and Tom Snyder shows; they can go to city hall and
@@ -192,7 +158,7 @@ to call (chuckle) a spade a spade; they've got big cars, bodyguards
 and can even wear a suit without looking as if it was bought that
 morning. Once he joins, the new Kluxer can get on the evening news
 himself, just for standing on the street corner in his robe.</p>
-          <p id="sc04-2_1017">In addition to power, the social aspect of the Klan, the sense of
+          <p xml:id="sc04-2_1017">In addition to power, the social aspect of the Klan, the sense of
 belonging to something, should not be overlooked. Most Klansmen have
 never belonged to anything. Surprisingly few of them, considering the
 Klan's lip service to Christianity, even attend church, according to
@@ -207,16 +173,16 @@ old vigilante notion that the Klan keeps in line not only black people
 but also would-be wife deserters, wanton women, etc.) Under
 questioning, the Klansmen admitted that the only other organization he
 had ever joined was the French club in his high school.</p>
-          <p id="sc04-2_1018">He is not atypical. Frequently, Klan meetings and rallies have an
+          <p xml:id="sc04-2_1018">He is not atypical. Frequently, Klan meetings and rallies have an
 atmosphere which for all its perverse weirdness can only be described
 as like a country social. There may be music and speeches, children
 playing in the grass, mama and daddy dressed in their robes, grandma
 sitting in her folding lawn chair, and plenty of fish and beer.</p>
-          <p id="sc04-2_1019">In such situations, an interested onlooker who can detach himself
+          <p xml:id="sc04-2_1019">In such situations, an interested onlooker who can detach himself
 for a moment from his feelings of contempt and hatred for what the
 organization before him represents, will be swept by a sense of
 sadness and pity.</p>
-          <p id="sc04-2_1020">Or sometimes humor, because in its benign moments the Klan often
+          <p xml:id="sc04-2_1020">Or sometimes humor, because in its benign moments the Klan often
 makes me wonder: If I'm supposed to be so scared, why do I feel like
 laughing? Last summer, Mike Vahala (also a Klanwatch staffer) and I
 attended a Klan recruitment rally in a public park on the outskirts of
@@ -225,7 +191,7 @@ there was the usual incoherent discussion of how the government and
 especially the courts had abandoned white people, then the meeting
 broke up so the Klansmen could go burn a cross, which was not
 permitted in the public park.</p>
-          <p id="sc04-2_1021">On impulse, Mike and I got in line in the caravan which formed, and
+          <p xml:id="sc04-2_1021">On impulse, Mike and I got in line in the caravan which formed, and
 we drove 10 or 12 miles out in the country, turned off the main road
 onto a side road, then off that onto a private road which went across
 a pasture and into some woods. It was dark and mighty lonely, and the
@@ -234,7 +200,7 @@ for Mike and myself and two guys we thought (and hoped) were
 undercover cops, the rest appeared to be Klan members, some robed and
 some not, or at least strong sympathizers. There had been no weapons
 in the public park, but suddenly everyone was wearing them.</p>
-          <p id="sc04-2_1022">It was a slightly anxious moment, but then it became obvious that
+          <p xml:id="sc04-2_1022">It was a slightly anxious moment, but then it became obvious that
 no one was paying attention to us. Instead, there was a serious
 problem with the cross-burning equipment. In an achievement of
 high-tech Klankraft, the local boys had built themselves a reusable
@@ -244,7 +210,7 @@ half-hour or so, an awful lot of grunting and sweating went on, and
 some mighty nice white robes got soiled with dirt and diesel fuel. By
 this time it was getting late, and Mike and I faced a long drive and
 were ready to start home.</p>
-          <p id="sc04-2_1023">We eased into the crowd and made a few suggestions, directed a
+          <p xml:id="sc04-2_1023">We eased into the crowd and made a few suggestions, directed a
 couple of guys to get up on a pickup truck for leverage, had others
 tie a chain to the cross and pull, and finally the cross stood up,
 though by now the pipe had bent and throughout the ceremony which
@@ -257,11 +223,11 @@ with his face down and through his mask. It didn't seem to matter. The
 cross lit up the sky and the non-robed spectators made photographs,
 and the night air was enlivened by a few "White Power" chants. Then we
 all went home.</p>
-          <p id="sc04-2_1024">My point is not that ineptitude makes the Klan less dangerous, but
+          <p xml:id="sc04-2_1024">My point is not that ineptitude makes the Klan less dangerous, but
 that its members are merely human beings who happen to be united in a
 destructive cause. United also by ignorance, by their station in life,
 by their utter inability to comprehend the world around them.</p>
-          <p id="sc04-2_1026">In this case, ignorance is not bliss, but blindness. While visiting
+          <p xml:id="sc04-2_1026">In this case, ignorance is not bliss, but blindness. While visiting
 the national office (a one-room masonry building) of the Knights of
 the Ku Klux Klan in Tuscumbia to serve a subpoena, I had a long,
 casual conversation with Charlie Thomas, who works in the
@@ -276,31 +242,31 @@ also insisted that the racial turmoil in Decatur, Ala., in 1979, when
 the Klan had attacked peaceful black demonstrators, had come about
 because the blacks were marching in celebration of the anniversary of
 the rape of a white woman. When I told him he was 
-<pb id="sc04-2_1025" n="13"/>
+<pb xml:id="sc04-2_1025" n="13"/>
 wrong, that the
 march had been to protest what the demonstrators perceived as the
 unjust prosecution and conviction of a retarded black man for that
 crime, he was unmoved.</p>
-          <p id="sc04-2_1027">Charlie Thomas did not strike me as a particularly evil man. He
+          <p xml:id="sc04-2_1027">Charlie Thomas did not strike me as a particularly evil man. He
 doesn't seem too smart and he clearly is angry about a lot of things,
 though he has difficulty explaining just what. My guess is that if a
 good union had gotten to Charlie Thomas first, he would be just as
 dedicated to the brotherhood of workers as he currently is to the
 KKK.</p>
-          <p id="sc04-2_1028">We should think about that when we next start chanting, "Death to
+          <p xml:id="sc04-2_1028">We should think about that when we next start chanting, "Death to
 the Klan."</p>
-          <div3 id="sc04-2_022" type="About">
-            <p id="sc04-2_1029">Randall Williams is an Alabama writer who its currently
+          <div3 xml:id="sc04-2_022" type="About">
+            <p xml:id="sc04-2_1029">Randall Williams is an Alabama writer who its currently
 serving as director of the KLANWATCH project of the Southern Poverty
 Law Center.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_003" n="4" type="Article">
+        <div2 xml:id="sc04-2_003" n="4" type="Article">
           <head>'Fair Representation is Essential to Democracy'</head>
-          <byline>By <docAuthor><name reg="Wheeler, Raymond" type="person">Raymond Wheeler</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 10</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Wheeler, Raymond</reg><sic>Raymond Wheeler</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, p. 10</docDate>
           
-          <p id="sc04-2_1030">I am a physician, a native of North Carolina, practicing in
+          <p xml:id="sc04-2_1030">I am a physician, a native of North Carolina, practicing in
 Charlotte. I speak today as a citizen of the state interested in fair
 and open government and equal opportunity for all people in the
 state. I speak also as a member of the Southern Regional Council, a
@@ -308,7 +274,7 @@ group of Southerners both black and white which, for nearly 40 years,
 has pursued similar goals for all of the Southern region. The Council
 has done important research into patterns of citizen participation in
 the governing of North Carolina.</p>
-          <p id="sc04-2_1031">Since the turn of the century, when it was one of three Southern
+          <p xml:id="sc04-2_1031">Since the turn of the century, when it was one of three Southern
 states that refused to hold a constitutional convention to
 disenfranchise blacks, North Carolina has maintained a separate
 identity in the Southern history of race relations and an almost
@@ -318,7 +284,7 @@ accomplishment of self-restraint during the long years of turmoil and
 violence that marked the times before and during the Civil Rights
 Movement and during the painful period of adjustment to
 desegregation.</p>
-          <p id="sc04-2_1032">This reminds me of a statement made several years ago by John
+          <p xml:id="sc04-2_1032">This reminds me of a statement made several years ago by John
 Seigenthaler, editor and publisher of the Nashville
 <title>Tennessean</title> at a meeting on Southern politics. "For
 decades," he said, "Southerners of good will have pleaded for
@@ -327,33 +293,33 @@ save us from it." While allowing for a little Southern hyperbole, the
 sentiment is appropriate to the paradox of North Carolina's moderation
 in race relations while we have been most effective in belittling the
 voting strength of a sizable black population.</p>
-          <p id="sc04-2_1033">It is certainly no surprise that the Justice Department has
+          <p xml:id="sc04-2_1033">It is certainly no surprise that the Justice Department has
 disapproved the plans of North Carolina for redrawing both
 congressional and legislative districts. All three plans have
 contained the same obvious flaw and they dilute the voting strength of
 North Carolina's black residents by assuring them minority status in
 almost every district.</p>
-          <p id="sc04-2_1034">According to the 1980 census, of the 15 states with the highest
+          <p xml:id="sc04-2_1034">According to the 1980 census, of the 15 states with the highest
 percentage of black population, North Carolina has the smallest
 percentage of blacks in the legislature. Thirteen of those states
 elected at least one house of their legislatures entirely from single
 member districts. Twenty-two percent of all North Carolinians are
 black. The membership of this general assembly is 2.3 percent
 black!</p>
-          <p id="sc04-2_1035">North Carolina has the lowest percentage of black legislators of
+          <p xml:id="sc04-2_1035">North Carolina has the lowest percentage of black legislators of
 the seven states with black populations of 20 percent or greater. The
 national average per state is 12 percent black population and 4.2
 percent black legislators.</p>
-          <p id="sc04-2_1036">Among the Southern states covered by the Voting Rights Act, North
+          <p xml:id="sc04-2_1036">Among the Southern states covered by the Voting Rights Act, North
 Carolina is second from the bottom in the percentage of all black
 elected officials. Statewide, 4.7 percent of our elected officials are
 black. For the record, in 1968 the percentage was 0.18.</p>
-          <p id="sc04-2_1037">I do not report these figures in order to argue that the percentage
+          <p xml:id="sc04-2_1037">I do not report these figures in order to argue that the percentage
 of black elected officials or black legislators should necessarily
 correspond precisely with the percentage of black population. However,
 the comparison is a bench mark of black participation in government
 and an indicator of how much progress is yet to be made.</p>
-          <p id="sc04-2_1038">The unavoidable conclusion is that in spite of a steady increase in
+          <p xml:id="sc04-2_1038">The unavoidable conclusion is that in spite of a steady increase in
 black registration and voting in North Carolina, there is widespread
 and massive under-representation of black voters in the political
 affairs of the state. Whether by the design of political leadership or
@@ -361,50 +327,50 @@ by prejudice of white voters, blacks have been denied the opportunity
 to participate in the process which determines how we are governed. So
 long as that is true, there can be little accountability or fair, open
 decision making in government.</p>
-          <p id="sc04-2_1039">Representative government for blacks is also important for
+          <p xml:id="sc04-2_1039">Representative government for blacks is also important for
 whites. Unless the primary obstacles to full participation in the
 electoral process are removed, public confidence in government,
 citizen access to government, and public accountability of government
 officials will be unreached goals for both black and white
 citizens.</p>
-          <p id="sc04-2_1040">I am asking the General Assembly to face squarely and honestly the
+          <p xml:id="sc04-2_1040">I am asking the General Assembly to face squarely and honestly the
 notion that a fair system of representation is essential to
 democracy. If you do that, you must agree that blacks need more
 representation in government and you must come down unequivocally in
 support of an electoral system based on single member districts
 throughout our state.</p>
-          <p id="sc04-2_1041">Legislatures in thirty states are already elected from single
+          <p xml:id="sc04-2_1041">Legislatures in thirty states are already elected from single
 member districts including Alabama, Mississippi, Tennessee and
 Louisiana.</p>
-          <p id="sc04-2_1042">Single member districts provide a wider diversity of interests in
+          <p xml:id="sc04-2_1042">Single member districts provide a wider diversity of interests in
 the legislature. Voters have clearer choices. Legislators have more
 responsive and loyal constituencies while at the same time the
 legislator is required to be more accountable.</p>
-          <p id="sc04-2_1043">Single member districts provide each of us with a sense of a
+          <p xml:id="sc04-2_1043">Single member districts provide each of us with a sense of a
 greater stake in the responsibilities of government. There is no way
 that North Carolina can fail to emerge from such a process except as a
 stronger, more unified state in which needs will be met and problems
 will be solved.</p>
-          <div3 id="sc04-2_023" type="About">
-            <p id="sc04-2_1044">The late Raymond Wheeler, a former president of the
+          <div3 xml:id="sc04-2_023" type="About">
+            <p xml:id="sc04-2_1044">The late Raymond Wheeler, a former president of the
 Southern Regional Council, made these comments to a North Carolina
 legislative committee on redistricting on Feb. 4, 1982.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_004" n="2" type="Review">
+        <div2 xml:id="sc04-2_004" n="2" type="Review">
           <head><title>Protest and Survive.</title> Edited by E.P. Thompson and
 Dan Smith, New York: Monthly Review Press, 1981 $4.95.</head>
-          <byline>By <docAuthor><name reg="Tullos, Allen" type="person">Allen Tullos</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, p. 4</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, p. 4</docDate>
           
-          <p id="sc04-2_1045"><title>Protest and Survive</title> is a powerful gift from European
+          <p xml:id="sc04-2_1045"><title>Protest and Survive</title> is a powerful gift from European
 Nuclear Disarmament (END) to the growing American movement. The book
 originated as a reaction to "Protect and Survive." a take-cover
 pamphlet prepared in 1980 by British civil defense. The U.S. version
 contains historian E.P. Thompson's "A Letter to America," and 11 other
 essays exploring the current arms race, nuclear war, military
 bureaucracy and the prospects for peacemaking.</p>
-          <p id="sc04-2_1046">The introduction by Daniel Ellsberg details the secret history of
+          <p xml:id="sc04-2_1046">The introduction by Daniel Ellsberg details the secret history of
 U.S. nuclear threats against other governments since the 1945 bombing
 of Hiroshima and Nagasaki. The instances include Korea, Berlin, Cuba,
 Vietnam and Iran. "Every president," writes Ellsberg, "from Truman to
@@ -415,12 +381,12 @@ of an ongoing, intense, non-nuclear conflict or crisis." Most
 recently, the threats have appeared as public policy in the Carter
 Doctrine endorsed by the present administration, which would start
 World War III to protect Western oil interests in the Persian Gulf.</p>
-          <p id="sc04-2_1047">Emma Rothschild opens her essay with the observation that "the
+          <p xml:id="sc04-2_1047">Emma Rothschild opens her essay with the observation that "the
 United States may buy itself two things with its $1 trillion defense
 budget of 1981 to 1985. The first is an economic decline of the sort
 that comes about once or twice in a century. The second is a nuclear
 war." She examines the destructive costs of the American arms boom.</p>
-          <p id="sc04-2_1048">A former U.S. War Department analyst, Henry T. Nash, writes about
+          <p xml:id="sc04-2_1048">A former U.S. War Department analyst, Henry T. Nash, writes about
 his job with the Air Targets Division of the Air Force in the 1950s
 and 60s. He tells of the secrecy and professional competition existing
 in the bureaucratic preparation for mass homicide. Ambitious young
@@ -429,12 +395,12 @@ for receiving our nuclear warheads. If an analyst's proposed target is
 selected for the official "Bombing Encyclopedia," he may merit
 promotion and entree into even deadlier, more classified
 information.</p>
-          <p id="sc04-2_1049">Having left the Air Force project and become a teacher, Nash is now
+          <p xml:id="sc04-2_1049">Having left the Air Force project and become a teacher, Nash is now
 visited by "haunting memories of his work." "What," he asks, "enabled
 us calmly to plan to incinerate vast numbers of unknown human beings
 without any sense of moral revulsion?" He describes some of the
 "forces within the system that work against such self-examination."</p>
-          <p id="sc04-2_1050">Amid insane circumstances worthy of all despair, the present
+          <p xml:id="sc04-2_1050">Amid insane circumstances worthy of all despair, the present
 disarmament movement now stirs on an international
 level. <title>Protest and Survive</title> is one sign that there is
 still a chance to save ourselves from ourselves. That the chance is
@@ -446,17 +412,17 @@ weapons, if they did not accept his terms." Hanoi didn't accept the
 terms and Nixon didn't carry out his nuclear threat. Why not? As Nixon
 himself records in his memoirs, there were already too many Americans
 in the streets protesting the U.S. war policy.</p>
-          <div3 id="sc04-2_024" type="About">
-            <p id="sc04-2_1051">Allen Tullos is a native Alabamian who is now completing
+          <div3 xml:id="sc04-2_024" type="About">
+            <p xml:id="sc04-2_1051">Allen Tullos is a native Alabamian who is now completing
 his doctoral dissertation in history at Yale University.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_005" n="7" type="Article">
+        <div2 xml:id="sc04-2_005" n="7" type="Article">
           <head>The Reagan Impact On the South's Poor</head>
-          <byline>By <docAuthor><name reg="Suitts, Steve" type="person">Steve Suitts</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 15-16</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, pp. 15-16</docDate>
           
-          <p id="sc04-2_1052">More than three decades ago, after the country had climbed up from
+          <p xml:id="sc04-2_1052">More than three decades ago, after the country had climbed up from
 the Deep Depression, President Franklin Roosevelt said that the South
 was the "nation's number one economic problem." A few years
 ago. facing a sluggish national economy, the president of Westinghouse
@@ -465,7 +431,7 @@ for business." The changes have been remarkable. In the last decade
 the region experienced the most rapid economic activity in its
 recorded history, and in population and gross income it exceeded the
 nation's growth.</p>
-          <p id="sc04-2_1053">Yet, other statistics tell us that Southerners remain the country's
+          <p xml:id="sc04-2_1053">Yet, other statistics tell us that Southerners remain the country's
 poorest people and the poorest paid workers. Only in Texas among the
 Southern states does the per capita income equal the national
 average. In Mississippi, per capita personal income is only 69 percent
@@ -473,14 +439,14 @@ of the nation's, and the average Alabamian has only three-fourths of
 the income of the average American. In the Deep South, industrial jobs
 pay only about 68 percent of the wages for the same jobs outside the
 region.</p>
-          <p id="sc04-2_1054">The incomes of Southern families, especially black families, remain
+          <p xml:id="sc04-2_1054">The incomes of Southern families, especially black families, remain
 very limited. In 1976, in the census South, 25 percent of white
 families earned less than $8,000, and one in three families earned
 less than $10.000. Of the nearly three million black families in the
 same region, 49 percent earned less than $8.000, and more than 60
 percent earned less than $10,000. Nearly one in three of all black
 families in the region were below the poverty level in 1976.</p>
-          <p id="sc04-2_1055">As this distribution of income suggests, the heads of Southern
+          <p xml:id="sc04-2_1055">As this distribution of income suggests, the heads of Southern
 families--and most of them do work--are poorly paid, and black wage
 earners are disproportionately concentrated in low-paying
 jobs. Indeed, the gap between the incomes of black and white families
@@ -492,13 +458,13 @@ the white family. By 1975 the income of black families had risen in
 the region and the nation to 61 percent of white families' income. But
 by 1980 black families" income in the South had dropped to nearer 57
 percent of white income.</p>
-          <p id="sc04-2_1056">Perhaps most disturbing, black males' income in 1950 was 58 percent
+          <p xml:id="sc04-2_1056">Perhaps most disturbing, black males' income in 1950 was 58 percent
 of white males' income. By 1975 black males' income had dropped to 57
 percent of white male income, and in 1980 it was nearer 55
 percent. Really not surprising, the 11 Southern states remain the home
 of one-third of the nation's poor and one-half of the nation's black
 poor.</p>
-          <p id="sc04-2_1057">Into this era of simultaneously accelerating economic activity and
+          <p xml:id="sc04-2_1057">Into this era of simultaneously accelerating economic activity and
 sinking personal reward came Ronald Reagan, who interpreted his
 victory margin of less than 5 percent as a "mandate" for major changes
 in the role of the federal government and the allocations of the
@@ -506,24 +472,24 @@ federal budget. These changes presume the existence of a wasteful,
 bloated bureaucracy of excessive benefits to a huge lot of undeserving
 and a small number of deserving, truly needy individuals. The reality
 is very different.</p>
-          <p id="sc04-2_1059">Though similar contrasts can be shown for housing, Medicaid and
+          <p xml:id="sc04-2_1059">Though similar contrasts can be shown for housing, Medicaid and
 employment training, a brief look at food stamps and Aid to Families
 with Dependent Children (AFDC) shows how Reagan is cutting away our
 promise to the poor before it began to be truly fulfilled.
-<pb id="sc04-2_1058" n="16"/></p>
-          <p id="sc04-2_1060">There are wide variations in the level of AFDC benefits for
+<pb xml:id="sc04-2_1058" n="16"/></p>
+          <p xml:id="sc04-2_1060">There are wide variations in the level of AFDC benefits for
 families across the country, although the composition of the family
 may be the same. For example, before Oct. 1,1981, the maximum monthly
 benefit to a family of three with no additional income was only $96 in
 Mississippi and $122 in Tennessee. In New York it has been more than
 $200.</p>
-          <p id="sc04-2_1061">Even before October 1981, AFDC payments have been received by a
+          <p xml:id="sc04-2_1061">Even before October 1981, AFDC payments have been received by a
 relatively small percentage of the South's population. Less than 7
 percent of Mississippi's population received support from this
 program, and in no other Southern state was the percentage as high. In
 Texas, for example, only three percent of the state's population were
 recipients of AFDC.</p>
-          <p id="sc04-2_1062">When compared to the number of poor in the South today. these
+          <p xml:id="sc04-2_1062">When compared to the number of poor in the South today. these
 statistics belie the notion that the welfare rolls. before the budget
 cuts, included many who weren't needy. The numbers of poor among the
 total population in most Southern states were three or four times
@@ -531,7 +497,7 @@ larger than the numbers of those on AFDC. In Alabama, 16.4 percent of
 the population was poor, while only 4.6 percent received welfare
 benefits. In Mississippi, the 7 percent of the population on AF DC was
 dwarfed by the 26 percent of the population in poverty.</p>
-          <p id="sc04-2_1063">These comparisons add up to one important fact about the welfare
+          <p xml:id="sc04-2_1063">These comparisons add up to one important fact about the welfare
 program that existed before Oct. 1, 1981: many more poor children in
 the South were in families without AFDC support than with it. In
 Florida, less than 40 percent of the children in poverty received
@@ -540,12 +506,12 @@ poor. In the 11 Southern states, only 3.5 percent of the population
 receives cash assistance from AFDC while more than 10 percent of the
 families within the South had incomes below 75 percent of the poverty
 level.</p>
-          <p id="sc04-2_1064">In the program which provides food stamps to the poor and the
+          <p xml:id="sc04-2_1064">In the program which provides food stamps to the poor and the
 poorly paid, the number of poor who have actually received benefits in
 the South is considerably below the total poor population of the
 region. At the beginning of 1980, nearly two out of five poor families
 in the South did not receive anv food stamps.</p>
-          <p id="sc04-2_1065">Benefits provided under the Food Stamp Program are determined
+          <p xml:id="sc04-2_1065">Benefits provided under the Food Stamp Program are determined
 largely by the amount of money needed to obtain an adequate,
 nutritional diet. A family of three in Arkansas receiving the maximum
 AFDC payment of $161 before Oct. 1 could have received $160 in food
@@ -553,20 +519,20 @@ stamps. An AFDC mother in Arkansas probably spent more than $23 of her
 AFDC payment on food, leaving less than $138 a month for rent,
 utilities, transportation, clothing, and other essential expenses of
 herself and two children.</p>
-          <p id="sc04-2_1066">Life with both AFDC benefits and food stamps has been no easy ride
+          <p xml:id="sc04-2_1066">Life with both AFDC benefits and food stamps has been no easy ride
 for the poor in the South. Combined benefits provided by AFDC and food
 stamps were extremely low even before cutbacks. Few states provided
 combined benefits equal to the official poverty level. As of May,
 1981, nine states--all in the South--provided combined benefits which
 were less than 65 percent of the poverty level.</p>
-          <p id="sc04-2_1067">These numbers do not deny that programs aimed at reducing poverty
+          <p xml:id="sc04-2_1067">These numbers do not deny that programs aimed at reducing poverty
 have been at times poorly administered or even ill-conceived. Much of
 the government's efforts in the area have probably been
 ineffective. Nonetheless, the national government's commitment to
 ending poverty has not been what it is portrayed to be by this
 Administration. By no analysis can the programs in the South be shown
 as overly generous to the unneedy.</p>
-          <p id="sc04-2_1068">Yet the truly needy of the South are being abandoned by the present
+          <p xml:id="sc04-2_1068">Yet the truly needy of the South are being abandoned by the present
 and anticipated policies of the national government. This
 Administration has offered nothing that signals an attempt to rethink
 any misjudgments of the last 15 years in the war against poverty, nor
@@ -581,18 +547,18 @@ this effort continues, the South's poor--both those who now work and
 those who do not--shall face a future of crippled opportunities and
 the nation will have surrendered the truest, most selfless element of
 the American character.</p>
-          <div3 id="sc04-2_025" type="About">
-            <p id="sc04-2_1069">Steve Suitts is the executive director of the Southern
+          <div3 xml:id="sc04-2_025" type="About">
+            <p xml:id="sc04-2_1069">Steve Suitts is the executive director of the Southern
 Regional Council. This article is adapted from remarks at the Southern
 Labor Institute in December.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_006" n="3" type="Article">
+        <div2 xml:id="sc04-2_006" n="3" type="Article">
           <head>An Update on Voting Changes in the South</head>
-          <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 5-11</docDate>
+          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, pp. 5-11</docDate>
           
-          <p id="sc04-2_1070">Since last summer, when legislative committees began meeting
+          <p xml:id="sc04-2_1070">Since last summer, when legislative committees began meeting
 quietly and computers started humming, reapportionment in the South
 has charged into the political thicket like a herd of . . . well,
 elephants, some white Southern Democrats are now claiming, creating
@@ -600,7 +566,7 @@ thunderous noise along ancient paths. Even as the campaigns approach,
 Southern legislative leaders hold fast to the belief that
 redistricting plans must protect incumbents and cap, if not minimize,
 minority voting strength.</p>
-          <p id="sc04-2_1071">An unexpected obstacle in the path of Southern reapportionment has
+          <p xml:id="sc04-2_1071">An unexpected obstacle in the path of Southern reapportionment has
 been the Justice Department, which reviews all voting
 changes--including redistricting--in eight Southern states. Empowered
 by the Voting Rights Act, the Attorney General (in practice, the
@@ -608,33 +574,33 @@ Assistant Attorney General and the staff of the voting rights section)
 is required to disapprove a voting change if the local or state
 government fails to prove that its plan is not racially discriminatory
 in purpose or effect.</p>
-          <p id="sc04-2_1072">The surprising fact is that the Reagan Administration's Justice
+          <p xml:id="sc04-2_1072">The surprising fact is that the Reagan Administration's Justice
 Department has enforced this provision and disapproved of statewide
 redistricting plans in Georgia, South Carolina, North Carolina,
 Virginia, and Texas. While approving a congressional district plan in
 Alabama, Justice is expected by inside observers to object to
 statewide plans in Alabama and Louisiana. It hasn't acted in
 Mississippi yet.</p>
-          <p id="sc04-2_1073">In the face of the Reagan Administration's weakening position on
+          <p xml:id="sc04-2_1073">In the face of the Reagan Administration's weakening position on
 renewal of the Voting Rights Act, tax laws for segregation academies,
 and other civil rights issues, this string of objections is unique, if
 not miraculous. While civil rights lawyers are cautious in commenting
 on the pattern, Southern Democrats in the state Legislatures say the
 motivation is an opportunity for Republican political gains.</p>
-          <p id="sc04-2_1074">For example, some white North Carolina Democrats from Charlotte,
+          <p xml:id="sc04-2_1074">For example, some white North Carolina Democrats from Charlotte,
 Raleigh, and Greensboro charge that Justice's interest in
 single-member districts stems from a political awareness that
 Republican candidates in suburban areas will be helped by the creation
 of majority black districts in urban areas, leaving white Democrats
 with out a majority in much of the metropolitan area.</p>
-          <p id="sc04-2_1075">Some white Democrats in Georgia echo that sentiment as they now
+          <p xml:id="sc04-2_1075">Some white Democrats in Georgia echo that sentiment as they now
 protest Justice's objection to a 57 percent majority black
 congressional district which the state legislature passed as it turned
 down a 69 percent district. "The Republican Administration is
 interested in getting rid of two white Democrats," an administrative
 assistant to a Georgia congressman said, "and replacing them with a
 black and a Republican."</p>
-          <p id="sc04-2_1076">Southern black state legislators (who are without exception also
+          <p xml:id="sc04-2_1076">Southern black state legislators (who are without exception also
 Democrats) counter these arguments with a string of facts about
 specific redistricting plans. They note that while objecting to
 several Southern redistricting plans, Justice often stops short of
@@ -647,12 +613,12 @@ disapprove of these districts but focused on three districts
 elsewhere. "It's more of an approval than a disapproval of
 discriminatory districts," says State Rep. Tyrone Brooks about
 Justice's actions-in Georgia.</p>
-          <p id="sc04-2_1077">Moreover, despite possible Republican gains in some redistricting,
+          <p xml:id="sc04-2_1077">Moreover, despite possible Republican gains in some redistricting,
 white Democratic legislators have diluted black voting strength in
 places where Democrats would be replaced not by Republicans, but by
 other Democrats. Here the winning Democrat would, however, be a
 black. And there lies the rub.</p>
-          <p id="sc04-2_1078">From Virginia to Texas, legislatures have drawn districts in rural,
+          <p xml:id="sc04-2_1078">From Virginia to Texas, legislatures have drawn districts in rural,
 heavily black or Hispanic areas that reduce or maintain at a low level
 the voting strength of a majority of non-whites. This pattern appears
 throughout the South's Black Belt despite the fact that the population
@@ -661,11 +627,11 @@ states. The Alabama legislature's plan shaved off enough percentages
 in five existing districts with at least 60 percent black population
 so that blacks in the proposed districts do not have a voting
 majority. Almost every Southern state adheres to similar practice.</p>
-          <p id="sc04-2_1080">In recent weeks the federal courts have begun to intervene in state
+          <p xml:id="sc04-2_1080">In recent weeks the federal courts have begun to intervene in state
 reapportionment, usually issuing orders for new plans where the state
 is unable to adopt a lawful plan in time to get the 1982 elections
 underway. While the 
-<pb id="sc04-2_1079" n="6"/>
+<pb xml:id="sc04-2_1079" n="6"/>
 courts have been seen as a major protection for
 black voting interests in the past, the early court orders in Southern
 reapportionment show no substantial promise that the courts will offer
@@ -677,12 +643,12 @@ congressional and state house redistricting offer a mixture of
 improvements and disappointments for minority voters. Lawsuits asking
 for court orders in other states are pending in Virginia, North
 Carolina, South Carolina, and Alabama.</p>
-          <p id="sc04-2_1081">Below is a summary of the reapportionment efforts in the 11
+          <p xml:id="sc04-2_1081">Below is a summary of the reapportionment efforts in the 11
 Southern states.</p>
-          <p id="sc04-2_1082">
+          <p xml:id="sc04-2_1082">
             <hi rend="bold">Alabama</hi>
           </p>
-          <p id="sc04-2_1083">Air traffic between Montgomery and Washington D.C., has been heavy
+          <p xml:id="sc04-2_1083">Air traffic between Montgomery and Washington D.C., has been heavy
 in the last few weeks with several confabs between legislators and
 Justice Department officials. Legislators and attorneys representing
 the state have met with U.S. Assistant Attorney General William
@@ -690,12 +656,12 @@ Bradford Reynolds and his staff several times, and legislative black
 caucus members as well as civil rights lawyers and community leaders
 have also journeyed to Washington to urge objections to the
 reapportionment plans for the state house and senate.</p>
-          <p id="sc04-2_1084">The groups voicing opposition to the state plan include the NAACP,
+          <p xml:id="sc04-2_1084">The groups voicing opposition to the state plan include the NAACP,
 ACLU, Common Cause, Alabama Democratic Conference and the League of
 Women Voters. These groups opposed the plans during the special
 session last fall and have protested both the plans and the
 closed-door decisions that developed them.</p>
-          <p id="sc04-2_1085">Recent data from the Alabama legislative staff indicate the state
+          <p xml:id="sc04-2_1085">Recent data from the Alabama legislative staff indicate the state
 plan proposes to reduce black voting strength at the polls not only in
 the Black Belt but in districts presently held by black incumbents
 elsewhere. In the Black Belt, white State Rep. Bill Edwards's district
@@ -704,7 +670,7 @@ Manley's district is reduced to 59 percent and Rep. Leigh Pegue's
 district drops to 55 percent black. Both are presently above 65
 percent. Manley served as chairman of the reapportionment committee
 and has been one of the principal lawmakers visiting Washington.</p>
-          <p id="sc04-2_1086">In urban areas the black percentages in some districts are also
+          <p xml:id="sc04-2_1086">In urban areas the black percentages in some districts are also
 significantly reduced. Rep. Yvonne Kennedy, chairwoman of the
 legislative black caucus, saw her Mobile district go from 80 percent
 to 69 percent black and black State Rep. Bill Clark's district in the
@@ -715,46 +681,46 @@ each other. Another district previously more than 60 percent black
 will be only 53 percent black. All told, the proposed plan would
 eliminate as many as five districts where black voters could elect
 responsive candidates.</p>
-          <p id="sc04-2_1087">A group of Alabama citizens has filed a federal court suit in
+          <p xml:id="sc04-2_1087">A group of Alabama citizens has filed a federal court suit in
 Montgomery, alleging the plan violates "one person - one vote" and
 the voting rights of blacks. Meanwhile, Justice has granted the state
 an extension until April 15 to explain its plans. Capitol insiders
 suggest that legislative leaders are ready to compromise and are
 developing plans which they hope will appease Justice and minority
 objections.</p>
-          <p id="sc04-2_1088">The Justice Department recently approved the Alabama Congressional
+          <p xml:id="sc04-2_1088">The Justice Department recently approved the Alabama Congressional
 plan which was not the subject of controversy.</p>
-          <p id="sc04-2_1089">
+          <p xml:id="sc04-2_1089">
             <hi rend="bold">Arkansas</hi>
           </p>
-          <p id="sc04-2_1090">Declaring that the plan violated the constitutional doctrine of
+          <p xml:id="sc04-2_1090">Declaring that the plan violated the constitutional doctrine of
 "one person - one vote," a federal court struck down the Arkansas
 congressional reapportionment plan which had proposed hardly any
 changes from the 1970 plan. The court is forcing the legislature to
 try again to hold the differences between the populations of each
 district to reasonable limits.</p>
-          <p id="sc04-2_1091">But it is legislative, not congressional reapportionment that
+          <p xml:id="sc04-2_1091">But it is legislative, not congressional reapportionment that
 continues to be the subject of talk by activists in Little Rock. Civil
 rights advocates still hope to challenge the state legislative
 redistricting plan which is a mixture of single and multi-member
 districts. For the last several years the Arkansas legislature has had
 only three or four black members.</p>
-          <p id="sc04-2_1092">"It's that damn 'purpose'," explains the head of a biracial
+          <p xml:id="sc04-2_1092">"It's that damn 'purpose'," explains the head of a biracial
 lobbying group in Little Rock. "We know one of the primary purposes of
 the plan was to minimize the black vote in legislative races, but <hi rend="bold">proving</hi> it was the purpose has us stumped for now."
 Arkansas is not covered under Section 5 of the Voting Rights Act and
 the congressional and state plans need not be submitted to Justice for
 approval. In court, plaintiffs are required to prove both the purpose
 and effects of racial discrimination in voting cases.</p>
-          <p id="sc04-2_1093">
+          <p xml:id="sc04-2_1093">
             <hi rend="bold">Georgia</hi>
           </p>
-          <p id="sc04-2_1094">In early March, the Justice Department notified Georgia officials
+          <p xml:id="sc04-2_1094">In early March, the Justice Department notified Georgia officials
 that it was maintaining its original objection to Georgia's
 congressional plan, where the dispute centers around a majority black
 district in the Atlanta metropolitan area. State officials promptly
 challenged Justice's objection in federal court in Washington.</p>
-          <p id="sc04-2_1095">The plan submitted to Justice unsuccessfully includes a fifth
+          <p xml:id="sc04-2_1095">The plan submitted to Justice unsuccessfully includes a fifth
 district that is 57 percent black. This was adopted during the special
 session last summer only after the state house refused twice to accept
 a congressional plan passed by the Georgia senate that included a 69
@@ -762,18 +728,18 @@ percent black district. Black legislators vehemently objected to the
 compromise plan which passed the senate by only a few votes and over
 the objections of Georgia's two black senators, Horace Tate and Julian
 Bond, as well as the senate minority and majority leaders.</p>
-          <p id="sc04-2_1096">Justice objected also to parts of the state house and senate
+          <p xml:id="sc04-2_1096">Justice objected also to parts of the state house and senate
 plans. The General Assembly then changed the house and senate plan to
 meet the requirement from Washington.</p>
-          <p id="sc04-2_1097">In the senate, Justice's objection included two districts, one in
+          <p xml:id="sc04-2_1097">In the senate, Justice's objection included two districts, one in
 metropolitan Atlanta (DeKalb County) and the other in Augusta. The
 legislators changed the DeKalb district to increase the black
 percentage to nearly 70. The Augusta district was drawn to increase
 the black population to 53 percent. The latter district is the seat of
 Senate majority leader Tom Allgood.</p>
-          <p id="sc04-2_1099">In the house Justice's objection was to the Dougherty County house
+          <p xml:id="sc04-2_1099">In the house Justice's objection was to the Dougherty County house
 seats in southwest Georgia. Though the 
-<pb id="sc04-2_1098" n="7"/>
+<pb xml:id="sc04-2_1098" n="7"/>
 county's black population has
 grown by nearly 10 percent in the last few years, reapportionment
 created only one black house district--the one which now has a black
@@ -782,43 +748,43 @@ dilution of minority voting strength in the rural Black Belt of
 Georgia, particularly the area around Dougherty. The Dougherty plan
 was redrawn to create two black districts--one with a 69 percent black
 majority and one with a 59 percent majority.</p>
-          <p id="sc04-2_10100">State officials' refusal to cooperate on the congressional issue
+          <p xml:id="sc04-2_10100">State officials' refusal to cooperate on the congressional issue
 was the result of pressure from lame-duck Gov. George Busbee and newly
 appointed state attorney general Michael Bowers. Bowers must run for
 election in the fall.</p>
-          <p id="sc04-2_10101">A three-judge panel has been appointed for the state's appeal in
+          <p xml:id="sc04-2_10101">A three-judge panel has been appointed for the state's appeal in
 Washington and the Georgia legislative black caucus has intervened
 along with private citizens. The NAACP is also requesting the right to
 intervene. Although the state opposed intervention, the judges ruled
 on March 22 in favor of the caucus and private plaintiffs.</p>
-          <p id="sc04-2_10102">State Rep. Billy Randall, chairman of the black caucus, criticized
+          <p xml:id="sc04-2_10102">State Rep. Billy Randall, chairman of the black caucus, criticized
 the the action by-Bowers and others as continued discrimination
 against minorities, but he is equally dissatisfied with Justice's
 objection. Randall believes the objection did not go far enough in
 disapproving dilution of black voting strength in house and senate
 districts in the Georgia Black Belt.</p>
-          <p id="sc04-2_10103">
+          <p xml:id="sc04-2_10103">
             <hi rend="bold">Florida</hi>
           </p>
-          <p id="sc04-2_10104">In Florida the battle lines on reapportionment appear to be drawn
+          <p xml:id="sc04-2_10104">In Florida the battle lines on reapportionment appear to be drawn
 as clearly between the house and senate as between the legislature and
 community groups. Unlike most states, Florida's two legislative houses
 have been unable to reach a "gentlemen's agreement" where each house
 will draw up its own plan which would be adopted automatically by the
 other. The result is the development of house and senate plans by both
 houses. And none agrees with any other.</p>
-          <p id="sc04-2_10105">Though there is disagreement between the two bodies, both have
+          <p xml:id="sc04-2_10105">Though there is disagreement between the two bodies, both have
 created plans with single-member districts for the first time in
 Florida reapportionment history. Both house and senate plans have kept
 the total population deviation to less than two percent in each
 district. Legislators believe both these actions will protect against
 possible lawsuits.</p>
-          <p id="sc04-2_10106">One major disagreement revolves around the "nesting" of
+          <p xml:id="sc04-2_10106">One major disagreement revolves around the "nesting" of
 districts--a device which places a few house districts within the
 "nest" of a larger senate district. Alabama has used such a plan since
 its last reapportionment. Florida's house supports such a concept, but
 not the senate.</p>
-          <p id="sc04-2_10107">Another disagreement between the houses is the senate election
+          <p xml:id="sc04-2_10107">Another disagreement between the houses is the senate election
 schedule. Florida's senate members are elected for four-year terms,
 one-half elected every two years. The senate would like to have the
 senators elected in 1980 serve until 1984 and then run under new
@@ -826,17 +792,17 @@ district lines. The result would be that only half the senators would
 have to run in November under the reapportioned districts. The house
 has refused to agree to such a plan amid rumors that a number of house
 members are interested in a senate seat.</p>
-          <p id="sc04-2_10108">Florida's constitution allows from 80 to 120 house members and
+          <p xml:id="sc04-2_10108">Florida's constitution allows from 80 to 120 house members and
 between 30-40 senators. Here the senate and house also disagree. The
 most recent senate plan creates an 80-member house. But the house plan
 (which is expected to eventually be accepted) calls for a 120member
 body--its present size.</p>
-          <p id="sc04-2_10109">The disputes between the two houses have spilled over to community
+          <p xml:id="sc04-2_10109">The disputes between the two houses have spilled over to community
 groups involved in reapportionment. The NAACP supports the senate's
 plans and Common Cause has backed the house's plans. The groups have
 developed individual alternative plans with only limited support for
 each other's actions.</p>
-          <p id="sc04-2_10110">Common Cause developed a plan which some black legislators and
+          <p xml:id="sc04-2_10110">Common Cause developed a plan which some black legislators and
 NAACP leaders believe will result in fewer voting-majority black
 districts. Common Cause maintains that its plan creates the most
 minority districts in the house (nine black and four Hispanic
@@ -847,7 +813,7 @@ into account "population growth, voter registration, and voting
 patterns." In most Southern states the minority population eligible to
 vote is usually 10 percentage points below the total minority
 population.</p>
-          <p id="sc04-2_10111">The house plan presently includes seven districts with 58 to 80
+          <p xml:id="sc04-2_10111">The house plan presently includes seven districts with 58 to 80
 percent Hispanic population--all in the Miami area. Only two districts
 are more than 65 percent Hispanic. The plan includes seven black
 districts between 52 and 73 percent, and three black districts between
@@ -855,29 +821,29 @@ districts between 52 and 73 percent, and three black districts between
 or more black. The others are scattered throughout the state. A major
 concern of community groups is the lack of consideration shown to
 Florida's Black Belt, the area surrounding Tallahassee.</p>
-          <p id="sc04-2_10112">The Common Cause plan allows for a 53 percent majority-black
+          <p xml:id="sc04-2_10112">The Common Cause plan allows for a 53 percent majority-black
 district including Leon County in the Black Belt. The plan also
 includes a 56 percent black district in metropolitan Miami where the
 house plan creates a 45 percent black district. Five blacks and two
 Hispanic legislators now sit in the Florida house.</p>
-          <p id="sc04-2_10113">Senate plans passed by either house include two Hispanic districts
+          <p xml:id="sc04-2_10113">Senate plans passed by either house include two Hispanic districts
 over 50 percent around Miami. The house plan creates a district that
 is 65 percent Hispanic while the senate plan calls for a 61 percent
 district in its own chamber. Both plans create a district around
 Jacksonville that is 47 to 48 percent black.</p>
-          <p id="sc04-2_10114">Community groups have indicated that there is little likelihood of
+          <p xml:id="sc04-2_10114">Community groups have indicated that there is little likelihood of
 creating congressional districts with more than 35 percent black
 population.</p>
-          <p id="sc04-2_10115">
+          <p xml:id="sc04-2_10115">
             <hi rend="bold">Louisiana</hi>
           </p>
-          <p id="sc04-2_10116">The Justice Department could decide before the end of April if the
+          <p xml:id="sc04-2_10116">The Justice Department could decide before the end of April if the
 Louisiana congressional redistricting plan violates the Voting Rights
 Act. Civil rights groups and the senate legislative black caucus, who
 supported a majority black congressional district during the last
 legislative session, have filed comments against the state plan which
 divides the parish of New Orleans almost in half.</p>
-          <p id="sc04-2_10118">In its pleadings before Justice, the black caucus notes that, were
+          <p xml:id="sc04-2_10118">In its pleadings before Justice, the black caucus notes that, were
 it not for the governor's veto, Louisiana would now have a plan with a
 majority black congressional district composed of the Orleans
 parish. Late last year when the Democratic legislature adopted a 55
@@ -885,8 +851,8 @@ percent black district, Republican Gov. Dave Treen vetoed the
 bill. Quickly abandoning the majority black district, the legislature
 drew the plans to adhere to the governor's objections. That plan
 passed and is now before Justice.
-<pb id="sc04-2_10117" n="8"/></p>
-          <p id="sc04-2_10119">Reapportionment plans for the two houses of the state legislature
+<pb xml:id="sc04-2_10117" n="8"/></p>
+          <p xml:id="sc04-2_10119">Reapportionment plans for the two houses of the state legislature
 are also before Justice, which asked in March for more information
 about their origins. Objections are also being raised to these plans
 which create 14 legislative districts with 50 percent or more black
@@ -894,7 +860,7 @@ populations. To illustrate that the plans effectively dilute black
 voting strength, the black caucus has developed an alternative plan
 that creates 20 legislative districts with a majority of black
 registered voters.</p>
-          <p id="sc04-2_10120">Some observers believe the congressional plan may test the
+          <p xml:id="sc04-2_10120">Some observers believe the congressional plan may test the
 willingness of Justice to enforce Section 5 regardless of party
 politics. Much of the case against the congressional plan focuses on
 the veto of Gov. Treen, one of the few Republican governors in a
@@ -903,10 +869,10 @@ before Justice better evidences that a plan was rejected by the
 legislators because it helped urban blacks," commented a lawyer
 working with a legal defense fund in Washington. "We'll see if Justice
 sees the evidence differently because of Treen."</p>
-          <p id="sc04-2_10121">
+          <p xml:id="sc04-2_10121">
             <hi rend="bold">Mississippi</hi>
           </p>
-          <p id="sc04-2_10122">Schooled in more than a decade of litigation opposing fair
+          <p xml:id="sc04-2_10122">Schooled in more than a decade of litigation opposing fair
 reapportionment, the Mississippi legislature has proceeded with
 redistricting its two houses and five congressional seats with a
 wealth of computer runs and detailed maps and a careful avoidance of
@@ -917,18 +883,18 @@ appear willing to assure black incumbents of their seats, to limit
 majority-black districts to the number provided in the existing
 court-ordered plan, and generally to adopt "a holding action," in the
 words of one veteran civil rights worker in Jackson.</p>
-          <p id="sc04-2_10123">The fight over the congressional plan late last year centered on
+          <p xml:id="sc04-2_10123">The fight over the congressional plan late last year centered on
 the creation of a majority-black district from the Delta
 counties. Several plans were proposed in hearings and on the floor of
 the legislature which had districts with black populations ranging
 from 53 percent to 65 percent. All began somewhere in the Delta
 counties and the "65 percent" proposal by black State Sen. Henry
 J. Kirksey encompassed part of the Delta and the city of Jackson.</p>
-          <p id="sc04-2_10124">The congressional plan, approved by a 4 to 1 vote, maintained the
+          <p xml:id="sc04-2_10124">The congressional plan, approved by a 4 to 1 vote, maintained the
 character of the existing congressional districts. The new plan is now
 before the Justice department and is being opposed by members of the
 black caucus and statewide civil rights groups.</p>
-          <p id="sc04-2_10125">The likely reapportionment plan for the two state houses will
+          <p xml:id="sc04-2_10125">The likely reapportionment plan for the two state houses will
 maintain 46 majority-black districts in which 17 incumbent black
 legislators now reside. Of the 46, only 2S house and senate districts
 will have black majorities of 60 percent or more, a critical fact in a
@@ -940,19 +906,19 @@ dilution of black voting strength. "Too many of the districts that are
 majority black barely hang over the 50 percent line" remarked David
 Green, a member of the legislative black caucus. "These districts just
 appear to be majority black when they really aren't."</p>
-          <p id="sc04-2_10126">Challenges to the redistricting plans for the legislature before
+          <p xml:id="sc04-2_10126">Challenges to the redistricting plans for the legislature before
 Justice and the courts are also expected in Mississippi.</p>
-          <p id="sc04-2_10127">
+          <p xml:id="sc04-2_10127">
             <hi rend="bold">North Carolina</hi>
           </p>
-          <p id="sc04-2_10128">With the advice of former U.S. assistant attorney general Jerris
+          <p xml:id="sc04-2_10128">With the advice of former U.S. assistant attorney general Jerris
 Leonard, North Carolina state lawmakers passed their third set of
 reapportionment plans in March, combining historical multi-member
 districts with a few single-member districts which they hope will
 satisfy the Justice Department's earlier objections. Lawyers for the
 NAACP Legal Defense Fund, however, are predicting another Justice
 objection to the new state house and senate plans.</p>
-          <p id="sc04-2_10129">While a lawsuit in the mid-1960s required the redistricting of the
+          <p xml:id="sc04-2_10129">While a lawsuit in the mid-1960s required the redistricting of the
 general assembly, North Carolina had been immune to much of the
 disputes over redistricting that spread across the South in the
 1970s. Its recent problems began when the NAACP Legal Defense Fund
@@ -961,25 +927,25 @@ legislative plans, the congressional plan, and a state constitutional
 amendment passed in 1968 requiring that all state legislative
 districts follow county lines. That amendment had not been submitted
 for approval to Justice as required under the Voting Rights Act.</p>
-          <p id="sc04-2_10130">Justice found late last year that the requirement diluted the
+          <p xml:id="sc04-2_10130">Justice found late last year that the requirement diluted the
 voting strength of blacks and disapproved it. Meanwhile, legislative
 leaders were convinced that the differences in population among the
 various legislative districts were greater than the courts would
 permit under the "one person - one vote" constitutional theory. Thus,
 the general assembly reconvened and passed a new plan for its state
 house.</p>
-          <p id="sc04-2_10131">The old state senate plan and the new house plan were then
+          <p xml:id="sc04-2_10131">The old state senate plan and the new house plan were then
 submitted to the Justice Department which found that both followed the
 1968 amendment and diluted black voting strength. Justice also found
 that the congressional plan had the purpose of diluting black voting
 strength by eliminating Durham, a center of political activity for
 blacks, from the second congressional district that has a black
 population of over 40 percent.</p>
-          <p id="sc04-2_10132">In early February, North Carolina lawmakers returned in special
+          <p xml:id="sc04-2_10132">In early February, North Carolina lawmakers returned in special
 session and adopted a third set of reapportionment plans and for the
 first time created some single-member districts which crossed county
 lines.</p>
-          <p id="sc04-2_10133">No other issue seems to have caused as much stir in North Carolina
+          <p xml:id="sc04-2_10133">No other issue seems to have caused as much stir in North Carolina
 legislative politics in recent history. "Some of us are being
 sacrificed on the altar," said State Sen. Melvin Daniels who
 represents part of the northeastern section of the state. The new
@@ -988,58 +954,58 @@ has one 52 percent majority-black district. The legislature carefully
 avoided drawing single-member districts in the metropolitan areas such
 as Charlotte Winston-Salem, and Raleigh, since those areas are not
 covered under section 5 of the Voting Rights Act.</p>
-          <p id="sc04-2_10134">J.K. Butterfield, a black leader from northeastern North Carolina,
+          <p xml:id="sc04-2_10134">J.K. Butterfield, a black leader from northeastern North Carolina,
 presented a reapportionment plan at a public hearing which would
 create a total of nine majority black districts in the house and
 senate. But his plan was never introduced. For a time, the legislature
 did consider creating another majority-black senate district but
 apparently decided one was enough.</p>
-          <p id="sc04-2_10136">The new congressional plan was approved in early March and may
+          <p xml:id="sc04-2_10136">The new congressional plan was approved in early March and may
 prompt a black former U.S. attorney from Durham to challenge incumbent
 U.S. Rep. L.H. 
-<pb id="sc04-2_10135" n="9"/>
+<pb xml:id="sc04-2_10135" n="9"/>
 Fountain in the Democratic primary.</p>
-          <p id="sc04-2_10137">Several observers are predicting that by mid-April the Justice
+          <p xml:id="sc04-2_10137">Several observers are predicting that by mid-April the Justice
 Department will bar the use of the third set of state legislative
 plans. While state officials have threatened to appeal an adverse
 ruling by Justice to the federal courts in Washington, the legislature
 passed a new bill providing for four different possible dates for
 primary elections--all hinging on when a state house and senate plan
 would become lawful. That law, too, is now before Justice.</p>
-          <p id="sc04-2_10138">
+          <p xml:id="sc04-2_10138">
             <hi rend="bold">South Carolina</hi>
           </p>
-          <p id="sc04-2_10139">In a surprising decision, a federal court panel adopted in early
+          <p xml:id="sc04-2_10139">In a surprising decision, a federal court panel adopted in early
 March a congressional plan for South Carolina which had been passed
 earlier by the state house of representatives but not by the state
 senate. The NAACP, which had filed suit asking the court to draw the
 congressional lines, protested the court's opinion and promised to
 appeal the decision and seek an objection from the Justice
 Department.</p>
-          <p id="sc04-2_10140">The court-ordered plan makes few changes in the present
+          <p xml:id="sc04-2_10140">The court-ordered plan makes few changes in the present
 congressional districts, although it does split Berkeley County, a
 suburb of Charleston. The division of the metropolitan area into two
 congressional districts rubbed some powerful state senators the wrong
 way, and they refused to approve the plan when it was before them.</p>
-          <p id="sc04-2_10141">The NAACP has presented to the federal court a plan that created a
+          <p xml:id="sc04-2_10141">The NAACP has presented to the federal court a plan that created a
 district with a majority black population. In a hearing on the issue,
 senior district judge Charles E. Simons attacked the NAACP plans as
 "gerrymandered to give more than 50 percent blacks." The state house
 plan which the court has embraced has no congressional district with
 more than a 40 percent black population.</p>
-          <p id="sc04-2_10142">State legislative officials are moving rapidly to have the new plan
+          <p xml:id="sc04-2_10142">State legislative officials are moving rapidly to have the new plan
 implemented. State senate judiciary committee chairman L. Marion
 Gressette, one of the most powerful men in South Carolina politics,
 contends that the court plan need not be submitted to Justice for
 review under the Voting Rights Act. Civil rights lawyers disagree, and
 another legal battle may develop.</p>
-          <p id="sc04-2_10143">While the South Carolina legislature hopes that it may be near the
+          <p xml:id="sc04-2_10143">While the South Carolina legislature hopes that it may be near the
 finish line with congressional reapportionment, it still faces the
 task of drawing new lines for its own two houses. Justice disapproved
 the first plan of the state house because of the discriminatory
 effects of district lines, primarily in the Black Belt areas where the
 legislature systematically leveled the percentages of blacks.</p>
-          <p id="sc04-2_10144">The state senate hasn't even begun to consider a redistricting
+          <p xml:id="sc04-2_10144">The state senate hasn't even begun to consider a redistricting
 plan. The all-white legislative chamber is postponing the task on the
 apparent hope that it can secure Justice approval of a plan more
 easily later in the year. Some black leaders, including members of the
@@ -1047,46 +1013,46 @@ legislative black caucus, have charged that the state senators hope
 the Voting Rights Act will be weakened before the fall and that a plan
 without any majority black districts would be subjected to less
 scrutiny under a new act.</p>
-          <p id="sc04-2_10145">The all-white senate has been a subject of challenge for the past
+          <p xml:id="sc04-2_10145">The all-white senate has been a subject of challenge for the past
 few years. The Carter Administration's Justice Department filed a
 federal suit challenging the present districts of the state senate but
 withdrew the suit after the Supreme Court's 1980 <title>Mobile</title>
 opinion, which now requires black plaintiffs to show that voting
 practices have both the effect <hi rend="italic">and</hi> purpose of
 racial discrimination.</p>
-          <p id="sc04-2_10146">A plan submitted to Justice under the present Voting Rights Act's
+          <p xml:id="sc04-2_10146">A plan submitted to Justice under the present Voting Rights Act's
 Section 5, however, requires the state or local government to prove
 that the plan does not have the purpose <hi rend="italic">or</hi> effect
 of racial discrimination.</p>
-          <p id="sc04-2_10147">
+          <p xml:id="sc04-2_10147">
             <hi rend="bold">Tennessee</hi>
           </p>
-          <p id="sc04-2_10148">Tennessee is the only Southern state which has passed redistricting
+          <p xml:id="sc04-2_10148">Tennessee is the only Southern state which has passed redistricting
 plans that aren't facing serious-legal challenges. Not covered by the
 preclearance provisions of the Voting Rights Act, Tennessee also has
 had the advantage of adding a congressional seat to its delegation
 instead of fighting to determine who must be eliminated.</p>
-          <p id="sc04-2_10149">Early forecasts had warned that U.S. Rep. Harold Ford of Memphis,
+          <p xml:id="sc04-2_10149">Early forecasts had warned that U.S. Rep. Harold Ford of Memphis,
 one of only two black congressmen in the South, would be gerrymandered
 out of his strongest support in western Tennessee. The fears proved
 unfounded, and Ford apparently is now assured of reelection.</p>
-          <p id="sc04-2_10150">
+          <p xml:id="sc04-2_10150">
             <hi rend="bold">Texas</hi>
           </p>
-          <p id="sc04-2_10151">After months of almost daily developments, two separate federal
+          <p xml:id="sc04-2_10151">After months of almost daily developments, two separate federal
 courts in Texas have issued orders establishing the boundaries of both
 congressional seats and the state's general assembly for the 1982
 elections. While the orders are under appeal, they bring into focus
 disputes that have involved lawyers, politicians and judges throughout
 the state.</p>
-          <p id="sc04-2_10152">In the last few months a scorecard on Texas reapportionment has
+          <p xml:id="sc04-2_10152">In the last few months a scorecard on Texas reapportionment has
 required two or three sheets just to list the major players: the
 Democratic legislative leadership, the governor, a handful of state
 officials on the legislative redistricting board, a couple of state
 court judges, six federal court judges, Hispanic and black civil
 rights groups, and a couple of dozen lawyers representing all
 sides.</p>
-          <p id="sc04-2_10153">Despite such a large cast in what the usually well-modulated editor
+          <p xml:id="sc04-2_10153">Despite such a large cast in what the usually well-modulated editor
 of the Texas Government Newsletter calls "arcane legal machinations
 and Byzantine maneuverings," Texas redistricting has evolved around
 the three major issues of reapportionment. Will Republicans or
@@ -1095,7 +1061,7 @@ racial minorities get a fair chance to elect representatives of their
 own choosing? Nobody has won all or lost everything but, if the
 court-ordered plans remain, blacks and Hispanics will probably have
 lost most.</p>
-          <p id="sc04-2_10154">Before the reapportionment last year, Hispanic leaders had maps
+          <p xml:id="sc04-2_10154">Before the reapportionment last year, Hispanic leaders had maps
 showing how a congressional district with a majority Hispanic
 population should be drawn in southwest Texas because of increased
 population. The general assembly balked, and no such plan was
@@ -1103,33 +1069,33 @@ included. While Justice found the congressional plan in violation of
 the Voting Rights Act and, more recently, a federal court in Austin
 has drawn a new congressional plan, the majority Hispanic district is
 still nowhere on the maps.</p>
-          <p id="sc04-2_10156">The state legislative plans drawn by a Dallas three-judge panel do
+          <p xml:id="sc04-2_10156">The state legislative plans drawn by a Dallas three-judge panel do
 improve the voting strength of Hispanics 
-<pb id="sc04-2_10155" n="10"/>
+<pb xml:id="sc04-2_10155" n="10"/>
 around San Antonio and El
 Paso but fail to avoid diluting black and Hispanic voting strength in
 the urban areas. The plan is "temporary" since the state legislature
 will have to try again in 1983 to adopt its own plans that meet
 constitutional muster.</p>
-          <p id="sc04-2_10157">Federal court intervention was required largely by the upcoming May
+          <p xml:id="sc04-2_10157">Federal court intervention was required largely by the upcoming May
 1 primary in Texas. In order for candidates to register and run for
 office they had to know what districts would be lawful.</p>
-          <p id="sc04-2_10158">While reapportionment will now be decided in the federal courts,
+          <p xml:id="sc04-2_10158">While reapportionment will now be decided in the federal courts,
 the May 1 primary remains an uncertainty in the face of appeals and
 further challenges to the orders of the three-judge panels. More
 developments are expected daily.</p>
-          <p id="sc04-2_10159">
+          <p xml:id="sc04-2_10159">
             <hi rend="bold">Virginia</hi>
           </p>
-          <p id="sc04-2_10161">In mid-March the fifth redistricting plan drawn by the Virginia
+          <p xml:id="sc04-2_10161">In mid-March the fifth redistricting plan drawn by the Virginia
 House of Delegates was rejected by the Justice Department in a
 decision which prompted the 
-<pb id="sc04-2_10160" n="11"/>
+<pb xml:id="sc04-2_10160" n="11"/>
 Democratic leader of the statehouse to
 advise the feds to "stick it up their ear." Civil rights lawyers
 immediately filed a motion asking that the federal court in Richmond
 take over the job of redistricting the state legislature.</p>
-          <p id="sc04-2_10162">In its March objection Justice found that the legislature diluted
+          <p xml:id="sc04-2_10162">In its March objection Justice found that the legislature diluted
 black voting strength in rural southeastern Virginia, Newport News,
 and Norfolk. In the rural areas the legislature divided black
 communities in order to assure that only one candidate would be
@@ -1139,35 +1105,35 @@ remaining multi-member district in the Virginia plan. Justice found
 that the multimember districts subsumed black voters in a larger
 district where candidates who won would always be the choice of the
 white majority.</p>
-          <p id="sc04-2_10163">The ruling was a victory for the ACLU, NAACP, and the SCLC, which
+          <p xml:id="sc04-2_10163">The ruling was a victory for the ACLU, NAACP, and the SCLC, which
 had challenged the Virginia legislature at every step in court and
 before Justice. NAACP leader Jack Gravely called upon the legislature
 to end the "spectacle and waste of the taxpayers' money." Judy
 Goldberg of the ACLU said, "Let the courts do it."</p>
-          <p id="sc04-2_10164">The federal court in Richmond found the first plan adopted by the
+          <p xml:id="sc04-2_10164">The federal court in Richmond found the first plan adopted by the
 legislature as unconstitutional in violation of the "one person - one
 vote" constitutional theory. The Justice Department also objected to
 the plan. Another plan was vetoed by then-Gov. John Dalton.</p>
-          <p id="sc04-2_10165">Four blacks presently sit in the Virginia House of Delegates from
+          <p xml:id="sc04-2_10165">Four blacks presently sit in the Virginia House of Delegates from
 majority black districts. ACLU Director Chan Kendrick says that number
 can be more than doubled if the federal court adopts the plan which
 his group has drawn.</p>
-          <div3 id="sc04-2_026" type="About">
-            <p id="sc04-2_10166">This report was prepared by the staff of the Southern
+          <div3 xml:id="sc04-2_026" type="About">
+            <p xml:id="sc04-2_10166">This report was prepared by the staff of the Southern
 Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_007" n="6" type="Article">
+        <div2 xml:id="sc04-2_007" n="6" type="Article">
           <head>Remarks in Memory Of Lillian Smith</head>
-          <byline>By <docAuthor><name reg="Moore, Gene Gabriel" type="person">Gene Gabriel Moore</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 13-15</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Moore, Gene Gabriel</reg><sic>Gene Gabriel Moore</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, pp. 13-15</docDate>
           
-          <p id="sc04-2_10167">It is appropriate that we make what echo we can of Lillian Smith's
+          <p xml:id="sc04-2_10167">It is appropriate that we make what echo we can of Lillian Smith's
 lifelong battle for those eternal lost causes--a classless
 society, uncompromised equality, and a democracy undiluted by the
 greed of corporations, by the saber rattling of the jingoists, by the
 cynicism of the politicians.</p>
-          <p id="sc04-2_10168">Today, perhaps more than at any time since the repressive measures
+          <p xml:id="sc04-2_10168">Today, perhaps more than at any time since the repressive measures
 of Richard Nixon and Lyndon Johnson, during the height of the antiwar
 movement, we Americans are the victims of a regressive regime whose
 threat to our common inheritance, to the rights we were promised that
@@ -1176,7 +1142,7 @@ government on the Potomac, not a motley cadre of slack-jaw demagogues
 down in old Dixie that seems unwilling to translate into the realities
 of this century the principles of Thomas Jefferson, of Thomas Paine,
 of Martin Luther King, Jr.</p>
-          <p id="sc04-2_10169">How do you characterize an administration whose priorities are
+          <p xml:id="sc04-2_10169">How do you characterize an administration whose priorities are
 blatantly in favor of the pitifully deprived rich--and blatantly
 against a child suffering from malnutrition, blatantly against that
 old woman in a head ag trudging beside the blacktop in Bolivar County,
@@ -1184,26 +1150,26 @@ Miss., blatantly against the hopes of barely literate students in some
 woebegone high school in Monroe County, Ala., blatantly against
 warming the bones of the elderly in Terrell County Gal, when the cold
 of winter creeps into their houses?</p>
-          <p id="sc04-2_10170">They can be characterized only as classist, racist, as dangerous to
+          <p xml:id="sc04-2_10170">They can be characterized only as classist, racist, as dangerous to
 the health of this nation and, heaven help us suicidal to the state of
 the world--because whatever the Russians are, they are neither weak
 nor easily cowed, a fact which should not cause Americans to quake in
 fear but it should give us pause. There is no winner in a nuclear
 exchange. There is no world left for a winner.</p>
-          <p id="sc04-2_10171">We are not sleeping sheep. We are not so much in love with the
+          <p xml:id="sc04-2_10171">We are not sleeping sheep. We are not so much in love with the
 upholstery in our sedans. We are not so tied to the feasts on our
 tables. We are not so adorned and pampered and sweetsmelling and
 satisfied that we will allow the Reagan people to distort and lessen
 the nobility and the humanity and the morality of this nation. Look
 closely at the rhetoric of the Reaganites. Look very closely. For you
 and I and our countrymen are in trouble.</p>
-          <p id="sc04-2_10172">Lillian Smith knew about trouble.</p>
-          <p id="sc04-2_10173">Lillian Smith did not rest in the shade. Lil did not lollygag. She
+          <p xml:id="sc04-2_10172">Lillian Smith knew about trouble.</p>
+          <p xml:id="sc04-2_10173">Lillian Smith did not rest in the shade. Lil did not lollygag. She
 did not hem and hew. She told the bigots in her midst to take
 themselves on the short road to hell. She spelled out in language that
 rings with lyricism just how close to hellfire those bigots were, how
 rotted their souls were.</p>
-          <p id="sc04-2_10174">It was the day of the lynching tree, that day when Lil and Paula
+          <p xml:id="sc04-2_10174">It was the day of the lynching tree, that day when Lil and Paula
 Snelling started their magazine in my mother's own sweet county of
 Rabun. Lil stood up and she told the Talmadges and the Bilbos and the
 Rankins and the Heflins and the Byrds and the Longs and the Crumps and
@@ -1214,7 +1180,7 @@ of the people on this continent, including some who knew better, who
 should have been her natural allies--were quick to threaten, to
 attack, to harass, to accuse. The ring of the phone in the night was a
 fearsome thing on Old Screamer Mountain.</p>
-          <p id="sc04-2_10175">From Southern trees hang strange fruit. The line is from a Billy
+          <p xml:id="sc04-2_10175">From Southern trees hang strange fruit. The line is from a Billy
 Holiday song, but the words became Lil Smith's--and the novel
 <title>Strange Fruit</title> awakened the conscience of the
 Nation. Lil hastened the dawn, as Dabbs said. Her first book gave her
@@ -1223,12 +1189,12 @@ large gift, as a thinker influenced not only by the ancient
 storytelling traditions of her own Southern origins but also by
 Gandhi, by Freud, by the music that had been an integral part of her
 life since girlhood in Jasper, Florida.</p>
-          <p id="sc04-2_10176">Lil was short in stature, but she wasn't afraid to stand up and let
+          <p xml:id="sc04-2_10176">Lil was short in stature, but she wasn't afraid to stand up and let
 her words be heard. They were clear words and her message was
 persuasive and it was heard not only in Cairo, Gal, but also in Cairo,
 Egypt--not only in Vienna, Gal, but also in Vienna, Austria--not only
 in Macon, Gal, but also in Macon, France.</p>
-          <p id="sc04-2_10177">For a generation of Southerners, Lillian Smith provided the words
+          <p xml:id="sc04-2_10177">For a generation of Southerners, Lillian Smith provided the words
 that had not been heard in the states of the old Confederacy because
 overlaying our reach of the world was a certain silence. It's a
 terrible sleep when you can't wake up, Lil said. It was an evil
@@ -1237,22 +1203,22 @@ the crib. It was an evil enforced in the bosom of the family. It was
 an evil ratified by lawmakers. And it was, as all great evils are, as
 has been said by a chronicler of another evil in this century, utterly
 banal.</p>
-          <p id="sc04-2_10178">Lil was a white woman. She was a feminist before the word won broad
+          <p xml:id="sc04-2_10178">Lil was a white woman. She was a feminist before the word won broad
 currency, a thinker to the left of center. She was all those
 things--and she was a Protestant Southerner. She was all those
 things--but in the main Lillian Smith was a writer. I am a writer, she
 said to me in a letter. How others see me is how they see me. I see
 myself as a writer.</p>
-          <p id="sc04-2_10179">I see by the papers that there are biographers at work on lives of
+          <p xml:id="sc04-2_10179">I see by the papers that there are biographers at work on lives of
 Lillian Smith. and it can only be hoped that they will bracket their
 approach to Lil's life and work with that fact clearly in focus. She
 was a writer. It is too convenient to critics, to the media, to her
 enemies and even to her friends to characterize Lil as a
 propagandist--certainly a talented one, but a propagandist
 nevertheless.</p>
-          <p id="sc04-2_10181">I cannot imagine taking Lil's message to her homeland out of an
+          <p xml:id="sc04-2_10181">I cannot imagine taking Lil's message to her homeland out of an
 account of her life, but the fact is that the woman 
-<pb id="sc04-2_10180" n="14"/>
+<pb xml:id="sc04-2_10180" n="14"/>
 put one word after
 another in a way that celebrates the language and advances our
 understanding of literature's higher role in the human experience. She
@@ -1262,7 +1228,7 @@ words, and there are exceedingly poetic, lyrical reaches in her
 work. That is especially true in her nonfiction--in <title>Killers of
 the Dream</title>, in <title>The Journey</title>, and that small
 masterpiece, <title>Memory of a Large Christmas</title>.</p>
-          <p id="sc04-2_10182">Even in casual correspondence, in her letters to friends and
+          <p xml:id="sc04-2_10182">Even in casual correspondence, in her letters to friends and
 acquaintances, Lillian Smith made art. It is too easily overlooked,
 the art of Lillian Smith; it is too easily nudged aside in our rush to
 commemorate Lil's courage, Lil's early and often lonely crusade
@@ -1274,13 +1240,13 @@ instructed young Martin King, then hardly more than a country preacher
 down in Alabama, on the fine lines of Gandhi's nonviolent civil
 disobedience . . . she gave us a body of fiction and nonfiction which
 possesses the stuff of important literature.</p>
-          <p id="sc04-2_10183">My first encounter with Lillian Smith was Killers of a Dream. That
+          <p xml:id="sc04-2_10183">My first encounter with Lillian Smith was Killers of a Dream. That
 book gave questioning feelings in me the words needed for me to
 discover answers. Multiply my experience by ten thousand and extend it
 into the next generation, as I have tried to do with my own children,
 and you begin to catch the impact which that brave woman on the
 mountain has had in our wondrous stretch of the planet.</p>
-          <p id="sc04-2_10184">We can expect no more than one Faulkner in a century, perhaps in
+          <p xml:id="sc04-2_10184">We can expect no more than one Faulkner in a century, perhaps in
 two centuries. We can hope for no more than one O'Neill in a hundred
 years. A language can hope for no mare than one Eliot in a
 half-century. And whatever the challenges faced by our society in
@@ -1289,10 +1255,10 @@ challenges--we cannot reasonably expect there to emerge a poet of
 Lillian Smith's gift--a Lillian Smith to pit eloquence against the
 slick Hollywood rhetoric of the manipulators. We can expect no more
 than one Lil Smith, and she was here and she is gone.</p>
-          <p id="sc04-2_10185">
+          <p xml:id="sc04-2_10185">
             <hi rend="bold">Pat Conroy</hi>
           </p>
-          <p id="sc04-2_10186">I know well what the life and spirit of Lillian Smith
+          <p xml:id="sc04-2_10186">I know well what the life and spirit of Lillian Smith
 represents--the transcendence of the artist over the unspeakable
 atrocities of her time. She was the word made fire. She was the writer
 who possessed the indissoluble courage to say "no." She was the artist
@@ -1300,7 +1266,7 @@ who loved the South with all her heart, but knew in her heart that the
 South was both glorious and completely wrong. She was the kind of
 Southern writer I tried to learn from and emulate--the kind who would
 throw up if they wrote <title>Gone With The Wind</title>.</p>
-          <p id="sc04-2_10187">I never cared that Scarlett O'Hara went hungry in the Civil War, in
+          <p xml:id="sc04-2_10187">I never cared that Scarlett O'Hara went hungry in the Civil War, in
 fact, I was glad. Because Scarlett O'Hara, and those fierce, abiding
 citizens like her, came out of that War and created the South to which
 I was born. Scarlett was true to her promise and rebuilt Tara and
@@ -1321,7 +1287,7 @@ boy raised in the South and he will understand. Tell him it was people
 like him, people like Medgar Evers, Julian Bond, John Lewis, Will
 Campbell, Courtney and Elizabeth Siceloff and hundreds of others who
 made me look in the mirror.</p>
-          <p id="sc04-2_10188">When I looked in the mirror I saw Bull Connor, George Wallace,
+          <p xml:id="sc04-2_10188">When I looked in the mirror I saw Bull Connor, George Wallace,
 Birmingham, Selma, separate drinking fountains, fire hoses, and blood
 in the streets. I saw the whole bruised tragic history of the South in
 those Southern blue eyes. In the mirror I was seeing myself for the
@@ -1336,7 +1302,7 @@ English language. They were defeated by that one glorious word. I wish
 I had been old enough or wise enough to have used that word in my
 childhood, but Scarlett O'Hara and I were at the country club working
 on our tans when the horses stormed across the Selma Bridge.</p>
-          <p id="sc04-2_10189">I grew up in the South and I hated riggers and Jews--in fact, I
+          <p xml:id="sc04-2_10189">I grew up in the South and I hated riggers and Jews--in fact, I
 think I hated everybody. I brought remarkable skills to the art of
 hating. But I was granted a gift when I was taught the alphabet at
 Sacred Heart School on Courtland Street in Atlanta in 1950. I was
@@ -1352,7 +1318,7 @@ and clubbed at bus stations, and murdered and buried in levees in
 Mississippi. They taught me how to feel. Then they taught me to write
 and I learned that all writing is worthless without feeling; all
 writing is worthless without passion and faith.</p>
-          <p id="sc04-2_10191">In the late Sixties I became one of those tiresome Southern white
+          <p xml:id="sc04-2_10191">In the late Sixties I became one of those tiresome Southern white
 changelings. You know the type. Blacks grew weary of the type very
 quickly, but I was irrepressible in those quickstepping days and my
 calling to the priesthood of civil rights, as I saw it, was to make my
@@ -1364,7 +1330,7 @@ movement. I was perfectly ridiculous. It was at this moment in history
 I volunteered to teach on Daufuskie Island off the coast of South
 Carolina during the first year of teacher integration. This was 1969
 and it now seems a 
-<pb id="sc04-2_10190" n="15"/>
+<pb xml:id="sc04-2_10190" n="15"/>
 thousand years ago. I had once argued persuasively
 with yankee classmates that the South had separate but equal school
 systems and still rather believed it on the day I reached the
@@ -1377,7 +1343,7 @@ they claimed the separate but equal doctrine. They were all liars. I
 loathe them to this day because I once believed them. And they never
 had the grace to recant. They never even had the common decency to say
 they were wrong.</p>
-          <p id="sc04-2_10192">In closing, I want to tell you that the Great American South will
+          <p xml:id="sc04-2_10192">In closing, I want to tell you that the Great American South will
 never exist and it will always be waiting to be born. Dreams are
 almost never born; they are gently urged along. The Southern Regional
 Council has done much of this quiet gentle urging. You are desperately
@@ -1385,33 +1351,33 @@ needed; you are required. Because of President Reagan and his
 administration the Southern poor and the American poor will suffer
 grievously. There will be hunger and sadness in the land again, in the
 world again.</p>
-          <p id="sc04-2_10193">Fight them.</p>
-          <div3 id="sc04-2_027" type="About">
-            <p id="sc04-2_10194">The articles below were excerpted from speeches delivered
+          <p xml:id="sc04-2_10193">Fight them.</p>
+          <div3 xml:id="sc04-2_027" type="About">
+            <p xml:id="sc04-2_10194">The articles below were excerpted from speeches delivered
 at the Atlanta Biltmore Hotel on Nov. 6, when the 1981 Lillian Smith
 Awards for literature were presented by the Southern Regional
 Council.</p>
-            <p id="sc04-2_10195">The annual awards recognize the best fiction and nonfiction books
+            <p xml:id="sc04-2_10195">The annual awards recognize the best fiction and nonfiction books
 about the South. The 1981 winners were Pat Conroy for <title>Lords of
 Discipline</title> and John Gaventa for <title>Power and
 Powerlessness: Quiescence and Rebellion in an Appalachian
 Valley</title>.</p>
-            <p id="sc04-2_10196">Atlanta writer Gene Gabriel-Moore delivered the keynote remarks.</p>
-            <p id="sc04-2_10197">Pat Conroy currently lives and works in Rome, Italy, and could not
+            <p xml:id="sc04-2_10196">Atlanta writer Gene Gabriel-Moore delivered the keynote remarks.</p>
+            <p xml:id="sc04-2_10197">Pat Conroy currently lives and works in Rome, Italy, and could not
 be present for the Smith Awards banquet. He sent his remarks,
 excerpted here, to Bernie Schein, who make the speech on Conroy's
 behalf.</p>
           </div3>
         </div2>
-        <div2 id="sc04-2_008" n="1" type="Article">
+        <div2 xml:id="sc04-2_008" n="1" type="Article">
           <head>Democracy Looks At the New South</head>
-          <byline>By <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1982-04">Vol. 4, No. 2, 1982, pp. 1-4</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Dunbar, Leslie</reg><sic>Leslie Dunbar</sic></choice></name></docAuthor></byline>
+          <docDate when="1982-04">Vol. 4, No. 2, 1982, pp. 1-4</docDate>
           
-          <p id="sc04-2_10198">The news is full these days about people returning to the South,
+          <p xml:id="sc04-2_10198">The news is full these days about people returning to the South,
 black and white, poor ones as well as those better off. The question
 is, will democracy return with them?</p>
-          <p id="sc04-2_10199">I don't, of course, mean the democracy of actual life, for the
+          <p xml:id="sc04-2_10199">I don't, of course, mean the democracy of actual life, for the
 South never had that, not even in the stumbling, wavering ways
 realized in the rest of our country. I mean that democracy of
 aspiration, which dwelt in the spirit and grand hopes that
@@ -1423,12 +1389,12 @@ Paul Green, Fannie Lou Hamer, Estes Kefauver, Martin Luther King, Jr.,
 Lillian Smith, Dorothy Tilly, John H. Wheeler and Aubrey Williams, the
 South taught men and women everywhere to love and labor for liberty
 and equality.</p>
-          <p id="sc04-2_10200">In their own region, the thought and example of those like
+          <p xml:id="sc04-2_10200">In their own region, the thought and example of those like
 Jefferson went into a long, sad neglect after their passing. Will the
 same be true of the legacy of these later leaders, who rekindled the
 spirit that made the Civil Rights Movement an example to be cherished
 wherever the wind of democracy moves?</p>
-          <p id="sc04-2_10202">My own odyssey as a follower of those, our recent and deeply missed
+          <p xml:id="sc04-2_10202">My own odyssey as a follower of those, our recent and deeply missed
 prophets--for that is what they were, persons speaking truth to
 power--began on a Spring afternoon in 1949. As the then youngest
 member of Emory University's political science faculty, I had been
@@ -1444,7 +1410,7 @@ our small group. While sitting in the back of the room and listening
 to him, I was suddenly troubled by a new thought; in old-fashioned
 language, I might say, was touched by grace--and as we all know, that
 happens but seldom to any of us. It came to me that 
-<pb id="sc04-2_10201" n="2"/>
+<pb xml:id="sc04-2_10201" n="2"/>
 my invitation had
 been wrong, even insulting. Here was this man, our professional
 colleague, responding to his first invitation to appear among us at
@@ -1452,7 +1418,7 @@ the "white" school, and being asked to speak not about his own
 professional field--which happened to be international politics--but
 about race relations, as if that were all he had the competence to
 teach us.</p>
-          <p id="sc04-2_10203">When the meeting was over, and he and I had sat down in my office,
+          <p xml:id="sc04-2_10203">When the meeting was over, and he and I had sat down in my office,
 I apologized to him. Bill Boyd, whose untimely death a few years later
 took from us one of our natural leaders, smiled in his ironic but
 accepting manner and then as the afternoon wore on gave me alone his
@@ -1470,7 +1436,7 @@ the elephant when it's bought? There was more, much more, of that; and
 as I listened I suddenly had my second thought of the day: I did not
 need it because had I ever given a moment's thought, I could have
 known it on my own.</p>
-          <p id="sc04-2_10204">That illumination has come back to me over and over again. I have
+          <p xml:id="sc04-2_10204">That illumination has come back to me over and over again. I have
 trod about ever since in the tangled morass of America's racial
 struggles, not only those of blacks, but of our Hispanics and Indians
 as well. Time and again, I have been taught and have been made to see
@@ -1478,7 +1444,7 @@ realities to which I had been blind theretofore. And nearly every
 time, I have had ruefully to reflect that I should not have needed the
 instruction, that the lesson could have been--should have
 been--deduced from my own knowledge of what American society is.</p>
-          <p id="sc04-2_10205">Discrimination is a social product, a fact to which the present
+          <p xml:id="sc04-2_10205">Discrimination is a social product, a fact to which the present
 Supreme Court, in its insistence that only that discrimination which
 can be proven to have arisen from the specific intentions of specific
 officials is prohibited by the Fourteenth Amendment, seems to have
@@ -1492,11 +1458,11 @@ documentation, is a mask for irresponsibility, a resistance to
 realities which we know full well but which to admit would threaten
 too strongly our willful belief in the morality of our social
 order.</p>
-          <p id="sc04-2_10206">The lesson that Bill Boyd taught came back to me anew when years
+          <p xml:id="sc04-2_10206">The lesson that Bill Boyd taught came back to me anew when years
 later I read Dr. King's "Letter From A Birmingham Jail." Do you
 remember where he said:</p>
-          <p id="sc04-2_10207">
-            <q direct="unspecified">"I guess it is easy for those who have never felt the stinging
+          <p xml:id="sc04-2_10207">
+            <q>"I guess it is easy for those who have never felt the stinging
 darts of segregation to say wait. But when you have seen vicious mobs
 lynch your mothers and fathers at will and drown your sisters and
 brothers at whim; when you have seen hate-filled policemen curse,
@@ -1525,11 +1491,11 @@ next, and plagued with inner fears and outer resentments; when you are
 forever fighting a degenerating sense of 'nobodiness'--then you will
 understand why we find it difficult to wait."</q>
           </p>
-          <p id="sc04-2_10209">Shortly after that "Letter" was written, the Southern Regional
+          <p xml:id="sc04-2_10209">Shortly after that "Letter" was written, the Southern Regional
 Council, of which I was then Executive Director, was asked to join
 another agency in its printing and distribution. I declined. I suppose
 I had practical reasons
-<pb id="sc04-2_10208" n="3"/>
+<pb xml:id="sc04-2_10208" n="3"/>
 --of money and such like--for doing so, though
 what they were I can no longer recall. It was a bad mistake, one of
 which I am ashamed. It did not keep that classic statement from being
@@ -1537,7 +1503,7 @@ printed, but it did keep what was then the South's principal bi-racial
 organization from standing with it and for it. It was another missed
 opportunity, of which there have been so many, when the voices of
 black people were turned from in the South.</p>
-          <p id="sc04-2_10210">All that which Dr. King described happened in a past that, although
+          <p xml:id="sc04-2_10210">All that which Dr. King described happened in a past that, although
 but a few years ago, now seems distant. This is the New South, men
 say. And they are right. The Civil Rights Movement did accomplish
 great deeds, the South is vastly changed, and is the better for
@@ -1545,8 +1511,8 @@ it. Yet much lies ahead to be done, to build democracy here, as well
 as in our nation. And sometimes one wonders if the cutting edge, as we
 used to call it, is still sharp. Way back in 1946, W.E.B. DuBois made
 a speech in Columbia, S.C. In the course of it, he said:</p>
-          <p id="sc04-2_10211">
-            <q direct="unspecified">"White youth in the South is peculiarly frustrated. There is not
+          <p xml:id="sc04-2_10211">
+            <q>"White youth in the South is peculiarly frustrated. There is not
 a single great ideal which they can express or aspire to that does not
 bring them into flat contradiction with the Negro problem. The more
 they try to escape it, the more they land in hypocrisy, lying and
@@ -1556,7 +1522,7 @@ and larger numbers, are bound to turn toward the truth and to
 recognize you as brothers and sisters, as fellow travelers toward the
 dawn."</q>
           </p>
-          <p id="sc04-2_10212">Whatever else must be said about the experience of being white in
+          <p xml:id="sc04-2_10212">Whatever else must be said about the experience of being white in
 the pre-1970 South, there was always that bothersome conscience which
 DuBois described. I may be wrong, and hope that I am, but I doubt if
 it has still the same force, among either white youth or their
@@ -1567,11 +1533,11 @@ has gone out of too many of our young people. Compassion seems to have
 become unfashionable. To be heard, one must appeal to material
 interests, as such are perceived by what today passes for political
 parties and by our media.</p>
-          <p id="sc04-2_10213">If the future is now, it is a grim forbidding one. The Civil Rights
+          <p xml:id="sc04-2_10213">If the future is now, it is a grim forbidding one. The Civil Rights
 Movement did its great work, just as men like Jefferson in their day
 did theirs. It has left us the next and even greater task and that is
 the combating of war and poverty, and the South is central in both.</p>
-          <p id="sc04-2_10214"><hi rend="italic">We must never allow ourselves to take our sights
+          <p xml:id="sc04-2_10214"><hi rend="italic">We must never allow ourselves to take our sights
 off the main event</hi>, and that is the terrible bombs ready to
 explode in the center ring of all our our existences. One bomb, is
 quite literally, the bomb of nuclear warfare, to which the governments
@@ -1579,7 +1545,7 @@ of the world approach closer day by day. The other is the bomb of
 world-wide poverty, compact of the misery of probably the majority of
 human beings now living, of whom all too many dwell here in the South
 and in urban and rural ghettos throughout our land.</p>
-          <p id="sc04-2_10215">It is instructive to go back in our thinking to Gunnar
+          <p xml:id="sc04-2_10215">It is instructive to go back in our thinking to Gunnar
 Myrdal. Perhaps you will recall the famous "rank order of
 discrimination" which he set down in <title>The American
 Dilemma</title>. Researching prior to and during World War II, he
@@ -1591,7 +1557,7 @@ relationships and the "etiquette" between the races; the use of public
 facilities: political disfranchisement; discriminatory law
 enforcement; and finally, would yield most easily on economic
 discrimination.</p>
-          <p id="sc04-2_10216">His survey of Negro Southerners gave him just the opposite
+          <p xml:id="sc04-2_10216">His survey of Negro Southerners gave him just the opposite
 conclusion; namely that they cared most about economic opportunities,
 least of all about sexual mingling. Myrdal went on to acknowledge that
 he might be wrong about the white South's dominant interests, and of
@@ -1612,7 +1578,7 @@ the sit-in movement and the magnificent demonstrations and voter
 registration campaigns of the sixties and early seventies, the Civil
 Rights Act of 1964, the Voting Rights Act of 1965, and the "War On
 Poverty" declared in 1964.</p>
-          <p id="sc04-2_10217">But all that accomplishment left poor people still poor, and some
+          <p xml:id="sc04-2_10217">But all that accomplishment left poor people still poor, and some
 of them poorer than ever; and left the white folks mostly still in
 charge. Working alongside Mack Jones, a successor of my old mentor,
 Bill Boyd, as a professor of political science at Atlanta University,
@@ -1622,7 +1588,7 @@ Department of Justice. That episode showed, among other things, how
 determinedly and resourcefully the white economic and political powers
 of the Black Belt will act to put down a poor people's organization
 that is perceived as threatening their control.</p>
-          <p id="sc04-2_10218">The episode suggests another possibility. It is that the economic
+          <p xml:id="sc04-2_10218">The episode suggests another possibility. It is that the economic
 reform which this country so desperately requires may not come about
 until poor people organize themselves at local and state levels to
 insist upon it; that the reform to be effective must include new
@@ -1633,7 +1599,7 @@ black Southerners took charge and gave leadership, so will the
 struggle for economic justice not really move very far until its
 leadership comes from the poor and those who have earned the poor's
 trust.</p>
-          <p id="sc04-2_10220">The "beloved community" which the Civil Rights Movement in its
+          <p xml:id="sc04-2_10220">The "beloved community" which the Civil Rights Movement in its
 glory days proclaimed may exceed our grasp. Must it also be beyond our
 reach? I would if I could call us back to those mind-changing,
 nation-rocking, soul-lifting ideals of non-violence and equality and
@@ -1649,13 +1615,13 @@ one which features nuclear weapons of civilization destroying potency;
 can continue "projecting our power" all about the globe without
 uncontrollable war erupting. The madness of our times is that what is
 palpably irrational 
-<pb id="sc04-2_10219" n="4"/>
+<pb xml:id="sc04-2_10219" n="4"/>
 and even insane passes for pragmatism, while
 realism is dismissed as soft-headedness. Yet it is only through that
 idealism of the Civil Rights Days, which was in fact hard realism,
 that our nation and the world and the civilization that keeps us from
 being mere brutes stand any chance of survival.</p>
-          <p id="sc04-2_10221">It was through it that the possibility of democracy was brought
+          <p xml:id="sc04-2_10221">It was through it that the possibility of democracy was brought
 back to the South, from which it had departed with Jefferson's
 generation. Will it become more than a possibility? Democracy means
 the rule of the people. Its attainment and keeping are never-finished
@@ -1666,14 +1632,14 @@ comes justice, for that means that every person is to be treated
 fairly and with equal rights. And then true democracy requires peace,
 for without it the people will never rule, for commanders must, and
 justice will not prevail, because force and regimentation will.</p>
-          <p id="sc04-2_10222">We are generally led and ruled by men who though often as not good
+          <p xml:id="sc04-2_10222">We are generally led and ruled by men who though often as not good
 and conscientious individuals are by their policies unwitting killers
 of the dream, foulers of the nest, sellers of the birthright. And not
 America's birthright only but that of the civilization to which we
 were born and which has given edge and strength to our character,
 given us eyes to see and to be aware of the world's beauty and the
 world's callings.</p>
-          <p id="sc04-2_10223">But I have too pessimistic a faith in political leaders, in the
+          <p xml:id="sc04-2_10223">But I have too pessimistic a faith in political leaders, in the
 absence of ground swells of public opinion, to call upon them. As I
 said before, if I could I would call upon us to reclaim the ideals,
 the realism, of the old movement. If we did, I think we should now be
@@ -1688,7 +1654,7 @@ world's youth in violence, the all-absorbing preparations for
 violence. We can no more make peace by threatening war than we can
 make friendship by threatening enmity. Sooner rather than later, that
 game will not work.</p>
-          <p id="sc04-2_10224">From the great nuclear plants at Oak Ridge, Tenn., and Savannah
+          <p xml:id="sc04-2_10224">From the great nuclear plants at Oak Ridge, Tenn., and Savannah
 River, S.C., to the Pantex Plant in the Texas pan-handle where the
 bombs and warheads are assembled, the South is deeply embedded in
 preparation for nuclear holocaust. From the hollows of Appalachia to
@@ -1696,8 +1662,8 @@ the migrant farm labor camps of Florida the South is still the poorest
 of regions. Here, if anywhere, is the place to redirect America from
 policies and values that will not work, toward those that have been
 tested--and do.</p>
-          <div3 id="sc04-2_028" type="About">
-            <p id="sc04-2_10225">Dr. Leslie Dunbar is the former director of the Southern
+          <div3 xml:id="sc04-2_028" type="About">
+            <p xml:id="sc04-2_10225">Dr. Leslie Dunbar is the former director of the Southern
 Regional Council and of the Field Foundation. He now works with the
 Fund for Peace, Washington, D.C. The article here its adapted
 from. remarks to the Blue Ridge Institute for Southern Community
@@ -1707,4 +1673,4 @@ Executives, July 26, 1981.</p>
       </div1>
     </body>
   </text>
-</TEI.2>
+</TEI>
