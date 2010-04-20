@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc01-4_1204">
-  <teiHeader id="sc01-41201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc01-4_1204">
+  <teiHeader xml:id="sc01-41201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 1, Number 4</title>
         <respStmt>
@@ -10,21 +9,11 @@
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc01-4_005">http://pid.emory.edu/ark:/25593/141jm</idno>
-            <idno type="ark" n="sc01-4_006">http://pid.emory.edu/ark:/25593/141kr</idno>
-            <idno type="ark" n="sc01-4_004">http://pid.emory.edu/ark:/25593/141mw</idno>
-            <idno type="ark" n="sc01-4_007">http://pid.emory.edu/ark:/25593/141n1</idno>
-            <idno type="ark" n="sc01-4_002">http://pid.emory.edu/ark:/25593/141p5</idno>
-            <idno type="ark" n="sc01-4_008">http://pid.emory.edu/ark:/25593/141q9</idno>
-            <idno type="ark" n="sc01-4_staff.009">http://pid.emory.edu/ark:/25593/141rf</idno>
-            <idno type="ark" n="sc01-4_staff.010">http://pid.emory.edu/ark:/25593/141sk</idno>
-            <availability>
-          <p id="sc01-4_101">&#xA9;2004 Emory
+        </address><idno type="ark" n="sc01-4_005">http://pid.emory.edu/ark:/25593/141jm</idno><idno type="ark" n="sc01-4_006">http://pid.emory.edu/ark:/25593/141kr</idno><idno type="ark" n="sc01-4_004"/><idno type="ark" n="sc01-4_007">http://pid.emory.edu/ark:/25593/141n1</idno><idno type="ark" n="sc01-4_002">http://pid.emory.edu/ark:/25593/141p5</idno><idno type="ark" n="sc01-4_008">http://pid.emory.edu/ark:/25593/141q9</idno><idno type="ark" n="sc01-4_staff.009">http://pid.emory.edu/ark:/25593/141rf</idno><idno type="ark" n="sc01-4_staff.010">http://pid.emory.edu/ark:/25593/141sk</idno><availability>
+          <p xml:id="sc01-4_101">©2004 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -37,75 +26,51 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date value="1979-01">January 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 1</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date when="1979-01">January 1979</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc01-4_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc01-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>2004</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>XML tags
-inserted in compliance with TEI guidelines using teixlite.dtd</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc01-4_1203">
-    <body id="sc01-4_1202">
-      <div1 id="sc01-4_001" n="Southern Changes 1:4" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2004</date><label>Staff</label><name>Beck Center</name>XML tags
+inserted in compliance with TEI guidelines using teixlite.dtd</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change xmlns="http://www.tei-c.org/ns/1.0"><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc01-4_1203">
+    <body xml:id="sc01-4_1202">
+      <div1 xml:id="sc01-4_001" n="Southern Changes 1:4" type="Issue">
         <head>Southern Changes. Volume 1, Number 4, 1979 </head>
-        <p id="sc01-4_103"><title>Southern Changes</title> Volume 1, Number 4, <date value="1979-01">1979</date></p>
-        <div2 id="sc01-4_005" n="1" type="Article">
-          <head>South Carolina Vendetta</head>
-          <byline>By <docAuthor><name reg="Wright, Marion" type="person">Marion Wright</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
+        <p xml:id="sc01-4_103"><title>Southern Changes</title> Volume 1, Number 4, <date when="1979-01">1979</date></p>
+        <div2 xml:id="sc01-4_005" n="1" type="Article">
+          <head><seg>South Carolina Vendetta</seg> <bibl><idno type="ark">http://pid.emory.edu/ark:/25593/141jm</idno></bibl></head>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Wright, Marion</reg><orig>Marion Wright</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
           
-          <p id="sc01-4_104">Editor's Note: "In recent years scholars have increasingly been turning their attention to Southern history. Tome after tome offers learned discourse on the profitability of slavery, the nature of the Black family, the causes and consequences of the Civil War, the reality of the New South, or the history of race relations in Dixie. Of growing interest is the story of the Southern White liberal. Who were the remarkable men and women who braved insults, suffered ostracism, risked losing their jobs and, in some cases, faced mobs to promote equal justice for all? Who sought to foster the climate of tolerance that would hasten the day when Dixie truly rejoined the Union? One such man is Marion Allen Wright, author of the speeches compiled in this book."</p>
-          <p id="sc01-4_105">This is the opening paragraph in the book <hi rend="italic">Human Rights Odyssey</hi> by Wright and Arnold Shankman. Wright was the president of the Southern Regional Council during some of the most turbulent years of the 1950s. His speeches often received very cool receptions. The speech excerpted here is about Federal Judge J. Waties Waring, a White Southern liberal like Wright, but who, unlike Wright, was ostracized because of his rulings on controversial issues. In many instances, these issues are still sources of controversy today.</p>
-          <p id="sc01-4_106" rend="bold">Introduction</p>
-          <p id="sc01-4_107">Probably no Southerner was more vilified because of his liberal
+          <p xml:id="sc01-4_104">Editor's Note: "In recent years scholars have increasingly been turning their attention to Southern history. Tome after tome offers learned discourse on the profitability of slavery, the nature of the Black family, the causes and consequences of the Civil War, the reality of the New South, or the history of race relations in Dixie. Of growing interest is the story of the Southern White liberal. Who were the remarkable men and women who braved insults, suffered ostracism, risked losing their jobs and, in some cases, faced mobs to promote equal justice for all? Who sought to foster the climate of tolerance that would hasten the day when Dixie truly rejoined the Union? One such man is Marion Allen Wright, author of the speeches compiled in this book."</p>
+          <p xml:id="sc01-4_105">This is the opening paragraph in the book <hi rend="italic">Human Rights Odyssey</hi> by Wright and Arnold Shankman. Wright was the president of the Southern Regional Council during some of the most turbulent years of the 1950s. His speeches often received very cool receptions. The speech excerpted here is about Federal Judge J. Waties Waring, a White Southern liberal like Wright, but who, unlike Wright, was ostracized because of his rulings on controversial issues. In many instances, these issues are still sources of controversy today.</p>
+          <p xml:id="sc01-4_106" rend="bold">Introduction</p>
+          <p xml:id="sc01-4_107">Probably no Southerner was more vilified because of his liberal
 racial stand than was J. Waties Waring of Charleston, South Carolina,
 federal judge for the Eastern District of South Carolina. It fell to
 Judge Waring's lot to write decisions equalizing teachers' salaries;
 requiring South Carolina to admit Negro students to the University of South Carolina law school unless a separate but completely equal law school was established; opening the Democratic primary to Negro voters, and, in dissent, striking down segregation in the public schools.</p>
-          <p id="sc01-4_108">Waring's decisions aroused hostility among a great majority of White South Carolinians, whose reaction was vocal, bitter and, in many instances, obscene. Unruly mobs vandalized their house and verbally abused the judge and his wife.</p>
-          <p id="sc01-4_109">Sadly, Wright was one of very few South Carolinians to speak out in
+          <p xml:id="sc01-4_108">Waring's decisions aroused hostility among a great majority of White South Carolinians, whose reaction was vocal, bitter and, in many instances, obscene. Unruly mobs vandalized their house and verbally abused the judge and his wife.</p>
+          <p xml:id="sc01-4_109">Sadly, Wright was one of very few South Carolinians to speak out in
 behalf of the Warings. Charleston society ostracized the
 couple. Evidently the so-called better elements of the city could not
 forgive the apostasy of a native Charlestonian of distinguished ancestry. Waring, however, would not modify his views. He once explained to a reporter that "by being a judge I have gradually acquired a passion for justice."</p>
-          <p id="sc01-4_1010">While the school desegregation case was pending before the United States Supreme Court Marion Wright visited the Waring home and wrote this impressionistic report of J. Waties Waring, man and judge. One year later, on November 6, 1954, Wright was the principal speaker at a testimonial dinner given by the state NAACP for the then expatriated judge and his wife.</p>
-          <p id="sc01-4_1011">"It is time for South Carolina to rejoin the Union."</p>
-          <p id="sc01-4_1012">So wrote United States District Judge J. Waties Waring of Charleston, S.C., in an opinion filed July 12, 1947. These words, directed at one phase of South Carolina's segregation policy, touched the state upon an exposed nerve. The decision struck down the system the state had set up to deprive its Negro citizens of any effective participation in politics, and, hence, in government, a system devised by "the best legal brains in the state." The judicial condemnation of the morals behind this effort was apparently not so much resented as was the reflection upon the lack of shrewdness of its authors.</p>
-          <p id="sc01-4_1014">Some years ago Governor Olin D. Johnston, now senator, purpled upon
+          <p xml:id="sc01-4_1010">While the school desegregation case was pending before the United States Supreme Court Marion Wright visited the Waring home and wrote this impressionistic report of J. Waties Waring, man and judge. One year later, on November 6, 1954, Wright was the principal speaker at a testimonial dinner given by the state NAACP for the then expatriated judge and his wife.</p>
+          <p xml:id="sc01-4_1011">"It is time for South Carolina to rejoin the Union."</p>
+          <p xml:id="sc01-4_1012">So wrote United States District Judge J. Waties Waring of Charleston, S.C., in an opinion filed July 12, 1947. These words, directed at one phase of South Carolina's segregation policy, touched the state upon an exposed nerve. The decision struck down the system the state had set up to deprive its Negro citizens of any effective participation in politics, and, hence, in government, a system devised by "the best legal brains in the state." The judicial condemnation of the morals behind this effort was apparently not so much resented as was the reflection upon the lack of shrewdness of its authors.</p>
+          <p xml:id="sc01-4_1014">Some years ago Governor Olin D. Johnston, now senator, purpled upon
 reading a decision of the United States Supreme Court in a case from
 Texas. That decision held that the plaintiff, a Negro, was entitled to
 vote in a Democratic primary even though for
-<pb id="sc01-4_1013" n="5"/>
+<pb xml:id="sc01-4_1013" n="5"/>
 bidden by the party rules. Negroes were so forbidden by party rules in South Carolina. In Texas there were statutes regulating conduct of primaries. There were such statutes in South Carolina. There was language in the decision which aroused belief in Governor Johnston that a different result might have been achieved in Texas if the state had had no such statutes but had left political parties entirely free to make their own rules. That seemed the way out for South Carolina. Certainly, if the situation in South Carolina could not be distinguished from the situation in Texas, Negroes of the Palmetto state would, upon a proper case, be granted the right of participation in primaries. In that state, of course, this means the Democratic primary.</p>
-          <p id="sc01-4_1015">Governor Johnston thereupon convened an extraordinary session of the legislature. There was nothing Oriental or disingenuous about the call for the session. "It now becomes absolutely necessary that we repeal all laws pertaining to primaries in order to maintain White supremacy . . . White supremacy will be maintained in our primaries. Let the chips fall where they may."</p>
-          <p id="sc01-4_1016">So the legislature ripped approximately 150 statutes out of the
+          <p xml:id="sc01-4_1015">Governor Johnston thereupon convened an extraordinary session of the legislature. There was nothing Oriental or disingenuous about the call for the session. "It now becomes absolutely necessary that we repeal all laws pertaining to primaries in order to maintain White supremacy . . . White supremacy will be maintained in our primaries. Let the chips fall where they may."</p>
+          <p xml:id="sc01-4_1016">So the legislature ripped approximately 150 statutes out of the
 books. The state convention of the party eliminated from its rules all
 references to statutes. When George Elmore, Negro, stood before Judge
 Waring, asking that he be permitted to enroll in the Democratic party
@@ -117,49 +82,49 @@ machinery that selects the officers and lawmakers of the United
 States; and all citizens of this state and country are entitled to
 cast a free and untrammeled ballot in our elections. If the only
 material and realistic elections are clothed with the name 'primary,' they are equally entitled to vote there ... The primary held by it (the Democratic party) is the only practical place where one can express a choice in selecting federal and other officials."</p>
-          <p id="sc01-4_1017">And so, the Negroes voted in South Carolina ....</p>
-          <p id="sc01-4_1018">It might have been naively assumed by those who did not know the
+          <p xml:id="sc01-4_1017">And so, the Negroes voted in South Carolina ....</p>
+          <p xml:id="sc01-4_1018">It might have been naively assumed by those who did not know the
 masters of the Democratic party in South Carolina that the decision in the <hi rend="italic">Elmore v. Rice</hi> case, unanimously affirmed by the Circuit Court of Appeals (composed, by the way, of three White Southern judges) and the Supreme Court of the United States, would have put an end to efforts to exclude the Negro from the Democratic primary. Not so. Like John Paul Jones in a worthier cause, the party had just begun to light. The Democratic convention on May 19, 1948, almost a year after Judge Waring's decision in the Elmore case, adopted new rules. These limited membership in the Democratic clubs to Whit persons and required of all those seeking to vote in the primary an oath which provided, among other things, that the prospective voter believes in and will support the "social, religious and educational separation of races," in "the principle of States Rights" and "is opposed to proposed federal so-called F.E.P.C. law." A rather neat little device for rendering completely nugatory the former decision of Judge Waring.</p>
-          <p id="sc01-4_1019">David Brown, a Negro from Beaufort, brought suit against officials of the party, seeking an order granting him membership in one of the Democratic clubs and enjoining the requirement of the oath as a prerequisite to voting in the primary. In addition to the permanent injunction, a temporary injunction was sought relating to the then imminent primary.</p>
-          <p id="sc01-4_1020">Judge Waring, native born and lifelong resident of Charleston, with eight generations of Southern ancestry behind him, with Confederate and slave owning antecedents, always a Democrat, heard the motion for the temporary injunction.</p>
-          <p id="sc01-4_1021">"It is important," his order read, "that once and for all the
+          <p xml:id="sc01-4_1019">David Brown, a Negro from Beaufort, brought suit against officials of the party, seeking an order granting him membership in one of the Democratic clubs and enjoining the requirement of the oath as a prerequisite to voting in the primary. In addition to the permanent injunction, a temporary injunction was sought relating to the then imminent primary.</p>
+          <p xml:id="sc01-4_1020">Judge Waring, native born and lifelong resident of Charleston, with eight generations of Southern ancestry behind him, with Confederate and slave owning antecedents, always a Democrat, heard the motion for the temporary injunction.</p>
+          <p xml:id="sc01-4_1021">"It is important," his order read, "that once and for all the
 members of this party be made to understand and that is the purpose of
 this opinion - that they will be required to obey and carry out the
 orders of this court, not only in the technical respects but in the
 true spirit and meaning of the same . It is time that either the present officials of the party, or such as may be in the future chosen, realize that the people of the United States expect them to follow the American way of elections ... It becomes the duty of this court to say to the party officials that they will have to obey the true intent of the law ... and that no excuse or evasion in the future will be tolerated ... Any violation of the terms of the order, or of the law as set forth in this opinion ... will be considered a contempt and will be proceeded against and punished." From the bench he announced that punishment would not be a mere line but would be imprisonment.</p>
-          <p id="sc01-4_1022">Under the aegis of this order 35,000 South Carolina Negroes voted in the Democratic primary of 1948 without disorder or incident.</p>
-          <p id="sc01-4_1023">Later, on November 26, 1948, the injunction was made permanent. The Circuit Court of Appeals again unanimously sustained the action of the lower court. The appellate court was asked to hold that Judge Waring should have disqualified himself because of "personal bias" against the defendants. This contention was overruled with the observation, "A judge cannot be disqualified merely because he believes in upholding the law, even though he says so with vehemence."</p>
-          <p id="sc01-4_1024">While Judge Waring had one of the election cases under consideration, a defender of public morals dropped a suggestion into the mails:</p>
-          <p id="sc01-4_1026">"You must realize the fearful racial hatred that will follow any
-adverse <pb id="sc01-4_1025" n="6"/>
+          <p xml:id="sc01-4_1022">Under the aegis of this order 35,000 South Carolina Negroes voted in the Democratic primary of 1948 without disorder or incident.</p>
+          <p xml:id="sc01-4_1023">Later, on November 26, 1948, the injunction was made permanent. The Circuit Court of Appeals again unanimously sustained the action of the lower court. The appellate court was asked to hold that Judge Waring should have disqualified himself because of "personal bias" against the defendants. This contention was overruled with the observation, "A judge cannot be disqualified merely because he believes in upholding the law, even though he says so with vehemence."</p>
+          <p xml:id="sc01-4_1024">While Judge Waring had one of the election cases under consideration, a defender of public morals dropped a suggestion into the mails:</p>
+          <p xml:id="sc01-4_1026">"You must realize the fearful racial hatred that will follow any
+adverse <pb xml:id="sc01-4_1025" n="6"/>
 decision that you may render in the present case under your consideration against the White people of your own state.</p>
-          <p id="sc01-4_1027">"We again trust that we will have your co-operation in a favorable decision for the White people which will in the end do more justice to the Negroes themselves than the past decisions that you have been making."</p>
-          <p id="sc01-4_1028">The signature -Knights of the Ku Klux Klan - was in red ink.</p>
-          <p id="sc01-4_1029">In a case from Clarendon County, South Carolina, the Judge on June 21, 1951, wrote a dissenting opinion repudiating the doctrine that a state acts within the 14th Amendment to the Constitution of the United States when it provides separate but equal school facilities for Negro and White pupils. The case is the first to attack segregation per se on the elementary school level. After reviewing the testimony of certain witnesses for plaintiffs, Judge Waring wrote:</p>
-          <p id="sc01-4_1030">"From their testimony it was clearly apparent, as it should he to any thoughtful person, irrespective of having such expert testimony, that segregation in education can never produce equality and that it is an evil that must he eradicated ... I am of the opinion that all of the legal guideposts, expert testimony, common sense and reason point unerringly to the conclusion that the system of segregation in education adopted and practiced in the state of South Carolina must go and must go now."</p>
-          <p id="sc01-4_1031">"Segregation is per se inequality."</p>
-          <p id="sc01-4_1032">The other two judges of the three judge court, John J. Parker and George Bell Timmerman, upheld the separate but equal doctrine. An appeal from their decision is now before the Supreme Court.</p>
-          <p id="sc01-4_1033">This would be a badly distorted picture if the impression should be
+          <p xml:id="sc01-4_1027">"We again trust that we will have your co-operation in a favorable decision for the White people which will in the end do more justice to the Negroes themselves than the past decisions that you have been making."</p>
+          <p xml:id="sc01-4_1028">The signature -Knights of the Ku Klux Klan - was in red ink.</p>
+          <p xml:id="sc01-4_1029">In a case from Clarendon County, South Carolina, the Judge on June 21, 1951, wrote a dissenting opinion repudiating the doctrine that a state acts within the 14th Amendment to the Constitution of the United States when it provides separate but equal school facilities for Negro and White pupils. The case is the first to attack segregation per se on the elementary school level. After reviewing the testimony of certain witnesses for plaintiffs, Judge Waring wrote:</p>
+          <p xml:id="sc01-4_1030">"From their testimony it was clearly apparent, as it should he to any thoughtful person, irrespective of having such expert testimony, that segregation in education can never produce equality and that it is an evil that must he eradicated ... I am of the opinion that all of the legal guideposts, expert testimony, common sense and reason point unerringly to the conclusion that the system of segregation in education adopted and practiced in the state of South Carolina must go and must go now."</p>
+          <p xml:id="sc01-4_1031">"Segregation is per se inequality."</p>
+          <p xml:id="sc01-4_1032">The other two judges of the three judge court, John J. Parker and George Bell Timmerman, upheld the separate but equal doctrine. An appeal from their decision is now before the Supreme Court.</p>
+          <p xml:id="sc01-4_1033">This would be a badly distorted picture if the impression should be
 created that hatred of Judge Waring approaches being unanimous in
 South Carolina. Far from it. The press of the state generally has not
 taken up the hue and cry regarding his decisions as being inevitable and correct statements of the law. Outside of ancient Charleston and environs, if one may judge from the letters and telegrams (these not wearing the mask of anonymity) there is a substantial body of White opinion which applauds the judge's course. From outside the state there have come literally thousands of commendatory messages.</p>
-          <p id="sc01-4_1034">The Negro people, of course, both at home and abroad, have elevated him to sainthood, a role for which he is ill-adapted and which gives him acute discomfort.</p>
-          <p id="sc01-4_1035">"After all, I have done nothing except perform very plain duties. For merely doing his duty a man is not entitled to anything approaching adulation."</p>
-          <p id="sc01-4_1036">But wherever he goes throughout the country Negro men and women - bell hops, red caps, college students, teachers - come forward to press his hand and voice the gratitude of their race.</p>
-          <p id="sc01-4_1037">"Of course," the judge admitted, "it does appeal to the ego which I guess we all have. And a few words like theirs make up for a lot of those anonymous letters," pointing to the drawer which contains that literary collection.</p>
-          <p id="sc01-4_1038">I asked Judge Waring if any White Charlestonian had publicly given him support.</p>
-          <p id="sc01-4_1039">"Not a one."</p>
-          <p id="sc01-4_1040">"What about the Churches?"</p>
-          <p id="sc01-4_1041">"You know," he replied with evident feelings. "that has been the most disappointing feature of the whole matter. I am unable to understand how ministers who Sunday after Sunday utter the ancient cliches about brotherhood never translate them into action, apply them to specific local situations. untouchahility in India and the Ghetto in Germany draw fire but segregation here at home does not.</p>
-          <p id="sc01-4_1042">I asked the judge about the penalties he had endured, he replied:</p>
-          <p id="sc01-4_1043">"For merely thinking and talking differently from your fellows, you are marked as being queer and unfriendly. For putting those thoughts into action, as I have tried to do, you are put down as a traitor to your class and state.</p>
-          <p id="sc01-4_1044">"As a result I have been completely abandoned by many friends and acquaintances. Probably the most serious phase of this abandonment is loss of contact with lawyers. They physically evade me and dodge around corners in order to avoid the business, political or other consequences if the impression should be created that they were friendly to me.</p>
-          <p id="sc01-4_1045">"I knew some pleasant and amusing people whose very frivolity was attractive. They left me.</p>
-          <p id="sc01-4_1046">"Then there is the discomfort of living in an atmosphere of tenseness and ill will. There is a feeling of being on guard. I do not mean physically, though threats of violence are not uncommon, but rather, of watching every word and act to be sure that they are not subject to misconstruction.</p>
-          <p id="sc01-4_1047">"All of those things, of course, detract from normal and happy living." What was the other side of the ledger, what compensations to offset these penalties?</p>
-          <p id="sc01-4_1048">"There have been plenty of compensations," he began. "They more than off-set the penalties.</p>
-          <p id="sc01-4_1049">"Of course the first great gain is the complete knowledge that one's actions have been right, not only right because, in the matter of court decisions, there have been affirmances and complete approval nationally, but right because the conscience of the world approves of these actions, and right because one's own conscience says so, and that is the greatest gain there is ....</p>
-          <p id="sc01-4_1051">"Another gain has been the outside contacts. We both (wife) have a
+          <p xml:id="sc01-4_1034">The Negro people, of course, both at home and abroad, have elevated him to sainthood, a role for which he is ill-adapted and which gives him acute discomfort.</p>
+          <p xml:id="sc01-4_1035">"After all, I have done nothing except perform very plain duties. For merely doing his duty a man is not entitled to anything approaching adulation."</p>
+          <p xml:id="sc01-4_1036">But wherever he goes throughout the country Negro men and women - bell hops, red caps, college students, teachers - come forward to press his hand and voice the gratitude of their race.</p>
+          <p xml:id="sc01-4_1037">"Of course," the judge admitted, "it does appeal to the ego which I guess we all have. And a few words like theirs make up for a lot of those anonymous letters," pointing to the drawer which contains that literary collection.</p>
+          <p xml:id="sc01-4_1038">I asked Judge Waring if any White Charlestonian had publicly given him support.</p>
+          <p xml:id="sc01-4_1039">"Not a one."</p>
+          <p xml:id="sc01-4_1040">"What about the Churches?"</p>
+          <p xml:id="sc01-4_1041">"You know," he replied with evident feelings. "that has been the most disappointing feature of the whole matter. I am unable to understand how ministers who Sunday after Sunday utter the ancient cliches about brotherhood never translate them into action, apply them to specific local situations. untouchahility in India and the Ghetto in Germany draw fire but segregation here at home does not.</p>
+          <p xml:id="sc01-4_1042">I asked the judge about the penalties he had endured, he replied:</p>
+          <p xml:id="sc01-4_1043">"For merely thinking and talking differently from your fellows, you are marked as being queer and unfriendly. For putting those thoughts into action, as I have tried to do, you are put down as a traitor to your class and state.</p>
+          <p xml:id="sc01-4_1044">"As a result I have been completely abandoned by many friends and acquaintances. Probably the most serious phase of this abandonment is loss of contact with lawyers. They physically evade me and dodge around corners in order to avoid the business, political or other consequences if the impression should be created that they were friendly to me.</p>
+          <p xml:id="sc01-4_1045">"I knew some pleasant and amusing people whose very frivolity was attractive. They left me.</p>
+          <p xml:id="sc01-4_1046">"Then there is the discomfort of living in an atmosphere of tenseness and ill will. There is a feeling of being on guard. I do not mean physically, though threats of violence are not uncommon, but rather, of watching every word and act to be sure that they are not subject to misconstruction.</p>
+          <p xml:id="sc01-4_1047">"All of those things, of course, detract from normal and happy living." What was the other side of the ledger, what compensations to offset these penalties?</p>
+          <p xml:id="sc01-4_1048">"There have been plenty of compensations," he began. "They more than off-set the penalties.</p>
+          <p xml:id="sc01-4_1049">"Of course the first great gain is the complete knowledge that one's actions have been right, not only right because, in the matter of court decisions, there have been affirmances and complete approval nationally, but right because the conscience of the world approves of these actions, and right because one's own conscience says so, and that is the greatest gain there is ....</p>
+          <p xml:id="sc01-4_1051">"Another gain has been the outside contacts. We both (wife) have a
 considerable correspondence with people all around the country and
 even some outside, and when we go away, we now have the opportunity of
 meeting people throughout this country who are worthwhile, not because
@@ -169,102 +134,102 @@ have never had any contact and whom we would have never had any
 contact and whom we never would have met and many we never would have
 heard of but for the fact that South Carolina has chosen to advertise
 its :i Americans and humanitarians and opposed to oppression. Too, it
-<pb id="sc01-4_1050" n="7"/>
+<pb xml:id="sc01-4_1050" n="7"/>
 came as agreat surprise to find out ho many individual thinkers there were who wanted to know more about these things.</p>
-          <p id="sc01-4_1052">"I feel that this ostracism here has allowed me to take part in what might be termed a true crusading movement in which many hundreds and thousands of good people in this country are enlisted and performing various parts. But for this alignment, I would never have had such an opportunity.</p>
-          <p id="sc01-4_1053">"Some day the civil rights battle will be won. I hope I may be pardoned a sense of pride in the thought that I shall have had some small part in the victory."</p>
-          <p id="sc01-4_1054">Since the Judge was in this selfrevealing mood and there was still a quarter-hour before dinner, I asked if he felt that Charleston would ever soften its attitude toward him, come to think a little more kindly of the work he had done. There was a long pause. Finally:</p>
-          <p id="sc01-4_1055">"In my lifetime, no."</p>
-          <p id="sc01-4_1056">A native South Carolinian, my mind turned to the career of James Louis Pettigru, brilliant and courageous lawyer of Charleston, who opposed nullification and secession when those fevers ran high. As a result he was Charleston's loneliest man in the decades before Fort Sumter was shelled and during the war which that shelling announced until his death in 1863. He lies buried in St. Michael's churchyard in Charleston. As a boy Waties Waring absorbed the epitaph, from which the following extract may be pertinent:</p>
-          <p id="sc01-4_1057">"In the great Civil War he withstood his People for his Country but his People did homage to the Man who held his conscience higher than their praise and his Country heaped her honors on the grave of the Patriot, to whom living his own righteous self-respect sufficed alike for Motive and Reward."</p>
-          <p id="sc01-4_1058">Charleston may do it again.</p>
-          <p id="sc01-4_1059" rend="bold">Aftermath of the Decision</p>
-          <p id="sc01-4_1060">No one development more signified and quickened the pace of the New Reconstruction than did the Supreme Court's unanimous decision of May 17, 1954, against segregation in the public schools. The separate-but-equal doctrine, which dated from the decision in 1896 in Plessv v. Ferguson, had been under steady attack for two decades before 1954; a number of the Supreme Court's decisions from 1938 on, largely in the realm of state-supported higher education, had sharply limited and nibbled away at the PIessy formula. But the Court in 1954 met the issue head-on and, speaking with an impressive unanimity and moral authority, buried the legal fiction of separate-but-equal once and for all.</p>
-          <p id="sc01-4_1061">Marion Wright had correctly anticipated this momentous development. Yet, as he admitted in later years, he and many other liberal observers underestimated the depth and amount of Southern opposition to desegregation. This aspect of the New Reconstruction became manifest only gradually and after White extremist groups and politicians had moved into action.</p>
-          <p id="sc01-4_1062">The Supreme Court's decision in 1954, and its decree a year later implementing the decision, forced Southern whites to decide: would they actively assist, passively accept, or bitterly oppose the greatest tide of racial change since the years immediately after the Civil War? The gradualists, Southerns who looked to changes at some far-off, unspecified date, were especially confronted with the dilemma of deciding. In his speeches and written essays, Wright often dealt with the fallacies of gradualism and the obligations of the Southerner.</p>
-          <p id="sc01-4_1063"> It was Wright's goal to transform Southern society into one that did not dwarf its men but rather encouraged their growth into giants. The ability to grow, he realized, could come only with a truly new South, one that came to grips with the Confederacy realistically, recognizing that the Civil War in the South had been waged to defend an ignoble institution. Dixie had fought gallantly for a cause that should have been lost, and now one hundred years later it was time to turn away from the past and to educate the young, Black and White, to treat one another as brothers and sisters.</p>
-          <p id="sc01-4_1064">Wright was aware that the process of integrating the schools would
+          <p xml:id="sc01-4_1052">"I feel that this ostracism here has allowed me to take part in what might be termed a true crusading movement in which many hundreds and thousands of good people in this country are enlisted and performing various parts. But for this alignment, I would never have had such an opportunity.</p>
+          <p xml:id="sc01-4_1053">"Some day the civil rights battle will be won. I hope I may be pardoned a sense of pride in the thought that I shall have had some small part in the victory."</p>
+          <p xml:id="sc01-4_1054">Since the Judge was in this selfrevealing mood and there was still a quarter-hour before dinner, I asked if he felt that Charleston would ever soften its attitude toward him, come to think a little more kindly of the work he had done. There was a long pause. Finally:</p>
+          <p xml:id="sc01-4_1055">"In my lifetime, no."</p>
+          <p xml:id="sc01-4_1056">A native South Carolinian, my mind turned to the career of James Louis Pettigru, brilliant and courageous lawyer of Charleston, who opposed nullification and secession when those fevers ran high. As a result he was Charleston's loneliest man in the decades before Fort Sumter was shelled and during the war which that shelling announced until his death in 1863. He lies buried in St. Michael's churchyard in Charleston. As a boy Waties Waring absorbed the epitaph, from which the following extract may be pertinent:</p>
+          <p xml:id="sc01-4_1057">"In the great Civil War he withstood his People for his Country but his People did homage to the Man who held his conscience higher than their praise and his Country heaped her honors on the grave of the Patriot, to whom living his own righteous self-respect sufficed alike for Motive and Reward."</p>
+          <p xml:id="sc01-4_1058">Charleston may do it again.</p>
+          <p xml:id="sc01-4_1059" rend="bold">Aftermath of the Decision</p>
+          <p xml:id="sc01-4_1060">No one development more signified and quickened the pace of the New Reconstruction than did the Supreme Court's unanimous decision of May 17, 1954, against segregation in the public schools. The separate-but-equal doctrine, which dated from the decision in 1896 in Plessv v. Ferguson, had been under steady attack for two decades before 1954; a number of the Supreme Court's decisions from 1938 on, largely in the realm of state-supported higher education, had sharply limited and nibbled away at the PIessy formula. But the Court in 1954 met the issue head-on and, speaking with an impressive unanimity and moral authority, buried the legal fiction of separate-but-equal once and for all.</p>
+          <p xml:id="sc01-4_1061">Marion Wright had correctly anticipated this momentous development. Yet, as he admitted in later years, he and many other liberal observers underestimated the depth and amount of Southern opposition to desegregation. This aspect of the New Reconstruction became manifest only gradually and after White extremist groups and politicians had moved into action.</p>
+          <p xml:id="sc01-4_1062">The Supreme Court's decision in 1954, and its decree a year later implementing the decision, forced Southern whites to decide: would they actively assist, passively accept, or bitterly oppose the greatest tide of racial change since the years immediately after the Civil War? The gradualists, Southerns who looked to changes at some far-off, unspecified date, were especially confronted with the dilemma of deciding. In his speeches and written essays, Wright often dealt with the fallacies of gradualism and the obligations of the Southerner.</p>
+          <p xml:id="sc01-4_1063"> It was Wright's goal to transform Southern society into one that did not dwarf its men but rather encouraged their growth into giants. The ability to grow, he realized, could come only with a truly new South, one that came to grips with the Confederacy realistically, recognizing that the Civil War in the South had been waged to defend an ignoble institution. Dixie had fought gallantly for a cause that should have been lost, and now one hundred years later it was time to turn away from the past and to educate the young, Black and White, to treat one another as brothers and sisters.</p>
+          <p xml:id="sc01-4_1064">Wright was aware that the process of integrating the schools would
 be hard for both races and would reveal hidden antagonisms. When
 addressing Southerners sometimes Wright told of an elderly Negro woman
 in New Orleans, her hands bleached from the washtub. Shortly after
 school riots in that city she sadly confided, "I washed for those
 people for thirty years and I wouldn't have believed if I hadn't seen it that they would run in the house and pull down the shades while that crowd threw rocks at my grandchild."</p>
-          <p id="sc01-4_1066">It was precisely because such incidents did occur, Wright argued, that integration of schools was necessary, for this would foster democracy and would prove more beneficial to Whites than to Blacks. In February 1971, he noted:
+          <p xml:id="sc01-4_1066">It was precisely because such incidents did occur, Wright argued, that integration of schools was necessary, for this would foster democracy and would prove more beneficial to Whites than to Blacks. In February 1971, he noted:
 
-<q><p id="sc01-4_1065" rend="italic">It is as damaging to the personality to be shut in as to be shut out. Whites create ghettos for themselves. It is more important that the White Southerner know the black than that he know the European. Whites and blacks here are neighbors and neighbors must know each other if they are to get along and build a better society. Such knowledge begins in the schools.</p></q></p>
-          <p id="sc01-4_1067">Delay, gradualism would not work, for all the world, even the
+<q><p xml:id="sc01-4_1065" rend="italic">It is as damaging to the personality to be shut in as to be shut out. Whites create ghettos for themselves. It is more important that the White Southerner know the black than that he know the European. Whites and blacks here are neighbors and neighbors must know each other if they are to get along and build a better society. Such knowledge begins in the schools.</p></q></p>
+          <p xml:id="sc01-4_1067">Delay, gradualism would not work, for all the world, even the
 peoples of Latin America, Africa and Asia, were "aware of the shabby and fradulent tricks used to deny rights to people of color in the South, aware of burnings, boycotts, and bombings."</p>
-          <p id="sc01-4_1069">
+          <p xml:id="sc01-4_1069">
             <q>
-              <p id="sc01-4_1068" rend="italic">You know a man can secure a reputation for wisdom merely by saying, Lets not move too rapidly. He can secure a reputation for goodness merely by saying, This thing is wrong and some day we must get rid of it.' Such men are the meanly wise, the feebly good. Bigotry takes many forms. In none is it more detestable than in the assertion that mere procrastination will accomplish the results which all good men seek.</p>
+              <p xml:id="sc01-4_1068" rend="italic">You know a man can secure a reputation for wisdom merely by saying, Lets not move too rapidly. He can secure a reputation for goodness merely by saying, This thing is wrong and some day we must get rid of it.' Such men are the meanly wise, the feebly good. Bigotry takes many forms. In none is it more detestable than in the assertion that mere procrastination will accomplish the results which all good men seek.</p>
             </q>
           </p>
-          <p id="sc01-4_1070">These words, spoken by Wright before the Men's Club of Trinity
+          <p xml:id="sc01-4_1070">These words, spoken by Wright before the Men's Club of Trinity
 Episcopal Church in Buffalo, New York, on May 6, 1952, set forth a
 theme to which he often recurred. That theme was in response to the
 plea for gradualism in re-adjusting Southern race
 relations. Gradualism was another term for non-action.</p>
-          <div3 id="sc01-4_025" type="About">
-            <p id="sc01-4_1071"><title>Human Rights Odyssey</title> was  published by Moore Publishing Company in 1978, Price $9.95.</p>
+          <div3 xml:id="sc01-4_025" type="About">
+            <p xml:id="sc01-4_1071"><title>Human Rights Odyssey</title> was  published by Moore Publishing Company in 1978, Price $9.95.</p>
           </div3>
         </div2>
-        <div2 id="sc01-4_006" n="2" type="Article">
+        <div2 xml:id="sc01-4_006" n="2" type="Article">
           <head>Fighting Discrimination in Macon: A Return to the Streets</head>
-          <byline>By <docAuthor><name reg="Sparks, Yvette" type="person">Yvette Sparks</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Sparks, Yvette</reg><orig>Yvette Sparks</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 4-7</docDate>
           
-          <p id="sc01-4_1072">During the height of the civil rights movement when the call for integration resounded throughout the country, Macon, Georgia heard the reverberating echo. The calls for equal access to lunch counters and front seats on buses were sounded there, too.</p>
-          <p id="sc01-4_1073">Blacks in Macon and elsewhere marched, sat-in, picketed, boycotted and went to jail in the name of equality. They fought against the White power structure for rights that had long been denied them. Some concessions were made some gains were won.</p>
-          <p id="sc01-4_1074">But today, another call is ringing throughout Middle Georgia's major metropolitan city. It is a call painfully reminiscent of an era gone by. Civil rights activists in the conservative Southern city still are pleading for an end to discrimination in the city's hiring and promotion practices.</p>
-          <p id="sc01-4_1075">"In Macon we still aren't even n the tokenism phase, and we are approaching the 80s," says the head of a civil rights organization which is currently waging a battle to end alleged discrimination.</p>
-          <p id="sc01-4_1076">The city's newly formed Southern Christian Leadership Conference (SCLC) has taken up the battle cry and has caused governmental and business leaders to take notice. Both governmental officials and businessmen have denied that discrimination exists, saying they have worked to insure that "qualified" Blacks move up on the employment ladder.</p>
-          <p id="sc01-4_1077">In other areas of life in Macon, they readily point out that Blacks have achieved significant gains over the last few years. Five of the city's 15 City Council members are Black. Three of the 10 members of the Bihh Board of Education are Black. A Black judge sits on the Municipal Court Bench. And a few other Blacks hold appointive positions on quasi-influential boards.</p>
-          <p id="sc01-4_1079">Herbert Dennard, executive director of the Macon chapter SCLC, does
+          <p xml:id="sc01-4_1072">During the height of the civil rights movement when the call for integration resounded throughout the country, Macon, Georgia heard the reverberating echo. The calls for equal access to lunch counters and front seats on buses were sounded there, too.</p>
+          <p xml:id="sc01-4_1073">Blacks in Macon and elsewhere marched, sat-in, picketed, boycotted and went to jail in the name of equality. They fought against the White power structure for rights that had long been denied them. Some concessions were made some gains were won.</p>
+          <p xml:id="sc01-4_1074">But today, another call is ringing throughout Middle Georgia's major metropolitan city. It is a call painfully reminiscent of an era gone by. Civil rights activists in the conservative Southern city still are pleading for an end to discrimination in the city's hiring and promotion practices.</p>
+          <p xml:id="sc01-4_1075">"In Macon we still aren't even n the tokenism phase, and we are approaching the 80s," says the head of a civil rights organization which is currently waging a battle to end alleged discrimination.</p>
+          <p xml:id="sc01-4_1076">The city's newly formed Southern Christian Leadership Conference (SCLC) has taken up the battle cry and has caused governmental and business leaders to take notice. Both governmental officials and businessmen have denied that discrimination exists, saying they have worked to insure that "qualified" Blacks move up on the employment ladder.</p>
+          <p xml:id="sc01-4_1077">In other areas of life in Macon, they readily point out that Blacks have achieved significant gains over the last few years. Five of the city's 15 City Council members are Black. Three of the 10 members of the Bihh Board of Education are Black. A Black judge sits on the Municipal Court Bench. And a few other Blacks hold appointive positions on quasi-influential boards.</p>
+          <p xml:id="sc01-4_1079">Herbert Dennard, executive director of the Macon chapter SCLC, does
 not deny the fact that Blacks in Macon have conic a long av in terms
 of meshing into the
-<pb id="sc01-4_1078" n="9"/>
+<pb xml:id="sc01-4_1078" n="9"/>
 total fabric of life there. But he hastily adds, they still have a long way to go. Dennard and others also fear that the gains Blacks and poor people made in the 1960s are being threatened today, because of a "rightist resurgence."</p>
-          <p id="sc01-4_1080">The nation is faced with a dramatic philosophical shift to the right, Dennard believes. And to emphasize his point, he cites the Supreme Court's Bakke decision and the recent sentencing of Tommy Hines - a mentally retarded Alabama man convicted of raping a White woman.</p>
-          <p id="sc01-4_1081">And because of this shift away from Blacks and the plight of Macon's unemployed and underemployed Black population, the SCLC has picked up some of the tools of the past. The group strongly believes that "die hard discrimination" prevails in local governmental units and with private employers, some who have historically refused to hire Blacks, the group says. So to fight the discrimination it sees, the SCLC has decided to resort to the effective tactics of its founding fathers.</p>
-          <p id="sc01-4_1082">Dr. Martin Luther King Jr. and others rallied masses of people
+          <p xml:id="sc01-4_1080">The nation is faced with a dramatic philosophical shift to the right, Dennard believes. And to emphasize his point, he cites the Supreme Court's Bakke decision and the recent sentencing of Tommy Hines - a mentally retarded Alabama man convicted of raping a White woman.</p>
+          <p xml:id="sc01-4_1081">And because of this shift away from Blacks and the plight of Macon's unemployed and underemployed Black population, the SCLC has picked up some of the tools of the past. The group strongly believes that "die hard discrimination" prevails in local governmental units and with private employers, some who have historically refused to hire Blacks, the group says. So to fight the discrimination it sees, the SCLC has decided to resort to the effective tactics of its founding fathers.</p>
+          <p xml:id="sc01-4_1082">Dr. Martin Luther King Jr. and others rallied masses of people
 together with fiery speeches, marches, pickets and boycotts. Recently,
 the SCLC began using those same tactics in their struggle to end the
 alleged unfair hiring and promotion practices in Macon. Many in the White community and some in the Black community scoffed at the idea of returning to the days of the 60s. Fifteen years ago, some said, nonviolent marching measured the height of the human spirit. It's not necessary now.</p>
-          <p id="sc01-4_1083">Other avenues of change exist. Work for change within the system, use of voting power, filing of suits, some have suggested. But Dennard and some others feel that while they are using the modern redresses which take longer, they can call attention to their cause by "placing their feet in the street."</p>
-          <p id="sc01-4_1084">"We shall march as many marches as necessary. We will picket and will file suits and boycott until we win appropriate concessions," the group has declared. And in the month of November, an estimated 2,000 people marched through downtown Macon, singing and calling for an end to discrimination. Pickets followed and later meetings with business and governmental officials.</p>
-          <p id="sc01-4_1085">The group has also involved the U.S. Justice Department in its fight against alleged discrimination. Federal officials are monitoring the charges of discrimination lodged by the group, which point out that Blacks are not being hired or promoted fairly to managerial positions.</p>
-          <p id="sc01-4_1087">Earlier in the year, a federal agency cited the City of Macon for
+          <p xml:id="sc01-4_1083">Other avenues of change exist. Work for change within the system, use of voting power, filing of suits, some have suggested. But Dennard and some others feel that while they are using the modern redresses which take longer, they can call attention to their cause by "placing their feet in the street."</p>
+          <p xml:id="sc01-4_1084">"We shall march as many marches as necessary. We will picket and will file suits and boycott until we win appropriate concessions," the group has declared. And in the month of November, an estimated 2,000 people marched through downtown Macon, singing and calling for an end to discrimination. Pickets followed and later meetings with business and governmental officials.</p>
+          <p xml:id="sc01-4_1085">The group has also involved the U.S. Justice Department in its fight against alleged discrimination. Federal officials are monitoring the charges of discrimination lodged by the group, which point out that Blacks are not being hired or promoted fairly to managerial positions.</p>
+          <p xml:id="sc01-4_1087">Earlier in the year, a federal agency cited the City of Macon for
 discriminating against Black and female employers. The Office of
 Revenue Sharing (ORS) warned that Macon could lose more than $2
 million in revenue
-<pb id="sc01-4_1086" n="10"/>sharing funds if it doesn't take steps to promote more Blacks and women to supervisory positions.</p>
-          <p id="sc01-4_1088">The ORS study found that only 2.4 percent of Macon's supervisory personnel are Black, while Blacks make up 39 percent of the workforce. Only 1.6 percent female supervisors were found in the 11.4 percent work force that they comprise.</p>
-          <p id="sc01-4_1089">While the report said that the city's promotion practices are not "inherently discriminatory," it added that procedures have resulted in "Blacks and females occupying a disproportionate percentage of nonskilled, lower-paying and traditionally clerical-type jobs respectively." Blacks and females have all but been excluded from supervisory positions, it continued.</p>
-          <p id="sc01-4_1090">Macon's Mayor Buckner Melton defended his city's affirmative action efforts by saying that the city administration has made a "dramatic increase" in the number of Black employees in nonlabor positions. However, he also admitted that Blacks still hold most of the unskilled jobs.</p>
-          <p id="sc01-4_1091">The investigation of the Office of Revenue Sharing started about
+<pb xml:id="sc01-4_1086" n="10"/>sharing funds if it doesn't take steps to promote more Blacks and women to supervisory positions.</p>
+          <p xml:id="sc01-4_1088">The ORS study found that only 2.4 percent of Macon's supervisory personnel are Black, while Blacks make up 39 percent of the workforce. Only 1.6 percent female supervisors were found in the 11.4 percent work force that they comprise.</p>
+          <p xml:id="sc01-4_1089">While the report said that the city's promotion practices are not "inherently discriminatory," it added that procedures have resulted in "Blacks and females occupying a disproportionate percentage of nonskilled, lower-paying and traditionally clerical-type jobs respectively." Blacks and females have all but been excluded from supervisory positions, it continued.</p>
+          <p xml:id="sc01-4_1090">Macon's Mayor Buckner Melton defended his city's affirmative action efforts by saying that the city administration has made a "dramatic increase" in the number of Black employees in nonlabor positions. However, he also admitted that Blacks still hold most of the unskilled jobs.</p>
+          <p xml:id="sc01-4_1091">The investigation of the Office of Revenue Sharing started about
 one year ago, as a result of a discrimination suit filed by 16 police
 officers two years ago. The suit of the Black officers combined with a
 more recent federal suitled by two city electrical workers will put
 the city's romotion policies on trial.</p>
-          <p id="sc01-4_1092">The joint suit is scheduled to be heard in February. The police officers are charging that the city's police department is biased against Blacks in promotion and evaluation practices, denies training opportunities to Blacks and fails to maintain a working atmosphere free from racial intimidation. The two electrical workers charge they were passed over for promotions in favor of a less qualified White worker.</p>
-          <p id="sc01-4_1093">Other suits are also pending. One involves a deputy in the Bibb County Sheriff's office who alleges that the county uses unfair testing and promotion practices. Both county and city officials are taking close looks at their departments and at their affirmative action plans.</p>
-          <p id="sc01-4_1094">Macon is being watched because of what you, the Blacks, are doing."</p>
-          <p id="sc01-4_1095">Macon is being watched, one business official told leaders of the SCLC, "because of what you, the Blacks, are doing." He cautioned them against allowing their efforts to dissuade industry prospects from coming into Macon. It would hurt the very cause for which they are working, more jobs and fair employment for Blacks, he said.</p>
-          <p id="sc01-4_1096">And the SCLC gave the assurance that the group would not do
+          <p xml:id="sc01-4_1092">The joint suit is scheduled to be heard in February. The police officers are charging that the city's police department is biased against Blacks in promotion and evaluation practices, denies training opportunities to Blacks and fails to maintain a working atmosphere free from racial intimidation. The two electrical workers charge they were passed over for promotions in favor of a less qualified White worker.</p>
+          <p xml:id="sc01-4_1093">Other suits are also pending. One involves a deputy in the Bibb County Sheriff's office who alleges that the county uses unfair testing and promotion practices. Both county and city officials are taking close looks at their departments and at their affirmative action plans.</p>
+          <p xml:id="sc01-4_1094">Macon is being watched because of what you, the Blacks, are doing."</p>
+          <p xml:id="sc01-4_1095">Macon is being watched, one business official told leaders of the SCLC, "because of what you, the Blacks, are doing." He cautioned them against allowing their efforts to dissuade industry prospects from coming into Macon. It would hurt the very cause for which they are working, more jobs and fair employment for Blacks, he said.</p>
+          <p xml:id="sc01-4_1096">And the SCLC gave the assurance that the group would not do
 anything to block the flow of new industries into the Middle Georgia
 town. But neither did it intend to let unfair employment practices
 prevail. "It is our position that in an effort to keep peace and
 harmony in any city, it is necessary to gain and maintain fair
 employment opportunities for all citizens," said SCLC president Henry
 Ficklin.</p>
-          <div3 id="sc01-4_026" type="About">
-            <p id="sc01-4_1097">Yvette Spark is a  Macon, Georgia free-lance writer.</p>
+          <div3 xml:id="sc01-4_026" type="About">
+            <p xml:id="sc01-4_1097">Yvette Spark is a  Macon, Georgia free-lance writer.</p>
           </div3>
         </div2>
-        <div2 id="sc01-4_004" n="3" type="Article">
-          <head>Texas Prisoners Rights on Trial</head>
-          <byline>By <docAuthor><name reg="Powell, Bob" type="person">Bob Powell</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 11-13, 24</docDate>
+        <div2 xml:id="sc01-4_004" n="3" type="Article">
+          <head>Texas Prisoners Rights on Trial
+                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Bob</reg><orig>Bob Powell</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 11-13, 24</docDate>
 
           <epigraph>
             <q>
@@ -278,139 +243,139 @@ Ficklin.</p>
             <bibl>From Song, "Texas When I Die" by Tanya Tucker</bibl>
           </epigraph>
 
-          <p id="sc01-4_1098">From cantaloupes to oilfields, Texans have always been known for
+          <p xml:id="sc01-4_1098">From cantaloupes to oilfields, Texans have always been known for
 things that are big. A recent prison rights case, the largest to date, is no exception to the rule. The case,<hi rend="italic"> Ruiz v. Estelle</hi>, now on trial in Houston, is wild and wooly in the best Texas tradition. The U.S. Justice Department alone, who has intervened on behalf of the prisoners, is expected to call 150 witnesses.</p>
-          <p id="sc01-4_1099">In essence, Texas is the tip of the iceberg in a ten-year period in which Southern prison systems have come under greater federal court scrutiny. Interestingly enough, in an historic sense, <hi rend="italic">Ruiz</hi> is being fought exactly 10 years after the Virginia State Penitentiary strike in 1968. In that year, the strike led to an investigation by Congress and the FBI and to an offer from the Southern Regional Council to mediate the strike and provide national publicity on the Virginia system.</p>
-          <p id="sc01-4_10100">From this strike came the lawsuit, <hi rend="italic">Landman
+          <p xml:id="sc01-4_1099">In essence, Texas is the tip of the iceberg in a ten-year period in which Southern prison systems have come under greater federal court scrutiny. Interestingly enough, in an historic sense, <hi rend="italic">Ruiz</hi> is being fought exactly 10 years after the Virginia State Penitentiary strike in 1968. In that year, the strike led to an investigation by Congress and the FBI and to an offer from the Southern Regional Council to mediate the strike and provide national publicity on the Virginia system.</p>
+          <p xml:id="sc01-4_10100">From this strike came the lawsuit, <hi rend="italic">Landman
 v. Royster</hi>, settled in 1971. It has been the basis for many of
 the other Southern prisoner rights cases. "Without <hi rend="italic">
 Landman</hi>," says
 Salvatore Gonzalez, an ex-convict and an outspoken member of the Prisoner's Solidarity Committee (PSC) of Texas, "there would be no <hi rend="italic">Ruiz v. Estelle</hi>.In <hi rend="italic">Landman</hi> the state penal codes began to expand convict's procedural rights. The federal district court forbade the Virginia state penitentiary system from any longer imposing a bread and water diet, from using chains or tape or tear gas except in an immediate emergency, from using physical force as a punishment, and it also demanded minimum due process protections before a convict lost "good time" (that would shorten his sentence), or suffered any deprivation of his normal prison privileges (such as loss of exercise or communication with other inmates).</p>
-          <p id="sc01-4_10101">The Texas suit used tactics developed over 10 years ago on a larger scale. These tactics include two stages. The first is lawsuits by jailhouse lawyers coupled with strikes and the use of the media. The second tactic is the cultivation of outside activists and gaining their support for actions inside. From <hi rend="italic">Landman</hi> in Virginia in 1968 to <hi rend="italic">Ruiz</hi> in Texas in 1978, the cases form a pattern.</p>
-          <p id="sc01-4_10103">The roots of the <hi rend="italic">Ruiz</hi> case go back eight years. At that time, there
+          <p xml:id="sc01-4_10101">The Texas suit used tactics developed over 10 years ago on a larger scale. These tactics include two stages. The first is lawsuits by jailhouse lawyers coupled with strikes and the use of the media. The second tactic is the cultivation of outside activists and gaining their support for actions inside. From <hi rend="italic">Landman</hi> in Virginia in 1968 to <hi rend="italic">Ruiz</hi> in Texas in 1978, the cases form a pattern.</p>
+          <p xml:id="sc01-4_10103">The roots of the <hi rend="italic">Ruiz</hi> case go back eight years. At that time, there
 were almost a hundred suits filed against the prison system, charging
 various cruel and unusual practices offensive to the Constitution. A
 year ago, Federal Judge William Justice consolidated the cases into
 one class action suit that would affect all similarly situated
 prisoners in the Texas system. William Bennett Turner of the
-California NAACP was appointed chief counsel for the<pb id="sc01-4_10102" n="12"/> plaintiffs and the U.S. Justice Department intervened on behalf of the prisoners.</p>
-          <p id="sc01-4_10104">On October 2, 1978, the first stage of the trial began with the plaintiffs, represented by Turner and the Texas ACLU (American Civil Liberties Union), presenting their case. Witnesses alleged that prisoners operated on prisoners in surgery and that dissidents such as jailhouse lawyers were ordered killed by convict guards.</p>
-          <p id="sc01-4_10105">A few days 'later, on October 5, Texas prisoners went on strike. The strike began in Darrington, Texas at a corrections unit there. It spread to other units in the system. The strike apparently fueled emotions between the Texas Department of Corrections (TDC), and the prisoners. Three prisoners were wounded in a melee between guards and prisoners.</p>
-          <p id="sc01-4_10106">At the trial, Edward Idar, assistant attorney general for the state of Texas, compared the situation to Attica in its potential for violence.</p>
-          <p id="sc01-4_10107">Judge Justice, considered a liberal, said "The violence and disruption by inmates may impede the legal proceedings now taking place before my court." But at a rally in Austin, Texas, Early Bennett of Citizen's United to Rehabilitate Errands (CURE), a prison reform group, defended the strike action. "We don't need to be talking about another Attica," said the CURE leader, "when what we have is a peaceful, legal strike by prisoners."</p>
-          <p id="sc01-4_10108">Another group that has been heavily involved in the strike support
+California NAACP was appointed chief counsel for the<pb xml:id="sc01-4_10102" n="12"/> plaintiffs and the U.S. Justice Department intervened on behalf of the prisoners.</p>
+          <p xml:id="sc01-4_10104">On October 2, 1978, the first stage of the trial began with the plaintiffs, represented by Turner and the Texas ACLU (American Civil Liberties Union), presenting their case. Witnesses alleged that prisoners operated on prisoners in surgery and that dissidents such as jailhouse lawyers were ordered killed by convict guards.</p>
+          <p xml:id="sc01-4_10105">A few days 'later, on October 5, Texas prisoners went on strike. The strike began in Darrington, Texas at a corrections unit there. It spread to other units in the system. The strike apparently fueled emotions between the Texas Department of Corrections (TDC), and the prisoners. Three prisoners were wounded in a melee between guards and prisoners.</p>
+          <p xml:id="sc01-4_10106">At the trial, Edward Idar, assistant attorney general for the state of Texas, compared the situation to Attica in its potential for violence.</p>
+          <p xml:id="sc01-4_10107">Judge Justice, considered a liberal, said "The violence and disruption by inmates may impede the legal proceedings now taking place before my court." But at a rally in Austin, Texas, Early Bennett of Citizen's United to Rehabilitate Errands (CURE), a prison reform group, defended the strike action. "We don't need to be talking about another Attica," said the CURE leader, "when what we have is a peaceful, legal strike by prisoners."</p>
+          <p xml:id="sc01-4_10108">Another group that has been heavily involved in the strike support
 work is the Prisoner's Solidarity Committee (PSC) of Texas. Gonzalez of the PSC said, "The biggest problem in TDC is the convict guard system," where convicts are made into guards over other inmates, a system that has vanished from most other prison systems.</p>
-          <p id="sc01-4_10109">At the head of the convict guard system is the tier boss. This is an inmate who makes work assignments and functions like an inmate Army sergeant in that he has subordinates to carry out his orders.</p>
-          <p id="sc01-4_10110">At first glance, it appears to be a rewarding system where inmates take responsibility for each other, but critics of it say that it turns inmate against inmate and allows the stronger inmates to physically, sexually and economically exploit the weaker ones.</p>
-          <p id="sc01-4_10111">"It produces a huge snitch system (network of informers)," says Gonzalez, "whose work is even used in parole hearings. Many inmates have been denied parole on the word of another inmate."</p>
-          <p id="sc01-4_10112">In disciplinary hearings, Gonzalez says that inmate snitchers and
+          <p xml:id="sc01-4_10109">At the head of the convict guard system is the tier boss. This is an inmate who makes work assignments and functions like an inmate Army sergeant in that he has subordinates to carry out his orders.</p>
+          <p xml:id="sc01-4_10110">At first glance, it appears to be a rewarding system where inmates take responsibility for each other, but critics of it say that it turns inmate against inmate and allows the stronger inmates to physically, sexually and economically exploit the weaker ones.</p>
+          <p xml:id="sc01-4_10111">"It produces a huge snitch system (network of informers)," says Gonzalez, "whose work is even used in parole hearings. Many inmates have been denied parole on the word of another inmate."</p>
+          <p xml:id="sc01-4_10112">In disciplinary hearings, Gonzalez says that inmate snitchers and
 correctional officers are given more weight in testimony than prisoners. Gonzalez also charges that officers who charge inmates with prison violations, often end on panels judging the same offense.</p>
-          <p id="sc01-4_10113">Gonzalez insists the inmate guard system is real and existing. But public information officer Ronald Taylor of the TDC denies its existence entirely.</p>
-          <p id="sc01-4_10115">"We don't have such a system," Taylor told <hi rend="italic">Southern Changes</hi>, "It does not exist." However, in
-the trial, a former TDC official testified that TDC passed a memo<pb id="sc01-4_10114" n="13"/> banning the term "convict guard" and substituted "floor boy."</p>
-          <p id="sc01-4_10116">Conditions in solitary confinement are another point in the litigation. Gonzalez charges that the solitary confinement is often used to contain troublesome writ writers. Another major point in the suit is that prison officials have systematically denied prisoner's access to the courts.</p>
-          <p id="sc01-4_10117">Gonzalez, who has spent 12 years in TDC, tells of one alleged incident
+          <p xml:id="sc01-4_10113">Gonzalez insists the inmate guard system is real and existing. But public information officer Ronald Taylor of the TDC denies its existence entirely.</p>
+          <p xml:id="sc01-4_10115">"We don't have such a system," Taylor told <hi rend="italic">Southern Changes</hi>, "It does not exist." However, in
+the trial, a former TDC official testified that TDC passed a memo<pb xml:id="sc01-4_10114" n="13"/> banning the term "convict guard" and substituted "floor boy."</p>
+          <p xml:id="sc01-4_10116">Conditions in solitary confinement are another point in the litigation. Gonzalez charges that the solitary confinement is often used to contain troublesome writ writers. Another major point in the suit is that prison officials have systematically denied prisoner's access to the courts.</p>
+          <p xml:id="sc01-4_10117">Gonzalez, who has spent 12 years in TDC, tells of one alleged incident
 that seems to be out of the pages of the book <hi rend="italic">Clockwork Orange</hi> where the hero, a violent criminal, was conditioned out of his violent behavior by prison authorities and reconditioned to become nauseous at the sound of his favorite composer, Ludwig Von Beethoven.</p>
-          <p id="sc01-4_10118">According to Gonzalez, guards at TDC once placed him and other Black and Chicano prisoners in cells and piped in country music at full blast.</p>
-          <p id="sc01-4_10119">"One guy cracked up," Gonzalez reported. "He yelled, 'I can't stand it anymore."' After being subjected to this rather bizarre incident, Gonzalez however says, "But I like country music now."</p>
-          <p id="sc01-4_10120">The suit alleges that far more serious abuses, like beatings, near starvation of prisoners and other similar incidents also occur in Texas solitary units. As a result Texas supporters have lodged complaints with the United Nations Commission on Human Rights in Geneva, Switzerland.</p>
-          <p id="sc01-4_10121">It was a big thing," said Gonzalez, "to count beans in your soup while in solitary. It was a big deal to get up to twelve beans."</p>
-          <p id="sc01-4_10122">Soon after the trial began, prisoners who were witnesses began to send letters to their attorneys claiming harassment and intimidation by prison authorities. The letters allege that everything from death threats, to reassignments, to lock up in solitary have been used as punishment against prisoners who testified.</p>
-          <p id="sc01-4_10123">Ron Taylor of the TDC dismisses the charges.</p>
-          <p id="sc01-4_10124">"They are spurious charges," said Taylor, "You might add that the defendant David Ruiz has been indicted for sexual assault by a Harris County Grand Jury. He tried to rape another inmate."</p>
-          <p id="sc01-4_10125">In response to the indictment Gloria Rodriguez, Prisoner Solidarity Committee member, said "The charges are absurd and a frameup as far as we are concerned. David told us several weeks ago of the investigation. The FBI investigated it and found nothing. At that time it was a Federal charge and they dropped it. Apparently, the sheriff involved took the information and gave it to the state Grand Jury. We received affidavits from a prisoner who overheard the sheriff saying to a TDC official, 'Now Ruiz will know how the shoe feels on the other foot.'"</p>
-          <p id="sc01-4_10127">One prisoner, Allen Lamar, who has filed over 100 suits with the
+          <p xml:id="sc01-4_10118">According to Gonzalez, guards at TDC once placed him and other Black and Chicano prisoners in cells and piped in country music at full blast.</p>
+          <p xml:id="sc01-4_10119">"One guy cracked up," Gonzalez reported. "He yelled, 'I can't stand it anymore."' After being subjected to this rather bizarre incident, Gonzalez however says, "But I like country music now."</p>
+          <p xml:id="sc01-4_10120">The suit alleges that far more serious abuses, like beatings, near starvation of prisoners and other similar incidents also occur in Texas solitary units. As a result Texas supporters have lodged complaints with the United Nations Commission on Human Rights in Geneva, Switzerland.</p>
+          <p xml:id="sc01-4_10121">It was a big thing," said Gonzalez, "to count beans in your soup while in solitary. It was a big deal to get up to twelve beans."</p>
+          <p xml:id="sc01-4_10122">Soon after the trial began, prisoners who were witnesses began to send letters to their attorneys claiming harassment and intimidation by prison authorities. The letters allege that everything from death threats, to reassignments, to lock up in solitary have been used as punishment against prisoners who testified.</p>
+          <p xml:id="sc01-4_10123">Ron Taylor of the TDC dismisses the charges.</p>
+          <p xml:id="sc01-4_10124">"They are spurious charges," said Taylor, "You might add that the defendant David Ruiz has been indicted for sexual assault by a Harris County Grand Jury. He tried to rape another inmate."</p>
+          <p xml:id="sc01-4_10125">In response to the indictment Gloria Rodriguez, Prisoner Solidarity Committee member, said "The charges are absurd and a frameup as far as we are concerned. David told us several weeks ago of the investigation. The FBI investigated it and found nothing. At that time it was a Federal charge and they dropped it. Apparently, the sheriff involved took the information and gave it to the state Grand Jury. We received affidavits from a prisoner who overheard the sheriff saying to a TDC official, 'Now Ruiz will know how the shoe feels on the other foot.'"</p>
+          <p xml:id="sc01-4_10127">One prisoner, Allen Lamar, who has filed over 100 suits with the
 courts, alleged in a letter to Gloria Rodriguez, that he had been
 threatened with death for his role in the trial. When a call was made
 to the Texas unit where Lamar is apparently being held, the assistant
-warden said, "You have to call Huntsville."<pb id="sc01-4_10126" n="24"/></p>
-          <p id="sc01-4_10128">"Don't you know who is in your prison?" this reporter asked.</p>
-          <p id="sc01-4_10129">He replied again, "You have to call Huntsville. We have a bad connection."</p>
-          <p id="sc01-4_10130">Interestingly enough, an anonymous source in the unit had confirmed that Lamar was in lock up the night before. No other details were available.</p>
-          <p id="sc01-4_10131">Supporters of the suit such as Rodriquez are optimistic of its outcome. She insists that public support is on their side. "There are a lot of working people in Texas," Rodriquez says, "who have friends or relatives in prisons. We even got two petitions supporting us from prisoners in Virginia and Florida. It meant a lot to us."</p>
-          <p id="sc01-4_10132">To Salvatore Gonzalez, the suit has Southwide implications.</p>
-          <p id="sc01-4_10133">"Northern prison systems are very advanced compared to Southern prisons," says Rodriquez. "Southern prisons are still fighting to get out of slavery."</p>
-          <p id="sc01-4_10134">On the TDC side, Ron Taylor expressed a wait and see attitude that was vague and ambiguous in nature.</p>
-          <p id="sc01-4_10135">"They put on the case much as we expected them to," said Taylor, "It's too early to tell how things are going."</p>
-          <p id="sc01-4_10136">If other Southern states are any gauge of how things are going, then the TDC is in for some changes. In state after state in the South, among the defeats have been major victories in court battles. Even the state courts are bending a little in recognizing prisoner rights as witnessed by the Tennessee Supreme Court who ruled parts of the Tennessee system unconstitutional.</p>
-          <p id="sc01-4_10137">Not only is the <hi rend="italic">Ruiz</hi> case a test of what is
+warden said, "You have to call Huntsville."<pb xml:id="sc01-4_10126" n="24"/></p>
+          <p xml:id="sc01-4_10128">"Don't you know who is in your prison?" this reporter asked.</p>
+          <p xml:id="sc01-4_10129">He replied again, "You have to call Huntsville. We have a bad connection."</p>
+          <p xml:id="sc01-4_10130">Interestingly enough, an anonymous source in the unit had confirmed that Lamar was in lock up the night before. No other details were available.</p>
+          <p xml:id="sc01-4_10131">Supporters of the suit such as Rodriquez are optimistic of its outcome. She insists that public support is on their side. "There are a lot of working people in Texas," Rodriquez says, "who have friends or relatives in prisons. We even got two petitions supporting us from prisoners in Virginia and Florida. It meant a lot to us."</p>
+          <p xml:id="sc01-4_10132">To Salvatore Gonzalez, the suit has Southwide implications.</p>
+          <p xml:id="sc01-4_10133">"Northern prison systems are very advanced compared to Southern prisons," says Rodriquez. "Southern prisons are still fighting to get out of slavery."</p>
+          <p xml:id="sc01-4_10134">On the TDC side, Ron Taylor expressed a wait and see attitude that was vague and ambiguous in nature.</p>
+          <p xml:id="sc01-4_10135">"They put on the case much as we expected them to," said Taylor, "It's too early to tell how things are going."</p>
+          <p xml:id="sc01-4_10136">If other Southern states are any gauge of how things are going, then the TDC is in for some changes. In state after state in the South, among the defeats have been major victories in court battles. Even the state courts are bending a little in recognizing prisoner rights as witnessed by the Tennessee Supreme Court who ruled parts of the Tennessee system unconstitutional.</p>
+          <p xml:id="sc01-4_10137">Not only is the <hi rend="italic">Ruiz</hi> case a test of what is
 unconstitutional, but also a test of what is enforceable. Considering
 that even a state court in Tennessee (given the historic reluctance of
 state courts to intervene positively in the face of constitutional
 abuses) recently ruled a part of its state's system unconstitutional,
 it is not a question of whether there are really abuses going on in
 prisons. The questions, after 10 years of prison litigation from<hi rend="italic">Landman</hi> to <hi rend="italic">Ruiz</hi>, are whether the rulings will be enforced.</p>
-          <div3 id="sc01-4_024" type="About">
-            <p id="sc01-4_10138">Bob Powell is a free-lance writer who resides in Atlanta.</p>
+          <div3 xml:id="sc01-4_024" type="About">
+            <p xml:id="sc01-4_10138">Bob Powell is a free-lance writer who resides in Atlanta.</p>
           </div3>
         </div2>
-        <div2 id="sc01-4_007" n="4" type="Article">
+        <div2 xml:id="sc01-4_007" n="4" type="Article">
           <head>Bending With the Wind: A Lesson in Survival</head>
-          <byline>By <docAuthor><name reg="Burt, Al" type="person">Al Burt</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 14-16</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Burt, Al</reg><orig>Al Burt</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 14-16</docDate>
           
-          <p id="sc01-4_10139">In his 72 years. Virgil D. Hawkins has learned something about the ways to fight and to survive and sometimes to succeed. But he wonders whether he ever can explain these hard lessons to the young. Some want to listen, and some do not.</p>
-          <p id="sc01-4_10140">He was not the gunfighter who sought one dramatic showdown to
+          <p xml:id="sc01-4_10139">In his 72 years. Virgil D. Hawkins has learned something about the ways to fight and to survive and sometimes to succeed. But he wonders whether he ever can explain these hard lessons to the young. Some want to listen, and some do not.</p>
+          <p xml:id="sc01-4_10140">He was not the gunfighter who sought one dramatic showdown to
 decide whether he would live free or die. His has the patient courage, the kind easily misunderstood. He became free by inches, demanding year after year after year what was his, and finally winning.</p>
-          <p id="sc01-4_10141">At age 42, Hawkins applied for admission to the University of Florida Law School, and the application was denied because he was Black. That was 1949. For nine years he pursued a steady legal battle. Three times it went before the U.S. Supreme Court.</p>
-          <p id="sc01-4_10142">In 1958, a federal district court ordered that he he admitted. Then, with victory in his hands, he passed it up and went to Boston University. Because of him, other Blacks were able to enter his home state's principal law school, but he went North.</p>
-          <p id="sc01-4_10143">The unusual story continues. He earned a Master of Arts degree at
+          <p xml:id="sc01-4_10141">At age 42, Hawkins applied for admission to the University of Florida Law School, and the application was denied because he was Black. That was 1949. For nine years he pursued a steady legal battle. Three times it went before the U.S. Supreme Court.</p>
+          <p xml:id="sc01-4_10142">In 1958, a federal district court ordered that he he admitted. Then, with victory in his hands, he passed it up and went to Boston University. Because of him, other Blacks were able to enter his home state's principal law school, but he went North.</p>
+          <p xml:id="sc01-4_10143">The unusual story continues. He earned a Master of Arts degree at
 Boston University, and a law degree at the New England School of Law,
 but subtle racism drove him hack South. "I didn't like that," Hawkins
 said. "I never knew where I was. In the South you always know. It's
 just like walking on a carpet with a snake in it. I'd rather see the snake out here so I can hit him than to have him hiding in that carpet and I don't know when he's going to bite me."</p>
-          <p id="sc01-4_10144">Hawkins returned to Leesburg, Fla., his north central Florida home, and went to work. He never took the Florida Bar examination. He explained that he had to support his family and that he got involved in making a living and kept putting it off, and found it hard after all the years away to settle down to studying again.</p>
-          <p id="sc01-4_10145">In 1976, he petitioned to be allowed to practice law in Florida without taking the examination. The Florida Supreme Court agreed, stating that Hawkins had a "claim on this court's conscience." In February 1977, 28 years after his quest began, he was admitted to the Florida Bar. "It's durability that counts," he said.</p>
-          <p id="sc01-4_10146">Hawkins, a stocky, gray-haired man who wears goldrimmed glasses, now works in a secondstory office above a shoe store in Eustis, Fla., as director of consumer affairs for the Lake County Community Action Agency. He also practices privately in nearby Leesburg. Most of his work involves minor criminal and civil cases before the county court.</p>
-          <p id="sc01-4_10147">Not everyone understood the course he chose, nor do they all understand now, but to Hawkins it was the intelligent way. "I wanted to do it," he said, explaining his decision not to enter the University of Florida Law School after fighting to clear the way. "I knew they were settin' for me. ready for me. I would have been the whipping boy. I didn't want that." He took away their target, made it easier for the others. He tries especially hard to tell young people how it was, and does not always succeed.</p>
-          <p id="sc01-4_10149">A big moment for him came when the University of Florida Law School
+          <p xml:id="sc01-4_10144">Hawkins returned to Leesburg, Fla., his north central Florida home, and went to work. He never took the Florida Bar examination. He explained that he had to support his family and that he got involved in making a living and kept putting it off, and found it hard after all the years away to settle down to studying again.</p>
+          <p xml:id="sc01-4_10145">In 1976, he petitioned to be allowed to practice law in Florida without taking the examination. The Florida Supreme Court agreed, stating that Hawkins had a "claim on this court's conscience." In February 1977, 28 years after his quest began, he was admitted to the Florida Bar. "It's durability that counts," he said.</p>
+          <p xml:id="sc01-4_10146">Hawkins, a stocky, gray-haired man who wears goldrimmed glasses, now works in a secondstory office above a shoe store in Eustis, Fla., as director of consumer affairs for the Lake County Community Action Agency. He also practices privately in nearby Leesburg. Most of his work involves minor criminal and civil cases before the county court.</p>
+          <p xml:id="sc01-4_10147">Not everyone understood the course he chose, nor do they all understand now, but to Hawkins it was the intelligent way. "I wanted to do it," he said, explaining his decision not to enter the University of Florida Law School after fighting to clear the way. "I knew they were settin' for me. ready for me. I would have been the whipping boy. I didn't want that." He took away their target, made it easier for the others. He tries especially hard to tell young people how it was, and does not always succeed.</p>
+          <p xml:id="sc01-4_10149">A big moment for him came when the University of Florida Law School
 invited him to he a member of a discussion panel there. He got a lot
 of questions. "They liked
-<pb id="sc01-4_10148" n="15"/>
+<pb xml:id="sc01-4_10148" n="15"/>
  me," he said happily. "The Black kids up there appreciate me. They were interested in the truth about segregation. They wanted me to explain how it was then, how we stood up against it. They respected me for what I did. They didn't understand it all, but they liked me and it made me feel good."</p>
-          <p id="sc01-4_10150">That was the exceptional experience, however. He worries because most of the young he encounters are not so receptive to the hard lessons he offers. He talks to them and tells them about the past and tries to explain, but they expect the answers to be more swift and more complete.</p>
-          <p id="sc01-4_10151">"The young ones," he said, shaking his head. "They think if you've got gray hair, you're a headbower; that you went along with everything. You weren't violent, they say. They think they know everything.</p>
-          <p id="sc01-4_10152">"My Daddy told me how the pines and the oaks were the first to get blown down in the hurricanes, but the palms had a chance because they bent with the winds.</p>
-          <p id="sc01-4_10153">"The young don't understand that. They have the idea of throwing bricks and retaliation and things of that type. They think that when you're born, you're born in a pasture of instant success. All you have to do is step outside and be an instant success.</p>
-          <p id="sc01-4_10154">"Don't have to do anything, don't have to try anything, don't have to suffer anything.</p>
-          <p id="sc01-4_10155">"They think they can get on a show and answer a few questions and win a million dollars. They think they can touch the right fellow and get a job. They don't care anything about being fit for the job. Being prepared for it don't make any difference. Just want the job.</p>
-          <p id="sc01-4_10156">"Black youth has too far to go. He is behind, way behind. He don't have time for pointing fingers and that stuff.</p>
-          <p id="sc01-4_10157">"When O.J. Simpson gets the football, he don't stop to find fault with the men trying to tackle him. He just outruns 'em.</p>
-          <p id="sc01-4_10158">"All the things they said and did to me in my day, if I paid attention to them, if I stopped to hate, I never would have done anything."</p>
-          <p id="sc01-4_10159">Not many men could speak so bluntly and expect to retain stature in their community. Hawkins can because he has been through the fire, even though it was the fire of another time and he did it his own way.</p>
-          <p id="sc01-4_10160">Hawkins' story remains an important one because it combines human and practical dimensions with bona fide credentials of suffering and eventual success. He was born south of Leesburg near Okahumpka, then a kaolin mining town, the son of a laborer who preached each Sunday in the African Methodist Episcopal Church. He had seven brothers and sisters.</p>
-          <p id="sc01-4_10161">He attended the first six grades in an all-Black elementary school
+          <p xml:id="sc01-4_10150">That was the exceptional experience, however. He worries because most of the young he encounters are not so receptive to the hard lessons he offers. He talks to them and tells them about the past and tries to explain, but they expect the answers to be more swift and more complete.</p>
+          <p xml:id="sc01-4_10151">"The young ones," he said, shaking his head. "They think if you've got gray hair, you're a headbower; that you went along with everything. You weren't violent, they say. They think they know everything.</p>
+          <p xml:id="sc01-4_10152">"My Daddy told me how the pines and the oaks were the first to get blown down in the hurricanes, but the palms had a chance because they bent with the winds.</p>
+          <p xml:id="sc01-4_10153">"The young don't understand that. They have the idea of throwing bricks and retaliation and things of that type. They think that when you're born, you're born in a pasture of instant success. All you have to do is step outside and be an instant success.</p>
+          <p xml:id="sc01-4_10154">"Don't have to do anything, don't have to try anything, don't have to suffer anything.</p>
+          <p xml:id="sc01-4_10155">"They think they can get on a show and answer a few questions and win a million dollars. They think they can touch the right fellow and get a job. They don't care anything about being fit for the job. Being prepared for it don't make any difference. Just want the job.</p>
+          <p xml:id="sc01-4_10156">"Black youth has too far to go. He is behind, way behind. He don't have time for pointing fingers and that stuff.</p>
+          <p xml:id="sc01-4_10157">"When O.J. Simpson gets the football, he don't stop to find fault with the men trying to tackle him. He just outruns 'em.</p>
+          <p xml:id="sc01-4_10158">"All the things they said and did to me in my day, if I paid attention to them, if I stopped to hate, I never would have done anything."</p>
+          <p xml:id="sc01-4_10159">Not many men could speak so bluntly and expect to retain stature in their community. Hawkins can because he has been through the fire, even though it was the fire of another time and he did it his own way.</p>
+          <p xml:id="sc01-4_10160">Hawkins' story remains an important one because it combines human and practical dimensions with bona fide credentials of suffering and eventual success. He was born south of Leesburg near Okahumpka, then a kaolin mining town, the son of a laborer who preached each Sunday in the African Methodist Episcopal Church. He had seven brothers and sisters.</p>
+          <p xml:id="sc01-4_10161">He attended the first six grades in an all-Black elementary school
 where one teacher in one room taught 60 children of all grades. "It was tough in those days. Most counties in Florida were tough then," he said. "Blacks didn't have much chance. It was generally conceded you didn't do certain things, like go to town at night. There were separate restrooms, separate waiting rooms, separate fountains. Everything was separate.</p>
-          <p id="sc01-4_10162">"A Black man was not thought of as an individual, unless he had a particular White friend. Then they might say, 'Old Virgil, he's all right. We'll do this for him.'</p>
-          <p id="sc01-4_10163">"A Black man had no rights, no rights whatsoever. He just bowed and took whatever the White man gave him. He could be satisfied or be shot."</p>
-          <p id="sc01-4_10164">After the sixth grade, he went to Edward Waters College in Jacksonville, where he cut and split and stacked furnace firewood to pay his way.</p>
-          <p id="sc01-4_10165">"A Black man paid as much to go to high school as the White man did to go to college. We had to go away somewhere." Only one of his brothers and sisters made it as far as Edward Waters College with him.</p>
-          <p id="sc01-4_10166">Briefly, he attended Lincoln University in Chester, Pa., and then
+          <p xml:id="sc01-4_10162">"A Black man was not thought of as an individual, unless he had a particular White friend. Then they might say, 'Old Virgil, he's all right. We'll do this for him.'</p>
+          <p xml:id="sc01-4_10163">"A Black man had no rights, no rights whatsoever. He just bowed and took whatever the White man gave him. He could be satisfied or be shot."</p>
+          <p xml:id="sc01-4_10164">After the sixth grade, he went to Edward Waters College in Jacksonville, where he cut and split and stacked furnace firewood to pay his way.</p>
+          <p xml:id="sc01-4_10165">"A Black man paid as much to go to high school as the White man did to go to college. We had to go away somewhere." Only one of his brothers and sisters made it as far as Edward Waters College with him.</p>
+          <p xml:id="sc01-4_10166">Briefly, he attended Lincoln University in Chester, Pa., and then
 came back to Bethune Cookman College in Daytona Beach, where he worked and went to school parttime until he got a bachelors degree. At that point, he returned to Leesburg and began the struggle to attend law school at the state university just 70 miles up the road in Gainesville.</p>
-          <p id="sc01-4_10167">Hawkins now declares himself to be a happy man, not a bitter
+          <p xml:id="sc01-4_10167">Hawkins now declares himself to be a happy man, not a bitter
 one. He thinks bitterness is a distraction from the
 ,pb n="16"/
 goal and a waste of effort. "We've got to put on the whole armor of
 citizenship," he said. He keeps looking for a way to make the young
 realize that in other times and other circumstances there was
 something heroic even in the heritage from Uncle Tom" and the "handkerchief heads."</p>
-          <p id="sc01-4_10168">"They were fighting but at the same time bowing and accommodating the situation so that when the sun started shining the Black man could stand up like a palm tree.</p>
-          <p id="sc01-4_10169">"They were taking all that for their ancestry," Hawkins said. "If they could take those lashes on the back, I could take the verbal lashes. Each of us has to do the best we can in our time."</p>
-          <p id="sc01-4_10170">Virgil Hawkins, a patient warrior, warns of snakes in the carpet
+          <p xml:id="sc01-4_10168">"They were fighting but at the same time bowing and accommodating the situation so that when the sun started shining the Black man could stand up like a palm tree.</p>
+          <p xml:id="sc01-4_10169">"They were taking all that for their ancestry," Hawkins said. "If they could take those lashes on the back, I could take the verbal lashes. Each of us has to do the best we can in our time."</p>
+          <p xml:id="sc01-4_10170">Virgil Hawkins, a patient warrior, warns of snakes in the carpet
 almost in the same breath that he praises Uncle Tom and the
 "handkerchief heads." Some do not understand that, but it is his
 way.</p>
-          <div3 id="sc01-4_027" type="About">
-            <p id="sc01-4_10171">Al Burt is a roving columnist for the <title>Miami Herald.</title></p>
+          <div3 xml:id="sc01-4_027" type="About">
+            <p xml:id="sc01-4_10171">Al Burt is a roving columnist for the <title>Miami Herald.</title></p>
           </div3>
         </div2>
-        <div2 id="sc01-4_002" n="5" type="Article">
+        <div2 xml:id="sc01-4_002" n="5" type="Article">
           <head>Legal Workers Battle for poor in Mississippi</head>
-          <byline>By <docAuthor><name reg="Delaney, Joseph" type="person">Joseph Delaney</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp.17-19</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Delaney, Joseph</reg><orig>Joseph Delaney</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp.17-19</docDate>
           
-          <p id="sc01-4_10172">They came during an unusual time of the year to discuss an important issue at an uncommon location. Many did not expect a crowd of legal workers from across the nation to assemble for a conference the day after Thanksgiving in Oxford, Mississippi, a town made famous during the 1960s by its resistance to the integration of its University, to discuss the First Amendment rights of legal workers.</p>
-          <p id="sc01-4_10173">But they came. For as one observer put it, conditions had become
+          <p xml:id="sc01-4_10172">They came during an unusual time of the year to discuss an important issue at an uncommon location. Many did not expect a crowd of legal workers from across the nation to assemble for a conference the day after Thanksgiving in Oxford, Mississippi, a town made famous during the 1960s by its resistance to the integration of its University, to discuss the First Amendment rights of legal workers.</p>
+          <p xml:id="sc01-4_10173">But they came. For as one observer put it, conditions had become
 much too critical to stay away. The issues discussed went well beyond
 the problems the host, North Mississippi Rural Legal Services (NMRLS),
 a legal program offering services to the poor in 32 northern
@@ -418,80 +383,80 @@ Mississippi counties, and its lawyers were facing because of their
 aggressive advocacy on behalf of the poor. It became a question of
 First Amendment rights of all lawyers, paralegals and legal workers
 who worked for legal services programs throughout the nation. Did they have a right to argue a claim on behalf of a poor client free from federal laws and restrictions'? Did these restrictions affect the quality of service that could be provided a client? These questions had to be answered.</p>
-          <p id="sc01-4_10175">The issue was important to Mrs. Carlenna Pegues and residents of
-the Molly Barr Road section of Oxford, Mississippi. They had lived for years without municipal ser<pb id="sc01-4_10174" n="18"/>vices that many of us have come to expect and enjoy. They have lived on an unpaved dirt road called a street. They have lived in houses with no running water. They have lived on a street with no fire hydrants or city lights. Garbage hasn't been picked up in their neighborhood. When it rains, the community becomes covered with water. The water remains for long periods of time because there isn't any place for it to go.</p>
-          <p id="sc01-4_10176">The story is illustrated very vividly in an affidavit attached to a
+          <p xml:id="sc01-4_10175">The issue was important to Mrs. Carlenna Pegues and residents of
+the Molly Barr Road section of Oxford, Mississippi. They had lived for years without municipal ser<pb xml:id="sc01-4_10174" n="18"/>vices that many of us have come to expect and enjoy. They have lived on an unpaved dirt road called a street. They have lived in houses with no running water. They have lived on a street with no fire hydrants or city lights. Garbage hasn't been picked up in their neighborhood. When it rains, the community becomes covered with water. The water remains for long periods of time because there isn't any place for it to go.</p>
+          <p xml:id="sc01-4_10176">The story is illustrated very vividly in an affidavit attached to a
 suit <hi rend="italic">(Carlenna Pegues, et. al. v. John Leslie,
 et. al.)</hi> filed by Pegues, an elementary school teacher with a
 modest income. It said: "Residents of the Molly Barr area must either
 collect rain water or haul their water, resort to dumping garbage in holes, ditches or otherwise hauling it to other places, build and use outside toilets and when it rains, cars must be parked long distances from their homes or at least owners must be prepared to wade in mud because of the road..."</p>
-          <p id="sc01-4_10177">The issue was clear to Pegues. It was a question of survival. She knew the names of the people and the organization which had successfully defended the rights of citizens who had called out for help (a Consent Decree was recently entered in the case. City officials agreed to provide residents in the Molly Barr area with water and sewer services).</p>
-          <p id="sc01-4_10178">So when she was asked to participate in a discussion group to discuss how restrictions on legal services workers would affect the quality of services provided clients, her reaction was predictable. She stood proudly and proclaimed: "Legal services must be supported by people who are fair minded and who want to live a better life."</p>
-          <p id="sc01-4_10179">This view is one that is shared by many poor citizens who have come to depend on legal organizations like NMRLS throughout the years.</p>
-          <p id="sc01-4_10180">To many of them, this type of assistance is their only resort. This may explain why they are willing to fight for the survival of legal services. This may explain also why these citizens have no problems with their lawyers being aggressive on their behalf.</p>
-          <p id="sc01-4_10181">The harsh realities of the situation are familiar to Lewis Myers
+          <p xml:id="sc01-4_10177">The issue was clear to Pegues. It was a question of survival. She knew the names of the people and the organization which had successfully defended the rights of citizens who had called out for help (a Consent Decree was recently entered in the case. City officials agreed to provide residents in the Molly Barr area with water and sewer services).</p>
+          <p xml:id="sc01-4_10178">So when she was asked to participate in a discussion group to discuss how restrictions on legal services workers would affect the quality of services provided clients, her reaction was predictable. She stood proudly and proclaimed: "Legal services must be supported by people who are fair minded and who want to live a better life."</p>
+          <p xml:id="sc01-4_10179">This view is one that is shared by many poor citizens who have come to depend on legal organizations like NMRLS throughout the years.</p>
+          <p xml:id="sc01-4_10180">To many of them, this type of assistance is their only resort. This may explain why they are willing to fight for the survival of legal services. This may explain also why these citizens have no problems with their lawyers being aggressive on their behalf.</p>
+          <p xml:id="sc01-4_10181">The harsh realities of the situation are familiar to Lewis Myers
 Jr., an aggressive and skillful people's advocate. For several years
 while employed as an attorney with North Mississippi Rural Legal
 Services, he has represented community groups and citizens involved in
 the elimination of poverty and injustice in America. Myers is only
 30-years-old and already a veteran legal practitioner.</p>
-          <p id="sc01-4_10182">His work has not been easy, he reports. Allegations and innuendoes have been filed against him by various local and national agencies and against several other individuals connected with the legal agency.</p>
-          <p id="sc01-4_10183">The content of the script reads like a chapter from a spy novel. It's revealing and represents a pattern of harassment:</p>
-          <p id="sc01-4_10184">- During the height of a boycott in Byhalia, Mississippi in 1974,
+          <p xml:id="sc01-4_10182">His work has not been easy, he reports. Allegations and innuendoes have been filed against him by various local and national agencies and against several other individuals connected with the legal agency.</p>
+          <p xml:id="sc01-4_10183">The content of the script reads like a chapter from a spy novel. It's revealing and represents a pattern of harassment:</p>
+          <p xml:id="sc01-4_10184">- During the height of a boycott in Byhalia, Mississippi in 1974,
 Myers and several other legal workers were investigated by the
 Community Relations Service (CRS),a  domestic intelligence branch of the U.S. Justice Department. CRS members claimed they were in Byhalia protecting the interest of elderly citizens who were allegedly being harassed by representatives of the United League of Mississippi. League officials charged, on the other hand, that CRS operatives were spying on the Black community. They said that the CRS was seeking to destroy the effectiveness of an economic boycott, which was being conducted by them. The boycott was initiated following an alleged killing of a Black youth by two White policemen. It represented one of the first intensive protest efforts by the League, a highly successful grassroot community group.</p>
-          <p id="sc01-4_10185">-Shortly after the CRS scenario, records were made public which connected the Governor's Office of Human Resources with using illegal surveillance methods in connection with North Mississippi Rural Legal Services. An exhaustive document, including several exhibits and newspaper clippings, was filed by this agency with NMRLS' funding sources in Washington. The document contained an extensive list of charges against the program; ranging from an allegation that the program was representing several Byhalia citizens who didn't meet federal income guidelines which made them eligible for assistance, to charges that NMRLS staff members were very deeply involved in boycott activities. NMRLS officials quickly responded to these charges. They were later discarded after the state failed to prove its allegations.</p>
-          <p id="sc01-4_10186">-There are current violations pending against Lewis Myers Jr. He is accused of violating Legal Services Corporation guidelines by his representation of clients who are members of the United League of Mississippi. These charges were filed by officials of the City of Tupelo, a northeastern Mississippi trade center which has been the center of present demonstrations, conducted by the League, since March of 1978. Charges have also been filed against Deborah Jackson and Sentwali Aiyetoro, two other attorneys.</p>
-          <p id="sc01-4_10188">Myers and the other lawyers cited above are not the only 
-<pb id="sc01-4_10187" n="19"/>
+          <p xml:id="sc01-4_10185">-Shortly after the CRS scenario, records were made public which connected the Governor's Office of Human Resources with using illegal surveillance methods in connection with North Mississippi Rural Legal Services. An exhaustive document, including several exhibits and newspaper clippings, was filed by this agency with NMRLS' funding sources in Washington. The document contained an extensive list of charges against the program; ranging from an allegation that the program was representing several Byhalia citizens who didn't meet federal income guidelines which made them eligible for assistance, to charges that NMRLS staff members were very deeply involved in boycott activities. NMRLS officials quickly responded to these charges. They were later discarded after the state failed to prove its allegations.</p>
+          <p xml:id="sc01-4_10186">-There are current violations pending against Lewis Myers Jr. He is accused of violating Legal Services Corporation guidelines by his representation of clients who are members of the United League of Mississippi. These charges were filed by officials of the City of Tupelo, a northeastern Mississippi trade center which has been the center of present demonstrations, conducted by the League, since March of 1978. Charges have also been filed against Deborah Jackson and Sentwali Aiyetoro, two other attorneys.</p>
+          <p xml:id="sc01-4_10188">Myers and the other lawyers cited above are not the only 
+<pb xml:id="sc01-4_10187" n="19"/>
 victims of this legacy of harassment. They are descendants of lawyers like Michael Trister, George Strickler and John Brittain. Each at one time or the other has worked for NMRLS. Each has been treated harshly because of their aggressive advocacy on behalf of the poor.</p>
-          <p id="sc01-4_10189">In 1968, Trister and Strickler, who we re then professors at the University of Mississippi Law School, were fired because of their connections with NMRLS. They were later reinstated after a successful legal challenge. But both of them decided to work elsewhere. Trister became executive director of NMRLS; Strickler moved to another location.</p>
-          <p id="sc01-4_10190">During a recent interview, Trister, who is now a Washington attorney, said he and Strickler were dismissed from the law faculty because of NMRLS' filing of two controversial lawsuits, one involving integration of a local school system and another challenging a state residence requirement for welfare recipients.</p>
-          <p id="sc01-4_10191">The case against John Brittain was different from the Trister-Strickler affair. He was arrested by police officers in Oxford, Mississippi in 1969 reportedly for practicing law without a license. This was an amusing thought to some for Brittain, a young Black lawyer from Connecticut, never really represented himself as a member of the Mississippi Bar. He had come to NMRLS as part of the Reginald Heber Smith Program, an internship for lawyers working in legal services programs. He was studying to pass the state bar. But he was arrested nonetheless for illegally practicing law. In the minds of many of his supporters, he was arrested because of his vigorous legal efforts on behalf of the poor. Brittain is now a Connecticut law professor.</p>
-          <p id="sc01-4_10192">Many of these people's advocates, from days gone by, have left North Mississippi but the issues remain. The oppression still remains: people lawyers are still oppressed because of their representation of the poor.</p>
-          <p id="sc01-4_10193">Advocates like Lennox Hinds, former national director of the National Conference of Black Lawyers, says there are some difficult days ahead. He says that people lawyers can expect increased attack. The attacks, he says, will come "through the Bar Associations and within the courtrooms." What about progressive groups like the United League of Mississippi which must depend on legal services lawyers to represent their interest? How do they stand? "The picture for them is even gloomier," says Hinds. "They can expect increased attacks on the leadership which may range from arrests on trumped-up charges to vilification in the press."</p>
-          <p id="sc01-4_10194">The ordeal of NMRLS is not a blues story, however. Neither is the concern of the supporters who see this struggle as part of a national effort to protect First Amendment rights of lawyers and insure quality services for the poor and oppressed. It's a battle for justice that committed warriors are willing to wage, Myers says. The struggle is just beginning.</p>
-          <div3 id="sc01-4_022" type="About">
-            <p id="sc01-4_10195">Joseph Delaney is the coordinator of information for the  Northern
+          <p xml:id="sc01-4_10189">In 1968, Trister and Strickler, who we re then professors at the University of Mississippi Law School, were fired because of their connections with NMRLS. They were later reinstated after a successful legal challenge. But both of them decided to work elsewhere. Trister became executive director of NMRLS; Strickler moved to another location.</p>
+          <p xml:id="sc01-4_10190">During a recent interview, Trister, who is now a Washington attorney, said he and Strickler were dismissed from the law faculty because of NMRLS' filing of two controversial lawsuits, one involving integration of a local school system and another challenging a state residence requirement for welfare recipients.</p>
+          <p xml:id="sc01-4_10191">The case against John Brittain was different from the Trister-Strickler affair. He was arrested by police officers in Oxford, Mississippi in 1969 reportedly for practicing law without a license. This was an amusing thought to some for Brittain, a young Black lawyer from Connecticut, never really represented himself as a member of the Mississippi Bar. He had come to NMRLS as part of the Reginald Heber Smith Program, an internship for lawyers working in legal services programs. He was studying to pass the state bar. But he was arrested nonetheless for illegally practicing law. In the minds of many of his supporters, he was arrested because of his vigorous legal efforts on behalf of the poor. Brittain is now a Connecticut law professor.</p>
+          <p xml:id="sc01-4_10192">Many of these people's advocates, from days gone by, have left North Mississippi but the issues remain. The oppression still remains: people lawyers are still oppressed because of their representation of the poor.</p>
+          <p xml:id="sc01-4_10193">Advocates like Lennox Hinds, former national director of the National Conference of Black Lawyers, says there are some difficult days ahead. He says that people lawyers can expect increased attack. The attacks, he says, will come "through the Bar Associations and within the courtrooms." What about progressive groups like the United League of Mississippi which must depend on legal services lawyers to represent their interest? How do they stand? "The picture for them is even gloomier," says Hinds. "They can expect increased attacks on the leadership which may range from arrests on trumped-up charges to vilification in the press."</p>
+          <p xml:id="sc01-4_10194">The ordeal of NMRLS is not a blues story, however. Neither is the concern of the supporters who see this struggle as part of a national effort to protect First Amendment rights of lawyers and insure quality services for the poor and oppressed. It's a battle for justice that committed warriors are willing to wage, Myers says. The struggle is just beginning.</p>
+          <div3 xml:id="sc01-4_022" type="About">
+            <p xml:id="sc01-4_10195">Joseph Delaney is the coordinator of information for the  Northern
 Mississippi Rural Legal Services and editor of the monthly
 publication.</p>
           </div3>
         </div2>
-        <div2 id="sc01-4_008" n="6" type="Article">
+        <div2 xml:id="sc01-4_008" n="6" type="Article">
           <head>HEALTH CARE</head>
-          <byline>By <docAuthor><name reg="Staff">SRC Staff</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 20-21</docDate>
+                  <byline>By <docAuthor><name><choice><reg>SRC Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 20-21</docDate>
           
-          <p id="sc01-4_10196">Gayle Becker and Elaine Clark had been teaching nursing for over 16 years in an academic setting and felt the need to branch out into a different area of nursing.</p>
-          <p id="sc01-4_10197">"Last fall Gayle and I decided that initiating a program of health care to migrant workers in the Sand Mountain area of Alabama might not only be a service to the community, but would allow us to fulfill our needs for personal and professional development as sell as allow us a means to identify additional learning experiences for our students," said Clark.</p>
-          <p id="sc01-4_10198">The two of them applied for sabbatical leave for the spring and summer quarters and devoted the spring to upgrading their technical skills. They learned to speak Spanish, read hooks and magazine articles about migrant workers, and contacted appropriate individuals and agencies in DeKaIb County, which is tucked away in the northeastern corner of the state, bordered by Georgia to the east.</p>
-          <p id="sc01-4_10199">Alabamians have long considered the people of the region fiercely independent and as rugged as the land. It is from this land - rocks, dust and more rocks - that potato farmers gouge out their living.</p>
-          <p id="sc01-4_10200">The nurses held more than 40 individual conferences, placed more than 50 long distance telephone calls and wrote approximately 30 letters in preparation for the summer experience. The biggest problem - establishing a clinic - was overcome when the Rev. Milton Pope and his wife, Bela, offered to share their facility at the DeKaIb Baptist Mission in Rainsville. Migrant workers attended the mission on Friday evenings and Sunday mornings for worship services and the combined spiritual-physical setting was a harmonious pairing.</p>
-          <p id="sc01-4_10201">However, fact was to bear out that the bulk of their work consisted of traveling in either Becker's station wagon or Clark's compact car to the seven camps, all within a 30-mile radius of Rainsville.</p>
-          <p id="sc01-4_10202">"Although an estimated 4.000 migrant workers are in Alabama each year, this fact seems virtually unknown to most residents of the state," said Becker. "Needless to say, primary health care is extremely fragmented and secondary care is difficult to obtain. To compound the problems of the migrant worker, there are cultural and language difficulties that result in communication barriers with others."</p>
-          <p id="sc01-4_10203">The migrant workers' lack of money, lack of insurance, highly mobile state and cultural differences often result in difficulties when they attempt to enter the health care system. Migrant workers are paid for the hours they work. They do not receive pay during rainy days, poor crops, equipment breakdowns or visits to a physician.</p>
-          <p id="sc01-4_10204">"Federal aid is of little help," said Clark. "These people rarely spend more than six weeks in one location, and by the time paper work has been prepared, the workers have moved to a new location."</p>
-          <p id="sc01-4_10205">The remoteness of the camps and lack of telephone service presented
+          <p xml:id="sc01-4_10196">Gayle Becker and Elaine Clark had been teaching nursing for over 16 years in an academic setting and felt the need to branch out into a different area of nursing.</p>
+          <p xml:id="sc01-4_10197">"Last fall Gayle and I decided that initiating a program of health care to migrant workers in the Sand Mountain area of Alabama might not only be a service to the community, but would allow us to fulfill our needs for personal and professional development as sell as allow us a means to identify additional learning experiences for our students," said Clark.</p>
+          <p xml:id="sc01-4_10198">The two of them applied for sabbatical leave for the spring and summer quarters and devoted the spring to upgrading their technical skills. They learned to speak Spanish, read hooks and magazine articles about migrant workers, and contacted appropriate individuals and agencies in DeKaIb County, which is tucked away in the northeastern corner of the state, bordered by Georgia to the east.</p>
+          <p xml:id="sc01-4_10199">Alabamians have long considered the people of the region fiercely independent and as rugged as the land. It is from this land - rocks, dust and more rocks - that potato farmers gouge out their living.</p>
+          <p xml:id="sc01-4_10200">The nurses held more than 40 individual conferences, placed more than 50 long distance telephone calls and wrote approximately 30 letters in preparation for the summer experience. The biggest problem - establishing a clinic - was overcome when the Rev. Milton Pope and his wife, Bela, offered to share their facility at the DeKaIb Baptist Mission in Rainsville. Migrant workers attended the mission on Friday evenings and Sunday mornings for worship services and the combined spiritual-physical setting was a harmonious pairing.</p>
+          <p xml:id="sc01-4_10201">However, fact was to bear out that the bulk of their work consisted of traveling in either Becker's station wagon or Clark's compact car to the seven camps, all within a 30-mile radius of Rainsville.</p>
+          <p xml:id="sc01-4_10202">"Although an estimated 4.000 migrant workers are in Alabama each year, this fact seems virtually unknown to most residents of the state," said Becker. "Needless to say, primary health care is extremely fragmented and secondary care is difficult to obtain. To compound the problems of the migrant worker, there are cultural and language difficulties that result in communication barriers with others."</p>
+          <p xml:id="sc01-4_10203">The migrant workers' lack of money, lack of insurance, highly mobile state and cultural differences often result in difficulties when they attempt to enter the health care system. Migrant workers are paid for the hours they work. They do not receive pay during rainy days, poor crops, equipment breakdowns or visits to a physician.</p>
+          <p xml:id="sc01-4_10204">"Federal aid is of little help," said Clark. "These people rarely spend more than six weeks in one location, and by the time paper work has been prepared, the workers have moved to a new location."</p>
+          <p xml:id="sc01-4_10205">The remoteness of the camps and lack of telephone service presented
 additional problems to the nurses. What had been envisioned as a
 purely clinical setting by Becker and Clark grew almost immediately into an advocate role. Hours were spent on the telephone and in cars, driving to reach the correct person or agency dispensing needed money, information or transportation.</p>
-          <p id="sc01-4_10206">In accordance with physician guidelines, minor health problems such as colds, diarrhea and skin problems were treated at the clinic or at camp sites. Minor emergencies such as toothaches or more complex problems such as miscarriages and job injuries required referrals to physicians. A total of 115 individual clients were seen and 185 contacts were made with clients. The number included 44 women, 20 men, 45 children and six infants.</p>
-          <p id="sc01-4_10207">"The poor living conditions struck me first," said Becker. "Living facilities in one camp included converted chicken houses, an old school building and numerous shacks or abandoned houses. If the facility contained more than one small room, it usually was occupied by a number of families."</p>
-          <p id="sc01-4_10209">Both saw that in many instances the shelters had no sinks or window
+          <p xml:id="sc01-4_10206">In accordance with physician guidelines, minor health problems such as colds, diarrhea and skin problems were treated at the clinic or at camp sites. Minor emergencies such as toothaches or more complex problems such as miscarriages and job injuries required referrals to physicians. A total of 115 individual clients were seen and 185 contacts were made with clients. The number included 44 women, 20 men, 45 children and six infants.</p>
+          <p xml:id="sc01-4_10207">"The poor living conditions struck me first," said Becker. "Living facilities in one camp included converted chicken houses, an old school building and numerous shacks or abandoned houses. If the facility contained more than one small room, it usually was occupied by a number of families."</p>
+          <p xml:id="sc01-4_10209">Both saw that in many instances the shelters had no sinks or window
 screens, and the usual furnishings consisted of a one- or two-eyed gas
 or electric burner, a dilapidated
-<pb id="sc01-4_10208" n="21"/> refrigerator and old bedding placed on concrete blocks or boards. One refrigerator often served a number of families.</p>
-          <p id="sc01-4_10210">Generally, children played in bare, dusty, wet or muddy yards. No playground equipment was available for them, forcing them to "make do" with whatever was available.</p>
-          <p id="sc01-4_10211">Lack of health insurance and retirement security are problems which need to be addressed, according to the nurses. "It seems difficult for the migrant worker to set security programs very high on his priority list, since he appears to view his major needs as those things which affect him from moment to moment," Clark said. "Planning for the future seems beyond his grasp."</p>
-          <p id="sc01-4_10212">"Health education is needed in such areas as basic hygiene,
+<pb xml:id="sc01-4_10208" n="21"/> refrigerator and old bedding placed on concrete blocks or boards. One refrigerator often served a number of families.</p>
+          <p xml:id="sc01-4_10210">Generally, children played in bare, dusty, wet or muddy yards. No playground equipment was available for them, forcing them to "make do" with whatever was available.</p>
+          <p xml:id="sc01-4_10211">Lack of health insurance and retirement security are problems which need to be addressed, according to the nurses. "It seems difficult for the migrant worker to set security programs very high on his priority list, since he appears to view his major needs as those things which affect him from moment to moment," Clark said. "Planning for the future seems beyond his grasp."</p>
+          <p xml:id="sc01-4_10212">"Health education is needed in such areas as basic hygiene,
 nutrition, family planning, environmental health control and preventive measures for good health," observed Becker. "Helping the individual to understand the need to prevent illness and injury in order to reduce absenteeism from work and curtail doctor bills is also a high priority need."</p>
-          <p id="sc01-4_10213">Almost all migrant workers receive minimum wage for hourly shed work and 15 cents per basket for potatoes gathered in the field. However, most migrant workers do not receive the full amount of pay because they are indebted to the crew leader for a certain percentage of their wages. The crew leader serves as interpreter for the nonEnglish speaking migrants, negotiator in determining wages and other essentials and an advocate in making arrangements for various jobs.</p>
-          <p id="sc01-4_10214">"We contacted a number of organizations and individuals throughout
+          <p xml:id="sc01-4_10213">Almost all migrant workers receive minimum wage for hourly shed work and 15 cents per basket for potatoes gathered in the field. However, most migrant workers do not receive the full amount of pay because they are indebted to the crew leader for a certain percentage of their wages. The crew leader serves as interpreter for the nonEnglish speaking migrants, negotiator in determining wages and other essentials and an advocate in making arrangements for various jobs.</p>
+          <p xml:id="sc01-4_10214">"We contacted a number of organizations and individuals throughout
 DeKaib County and the state in an attempt to obtain figures on the
 number of migrants in the area, but with no luck," said Clark. "Even
 the growers had no accurate records of their employees, but did give rather vague estimates, such as between 50 and 100.</p>
-          <p id="sc01-4_10215">"On the basis of these figures, we estimated there were about 650 migrants on Sand Mountain during the summer months with approximately 315 located in the seven camps we served," she added.</p>
-          <p id="sc01-4_10216">Clark and Becker now are working to convince officials at the University of Alabama School of Nursing that students might profit from a similar experience if it were to become part of the curriculum.</p>
-          <p id="sc01-4_10217">Other recommendations include procurement of a mobile clinic,
+          <p xml:id="sc01-4_10215">"On the basis of these figures, we estimated there were about 650 migrants on Sand Mountain during the summer months with approximately 315 located in the seven camps we served," she added.</p>
+          <p xml:id="sc01-4_10216">Clark and Becker now are working to convince officials at the University of Alabama School of Nursing that students might profit from a similar experience if it were to become part of the curriculum.</p>
+          <p xml:id="sc01-4_10217">Other recommendations include procurement of a mobile clinic,
 development of day care centers for migrant children, development of a
 composite health record for migrants which could be carried with them
 from location to location, enforcement of building codes and
@@ -499,58 +464,58 @@ environmental health requirements, and development of a transportation
 program for migrants and rural citizens who need health care in
 distant locations.</p>
         </div2>
-        <div2 id="sc01-4_staff.009" n="6" type="Article">
+        <div2 xml:id="sc01-4_staff.009" n="6" type="Article">
           <head>EDUCATION</head>
-          <byline>By <docAuthor><name reg="Staff">SRC Staff</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 22</docDate>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>SRC Staff</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 22</docDate>
           
-          <p id="sc01-4_10218">"Alienation is real, and it's growing! Citizens, young and old, and of varied political persuasions are expressing more and more their feelings of separation from government and politics they feel disenfranchised. They want to improve conditions and help solve governmental and political problems, but they don't know where to begin."</p>
-          <p id="sc01-4_10219">So stated Marion Gonzalez, administrator of Georgia Close Up, a year-round, state-wide organization, funded by the Metropolitan Foundation of Atlanta, that is attempting to address itself to filling this void by providing programs in state government education for high school students in Georgia.</p>
-          <p id="sc01-4_10220">The organization's mission, according to Gonzalez, is to formulate and implement programs which provide high school students with opportunities to study state and local government processes, politics and issues - in depth and "close-up." Their activities include panel presentations, keynote speaker addresses, interviews with individuals in government, public interest groups and media and topical discussions with staff members. The "close-up" program emphasizes participation, questioning, research and involvement by participants. All issues, Gonzalez says, are presented in a multi-partisan fashion and students are encouraged to fully explore all aspects of issues presented during programs. These issues, she reports, consist not only of specific items such as ERA, prison reform, tax reform, etc., but also include more indepth, humanistic examinations of why these issues are important, the historical development of our government ideologies and why people accept or reject them, the processes and problems involved in attempting to effect change or avoid changes in government laws and processes, and a host of other "valueoriented" items for thought.</p>
-          <p id="sc01-4_10221">A recent program of the project was the Georgia Close Up Workshop, conducted from October 5th through December I. Thirty students, grades 10-12, were selected from approximately 120 state-wide high school nominations. Students met in the Sheraton Biltmore Hotel in Atlanta where they were housed during the live sessions.</p>
-          <p id="sc01-4_10222">They studied the following issues: (I) Tax Reform; (2) Mental Health; (3) Education; (4) Prison Reform; (5) ERA; (6) the Death Penalty; (7) Abortion; (8) The Effect of the Media on Government and Public Opinion; (9) Marijuana Reform; (10) Students' Legal Rights; (11) Civil Rights; (12) State Budgeting; (13) Federalism; and (14) Georgia's relations with other countries.</p>
-          <p id="sc01-4_10223">Speakers on these issues included government officials, both elected and appointed, representatives of public interest groups and organizations of all kinds. Among them were: Dave Benner, Office of Planning and Budget (Prison Allocations); Clint Deveaux, president, ACLU of Georgia (Civil Liberties and Social Reform); Rick Reed, Clearinghouse on Georgia Prisons and Jails (Prison Reform); Pat Malone, Department of Human Resources (Health); Fred Broder, Georgia Association of Educators (Education in Georgia); Dr. Charles King, Urban Crisis Center (Human Interaction and Race Relations); and Wes Sarginson, Channel 2 T.V. News (Prison Conditions).</p>
-          <p id="sc01-4_10224">In order to allow other students throughout Georgia the opportunity
+          <p xml:id="sc01-4_10218">"Alienation is real, and it's growing! Citizens, young and old, and of varied political persuasions are expressing more and more their feelings of separation from government and politics they feel disenfranchised. They want to improve conditions and help solve governmental and political problems, but they don't know where to begin."</p>
+          <p xml:id="sc01-4_10219">So stated Marion Gonzalez, administrator of Georgia Close Up, a year-round, state-wide organization, funded by the Metropolitan Foundation of Atlanta, that is attempting to address itself to filling this void by providing programs in state government education for high school students in Georgia.</p>
+          <p xml:id="sc01-4_10220">The organization's mission, according to Gonzalez, is to formulate and implement programs which provide high school students with opportunities to study state and local government processes, politics and issues - in depth and "close-up." Their activities include panel presentations, keynote speaker addresses, interviews with individuals in government, public interest groups and media and topical discussions with staff members. The "close-up" program emphasizes participation, questioning, research and involvement by participants. All issues, Gonzalez says, are presented in a multi-partisan fashion and students are encouraged to fully explore all aspects of issues presented during programs. These issues, she reports, consist not only of specific items such as ERA, prison reform, tax reform, etc., but also include more indepth, humanistic examinations of why these issues are important, the historical development of our government ideologies and why people accept or reject them, the processes and problems involved in attempting to effect change or avoid changes in government laws and processes, and a host of other "valueoriented" items for thought.</p>
+          <p xml:id="sc01-4_10221">A recent program of the project was the Georgia Close Up Workshop, conducted from October 5th through December I. Thirty students, grades 10-12, were selected from approximately 120 state-wide high school nominations. Students met in the Sheraton Biltmore Hotel in Atlanta where they were housed during the live sessions.</p>
+          <p xml:id="sc01-4_10222">They studied the following issues: (I) Tax Reform; (2) Mental Health; (3) Education; (4) Prison Reform; (5) ERA; (6) the Death Penalty; (7) Abortion; (8) The Effect of the Media on Government and Public Opinion; (9) Marijuana Reform; (10) Students' Legal Rights; (11) Civil Rights; (12) State Budgeting; (13) Federalism; and (14) Georgia's relations with other countries.</p>
+          <p xml:id="sc01-4_10223">Speakers on these issues included government officials, both elected and appointed, representatives of public interest groups and organizations of all kinds. Among them were: Dave Benner, Office of Planning and Budget (Prison Allocations); Clint Deveaux, president, ACLU of Georgia (Civil Liberties and Social Reform); Rick Reed, Clearinghouse on Georgia Prisons and Jails (Prison Reform); Pat Malone, Department of Human Resources (Health); Fred Broder, Georgia Association of Educators (Education in Georgia); Dr. Charles King, Urban Crisis Center (Human Interaction and Race Relations); and Wes Sarginson, Channel 2 T.V. News (Prison Conditions).</p>
+          <p xml:id="sc01-4_10224">In order to allow other students throughout Georgia the opportunity
 to benefit from their experiences, the workshop participants prepared
 articles for publication in a loose-leaf type handbook to he published
 and made available to schools throughout the state, at the option of local educators. The booklet consists of issues on civil liberties, education, energy and budgeting. The reading level of the handbook is geared toward 8th and 9th graders in order to broaden their knowledge and spark their interest now in preparation for tomorrow.</p>
-          <p id="sc01-4_10225">According to Scott Smith, one of the students in the program from Open Campus West in Tucker, Georgia Close Up has given him a fighting opportunity to challenge others in the field of social sciences. "It has enabled me," he says, "to push for reforms, information and issues I never before had the chance to grasp." Shawn Turk of Collins High School in College Park says that she feels the program will continue to aid her in school long after it is over. "It has shown me ways to do research, compile materials, group leadership, different types of problem solving methods and how to arrange speakers," she said.</p>
-          <p id="sc01-4_10226">The staff of Georgia Close Up is interested in responding to
+          <p xml:id="sc01-4_10225">According to Scott Smith, one of the students in the program from Open Campus West in Tucker, Georgia Close Up has given him a fighting opportunity to challenge others in the field of social sciences. "It has enabled me," he says, "to push for reforms, information and issues I never before had the chance to grasp." Shawn Turk of Collins High School in College Park says that she feels the program will continue to aid her in school long after it is over. "It has shown me ways to do research, compile materials, group leadership, different types of problem solving methods and how to arrange speakers," she said.</p>
+          <p xml:id="sc01-4_10226">The staff of Georgia Close Up is interested in responding to
 inquiries about their recent programs and discussing their plans for
 the future. In addition to Gonzalez as administrator, the staff
 includes Hilton Smith as director and Sandy Mershon as staff
 assistant. Write to : Georgia Close Up, 165 Walker St., S.W., Atlanta,
 Georgia 30313. (404) 586-0947 or 586-0007.</p>
         </div2>
-        <div2 id="sc01-4_staff.010" n="7" type="Article">
+        <div2 xml:id="sc01-4_staff.010" n="7" type="Article">
           <head>Southern Politics</head>
-          <byline>By <docAuthor><name reg="Kenna, Gordon" type="person">Gordon Kenna</name></docAuthor></byline>
-          <docDate value="1979-01">Vol. 1, No. 4, 1979, pp. 23</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Kenna, Gordon</reg><orig>Gordon Kenna</orig></choice></name></docAuthor></byline>
+          <docDate when="1979-01">Vol. 1, No. 4, 1979, pp. 23</docDate>
           
-          <p id="sc01-4_10227">Traditionally the South, more than any other region, has maintained remarkable continuity in the leadership it has sent to Washington. That era is surely ending now as the South's senior Senators and Congressmen are being replaced by younger and often more moderate representatives.</p>
-          <p id="sc01-4_10228">Republicans score a gain of two Senate seats in the eleven state South by winning races in Mississippi and Virginia. The GOP also had a net gain of two House seats in the region.</p>
-          <p id="sc01-4_10229">Just how these and other changes will affect the South's
+          <p xml:id="sc01-4_10227">Traditionally the South, more than any other region, has maintained remarkable continuity in the leadership it has sent to Washington. That era is surely ending now as the South's senior Senators and Congressmen are being replaced by younger and often more moderate representatives.</p>
+          <p xml:id="sc01-4_10228">Republicans score a gain of two Senate seats in the eleven state South by winning races in Mississippi and Virginia. The GOP also had a net gain of two House seats in the region.</p>
+          <p xml:id="sc01-4_10229">Just how these and other changes will affect the South's
 representation in Congress is not fully known,but some projections can
 be made based on the South's past performance on such telling issues
 as Civil Rights and Consumer Protection. The Leadership Conference on
 Civil Rights has provided a rating of Congressional voting records on
 12 issues with Civil Rights implications. In this analysis we have also used a rating compiled by Congress Watch, the congressional lobbying arm of Ralph Nader's Public Citizen. The Congress Watch selected forty votes which concern consumer interests in the five major issue areas of: Consumer Protection, Government Reform, Energy, Tax Reform and Waste/Subsidy. The combined ratings shown in the tables below offer some evidence that the outgoing congressmen represent some of the worst voting records that the South had to offer.</p>
-          <p id="sc01-4_10230">This evidence indicates Lijat Southern elections were not a total
+          <p xml:id="sc01-4_10230">This evidence indicates Lijat Southern elections were not a total
 loss on these issues. This reduction in mostly senior conservative
 ranks is a function of age rather than political change and was not
 altogether unexpected. The resultant loss in seniority is minimized by
 recent challenges to the committee chair system. On the Senate side, even in the states of Mississippi and Virginia where conservative Republicans were elected, conservative Democrats with miserable voting records on Civil Rights and consumer issues were replaced. The other retiring Senate Democrats from Alabama and Arkansas were replaced by men who promise to be more progressive than their predecessors.</p>
-          <p id="sc01-4_10231">In the House where Republicans gained two Southern seats, the retiring Democrats included such conservative veterans as Flynt of Georgia, Waggonncr of Louisiana, and Teague, Poage, Burleson, and Mahon of Texas. Republican absentees in the 96th House include Frey and Burke (who were replaced by Democrats), and Thad Cochran from Mississippi who won election to the Senate. For some of these veterans, a worse voting record on civil rights and consumer issues is hardly possible by their successors.</p>
-          <p id="sc01-4_10232">
+          <p xml:id="sc01-4_10231">In the House where Republicans gained two Southern seats, the retiring Democrats included such conservative veterans as Flynt of Georgia, Waggonncr of Louisiana, and Teague, Poage, Burleson, and Mahon of Texas. Republican absentees in the 96th House include Frey and Burke (who were replaced by Democrats), and Thad Cochran from Mississippi who won election to the Senate. For some of these veterans, a worse voting record on civil rights and consumer issues is hardly possible by their successors.</p>
+          <p xml:id="sc01-4_10232">
             <hi rend="bold">The Best and the Worst</hi>
           </p>
-          <p id="sc01-4_10233">In terms of Southern state delegations, calling the best mediocre is probably generous. In the House, South Carolina had the best civil rights voting record with 55.6, followed by Tennessee, Arkansas and Texas. The 'best' Senate record on these issues was 50 from Tennessee and a 37 rating for Florida. Public interest issues fared poorly in the South generally, but got their highest marks from Senate members in Arkansas and Florida.</p>
-          <p id="sc01-4_10234">On the other hand, the states with the worst voting record stood out clearly. The best that can he said about the tables below is that they allow ample room for improvement.</p>
-          <p id="sc01-4_10235">On balance it seems there may not be a great deal to cheer about, but there can be little remorse in the retirement of some senior Southerners who have spent their careers fighting against the interests of consumers, minorities and the poor.</p>
+          <p xml:id="sc01-4_10233">In terms of Southern state delegations, calling the best mediocre is probably generous. In the House, South Carolina had the best civil rights voting record with 55.6, followed by Tennessee, Arkansas and Texas. The 'best' Senate record on these issues was 50 from Tennessee and a 37 rating for Florida. Public interest issues fared poorly in the South generally, but got their highest marks from Senate members in Arkansas and Florida.</p>
+          <p xml:id="sc01-4_10234">On the other hand, the states with the worst voting record stood out clearly. The best that can he said about the tables below is that they allow ample room for improvement.</p>
+          <p xml:id="sc01-4_10235">On balance it seems there may not be a great deal to cheer about, but there can be little remorse in the retirement of some senior Southerners who have spent their careers fighting against the interests of consumers, minorities and the poor.</p>
         </div2>
       </div1>
     </body>
   </text>
-</TEI.2><!-- LocalWords:  Carolinians Warings Charlestonian Waties Ku Klux th se
+</TEI><!-- LocalWords:  Carolinians Warings Charlestonian Waties Ku Klux th se
 --><!-- LocalWords:  Timmerman
 -->
