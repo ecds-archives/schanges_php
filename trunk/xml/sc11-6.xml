@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc11-6_1204">
-  <teiHeader id="sc11-61201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc11-6_1204">
+  <teiHeader xml:id="sc11-61201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 11, Number 6</title>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>staff</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc11-6_002">http://pid.emory.edu/ark:/25593/14mtg</idno>
-            <idno type="ark" n="sc11-6_003">http://pid.emory.edu/ark:/25593/14mvm</idno>
-            <idno type="ark" n="sc11-6_004">http://pid.emory.edu/ark:/25593/14mwr</idno>
-            <idno type="ark" n="sc11-6_005">http://pid.emory.edu/ark:/25593/14mxw</idno>
-            <idno type="ark" n="sc11-6_006">http://pid.emory.edu/ark:/25593/14mz1</idno>
-            <idno type="ark" n="sc11-6_007">http://pid.emory.edu/ark:/25593/14n08</idno>
-            <idno type="ark" n="sc11-6_008">http://pid.emory.edu/ark:/25593/14n1d</idno>
-            <availability>
-          <p id="sc11-6_101">1996 Emory
+        </address><idno type="ark" n="sc11-6_002">http://pid.emory.edu/ark:/25593/14mtg</idno><idno type="ark" n="sc11-6_003">http://pid.emory.edu/ark:/25593/14mvm</idno><idno type="ark" n="sc11-6_004">http://pid.emory.edu/ark:/25593/14mwr</idno><idno type="ark" n="sc11-6_005">http://pid.emory.edu/ark:/25593/14mxw</idno><idno type="ark" n="sc11-6_006">http://pid.emory.edu/ark:/25593/14mz1</idno><idno type="ark" n="sc11-6_007">http://pid.emory.edu/ark:/25593/14n08</idno><idno type="ark" n="sc11-6_008">http://pid.emory.edu/ark:/25593/14n1d</idno><availability>
+          <p xml:id="sc11-6_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -36,62 +26,38 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 11</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date value="1989-12">December 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 11</biblScope>, <biblScope type="issue">Number 6</biblScope>. <date when="1989-12">December 1989</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc11-6_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc11-6_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1998</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc11-6_1203">
-    <body id="sc11-6_1202">
-      <div1 id="sc11-6_001" n="Southern Changes 11:6" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc11-6_1203">
+    <body xml:id="sc11-6_1202">
+      <div1 xml:id="sc11-6_001" n="Southern Changes 11:6" type="Issue">
         <head>Southern Changes.  Volume 11, Number 6, 1989</head>
-        <p id="sc11-6_103"><title>Southern Changes</title>.  Volume 11, Number 6,
-	       <date value="1989-12">1989</date></p>
-        <div2 id="sc11-6_002" n="6" type="Review">
+        <p xml:id="sc11-6_103"><title>Southern Changes</title>.  Volume 11, Number 6,
+	       <date when="1989-12">1989</date></p>
+        <div2 xml:id="sc11-6_002" n="6" type="Review">
           <head>An Unending Stream: History One Day at a Time.</head>
-          <byline>Reviewed by <docAuthor><name reg="Dunbar, Leslie" type="person">Leslie Dunbar</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Dunbar, Leslie</reg><sic>Leslie Dunbar</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 20-23</docDate>
           
           <bibl><title>The News
 and Observer,</title> Raleigh, North Carolina, (Friday, November 17,
 1989, five sections, $0.25).</bibl>
-          <p id="sc11-6_104">We are swamped by information. The least of us knows, sort of,
+          <p xml:id="sc11-6_104">We are swamped by information. The least of us knows, sort of,
 things that the wisest of old could hardly imagine; nor the most
 pessimistic know to dread. Historians are the reporters of what of the
 past is important to keep in memory; news reporters are historians of
 the instant, digesting for our minds each day's memorable
 happenings.</p>
-          <p id="sc11-6_105">I am a word man myself, and so I get nearly all my "news" from
+          <p xml:id="sc11-6_105">I am a word man myself, and so I get nearly all my "news" from
 reading, not from television. I suppose, though, it is all the same:
 the stream is unending and unrelenting. Usually we take it passively,
 absorb what we can or want to and go on about our business. Every now
@@ -100,7 +66,7 @@ like catching a cold in the winter; there are germs swirling about all
 the time, but only sometimes are we vulnerable. The news of November
 17 may not have been more overwhelming than on many other days, but it
 was one of mine for being vulnerable.</p>
-          <p id="sc11-6_106">My morning paper is the <hi rend="italic">Raleigh News and
+          <p xml:id="sc11-6_106">My morning paper is the <hi rend="italic">Raleigh News and
 Observer</hi>. It is a good newspaper. Compared with what was for
 years my daily, the <hi rend="italic">New Fork Times</hi>, it covers
 local and state news more adequately and its editorials are typically
@@ -117,7 +83,7 @@ opinion has not much "left," but it should not really be hard to find
 pro-labor or pacifist or Marxist commentators. Nevertheless, the <hi rend="italic">News and Observer</hi> is a paper of quality, has a
 manifest integrity about itself, and no one outside its home-town owns
 it; not yet at any rate.</p>
-          <p id="sc11-6_107">Back to November 17. Look at the day's front page, the mounting of
+          <p xml:id="sc11-6_107">Back to November 17. Look at the day's front page, the mounting of
 the flood that was to break over me. The "top" story was that five
 Jesuit priests plus a lay one (later we would also learn that he was
 Jesuit), their cook and her daughter, were murdered in San Salvador,
@@ -125,20 +91,20 @@ almost certainly by thugs in the employ of our side in a civil war
 which seems on the brink of turning El Salvador into another Lebanon,
 where death is an individual's and the national society's realistic
 expectation.</p>
-          <p id="sc11-6_108">There was more on the front page. In one of the state's towns, a
+          <p xml:id="sc11-6_108">There was more on the front page. In one of the state's towns, a
 twenty-year-old black mother of three children, ages two months, one
 year and two years, killed them all with a steak knife; no one seems
 to know why. In East Germany, non-communist parties entered the
 Cabinet; in South Africa beaches were de-segregated; and in the United
 States the House of Representatives "balances" reforms of its ethics
 by pay increases.</p>
-          <p id="sc11-6_1010">A political horror. A private horror. An advent of liberty. A small
+          <p xml:id="sc11-6_1010">A political horror. A private horror. An advent of liberty. A small
 murmur for equality. A decaying of a once 
-<pb id="sc11-6_109" n="21"/>
+<pb xml:id="sc11-6_109" n="21"/>
 proud American
 institution. The news of November 17, 1989, would go on this way; one
 could sense history trembling in order to rise and claim it all.</p>
-          <p id="sc11-6_1011">In the following pages, George Bush, Jesse Helms (in the manner of
+          <p xml:id="sc11-6_1011">In the following pages, George Bush, Jesse Helms (in the manner of
 a playbill, I am picking up characters in order of appearance), the
 five Senators who took the coin of a rotting savings and loan, Admiral
 Poindexter (does anyone believe that the subpoena he got, as this day
@@ -146,7 +112,7 @@ reported, for Mr. Reagan to testify at his trial will actually be
 fulfilled?), Phillip Morris (that's a corporation which will subsidize
 the government's celebration of the Bill of Rights' bicentennial), and
 Ms. Donna Bazemore--all these stride toward us.</p>
-          <p id="sc11-6_1012">Ms. Bazemore, not so incidentally, is a black woman of Ahoskie,
+          <p xml:id="sc11-6_1012">Ms. Bazemore, not so incidentally, is a black woman of Ahoskie,
 North Carolina, who told a Congressional subcommittee what they (and
 probably the rest of us) would just as soon not hear; our enormous
 poultry factories are unsanitary places. Picasso came into the news,
@@ -158,7 +124,7 @@ gloss on the meaning of loyalty--that one of its own seamen, not
 itself organizationally, caused the deadly blast on the USS Iowa, an
 old battleship brought out of its mausoleum by the Reagan
 administration to parade around the planet, "projecting power."</p>
-          <p id="sc11-6_1013">I stop, even though I am only at page 14 of the first section. Read
+          <p xml:id="sc11-6_1013">I stop, even though I am only at page 14 of the first section. Read
 farther, and there will be news of Israelis and
 Palestinians. Bulgaria. Lebanon. Brazil. China (as I am swamped by
 news, that country is awash in too many
@@ -170,7 +136,7 @@ research; and there will be Mr. Safire chortling over the USSR's
 reported economic difficulties. There will be a cartoon about
 Mr. Bush's "secret" plan to overthrow Noriega, another reminding us
 that it was labor unions which brought about change in Poland.</p>
-          <p id="sc11-6_1014">One "Letter to the Editor" affectionately remembered the Rev. James
+          <p xml:id="sc11-6_1014">One "Letter to the Editor" affectionately remembered the Rev. James
 Reeb, murdered in Selma, Alabama, at the time of the 1965 march;
 another lamented threats to the state's environment implicit in the $9
 billion--that's it: <hi rend="italic">billion</hi>--road building
@@ -178,29 +144,29 @@ program adopted by the legislature earlier this year; another by the
 manager of the huge Shearon-Harris nuclear power plant near Raleigh
 assured all that, as regards a recent fire at the plant, "at no time
 was the public in danger."</p>
-          <p id="sc11-6_1016">Then there are Sports--lots--and Business. But it is enough. On the
+          <p xml:id="sc11-6_1016">Then there are Sports--lots--and Business. But it is enough. On the
 other hand, I suppose I should not leave out that there was a panel
 discussion of business ethics at the University of North Carolina,
 with several very important persons participating in this the
 concluding session of a conference on international competitiveness;
 or that Burroughs Welcome, a British company which has a big
 laboratory in the state's Research Triangle Park, reported 
-<pb id="sc11-6_1015" n="22"/>
+<pb xml:id="sc11-6_1015" n="22"/>
 a bullish
 year, much of its profits coming from its AIDS drug and its antiviral
 drug for genital herpes; or that the Navy suspended IBM (!) from
 bidding on new contracts because of the revealed fraud of selling used
 equipment for new.</p>
-          <p id="sc11-6_1017">As said, enough, even though I am omitting the most interesting
+          <p xml:id="sc11-6_1017">As said, enough, even though I am omitting the most interesting
 section of the whole paper today: the local news. But a reviewer
 should not tell everything. Buy the book.</p>
-          <p id="sc11-6_1018">How does this belong among book reviews?</p>
-          <p id="sc11-6_1019">First, for readers who want to know about the present United States
+          <p xml:id="sc11-6_1018">How does this belong among book reviews?</p>
+          <p xml:id="sc11-6_1019">First, for readers who want to know about the present United States
 or its southern region, what book would tell more? Granted, that from
 the above, and the yesterdays' editions, everyone must be his or her
 own historian, must give it shape and meaning, must somehow contrive
 the formula that would put it all into understandable equation.</p>
-          <p id="sc11-6_1020">Second, the daily newspaper--if a good one such as the <hi rend="italic">News and Observer</hi>--is in fact a standard of
+          <p xml:id="sc11-6_1020">Second, the daily newspaper--if a good one such as the <hi rend="italic">News and Observer</hi>--is in fact a standard of
 measurement, or seen from another angle an evaluator of the
 non-fiction that analyzes and interprets our place and time; for
 fiction too, that attempts that. The maddening complexity the journals
@@ -215,7 +181,7 @@ unlike past ones, celebrating) the uniqueness of the South that any
 very lively sense of the region's immersion in a larger world drifts
 and vanishes. Possibly that is a holding action, a clinging to what is
 still here yet is firmly on a one-way passage away.</p>
-          <p id="sc11-6_1021">A dozen or more novels could be made from the local news--the
+          <p xml:id="sc11-6_1021">A dozen or more novels could be made from the local news--the
 Section C news--of this day's papers: University of North Carolina
 student precariously perched atop a radio tower protesting the CIA;
 eight North Carolina State University wrestlers on trial for brutally
@@ -227,15 +193,15 @@ contamination of ground water. Novels could be written, and no doubt
 similar ones will be. Their quality will depend on how well they
 connect their stories to the world beyond Section C, how well they are
 "of this world" as well as at home.</p>
-          <p id="sc11-6_1023">Third, the fact is there is some awfully good stuff in the region's
+          <p xml:id="sc11-6_1023">Third, the fact is there is some awfully good stuff in the region's
 papers. I have for the past two years been a judge in the Institute of
 Southern Studies journalism competition. Some of the "feature" writing
 and investigative reporting around the region, from Texas to Virginia,
 is 
-<pb id="sc11-6_1022" n="23"/>
+<pb xml:id="sc11-6_1022" n="23"/>
 outstanding, and some series are (as I've wearily discovered) of
 almost book length.</p>
-          <p id="sc11-6_1024">And so finally, and for all these reasons, Southern Charges
+          <p xml:id="sc11-6_1024">And so finally, and for all these reasons, Southern Charges
 herewith invites reviews of your local newspaper. A friend--one who is
 often subject to fits of dear and therefore indignant observations of
 society--angrily remarked to me recently that there are three bodies
@@ -251,36 +217,36 @@ shall read what you send to us, in the hope we may publish it. Can you
 write clearly and interestingly about the home-town paper, and not too
 lengthily? If you can and are moved to do so, we would like to see
 your work.</p>
-          <p id="sc11-6_1025">Encores, of November 17, 1989.</p>
-          <p id="sc11-6_1026">A crew of Marines rescued in bad weather five men from a sunk
+          <p xml:id="sc11-6_1025">Encores, of November 17, 1989.</p>
+          <p xml:id="sc11-6_1026">A crew of Marines rescued in bad weather five men from a sunk
 tugboat, eight miles at sea off Cape Lookout. Brave men there are
 still.</p>
-          <p id="sc11-6_1027">An old Woolworth's lunch counter once sat-in in Salisbury, a
+          <p xml:id="sc11-6_1027">An old Woolworth's lunch counter once sat-in in Salisbury, a
 videotape of the historic Greensboro sit-in of 1960, and a videotape
 of the killing of five by the Klan in Greensboro in 1979 are joined
 with an original draft of the Constitution in an exhibit at the
 state's Museum of History.</p>
-          <p id="sc11-6_1028">The family of an Israeli soldier killed by Palestinian guerillas
+          <p xml:id="sc11-6_1028">The family of an Israeli soldier killed by Palestinian guerillas
 donated his heart to an Arab; the widow said, "If it is possible to
 save a person, I think it is a religious commandment."</p>
-          <p id="sc11-6_1029">Hope is still ours by right of such as these, and of that young
+          <p xml:id="sc11-6_1029">Hope is still ours by right of such as these, and of that young
 man, 175 feet aloft.</p>
-          <div3 id="sc11-6_022" type="About">
-            <p id="sc11-6_1030">LESLIE DUNBAR is the review editor of 
+          <div3 xml:id="sc11-6_022" type="About">
+            <p xml:id="sc11-6_1030">LESLIE DUNBAR is the review editor of 
 <title>Southern Changes.</title></p>
           </div3>
         </div2>
-        <div2 id="sc11-6_003" n="5" type="Review">
+        <div2 xml:id="sc11-6_003" n="5" type="Review">
           <head>An Insider's Account of Race and Politics in the Delta.</head>
-          <byline>Reviewed by <docAuthor><name reg="Cooper, Michael" type="person">Michael Cooper</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 17-19</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Cooper, Michael</reg><sic>Michael Cooper</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 17-19</docDate>
           
           <bibl><title>Even Mississippi</title> by Melany Neilson (Tuscaloosa:
 University of Alabama Press, 1989. xiv, pp. 199).</bibl>
-          <p id="sc11-6_1031">Part memoir and part campaign history, <title>Even
+          <p xml:id="sc11-6_1031">Part memoir and part campaign history, <title>Even
 Mississippi</title> is worthwhile reading for its insider's account of
 race and politics in the Mississippi Delta of the early 1980s.</p>
-          <p id="sc11-6_1032">Melany Neilson grew up in the turbulent wake of the civil rights
+          <p xml:id="sc11-6_1032">Melany Neilson grew up in the turbulent wake of the civil rights
 movement, but her earliest childhood memories are surprisingly similar
 to those of previous generations of white, well-to-do Southerners. She
 recalls the droves of black field hands working the family cotton
@@ -288,14 +254,14 @@ plantation and lovingly remembers the family's warm-bosomed black
 maids. Her father, Ed Tye, was a planter turned lawyer. The men of the
 family had been lawyers and planters in the same county for several
 generations.</p>
-          <p id="sc11-6_1034">The Neilsons were one of the prominent families of Lexington, the
+          <p xml:id="sc11-6_1034">The Neilsons were one of the prominent families of Lexington, the
 county seat of Holmes County, which is on 
-<pb id="sc11-6_1033" n="18"/>
+<pb xml:id="sc11-6_1033" n="18"/>
 the eastern edge of the flat
 alluvial plain known as the Delta. Welfare, cotton, and pulpwood are
 the country's economic mainstays. Three-fourths of its 23,000
 residents are black.</p>
-          <p id="sc11-6_1035">The civil rights movement redrew the lines of segregation in Holmes
+          <p xml:id="sc11-6_1035">The civil rights movement redrew the lines of segregation in Holmes
 Country. Neilson remembers her third grade teacher, with trembling
 voice, telling the class that the following year, 1968, colored
 children would be coming to the school. That was the year that
@@ -307,7 +273,7 @@ election and public school desegregation added to the tension that was
 as palpable as the Delta's August heat. "Every man in town, white
 and nigra," Neilson recalls her father saying, "is hating
 someone for something."</p>
-          <p id="sc11-6_1036">While growing up, Neilson recognized the schism between blacks and
+          <p xml:id="sc11-6_1036">While growing up, Neilson recognized the schism between blacks and
 whites, but she accepted the status quo and anticipated living her
 life as a traditional belle. But her life changed dramatically while
 she was a graduate student in journalism at Ole Miss when, pretty much
@@ -315,7 +281,7 @@ on impulse, she applied for a job in Robert Clark's 1982 campaign for
 Congress. In Ed Tye's opinion Clark was a "good nigra," but that
 didn't keep Neilson's mother from asking, "Will you have to ride in
 the same car with him?"</p>
-          <p id="sc11-6_1037">Despite her mother's and her own apprehensions, Neilson joined
+          <p xml:id="sc11-6_1037">Despite her mother's and her own apprehensions, Neilson joined
 Clark's campaign just days before the Democratic primary, a contest
 against two white candidates which Clark won with an encouraging 57
 percent of the vote. In the general election Clark faced Republican
@@ -323,7 +289,7 @@ Webb Franklin, and race was the dominant unspoken issue. Responding
 off the record to a reporter's criticism that he was too timid with
 whites, Clark replied, "A black man reaching for a white woman's
 hand'll scare a lot of 'em. So will talking about race."</p>
-          <p id="sc11-6_1038">While Clark couldn't make race an issue, his opponent could and
+          <p xml:id="sc11-6_1038">While Clark couldn't make race an issue, his opponent could and
 did, in ways subtle and not so subtle. Franklin began a stump speech
 before a mixed audience with the comment, "I didn't just fall off a
 watermelon truck." One of his campaign posters featured his
@@ -331,7 +297,7 @@ photograph next to one of Clark with the caption, "The choice is
 yours for Congress." Part of the inspiration for this poster came
 from a poll which found that a quarter of the voters didn't know Clark
 was black.</p>
-          <p id="sc11-6_1039">But, hearteningly, the book shows that modern-day Mississippi
+          <p xml:id="sc11-6_1039">But, hearteningly, the book shows that modern-day Mississippi
 politics isn't divided completely by race. At a fundraiser in a posh
 home in Biloxi, Clark pressed the flesh with a crowd of successful men
 and women, white and black, who contributed some $5,000 to his
@@ -340,7 +306,7 @@ fried catfish and hush puppies, the hat was passed and filled with
 sweat-darkened dollar bills. The contributions were enthusiastic but
 meager until two white farmers drove upend handed over two checks for
 $500 each.</p>
-          <p id="sc11-6_1040">These and other insider accounts of race relations and politics in
+          <p xml:id="sc11-6_1040">These and other insider accounts of race relations and politics in
 the Delta make <title>Even Mississippi</title> interesting
 reading. But readers interested in Deep South politics may be
 disappointed that there is so little about Robert Clark's
@@ -349,7 +315,7 @@ legislative career reads like a press release. Clark is a pioneer
 black politician who has been a state legislator now for more than
 twenty years. A book that is in part about his political aspirations
 should have said more about his record.</p>
-          <p id="sc11-6_1041">Another bothersome aspect of the book is that Neilson's prose
+          <p xml:id="sc11-6_1041">Another bothersome aspect of the book is that Neilson's prose
 doesn't always make the reader feel the gravity of her
 experiences. Much of <title>Even Mississippi</title> is about
 the emotional trials of a young white woman from an old Delta family
@@ -357,21 +323,21 @@ who violates deeply-rooted race, caste, class and gender taboos by
 going to work for a black politician. Not long ago, such behavior
 would have meant, at best, life-long ostracism. The Delta is an
 insular world that few outsiders understand.</p>
-          <p id="sc11-6_1043"><title>Even Mississippi</title> is strong, though, on
+          <p xml:id="sc11-6_1043"><title>Even Mississippi</title> is strong, though, on
 recognizing human decency and courage. Neilson's work for Clark took a
 heavy toll on her family. In the dead of night they received
 threatening telephone calls. Ed Tye's law practice lost
 clients. Mrs. Neilson, tired of the condescension, quit the Garden
 Club. Her parents had misgivings, but they didn't try to rein in their
 daughter. Ed Tye even endorsed 
-<pb id="sc11-6_1042" n="19"/>
+<pb xml:id="sc11-6_1042" n="19"/>
 Clark in a television commercial.</p>
-          <p id="sc11-6_1044">Despite solid victories in the primaries, Clark lost two bids for
+          <p xml:id="sc11-6_1044">Despite solid victories in the primaries, Clark lost two bids for
 Congress, in 1982 and 1984. Webb Franklin won both elections because
 of a low turnout of black voters and his appeals to racism and
 conservatism. But in Clark's defeat there were hopeful signs for the
 future.</p>
-          <p id="sc11-6_1045">In 1982, Neilson was the only white staffer working for Clark. His
+          <p xml:id="sc11-6_1045">In 1982, Neilson was the only white staffer working for Clark. His
 campaign also attracted a few white volunteers from northern
 colleges. In 1984, she was one of two white staffers, and they were
 aided by many volunteers, including several local whites. Having
@@ -380,102 +346,102 @@ contributed to the overall pioneering effect of Clark's two
 campaigns. His trail blazing probably helped Mike Espy defeat Franklin
 in 1986 to become Mississippi's first black congressman in the
 twentieth century.</p>
-          <p id="sc11-6_1046">In its description of race relations and politics in the Delta,
+          <p xml:id="sc11-6_1046">In its description of race relations and politics in the Delta,
 <title>Even Mississippi</title> provides a good sense of how slowly racial attitudes
 are changing. That point is painfully clear in the book's evocative
 epilogue, which describes Neilson's wedding, at which Clark was a
 reluctant guest.</p>
-          <p id="sc11-6_1047">On her wedding day, Neilson recalls, everything in the church, its
+          <p xml:id="sc11-6_1047">On her wedding day, Neilson recalls, everything in the church, its
 trappings and the guests, was glaringly white--except for Clark
 standing uncomfortably in the back row, neither speaking nor being
 spoken to. At the reception in the Neilson's white-columned home, he
 entered the back door. The only other black people there were the
 maids. Clark chatted briefly with the police chief, met Mrs. Neilson
 for the first time, and then slipped quietly out the back.</p>
-          <div3 id="sc11-6_023" type="About">
-            <p id="sc11-6_1048">MICHAEL COOPER is researching the life of Hazel Brannon
+          <div3 xml:id="sc11-6_023" type="About">
+            <p xml:id="sc11-6_1048">MICHAEL COOPER is researching the life of Hazel Brannon
 Smith, former editor and publisher of the Holmes County
 <title>Lexington Advertiser.</title></p>
           </div3>
         </div2>
-        <div2 id="sc11-6_004" n="7" type="Article">
+        <div2 xml:id="sc11-6_004" n="7" type="Article">
           <head>The Cold Hard Truth</head>
           <byline>By 
-            <docAuthor><name reg="Chestnut, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate>
+            <docAuthor><name type="person"><choice><reg>Chestnut, J.L., Jr.</reg><sic>J.L. Chestnut, Jr.</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 24, 23</docDate>
           
-          <p id="sc11-6_1049">The unspeakable and cowardly Sunday morning bombing and slaughter
+          <p xml:id="sc11-6_1049">The unspeakable and cowardly Sunday morning bombing and slaughter
 of the four children in Birmingham's Sixteenth Street Baptist Church
 is like it happened yesterday. It will always remain so in the minds
 of many.</p>
-          <p id="sc11-6_1050">Scores of my associates cannot recall many days since that bombing
+          <p xml:id="sc11-6_1050">Scores of my associates cannot recall many days since that bombing
 when our lives, directly or indirectly, were not in some form of
 jeopardy. A black leader in Dixie whose life has not been seriously
 threatened at least twice is either ineffective or a fraud or both.</p>
-          <p id="sc11-6_1051">The current bombings are not a new problem for black leaders. The
+          <p xml:id="sc11-6_1051">The current bombings are not a new problem for black leaders. The
 attack on white judges is new but hardly eliminates racism as a
 motive. A suspected drug connection also does not put racism to rest,
 all other things considered.</p>
-          <p id="sc11-6_1052">Since the first slave ship docked in America, it has been a
+          <p xml:id="sc11-6_1052">Since the first slave ship docked in America, it has been a
 life-threatening ordeal to offer or provide effective leadership to
 black people. It is perfectly safe to mislead blacks. In fact, that is
 how some blacks survive.</p>
-          <p id="sc11-6_1053">Martin Luther King Jr. knew he could not sit safely with white
+          <p xml:id="sc11-6_1053">Martin Luther King Jr. knew he could not sit safely with white
 leaders in a quiet room and effectively negotiate racial progress in
 Dixie. Obviously, an apostle of nonviolence would have preferred a
 quiet, negotiated approach if it had held any hope of success.</p>
-          <p id="sc11-6_1054">Black progress in Dixie is always seen and defined as a diminution
+          <p xml:id="sc11-6_1054">Black progress in Dixie is always seen and defined as a diminution
 of white power, privilege and money; thus any black progress
 immediately becomes a classic power struggle between blacks and
 whites--a struggle almost never amenable to meaningful
 negotiations.</p>
-          <p id="sc11-6_1055">King discussed those very points in speeches and was even more
+          <p xml:id="sc11-6_1055">King discussed those very points in speeches and was even more
 vivid in private. Precisely because he understood, this apostle of
 non-violence consciously placed his life and family in serious
 jeopardy by assuming effective leadership of the Montgomery Bus
 Boycott. As expected, his home and many others were bombed.</p>
-          <p id="sc11-6_1056">His life remained at great risk until it was taken on a hotel
+          <p xml:id="sc11-6_1056">His life remained at great risk until it was taken on a hotel
 balcony in Memphis. That, too, was not really unexpected.</p>
-          <p id="sc11-6_1057">No person in America understood white power better than King. Few
+          <p xml:id="sc11-6_1057">No person in America understood white power better than King. Few
 Presidents understood it as well. King knew he could become
 instantaneously rich, safe and even "honored" by every white leader in
 America if he would deliberately become ineffective as a black
 leader. He often laughed about it.</p>
-          <p id="sc11-6_1058">Ineffective black leaders are absolutely safe in America. No civil
+          <p xml:id="sc11-6_1058">Ineffective black leaders are absolutely safe in America. No civil
 rights leader of late has been killed or even threatened (except the
 poor black lawyer the other day in Savannah) because collectively and
 singularly they are almost wholly ineffective. They surrendered our
 most effective weapon (direct action) and we have been ineffective
 ever since. And, of course, they have been safe. There will be no
 motel balconies for them.</p>
-          <p id="sc11-6_1059">If King had lived it would be as dangerous in 1989 t' be a civil
+          <p xml:id="sc11-6_1059">If King had lived it would be as dangerous in 1989 t' be a civil
 rights leader as it was in 1965, because he would be waging a struggle
 as effectively now as he was then. He would not be selling his people
 out for <sic>nickle</sic> jobs, empty titles and superfluous
 positions.</p>
-          <p id="sc11-6_1061">The next black leader who comes forward at a crucially tactical
+          <p xml:id="sc11-6_1061">The next black leader who comes forward at a crucially tactical
 moment to nervously suggest "bi-racial negotia-
-<pb id="sc11-6_1060" n="23"/>
+<pb xml:id="sc11-6_1060" n="23"/>
 tions" or "dialogue,"
 ask him to detail his past accomplishments for black people along
 those lines. Find out how safe and secure he is with white
 leaders. You might also ask what titles, jobs and positions have been
 given him.</p>
-          <p id="sc11-6_1062">On the other hand, unless you have lived in a cave isolated from
+          <p xml:id="sc11-6_1062">On the other hand, unless you have lived in a cave isolated from
 everybody and everything you already know the answers to those
 questions.</p>
-          <p id="sc11-6_1063">Peace.</p>
-          <div3 id="sc11-6_024" type="About">
-            <p id="sc11-6_1064">J. L. Chestnut is an Alabama trial lawyer and
+          <p xml:id="sc11-6_1063">Peace.</p>
+          <div3 xml:id="sc11-6_024" type="About">
+            <p xml:id="sc11-6_1064">J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3>
         </div2>
-        <div2 id="sc11-6_005" n="1" type="Article">
+        <div2 xml:id="sc11-6_005" n="1" type="Article">
           <head>The Pittston Strike</head>
-          <byline>By <docAuthor><name reg="Thompson, Charlie D." type="person">Charlie D. Thompson</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Thompson, Charlie D.</reg><sic>Charlie D. Thompson</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 1, 3-6</docDate>
           
-          <p id="sc11-6_1065">AFTER CROSSING THE Clinch River and heading into the extreme
+          <p xml:id="sc11-6_1065">AFTER CROSSING THE Clinch River and heading into the extreme
 southwestern corner of Virginia, the terrain begins to close in around
 you. The rolling farmland to the east gives way to steep mountains
 with valleys barely wide enough to fit both a road and a house
@@ -485,7 +451,7 @@ coalfields." It is here that the black veins of coal,
 intertwined with the backbones of these ridges, are thick enough to
 extract. Since 1892, coal companies and the mountain people they hire
 have bitterly collaborated in this task.</p>
-          <p id="sc11-6_1066">The bloody history of Appalachian mining is central to
+          <p xml:id="sc11-6_1066">The bloody history of Appalachian mining is central to
 understanding this region. Isolated behind the physical barrier of the
 mountains from the rest of the world and even from the states which
 claim jurisdiction here, the people of the coalfields have continually
@@ -493,16 +459,16 @@ struggled for economic survival with little recognition from the rest
 of the country. Outside ownership of the region's resources drains
 away much of the region's wealth, causing unemployment, disability,
 and poverty which perpetually exceed national averages.</p>
-          <p id="sc11-6_1068">YET IN THE coalfields, as in many oppressed areas of the world, the
+          <p xml:id="sc11-6_1068">YET IN THE coalfields, as in many oppressed areas of the world, the
 human spirit blossoms. Appalachian people throughout coal-mining
 history have contributed much to the labor movement's struggle for
 justice. Coal miners and their union, the United Mine Workers of
 America, have perhaps the most coura-
-<pb id="sc11-6_1067" n="3"/>
+<pb xml:id="sc11-6_1067" n="3"/>
 geous and hard-fought story of
 organizing in our history, as the films Harlan County, USA and Matewan
 have depicted. Now another chapter of this story is unfolding.</p>
-          <p id="sc11-6_1069">The UMWA is fighting again for basic human rights against powers
+          <p xml:id="sc11-6_1069">The UMWA is fighting again for basic human rights against powers
 which attempt to discredit and even destroy it. Since April 4,
 seventeen hundred miners employed by the Pittston Company of
 Greenwich, Conn., have been on a <soCalled>"selective
@@ -518,11 +484,11 @@ and decrease health care benefits for fifteen hundred retirees, widows
 of pensioners, and disabled miners. Pittston also wants to relinquish
 the company's responsibility for lifetime care for retirees and their
 spouses.</p>
-          <p id="sc11-6_1070">The strike, though necessary for maintaining all that thc union has
+          <p xml:id="sc11-6_1070">The strike, though necessary for maintaining all that thc union has
 worked for, was reluctantly called. After fourteen months of attempted
 negotiations, during which the UMWA ignored its own policy and worked
 without a contract, the union walked out.</p>
-          <p id="sc11-6_1071">Osborne Debert, a thirty-two-year-old miner from Lebanon, Va.,
+          <p xml:id="sc11-6_1071">Osborne Debert, a thirty-two-year-old miner from Lebanon, Va.,
 states simply the reason: "They want to take a whole lot from us
 that we have already fought for." In one of the world's most
 dangerous occupations, miners virtually count on adverse effects from
@@ -532,7 +498,7 @@ some consolation in knowing they and their families were to be cared
 for when the trouble came. Now without a contract, the Pittston
 miners, both active and retired, are again at the mercy of a resistant
 absentee owner when their work takes its toll.</p>
-          <p id="sc11-6_1072">The Pittston Company wants other major changes in long-standing
+          <p xml:id="sc11-6_1072">The Pittston Company wants other major changes in long-standing
 labor rights including the repeal of the right to an eight-hour
 day. In other words, mandatory overtime would be a requirement. If
 Pittston gets its way, miners would be required to work seven days a
@@ -543,7 +509,7 @@ for increased numbers of non- union workers in Pittston mines and
 subcontracting to other non-union companies (which are in some cases
 subsidiaries of Pittston, for work which is now done by union
 members.</p>
-          <p id="sc11-6_1074">Clearly the union had reason enough to head to the picket
+          <p xml:id="sc11-6_1074">Clearly the union had reason enough to head to the picket
 lines. With a resistant company refusing to bend on what it knows to
 be the undoing of standard labor practices, the strike was
 inevitable. Pittston surely knew this would occur--the contractual
@@ -553,12 +519,12 @@ agenda. This challenge to the UMWA appears to many rank and file
 members to be a litmus test for not only the miners' solidarity but
 for all of American labor. Bill Patton said, "They're trying to
 break the 
-<pb id="sc11-6_1073" n="4"/>
+<pb xml:id="sc11-6_1073" n="4"/>
 union's back and if we lose on this one we've lost
 everything." The U.S. labor movement is indeed at a critical point
 in its history and this strike will demonstrate much about how unions
 will fare through the next decade.</p>
-          <p id="sc11-6_1075">The UMWA has shouldered this responsibility with impressive
+          <p xml:id="sc11-6_1075">The UMWA has shouldered this responsibility with impressive
 commitment and inspiration with a pledge to strike until their rights
 are reinstated. Sentiments like the following are expressed daily on
 the picket line: "We'll be here as long as it takes" and "It
@@ -569,22 +535,22 @@ said, "I'd die for this union. I ask the Lord to help me be like
 Job in the Bible and endure to the end." An overwhelming majority
 of the miners are steadfast with only one union member crossing the
 picket line during the entire strike.</p>
-          <p id="sc11-6_1076">Though spirits are high, no one dares believe the fight is almost
+          <p xml:id="sc11-6_1076">Though spirits are high, no one dares believe the fight is almost
 over. Entire communities, pulling together for the long haul, are
 finding renewed closeness, a stronger sense of purpose, and new
 political awareness. Support from groups around this country and
 abroad adds significance. Elizabeth Cook, tired but determined, said,
 "This strike has been hard but it has been good for us."</p>
-          <p id="sc11-6_1077">In November the town of Grundy, Va., elected local union president
+          <p xml:id="sc11-6_1077">In November the town of Grundy, Va., elected local union president
 Jackie Stump to the House of Representatives by write-in ballot. The
 man he beat is the father of a circuit court judge responsible for
 numerous fines against the union. Even with only two weeks of
 campaigning, Stump won by a two-to-one margin against a legislator
 thought by some to be the most powerful in the state.</p>
-          <p id="sc11-6_1079">At Bill and Jan Patton's home the police scanner blares out the
+          <p xml:id="sc11-6_1079">At Bill and Jan Patton's home the police scanner blares out the
 latest police check of the picket lines. Every union home now has this
 tap into the activities of the Virginia 
-<pb id="sc11-6_1078" n="5"/>
+<pb xml:id="sc11-6_1078" n="5"/>
 State Police and Vance
 Security guards who keep constant surveillance on the union. "We
 used to respect the law here," Bill Patton admitted, "but never
@@ -597,7 +563,7 @@ supporting the company through the use of escorts for non-union coal
 trucks and thousands of striker arrests for small or nonexistent
 offenses. The union has been fined $32 million for practicing civil
 disobedience tactics like sitting in the road to block coal trucks.</p>
-          <p id="sc11-6_1080">On a bedside table in the Pattons' home is Taylor Branch's Partinq
+          <p xml:id="sc11-6_1080">On a bedside table in the Pattons' home is Taylor Branch's Partinq
 the Waters. All union leaders have been asked to read this account of
 the civil rights movement to learn more about the use of non-violent
 strategies. Minds are being broadened. Not a single union member has
@@ -607,16 +573,16 @@ one mine a makeshift "pill-box" atop an equipment shed protects
 security guards. Scenes like this are ominous reminders of the
 presence of the hired outsiders some are again calling the
 "gun-thugs."</p>
-          <p id="sc11-6_1082">In a small cove near Clinch River is a union campground known as
+          <p xml:id="sc11-6_1082">In a small cove near Clinch River is a union campground known as
 "Camp Solidarity." A community resident donated the property to
 provide lodging for the union's support-
-<pb id="sc11-6_1081" n="6"/>
+<pb xml:id="sc11-6_1081" n="6"/>
 ers during the strike. A gravel
 road leading to this refuge winds through the hills for miles. Here
 the mountaineers mingle with union members and supporters from as far
 away as Poland, Czechoslavakia, England, and even the Soviet Union, as
 well as many thousands from around the United States.</p>
-          <p id="sc11-6_1083">There is no official record of visitor numbers, but this small
+          <p xml:id="sc11-6_1083">There is no official record of visitor numbers, but this small
 haven has provided up to sixteen hundred a place to eat and sleep in a
 single day. Liz Cook describes the operation of the union's daily food
 service: "Pittston tried to shut us down by getting the kitchen
@@ -625,7 +591,7 @@ food in our homes and bringing it in. I fixed forty pounds of macaroni
 salad in my kitchen in one day." Union members who normally
 construct the wooden mine supports used their carpentry skills to
 build a permanent bunk house at the Camp just in time for winter.</p>
-          <p id="sc11-6_1084">Five miles from Camp Solidarity is the Moss #3 Coal Preparation
+          <p xml:id="sc11-6_1084">Five miles from Camp Solidarity is the Moss #3 Coal Preparation
 Plant. For four days in September it was occupied in protest by
 ninety-nine miners and a clergyman. Nearly five thousand people stood
 outside blocking the gates. The picket shack is calm now, but the
@@ -638,7 +604,7 @@ occupation is not easily visible, but the results linger in the hearts
 of the miners. One man whose daily job is to inhabit the small picket
 shack outside Moss #3 said confidently, "I ain't a bit afraid of
 them. We control things here."</p>
-          <p id="sc11-6_1085">The Reverend Joe Johnson, an eighty-year-old former miner and
+          <p xml:id="sc11-6_1085">The Reverend Joe Johnson, an eighty-year-old former miner and
 active Freewill Baptist minister, sits quietly in his home with his
 wife listening to the latest on the police scanner. He remembers the
 days before the union, "I worked in water up to my knees for a
@@ -646,7 +612,7 @@ dollar a day loading coal by hand, and if I said anything about it the
 boss would tell me, 'If you don't like it, there's a barefoot man
 waiting outside ready to take your job.' That's what Pittston wants to
 get it back to."</p>
-          <p id="sc11-6_1086">"I think Christian people ought to be the ones working (in the
+          <p xml:id="sc11-6_1086">"I think Christian people ought to be the ones working (in the
 union) to get benefits for their people," counseled Johnson,
 "The Bible says as you do it
 unto your neighbor, you do it unto God. Church people should work to
@@ -659,20 +625,20 @@ site. "We should love our neighbor and do unto them what we'd have
 them do to us," said Johnson, "If we all bind together we can
 win this thing and I do believe that God's will for us is to have a
 decent living."</p>
-          <p id="sc11-6_1087">The Pittston strike continues as the weather gets colder. Snow has
+          <p xml:id="sc11-6_1087">The Pittston strike continues as the weather gets colder. Snow has
 already fallen on the picket lines. The UMWA in a recent flyer said,
 "The campfires are blazing and the soup's on at Camp Solidarity for
 the supporters who continue to stream in from around the nation and
 the world." The strike seems firmly established in the hearts of
 the people of the deep mountain communities surrounding the Pittston
 land.</p>
-          <p id="sc11-6_1088">Results, however, are slow coming. Although Secretary of Labor
+          <p xml:id="sc11-6_1088">Results, however, are slow coming. Although Secretary of Labor
 Elizabeth Dole has visited the area, no federal action has been
 initiated as of this writing. To date, the State of Virginia has done
 little but aid Pittston's continued operations. Pittston itself seems
 firmly entrenched in its position. The company claims it can last for
 another year or longer without a settlement.</p>
-          <p id="sc11-6_1089">Hidden behind these mountains is a pivotal struggle for justice and
+          <p xml:id="sc11-6_1089">Hidden behind these mountains is a pivotal struggle for justice and
 democracy by Americans. Yet many citizens of this country still know
 very little about our own current labor issues. In contrast, Lech
 Walesa was recently given the Medal of Freedom by George Bush, and the
@@ -683,7 +649,7 @@ strike. He said, "This is the first time in the history of our
 movement that the workers of Poland have been able to support a labor
 union in the United States." Before demands of the UMWA are met,
 they will probably need much more of the same.</p>
-          <p id="sc11-6_1090">Crossing the Clinch River is indeed like crossing a foreign
+          <p xml:id="sc11-6_1090">Crossing the Clinch River is indeed like crossing a foreign
 border. This land of rich resources and hidden turmoil is tucked away
 from the mainstream. News coverage largely ignores its existence. Yet
 a strike of international dimensions is underway. Those who know this
@@ -691,15 +657,15 @@ continue to come. Those who have always been here pledge to remain as
 solid as the mountains which surround them. They are not about to give
 in now.</p>
         </div2>
-        <div2 id="sc11-6_006" n="4" type="Review">
+        <div2 xml:id="sc11-6_006" n="4" type="Review">
           <head>Culture-Bound Southern Baptists and Their Exiles.</head>
-          <byline>Reviewed by <docAuthor><name reg="Hendricks, Joseph" type="person">Joseph Hendricks</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Hendricks, Joseph</reg><sic>Joseph Hendricks</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 15-17</docDate>
           
           <bibl><title>Churches in Cultural Captivity, A History of the Social Attitudes of Southern
 Baptists</title> by John Lee Eighmy (Knoxville: The University of
 Tennessee Press, 1972, revised 1987).</bibl>
-          <p id="sc11-6_1091">When John Lee Eighmy suffered a fatal heart attack in 1970, he had
+          <p xml:id="sc11-6_1091">When John Lee Eighmy suffered a fatal heart attack in 1970, he had
 almost completed his important study on the influence of the social
 gospel in the life and work of the Southern Baptist Convention. Eighmy
 died at a time when the Convention seemed to be emerging from cultural
@@ -707,7 +673,7 @@ captivity, and he could hardly have anticipated its dramatic turn into
 yet another era of cultural bondage. Fortunately, Samuel Hill has
 provided for the revised edition an expanded conclusion that extends
 the study to the present time.</p>
-          <p id="sc11-6_1093">Eighmy contends that the Convention, born amidst the pre-Civil War
+          <p xml:id="sc11-6_1093">Eighmy contends that the Convention, born amidst the pre-Civil War
 slavery debate, has conceived and pursued its mission in a manner that
 embraces rather than criticizes Southern culture. He ably demonstrates
 how this posture has been supported by Southern Baptist theology, a
@@ -715,10 +681,10 @@ perspective radically different from that of the American (Northern)
 Baptist, Walter Rauschenbusch, who is often called the father of the'
 social gospel in America. Eighmy cites a 1920 proclamation by the
 Virginia Baptist Conven-
-<pb id="sc11-6_1092" n="16"/>
+<pb xml:id="sc11-6_1092" n="16"/>
 tion Social Service Committee that reflects
 Southern Baptist antipathy toward the social gospel.</p>
-          <p id="sc11-6_1094">
+          <p xml:id="sc11-6_1094">
             <q>
               <hi rend="italic">The Baptist attitude toward all social reform,
 work, and service is that unadulterated gospel preached and accepted
@@ -728,7 +694,7 @@ supplies adequate protection and uplift to the weaker part of
 humanity.</hi>
             </q>
           </p>
-          <p id="sc11-6_1095">Such proclamations, however, can be misleading. As Eighmy points
+          <p xml:id="sc11-6_1095">Such proclamations, however, can be misleading. As Eighmy points
 out, Southern Baptists have consistently addressed some social
 problems while ignoring others. They have vigorously fought alcohol
 consumption, Sabbath desecration, gambling, and obscenity; and,
@@ -740,7 +706,7 @@ problems as racial oppression, labor exploitation, and war which were
 deeply rooted in the socio-political structures of Southern
 culture--structures, notes Eighmy, that were perceived to be "divinely
 ordered."</p>
-          <p id="sc11-6_1096">In its second half-century, efforts were made to enlarge the
+          <p xml:id="sc11-6_1096">In its second half-century, efforts were made to enlarge the
 Southern Baptist social agenda. During this period, for example,
 W.L. Poteat, president of Wake Forest College, and his nephew, Edwin
 McNeill Poteat Jr., challenged the Convention's Social Service
@@ -751,12 +717,12 @@ budgeted and staffed. Guided by such leaders as Hugh Brimm, Jesse
 Burton Weatherspoon, Aker C. Miller, and Foy Valentine, the Commission
 conducted educational programs designed to stretch the social
 conscience of Southern Baptists.</p>
-          <p id="sc11-6_1097">Such efforts required perennial sympathetic diplomacy by these
+          <p xml:id="sc11-6_1097">Such efforts required perennial sympathetic diplomacy by these
 leaders, and the success of their work is reflected in a 196S
 Convention resolution which confessed that Southern Baptists must
 share responsibility for the racial strife then sweeping the
 country.</p>
-          <p id="sc11-6_1098">Given the resistance that the Commission encountered, its
+          <p xml:id="sc11-6_1098">Given the resistance that the Commission encountered, its
 accomplishments were impressive, but it must be noted that it pursued
 its mission in the wake of dramatic action by civil rights groups,
 other ecclesiastical organizations, and the federal government. For
@@ -769,8 +735,8 @@ the New Right, purged the Christian Life Commission and other agencies
 of progressive leadership, and replaced them with administrators who
 have returned the agenda to personal rather than structural social
 concerns.</p>
-          <p id="sc11-6_10100">There is another part of the story, however, that does 
-<pb id="sc11-6_1099" n="17"/>
+          <p xml:id="sc11-6_10100">There is another part of the story, however, that does 
+<pb xml:id="sc11-6_1099" n="17"/>
 not fall
 within the purview of Eighmy's book. As was often the case with Israel
 and has been with the Church, the Southern Baptist prophetic social
@@ -782,7 +748,7 @@ justice, Clarence Jordan and Will Campbell, were reared and baptized
 in rural Southern Baptist churches. Both were challenging Southern
 culture long before the civil rights movement gained momentum, and
 both were either nudged or driven out of the Southern Baptist fold.</p>
-          <p id="sc11-6_10101">Jordan, founder of Koinonia Farm, preached unrelentingly against
+          <p xml:id="sc11-6_10101">Jordan, founder of Koinonia Farm, preached unrelentingly against
 the evils of war, wealth, and racism; and he devoted much of his later
 life to translating portions of the New Testament from Greek into the
 Southern vernacular. Campbell, who has been accurately called the
@@ -791,7 +757,7 @@ moderate and the fundamentalist factions of the Convention to learn
 from the sixteenth century Anabaptists--who are their spiritual if not
 their ecclesiastical ancestors--who found their identity in faith
 rather than a culture that had captured the Church.</p>
-          <p id="sc11-6_10102">These prophets and their lesser known sister and brother exiles
+          <p xml:id="sc11-6_10102">These prophets and their lesser known sister and brother exiles
 have been anchored in Scripture and a tradition that recognizes the
 importance of not confusing culture and faith. Resisting seduction by
 secular or ecclesiastical institutions, they have served both the
@@ -799,32 +765,32 @@ institutional church and the state by proclaiming the criticism they
 so desperately need. Through the lives of such exiles the Convention
 might catch a glimpse of how to be faithful in Southern culture
 without being <hi rend="italic">of</hi> it.</p>
-          <div3 id="sc11-6_026" type="About">
-            <p id="sc11-6_10103">JOSEPH HENDRICKS is chair of Interdisciplinary Studies at
+          <div3 xml:id="sc11-6_026" type="About">
+            <p xml:id="sc11-6_10103">JOSEPH HENDRICKS is chair of Interdisciplinary Studies at
 Mercer University, a Southern Baptist, and a long-time active
 challenger of injustice in Georgia and the South.</p>
           </div3>
         </div2>
-        <div2 id="sc11-6_007" n="3" type="Review">
+        <div2 xml:id="sc11-6_007" n="3" type="Review">
           <head>We the Baptists: Trading Away a Birthright.</head>
-          <byline>Reviewed by <docAuthor><name reg="Finlator, W. W." type="person">W. W. Finlator</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Finlator, W. W.</reg><sic>W. W. Finlator</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 14-15</docDate>
           
           <bibl><title>The Southern Baptists: A Subculture in Transition</title> by Ellen Rosenberg (Knoxville: University of
 Tennessee Press, 1989, 240 pp.).</bibl>
-          <p id="sc11-6_10104">There are times when the publication of a book is greeted with a
+          <p xml:id="sc11-6_10104">There are times when the publication of a book is greeted with a
 Glory Be, Welcome Thrice Welcome, Amen and Amen! Such is my response
 to anthropologist Ellen Rosenberg's <title>The Southern Baptists, A
 Subculture in Transition</title>, and I am sending her a letter of
 thanks for writing it and letter of congratulations to the University
 of Tennessee for publishing it.</p>
-          <p id="sc11-6_10105">Here is the story told in depth, in truth, and, perhaps in spite of
+          <p xml:id="sc11-6_10105">Here is the story told in depth, in truth, and, perhaps in spite of
 the author's clinical approach, in compassion, about what is happening
 to the Southern Baptist Convention, written by a Yankee scholar from
 far-away Western Connecticut State University. As Will Campbell
 observed: "We the Baptists. Ellen Rosenberg has shined a needed
 spotlight on us all."</p>
-          <p id="sc11-6_10106">Not that we traditionally would have minded. Southern Baptists have
+          <p xml:id="sc11-6_10106">Not that we traditionally would have minded. Southern Baptists have
 a long history of indifference to what the outside world thinks of
 us. We have never yearned, with Robert Burns, for some Power the gift
 to give us to see ourselves as others see us. Why should we? In terms
@@ -832,7 +798,7 @@ of what we gauge as success, we have been preeminently successful:
 growth, numbers, influence, power, popular appeal, wealth, etc., while
 just look at what's happening to those Protestant "main line"
 churches!</p>
-          <p id="sc11-6_10108">But now with the takeover of the Convention by the Fundamentalists,
+          <p xml:id="sc11-6_10108">But now with the takeover of the Convention by the Fundamentalists,
 which Rosenberg traces so vividly and so accurately, and which I
 regard as a sad but well-deserved nemesis, our attitude toward outside
 opinion has undergone a sea change. Southern Baptists have fallen in
@@ -843,11 +809,11 @@ religio-political zealots who want to proclaim this a "Christian
 Nation." The South is just not going to, the South <hi rend="italic">has</hi> risen again. With the surging Fundamentalists at
 the heart of resurrection, you can bet your bottom tithe that Southern
 Baptists are now looking 
-<pb id="sc11-6_10107" n="15"/>
+<pb xml:id="sc11-6_10107" n="15"/>
 over their shoulder at world opinion,
 beginning with the White House. We may preach "Blessed are the Meek,"
 but no one can accuse our "subculture" of meekness.</p>
-          <p id="sc11-6_10109">The author's shining spotlight is on us unmercifully at this
+          <p xml:id="sc11-6_10109">The author's shining spotlight is on us unmercifully at this
 point. Whether we are moderates, conservatives, or fundamentalists, we
 have long been mired in compromises, veerings and vacillations,
 rationalizations, evasions, self-deceptions, and hypocrisies making
@@ -855,7 +821,7 @@ ourselves vulnerable for the eventual takeover. All this she exposes,
 sometimes with the tenderness of a Matthew Arnold saying "Thou ailest
 here and here," sometimes with relentless objectivity, and sometimes
 like Amos the prophet.</p>
-          <p id="sc11-6_10110">And she knows whereof she writes. Connecticut may be her home, but
+          <p xml:id="sc11-6_10110">And she knows whereof she writes. Connecticut may be her home, but
 she has dwelt among us. She has been on the campuses of our faltering
 seminaries, worshipped in our churches, attended state and Southern
 Baptist Conventions, read our publications, studied our documents,
@@ -868,10 +834,10 @@ birthright of free speech, free conscience, protection of privacy and
 dissent, church-state separation, and rejection of creeds for the
 pottage of conformity, control, authority, inerrancy, status, power,
 and bigness.</p>
-          <p id="sc11-6_10111">And, oddly, just what the country most needs in this hour we
+          <p xml:id="sc11-6_10111">And, oddly, just what the country most needs in this hour we
 Southern Baptists have forfeited.</p>
-          <div3 id="sc11-6_027" type="About">
-            <p id="sc11-6_10112">W. W. FINLATOR, from his several North Carolina
+          <div3 xml:id="sc11-6_027" type="About">
+            <p xml:id="sc11-6_10112">W. W. FINLATOR, from his several North Carolina
 pastorates and especially until 1983 from the Pullen Memorial Baptist
 Church of Raleigh, has been a prophet--with and sometimes
 without--honor among Southern Baptists. Annually, the Ware County
@@ -881,36 +847,36 @@ Observer) the "W.W. Finlator Award." Has any other Southern Baptist
 preacher been so honored?</p>
           </div3>
         </div2>
-        <div2 id="sc11-6_008" n="2" type="Article">
+        <div2 xml:id="sc11-6_008" n="2" type="Article">
           <head>The Court and the Black Community</head>
-          <byline>By <docAuthor><name reg="Chambers, Julius L." type="person">Julius L. Chambers</name></docAuthor></byline>
-          <docDate value="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Chambers, Julius L.</reg><sic>Julius L. Chambers</sic></choice></name></docAuthor></byline>
+          <docDate when="1989-12">Vol. 11, No. 6, 1989, pp. 8-13</docDate>
           
-          <p id="sc11-6_10113">EDITORS' NOTE: The following essay is an edited version of a talk
+          <p xml:id="sc11-6_10113">EDITORS' NOTE: The following essay is an edited version of a talk
 presented November 15, 1989, as the second lecture in the Grace Towns
 Hamilton Lecture Series, sponsored by the African-American And African
 Studies programs at Emory University in honor of retired Georgia State
 Rep. Grace Towns Hamilton. <title>Southern Changes</title> expresses
 its appreciation to Prof. Delores P. Aldridge, AAAS chair and
 organizer of the Hamilton Lecture Series.</p>
-          <p id="sc11-6_10114">THIS IS A MOMENT in which I think we ought to pause and ask what
+          <p xml:id="sc11-6_10114">THIS IS A MOMENT in which I think we ought to pause and ask what
 have we been able to accomplish through the use of the law in
 improving black empowerment in this society. What kind of problems do
 we face today and tomorrow in advancing this objective? What role can
 each of us play in facing this challenge?</p>
-          <p id="sc11-6_10115">As most of you know, the Legal Defense Fund was organized in 1939
+          <p xml:id="sc11-6_10115">As most of you know, the Legal Defense Fund was organized in 1939
 as an arm of the NAACP. The objective then was to set up an entity
 that could receive tax-exempt status and carry on the legal efforts of
 what was at that time a fledgling civil rights organization. There was
 a question whether law could be used as a means for empowering black
 people in this society. But, in fact there was not really much
 choice.</p>
-          <p id="sc11-6_10116">We had appealed to Congress, but Congress from the early to
+          <p xml:id="sc11-6_10116">We had appealed to Congress, but Congress from the early to
 mid-twentieth century was dominated by Southerners. There was an
 interest in preserving a segregated society, because it allowed even
 low-income whites to say that they were at a higher status than other
 Americans, particularly black Americans.</p>
-          <p id="sc11-6_10117">In that era there was no opportunity to use the executive
+          <p xml:id="sc11-6_10117">In that era there was no opportunity to use the executive
 branch. President Roosevelt was telling the civil rights community
 that he could not do anything because he needed the votes of the
 Southern senators and representatives to advance his economic goals
@@ -918,19 +884,19 @@ and war efforts. Even in the face of the rising number of blacks who
 were lynched, President Roosevelt was telling the civil rights
 community that the executive branch of government had no power to
 provide protection.</p>
-          <p id="sc11-6_10118">The only avenue that offered some means for black empowerment was
+          <p xml:id="sc11-6_10118">The only avenue that offered some means for black empowerment was
 through the courts and the law. There was a basis for that because the
 Reconstruction Congress had provided, through amendments to the
 Constitution, that all citizens in the United States were entitled to
 equal protection and due process of law--rather amorphous terms, but
 that same Congress directed the federal courts to decide what those
 terms meant.</p>
-          <p id="sc11-6_10119">Could the courts be used to evolve interpretations of the
+          <p xml:id="sc11-6_10119">Could the courts be used to evolve interpretations of the
 Constitution that would provide protection for minority Americans? The
 Supreme Court had already held with regard to due process and equal
 protection that the Constitution permitted a racially segregated--in
 the Court's terms, "equal"--society.</p>
-          <p id="sc11-6_10120">Here, we pause to think about the rigidly segregated American
+          <p xml:id="sc11-6_10120">Here, we pause to think about the rigidly segregated American
 society we faced in that period. Black people were relegated to
 second-class status. Schools, jobs, housing, voting, indeed all
 aspects of life were about like what we know of South Africa today. In
@@ -940,34 +906,34 @@ for advancement. There was very little value placed on their lives
 because of the practice of white Americans--particularly white
 Southern Americans--of taking the life of any black person who
 threatened the existing arrangement.</p>
-          <p id="sc11-6_10121">
+          <p xml:id="sc11-6_10121">
             <hi rend="bold">Devising Strategies for Change</hi>
           </p>
-          <p id="sc11-6_10122">In the 1930s a group of lawyers got together and talked about
+          <p xml:id="sc11-6_10122">In the 1930s a group of lawyers got together and talked about
 strategies for effecting changes in the Court's interpretation of the
 equal protection and due process clauses. We think of Charles Houston
 as the architect and of Thurgood Marshall and Bill Hastie and others
 as lieutenants who implemented or carried out those strategies.</p>
-          <p id="sc11-6_10123">The effort was to convince the Supreme Court that the equal
+          <p xml:id="sc11-6_10123">The effort was to convince the Supreme Court that the equal
 protection clause and the due process clause imposed a responsibility
 on the part of the federal government to insure that all citizens
 would be treated equally. Segregating people by race was not treating
 people equally. The federal government must insure that no state or
 federal practices were condoned which would force the separation of
 people solely on the basis of race or color.</p>
-          <p id="sc11-6_10125">Today we do not think of that as a particularly tall order. But in
+          <p xml:id="sc11-6_10125">Today we do not think of that as a particularly tall order. But in
 the '30s it was considered a very difficult, perhaps impossible,
 mission. The strategies included picking away at how the courts
 interpreted the equal protection and due 
-<pb id="sc11-6_10124" n="9"/>
+<pb xml:id="sc11-6_10124" n="9"/>
 process clauses until the ultimate issue was presented.</p>
-          <p id="sc11-6_10126">We ultimately achieved the goal in <hi rend="italic">Brown v. Board
+          <p xml:id="sc11-6_10126">We ultimately achieved the goal in <hi rend="italic">Brown v. Board
 of Education</hi> with the Court holding that the equal protection
 clause prohibits a state or the federal government from segregating
 people solely on the basis of race or color. Although Brown was a case
 involving education it was soon applied to other aspects of our lives
 such as voting, housing, and employment.</p>
-          <p id="sc11-6_10127">When <hi rend="italic">Brown</hi> was decided in 1954, I remember how
+          <p xml:id="sc11-6_10127">When <hi rend="italic">Brown</hi> was decided in 1954, I remember how
 it was received in my community in North Carolina, how many people
 thought that the court had suddenly written an end to segregation and
 the pervasive racism that we knew. How we hoped that American society
@@ -976,17 +942,17 @@ practices that would eliminate segregation in the schools as well as
 discrimination in all other aspects of our lives. We were made aware
 quickly that the immediate implementation of that decision was not to
 be had. It was going to continue to be a long and difficult process.</p>
-          <p id="sc11-6_10128">We had achieved a major goal in convincing the U.S. Supreme Court
+          <p xml:id="sc11-6_10128">We had achieved a major goal in convincing the U.S. Supreme Court
 to interpret the equal protection clause differently. Growing out of
 that decision we have seen some major changes in our society. But that
 decision left many problems unsolved. Just as we employed a number of
 strategies to achieve a decision like <hi rend="italic">Brown</hi>, we
 would have to employ strategies to affect the courts' determination of
 what <hi rend="italic">Brown</hi> really meant.</p>
-          <p id="sc11-6_10129">
+          <p xml:id="sc11-6_10129">
             <hi rend="bold">A Continuation of Old Problems</hi>
           </p>
-          <p id="sc11-6_10131">So today we are continuing to face problems that reflect the ills
+          <p xml:id="sc11-6_10131">So today we are continuing to face problems that reflect the ills
 of our society. For example, when the Court holds that no state may
 implement policies that segregate people on the basis of race or
 color, what does it mean by state or state action? What does the Court
@@ -998,24 +964,24 @@ Does it apply to whites? Does it apply to religious groups? To the
 poor? Are there still possibilities for further evolving principles
 under the equal protection clause that would provide such
 protection?
-<pb id="sc11-6_10130" n="10"/></p>
-          <p id="sc11-6_10132">Does the equal protection clause impose an affirmative obligation
+<pb xml:id="sc11-6_10130" n="10"/></p>
+          <p xml:id="sc11-6_10132">Does the equal protection clause impose an affirmative obligation
 on the part of the federal government and on the part of the states to
 insure that all citizens or that all people within the country are
 accorded equal protection of the law? Do affirmative action plans that
 are designed to remedy past discrimination violate the equal
 protection clause because of discrimination against white
 Americans?</p>
-          <p id="sc11-6_10133">Does the equal protection clause or the Fourteenth Amendment or our
+          <p xml:id="sc11-6_10133">Does the equal protection clause or the Fourteenth Amendment or our
 concept of federalism prohibit the federal government from reaching
 private practices of discrimination?</p>
-          <p id="sc11-6_10134">Finally, how are these questions relevant to black empowerment
+          <p xml:id="sc11-6_10134">Finally, how are these questions relevant to black empowerment
 today and for the future?</p>
-          <p id="sc11-6_10135">An issue that now limits the effectiveness of equal protection is
+          <p xml:id="sc11-6_10135">An issue that now limits the effectiveness of equal protection is
 whether it limits the ability of courts or the legislatures to
 implement affirmative action or minority set-aside programs. Do such
 programs unconstitutionally discriminate against non-minorities?</p>
-          <p id="sc11-6_10136">Last term our U.S. Supreme Court imposed almost impossible
+          <p xml:id="sc11-6_10136">Last term our U.S. Supreme Court imposed almost impossible
 standards governing the use of race-based remedies. That decision,
 coming out of Richmond, has some major implications for the South as
 well as the nation. Richmond, a city that is approximately 50 percent
@@ -1027,7 +993,7 @@ to minorities. Just as the City of Atlanta has attempted to do to
 insure that minorities would be able to participate in city
 contracts. Those plans were race-based because they were designed and
 specifically provided for blacks to participate in city contracts.</p>
-          <p id="sc11-6_10137">Does the use of race in those plans violate the constitutional
+          <p xml:id="sc11-6_10137">Does the use of race in those plans violate the constitutional
 rights of white Americans? In the <hi rend="italic">City of
 Richmond</hi> case Justice [Sandra Day] O'Connor said yes, unless
 Richmond (or any other city) demonstrates that the plans were designed
@@ -1035,29 +1001,29 @@ to provide remedies for specific victims or identified victims of
 discrimination. If that is to be the test we will get very few
 benefits from minority set-aside programs or affirmative action
 programs.</p>
-          <p id="sc11-6_10138">The Court said that Richmond will have to come forward with very
+          <p xml:id="sc11-6_10138">The Court said that Richmond will have to come forward with very
 stringent standards of proof that minorities had been deprived of
 benefits that were accorded by the cities and the states. What it did
 was to impose cost requirements such that Atlanta, for instance, now
 is spending over $500,000 trying to comply with this new requirement
 by demonstrating that slavery once existed and discrimination was once
 practiced in the United States.</p>
-          <p id="sc11-6_10139">
+          <p xml:id="sc11-6_10139">
             <hi rend="bold">What Happens If...?</hi>
           </p>
-          <p id="sc11-6_10140">And Richmond is not limited to set-aside programs or to affirmative
+          <p xml:id="sc11-6_10140">And Richmond is not limited to set-aside programs or to affirmative
 action programs. What happens in Louisiana if LSU or Southern
 University, pursuant to state directives, increase the college
 admission requirements and those increased requirements
 disproportionately exclude black students? Can LSU or Southern
 implement an affirmative action plan that will address this impact or
 would such efforts violate the Constitution?</p>
-          <p id="sc11-6_10142">What happens when the University of Mississippi, in providing
+          <p xml:id="sc11-6_10142">What happens when the University of Mississippi, in providing
 increased opportunities for minorities or the State of Mississippi
 with similar objectives, decides that black colleges can no longer be
 maintained? If it proceeded to desegregate by closing black colleges,
 would such prac-
-<pb id="sc11-6_10141" n="11"/>
+<pb xml:id="sc11-6_10141" n="11"/>
 tices violate the Constitution? What happens in the
 University of Mississippi or the University of Alabama if black
 students insisted on an African-American or an African studies
@@ -1065,7 +1031,7 @@ program? Would singling out race in those instances violate the
 Constitution? What happens when the NCAA decides to increase
 requirements for students to participate in intercollegiate sports?
 Does Proposition 42 or Proposition 48 violate the Constitution?</p>
-          <p id="sc11-6_10143">As presently interpreted each of these questions arguably would be
+          <p xml:id="sc11-6_10143">As presently interpreted each of these questions arguably would be
 answered against the interests of those who would ensure equal or
 effective black participation. The majority of the present Supreme
 Court could easily hold that race-based or set-aside programs pose an
@@ -1074,26 +1040,26 @@ then of trying to develop effective remedies that would insure fair
 and equal protection of minorities. Although we have <hi rend="italic">Brown v. Board of Education</hi> we would have new
 barriers that would perpetuate the same kind of practices we were
 trying to address before <hi rend="italic">Brown</hi>.</p>
-          <p id="sc11-6_10144">
+          <p xml:id="sc11-6_10144">
             <hi rend="italic">To Reach Private Discrimination</hi>
           </p>
-          <p id="sc11-6_10145">There is a further problem that is left open by <hi rend="italic">Brown</hi>: whether <hi rend="italic">Brown</hi> limits
+          <p xml:id="sc11-6_10145">There is a further problem that is left open by <hi rend="italic">Brown</hi>: whether <hi rend="italic">Brown</hi> limits
 discrimination by private entities.</p>
-          <p id="sc11-6_10146">Why is private discrimination important? Private discrimination
+          <p xml:id="sc11-6_10146">Why is private discrimination important? Private discrimination
 affects in increasing importance what happens in employment, housing,
 health care, education. Private education plays a vital and pervasive
 role in our society today. Not only is there a question of the reach
 of the Fourteenth Amendment, there is also the question of the ability
 of Congress to act under the Fourteenth Amendment to reach private
 conduct and practice.</p>
-          <p id="sc11-6_10147">Did Congress overreach by enacting Title II of the Civil Rights Act
+          <p xml:id="sc11-6_10147">Did Congress overreach by enacting Title II of the Civil Rights Act
 of 1964 prohibiting discrimination in places of public accommodation?
 Did Congress overact in 1964 when it enacted Title VII? If one looks
 at six of the decisions of the Supreme Court the past term
 interpreting Title VII of the Civil Rights Act of 1964 one begins to
 see a Court questioning how far Congress can reach in trying to
 protect individuals against private discrimination.</p>
-          <p id="sc11-6_10148">In 1971 the U.S. Supreme Court decided <hi rend="italic">Griggs
+          <p xml:id="sc11-6_10148">In 1971 the U.S. Supreme Court decided <hi rend="italic">Griggs
 v. Duke Power Co.</hi> that applied Title VII of the Civil Rights Act
 of 1964. The Court held that if an employer uses a practice which
 disproportionately affects blacks or minorities there is a burden of
@@ -1104,11 +1070,11 @@ job successfully. The burden of proof was on the employer. This year
 the U.S. Supreme Court held that it did not really mean what it said
 in 1971; rather it left the burden of proof of discrimination with the
 victim.</p>
-          <p id="sc11-6_10149">What the court in effect did was to change the cost for an
+          <p xml:id="sc11-6_10149">What the court in effect did was to change the cost for an
 individual litigating such a case in federal district court from
 $5,000 in 1987 to over $100,000 in 1989.</p>
-          <p id="sc11-6_10151">The Court also decided a case this term interpreting the 
-<pb id="sc11-6_10150" n="12"/>
+          <p xml:id="sc11-6_10151">The Court also decided a case this term interpreting the 
+<pb xml:id="sc11-6_10150" n="12"/>
 1866 Civil
 Rights Act which was designed to prohibit public and private
 discrimination. The Court said that the 1866 statute only prohibited
@@ -1116,17 +1082,17 @@ an employer from refusing to hire. Once the person was hired the
 employer could do what it wanted. A black person can now be hired,
 harassed, called names, and his or her life made unbearable with no
 legal protection under the Act.</p>
-          <p id="sc11-6_10152">But the present Court went further, holding that the 1866 Act not
+          <p xml:id="sc11-6_10152">But the present Court went further, holding that the 1866 Act not
 only provided no protection after one was hired but the act itself was
 of limited use in challenging practices by state or local
 governments.</p>
-          <p id="sc11-6_10153">In short, the U.S. Supreme Court in interpreting statutes that
+          <p xml:id="sc11-6_10153">In short, the U.S. Supreme Court in interpreting statutes that
 Congress had enacted to provide protection against private
 discrimination has proceeded to limit the reach of those statutes.</p>
-          <p id="sc11-6_10154">
+          <p xml:id="sc11-6_10154">
             <hi rend="bold">Extending Protection to the Poor</hi>
           </p>
-          <p id="sc11-6_10155">There is another issue that affects us today with regard to how the
+          <p xml:id="sc11-6_10155">There is another issue that affects us today with regard to how the
 Supreme Court has interpreted the equal protection and due process
 clauses. It has held that those clauses provide no protection against
 discrimination by a state against individuals because of their
@@ -1142,7 +1108,7 @@ educational opportunity for poor children--white or black--if these
 children are concentrated-segregated--in one school by economic
 status. At present, this kind of discrimination, based on economic
 status, does not violate the Constitution.</p>
-          <p id="sc11-6_10156">In Alexandria, Virginia, the city in developing its housing
+          <p xml:id="sc11-6_10156">In Alexandria, Virginia, the city in developing its housing
 practices provides no protection, or very limited protection, for poor
 people who cannot afford middle and upper income housing. In Boston,
 blacks have been run out of the city as whites, deciding to move back
@@ -1150,35 +1116,35 @@ in, have converted housing from low income to middle and upper
 income. Again, there is no protection for the poor. In Mississippi,
 black people are having difficulty in getting health care because the
 state provides limited protection for the poor.</p>
-          <p id="sc11-6_10157">[The Legal Defense Fund thinks] that there must be efforts to
+          <p xml:id="sc11-6_10157">[The Legal Defense Fund thinks] that there must be efforts to
 insure that poor people are trained and employed. We along with other
 groups are pressing the federal government when it gives out its
 contracts to Boeing or McDonnell Douglas to make these companies set
 aside a certain percentage of their contracts for training and
 employment in those facilities.</p>
-          <p id="sc11-6_10158">Is it possible to evolve principles today that would convince the
+          <p xml:id="sc11-6_10158">Is it possible to evolve principles today that would convince the
 Court that like race and, recently, gender, the poor are in need of
 protection under the Constitution?</p>
-          <p id="sc11-6_10159">Can we today, as in the 1930s, map strategies to convince a
+          <p xml:id="sc11-6_10159">Can we today, as in the 1930s, map strategies to convince a
 U.S. Supreme Court to extend protection to minority Americans and now
 to others who are disadvantaged and who have no protection under the
 Constitution?</p>
-          <p id="sc11-6_10161">It is the mission of the Legal Defense Fund to pursue just that
+          <p xml:id="sc11-6_10161">It is the mission of the Legal Defense Fund to pursue just that
 kind of effort. We believe that it is possible to use the courts, even
 in the 1990s, to achieve that kind of goal. We also believe that
 whatever interpretation is reached by the Court and whatever
 empowerment is won will 
-<pb id="sc11-6_10160" n="13"/>
+<pb xml:id="sc11-6_10160" n="13"/>
 come about through a collection of efforts and
 not just litigation alone.</p>
-          <p id="sc11-6_10162">David Garrow has written that he believes that the great advances
+          <p xml:id="sc11-6_10162">David Garrow has written that he believes that the great advances
 in civil rights were achieved almost exclusively by demonstrations and
 public protests. I believe that demonstrations and political efforts
 will go only so far. It was important in 1954 to have a standard set
 by the Court that would enable those who were engaged in
 demonstrations and those who were involved in the political process to
 help in effecting change.</p>
-          <p id="sc11-6_10163">As we look at the possibility of further interpretations of the
+          <p xml:id="sc11-6_10163">As we look at the possibility of further interpretations of the
 Constitution we have to engage those same factors in effecting the
 kinds of changes we would like. We are now drafting a bill that will
 address all of the decisions of the Supreme Court in civil rights in
@@ -1187,10 +1153,10 @@ VII of the Civil Rights Act of 1964 and in interpreting the 1866 Civil
 Rights Act that I have referred to. We are also drafting a bill that
 would reverse what the court has done in interpreting the Fourteenth
 Amendment in Richmond with the minority set-aside programs.</p>
-          <p id="sc11-6_10164">
+          <p xml:id="sc11-6_10164">
             <hi rend="italic">Using the Political Process</hi>
           </p>
-          <p id="sc11-6_10165">Whether Congress enacts those bills will depend on what you and I
+          <p xml:id="sc11-6_10165">Whether Congress enacts those bills will depend on what you and I
 do in using the political process for advancing and enhancing minority
 empowerment. If we do not convince the Congress to act we will have
 even fewer resources for effecting change in the future. The
@@ -1202,7 +1168,7 @@ responsive than the Congress of the 1930s and the 1940s. We have black
 mayors and now a black governor. We have black legislators. It is
 extremely important that we turn to them. We have the right to
 vote. It is important that we use it.</p>
-          <p id="sc11-6_10166">One of the things that I think we ought to all appreciate is that
+          <p xml:id="sc11-6_10166">One of the things that I think we ought to all appreciate is that
 there have been shifts in population since the 1980s and, according to
 a recent report by the Southern Regional Council that describes the
 potential impact of these shifts, perhaps as many as thirty to fifty
@@ -1212,7 +1178,7 @@ conservative congresspeople. It is incumbent that we try to work to
 limit the impact of those population shifts and insure that people are
 elected to office who believe in the type of agenda that we are
 talking about.</p>
-          <p id="sc11-6_10167">Here I might add that a number of organizations like the Legal
+          <p xml:id="sc11-6_10167">Here I might add that a number of organizations like the Legal
 Defense Fund and the Lawyer's Committee, the ACLU, the
 Mexican-American Legal Defense Fund, the Voting Rights Project of the
 SRC--just to name a few--are gearing up now to provide assistance in
@@ -1220,21 +1186,21 @@ litigation if redistricting plans are devised following the 1990
 census that unfairly dilute the voting strength of minorities. There
 are political efforts underway to deal with that issue and there are
 organizations capable of providing legal protection.</p>
-          <p id="sc11-6_10168">
+          <p xml:id="sc11-6_10168">
             <hi rend="italic">Facing the Dangers of the '90s</hi>
           </p>
-          <p id="sc11-6_10169">Over the years all of us have been involved in the struggle to
+          <p xml:id="sc11-6_10169">Over the years all of us have been involved in the struggle to
 effect change and to empower black Americans to improve their
 opportunities in this society. We have made some progress. In the '90s
 we face a much graver danger than we were trying to address in the
 1930s. A danger in terms of complacency. A danger in terms of people
 believing that they have done enough to help the disadvantaged.</p>
-          <p id="sc11-6_10170">But there is reason for optimism. I was never so impressed as in
+          <p xml:id="sc11-6_10170">But there is reason for optimism. I was never so impressed as in
 the past three months getting about the country to talk to people
 about the need for reversing what the Court has done. In my opinion
 there is a groundswell of reaction not only in the black community but
 across racial lines.</p>
-          <p id="sc11-6_10171">As we attempt to make progress toward a better society for all
+          <p xml:id="sc11-6_10171">As we attempt to make progress toward a better society for all
 Americans, the caution I would raise is this: we cannot limit that
 effort to race alone. We cannot ignore the plight of the poor. We
 cannot ignore the conditions of gays and lesbians. We cannot ignore
@@ -1243,8 +1209,8 @@ accommodate a diversity of groups. We are going to have a
 multicultural world in the coming years. We must expand the reach of
 equal protection to make sure that it is inclusive of all groups who
 seek equal participation in society.</p>
-          <div3 id="sc11-6_028" type="About">
-            <p id="sc11-6_10172">A former president of the Southern Regional Council and
+          <div3 xml:id="sc11-6_028" type="About">
+            <p xml:id="sc11-6_10172">A former president of the Southern Regional Council and
 one of the country's foremost civil rights attorneys, Julius Chambers
 has served since 1984 as director-counsel of the NAACP Legal Defense
 and Educational Fund in New Fork. Chambers's work in the Charlotte,
@@ -1258,4 +1224,4 @@ Changes</title> for March/April of 1985.</p>
       </div1>
     </body>
   </text>
-</TEI.2>
+</TEI>
