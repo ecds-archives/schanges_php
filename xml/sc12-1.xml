@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2 id="sc12-1_1204">
-  <teiHeader id="sc12-11201" type="text">
-    <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc12-1_1204">
+  <teiHeader xml:id="sc12-11201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 12, Number 1</title>
         <respStmt>
           <resp>Compiled and edited by</resp>
           <name>staff</name>
-        </respStmt>
+        <name/></respStmt>
       </titleStmt>
       <extent/>
       <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace>
-            <address>
+University</pubPlace><address>
           <addrLine>Atlanta,
 Georgia</addrLine>
-        </address>
-            <idno type="ark" n="sc12-1_002">http://pid.emory.edu/ark:/25593/14n2j</idno>
-            <idno type="ark" n="sc12-1_003">http://pid.emory.edu/ark:/25593/14n3p</idno>
-            <idno type="ark" n="sc12-1_004">http://pid.emory.edu/ark:/25593/14n4t</idno>
-            <idno type="ark" n="sc12-1_005">http://pid.emory.edu/ark:/25593/14n5z</idno>
-            <idno type="ark" n="sc12-1_006">http://pid.emory.edu/ark:/25593/14n63</idno>
-            <idno type="ark" n="sc12-1_008">http://pid.emory.edu/ark:/25593/14n77</idno>
-            <idno type="ark" n="sc12-1_009">http://pid.emory.edu/ark:/25593/14n8c</idno>
-            <availability>
-          <p id="sc12-1_101">1996 Emory
+        </address><idno type="ark" n="sc12-1_002">http://pid.emory.edu/ark:/25593/14n2j</idno><idno type="ark" n="sc12-1_003">http://pid.emory.edu/ark:/25593/14n3p</idno><idno type="ark" n="sc12-1_004">http://pid.emory.edu/ark:/25593/14n4t</idno><idno type="ark" n="sc12-1_005">http://pid.emory.edu/ark:/25593/14n5z</idno><idno type="ark" n="sc12-1_006">http://pid.emory.edu/ark:/25593/14n63</idno><idno type="ark" n="sc12-1_008">http://pid.emory.edu/ark:/25593/14n77</idno><idno type="ark" n="sc12-1_009">http://pid.emory.edu/ark:/25593/14n8c</idno><availability>
+          <p xml:id="sc12-1_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -36,53 +26,29 @@ University, Atlanta, Georgia 30322</p>
         <title>Southern Changes Digital Archive</title>
       </seriesStmt>
       <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date value="1990-01">January-February 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 1</biblScope>. <date when="1990-01">January-February 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
       </sourceDesc>
-    </fileDesc>
-    <encodingDesc><projectDesc>
-        <p id="sc12-1_102">This text is produced in conjunction with the
+    </fileDesc><encodingDesc><projectDesc>
+        <p xml:id="sc12-1_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
       </projectDesc>
             <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc>
-    <revisionDesc><change>
-        <date>1998</date>
-        <respStmt>
-          <name>Beck Center</name>
-          <resp>Staff</resp>
-        </respStmt>
-        <item>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</item>
-      </change><change>
-        <date>2007</date>
-        <respStmt>
-          <name>Alice Hickcox</name>
-          <resp>Electronic text specialist</resp>
-        </respStmt>
-        <item>text in div2/@n replaced with number</item>
-      </change>
-         <change><date>April 2008</date>
-            <respStmt>
-            <name>Alice Hickcox</name>
-                <resp>Electronic Text Specialist</resp>
-                </respStmt>
-            <item>idno elements containing ark identifiers added to publicationStmt.</item></change>
-        </revisionDesc>
-  </teiHeader>
-  <text id="sc12-1_1203">
-    <body id="sc12-1_1202">
-      <div1 id="sc12-1_001" n="Southern Changes 12:1" type="Issue">
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
+  <text xml:id="sc12-1_1203">
+    <body xml:id="sc12-1_1202">
+      <div1 xml:id="sc12-1_001" n="Southern Changes 12:1" type="Issue">
         <head>Southern Changes.  Volume 12, Number 1, 1990</head>
-        <p id="sc12-1_103"><title>Southern Changes</title>.  Volume 12, Number 1,
-	       <date value="1990-01">1990</date></p>
-        <div2 id="sc12-1_002" n="2" type="Article">
+        <p xml:id="sc12-1_103"><title>Southern Changes</title>.  Volume 12, Number 1,
+	       <date when="1990-01">1990</date></p>
+        <div2 xml:id="sc12-1_002" n="2" type="Article">
           <head>Five Decades of Activism</head>
-          <byline>By <docAuthor><name reg="Sullivan, Patricia" type="person">Patricia Sullivan</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Sullivan, Patricia</reg><sic>Patricia Sullivan</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 5-9</docDate>
           
-          <p id="sc12-1_104">"THE SOUTHERN MOVEMENT provided a permanent flame from which the
+          <p xml:id="sc12-1_104">"THE SOUTHERN MOVEMENT provided a permanent flame from which the
 rest of the nation could draw inspiration, light and heat. You were
 always there burning, percolating, in the dark sometimes, but going
 ahead, holding aloft even the smallest candle which ultimately became
@@ -93,7 +59,7 @@ anniversary of the founding of the Southern Conference for Human
 Welfare (SCHW), and the five decades of activism joined with SCHW by
 the Southern Conference Education Fund (SCEF) and the Southern
 Organizing Committee (SOC).</p>
-          <p id="sc12-1_105">Rev. Fred Shuttlesworth, Anne Braden, Modjeska Simkins, Virginia
+          <p xml:id="sc12-1_105">Rev. Fred Shuttlesworth, Anne Braden, Modjeska Simkins, Virginia
 Durr, Rev. Ben Chavis, Hollis Watkins, Bob Zellner, and Pete Seeger
 were among the anniversary participants--a collective testimony to the
 rich legacy of the Southern movement for racial and economic
@@ -105,7 +71,7 @@ a special opportunity to talk about the kinds of changes that have
 been set in motion over the past half century, and celebrate the
 victories, "even as we look at the walls that are still in front of
 us."</p>
-          <p id="sc12-1_106">WHEN THE SOUTHERN Conference for Human Welfare was founded in 1938,
+          <p xml:id="sc12-1_106">WHEN THE SOUTHERN Conference for Human Welfare was founded in 1938,
 it was "one of the most exaggerated expressions of change in the
 South," remembered one of its early members. The Depression and
 the New Deal had shaken people from decades of political apathy and
@@ -120,7 +86,7 @@ placed her chair in the center aisle of the racially divided
 auditorium. SCHW organizers vowed that all future meetings would be
 integrated. Southern moderates quickly withdrew and labeled the new
 organization subversive.</p>
-          <p id="sc12-1_107">The SCHW did challenge the structure of Southern society, a society
+          <p xml:id="sc12-1_107">The SCHW did challenge the structure of Southern society, a society
 based on disfranchisement laws and legalized white supremacy. From the
 beginning, SCHW organizers believed that economic and political
 democracy were essential to remedying "the nation's number one
@@ -137,12 +103,12 @@ black voters in the South increased dramatically. The Talmadges,
 Bilbos, Eastlands, and Byrnes led a growing resistance, but a
 sustained movement for social and political justice had taken hold in
 the South.</p>
-          <p id="sc12-1_109">In 1948 Clark Foreman, a founder and Executive Director of the
+          <p xml:id="sc12-1_109">In 1948 Clark Foreman, a founder and Executive Director of the
 SCHW, referred to the organization's first ten years as "The Decade
 of Hope." The McCarthy era followed; the Southern conservative
 attack on the Southern Conference movement was reinforced by the
 redbait-
-<pb id="sc12-1_108" n="6"/>
+<pb xml:id="sc12-1_108" n="6"/>
 ing politics of the Cold War. Born in the promise and activism
 of the New Deal era, the SCHW would not adapt to the conformist and
 exclusionary policies legitimized by President Truman's "loyalty"
@@ -157,10 +123,10 @@ demonstrated, however, that the fragile political coalition organized
 by the SCHW in the South could not survive an aggressive national Cold
 War consensus, and the organization quietly disbanded at the end of
 1948.</p>
-          <p id="sc12-1_1011">BUT THE SOUTHERN Conference Education Fund (SCEF), established as
+          <p xml:id="sc12-1_1011">BUT THE SOUTHERN Conference Education Fund (SCEF), established as
 the educational branch of the SCHW in 1946, continued. Under the
 leadership of Jim 
-<pb id="sc12-1_1010" n="7"/>
+<pb xml:id="sc12-1_1010" n="7"/>
 Dombrowski, SCEF concentrated on ridding the South
 of segregation as the essential first step in moving towards the
 economic and political goals advanced by the SCHW. SCEF aimed to build
@@ -176,9 +142,9 @@ Mississippi. In 1960, SNCC Field Secretary Bob Moses met Moore on his
 first foray into Mississippi; Moore became a crucial link between the
 student movement of the 1960s and a small but seasoned generation of
 Mississippi activists.</p>
-          <p id="sc12-1_1013">Jack O'Dell observed that Southern Conference activists had to
+          <p xml:id="sc12-1_1013">Jack O'Dell observed that Southern Conference activists had to
 "work our way around the Cold War and find 
-<pb id="sc12-1_1012" n="8"/>
+<pb xml:id="sc12-1_1012" n="8"/>
 our way back through
 Montgomery and the civil rights movement." During the 1960s,
 SCEF's history merged with the mass movement that broke through the
@@ -191,7 +157,7 @@ roots of movement history and bore witness to the fact that the
 struggle continues. Nostalgia was noticeably absent from this
 celebration. While there were several veterans of the early SCHW years
 in attendance, they seemed impatient to act on with it.</p>
-          <p id="sc12-1_1014">IN A BRIEF TRIBUTE to the enormous changes of the last half
+          <p xml:id="sc12-1_1014">IN A BRIEF TRIBUTE to the enormous changes of the last half
 century, ninety year-old Modjeska Simkins remembered the concentrated
 atmosphere of terror and violence that permeated Bull Connor's
 Birmingham, a city where the Klan worked openly with the Police
@@ -205,14 +171,14 @@ back. "We've been knocked back down the hill by a do-nothing
 president," she said, "and it looks like we're going to have
 four or eight more years of 'almost do nothin'. 'We got to fight all
 the way back up the hill."</p>
-          <p id="sc12-1_1015">Stetson Kennedy explained that many regional problems addressed by
+          <p xml:id="sc12-1_1015">Stetson Kennedy explained that many regional problems addressed by
 SCHW have become national in scope. He cited homelessness and
 widespread hunger, perhaps more prevalent now than during the
 1930s. Absentee ownership used to mean Wall Street; now we think of
 Tokyo. "Mr. Charlie is gone with the wind, but Mr. Yakamoto is on the
 way and we don't know where he stands except that he's anti-
 union."</p>
-          <p id="sc12-1_1016">Legalized segregation has been outlawed; now we have "desegregated
+          <p xml:id="sc12-1_1016">Legalized segregation has been outlawed; now we have "desegregated
 racism." "Back then, it used to be the Attorney General of Alabama
 or Mississippi or perhaps the Magistrate of Florida up before the
 Supreme Court arguing in favor of in justice and discrimination; but
@@ -225,12 +191,12 @@ results in "the American people voting over and over against
 themselves." The notorious Southern demagogues of the past have
 been replaced by a more sophisticated, polished variety saying "read
 my lips."</p>
-          <p id="sc12-1_1017">Community activists joined historians and students in workshops
+          <p xml:id="sc12-1_1017">Community activists joined historians and students in workshops
 during the second day of the meeting. Individual discussion groups on
 the economy, labor, women, culture, education, and militarism worked
 to define current issues within a fuller historical context, and build
 a common agenda for action in the 1990s.</p>
-          <p id="sc12-1_1018">IN THE "ECONOMY of the South" workshop, John Gaventa, of Highlander
+          <p xml:id="sc12-1_1018">IN THE "ECONOMY of the South" workshop, John Gaventa, of Highlander
 Center, sketched the cycles of economic development over the past
 fifty years. Gaventa explained that the ambitious War on Poverty of
 the 1960s and the well-publicized industrial transformation of the
@@ -247,7 +213,7 @@ street lights with them. During the 1980s, virtually no new jobs were
 created in rural communities; 60 percent of urban jobs are poverty
 level and offer no mobility. Job growth areas are affluent, white, and
 offer the best education systems.</p>
-          <p id="sc12-1_1019">WHILE THERE HAVE been dramatic changes in the South's economic
+          <p xml:id="sc12-1_1019">WHILE THERE HAVE been dramatic changes in the South's economic
 landscape during the last half century, they have been guided by the
 state's promotion of a "business climate" which allows for the
 mobility and unaccountability of capital. Barbara Taylor, Bob Hall,
@@ -261,17 +227,17 @@ addressed by the environmental movement. The vaginal cancer rate for
 African-American women in St. John the Baptist Parish is thirty times
 the national average; the lung cancer rate for African- American men
 in New Orleans is the highest in the world.</p>
-          <p id="sc12-1_1021">There was much discussion and disagreement about the complex array
+          <p xml:id="sc12-1_1021">There was much discussion and disagreement about the complex array
 of problems raised by the panelists. But there seemed to be general
 agreement that politics is the only way out. Now that all Southerners
 finally have the 
-<pb id="sc12-1_1020" n="9"/>
+<pb xml:id="sc12-1_1020" n="9"/>
 vote, it is possible to work towards the goal of
 economic democracy which guided the founding of SCHW a half century
 ago. Economic development, participants agreed, needs to be considered
 within the broad context of issues addressed in the other
 workshops.</p>
-          <p id="sc12-1_1022">In discussing the role of women in the South's progressive
+          <p xml:id="sc12-1_1022">In discussing the role of women in the South's progressive
 movement, panelists outlined a history of interrelationship of race,
 class, and gender, and suggested a broad context for the women's
 movement in the 1990s. Jewell Handy Gresham told how the abolitionist
@@ -290,7 +256,7 @@ movement to make a more conscious effort to incorporate working-class
 women and women of color into positions of leadership, and at the same
 time warned progressive activists that to dismiss the women's movement
 as an exclusively white middle class phenomenon.</p>
-          <p id="sc12-1_1023">WHILE LOOKING towards the future, participants sought to recover a
+          <p xml:id="sc12-1_1023">WHILE LOOKING towards the future, participants sought to recover a
 history that would illuminate the larger contours of the struggle for
 racial, economic and political justice. The workshop on racism
 identified historical amnesia as a major contributing factor to the
@@ -313,7 +279,7 @@ importance of reaching out to youth, and encouraging them towards
 their unique and vital potential was a central concern throughout the
 two day meeting, eloquently addressed by Brenda Davenport,
 Rev. Chavis, Representative Mabel Thomas, and others.</p>
-          <p id="sc12-1_1024">THE FINAL PROGRAM began with a candle-lighting ceremony honoring
+          <p xml:id="sc12-1_1024">THE FINAL PROGRAM began with a candle-lighting ceremony honoring
 the heroes and heroines of the Southern movement. Ossie Davis and the
 Children of Selma paid tribute to  Hosea Hudson, Joe Gelders, Mary
 Mcleod Bethune, Clark Foreman, Aubrey Williams, Modjeska Simkins, Ella
@@ -327,7 +293,7 @@ more. "With the help of God and struggle and leadership and song
 and living and burying and marching and singing we have come a long
 way toward helping this country define what its Constitution outlined
 way back in 1787," celebrated Ossie Davis.</p>
-          <p id="sc12-1_1025">And the struggle continues, was the refrain. The unfinished agenda
+          <p xml:id="sc12-1_1025">And the struggle continues, was the refrain. The unfinished agenda
 of the freedom movement has been redefined by the challenges and
 possibilities of the late twentieth century. What does equality mean
 in a society where adequate education, health care, and housing is
@@ -342,26 +308,26 @@ other groups and activists are building a strong link into an
 uncertain future. But the times, noted Jack O'Dell, make us mindful of
 Martin Luther King's admonition that "the arc of the universe is
 long and it bends towards justice."</p>
-          <div3 id="sc12-1_022" type="About">
-            <p id="sc12-1_1026">Patricia Sullivan is the assistant director of the Center
+          <div3 xml:id="sc12-1_022" type="About">
+            <p xml:id="sc12-1_1026">Patricia Sullivan is the assistant director of the Center
 for the Study of Civil Rights at the Carter G. Woodson Institute for
 Afro-American and African Studies, Charlottesville, Va.</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_003" n="3" type="Article">
+        <div2 xml:id="sc12-1_003" n="3" type="Article">
           <head>Slapping Together a Coalition. . . To Win Below the
 Mason-Dixon</head>
-          <byline>By <docAuthor><name reg="Staff">Staff</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate>
+          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 6-7</docDate>
           
-          <p id="sc12-1_1027">Virginia Durr: There's no sense trying to reform capitalism,
+          <p xml:id="sc12-1_1027">Virginia Durr: There's no sense trying to reform capitalism,
 because it can't be reformed any more than slavery could be
 reformed. It's a very bad system. You've got to realize that you have
 lost the power of your government. You do not own your government. It
 is owned by the people who have the money. And they pay the money
 because they have to get on television or else they can't get
 elected.</p>
-          <p id="sc12-1_1028">Now, you can complain, and you can talk about waste and you can
+          <p xml:id="sc12-1_1028">Now, you can complain, and you can talk about waste and you can
 talk about the Russians and you can talk about the Germans, but you
 can't do much unless you have the power of your government. Now, it's
 a democratic country, you've got the vote, you can control your
@@ -370,7 +336,7 @@ night. You have to form government clubs, voters clubs, you have to
 watch them, you have to write letters to them, you have to see what
 kind of devilment they're up to, you have to see who's slipping them
 money. To sit here and complain is just a pure waste of time.</p>
-          <p id="sc12-1_1029">We have a congressman [from Montgomery] who is paid by the military
+          <p xml:id="sc12-1_1029">We have a congressman [from Montgomery] who is paid by the military
 contractors. And we know how much he's paid. Now he gets on the TV
 every fifteen minutes; he gets elected every time because he's got the
 money. Now here we sit, black and white, and we might as well be
@@ -387,16 +353,16 @@ flowing down the Mississippi River. You have to control the government
 that controls the corporations. Unless you do that you're just wasting
 your time, and mine too. What possible solution have we been offered
 here, not any.</p>
-          <p id="sc12-1_1030">Rev. Andrew Turnipseed: I'll offer one.</p>
-          <p id="sc12-1_1031">Mrs. Durr: Pray?</p>
-          <p id="sc12-1_1032">Rev. Turnipseed: Well, no, I'll go beyond prayer.</p>
-          <p id="sc12-1_1033">Mrs. Durr: Thank God.</p>
-          <p id="sc12-1_1034">Rev. Turnipseed: We're all talking about politics...my name is
+          <p xml:id="sc12-1_1030">Rev. Andrew Turnipseed: I'll offer one.</p>
+          <p xml:id="sc12-1_1031">Mrs. Durr: Pray?</p>
+          <p xml:id="sc12-1_1032">Rev. Turnipseed: Well, no, I'll go beyond prayer.</p>
+          <p xml:id="sc12-1_1033">Mrs. Durr: Thank God.</p>
+          <p xml:id="sc12-1_1034">Rev. Turnipseed: We're all talking about politics...my name is
 Turnipseed, just like it sounds, TU-R-N-I-P-S double E-D</p>
-          <p id="sc12-1_1035">Mrs. Durr: He got thrown out of the church in Montgomery because he
+          <p xml:id="sc12-1_1035">Mrs. Durr: He got thrown out of the church in Montgomery because he
 let a black soldier in [during WWII]. So he gave up his life, his
 church...</p>
-          <p id="sc12-1_1036">Rev. Turnipseed: You're sweet to tell that. I'm seventy-eight years
+          <p xml:id="sc12-1_1036">Rev. Turnipseed: You're sweet to tell that. I'm seventy-eight years
 old. I never was too quick, and I'm less quick now. I think if you are
 going to get into politics, and that is the only place you can
 go...the only power in the world that can deal with the corporations
@@ -411,11 +377,11 @@ in the majority in the South. We've got to have a pool of white people
 who will collaborate with the black vote and have a composite
 vote. Now, where we gonna get those white people? We don't have to
 have a majority of the white people.</p>
-          <p id="sc12-1_1038">Now, I will digress to say that in the last four years we have
+          <p xml:id="sc12-1_1038">Now, I will digress to say that in the last four years we have
 elected a senator in Maryland, and a governor in Virginia just the
 other day, and a senator in North Carolina, a senator in Georgia, a
 senator in Florida, a senator in 
-<pb id="sc12-1_1037" n="7"/>
+<pb xml:id="sc12-1_1037" n="7"/>
 Alabama, and got one coming up here
 next year, and in Louisiana. I count five major offices. How did we do
 it? I say we because I played around with it in Alabama. We had a
@@ -424,7 +390,7 @@ of the white vote to slap together with that black vote, and you put
 'em in. And how did we do it? First of all, there's the labor
 movement. I know it's bow-legged and tired and run so far it needs to
 rest, but time to reassert itself. We need the labor movement.</p>
-          <p id="sc12-1_1039">Right here in Birmingham. The industries are gone, and you [John
+          <p xml:id="sc12-1_1039">Right here in Birmingham. The industries are gone, and you [John
 Gaventa] very brilliantly showed us why they left. All the heavy
 industries have gone abroad. We're left with a service economy, and
 I'm not an economist, just a country preacher. But I know the steel
@@ -438,8 +404,8 @@ all of the rape against the soil and our natural resources, we still
 have them....Now back to where I was on the coalitions. I said we need
 the labor movement. Some of you people here have had experience with
 the labor movement. . .</p>
-          <p id="sc12-1_1040">Mrs. Durr: and the women's movement</p>
-          <p id="sc12-1_1041">Rev. Turnipseed: All right, I'm gettin' to that. Just hold on. And
+          <p xml:id="sc12-1_1040">Mrs. Durr: and the women's movement</p>
+          <p xml:id="sc12-1_1041">Rev. Turnipseed: All right, I'm gettin' to that. Just hold on. And
 second of all...I've got to stand up. I preach better when I stand
 up...we need a block of school teachers, public school teachers. The
 public school system is absolutely being shot through with a
@@ -460,15 +426,15 @@ won't go because we live in the Black Belt and 90 percent of the
 students in those schools are black. And so my people pull up and go
 down the road five miles and have a private Christian school. Now
 then, those people are not gonna go with us ever.</p>
-          <p id="sc12-1_1042">But there are millions of white people below the Mason and Dixon
+          <p xml:id="sc12-1_1042">But there are millions of white people below the Mason and Dixon
 line who are white and have the same interests as your constituency
 has [Louisiana State Rep. Avery Alexander]. I understand you're in the
 legislature. They have the same interests. I know. I've lived here for
 three hundred years, and I'm just gettin' started. We've got to do
 this. And now, back to the ladies, that's the third element of this
 coalition . . .</p>
-          <p id="sc12-1_1043">Voice from the audience: the "women"</p>
-          <p id="sc12-1_1044">Rev. Turnipseed: Well, women. Whatever they are, they're my people
+          <p xml:id="sc12-1_1043">Voice from the audience: the "women"</p>
+          <p xml:id="sc12-1_1044">Rev. Turnipseed: Well, women. Whatever they are, they're my people
 and yours too. By the way everybody here had a mother. All
 right. There is discrimination. And everybody knows which party loves
 to discriminate against the ladies, or the women, or the females--I
@@ -477,29 +443,29 @@ talking about. If a woman does the same work as a man, and a man does
 the same work as a woman, is it right to pay one one level of pay and
 the other another? Is exploitation right wherever it's practiced? Of
 course not.</p>
-          <p id="sc12-1_1045">Well, I've already listed three levels of supply for this white
+          <p xml:id="sc12-1_1045">Well, I've already listed three levels of supply for this white
 coalition. Then, too, there are a few left, never have been too
 many--well, I hate to use the word intellectuals. I don't know what
 that is exactly. But add those harum-scarum intellectuals, put them
 with those other three elements, add them to the black base, and we
 can win any election we want to below the Mason-Dixon line.</p>
-          <div3 id="sc12-1_023" type="About">
-            <p id="sc12-1_1046">Edited comments of Virginia Durr and Rev. Andrew
+          <div3 xml:id="sc12-1_023" type="About">
+            <p xml:id="sc12-1_1046">Edited comments of Virginia Durr and Rev. Andrew
 Turnipseed at a workshop on the Economy of the South; Southern
 Conference 51st anniversary, Birmingham, Dec. 2, 1989; sponsored by
 the Southern Organizing Committee.</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_004" n="5" type="Review">
+        <div2 xml:id="sc12-1_004" n="5" type="Review">
           <head>An Imperfect Assessment of Movement Flank Actions.</head>
-          <byline>Reviewed by <docAuthor><name reg="Morgan, Mary Nell" type="person">Mary Nell Morgan</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Morgan, Mary Nell</reg><sic>Mary Nell Morgan</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 12-13</docDate>
           
           <bibl><title>Black
 Radicals and the Civil Rights Mainstream, 1954 1970</title> By Herbert
 H. Haines (Knoxville: University of Tennessee Press. 1988. 244
 pps. $24.95).</bibl>
-          <p id="sc12-1_1047">Herbert Haines's analysis in <title>Black Radicals and the
+          <p xml:id="sc12-1_1047">Herbert Haines's analysis in <title>Black Radicals and the
 Civil Rights Mainstream</title> challenges the popular notion that
 so-called radical blacks did more to harm than to help the civil
 rights movement during the activism of the late I950s and throughout
@@ -508,11 +474,11 @@ the 1960s. Haines examines external financial support, which he calls
 "exogenous income" are individuals, churches, labor unions,
 foundations, corporations, miscellaneous organizations (such as social
 and fraternal groups), and the government.</p>
-          <p id="sc12-1_1048">Using the concept of "radical flank effects," which he defines as
+          <p xml:id="sc12-1_1048">Using the concept of "radical flank effects," which he defines as
 the helpful or harmful consequence for moderates of radicals' actions,
 he argues that an increase in external financial support indicates
 helpful effects, while the converse indicates harmful effects.</p>
-          <p id="sc12-1_1049">"Radicalism" is a relative term. It is important to understand
+          <p xml:id="sc12-1_1049">"Radicalism" is a relative term. It is important to understand
 this, Haines insists, if one is to understand social movements by
 suppressed people. Any suggestion to change is likely to be considered
 radical. Indeed, the mainstream civil rights organizations of the
@@ -522,7 +488,7 @@ and this is the crux of his thesis, that it is precisely the emergence
 of radical alternatives which motivated white support of, rather than
 white backlash against, the so-called black moderates once themselves
 called radical.</p>
-          <p id="sc12-1_1050">Using seven civil rights organizations to form a continuum, moving
+          <p xml:id="sc12-1_1050">Using seven civil rights organizations to form a continuum, moving
 from left to right, moderate to radical, beginning with the National
 Urban League and ending with the most radical, the Student Non-Violent
 Coordinating Committee--with the National Association of Colored
@@ -532,7 +498,7 @@ Congress of Racial Equality in between in that order--Haines presents
 funding information for the years from 1952 to 1970. There are,
 however, numerous gaps in the income information and several areas of
 concern which, Haines admits, make his argument imperfect.</p>
-          <p id="sc12-1_1051">Fully 46 percent of the exogenous income is either estimated or
+          <p xml:id="sc12-1_1051">Fully 46 percent of the exogenous income is either estimated or
 missing: three pages of footnotes, in small print, are offered to
 explain this! Despite this data deficit, Haines proceeds with his
 argument. Observing that from 1957 there was a general increase in the
@@ -541,7 +507,7 @@ the level of exogenous income for the movement as a whole during the
 1960s," and a general decrease after 1965 for the more radical
 SNCC and CORF, Haines concludes that the radicals benefitted the
 treasuries of the moderates.</p>
-          <p id="sc12-1_1052">I focus on the financial question because it is, by far, the
+          <p xml:id="sc12-1_1052">I focus on the financial question because it is, by far, the
 dominant theme in Haines's argument. To a lesser extent, he looks at
 legislation enacted in response to actual and threatened violence by
 radical groups like the Black Muslims and the Black Panthers as a way
@@ -556,7 +522,7 @@ demands, such as integrated schools and protected black franchise,
 they are considered positive radical flank effects; an indication that
 when given the option between radical and moderate demands, government
 officials chose the later.</p>
-          <p id="sc12-1_1054">Another area of my concern is the question of how the continuum of
+          <p xml:id="sc12-1_1054">Another area of my concern is the question of how the continuum of
 organizations was selected. It is not clear how Haines decided which
 organizations to include. Very early in the introduction Haines states
 that the book's focus is on "...black protest in both its civil
@@ -569,9 +535,9 @@ among those for which he analyzes income. Given the apparent
 difficulty encountered in acquiring income information for most of the
 organizations studied, perhaps the absence of any reliable data of
 this kind for these groups led 
-<pb id="sc12-1_1053" n="13"/>
+<pb xml:id="sc12-1_1053" n="13"/>
 to their omission.</p>
-          <p id="sc12-1_1055">As a final concern, I register a complaint which I no longer regard
+          <p xml:id="sc12-1_1055">As a final concern, I register a complaint which I no longer regard
 as minor. It is particularly pertinent, because it is of an error
 which crops up over and over again. I refer to the account of the
 circumstances which led to Mrs. Rosa Parks's arrest. Haines states
@@ -587,7 +553,7 @@ to give her seat to a white male. She refused, saying she was tired
 from her day's toil. Upon refusing she turned her head and looked out
 the window, ignoring the threats of arrest. She was arrested and the
 Montgomery Bus Boycott followed.</p>
-          <p id="sc12-1_1056">The version of the incident given by Haines--and even the
+          <p xml:id="sc12-1_1056">The version of the incident given by Haines--and even the
 Rev. Jesse Jackson recently gave a similar account on the television
 program <hi rend="italic">A Different World</hi>--proliferates. Indeed,
 it seems to be emerging as a modern myth. Several of my students have
@@ -600,11 +566,11 @@ which sparked the activism of the modern civil rights movement. This
 is similar to saying that if one says that Columbus discovered America
 in 1492 that is not falsifying history, because indeed he did discover
 the Americas for Europe.</p>
-          <p id="sc12-1_1057">Despite the problems noted above, this book is worth reading. I
+          <p xml:id="sc12-1_1057">Despite the problems noted above, this book is worth reading. I
 especially recommend it to persons interested in the funding sources
 of the civil rights movement.</p>
-          <div3 id="sc12-1_024" type="About">
-            <p id="sc12-1_1058">Mary Nell Morgan, is associate professor of political
+          <div3 xml:id="sc12-1_024" type="About">
+            <p xml:id="sc12-1_1058">Mary Nell Morgan, is associate professor of political
 science at Xavier University of Louisiana, currently on leave to serve
 as visiting associate professor of American Studies at Skidmore
 College in Saratoga Springs New Fork. Early in her career, in the
@@ -612,45 +578,45 @@ mid-1970s, Dr. Morgan was a research assistant at the Southern
 Regional Council.</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_005" n="1" type="Article">
+        <div2 xml:id="sc12-1_005" n="1" type="Article">
           <head>Keeping The Faith On Abortion</head>
           <byline>
             <docAuthor>
-              <name reg="Ledbetter, Brownie" type="person">Brownie Ledbetter</name>
+              <name type="person"><choice><reg>Ledbetter, Brownie</reg><sic>Brownie Ledbetter</sic></choice></name>
             </docAuthor>
           </byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 1-4</docDate>
           
-          <p id="sc12-1_1059">The argument about abortion must develop into a substantive
+          <p xml:id="sc12-1_1059">The argument about abortion must develop into a substantive
 debate. We must deal with questions of morality, medical ethics,
 medical technology, health care, environment, economics, separation of
 church and state, individual rights, and women's rights, to name a
 few.</p>
-          <p id="sc12-1_1060">What decisions about life and death should we make now that we have
+          <p xml:id="sc12-1_1060">What decisions about life and death should we make now that we have
 choices we have never had before as a result of increased medical
 technology? Who should make them? Are the laws regulating such
 questions adequate protection for individual rights? for doctors? for
 hospitals? for family planning and abortion clinics? should we put
 limits on medical research? what about the effects of overpopulation
 on the environment?</p>
-          <p id="sc12-1_1061">Who pays for welfare, health care, and education of the increasing
+          <p xml:id="sc12-1_1061">Who pays for welfare, health care, and education of the increasing
 number of poor women and children in this country? in other
 countries?</p>
-          <p id="sc12-1_1062">If a fetus has civil rights does that include inheritance? Does
+          <p xml:id="sc12-1_1062">If a fetus has civil rights does that include inheritance? Does
 extending legal personhood to fetuses mean that women of childbearing
 age must be prohibited from any job that could endanger a fetus or a
 woman's right to become pregnant?</p>
-          <p id="sc12-1_1064">Issues relating to human sexuality in this country have become so
+          <p xml:id="sc12-1_1064">Issues relating to human sexuality in this country have become so
 complex and frustrating to many of us that we advocate single-issue
 solutions. We do this, generally, out of abysmal ignorance of the
 biological and social development of human life. We have allowed only
 minimal education on human development in our public schools and that
 little is way out of date now. It must be nonexistent in many
 sectarian schools. We are 
-<pb id="sc12-1_1063" n="2"/>
+<pb xml:id="sc12-1_1063" n="2"/>
 bemoaning the fact that few high school
 graduates know where Florida is. How many ever even heard of DNA?</p>
-          <p id="sc12-1_1065">But changes have come about awfully fast. I can remember when
+          <p xml:id="sc12-1_1065">But changes have come about awfully fast. I can remember when
 virginity was a requirement for marriage (for women only, of course),
 when movies could only show stars fully clad in separate beds, and
 even two-piece bathing suits covered most of women's bodies. And I'm
@@ -658,12 +624,12 @@ not even sixty yet! Now you take a person like me and jerk me up into
 the '80s and '90s with pornographic TV ads and movies in which stars
 have intercourse right there on the screen and you are talking major
 shock treatment.</p>
-          <p id="sc12-1_1066">Young folk have trouble coping with all this sexual activity as
+          <p xml:id="sc12-1_1066">Young folk have trouble coping with all this sexual activity as
 well. They need some support if they are going to be able to "just say
 no" when they believe none of their peers would and certainly very few
 adults do. Besides, all that stuff on TV looks pretty tempting. Kids
 do mirror our values, after all.</p>
-          <p id="sc12-1_1067">A lot of folk in my vintage-and younger-just figure we have to put
+          <p xml:id="sc12-1_1067">A lot of folk in my vintage-and younger-just figure we have to put
 our collective foot down. If we look for a nice simple reason for all
 of this "moral degradation," the 1973 Supreme Court decision
 protecting a woman's right to choose an abortion is a pretty good
@@ -674,7 +640,7 @@ by the media as if it were an objective description of the pro-choice
 movement. Well, if every woman would just stay home and teach these
 children the right moral values everything would be back to normal,
 right? Wrong.</p>
-          <p id="sc12-1_1068">Arguing over when life begins as a basis for solving this moral
+          <p xml:id="sc12-1_1068">Arguing over when life begins as a basis for solving this moral
 controversy is taking the issue out of context, the context being the
 welfare of the species, the planet, the creation and sustenance of all
 life forms. The context being the lives and relationships of human
@@ -687,15 +653,15 @@ family? What will be the new child's acceptance by the rest of the
 family if the mother's health is affected or if she dies in
 childbirth? What child would trade her or his mother for an unknown
 baby? What husband would trade his wife for a new child?</p>
-          <p id="sc12-1_1070">What is responsible about requiring a mother to complete a
+          <p xml:id="sc12-1_1070">What is responsible about requiring a mother to complete a
 pregnancy regardless of the health risk, or the economic risk, to the
 family in order to bring another life into being? Is that not
 potentially destructive to existing 
-<pb id="sc12-1_1069" n="3"/>
+<pb xml:id="sc12-1_1069" n="3"/>
 family relationships? And what if
 the mother is a single parent? Is there a clear moral answer to these
 concerns that fits every situation?</p>
-          <p id="sc12-1_1071">AND IF THE PREGNANT woman is single? Even irresponsible in her use
+          <p xml:id="sc12-1_1071">AND IF THE PREGNANT woman is single? Even irresponsible in her use
 of abortion after a carefree sexual encounter? Would she make a good
 mother to this unwanted child? Why is it more morally responsible for
 her to give birth to a child she does not want or is in no position to
@@ -703,11 +669,11 @@ raise responsibly? Is it that she should be punished by having to go
 through nine months of pregnancy? Is pregnancy a punishment? What
 respect does that attitude show for life? What does that do for the
 child?</p>
-          <p id="sc12-1_1072">What ever happened to the belief that one has no right to bring a
+          <p xml:id="sc12-1_1072">What ever happened to the belief that one has no right to bring a
 child onto this earth unless she <hi rend="italic">and he</hi> are committed to
 providing for the welfare and education of the child? Is that an
 immoral belief? I thought it was Judaic-Christian stewardship.</p>
-          <p id="sc12-1_1073">The furor over abortion has little to do with the welfare of
+          <p xml:id="sc12-1_1073">The furor over abortion has little to do with the welfare of
 babies, born or unborn. If it did we would spend more than a token
 amount on the welfare of children in this country so that we could
 bring them up to be the responsible citizens and leaders we need. If
@@ -720,34 +686,34 @@ decrease infant mortality, for an adequate national immunization
 program. for identifying and treating child abuse, for accessible and
 medically safe birth control, and above all, for increasing funding
 for public education and health care.</p>
-          <p id="sc12-1_1074">Unfortunately, they are joined by many other American voters who
+          <p xml:id="sc12-1_1074">Unfortunately, they are joined by many other American voters who
 appear to have little sense of responsibility for the welfare of
 children other than their own...especially if it means paying more
 taxes.</p>
-          <p id="sc12-1_1075">There is an area of agreement even among the more vocal and
+          <p xml:id="sc12-1_1075">There is an area of agreement even among the more vocal and
 polarized movements. We would all like to see an enormous decrease in
 the incidence of abortion. But here again there is conflict in how
 that goal should be reached.</p>
-          <p id="sc12-1_1076">Pro-choice groups believe that could be accomplished by increasing
+          <p xml:id="sc12-1_1076">Pro-choice groups believe that could be accomplished by increasing
 the use of medically safe birth control methods and education about
 the reproductive process and responsible sexual behavior. Anti-choice
 groups, believing those methods to be an inducement to increasing
 sexual activity, advocate abstinence enforced by law and outlawing
 birth control as well as abortion to accomplish that goal.</p>
-          <p id="sc12-1_1077">I believe the rhetoric about unborn babies is yet another way to
+          <p xml:id="sc12-1_1077">I believe the rhetoric about unborn babies is yet another way to
 exploit children, to tug on our emotional reaction to perfectly formed
 and adorable little babies (usually white) for other purposes. If we
 can use babies to sell everything from soap to long distance telephone
 service, why not?</p>
-          <p id="sc12-1_1078">For some this tearful rhetoric about unborn babies is a way of
+          <p xml:id="sc12-1_1078">For some this tearful rhetoric about unborn babies is a way of
 avoiding the tough new choices we can make about life and death rather
 than being able to dismiss them as "God's will." For others it is a
 way of punishing those who sin. For still others it is simply a way of
 resisting change. For many it is a method for re-establishing a more
 subservient position of women, a way of stopping the increasing
 independence of women.</p>
-          <p id="sc12-1_1080">And where are the churches on this 
-<pb id="sc12-1_1079" n="4"/>
+          <p xml:id="sc12-1_1080">And where are the churches on this 
+<pb xml:id="sc12-1_1079" n="4"/>
 moral question? Protecting their
 institutions, whatever their doctrine. That appears to be the one
 common denominator among our diverse religions. The linchpin of the
@@ -762,7 +728,7 @@ non-religious citizens?...They are silent. Even those religious
 leaders who represent a faith with long-held positions of support for
 the separation of church and state are silent, or outvoted by newly
 organized voices as in the Southern Baptist Convention.</p>
-          <p id="sc12-1_1081">That is not to say that there are not groups of religious clergy,
+          <p xml:id="sc12-1_1081">That is not to say that there are not groups of religious clergy,
 laywomen and men within many faiths who are trying to speak
 responsibly to these issues. There are many traditional women's
 organizations within a variety of religious institutions across
@@ -770,7 +736,7 @@ religious faith groups struggling as catalysts within their
 institutions-all of which arc male-dominated. But rarely are they
 heard by the general public because they are not the established
 leadership.</p>
-          <p id="sc12-1_1082">I have always believed that religious faith is a very private and
+          <p xml:id="sc12-1_1082">I have always believed that religious faith is a very private and
 personal matter and although it is the basis of my moral value system
 and I see it as the reason for my work as an activist, I do not feel
 comfortable articulating my faith in secular settings, or to
@@ -778,7 +744,7 @@ religiously diverse groups unless it is the stated topic for
 dialogue. However, since so much of the debate on abortion is
 characterized as "religious" I may be wrong about
 that.</p>
-          <p id="sc12-1_1083">Probably my own reluctance is a mirror of the unbelievable
+          <p xml:id="sc12-1_1083">Probably my own reluctance is a mirror of the unbelievable
 reluctance and inaction of religious institutions like my own who
 claim to be "mainstream" and yet allow absolutist
 groups to speak for Christianity as if there were no other Christian
@@ -790,10 +756,10 @@ denominations has motivated the current efforts of mainstream
 denominations to work towards some sort of vague coming together. It
 also may have something to do with the fact that we are losing
 membership.</p>
-          <p id="sc12-1_1084">THE RELIGIOUS RIGHT has every right to speak for their position,
+          <p xml:id="sc12-1_1084">THE RELIGIOUS RIGHT has every right to speak for their position,
 but so does the rest of Christendom-not only the right, hut the
 responsibility.</p>
-          <p id="sc12-1_1085">The culture in which we exist in this world and the circumstance of
+          <p xml:id="sc12-1_1085">The culture in which we exist in this world and the circumstance of
 our lives have such enormous bearing on our religious preferences that
 I have always believed separation of the church and state to be the
 only way we can coexist. It is also the only way of avoiding religious
@@ -802,7 +768,7 @@ are clearly blasphemous in that any group who claims to be defending
 the only religious truth is pretending to be God. That kind of
 arrogance must feed the very devil that they are so busy
 personifying.</p>
-          <p id="sc12-1_1086">Human life cycles are longer than those of many of God's creatures,
+          <p xml:id="sc12-1_1086">Human life cycles are longer than those of many of God's creatures,
 and we have perhaps more ways to affect life and death, but we are
 still within the constraints of mortality, just like all other living
 things. Human life gets renewed just like all other forms of life. We
@@ -812,20 +778,20 @@ superior to other forms of life we believe to have been created and
 sustained by God seems to me to be the height of arrogance. Maybe that
 is our "original sin." It is surely a part of our
 self-centeredness.</p>
-          <p id="sc12-1_1087">Most human religions advocate some level of responsibility for or
+          <p xml:id="sc12-1_1087">Most human religions advocate some level of responsibility for or
 toward other living things. We humans are finally beginning to be
 concerned about our environment. But until we realize that we arc only
 one of the many forms of life created by God with considerably greater
 options in our reproductive processes than other creatures, and learn
 to use those options in more morally responsible ways, we are
 incredibly poor stewards of life.</p>
-          <p id="sc12-1_1088">We Christians should speak out with different perspectives, as
+          <p xml:id="sc12-1_1088">We Christians should speak out with different perspectives, as
 citizens who have honest disagreements. Instead we swallow our
 commitment to our own beliefs. We try to reconcile ourselves in some
 way with those of our faith who want to enforce their particular
 religious beliefs in secular law and thereby separating the goats from
 the sheep as if we had that kind of authority.</p>
-          <p id="sc12-1_1089">After all, the pro-choice movement does not advocate laws forcing
+          <p xml:id="sc12-1_1089">After all, the pro-choice movement does not advocate laws forcing
 women to have abortions. But what is being advocated by the
 anti-choice movement is forcing women to complete a pregnancy
 regardless of the circumstances that brought about that pregnancy, her
@@ -835,31 +801,31 @@ as they should be, to practice their belief within current legal
 requirements. Why should they force those of us who do not share their
 belief to conform to their absolutism? We advocate personal private
 choice, not abortion.</p>
-          <p id="sc12-1_1090">Dialogue among religious faiths and denominations is vital and it
+          <p xml:id="sc12-1_1090">Dialogue among religious faiths and denominations is vital and it
 can solve a lot of conflicts. Heaven must know that we Protestants
 have a proclivity for starting a new denomination over the silliest
 disagreements. But at some point judgments must be made, not
 postponed, in the name of avoiding conflict. Often that strategy only
 prolongs and exacerbates the conflict. l he public welfare is at
 stake. Prolonging the debate has become destructive.</p>
-          <p id="sc12-1_1091">Somebody has to call for the question. I so move. </p>
-          <div3 id="sc12-1_025" type="About">
-            <p id="sc12-1_1092">Brownie Ledbetter is a Presbyterian elder in Little Rock,
+          <p xml:id="sc12-1_1091">Somebody has to call for the question. I so move. </p>
+          <div3 xml:id="sc12-1_025" type="About">
+            <p xml:id="sc12-1_1092">Brownie Ledbetter is a Presbyterian elder in Little Rock,
 Arkansas' and a longtime civil rights activist.</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_006" n="6" type="Review">
+        <div2 xml:id="sc12-1_006" n="6" type="Review">
           <head>Collusion Between Worker and Power Structure.</head>
-          <byline>Reviewed by <docAuthor><name reg="Kravitz, Linda" type="person">Linda Kravitz</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate>
+          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Kravitz, Linda</reg><sic>Linda Kravitz</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 13-15</docDate>
           
           <bibl><title>Habits of
 Industry: White Culture and the Transformation of the Carolina
 Piedmont.</title> By Allen Tullos (Chapel Hill: University of North
 Carolina Press. 1989. 419 pp. $34.95; $12.95 paper.).</bibl>
-          <p id="sc12-1_1093">In the late 1920s, to attract manufacturers to the Piedmont region
+          <p xml:id="sc12-1_1093">In the late 1920s, to attract manufacturers to the Piedmont region
 of the Carolinas, Duke Power Company advertised:</p>
-          <p id="sc12-1_1094">
+          <p xml:id="sc12-1_1094">
             <q>
               <hi rend="italic">A population marked by racial purity and unusually
 high character.... Willing labor, unhampered by any artificial
@@ -867,13 +833,13 @@ restrictions on outputs native born of old pioneer stock and not
 imbued by un-American ideas or ideals.</hi>
             </q>
           </p>
-          <p id="sc12-1_1096">The message of
+          <p xml:id="sc12-1_1096">The message of
 many such ads quoted by Allen Tullos was that Piedmont workers were
 white and would work long hours for little pay, acquiesce in
 increasing productivity demands, and resist unionization. In this
 engaging and provocative book, Tullos explores the remarkable regional
 culture supporting these corporate "habits of Industry," 
-<pb id="sc12-1_1095" n="14"/>
+<pb xml:id="sc12-1_1095" n="14"/>
 which he sees
 as feeding upon the traditional "habits of industry" Piedmont
 people. He traces their painful "shift from farm to factory, the
@@ -881,14 +847,14 @@ transition from folk to working class," through his own
 encompassing analysis of the times and through the histories of
 individual families representing industry's owners and industry's
 workers.</p>
-          <p id="sc12-1_1097">The family histories, whether of the powerful or the poor, are
+          <p xml:id="sc12-1_1097">The family histories, whether of the powerful or the poor, are
 imbued with values stemming from Scotch-Irish, English, or German
 ancestries, and Calvinist, Methodist, or Baptist upbringings.</p>
-          <p id="sc12-1_1098">Faith in authoritarian paternalism and the holiness of work shaped
+          <p xml:id="sc12-1_1098">Faith in authoritarian paternalism and the holiness of work shaped
 individual social growth; together they produced remarkable collusion
 among all economic classes in support of the power structure of the
 textile industry and its demands for productivity.</p>
-          <p id="sc12-1_1099">Acceleration of such demands did bring about labor unrest and
+          <p xml:id="sc12-1_1099">Acceleration of such demands did bring about labor unrest and
 strikes, particularly in the 1920s and 1930s, but efforts at
 unionization were consistently crushed by factory owners, often with
 the cooperation of "the highest officials of state government and
@@ -897,17 +863,17 @@ turned mill workers often saw the union as 'foreign' to their
 experience, as un-American and atheistic, and as a threat to customary
 work arrangements and familial as well as paternalistic ties of
 employment."</p>
-          <p id="sc12-1_10100">The familial and paternalistic ties of employment could not have
+          <p xml:id="sc12-1_10100">The familial and paternalistic ties of employment could not have
 been more direct. At its most elementary, the family supplied
 workers. Its vital role in doing so did not escape the regional
 promoters, whose ads proclaimed: "The birth rate of the Carolinas
 is the highest in the United States. Already a second generation of
 textile workers has come along, and in many older textile centers a
 third generation has grown up."</p>
-          <p id="sc12-1_10101">Secondly, as one interviewee noted, "A man will think a long
+          <p xml:id="sc12-1_10101">Secondly, as one interviewee noted, "A man will think a long
 time before he'll speak out when he's got nine little children about
 his knees."</p>
-          <p id="sc12-1_10102">Third, and perhaps most essential to the character of Piedmont
+          <p xml:id="sc12-1_10102">Third, and perhaps most essential to the character of Piedmont
 industry, entire families, including those of all ages and genders,
 worked for individual employers. As Tullos explains, until the 1930s,
 a "family wage" commonly meant that children and adults all had to
@@ -920,7 +886,7 @@ child, "you was under your parents." Fathers ruled both roost
 and workplace. "To the child, religion, stoic discipline, fatherly
 authority, and the mill hierarchy seemed to be cut from the same
 cloth."</p>
-          <p id="sc12-1_10103">Tullos alternates voices of the Piedmont industry's captains, all
+          <p xml:id="sc12-1_10103">Tullos alternates voices of the Piedmont industry's captains, all
 white males, with those of its labor force, primarily white women. As
 he follows their family histories, the captains, including the tobacco
 mogul James Buchanan "Buck" Duke (founder of Duke Power Co. and Duke
@@ -932,7 +898,7 @@ bear few surprises, little self-questioning or deviation from
 promotion of industry. Witness the refrain of John Belk, heir to the
 Belk fortune, who sums up his view on the habits of industry: "Man
 is a working animal."</p>
-          <p id="sc12-1_10104">In this whole book, the only real exception to the untroubled tales
+          <p xml:id="sc12-1_10104">In this whole book, the only real exception to the untroubled tales
 of the upwardly mobile is the sad story of D.W. League, a weave-room
 overseer who in 1928 sacrificed his job at Poe Mill in a "stand of
 Christian conscience" against increased workloads for his weavers,
@@ -944,7 +910,7 @@ wanted to get quiet. He worried himself to death." Said another,
 about. People were not given the consideration that they had been
 before. You were pushed as a worker...More looms, more than you could
 run."</p>
-          <p id="sc12-1_10105">It is the tales of the workers which are the life of the
+          <p xml:id="sc12-1_10105">It is the tales of the workers which are the life of the
 book. Typically, their families were sharecroppers or yeomanry
 displaced by the agricultural collapse of the late nineteenth
 century. Tullos gives their present-day accounts in their own words,
@@ -955,14 +921,14 @@ allowed them to make a meager living, also brought them much
 suffering. They impress us with the vulnerability of people with
 desperately immediate needs to jobs whose benefits are so low as to
 guarantee that those needs are perpetuated.</p>
-          <p id="sc12-1_10106">Upon the retirement of Icy Norman, for forty-seven years a yarn
+          <p xml:id="sc12-1_10106">Upon the retirement of Icy Norman, for forty-seven years a yarn
 winder for Burlington Mills, company officials lauded and publicized
 her as its "oldest hand." She was royally taken to dinner by "big
 shots" from the New York office, who told her that "if you ever
 come to New York...you will have a welcome mat." She recalled that
 "I really enjoyed it" and later "Every time I go back up
 there [to the factory] I feel like I'm going back home."</p>
-          <p id="sc12-1_10108">But in the same interview, she also related how she was forced to
+          <p xml:id="sc12-1_10108">But in the same interview, she also related how she was forced to
 retire before she could benefit from a new profit-sharing plan. "I
 said, 'Just let me work one more year. . .Then I could have my debts
 paid off.' The man says, 'I wish we could.' That kind of hurt me...I
@@ -970,35 +936,35 @@ could really have used that money [$12,500]. I felt like if anybody
 was entitled to it, I was, because I put my whole life there. My young
 life, and I growed up there. I feel like I was part in the making of
 Burlington Industries, because I come there 
-<pb id="sc12-1_10107" n="15"/>
+<pb xml:id="sc12-1_10107" n="15"/>
 and stayed with them. I
 went with them through thick and thin."</p>
-          <p id="sc12-1_10109">Ethel Hilliard, another long-time employee of Burlington, related
+          <p xml:id="sc12-1_10109">Ethel Hilliard, another long-time employee of Burlington, related
 how the mill hired two of her children before they were sixteen [the
 legal age] because "they knowed we needed work." Her son
 "oiled that machinery and climbed over them looms. I thought about
 that a lot of times. I don't reckon they really wanted to work a child
 like that, but they just done it to help out, I reckon. I know it was
 dangerous for him to be up there."</p>
-          <p id="sc12-1_10110">Ultimately, Ethel Hilliard felt, "They was good to me at the
+          <p xml:id="sc12-1_10110">Ultimately, Ethel Hilliard felt, "They was good to me at the
 Burlington Mill." Mother of ten children, with an unemployed
 husband, she was most grateful that "They'd always take me
 back. I'd stop when a baby was going to be born, and then when they
 got old enough, I'd go back. Usually I'd stay out a couple of
 months."</p>
-          <p id="sc12-1_10111">These workers were naturally wary of unions. Wariness approached
+          <p xml:id="sc12-1_10111">These workers were naturally wary of unions. Wariness approached
 fear in Bessie Buchanan, who in the early 1940s had witnessed a strike
 at Durham's Erwin Mill. She believed she had barely escaped the union
 due to "a vision that the Lord gave me." She had a dream about
 Nazis, who also resembled Old Testament persecutors, who tried to
 force her to join the union. In her dream, her faith as she walked a
 gauntlet convinced the unionizers to free her.</p>
-          <p id="sc12-1_10112">The workers' stories are not all dreary. Ethel Hilliard's
+          <p xml:id="sc12-1_10112">The workers' stories are not all dreary. Ethel Hilliard's
 irrepressible account of her childhood, her mother's healing talent
 and herbal remedies, and her marriage is alone worth the purchase of
 this book. Ethel also enjoyed her work, "scalloping bedspreads," which
 she felt was her "talent."</p>
-          <p id="sc12-1_10113">These stories tell us that in the Piedmont any challenge to the
+          <p xml:id="sc12-1_10113">These stories tell us that in the Piedmont any challenge to the
 workplace would have been a challenge to an entire culture. The
 Piedmont's "habits of Industry" were reinforced by family, church, and
 workplace and, as Tullos documents, by the education system, from the
@@ -1008,10 +974,10 @@ in Social Science, established by Howard Odum (SRC's first president)
 as a laboratory for regional sociological investigation. "With a
 bit of hammering out by Odum, the habits of Industry appeared as
 inevitable, manifest, progressive."</p>
-          <p id="sc12-1_10114">Finally, "In time, Industry's assurance of having its way and of
+          <p xml:id="sc12-1_10114">Finally, "In time, Industry's assurance of having its way and of
 having it publicly confirmed became one of the Piedmont's, and the
 South's most secure habits."</p>
-          <p id="sc12-1_10115"><title>Habits of Industry</title> would be an excellent text
+          <p xml:id="sc12-1_10115"><title>Habits of Industry</title> would be an excellent text
 for students of labor history. It is challenging reading for any who
 wonder how it came about that in this country so many people would
 work so hard, over so many generations, so profitably for others, and
@@ -1019,8 +985,8 @@ for wages so low that their incomes would never rise above the poverty
 line. And it is graceful, enjoyable reading for those who may simply
 be intrigued by the rich, albeit perverse, culture of the Carolina
 Piedmont.</p>
-          <div3 id="sc12-1_026" type="About">
-            <p id="sc12-1_10116">Linda Kravitz has recently resigned as research director
+          <div3 xml:id="sc12-1_026" type="About">
+            <p xml:id="sc12-1_10116">Linda Kravitz has recently resigned as research director
 of the Housing Assistance Council. She is immediate past chair of the
 National Council of Agricultural Life and Labor. In her undergraduate
 days she worked a summer at the Council. She is co-author of the Other
@@ -1028,16 +994,16 @@ Housing Crisis, published by HAC and the Center on Policy and Policy
 Priorities, 1989.</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_008" n="4" type="Article">
+        <div2 xml:id="sc12-1_008" n="4" type="Article">
           <head>Angela Davis: 'Rekindle the Flame'</head>
-          <byline>By <docAuthor><name reg="Davenport, Elaine" type="person">Elaine Davenport</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Davenport, Elaine</reg><sic>Elaine Davenport</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 10-11</docDate>
           
-          <p id="sc12-1_10117">Angela Davis, one of America's best known activists of the 1960s
+          <p xml:id="sc12-1_10117">Angela Davis, one of America's best known activists of the 1960s
 and 1970s, encouraged an overflow crowd in Austin, Texas, on Martin
 Luther King Day to renew a commitment to activism in the 1990s--to
 "rekindle the flame."</p>
-          <p id="sc12-1_10118">In 1972 Davis was acquitted of charges of murder and conspiracy
+          <p xml:id="sc12-1_10118">In 1972 Davis was acquitted of charges of murder and conspiracy
 stemming from a shootout involving Black Panther prisoners at a
 courthouse in San Rafael California. She emerged as a symbol of the
 American left and became a popular speaker at rallies and a lobbyist
@@ -1073,7 +1039,7 @@ said. This brought a large number of people to their feet, based
 perhaps on the longstanding conflict at the University of Texas over
 upgrading the African and Afro-American Studies and Research Center
 into a bonafide department.</item></list></p>
-          <p id="sc12-1_10119">The crowd of more than 3,000 overflowed the Performing Arts Center
+          <p xml:id="sc12-1_10119">The crowd of more than 3,000 overflowed the Performing Arts Center
 at the University of Texas. The PAC is often filled with
 <sic>with</sic> mostly white audiences attending the symphony, ballet
 or opera. But the atmosphere on this occasion resembled that of a
@@ -1083,10 +1049,10 @@ University of Texas, who was heckled because of the university's South
 African policy, and a dramatic interpretation by Miss Black
 Austin. The group also participated in singing "Lift Every Voice and
 Sing."</p>
-          <p id="sc12-1_10120">Davis, a polished orator, spoke slowly and rhythmically, often
+          <p xml:id="sc12-1_10120">Davis, a polished orator, spoke slowly and rhythmically, often
 repeating her last few words or last phrase as members of the audience
 began to shorthand clap.</p>
-          <p id="sc12-1_10122">Her list of crises facing blacks and other Americans
+          <p xml:id="sc12-1_10122">Her list of crises facing blacks and other Americans
 	       was long:
 <list><item>"Drugs, prison and violence are a murderous cycle for our
 young black people," she said. "We're talking about a genocidal
@@ -1094,14 +1060,14 @@ situation in this country." With homicide the leading cause of
 death for black men and women ages fifteen to thirty-four, blacks
 making up 44 percent of the murder victims in the country, with the
 majority of those 
-<pb id="sc12-1_10121" n="11"/>
+<pb xml:id="sc12-1_10121" n="11"/>
 with AIDS black, and with large numbers of black men
 permanently unemployed, "is it hard to understand why they drift to
 drugs?"</item><item>"The U.S. government is solidly on the side of
 apartheid," she said. If the United States had asked for total
 economic sanctions against South Africa ten years ago, apartheid would
 no longer exist.</item></list></p>
-          <p id="sc12-1_10123">Davis reminded the audience that by circulating petitions, marching
+          <p xml:id="sc12-1_10123">Davis reminded the audience that by circulating petitions, marching
 and writing to elected representatives, they had achieved a national
 holiday honoring Martin Luther King. "This national holiday is a
 living example of the possibility of our activism. We are living in
@@ -1116,12 +1082,12 @@ King soon realized it had economic roots. In 1990, the
 interconnectedness of all the issues is much more pronounced than
 before. It is no longer possible to separate all the struggles. We're
 all in this together."</p>
-          <p id="sc12-1_10124">One tactic she suggested was to occupy Washington, D.C. "Prepare
+          <p xml:id="sc12-1_10124">One tactic she suggested was to occupy Washington, D.C. "Prepare
 to stay there and force the government to negotiate with us."
 There is a revolutionary spirit all around the world, she said. "If
 they can rise up in Eastern Europe, then so can we."</p>
-          <div3 id="sc12-1_028" type="About">
-            <p id="sc12-1_10125">Elaine Davenport is a Southern Changes contributing
+          <div3 xml:id="sc12-1_028" type="About">
+            <p xml:id="sc12-1_10125">Elaine Davenport is a Southern Changes contributing
 editor. She lives in Austin, Texas. Angela Davis currently teaches
 courses in philosophy, aesthetics and women's studies at San Francisco
 State University and the San Francisco Art Institute. Angela Davis: An
@@ -1131,85 +1097,85 @@ written Women, Race and Class (Random House, 1982); her latest book is
 1989).</p>
           </div3>
         </div2>
-        <div2 id="sc12-1_009" n="7" type="Article">
+        <div2 xml:id="sc12-1_009" n="7" type="Article">
           <head>The Cold Hard Truth</head>
-          <byline>By <docAuthor><name reg="Chestnust, J.L., Jr." type="person">J.L. Chestnut, Jr.</name></docAuthor></byline>
-          <docDate value="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Chestnust, J.L., Jr.</reg><sic>J.L. Chestnut, Jr.</sic></choice></name></docAuthor></byline>
+          <docDate when="1990-01">Vol. 12, No. 1, 1990, pp. 16, 15</docDate>
           
-          <p id="sc12-1_10126">Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
+          <p xml:id="sc12-1_10126">Herbert O. Reid, Sr., (Herb) is attorney for the Washington, D.C.,
 municipal government and personal lawyer and advisor to Marion Barry,
 the embattled and dishonored mayor of the nation's capitol city. Herb
 taught me criminal law at Howard University in Washington and
 subsequently taught Bruce Boynton and Governor Doug Wilder, whose
 class followed mine.</p>
-          <p id="sc12-1_10127">At Herb's invitation I often return to Howard to lecture and judge
+          <p xml:id="sc12-1_10127">At Herb's invitation I often return to Howard to lecture and judge
 students in moot court competition. I cannot be certain if I first met
 Barry in Herb's office or in Walter Fauntroy's church office, but I
 have known and liked Barry for a decade.</p>
-          <p id="sc12-1_10128">I did not know Barry when he was with the Student Nonviolent
+          <p xml:id="sc12-1_10128">I did not know Barry when he was with the Student Nonviolent
 Coordinating Committee (SNCC) during the 1960s. Jim Forman, Bernard
 Lafayette, Julian Bond, John Lewis and Worth Long were in my office
 almost daily. Barry was here, but I don't remember him. He remembers
 me.</p>
-          <p id="sc12-1_10129">Julian Bond, who moved to Washington after very serious personal
+          <p xml:id="sc12-1_10129">Julian Bond, who moved to Washington after very serious personal
 problems in Atlanta, ran into Vivian and me last summer at the New
 Orleans Jazz Festival and we talked about mutual friends. Julian said,
 "Marion has lost all sense of reality. I couldn't believe what he
 said over his telephone and he knows it has to be tapped by the
 feds."</p>
-          <p id="sc12-1_10130">Julian had no need to detail what Barry said on the telephone. I
+          <p xml:id="sc12-1_10130">Julian had no need to detail what Barry said on the telephone. I
 knew it had to do with drugs and women. Similar revelations have been
 around for years.</p>
-          <p id="sc12-1_10131">Neither Julian nor I made any other comment about Barry. We could
+          <p xml:id="sc12-1_10131">Neither Julian nor I made any other comment about Barry. We could
 only pray.</p>
-          <p id="sc12-1_10132">After the sky fell on Barry I made several telephone calls around
+          <p xml:id="sc12-1_10132">After the sky fell on Barry I made several telephone calls around
 Washington. Everyone agreed drug addiction spawns a euphoric, false
 sense of security and incredible arrogance. Herb commented, "No
 one, not even a loving wife, can really help an addict who thinks he
 needs no help."</p>
-          <p id="sc12-1_10133">A black female official in Washington whom I have known for years
+          <p xml:id="sc12-1_10133">A black female official in Washington whom I have known for years
 was needlessly defensive and abrasive. She insisted Steve Smitherman
 (son of Mayor Joe) is a former mayor of Selma and wrongly accused me
 of covering for "the worst kind of Southern racist" and my
 hometown. She later composed herself and said, "Drugs and whiskey
 are often exclusive, but our boy had both monkeys at the same
 time."</p>
-          <p id="sc12-1_10134">Jesse Jackson was due to address a meeting in Selma about the time
+          <p xml:id="sc12-1_10134">Jesse Jackson was due to address a meeting in Selma about the time
 of Barry's arrest on drug charges. His secretary called to say he was
 in "a trance" over the arrest. Jesse canceled all commitments and was
 trying to figure what to do. I predict he will not run for office of
 mayor of Washington, D.C.</p>
-          <p id="sc12-1_10135">It was a depressing time. A sad, but hardly unique episode in
+          <p xml:id="sc12-1_10135">It was a depressing time. A sad, but hardly unique episode in
 today's America. Some questions, however, must be answered.</p>
-          <p id="sc12-1_10136">Has Barry's conduct undermined efforts to address the already
+          <p xml:id="sc12-1_10136">Has Barry's conduct undermined efforts to address the already
 debilitating drug scene in Washington? Will Washington ghetto youths
 become even more cynical? Was President George Bush's drug conference
 in South America undermined to any appreciable extent by Barry's
 arrest?</p>
-          <p id="sc12-1_10138">The answer to all three questions is no. Given the noise 
-<pb id="sc12-1_10137" n="15"/>
+          <p xml:id="sc12-1_10138">The answer to all three questions is no. Given the noise 
+<pb xml:id="sc12-1_10137" n="15"/>
 in the media, that may be difficult to believe.</p>
-          <p id="sc12-1_10139">The drug scene in Washington involves more money than many could
+          <p xml:id="sc12-1_10139">The drug scene in Washington involves more money than many could
 count on a computer. Drug traffickers operate in open defiance of the
 White House, not to mention City Halls. Illegal drugs have entered
 every White House beginning with the administration of Richard Milhous
 Nixon. That is an open secret in Washington.</p>
-          <p id="sc12-1_10140">Scores of ghetto youth already have zero faith in the system or
+          <p xml:id="sc12-1_10140">Scores of ghetto youth already have zero faith in the system or
 politicians who operate government. Ghetto youth can cite verse and
 chapter of drug traffickers who operate both with impunity and
 immunity. A misdemeanor bust for possession means nothing on the big
 city drug scene, even if the defendant is a mayor.</p>
-          <p id="sc12-1_10141">Barry's arrest had no effect on Bush's drug conference. The
+          <p xml:id="sc12-1_10141">Barry's arrest had no effect on Bush's drug conference. The
 conference will result in little or nothing because the president
 brought only rhetoric and show.</p>
-          <p id="sc12-1_10142">What a world!</p>
-          <p id="sc12-1_10143">Peace.</p>
-          <div3 id="sc12-1_029" type="About">
-            <p id="sc12-1_10144">J. L. Chestnut is an Alabama trial lawyer and
+          <p xml:id="sc12-1_10142">What a world!</p>
+          <p xml:id="sc12-1_10143">Peace.</p>
+          <div3 xml:id="sc12-1_029" type="About">
+            <p xml:id="sc12-1_10144">J. L. Chestnut is an Alabama trial lawyer and
 writer.</p>
           </div3>
         </div2>
       </div1>
     </body>
   </text>
-</TEI.2>
+</TEI>
