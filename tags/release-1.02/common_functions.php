@@ -16,10 +16,10 @@ function getCSS () {
   
 
   // development
-  $css_basepath = "http://wilson.library.emory.edu/~ahickco/schanges/";
+//  $css_basepath = "http://wilson.library.emory.edu/~ahickco/schanges/";
 
   // production
-  //  $css_basepath = "http://beck.library.emory.edu/southernchanges";
+   $css_basepath = "http://beck.library.emory.edu/southernchanges";
   $css = "web/css/schanges.css"; 
  /* if ($browser == "MSIE") {
     if ($os == "mac") {
