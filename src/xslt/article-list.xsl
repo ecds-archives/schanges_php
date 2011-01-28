@@ -2,8 +2,9 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" version="1.0"
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
-	xmlns:xq="http://metalab.unc.edu/xq/">
+	xmlns:xq="http://metalab.unc.edu/xq/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist" exclude-result-prefixes="exist">
 
 
 <xsl:param name="mode">article</xsl:param>
@@ -18,7 +19,7 @@
 <xsl:element name="div">
 <xsl:attribute name="class">contents</xsl:attribute>
 <xsl:element name="h3">
-   Issue: <xsl:value-of select="//issue-id/head"/>
+   Issue: <xsl:value-of select="//issue-id/tei:head"/>
   </xsl:element>
   <xsl:apply-templates select="//result"/>
 </xsl:element>
@@ -39,14 +40,14 @@
     <xsl:for-each select="article">
   <xsl:element name="tr">
     <xsl:element name="td"><xsl:attribute name="width">15%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:apply-templates
-    select="name"/></xsl:element> 
+    select="tei:name"/></xsl:element> 
     <xsl:element name="td"><xsl:attribute name="valign">top</xsl:attribute><xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
-      select="@id"/></xsl:attribute><xsl:value-of
-      select="head"/></xsl:element></xsl:element>
+      select="@tei:id"/></xsl:attribute><xsl:value-of
+      select="tei:head"/></xsl:element></xsl:element>
       <xsl:element name="td"><xsl:attribute name="width">10%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of
       select="@type"/></xsl:element>
-      <xsl:element name="td"><xsl:attribute name="width">25%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of select="docDate"/></xsl:element>
+      <xsl:element name="td"><xsl:attribute name="width">25%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of select="tei:docDate"/></xsl:element>
     </xsl:element> <!-- tr -->
     </xsl:for-each>
   </xsl:element><!-- table -->
@@ -81,11 +82,11 @@
       n is blank, label as untitled -->
 <xsl:template name="cleantitle">
   <xsl:choose>
-    <xsl:when test="head = ''">
+    <xsl:when test="tei:head = ''">
       <xsl:text>[Untitled]</xsl:text>
     </xsl:when>
     <xsl:otherwise>
-      <xsl:value-of select="normalize-space(./head)"/>
+      <xsl:value-of select="normalize-space(./tei:head)"/>
     </xsl:otherwise>
   </xsl:choose>
 </xsl:template>
@@ -97,29 +98,29 @@
 
 <!-- display issues relative to position of current article -->
 <xsl:element name="tr">
-<xsl:if test="//prev/@id">
+<xsl:if test="//prev/@xml:id">
 <xsl:element name="th">
     <xsl:text>Previous issue: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-		select="//prev/@id"/></xsl:attribute>
-   <xsl:apply-templates select="//prev/head"/>
+		select="//prev/@xml:id"/></xsl:attribute>
+   <xsl:apply-templates select="//prev/tei:head"/>
  </xsl:element><!-- end td -->
 </xsl:element></xsl:if>
 </xsl:element><!-- end  prev row --> 
 
 <xsl:element name="tr">
-<xsl:if test="//next/@id">
+<xsl:if test="//next/@xml:id">
 <xsl:element name="th">
     <xsl:text>Next issue: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-		select="//next/@id"/></xsl:attribute>
-   <xsl:apply-templates select="//next/head"/>
+		select="//next/@xml:id"/></xsl:attribute>
+   <xsl:apply-templates select="//next/tei:head"/>
  </xsl:element><!-- end td -->
 </xsl:element><!-- end td -->
 </xsl:if>

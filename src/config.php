@@ -14,7 +14,7 @@ $in_production = false;
 // root directory and url where the website resides
 // production version
 
-if($in_production) {
+if($in_production==true) {
 $basedir = "/home/httpd/html/beck/southernchanges";
 $server = "bohr.library.emory.edu";
  $webserver = "beck.library.emory.edu";
@@ -26,10 +26,10 @@ $base_url = "http://$webserver$base_path/";
 
 //root directory and url for wilson website
 //development
-$basedir = "/home/ahickco/public_html/schanges";
-$server = "wilson.library.emory.edu";
- $webserver = "dev11.library.emory.edu";
-$base_path = "/~ahickco/schanges/";
+$basedir = "/~christopherpollette";
+$server = "kamina.library.emory.edu";
+ $webserver = "localhost";
+$base_path = "/~christopherpollette/schanges/schange";
 $base_url = "http://$webserver$base_path/";
 $port = "8080";
  }
@@ -43,7 +43,7 @@ $cssfile = "web/css/schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 
-if($in_production) {
+if($in_production==true) {
   $port = "7080";
  } else {
   $port = "8080";

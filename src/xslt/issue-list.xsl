@@ -2,8 +2,9 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" version="1.0"
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
-	xmlns:xq="http://metalab.unc.edu/xq/">
+	xmlns:xq="http://metalab.unc.edu/xq/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist" exclude-result-prefixes="exist">
 
 
 <xsl:param name="mode">article</xsl:param>
@@ -11,7 +12,6 @@
 <xsl:param name="vol">all</xsl:param>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
-<xsl:variable name="query"><xsl:value-of select="ino:response/xq:query"/></xsl:variable>
 
 
 <xsl:output method="html"/>
@@ -28,9 +28,8 @@
     <xsl:attribute name="class">contents</xsl:attribute>
   <xsl:element name="li">
     <xsl:element name="a">
-      <xsl:attribute name="href">articlelist.php?id=<xsl:value-of
-      select="@id"/>&amp;docdate=<xsl:value-of select="docdate/@value"/></xsl:attribute>
-      <xsl:apply-templates select="head"/>
+      <xsl:attribute name="href">articlelist.php?id=<xsl:value-of select="@xml:id"/>&amp;docdate=<xsl:value-of select="docdate/@when"/></xsl:attribute>
+      <xsl:apply-templates select="tei:head"/>
     </xsl:element> <!-- a -->
   </xsl:element> <!-- li -->
   </xsl:element> <!-- ul -->
