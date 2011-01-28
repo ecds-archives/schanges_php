@@ -19,14 +19,15 @@ print '<div class="content">';
 print '<h2>Issues</h2>';
 
 // query for all volumes -- eXist
-$query = 'for $b in /TEI.2//div1
-order by ($b/p/date/@value)
+$query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $b in /tei:TEI//tei:div1
+order by ($b/tei:p/tei:date/@when)
 return
 <result>
-{$b/@id}
-{$b/head}
+{$b/@xml:id}
+{$b/tei:head}
 <docdate>
-{$b/p/date/@value}
+{$b/tei:p/tei:date/@when}
 </docdate>
 </result>';
 

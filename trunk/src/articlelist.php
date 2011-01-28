@@ -6,41 +6,42 @@ include("common_functions.php");
 
 $id = $_REQUEST["id"];
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 //query for single issue list of articles
-$query = 'for $issue in /TEI.2//div1[@id = "' . "$id" . '"]
-let $hdr := root($issue)/TEI.2/teiHeader
-let $curdate := $issue/p/date/@value
-let $previd := (for $d in /TEI.2//div1[p/date/@value < $curdate]
-    order by $d/p/date/@value return $d)[last()]
-let $nextid := (for $c in /TEI.2//div1[p/date/@value > $curdate]
-    order by $c/p/date/@value return $c)[1]
+$query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $issue in /tei:TEI//tei:div1[@xml:id = "' . "$id" . '"]
+let $hdr := root($issue)/tei:TEI/tei:teiHeader
+let $curdate := $issue/tei:p/tei:date/@when
+let $previd := (for $d in /tei:TEI//tei:div1[tei:p/tei:date/@when < $curdate]
+    order by $d/tei:p/tei:date/@when return $d)[last()]
+let $nextid := (for $c in /tei:TEI//tei:div1[tei:p/tei:date/@when > $curdate]
+    order by $c/tei:p/tei:date/@when return $c)[1]
 
 return <result>
 <header>{$hdr}</header>
-<issue-id>{$issue/@id}
-{$issue/head}</issue-id>
+<issue-id>{$issue/@xml:id}
+{$issue/tei:head}</issue-id>
     <prev>
-    {$previd/@id}
-     <docdate>{$previd/p/date/@value}</docdate>
-    {$previd/head}
+    {$previd/@xml:id}
+     <docdate>{$previd/tei:p/tei:date/@when}</docdate>
+    {$previd/tei:head}
 </prev>
 <next>
-{$nextid/@id}
- <docdate>{$nextid/p/date/@value}</docdate>
-  {$nextid/head}
+{$nextid/@xml:id}
+ <docdate>{$nextid/tei:p/tei:date/@when}</docdate>
+  {$nextid/tei:head}
 </next>
-{for $a in $issue/div2
+{for $a in $issue/tei:div2
 	  order by xs:int($a/@n)
 return
 <article>
-{$a/@id}
+{$a/@xml:id}
 {$a/@type}
-{$a/head}
-{$a/byline/docAuthor/name}
-{$a/docDate}
+{$a/tei:head}
+{$a/tei:byline/tei:docAuthor/tei:name}
+{$a/tei:docDate}
 </article>
 }
 
