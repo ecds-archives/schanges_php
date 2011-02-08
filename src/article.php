@@ -13,35 +13,36 @@ $xmldb = new xmlDbConnection($exist_args);
 
 /*The query here should match wrappers and structure, sort of with the query in oai/xquery.xml*/
 
-$for='for $art in /TEI.2//div2[@id="' . "$id" . '"]';
+$for='for $art in /tei:TEI//tei:div2[@xml:id="' . "$id" . '"]';
 if ($terms != '') {$for .= "[. |= \"$terms\"]";}
-$let='let $hdr := root($art)/TEI.2/teiHeader
-let $prev := $art/preceding-sibling::div2[1]
-let $next := $art/following-sibling::div2[1]
+$let='let $hdr := root($art)/tei:TEI/tei:teiHeader
+let $prev := $art/preceding-sibling::tei:div2[1]
+let $next := $art/following-sibling::tei:div2[1]
   let $issue := $art/..';
 $return='return
 <TEI>
 {$hdr}
 {$art}
 <issueid>
-{$issue/@id}
-{$issue/head}
+{$issue/@xml:id}
+{$issue/tei:head}
 </issueid>
 <prev>
-{$prev/@id}
+{$prev/@xml:id}
 {$prev/@type}
-{$prev/head}
-{$prev/docDate}
+{$prev/tei:head}
+{$prev/tei:docDate}
 </prev>
 <next>
-{$next/@id}
+{$next/@xml:id}
 {$next/@type}
-{$next/head}
-{$next/docDate}
+{$next/tei:head}
+{$next/tei:docDate}
 </next>
 </TEI>';
 
-$query = "declare option exist:serialize 'highlight-matches=all';";
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';";
 $query .= "$for $let $return";
 
 // run the query 
