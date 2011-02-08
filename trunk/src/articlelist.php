@@ -6,7 +6,7 @@ include("common_functions.php");
 
 $id = $_REQUEST["id"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 //query for single issue list of articles

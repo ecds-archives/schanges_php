@@ -43,7 +43,7 @@
     select="tei:name"/></xsl:element> 
     <xsl:element name="td"><xsl:attribute name="valign">top</xsl:attribute><xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
-      select="@tei:id"/></xsl:attribute><xsl:value-of
+      select="@xml:id"/></xsl:attribute><xsl:value-of
       select="tei:head"/></xsl:element></xsl:element>
       <xsl:element name="td"><xsl:attribute name="width">10%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:value-of
       select="@type"/></xsl:element>
@@ -56,7 +56,7 @@
 
 <!-- handle multiple authors -->
 
-<xsl:template match="name">
+<xsl:template match="tei:name">
     <xsl:choose>
       <xsl:when test="position() = 1"/>
  <xsl:when test="position() = last()">

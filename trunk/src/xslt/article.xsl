@@ -2,9 +2,9 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
-	xmlns:xql="http://metalab.unc.edu/xql/"
-	xmlns:exist="http://exist.sourceforge.net/NS/exist"
-	exclude-result-prefixes="exist" version="1.0">
+	xmlns:xq="http://metalab.unc.edu/xq/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist">
 
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
@@ -22,7 +22,7 @@
 <xsl:template match="/"> 
   <!-- recall the article list -->
   <xsl:call-template name="return" />
-<xsl:apply-templates select="//TEI//div2" />
+<xsl:apply-templates select="//TEI//tei:div2" />
 <!-- display footnotes at end -->
     <xsl:call-template name="endnotes"/>
   <!-- recall the article list -->
@@ -33,35 +33,35 @@
 
 
 <!-- print out the content-->
-<xsl:template match="TEI//div2">
+<xsl:template match="TEI//tei:div2">
 <!-- get everything under this node -->
   <xsl:apply-templates/> 
 </xsl:template>
 
 <!-- display the title -->
-<xsl:template match="div2/head">
+<xsl:template match="tei:div2/tei:head">
   <xsl:element name="h1">
    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="byline">
+<xsl:template match="tei:byline">
   <xsl:element name="i">
     <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
-<xsl:template match="docDate">
+<xsl:template match="tei:docDate">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
-<xsl:template match="bibl">
+<xsl:template match="tei:bibl">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
 
-<xsl:template match="div3">
+<xsl:template match="tei:div3">
   <xsl:if test="@type='About'">
     <xsl:element name="i">
       <xsl:apply-templates/>
@@ -86,51 +86,50 @@
 </xsl:template>
 
 
-<xsl:template match="div3/head">
+<xsl:template match="tei:div3/tei:head">
     <xsl:element name="h2">
     Sidebar: <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
 
 
-<xsl:template match="p/title">
+<xsl:template match="tei:p/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="bibl/title">
+<xsl:template match="tei:bibl/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="p">
+<xsl:template match="tei:p">
   <xsl:element name="p">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="q">
+<xsl:template match="tei:q">
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="list">
+<xsl:template match="tei:list">
   <xsl:element name="ul">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="item">
+<xsl:template match="tei:item">
   <xsl:element name="li">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
-
-<xsl:template match="speaker">
+<xsl:template match="tei:speaker">
 <xsl:element name="br"/>
 <xsl:element name="span">
 <xsl:attribute name="class">speaker</xsl:attribute>
@@ -138,7 +137,7 @@
 </xsl:element>
 </xsl:template>
 
-<xsl:template match="sp/p">
+<xsl:template match="tei:sp/tei:p">
 <xsl:element name="span">
 <xsl:attribute name="class">speech</xsl:attribute>
 <xsl:apply-templates/>
@@ -174,11 +173,11 @@
   </xsl:choose>
 </xsl:template>
 
-<xsl:template match="lb">
+<xsl:template match="tei:lb">
   <xsl:element name="br" />
 </xsl:template>
 
-<xsl:template match="pb">
+<xsl:template match="tei:pb">
   <hr class="pb"/>
     <p class="pagebreak">
       Page <xsl:value-of select="@n"/>
@@ -186,7 +185,7 @@
 </xsl:template>
 
 <!-- sic : show 'sic' as an editorial comment -->
-<xsl:template match="sic">
+<xsl:template match="tei:sic">
   <xsl:apply-templates select="text()"/>
   <!-- show the text between the sic tags -->
   <xsl:element name="span">
@@ -197,7 +196,7 @@
 
 
 <!-- line group -->
-<xsl:template match="lg">
+<xsl:template match="tei:lg">
   <xsl:element name="p">
      <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
     <xsl:apply-templates />
@@ -242,37 +241,37 @@
 
 <!-- display articles relative to position of current article -->
 <xsl:element name="tr">
-<xsl:if test="//prev/@id">
+<xsl:if test="//prev/@xml:id">
 <xsl:element name="th">
     <xsl:text>Previous: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">article.php?id=<xsl:value-of
-		select="//prev/@id"/></xsl:attribute>
-   <xsl:apply-templates select="//prev/head"/>
+		select="//prev/@xml:id"/></xsl:attribute>
+   <xsl:apply-templates select="//prev/tei:head"/>
  </xsl:element><!-- end td -->
 <xsl:element name="td"><xsl:apply-templates select="//prev/@type"></xsl:apply-templates></xsl:element><!-- end td -->
 <xsl:element name="td"><xsl:apply-templates
-select="//prev/docDate"/></xsl:element>
+select="//prev/tei:docDate"/></xsl:element>
 </xsl:element><!-- end td -->
 </xsl:if>
 </xsl:element><!-- end  prev row --> 
 
 <xsl:element name="tr">
-<xsl:if test="//next/@id">
+<xsl:if test="//next/@xml:id">
 <xsl:element name="th">
     <xsl:text>Next: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">article.php?id=<xsl:value-of
-		select="//next/@id"/></xsl:attribute>
-   <xsl:apply-templates select="//next/head"/>
+		select="//next/@xml:id"/></xsl:attribute>
+   <xsl:apply-templates select="//next/tei:head"/>
  </xsl:element><!-- end td -->
 <xsl:element name="td"><xsl:apply-templates select="//next/@type"></xsl:apply-templates></xsl:element><!-- end td -->
 <xsl:element name="td"><xsl:apply-templates
-select="//next/docDate"/></xsl:element>
+select="//next/tei:docDate"/></xsl:element>
 </xsl:element><!-- end td -->
 </xsl:if>
 </xsl:element><!-- end  next row --> 
@@ -288,7 +287,7 @@ select="//next/docDate"/></xsl:element>
 	Go to Article List for <xsl:element name="a">
 	  <xsl:attribute
 	      name="href">articlelist.php?id=<xsl:value-of
-	      select="//issueid/@id"/></xsl:attribute><xsl:value-of select="//issueid/head"/> 
+	      select="//issueid/@xml:id"/></xsl:attribute><xsl:value-of select="//issueid/tei:head"/> 
 </xsl:element> <!-- a --> 
 </xsl:element> <!-- p -->
 
@@ -305,7 +304,7 @@ select="//next/docDate"/></xsl:element>
    <xsl:param name="tableAlign">center</xsl:param>
    <xsl:param name="cellAlign">left</xsl:param>
 
-<xsl:template match="table">
+<xsl:template match="tei:table">
 <table>
 <xsl:for-each select="@*">
 <xsl:copy-of select="."/>
@@ -313,17 +312,17 @@ select="//next/docDate"/></xsl:element>
 <xsl:apply-templates/></table>
 </xsl:template>
 
-<xsl:template match="table/head">
+<xsl:template match="table/tei:head">
 <h3><xsl:apply-templates/>
 </h3>
 </xsl:template>
 
-<xsl:template match="row">
+<xsl:template match="tei:row">
 <tr><xsl:apply-templates/>
 </tr>
 </xsl:template>
 
-<xsl:template match="cell">
+<xsl:template match="tei:cell">
 <td valign="top">
 <xsl:apply-templates/>
 </td>
