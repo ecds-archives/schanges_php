@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc01-7_103"><title>Southern Changes</title>. Volume 1, Number 7, <date when="1979-04">1979</date></p>
         <div2 xml:id="sc01-7_005" n="1" type="Article">
           <head>Interchange: In This Issue</head>
-                  <byline>By <docAuthor><name type="person"><choice><orig>Betty Norwood Chaney</orig><reg>"Chaney, Betty Norwood"</reg></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><sic>Betty Norwood Chaney</sic><reg>"Chaney, Betty Norwood"</reg></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, p. 2</docDate>
           
           <p xml:id="sc01-7_104">On February 16-18, the Southern Regional Council (SRC) held its
@@ -97,7 +97,7 @@ rights."</p>
         </div2>
         <div2 xml:id="sc01-7_002" n="2" type="Article">
           <head>Renewal and Endurance: A Personal View</head>
-                  <byline>By <docAuthor><name type="person"><choice><orig>Steve Suitts</orig><reg>Suitts, Steve</reg></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><sic>Steve Suitts</sic><reg>Suitts, Steve</reg></choice></name></docAuthor></byline>
           <byline>Steve Suitts<lb/>
 Publisher</byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 4-5</docDate>
@@ -140,7 +140,7 @@ it<pb xml:id="sc01-7_1025" n="5"/>is on terms advantageous to Whites. The rural 
         </div2>
         <div2 xml:id="sc01-7_006" n="3" type="Article">
           <head>The Role of Law in the South</head>
-                  <byline>By <docAuthor><name type="person"><choice><orig>Leslie Dunbar</orig><reg>Dunbar, Leslie</reg></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><sic>Leslie Dunbar</sic><reg>Dunbar, Leslie</reg></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 6-8</docDate>
           
           <p xml:id="sc01-7_1037">
@@ -224,7 +224,7 @@ much acclaim.</p>
         </div2>
         <div2 xml:id="sc01-7_003" n="4" type="Article">
           <head>Human Rights: From the South to South Africa"</head>
-                  <byline>By <docAuthor><name type="person"><choice><orig>Wallace Terry</orig><reg>Terry, Wallace</reg></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><sic>Wallace Terry</sic><reg>Terry, Wallace</reg></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 9-13</docDate>
           
           <p xml:id="sc01-7_1063">I was profoundly affected by what I saw on the battlefields in Viet Nam from 1967 to 1969, particularly the outrageously racist behavior of White troops towards Blacks. I knew that most Blacks would receive far too little at home for the blood they spilled abroad. So with the kind and generous assistance of Leslie Dunbar and our friends at the Field Foundation and the Center for National Security Studies, I have spent the last few years recording and writing the Black GI's story. It seems a small way to salute them.</p>
@@ -298,7 +298,7 @@ at Howard University.</p>
         </div2>
         <div2 xml:id="sc01-7_007" n="5" type="Article">
           <head>Facing the Universal Imperatives</head>
-                  <byline>By <docAuthor><name type="person"><choice><orig>Ray Marshall</orig><reg>Marshall, Ray</reg></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><sic>Ray Marshall</sic><reg>Marshall, Ray</reg></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 16-18</docDate>
           
           <p xml:id="sc01-7_10102">[Introduction]</p>
@@ -351,7 +351,7 @@ sponsored by SRC.</p>
         </div2>
         <div2 xml:id="sc01-7_004" n="6" type="Article">
           <head>J.P. Stevens Workers Seek 'Some of the Harvest'</head>
-                  <byline>By <docAuthor><name><choice><reg>Finger, Bill</reg><orig>Bill Finger</orig></choice> </name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Finger, Bill</reg><sic>Bill Finger</sic></choice> </name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 19-21</docDate>
           
           <p xml:id="sc01-7_10134">You would have thought it was the Darlington 500 the way people were flocking to the South Carolina Piedmont. But the gathering at Textile Hall in what the local chamber of commerce calls "the textile capital of the world" lacked the gaiety of a good stock car race.</p>
@@ -403,7 +403,7 @@ Bill Finger, a freelance writer, lives in Raleigh, N.C.
         </div2>
         <div2 xml:id="sc01-7_014" n="7" type="Article">
           <head>Eatonton, Georgia: Rural Black Community Organizes for Change</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Swift, Alice</reg><orig>Alice Swift</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Swift, Alice</reg><sic>Alice Swift</sic></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 22-23</docDate>
           
           <p xml:id="sc01-7_10155">The days of White mobs gathering to lynch a Black man simply because he is Black are gone, but there are still some occurrences with the same level of hatred behind them. What happened in Eatonton is a case in point.</p>
@@ -442,7 +442,7 @@ Georgia.</p>
         </div2>
         <div2 xml:id="sc01-7_008" n="8" type="Article">
           <head>EDUCATION: The Issue of Desegregation</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Johnston, Diane</reg><orig>Diane Johnston</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Johnston, Diane</reg><sic>Diane Johnston</sic></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 25</docDate>
           
           <p xml:id="sc01-7_10173">During a lively discussion on education at SRC's recent Annual Meeting, panelist Jean Fairfax, director of education programs for the NAACP Legal Defense Fund, remarked, "There is a lot more to the Brown case than school desegregation. It got us off the back of the bus into Colony Square."</p>
@@ -475,7 +475,7 @@ Council.</p>
         </div2>
         <div2 xml:id="sc01-7_009" n="9" type="Article">
           <head>SOUTHERN POLITICS: Judge Robert Collins Speaks</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Morris, Robert</reg><orig>Robert Morris</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Morris, Robert</reg><sic>Robert Morris</sic></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 26</docDate>
           
           <p xml:id="sc01-7_10188">"Without a pool of competent attorneys who can focus on pressing the legitimate claims of minorities, those rights will be neglected, eroded, and perhaps eventually destroyed," said Judge Robert F. Collins, speaking to luncheon guests of the SRC Annual Meeting recently. President Carter's appointee to the U.S. District Court in New Orleans and the South's only Black federal judge in this century, Collins spoke of his own experiences in capsuling three decades of civil rights activity in the South. Collins' own education began as a court case. It took a lawsuit to open the doors for him and two other Blacks to enter the Louisiana State University Law School. After graduation, he worked on local counsel in Louisiana for the Congress of Racial Equality and cooperated with the NAACP Legal Defense Fund.</p>
@@ -496,7 +496,7 @@ rights are not lost in the next generation.</p>
         </div2>
         <div2 xml:id="sc01-7_010" n="10" type="Article">
           <head>SOUTHERN POLITICS:Panelists look at Southern Political System</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Jones, Jean</reg><orig>Jean Jones</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Jones, Jean</reg><sic>Jean Jones</sic></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 26-27</docDate>
           
           <p xml:id="sc01-7_10194">"Tyranny and tragedy have been and still are the core of the Southern experience," Dr. Samuel Dubois Cook, president of Dillard University, remarked during an afternoon session on politics in the South at the Annual Meeting of the Southern Regional Council.</p>
@@ -525,7 +525,7 @@ South" carried in this issue.</p>
         </div2>
         <div2 xml:id="sc01-7_011" n="11" type="Article">
           <head>URBAN AND RURAL DEVELOPMENT:Solutions to Southern Rural Problems Sought</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Terry, Janet</reg><orig>Janet Terry</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Terry, Janet</reg><sic>Janet Terry</sic></choice></name></docAuthor></byline>
           <docDate when="1979-04">Vol. 1, No. 7, 1979, pp. 27-28</docDate>
           
           <p xml:id="sc01-7_10203">Is the South truly in the midst of an overdue, unparalleled economic boom, or is the image a mirage, fashioned by media hype, overeager expectations, and scattered development?</p>

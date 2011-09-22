@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc02-8_1204">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc02-8_1204">
   <teiHeader xml:id="sc02-81201"><fileDesc>
       <titleStmt>
         <title>Southern Changes.  Volume 2, Number 8</title>
@@ -44,7 +45,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc02-8_103"><title>Southern Changes</title>. Volume 2, Number 8, <date when="1980-07">1980</date></p>
         <div2 xml:id="sc02-8_002" n="1" type="Article">
           <head>Equal Rights</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Morgan, Chuck</reg><orig>Chuck Morgan</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Morgan, Chuck</reg><sic>Chuck Morgan</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980,
       pp. 4-8</docDate>
           
@@ -217,7 +218,7 @@ And there is no need of that: Free men set themselves free.</hi></p>
         </div2>
         <div2 xml:id="sc02-8_003" n="2" type="Article">
           <head>A Lawyer's Judgment for the 13th Amendment</head>
-                  <byline>By <docAuthor><name> <choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name> <choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980, p. 8</docDate>
           
           <p xml:id="sc02-8_1053">It is understandable that Blacks geared their pre-Brown legal struggle to the requirement of equal protection in the Fourteenth Amendment. In the years prior to 1954, federal and state statutes separated the Black and the denied from the White and the privileged. Blacks saw equal rights, not equality.</p>
@@ -242,7 +243,7 @@ that restricts the achievement of equality.</p>
         </div2>
         <div2 xml:id="sc02-8_004" n="3" type="Article">
           <head>The South Remembered</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Marquerd, John</reg><orig>John Marquerd</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Marquerd, John</reg><sic>John Marquerd</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980, pp. 9-10</docDate>
           
           <p xml:id="sc02-8_1058">This is a superficial report. How could it be otherwise, based as it is on a short visit to the South last March. In fact, I have been telling your editors I am deeply resistant to writing it, so unclear are my impressions of the South and what it represents.</p>
@@ -310,7 +311,7 @@ have so much less.</p>
         </div2>
         <div2 xml:id="sc02-8_009" n="4" type="Article">
           <head>The Bolden Decision Stonewalls Black Aspirations</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>McDonald, Laughlin</reg><orig>Laughlin McDonald</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>McDonald, Laughlin</reg><sic>Laughlin McDonald</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980, pp. 11-17</docDate>
           
           <p xml:id="sc02-8_1090">The Supreme Court's latest voting rights decision, <hi rend="italic">City of Mobile v. Bolden</hi>(April 22, 1980), is bad news for Blacks. The Court held that no system of elections could be attacked on racial grounds, even one such as Mobile, Alabama's, which has the effect of totally excluding Blacks from office, unless it could be shown that it was adopted, or was being maintained, for the express purpose of discriminating against minorities. The Court also set up standards for proving "purpose" which are all but impossible to meet. The effect of  <hi rend="italic">Bolden</hi> will be to give new respectability to old-style, White-only politics in the South and bring to a halt the modest gains in Black office holding of the last decade.</p>
@@ -455,7 +456,7 @@ office of the ACLU in Atlanta.</p>
         </div2>
         <div2 xml:id="sc02-8_010" n="5" type="Article">
           <head>The Federation of Southern Cooperatives Under Siege</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Vodicka, John</reg><orig>John Vodicka</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Vodicka, John</reg><sic>John Vodicka</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980, pp.18-21</docDate>
           
           <p xml:id="sc02-8_10129">In rural Sumter County, Alabama, the plantation mentality still
@@ -569,7 +570,7 @@ County.</p>
         </div2>
         <div2 xml:id="sc02-8_006" n="6" type="Article">
           <head>What's Wrong with Justice in Wrightsville</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Taylor, Ron</reg><orig>Ron Taylor</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Taylor, Ron</reg><sic>Ron Taylor</sic></choice></name></docAuthor></byline>
           <docDate when="1980-07">Vol. 2, No. 8, 1980, pp. 22-24</docDate>
           
           <p xml:id="sc02-8_10161">Johnson County Sheriff Roland Attaway keeps two microphones dangling from the roof outside his office in Wrightsville, Georgia, for the purpose of tape recording his critics. The last few months, he has not liked what he has heard. Moreover, the criticism has made it difficult for him to run his county the way he is accustomed to running it. A host of "outside agitators," liberal lawyers and nosy newsmen have poked fun at his habit of arresting people without charging them with anything.</p>

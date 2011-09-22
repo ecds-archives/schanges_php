@@ -10,13 +10,13 @@ include("config.php");
 function getCSS () {
   $HTTP_USER_AGENT = getenv("HTTP_USER_AGENT");
 
-  if (eregi ("MSIE", $HTTP_USER_AGENT)) { $browser = "MSIE"; }
-  if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
-  else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
+  if (preg_match ("/MSIE/i", $HTTP_USER_AGENT)) { $browser = "MSIE"; }
+  if (preg_match ("/mac/i",  $HTTP_USER_AGENT)) { $os = "mac"; }
+  else if (preg_match ("/win/i",  $HTTP_USER_AGENT)) { $os = "win"; }
   
 
   // development
-  $css_basepath = "http://wilson.library.emory.edu/~ahickco/schanges/";
+  $css_basepath = "http://localhost/~alice/schanges/";
 
   // production
   //  $css_basepath = "http://beck.library.emory.edu/southernchanges";

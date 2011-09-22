@@ -8,17 +8,20 @@ $id = $_REQUEST["id"];
 
 $terms = $_REQUEST["keyword"];
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 /*The query here should match wrappers and structure, sort of with the query in oai/xquery.xml*/
 
 $for='for $art in /tei:TEI//tei:div2[@xml:id="' . "$id" . '"]';
-if ($terms != '') {$for .= "[. |= \"$terms\"]";}
+if ($terms != '') {$for .= "[ft:query(.,  \"$terms\")]";}
 $let='let $hdr := root($art)/tei:TEI/tei:teiHeader
-let $prev := $art/preceding-sibling::tei:div2[1]
-let $next := $art/following-sibling::tei:div2[1]
-  let $issue := $art/..';
+let $issue := $art/..
+let $currn := $art/@n
+let $prev := (for $n in /tei:TEI//tei:div1[tei:div2/@xml:id="' . "$id" . '"]/tei:div2[@n < $currn]
+order by $n/@n return $n)[last()]
+let $next := (for $n in /tei:TEI//tei:div1[tei:div2/@xml:id="' . "$id" . '"]/tei:div2[@n > $currn]
+order by $n/@n return $n)[1]';
 $return='return
 <TEI>
 {$hdr}
@@ -30,12 +33,14 @@ $return='return
 <prev>
 {$prev/@xml:id}
 {$prev/@type}
+{$prev/@n}
 {$prev/tei:head}
 {$prev/tei:docDate}
 </prev>
 <next>
 {$next/@xml:id}
 {$next/@type}
+{$next/@n}
 {$next/tei:head}
 {$next/tei:docDate}
 </next>

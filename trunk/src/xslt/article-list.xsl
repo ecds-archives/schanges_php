@@ -40,7 +40,7 @@
     <xsl:for-each select="article">
   <xsl:element name="tr">
     <xsl:element name="td"><xsl:attribute name="width">15%</xsl:attribute><xsl:attribute name="valign">top</xsl:attribute><xsl:apply-templates
-    select="tei:name"/></xsl:element> 
+    select="tei:name/tei:choice/tei:sic"/></xsl:element> 
     <xsl:element name="td"><xsl:attribute name="valign">top</xsl:attribute><xsl:element name="a">
       <xsl:attribute name="href">article.php?id=<xsl:value-of
       select="@xml:id"/></xsl:attribute><xsl:value-of
@@ -56,7 +56,7 @@
 
 <!-- handle multiple authors -->
 
-<xsl:template match="tei:name">
+<xsl:template match="tei:name//tei:sic">
     <xsl:choose>
       <xsl:when test="position() = 1"/>
  <xsl:when test="position() = last()">

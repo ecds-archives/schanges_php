@@ -60,9 +60,6 @@ p.navlinks {text-align: center;
 	   margin-right: auto;
 	   display: inline;}
 
-span#ov {padding: 0 1em;}
-span#br {padding: 0 1em;}
-span#se {padding: 0 1em;}
 
 div.teenimage {position: static; 
 	      margin-top: 3em; 
@@ -157,6 +154,10 @@ span.sidebar {display: block;
 	     padding-right: 2%;
 	     background-color: #fff8b2;
 	     margin-top: 1%;}
+span.hi {font-weight: bold;
+	  background-color:#200674; 
+	  color:#FFFFFF;
+	}
 
 div.foot {display:block; 
 	 font-family: "Gill Sans Ultra Bold",  "MS Arial", "Gill Sans", sans-serif;

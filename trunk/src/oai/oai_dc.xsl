@@ -27,8 +27,8 @@
       <xsl:call-template name="header"/>
       <metadata>
         <oai_dc:dc>
-          <xsl:apply-templates select=".//div2"/>
-	  <xsl:apply-templates select=".//fileDesc"/>
+          <xsl:apply-templates select=".//tei:div2"/>
+	  <xsl:apply-templates select=".//tei:fileDesc"/>
 
           <!--        <dc:identifier>PURL</dc:identifier> -->
           <dc:type>Text</dc:type>
@@ -43,10 +43,10 @@
     <xsl:element name="header">            
     <xsl:element name="identifier">
       <!-- identifier prefix is passed in as a parameter; should be defined in config file -->
-      <xsl:value-of select="concat($prefix, .//div2/@id)" /> 
+      <xsl:value-of select="concat($prefix, .//tei:div2/@xml:id)" /> 
     </xsl:element>
     <xsl:element name="datestamp">
-      <xsl:value-of select=".//div2/LastModified"/>
+      <xsl:value-of select=".//tei:div2/LastModified"/>
     </xsl:element>
 
     <!-- not using sets for SC at this time -->

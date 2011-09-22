@@ -46,7 +46,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
           <head>Minorities in Southern Television: Visibility But Little
 Control</head>
           <byline>By 
-                    <docAuthor><name type="person"><choice><reg>Smith, Faye McDonald</reg><orig>Faye McDonald Smith</orig></choice></name></docAuthor></byline>
+                    <docAuthor><name type="person"><choice><reg>Smith, Faye McDonald</reg><sic>Faye McDonald Smith</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979, pp. 3,26-29</docDate>
           
           <p xml:id="sc01-10_104">The days are over - pretty much - when Black people would do a
@@ -151,7 +151,7 @@ in Atlanta.
         <div2 xml:id="sc01-10_003" n="2" type="Article">
           <head>The Progressive Farmer: A Long Row's Hoeing into
 Lespedeza</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Fowler, Cary</reg><orig>Cary Fowler</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Fowler, Cary</reg><sic>Cary Fowler</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07"> Vol. 1, No. 10, 1979, pp. 4, 29-32</docDate>
           
           <p xml:id="sc01-10_1065">Southern politics in the 1880s was alive with the fever of a
@@ -252,7 +252,7 @@ Center Seed Directory</title>.
         <div2 xml:id="sc01-10_005" n="3" type="Article">
           <head>Azalea Death Trip: A Journey Through the
 Land of <hi rend="bold">Southern Living</hi></head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><orig>Allen Tullos</orig></choice>Allen Tullos</name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice>Allen Tullos</name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979, pp. 7-10,32</docDate>
           
           <p xml:id="sc01-10_1098">In the beginning," it is written in <hi rend="bold">Southern Living</hi> magazine, "man created Florida "Later on, men got around to creating Puerto Vallarta, where "luxury hotels are beginning to change the red-tile and adobe skyline of this picturesque little fishing village on the west coast of Mexico." And, somewhere along the way, arose the Land of Oz, a theme park constructed by Grover and Harry Robbins' Carolina Caribbean Corporation atop North Carolina's Beech Mountain: "there was this wild top-of-the-world mountain that could overwhelm you, and the Robbins didn't want to see it forever wasted."</p>
@@ -377,7 +377,7 @@ Carolina.
         </div2>
         <div2 xml:id="sc01-10_004" n="4" type="Article">
           <head>Lillian Smith: The Winner Names the Age</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gladney, Rose</reg><orig>Rose Gladney</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gladney, Rose</reg><sic>Rose Gladney</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979 pp. 11-13</docDate>
           
           <p xml:id="sc01-10_10139"><hi rend="bold">The Winner Names the Age: A Collection of Writings
@@ -423,7 +423,7 @@ University of Alabama at Tuscaloosa.</p>
         </div2>
         <div2 xml:id="sc01-10_006" n="5" type="Article">
           <head>A Bluffer's Guide to Recent Southern Fiction</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Derfner, Mary Frances</reg><orig>Mary Frances Derfner</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Derfner, Mary Frances</reg><sic>Mary Frances Derfner</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979 pp. 14-18</docDate>
           
           <p xml:id="sc01-10_10157">In late 1975 and early 1976, several seemingly innocuous pieces of
@@ -596,7 +596,7 @@ stories. Yet they will be there." And they are.</p>
         </div2>
         <div2 xml:id="sc01-10_007" n="6" type="Article">
           <head>Southern Newspapers: Watching the Watchdogs</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Noble, Larry</reg><orig>Larry Noble</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Noble, Larry</reg><sic>Larry Noble</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979 pp. 19-23</docDate>
           
           <p xml:id="sc01-10_10180">Daily newspapers play a key role in the lives of the people of the South. The papers provide us with commercial and economic information, with information on political and non-political events, with entertainment information and entertainment itself. They also present us with advice on what positions we should take on public affairs and furnish a controlled forum of letters to the editor.</p>
@@ -814,7 +814,7 @@ opposed to pro poverty and welfare policies.)</p>
         </div2>
         <div2 xml:id="sc01-10_008" n="7" type="Article">
           <head>Book Review: THE CAJUNS Essays on Their History and Culture</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gutierrez, C. Paige</reg><orig>C. Paige Gutierrez</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gutierrez, C. Paige</reg><sic>C. Paige Gutierrez</sic></choice></name></docAuthor></byline>
           <docDate when="1979-07">Vol. 1, No. 10, 1979 pp. 24-25</docDate>
           
           <p xml:id="sc01-10_10218">Glenn K. Conrad, ed. <hi rend="bold">The Cajuns: Essays on Their History and Culture</hi>. Published by the Center for Louisiana Studies University of South-western Louoisiana, Lafayette, 1978. Illustrated.</p>

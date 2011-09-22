@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc01-8_103"><title>Southern Changes</title>. Volume 1, Number 8, <date when="1979-05">1979</date></p>
         <div2 xml:id="sc01-8_002" n="1" type="Article">
           <head>Interchange: In This Issue</head>
-          <byline>By <docAuthor><name type="person">Betty Norwood Chaney</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Chaney, Betty Norwood</reg><sic>Betty Norwood Chaney</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, p. 2</docDate>
           
           <p xml:id="sc01-8_104">May 17, markes the 25th anniversary of <hi rend="italic">Brown
@@ -125,7 +125,7 @@ heavy one-- one we've only begun to bear.</p>
         </div2>
         <div2 xml:id="sc01-8_003" n="2" type="Article">
           <head>Public Education: Best Hope for the "New South"</head>
-          <byline>By <docAuthor><name type="person">Monte Piliawsky</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Piliawsky, Monte</reg><sic>Monte Piliawsky</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 5-7, 25</docDate>
           
           <p xml:id="sc01-8_1016">
@@ -252,7 +252,7 @@ that by the first half of 1978, the Black jobless rate was a record
         <div2 xml:id="sc01-8_004" n="3" type="Article">
           <head>Profiles in Change</head>
           <byline>By 
-            <docAuthor><name type="person">John Egerton</name></docAuthor></byline>
+            <docAuthor><name type="person"><choice><reg>Egerton, John</reg><sic>John Egerton</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 8-10, 26-28</docDate>
           
           <p xml:id="sc01-8_1054">(Editorial Note: This excerpt is taken from <hi rend="italic">John Egerton's School
@@ -420,7 +420,7 @@ much of the litigation and now is chairman of the State Board of Education, cred
         </div2>
         <div2 xml:id="sc01-8_005" n="4" type="Article">
           <head>The Georgia Desegregation Plan</head>
-          <byline>By <docAuthor><name type="person">Alice Lovelace</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Lovelace, Alice</reg><sic>Alice Lovelace</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 12-13, 28</docDate>
           
           <p xml:id="sc01-8_10153">There is a movement afoot in this country to "curtail the educational expectations" of the masses, according to Howard Dodson, director of the Georgia-based Institute of the Black World. Commenting on the desegregation plan currently being implemented in the Georgia public schools of higher education, he says, "Essentially the plan is to dismantle the Black schools. It is reflective of racism in America. White people never see themselves as the problem. It is always the Blacks who are the problem."</p>
@@ -490,7 +490,7 @@ Neighborhood Arts Center.
         </div2>
         <div2 xml:id="sc01-8_006" n="5" type="Article">
           <head>Triana Fish Story</head>
-          <byline>By <docAuthor><name type="person">Thomas Noland</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Noland, Thomas</reg><sic>Thomas Noland</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 14-15</docDate>
           
           <p xml:id="sc01-8_10191">Shortly after noon, trucks pulling two fishing boats with 55-horsepower inboard engines turn into the driveway at Triana Fire Station Number 1. Four Black men climb out, carrying buckets of fresh carp, catfish and buffalo fish caught that morning in the nearby Tennessee River. Several more men walk over from city hall. Everyone gravitates to the two stone tables under a shady tree, and the men from city hail begin slowly, methodically cleaning the fish, slicing wet and tender meat from bones and wrapping the patties in paper. By 4:00 p.m., the women of the village pull up in their cars, pass by the fishing boats that say "Town of Triana", and collect some fish to bring home to supper.</p>
@@ -524,7 +524,7 @@ ominous. "We don't even know how you act when you got it," he says,
         </div2>
         <div2 xml:id="sc01-8_007" n="6" type="Article">
           <head>Poor People vs. Alabama Power Company</head>
-          <byline>By <docAuthor><name type="person">Wayne Greenhaw</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg></reg><sic>Wayne Greenhaw</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 16-19</docDate>
           
           <p xml:id="sc01-8_10212">He knew it would be an uphill climb from the beginning. Back in the
@@ -606,7 +606,7 @@ costs and the impact of construction of new generating capacity on the residenti
         </div2>
         <div2 xml:id="sc01-8_008" n="7" type="Article">
           <head>Update: Aftermath of G. Duke Beasley's Appointment</head>
-          <byline>By <docAuthor><name type="person">Ginny Looney</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Looney, Ginny</reg><sic>Ginny Looney</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 20-21</docDate>
           
           <p xml:id="sc01-8_10261">The appointment of G. Duke Beasley last summer as the first administrator of the Georgia Office of Fair Employment Practices had appeared a safe choice for Gov. George Busbee. Yet, with surprising swiftness the director fell into disfavor and has now endangered the future of the state fair employment office.</p>
@@ -643,7 +643,7 @@ improvement package...")is matched by the report's high-handed tone. "The exempt
         </div2>
         <div2 xml:id="sc01-8_009" n="8" type="Article">
           <head>Health care: School Breakfast in the South Federal Funds Available Compared With Funds Used Fiscal 1978</head>
-          <byline>By <docAuthor><name type="person">Judy Currie</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Currie, Judy</reg><sic>Judy Currie</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 22-23</docDate>
           
           <p xml:id="sc01-8_10279">Since getting an adequate diet is important in order to perform at
@@ -679,7 +679,7 @@ was only costing the school system $50 per month, but the school board cancelled
         </div2>
         <div2 xml:id="sc01-8_010" n="9" type="Article">
           <head>Southern Politics</head>
-          <byline>By <docAuthor><name type="person">Steve Suitts</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1979-05">Vol. 1, No. 8, 1979, pp. 23-24</docDate>
           
           <p xml:id="sc01-8_10288">In early April Jesse Helms of North Carolina appeared on the virtually deserted floor of the U.S. Senate and, after receiving recognition to debate the issue of a separate federal department of education, introduced an amendment to return prayer to the nation's public schools. The amendment proposed to legislate away the federal court's jurisdiction to hear cases involving state laws permitting voluntary prayer in public schools.</p>

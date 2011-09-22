@@ -45,7 +45,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <div2 xml:id="sc01-5_003" n="1" type="Article">
           <head>When Shall We Overcome?</head>
           <byline>By 
-                    <docAuthor><name type="person"><choice><reg>Lincoln, C. Eric</reg><orig>C. Eric Lincoln</orig></choice></name></docAuthor></byline>
+                    <docAuthor><name type="person"><choice><reg>Lincoln, C. Eric</reg><sic>C. Eric Lincoln</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 4-5</docDate>
           
           <p xml:id="sc01-5_104">A man died. That was eleven years ago. </p>
@@ -120,7 +120,7 @@ in Durham, North Carolina.</p>
         </div2>
         <div2 xml:id="sc01-5_004" n="2" type="Article">
           <head>Declining Donkeydom in Presleyland</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Lewis, Boyd</reg><orig>Boyd Lewis</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Lewis, Boyd</reg><sic>Boyd Lewis</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 6</docDate>
           
           <p xml:id="sc01-5_1026">It was 100 years ago that cartoonist Thomas Nast decided to portray the Democratic Party as a flop-eared jackass and the Republican Party as an elephant of clearly low-wattage intelligence. Amazingly, neither party felt insulted by the nasty Mr. Nast and over the years the animal icons came to symbolize party identity and outlook.</p>
@@ -146,7 +146,7 @@ publicized show of unity, joy and Prussian organization. But as with the weather
         </div2>
         <div2 xml:id="sc01-5_005" n="3" type="Article">
           <head>The Wallace Phenomenon</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Russakoff, Dale</reg><orig>Dale Russakoff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Russakoff, Dale</reg><sic>Dale Russakoff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 7-9</docDate>
           
           <p xml:id="sc01-5_1040">Perhaps a rosy-cheeked, 18-year-old beauty said it best when she pushed toward the center of attention at "George Wallace Appreciation Day" in Montgomery recently.</p>
@@ -228,7 +228,7 @@ senior citizens from Geneva, relatives from Clayton, a beautician from Jasper, a
         <div2 xml:id="sc01-5_006" n="4" type="Article">
           <head>Johnny 'Imani' Harris and the Alabama Death Sentence
 </head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gardner, Tom</reg><orig>om Gardner</orig></choice>T</name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gardner, Tom</reg><sic>om Gardner</sic></choice>T</name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 10-14</docDate>
           
           <p xml:id="sc01-5_10102">"It's Time for a New Beginning." proclaims a campaign billboard for Alabama's new governor-elect, Fob James. With Wallace gone and anyone new coming in, many Alabamans have responded to that slogan with a new sense of hope for their state.</p>
@@ -354,7 +354,7 @@ the other for medical treatment  We had to make and sign a statement before even
         </div2>
         <div2 xml:id="sc01-5_007" n="5" type="Article">
           <head>Montgomery Widows: A Struggle to Survive</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Hughes, Roxie</reg><orig>Roxie Hughes</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Hughes, Roxie</reg><sic>Roxie Hughes</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 15-17</docDate>
           
           <p xml:id="sc01-5_10173">Florence, who prefers not to be otherwise identified, lives in the same small white house east of downtown Montgomery where she was born some 90 years ago. She lived alone until she became ill recently and now shares her home with a neighbor who takes care of her. Her main concern, she says, is getting plumbing in her neighborhood so that she can have an indoor toilet.</p>
@@ -414,7 +414,7 @@ Montgomery.</p>
         <div2 xml:id="sc01-5_002" n="6" type="Article">
           <head>National Advisory Committee for Women and the 'Friday Afternoon
 Massacre'</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Reese, Lenora</reg><orig>Lenora Reese</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Reese, Lenora</reg><sic>Lenora Reese</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 18-20</docDate>
           
           <p xml:id="sc01-5_10215">A month ago, a random poll of the American people would probably have indicated few, if any, had ever heard of the National Advisory Committee for Women.</p>
@@ -474,7 +474,7 @@ Lenora Reese is on the staff at the Alabama Journal in Montgomery.</p>
         </div2>
         <div2 xml:id="sc01-5_008" n="7" type="Article">
           <head>EDUCATION</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 21-22</docDate>
           
           <p xml:id="sc01-5_10260">Cool is the word for discipline alternatives in the High Point, North Carolina public schools. As an acronym, Cool means character oriented optional learning. As a project for junior high school students, it includes alternative learning centers, diagnostic-prescriptive teaching, student rights and responsibilities and parent education.</p>
@@ -519,7 +519,7 @@ Service Committee Southeastern Public Education Program.</p>
         </div2>
         <div2 xml:id="sc01-5_009" n="8" type="Article">
           <head>HEALTH CARE</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-02">Vol. 1, No. 5, 1979, pp. 22-23</docDate>
           
           <p xml:id="sc01-5_10280">When your school-age child walks out the door, armed with books and lunch money, will that money be spent on the food in the lunch line, or will it be spent on other snacks, instead?</p>

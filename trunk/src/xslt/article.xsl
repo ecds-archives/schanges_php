@@ -4,7 +4,8 @@
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:xq="http://metalab.unc.edu/xq/"
 	xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:exist="http://exist.sourceforge.net/NS/exist">
+	xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	version="1.0">
 
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
@@ -47,9 +48,16 @@
 
 <xsl:template match="tei:byline">
   <xsl:element name="i">
-    <xsl:value-of select="."/>
+    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
+<xsl:template match="tei:docAuthor">
+  <xsl:apply-templates/>
+</xsl:template>
+<xsl:template match="tei:name">
+ <xsl:apply-templates select="tei:choice/tei:sic"/>
+</xsl:template>
+
 <xsl:template match="tei:docDate">
 <xsl:element name="p">
   <xsl:apply-templates/>
@@ -186,12 +194,19 @@
 
 <!-- sic : show 'sic' as an editorial comment -->
 <xsl:template match="tei:sic">
+<xsl:choose>
+<xsl:when test="not(ancestor::tei:name)">
   <xsl:apply-templates select="text()"/>
   <!-- show the text between the sic tags -->
   <xsl:element name="span">
     <xsl:attribute name="class">editorial</xsl:attribute>
 	[sic]
   </xsl:element>
+</xsl:when>
+<xsl:otherwise>
+<xsl:apply-templates/>
+</xsl:otherwise>
+</xsl:choose>
 </xsl:template>
 
 
