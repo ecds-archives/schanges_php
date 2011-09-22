@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+		xmlns:tei="http://www.tei-c.org/ns/1.0"
   version="1.0">
 
   <xsl:output method="xml"/>
@@ -22,18 +23,16 @@
     <div class="kwic">
       <p>
         <a>
-          <xsl:attribute name="href">article.php?id=<xsl:value-of select="//@id"/>&amp;<xsl:value-of select="$url_suffix"/></xsl:attribute>
-          <xsl:value-of select="//head"/>, 
-        </a><xsl:apply-templates select="//docAuthor/name"/>, 
-    <xsl:apply-templates select="//docDate"/>
+          <xsl:attribute name="href">article.php?id=<xsl:value-of select="//@xml:id"/>&amp;<xsl:value-of select="$url_suffix"/></xsl:attribute>
+          <xsl:value-of select="//tei:head"/>, 
+        </a><xsl:apply-templates select="//tei:docAuthor/tei:name//tei:sic"/>, 
+    <xsl:apply-templates select="//tei:docDate"/>
       </p>
     </div>
-   
     <xsl:apply-templates select="//context"/>
-
   </xsl:template>
 
-<xsl:template match="name">
+<xsl:template match="tei:name//tei:sic">
     <xsl:choose>
       <xsl:when test="position() = 1"/>
       <xsl:when test="position() = last()">
@@ -46,7 +45,9 @@
     <xsl:apply-templates />
 </xsl:template>
 
-
+<xsl:template match="context/p">
+<p><xsl:apply-templates/></p>
+</xsl:template>
 
   <!-- use kwic mode to show context # of words around match terms -->
 <!--  <xsl:template match="//p|//head|//note|//item"> -->
@@ -56,7 +57,7 @@
   </xsl:template> -->
 
   <!-- poetry lines are short enough; shouldn't need parsing out words -->
-  <xsl:template match="l">
+  <xsl:template match="tei:l">
     <p><xsl:apply-templates/></p>
   </xsl:template>
 

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:exist="http://exist.sourceforge.net/NS/exist"
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
   version="1.0" exclude-result-prefixes="exist">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
@@ -48,11 +49,11 @@
         <tr>
           <xsl:if test="//item/hits"><th class="hits">hits</th></xsl:if>
           <th class="num">#</th>
-          <xsl:if test="//item/head"><th>title</th></xsl:if>
-          <xsl:if test="//item/name"><th>author</th></xsl:if>
-          <xsl:if test="//item/docDate"><th>date</th></xsl:if>
-	<xsl:if test="//item/subject"><th>subject</th></xsl:if>
-        <xsl:if test="//item/editor"><th>editor</th></xsl:if>
+          <xsl:if test="//item/tei:head"><th>title</th></xsl:if>
+          <xsl:if test="//item/tei:name//tei:sic"><th>author</th></xsl:if>
+          <xsl:if test="//item/tei:docDate"><th>date</th></xsl:if>
+	<xsl:if test="//item/tei:subject"><th>subject</th></xsl:if>
+        <xsl:if test="//item/tei:editor"><th>editor</th></xsl:if>
 
       </tr>
     </thead>
@@ -75,20 +76,20 @@
       <!-- there should ALWAYS be a table cell for a field if any of
       the records include that field (e.g., some texts that have no date) -->
 
-      <xsl:if test="//item/head"> 
+      <xsl:if test="//item/tei:head"> 
 	<td class="title"><xsl:element name="a">
 	  <xsl:attribute name="href">article.php?id=<xsl:value-of
-	select="id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
-	  <xsl:apply-templates select="head" mode="table"/>
+	select="id/@xml:id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
+	  <xsl:apply-templates select="tei:head" mode="table"/>
 	</xsl:element></td>
       </xsl:if>
-      <xsl:if test="//item/name">
+      <xsl:if test="//item/tei:name//tei:sic">
         <td class="author"  width="20%">
-<xsl:apply-templates select="name" />
+<xsl:apply-templates select="tei:name//tei:sic" />
     </td>
       </xsl:if>
-      <xsl:if test="//item/docDate">
-        <td class="date"  width="25%"><xsl:apply-templates select="docDate" mode="table"/></td>
+      <xsl:if test="//item/tei:docDate">
+        <td class="date"  width="25%"><xsl:apply-templates select="tei:docDate" mode="table"/></td>
       </xsl:if>
     <xsl:if test="//item/subject">
         <td><xsl:apply-templates select="subject" mode="table"/></td>
@@ -108,7 +109,7 @@
     <td class="hits">
       <a>
         <xsl:attribute name="href">kwic.php?id=<xsl:value-of
-	select="../id/@id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
+	select="../id/@xml:id"/>&amp;keyword=<xsl:value-of select="$keyword"/></xsl:attribute>
         <xsl:apply-templates select="."/>
       </a>
     </td>
@@ -127,7 +128,7 @@
 
 
 <!-- possibly multiple names in table mode -->
-<xsl:template match="item/name">
+<xsl:template match="item/tei:name">
   <a>
     <xsl:attribute name="href">search.php?author=<xsl:value-of select="normalize-space(.)"/></xsl:attribute>
     <xsl:apply-templates/>

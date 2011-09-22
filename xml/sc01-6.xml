@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc01-6_103"><title>Southern Changes</title>. Volume 1, Number 6, <date when="1979-03">1979</date></p>
         <div2 xml:id="sc01-6_003" n="1" type="Article">
           <head>Tribute to Gwendolyn Cherry</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 2-3</docDate>
           
           <p xml:id="sc01-6_104"> On February 7, Gwen Cherry, the Vice-President of the Southern
@@ -99,7 +99,7 @@ vision.
         </div2>
         <div2 xml:id="sc01-6_004" n="2" type="Article">
           <head>A RETURN TO THE SUN</head>
-                  <byline>By <docAuthor><name type="institution"><choice><reg>Sun</reg><orig>Sun</orig></choice></name> &amp; <name type="institution"><choice><reg>Rep</reg><orig>REP</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="institution"><choice><reg>Sun</reg><sic>Sun</sic></choice></name> &amp; <name type="institution"><choice><reg>Rep</reg><sic>REP</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 4, 12</docDate>
           
           <p xml:id="sc01-6_1013">Five thousand years ago men worshipped the sun. After a 50 century hiatus, man is turning his attention and hope - toward that same sun. Today, we are caught in the middle of the most sophisticated technological web ever spun on this earth. The spider is energy - fossil fuels like coal, oil and natural gas, and nuclear power. There is one possible avenue of escape - the sun, and its energy in the form of wind power, water power, biomass, geothermal energy and others.</p>
@@ -145,7 +145,7 @@ SUN/REP, Suite 412, 3110 Maple Dr., Atlanta, Georgia 30305. Phone:
         </div2>
         <div2 xml:id="sc01-6_005" n="3" type="Article">
           <head>Black Farmers: A Vanishing Breed</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Press, Robert M.</reg><orig>Robert M. Press</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Press, Robert M.</reg><sic>Robert M. Press</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 5-7</docDate>
           
           <p xml:id="sc01-6_1027"><hi rend="bold">Bolivar County, Mississippi</hi>-Mary Coleman
@@ -230,7 +230,7 @@ Society. All rights reserved.</p>
         </div2>
         <div2 xml:id="sc01-6_013" n="4" type="Article">
           <head>Solar Greenhouses: The Greening of the South</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 3, 1979 pp. 8-10</docDate>
           
           <p xml:id="sc01-6_1091">
@@ -315,7 +315,7 @@ Farming" magazine. December 1977.</p>
         </div2>
         <div2 xml:id="sc01-6_007" n="5" type="Interview">
           <head>Solar Greenhouses: A Method of Survival for Small Farmers</head>
-                  <byline>By <docAuthor><name type="institution"><choice><reg>Graham Center Staff</reg><orig>the Staff of the Graham Center</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="institution"><choice><reg>Graham Center Staff</reg><sic>the Staff of the Graham Center</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 10-12</docDate>
           
           <p xml:id="sc01-6_10135">Today, the American small farmer is an endangered species. As control of land and the farm economy has concentrated in fewer and fewer hands, one of the biggest migrations in human history has occurred during the past 40 years as millions of people have moved into urban areas. In 1977, American farms vanished at the rate of 500 a week. In the South, the nation's fastest growing area, change in rural patterns are especially dramatic. Estimates project that Black-owned land in the rural South is disappearing at the rate of 6000 acres per week. At the present rate of attrition, the Black Southern farmer may well be extinct by 1990.</p>
@@ -363,7 +363,7 @@ sow seeds on Good Friday. If I had a greenhouse we could set out with transplant
         </div2>
         <div2 xml:id="sc01-6_006" n="6" type="Article">
           <head>Wilcox County--A Day in Wilcox County: 1967</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Hunter, Floyd</reg><orig>Floyd Hunter</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Hunter, Floyd</reg><sic>Floyd Hunter</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 13-14</docDate>
           
           <p xml:id="sc01-6_10153">
@@ -417,7 +417,7 @@ on Professional Rights and Responsibilities, June 1967.</p>
         </div2>
         <div2 xml:id="sc01-6_002" n="7" type="Article">
           <head>A New Day in Wilcox County: 1978</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Swift, Harriet</reg><orig>Harriet Swift</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Swift, Harriet</reg><sic>Harriet Swift</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 15, 16, 28</docDate>
           
           <p xml:id="sc01-6_10180">"Bad Wilcox," the civil rights workers used to call it.</p>
@@ -492,7 +492,7 @@ Harriet Swift is a copy editor at the <title>Birmingham Post-Herald</title>.
         </div2>
         <div2 xml:id="sc01-6_014" n="8" type="Article">
           <head>Problems  of Pain</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Adamson, June</reg><orig>June Adamson</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Adamson, June</reg><sic>June Adamson</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 17-18</docDate>
           
           <p xml:id="sc01-6_10218">The X-rays had been taken and I lay on the emergency room cot in the curtained cubicle waiting for the doctor to see whether I had any reason to be in such pain. My car had gone into a skid on the icy interstate and I felt lucky to be alive. But the breath had been knocked out of me, and now there was this intolerable pain in my side and under by shoulder blade. It was a Sunday, and I felt grateful that an orthopedic specialist who was an acquaintance was willing to come to the hospital to help me.</p>
@@ -534,7 +534,7 @@ June Adamson, a former working journalist, now teaches journalism at the Univers
         </div2>
         <div2 xml:id="sc01-6_008" n="9" type="Article">
           <head>Segregation Order at Reidsville Prison</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Looney, Ginny</reg><orig>Ginny Looney</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Looney, Ginny</reg><sic>Ginny Looney</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp.19-21</docDate>
           
           <p xml:id="sc01-6_10240">In southeast Georgia last summer, the day before Independence Day, a decade of legal precedent was overturned at Georgia State Prison in Reidsville when U.S. District Judge Anthony Aliamo ordered the segregation of dormitories for a 60-day period. The segregation order, issued to cool tempers and ease the tension, came after one prisoner was killed and five others were wounded during a racial fight, one of a series of revengeful attacks since November 1976 that killed five inmates and injured 47. The court told prison officials to assign Black and White inmates to alternating dormitories in checkerboard fashion; the cell blocks, dining hall, recreation and work areas remained integrated.</p>
@@ -596,7 +596,7 @@ studying the effects of rape on women and the ways they resolve problems caused 
         </div2>
         <div2 xml:id="sc01-6_009" n="10" type="Article">
           <head>Games Prison Bureaucrats Play: The Story of the Olympic Prison</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Hall, Andy</reg><orig>Andy Hall</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Hall, Andy</reg><sic>Andy Hall</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp.22-25</docDate>
           
           <p xml:id="sc01-6_10273">In 11 short months the small village of Lake Placid, nestled high in the Adirondack mountain range of upstate New York, will provide the setting for the 13th Winter Olympiad. President Carter will preside at the opening ceremonies to symbolize the Olympic tradition, and, no doubt, to enunciate the desire of the American people for world peace and freedom for all people.</p>
@@ -697,7 +697,7 @@ in the Southern states.</p>
         </div2>
         <div2 xml:id="sc01-6_johnston.010" n="11" type="Article">
           <head>URBAN AND RURAL DEVELOPMENT</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Johnston, Diane</reg><orig>Diane Johnston</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Johnston, Diane</reg><sic>Diane Johnston</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 26</docDate>
           
           <p xml:id="sc01-6_10312">"...they were ready to face the odds and fight for what they fervently believe in -- the future of the family farmer." That was how <title>Atlanta Journal</title> reporter Charles Seabrook described the atmosphere surrounding the American Agricultural Movement's (AAM) tractorcade to the nation's capitol this January. It was the farmers' second trip to Washington to protest what they felt were unjustly low farm incomes. En route in January, the Southern contingent of the AAM stopped by the Southern Regional Council's office to hold a press briefing for the Atlanta media. It was an attempt on their part to help the media understand their complaints and to offer them an opportunity to explain their position relative to the rest of the nation as consumers.</p>
@@ -717,7 +717,7 @@ the American Agricultural Movement, remains uncertain.</p>
         </div2>
         <div2 xml:id="sc01-6_011" n="12" type="Article">
           <head>SOUTHERN WOMEN</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-03">Vol. 1, No. 6, 1979, pp. 27-28</docDate>
           
           <p xml:id="sc01-6_10324">Women are now in the majority of college students in the South, according to an analysis by the Southern Regional Education Board (SREB) of preliminary statistics of last fall's collegiate enrollment.</p>

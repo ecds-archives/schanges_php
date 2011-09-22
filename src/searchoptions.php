@@ -21,6 +21,8 @@
 <ul class ="searchtips"><b>Search tips:</b>
 <li>Search terms are matched against <i>whole words.</i></li>
 <li>Multiple words are allowed.</li>
+<li>Use "" to search a phrase. For example: "civil rights".</li>
+<li>Use AND to narrow a search. For example: "civil rights" AND women.</li>
 <li>Asterisks may be used when searching for multiple words from one root. <br/>
 For example, enter <b>resign*</b> to match <b>resign</b>, <b>resigned</b>, and
 <b>resignation</b>. </li>

@@ -1,8 +1,9 @@
 <?php
+//schanges
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -11,12 +12,13 @@ global $abbrev;
 global $collection;
 
 
-$kw = $_REQUEST["keyword"];
+$kw = stripslashes($_REQUEST["keyword"]);
 $doctitle = $_REQUEST["doctitle"];
 $auth = $_REQUEST["author"];
 $date = $_REQUEST["date"];
 //$subj = $_REQUEST["subject"];
-
+//$kw = stripslashes($kw);
+echo "DEBUG: keyword = $kw\n";
 
 $pos = $_REQUEST["position"];
 $max = $_REQUEST["max"];
@@ -28,13 +30,13 @@ $htmltitle = "Southern Changes Digital Archive";
 
 $options = array();
 if ($kw) 
-  array_push($options, ". &= \"$kw\"");
+  array_push($options, "ft:query(., '$kw')");
 if ($doctitle)
-  array_push($options, ".//div2/head &= '$doctitle'");
+  array_push($options, "ft:query(tei:head, '$doctitle')");
 if ($auth)
-  array_push($options, "(.//div2/byline/docAuthor/name &= '$auth' or .//div2/byline/docAuthor/name/@reg &= '$auth')");
+  array_push($options, "ft:query(tei:byline/tei:docAuthor, '$auth')");
 if ($date)
-  array_push($options, "(.//div2/docDate &= '$date' or .//div2/docDate/@value &= '$date')");
+  array_push($options, "ft:query(tei:docDate | tei:docDate/@when, '$date')");
 /*if ($subj)
  array_push($options, ".//keywords/list/item &= '$subj'");*/ //add subj later
 
@@ -44,15 +46,16 @@ if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
   //print("DEBUG: Searchfilter is $searchfilter");
   
-  $query = "declare option exist:serialize 'highlight-matches=all';
-for \$a in /TEI.2//div2$searchfilter
-let \$t := \$a/head
-let \$doc := \$a/@id
-let \$auth := \$a/byline/docAuthor/name
-let \$date := \$a/docDate
-let \$matchcount := text:match-count(\$a)
+  $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';
+for \$a in //tei:div2$searchfilter
+let \$t := \$a/tei:head
+let \$doc := \$a/@xml:id
+let \$auth := \$a/tei:byline/tei:docAuthor/tei:name
+let \$date := \$a/tei:docDate
+let \$matchcount := ft:score(\$a)
 order by \$matchcount descending
-return <item>{\$a/@id}";
+return <item>";
   if ($kw)	// only count matches for keyword searches
     $query .= "<hits>{\$matchcount}</hits>";
   $query .= "

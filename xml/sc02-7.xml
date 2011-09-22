@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc02-7_103"><title>Southern Changes</title>. Volume 2, Number 7, <date when="1980-06">1980</date></p>
         <div2 xml:id="sc02-7_002" n="1" type="Article">
           <head>A Tribute to Bell Wiley</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, pp. 2</docDate>
           
           <p xml:id="sc02-7_104">When I was at the University of Alabama I once had a theory that most professors and administrators showed up at meetings late because it was the custom of the university at that time to begin classes 10 minutes after the hour or half hour. With that impression of most college professors I was, of course, a bit surprised in a small way when Bell Wiley came to our meetings at the SRC offices usually ahead of time.</p>
@@ -57,7 +57,7 @@ way that reminded me of the sage of the backwoods country store who always seeme
         </div2>
         <div2 xml:id="sc02-7_003" n="2" type="Article">
           <head>In this Issue</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, pp. 2-3</docDate>
           
           <p xml:id="sc02-7_1010">About this time of year in 1948 a simple, yet remarkable occurence
@@ -134,7 +134,7 @@ been known or practiced on this soil.</p>
         </div2>
         <div2 xml:id="sc02-7_004" n="3" type="Article">
           <head>Survival Week Protests Budget Cuts</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis Sharp</reg><orig>anis Sharp Powell</orig></choice>J</name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis Sharp</reg><sic>anis Sharp Powell</sic></choice>J</name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, p. 4</docDate>
           
           <p xml:id="sc02-7_1021">"No cuts in poor people's programs" was the message being sent to Congress and the nation by the poor people and labor, civil rights, tenants and religious organizations involved in planning Survival Week.</p>
@@ -158,7 +158,7 @@ current rate of inflation, without an increase, the poor will have a
         </div2>
         <div2 xml:id="sc02-7_006" n="4" type="Article">
           <head>The Measure of Poverty</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Einsenberg, Pablo</reg><orig>Pablo Einsenberg</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Einsenberg, Pablo</reg><sic>Pablo Einsenberg</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, pp. 5-6</docDate>
           
           <p xml:id="sc02-7_1028">When Lyndon Johnson proclaimed his unconditional War on Poverty in 1964, no one knew precisely the number or even the definition of "poor." As a result, the Council of Economic Advisors quickly sought to designate the poverty population and concluded among other things that in 1961 a family of two or more making under $3,000 a year had been in official poverty.</p>
@@ -233,7 +233,7 @@ able to maintain gardens, they still must purchase basic needs. Rural stores, la
         </div2>
         <div2 xml:id="sc02-7_005" n="5" type="Article">
           <head>Political Changes in Terrible Terrell</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Chaney, Betty</reg><orig>Betty Chaney</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Chaney, Betty</reg><sic>Betty Chaney</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, pp. 7-10</docDate>
           
           <p xml:id="sc02-7_1053">On a winter's day in January 1980, Dawson, Georgia, internationally known for the racially inflamed "Dawson Five" murder trial of three years ago, quietly eased itself into the pages of history again. For this small, predominately Black, southwestern Georgia town, the county seat for "Terrible Terrell" County, making history is not something new. Back in 1960 it became the first jurisdiction to be sued by the Justice Department under the 1957 Civil Rights Act for discrimination in voter registration. This time, however, unlike much of its past history when Black men lined up against White to do battle, three Black men stood alongside three White men and were sworn in together as Dawson City Council members.</p>
@@ -311,7 +311,7 @@ a page from Dawson's history yet to be written.</p>
         </div2>
         <div2 xml:id="sc02-7_007" n="6" type="Article">
           <head>The Past Of Lowndes County's Future</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gordon, Tom</reg><orig>Tom Gordon</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gordon, Tom</reg><sic>Tom Gordon</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06"> Vol. 2, No. 7, 1980, pp. 11-16</docDate>
           
           <p xml:id="sc02-7_1090">HAYNEVILLE, ALA.—The 124-year-old courthouse in this Black Belt town once was the political hub and social watering hole for White Lowndes countians. Remembered as stylish and attractive, the whitewashed building with green shutters not only housed most county government offices but also was the site of square dances, dress balls, and other items on the social calendars of the local White populace. The dances usually took place in the second floor's courtroom, where couples would reach from an inside staircase or from two winding outer stairways facing the courthouse square.</p>
@@ -398,7 +398,7 @@ Star</hi> in Alabama.</p>
         </div2>
         <div2 xml:id="sc02-7_008" n="7" type="Article">
           <head>Half Pints and Rain Barrels: Hunger in Alabama</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Greenhaw, Wayne</reg><orig>Wayne Greenhaw</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Greenhaw, Wayne</reg><sic>Wayne Greenhaw</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06"> Vol. 2, No. 7, 1980, pp. 17-19</docDate>
           
           <p xml:id="sc02-7_10146">A dark-skinned woman with a sharp straight nose, aged twisted lips,and legs slightly bigger around than a half dollar, Annie Bell Brown looked surprised when more than forty people walked into her scrub-brush front yard.</p>
@@ -478,7 +478,7 @@ and a rustied-out car in the front yard.</p>
         </div2>
         <div2 xml:id="sc02-7_009" n="8" type="Article">
           <head>McDuffie: The Case Behind Miami's Riots</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gaines-Carter, Patrice</reg><orig>Patrice Gaines-Carter</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gaines-Carter, Patrice</reg><sic>Patrice Gaines-Carter</sic></choice></name></docAuthor></byline>
           <docDate when="1980-06">Vol. 2, No. 7, 1980, pp. 20-23</docDate>
           
           <p xml:id="sc02-7_10178">The story has changed several times since its beginning the morning of December 17, in Miami, Florida. It was about 1:50 a.m when police officers there say they spotted Arthur Lee MeDuffie, a Black insurance executive, doing daredevil stunts on his motorcycle.</p>

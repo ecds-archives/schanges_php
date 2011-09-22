@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc01-3_103"><title>Southern Changes</title> Volume 1, Number 3, <date when="1978-12">1978</date></p>
         <div2 xml:id="sc01-3_003" n="1" type="Article">
           <head>Human Rights and the South</head>
-          <byline>By <docAuthor><name type="person">Leslie Dunbar</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Dunbar, Leslie</reg><sic>Leslie Dunbar</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 3-5, 28</docDate>
           
           <p xml:id="sc01-3_104">In the closing months of the pre-atomic age, the Southern Regional Council was formed out of conviction that race was the central issue of the South. Though it may seem to us that nearly all else has changed during the hectic decades since, I doubt that race has yet yielded its place, though the problems it shapes and propels grow in their own various ways.</p>
@@ -122,7 +122,7 @@ into a lovely gift to our republic, and to human kind.</p>
         </div2>
         <div2 xml:id="sc01-3_006" n="2" type="Article">
           <head>The South's Clout After Its Retiring Congressmen</head>
-          <byline>By <docAuthor><name type="person">Tom Fiedler</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Fiedler, Tom</reg><sic>Tom Fiedler</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 6-7</docDate>
           
           <p xml:id="sc01-3_1042">Early this year, when fighting erupted in the "new" civil war pitting the Sunbelt against the Frostbelt, the Southern Growth Policies Board packed up its research staff and moved north to Washington, D.C.</p>
@@ -170,7 +170,7 @@ years.</p>
         </div2>
         <div2 xml:id="sc01-3_005" n="3" type="Article">
           <head>Southern Elections: A State by State Version</head>
-          <byline>By <docAuthor><name>SRC Staff</name></docAuthor></byline>
+          <byline>By <docAuthor><name><choice><reg>SRC Staff</reg><sic>SRC Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 8-11, 25-29</docDate>
           
           <p xml:id="sc01-3_1077">Former populist Governor Big Jim Folsom of Alabama once said that politics was for him like, "courtin' a beautiful woman - if you can't spend a lot of money you're gonna have to do a little lyin'." Yet, the days of suds bucket and singing "you are my sunshine" off key - symbols of Folsom's success - are gone and Big Jim's confessed wisdom has been adapted for the modern times of Southern politics. Now, in courtin' Southern voters, a candidate is required to do both.</p>
@@ -360,7 +360,7 @@ years.</p>
         </div2>
         <div2 xml:id="sc01-3_002" n="4" type="Article">
           <head>Tommy Lee Hines and the Cullman Saga</head>
-          <byline>By <docAuthor><name type="person">Bob Dart</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Dart, Bob</reg><sic>Bob Dart</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 12-15</docDate>
           
           <p xml:id="sc01-3_10179">Squatting in the marbled hallways, the wrinkled hangers-on, found
@@ -441,7 +441,7 @@ courthouse and discussed how to handle the invasion of Black radicals they belie
         <div2 xml:id="sc01-3_004" n="5" type="Article">
           <head>Tupelo: Hometown in Turmoil</head>
           <byline>By 
-            <docAuthor><name type="person">Betty Norwood Chaney</name></docAuthor></byline>
+            <docAuthor><name type="person"><choice><reg>Chaney, Betty Norwood</reg><sic>Betty Norwood Chaney</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 16-19</docDate>
           
           <p xml:id="sc01-3_10241">"Hey, they got a jitney jungle," a Black kid with a Michigan brogue exclaimed to his traveling companion as the bus wound its way into the small Mississippi town. "That's boss," he concluded with approval. This link to his own home in the North suddenly elevated the South a bit in his esteem.</p>
@@ -504,8 +504,8 @@ is our town.</p>
         </div2>
         <div2 xml:id="sc01-3_007" n="6" type="Article">
           <head>The Dying Memory of Hugo Black</head>
-          <byline>By <docAuthor><name type="person">Thomas Noland</name></docAuthor></byline>
-          <docDate when="1978-12">Vol. 1, No. 3, 1978, pp.20-21</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Noland, Thomas</reg><sic>Thomas Noland</sic></choice></name></docAuthor></byline>
+          <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 20-21</docDate>
           <epigraph rend="bold">
             <p xml:id="sc01-3_10282">"Mr. Justice Black and myself were both natives of Clay County. Each of us dearly loved and revered our native origins and the peoples thereof. He brought to that community and that people very great honors and very great responsibilities to honor and respect his memory.</p>
             <p xml:id="sc01-3_10283">"No other community of people ever has faced such a situation and such an opportunity in the history of our nation as far as I know. If we fail to do our part he is not necessarily disgraced as much as are we."</p>
@@ -582,8 +582,8 @@ yielded a grand total of $4,000. Flegel still wants to try to gather enough mone
         </div2>
         <div2 xml:id="sc01-3_008" n="7" type="Article">
           <head>Southern Women</head>
-          <byline>By <docAuthor><name type="person">Tina Williams</name></docAuthor></byline>
-          <docDate when="1978-12">Vol. 1, No. 3, 1978, pp.23</docDate>
+          <byline>By <docAuthor><name type="person"><choice><reg>Williams, Tina</reg><sic>Tina Williams</sic></choice></name></docAuthor></byline>
+          <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 23</docDate>
           
           <p xml:id="sc01-3_10318">In Atlanta recently, the YWCA Vocational Counseling Center in conjunction with Project Focus, a CETA funded program offering vocational counseling to high school students, hosted a career conference, featuring a panel of professional Black women in mostly non-traditional career areas. The purpose of the conference was to expose the mostly Black female audience to information, resources and techniques for job hunting.</p>
           <p xml:id="sc01-3_10319">Women about to enter the work force for the first time, college
@@ -606,7 +606,7 @@ Ga. 30303.</p>
         </div2>
         <div2 xml:id="sc01-3_009" n="8" type="Article">
           <head>Economic Development</head>
-          <byline>By <docAuthor><name type="person">Mark Levinson</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Levinson, Mark</reg><sic>Mark Levinson</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, p. 24</docDate>
           
           <p xml:id="sc01-3_10324">The debate over Aid to Families with Dependent Children (AFDC) is
@@ -648,7 +648,7 @@ organization.</p>
         </div2>
         <div2 xml:id="sc01-3_010" n="9" type="Article">
           <head>Health Care</head>
-          <byline>By <docAuthor><name type="person">Ron Sailor</name></docAuthor></byline>
+          <byline>By <docAuthor><name type="person"><choice><reg>Sailor, Ron</reg><sic>Ron Sailor</sic></choice></name></docAuthor></byline>
           <docDate when="1978-12">Vol. 1, No. 3, 1978, pp. 25</docDate>
           
           <p xml:id="sc01-3_10335">Southwest Community Hospital currently has only 125 beds - but it wants to build a new wing with 75 additional medical-surgical beds. The construction request, however, has been repeatedly turned down by the state health planning and development agency whose approval the hospital must have if federal dollars are to be used in the construction.</p>

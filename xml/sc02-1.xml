@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc02-1_103"><title>Southern Changes.</title>. Volume 2, Number 1, <date when="1979-09">1979</date></p>
         <div2 xml:id="sc02-1_002" n="1" type="Article">
           <head>In this Issue</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 2</docDate>
           
           <p xml:id="sc02-1_104">This issue brings <hi rend="italic">Southern Changes</hi> full
@@ -82,7 +82,7 @@ which make living in the South exciting and worrisome."</p>
         </div2>
         <div2 xml:id="sc02-1_003" n="2" type="Article">
           <head>The South's Economic Future</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 3-4</docDate>
           
           <p xml:id="sc02-1_1010">Southern state development leaders prefer low-wage industries and
@@ -183,7 +183,7 @@ each.
         </div2>
         <div2 xml:id="sc02-1_004" n="3" type="Article">
           <head>The Black Agenda For The 1980s</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Jordan, Vernon</reg><orig>Vernon Jordan</orig></choice>Vernon Jordan</name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Jordan, Vernon</reg><sic>Vernon Jordan</sic></choice>Vernon Jordan</name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 5-9</docDate>
           
           <p xml:id="sc02-1_1025"><hi rend="bold">Publisher's Note:</hi> <hi rend="italic">On July 22nd, National Urban League President Vernon Jordan delivered the keynote address at the organization's annual conference. Most news accounts closely covered the portions of Jordan's speech on the coming Presidential campaign where he stated, "the Black strategy should be to hang loose and make the candidates come to us. No one can win without the Black vote. " His remarks on the status of race relations and the agenda for Blacks in the 1980S deserve much more circulation than they have yet received.</hi></p>
@@ -274,7 +274,7 @@ faith in itself.</p>
         </div2>
         <div2 xml:id="sc02-1_005" n="4" type="Article">
           <head>Preparing Women For Engineering Technology</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Hoffius, Steve</reg><orig>Steve Hoffius</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Hoffius, Steve</reg><sic>Steve Hoffius</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 10-13</docDate>
           
           <p xml:id="sc02-1_1082">Katherine Prior is a nurse, a long-time nurse. For 18 years she has worked at hospitals in the Carolinas, returned to classes for more education, and now is a licensed, practical nurse. She has never made more than $4.10 an hour.</p>
@@ -328,7 +328,7 @@ is a former intern with SRC's <hi rend="italic">Southern Voices</hi>, and staff 
         </div2>
         <div2 xml:id="sc02-1_006" n="5" type="Article">
           <head>Harris Neck Battles U.S. Government</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Chini</reg><orig>Chini</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Chini</reg><sic>Chini</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 14-17</docDate>
           
           <p xml:id="sc02-1_10108">For the people of a tiny fishing and farming community located on Georgia's rich Atlantic coast, standing up to the Klan and going to jail are but small prices to pay in their 37-year struggle with the United States government for reclamation of their community.</p>
@@ -382,7 +382,7 @@ Chini is a member of the Southern Collective of African-American Writers.</p>
         </div2>
         <div2 xml:id="sc02-1_007" n="6" type="Article">
           <head>The Continuing Saga of the KKK</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Gallman, Vanessa J.</reg><orig>Vanessa J. Gallman</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Gallman, Vanessa J.</reg><sic>Vanessa J. Gallman</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 18-21</docDate>
           
           <p xml:id="sc02-1_10142">
@@ -436,7 +436,7 @@ with the Klan mentality, it's difficult to see an immediate reversal of the Klan
         </div2>
         <div2 xml:id="sc02-1_008" n="7" type="Article">
           <head>Southern Politics</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Mullen, Patric</reg><orig>Mullen, Patric</orig></choice>Patric Mullen</name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Mullen, Patric</reg><sic>Mullen, Patric</sic></choice>Patric Mullen</name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 22</docDate>
           
           <p xml:id="sc02-1_10174">By most press accounts the 1979 session of the North Carolina General Assembly was lack luster, if not dull. While North Carolina's deliberative body met for 108 legislative days and considered 2,480 bills, which resulted in 1,077 new laws, the mood in the legislative building was decidedly anti-growth in government. Governor Hunt presented a very modest legislative program with few new initiatives. Even before the session began in early January, the President of the Senate and the Speaker of the House were both talking about adjournment at the earliest possible date.</p>
@@ -466,7 +466,7 @@ discharge; eliminate the practice of spousal deeming; relieve parents of financi
         </div2>
         <div2 xml:id="sc02-1_009" n="8" type="Article">
           <head>Urban and Rural Development</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Moon, Harold</reg><orig>Harold Moon</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Moon, Harold</reg><sic>Harold Moon</sic></choice></name></docAuthor></byline>
           <docDate when="1979-09">Vol. 2, No. 1, 1979, pp. 23</docDate>
           
           <p xml:id="sc02-1_10185">The status of equal opportunity in housing will be greatly influenced by two contrasting changes presently underway in Washington. One endangers the reporting of vital information needed to test compliance with civil rights laws and the other proposes to enlarge the enforcement effects of the government to insure fair housing.</p>

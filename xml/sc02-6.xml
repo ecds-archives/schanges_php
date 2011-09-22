@@ -44,7 +44,7 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc02-6_103"><title>Southern Changes</title> Volume 2, Number 6, <date when="1980-03">1980</date></p>
         <div2 xml:id="sc02-6_002" n="1" type="Article">
           <head>In This Issue</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 2</docDate>
           
           <p xml:id="sc02-6_104">Probably no more persuasive eveidence of the divided and changeing
@@ -109,7 +109,7 @@ territory and influenced by the past we know as the South.</p>
         </div2>
         <div2 xml:id="sc02-6_003" n="2" type="Article">
           <head>The Fears of Race Relations: Confessions of a White Pastor</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Wohlgemuth, Paul F.</reg><orig>Paul F. Wohlgemuth</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Wohlgemuth, Paul F.</reg><sic>Paul F. Wohlgemuth</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 4-6</docDate>
           
           <p xml:id="sc02-6_1012">After serving 11 years as a pastor in two churches in racially changing areas I have concluded that nothing is more destructive to harmonious human relations than fear. I have analyzed my own feelings. I have observed and analyzed the words and actions of others. In all of these experiences and situations, attitudes and reactions, almost every time a racial problem is traced to its origin, it is found to be rooted in fear.</p>
@@ -171,7 +171,7 @@ Atlanta area.</p>
         </div2>
         <div2 xml:id="sc02-6_004" n="3" type="Article">
           <head>An Observation on New Orleans</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Assensoh, A.B.</reg><orig>A.B. Assensoh</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Assensoh, A.B.</reg><sic>A.B. Assensoh</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 7</docDate>
           
           <p xml:id="sc02-6_1040">Former Alabama Gov. George Wallace had achieved such racial notoriety that before my arrival from Africa in New Orleans, I perceived that all the Southern region of the United States was an extension of the state of Alabama. I knew of the existence of the other 10 states, including Louisiana but I seldom placed them within the geographical ambit of the South.</p>
@@ -186,7 +186,7 @@ Atlanta area.</p>
         <div2 xml:id="sc02-6_005" n="4" type="Article">
           <head>French Images of the
 American South</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Noland, Thomas</reg><orig>Thomas Noland</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Noland, Thomas</reg><sic>Thomas Noland</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 8-13</docDate>
           
           <p xml:id="sc02-6_1046">PARIS - As French television viewers watched in horror, 12 men
@@ -308,7 +308,7 @@ acquire is barely diffused beyond a closed circle of friends and associates. Mos
         </div2>
         <div2 xml:id="sc02-6_006" n="5" type="Article">
           <head>The Drama of Greensboro</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Young, Charles</reg><orig>Charles Young</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Young, Charles</reg><sic>Charles Young</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 14-19</docDate>
           
           <p xml:id="sc02-6_1083">Greensboro is the insurance capital of North Carolina, not a textile and tobacco town, as it was referred to in the national media back in November following the slaying of five leaders of the Communist Workers Party during the anti-Ku Klux Klan rally. The media may be excused its hasty retreat to historical stereotype, however, for the killings did take place in a Black neighborhood, and they were carried out by a band of raiding Klansmen. It is perhaps natural then, when viewing the incident from a distance, to assume that the attack falls into the pattern of old-fashioned Southern White-racists direct action. But the reality is a little more complicated than that.</p>
@@ -413,7 +413,7 @@ familiar face.</p>
         </div2>
         <div2 xml:id="sc02-6_007" n="6" type="Article">
           <head>A Year After Alabama's New Beginning</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Greenhaw, Wayne</reg><orig>Wayne Greenhaw</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Greenhaw, Wayne</reg><sic>Wayne Greenhaw</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 20-22</docDate>
           
           <p xml:id="sc02-6_10134">Less than a year after Governor Fob James took over the reins of government in Alabama from George Wallace, it was announced that the state was on the verge of bankruptcy.</p>
@@ -443,7 +443,7 @@ legislatures, according to one Black Belt lawmaker. "We are in a hell of a shape
 Women's Earnings: A Ten Year Review</head>
           <byline>
                     <docAuthor><name type="person"><choice><reg>Norwood, Janet L.</reg>
-                              <orig>Janet L. Norwood</orig></choice></name> and <name type="person"><choice><reg>Waidman, Elizabeth</reg><orig>Elizabeth Waidman</orig></choice></name></docAuthor>
+                              <sic>Janet L. Norwood</sic></choice></name> and <name type="person"><choice><reg>Waidman, Elizabeth</reg><sic>Elizabeth Waidman</sic></choice></name></docAuthor>
           </byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 23, 25</docDate>
           
@@ -478,7 +478,7 @@ self-confidence needed to seek aggressively the opportunities taken by men.</p>
         </div2>
         <div2 xml:id="sc02-6_009" n="8" type="Article">
           <head>Republican-Southern Democrat Coalition in Congress</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
           <docDate when="1980-03">Vol. 2, No. 6, 1980, pp. 23-25</docDate>
           
           <p xml:id="sc02-6_10161">A majority of the Republicans and Southern Democrats formed in 1979 an effective, conservative voting bloc which moved Congress to revamp national priorities towards more spending for national defense and away from domestic programs. A Congressional Quarterly study in late January illustrates that when the Democrats of the South and the Republicans throughout the country voted together on issues, they were most likely to prevail. Last year in 70 percent of the roll call votes in which the coalition occurred, Republicans and Southern Democrats won. In 1978, the coalition had only a 52 percent rate of success.</p>

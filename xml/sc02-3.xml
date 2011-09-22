@@ -44,8 +44,8 @@ inserted in compliance with TEI guidelines using teixlite.dtd</change><change xm
         <p xml:id="sc02-3_103"><title>Southern Changes.</title>. Volume 2, Number 3, <date when="1979-12">1979</date></p>
         <div2 xml:id="sc02-3_sc02-2002" n="1" type="Article">
           <head>In This Issue</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 2</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 2</docDate>
           
           <p xml:id="sc02-3_104">While admittedly too simple, much of the Southern life is still a
 saga about those two old notions of equality born in public policy
@@ -113,9 +113,9 @@ has been short.</p>
         </div2>
         <div2 xml:id="sc02-3_003" n="2" type="Article">
           <head>Greensboro Slayings</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis</reg><orig>Janis Powell</orig></choice></name> &amp;
-                            <name type="person"><choice><reg>Powell, Bob</reg><orig>Bob Powell</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 3</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis</reg><sic>Janis Powell</sic></choice></name> &amp;
+                            <name type="person"><choice><reg>Powell, Bob</reg><sic>Bob Powell</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 3</docDate>
           
           <p xml:id="sc02-3_1013">Five people were slain and nine wounded in Greensboro, North Carolina November 3 as they participated in an anti-Klan rally. Fourteen members of the United Racist Front, a coalition of Nazis and Klansmen, were arrested and charged with first degree murder or conspiracy to murder by local authorities in connection with the slayings.</p>
           <p xml:id="sc02-3_1014">The Communist Workers Party (CWP) had called the demonstration in Greensboro to protest the growing number of Klan attacks upon Black people and civil rights workers throughout the nation. One hour before the scheduled march and rally, the anti-Klan group of one hundred demonstrators changed the publicized meeting site from Windsor Center on Market Street to the Morningside Homes housing project. Both sites are in the Black community.</p>
@@ -149,8 +149,8 @@ Klux Klan nationwide.</p>
         </div2>
         <div2 xml:id="sc02-3_004" n="3" type="Article">
           <head>Changing Politics in Mississippi</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Klein, JoAnn</reg><orig>JoAnn Klein</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 5-6</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Klein, JoAnn</reg><sic>JoAnn Klein</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 5-6</docDate>
           
           <p xml:id="sc02-3_1031">Mississippi ― fresh from legislative reapportionment designed to better reflect racial composition of voting age population - became the state with the greatest number of Black elected officials in elections November 6. Long a hotbed of racial conflict and struggle, the Deep South state took over the top spot from Louisiana by electing record numbers of Blacks to county offices and four-year legislative terms.</p>
           <p xml:id="sc02-3_1032">In addition, William Winter, a former lieutenant governor, was elected governor by a 2-to-l majority. Winter, a three time candidate for the chief executive's slot, lost his first gubernatorial contest because he was considered too moderate on racial matters.</p>
@@ -181,8 +181,8 @@ along the Mississippi River.</p>
         </div2>
         <div2 xml:id="sc02-3_005" n="4" type="Article">
           <head>Election day in Mississippi</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Dorsey, L.C.</reg><orig>L.C. Dorsey</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 7-8</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Dorsey, L.C.</reg><sic>L.C. Dorsey</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 7-8</docDate>
           
           <p xml:id="sc02-3_1051">As almost a hundred people crowded into Henry J. Kirksey's campaign headquarters, it was clear that they were also keeping their eyes on other races in the state.</p>
           <p xml:id="sc02-3_1052">The November 6 general election saw the culmination of a concerted struggle for the fulfillment of the "one man, one vote" doctrine, which began in the mid-fifties, escalated in 1964 with the "Freedom Summer" activities and finally, fourteen years later, was realized when a federal court ordered plan guaranteed the election of Blacks to the Mississippi legislature.</p>
@@ -220,8 +220,8 @@ were also charges of vote-buying.</p>
         </div2>
         <div2 xml:id="sc02-3_006" n="5" type="Article">
           <head>Atlanta Blacks Lose in Special Election</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Lewis, Boyd</reg><orig>Boyd Lewis</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 9-10</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Lewis, Boyd</reg><sic>Boyd Lewis</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 9-10</docDate>
           
           <p xml:id="sc02-3_1073">It's the hottest political secret of Atlanta, the city "too busy to hate", that the unhorsed barons of the old White power structure are now busily stringing together a collection of "great White hopes" to recapture the city's top political position from Black office-holders.</p>
           <p xml:id="sc02-3_1074">There has been some anxiety as to just when the offensive will be launched. But with meticulous precision, the Ivan Allen Jr. Memorial Political Resurrection Machine is being assembled to pull the Atlanta mayorality, city council, county comission and the city's legislative delegation back into the right-thinking, White-thinking, commercially sensitive camp.</p>
@@ -254,8 +254,8 @@ Georgia.</p>
         </div2>
         <div2 xml:id="sc02-3_007" n="6" type="Article">
           <head>The Election of Birmingham's Black Mayor</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Casey, Ron</reg><orig>Ron Casey</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 11-14</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Casey, Ron</reg><sic>Ron Casey</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 11-14</docDate>
           
           <p xml:id="sc02-3_1094">Apparently there were two sets of voices vying- for Officer George Sand's attention as Birmingham Police Department car 71 pulled into the convenience store lot the night of June 22. The first was that of a White store employee whose co-worker stood inside with a bullet wound in his shoulder. "They're in there," Sands would later say he heard the worker yell as he pointed to a dark green Buick on the parking lot. "Look out. They've got a shotgun. They shot Mike." A group of Blacks would later testify they had been standing across the street yelling a different message to Sands: a warning he did not acknowledge.</p>
           <p xml:id="sc02-3_1095">In plainclothes and with drawn revolver, Sands and his partner began to edge toward the car, commanding its occupant to remain still. As the two officers reached the back door of the vehicle, the passenger lunged suddenly downward into the seat. Sands responded with an almost instantaneous burst of gunfire. Three of his four bullets struck 21 year old Bonita Carter in the back. Later it would be learned that the young Black woman had apparently had nothing to do with the assault on the store employee. She had been an acquaintance of the assailant and had gotten into the car at his request when he ran away.</p>
@@ -315,8 +315,8 @@ Ron Casey is an editorial writer for the <title>Birmingham News</title>.
         <div2 xml:id="sc02-3_008" n="7" type="Article">
           <head>The Business of Blacks In the Mississippi Delta</head>
           <byline>By 
-                    <docAuthor><name type="person"><choice><reg>Anderson, Robert, Jr.</reg><orig>Robert Anderson, Jr.</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 15-19</docDate>
+                    <docAuthor><name type="person"><choice><reg>Anderson, Robert, Jr.</reg><sic>Robert Anderson, Jr.</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 15-19</docDate>
           
           <p xml:id="sc02-3_10124">On a Sunday afternoon in the spring of 1967, two White physicians who were conducting a survey for the Field Foundation came to Belzoni, Mississippi, and spent three hours talking to Black families. Their findings on this visit and on visits to similar places in rural Mississippi would later help awaken the nation to the fact of hunger and malnutrition in the United States and would trigger legislation leading to an expanded food stamp program and maternal and infant feeding program.</p>
           <p xml:id="sc02-3_10125">The doctors wrote, "In sum, we saw children who are hungry and who are sick - children for whom hunger is a daily fact of life and sickness, in many forms, an inevitability. We do not want to quibble over words, but 'malnutrition' is not quite what we found; the boys and girls we saw were hungry - weak, in pain, sick, their lives are being shortened; they are, in fact, visibly and predictably losing their health, their spirits, their energy. They are suffering from hunger and disease and... they are dying from them - which is exactly what 'starvation' means."</p>
@@ -400,7 +400,7 @@ Manhattan Bank.</p>
         <div2 xml:id="sc02-3_009" n="8" type="Article">
           <head>Rural, Poor and Southern Directions of the Civil Rights Movement</head>
           <byline>By 
-                    <docAuthor><name type="person"><choice><reg>Anderson, Robert, Jr.</reg><orig>Robert Anderson, Jr.</orig></choice></name></docAuthor></byline>
+                    <docAuthor><name type="person"><choice><reg>Anderson, Robert, Jr.</reg><sic>Robert Anderson, Jr.</sic></choice></name></docAuthor></byline>
           <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 20-21</docDate>
           
           <p xml:id="sc02-3_10165">The American South has long had a singular attraction for scholars and journalists. The region has seemed to embody all our social and racial tensions. It has been all too easy to find in that society extreme examples of poverty and racism and the corrosive effects of both on the lives of people. In the last two decades a great deal of change has come to the South. Blacks at last have gained the right to vote, the right to equal educational opportunity, the right to equal employment - and the right to eat a hamburger at a lunch counter. In addition, the attitudes of Southern Whites have moderated to a degree that would have seemed impossible not too long ago.</p>
@@ -487,9 +487,9 @@ Poor,</hi> a Ford Foundation report.</p>
         </div2>
         <div2 xml:id="sc02-3_010" n="9" type="Article">
           <head>The Case for Small Farms</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Looney, Ginny</reg><orig>Ginny Looney</orig></choice></name>
-                            and <name type="person"><choice><reg>Norton, Duna</reg><orig>Duna Norton</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 22-25</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Looney, Ginny</reg><sic>Ginny Looney</sic></choice></name>
+                            and <name type="person"><choice><reg>Norton, Duna</reg><sic>Duna Norton</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 22-25</docDate>
           
           <p xml:id="sc02-3_10180">When the State Legislature was forming the next-to last county in Alabama in 1877 from the southernmost hills of the Appalachian chain, the legislators joked that the land was so poor a crow would have to carry a sack of corn to survive flying from one end of the county to the other. Yet, the land that became Cuilman County had by 1920 become the top producer of a variety of crops and has since had the largest farm sales of any county in the state.</p>
           <p xml:id="sc02-3_10182">While the reputation of Culiman County as a farming area has been
@@ -550,8 +550,8 @@ Duna Norton is director of the Agricultural Marketing Project in Tuscaloosa, Ala
         </div2>
         <div2 xml:id="sc02-3_011" n="10" type="Article">
           <head>Southern Politics</head>
-                  <byline>By <docAuthor><name><choice><reg>Staff</reg><orig>Staff</orig></choice>Staff</name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 26</docDate>
+                  <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice>Staff</name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 26</docDate>
           
           <p xml:id="sc02-3_10201">Alarmed by the enormous amounts of money that Political Action Committees (PACs) are contributing to campaigns, a majority of the members of the U.S. House of Representatives took a first step in October to limit the funds that PACs can contribute to House candidates.</p>
           <p xml:id="sc02-3_10202">In a 217-198 vote House members decided to limit the "arms race. . . of campaign dollars . . . ." in approving an amendment sponsored by Dem. David Obey of Wisconsin and Rep. Tom Railsback of Illinois. The amendment which applies only to the lower house of Congress would prohibit House candidates from receiving more than $70,000 from any or all PACs in any two-year period preceding an election.</p>
@@ -629,8 +629,8 @@ members voted "yea". No House member from Mississippi or Arkansas supported the 
         </div2>
         <div2 xml:id="sc02-3_012" n="11" type="Article">
           <head>Economic Development</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><orig>Steve Suitts</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 27</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 27</docDate>
           
           <p xml:id="sc02-3_10248">While the South continues to show signs of rapid economic activity,
 the rate of unemployment in the region, which has not been an
@@ -696,8 +696,8 @@ have not yet been seen by Southerners in the unemployment lines.</p>
         </div2>
         <div2 xml:id="sc02-3_013" n="12" type="Article">
           <head>Southern Women</head>
-                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis</reg><orig>Janis Powell</orig></choice></name></docAuthor></byline>
-          <docDate when="1979-12">Vol. 2, No. 3., 1979, pp. 28</docDate>
+                  <byline>By <docAuthor><name type="person"><choice><reg>Powell, Janis</reg><sic>Janis Powell</sic></choice></name></docAuthor></byline>
+          <docDate when="1979-12">Vol. 2, No. 3, 1979, pp. 28</docDate>
           
           <p xml:id="sc02-3_10258">With an official proclamation and the announcement of an annual
 scholarship in her name, October 16 was declared as a day to honor
