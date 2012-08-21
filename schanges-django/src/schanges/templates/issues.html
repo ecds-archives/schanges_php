@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}SChanges Issues{% endblock %}
+
+{% block content %}
+{% if issues %}
+    <ul>
+    {% for issue in issues %}
+        <li>
+{% if issue.id %}
+<a href="{% url issue_links issue.id %}">{{ issue.title }}</a>  
+{% else %} 
+{{ issue.title }}
+  {% endif %}
+        </li>
+    {% endfor %}
+   </ul>
+{% else %}
+    <p>Nothing found.</p>
+{% endif %} 
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+
+
+{% block title %}Article{% endblock %}
+{% block content %}
+{% if article %}
+  {% if format %}
+    {{ format|safe }}
+  {% else %}
+    <p>No format</p>
+  {% endif %}
+{% else %}
+    <p>Nothing found</p>
+{% endif %}
+
+
+<!--<pre>{{letter.body.serializeDocument}}</pre>-->
+
+{% endblock %}

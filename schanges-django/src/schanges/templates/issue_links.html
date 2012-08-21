@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+
+{% block title %}Issue Links{% endblock %}
+{% block content %}
+
+<p>This is a temporary page that provides links to a page displaying the
+full issue and one that displays a single article.  Ultimately, it
+should be replaced by a page that provides links to each article.</p>
+
+{% if issue.id %}
+  <p><a href="{% url issue_display issue.id %}">Display Full Issue</a></p>
+  <p><a href="{% url article_table issue.id %}">Display First Article</a></p>
+{% else %}
+    <p>Nothing found.</p>
+{% endif %}
+{% endblock content %}
+
