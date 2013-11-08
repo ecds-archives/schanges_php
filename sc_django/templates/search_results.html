@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}Search{% endblock %}
+{% block content %}
+{% include "browse-head.html" %}
+
+
+<p><b>Search results for texts where:</b></p>
+{% if keyword %}
+<li>document contains keywords '{{keyword}}'</li
+{% endif %}
+{% if author %}
+<li>author matches '{{author}}'</li>
+{% endif %}
+{% if title %}
+<li>title matches '{{title}}'</li>
+{% endif %}
+{% if article_date %}
+<li>date matches '{{article}}'</li>
+{% endif %}
+
+<hr>
+
+{% if server_error %}{{ server_error }}{% endif %}
+
+{% if searchform.is_valid %}
+<table class="searchnav">
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a>Next></a></td>
+    <td><a>Last>></a></td>
+  </tr>
+ </tbody>
+</table>
+    
+
+<p>{{ articles_paginated.paginator.count }} matches found</p>
+<p>Click on the number of hits to see your search terms in context. Click on the title to view the whole article. Click on the author name to view more articles by that author.</p>
+
+<table class="browse">
+  <thead style="font-size:small;">
+    <tr>
+      <th class="hits">hits</th>
+      <th class="num">#</th>
+      <th>title</th>
+      <th>author</th>
+      <th>date</th>
+    <tr/>
+  </thead>
+  <tbody align="left" valign="top" style="font-size:small;">  
+  {% for article in articles_paginated.object_list %}
+    <tr>
+      <td class="hits">
+	<a href="{% url "article_display" article.issue.id article.id
+  %}{% if keyword %}?keyword={{ keyword }}{% endif %}">{% article.count("{{keyword}}") %}</a>
+      </td>
+      <td class="num" width="4%">$N</td>
+
+
+      <td class="title>
+	<a href="{% url "article_display" article.issue_id article.id %}">{{article.head}}</a>
+      </td>
+
+
+      <td class="author" width="20%">
+	<a href="{% url "search" %}{% if author %}?author={{article.author}}{% endif %}">{{article.author}}</a>
+      </td>
+      <td class="date" width="25%">{{article.pages}}</td>
+    </tr>
+  {% endfor %}
+</table>
+ 
+{% endif %}
+
+{% endblock %}
