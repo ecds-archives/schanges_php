@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+
+{% block title %}Issue Contents{% endblock %}
+{% block content %}
+
+<h2>Issue Contents</h2>
+
+{% if issue %}
+ <h3> {{ issue.title }} </h3>
+
+  {% for article in issue.divs %}
+     <p><tr>
+       <td><a href="{% url "article_display" issue.id article.id %}">{{ article.head }}</a></td>
+       <td>{{ article.author }}</td>
+       <td>{{ article.type }}</td>
+       <td>{{ article.pages }}</td>
+     </tr></p>
+  {% endfor %}
+
+  <h4><a href="{% url "issue_display" issue.id %}">Display Full Issue</a></h4>
+     
+{% endif %}
+
+{% endblock content %}
+
