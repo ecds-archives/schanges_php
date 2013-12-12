@@ -10,8 +10,8 @@ from django.core.paginator import Paginator, InvalidPage, EmptyPage, PageNotAnIn
 from django.template import RequestContext
 from django.shortcuts import redirect
 
-from schanges.models import Issue, Article, Fields, TeiDoc, Topics
-from schanges.forms import SearchForm
+from sc_django.models import Issue, Article, Fields, TeiDoc, Topics
+from sc_django.forms import SearchForm
 
 from eulxml.xmlmap.core import load_xmlobject_from_file
 from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap
@@ -26,6 +26,9 @@ def index(request):
 
 def overview(request):
   return render_to_response('overview.html', context_instance=RequestContext(request))
+
+def acknowledgments(request):
+  return render_to_response('acknowledgments.html', context_instance=RequestContext(request))
 
 def searchform(request):
     "Search by keyword/author/title/article_date"
@@ -45,7 +48,7 @@ def searchform(request):
         if 'article_date' in form.cleaned_data and form.cleaned_data['article_date']:
             search_opts['date__contains'] = '%s' % form.cleaned_data['article_date']
                 
-        articles = Article.objects.only("id", "head", "author", "date", "issue_id").filter(**search_opts)
+        articles = Article.objects.only("id", "head", "author", "date", "issue_id", "pages").filter(**search_opts).order_by('-fulltext_score')
 
         searchform_paginator = Paginator(articles, number_of_results)
         
@@ -65,11 +68,7 @@ def searchform(request):
         context['author'] = form.cleaned_data['author']
         context['title'] = form.cleaned_data['title']
         context['article_date'] = form.cleaned_data['article_date']
-
-        context['letters'] = letters
-        context['letters_paginated'] = searchbox_page
-        context['keyword'] = form.cleaned_data['keyword']
-           
+        
         response = render_to_response('search_results.html', context, context_instance=RequestContext(request))
                  
         
@@ -84,43 +83,32 @@ def searchform(request):
 def issues(request):
   "Browse list of issues"
   context = {}
-  issues = Issue.objects.only('id', 'date', 'head',).order_by('date')
-  list_1 = []
-  list_2 = []
-  list_3 = []
-  list_4 = []
-  list_5 = []
-  #stuff = issues.serialize()
+  issues_1 = ['1978-1982']
+  issues_2 = ['1983-1987']
+  issues_3 = ['1988-1992']
+  issues_4 = ['1993-1999']
+  issues_5 = ['2000-2003']
+  issues = Issue.objects.only('id', 'date', 'head', 'year').order_by('date')
   for issue in issues:
-    year = issue.date[:4]
-    if year > 1978:
-      list_1.append(issue)
-    else:
-      pass
-    if issue.date >= 1985-01-01 and issue.date < 1990-01-01:
-      list_2.append(issue)
-    else:
-      pass
-    if issue.date >= 1990-01-01 and issue.date < 1995-01-01:
-      list_3.append(issue)
-    else:
-      pass
-    if issue.date >= 1995-01-01 and issue.date < 2000-01-01:
-      list_4.append(issue)
-    else:
-      pass
-    if issue.date >= 2000-01-01 and issue.date < 2005-01-01:
-      list_5.append(issue)
-    else:
-      pass
+    if int(issue.year) < 1983:
+      issues_1.append(issue)
+    if int(issue.year) > 1982 and int(issue.year) < 1988:
+      issues_2.append(issue)
+    if int(issue.year) > 1987 and int(issue.year) < 1993:
+      issues_3.append(issue)
+    if int(issue.year) > 1992 and int(issue.year) < 2000:
+      issues_4.append(issue)
+    if int(issue.year) > 1999:
+      issues_5.append(issue)
+  groups = [issues_1, issues_2, issues_3, issues_4, issues_5]
+
+  "Browse list of topics"
+  topics = Topics.objects.all()
+  
   context['issues'] = issues
-  context['list_1'] = list_1
-  context['list_2'] = list_2
-  context['list_3'] = list_3
-  context['list_4'] = list_4
-  context['list_5'] = list_5
-  context['year'] = year
-  #context['stuff'] = stuff
+  context['groups'] = groups
+  context['topics'] = topics
+  
   return render_to_response('issues.html', context, context_instance=RequestContext(request))
 
 def topics(request):
@@ -128,17 +116,32 @@ def topics(request):
   topics = Topics.objects.all()
   return render_to_response('topics.html', {'topics' : topics}, context_instance=RequestContext(request))
 
-def topic_list(request, topic_id):
+def topic_toc(request, topic_id):
   "Browse articles in a single topic."
   topic = Topics.objects.get(id__exact=topic_id)
   extra_fields = ['issue__id']
-  docs = Article.objects.also(*extra_fields).filter(ana__contains=topic_id)
-  return render_to_response('topic_list.html', {'topic' : topic, 'docs' : docs}, context_instance=RequestContext(request))
+  articles = Article.objects.also(*extra_fields).filter(ana__contains=topic_id)
+  return render_to_response('topic_toc.html', {'topic' : topic, 'articles' : articles}, context_instance=RequestContext(request))
 
 def issue_toc(request, doc_id):
   "Display the contents of a single issue."
   issue = Issue.objects.get(id__exact=doc_id)
-  return render_to_response('issue_toc.html', {'issue': issue,}, context_instance=RequestContext(request))
+  #Loading query sets into lists is very slow. Need another solution.
+  all_issues = Issue.objects.order_by('date')
+  issue_list = []
+  for i in all_issues:
+    issue_list.append(i)
+  if issue in issue_list:
+    position = issue_list.index(issue)
+    try:
+      prev_issue = issue_list[position-1]
+    except:
+      prev_issue = None
+    try:
+      next_issue = issue_list[position+1]
+    except:
+      next_issue = None
+  return render_to_response('issue_toc.html', {'issue': issue, 'issue_list': issue_list, 'prev_issue': prev_issue, 'next_issue': next_issue}, context_instance=RequestContext(request))
 
 def issue_display(request, doc_id):
     "Display the contents of a single issue."
@@ -151,12 +154,11 @@ def issue_display(request, doc_id):
 
 def article_display(request, doc_id, div_id):
   "Display the contents of a single article."
-  
   try:
-    extra_fields = ['issue__id', 'issue__title']
-    div = Article.objects.filter(issue__id=doc_id).get(id=div_id)
-    body = div.xsl_transform(filename=os.path.join(settings.BASE_DIR, 'xslt', 'issue.xslt'))
-    return render_to_response('article_display.html', {'div': div, 'body' : body.serialize()}, context_instance=RequestContext(request))
+    return_fields = ['issue_id', 'issue_title', 'nextdiv_id', 'nextdiv_title', 'prevdiv_id', 'prevdiv_title', 'nextdiv_pages', 'prevdiv_pages', 'nextdiv_type', 'prevdiv_type']
+    article = Article.objects.also(*return_fields).filter(issue__id=doc_id).get(id=div_id)
+    body = article.xsl_transform(filename=os.path.join(settings.BASE_DIR, 'xslt', 'issue.xslt'))
+    return render_to_response('article_display.html', {'article': article, 'body' : body.serialize()}, context_instance=RequestContext(request))
   except DoesNotExist:
         raise Http404
 

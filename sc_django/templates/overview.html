@@ -4,7 +4,7 @@
 {% block title %}Overview{% endblock %}
 {% block content %}
 {% include "browse-head.html" %}
-
+<div class="content">
 <?xml version="1.0" encoding="UTF-8"?>
 <h2 xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/">The <i>Southern Changes</i> Digital
 Archive</h2>
@@ -45,6 +45,8 @@ Council.</p>
 <p>Prof. Allen Tullos <br xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/"/>Editor of <i xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/">Southern Changes</i>, 1982-2003.  <br xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/"/><i>SC</i>DA Project Director.</p>
 <p>Alice Hickcox <br xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/"/>Electronic Text Specialist <br xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/"/>Beck Center,
 Woodruff  Library <br xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:xql="http://metalab.unc.edu/xql/"/>Emory University</p>
-
-
+<div class="acklink">
+  <a href="{% url "acknowledgments" %}">Acknowledgments</a>
+</div>
+</div>
 {% endblock %}

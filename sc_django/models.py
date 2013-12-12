@@ -29,8 +29,9 @@ class Issue(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
     divs = NodeListField('//tei:div2', Fields)
-    date = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
+    date = StringField('//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
     head = StringField('//tei:div1/tei:head')
+    year = StringField('//tei:div1/tei:p/tei:date')
 
 class Article(XmlModel, TeiDiv):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
@@ -44,6 +45,20 @@ class Article(XmlModel, TeiDiv):
     pages = StringField("tei:docDate")
     issue = NodeField('ancestor::tei:TEI', Issue)
     issue_id = NodeField('ancestor::tei:TEI/@xml:id', Issue)
+    issue_title = NodeField('ancestor::tei:TEI//tei:div1/tei:head', Issue)
+    nextdiv = NodeField("following::tei:div2[1]", "self")
+    prevdiv = NodeField("preceding::tei:div2[1]", "self")
+    nextdiv_id = NodeField("following::tei:div2[1]/@xml:id","self")
+    prevdiv_id = NodeField("preceding::tei:div2[1]/@xml:id", "self")
+    nextdiv_title = NodeField("following::tei:div2[1]/tei:head","self")
+    prevdiv_title = NodeField("preceding::tei:div2[1]/tei:head", "self")
+    nextdiv_pages = NodeField("following::tei:div2[1]/tei:docDate","self")
+    prevdiv_pages = NodeField("preceding::tei:div2[1]/tei:docDate","self")
+    nextdiv_type = NodeField("following::tei:div2[1]/@type","self")
+    prevdiv_type= NodeField("preceding::tei:div2[1]/@type","self")
+    
+
+    
     ana = StringField("@ana", "self") 
    
 class Topics(XmlModel):
