@@ -39,6 +39,7 @@ def searchform(request):
     number_of_results = 20
       
     if form.is_valid():
+
         if 'keyword' in form.cleaned_data and form.cleaned_data['keyword']:
             search_opts['fulltext_terms'] = '%s' % form.cleaned_data['keyword']
         if 'author' in form.cleaned_data and form.cleaned_data['author']:
@@ -47,7 +48,7 @@ def searchform(request):
             search_opts['head__fulltext_terms'] = '%s' % form.cleaned_data['title']
         if 'article_date' in form.cleaned_data and form.cleaned_data['article_date']:
             search_opts['date__contains'] = '%s' % form.cleaned_data['article_date']
-                
+              
         articles = Article.objects.only("id", "head", "author", "date", "issue_id", "pages").filter(**search_opts).order_by('-fulltext_score')
 
         searchform_paginator = Paginator(articles, number_of_results)
@@ -125,23 +126,31 @@ def topic_toc(request, topic_id):
 
 def issue_toc(request, doc_id):
   "Display the contents of a single issue."
-  issue = Issue.objects.get(id__exact=doc_id)
-  #Loading query sets into lists is very slow. Need another solution.
-  all_issues = Issue.objects.order_by('date')
-  issue_list = []
-  for i in all_issues:
+  ids = Issue.objects.only('id')
+  list = []
+  for i in ids:
+    list.append(i.id)
+  position = list.index(doc_id)
+  try:
+    prev = list[position-1]
+  except:
+    prev = None
+  try:
+    next = list[position+1]
+  except:
+    next = None
+  id_list = [prev, doc_id, next]
+      
+  issues= Issue.objects.filter(id__in=id_list)
+  issue_list =[]
+  for i in issues:
     issue_list.append(i)
-  if issue in issue_list:
-    position = issue_list.index(issue)
-    try:
-      prev_issue = issue_list[position-1]
-    except:
-      prev_issue = None
-    try:
-      next_issue = issue_list[position+1]
-    except:
-      next_issue = None
-  return render_to_response('issue_toc.html', {'issue': issue, 'issue_list': issue_list, 'prev_issue': prev_issue, 'next_issue': next_issue}, context_instance=RequestContext(request))
+  for i in issue_list:
+    issue = issue_list[1]
+    prev_issue = issue_list[0]
+    next_issue = issue_list[2]
+
+  return render_to_response('issue_toc.html', {'issue': issue, 'id_list': id_list, 'issue_list': issue_list, 'prev_issue': prev_issue, 'next_issue': next_issue}, context_instance=RequestContext(request))
 
 def issue_display(request, doc_id):
     "Display the contents of a single issue."
@@ -154,9 +163,16 @@ def issue_display(request, doc_id):
 
 def article_display(request, doc_id, div_id):
   "Display the contents of a single article."
+  if 'keyword' in request.GET:
+    search_terms = request.GET['keyword']
+    url_params = '?' + urlencode({'keyword': search_terms})
+    filter = {'highlight': search_terms}    
+  else:
+    url_params = ''
+    filter = {}
   try:
     return_fields = ['issue_id', 'issue_title', 'nextdiv_id', 'nextdiv_title', 'prevdiv_id', 'prevdiv_title', 'nextdiv_pages', 'prevdiv_pages', 'nextdiv_type', 'prevdiv_type']
-    article = Article.objects.also(*return_fields).filter(issue__id=doc_id).get(id=div_id)
+    article = Article.objects.also(*return_fields).filter(issue__id=doc_id).filter(**filter).get(id=div_id)
     body = article.xsl_transform(filename=os.path.join(settings.BASE_DIR, 'xslt', 'issue.xslt'))
     return render_to_response('article_display.html', {'article': article, 'body' : body.serialize()}, context_instance=RequestContext(request))
   except DoesNotExist:

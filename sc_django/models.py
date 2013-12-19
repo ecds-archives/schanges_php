@@ -28,6 +28,7 @@ class TeiDoc(Tei):
 class Issue(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
+    id = StringField('@xml:id')
     divs = NodeListField('//tei:div2', Fields)
     date = StringField('//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:date/@when')
     head = StringField('//tei:div1/tei:head')

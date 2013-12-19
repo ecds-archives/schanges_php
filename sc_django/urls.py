@@ -20,7 +20,7 @@ urlpatterns = patterns('sc_django.views',
     url(r'^topics$', 'topics', name='topics'),
     url(r'^(?P<doc_id>[^/]+)/contents$', 'issue_toc', name="issue_toc"),
     url(r'^(?P<doc_id>[^/]+)/issue$', 'issue_display', name="issue_display"),
-    url(r'^(?P<doc_id>[^/]+)/(?P<div_id>[^/]+)/$', 'article_display', name='article_display'),
+    url(r'^(?P<doc_id>[^/]+)/(?P<div_id>[^/]+)$', 'article_display', name='article_display'),
     url(r'^(?P<topic_id>[^/]+)/articles$', 'topic_toc', name='topic_toc'),
     )
 

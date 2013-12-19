@@ -7,7 +7,7 @@
 
 <p><b>Search results for texts where:</b></p>
 {% if keyword %}
-<li>document contains keywords '{{keyword}}'</li
+<li>document contains keywords '{{keyword}}'</li>
 {% endif %}
 {% if author %}
 <li>author matches '{{author}}'</li>
@@ -16,7 +16,7 @@
 <li>title matches '{{title}}'</li>
 {% endif %}
 {% if article_date %}
-<li>date matches '{{article}}'</li>
+<li>date matches '{{article_date}}'</li>
 {% endif %}
 
 <hr>
@@ -91,7 +91,7 @@
 
 
       <td class="title">
-	<a href="{% url "article_display" article.issue_id article.id %}">{{article.head}}</a>
+	<a href="{% url "article_display" article.issue_id article.id %}{% if keyword %}?keyword={{ keyword }}{% endif %}">{{article.head}}</a>
       </td>
 
 

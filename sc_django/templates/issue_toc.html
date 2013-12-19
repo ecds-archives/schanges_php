@@ -6,6 +6,10 @@
 <div class="content">
 <h2>Articles</h2>
 
+{% for id in id_list %}
+  <p>{{id.id}}</p>
+{% endfor %}
+  
 <h3>Issue: {{ issue.title }} </h3>
 <table class="contents">
   <tbody>
