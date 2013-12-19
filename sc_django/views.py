@@ -126,7 +126,7 @@ def topic_toc(request, topic_id):
 
 def issue_toc(request, doc_id):
   "Display the contents of a single issue."
-  ids = Issue.objects.only('id')
+  ids = Issue.objects.only('id').order_by('id')
   list = []
   for i in ids:
     list.append(i.id)
