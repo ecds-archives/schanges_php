@@ -1,6 +1,0 @@
-sample sandbox query for topics
-
-declare namespace tei= 'http://www.tei-c.org/ns/1.0';
-declare namespace xi= 'http://www.w3.org/2001/XInclude';
-for $a in collection("/db/schanges/")//tei:div2[contains(@ana,'#T1')]
-return $a
