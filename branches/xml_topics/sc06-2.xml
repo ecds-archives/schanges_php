@@ -1,19 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc06-2_1204">
-  <teiHeader xml:id="sc06-21201"><fileDesc>
-      <titleStmt>
-        <title>Southern Changes.  Volume 6, Number 2</title>
-        <respStmt>
-          <resp>Compiled and edited by</resp>
-          <name>staff</name>
-        <name/></respStmt>
-      </titleStmt>
-      <extent/>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace><address>
-          <addrLine>Atlanta,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc06-2_1204">
+   <teiHeader xml:id="sc06-21201">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 6, Number 2</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
 Georgia</addrLine>
-        </address><idno type="ark" n="sc06-2_002">http://pid.emory.edu/ark:/25593/149xz</idno><idno type="ark" n="sc06-2_003">http://pid.emory.edu/ark:/25593/149z3</idno><idno type="ark" n="sc06-2_004">http://pid.emory.edu/ark:/25593/14b0b</idno><idno type="ark" n="sc06-2_005">http://pid.emory.edu/ark:/25593/14b1g</idno><idno type="ark" n="sc06-2_006">http://pid.emory.edu/ark:/25593/14b2m</idno><idno type="ark" n="sc06-2_007">http://pid.emory.edu/ark:/25593/14b3r</idno><idno type="ark" n="sc06-2_008">http://pid.emory.edu/ark:/25593/14b4w</idno><idno type="ark" n="sc06-2_009">http://pid.emory.edu/ark:/25593/14b51</idno><idno type="ark" n="sc06-2_010">http://pid.emory.edu/ark:/25593/14b65</idno><availability>
-          <p xml:id="sc06-2_101">1996 Emory
+            </address>
+            <idno type="ark" n="sc06-2_002">http://pid.emory.edu/ark:/25593/149xz</idno>
+            <idno type="ark" n="sc06-2_003">http://pid.emory.edu/ark:/25593/149z3</idno>
+            <idno type="ark" n="sc06-2_004">http://pid.emory.edu/ark:/25593/14b0b</idno>
+            <idno type="ark" n="sc06-2_005">http://pid.emory.edu/ark:/25593/14b1g</idno>
+            <idno type="ark" n="sc06-2_006">http://pid.emory.edu/ark:/25593/14b2m</idno>
+            <idno type="ark" n="sc06-2_007">http://pid.emory.edu/ark:/25593/14b3r</idno>
+            <idno type="ark" n="sc06-2_008">http://pid.emory.edu/ark:/25593/14b4w</idno>
+            <idno type="ark" n="sc06-2_009">http://pid.emory.edu/ark:/25593/14b51</idno>
+            <idno type="ark" n="sc06-2_010">http://pid.emory.edu/ark:/25593/14b65</idno>
+            <availability>
+               <p xml:id="sc06-2_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -21,54 +37,91 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability><date>1996</date></publicationStmt>
-      <seriesStmt>
-        <title>Southern Changes Digital Archive</title>
-      </seriesStmt>
-      <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date when="1984-03">March-April 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
-      </sourceDesc>
-    </fileDesc><encodingDesc><projectDesc>
-        <p xml:id="sc06-2_102">This text is produced in conjunction with the
+            </availability>
+            <date>1996</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Digital Archive</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Southern Changes</title>. <biblScope type="volume">Volume 6</biblScope>, <biblScope type="issue">Number 2</biblScope>. <date when="1984-03">March-April 1984</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:id="sc06-2_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-      </projectDesc>
-            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
-  <text xml:id="sc06-2_1203">
-    <body xml:id="sc06-2_1202">
+         </projectDesc>
+         <refsDecl>
+            <p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date>
+         </change>
+         <change>
+            <date>1998</date>
+            <label>Staff</label>
+            <name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change>
+         <change>
+            <date>2007</date>
+            <label>Electronic text specialist</label>
+            <name>Alice Hickcox</name>text in div2/@n replaced with number</change>
+         <change>
+            <date>April 2008</date>
+            <label>Electronic Text Specialist</label>
+            <name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:id="sc06-2_1203">
       <div1 xml:id="sc06-2_001" n="Southern Changes 6:2" type="Issue">
-        <head>Southern Changes.  Volume 6, Number 2, 1984</head>
-        <p xml:id="sc06-2_103"><title>Southern Changes</title>.  Volume 6, Number 2, <date when="1984-03">1984</date></p>
-        <div2 xml:id="sc06-2_002" n="1" type="Article">
-          <head>Figures of speech--High Tech Drifter</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Tullos, Allen</reg><sic>Allen Tullos</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 1-3</docDate>
-          
-          <p xml:id="sc06-2_104">
-            <hi rend="italic">There is an unmistakable glint in Dirty Gary's eye
+         <head>Southern Changes.  Volume 6, Number 2, 1984</head>
+         <p xml:id="sc06-2_103">
+            <title>Southern Changes</title>.  Volume 6, Number 2, <date when="1984-03">1984</date>
+         </p>
+         <div2 xml:id="sc06-2_002" n="1" type="Article">
+            <head>Figures of speech--High Tech Drifter</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Tullos, Allen</reg>
+                        <sic>Allen Tullos</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 1-3</docDate>
+            <interp>
+               <certainty ana="#T10" degree="31"/>
+            </interp>
+            <p xml:id="sc06-2_104">
+               <hi rend="italic">There is an unmistakable glint in Dirty Gary's eye
 as he takes point blank aim at the man who holds the Democratic Party
 hostage. "Go ahead Mondale, make my day."</hi>
-          </p>
-          <p xml:id="sc06-2_105">
-            <hi rend="italic">"Dry up and blow away, Gary, " snaps the bleary
+            </p>
+            <p xml:id="sc06-2_105">
+               <hi rend="italic">"Dry up and blow away, Gary, " snaps the bleary
 Fritz, his arm tightening around the neck of the Nomination as he
 backpedals toward San Francisco.</hi>
-          </p>
-          <p xml:id="sc06-2_106">As the Live Eye opens, the hawk-faced Coloradan is taking
+            </p>
+            <p xml:id="sc06-2_106">As the Live Eye opens, the hawk-faced Coloradan is taking
 questions.</p>
-          <p xml:id="sc06-2_107">"Senator, your rapid rise this primary season brings to this
+            <p xml:id="sc06-2_107">"Senator, your rapid rise this primary season brings to this
 reporter's mind the recent blockbuster movie 'Sudden Impact.' But just
 how long can you continue to build a presidential campaign out of
 Clint Eastwood scripts?"</p>
-          <p xml:id="sc06-2_108">"Just as long," counters Dirty Gary, "as Eastwood continues to call
+            <p xml:id="sc06-2_108">"Just as long," counters Dirty Gary, "as Eastwood continues to call
 himself an independent, Western, charismatic, Jeffersonian Democrat,
 not especially big on gun control."</p>
-          <p xml:id="sc06-2_109">"But Eastwood's not fresh," argues a columnist. "He's a
+            <p xml:id="sc06-2_109">"But Eastwood's not fresh," argues a columnist. "He's a
 dinosaur. Why don't you get with the team?"</p>
-          <p xml:id="sc06-2_1010">"It's true," says Dirty Gary, "Eastwood's films have roots in the
+            <p xml:id="sc06-2_1010">"It's true," says Dirty Gary, "Eastwood's films have roots in the
 vigilante past, but they respond to the hidden agendas of the new
 idealism of self-interest. They are for youngsters of any age. They
 also happen to be the only scenarios which can beat the
@@ -76,41 +129,41 @@ Death-Valley-warmed-over plot lines of Reagan in November. I offer a
 choice between the past and the future: government on horseback and by
 twenty-muleteam or the digital cowboy on the microwave range--the
 Western Sizzler."</p>
-          <p xml:id="sc06-2_1011">"Aren't you getting a bit ahead of yourself? What about
+            <p xml:id="sc06-2_1011">"Aren't you getting a bit ahead of yourself? What about
 Mondale?"</p>
-          <p xml:id="sc06-2_1012">"Mondale is mush. Until after New Hampshire all he did was retreat
+            <p xml:id="sc06-2_1012">"Mondale is mush. Until after New Hampshire all he did was retreat
 beyond understatement. He's part of the complacent, back-scratching,
 bloated menagerie of Washington insiders who have the look of
 losers. Their butts have the shape of the chairs behind their
 desks.</p>
-          <p xml:id="sc06-2_1014">"Eastwood," continues Dirty Gary, "always has to move against the
+            <p xml:id="sc06-2_1014">"Eastwood," continues Dirty Gary, "always has to move against the
 corrupt, bureacratic organization men--the bosses on the take--at the
 same time as he pinches 
 <pb xml:id="sc06-2_1013" n="2"/>
 off the heads of the low-life hoodlums who
 make life hard for young, urban professionals in parking garages and
 in the elevators of fitness centers."</p>
-          <p xml:id="sc06-2_1015">"How do you respond," asks a savvy anchor, "to the often heard
+            <p xml:id="sc06-2_1015">"How do you respond," asks a savvy anchor, "to the often heard
 criticism that both you and Eastwood are steely, aloof loners with an
 Irish fatalistic sense of inevitability?"</p>
-          <p xml:id="sc06-2_1016">"Look," snaps Dirty Gary, "I put on my business suit like everybody
+            <p xml:id="sc06-2_1016">"Look," snaps Dirty Gary, "I put on my business suit like everybody
 else--one Lucchese boot at a time. I'm often called detached and laid
 back. That's just the way I am."</p>
-          <p xml:id="sc06-2_1017">"Senator, what do you mean when you say, 'People will know about me
+            <p xml:id="sc06-2_1017">"Senator, what do you mean when you say, 'People will know about me
 through what they read or what they see'?"</p>
-          <p xml:id="sc06-2_1018">"I mean television spots, airport fly-ins and full page newspaper
+            <p xml:id="sc06-2_1018">"I mean television spots, airport fly-ins and full page newspaper
 ads. As you know, our campaign has set the pace in making democracy
 safe for television. Iowa and the New England states were our test
 markets, but I've given up more than a year to learn how to appeal to
 the young and the restless--the voters who can decide the '84
 election.</p>
-          <p xml:id="sc06-2_1019">"Mondale dared to be cautions for too long while we have taken the
+            <p xml:id="sc06-2_1019">"Mondale dared to be cautions for too long while we have taken the
 initiative in making caution look daring. Consider my defense
 proposals for instance. I call for an increase even beyond Reagan's
 military budget and at the same time am able to appear both modern and
 pragmatic, and to lay claim to the high moral ground of the Nuclear
 Freeze.</p>
-          <p xml:id="sc06-2_1020">"We're patching up voter indifferences with a play to the young at
+            <p xml:id="sc06-2_1020">"We're patching up voter indifferences with a play to the young at
 heart. Computer graphics give us the look of the future in our video
 ads. We've benefited from my easily communicated maverick astringency
 and hatred of phoniness. We've also gained from Mondale's own TV
@@ -118,7 +171,7 @@ appearances with his crime boss' wet look, banker's suit and leaden
 eyelids. And, once the primary votes began to come in,
 Mondale--despite his fighting phrases--has not yet been able to wipe
 the chagrin off his face--even after Illinois.</p>
-          <p xml:id="sc06-2_1021">"Then," continues Dirty Gary, his words coming in an
+            <p xml:id="sc06-2_1021">"Then," continues Dirty Gary, his words coming in an
 uncharacteristic rush, "you know the advertisement that the New York
 <title>Times</title> runs for itself? The one that goes, 'Every
 message is at the mercy of its environment'? Well, we've made our
@@ -128,7 +181,7 @@ seen how in a single hour at an airport I can appear live on the news
 shows of every station in a local market. Also, we buy commercial time
 as close to the newscasts as we can get. Our spots look and sound as
 technically flashy and as newsy as the news appears entertaining.</p>
-          <p xml:id="sc06-2_1022">"Second, we choose key words, dramatic moods and poses in our ads
+            <p xml:id="sc06-2_1022">"Second, we choose key words, dramatic moods and poses in our ads
 to resemble those in commercials which are popular with the same
 audience that we are targeting. That way, successful products
 reinforce our message. Every time Chrysler touts the New Chrysler
@@ -139,58 +192,69 @@ for Pepsi: There's A Whole New Generation Out There. My biggest
 mistake in the campaign so far is letting Mondale beat me to 'Where's
 the beef?'. It's a real underdog's slogan--hype that pays upon the
 consumer's current distrust of hype."</p>
-          <p xml:id="sc06-2_1023">"I don't understand," confesses a reporter. "How can you expect to
+            <p xml:id="sc06-2_1023">"I don't understand," confesses a reporter. "How can you expect to
 benefit from the New Chrylser when everyone has heard that you voted
 against the bail-out."</p>
-          <p xml:id="sc06-2_1024">"Never mind. That's the past. My image of the new reminds you of
+            <p xml:id="sc06-2_1024">"Never mind. That's the past. My image of the new reminds you of
 other new images, they remind you of me and that generates the
 character of the emerging environment--which wouldn't be complete
 without Michael Jackson and the New Chrysler Corporation and AT&amp;T and
 Gary Hart. Bunkmates with the future.</p>
-          <p xml:id="sc06-2_1025">"We intend to make our place among a fast moving and exciting
+            <p xml:id="sc06-2_1025">"We intend to make our place among a fast moving and exciting
 ensemble of leading-edge imagery," says Dirty Gary through his rugged
 good looks. "Many citizens of the electronic village don't want their
 lifestyles to get out of phase. We want to be as necessary to their
 poise and moods of desire as a Pepsi."</p>
-          <p xml:id="sc06-2_1027">"Senator, it seems more and more likely that the party's nominee
+            <p xml:id="sc06-2_1027">"Senator, it seems more and more likely that the party's nominee
 will not be chosen until this summer's convention. How are you going
 to keep track of delegates, particularly the uncommitted?"
-<pb xml:id="sc06-2_1026" n="3"/></p>
-          <p xml:id="sc06-2_1028">"That's simple enough," answers Dirty Gary. "I'll do what
+<pb xml:id="sc06-2_1026" n="3"/>
+            </p>
+            <p xml:id="sc06-2_1028">"That's simple enough," answers Dirty Gary. "I'll do what
 Eastwood--or, for that matter, what Jack or Buddy Kennedy would
 do--break down the delegates' hotel room doors and see if they're
 dressed like neo-liberals. If not, I'll open fire. A final
 question?"</p>
-          <p xml:id="sc06-2_1029">"Yes. What happens when the Great Communicator hears about
+            <p xml:id="sc06-2_1029">"Yes. What happens when the Great Communicator hears about
 this?"</p>
-          <p xml:id="sc06-2_1030">"Reagan puts on his coat and tie just like I do," Dirty Gary
+            <p xml:id="sc06-2_1030">"Reagan puts on his coat and tie just like I do," Dirty Gary
 replies, "one shoulder holster at a time. I think it's clear that the
 New is not new enough for both of us."</p>
-        </div2>
-        <div2 xml:id="sc06-2_003" n="2" type="Article">
-          <head>Meese and Civil Rights</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Neas, Ralph G.</reg><sic>Ralph G. Neas</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 3-4</docDate>
-          
-          <p xml:id="sc06-2_1031">We are here this morning to announce that the Leadership Conference
+         </div2>
+         <div2 xml:id="sc06-2_003" n="2" type="Article">
+            <head>Meese and Civil Rights</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Neas, Ralph G.</reg>
+                        <sic>Ralph G. Neas</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 3-4</docDate>
+            <interp>
+               <certainty ana="#T13" degree="53.4"/>
+            </interp>
+            <p xml:id="sc06-2_1031">We are here this morning to announce that the Leadership Conference
 will strongly oppose the confirmation of Edwin Meese to be Attorney
 General of the United States.</p>
-          <p xml:id="sc06-2_1032">In the course of its thirty-four years, the Conference has only
+            <p xml:id="sc06-2_1032">In the course of its thirty-four years, the Conference has only
 rarely taken a position on a presidential nomination. Indeed, this is
 the first time in more than a decade that the Conference has opposed a
 Cabinet or Supreme Court level nomination. Only an extraordinary
 situation could compel such a decision.</p>
-          <p xml:id="sc06-2_1033">The Conference position is not based primarily on the considerable
+            <p xml:id="sc06-2_1033">The Conference position is not based primarily on the considerable
 differences that we have had with the substantive policies and
 programs initiated and developed by Mr. Meese in his role as
 coordinator of deomestic policy for the Reagan Administration. If such
 a standard had been applied in the past, we would have opposed more
 than a few nominations advanced in the last for administrations.</p>
-          <p xml:id="sc06-2_1034">Bluntly put, we oppose the nomination because, on the basis of our
+            <p xml:id="sc06-2_1034">Bluntly put, we oppose the nomination because, on the basis of our
 observations over the past three years, we do not believe Ed Meese, as
 the nation's chief law enforcement officer, would enforce, vigorously
 and objectively, our nation's civil rights laws.</p>
-          <p xml:id="sc06-2_1035">The extreme civil rights positions taken by Mr. Meese and the
+            <p xml:id="sc06-2_1035">The extreme civil rights positions taken by Mr. Meese and the
 Reagan Administration are scandalous. Their efforts to defeat a strong
 and effective Voting Rights Act, to oppose the Equal Rights Amendment,
 to relax the obligations of school systems for educating handicapped
@@ -199,12 +263,12 @@ available, and to generally weaken almost all our civil rights laws,
 have demonstrated repeatedly the Administration's insensitivity,
 unfairness, and indifference to women, minorities, the disabled and
 many other victims of discrimination.</p>
-          <p xml:id="sc06-2_1036">Regrettably, a brief look at the Administration's decision-making
+            <p xml:id="sc06-2_1036">Regrettably, a brief look at the Administration's decision-making
 process on a number of critical rights issues will demonstrate that Ed
 Meese lacks the commitment to ensure that the laws are fully enforced
 and too often encroaches inappropriately upon the constitutional
 responsibilities of the Judicial and Legislative Branches.</p>
-          <p xml:id="sc06-2_1037">The Bob Jones fiasco is perhaps the best example of what we are
+            <p xml:id="sc06-2_1037">The Bob Jones fiasco is perhaps the best example of what we are
 talking about. Since the early 1970's, it has been well established
 law that the government could not grant tax exempt status to schools
 which discriminate on the basis of race. Apparently, Mr. Meese and
@@ -213,31 +277,31 @@ new legislation or ask the courts to reverse past rulings, the
 Administration announced on January 8, 1982 that it would no longer
 deny tax exempt status to schools like Bob Jones and Goldsboro
 Christian.</p>
-          <p xml:id="sc06-2_1038">Because of the political firestorm that erupted, President Reagan,
+            <p xml:id="sc06-2_1038">Because of the political firestorm that erupted, President Reagan,
 Mr. Meese, and others began a series of confusing and contradictory
 explanations. Eventually they backed off. But not until it became
 painfully apparent that Mr. Meese and his allies in the Administration
 were more than willing to refuse to enforce a law with which they
 disagreed. Subsequently, of course, the Supreme Court repudiated the
 Administration's legal position by an eight to one vote.</p>
-          <p xml:id="sc06-2_1039">Another example is Mr. Meese's involvement in the Legal Services
+            <p xml:id="sc06-2_1039">Another example is Mr. Meese's involvement in the Legal Services
 Corporation. It has long been clear that Mr. Meese has worked hard to
 abolish the Legal Service Corporation.</p>
-          <p xml:id="sc06-2_1040">Furthermore, once Congress overwhelmingly rejected the Reagan
+            <p xml:id="sc06-2_1040">Furthermore, once Congress overwhelmingly rejected the Reagan
 Administration's attempts to kill the Corporation, President Reagan,
 through Mr. Meese and his staff, proceeded to do everything possible
 to gut it by executive action. Contrary to congressional intent,
 attempts were made to control the Legal Services Corporation by
 appointing individuals who would dismantle the Corporation from
 within.</p>
-          <p xml:id="sc06-2_1041">Finally, there is the death of the independent U.S. Civil Rights
+            <p xml:id="sc06-2_1041">Finally, there is the death of the independent U.S. Civil Rights
 Commission. For twenty-five years, no President had ever fired a
 member of the Commission. But thanks to the leadership role of
 Mr. Meese, President Reagan has fired five commissioners who disagreed
 with his civil rights policies and replaced them with commissioners
 who reflect his views. We now have the Reagan Commission on Civil
 Rights.</p>
-          <p xml:id="sc06-2_1043">The actions and attitudes of Edwin Meese as presidential counselor
+            <p xml:id="sc06-2_1043">The actions and attitudes of Edwin Meese as presidential counselor
 are, by themselves, deeply disturbing. But when you combine the
 possible confirmation of Ed Meese with the Department of Justice's
 current record of non-enforcement with respect to civil rights laws,
@@ -246,7 +310,7 @@ you have a Justice
 Department in constant conflict with the
 Constitution and the courts, and the rule of law itself is
 imperiled.</p>
-          <p xml:id="sc06-2_1044">While the Justice Department constantly uses the issues of busing
+            <p xml:id="sc06-2_1044">While the Justice Department constantly uses the issues of busing
 and quotas to deflect attention from its abysmal enforcement record,
 its record cannot be hidden from full public scrutiny too much
 longer. For example, in the first thirty months of the Reagan
@@ -257,50 +321,60 @@ administration in the same amount of time. With respect to all civil
 cases filed, the Reagan Administration had filed forty-two, compared
 to 124 cases for the Carter Administration, a precipitous decrease of
 sixty-six percent.</p>
-          <p xml:id="sc06-2_1045">It is no wonder that based on the Department's rhetoric and its
+            <p xml:id="sc06-2_1045">It is no wonder that based on the Department's rhetoric and its
 record of non-enforcement, minorities, women, the disabled and others
 no longer view the Justice Department as the champion for those who
 have been the victims of discrimination. Rather they consider the
 Department of Justice their adversary.</p>
-          <p xml:id="sc06-2_1046">The confirmation of Ed Meese, someone who has already demonstrated
+            <p xml:id="sc06-2_1046">The confirmation of Ed Meese, someone who has already demonstrated
 that he is not committed to vigorously enforcing our civil rights
 laws, would only reinforce that belief. I he Senate must only confirm
 an individual who will enforce the law, someone who will be an
 Attorney General for all the people, not just for the privileged
 few. To do less will compound immeasurably the tragedy of the Reagan
 record on civil rights.</p>
-          <div3 xml:id="sc06-2_023" type="About">
-            <p xml:id="sc06-2_1047">An excerpt from the statement of the Leadership
+            <div3 xml:id="sc06-2_023" type="About">
+               <p xml:id="sc06-2_1047">An excerpt from the statement of the Leadership
 Conference on Civil Rights opposing the nomination of Edwin Meese to
 be Attorney General. Ralph G. Neas is executive director of the
 Leadership Conference, a coalition of 165 national organizations
 representing blacks, Hispanics and Asian Americans, women, labor, the
 disabled, the aged, religious groups and minority businesses and
 professions.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc06-2_004" n="3" type="Article">
-          <head>Deep South Votes With Feet, Not With Hart</head>
-          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 4-5</docDate>
-          
-          <p xml:id="sc06-2_1048">According to a Southern Regional Council analysis of 106 targeted
+            </div3>
+         </div2>
+         <div2 xml:id="sc06-2_004" n="3" type="Article">
+            <head>Deep South Votes With Feet, Not With Hart</head>
+            <byline>By <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Staff</reg>
+                        <sic>Staff</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 4-5</docDate>
+            <interp>
+               <certainty ana="#T15" degree="56.7"/>
+            </interp>
+            <p xml:id="sc06-2_1048">According to a Southern Regional Council analysis of 106 targeted
 voting precincts in Alabama and Georgia, black voters in these two
 states turned out in almost unprecedented numbers in the March 13
 presidential primary while whites generally stayed away from the
 polls.</p>
-          <p xml:id="sc06-2_1049">The SRC study, the first-detailed examination of actual voting
+            <p xml:id="sc06-2_1049">The SRC study, the first-detailed examination of actual voting
 patterns of the March 13 election in the two states, showed that
 almost half of all predominantly black precincts had more than fifty
 percent of their registered voters turn out on election day. The
 highest turnouts in black precincts were found in places such as
 Wilcox County, Alabama; Thomas County, Georgia; and Albany,
 Georgia.</p>
-          <p xml:id="sc06-2_1050">In contrast, almost three out of five of all predominantly white
+            <p xml:id="sc06-2_1050">In contrast, almost three out of five of all predominantly white
 precincts in the study showed turnout rates below thirty percent. The
 turnout in predominantly white precincts was lowest in rural areas
 such as Worth County, Georgia and Choctaw County, Alabama.</p>
-          <p xml:id="sc06-2_1051">"On election day some counties witnessed both the highest and
+            <p xml:id="sc06-2_1051">"On election day some counties witnessed both the highest and
 lowest rates of turnout seen in primary elections in and lowest rates
 of turnout seen in primary elections in decades," says Steve Suitts,
 SRC director and author of the study. In Greene County, Alabama, for
@@ -310,29 +384,29 @@ black registered voters turned out at a rate of sixty-three
 percent. In Albany, Georgia one precinct turned out at a rate of less
 than ten percent while two predominantly black precincts voted at a
 rate of more than eighty percent.</p>
-          <p xml:id="sc06-2_1052">While primary elections usually have smaller rates of voter
+            <p xml:id="sc06-2_1052">While primary elections usually have smaller rates of voter
 turnout, a few black precincts showed turnout rates higher in the
 primary election than in the 1980 general election. While only
 fifty-three percent of the voters in a predominantly black precinct in
 Thomas County turned out in 1980 to vote for Jimmy Carter or Ronald
 Reagan, sixty-nine percent came out in the March 13th primary.</p>
-          <p xml:id="sc06-2_1053">The SRC study also found that presidential candidate Gary Hart led
+            <p xml:id="sc06-2_1053">The SRC study also found that presidential candidate Gary Hart led
 all other candidates on March 13th in attracting white voters. Hart
 carried twenty of the fifty-two predominantly white precincts studied
 in the report. (John Glenn carried nineteen precincts and Walter
 Mondale won eleven precincts targeted for the study).</p>
-          <p xml:id="sc06-2_1054">Hart attracted support in a variety of white precincts. He carried
+            <p xml:id="sc06-2_1054">Hart attracted support in a variety of white precincts. He carried
 the urban, white, liberal precinct of Morningside in Atlanta, a
 predominantly white, strongly conservative precinct in Choctaw County,
 Alabama, and a white, strongly democratic precinct in Rome,
 Georgia. Yet, Hart was also strong in the targeted white precincts in
 Georgia which Ronald Reagan carried in 1980.</p>
-          <p xml:id="sc06-2_1055">"The strength of Gary Hart in white voting districts has Lo be
+            <p xml:id="sc06-2_1055">"The strength of Gary Hart in white voting districts has Lo be
 balanced by the failure of a large percentage of whites to vote in the
 primary election," Suitts says. "Most whites--unlike blacks--voted
 with their feet by staying home. Apparently, their candidate was not
 on the ballot in the Democratic primary."</p>
-          <p xml:id="sc06-2_1057">The large turnout of black voters evidently was motivated by Jesse
+            <p xml:id="sc06-2_1057">The large turnout of black voters evidently was motivated by Jesse
 Jackson's candidacy which received the lion's share of the votes in
 black precincts. In the SRC study, 
 <pb xml:id="sc06-2_1056" n="5"/>
@@ -343,18 +417,18 @@ of victory were in rural precincts, he also did well in urban
 areas. In precincts such as Morehouse College in Atlanta where a
 larger number of black students vote, Jackson received eighty-nine
 percent of the precinct vote.</p>
-          <p xml:id="sc06-2_1058">Jesse Jackson also carried some predominantly white precincts. In
+            <p xml:id="sc06-2_1058">Jesse Jackson also carried some predominantly white precincts. In
 the SRC study, two of the fifty-two precincts with a majority of white
 registered voters were won by Jackson. In a fifty-five percent white
 precinct in Camilla, Georgia, Jackson received thirty-five percent of
 the vote--more than any of his competitors--and in Waynesboro, Georgia
 the precinct where almost two out of three voters are white, Jackson
 received the largest vote with thirty-four percent of the total.</p>
-          <p xml:id="sc06-2_1059">"Given trends elsewhere," Suitts observes, "Jackson's victory in
+            <p xml:id="sc06-2_1059">"Given trends elsewhere," Suitts observes, "Jackson's victory in
 these white precincts is probably the result of a high black turnout
 and a low white turnout within the precinct itself. The result was a
 plurality victory in white precincts for Jackson."</p>
-          <p xml:id="sc06-2_1060">Walter Mondale carried the other remaining black precincts although
+            <p xml:id="sc06-2_1060">Walter Mondale carried the other remaining black precincts although
 only in a few places in Alabama did he receive more than fifty percent
 of the vote of the precinct. His strongest showings in black precincts
 were in Birmingham where Mayor Richard Arrington, the city's first
@@ -364,9 +438,9 @@ Conference--the state's largest black political group--has a strong
 presence. "Mondale was able to reverse the tidal wave of Jackson
 support in black precincts only when-there were exceptionally
 well-organized black groups working for Mondale," Suitts says.</p>
-          <p xml:id="sc06-2_1061">Gary Hart and John Glenn carried no predominantly black precinct
+            <p xml:id="sc06-2_1061">Gary Hart and John Glenn carried no predominantly black precinct
 included in the study.</p>
-          <p xml:id="sc06-2_1062">While Walter Mondale carried both Georgia and Alabama, the precinct
+            <p xml:id="sc06-2_1062">While Walter Mondale carried both Georgia and Alabama, the precinct
 study shows his support was seldom strong in any one
 precinct. Usually, Mondale carried a precinct with less than forty
 percent of the vote. At the same time, Mondale was able to receive
@@ -375,41 +449,51 @@ precincts, Mondale always received at least eleven percent of the
 vote. "Mondale's strength which gave him enough votes to win the two
 states was in its breadth and not its depth of support." Suitts
 says.</p>
-          <p xml:id="sc06-2_1063">For more information on the study, contact the SRC office.</p>
-        </div2>
-        <div2 xml:id="sc06-2_005" n="4" type="Article">
-          <head>LEAF</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Johnson, Tim</reg><sic>Tim Johnson</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 5-9</docDate>
-          
-          <p xml:id="sc06-2_1064">Atlanta environmentalist Deborah Sheppard was organizing a state
+            <p xml:id="sc06-2_1063">For more information on the study, contact the SRC office.</p>
+         </div2>
+         <div2 xml:id="sc06-2_005" n="4" type="Article">
+            <head>LEAF</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Johnson, Tim</reg>
+                        <sic>Tim Johnson</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 5-9</docDate>
+            <interp>
+               <certainty ana="#T19" degree="53"/>
+            </interp>
+            <p xml:id="sc06-2_1064">Atlanta environmentalist Deborah Sheppard was organizing a state
 conference for a coalition of environmental groups in 1982. Among the
 offers of volunteer help she received, one stands out.</p>
-          <p xml:id="sc06-2_1065">"This woman called. She was a mother of two, a former nurse with
+            <p xml:id="sc06-2_1065">"This woman called. She was a mother of two, a former nurse with
 the World Health Organization and a law student at the University of
 Georgia. She was a ball of fire--talking about all the things she and
 her partner were doing. Upon graduation, they planned to open an
 Atlanta office of LEAF, the Legal Environmental Assistance
 Foundation.</p>
-          <p xml:id="sc06-2_1066">"She overwhelmed me with her energy and enthusiasm," Sheppard
+            <p xml:id="sc06-2_1066">"She overwhelmed me with her energy and enthusiasm," Sheppard
 says. "Then she said that she was the low key partner."</p>
-          <p xml:id="sc06-2_1067">When Vicki Breman called, very few Georgians knew her or her
+            <p xml:id="sc06-2_1067">When Vicki Breman called, very few Georgians knew her or her
 partner, Laurie Fowler. But they had been laying groundwork for years,
 and eighteen months later, were among the best known and most
 effective environmentalists in the state.</p>
-          <p xml:id="sc06-2_1068">Breman began law school at age thirty-seven. At Athens, she met
+            <p xml:id="sc06-2_1068">Breman began law school at age thirty-seven. At Athens, she met
 Fowler, twenty-five, also specializing in environmental law.</p>
-          <p xml:id="sc06-2_1069">After hearing Birmingham attorney Suzi Ruhl talk about the LEAF
+            <p xml:id="sc06-2_1069">After hearing Birmingham attorney Suzi Ruhl talk about the LEAF
 office in Alabama, Fowler and Breman decided to start their own firm
 in Georgia.</p>
-          <p xml:id="sc06-2_1070">"We weren't sure if we should be a LEAF chapter or merely model
+            <p xml:id="sc06-2_1070">"We weren't sure if we should be a LEAF chapter or merely model
 ourselves after what LEAF was doing," Fowler recalls. "We talked with
 activists all over Georgia about what the needs were and we decided to
 join with LEAF."</p>
-          <p xml:id="sc06-2_1071">A native of Marietta, Georgia, Fowler had worked with the Sierra
+            <p xml:id="sc06-2_1071">A native of Marietta, Georgia, Fowler had worked with the Sierra
 Club Legal Defense Fund in San Francisco, the National Clean Air
 Coalition in DC, and environmental attorney Roger Leed in Seattle.</p>
-          <p xml:id="sc06-2_1072">In its short existence, LEAF has become a remarkably effective tool
+            <p xml:id="sc06-2_1072">In its short existence, LEAF has become a remarkably effective tool
 for environmentalists in the Deep South. Its offices in Atlanta,
 Birmingham, Knoxville and Tallahassee, have opposed strip-mining, the
 spraying of paraquat in Georgia's mountains, the construction of a
@@ -419,23 +503,23 @@ lawyer-environmentalist groups, LEAF has targeted its resources to
 come to the aid of poor and working-class Southerners, the traditional
 victims of industrial toxins and chemical wastes both on the job and
 in their neighborhoods.</p>
-          <p xml:id="sc06-2_1073">Toxic waste dumps, sanitary landfills, notorious polluting
+            <p xml:id="sc06-2_1073">Toxic waste dumps, sanitary landfills, notorious polluting
 industries and major highways appear with more than coincidental
 frequency near poor neighborhoods.</p>
-          <p xml:id="sc06-2_1075">In Alabama, where LEAF was organized by Birmingham attorney Ruhl in
+            <p xml:id="sc06-2_1075">In Alabama, where LEAF was organized by Birmingham attorney Ruhl in
 1979, much of the group's efforts have 
 <pb xml:id="sc06-2_1074" n="6"/>
 dealt with toxic waste
 disposal: currently operating landfills, abandoned dumps that contain
 chemical wastes and proposed dumps.</p>
-          <p xml:id="sc06-2_1076">LEAF'S Jeff Roseman, an Alabama epidemiologist, helped in
+            <p xml:id="sc06-2_1076">LEAF'S Jeff Roseman, an Alabama epidemiologist, helped in
 investigation of the health of residents of Triana, and black
 community whose water was poisoned with DDT by the Tennessee Valley
 Authority and the US Army. DDT levels in fish and in Triana residents
 were the highest ever recorded in a US population. The government
 settled out of court, paying residents more than twenty million
 dollars.</p>
-          <p xml:id="sc06-2_1077">In promoting alternatives to the dumping of toxic wastes in
+            <p xml:id="sc06-2_1077">In promoting alternatives to the dumping of toxic wastes in
 Alabama, LEAF argues that virtually all toxics now created by industry
 can be safely disposed of with current technology. (Radioactive wastes
 are a major exception.) It has filed comments with the state of
@@ -444,79 +528,79 @@ technologies and has drafted model legislation to provide tax
 incentatives for the applicants. Alabama's toxic law, which LEAF has
 targeted for reform, now automatically grants a permit to dump within
 ninety days of application if the state doesn't act on the request.</p>
-          <p xml:id="sc06-2_1078">"Our goal is to make Alabama's law at least as stringent as the
+            <p xml:id="sc06-2_1078">"Our goal is to make Alabama's law at least as stringent as the
 federal law," says Suzi Ruhl. "If not, then we will move to have the
 federal government take over enforcement."</p>
-          <p xml:id="sc06-2_1079">Currently, underground injection of toxics is prohibited in
+            <p xml:id="sc06-2_1079">Currently, underground injection of toxics is prohibited in
 Alabama, but Stanley Graves, one of seven commissioners of the state's
 Department of Environmental Management, owns a well drilling company
 and is pushing for injection. So far, LEAF has successfully opposed
 Graves.</p>
-          <p xml:id="sc06-2_1080">Alabama LEAF is also fighting a DEM effort to allow blanket permits
+            <p xml:id="sc06-2_1080">Alabama LEAF is also fighting a DEM effort to allow blanket permits
 for emitting pollutants into state waterways. Present law requires a
 permit for each water site that a company wants to pollute. LEAF is
 opposing a change in the law which would allow one permit to cover all
 the discharges of a company. With the law changed, a coal company
 would need only a single permit to dump wastes into streams anywhere
 in Alabama.</p>
-          <p xml:id="sc06-2_1081">"If the law gets changed," Ruhl points out, "a coal company could
+            <p xml:id="sc06-2_1081">"If the law gets changed," Ruhl points out, "a coal company could
 apply for a discharge permit on June l, then there would be a hearing
 on June 15. Then, in December, you might hear that the company was
 going to pollute the water in your community, but you would not get a
 hearing because the company would already have its permit."</p>
-          <p xml:id="sc06-2_1082">Citing the legislative history of the Clean Water Act, LEAF has
+            <p xml:id="sc06-2_1082">Citing the legislative history of the Clean Water Act, LEAF has
 argued in written comments that the single permit proposal violates
 the intent of Congress. "If the change goes through the legislature,"
 Ruhl says," we'll sue. They're probably waiting for us to disappear,"
 she adds, referring to the Alabama Department of Environmental
 Management, "but we won't."</p>
-          <p xml:id="sc06-2_1084">LEAF is also grappling with air pollution in Alabama. It organized
+            <p xml:id="sc06-2_1084">LEAF is also grappling with air pollution in Alabama. It organized
 a state conference and is a cofounder of the Alabama Coalition for
 Clean Air. Pointing to deleterious 
 <pb xml:id="sc06-2_1083" n="7"/>
 health effects. it is opposing
 Alabama Power Company's efforts to convert two natural gas fueled
 steam generating plants in downtown Birmingham to coal.</p>
-          <p xml:id="sc06-2_1085">In addition to providing counsel for individual members,
+            <p xml:id="sc06-2_1085">In addition to providing counsel for individual members,
 LEAF-Alabama serves as the legal arm for two chapters of the Audubon
 Society, the Alabama Conservancy and the Sierra Club.</p>
-          <p xml:id="sc06-2_1086">Even as attorney Ruhl sets about to organize a LEAF office in
+            <p xml:id="sc06-2_1086">Even as attorney Ruhl sets about to organize a LEAF office in
 Tallahasse, she continues to coordinate the work on Alabama toxics
 issues while attorneys Larry Putt and Sally McConnell carry on other
 concerns.</p>
-          <p xml:id="sc06-2_1087">"We've grown faster than I ever expected," says Suzi Ruhl. LEAF is
+            <p xml:id="sc06-2_1087">"We've grown faster than I ever expected," says Suzi Ruhl. LEAF is
 currently operating in Alabama, Georgia, Tennessee and Florida. The
 goal is to expand into seven more Southern states. All the staffers
 are natives, most are women.</p>
-          <p xml:id="sc06-2_1088">"Sierra Club Legal Defense Fund, Natural Resources Defense Council
+            <p xml:id="sc06-2_1088">"Sierra Club Legal Defense Fund, Natural Resources Defense Council
 and the other national environmental law groups are very active in
 other areas of the nation," LEAF boardmember Ogden Doremus notes, "but
 they don't have offices down here. So we're doing it ourselves."
 Doremus, an attorney from Metter, Georgia, has argued many
 environmental cases over the last thirty years.</p>
-          <p xml:id="sc06-2_1089">
-            <hi rend="bold">Stones in Their Pathway</hi>
-          </p>
-          <p xml:id="sc06-2_1090">Florida is the nation's fastest growing state and many developers
+            <p xml:id="sc06-2_1089">
+               <hi rend="bold">Stones in Their Pathway</hi>
+            </p>
+            <p xml:id="sc06-2_1090">Florida is the nation's fastest growing state and many developers
 there see ecological concerns as nothing more than stones in their
 pathway to profits. LEAF-Florida, which did not begin operations until
 January of this year, is already involved in several efforts to
 protect the state's close-to-the-surface groundwater from
 contamination and from depletion under the pressures of population
 growth and development.</p>
-          <p xml:id="sc06-2_1091">LEAF-Florida is monitoring a state department of health
+            <p xml:id="sc06-2_1091">LEAF-Florida is monitoring a state department of health
 epidemiological study of the impacts of the controversial fungicide
 ethyl dibromide (EDB).</p>
-          <p xml:id="sc06-2_1092">Joining with the Romona Civic Association and residents of
+            <p xml:id="sc06-2_1092">Joining with the Romona Civic Association and residents of
 Jacksonville, LEAF is involved in a PCB clean-up and public education
 project at a chemical storage site which exploded, contaminating the
 surrounding community. One of the aims here is to have the site
 included on the Superfund list, making it eligible for federal
 money.</p>
-          <p xml:id="sc06-2_1093">
-            <hi rend="bold">LEAF-CAO</hi>
-          </p>
-          <p xml:id="sc06-2_1095">The LEAF-Central Appalachian Office opened in Knoxville in 1982
+            <p xml:id="sc06-2_1093">
+               <hi rend="bold">LEAF-CAO</hi>
+            </p>
+            <p xml:id="sc06-2_1095">The LEAF-Central Appalachian Office opened in Knoxville in 1982
 with support from the Mary Reynolds Babcock Foundation. Attorney Carol
 Davis left her job with the US Department of Interior's Office of
 Surface Mining to work on strip-mining issues. Attorney Gary Davis, an
@@ -529,15 +613,15 @@ worked with Ralph Nader on
 environmental issues, including a
 well-known investigation of pollution on the Georgia Coast described
 in the book The Water Lords.</p>
-          <p xml:id="sc06-2_1096">In Tennessee, LEAF has taken on the US nuclear facilities at Oak
+            <p xml:id="sc06-2_1096">In Tennessee, LEAF has taken on the US nuclear facilities at Oak
 Ridge where, from 1950 through 1963, nearly 2l/2 million pounds of
 mercury were dumped into the surface and groundwater--threatening the
 health of residents along the Clinch River.</p>
-          <p xml:id="sc06-2_1097">Current standards used at Oak Ridge for toxic waste dumping include
+            <p xml:id="sc06-2_1097">Current standards used at Oak Ridge for toxic waste dumping include
 "unlined surface impoundments" (Department of Energy jargon for holes
 in the ground) which, says Gary Davis, "don't even meet the standards
 of the 60s."</p>
-          <p xml:id="sc06-2_1098">The DOE, which operates Oak Ridge, says that the toxic waste laws
+            <p xml:id="sc06-2_1098">The DOE, which operates Oak Ridge, says that the toxic waste laws
 don't apply. It claims that the Atomic Energy Act exempts facilities
 involved in nuclear production from other regulation, a contention
 which Davis disputes. LEAF represented SOCM (Save Our Cumberland
@@ -546,14 +630,14 @@ and, in September of 1983, LEAF and the Natural Resources Defense
 Council filed suit in federal district court in Knoxville against the
 dumping. If LEAF wins, the case will provide a precedent for other DOE
 operations, including the Savannah River Plant.</p>
-          <p xml:id="sc06-2_1099">In Memphis, LEAF-CAO is assisting the League of Women Voters'
+            <p xml:id="sc06-2_1099">In Memphis, LEAF-CAO is assisting the League of Women Voters'
 review of the Superfund cleanup of the Hollywood Dump--where Velsicol
 Chemical Company dumped toxics.</p>
-          <p xml:id="sc06-2_10100">"The state people know we're here," says Gary Davis, pointing to
+            <p xml:id="sc06-2_10100">"The state people know we're here," says Gary Davis, pointing to
 notes of a meeting in which Tennessee regulators said they would have
 to comply with "the letter of the law since LEAF will be out there
 watching."</p>
-          <p xml:id="sc06-2_10101">The lack of enforcement of strip mining laws by the Tennessee
+            <p xml:id="sc06-2_10101">The lack of enforcement of strip mining laws by the Tennessee
 Division of Surface Mining led, in the summer of 1983, to LEAF's
 serving as legal representative for a coalition which included SOCM,
 Tennessee Citizens for Wilderness Planning, the Tennessee League of
@@ -563,31 +647,31 @@ to sue unless substantial progress is made in the enforcement of strip
 mining law. Barbara Kelly of Chattanooga, active with the Sierra Club
 and SOCM, believes that state efforts to control strip mining "have
 fallen apart."</p>
-          <p xml:id="sc06-2_10102">On behalf of SOCM and TCWP, LEAF filed motions to intervene in a
+            <p xml:id="sc06-2_10102">On behalf of SOCM and TCWP, LEAF filed motions to intervene in a
 class action suit in Campbell County chancery court. Forty-nine coal
 companies were arguing that they should be given more time to comply
 with the state strip mining law. The case was removed to US district
 court in Knoxville whereupon the companies withdrew.</p>
-          <p xml:id="sc06-2_10103">As it challenges the state's overall laxity, LEAF is aiding various
+            <p xml:id="sc06-2_10103">As it challenges the state's overall laxity, LEAF is aiding various
 citizen groups in efforts to protect particularly fragile locations
 from the erosion, flooding and water pollution which accompany surface
 mining. It is representing citizens seeking protection for land
 adjacent to the Frozen Head Park in Morgan County and for the Douglas
 Branch Watershed in Campbell County.</p>
-          <p xml:id="sc06-2_10104">In an effort at harassment, the M.C. Coal Company of Chattanooga
+            <p xml:id="sc06-2_10104">In an effort at harassment, the M.C. Coal Company of Chattanooga
 sued the Sierra Club and Tennessee Friends of the Earth in March 1983,
 alleging libel in the groups' request for a hearing concerning M.C.'s
 water quality permit and for articles in the Tennes-Sierran (the Club
 newsletter) which dealt with violations in the strip mining
 law. Following presentation of a brief and an oral argument by Carol
 Nickle of LEAF, the case was dimissed.</p>
-          <p xml:id="sc06-2_10105">
-            <hi rend="bold">LEAF-Georgia</hi>
-          </p>
-          <p xml:id="sc06-2_10106">LEAF-Georgia opened its offices in Atlanta in July of 1983. Six
+            <p xml:id="sc06-2_10105">
+               <hi rend="bold">LEAF-Georgia</hi>
+            </p>
+            <p xml:id="sc06-2_10106">LEAF-Georgia opened its offices in Atlanta in July of 1983. Six
 months later it had become one of the busiest and most effective
 environmental organizations in the state.</p>
-          <p xml:id="sc06-2_10107">In August of 1983, LEAF-Georgia challenged the federal Drug
+            <p xml:id="sc06-2_10107">In August of 1983, LEAF-Georgia challenged the federal Drug
 Enforcement Administration (DEA) use of paraquat on marijuana plants
 in the North Georgia mountains. Local residents and campers were
 outraged as helicopters sprayed the deadly substance (a half-ounce on
@@ -596,7 +680,7 @@ cameras whirled. The DEA intended to convince the government of
 Colombia to adopt spraying, in spite of Colombia's questioning its
 safety. Area residents organized Citizens Opposed to Paraquat Spraying
 and asked for LEAF's help.</p>
-          <p xml:id="sc06-2_10109">LEAF worked with private attorneys David Walbert, John Bell and
+            <p xml:id="sc06-2_10109">LEAF worked with private attorneys David Walbert, John Bell and
 Paul Hermann who obtained a restraining order in August from federal
 court in Georgia's Northern District. Meanwhile, LEAF joined with the
 Sierra Club Legal Defense Fund and three other national organizations
@@ -605,7 +689,7 @@ preventing the spraying of paraquat on all federal
 <pb xml:id="sc06-2_10108" n="9"/>
 land unless and
 unfit DEA prepares an environmental impact statement.</p>
-          <p xml:id="sc06-2_10110">Following the DC court's ruling, in a January 1984 hearing in
+            <p xml:id="sc06-2_10110">Following the DC court's ruling, in a January 1984 hearing in
 Atlanta (which DEA called a "scoping session"), DEA officials
 suggested that critics of the spraying were smokers and growers who
 were hiding behind environmental issues. (The DEA photographed all
@@ -617,7 +701,7 @@ water for Atlanta, Columbia and towns below) rise on National Forest
 land, LEAF attorney Vicki Breman concluded that "Georgia's water
 supply and wildlife are seriously threatened by the use of paraquat
 and other herbicides."</p>
-          <p xml:id="sc06-2_10111">The Forest Service's use of the herbicides tordon and velpar are
+            <p xml:id="sc06-2_10111">The Forest Service's use of the herbicides tordon and velpar are
 being challenged by LEAF Georgia on behalf of residents of Rabun
 County. These herbicides, explicitly labelled not for use in areas
 where water contamination is possible are being applied in the
@@ -628,7 +712,7 @@ investigated by the government of Brazil as the suspected cause of
 forty-two deaths along the route of a power line where it was
 sprayed. LEAF is raising money to test the Rabun County water and to
 publish an organizing handbook for residents.</p>
-          <p xml:id="sc06-2_10112">Acting as legal counsel for the Campaign for a Prosperous Georgia
+            <p xml:id="sc06-2_10112">Acting as legal counsel for the Campaign for a Prosperous Georgia
 (see "Money on the Mainline," Southern Changes, March/April; 1983),
 LEAF has also prepared a petition for intervention against the Vogtle
 Nuclear Power Plant now under construction by the Georgia Power
@@ -639,7 +723,7 @@ concerns paralleling, not contradicting each other. If completed and
 placed in the rate base, Plant Vogtle would cause the largest electric
 rate hike in Georgia history. LEAF will provide ongoing assistance to
 citizens groups working to stop the plant.</p>
-          <p xml:id="sc06-2_10113">LEAF-Georgia is working on many other issues: trying to force the
+            <p xml:id="sc06-2_10113">LEAF-Georgia is working on many other issues: trying to force the
 state Department of Transportation to install promised noise barriers
 along the interstate highways near Atlanta residences; attempting to
 stop construction by Oglethorpe Power of a high-voltage line through a
@@ -648,7 +732,7 @@ restart of the L-Reactor at the Savannah River Plant where tritium and
 plutonium for nuclear weapons are produced; and providing technical
 advice on legal environmental issues to private attorneys around the
 state.</p>
-          <p xml:id="sc06-2_10114">LEAF has financed itself through a variety of means. Most of the
+            <p xml:id="sc06-2_10114">LEAF has financed itself through a variety of means. Most of the
 support for the Alabama and Tennessee offices has come from the Mary
 Reynolds Babcock Foundation. LEAF-Georgia has gathered money from
 individual donations and fundraising events A benefit concert by the
@@ -656,42 +740,52 @@ new-wave band REM brought in more than six thousand dollars; an
 auction raised another thousand According to Sissy Kegley,
 administrative coordinator, LEAF-Georgia already has some 150 members
 who pay annual dues or monthly pledges.</p>
-          <p xml:id="sc06-2_10115">LEAF's rapid emergence and its frequent successes come with the
+            <p xml:id="sc06-2_10115">LEAF's rapid emergence and its frequent successes come with the
 dedication of its staff, the sophistication of their work and
 familiarity with the issues and the region, and--in view of the
 traditional tentativeness of established conservation groups in the
 region and the single-minded development policies often followed by
 Southern governments--from the fact that there is so much to do in the
 South.</p>
-          <p xml:id="sc06-2_10116">
-            <hi rend="bold">Legal Environmental Assistance Foundation (LEAF)</hi>
-          </p>
-          <p xml:id="sc06-2_10117">Alabama  <lb/>2330 Highland Avenue, South  <lb/>Birmingham, Alabama
+            <p xml:id="sc06-2_10116">
+               <hi rend="bold">Legal Environmental Assistance Foundation (LEAF)</hi>
+            </p>
+            <p xml:id="sc06-2_10117">Alabama  <lb/>2330 Highland Avenue, South  <lb/>Birmingham, Alabama
 35205  <lb/>205-324-0932</p>
-          <p xml:id="sc06-2_10118">Florida  <lb/>203 North Gadsden Street  <lb/>Tallahassee, Florida
+            <p xml:id="sc06-2_10118">Florida  <lb/>203 North Gadsden Street  <lb/>Tallahassee, Florida
 32301  <lb/>904-681 -2591</p>
-          <p xml:id="sc06-2_10119">Georgia  <lb/>1102 Healey Building  <lb/>57 Forsyth Street, NW<lb/>
+            <p xml:id="sc06-2_10119">Georgia  <lb/>1102 Healey Building  <lb/>57 Forsyth Street, NW<lb/>
 Atlanta, Georgia 30303  <lb/>404-688-3299</p>
-          <p xml:id="sc06-2_10120">Central Appalachian Office  <lb/>602 Gay Street, Suite 507<lb/>
+            <p xml:id="sc06-2_10120">Central Appalachian Office  <lb/>602 Gay Street, Suite 507<lb/>
 Knoxville, Tennessee 37902  <lb/>615-637-5172</p>
-          <div3 xml:id="sc06-2_025" type="About">
-            <p xml:id="sc06-2_10121">Tim Johnson is executive director of the Educational
+            <div3 xml:id="sc06-2_025" type="About">
+               <p xml:id="sc06-2_10121">Tim Johnson is executive director of the Educational
 Campaign for a Prosperous Georgia.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc06-2_006" n="5" type="Review">
-          <head>Gloria Naylor, <title>The Women of Brewster Place.</title> New
+            </div3>
+         </div2>
+         <div2 xml:id="sc06-2_006" n="5" type="Review">
+            <head>Gloria Naylor, <title>The Women of Brewster Place.</title> New
 York: Viking Press, 1982. Penguin, 1983.</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Harris, Trudier</reg><sic>Trudier Harris</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 12-13</docDate>
-          
-          <p xml:id="sc06-2_10122">Gloria Naylor's <title>The Women of Brewster Place</title> is a
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Harris, Trudier</reg>
+                        <sic>Trudier Harris</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 12-13</docDate>
+            <interp>
+               <certainty ana="#T14" degree="48.3"/>
+            </interp>
+            <p xml:id="sc06-2_10122">Gloria Naylor's <title>The Women of Brewster Place</title> is a
 volume destined for long life. A collection of nine sections which
 together form a unified whole, the volume is powerful and strikingly
 well written. It captures the pain, suffering and futile attempts at
 happiness of a group of black women transplanted to a northern city's
 deadend street known as Brewster Place.</p>
-          <p xml:id="sc06-2_10123">Most of the women in Brewster Place have their origins in the
+            <p xml:id="sc06-2_10123">Most of the women in Brewster Place have their origins in the
 South. Mattie Michael, who is the center of the first section, was
 born and raised in Tennessee. Sheltered by a father who witnessed the
 birth of his only child late in his life, Mattie is suddenly tumbled
@@ -705,21 +799,21 @@ moves on rather quickly after the birth, Mattie's "temporary" stay
 ends more than thirty years later when her own sheltered son skips
 bail instead of facing an assault charge, causing Mattie to lose the
 house she has put up to ensure his court appearance.</p>
-          <p xml:id="sc06-2_10124">Mattie's tale forms the backdrop against which the lives of several
+            <p xml:id="sc06-2_10124">Mattie's tale forms the backdrop against which the lives of several
 of the women of Brewster Place are to be viewed. She moves into
 Brewster Place upon her son's abrupt and permanent departure. Mattie's
 loss enables her to listen sympathetically to the tales of despair she
 hears and to understand the pain she witnesses. She manages to rein in
 her own pain consistently enough to offer guidance and comfort to
 others.</p>
-          <p xml:id="sc06-2_10125">Mattie has an expansiveness of human feeling which allows her to
+            <p xml:id="sc06-2_10125">Mattie has an expansiveness of human feeling which allows her to
 watch patiently as Etta, also in her fifties, chases the ever
 illusionary dream of marriage to a respectable man. Etta has spent her
 life in "business opportunities" with men but Mattie knows that she is
 fast using up her assets. A minister picked for the husband role
 consents only to be her gigolo, forcing Etta to see that the only love
 and caring she is likely to experience will come from Mattie.</p>
-          <p xml:id="sc06-2_10126">Other women on Brewster Place, are not so directly tied to
+            <p xml:id="sc06-2_10126">Other women on Brewster Place, are not so directly tied to
 Mattie. One, Cora Lee, fell in love so desperately with dolls as a
 child that she began to produce "real babies" as soon as she
 discovered where they came from. Another resident, Kiswana Browne, is
@@ -734,11 +828,11 @@ their relationship, their different coping strategies illustrate how
 truly isolated they are; Theresa compensates by pretending not to care
 about the opinions of the neighbors, while Lorraine is driven to seek
 approval.</p>
-          <p xml:id="sc06-2_10127">In one of the book's most painful and disturbing scenes, Lorraine
+            <p xml:id="sc06-2_10127">In one of the book's most painful and disturbing scenes, Lorraine
 is raped repeatedly by the young black toughs of the neighborhood who
 have no place for a "dyke." Pushed into insanity and retaliation by
 the rape, Lorraine commits murder.</p>
-          <p xml:id="sc06-2_10129">Naylor's heart-wrenching account of Lorraine has a counterpart in
+            <p xml:id="sc06-2_10129">Naylor's heart-wrenching account of Lorraine has a counterpart in
 the tale of Lucielia Louise Turner, the granddaughter of Etta Johnson,
 the woman who had befriended Mattie after birth of her child. Ciel
 finds herself on Brewster Place in a common-law marriage with Eugene,
@@ -751,7 +845,7 @@ firstborn child, playing in
 another room, electrocutes herself by
 sticking a fork into an outlet. In the face of the rejection she
 believes God has shown her, Ciel determines to starve herself.</p>
-          <p xml:id="sc06-2_10130">The pain, numbness, and death-in-life that define Ciel after her
+            <p xml:id="sc06-2_10130">The pain, numbness, and death-in-life that define Ciel after her
 child's funeral are relieved only when Mattie takes her into her arms
 and rocks the damned-up suffering into expression. That scene is a
 combination of conversion, renewal, and rebirth in which Mattie serves
@@ -762,8 +856,8 @@ compared to the change Avey Johnson experiences on the Caribbean
 island in Paule Marshall's <title>Praisesong for the
 Widow</title>. Yet, in the writing and in the power of the passage,
 Naylor's voice is distinctively unique.</p>
-          <p xml:id="sc06-2_10131">
-            <q>Ciel moaned. Mattie rocked. Propelled by the sound, Mattie
+            <p xml:id="sc06-2_10131">
+               <q>Ciel moaned. Mattie rocked. Propelled by the sound, Mattie
 rocked her out of that bed, out of that room, into a blue vastness
 just underneath the sun and above time. She rocked her over Aegean
 seas so clean they shone like crystal, so clear the fresh blood of
@@ -773,9 +867,9 @@ past Dachau, where soul-gutted Jewish mothers swept their children 's
 entrails off laboratory floors. They flew past the spilled brains of
 Senegales infants whose mothers had dashed them on the wooden sides of
 slave ships. And she rocked on.</q>
-          </p>
-          <p xml:id="sc06-2_10132">
-            <q>She rocked her into her childhood and let her see murdered
+            </p>
+            <p xml:id="sc06-2_10132">
+               <q>She rocked her into her childhood and let her see murdered
 dreams. And she rocked her back, back into the womb, to the nadir of
 her hurt, and they found it--a slight silver splinter, enbedded just
 below the surface of the skin. And Mattie rocked and pulled--and the
@@ -783,8 +877,8 @@ splinter gave way, but its roots were deep, gigantic, ragged, and they
 tore up flesh with bits of fat muscle tissue clinging to them. They
 left a huge hole, which was already starting to pus over, but Mattie
 was satisfied. It would heal.</q>
-          </p>
-          <p xml:id="sc06-2_10133">Naylor's presentations of human emotions ring so true that we sing
+            </p>
+            <p xml:id="sc06-2_10133">Naylor's presentations of human emotions ring so true that we sing
 our "Amens" from the knots in our stomachs or the tears in our
 eyes. There is verisimiltude in characters who are in their twenties
 as well as those who are in their fifties and older. In one scene
@@ -793,7 +887,7 @@ newly remained daughter Melanie, Naylor astutely presents the clash of
 generations and the games parents and children knowingly play. In this
 instance, neither mother nor daughter win out; instead, both realize
 that they can learn from, and must allow respect for, each other.</p>
-          <p xml:id="sc06-2_10134">Throughout, Naylor maintains a narrative style suffused with images
+            <p xml:id="sc06-2_10134">Throughout, Naylor maintains a narrative style suffused with images
 that cause us to pause. She writes of the boys who attack Lorraine:
 "When they stood with their black skin, ninth-grade diplomas, and
 fifty-word vocabularies in front of the mirror that the world had
@@ -802,39 +896,50 @@ sneakers, and tinted sunglasses imaged nearby proved that they were
 alive", and of the possible death of Brewster Place: "No one cries
 when a street dies. There's no line of mourners to walk behind the
 coffin wheeled on the axis of the earth and ridded by the sky."</p>
-          <p xml:id="sc06-2_10135">But Brewster Place is not dying. Women like Mattie resist its
+            <p xml:id="sc06-2_10135">But Brewster Place is not dying. Women like Mattie resist its
 demise as spiritedly as the images used to describe it. It is a
 testament to Naylor's large talent that, in this her first novel, she
 handles the task so well.</p>
-          <div3 xml:id="sc06-2_026" type="About">
-            <p xml:id="sc06-2_10136">Trudier Harris teaches literature and folklore in the
+            <div3 xml:id="sc06-2_026" type="About">
+               <p xml:id="sc06-2_10136">Trudier Harris teaches literature and folklore in the
 English Department at the University of North Carolina, Chapel
 Hill.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc06-2_007" n="6" type="Review">
-          <head><title>Mary, Wayfarer, An Autobiography,</title> by Mary
+            </div3>
+         </div2>
+         <div2 xml:id="sc06-2_007" n="6" type="Review">
+            <head>
+               <title>Mary, Wayfarer, An Autobiography,</title> by Mary
 E. Mebane. New York: Viking Press. 1983.</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Painter, Nell Irvin</reg><sic>Nell Irvin Painter</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 13-14</docDate>
-          
-          <p xml:id="sc06-2_10137">In the second volume of her autobiography, Mary Mebane again talks
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Painter, Nell Irvin</reg>
+                        <sic>Nell Irvin Painter</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 13-14</docDate>
+            <interp>
+               <certainty ana="#T06" degree="48.2"/>
+            </interp>
+            <p xml:id="sc06-2_10137">In the second volume of her autobiography, Mary Mebane again talks
 of desegregation and takes aim at the black bourgeoisie--or more
 exactly, the brown bourgeoisie. Early in <title>Mary,
 Wayfarer,</title> she fires a telling shot:</p>
-          <p xml:id="sc06-2_10139">
-            <q>One of the ironies of life in the South is the fact that the
+            <p xml:id="sc06-2_10139">
+               <q>One of the ironies of life in the South is the fact that the
 black professional class, thinking that under integration it would
 entrench its position vis-a-vis black folk, instead found itself in
 many 
 <pb xml:id="sc06-2_10138" n="14"/>
 cases as discomfited by the changes as the whites
 were.</q>
-          </p>
-          <p xml:id="sc06-2_10140">But the people with whom Mebane identifies herself, poor,
+            </p>
+            <p xml:id="sc06-2_10140">But the people with whom Mebane identifies herself, poor,
 dark-skinned blacks, "could not have cared less; any change at all was
 a decided improvement for them."</p>
-          <p xml:id="sc06-2_10141">Perhaps Mebane is too sharp. In <title>Mary, Wayfarer</title>, as
+            <p xml:id="sc06-2_10141">Perhaps Mebane is too sharp. In <title>Mary, Wayfarer</title>, as
 in <title>Mary</title>, she reserves her bitterness for blacks of the
 better class, particularly those in her home town of Durham. But for
 all her social myopia, she has exposed a little-discussed aspect of
@@ -844,7 +949,7 @@ at Chapel Hill, where Mebane spent twelve years, she says that some
 people "respected my gifts, and that was a first for me"--even though
 all her previous schooling and teaching had been in black
 institutions.</p>
-          <p xml:id="sc06-2_10142">Better-class black Durham's presence in Mebane's life is devilish
+            <p xml:id="sc06-2_10142">Better-class black Durham's presence in Mebane's life is devilish
 but significant, if the number of pages she spends denouncing its
 prejudices, weaknesses and hypocrisies supplies a fair measure of her
 fixation. She teaches a lesson that most sensitive Americans already
@@ -852,24 +957,24 @@ know about black life: Light skin carries connotations of beauty and
 wealth, and beauty and wealth attract people, especially men. The
 revelation is not new, although Mebane delivers it with unusual
 intensity.</p>
-          <p xml:id="sc06-2_10143">New here is her gleeful exposure of what her betters lost through
+            <p xml:id="sc06-2_10143">New here is her gleeful exposure of what her betters lost through
 integration. She tells of a light-skinned woman, a fellow student at
 Carolina, who was pained when a white woman confused her with poor
 blacks. Mebane also reports hostility from black, better-class
 colleagues at North Carolina Central University, when she was well
 received at the University of North Carolina.</p>
-          <p xml:id="sc06-2_10144">Mebane says the cream of the cream of black society at NCCU in the
+            <p xml:id="sc06-2_10144">Mebane says the cream of the cream of black society at NCCU in the
 1960's saw the university as an enemy disturbing their social
 order. "By opening its doors to all blacks, and not limiting its
 admissions to blacks of a certain class or color," Mebane says the
 university inadvertently broke one of black society's unwritten
 rules--that only the elite were to garner such rewards.</p>
-          <p xml:id="sc06-2_10145">As a dark-skinned non-Southerner who was (mercifully) brought up in
+            <p xml:id="sc06-2_10145">As a dark-skinned non-Southerner who was (mercifully) brought up in
 the West, I nonetheless felt a certain satisfaction in watching Mebane
 prick the bourgeoisie. But the pain in this woman's life diminished my
 relish. This is an angry book, although the emotions are muted in
 comparison with the first volume, <title>Mary</title>.</p>
-          <p xml:id="sc06-2_10146">Even so, I found myself drawn into Mebane's autobiography The
+            <p xml:id="sc06-2_10146">Even so, I found myself drawn into Mebane's autobiography The
 material on black Durham is most fascinating But I also learned from
 her descriptions of the civil-rights years in Durham and Chapel
 Hill. I made a mental note, too, that Mebane is one of a growing list
@@ -878,7 +983,7 @@ sanity and continue to teach in some white, male-dominated
 situations. (My list now numbers six women--and I am on it--who left
 white departments to preserve their mental health.) Here again, Mary
 Mebane's autobiographies are enlightening.</p>
-          <p xml:id="sc06-2_10147">But Mebane also provokes pity and annoyance. Reading her painful
+            <p xml:id="sc06-2_10147">But Mebane also provokes pity and annoyance. Reading her painful
 descriptions of her unloving and drunken family--whom she was not able
 to leave until she was in her mid-30's--and of her frustrating
 encounters with men, her school-girl ideals about elegance in love
@@ -890,7 +995,7 @@ as typical. For my part, she represents an unusually sad case, and
 this impression carries over from the first volume to the second,
 although the second is more smoothly written, its emotions less
 aroused.</p>
-          <p xml:id="sc06-2_10148">Both <title>Mary</title> and <title>Mary, Wayfarer</title> suffer
+            <p xml:id="sc06-2_10148">Both <title>Mary</title> and <title>Mary, Wayfarer</title> suffer
 from the author's lack of distance from her tormentors--her mother,
 her family and Durham's black bourgeoisie. Years of therapy have
 finally allowed her to see her mother as a victim of poverty and
@@ -901,7 +1006,7 @@ and the snobbery she attaches to North Carolina Central University
 occur elsewhere among other groups of people. Pretension and snobbery
 remain the monopoly of better-class black Durham, and Mary Mebane's
 anger at them remains unabated.</p>
-          <p xml:id="sc06-2_10149">While <title>Mary, Wayfarer</title> and <title>Mary</title> lack
+            <p xml:id="sc06-2_10149">While <title>Mary, Wayfarer</title> and <title>Mary</title> lack
 the warmth and humane vision of Maya Angelou's <title>I Know Why the
 Caged Bird Sings</title> or Pauli Murray's <title>Proud Shoes</title>
 (much of the latter set in Durham), the narrowness and bitterness of
@@ -909,22 +1014,33 @@ the Mebane books point to the anger that those at the very bottom of
 the black hierarchy can harbor against other blacks. Mary Mebane tells
 awkward truths about class, color pnd sex, but her truths are true
 anyway.</p>
-          <div3 xml:id="sc06-2_027" type="About">
-            <p xml:id="sc06-2_10150">Nell Irvin Painter teaches history at the University of
+            <div3 xml:id="sc06-2_027" type="About">
+               <p xml:id="sc06-2_10150">Nell Irvin Painter teaches history at the University of
 North Carolina at Chapel Hill. She grew up in northern California and
 is the author of <title>The Narrative of Hosea Hudson: His Life as a
 Negro Communist in the South.</title> This review first appeared in
-the <title>North Carolina Independent.</title></p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc06-2_008" n="7" type="Review">
-          <head>Steven Hahn, <title>The Roots of Southern Populism: Yeomen
+the <title>North Carolina Independent.</title>
+               </p>
+            </div3>
+         </div2>
+         <div2 xml:id="sc06-2_008" n="7" type="Review">
+            <head>Steven Hahn, <title>The Roots of Southern Populism: Yeomen
 Farmers and the Transformation of the Georgia Upcountry,
 1850-1890</title> New York: Oxford University Press, 1983.</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Beatty, Bess</reg><sic>Bess Beatty</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 14-16</docDate>
-          
-          <p xml:id="sc06-2_10152">When Frank Owsley completed his study, <title>The Plain Folk of the
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Beatty, Bess</reg>
+                        <sic>Bess Beatty</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 14-16</docDate>
+            <interp>
+               <certainty ana="#T03" degree="22.8"/>
+            </interp>
+            <p xml:id="sc06-2_10152">When Frank Owsley completed his study, <title>The Plain Folk of the
 Old South,</title> in 1949, he considered the title "The Forgotten Man
 of the Old South," but rejected it as too flamboyant. Three decades
 later this rejected title, enlarged to include the Forgotten Woman,
@@ -941,9 +1057,11 @@ was a massive body of plain folk who were neither rich nor very poor,"
 they have rarely given this group in depth attention. There are
 hopeful signs, however, that the forgotten people of Southern history
 are beginning to find their historians. Steven Hahn's <title>The Roots
-of Southern Populism: Yeomen Farmers and the Transformation of the</title><pb xml:id="sc06-2_10151" n="15"/><title>Georgia Upcountry, 1850-1890</title> joins a small but significant
+of Southern Populism: Yeomen Farmers and the Transformation of the</title>
+               <pb xml:id="sc06-2_10151" n="15"/>
+               <title>Georgia Upcountry, 1850-1890</title> joins a small but significant
 list of Southern studies that focus on the region's plain folk.</p>
-          <p xml:id="sc06-2_10153">Historians of Populism have given considerable attention to the
+            <p xml:id="sc06-2_10153">Historians of Populism have given considerable attention to the
 issues yeomen farmers confronted and to the leaders who mobilized
 their protest. For the most part, however, the many good studies of
 Southern Populism have paid little attention to the activities and
@@ -968,7 +1086,7 @@ written views of Floyd County planter John Dent, who appears under
 several guises, a large enough representation of the typical planter
 assessment of the times. Yet in fairness, <title>The Roots of Southern
 Populism</title>, is not intended as a study of folk culture.</p>
-          <p xml:id="sc06-2_10154">Although his subjects are agrarian rather than industrial workers,
+            <p xml:id="sc06-2_10154">Although his subjects are agrarian rather than industrial workers,
 Hahn's story is strikingly similar to the recent work in American "new
 labor history" which has been so influenced by Edward P. Thompson's
 <title>The Making of the English Working Class</title>. Hahn does, in
@@ -977,7 +1095,7 @@ fundamentally different from industrial. Hahn's Georgia yeomen, like
 their industrial counterparts, tried to retain autonomy and to resist
 the encroachments of capitalism--in their case commercial
 agriculture--by clinging to precapitalistic norms and prerogatives.</p>
-          <p xml:id="sc06-2_10155">Establishing the cultural and economic roots of Populism over a
+            <p xml:id="sc06-2_10155">Establishing the cultural and economic roots of Populism over a
 forty year period forces Hahn to confront one of the most perplexing
 questions of Southern historiography: If, according to conventional
 wisdom, "Southern yeomen were touchy and isolated individualists," how
@@ -1001,7 +1119,7 @@ planters." As a result of his careful analysis of the meaning and
 limits of independence in the economic and social lives of the Georgia
 yeomen, Hahn concludes that Populism was not an aberration in Southern
 Upcountry life but a product of a deeply embedded world view.</p>
-          <p xml:id="sc06-2_10156">Before the war, class conflict resulting from distinctive planter
+            <p xml:id="sc06-2_10156">Before the war, class conflict resulting from distinctive planter
 and yeomen world views was latent, muted by planter efforts to unite
 their region in the growing struggle with the rest of the country. The
 yeomen enjoyed a large measure of autonomy; popular laws and customs,
@@ -1014,7 +1132,7 @@ which were further exacerbated by severe economic dislocations in the
 wake of Confederate defeat. Hahn rightly argues that transformations
 in the lives of the Upcountry yeomen "during this period elucidate the
 larger meaning of the Civil War itself."</p>
-          <p xml:id="sc06-2_10158">Central to the economic change which these people confronted was
+            <p xml:id="sc06-2_10158">Central to the economic change which these people confronted was
 the transformation of the Georgia Up-
 <pb xml:id="sc06-2_10157" n="16"/>
 country from an area of
@@ -1031,7 +1149,7 @@ of antebellum Upcountry society. "By the 1880s," Hahn finds, "an elite
 deriving surpluses from both land and commerce held the economic reins
 in the upcountry." Increasingly the "republicanism of petty producers"
 was arrayed against "the values of the free market."</p>
-          <p xml:id="sc06-2_10159">The inevitable postbellum class conflict took on a uniquely
+            <p xml:id="sc06-2_10159">The inevitable postbellum class conflict took on a uniquely
 Southern tone because of simultaneous racial conflict. Hahn offer
 important, but sometimes contradictory, analysis of the old question
 concerning how much coming together there actually was between the
@@ -1043,7 +1161,7 @@ more persuasive in claiming that the Southern yeomen viewed blacks,
 both in slavery and freedom, "as symbols of a condition they most
 feared--abject and perpetual dependence--and as a group whose strict
 subordination provided essential safeguards for their way of life."</p>
-          <p xml:id="sc06-2_10160">But racism was not sufficient to keep the yeomen loyal to elitist
+            <p xml:id="sc06-2_10160">But racism was not sufficient to keep the yeomen loyal to elitist
 Democracy. By the 1870s election returns revealed "emerging divisions
 between town and countryside and between rich and poor farmers." The
 issue that most polarized Upcountry white society was the question of
@@ -1061,7 +1179,7 @@ was the struggle over grazing rights, Hahn contends, that first
 aroused the upcountry yeomen; "the appearance of the Southern Farmers
 Alliance and then the People's party promised to transform
 defensiveness into a humane and progressive force."</p>
-          <p xml:id="sc06-2_10161">Hahn successfully challenges most historians of Southern Populism
+            <p xml:id="sc06-2_10161">Hahn successfully challenges most historians of Southern Populism
 with his compelling argument that the appeal of Populism to Upcountry
 Georgia yeomen farmers was more than a factor of their increasing
 impoverishment; the movement also offered a vehicle to restore "a
@@ -1069,7 +1187,7 @@ producers commonwealth" which had been overwhelmed by the
 encroachments of the free market. To the yeomen who joined the
 Populist revolt, the party's goals were "a vision informed by
 historical experience."</p>
-          <p xml:id="sc06-2_10162">For myriad reasons Populism quickly failed. One important reason,
+            <p xml:id="sc06-2_10162">For myriad reasons Populism quickly failed. One important reason,
 according to Hahn, was the two-sided nature of the yeomen sense of
 mutuality which made this cooperation possible. He argues that the
 "very networks and norms of the household economy partially disguised
@@ -1083,7 +1201,7 @@ minimize its historical importance and ideological legacy. What
 Goodwyn describes as "the largest democratic mass movement in American
 history" is to Hahn "a watershed in the history of industrializing
 America."</p>
-          <p xml:id="sc06-2_10163">Steven Hahn's book is excellent history, but it is more than that;
+            <p xml:id="sc06-2_10163">Steven Hahn's book is excellent history, but it is more than that;
 it is also an excellent study of the interaction of the powerful and
 the powerless. The descendants of these Upcountry yeomen know little
 of their ancestral legacy of cooperative republican and
@@ -1093,18 +1211,28 @@ victims. Content with what they can see, they have lost the capacity
 to imagine what they can no longer see. Ideas about freedom get
 obscured in this way." The importance of Hahn's book is as current as
 it is historical.</p>
-          <div3 xml:id="sc06-2_028" type="About">
-            <p xml:id="sc06-2_10164">Bess Beatty is assistant professor of history at Shorter
+            <div3 xml:id="sc06-2_028" type="About">
+               <p xml:id="sc06-2_10164">Bess Beatty is assistant professor of history at Shorter
 College in Rome, Georgia.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc06-2_009" n="8" type="Article">
-          <head>The 39th Year Report of the Southern Regional Council,
+            </div3>
+         </div2>
+         <div2 xml:id="sc06-2_009" n="8" type="Article">
+            <head>The 39th Year Report of the Southern Regional Council,
 1983</head>
-          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 16-20, 22-24</docDate>
-          
-          <p xml:id="sc06-2_10165">The Southern Regional Council, the South's oldest biracial
+            <byline>By <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Staff</reg>
+                        <sic>Staff</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, pp. 16-20, 22-24</docDate>
+            <interp>
+               <certainty ana="#T12" degree="57.3"/>
+            </interp>
+            <p xml:id="sc06-2_10165">The Southern Regional Council, the South's oldest biracial
 organization, consists of 120 Council Members in eleven Southern
 states. The work of the Council is supported by foundations, labor
 unions and corporations and by the contributions of individuals and
@@ -1114,16 +1242,16 @@ technical assistance and offers educational programs which address
 primarily the issues of poverty, racism and ignorance in the American
 South. Through its work, the Council also attemps to develop regional
 leadership concerned about these enduring problems.</p>
-          <p xml:id="sc06-2_10166">While the Council's membership is limited to 120, any number of
+            <p xml:id="sc06-2_10166">While the Council's membership is limited to 120, any number of
 people may become associate members, participate in the functions of
 the Council and receive its bimonthly magazine, <title>Southern
 Changes</title>.</p>
-          <p xml:id="sc06-2_10167">During 1983, the Southern Regional Council has continued to work
+            <p xml:id="sc06-2_10167">During 1983, the Southern Regional Council has continued to work
 for a better South through a number of projects.</p>
-          <p xml:id="sc06-2_10168">
-            <hi rend="bold">Voting Rights</hi>
-          </p>
-          <p xml:id="sc06-2_10170">Not since the passage of the original Voting Rights Act in 1965 has
+            <p xml:id="sc06-2_10168">
+               <hi rend="bold">Voting Rights</hi>
+            </p>
+            <p xml:id="sc06-2_10170">Not since the passage of the original Voting Rights Act in 1965 has
 political participation been at so critical a stage in the South as in
 the last few years. The passage of the Act was endangered for almost a
 year, and while the Act has 
@@ -1137,13 +1265,13 @@ if the Act is to sustain its major force for equal suffrage. In
 addition, most legislative bodies, including state legislatures, have
 been reapportioning their districts which will set in stone the
 structures of government in the region for the next ten years.</p>
-          <p xml:id="sc06-2_10171">To meet the critical needs relating to voting rights, the Southern
+            <p xml:id="sc06-2_10171">To meet the critical needs relating to voting rights, the Southern
 Regional Council has carried out a program of reserach and technical
 assistance for the enforcement of the preclearance provision of
 Section 5, the review of reapportionment plans for local and state
 legislative bodies in the South, and the assessment of the past level
 of enforcement and influence of the Voting Rights Act.</p>
-          <p xml:id="sc06-2_10172">For the last four years the Council has maintained the only
+            <p xml:id="sc06-2_10172">For the last four years the Council has maintained the only
 organization that systematically monitors Section 5 compliance in the
 Southeast. The project's work is designed to examine changes submitted
 to the Justice Department that affect voting in Virginia, North
@@ -1157,47 +1285,47 @@ voting. When the analysis shows racial discrimination in effect to
 purpose, the Council assists the local group in requesting the Justice
 Department to object to the changes. At times, the Council itself
 files such a document on behalf of the local group.</p>
-          <p xml:id="sc06-2_10173">In 1983, the Project reviewed over 175 Section 5 submissions. This
+            <p xml:id="sc06-2_10173">In 1983, the Project reviewed over 175 Section 5 submissions. This
 was done by contacting community leaders in affected jurisdictions and
 seeking their impressions of proposed voting changes. The bulk of our
 monitoring involved redistricting because of the amount of local
 redistricting which occured in Louisiana and Mississippi.</p>
-          <p xml:id="sc06-2_10174">We were involved in twenty-six Section 5 cases either by assisting
+            <p xml:id="sc06-2_10174">We were involved in twenty-six Section 5 cases either by assisting
 community groups in contesting discriminatory changes or representing
 them directly in the administrative process.</p>
-          <p xml:id="sc06-2_10175">Representation of client groups meant doing extensive research and
+            <p xml:id="sc06-2_10175">Representation of client groups meant doing extensive research and
 community analysis and preparing detailed comment letters to Justice
 Department officials. The project prepared twelve comment letters in
 1983. On the basis of these letters, the Justice Department imposed
 objections in eight localities.</p>
-          <p xml:id="sc06-2_10176">We have been called on by community groups throughout the South to
+            <p xml:id="sc06-2_10176">We have been called on by community groups throughout the South to
 supply model redistricting plans for city and county governing
 bodies--plans which would increase the potential for blacks to elect
 candidates of their choice. We drafted seventy-eight plans in 1983 and
 had requests for at least twenty-five more. (See "Drawing the Lines"
 in <title>Southern Changes</title> (October/November, 1983) for a
 discussion of the process of drawing reapportionment plans.)</p>
-          <p xml:id="sc06-2_10177">In 1983 the Voting Rights Project continued to provide information
+            <p xml:id="sc06-2_10177">In 1983 the Voting Rights Project continued to provide information
 on voting and election issues to requesting parties throughout the
 nation. Inquiries ranged from wanting to know the number of black
 elected officials in a particular area to developing a list of people
 to testify at public hearings during the national PUSH
 convention. Requests were received from attorneys, members of Congress
 and the press.</p>
-          <p xml:id="sc06-2_10178">The work of the Project has taken its staff into many towns
+            <p xml:id="sc06-2_10178">The work of the Project has taken its staff into many towns
 throughout the South, contacting voters leagues, NMCP groups,
 concerned citizens' organizations and individuals.</p>
-          <p xml:id="sc06-2_10179">In the last year in North Carolina, the SRC has continued
+            <p xml:id="sc06-2_10179">In the last year in North Carolina, the SRC has continued
 activities in and out of the courtroom to develop a redistricting plan
 for the state legislature which protects minority voting strength.</p>
-          <p xml:id="sc06-2_10180">All in all, there may be as many as a hundred new black elected
+            <p xml:id="sc06-2_10180">All in all, there may be as many as a hundred new black elected
 officials and an even larger number of new, more responsive white
 officials by 1985 as a result of the Council's reapportionment
 work.</p>
-          <p xml:id="sc06-2_10181">
-            <hi rend="bold">Southern Legislative Research Council</hi>
-          </p>
-          <p xml:id="sc06-2_10182">A continuing concern of the Southern Regional Council since its
+            <p xml:id="sc06-2_10181">
+               <hi rend="bold">Southern Legislative Research Council</hi>
+            </p>
+            <p xml:id="sc06-2_10182">A continuing concern of the Southern Regional Council since its
 founding in 1944 has been the removal of restrictions against the
 right to vote and to hold public office. Beginning with its first
 published research on the all-white primary and literacy tests in the
@@ -1206,7 +1334,7 @@ participation in both elected and appointed positions. The Council has
 also provided technical assistance to community groups and to minority
 elected officials over the years on a wide range of problems and
 issues including education, employment, health care and housing.</p>
-          <p xml:id="sc06-2_10184">Despite these efforts and the work of others, the impact of blacks,
+            <p xml:id="sc06-2_10184">Despite these efforts and the work of others, the impact of blacks,
 women and other elected officials representing poor and minority
 constituents remains too limited; often their first problem is the
 reality of small numbers. For example, blacks comprise less than ten
@@ -1218,7 +1346,7 @@ percent of the state's population. In Mississippi,
 almost forty
 percent of the state's population is black, but less than ten percent
 of the state legislators are minorities.</p>
-          <p xml:id="sc06-2_10185">Although limited by numbers, the impact of these legislators is
+            <p xml:id="sc06-2_10185">Although limited by numbers, the impact of these legislators is
 further reduced by the lack of support available to them for the
 performance of their duties. In more than half of the legislatures
 outside the South, staff and office space are provided to both house
@@ -1236,20 +1364,20 @@ president of the senate and the staff to legislator ratio is one staff
 person per twelve senators. Some Southern states have intern programs,
 but these are often limited to assistance during the session only, and
 directly controlled by the governor and legislative leadership.</p>
-          <p xml:id="sc06-2_10186">The decade of the 1980s has brought a substantial increase in
+            <p xml:id="sc06-2_10186">The decade of the 1980s has brought a substantial increase in
 demands on legislators representing poor and black constitutents in
 the South. To meet the challenges, these legislators must develop
 their own expertise on issues and lead the way for changes. They must
 comprehend the issues and the legislative process itself, and
 understand how to use the process to benefit their constituents.</p>
-          <p xml:id="sc06-2_10187">In 1980, the Southern Regional Council began the Southern
+            <p xml:id="sc06-2_10187">In 1980, the Southern Regional Council began the Southern
 Legislative Research Council (SLRC) as a special project to provide
 research, analysis and technical assistance to state legislators who
 represent the interests of black and poor citizens in Alabama and
 Georgia. Upon requests, the SLRC assists both black and white
 legislators, effectively increasing their capability to use
 information and analysis in state government.</p>
-          <p xml:id="sc06-2_10188">The strength of the SLRC has come from its ability to combine four
+            <p xml:id="sc06-2_10188">The strength of the SLRC has come from its ability to combine four
 components--a reference service, an intern program, an expert network
 and an information exchange--to aid "client" legislators and, at
 times, community groups. The project has gained recognition for its
@@ -1258,7 +1386,7 @@ research. Without advocating positions on legislative proposals, the
 project's staff works only to respond to requests for hard data and
 objective comparisons that are not often available from advocates or
 other legislative services.</p>
-          <p xml:id="sc06-2_10189">During the first three years of the SLRC, legislators in Alabama
+            <p xml:id="sc06-2_10189">During the first three years of the SLRC, legislators in Alabama
 and Georgia have shown remarkable growth in their knowledge of issues
 and effective representation of the interests of the poor and
 blacks. As these legislators have begun to establish increased
@@ -1267,7 +1395,7 @@ legislative leadership has increased. Just as important, there has
 been a growing awareness between black and white legislators who
 represent poor and black citizens that they share the same
 constitutents and, therefore, must address the same concerns.</p>
-          <p xml:id="sc06-2_10190">In 1983, the work of the SLRC paralleled the concern of the Georgia
+            <p xml:id="sc06-2_10190">In 1983, the work of the SLRC paralleled the concern of the Georgia
 and Alabama legislatures with the state budget and the loss of
 government money for social, educational and health care programs. In
 both states, the SLRC staff introduced new legislators to the
@@ -1279,7 +1407,7 @@ program and supported the operations of the Federation of Southern
 Cooperatives. The SLRC also monitored the progress of a federal court
 desegregation order under which the Georgia state university system is
 currently operating.</p>
-          <p xml:id="sc06-2_10191">Additional work involved developing research papers and model
+            <p xml:id="sc06-2_10191">Additional work involved developing research papers and model
 legislation on employment discrimination. In Georgia, the legislature
 did pass a comprehensive act covering this subject. The Alabama staff
 of the SLRC compiled a report on the impact of hiring practices in the
@@ -1288,7 +1416,7 @@ governmental departments of that state. Staff assistance in Alabama in
 legislative reapportionment plan. The plan result in the election of
 twenty-four blacks, including five senators (the largest number of
 blacks serving in the Alabama legislature in modern history).</p>
-          <p xml:id="sc06-2_10193">The Southern Legislative Research Council also assisted the
+            <p xml:id="sc06-2_10193">The Southern Legislative Research Council also assisted the
 Legislative Black Caucuses of Georgia and Alabama in developing formal
 structures. During 1983, both caucuses have incorporated. In Georgia,
 a caucus clearinghouse network and a committee structure have been
@@ -1299,7 +1427,7 @@ fundraising event, netting over $25,000 to be used to
 <pb xml:id="sc06-2_10192" n="19"/>
 hire a full-time
 legislative staff within the next calendar year.</p>
-          <p xml:id="sc06-2_10194">The SLRC is also developing ways that will allow its research,
+            <p xml:id="sc06-2_10194">The SLRC is also developing ways that will allow its research,
 analysis and technical assistance to be used beyond Georgia and
 Alabama. We have a list prepared of the most helpful documents
 produced by the project and will distribute this list to legislative
@@ -1311,7 +1439,7 @@ throughout the South. The project is also attempting to identify
 persons who can provide long distance written research, expertise and
 analysis on a timely basis on a specific issue that is widely viewed
 as important.</p>
-          <p xml:id="sc06-2_10195">At the request of client legislators, the SLRC is planning a series
+            <p xml:id="sc06-2_10195">At the request of client legislators, the SLRC is planning a series
 of Southern conferences of legislators. These meetings will bring
 together legislators, experts, and community groups from throughout
 the South to discuss issues as well as the legislative process. The
@@ -1320,16 +1448,16 @@ effective in the legislative process, especially the budget
 process. The second conference, planned for the late summer or fall of
 1984, will focus primarily on such issues as taxation, education, and
 economic development.</p>
-          <p xml:id="sc06-2_10196">The initial conference probably will be limited to black
+            <p xml:id="sc06-2_10196">The initial conference probably will be limited to black
 legislators, and will attempt to identify general goals and objectives
 of black legislators throughout the South. The second conference,
 focusing on prevailing legislative issues will include other
 legislators and community groups representing poor black
 constituents.</p>
-          <p xml:id="sc06-2_10197">
-            <hi rend="bold">Coop democracy</hi>
-          </p>
-          <p xml:id="sc06-2_10198">The SRC's Cooperative Democracy and Development Project is designed
+            <p xml:id="sc06-2_10197">
+               <hi rend="bold">Coop democracy</hi>
+            </p>
+            <p xml:id="sc06-2_10198">The SRC's Cooperative Democracy and Development Project is designed
 to work with community-based organizations in the rural South that are
 attempting to develop and execute strategies of legal activities,
 technical assistance and organizing to achieve democratic control of
@@ -1346,11 +1474,11 @@ models for conservation and job-creation. Unlike investor-owned
 utilities which have huge, standing plants, electric coops are largely
 distributors of electricity and have a self-interest in finding ways
 of conserving energy and creating jobs.</p>
-          <p xml:id="sc06-2_10199">Perhaps the most non-traditional role of a utility coop offers the
+            <p xml:id="sc06-2_10199">Perhaps the most non-traditional role of a utility coop offers the
 most sweeping promise for the Black Belt and similar areas. Coops have
 the capacity to act as prime financing agents for local economic and
 social development.</p>
-          <p xml:id="sc06-2_10200">During the last twelve months the Coop Democracy Project has worked
+            <p xml:id="sc06-2_10200">During the last twelve months the Coop Democracy Project has worked
 with coalitions of leaders in more than twenty different areas of the
 rural South in their efforts to make cooperatives lower the cost of
 electricity to low-income consumers; to redirect financial resources
@@ -1360,21 +1488,21 @@ developments with the coops' own resources. Primarily, the Project is
 aimed at accomplishing these efforts through supporting local groups
 who wish to elect alternative members to the boards of directors of
 the coops.</p>
-          <p xml:id="sc06-2_10201">As a result of Project activities over thirteen hundred
+            <p xml:id="sc06-2_10201">As a result of Project activities over thirteen hundred
 consumer-members were for the first time directly involved in
 community-based efforts to elect minority representatives to six coop
 governing boards in North Carolina, Mississippi, Virginia, Louisiana,
 and Georgia. Community leaders received training and information on
 the electric coops and their potential in these states and in
 Arkansas, South Carolina, and Alabama.</p>
-          <p xml:id="sc06-2_10202">The process of bringing about democracy in electric coops has been
+            <p xml:id="sc06-2_10202">The process of bringing about democracy in electric coops has been
 both difficult and, at times, dangerous. Earlier this year in
 Mecklenberg, Virginia one of the local black leaders who supported a
 challenge to the local coop spent much of her evening at the coop's
 offices observing the election and returned home to find her house
 broken into and flammable liquids poured around several rooms. The
 intruder had departed hastily.</p>
-          <p xml:id="sc06-2_10204">The activities of the Coop Project have not yet succeeded in
+            <p xml:id="sc06-2_10204">The activities of the Coop Project have not yet succeeded in
 changing the control of very many coops. The Project however, has made
 some important progress. It has informed a number of consumers for the
 first time about their rights as members of the coop and of the
@@ -1399,7 +1527,7 @@ offices, the supervising federal agency for electric coops, and
 through monitoring of coop meetings. All of this effort has
 established an important base of information and interest for ongoing
 activities.</p>
-          <p xml:id="sc06-2_10205">The last year has also evidenced a wide range of primary techniques
+            <p xml:id="sc06-2_10205">The last year has also evidenced a wide range of primary techniques
 and maneuvers available to coop management to manipulate and frustrate
 the efforts of challengers. These techniques include the denial of
 access to vital information such as membership lists, financial data,
@@ -1409,7 +1537,7 @@ resources— telephones, personnel, trucks, and mailing facilities—
 to recruit support for the incumbent management. All of these
 maneuvers rest on the coop management's control of information and
 resources.</p>
-          <p xml:id="sc06-2_10206">The Project's experience has also revealed the most vivid examples
+            <p xml:id="sc06-2_10206">The Project's experience has also revealed the most vivid examples
 of bedrock racial hatred which still persists in this area. In places
 suc!1 as Mississippi, coops have gone to extraordinary trouble and
 expense to bar any possibility of even one or two black board members
@@ -1421,17 +1549,17 @@ meeting where fewer than seventy people had attended over the past
 fifteen years. In every place, "race-baiting" has been used as a
 primary tool by which coop management spurs white support when faced
 with challenges.</p>
-          <p xml:id="sc06-2_10207">The Project and local community leaders have also faced resignation
+            <p xml:id="sc06-2_10207">The Project and local community leaders have also faced resignation
 and hopelessness among poor black coop members. Although concerned
 with increasingly high utility bills and the need for jobs, many
 members feel little urge to attend annual coop meetings. Nonetheless,
 the first year o. full activity for the Coop Democracy and Development
 Project has seen the beginnings of a base of strength and
 experience.</p>
-          <p xml:id="sc06-2_10208">
-            <hi rend="bold">Lillian Smith Book Awards</hi>
-          </p>
-          <p xml:id="sc06-2_10209">Lillian Smith, Georgia thinker, activist, author and Southern
+            <p xml:id="sc06-2_10208">
+               <hi rend="bold">Lillian Smith Book Awards</hi>
+            </p>
+            <p xml:id="sc06-2_10209">Lillian Smith, Georgia thinker, activist, author and Southern
 Regional Council Life Member, died September 28, 1966. The SRC created
 the Lillian Smith Book Awards to honor her life, her work,: and her
 commitment, and to recognize in her name those who have contributed to
@@ -1439,17 +1567,17 @@ our understanding of the South, its people, its strengths, problems
 and weaknesses. The Smith Awards are given each year to fiction and
 non-fiction works which best carry on Lillian Smith's vision of the
 South.</p>
-          <p xml:id="sc06-2_10210">
-            <hi rend="bold">Civil Rights History for Radio</hi>
-          </p>
-          <p xml:id="sc06-2_10211">Moving toward a final stage of production is a series of
+            <p xml:id="sc06-2_10210">
+               <hi rend="bold">Civil Rights History for Radio</hi>
+            </p>
+            <p xml:id="sc06-2_10211">Moving toward a final stage of production is a series of
 twenty-eight radio broadcasts documenting recent civil rights history
 in five Southern state capitals. A phase of this project, completed in
 January of 1984, involved the preparation of scripts and/or in-depth
 treatments for five programs in each of the following cities: Jackson,
 Little Rock, Columbia, Montgomery and Atlanta. This first phase also
 called for three scripts or treatments for the region as a whole.</p>
-          <p xml:id="sc06-2_10213">The Project's inital efforts focused on staff organization and
+            <p xml:id="sc06-2_10213">The Project's inital efforts focused on staff organization and
 administration, and included the organization of five person advisory
 committee, and several part-time re-
 <pb xml:id="sc06-2_10212" n="22"/>
@@ -1460,27 +1588,27 @@ broadcast quality tape recordings; development of a plan for field
 interviews, office procedures and transcriptions; and planning
 execution of two meetings with advisory committee scholars for
 reviewing the progress and focus of the project.</p>
-          <p xml:id="sc06-2_10214">The balance of the Project's work has been in four major areas:
+            <p xml:id="sc06-2_10214">The balance of the Project's work has been in four major areas:
 interviewing, transcribing tapes, researching, and writing, and
 writing.</p>
-          <p xml:id="sc06-2_10215">The Project staff has recorded more than forty field interviews in
+            <p xml:id="sc06-2_10215">The Project staff has recorded more than forty field interviews in
 Jackson, Columbia and Montgomery. Preliminary interviews have been
 conducted by phone in Little Rock and Atlanta.</p>
-          <p xml:id="sc06-2_10216">The interviews have included participants at all levels of the
+            <p xml:id="sc06-2_10216">The interviews have included participants at all levels of the
 movement, from those who marched in the bus boycott to those who
 sought early admission to segregated schools, from picketers to
 policemen who arrested picketers, from ministers to lawyers, from
 teachers to insurance salesmen. (For examples of these interviews see
 <title>Southern Changes</title> for October/November and December,
 1983.)</p>
-          <p xml:id="sc06-2_10217">In order that the approach to and understanding of change could be
+            <p xml:id="sc06-2_10217">In order that the approach to and understanding of change could be
 more readily compared from place to place, the interviews have been
 structured so that each interviewee would be asked a consistent set of
 questions. To be sure that the spontaneous responses which make good
 radio were brought forth, the interviewees were also asked appropriate
 background questions that allow them to place their personal histories
 and experiences in the context of the civil rights movement.</p>
-          <p xml:id="sc06-2_10218">About one-third of the interviews have been fully transcribed and
+            <p xml:id="sc06-2_10218">About one-third of the interviews have been fully transcribed and
 extensive notes have been taken on the rest. All tapes were reviewed
 several times in preparation for scripting. This process has been
 tedious and time-consuming, but the range and volume of material and
@@ -1496,33 +1624,34 @@ interviewers could ask better questions, and so the writers of the
 scripts and treatments would be better able to know when the oral
 histories given by the interviewees needed support or when other
 sources should be sought for clarification.</p>
-          <p xml:id="sc06-2_10219">The Civil Rights History Project expects to finish production in
+            <p xml:id="sc06-2_10219">The Civil Rights History Project expects to finish production in
 1985 and to distribute the programs around the region by 1986.</p>
-          <p xml:id="sc06-2_10220">
-            <hi rend="bold">Southern Changes</hi>
-          </p>
-          <p xml:id="sc06-2_10221"><title>Southern Changes</title> is the bi-monthly magazine of the
+            <p xml:id="sc06-2_10220">
+               <hi rend="bold">Southern Changes</hi>
+            </p>
+            <p xml:id="sc06-2_10221">
+               <title>Southern Changes</title> is the bi-monthly magazine of the
 Southern Regional Council. It is one of the nation's few publications
 which provides reporting and analysis with a regional perspective.</p>
-          <p xml:id="sc06-2_10222">One issue of <title>Southern Changes</title> in 1983 prompted
+            <p xml:id="sc06-2_10222">One issue of <title>Southern Changes</title> in 1983 prompted
 author Kurt Vonnegut to write: "When I was a boy, my father promised
 me that if this became a better country, it would have to do so
 without the help of Southerners or Catholics. That was a long time
 ago. How wrong he was."</p>
-          <p xml:id="sc06-2_10223">
-            <hi rend="bold">Regional radio</hi>
-          </p>
-          <p xml:id="sc06-2_10224">The Council is exploring the creation of a regional radio network
+            <p xml:id="sc06-2_10223">
+               <hi rend="bold">Regional radio</hi>
+            </p>
+            <p xml:id="sc06-2_10224">The Council is exploring the creation of a regional radio network
 that will offer programming including news, analysis, public affairs,
 documentaries, musical entertainment, and coverage of special events
 through contracts with existing commercial broadcast stations. A
 marketing survey and demonstration tapes have been completed and in
 the next year the Council will seek financing and contractual
 commitments from radio stations throughout the South.</p>
-          <p xml:id="sc06-2_10225">
-            <hi rend="bold">The Atlanta Media Project, Inc.</hi>
-          </p>
-          <p xml:id="sc06-2_10226">The Atlanta Media Project, Inc. (AMP), was established in 1980 to
+            <p xml:id="sc06-2_10225">
+               <hi rend="bold">The Atlanta Media Project, Inc.</hi>
+            </p>
+            <p xml:id="sc06-2_10226">The Atlanta Media Project, Inc. (AMP), was established in 1980 to
 find new ways to address the major problems of access, employment, and
 the effective use of the electronic media by blacks, the poor, and
 others. In partnership with predominantly black Clark College's school
@@ -1532,7 +1661,7 @@ negotiations with national broadcasters. Responsible for securing more
 than one million dollars in commitments for the construction of
 Clark's new school and its own future operations, AMP began operations
 in late 1981 when the Council housed its temporary offices.</p>
-          <p xml:id="sc06-2_10228">Historically, the absence of blacks, women, and Hispanics from the
+            <p xml:id="sc06-2_10228">Historically, the absence of blacks, women, and Hispanics from the
 airways in the South has been paralleled only by the paucity of
 programming about the primary concerns of these groups. During much of
 the last two decades, the principal efforts by civil rights advocates
@@ -1543,14 +1672,14 @@ broadcasters and cable companies. With breakthroughs in communications
 technology and increasing deregulation. AMP represents a unique
 enterprise which will help capture the opportunities to develop new
 ways to redress the historical exclusions from the airways.</p>
-          <p xml:id="sc06-2_10229">AMP was a co-sponsor with the Southern Regional Council in
+            <p xml:id="sc06-2_10229">AMP was a co-sponsor with the Southern Regional Council in
 producing the Southern Network. Other projects in last year including
 the production of professional quality public service announcements
 for the Voter Education Project, Inc.</p>
-          <p xml:id="sc06-2_10230">
-            <hi rend="bold">Southern Network</hi>
-          </p>
-          <p xml:id="sc06-2_10231">In a unique experiment in cable television and public affairs
+            <p xml:id="sc06-2_10230">
+               <hi rend="bold">Southern Network</hi>
+            </p>
+            <p xml:id="sc06-2_10231">In a unique experiment in cable television and public affairs
 programming, the Southern Regional Council and the Atlanta Media
 Project coordinated the coverage of the presidential primary election
 campaigns in Florida, Georgia and Alabama for cable television systems
@@ -1564,41 +1693,41 @@ households. Southern Network programs featured gavel-to-gavel speeches
 by each candidate, discussion programs with news reporters covering
 the campaigns, debates by candidates' representatives and in-depth
 examination of candidates' positions on issues.</p>
-          <p xml:id="sc06-2_10232">Surveys by the Southern Network showed that at least one in four
+            <p xml:id="sc06-2_10232">Surveys by the Southern Network showed that at least one in four
 households watched some of its programming. In late 1984 the Network
 may provide coverage of the general election. Other experiments in
 cable may be initiated in 1985.</p>
-          <p xml:id="sc06-2_10233">
-            <hi rend="bold">Southern Rural Alliance</hi>
-          </p>
-          <p xml:id="sc06-2_10234">The Southern Rural Alliance was created to pool together the
+            <p xml:id="sc06-2_10233">
+               <hi rend="bold">Southern Rural Alliance</hi>
+            </p>
+            <p xml:id="sc06-2_10234">The Southern Rural Alliance was created to pool together the
 planning, strategies, and resources of its members--the Federation of
 Southern Cooperatives, the Emergency Land Fund, the ACLU Foundation
 Southern Office, the Voter Education Project, and the Southern
 Regional Council--to enable more rapid political and economic change
 in the rural South.</p>
-          <p xml:id="sc06-2_10235">In 1983, the Alliance's efforts were focused on three counties in
+            <p xml:id="sc06-2_10235">In 1983, the Alliance's efforts were focused on three counties in
 Alabama--Choctaw, Greene, and Sumter. While this limited and targeted
 effort represented a major revision in our original scope of work, the
 Alliance's efforts in one, limited location was designed to
 demonstrate the impact and viability of the organization's cooperative
 approach to political participation.</p>
-          <p xml:id="sc06-2_10236">The first task of the Alliance was to obtain a complete and
+            <p xml:id="sc06-2_10236">The first task of the Alliance was to obtain a complete and
 accurate picture of black voter participation for Greene, Sumter, and
 Choctaw counties. The results of the analysis were at times revealing
 to both the Alliance members and to local leaders:</p>
-          <p xml:id="sc06-2_10237">* While there is room for improvement, voter registration in the
+            <p xml:id="sc06-2_10237">* While there is room for improvement, voter registration in the
 three-county district is not the major problem. Indeed, over 75
 percent of persons 18 and over are registered to vote. The difference
 between blacks and whites is small.</p>
-          <p xml:id="sc06-2_10238">* The larger problem for this district is the level of voter
+            <p xml:id="sc06-2_10238">* The larger problem for this district is the level of voter
 turnout. Voter participation levels among blacks for the three-county
 area is somewhere around 60 percent In Greene County, the level is
 somewhere around 49 percent.</p>
-          <p xml:id="sc06-2_10239">* In several boxes and beats, past elections show significant
+            <p xml:id="sc06-2_10239">* In several boxes and beats, past elections show significant
 support for white incumbent candidates who were in races against
 well-respected black candidates.</p>
-          <p xml:id="sc06-2_10241">Using the results as a guide, the Alliance began its work. The
+            <p xml:id="sc06-2_10241">Using the results as a guide, the Alliance began its work. The
 Alliance was somewhat successful in developing a comprehensive list of
 precinct leaders for the target counties. It was this list that was
 used in putting together a people's nomination convention. A number of
@@ -1614,97 +1743,129 @@ Greene County has permitted the Alliance to
 <pb xml:id="sc06-2_10240" n="24"/>
 counsel those officials
 about methods to increase voter registration.</p>
-          <p xml:id="sc06-2_10242">The primary election analysis shows that voter registration and
+            <p xml:id="sc06-2_10242">The primary election analysis shows that voter registration and
 voter turnout did increase in the November election probably as a
 partial result of the Alliance's work.</p>
-          <p xml:id="sc06-2_10243">
-            <hi rend="bold">Maps of the South</hi>
-          </p>
-          <p xml:id="sc06-2_10244">Using data from the 1980 census, the Council worked in 1983 to
+            <p xml:id="sc06-2_10243">
+               <hi rend="bold">Maps of the South</hi>
+            </p>
+            <p xml:id="sc06-2_10244">Using data from the 1980 census, the Council worked in 1983 to
 prepare multi-colored maps of the South, showing--county by
 county--the distribution of poor and black population. The maps are
 accompanied by state reports on changes in population and poverty
 since 1970. Both maps and reports are scheduled for release in late
 April 1984 and are available to the public.</p>
-          <p xml:id="sc06-2_10245">
-            <hi rend="bold">Agricultural Marketing Project of Georgia</hi>
-          </p>
-          <p xml:id="sc06-2_10246">The Agricultural Marketing Project of Georgia provides a means by
+            <p xml:id="sc06-2_10245">
+               <hi rend="bold">Agricultural Marketing Project of Georgia</hi>
+            </p>
+            <p xml:id="sc06-2_10246">The Agricultural Marketing Project of Georgia provides a means by
 which small, marginal farmers can develop and maintain markets for
 their produce and low-income consumers can have fresh food at low
 costs. Since its inception in 1979, <hi rend="bold">AMP-G</hi> has operated
 under the the administrative and financial controls of the Council.</p>
-          <p xml:id="sc06-2_10247">In 1983, Project activities reflected a changed emphasis of work,
+            <p xml:id="sc06-2_10247">In 1983, Project activities reflected a changed emphasis of work,
 away from food fairs and toward consumer work in the Atlanta area,
 associated with the Atlanta Produce Exchange. Because the various farm
 groups which the Project has established was running food fairs around
 the state smoothly on their own, primary assistance was no longer
 needed.</p>
-          <p xml:id="sc06-2_10248">Most staff time was devoted to the development and the operation of
+            <p xml:id="sc06-2_10248">Most staff time was devoted to the development and the operation of
 the Altanta Produce Exchange which is now independently incorporated,
 with its own board, whose members include two farmers and three
 consumer group representatives. The Exchange is designed to operate as
 a broker between small farmers and buying clubs and other bulk
 purchasers of fresh produce. It is set up to function entirely in the
 future on revenues generated by the sale of produce.</p>
-          <p xml:id="sc06-2_10249">
-            <hi rend="bold">Southern Roundtable</hi>
-          </p>
-          <p xml:id="sc06-2_10250">Each month representatives of regional groups and state coalitions
+            <p xml:id="sc06-2_10249">
+               <hi rend="bold">Southern Roundtable</hi>
+            </p>
+            <p xml:id="sc06-2_10250">Each month representatives of regional groups and state coalitions
 meet in Atlanta for the Southern Roundtable, an opportunity to
 discuss, question and explore common or emerging issues, problems and
 concerns in the South. More than fifty groups receive the Roundtable
 mailings and attend meetings in Atlanta. The Council hosts the
 Southern Roundtable.</p>
-        </div2>
-        <div2 xml:id="sc06-2_010" n="9" type="Article">
-          <head>"Winners of Lillian Smith Award"</head>
-          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
-          <docDate when="1984-03">Vol. 6, No. 2, 1984, p. 21</docDate>
-          
-          <p xml:id="sc06-2_10251">1968 George B. Tindall, <title>The Emergence of the New
-South</title></p>
-          <p xml:id="sc06-2_10252">1968 Dan T. Carter, <title>Scottsboro</title></p>
-          <p xml:id="sc06-2_10253">1970 Paul M. Gaston, <title>The New South Creed</title></p>
-          <p xml:id="sc06-2_10254">1971
-Tony Dunbar, <title>Our Land, Too</title></p>
-          <p xml:id="sc06-2_10255">1972 Robert Coles,
+         </div2>
+         <div2 xml:id="sc06-2_010" n="9" type="Article">
+            <head>"Winners of Lillian Smith Award"</head>
+            <byline>By <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Staff</reg>
+                        <sic>Staff</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1984-03">Vol. 6, No. 2, 1984, p. 21</docDate>
+            <interp>
+               <certainty ana="#T06" degree="56.6"/>
+            </interp>
+            <p xml:id="sc06-2_10251">1968 George B. Tindall, <title>The Emergence of the New
+South</title>
+            </p>
+            <p xml:id="sc06-2_10252">1968 Dan T. Carter, <title>Scottsboro</title>
+            </p>
+            <p xml:id="sc06-2_10253">1970 Paul M. Gaston, <title>The New South Creed</title>
+            </p>
+            <p xml:id="sc06-2_10254">1971
+Tony Dunbar, <title>Our Land, Too</title>
+            </p>
+            <p xml:id="sc06-2_10255">1972 Robert Coles,
 <title>Children of Crisis</title>, Vols. II and III</p>
-          <p xml:id="sc06-2_10256">1973 Harold
+            <p xml:id="sc06-2_10256">1973 Harold
 Martin, Ralph McGill, Reporter Alice Walker, <title>Revolutionary
-Petunias and other Poems</title></p>
-          <p xml:id="sc06-2_10257">1974 C. Vann Woodward,
+Petunias and other Poems</title>
+            </p>
+            <p xml:id="sc06-2_10257">1974 C. Vann Woodward,
 <title>The Strange Career of Jim Crow</title>, 3d rev'd ed.<lb/>
-Albert Murray, <title>Train Whistle Guitar</title></p>
-          <p xml:id="sc06-2_10258">1976
+Albert Murray, <title>Train Whistle Guitar</title>
+            </p>
+            <p xml:id="sc06-2_10258">1976
 James Loewen and Charles Sallis, <title>Mississippi: Conflict and
-Change</title><lb/>Reynolds Price, <title>The Surface of
-Earth</title></p>
-          <p xml:id="sc06-2_10259">1977 Richard Kluger, <title>Simple
-Justice</title><lb/>Alex Haley, <title>Roots</title></p>
-          <p xml:id="sc06-2_10260">1978 Will
-Campbell, <title>Brother to a Dragonfly</title><lb/>Garrett Epps,
-<title>The Shad Treatment</title></p>
-          <p xml:id="sc06-2_10261">1979 Marion Wright,
-<title>Human Rights Odyssey</title><lb/>Ernest J. Gaines, <title>In My
-Father's House</title></p>
-          <p xml:id="sc06-2_10262">1980 Jacquelyn Dowd Hall, <title>Revolt
-Against Chivalry</title><lb/>Cormac McCarthy,
-<title>Suttree</title></p>
-          <p xml:id="sc06-2_10263">1981 John Gaventa, <title>Power and
+Change</title>
+               <lb/>Reynolds Price, <title>The Surface of
+Earth</title>
+            </p>
+            <p xml:id="sc06-2_10259">1977 Richard Kluger, <title>Simple
+Justice</title>
+               <lb/>Alex Haley, <title>Roots</title>
+            </p>
+            <p xml:id="sc06-2_10260">1978 Will
+Campbell, <title>Brother to a Dragonfly</title>
+               <lb/>Garrett Epps,
+<title>The Shad Treatment</title>
+            </p>
+            <p xml:id="sc06-2_10261">1979 Marion Wright,
+<title>Human Rights Odyssey</title>
+               <lb/>Ernest J. Gaines, <title>In My
+Father's House</title>
+            </p>
+            <p xml:id="sc06-2_10262">1980 Jacquelyn Dowd Hall, <title>Revolt
+Against Chivalry</title>
+               <lb/>Cormac McCarthy,
+<title>Suttree</title>
+            </p>
+            <p xml:id="sc06-2_10263">1981 John Gaventa, <title>Power and
 Powerlessness; Quiescence and Rebellion in an Appalachian
-Valley</title><lb/>Pat Conroy, <title>The Lords of
-Discipline</title></p>
-          <p xml:id="sc06-2_10264">1982 Harry Ashmore, <title>Hearts and Minds:
-A History of Racism from Roosevelt to Reagan</title></p>
-          <p xml:id="sc06-2_10265">1983 John
-Ehle, <title>The Winter People</title><lb/>Fred Hobson,
-<title>South-Watching: Selected Essays by Gerald W. Johnson</title><lb/>
-Roy Hoffman, <title>Almost Family</title></p>
-          <p xml:id="sc06-2_10266">
-            <hi rend="bold">Critical Attitudes</hi>
-          </p>
-          <p xml:id="sc06-2_10267">If the work of building the new South is to go forward to best
+Valley</title>
+               <lb/>Pat Conroy, <title>The Lords of
+Discipline</title>
+            </p>
+            <p xml:id="sc06-2_10264">1982 Harry Ashmore, <title>Hearts and Minds:
+A History of Racism from Roosevelt to Reagan</title>
+            </p>
+            <p xml:id="sc06-2_10265">1983 John
+Ehle, <title>The Winter People</title>
+               <lb/>Fred Hobson,
+<title>South-Watching: Selected Essays by Gerald W. Johnson</title>
+               <lb/>
+Roy Hoffman, <title>Almost Family</title>
+            </p>
+            <p xml:id="sc06-2_10266">
+               <hi rend="bold">Critical Attitudes</hi>
+            </p>
+            <p xml:id="sc06-2_10267">If the work of building the new South is to go forward to best
 advantage, the South must develop its own critics. They can criticize
 most effectively, in the first place because they have the Southern
 viewpoint, and can therefore be understood, and in the second place
@@ -1712,7 +1873,7 @@ because they have the most reliable information, and therefore can
 most frequently spot the joints in Southern armor. For the same
 reasons they can best interpret the South to the rest of the
 nation.</p>
-          <p xml:id="sc06-2_10268">But if they are to affect either the South or the outside world,
+            <p xml:id="sc06-2_10268">But if they are to affect either the South or the outside world,
 they must be critics, not press-agents Too much has been said of the
 South's need for "sympathetic" criticism. This demand has resulted in
 some so-called criticism that is sympathetic, not with the South, but
@@ -1726,9 +1887,15 @@ the stern idealist who relentlessly exposes one's follies and
 frailties and continually appeals to one's better nature. But it will
 be respected and in the end admired. And above all, it will be
 effective.
-<lb/><hi rend="italic">Gerald W. Johnson, 1924.</hi></p>
-        </div2>
+<lb/>
+               <hi rend="italic">Gerald W. Johnson, 1924.</hi>
+            </p>
+         </div2>
       </div1>
-    </body>
-  </text>
+      <body>
+         <back>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="interp.xml"/>
+         </back>
+      </body>
+   </text>
 </TEI>

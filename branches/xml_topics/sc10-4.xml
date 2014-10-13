@@ -1,19 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc10-4_1204">
-  <teiHeader xml:id="sc10-41201"><fileDesc>
-      <titleStmt>
-        <title>Southern Changes.  Volume 10, Number 4</title>
-        <respStmt>
-          <resp>Compiled and edited by</resp>
-          <name>staff</name>
-        <name/></respStmt>
-      </titleStmt>
-      <extent/>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace><address>
-          <addrLine>Atlanta,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc10-4_1204">
+   <teiHeader xml:id="sc10-41201">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 10, Number 4</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
 Georgia</addrLine>
-        </address><idno type="ark" n="sc10-4_002">http://pid.emory.edu/ark:/25593/14hxk</idno><idno type="ark" n="sc10-4_003">http://pid.emory.edu/ark:/25593/14hzq</idno><idno type="ark" n="sc10-4_008">http://pid.emory.edu/ark:/25593/14j0z</idno><idno type="ark" n="sc10-4_009">http://pid.emory.edu/ark:/25593/14j13</idno><idno type="ark" n="sc10-4_010">http://pid.emory.edu/ark:/25593/14j27</idno><idno type="ark" n="sc10-4_011">http://pid.emory.edu/ark:/25593/14j3c</idno><idno type="ark" n="sc10-4_012">http://pid.emory.edu/ark:/25593/14j4h</idno><idno type="ark" n="sc10-4_013">http://pid.emory.edu/ark:/25593/14j5n</idno><idno type="ark" n="sc10-4_018">http://pid.emory.edu/ark:/25593/14j6s</idno><availability>
-          <p xml:id="sc10-4_101">1996 Emory
+            </address>
+            <idno type="ark" n="sc10-4_002">http://pid.emory.edu/ark:/25593/14hxk</idno>
+            <idno type="ark" n="sc10-4_003">http://pid.emory.edu/ark:/25593/14hzq</idno>
+            <idno type="ark" n="sc10-4_008">http://pid.emory.edu/ark:/25593/14j0z</idno>
+            <idno type="ark" n="sc10-4_009">http://pid.emory.edu/ark:/25593/14j13</idno>
+            <idno type="ark" n="sc10-4_010">http://pid.emory.edu/ark:/25593/14j27</idno>
+            <idno type="ark" n="sc10-4_011">http://pid.emory.edu/ark:/25593/14j3c</idno>
+            <idno type="ark" n="sc10-4_012">http://pid.emory.edu/ark:/25593/14j4h</idno>
+            <idno type="ark" n="sc10-4_013">http://pid.emory.edu/ark:/25593/14j5n</idno>
+            <idno type="ark" n="sc10-4_018">http://pid.emory.edu/ark:/25593/14j6s</idno>
+            <availability>
+               <p xml:id="sc10-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -21,34 +37,71 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability><date>1996</date></publicationStmt>
-      <seriesStmt>
-        <title>Southern Changes Digital Archive</title>
-      </seriesStmt>
-      <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date when="1988-07">July-August 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
-      </sourceDesc>
-    </fileDesc><encodingDesc><projectDesc>
-        <p xml:id="sc10-4_102">This text is produced in conjunction with the
+            </availability>
+            <date>1996</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Digital Archive</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Southern Changes</title>. <biblScope type="volume">Volume 10</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date when="1988-07">July-August 1988</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:id="sc10-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-      </projectDesc>
-            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
-  <text xml:id="sc10-4_1203">
-    <body xml:id="sc10-4_1202">
+         </projectDesc>
+         <refsDecl>
+            <p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date>
+         </change>
+         <change>
+            <date>1998</date>
+            <label>Staff</label>
+            <name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change>
+         <change>
+            <date>2007</date>
+            <label>Electronic text specialist</label>
+            <name>Alice Hickcox</name>text in div2/@n replaced with number</change>
+         <change>
+            <date>April 2008</date>
+            <label>Electronic Text Specialist</label>
+            <name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:id="sc10-4_1203">
       <div1 xml:id="sc10-4_001" n="Southern Changes 10:4" type="Issue">
-        <head>Southern Changes.  Volume 10, Number 4, 1988</head>
-        <p xml:id="sc10-4_103"><title>Southern Changes</title>.  Volume 10, Number 4,
-	       <date when="1988-07">1988</date></p>
-        <div2 xml:id="sc10-4_002" n="4" type="Article">
-          <head>Robeson County's 'Third World Ills'</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Segrest, Mab</reg><sic>Mab Segrest</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 14-16</docDate>
-          
-          <p xml:id="sc10-4_104">Julian Pierce, a Lumbee Indian candidate for superior court judge
+         <head>Southern Changes.  Volume 10, Number 4, 1988</head>
+         <p xml:id="sc10-4_103">
+            <title>Southern Changes</title>.  Volume 10, Number 4,
+	       <date when="1988-07">1988</date>
+         </p>
+         <div2 xml:id="sc10-4_002" n="4" type="Article">
+            <head>Robeson County's 'Third World Ills'</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Segrest, Mab</reg>
+                        <sic>Mab Segrest</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 14-16</docDate>
+            <interp>
+               <certainty ana="#T17" degree="40.1"/>
+            </interp>
+            <p xml:id="sc10-4_104">Julian Pierce, a Lumbee Indian candidate for superior court judge
 in Robeson County, North Carolina, went to his door in the early
 morning hours of March 26, apparently responding to noise. A waiting
 assailant shot Pierce as he approached the door--first in the chest,
@@ -57,7 +110,7 @@ head. Pierce lay dead on his kitchen floor, the latest in the body
 count of this county which has, in the words of one local organizer,
 "Third World ills." These include a potent combination of drugs,
 government corruption and racism.</p>
-          <p xml:id="sc10-4_105">Pierce's death brought his home county into the national spotlight
+            <p xml:id="sc10-4_105">Pierce's death brought his home county into the national spotlight
 for the second time this winter. In early February Eddie Hatcher and
 Timothy Jacobs, two Tuscarora men, walked into the offices of the
 <title>Robesonian</title>, the newspaper in the county seat of
@@ -68,13 +121,13 @@ from local residents, but even from some of their hostages--after
 Governor James Martin agreed to form a special task force to
 investigate their complaints. "Their requests were very
 reasonable," said Martin.</p>
-          <p xml:id="sc10-4_106">Hatcher and Jacobs are to be tried in August or September on
+            <p xml:id="sc10-4_106">Hatcher and Jacobs are to be tried in August or September on
 federal hostage-taking and illegal weapons charges. Their lawyers from
 the Center for Constitutional Rights and the Christic Institute South
 plan to put the county on trial as well, with a "necessity defense"
 that the two acted in imminent danger of their lives after having
 exhausted legal remedies.</p>
-          <p xml:id="sc10-4_107">Robeson County is distinctly tri-racial, with 40 percent white, 35
+            <p xml:id="sc10-4_107">Robeson County is distinctly tri-racial, with 40 percent white, 35
 percent Native American and 25 percent black citizens. One-fourth live
 below the poverty level, the unemployment rate is consistently one of
 the highest in the state, and the per-capita income is one of the
@@ -82,10 +135,10 @@ lowest. Fifty-five percent of adults over twenty-five have not
 completed high school. Whites remain in most positions of power
 because the county's minority residents have historically remained
 divided.</p>
-          <p xml:id="sc10-4_108">
-            <hi rend="bold">Poverty, Drugs and Violence</hi>
-          </p>
-          <p xml:id="sc10-4_109">Not only poverty, but drugs and violence plague the county, which
+            <p xml:id="sc10-4_108">
+               <hi rend="bold">Poverty, Drugs and Violence</hi>
+            </p>
+            <p xml:id="sc10-4_109">Not only poverty, but drugs and violence plague the county, which
 is on Interstate 95 about midway between New York and Miami. According
 to Assistant U.S. Attorney William Webb, four or five major drug
 organizations operate in the county. U.S. Attorney Sam Currin said
@@ -95,7 +148,7 @@ said that "cocaine people are just flooding the market" and
 that drug dealers believe they can operate at will, with local law
 enforcement incapable of stopping them. "Incapable--or bought off,"
 say many local residents.</p>
-          <p xml:id="sc10-4_1010">The violence plaguing Robeson County is the South's familiar
+            <p xml:id="sc10-4_1010">The violence plaguing Robeson County is the South's familiar
 violence bred by racism and poverty, and also a fearful new violence
 spawned by the drug trade. Since 1975 there have been eighteen
 unsolved murders, including execution-style killings said to be drug
@@ -105,7 +158,7 @@ embankment. Other victims have been shot in the head and their bodies
 dumped on the interstate, in their backyards or in the Lumber
 River. Since the hostage-taking, according to a report on WRAL-TV in
 Raleigh, there have been fourteen more killings in the county.</p>
-          <p xml:id="sc10-4_1012">Other deaths have raised the specter of racial violence. On
+            <p xml:id="sc10-4_1012">Other deaths have raised the specter of racial violence. On
 Oct. 31, 1985, Joyce Sinclair, a black woman who had just been
 promoted to a supervisory position at a textile mill, was kidnaped
 from her home by a "white man wearing v site," (said her daughter) and
@@ -125,10 +178,10 @@ me. Maybe this will help some of what's going on in Robeson
 County. The people in Robeson County are the ones being held hostage
 by Robeson County law officials. Eddie and Tim are the only two people
 who stood up to be free."</p>
-          <p xml:id="sc10-4_1013">
-            <hi rend="bold">Killing Ignited Citizens</hi>
-          </p>
-          <p xml:id="sc10-4_1014">The killing that most ignited local citizens, however, was the
+            <p xml:id="sc10-4_1013">
+               <hi rend="bold">Killing Ignited Citizens</hi>
+            </p>
+            <p xml:id="sc10-4_1014">The killing that most ignited local citizens, however, was the
 November 1986 shooting of Jimmy Earl Cummings, an unarmed Lumbee man,
 by Kevin Stone, county narcotics agent and son of Robeson County
 Sheriff Hubert Stone, on what should have been a routine drug
@@ -140,7 +193,7 @@ unusual move, was present to question witnesses. He did not call Stone
 to testify, although other law enforcement officials presented
 conflicting accounts of the death. The coroner's jury came back with a
 highly unusual verdict: "either an accident or self-defense."</p>
-          <p xml:id="sc10-4_1015">Kevin Stone was one of two deputies with keys to a locker from
+            <p xml:id="sc10-4_1015">Kevin Stone was one of two deputies with keys to a locker from
 which $50,000 in stolen drugs and evidence in fifty drug cases had
 been illegally removed in August 1986. Members of Cumming's family
 told state media that Jimmy Earl said he was buying drugs from the
@@ -150,7 +203,7 @@ trial a State Bureau of Investigation agent testified that he had
 information suggesting another deputy might have helped in obtaining
 the cocaine stolen from the locker, and named Kevin Stone as one of
 two officers he suspected.</p>
-          <p xml:id="sc10-4_1016">Cummings's death, the possible whitewash from the legal
+            <p xml:id="sc10-4_1016">Cummings's death, the possible whitewash from the legal
 establishment, and growing suggestions of law enforcement complicity
 ignited county residents. Soon up to 800 people--Native American,
 black and white--were attending mass meetings, They came together in a
@@ -163,14 +216,14 @@ equitably educate the county's minority children. On Easter Monday
 residents into the streets in an unprecedented show of unity and
 opposition to what they perceived as a morally bankrupt power
 structure.</p>
-          <p xml:id="sc10-4_1017">On Super Tuesday this year, the coalition brought people together
+            <p xml:id="sc10-4_1017">On Super Tuesday this year, the coalition brought people together
 in the ballot box as well, and blacks and Native Americans together
 voted for school merger, signaling a historic shift of power. Julian
 Pierce's campaign for the position of Superior Court judge against
 District Attorney Joe Freeman Britt--by then regarded as a hated
 symbol of the white establishment--took on added energy, and
 supporters predicted Pierce's victory.</p>
-          <p xml:id="sc10-4_1019">Then Pierce was murdered. The law enforcement officer leading the
+            <p xml:id="sc10-4_1019">Then Pierce was murdered. The law enforcement officer leading the
 investigation was Sheriff Hubert Stone (accompanied by state and
 federal agents), and the DA in charge 
 <pb xml:id="sc10-4_1018" n="16"/>
@@ -179,7 +232,7 @@ rival, Joe Freeman Britt. Within four days, Stone announced that the
 case was solved--and that the main suspect was dead of "apparent
 suicide." Pierce had been killed by two Indians over a "domestic
 dispute," he said.</p>
-          <p xml:id="sc10-4_1020">According to Stone, John Anderson Goins, 24, was the boyfriend of
+            <p xml:id="sc10-4_1020">According to Stone, John Anderson Goins, 24, was the boyfriend of
 Pierce's fiancee's daughter, and the young Lumbee had killed Pierce
 because he and her mother had sworn out a warrant on Goins to keep him
 away from the girl. Stone charged Sandy Chavis, whom he described as
@@ -189,17 +242,17 @@ Pierce's house without knowing his friend intended to kill Pierce. A
 deputy and an SBI agent found Goins dead in a closet in his father's
 unoccupied home after law enforcement had pursued him, the sheriff
 said.</p>
-          <p xml:id="sc10-4_1021">
-            <hi rend="bold">Accusations of a Coverup</hi>
-          </p>
-          <p xml:id="sc10-4_1022">"My first reaction is that it's a cover-up--or that they picked
+            <p xml:id="sc10-4_1021">
+               <hi rend="bold">Accusations of a Coverup</hi>
+            </p>
+            <p xml:id="sc10-4_1022">"My first reaction is that it's a cover-up--or that they picked
 a scapegoat," said Dail Chavis, one of Pierce's
 sisters.<sic>"</sic> Julian Pierce wanted to clean things up," a young
 black man who refused to give his name told a reporter. "So now
 Pierce is shot dead, and the sheriff right away says these two guys
 did it, and one of the guys just happens to kill himself. What would
 you think about that, if you was me?"</p>
-          <p xml:id="sc10-4_1023">Governor Martin, responding to citizen demands, apparently
+            <p xml:id="sc10-4_1023">Governor Martin, responding to citizen demands, apparently
 pressured Britt into requesting a special prosecutor from the attorney
 general's office. Maneuvering also occurred between Martin and the
 legislature. Part of Martin's compromise in the wake of the
@@ -219,7 +272,7 @@ and the Rural Advancement Fund had been steadily working in the county
 for some time. When all was said and done, however, the positions of
 real authority remained in the hands of Britt and the local white
 establishment.</p>
-          <p xml:id="sc10-4_1024">The Hatcher-Jacobs trial will show evidence of drug trafficking and
+            <p xml:id="sc10-4_1024">The Hatcher-Jacobs trial will show evidence of drug trafficking and
 "how things happen when a system is controlled by drug
 cartels," said Bob Warren, attorney for Christic Institute
 South. "The murder of Julian Pierce is a major example of what
@@ -227,41 +280,48 @@ happens in such a system." Warren says that the lawyers hope by
 the trial date to have the Pierce murder solved. "Our evidence now
 points to an assassination, not to a domestic dispute," Warren
 commented.</p>
-          <p xml:id="sc10-4_1025">On April 20, five blocks from the courthouse in downtown Lumberton,
+            <p xml:id="sc10-4_1025">On April 20, five blocks from the courthouse in downtown Lumberton,
 a bullet shattered the windshield of the car Bob Warren was driving. A
 later call explained it had been a warning shot. Warren says that he
 has heard from four different sources that there is a contract on his
 life.</p>
-          <p xml:id="sc10-4_1026">The media are filled with stories of constant violence, corruption
+            <p xml:id="sc10-4_1026">The media are filled with stories of constant violence, corruption
 and drug-related problems in such countries as El Salvador, Colombia,
 and Panama. Yet we in the South do not have to look that far for
 examples of failed democracy. Robeson County lies halfway between New
 York and Miami; but what its people are suffering may be going on now
 or soon in other communities across the South.</p>
-          <div3 xml:id="sc10-4_022" type="About">
-            <p xml:id="sc10-4_1027">Mab Segrest is director of North Carolinians Against
+            <div3 xml:id="sc10-4_022" type="About">
+               <p xml:id="sc10-4_1027">Mab Segrest is director of North Carolinians Against
 Racial and Religious Violence. Her article is adapted from a
 copyrighted article in <title>Christian Century</title>, and appears
 here with permission.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_003" n="1" type="Article">
-          <head>The Rights to Life</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>McAnelly, Lynne</reg><sic>Lynne McAnelly</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 1-4</docDate>
-          
-          <div3 xml:id="sc10-4_019" type="Section">
-            <p xml:id="sc10-4_1028">Agriculture is on the edge of a revolution that could bring changes
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_003" n="1" type="Article">
+            <head>The Rights to Life</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>McAnelly, Lynne</reg>
+                        <sic>Lynne McAnelly</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 1-4</docDate>
+            <div3 xml:id="sc10-4_019" type="Section">
+               <p xml:id="sc10-4_1028">Agriculture is on the edge of a revolution that could bring changes
 as profound as the industrial revolution. From soybean growers in
 Georgia to cattle producers in Arkansas, few Southern farmers will be
 able to escape its implications.</p>
-            <p xml:id="sc10-4_1029">The engine of this new evolution is biotechnology-our ability to
+               <p xml:id="sc10-4_1029">The engine of this new evolution is biotechnology-our ability to
 control and manipulate DNA, the genetic blueprint of all living
 organisms. With this power, it will be possible to use microbes,
 plants, and animals as living chemical factories, to endow living
 organisms with new traits, and even to create new kinds of living
 beings.</p>
-            <p xml:id="sc10-4_1030">These advances in biology have the potential to expand our options
+               <p xml:id="sc10-4_1030">These advances in biology have the potential to expand our options
 for dealing with environmental and agricultural problems and for
 improving economic opportunities in agriculture. At the same time,
 however, there are concerns that some new developments may actually
@@ -271,7 +331,7 @@ U.S. Patent Office in April 1987 that animals can be patented. This
 was one in a series of administrative and judicial rulings that pave
 the way for a corporation or individual to own the blueprints which
 specify living organisms.</p>
-            <p xml:id="sc10-4_1031">The legal and economic consequences of these decisions have raised
+               <p xml:id="sc10-4_1031">The legal and economic consequences of these decisions have raised
 a number of concerns that have only been heightened by the recent
 Patent Office issuance of its first animal patent-for a mouse that is
 especially susceptible to cancer and can be used with great
@@ -279,18 +339,19 @@ effectiveness in laboratory research. However, the patent for this
 creature is broader than it seems at first glance. The patent refers
 to any cancer-causing gene imported into any mammal. The implications
 are staggering.</p>
-          </div3>
-          <div3 xml:id="sc10-4_004" type="Section">
-            <head>Living Organisms and Patent Law</head>
-            <p xml:id="sc10-4_1033">A patent grants monopoly rights to an invention for a specified
+            </div3>
+            <div3 xml:id="sc10-4_004" type="Section">
+               <head>Living Organisms and Patent Law</head>
+               <p xml:id="sc10-4_1033">A patent grants monopoly rights to an invention for a specified
 period of time (seventeen years or longer). However, there are limits
 on what can be patented. The invention must be novel relative to
 information available at the time of the patent application. Even if
 it qualifies as 
-<pb xml:id="sc10-4_1032" n="2"/><soCalled>"new,"</soCalled> the invention cannot be
+<pb xml:id="sc10-4_1032" n="2"/>
+                  <soCalled>"new,"</soCalled> the invention cannot be
 patented if it is obvious to a "person with ordinary skill in the
 art."</p>
-            <p xml:id="sc10-4_1034">Until 1980, living organisms were not considered patentable. Two
+               <p xml:id="sc10-4_1034">Until 1980, living organisms were not considered patentable. Two
 separate laws, the Plant Protection Act of 1930 and the Plant Variety
 Protection Act of 1970, gave limited patent protection to plant
 varieties, implying to many, including the Patent Office, that
@@ -300,12 +361,12 @@ Act applied to genetically engineered microorganisms. In 1985 the
 Patent and Trademark Office extended this ruling to all plants, and,
 on April 3, 1987, to all animals, excluding humans "for the time
 being."</p>
-            <p xml:id="sc10-4_1035">It is not clear how patent law will be interpreted with regard to
+               <p xml:id="sc10-4_1035">It is not clear how patent law will be interpreted with regard to
 genetically engineered organisms. For example, although things
 existing at the time of the patent application are not generally
 considered patentable, things that exist in nature such as hormones,
 vitamins and proteins have been patented.</p>
-            <p xml:id="sc10-4_1036">Even as seemingly obvious an <soCalled>"invention"</soCalled> as a
+               <p xml:id="sc10-4_1036">Even as seemingly obvious an <soCalled>"invention"</soCalled> as a
 naturally occurring microorganism isolated and grown in pure culture
 has been patented. This raises the possibility that existing genes
 could be patented and leads to questions that cannot be answered about
@@ -313,7 +374,7 @@ the right of an individual or corporation to own the very genes that
 make up living organisms. If individual genes can be patented, then
 important naturally occurring traits that control food production
 could become private property.</p>
-            <p xml:id="sc10-4_1037">For example, will a patent on a given trait preclude others from
+               <p xml:id="sc10-4_1037">For example, will a patent on a given trait preclude others from
 pursuing alternate ways of achieving the trait? There also are
 concerns that broad patents on fundamental traits such as oil
 production in seeds or milk production in mammals may then apply to
@@ -323,19 +384,19 @@ applied to cows, goats and horses. It remains for the Patent Office or
 Congress to decide on the scope of patent protection on living
 organisms, and the first patent granted is, as already noted, quite
 broad.</p>
-          </div3>
-          <div3 xml:id="sc10-4_005" type="Section">
-            <head>The Economic Power of Patents</head>
-            <p xml:id="sc10-4_1038">The corporation or individual who holds a patent has exclusive
+            </div3>
+            <div3 xml:id="sc10-4_005" type="Section">
+               <head>The Economic Power of Patents</head>
+               <p xml:id="sc10-4_1038">The corporation or individual who holds a patent has exclusive
 rights to the patented object. The patent holder can collect whatever
 royalties the market will bear and impose restrictions on the use and
 the reproduction of the item.</p>
-            <p xml:id="sc10-4_1039">The extension of these monopoly rights to the raw materials of
+               <p xml:id="sc10-4_1039">The extension of these monopoly rights to the raw materials of
 agriculture-plants and animals-creates a whole new category of
 property ownership. And it is a kind of ownership which essentially
 will be closed to many people now in agriculture, from farmers and
 ranchers to livestock breeders, and many seed companies.</p>
-            <p xml:id="sc10-4_1041">Due to the relatively high cost of genetically engineered
+               <p xml:id="sc10-4_1041">Due to the relatively high cost of genetically engineered
 livestock, it would be difficult for patent holders to try to get all
 their financial return from the initial purchase price. Therefore,
 according to William Lesser, an agricultural economist at Cornell,
@@ -350,31 +411,31 @@ binding on the original purchaser and on subsequent purchasers of
 progeny. Lesser predicts that enforcing patent holders' rights will be
 feasible in the livestock industry, especially in sectors where good
 breeding records are already kept.</p>
-            <p xml:id="sc10-4_1042">A difficult issue to be resolved is how to determine the extent and
+               <p xml:id="sc10-4_1042">A difficult issue to be resolved is how to determine the extent and
 value of expression of the patented characteristics in succeeding
 generations. A patent does not guarantee that the trait will show up
 in the offspring. Multigenic traits (most agriculturally important
 traits such as weight and yield are controlled by many genes) are
 quite likely to be <soCalled>"diluted"</soCalled> by recombination in
 subsequent generations.</p>
-            <p xml:id="sc10-4_1043">In addition, patented animals are likely to be more expensive
+               <p xml:id="sc10-4_1043">In addition, patented animals are likely to be more expensive
 initially than conventionally bred animals. Farmers and ranchers, even
 those with large operations, will usually not be able to obtain animal
 patents or to take advantage of the benefits of patented livestock
 produced through biotechnology.</p>
-            <p xml:id="sc10-4_1044">Another concern of farmers and ranchers is that animal patents will
+               <p xml:id="sc10-4_1044">Another concern of farmers and ranchers is that animal patents will
 accelerate vertical integration and consolidation in the livestock
 industry as happened in the seed industry after the 1970 Plant Variety
 Protection Act. Large pharmaceutical and petrochemical companies have
 bought out scores of independent seed companies. Predictions are that
 ten to twenty major corporations will dominate the worldwide seed
 trade by the year 2000.</p>
-            <p xml:id="sc10-4_1045">Referring to the concentration in the poultry industry, Cy
+               <p xml:id="sc10-4_1045">Referring to the concentration in the poultry industry, Cy
 Carpenter of the National Farmers' Union testified to Congress in July
 1987, "The almost total control of an industry by so few is a fear
 that haunts all segments of agriculture, and granting animal patents
 could turn those fears into a reality."</p>
-            <p xml:id="sc10-4_1046">In order to maintain control over the patent, the holder may decide
+               <p xml:id="sc10-4_1046">In order to maintain control over the patent, the holder may decide
 to sell his animals only to a few select operations. Or the patent
 holder may decide to buy the means of production. The beef industry,
 for example, may be ripe for such a consolidation; Iowa Beef Packers,
@@ -384,24 +445,24 @@ the livestock industry responds to patent protection as did the seed
 industry, it would not be surprising to see Iowa Beef Packers acquire
 the means of production and then in turn be acquired by a major
 chemical/ biotech corporation such as Monsanto or Mitsubishi.</p>
-            <p xml:id="sc10-4_1047">Farmers will have to cope with extensive paperwork to keep track of
+               <p xml:id="sc10-4_1047">Farmers will have to cope with extensive paperwork to keep track of
 progeny from all patented animals for seventeen years through multiple
 middlemen. As complicated as the situation is with a single patented
 trait it becomes truly Gordian when an animal has more than one
 patented trait, each with separate ownership. As a number of livestock
 producers commented, the prospect of patents on farm animals presents
 a paperwork nightmare.</p>
-            <p xml:id="sc10-4_1048">And who will be policing the biotechnology companies and the Patent
+               <p xml:id="sc10-4_1048">And who will be policing the biotechnology companies and the Patent
 Office? Challenges to Patent Office decisions can be initiated only by
 someone with a competing patent claim. Such legal means can be long
 and expensive-beyond the means of many smaller companies and
 individuals.</p>
-            <p xml:id="sc10-4_1049">The justification for patents is that they are necessary to
+               <p xml:id="sc10-4_1049">The justification for patents is that they are necessary to
 stimulate research and to provide the necessary incentive to undertake
 research projects that may or may not pan out. The biotechnology
 industry warns that without patent protection we risk losing the
 fruits of our research to foreign competition.</p>
-            <p xml:id="sc10-4_1050">However, despite the absence of patent protection, research in crop
+               <p xml:id="sc10-4_1050">However, despite the absence of patent protection, research in crop
 and livestock improvement at land grant universities, at USDA labs and
 on private ranches generated numerous new plant varieties, livestock
 breeds and champion race horses over the last hundred years. Results
@@ -409,10 +470,10 @@ from research at public institutions has usually been freely
 available, in the public domain. Furthermore, market mechanisms exist
 to protect new breeds developed by livestock producers and to ensure
 significant financial returns.</p>
-          </div3>
-          <div3 xml:id="sc10-4_006" type="Section">
-            <head>Patents and Research</head>
-            <p xml:id="sc10-4_1051">The assumption that patents encourage corporations to engage in
+            </div3>
+            <div3 xml:id="sc10-4_006" type="Section">
+               <head>Patents and Research</head>
+               <p xml:id="sc10-4_1051">The assumption that patents encourage corporations to engage in
 novel research directions has been challenged by various authors. For
 example, research may be channeled to already patented products. Even
 the new biotechnology research programs in some companies are being
@@ -423,12 +484,12 @@ company already sells. In addition many fear that life sciences
 research at public institutions may become increasingly directed into
 production of patentable products with resulting decline in public
 domain research.</p>
-            <p xml:id="sc10-4_1052">But most worrisome to many in the seed and livestock industries is
+               <p xml:id="sc10-4_1052">But most worrisome to many in the seed and livestock industries is
 a growing reluctance on the part of researchers to share information
 and germ plasm with other labs. This would be devastating to plant
 breeding research and, in some cases, could endanger the nation's food
 supply, according to the American Seed Trade Association.</p>
-            <p xml:id="sc10-4_1054">The issue of a foreign edge in patented animals is misleading. Only
+               <p xml:id="sc10-4_1054">The issue of a foreign edge in patented animals is misleading. Only
 the U.S. and a handful of Soviet satellite nations currently allow
 animals to be patented. The European Economic Community specifically
 excludes animals 
@@ -438,34 +499,34 @@ foreign companies from obtaining animal patents in the U.S.,
 however. Thus, as one farm organization pointed out, American farmers
 could be in the unfavorable situation of paying royalties to foreign
 biotech companies.</p>
-            <p xml:id="sc10-4_1055">It is worth noting that although humans were excluded from the
+               <p xml:id="sc10-4_1055">It is worth noting that although humans were excluded from the
 April 1987 ruling, Charles Van Hom of the Patent Office told the <title>New York Times</title>: "The decision says higher life
 forms will be considered and it could be extrapolated to human
 beings. But for the time being, we are not going to consider
 applications involving human life."</p>
-            <p xml:id="sc10-4_1056">This clearly implies that even human beings may eventually be
+               <p xml:id="sc10-4_1056">This clearly implies that even human beings may eventually be
 considered patentable material.</p>
-            <p xml:id="sc10-4_1057">Human genes are already components of biotech products that have
+               <p xml:id="sc10-4_1057">Human genes are already components of biotech products that have
 been patented. These applications involve using human genes to produce
 pharmaceuticals such as human insulin and human growth hormone,
 substances of tremendous benefit. But eventually society may ask, at
 what point do we cross a barrier in manipulations with human genes?</p>
-          </div3>
-          <div3 xml:id="sc10-4_007" type="Section">
-            <head>Response and Remedies</head>
-            <p xml:id="sc10-4_1058">A number of farm organizations including the National Farmers
+            </div3>
+            <div3 xml:id="sc10-4_007" type="Section">
+               <head>Response and Remedies</head>
+               <p xml:id="sc10-4_1058">A number of farm organizations including the National Farmers
 Union, the League of Rural Voters, and the National Farm Organization
 have expressed concern about the economic impact of animal patents on
 agriculture. Recently, almost 500 Texas livestock producers told the
 Texas Department of Agriculture that they are opposed to patents on
 farm animals.</p>
-            <p xml:id="sc10-4_1059">The decisions granting full patent coverage to plants and animals
+               <p xml:id="sc10-4_1059">The decisions granting full patent coverage to plants and animals
 were judicial and administrative rulings. However, in its 1980
 decision the Supreme Court clearly left the door open for
 congressional action, stating that it is up to Congress to define the
 limits of patentability by amending the patent law. Many feel that it
 is time for public debate and congressional action on this issue.</p>
-            <p xml:id="sc10-4_1060">Congressman Charlie Rose of North Carolina has introduced a bill,
+               <p xml:id="sc10-4_1060">Congressman Charlie Rose of North Carolina has introduced a bill,
 H.R. 3119, that would impose a two-year moratorium on animal
 patents. A two-year moratorium would allow time for investigation of
 the economic impact of animal patents and for discussion of the
@@ -474,30 +535,40 @@ public dollars have supported the basic research that gave birth to
 the biotechnology revolution. Farmers and the consuming public deserve
 consideration of their concerns regarding patents on living
 organisms. </p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_008" n="7" type="Article">
-          <head>Cameras on the Prize: Hollywood Finds the Movement</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>HRW</reg><sic>HRW</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, p. 20</docDate>
-          
-          <p xml:id="sc10-4_1061">Maybe Philadelphia, Miss., wasn't quite ready to host a movie
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_008" n="7" type="Article">
+            <head>Cameras on the Prize: Hollywood Finds the Movement</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>HRW</reg>
+                        <sic>HRW</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, p. 20</docDate>
+            <interp>
+               <certainty ana="#T17" degree="28"/>
+            </interp>
+            <p xml:id="sc10-4_1061">Maybe Philadelphia, Miss., wasn't quite ready to host a movie
 fictionalizing its painful history, but elsewhere in the South,
 cameras have been rolling recently as the civil rights movement begins
 to join the peace movement and the Vietnam war on the silver
 screen.</p>
-          <p xml:id="sc10-4_1062">The little town of LaFayett, Ala., rolled out the red dirt this
+            <p xml:id="sc10-4_1062">The little town of LaFayett, Ala., rolled out the red dirt this
 summer for the filming of "Mississippi Burning," in which Gene Hackman
 and Willem Dafoe portray FBI agents investigating the murders of three
 unnamed civil rights activists, obviously based on the 1964
 Philadelphia murders of Michael Schwerner, James Chaney and Andrew
 Goodman.</p>
-          <p xml:id="sc10-4_1063">LaFayette allowed its streets to be covered with dirt and its
+            <p xml:id="sc10-4_1063">LaFayette allowed its streets to be covered with dirt and its
 storefronts, some of which had not changed anyway, to be returned to a
 1960s look.  Many of its citizens, black and white, lined up for roles
 as extras in the film.  If they were uncomfortable with the subject
 matter, it was usually not obvious.</p>
-          <p xml:id="sc10-4_1064">"Heart of Dixie," based on a novel by Anne Rivers Siddon, is about
+            <p xml:id="sc10-4_1064">"Heart of Dixie," based on a novel by Anne Rivers Siddon, is about
 conflicts over integration of Southern colleges and is being filmed at
 the University of Mississippi, where federal troops had to be called
 in to quell riots in 1962.  "Everybody's All-American" is being
@@ -511,19 +582,29 @@ of the FBI agents.  And Jessica Lange is set to portray-in "The Stick
 Wife," based on a play by Darrah Cloud-the wife of a KKK member who
 took part in the 1963 bombing of Birmingham's Sixteenth Street Baptist
 Church. </p>
-          <p xml:id="sc10-4_1065">All of these Hollywood productions follow the success of the
+            <p xml:id="sc10-4_1065">All of these Hollywood productions follow the success of the
 extraordinary documentary, "Eyes on the Prize," which has been seen by
 millions on public television and on videocassettes.  Producers say
 enough time has passed that people now want to re-examine the events
 of the 1950s and 1960s.  Others say they sense a revival of the spirit
 of protest and rebellion.</p>
-        </div2>
-        <div2 xml:id="sc10-4_009" n="5" type="Article">
-          <head>A Letter from Lillian Smith</head>
-          <byline>Edited by <docAuthor><name type="person"><choice><reg>Gladney, Rose</reg><sic>Rose Gladney</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 17, 19</docDate>
-          
-          <p xml:id="sc10-4_1066">Lillian Smith's friendship with Carson McCullers and her husband
+         </div2>
+         <div2 xml:id="sc10-4_009" n="5" type="Article">
+            <head>A Letter from Lillian Smith</head>
+            <byline>Edited by <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Gladney, Rose</reg>
+                        <sic>Rose Gladney</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 17, 19</docDate>
+            <interp>
+               <certainty ana="#T07" degree="44.1"/>
+            </interp>
+            <p xml:id="sc10-4_1066">Lillian Smith's friendship with Carson McCullers and her husband
 Reeves may be dated to the late 1940s. After the Broad way production
 of <title>Strange Fruit</title> closed in 1946, Lillian kept an
 apartment in Brooklyn Heights, dividing her time between New York and
@@ -537,7 +618,7 @@ Paris because of his alcoholism, Carson was working on an article
 about Georgia for <title>Holiday</title> magazine. Her visit with
 Lillian ended tragically only hours after it had begun when Carson's
 sister called to say that Reeves had killed himself.</p>
-          <p xml:id="sc10-4_1067">The following letter differs in tone from some of the more public
+            <p xml:id="sc10-4_1067">The following letter differs in tone from some of the more public
 letters selected for this series of Lillian Smith's
 correspondence. Yet, it is equally important to our understanding of
 Smith's life and work. Her attention to physical detail and personal
@@ -545,7 +626,7 @@ feeling reveals what is most powerful about her writing. Furthermore,
 Smith makes the mundane occasion of writing a thank-you note the
 opportunity to express not only solace for a friend's grief but also
 profound wisdom for living.</p>
-          <p xml:id="sc10-4_1068">Her advice to Carson about heeding her inner knowledge concerning
+            <p xml:id="sc10-4_1068">Her advice to Carson about heeding her inner knowledge concerning
 the reality of her relationship with Reeves, letting go what had ended
 in order to create something new, reflects the spirit and style of
 <title>The Journey</title>. Because of her fight with cancer, from
@@ -553,13 +634,13 @@ in order to create something new, reflects the spirit and style of
 death sentence. At her best, she would do so by using her past to
 speak and write about the future--the future of the South, of the
 world, of humanity itself.</p>
-          <p xml:id="sc10-4_1069">Undated {January 1954)</p>
-          <p xml:id="sc10-4_1070">A new year has begun. I hope it will be good, very good for you.</p>
-          <p xml:id="sc10-4_1071">Dear Carson:</p>
-          <p xml:id="sc10-4_1072">It is cold and bright like glass, today. Winds have stripped the
+            <p xml:id="sc10-4_1069">Undated {January 1954)</p>
+            <p xml:id="sc10-4_1070">A new year has begun. I hope it will be good, very good for you.</p>
+            <p xml:id="sc10-4_1071">Dear Carson:</p>
+            <p xml:id="sc10-4_1072">It is cold and bright like glass, today. Winds have stripped the
 trees clean and pale winy smoke color is drifting down on the
 mountain.</p>
-          <p xml:id="sc10-4_1073">The kind of day when my tongue says "beautiful" and my heart
+            <p xml:id="sc10-4_1073">The kind of day when my tongue says "beautiful" and my heart
 mourns. Always those winds blow harder on my memory than on the
 mountain and I am driven back to an empty house and empty rooms that
 greedily spread over my whole life, sometimes; refusing to budge. Just
@@ -567,7 +648,7 @@ taking over as if they have a right to stay. What happened on windy
 days long ago, I have no faint idea; but when such a day comes, I have
 to go back, like a ghost, to my childhood and wander it. Without map;
 without destination.</p>
-          <p xml:id="sc10-4_1074">So, I write you from Clayton but really from a lonely corner
+            <p xml:id="sc10-4_1074">So, I write you from Clayton but really from a lonely corner
 somewhere in the past, to say hello and thank yow and wish you
 well. It would be nice to talk. I have never talked to you. Always we
 begin and there are--interruptions. Small ones, most of them; and the
@@ -580,7 +661,7 @@ old grave stone with no name and no date. Sorrow is like that. One
 cannot name it. If one only could...name it and find a little date in
 time for it. Then we could drop a small flower, a tear, and compose
 our life around it.</p>
-          <p xml:id="sc10-4_1075">All of this you have felt, I know. And more. And I have been glad
+            <p xml:id="sc10-4_1075">All of this you have felt, I know. And more. And I have been glad
 that you were compelled to work hard; to write "about Georgia"; to
 meet a deadline; to "make a little money." It is harsh and right, this
 having to do the practical things when the deep breaks come. It glues
@@ -588,7 +669,7 @@ us together; it drives us and pinches us back into some kind of
 shape. And while we are hardening ourselves, finding order in the
 chaos, we are at the same time growing within us new possibilities for
 life.</p>
-          <p xml:id="sc10-4_1076">But it has been very hard. And I know this. I have thought of you,
+            <p xml:id="sc10-4_1076">But it has been very hard. And I know this. I have thought of you,
 often. Paula has. We have talked about it with a profound dense of the
 pity of it, the sadness but, also, knowing a time comes when a
 relationship has ended. Death did not end it. You told me that, before
@@ -604,7 +685,7 @@ something real and Reeves will be a pert of your words; and all this
 will hold that common past close and make you glad of those years. I
 feel that you are wise enough to be grateful for those years; and not
 to regret them.</p>
-          <p xml:id="sc10-4_1078">The flowers were lovely. And there is a funny quirk to it which
+            <p xml:id="sc10-4_1078">The flowers were lovely. And there is a funny quirk to it which
 will amuse you, I hope. The florist called from Toccoa, misery loading
 down her voice. She had an order from New York for an old fashioned
 bouquet for me. But she did not really have the right flowers for an
@@ -626,99 +707,110 @@ flowers for you;" Paula went to town for them and that night beautiful
 red carnations and blue irises were all over my dining room and looked
 very gay and very Christmasy too. Thank you for thinking of me in such
 a very nice way.</p>
-          <p xml:id="sc10-4_1079">Please give my love to your dear mother, to that very nice sister
+            <p xml:id="sc10-4_1079">Please give my love to your dear mother, to that very nice sister
 Rita, and my warm affectionate wishes for the New Year.</p>
-          <p xml:id="sc10-4_1080">My love, dear, Lillian</p>
-          <p xml:id="sc10-4_1081">
-            <hi rend="italic">NOTE: This letter was copied from the original in
+            <p xml:id="sc10-4_1080">My love, dear, Lillian</p>
+            <p xml:id="sc10-4_1081">
+               <hi rend="italic">NOTE: This letter was copied from the original in
 the Carson McCullers collection, Harry Ransom Humanities Research
 Center, The University of Texas at Austin.</hi>
-          </p>
-          <div3 xml:id="sc10-4_029" type="About">
-            <p xml:id="sc10-4_1082">Rose Gladney is an assistant professor of American
+            </p>
+            <div3 xml:id="sc10-4_029" type="About">
+               <p xml:id="sc10-4_1082">Rose Gladney is an assistant professor of American
 Studies at the University of Alabama, Tuscaloosa.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_010" n="6" type="Article">
-          <head>An Alabama Potter Stays with Tradition</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Gates, Darryl</reg><sic>Darryl Gates</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 18-19</docDate>
-          
-          <p xml:id="sc10-4_1083">Jerry Brown has the thick, strong arms of a lumberjack. His large
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_010" n="6" type="Article">
+            <head>An Alabama Potter Stays with Tradition</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Gates, Darryl</reg>
+                        <sic>Darryl Gates</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 18-19</docDate>
+            <interp>
+               <certainty ana="#T03" degree="36.5"/>
+               <certainty ana="#T07" degree="43.4"/>
+            </interp>
+            <p xml:id="sc10-4_1083">Jerry Brown has the thick, strong arms of a lumberjack. His large
 hands, broad shoulders and barrel chest complete the image. But it's
 Brown's gentle, slightly impish smile you notice first. This is a man,
 you think, who truly likes what he does.</p>
-          <p xml:id="sc10-4_1084">Brown is a ninth-generation potter, perhaps the most traditional of
+            <p xml:id="sc10-4_1084">Brown is a ninth-generation potter, perhaps the most traditional of
 the half-dozen or so traditional potters left in the United States,
 according to folklorists. He has devoted his life to digging north
 Alabama clay from a hardwood forest and turning it into churns, jugs
 and jars that were once a necessity in every rural kitchen. Brown's
 pottery may no longer be needed in country kitchens, yet each piece
 now documents a cultural past.</p>
-          <p xml:id="sc10-4_1085">"Jerry is pretty much traditional in every sense--from digging
+            <p xml:id="sc10-4_1085">"Jerry is pretty much traditional in every sense--from digging
 his own clay, to a mule-driven pug mill, to a wood-filled modified
 groundhog kiln," says Henry Willett, regional representative for
 the National Endowment for the Arts.</p>
-          <p xml:id="sc10-4_1086">Gradually, Brown's old-fashioned practice of his craft have made
+            <p xml:id="sc10-4_1086">Gradually, Brown's old-fashioned practice of his craft have made
 him well-known. In 1984, he was one of a handful of traditional
 potters invited to show his skill et the Smithsonian's annual summer
 folklife demonstrations. He and his work have been featured in books
 on Southern pottery and a documentary film is in progress.</p>
-          <p xml:id="sc10-4_1087">Despite his growing fame, Brown lives a simple life. If his pottery
+            <p xml:id="sc10-4_1087">Despite his growing fame, Brown lives a simple life. If his pottery
 shop resembles a hay barn, it's because it was one; if his arms
 resemble those of a logger, it's because he cut sawmill timber for
 twenty years.</p>
-          <p xml:id="sc10-4_1088">As a child, Brown and his brother watched their father, Horace
+            <p xml:id="sc10-4_1088">As a child, Brown and his brother watched their father, Horace
 V. "Jug" Brown, turn out preserving jars and butter churns by the
 hundreds. "My brother and I were making small pieces back before we
 started first grade," he recalls.</p>
-          <p xml:id="sc10-4_1089">When Brown was twenty-two, his father retired from making pottery
+            <p xml:id="sc10-4_1089">When Brown was twenty-two, his father retired from making pottery
 and turned the business over to his two sons. Then tragedy struck
 twice. Brown's brother was killed in an automobile accident. Soon
 after that, the family's pottery equipment was stolen. Brown gave up
 pottery for two decades.</p>
-          <p xml:id="sc10-4_1090">But the logging business is seasonal and during the wet winter
+            <p xml:id="sc10-4_1090">But the logging business is seasonal and during the wet winter
 months, Brown and his family suffered financially. One rainy night he
 told his wife he was going to make a pottery shop out of the old hay
 barn. He sold the hay and bought an electric kiln; his cousin made him
 a foot-powered pottery wheel. Two weeks after selling his hay, Brown
 fired his first pot, but he admits it took him about six months "to
 get the feel."</p>
-          <p xml:id="sc10-4_1091">That was nearly seven years ago. Today his pottery shop in the
+            <p xml:id="sc10-4_1091">That was nearly seven years ago. Today his pottery shop in the
 Marion County foothills of northwest Alabama hasn't changed much--it
 still looks like a hay barn with a wide brick chimney at one end. Nor
 have his tools changed much: an old sponge, a smaller sponge on a
 stick, a table fork, a paint brush and a metal "rib" used to smooth
 and shape the soft clay.</p>
-          <p xml:id="sc10-4_1092">The electric kiln is gone, however. Brown couldn't get the results
+            <p xml:id="sc10-4_1092">The electric kiln is gone, however. Brown couldn't get the results
 he wanted so he built a wood-fired "modified groundhog kiln."
 Old-timers built their groundhog kilns into the side of a hill for
 added insulation. Brown made his own hill from more than a thousand
 pounds of clay, now melted into a granite-hard dome.</p>
-          <p xml:id="sc10-4_1094">He combines oak slabs and smaller pieces of dry pine in the kiln to
+            <p xml:id="sc10-4_1094">He combines oak slabs and smaller pieces of dry pine in the kiln to
 produce temperatures up to 3,000 degrees. Pine resin released during
 the twelve to fifteen hours of firing 
 <pb xml:id="sc10-4_1093" n="19"/>
 puts a slicker finish on the glaze, he says.</p>
-          <p xml:id="sc10-4_1095">Gone too is the foot-powered pottery wheel that forces a potter to
+            <p xml:id="sc10-4_1095">Gone too is the foot-powered pottery wheel that forces a potter to
 stand on one leg and pump a foot pedal with the other. "I was glad
 to see those kick wheels go out of style," Brown says with a
 smile. Two years ago he was able to recover the wheel his father and
 uncle used, the one made from a fifty-year-old automobile differential
 and powered by electricity.</p>
-          <p xml:id="sc10-4_1096">In a typical working day, Brown makes one three-gallon churn after
+            <p xml:id="sc10-4_1096">In a typical working day, Brown makes one three-gallon churn after
 another. His clay-coated arms move effortlessly, pulling a perfectly
 formed churn from a lifeless lump of clay the color of a winter
 sky. When each churn is finished he picks up a worn piece of wood
 about the size of a tongue depresser to measure its opening, but he
 doesn't need to. Each piece is exactly the same size. Perfect.</p>
-          <p xml:id="sc10-4_1097">Brown's pottery is formed from clay mined from a nearby pit, about
+            <p xml:id="sc10-4_1097">Brown's pottery is formed from clay mined from a nearby pit, about
 a five-mile trip down dirt roads and a jeep trail that winds through
 thick woods. For a hundred years potters in the Hamilton area have
 been digging clay from that pit. Brown picks the clay himself and
 loads his pickup (during wet weather he often needs two mules to pull
 out the mired truck).</p>
-          <p xml:id="sc10-4_1098">Back at his shop, Brown cuts up the hard lumps and dumps up to
+            <p xml:id="sc10-4_1098">Back at his shop, Brown cuts up the hard lumps and dumps up to
 1,500 pounds of clay into the only known mule-driven "pug" mill in the
 United States. The clay is mixed for a couple of hours with up to
 thirty gallons of water to reach a uniform consistency. Then the clay
@@ -726,11 +818,11 @@ is fed into a strainer where a hydraulic piston pushes it through a
 screen, separating clay from small rocks and other trash. Pure
 clay--like strands of spaghetti--oozes out the other side. It's now
 ready for Brown's wheel.</p>
-          <p xml:id="sc10-4_1099">When a lump of clay hits the wheel it looks like a lopsided cake
+            <p xml:id="sc10-4_1099">When a lump of clay hits the wheel it looks like a lopsided cake
 waiting for frosting. And it's heavy--a six-gallon churn starts out
 weighing thirty-two pounds. The largest Brown has made, a
 twelve-gallon churn, weighed sixty pounds resting on the wheel.</p>
-          <p xml:id="sc10-4_10100">Brown's strong arms literally pull the clay into shape on the
+            <p xml:id="sc10-4_10100">Brown's strong arms literally pull the clay into shape on the
 rotating wheel. First, he makes the bottom round, then creates a "ball
 opening" by using his hands and a piece of wood to form a thick, short
 bowl. He closes the bowl inward, then, squeezing and pulling, raises
@@ -738,135 +830,146 @@ the piece from the wheel until it looks like a squatty flower pot
 about eight inches high. With one arm inside pushing, he uses his
 knuckles of his other hand to pull the vessel another foot or so to
 its proper height in what's known as a "knuckle pull."</p>
-          <p xml:id="sc10-4_10101">His next step is to take a thin piece of metal--the rib--in his
+            <p xml:id="sc10-4_10101">His next step is to take a thin piece of metal--the rib--in his
 right hand, place his left hand inside the vessel, and use the rib to
 smooth the outside. With his final pull, he gives the vessel its
 shape. He makes a rim for a lid and then sponges the vessel to smooth
 the rough spots.</p>
-          <p xml:id="sc10-4_10102">About an hour after he makes a piece, Brown turns it over so it
+            <p xml:id="sc10-4_10102">About an hour after he makes a piece, Brown turns it over so it
 will dry without warping the rim. He makes a lid if the piece needs
 one, adds handles if he chooses, and dips the piece in one of his
 glazing solutions. Then it's ready to be fired.</p>
-          <p xml:id="sc10-4_10103">Brown dips his arms into a plastic bucket and washes off the
+            <p xml:id="sc10-4_10103">Brown dips his arms into a plastic bucket and washes off the
 crusted clay, then heads out to stoke his roaring kiln. Flames shoot
 about ten feet from the top of the kiln's brick chimney and the sky
 above his shop fills with thick, black smoke.</p>
-          <p xml:id="sc10-4_10104">Another reason I got back into this," he says, "is
+            <p xml:id="sc10-4_10104">Another reason I got back into this," he says, "is
 because I didn't want the tradition to die with me. I'm the ninth
 generation, you know. I'm the only one that makes and sells churns
 above three gallons, I reckon, in the United States. I'd like to see
 my family carry it on, you know."</p>
-          <p xml:id="sc10-4_10105">He has two sons in their twenties. So far they've shown interest in
+            <p xml:id="sc10-4_10105">He has two sons in their twenties. So far they've shown interest in
 continuing the tradition, even turning out some pretty good-looking
 pieces Brown proudly displays in his shop.</p>
-          <p xml:id="sc10-4_10106">"It's a dying art," he says, shaking his head. "It'a been
+            <p xml:id="sc10-4_10106">"It's a dying art," he says, shaking his head. "It'a been
 a tradition in the South for years and years. It would be a shame to
 see it die out. I'm going to do my best to see it stay."</p>
-          <p xml:id="sc10-4_10107">Willett and Joey Brackner, folk arts program manager for the
+            <p xml:id="sc10-4_10107">Willett and Joey Brackner, folk arts program manager for the
 Alabama State Council on the Arts in Montgomery, have been working
 with a Kentucky film company, AppalShop, to produce a documentary on
 Jerry and his work. The film is expected to be ready by the fall,
 Brackner said, and will probably be shown on Alabama Public
 Television. The film excites Brown and he hopes it will help boost
 business.</p>
-          <p xml:id="sc10-4_10108">"I've known all kinds of potters," he says, abut I've never
+            <p xml:id="sc10-4_10108">"I've known all kinds of potters," he says, abut I've never
 known one that was rich. We ain't got a lot, but I know what we have,
 we came by it honestly.</p>
-          <div3 xml:id="sc10-4_030" type="About">
-            <p xml:id="sc10-4_10109">Darryl Gates is the editor of <title>AREA
+            <div3 xml:id="sc10-4_030" type="About">
+               <p xml:id="sc10-4_10109">Darryl Gates is the editor of <title>AREA
 Magazine</title>. Signed pieces of Jerry Brown's pottery are available
 through his shop in Hamilton, Ala., (205) 921-9483.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_011" n="8" type="Review">
-          <head><title>The Avenue, Clayton City</title> by C. Eric Lincoln. (New
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_011" n="8" type="Review">
+            <head>
+               <title>The Avenue, Clayton City</title> by C. Eric Lincoln. (New
 York: William Morrow, 1988. 288 pages. $17.95.)</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Gaillard, Frye</reg><sic>Frye Gaillard</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 20-22</docDate>
-          
-          <p xml:id="sc10-4_10110">Blind Bates began to caress the strings of his battered old
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Gaillard, Frye</reg>
+                        <sic>Frye Gaillard</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 20-22</docDate>
+            <interp>
+               <certainty ana="#T14" degree="16.4"/>
+            </interp>
+            <p xml:id="sc10-4_10110">Blind Bates began to caress the strings of his battered old
 guitar. This time he was playing for love. Love for a woman he had
 never seen, but whose love he had known not only through the meals she
 had fixed for him, or the shirts she had patched, but through the
 sharing of her time, her wisdom and her compassion.</p>
-          <p xml:id="sc10-4_10111">Tears flowed from beneath the dark glasses covering his sightless
+            <p xml:id="sc10-4_10111">Tears flowed from beneath the dark glasses covering his sightless
 eyes as he riffed the steel strings with the glass bottleneck on his
 little finger and launched into a song he had written in his mind for
 Mama Lucy. It was a sad, lonesome song.</p>
-          <p xml:id="sc10-4_10112">
-            <hi rend="italic">Train done gone</hi>
-          </p>
-          <p xml:id="sc10-4_10113">
-            <hi rend="italic">Train done gone</hi>
-          </p>
-          <p xml:id="sc10-4_10114">The funeral scene stays with you for a while. The prose itself is
+            <p xml:id="sc10-4_10112">
+               <hi rend="italic">Train done gone</hi>
+            </p>
+            <p xml:id="sc10-4_10113">
+               <hi rend="italic">Train done gone</hi>
+            </p>
+            <p xml:id="sc10-4_10114">The funeral scene stays with you for a while. The prose itself is
 haunting in its rhythms--as C. Eric Lincoln describes the little
 church, hot and crowded and overflowing with grief.</p>
-          <p xml:id="sc10-4_10115">A leading black citizen has died, a matriarch of tenderness and
+            <p xml:id="sc10-4_10115">A leading black citizen has died, a matriarch of tenderness and
 strength, and her funeral was, as Lincoln writes, "an occasion
 licensed by the whole community to break down--to scream and to shout,
 to moan and to weep, to engage in the delirium of temporary relief
 from sadness, from fear, from hatred and frustration....All in the
 name and the presence of God."</p>
-          <p xml:id="sc10-4_10116">Lincoln is a scholar by trade, a professor of religion at Duke
+            <p xml:id="sc10-4_10116">Lincoln is a scholar by trade, a professor of religion at Duke
 University, author of nineteen works of nonfiction, but never a novel
 until this year. Now, with the publication of The Avenue, Clayton
 City, he seems destined for a place in the front ranks of black
 writers.</p>
-          <p xml:id="sc10-4_10117">The book is an alternate selection of the Literary Guild, with a
+            <p xml:id="sc10-4_10117">The book is an alternate selection of the Literary Guild, with a
 large first printing of about 25,000. Paperback and movie rights are
 already sold, and critics are using such words as "masterpiece."</p>
-          <p xml:id="sc10-4_10118">Lincoln says he worked on the novel for more than thirty years,
+            <p xml:id="sc10-4_10118">Lincoln says he worked on the novel for more than thirty years,
 writing a chapter here and there and then putting it aside, and for
 much longer than that he has carried the stories and the characters in
 his head--the prototypes of life in the black rural South.</p>
-          <p xml:id="sc10-4_10119">He knows the story firsthand. He was born in Alabama in 1924,
+            <p xml:id="sc10-4_10119">He knows the story firsthand. He was born in Alabama in 1924,
 coming of age in the little town of Athens, in the cotton country near
 the Tennessee line. He found bits and pieces of heroism there, traces
 of nobility during a time of segregation. But mostly what he saw--the
 enduring image that takes shape in his novel--was the crazy futility
 of life in those times, the lost and squandered dignity among his
 neighbors, black and white.</p>
-          <p xml:id="sc10-4_10120">Lincoln was raised by his grandparents. His mother went away when
+            <p xml:id="sc10-4_10120">Lincoln was raised by his grandparents. His mother went away when
 he was four. She married a preacher and moved off to Pittsburgh,
 leaving her son in the care of Less and Mattie Lincoln.</p>
-          <p xml:id="sc10-4_10122">Mattie worked for white families as a cook and a maid, and in many
+            <p xml:id="sc10-4_10122">Mattie worked for white families as a cook and a maid, and in many
 ways ruled her own family with a kind of ferocious generosity--quick
 to punish a misbehaving child, 
 <pb xml:id="sc10-4_10121" n="21"/>
 but ready to go to war if they were ever abused.</p>
-          <p xml:id="sc10-4_10123">Less Lincoln, meanwhile, was a farmer. He did odd jobs for white
+            <p xml:id="sc10-4_10123">Less Lincoln, meanwhile, was a farmer. He did odd jobs for white
 people on the side, but his passion--his calling--was tilling his own
 field behind his wood frame house.</p>
-          <p xml:id="sc10-4_10124">He was a gentle man, his grandson remembers, dignified, with iron
+            <p xml:id="sc10-4_10124">He was a gentle man, his grandson remembers, dignified, with iron
 gray hair that was tight and springy to young Eric's touch, and the
 two of them were great friends. They would sit around the fire on a
 Sunday evening, roasting sweet potatoes on the hearth while Mattie was
 off at church.</p>
-          <p xml:id="sc10-4_10125">For Lincoln, such memories are mingled with those of
+            <p xml:id="sc10-4_10125">For Lincoln, such memories are mingled with those of
 deprivation--the six-room house so cold some nights that ice formed on
 the floor--and also of cruelty, an ever-present possibility in time of
 white supremacy.</p>
-          <p xml:id="sc10-4_10126">"My experiences with white people were varied," he
+            <p xml:id="sc10-4_10126">"My experiences with white people were varied," he
 says. "I played with white kids and loved some of them. It was not
 unusual for poor whites and blacks to eat together, to hunt and fish
 together....Yet there was supposed to have been a hatred. I didn't see
 much of that, but then, I wasn't looking. I do remember one time that
 I was cheated and kicked, for the reason that I unwittingly challenged
 a white man.</p>
-          <p xml:id="sc10-4_10127">"I was 13 or 14. My grandfather was on his deathbed, There was
+            <p xml:id="sc10-4_10127">"I was 13 or 14. My grandfather was on his deathbed, There was
 no food in the house, no fire in the house, no money in the house, My
 grandmother and I went out to the fields where the cotton had already
 been picked, not only our fields but those nearby, and we pulled the
 only bolls that were left."</p>
-          <p xml:id="sc10-4_10128">That night, he says, they picked the cotton from the bolls and the
+            <p xml:id="sc10-4_10128">That night, he says, they picked the cotton from the bolls and the
 next morning, Eric put in <sic>in</sic> a wheelbarrow and took it to
 the gin. It was 7 a.m. when he arrived, and the owner, Mr. Beasley,
 was sitting on the porch.</p>
-          <p xml:id="sc10-4_10129">"Whatchoo got there, boy?" he said.</p>
-          <p xml:id="sc10-4_10130">"Cotton, sir."</p>
-          <p xml:id="sc10-4_10131">"Well, dump it out."</p>
-          <p xml:id="sc10-4_10132">So they put it on the scales, and the weight came to forty pounds,
+            <p xml:id="sc10-4_10129">"Whatchoo got there, boy?" he said.</p>
+            <p xml:id="sc10-4_10130">"Cotton, sir."</p>
+            <p xml:id="sc10-4_10131">"Well, dump it out."</p>
+            <p xml:id="sc10-4_10132">So they put it on the scales, and the weight came to forty pounds,
 and young Eric made a quick calculation: At nine cents a pound, that
 would mean $3.60 for food, firewood and other family necessities. He
 was startled, therefore, when the white man casually flipped him a
@@ -876,38 +979,38 @@ up abruptly and bolted the door. At first, the boy merely puzzled. But
 then he found himself gasping, his lungs suddenly empty from a blow to
 the midsection, as the white man began to kick him and stomp at his
 head.</p>
-          <p xml:id="sc10-4_10133">"He was in a frenzy," Lincoln remembers, "and I'll never
+            <p xml:id="sc10-4_10133">"He was in a frenzy," Lincoln remembers, "and I'll never
 forget his words: 'Nigger, as long as you live, don't you never try to
 count behind no white man again!'"</p>
-          <p xml:id="sc10-4_10134">There are times, for Lincoln, when that story comes hard--when he
+            <p xml:id="sc10-4_10134">There are times, for Lincoln, when that story comes hard--when he
 tells it with such emotion that he has to stop for a moment and wipe
 the tears from his large, expressive eyes.</p>
-          <p xml:id="sc10-4_10135">But there are other stories, too, he says--other experiences with
+            <p xml:id="sc10-4_10135">But there are other stories, too, he says--other experiences with
 white people of a very different kind. One man, for example, a high
 school principal named J.T. Wright, praised and encouraged Lincoln's
 gift as a writer, and lent him $50 so he could go off to college.</p>
-          <p xml:id="sc10-4_10136">"I was 14," Lincoln remembers. "I had just graduated from
+            <p xml:id="sc10-4_10136">"I was 14," Lincoln remembers. "I had just graduated from
 high school in May of 1939, and I had an uncle in Rockford, Ill., who
 worked at what he called 'an auto laundry'--a car wash, we would call
 it today. I was going to go there and take a job, and the principal,
 Mr. Wright, loaned me some money and said, 'C. Eric, while you're up
 that way, stop on by the University of Chicago.'"</p>
-          <p xml:id="sc10-4_10137">Lincoln did and eventually emerged with a divinity degree. But
+            <p xml:id="sc10-4_10137">Lincoln did and eventually emerged with a divinity degree. But
 there were some stops in between his enrollment and graduation--a
 couple of years in the Navy, several more at a black college in
 Memphis, and a singular job opportunity one summer that caused him to
 travel extensively across the South.</p>
-          <p xml:id="sc10-4_10138">He became secretary-road manager to a Negro League baseball team,
+            <p xml:id="sc10-4_10138">He became secretary-road manager to a Negro League baseball team,
 the Birmingham Black Barons. It was an outstanding collection of
 talent, he remembers (among its players was an Alabama teenager by the
 name of Willie Mays), and as Lincoln handled the team's financial
 affairs, he got to know the South in a way that stayed with him.</p>
-          <p xml:id="sc10-4_10139">Every town, it seemed was remarkably the same. Despite some
+            <p xml:id="sc10-4_10139">Every town, it seemed was remarkably the same. Despite some
 colorful differences in detail, each had a similar cast of characters:
 a wise man, a fool, a chief bootlegger, a white patriarch.</p>
-          <p xml:id="sc10-4_10140">They were prototypes, and they provided, for Lincoln, the images
+            <p xml:id="sc10-4_10140">They were prototypes, and they provided, for Lincoln, the images
 and building blocks of a novel about the South.</p>
-          <p xml:id="sc10-4_10141">Not right away, however, for his major energies were soon channeled
+            <p xml:id="sc10-4_10141">Not right away, however, for his major energies were soon channeled
 into scholarship. He taught over the next thirty years at Clark
 College in Atlanta and Fisk University in Nashville, at Columbia
 University and Union Theological Seminary in New York, before finally
@@ -915,57 +1018,57 @@ coming to Duke in 1976. His best-known books during that time were
 <title>The Black Muslims in America</title> and <title>The Negro
 Pilgrimage in America</title>, which together sold more than a million
 copies.</p>
-          <p xml:id="sc10-4_10143">But he also worked now and then on his novel, and last 
+            <p xml:id="sc10-4_10143">But he also worked now and then on his novel, and last 
 <pb xml:id="sc10-4_10142" n="22"/>
 year sent
 the manuscript to his friend Alex Haley, seeking a critique. The
 response was encouraging.</p>
-          <p xml:id="sc10-4_10144">Despite such encouragement and despite the strong prose and passion
+            <p xml:id="sc10-4_10144">Despite such encouragement and despite the strong prose and passion
 which make it easy to read, Lincoln was braced for mixed reviews.</p>
-          <p xml:id="sc10-4_10145">The structure, for one thing, is unorthodox. Each of the ten
+            <p xml:id="sc10-4_10145">The structure, for one thing, is unorthodox. Each of the ten
 chapters is a self-contained story, and, though some characters appear
 more than once, the chapters are connected more by theme than
 plot. They read almost like a collection of short stories that
 together produce a powerful portrait of a place.</p>
-          <p xml:id="sc10-4_10146">In addition to that departure from the standard form, the novel may
+            <p xml:id="sc10-4_10146">In addition to that departure from the standard form, the novel may
 offend. It is as unflinching in its portrayal of blacks as it is of
 whites, for the people of the Avenue in Lincoln's Clayton City are not
 always admirable, or even sympathetic.</p>
-          <p xml:id="sc10-4_10147">There are some heroes--Mama Lucy, based loosely on Lincoln's
+            <p xml:id="sc10-4_10147">There are some heroes--Mama Lucy, based loosely on Lincoln's
 grandmother, or Roger McClain, a white educator who resembles the
 real-life principal at Lincoln's high school. But there are also petty
 criminals and assorted other hustlers whose choices are self-centered
 and sometimes disastrous, and who only add to the debasement that
 white supremacy has produced.</p>
-          <p xml:id="sc10-4_10148">Most of the characters, meanwhile, are somewhere in between,
+            <p xml:id="sc10-4_10148">Most of the characters, meanwhile, are somewhere in between,
 well-intentioned sometimes, but fundamentally bewildered, trying to
 survive the vagaries of the South as it was. And then there are one or
 two who decide to fight back, to take their own fateful stands against
 the order of the day.</p>
-          <p xml:id="sc10-4_10149">One is Dr. Walter Pinkney Tait, an enigmatic black physician who
+            <p xml:id="sc10-4_10149">One is Dr. Walter Pinkney Tait, an enigmatic black physician who
 had a profitable practice, a position of prominence among Clayton
 City's blacks, and who had even grown accustomed to a certain respect
 among whites. Still, he hated segregation and the slow death of the
 spirit it inevitably produced, and he decided one day that he had had
 enough.</p>
-          <p xml:id="sc10-4_10150">His decision took the form of a simple act of defiance, the refusal
+            <p xml:id="sc10-4_10150">His decision took the form of a simple act of defiance, the refusal
 to obey the desperate order of a white man--a prominent citizen who
 was addicted to drugs and who wanted the black doctor to give him a
 shot. Tait refused, not because what was being asked would violate his
 principles, but because he was simply tired of the way things were,
 including his own life.</p>
-          <p xml:id="sc10-4_10151">
-            <hi rend="italic">"If the canvas is rotten to begin with," he
+            <p xml:id="sc10-4_10151">
+               <hi rend="italic">"If the canvas is rotten to begin with," he
 thought to himself, "no matter what you paint on it, the colors
 will run and the texture will blister."</hi>
-          </p>
-          <p xml:id="sc10-4_10152">
-            <hi rend="italic">Tait knew his decision, at the least, would cost
+            </p>
+            <p xml:id="sc10-4_10152">
+               <hi rend="italic">Tait knew his decision, at the least, would cost
 him his practice and may beget him killed. But he also knew that the
 time had come.</hi>
-          </p>
-          <p xml:id="sc10-4_10153">
-            <hi rend="italic">All his life he had tried to walk the thin,
+            </p>
+            <p xml:id="sc10-4_10153">
+               <hi rend="italic">All his life he had tried to walk the thin,
 wavering line between what it took to live in the white man's world
 and what it took to hold on to some semblance of self-respect, but he
 had never been so bl unt with a ny white ma n be fore. Often, when his
@@ -975,23 +1078,33 @@ the temerity to look a white man--not just some poor cracker, but The
 Man himself--squarely in the eye and tell him precisely what he wanted
 him to know. It was a good feeling a liberating feeling--and he felt
 no fear except for the fear of not being afraid...</hi>
-          </p>
-          <p xml:id="sc10-4_10154">
-            <hi rend="italic">He sat motionless in his swivel chair and watched
+            </p>
+            <p xml:id="sc10-4_10154">
+               <hi rend="italic">He sat motionless in his swivel chair and watched
 the evening shadows blot the dying sunlight from the room.</hi>
-          </p>
-          <div3 xml:id="sc10-4_031" type="About">
-            <p xml:id="sc10-4_10155">Frye Gaillard is an editor at the Charlotte
+            </p>
+            <div3 xml:id="sc10-4_031" type="About">
+               <p xml:id="sc10-4_10155">Frye Gaillard is an editor at the Charlotte
 <title>Observer</title>, where this article previously
 appeared.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_012" n="9" type="Review">
-          <head>The Freedom Quilting Bee</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Ellis, Deborah</reg><sic>Deborah Ellis</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 22-24</docDate>
-          
-          <p xml:id="sc10-4_10156">Both are stories of American business, but <title>The
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_012" n="9" type="Review">
+            <head>The Freedom Quilting Bee</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Ellis, Deborah</reg>
+                        <sic>Deborah Ellis</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 22-24</docDate>
+            <interp>
+               <certainty ana="#T03" degree="36"/>
+            </interp>
+            <p xml:id="sc10-4_10156">Both are stories of American business, but <title>The
 Freedom Quilting Bee</title> is as different from the current bestseller
 <title>Trump: The Art of the Deal</title>, as New York City is
 from Gees Bend, Alabama. While Trump's book celebrates the triumph of
@@ -1003,7 +1116,7 @@ on extensive interviews with the quilters and outside supporters of
 the cooperative venture, shows how the Bee cooperative has formed and
 has been formed by those whose lives it has touched since it was
 established in 1966.</p>
-          <p xml:id="sc10-4_10158">The Freedom Quilting Bee grew out of both the civil rights movement
+            <p xml:id="sc10-4_10158">The Freedom Quilting Bee grew out of both the civil rights movement
 and the culture of the tiny, isolated Wilcox County, Alabama,
 communities of Gees Bend and Alberta. It was the civil rights movement
 that brought the Rev. Francis X. Walter, a white Episcopal priest and
@@ -1024,7 +1137,7 @@ I had ever seen was their bold patterns. They had
 self-confidence....These were extroverted quilts....They had so little
 influence from outside that their quilting tradition was unique to
 that isolated bend of the Alabama River."</p>
-          <p xml:id="sc10-4_10159">Gees Bend is an all-black rural community known for its isolation,
+            <p xml:id="sc10-4_10159">Gees Bend is an all-black rural community known for its isolation,
 poverty, and unique cultural history. While the town lies just across
 the river from Camden, the county seat, on a peninsula formed by a
 curve in the Alabama River, there is neither bridge nor ferry
@@ -1040,14 +1153,14 @@ homogenous. In 1937 a writer noted that "Gees Bend is an Alabama
 Africa. There is no more concentrated and racially exclusive Negro
 population in any rural community in the South than in Gee's
 Bend."</p>
-          <p xml:id="sc10-4_10160">For the past 140 years the same group of people have cultivated the
+            <p xml:id="sc10-4_10160">For the past 140 years the same group of people have cultivated the
 land; only the land owners changed. In Callahan's words, some say the
 black inhabitants "bought the land, then bought it again, then
 again, and again: first as slaves, than as tenants, next as test-tube
 members of a co-op (part of Roosevelt's Farm Security Administration),
 and finally as qualified individuals fulfilling a bargain with one
 more government group."</p>
-          <p xml:id="sc10-4_10161">People in Wilcox County were understandably suspicious of
+            <p xml:id="sc10-4_10161">People in Wilcox County were understandably suspicious of
 outsiders. Walter succeeded in getting local women to join his
 enterprise by offering them $10 per quilt-double what they previously
 earned. At first, the quilters worked in their own homes, and the
@@ -1064,7 +1177,7 @@ going around buying quilts," wrote Walter to volunteer her help
 "organizing ourselves to get these quilts sold." The cooperative
 was incorporated in April 1966 with Estelle Witherspoon as president;
 she has led the cooperative ever since.</p>
-          <p xml:id="sc10-4_10162">Those early auctions led to two important New York
+            <p xml:id="sc10-4_10162">Those early auctions led to two important New York
 connections-Diana Vreeland, editor of <title>Vogue</title>, and
 the nationally prominent interior design firm of Parish
 Hadley. Vreeland and the Parish-Hadley firm were crucial to the
@@ -1076,7 +1189,7 @@ their bold patterns reflected the popular taste in abstract art:
 "The quilts had a dynamism resulting from their combination of
 geometry and brilliance in juxtaposition of primary colors...such
 opposition gave them a wonderful, almost Mondrian design."</p>
-          <p xml:id="sc10-4_10163">As the Bee's business grew, the product naturally changed. The
+            <p xml:id="sc10-4_10163">As the Bee's business grew, the product naturally changed. The
 first quilts sold at the auction were made in designs handed down
 through generations, with names such as Star of Bethlehem (also
 "Stable Star"), Log Cabin, Climbing Vines, Stair Steps, Chestnut Bud,
@@ -1092,7 +1205,7 @@ to make smaller items that were often profitable because they could be
 made by machine; for example, in 1972 the co-op entered into a
 long-term contract with Sears, Roebuck and Company to produce pillow
 shams.</p>
-          <p xml:id="sc10-4_10165">In its first three years, members of the Bee sometimes gathered to
+            <p xml:id="sc10-4_10165">In its first three years, members of the Bee sometimes gathered to
 work together in each others' homes or in an old dog-trot tenant shack
 that had previously been Witherspoon's home. The Bee's acquisition of
 its own land and building in 1969 had both practical and symbolic
@@ -1105,7 +1218,7 @@ structure stands out in the rural countryside. "To some, the
 ultramodern facade...conjured thoughts of a giant spaceship from
 another galaxy that landed accidentally on a sparse stretch of Alabama
 cornfield."</p>
-          <p xml:id="sc10-4_10166">The success of the Bee must be evaluated in relative terms. In
+            <p xml:id="sc10-4_10166">The success of the Bee must be evaluated in relative terms. In
 Wilcox County more than 40 percent of family incomes are below the
 poverty level. As one observer noted, "We're talking about Wilcox
 County, where if there were no quilting bee, people would not be
@@ -1119,7 +1232,7 @@ the book, there are many benefits to working in a co-operative where
 each member has a vote in decision making, where a daycare center is
 part of the operation, and where pictures of Abraham Lincoln, Martin
 Luther King, Bobby Kennedy and John Kennedy hang on the wall.</p>
-          <p xml:id="sc10-4_10167">In chronicling the story of the Freedom Fund Quilting Bee, Callahan
+            <p xml:id="sc10-4_10167">In chronicling the story of the Freedom Fund Quilting Bee, Callahan
 tells a story that needed telling, and she tells it well. Exhaustively
 researched, the book goes beyond simply describing the growth of a
 business to document in detail the Bee's relationship to the civil
@@ -1131,44 +1244,52 @@ quotations in their own voices and are some of the strongest sections
 of the book. Less extensive use of quotes, however, would have
 benefited the earlier chapters, which are weighed down with extraneous
 observations of outside supporters and helpers of the Bee.</p>
-          <p xml:id="sc10-4_10168"><title>The Freedom Quilting Bee</title> skillfully shows how
+            <p xml:id="sc10-4_10168">
+               <title>The Freedom Quilting Bee</title> skillfully shows how
 the institution is itself like a quilt, an everyday object that in the
 hands of an artful maker transcends its utilitarian function and
 becomes an object of great beauty. The Freedom Quilting Bee is more
 than a successful small business; it is a symbol of how much can be
 achieved by people working together. Like a quilt, the Bee has
 endured. </p>
-          <div3 xml:id="sc10-4_032" type="About">
-            <p xml:id="sc10-4_10169">Deborah Ellis works with the Women's Rights Project of
+            <div3 xml:id="sc10-4_032" type="About">
+               <p xml:id="sc10-4_10169">Deborah Ellis works with the Women's Rights Project of
 the ACLU, and previously was a lawyer in Alabama.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_013" n="3" type="Article">
-          <head>Hispanics Struggle for Parity in Texas</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Davenport, Elaine</reg><sic>Elaine Davenport</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 11-13</docDate>
-          
-          <div3 xml:id="sc10-4_014" type="Section">
-            <p xml:id="sc10-4_10170">By the year 2010, Hispanics will be a majority of the population in
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_013" n="3" type="Article">
+            <head>Hispanics Struggle for Parity in Texas</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Davenport, Elaine</reg>
+                        <sic>Elaine Davenport</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 11-13</docDate>
+            <div3 xml:id="sc10-4_014" type="Section">
+               <p xml:id="sc10-4_10170">By the year 2010, Hispanics will be a majority of the population in
 Texas and will be more numerous than any other ethnic group, whites
 included, in California.</p>
-            <p xml:id="sc10-4_10171">In sheer numbers and in buying power, Hispanics have growing
+               <p xml:id="sc10-4_10171">In sheer numbers and in buying power, Hispanics have growing
 clout. In America as a whole, the Hispanic market is now estimated at
 nineteen million and is expected to reach fifty-five million within
 thirty years. And in politics, both Democrats and Republicans count
 Hispanics as a potential <soCalled>"swing"</soCalled> vote in Texas,
 California, Florida, New York, New Jersey and Illinois in the November
 elections.</p>
-            <p xml:id="sc10-4_10172">Yet Hispanics still suffer from discrimination in education, jobs
+               <p xml:id="sc10-4_10172">Yet Hispanics still suffer from discrimination in education, jobs
 and housing, and are currently launching widespread struggles for
 equality, much as blacks did in the 1950s and 1960s.</p>
-            <p xml:id="sc10-4_10173">The struggle is especially evident in south Texas, where Hispanics
+               <p xml:id="sc10-4_10173">The struggle is especially evident in south Texas, where Hispanics
 are seeking a federal court order to make more state money available
 for higher education. The Mexican American Legal Defense and
 Educational Fund claims deliberate neglect exists when just 3 per cent
 of the state's higher education budget serves 9 per cent of the
 population.</p>
-            <p xml:id="sc10-4_10174">Texas's important universities are all located north of an
+               <p xml:id="sc10-4_10174">Texas's important universities are all located north of an
 east-west line running through San Antonio. South of that line are
 just two little-known four-year universities-where faculty salaries
 start at about $16,000 a year-and a long list of NO's: No accredited
@@ -1176,7 +1297,7 @@ medical schools, no accredited law schools, no accredited health
 science schools, and no doctoral program except in bilingual
 education. By contrast, cities such as Dallas and Houston are overrun
 with degree programs.</p>
-            <p xml:id="sc10-4_10176">Equally grim statistics exist in other social categories in south
+               <p xml:id="sc10-4_10176">Equally grim statistics exist in other social categories in south
 Texas: Jobs-for the past two decades, counties in south Texas have led
 the nation in unemployment. Poverty-federal statistics put residents
 of south Texas among 
@@ -1186,25 +1307,25 @@ than residents of Appalachia. Housing-researchers say more than 30
 percent of the region's housing is substandard, citing the so-called
 <soCalled>"colonias,"</soCalled> the make-shift slums that have
 sprouted along the Mexican-American border.</p>
-            <p xml:id="sc10-4_10177">For now, higher education is where Hispanics are demanding
+               <p xml:id="sc10-4_10177">For now, higher education is where Hispanics are demanding
 equality. Dr. Juliet Garcia, president of Texas Southmost College in
 Brownsville, says the formula for dividing the annual $4.5 billion
 state expense for higher education has shortchanged south Texas.</p>
-          </div3>
-          <div3 xml:id="sc10-4_015" type="Section">
-            <head>Equal Opportunity Discrimination</head>
-            <p xml:id="sc10-4_10178">"Everyone who lives in south Texas is being discriminated
+            </div3>
+            <div3 xml:id="sc10-4_015" type="Section">
+               <head>Equal Opportunity Discrimination</head>
+               <p xml:id="sc10-4_10178">"Everyone who lives in south Texas is being discriminated
 against without regard to ethnicity, or economic status, because we
 simply don't have the diversity of programs available in other parts
 of the state," says Garcia.</p>
-            <p xml:id="sc10-4_10179">Students know there is bias: "A lot of people are forced into
+               <p xml:id="sc10-4_10179">Students know there is bias: "A lot of people are forced into
 going to a vocational school because they don't have the money to go
 somewhere else. They just settle for that and the cycle
 continues," says Martha Luna, a senior at Pan American University
 in Edinburg. Ms. Luna will put off going north to medical school
 because neither she nor her family can afford both school fees and
 away-from-home living expenses.</p>
-            <p xml:id="sc10-4_10180">Anyone with a high school diploma or the equivalent can apply to
+               <p xml:id="sc10-4_10180">Anyone with a high school diploma or the equivalent can apply to
 Pan American, and many rely on the university's Learning Assistance
 Center for remedial help in reading, math and composition. Half of
 last year's nearly 10,000 students used the Center. Of those, 34 per
@@ -1212,9 +1333,9 @@ cent were from homes with less than $9,000 annual income; 82 per cent
 were first-generation college students, whose parents had attended an
 average of 8.1 years of school; and 46 per cent said English was their
 second language.</p>
-            <p xml:id="sc10-4_10181">"That tells you our job is a tremendous one," says Dr. Sylvia
+               <p xml:id="sc10-4_10181">"That tells you our job is a tremendous one," says Dr. Sylvia
 Lujan, director of the Center.</p>
-            <p xml:id="sc10-4_10182">The lawsuit filed last December is part of a two-pronged attack on
+               <p xml:id="sc10-4_10182">The lawsuit filed last December is part of a two-pronged attack on
 the decades-old problem. During its last session, the Texas State
 Senate passed a resolution asking the state's two most prominent
 universities-the University of Texas and Texas A&amp;M University-to
@@ -1225,14 +1346,14 @@ American into the state-wide systems of UT and Texas A&amp;M, and
 collaboration on improved programs for the south Texas colleges,
 including Laredo State University and Corpus Christi State
 University.</p>
-            <p xml:id="sc10-4_10183">None of this sounds very promising to some Hispanic leaders, who
+               <p xml:id="sc10-4_10183">None of this sounds very promising to some Hispanic leaders, who
 have heard most of it before and now are trying to get something
 concrete done. In May, a joint legislative committee set up because of
 the Senate resolution heard testimony from Kenneth Ashworth, State
 Commissioner of Higher Education. He said that he would take steps to
 get the next state legislature to appropriate money for new programs
 at south Texas colleges.</p>
-            <p xml:id="sc10-4_10184">State Senator Carlos Truan, who co-chairs the committee, made a
+               <p xml:id="sc10-4_10184">State Senator Carlos Truan, who co-chairs the committee, made a
 blistering plea for action now: "In my 20th year in the
 legislature, I'm serving notice that we're not going to take it any
 more and we want specific answers to the problems of south Texas. So
@@ -1242,14 +1363,14 @@ one doctoral program and that being fourteen years ago, and we are
 demanding equity from you, the Commissioner of Higher Education, and
 the board you represent. We want to be fairly and equitably treated in
 the distribution of money, facilities and programs."</p>
-            <p xml:id="sc10-4_10185">It is no coincidence that the squeeze is on at a time when national
+               <p xml:id="sc10-4_10185">It is no coincidence that the squeeze is on at a time when national
 politics is close to the top of everyone's agenda. The Democratic
 presidential candidates held one of their debates in south Texas, in
 what is considered an important Democratic voter stronghold. And in
 June Democratic frontrunner Michael Dukakis stopped in San Antonio for
 the funeral of Willie Velasquez, 44, the man credited with igniting an
 explosion of Hispanic political power over the last fifteen years.</p>
-            <p xml:id="sc10-4_10187">Velasquez, who died of cancer, was head of the Southwest Voter
+               <p xml:id="sc10-4_10187">Velasquez, who died of cancer, was head of the Southwest Voter
 Registration and Education Project, based in San Antonio. Much as
 Martin Luther King Jr. strove to put blacks on the political map in
 the 1960s, Velasquez began in 
@@ -1259,24 +1380,24 @@ and organizational abilities, to get Hispanics registered to
 vote. Over the past decade, the number of Hispanic voters in Texas has
 more than doubled, and Velasquez's work in California has borne
 similar fruit.</p>
-          </div3>
-          <div3 xml:id="sc10-4_016" type="Section">
-            <head>A Critical Core of Lawmakers</head>
-            <p xml:id="sc10-4_10188">Slowly, more Hispanics have been elected to office. The twenty-five
+            </div3>
+            <div3 xml:id="sc10-4_016" type="Section">
+               <head>A Critical Core of Lawmakers</head>
+               <p xml:id="sc10-4_10188">Slowly, more Hispanics have been elected to office. The twenty-five
 Hispanics now in the Texas House and Senate make up about 15 percent
 of the 181 total members, whereas twenty years ago there was a bare
 handful. And of Texas's twenty-seven members of the U.S. House of
 Representatives, four are Hispanic.</p>
-            <p xml:id="sc10-4_10189">"Hispanic members of the Legislature now form a critical core of
+               <p xml:id="sc10-4_10189">"Hispanic members of the Legislature now form a critical core of
 lawmakers who are forcing the state's two premier universities to
 include south Texas in their plans for the future," writes Jesse
 Trevino, a columnist for the Austin <title>American-Statesman</title> newspaper. "The votes Velasquez has harnessed have been the key to the turnaround in the academic and economic fortunes of this area of Texas."</p>
-            <p xml:id="sc10-4_10190">Nationally, more than four million voters are considered Hispanic,
+               <p xml:id="sc10-4_10190">Nationally, more than four million voters are considered Hispanic,
 a generic category for persons of Mexican, Puerto Rican, Cuban and
 other Latin origin. That is still less than 5 per cent of all American
 voters, but their potential influence is great because they are
 concentrated in six states.</p>
-            <p xml:id="sc10-4_10191">Sheer numbers are making Hispanics more visible and powerful, but
+               <p xml:id="sc10-4_10191">Sheer numbers are making Hispanics more visible and powerful, but
 there is also growing fear and suspicion of them. "Anglos are more
 scared of Hispanics now than they were of blacks in the fifties and
 sixties," says columnist Trevino. "We've got a different
@@ -1284,48 +1405,48 @@ culture, religion, and we're slow to assimilate-to become
 American," says Trevino. "There's never been so large a
 population that's bilingual and has a bond with a potential
 enemy-Mexico."</p>
-            <p xml:id="sc10-4_10192">In a recent column, Trevino wrote about the problem of Anglo
+               <p xml:id="sc10-4_10192">In a recent column, Trevino wrote about the problem of Anglo
 backlash. A press release from Baylor, the large Baptist university in
 Waco, announced that Texas could be facing a situation similar to what
 South Africa is going through if projected population estimates
 hold.</p>
-            <p xml:id="sc10-4_10193">"There are rising tensions among Hispanics, many of who believe
+               <p xml:id="sc10-4_10193">"There are rising tensions among Hispanics, many of who believe
 they have not been treated fairly and will continue to be treated
 unfairly," the press release continued. "Much of the state's
 new population in the next ten to twenty years will not speak English
 but Spanish....The day is quickly coming when the Anglo Texan, the
 native Texan, will himself be a minority."</p>
-          </div3>
-          <div3 xml:id="sc10-4_017" type="Section">
-            <head>A Fear of Two Texases</head>
-            <p xml:id="sc10-4_10194">Alarmed, Trevino called the professor who had been quoted, and
+            </div3>
+            <div3 xml:id="sc10-4_017" type="Section">
+               <head>A Fear of Two Texases</head>
+               <p xml:id="sc10-4_10194">Alarmed, Trevino called the professor who had been quoted, and
 learned that the statements had been mangled by an energetic writer
 from the university's information office. "I stopped worrying about
 it," wrote Trevino. "But driving home that day, it occurred to
 me that someone did write it, and that someone believes that kind of
 future awaits Texas....The fear, of course, is that the state is on
 its way to becoming two separate Texases."</p>
-            <p xml:id="sc10-4_10195">"The old ethnic bugaboo refused to die," says
+               <p xml:id="sc10-4_10195">"The old ethnic bugaboo refused to die," says
 Trevino. "The fear is that now we have the numbers, something could
 set us off end we'd do un-American things."</p>
-            <p xml:id="sc10-4_10196">The numbers, as it happens, are elusive whether non-citizens as
+               <p xml:id="sc10-4_10196">The numbers, as it happens, are elusive whether non-citizens as
 well as citizens are included. "This is a new distinction,"
 says Trevino, "and reflects what people fear most about us-our
 sheer growth in number. If you count non-citizens, Texas will gain
 representation in the U.S. Congress and get more federal money. Yet
 there is a reluctance to recognize reality."</p>
-            <p xml:id="sc10-4_10197">Other evidence of fear and loathing among the Anglo population
+               <p xml:id="sc10-4_10197">Other evidence of fear and loathing among the Anglo population
 includes a negative reaction to funding for bilingual education and an
 overwhelming vote in favor of a non-binding measure on the Republican
 primary ballot in March to declare English as the state's official
 language.</p>
-            <p xml:id="sc10-4_10198">Just at a time when Hispanics could use strong direction, one of
+               <p xml:id="sc10-4_10198">Just at a time when Hispanics could use strong direction, one of
 the most important leaders, Willie Velasquez, has died
 prematurely. And Henry Cisneros, the mayor of San Antonio and widely
 considered the most important and visible Hispanic in the country, has
 put his political prospects on hold due to personal reasons which
 include the birth of a son with a congenital heart defect.</p>
-            <p xml:id="sc10-4_10199">Cisneros was considered a strong contender for the 1990 governor's
+               <p xml:id="sc10-4_10199">Cisneros was considered a strong contender for the 1990 governor's
 race until he ruled himself out. And with that exit went much of the
 visibility of the Hispanic plight. Cisneros was a constant reminder
 that there is a tide of Hispanics who are good for the country and who
@@ -1333,29 +1454,39 @@ spend money but who also need a good education, jobs and decent
 housing. Cisneros's Harvard education and matinee-idol good looks made
 him and thus fellow Hispanics more acceptable and less of a threat to
 Anglos than they might otherwise have been.</p>
-            <p xml:id="sc10-4_10200">"The Hispanic issue is still largely invisible," says
+               <p xml:id="sc10-4_10200">"The Hispanic issue is still largely invisible," says
 Trevino. "That just sets us up for a misunderstanding on where we
 should go as a state. With half our kids dropping out of school, what
 will the state have to look forward to when we're in the majority?
 There's going to be, and already is, a lot of anger on all
 sides."</p>
-            <p xml:id="sc10-4_10201">That same thought is uppermost in the mind of Reynaldo Garcia, who
+               <p xml:id="sc10-4_10201">That same thought is uppermost in the mind of Reynaldo Garcia, who
 became the first Hispanic to serve as a federal judge when appointed
 in 1961 by President John F. Kennedy. "Education is the only thing
 to get the people out of the cycle of poverty, but if it isn't close
 to home, they won't have it," he says. "If we're going to be in
 the majority, you'd better educate us." </p>
-          </div3>
-          <div3 xml:id="sc10-4_033" type="About">
-            <p xml:id="sc10-4_10202">Elaine Davenport is a reporter and producer who divides her time between Austin, Texas, and London, England</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc10-4_018" n="2" type="Article">
-          <head>Plutonium Politics: The Poisoning of South Carolina</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Carothers, Andre</reg><sic>Andre Carothers</sic></choice></name></docAuthor></byline>
-          <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 4-5, 8-11</docDate>
-          
-          <p xml:id="sc10-4_10203">It's not hard to attract attention at the Savannah River Plant, particularly if you are roaring along its southwestern boundary in a 250-horsepower speedboat, as we were, with a man in the bow training a telephoto lens on the far bank. Particularly since the private army that guards this nondescript
+            </div3>
+            <div3 xml:id="sc10-4_033" type="About">
+               <p xml:id="sc10-4_10202">Elaine Davenport is a reporter and producer who divides her time between Austin, Texas, and London, England</p>
+            </div3>
+         </div2>
+         <div2 xml:id="sc10-4_018" n="2" type="Article">
+            <head>Plutonium Politics: The Poisoning of South Carolina</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Carothers, Andre</reg>
+                        <sic>Andre Carothers</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1988-07">Vol. 10, No. 4, 1988, pp. 4-5, 8-11</docDate>
+            <interp>
+               <certainty ana="#T19" degree="49.7"/>
+            </interp>
+            <p xml:id="sc10-4_10203">It's not hard to attract attention at the Savannah River Plant, particularly if you are roaring along its southwestern boundary in a 250-horsepower speedboat, as we were, with a man in the bow training a telephoto lens on the far bank. Particularly since the private army that guards this nondescript
 stretch of South Carolina river is negotiating a new five-year, $300
 million contract. And especially since, after thirty years of working
 quietly behind a smokescreen of secrecy and deft public relations, the
@@ -1365,7 +1496,7 @@ millions of gallons of toxic and radioactive waste into the
 groundwater and veiled the southeastern United States in a radioactive
 mist-the business of making plutonium and tritium for nuclear
 bombs.</p>
-          <p xml:id="sc10-4_10204">So we weren't surprised by the uniformed guards that followed in a
+            <p xml:id="sc10-4_10204">So we weren't surprised by the uniformed guards that followed in a
 cowled speedboat. Or the sheriff's deputies who politely interrupted
 our lunch on the Georgia side of the river. But the helicopter, well,
 that seemed like a bit much, at least at first. But that was before I
@@ -1373,7 +1504,7 @@ began to understand the psychological state of South Carolina and its
 relationship with things nuclear, an uneasy alliance called
 "schizophrenic" by one local activist and "downright
 insane" by another.</p>
-          <p xml:id="sc10-4_10205">Today, South Carolina's once-invisible Savannah River Plant, like
+            <p xml:id="sc10-4_10205">Today, South Carolina's once-invisible Savannah River Plant, like
 its sister plant in Washington state and the entire U.S. government
 nuclear weapons complex, is under siege. Three decades of undercover
 production of plutonium and tritium have left South Carolina with more
@@ -1388,10 +1519,10 @@ be liable for anything that might go wrong. And South Carolina, the
 state that in the seventies was called "the most pro-nuclear state
 in the country" is now wondering if perhaps it hasn't been burned,
 forever.</p>
-          <p xml:id="sc10-4_10206">
-            <hi rend="bold">Origins of the SRP</hi>
-          </p>
-          <p xml:id="sc10-4_10208">If there had been a cultural historian on the staff after World War
+            <p xml:id="sc10-4_10206">
+               <hi rend="bold">Origins of the SRP</hi>
+            </p>
+            <p xml:id="sc10-4_10208">If there had been a cultural historian on the staff after World War
 II, the Truman administration might have had second thoughts about
 choosing South Carolina as the site for a multibillion dollar
 <soCalled>"bomb factory."</soCalled> This is the ultimate Southern
@@ -1409,14 +1540,14 @@ characteristically presented both faces. The invasion was at once
 condemned as a Truman plan to "import alien and northern
 voters," welcomed as an economic boon, and accepted with both
 pride and resignation as a patriotic duty.</p>
-          <p xml:id="sc10-4_10209">And so the Savannah River Plant (SRP) joined Washington's Hanford
+            <p xml:id="sc10-4_10209">And so the Savannah River Plant (SRP) joined Washington's Hanford
 Nuclear Reservation as one of two massive complexes supplying fuel for
 the nation's nuclear arsenal. E.I. DuPont de Nemours Company was asked
 by the government to run it. For more than thirty years, DuPont has
 reigned here, Washington's local emissary, managing state politics and
 opinion in a manner that mixed cloying summer camp paternalism with a
 Big Brother dictatorship.</p>
-          <p xml:id="sc10-4_10210">The <title>Savannah River Plant News</title>, an employee
+            <p xml:id="sc10-4_10210">The <title>Savannah River Plant News</title>, an employee
 newspaper published by DuPont, set the tone with reports on the
 softball scores of the teams carved from the facility's 15,000
 employees, the spotless safety record, the women's knitting club and
@@ -1424,14 +1555,14 @@ the latest promotions. DuPont tree specialists planted 40,000
 seedlings a day, turning the condemned farmland into the state's most
 productive tree farm. The happy family aura was pursued relentlessly
 and with great success.</p>
-          <p xml:id="sc10-4_10211">
-            <hi rend="bold">Slowly the Memory Faded</hi>
-          </p>
-          <p xml:id="sc10-4_10212">Local businesses championed DuPont's cause because the company
+            <p xml:id="sc10-4_10211">
+               <hi rend="bold">Slowly the Memory Faded</hi>
+            </p>
+            <p xml:id="sc10-4_10212">Local businesses championed DuPont's cause because the company
 pumped $350 million a year into the troubled rural
 economy. Politicians likewise rallied to the cause, in typical
 Southern fashion.</p>
-          <p xml:id="sc10-4_10213">Legend has it that one state senator's support for splitting the
+            <p xml:id="sc10-4_10213">Legend has it that one state senator's support for splitting the
 atom on the banks of the Savannah was guaranteed, "as long as he
 got his half." The editor of the plant's newspaper became editor
 of the nearby Aiken <title>Standard</title>, the town of New
@@ -1440,27 +1571,27 @@ faded. The mammoth construction site, with its five reactor complexes,
 230 miles of highway and 153 scattered dumps for toxic waste and
 radioactive debris blended chameleon-like into the porous, forgiving
 South Carolina soil.</p>
-          <p xml:id="sc10-4_10214">Soft-spoken, almost fragile, with an air of kindness and gentility
+            <p xml:id="sc10-4_10214">Soft-spoken, almost fragile, with an air of kindness and gentility
 that is almost unnerving, Bill Lawless seems at first a most unlikely
 whistleblower. But in fact, just five years ago, he was one of the
 first to come out. That's what they call it when someone breaks the
 code of silence and goes public with evidence of wrongdoing at the
 <soCalled>"Bomb Plant."</soCalled> They come out--like a debutante, or
 a refugee.</p>
-          <p xml:id="sc10-4_10215">Within a year of quitting his DOE post as project manager of the
+            <p xml:id="sc10-4_10215">Within a year of quitting his DOE post as project manager of the
 plant's Burial Ground, where radioactive waste and toxic chemicals are
 buried or poured into pits, Lawless decided to testify at the trial of
 a handful of protesters who had been arrested for trespassing at the
 plant gates. Lawless's testimony was the first revelation of the
 deceptive and unsafe practices that had remained secret since the
 1950s. It would not be the last.</p>
-          <p xml:id="sc10-4_10216">His most famous confession ("It always gets their
+            <p xml:id="sc10-4_10216">His most famous confession ("It always gets their
 attention," he told me) is about the cardboard boxes. Radioactive
 wastes that are not so concentrated or dangerous that they must be
 stored in double-walled tanks were buried in cardboard boxes. Not
 special, reinforced, double-lined cardboard boxes, just plain old
 cardboard boxes.</p>
-          <p xml:id="sc10-4_10217">Then he talked about the double set of books. DuPont and DOE, he
+            <p xml:id="sc10-4_10217">Then he talked about the double set of books. DuPont and DOE, he
 said, have two sets of information from which they analyze the rate at
 which toxic and radioactive wastes travel through the sandy soil into
 the groundwater. One set of statistics is drawn from the
@@ -1472,18 +1603,18 @@ labeled "draft" and thus protected from public requests under
 the Freedom of Information Act. And, most chilling of all, he talked
 about the waste contaminated with tritium and strontium-90 that was
 slowly leaking into groundwater.</p>
-          <p xml:id="sc10-4_10218">This was the first deviation from the model-the way things ought to
+            <p xml:id="sc10-4_10218">This was the first deviation from the model-the way things ought to
 be, according to DuPont and DOE-versus the way things actually
 were. DuPont had models for how radioactive elements would move in
 groundwater, how radiation would disperse over surrounding
 communities, how safety records should look and how Dupont employees
 should act. Things that didn't fit the model were not wrong, they just
 didn't exist.</p>
-          <p xml:id="sc10-4_10219">
-            <hi rend="bold">Growing Opposition to
+            <p xml:id="sc10-4_10219">
+               <hi rend="bold">Growing Opposition to
 Polluters</hi>
-          </p>
-          <p xml:id="sc10-4_10220">Thus, for DOE and DuPont, Lawless's testimony was more than just
+            </p>
+            <p xml:id="sc10-4_10220">Thus, for DOE and DuPont, Lawless's testimony was more than just
 treason, it was insanity. "People suffer from a form of cognitive
 dissonance at SRP," says Lawless, "They see things are wrong,
 but they are not supposed to be wrong, so they don't see
@@ -1493,7 +1624,7 @@ drinking water standard, but our own records showed levels a thousand
 times that. They said strontium-90 didn't move, and they said
 plutonium didn't move, but we found it happening. It just wasn't
 supposed to happen."</p>
-          <p xml:id="sc10-4_10222">"The people that work at SRP are normal human beings, and they
+            <p xml:id="sc10-4_10222">"The people that work at SRP are normal human beings, and they
 are great human beings, but there is a form of thought control
 here. If they tell you that things are sup-
 <pb xml:id="sc10-4_10221" n="8"/>
@@ -1501,12 +1632,12 @@ posed to look good, and they
 tell everyone else that things do look good, then you can't expect
 people to go against management and say it is not so. It took someone
 very naive, like me, to write it up."</p>
-          <p xml:id="sc10-4_10223">At the same time Bill Lawless was undergoing a crisis of conscience
+            <p xml:id="sc10-4_10223">At the same time Bill Lawless was undergoing a crisis of conscience
 about waste-handling inside the plant, citizens outside-from Columbia,
 Atlanta, Augusta, Savannah, and Charleston-were beginning to wonder
 about the wisdom of the region's increasingly irrevocable relationship
 with the atom.</p>
-          <p xml:id="sc10-4_10224">In the early seventies, Ruth Thomas founded Environmentalists,
+            <p xml:id="sc10-4_10224">In the early seventies, Ruth Thomas founded Environmentalists,
 Incorporated, hoping to organize legal challenges to the state's
 polluters. A few years later, Michael Lowe helped found the Palmetto
 Alliance, modeling it on New England's grass roots,
@@ -1514,7 +1645,7 @@ civil-disobedience-oriented Clamshell Alliance. These groups, in the
 words of Bob Alvarez, of the Washington-based Environmental Policy
 Institute, were the <soCalled>"midwives"</soCalled> of organized
 opposition to SRP.</p>
-          <p xml:id="sc10-4_10225">Oblivious to the growing opposition, the Defense Department and its
+            <p xml:id="sc10-4_10225">Oblivious to the growing opposition, the Defense Department and its
 partners in the commercial nuclear industry persisted with the rapid
 nuclearization of the state. In the late seventies, Allied Gulf
 Nuclear Services neared completion of a commercial reprocessing plant,
@@ -1522,7 +1653,7 @@ Barnwell Nuclear Fuel Plant, to recover plutonium and uranium from
 spent nuclear fuel. At the same time, Chem-Nuclear Services opened a
 low-level waste dump. Both were located in Barnwell County on the edge
 of the Savannah River Plant.</p>
-          <p xml:id="sc10-4_10226">The final indignity came with the election of Ronald
+            <p xml:id="sc10-4_10226">The final indignity came with the election of Ronald
 Reagan. Already, the aging nuclear weapons production plants were
 being pressed by outgoing President Jimmy Carter to increase
 production of tritium and plutonium, and Reagan pushed the schedule up
@@ -1530,16 +1661,16 @@ still further. Reagan's first "Stockpile Memorandum," the Defense
 Department's schedule for warhead construction (also known as "the
 shopping list"), set priorities for fifteen years instead of the usual
 eight, and proposed building 21,000 warheads inside of a decade.</p>
-          <p xml:id="sc10-4_10227">
-            <hi rend="bold">The 'Department of Bombs'</hi>
-          </p>
-          <p xml:id="sc10-4_10228">Meeting this demand would require restarting an old mothballed
+            <p xml:id="sc10-4_10227">
+               <hi rend="bold">The 'Department of Bombs'</hi>
+            </p>
+            <p xml:id="sc10-4_10228">Meeting this demand would require restarting an old mothballed
 reactor at Hanford and one at Savannah River. It would shift DOE's
 emphasis further into bomb-making, turning it, in the words of one
 weapons lab physicist, into "The Department of Bombs."
 "Carter restarted the engine of the nuclear weapons complex,"
 says Alvarez, "and Reagan put the pedal to the metal."</p>
-          <p xml:id="sc10-4_10230">With the rekindling of DOE's nuclear fires, South Carolina found
+            <p xml:id="sc10-4_10230">With the rekindling of DOE's nuclear fires, South Carolina found
 itself facing a brand new nuclear future, just as a handful of
 investigators were digging into what was 
 <pb xml:id="sc10-4_10229" n="9"/>
@@ -1552,7 +1683,7 @@ himself the owner of three shelves of bound SRP data. "It was a
 great collection of information. We could analyze their operations
 based on their actual numbers-the releases, everything-not the reports
 that they had prepared from the numbers."</p>
-          <p xml:id="sc10-4_10231">Once again, reality began to conflict with DuPont models. Based on
+            <p xml:id="sc10-4_10231">Once again, reality began to conflict with DuPont models. Based on
 the reams of raw data supplied by DOE, Alvarez and his colleagues at
 the Environmental Policy Institute pumped out analyses showing, among
 other things, that people in the area were getting radiation doses
@@ -1563,7 +1694,7 @@ than safety and common sense would suggest. They showed that a cloud
 of radioactivity that DOE alleges had drifted over from a Nevada test
 in March of 1955 was more likely the result of a serious release from
 the reactor area.</p>
-          <p xml:id="sc10-4_10232">They discovered a leukemia rate among workers twice what it should
+            <p xml:id="sc10-4_10232">They discovered a leukemia rate among workers twice what it should
 have been. They pointed out that if the U.S. Geological Survey was
 correct, and there was a decent, if slim, chance that the Charleston
 Earthquake of 1886 could repeat itself in Barnwell County, then a
@@ -1571,10 +1702,10 @@ rupture of the high-level waste tanks was likely. In that event, more
 than a billion curies of long-lived radio-isotopes would be released
 in the southeastern United States, making the fifty million-curie
 Chernobyl accident look like spilled milk.</p>
-          <p xml:id="sc10-4_10233">
-            <hi rend="bold">Whistleblowers' Revelations</hi>
-          </p>
-          <p xml:id="sc10-4_10234">Alvarez's revelations joined the criticisms of other courageous
+            <p xml:id="sc10-4_10233">
+               <hi rend="bold">Whistleblowers' Revelations</hi>
+            </p>
+            <p xml:id="sc10-4_10234">Alvarez's revelations joined the criticisms of other courageous
 whistle-blowers. After years of trying to encourage reform on the
 inside, Arthur Dexter, a DuPont physicist, went public in 1985 with a
 report on a leak from a building called the canyon, where the
@@ -1587,7 +1718,7 @@ that Dexter considers far from adequate. "An explosion would
 destroy the air filters, and some water could render those charcoal
 beds worthless," says Dexter, "And then you'd have radioactive
 iodine and other poisons pouring out of the building."</p>
-          <p xml:id="sc10-4_10235">Engineer Fred Christensen came forward to recount the story about
+            <p xml:id="sc10-4_10235">Engineer Fred Christensen came forward to recount the story about
 the time the reactor almost blew up about the frantic control room
 engineer who barked out, "close the rotor valves" to stem a
 cooling water leak on the reactor floor. Had he not been countermanded
@@ -1596,7 +1727,7 @@ off in a big whoof." Christensen's personal reactor safety plan,
 he confessed, involved using a pair of wire cutters he kept in his
 desk drawer to cut a beeline through SRP's fences-upwind from the
 meltdown.</p>
-          <p xml:id="sc10-4_10236">But it was Washington's imperious push to open the L-reactor that
+            <p xml:id="sc10-4_10236">But it was Washington's imperious push to open the L-reactor that
 finally broke the nuclear spell over South Carolina. "They
 basically said they were going to start up the reactor," says
 Michael Lowe, "but they didn't have to do an environmental impact
@@ -1605,12 +1736,12 @@ reactor, dump contaminants into the ground, heat up Steel Creek with
 cooling water to 150 degrees and add to the already enormous pile of
 sizzling radioactive wastes and say that there is no significant
 environmental impact-it's unbelievable."</p>
-          <p xml:id="sc10-4_10237">"What they were really saying is, 'Look, don't bother us with
+            <p xml:id="sc10-4_10237">"What they were really saying is, 'Look, don't bother us with
 your rules and regulations. We've got bombs to build.' And anyone
 who tried to stop them was 'working against the national
 interest.' well, people down here just don't like to be pushed
 around that way."</p>
-          <p xml:id="sc10-4_10238">Frances Close Hart, a member of one of the state's most prominent
+            <p xml:id="sc10-4_10238">Frances Close Hart, a member of one of the state's most prominent
 families, was one of those people. A Palmetto Alliance volunteer for a
 short time, she had just started her own group, the Energy Research
 Foundation, to pursue legal challenges to the bomb plant. Joining with
@@ -1619,7 +1750,7 @@ Energy for refusing to do an environmental impact statement. Soon they
 were joined by several regional environmental groups such as Georgia's
 Coastal Citizens For a Clean Environment and, halfway through the
 proceedings, by the state of South Carolina.</p>
-          <p xml:id="sc10-4_10239">Two years later, they had won the lawsuit and significantly delayed
+            <p xml:id="sc10-4_10239">Two years later, they had won the lawsuit and significantly delayed
 the L-reactor start-up. But they had also changed the tenor of South
 Carolina's plutonium politics. The damage to DOE and DuPont was far
 greater than the the two years in lost time and money. The state
@@ -1631,15 +1762,15 @@ tangible effect on the arms race," marveled Bob Alvarez. South
 Carolina, "the most pro-nuclear state in the country," had
 grown up. Or, as one South Carolina activist with a sense of history
 put it, "We returned to our roots."</p>
-          <p xml:id="sc10-4_10240">After Chernobyl, it was no longer just a dozen other activists
+            <p xml:id="sc10-4_10240">After Chernobyl, it was no longer just a dozen other activists
 against the Savannah River Plant. Suddenly, everyone was peering into
 the Department of Energy's military reactors to see whether the
 disaster upstream of Kiev could happen upstream of Savannah, or on the
 banks of the Columbia in Washington.</p>
-          <p xml:id="sc10-4_10241">
-            <hi rend="bold">A Crescendo of Self-Examination</hi>
-          </p>
-          <p xml:id="sc10-4_10242">The flurry of self-examination reached a crescendo in 1987. The
+            <p xml:id="sc10-4_10241">
+               <hi rend="bold">A Crescendo of Self-Examination</hi>
+            </p>
+            <p xml:id="sc10-4_10242">The flurry of self-examination reached a crescendo in 1987. The
 year opened with the revelation that the SRP reactors had been running
 at a power level beyond the capabilities of the cooling system, and
 the levels were reduced by a quarter. In January, a panel of experts
@@ -1647,7 +1778,7 @@ convened by the Department of Energy recommended that Hanford's
 N-reactor be closed for repairs; in an unusual dissenting opinion, two
 of the panel's members, including the chairman, called for it to be
 closed down forever. A year later, it would be.</p>
-          <p xml:id="sc10-4_10244">In March 1987, it was decided that the SRP reactors were still
+            <p xml:id="sc10-4_10244">In March 1987, it was decided that the SRP reactors were still
 cranked up too high, and power was cut by half. Six months later, a
 memo from a House Subcommittee revealed that DuPont personnel had shut
 down sprinkler systems in the tritium facility because they were more
@@ -1659,7 +1790,7 @@ report on the Savannah River Plant came out. The National Academy of
 Sciences is the government's reality check. It has been called in to
 look at the nuclear industry several times over the years, but never
 before has it turned in such a scathing report.</p>
-          <p xml:id="sc10-4_10245">The 67-page critique called the oversight of DOE "ingrown and
+            <p xml:id="sc10-4_10245">The 67-page critique called the oversight of DOE "ingrown and
 largely outside the scrutiny of the public." All the reactors at
 Savannah River Plant are subject to corrosion, cracks and "other
 symptoms of acute aging." Confirming Arthur Dexter's criticisms,
@@ -1668,19 +1799,19 @@ system"</soCalled> as unlikely to withstand the hydrogen explosion
 associated with an accident. Some sort of rigorous oversight is
 required, concluded the National Academy of Sciences, to bring the
 Department of Energy and its contractors under control. </p>
-          <p xml:id="sc10-4_10246">The Academy's report was released the morning of
+            <p xml:id="sc10-4_10246">The Academy's report was released the morning of
 Oct. 29,1987. Three hours later, DuPont announced that when its
 contract ran out at the end of 1989, it would leave.</p>
-          <p xml:id="sc10-4_10247">On the first of March, a Tuesday morning, I drove through the
+            <p xml:id="sc10-4_10247">On the first of March, a Tuesday morning, I drove through the
 Savannah River Plant on the state highway. At the entrance a guard
 checked the time, counted the number of people in the car and wrote
 the information on a card. I handed this card to another guard who
 looked me over when I came out, twenty miles down the road at the
 other side of the plant.</p>
-          <p xml:id="sc10-4_10248">
-            <hi rend="bold">'Security Means Jobs'</hi>
-          </p>
-          <p xml:id="sc10-4_10249">The scenery is pretty, mostly pine trees and the occasional soupy
+            <p xml:id="sc10-4_10248">
+               <hi rend="bold">'Security Means Jobs'</hi>
+            </p>
+            <p xml:id="sc10-4_10249">The scenery is pretty, mostly pine trees and the occasional soupy
 South Carolina marsh, broken by dozens of billboards that exhort the
 SRP employees: "Security Means Jobs," "Security is Your
 Business," and one curious admonition to "Play Safely."
@@ -1690,7 +1821,7 @@ morning. It amounted to approximately 20,000 curies, the result of an
 equipment malfunction. At no time was there any danger to the public,
 the reporter quoted a DuPont manager as saying; the exposure at the
 plant boundary would be far less than an average chest X-ray.</p>
-          <p xml:id="sc10-4_10250">It was difficult to feel reassured. I remembered Bill Lawless
+            <p xml:id="sc10-4_10250">It was difficult to feel reassured. I remembered Bill Lawless
 talking about how they pulled numbers out of the air. I wondered if
 the "exposure at the plant boundary" was calculated from one of
 the many computer-generated models DuPont had devised, based on the
@@ -1700,7 +1831,7 @@ the direction of the prevailing winds make a difference? The
 reassurance came so quickly from DuPont it had the mark of an oft-used
 and unthinking reflex, like arms raised to ward off a blow. [See news
 briefs; page 7.]</p>
-          <p xml:id="sc10-4_10251">Arthur Dexter says these plants are too dangerous for humans to
+            <p xml:id="sc10-4_10251">Arthur Dexter says these plants are too dangerous for humans to
 run. "You have to be perfect to do what they do there," he
 said, "and nobody's perfect. Eventually something will go
 wrong." DuPont wanted to be perfect, so much so that it put an
@@ -1708,7 +1839,7 @@ elaborate false front on the messy business of making bombs in South
 Carolina and painted a picture of a gleaming technological wonderland
 where nothing went wrong, where the only news allowed was good
 news. Such illusions, they found, become brittle with age.</p>
-          <p xml:id="sc10-4_10252">Compared to the half-life of some of the nuclear particles in its
+            <p xml:id="sc10-4_10252">Compared to the half-life of some of the nuclear particles in its
 soil, South Carolina's infatuation with the atom was vanishingly
 brief. Like a giant sponge, the sandy soil will hold the millions of
 gallons of contaminated water from SRP indefinitely. To clean up the
@@ -1719,7 +1850,7 @@ turned into glass and stored permanently, a dangerous and decades-long
 process. And many people are convinced that what we have learned about
 SRP's dangerous legacy in the last eight years is only a small part of
 the story.</p>
-          <p xml:id="sc10-4_10253">But the Defense Department is poised to begin again, evoking
+            <p xml:id="sc10-4_10253">But the Defense Department is poised to begin again, evoking
 national security to support its demands for a new set of
 multi-billion plutonium and tritium production complexes. South
 Carolina is at the top of the list, but I doubt it will be so
@@ -1731,40 +1862,40 @@ and for a while, we forgot to take care of ourselves," says
 Michael Lowe. "Now, I don't know if we'll ever think about our
 country's security in the same way again. It's taken on anew meaning
 down here. It's a lot closer to home now."</p>
-          <p xml:id="sc10-4_10254">David Albright, a physicist with the Federation of American
+            <p xml:id="sc10-4_10254">David Albright, a physicist with the Federation of American
 Scientists, has devoted years of poring over documents, radiation
 release reports and budget requests to answer two questions: how much
 plutonium and tritium do the United States and Soviet Union have, and
 how much do they need?</p>
-          <p xml:id="sc10-4_10256">The questions are important ones, because although the
+            <p xml:id="sc10-4_10256">The questions are important ones, because although the
 U.S. plutonium and tritium production reactors are dangerously
 dilapidated, the Pentagon insists on running them. At 
 <pb xml:id="sc10-4_10255" n="11"/>
 the same time
 the military is also demanding up to $10 billion to construct a new
 production reactor.</p>
-          <p xml:id="sc10-4_10257">The most annoying aspect of the problem is that the U.S. government
+            <p xml:id="sc10-4_10257">The most annoying aspect of the problem is that the U.S. government
 refuses to outline its needs. In fact, it has lied. "In the past,
 the DOE has dramatically overprojected its needs for plutonium
 production for new warheads," says Albright, "and the amount we
 have is barely a secret. Certainly the Soviets are familiar with
 it."</p>
-          <p xml:id="sc10-4_10258">When DOE Secretary John Herrington admitted last February that the
+            <p xml:id="sc10-4_10258">When DOE Secretary John Herrington admitted last February that the
 U.S. is "awash with plutonium," contradicting years of pleas
 for more production, he did not reinforce DOE's reputation for
 honesty. "If we can't believe the Department of Energy's statements
 about plutonium," says Greenpeace nuclear campaigner Jim Beard,
 "how can we believe it when they say we need a new production
 reactor?"</p>
-          <p xml:id="sc10-4_10259">
-            <hi rend="bold">More Plutonium Production Not Needed</hi>
-          </p>
-          <p xml:id="sc10-4_10260">Albright and his colleagues have come up with a number of for the
+            <p xml:id="sc10-4_10259">
+               <hi rend="bold">More Plutonium Production Not Needed</hi>
+            </p>
+            <p xml:id="sc10-4_10260">Albright and his colleagues have come up with a number of for the
 U.S. stockpile of plutonium-about 10,000 kilograms-and he thinks the
 Soviet Union has about the same. Since plutonium can be recycled from
 old weapons and essentially last forever, most analysts agree that
 more production is not needed.</p>
-          <p xml:id="sc10-4_10261">Last November, a coalition* of experts and groups, including former
+            <p xml:id="sc10-4_10261">Last November, a coalition* of experts and groups, including former
 CIA head William Colby, SALT I negotiator Gerard Smith, former Arms
 Control and Disarmament Agency head Paul Warnke, and MIT President
 Emeritus Jerome Wiesner, circulated the "Plutonium Challenge,"
@@ -1772,7 +1903,7 @@ calling for a two-year ban on plutonium production. According to Frank
 von Hippel of the Woodrow Wilson School of Public and International
 Affairs, Yevgeny Velikhov, head of the Soviet Academy of Sciences and
 top Gorbachev adviser, favors the idea.</p>
-          <p xml:id="sc10-4_10262">Tritium represents another problem. Used since the mid- fifties to
+            <p xml:id="sc10-4_10262">Tritium represents another problem. Used since the mid- fifties to
 boost the explosive power of nuclear warheads, tritium decays-its
 half-life is about twelve years. Tritium's short lifespan means that,
 without a steady resupply of the material, most nuclear warheads in
@@ -1782,7 +1913,7 @@ and arms control groups, while loath to support the construction of a
 new production reactor, find it hard to oppose a steady tritium supply
 in the face of arguments for "maintaining deterrence." As
 Albright says, "tritium erodes political alliances."</p>
-          <p xml:id="sc10-4_10263">But for some the question is not hard to answer. "I say we shut
+            <p xml:id="sc10-4_10263">But for some the question is not hard to answer. "I say we shut
 the facilities down. They are just too dangerous," says physicist
 Arthur Dexter, who for three decades worked for the Department of
 Energy at the Argonne Laboratory and then at the Savannah River
@@ -1791,16 +1922,20 @@ agrees: "Ensuring environmental health and safety requires that
 plutonium and tritium production stop. If this means the Soviet Union
 and the United States have to start thinking seriously about
 disarmament, then so be it." </p>
-          <p xml:id="sc10-4_10264">The Federation of American
+            <p xml:id="sc10-4_10264">The Federation of American
 Scientists, Greenpeace, the Environmental Policy Institute, the Energy
 Research Foundation, Friends of the Earth, the Natural Resources
 Defense Council, Physicians for Social Responsibility, and the Union
 of Concerned Scientists.</p>
-          <div3 xml:id="sc10-4_038" type="About">
-            <p xml:id="sc10-4_10265">Andre Carothers is editor of <title>Greenpeace Magazine</title>.</p>
-          </div3>
-        </div2>
+            <div3 xml:id="sc10-4_038" type="About">
+               <p xml:id="sc10-4_10265">Andre Carothers is editor of <title>Greenpeace Magazine</title>.</p>
+            </div3>
+         </div2>
       </div1>
-    </body>
-  </text>
+      <body>
+         <back>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="interp.xml"/>
+         </back>
+      </body>
+   </text>
 </TEI>
