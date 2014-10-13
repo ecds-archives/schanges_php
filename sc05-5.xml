@@ -1,19 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc05-5_1204">
-  <teiHeader xml:id="sc05-51201"><fileDesc>
-      <titleStmt>
-        <title>Southern Changes.  Volume 5, Number 5</title>
-        <respStmt>
-          <resp>Compiled and edited by</resp>
-          <name>staff</name>
-        <name/></respStmt>
-      </titleStmt>
-      <extent/>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace><address>
-          <addrLine>Atlanta,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc05-5_1204">
+   <teiHeader xml:id="sc05-51201">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 5, Number 5</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
 Georgia</addrLine>
-        </address><idno type="ark" n="sc05-5_002">http://pid.emory.edu/ark:/25593/14907</idno><idno type="ark" n="sc05-5_sc05-6003">http://pid.emory.edu/ark:/25593/1491c</idno><idno type="ark" n="sc05-5_004">http://pid.emory.edu/ark:/25593/1492h</idno><idno type="ark" n="sc05-5_005">http://pid.emory.edu/ark:/25593/1493n</idno><idno type="ark" n="sc05-5_006">http://pid.emory.edu/ark:/25593/1494s</idno><idno type="ark" n="sc05-5_007">http://pid.emory.edu/ark:/25593/1495x</idno><idno type="ark" n="sc05-5_008">http://pid.emory.edu/ark:/25593/14962</idno><idno type="ark" n="sc05-5_009">http://pid.emory.edu/ark:/25593/14976</idno><availability>
-          <p xml:id="sc05-5_101">1996 Emory
+            </address>
+            <idno type="ark" n="sc05-5_002">http://pid.emory.edu/ark:/25593/14907</idno>
+            <idno type="ark" n="sc05-5_sc05-6003">http://pid.emory.edu/ark:/25593/1491c</idno>
+            <idno type="ark" n="sc05-5_004">http://pid.emory.edu/ark:/25593/1492h</idno>
+            <idno type="ark" n="sc05-5_005">http://pid.emory.edu/ark:/25593/1493n</idno>
+            <idno type="ark" n="sc05-5_006">http://pid.emory.edu/ark:/25593/1494s</idno>
+            <idno type="ark" n="sc05-5_007">http://pid.emory.edu/ark:/25593/1495x</idno>
+            <idno type="ark" n="sc05-5_008">http://pid.emory.edu/ark:/25593/14962</idno>
+            <idno type="ark" n="sc05-5_009">http://pid.emory.edu/ark:/25593/14976</idno>
+            <availability>
+               <p xml:id="sc05-5_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -21,38 +36,72 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability><date>1996</date></publicationStmt>
-      <seriesStmt>
-        <title>Southern Changes Digital Archive</title>
-      </seriesStmt>
-      <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date when="1983-10">October-November 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
-      </sourceDesc>
-    </fileDesc><encodingDesc><projectDesc>
-        <p xml:id="sc05-5_102">This text is produced in conjunction with the
+            </availability>
+            <date>1996</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Digital Archive</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Southern Changes</title>. <biblScope type="volume">Volume 5</biblScope>, <biblScope type="issue">Number 5</biblScope>. <date when="1983-10">October-November 1983</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:id="sc05-5_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-      </projectDesc>
-            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
-  <text xml:id="sc05-5_1203">
-    <body xml:id="sc05-5_1202">
+         </projectDesc>
+         <refsDecl>
+            <p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date>
+         </change>
+         <change>
+            <date>1998</date>
+            <label>Staff</label>
+            <name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change>
+         <change>
+            <date>2007</date>
+            <label>Electronic text specialist</label>
+            <name>Alice Hickcox</name>text in div2/@n replaced with number</change>
+         <change>
+            <date>April 2008</date>
+            <label>Electronic Text Specialist</label>
+            <name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:id="sc05-5_1203">
       <div1 xml:id="sc05-5_001" n="Southern Changes 5:5" type="Issue">
-        <head>Southern Changes.  Volume 5, Number 5, 1983</head>
-        <p xml:id="sc05-5_103"><title>Southern Changes</title>.  Volume 5, Number 5,
-	       <date when="1983-10">1983</date></p>
-        <div2 xml:id="sc05-5_002" n="2" type="Article">
-          <head>Checking the Teeth of Change</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
-          
-          <p xml:id="sc05-5_104">The obvious changes in Southern politics usually deserve our most
+         <head>Southern Changes.  Volume 5, Number 5, 1983</head>
+         <p xml:id="sc05-5_103">
+            <title>Southern Changes</title>.  Volume 5, Number 5,
+	       <date when="1983-10">1983</date>
+         </p>
+         <div2 xml:id="sc05-5_002" n="2" type="Article">
+            <head>Checking the Teeth of Change</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Suitts, Steve</reg>
+                        <sic>Steve Suitts</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, p. 6</docDate>
+            <p xml:id="sc05-5_104">The obvious changes in Southern politics usually deserve our most
 intense suspicions, and Mississippi's recent democratic primary
 election for the state legislature is only the most recent reminder of
 this truism.</p>
-          <p xml:id="sc05-5_105">After fifteen years of litigation, the Mississippi legislature was
+            <p xml:id="sc05-5_105">After fifteen years of litigation, the Mississippi legislature was
 forced by federal court order to redistrict in 1979. The redistricting
 plan created twenty-nine house districts and sixteen senate districts
 of more than fifty percent black population. Compared to the four
@@ -60,26 +109,26 @@ blacks who were then sitting with a hundred and seventy white
 colleagues in the state legislature, the redistricting change prompted
 one black newspaper in the state to proclaim "a political revolution
 not witnessed in over a century."</p>
-          <p xml:id="sc05-5_106">In 1979 a total of seventeen blacks were elected to the Mississippi
+            <p xml:id="sc05-5_106">In 1979 a total of seventeen blacks were elected to the Mississippi
 legislature. Earlier this year twenty-one were nominated in democratic
 primaries and will probably be elected in early November. But in 1984
 there will still be twice as many majority black districts as there
 will be black legislators in Mississippi. While these changes are
 meaningful, Mississippi appears to have witnessed only half a
 political revolution.</p>
-          <p xml:id="sc05-5_107">"Not so," I was told, during my last trip to Mississippi, by a
+            <p xml:id="sc05-5_107">"Not so," I was told, during my last trip to Mississippi, by a
 young white lawyer who considers himself both politically
 sophisticated and color blind. Commenting after three years spent away
 from the state in an East coast law school, he said: "We have had a
 revolution. Racial politics is almost dead in this state. Blacks don't
 need to vote for a black face every time. They will vote for whites
 who represent them and that's a real political change ...."</p>
-          <p xml:id="sc05-5_108">Some, however, see it differently. Robert Jackson, a young black
+            <p xml:id="sc05-5_108">Some, however, see it differently. Robert Jackson, a young black
 with the Quitman County Development Organization, said, "we should
 have the right to select our own leaders but are being hampered by not
 having a fair chance at the ballot box. We are sick and tired of
 whites choosing our leaders for us."</p>
-          <p xml:id="sc05-5_109">While the interpretation of what has happened in Mississippi
+            <p xml:id="sc05-5_109">While the interpretation of what has happened in Mississippi
 elections is not at all obvious, the plain fact is that black
 candidates ran and lost in more than forty-five majority black
 legislative districts in the Democratic primary this summer. Some
@@ -89,7 +138,7 @@ victory is not simon-pure evidence of the end of racial politics in
 Mississippi (see Bill Minor's article in this issue). In addition,
 several tainted factors continue to deny black people equal footing at
 the ballot box.</p>
-          <p xml:id="sc05-5_1010">Some Mississippi counties have dual sites for registration. The
+            <p xml:id="sc05-5_1010">Some Mississippi counties have dual sites for registration. The
 places of registration still remain distant to most voters and are
 open at infrequent times. In the rural Delta of Mississippi, for
 example, the average black citizen must lose part of a day's work and
@@ -99,7 +148,7 @@ than whites have difficulty in leaving their work to register and,
 because substantially fewer have automobiles, blacks find it more
 difficult to travel long distances to the polls and to registration
 sites.</p>
-          <p xml:id="sc05-5_1011">The election-day turnout is also a factor in Mississippi election
+            <p xml:id="sc05-5_1011">The election-day turnout is also a factor in Mississippi election
 results. Blacks continue to turn out for elections in smaller
 percentages than whites. Lack of transportation is one reason. Another
 important reason, often overlooked, is historical: the average black
@@ -108,11 +157,11 @@ opportunity to vote in only three or four presidential
 elections. Blacks in Mississippi thus have only a short tradition of
 political participation to help them overcome real or remembered acts
 of intimidation for voting.</p>
-          <p xml:id="sc05-5_1012">These explanations prompt an almost universal response from white
+            <p xml:id="sc05-5_1012">These explanations prompt an almost universal response from white
 rural legislators from Virginia to Mississippi: "What more do they
 want? The courts have given blacks majority of the population in the
 districts."</p>
-          <p xml:id="sc05-5_1013">Here lies the common misunderstanding and misrepresentation about
+            <p xml:id="sc05-5_1013">Here lies the common misunderstanding and misrepresentation about
 redistricting in the South. In Mississippi, what appears to be a
 majority black district often is not. Blacks have a majority of the
 total population in the Mississippi senate district that includes
@@ -123,7 +172,7 @@ points because of the difference between the percentage of the general
 population of voting age and the percentage of blacks who are of
 voting age. Hence a fifty-four percent black district is in fact a
 forty-seven percent black district of voting age population.</p>
-          <p xml:id="sc05-5_1014">Black voting strength may be further reduced by another seven
+            <p xml:id="sc05-5_1014">Black voting strength may be further reduced by another seven
 percentage points because of the difference in registration between
 blacks and whites. Here, the problem of dual registration, distance,
 and a short history of political participation take their toll. Thus a
@@ -136,23 +185,33 @@ percentage points is why civil rights lawyers active in voting cases
 often assume that a legislative district that is less than sixty-five
 percent black is not a district where the black population has a
 majority of those voting.</p>
-          <p xml:id="sc05-5_1015">Misunderstanding the nature of change in the region's politics is
+            <p xml:id="sc05-5_1015">Misunderstanding the nature of change in the region's politics is
 one of the ancient temptations. With peculiar legalisms and political
 shorthand, the nature of political change is also easily manipulated
 in the public understanding. The folk wisdom, "the more things change,
 the more they stay the same," is worth remembering in these days of
 changing Southern politics.</p>
-          <div3 xml:id="sc05-5_022" type="About">
-            <p xml:id="sc05-5_1016">Steve Suitts is the executive director of the Southern
+            <div3 xml:id="sc05-5_022" type="About">
+               <p xml:id="sc05-5_1016">Steve Suitts is the executive director of the Southern
 Regional Council.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_sc05-6003" n="4" type="Article">
-          <head>Drawing the Lines: A Reapportionment Primer</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Sherman, Brian</reg><sic>Brian Sherman</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
-          
-          <p xml:id="sc05-5_1017">Reapportionment occurs, or at least should occur, every ten
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_sc05-6003" n="4" type="Article">
+            <head>Drawing the Lines: A Reapportionment Primer</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Sherman, Brian</reg>
+                        <sic>Brian Sherman</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 12-18</docDate>
+            <interp>
+               <certainty ana="#T01" degree="56"/>
+            </interp>
+            <p xml:id="sc05-5_1017">Reapportionment occurs, or at least should occur, every ten
 years--when the results of the population census are released. Three
 years after the 1980 census, some jurisdictions (states, counties,
 municipalities) have not yet completed their reapportionment
@@ -162,13 +221,13 @@ the Southern Regional Council have continued to review reapportionment
 plans of state and local governmental bodies in the South, to assist
 community groups who are fighting discriminatory plans and to develop,
 upon request, alternative plans.</p>
-          <p xml:id="sc05-5_1018">Many jurisdictions in the South persist in using reapportionment as
+            <p xml:id="sc05-5_1018">Many jurisdictions in the South persist in using reapportionment as
 a means to prevent blacks and other minorities from full political
 participation. Blacks tend to be severely underrepresented at every
 level of government. There are still many counties and cities where
 blacks constitute a majority of the voting-age population but whose
 elected officials remain all white.</p>
-          <p xml:id="sc05-5_1020">Most visibly, there are no black governors and no black
+            <p xml:id="sc05-5_1020">Most visibly, there are no black governors and no black
 U.S. senators. Only two blacks--one from Texas, the other from
 Tennessee--sit in Southern delegations to the House of
 Representatives. Only 5.9 percent of the members of state legislatures
@@ -180,10 +239,10 @@ states have black mayors. Invariably, blacks win
 election only in jurisdictions or districts which are clearly majority
 black and only after they have overcome various impediments placed by
 established white power structures.</p>
-          <p xml:id="sc05-5_1021">In recent years, the major obstacle to black representation has
+            <p xml:id="sc05-5_1021">In recent years, the major obstacle to black representation has
 been white bloc voting in combination with either at-large or unfairly
 apportioned election districts.</p>
-          <p xml:id="sc05-5_1022">In developing standards for enforcement of the Voting Rights Act,
+            <p xml:id="sc05-5_1022">In developing standards for enforcement of the Voting Rights Act,
 the U.S Department of Justice (DOJ) has come to recognize that, at
 present, the only blacks will win representation is by election in
 districts which are majority black. Consequently, DOJ has defined a
@@ -193,7 +252,7 @@ blacks in the population. If a county, for example, has a five-member
 elected commission and a population which is 41.6 percent black, a
 fair plan will provide for two of the five districts (forty percent)
 to be majority black.</p>
-          <p xml:id="sc05-5_1023">The Department of Justice defines a "majority black district" as
+            <p xml:id="sc05-5_1023">The Department of Justice defines a "majority black district" as
 one whose population is at least sixty-five percent black. This figure
 takes into account the greater percentage of blacks than whites in a
 jurisdiction's population who are under voting age and the fact that
@@ -204,13 +263,13 @@ to be able to leave work to register, less likely to have
 transportation to distant registration and polling sites and less
 likely to be members of special interest groups which have the money
 to mobilize their members.</p>
-          <p xml:id="sc05-5_1024">In addition, the legacy of terror and oppression to which blacks
+            <p xml:id="sc05-5_1024">In addition, the legacy of terror and oppression to which blacks
 have been subjected is perpetuated by intimidation, threats and other
 abuses. Many thwarting devices remain. Inaccessible registration sites
 and polling places, uncooperative registrars, menacing poll-watchers,
 discriminatory purges of the voting rolls and absentee ballot abuse
 are some of the most frequent obstacles faced by blacks.</p>
-          <p xml:id="sc05-5_1025">Since 1965 all of six Southern states (Alabama, Georgia, Louisiana,
+            <p xml:id="sc05-5_1025">Since 1965 all of six Southern states (Alabama, Georgia, Louisiana,
 Mississippi, South Carolina, Virginia) and parts of three others
 (Florida, North Carolina, and Texas) as well as all of the counties
 and municipalities in them, have been required by Section Five of the
@@ -222,7 +281,7 @@ Justice agrees, the change is <hi rend="italic">precleared</hi> and can
 go into effect; if it is considered discriminatory, the Assistant
 Attorney General for Civil Rights will write an "objection letter"
 informing the jurisdiction that the plan is not precleared.</p>
-          <p xml:id="sc05-5_1026">When a jurisdiction receives an objection letter, it should
+            <p xml:id="sc05-5_1026">When a jurisdiction receives an objection letter, it should
 withdraw the proposed change and offer a new, non-discriminatory, plan
 to the Department of Justice. Ideally, blacks will be included in
 discussions leading to the development of a new plan. They will
@@ -231,7 +290,7 @@ is arrived at because whites realize they will be vulnerable to a
 lawsuit unless a fair plan is developed. Predictably, if a plan has
 received the support of both blacks and whites in the jurisdiction,
 Justice will preclear it.</p>
-          <p xml:id="sc05-5_1027">Often however, white leaders will refuse to negotiate with
+            <p xml:id="sc05-5_1027">Often however, white leaders will refuse to negotiate with
 blacks. Some jurisdictions make no changes even after receiving an
 objection from Justice. Other jurisdictions don't even bother to
 submit their plans for preclearance at all. In either case, the plan
@@ -241,7 +300,7 @@ reapportionment process. Local black leaders who have carefully
 monitored the reapportionment process and find a proposed change to be
 discriminatory often have to initiate litigation in order to stop a
 discriminatory plan from going into effect.</p>
-          <p xml:id="sc05-5_1028">There are some three thousand jurisdictions in the South with
+            <p xml:id="sc05-5_1028">There are some three thousand jurisdictions in the South with
 significantly large black populations. Even a Department of Justice
 with officials at every level who are determined to enforce the Voting
 Rights Act would have a difficult time assessing all of these plans
@@ -255,7 +314,7 @@ to the case may see no reason to believe the plan may be
 discriminatory. Having only sixty days to review the plan, the
 official may find no justification for any other action besides
 preclearance.</p>
-          <p xml:id="sc05-5_1029">The attitude of the President and the Justice Department is
+            <p xml:id="sc05-5_1029">The attitude of the President and the Justice Department is
 critical. An obviously discriminatory plan may still be precleared if
 the Justice Department has other things on its mind. This was the case
 after the 1970 census when the Department, under the direction of
@@ -269,7 +328,7 @@ discriminatory plans were allowed to stand throughout the
 South. Blacks continued to be underrepresented throughout the 1970s
 and had to wait until after the 1980 census for their next opportunity
 for electoral fairness.</p>
-          <p xml:id="sc05-5_1031">Supporters of fair reapportionment increased their 
+            <p xml:id="sc05-5_1031">Supporters of fair reapportionment increased their 
 <pb xml:id="sc05-5_1030" n="14"/>
 political
 sophistication and organization during the 1970s, hopeful of
@@ -277,7 +336,7 @@ implementing fair plans for the 1980 census. Unfortunately, in many
 instances, Reagan and his appointees to the Department of Justice
 displayed as little sympathy and understanding of fairness during
 their first two years in office as had Nixon and his appointees.</p>
-          <p xml:id="sc05-5_1032">Early in 1983 however, the supporters of fair plans began to notice
+            <p xml:id="sc05-5_1032">Early in 1983 however, the supporters of fair plans began to notice
 a shift in the way Justice reacted to the submissions for
 preclearance. The DOJ has written objections to a greater proportion
 of the plans during the past year than in the previous two. Perhaps
@@ -286,10 +345,10 @@ he is sympathetic to the proponents of continued racism. Yet, some
 fear that if Reagan is re-elected, he and his supporters will abandon
 any attempt to appear sympathetic to the development of fair
 reapportionment plans.</p>
-          <p xml:id="sc05-5_1033">
-            <hi rend="bold">A Gazetteer of Inequality</hi>
-          </p>
-          <p xml:id="sc05-5_1034">A fair reapportionment plan is one which, following the "one
+            <p xml:id="sc05-5_1033">
+               <hi rend="bold">A Gazetteer of Inequality</hi>
+            </p>
+            <p xml:id="sc05-5_1034">A fair reapportionment plan is one which, following the "one
 person, one vote" principle, gives every significant population group
 the opportunity to elect representatives of its own choice. Each
 district should contain more or less the same number of
@@ -300,34 +359,39 @@ as a major highway or river. It should be contiguous, not chopped into
 more than one part (an example of a non-contiguous district is
 Louisiana's St. Martin Parish in the south-central portion of the
 state).</p>
-          <p xml:id="sc05-5_1035">The most common techniques used by incumbent white elites to
+            <p xml:id="sc05-5_1035">The most common techniques used by incumbent white elites to
 prevent the development of fair reapportionment plans are <hi rend="italic">dilution, packing, gerrymandering, packaging</hi> and <hi rend="italic">rationalization</hi>.</p>
-          <p xml:id="sc05-5_1036"><hi rend="italic">Dilution</hi> fragments concentrations of black
+            <p xml:id="sc05-5_1036">
+               <hi rend="italic">Dilution</hi> fragments concentrations of black
 residents into as many districts as possible so that no one district
 has a sufficiently large black vote.</p>
-          <p xml:id="sc05-5_1037"><hi rend="italic">Packing</hi> puts as many blacks as possible into
+            <p xml:id="sc05-5_1037">
+               <hi rend="italic">Packing</hi> puts as many blacks as possible into
 as few districts as possible. Packing often occurs when the white
 power structure realizes that the proportion of blacks in a
 jursidiction's population is so large that it will be impossible to
 draw a plan without at least one majority black district.</p>
-          <p xml:id="sc05-5_1038"><hi rend="italic">Gerrymandering</hi> distorts the shape of a
+            <p xml:id="sc05-5_1038">
+               <hi rend="italic">Gerrymandering</hi> distorts the shape of a
 district, abandoning the ideal of compactness to create a district
 whose voting majority supports the incumbent power-holders.</p>
-          <p xml:id="sc05-5_1039"><hi rend="italic">Packaging</hi> is resorted to when a jurisdiction
+            <p xml:id="sc05-5_1039">
+               <hi rend="italic">Packaging</hi> is resorted to when a jurisdiction
 that has developed an unfair plan tries to present it publicly and to
 the Department of Justice in such a way as to fool potential
 critics. Some jurisdictions hire specialists who put the plan in a
 slick form--perhaps as a booklet with charts, tables, maps and other
 details. Packaging may also include outright lying.</p>
-          <p xml:id="sc05-5_1040"><hi rend="italic">Rationalization</hi> involves the submission of an
+            <p xml:id="sc05-5_1040">
+               <hi rend="italic">Rationalization</hi> involves the submission of an
 unfair plan while claiming that for some reason or other, it should be
 accepted by the DOJ anyway. One form of rationalization argues that
 the proposed plan uses districts which are already in place for
 another purpose.</p>
-          <p xml:id="sc05-5_1041">The Department of Justice and the courts follow a number of
+            <p xml:id="sc05-5_1041">The Department of Justice and the courts follow a number of
 criteria in assessing whether or not a plan is fair. Included are <hi rend="italic">retrogression, intent, effects and totality of
 circumstances</hi>.</p>
-          <p xml:id="sc05-5_1043">Examining a plan for <hi rend="italic">retrogression</hi> involves making a comparison to
+            <p xml:id="sc05-5_1043">Examining a plan for <hi rend="italic">retrogression</hi> involves making a comparison to
 see if the percentage of majority black districts in the proposed plan
 is fewer than in the existing plan. If so, then the DOJ will
 invariably object to it. In 1981 and '82, retrogressive plans were the
@@ -339,21 +403,22 @@ in many jurisdictions with sizable black populations still do not have
 the opportunity to elect any representatives of their choice. Barring
 litigation, they will have to wait until after the 1990 census and for
 a more sympathetic administration.
-<pb xml:id="sc05-5_1042" n="15"/></p>
-          <p xml:id="sc05-5_1044">The criterion of <hi rend="italic">intent</hi> involves documentation of the intention to
+<pb xml:id="sc05-5_1042" n="15"/>
+            </p>
+            <p xml:id="sc05-5_1044">The criterion of <hi rend="italic">intent</hi> involves documentation of the intention to
 develop a plan which discriminates against blacks. These days, only a
 few politicians are as publicly bold as the chair of Georgia's
 legislative reapportionment committee who vowed, during this past
 year's congressional redistricting process, not to support the
 creation of even one "nigger district" in the state.</p>
-          <p xml:id="sc05-5_1045">To demonstrate intent in the absence of blatant public
+            <p xml:id="sc05-5_1045">To demonstrate intent in the absence of blatant public
 pronouncements requires documentation of a history of repeated
 attempts to thwart minority groups' efforts for a fair plan. A case
 for intent can be built out of such evidence as failure to hold public
 meetings, failure to give serious attention to plans presented by
 black community groups, failure to submit plans for preclearance and
 the continued use of such devices as dilution and packing.</p>
-          <p xml:id="sc05-5_1046">It is much easier to establish that a proposed reapportionment plan
+            <p xml:id="sc05-5_1046">It is much easier to establish that a proposed reapportionment plan
 will have the <hi rend="italic">effect</hi> of discriminating against
 blacks than it is to prove <hi rend="italic">intent</hi>. Until
 recently, however, the DOJ did not consider this a sufficient basis
@@ -365,14 +430,14 @@ the Voting Rights Act was strengthened to make it easier for Justice
 to object to plans having discriminatory effects. And, throughout 1983
 there has been a perceptible movement in the DOJ towards more frequent
 objections on these grounds.</p>
-          <p xml:id="sc05-5_1047">The criteria of <hi rend="italic">retrogression, intent</hi> and <hi rend="italic">effect</hi> are all relatively specific in the data and
+            <p xml:id="sc05-5_1047">The criteria of <hi rend="italic">retrogression, intent</hi> and <hi rend="italic">effect</hi> are all relatively specific in the data and
 analysis they require: Are blacks worse off under the proposed plan
 than they were under the existing plan? If so, then the plan is
 retrogressive. Did designers intend a discriminatory plan? Will the
 consequences of the plan be such that the black electorate will not
 have fair representation? If yes, then the plan's effect may be
 assessed as discriminatory.</p>
-          <p xml:id="sc05-5_1048">There is yet another criterion, not as specific as the preceding
+            <p xml:id="sc05-5_1048">There is yet another criterion, not as specific as the preceding
 three, but one that can be used to argue against unfair
 plans. Designated by the legalistic term <hi rend="italic">totality of
 circumstances</hi>, this criterion involves a much more extensive
@@ -386,7 +451,7 @@ they taken seriously? More generally, one can ask: How have whites
 responded to black efforts at increased political participation? How
 have white leaders responded to black attempts to mitigate the effects
 of the legacy of segregation and racism?</p>
-          <p xml:id="sc05-5_1049">Answers to many of these questions often come from the personal
+            <p xml:id="sc05-5_1049">Answers to many of these questions often come from the personal
 archives kept by many blacks involved in struggles for fair
 treatment. Their letters, leaflets, clippings, old maps, lists tables,
 charts, etc., provide a wealth of details not only about their
@@ -394,10 +459,10 @@ particular situations "but about the operation of power in their
 jurisdictions. Information from these archives along with interviews
 and quantitative data from a variety of sources can be combined into a
 powerful analysis of the level of local discrimination.</p>
-          <p xml:id="sc05-5_1050">
-            <hi rend="bold">Four Recent Cases</hi>
-          </p>
-          <p xml:id="sc05-5_1051">Each of the following cases. all from 1983, involve a
+            <p xml:id="sc05-5_1050">
+               <hi rend="bold">Four Recent Cases</hi>
+            </p>
+            <p xml:id="sc05-5_1051">Each of the following cases. all from 1983, involve a
 reapportionment map submitted by a jurisdiction to the Department of
 Justice for preclearance. In each, the Voting Rights Project of the
 Southern Regional Counci1 consulted with a group of black citizens in
@@ -407,18 +472,18 @@ letter" in which we asked the DOJ to object to the plan. To show what
 a fair reapportionment plan would look like, we also drew alternative
 maps. In each of these cases, the DOJ did object to the jurisdiction's
 changes.</p>
-          <p xml:id="sc05-5_1052">The four jurisdictions include Caddo and St. Helena parishes in
+            <p xml:id="sc05-5_1052">The four jurisdictions include Caddo and St. Helena parishes in
 Louisiana, Williamsburg County in South Carolina, and Winston County
 in Mississippi.</p>
-          <p xml:id="sc05-5_1053">
-            <hi rend="bold">Caddo Parish</hi>
-          </p>
-          <p xml:id="sc05-5_1054">Caddo Parish is located in northwestern Louisiana. Over eighty
+            <p xml:id="sc05-5_1053">
+               <hi rend="bold">Caddo Parish</hi>
+            </p>
+            <p xml:id="sc05-5_1054">Caddo Parish is located in northwestern Louisiana. Over eighty
 percent of its population lives in its largest city--Shreveport. The
 parish submitted a plan for the reapportionment of its police jury
 (analogous in structure and function to other states' county
 commission) which was a textbook case of retrogression.</p>
-          <p xml:id="sc05-5_1055">Under the existing plan there are twenty members of the police
+            <p xml:id="sc05-5_1055">Under the existing plan there are twenty members of the police
 jury. Six, or thirty percent of them, are black. Under the proposed
 plan, in which the police jury was to have shrunk to twelve members,
 only two of the twelve districts or 16.7 percent were majority
@@ -426,14 +491,14 @@ black. A third district was almost, but not quite, majority
 black. Even if this district were counted as majority black, the plan
 would remain retrogressive (black representation declining from thirty
 percent to twenty-five percent).</p>
-          <p xml:id="sc05-5_1056">White parish officials rationalized that their plan was identical
+            <p xml:id="sc05-5_1056">White parish officials rationalized that their plan was identical
 to a school board plan already precleared by Justice. Upon a closer
 look, however, the school board plan appears to be retrogressive, too,
 insofar as it doesn't provide for three well-defined majority black
 districts. Also, the school board plan had been precleared early in
 the Reagan Administration when the DOJ was not objecting as frequently
 to discriminatory plans.</p>
-          <p xml:id="sc05-5_1057">There were other grounds for suspecting Caddo Parish's proposed
+            <p xml:id="sc05-5_1057">There were other grounds for suspecting Caddo Parish's proposed
 change in the police jury. The demographer hired by the parish to draw
 and present the plan was president of a company which, according to
 its own advertisement, had prepared reapportionment plans for many
@@ -441,7 +506,7 @@ other jurisdictions, including over half the parishes in Louisiana. He
 was surely aware of the retrogression criterion and of the likelihood
 of objection by the DOJ once it realized the plan was
 retrogressive.</p>
-          <p xml:id="sc05-5_1059">The Voting Rights Project sent a letter to Justice with a
+            <p xml:id="sc05-5_1059">The Voting Rights Project sent a letter to Justice with a
 statistical analysis indicating the retrogressive effect of the
 proposed plan. We also drew and sent an alternative, fair plan. Caddo
 Parish is thirty-eight percent black. We argued that the fairest plan
@@ -450,10 +515,10 @@ plan. We showed that because Shreveport is so segregated, it is
 possible to create six majority black districts, so there is no excuse
 <pb xml:id="sc05-5_1058" n="16"/>
 for Caddo Parish not to provide five.</p>
-          <p xml:id="sc05-5_1060">
-            <hi rend="bold">St. Helena Parish</hi>
-          </p>
-          <p xml:id="sc05-5_1061">St. Helena is a rural parish northeast of Baton Rouge. It has a
+            <p xml:id="sc05-5_1060">
+               <hi rend="bold">St. Helena Parish</hi>
+            </p>
+            <p xml:id="sc05-5_1061">St. Helena is a rural parish northeast of Baton Rouge. It has a
 six-member police jury and is slightly more than fifty percent
 black. A fair plan should provide for three majority black
 districts. Instead, the parish submitted a plan which provided for
@@ -464,7 +529,7 @@ parish's white power structure packed the one majority black district
 that they couldn't avoid drawing, adding to it a gerrymandered slice
 from an adjacent district and hanging this slice, like a tail, down
 from one corner (see accompanying map).</p>
-          <p xml:id="sc05-5_1062">In the comment letter which the Voting Rights Project wrote to
+            <p xml:id="sc05-5_1062">In the comment letter which the Voting Rights Project wrote to
 Justice, we analyzed this plan and some of the factors which helped
 account for it. We found that the parish was run in a manorial style
 by whites who held essentially feudal attitudes and committed rather
@@ -474,7 +539,7 @@ those on parish gravestones. Votes were bought seasonally at a local
 sporting goods store. There is a pattern of harassing black leaders
 which has forced several to leave the parish because of firings or
 threats.</p>
-          <p xml:id="sc05-5_1063">St. Helena Parish presented an additional difficulty. We were
+            <p xml:id="sc05-5_1063">St. Helena Parish presented an additional difficulty. We were
 unable to send a fair alternate plan along with our comment letter
 because of the unavailability of detailed census data. The white
 incumbents didn't have the data either. They simply made their own
@@ -485,17 +550,17 @@ jurisdiction agree on how the counting will be done. Blacks in
 St. Helena are attempting to get the white leaders to agree to this
 process. Otherwise, they will have to go to court in pursuit of a fair
 plan.</p>
-          <p xml:id="sc05-5_1064">
-            <hi rend="bold">Williamsburg County, South Carolina</hi>
-          </p>
-          <p xml:id="sc05-5_1065">Williamsburg County is sixty-one percent black. Its county council
+            <p xml:id="sc05-5_1064">
+               <hi rend="bold">Williamsburg County, South Carolina</hi>
+            </p>
+            <p xml:id="sc05-5_1065">Williamsburg County is sixty-one percent black. Its county council
 has seven members. Before reapportionment there were three majority
 black districts. This enabled whites to hold a four to three majority
 on the council. The reapportionment plan proposed by the council was
 designed to preserve the white majority. A fair plan, however, would
 provide four majority black districts out of seven, a proportion which
 comes closest to the percentage of blacks in the county.</p>
-          <p xml:id="sc05-5_1066">Blacks had no opportunity for discussion of the proposed plan at
+            <p xml:id="sc05-5_1066">Blacks had no opportunity for discussion of the proposed plan at
 public meetings because no meetings were held. Under South Carolina
 state law, a county's representatives to the state legislature have
 authority over the development of new reapportionment plans. In
@@ -511,7 +576,7 @@ incumbent whose father happened to be the state senator who supervised
 the development of the proposed plan. When the reporter asked for a
 copy of the plan, the senator refused, saying it might "confuse the
 public."</p>
-          <p xml:id="sc05-5_1067">In a front page editorial, the newspaper pointed out that the
+            <p xml:id="sc05-5_1067">In a front page editorial, the newspaper pointed out that the
 secrecy of the meeting violated South Carolina's Freedom of
 Information Act and was also solid evidence that the county did not
 intend to allow black community participation in the development of
@@ -519,26 +584,26 @@ the plan. Despite newspaper stories and protests from the black
 community, the county approved the plan, sent it to Justice, and
 without waiting for preclearance, prepared to put the plan into effect
 for upcoming county elections.</p>
-          <p xml:id="sc05-5_1069">In order to dilute three adjacent districts, the proposed plan
+            <p xml:id="sc05-5_1069">In order to dilute three adjacent districts, the proposed plan
 packed a large proportion of the county's blacks into a single
 district which one observer said was shaped like a "crawling snake."
 It also fragmented a large concentration of blacks in one of the
 poorest regions of the 
 <pb xml:id="sc05-5_1068" n="17"/>
 county into three separate districts.</p>
-          <p xml:id="sc05-5_1070">Black leaders in Williamsburg County contacted the Voting Rights
+            <p xml:id="sc05-5_1070">Black leaders in Williamsburg County contacted the Voting Rights
 Project and asked that we write a comment letter requesting the
 Justice Department to object to the proposed plan and that we draw an
 alternate.</p>
-          <p xml:id="sc05-5_1071">It was relatively easy to draw a fair seven-member plan- with four
+            <p xml:id="sc05-5_1071">It was relatively easy to draw a fair seven-member plan- with four
 compact majority black districts. The Justice Department objected to
 the proposed plan and subsequently, the county adopted a fair plan
 resembling the one we had drawn. It will be used in the next
 election.</p>
-          <p xml:id="sc05-5_1072">
-            <hi rend="bold">Winston County, Mississippi</hi>
-          </p>
-          <p xml:id="sc05-5_1073">Winston County is thirty-eight percent black but no black has ever
+            <p xml:id="sc05-5_1072">
+               <hi rend="bold">Winston County, Mississippi</hi>
+            </p>
+            <p xml:id="sc05-5_1073">Winston County is thirty-eight percent black but no black has ever
 served on its five member county commission. Using an extraordinary
 bit of gerrymandering, the county submitted a 1983 plan which
 fragmented the black community in the county's largest town
@@ -548,20 +613,20 @@ extends for some twenty-six miles as it contorts its way from the
 northern boundary of the county through Louisville, finally extending
 in a strip to the eastern boundary of the county. This district
 narrows at one point to the 190 foot width of a cemetery.</p>
-          <p xml:id="sc05-5_1074">The other proposed Winston County districts also had a lot of
+            <p xml:id="sc05-5_1074">The other proposed Winston County districts also had a lot of
 twists and turns in them as they moved through Louisville, especially
 in the black residential areas. Besides gerrymandering the black
 community out of a district, the odd shapes make it difficult for
 people to know what district they actually live in. Such confusion is
 a further inhibitor of political participation.</p>
-          <p xml:id="sc05-5_1075">Winston County hired a private firm which sent the proposed plan to
+            <p xml:id="sc05-5_1075">Winston County hired a private firm which sent the proposed plan to
 Justice in a slickly packaged booklet. On the booklet's first page a
 demographer flatly stated that the plan conformed to all the standards
 of a fair plan according to interpretations of the Voting Rights
 Act. He claimed that there was no dilution of the black vote despite,
 as we showed in our comment letter to DOJ, his managing to achieve an
 almost ideal example of dilution this drawing of districts.</p>
-          <p xml:id="sc05-5_1076">Along with our comment letter, we sent in an alternate plan. A fair
+            <p xml:id="sc05-5_1076">Along with our comment letter, we sent in an alternate plan. A fair
 plan in this thirty-eight percent black county would provide for two
 majority black districts out of five. In this case however, the
 segregated residential patterns of the county are checkerboard rather
@@ -569,16 +634,16 @@ than ghetto style in their segregation, and thus do not al low for the
 drawing of two black districts. Our plan provides for only one,
 suggestive of a need to consider other measures to give blacks an
 opportunity to elect representatives of their choice.</p>
-          <p xml:id="sc05-5_1077">
-            <hi rend="bold">Drawing the Lines</hi>
-          </p>
-          <p xml:id="sc05-5_1078">Only one of the four cases just described has yet been resolved. In
+            <p xml:id="sc05-5_1077">
+               <hi rend="bold">Drawing the Lines</hi>
+            </p>
+            <p xml:id="sc05-5_1078">Only one of the four cases just described has yet been resolved. In
 the other three jurisdictions, blacks are attempting to negotiate with
 white political leaders in order to reach a consensus which includes a
 fair reapportionment plan. Illustrative of both the strength and the
 limits of the Voting Rights Act, if the negotiations are unsuccessful,
 blacks may have to go to court.</p>
-          <p xml:id="sc05-5_1080">The Voting Rights Act has not been interpreted to mean that the
+            <p xml:id="sc05-5_1080">The Voting Rights Act has not been interpreted to mean that the
 Justice Department take an active role in 
 <pb xml:id="sc05-5_1079" n="18"/>
 securing fair
@@ -592,22 +657,33 @@ still be excluded completely from the reapportionment process in the
 South and be absent from elected positions altogether. Yet, much more
 white resistance must be overcome before blacks will gain fair
 treatment.</p>
-          <div3 xml:id="sc05-5_sc05-6023" type="About">
-            <p xml:id="sc05-5_1081">Brian Sherman is a clinical sociologist who works as a
+            <div3 xml:id="sc05-5_sc05-6023" type="About">
+               <p xml:id="sc05-5_1081">Brian Sherman is a clinical sociologist who works as a
 research analyst for the Voting Rights Project of the Southern
 Regional Council. He has drawn alternate reapportionment plans for
 over twenty jurisdictions and is author of an empirical study of voter
 discrimination in Georgia: <title>Half a Foot in the
-Door.</title></p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_004" n="8" type="Review">
-          <head>Bertram Wyatt-Brown. <title>Southern Honor: Ethics and Behavior
+Door.</title>
+               </p>
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_004" n="8" type="Review">
+            <head>Bertram Wyatt-Brown. <title>Southern Honor: Ethics and Behavior
 in the Old South.</title> Oxford University Press, 1982.</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Morgan, Lynda</reg><sic>Lynda Morgan</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 22-24</docDate>
-          
-          <p xml:id="sc05-5_1082">In his <title>History of the Southern Confederacy,</title>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Morgan, Lynda</reg>
+                        <sic>Lynda Morgan</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 22-24</docDate>
+            <interp>
+               <certainty ana="#T06" degree="54.7"/>
+            </interp>
+            <p xml:id="sc05-5_1082">In his <title>History of the Southern Confederacy,</title>
 published in 1954, Clement Eaton noted that students of the American
 South needed to pay more attention to "Southern honor" and its role in
 the secession movement, although he was careful to add that the real
@@ -629,7 +705,7 @@ South was not founded to create slavery: slavery was recruited to
 perpetuate the South. Honor came first" and existed distinctly "apart
 from a particular system of labor, a special region of the country,
 and a specific time in history."</p>
-          <p xml:id="sc05-5_1084">It is difficult to understand how a notion like honor, foreign to
+            <p xml:id="sc05-5_1084">It is difficult to understand how a notion like honor, foreign to
 or at least defined differently by those of us living in the late
 twentieth century, could hold so much power over 7i~eil and
 events. What exactly was honor? For nineteenth-century white
@@ -656,7 +732,7 @@ his own or another's blood
 for the right to own slaves," says Wyatt-Brown. "Ever since man first
 picked up a stone to fling at an enemy, he has justified his thirst
 for revenge and for public approval on the grounds of honor."</p>
-          <p xml:id="sc05-5_1085">These are sweeping claims. While we are indebted to Wyatt-Brown for
+            <p xml:id="sc05-5_1085">These are sweeping claims. While we are indebted to Wyatt-Brown for
 a provocative new approach to the Southern past and to a topic long
 neglected, <title>Southern Honor</title> contains errors of
 conceptualization and credits the cultural and ideological precept of
@@ -668,7 +744,7 @@ unfortunate tendency towards ethnocultural determinism, and the
 inattention paid to how societies change over time--inattention, that
 is, to the very stuff of history--are other problems that mar the book
 throughout.</p>
-          <p xml:id="sc05-5_1086">Disregard for some of the most important historiographical insights
+            <p xml:id="sc05-5_1086">Disregard for some of the most important historiographical insights
 of the last three decades bespeaks a certain indiscretion. Remarkable
 for their absence in Southern Honor are the findings of two of the
 most eminent Southern historians of our time, C. Vann Woodward, of
@@ -690,16 +766,16 @@ isolation." Woodward too had underscored this point in 1964 in the
 preface to a book of essays entitled <title>American Counterpoint:
 Slavery and Racism in the North-South Dialogue</title>,  when he
 said:</p>
-          <p xml:id="sc05-5_1087">
-            <q>The ironic thing about these two great hyphenate minorities,
+            <p xml:id="sc05-5_1087">
+               <q>The ironic thing about these two great hyphenate minorities,
 Southern-Americans and Afro-Americans, confronting each other on their
 native soil for three and a half centuries, is the degree to which
 they have shaped each other's destiny, determined each other's
 isolation, shared and molded a common culture. It is, in fact,
 impossible to imagine the one without the other and quite futile to
 try.</q>
-          </p>
-          <p xml:id="sc05-5_1089">This is precisely the error that <title>Southern Honor</title>
+            </p>
+            <p xml:id="sc05-5_1089">This is precisely the error that <title>Southern Honor</title>
 makes--it describes white Southerners without regard for the impact of
 Afro-Americans on their lives and their culture, if whites can be said
 to have had a "separate" culture. For even if it were true that
@@ -711,7 +787,7 @@ South
 <pb xml:id="sc05-5_1088" n="24"/>
 indicates that slavery played no small part in the development
 and character of that ethic.</p>
-          <p xml:id="sc05-5_1090">The dynamics of this master-slave dialectic as they applied to
+            <p xml:id="sc05-5_1090">The dynamics of this master-slave dialectic as they applied to
 honor need to be more fully explained. Even on the rare occasion when
 Southern Honor discusses master-slave relationships, the interaction
 tends to proceed from master to slave, rather than between master and
@@ -731,7 +807,7 @@ to believe it, slaves were hardly social ciphers. As Genovese so aptly
 noted, slaveholders "wallowed in those deformities which their slaves
 had thrust upon them in the revenge of historical silence--deformities
 which would eventually lead to their destruction as a class."</p>
-          <p xml:id="sc05-5_1091">Although Wyatt-Brown insists that honor existed strictly apart from
+            <p xml:id="sc05-5_1091">Although Wyatt-Brown insists that honor existed strictly apart from
 socioeconomic factors and untouched by time and place, <title>Southern
 Honor</title> is hardly persuasive on this point. Honor may have been
 an ancient ethic, but in different societies and at different times it
@@ -749,7 +825,7 @@ evangelicalism. Since Wyatt-Brown promises to address honor's demise
 in a subsequent volume, it is unfair to fault him for his brief
 treatment of it here. Hopefully his later works will take these
 questions into fuller consideration.</p>
-          <p xml:id="sc05-5_1092">In writing <title>Southern Honor</title>, Wyatt-Brown has performed
+            <p xml:id="sc05-5_1092">In writing <title>Southern Honor</title>, Wyatt-Brown has performed
 yeoman service. This initial foray into an important and hitherto
 unstudied realm of Southern history has brought us to a fuller
 understanding of what life in the Old South was like. His description
@@ -759,19 +835,29 @@ sub-culture. Yet the book has left many questions unanswered:
 questions of time and place, of class and race and of the changing
 socioeconomic environment and its impact on culture. In short, there
 is more to Southern honor than Wyatt-Brown is telling us.</p>
-        </div2>
-        <div2 xml:id="sc05-5_005" n="1" type="Article">
-          <head>White Politics in a Black Land</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Minor, Bill</reg><sic>Bill Minor</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
-          
-          <p xml:id="sc05-5_1093">It was the sort of affair which a few years ago would have been
+         </div2>
+         <div2 xml:id="sc05-5_005" n="1" type="Article">
+            <head>White Politics in a Black Land</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Minor, Bill</reg>
+                        <sic>Bill Minor</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 1-5, 7-9</docDate>
+            <interp>
+               <certainty ana="#T15" degree="51.7"/>
+            </interp>
+            <p xml:id="sc05-5_1093">It was the sort of affair which a few years ago would have been
 unthinkable in Mississippi: an NAACP fundraising luncheon in
 Vicksburg, the Civil War "Gibraltar of the Confederacy," and almost
 half the crowd consisted of white politicians, eager to make points
 with local black leaders and pay their respects to Dr. Benjamin Hooks,
 the NAACP national director.</p>
-          <p xml:id="sc05-5_1094">Among the white politicians on hand was State Representative
+            <p xml:id="sc05-5_1094">Among the white politicians on hand was State Representative
 Clarence Benton "Buddie" Newman, the Speaker of the Mississippi House
 of Representatives, the man whom many regard as the most powerful
 figure in Mississippi government. Newman's legislative district has
@@ -780,7 +866,7 @@ section of the suburbs of Vicksburg (embracing several north Warren
 (County white residential areas), as well as his longtime political
 base--the two tiny cotton and soybean plantation counties of Sharkey
 and Issaquena--tucked in a bend of the Mississippi River.</p>
-          <p xml:id="sc05-5_1095">For most of the thirty-six years that the stubby, bespectacled
+            <p xml:id="sc05-5_1095">For most of the thirty-six years that the stubby, bespectacled
 Newman has served in the legislature he has been one of the most
 influential lawmakers in suppressing civil rights for blacks. His role
 as a close advisor to Governor Ross Barnett during the 1962 James
@@ -788,7 +874,7 @@ Meredith crisis at the University of Mississippi has never been widely
 known, but insiders to that sad episode of state history say that
 Newman advocated the most extreme of the measures taken by Barnett to
 defy federal authority.</p>
-          <p xml:id="sc05-5_1097">By trading some of their influence for black support, old time
+            <p xml:id="sc05-5_1097">By trading some of their influence for black support, old time
 segregationist politicians in Mississippi such as Newman have
 displayed an amazing agility in adapting to an integrated political
 milieu without losing any of the power they had back in the days of
@@ -797,71 +883,71 @@ black majorities, black candidates have found that it is often
 <pb xml:id="sc05-5_1096" n="2"/>
 impossible to win against seasoned white politicians who can shrewdly
 maneuver the black vote.</p>
-          <p xml:id="sc05-5_1098">Now, at age sixty-two, the raspy-voiced erstwhile soybean farmer
+            <p xml:id="sc05-5_1098">Now, at age sixty-two, the raspy-voiced erstwhile soybean farmer
 from Valley Park is at the top of a political system in Mississippi in
 which the legislative branch dominates state government, virtually
 holding governors hostage in their ceremonial office in the
 magnificent eighty-year-old capitol building in Jackson.</p>
-          <p xml:id="sc05-5_1099">At the Vicksburg NAACP luncheon, Newman was seated at the head
+            <p xml:id="sc05-5_1099">At the Vicksburg NAACP luncheon, Newman was seated at the head
 table close to Dr. Hooks. The affair came just a few days before the
 August 2 Democratic primary in Mississippi, wherein Newman had drawn
 surprisingly stiff opposition from a thirty-six year old white woman
 accountant named Phyllis Farragut.</p>
-          <p xml:id="sc05-5_10100">Ms. Farragut, known for her activity in the League of Women Voters
+            <p xml:id="sc05-5_10100">Ms. Farragut, known for her activity in the League of Women Voters
 and the Federation of Business and Professional Women's Clubs, is
 highly regarded in the Vicksburg black community for her demonstrated
 social concerns. She had come to the luncheon at the invitation of
 several local NAACP leaders who privately had given her assurances of
 support in her race with Newman.</p>
-          <p xml:id="sc05-5_10101">Longtime Mississippi civil rights leader Aaron Henry of Clarksdale,
+            <p xml:id="sc05-5_10101">Longtime Mississippi civil rights leader Aaron Henry of Clarksdale,
 state president of the NAACP, and for the past three years a member of
 the Mississippi House of Representatives, was asked to say a few words
 at the Vicksburg luncheon. To the amazement of the local NAACP
 leaders, Henry turned his remarks into a virtual endorsement of Buddie
 Newman for reelection.</p>
-          <p xml:id="sc05-5_10102">"This is MY speaker," said the sixty-year-old Henry, "through the
+            <p xml:id="sc05-5_10102">"This is MY speaker," said the sixty-year-old Henry, "through the
 years we've developed a wonderful working relationship." The bitter
 irony is that in years past, Henry had picketed outside the State
 Capitol against many of the repressive laws which Newman helped to
 pass to keep blacks out of the political process.</p>
-          <p xml:id="sc05-5_10103">Capping off the event, the evangelistic Hooks stirred the two
+            <p xml:id="sc05-5_10103">Capping off the event, the evangelistic Hooks stirred the two
 hundred blacks present to shore up the NAACP as a civil rights force
 in Mississippi and challenged everybody, including the white
 politicians, to match his twenty dollar contribution to the Vicksburg
 chapter. Among the first to come forward and plank down his twenty
 dollar bill was Buddie Newman.</p>
-          <p xml:id="sc05-5_10104">Perhaps the episode at the Vicksburg luncheon was a precursor of
+            <p xml:id="sc05-5_10104">Perhaps the episode at the Vicksburg luncheon was a precursor of
 what would happen in Farragut's campaign to unseat Newman with the
 help of the black vote in Sharkey and Issaquena Counties. The 1980
 population census showed Sharkey with 65.7 percent black population
 and Issaquena with 55.7 percent.</p>
-          <p xml:id="sc05-5_10105">"We really worked hard trying to get black votes in Sharkey and
+            <p xml:id="sc05-5_10105">"We really worked hard trying to get black votes in Sharkey and
 Issaquena counties. A lot of black persons there were very nice to me
 and seemed to be sympathetic to my campaign," Ms. Farragut said later,
 "But a week before the election, I realized we hadn't gotten to first
 base."</p>
-          <p xml:id="sc05-5_10106">Every time she spoke with some influential black in the two
+            <p xml:id="sc05-5_10106">Every time she spoke with some influential black in the two
 counties, Newman would come along behind her and find out what
 problems the black person might be having. . . with the PIK program or
 Social Security, and the like. "Then Newman would pull his strings and
 get the person's problem taken care of," said Farragut. "I couldn't do
 anything like that."</p>
-          <p xml:id="sc05-5_10107">When the votes were counted on the night of August 2, Farragut and
+            <p xml:id="sc05-5_10107">When the votes were counted on the night of August 2, Farragut and
 Newman had run almost a deadheat in Warren County, only twelve votes
 separating them. But in the two black-majority counties of Sharkey and
 Issaquena, Newman piled up his winning margin of nineteen hundred
 votes, getting almost ninety percent of,` the black vote.</p>
-          <p xml:id="sc05-5_10108">"What was so discouraging is that my candidacy offered a choice for
+            <p xml:id="sc05-5_10108">"What was so discouraging is that my candidacy offered a choice for
 the first time between the old ways and a new way," she related. "It
 was the old way that had given them a thirty-two percent illiteracy
 rate in those two counties and held back the state. We offered them a
 change."</p>
-          <p xml:id="sc05-5_10109">Farragut also came out of the election experience disenchanted with
+            <p xml:id="sc05-5_10109">Farragut also came out of the election experience disenchanted with
 black leader Aaron Henry, whom she said had given her strong
 indications at the beginning of her candidacy that he would use his
 influence to help her. "He is one person I will always be wary of,"
 she declared.</p>
-          <p xml:id="sc05-5_10110">Newman considers himself a "farmer" because of the several hundred
+            <p xml:id="sc05-5_10110">Newman considers himself a "farmer" because of the several hundred
 acre soybean and cotton farm he has lived on and operated for a number
 of years in the tiny village of Valley Park. But for at least
 twenty-five years he has been on the payroll of Southern Natural Gas
@@ -869,7 +955,7 @@ Company, a gas transmission line based in Birmingham, which maintains
 a pumping station in Valley Park. Variously, Newman has described his
 connection with Southern Natural as that ,of "public relations" or
 "industrial development" representative.</p>
-          <p xml:id="sc05-5_10112">Because Newman has only rarely performed any visible function for
+            <p xml:id="sc05-5_10112">Because Newman has only rarely performed any visible function for
 Southern Natural (once or twice he has gone before the state tax
 commission seeking to hold down the company's tax assessment in
 Mississippi), it is widely assumed that he must be one of the
@@ -881,14 +967,14 @@ years ago. At the time, Southern Natural Gas was seeking rights to the
 trans-Alaskan pipeline. and Smith bragged about the influential
 buddies the company had in Southern legislatures, specifically
 referring to Mississippi.</p>
-          <p xml:id="sc05-5_10113">When Ms. Farragut raised the issue of Newman's questionable
+            <p xml:id="sc05-5_10113">When Ms. Farragut raised the issue of Newman's questionable
 relationship with the natural gas utility company during the election
 campaign, Newman explained it away by saying "everyone knows I give my
 salary (from Southern Natural) to charity during the months the
 legislature is in session." The Mississippi legislature raised the
 salary of the Speaker of the House to $34,500 in 1980, on the premise
 that the job was fulltime.</p>
-          <p xml:id="sc05-5_10114">Newman's formal education consists of high school and a year and a
+            <p xml:id="sc05-5_10114">Newman's formal education consists of high school and a year and a
 half at a junior college before he went into the Army in World War
 II. After the war, he was elected to the Mississippi State Senate from
 Issaquena County, becoming part of the. "Class of 1948" which is
@@ -896,7 +982,7 @@ looked upon as one of the brightest group of freshman legislators ever
 to sit in Jackson. Newman, however, was not one of those who showed
 signs of providing a more moderate, intellectual leadership for the
 future.</p>
-          <p xml:id="sc05-5_10115">He began his climb to political power when he moved over to the
+            <p xml:id="sc05-5_10115">He began his climb to political power when he moved over to the
 Mississippi House in 1952 and became one of the young lieutenants in
 the Old Guard of then Speaker Walter Sillers, a courtly Delta
 plantation statesman-lawyer. With Sillers in mind, William Winter, the
@@ -907,7 +993,7 @@ governor, the real power in Mississippi lies with the legislature."
 Sillers is still regarded as the most powerful single legislative
 figure of this century, in a career that spanned fifty years in the
 Mississippi House.</p>
-          <p xml:id="sc05-5_10116">In the Dixiecrat rebellion of 1948, when Mississippi Democrats,
+            <p xml:id="sc05-5_10116">In the Dixiecrat rebellion of 1948, when Mississippi Democrats,
 along with those of three other Southern states, bolted the ranks of
 the National Democratic Party and voted for the States' Rights ticket
 of Strom Thurmond and Fielding Wright, one of the chief architects of
@@ -915,12 +1001,12 @@ the movement was the grey-maned Sillers. The 1948 bolt put Mississippi
 on a course of alienation from the national party that would last for
 the next quarter century, finally ending in a unified bi-racial party
 in 1976.</p>
-          <p xml:id="sc05-5_10117">During the latter half of the 1950s, following the <hi rend="italic">Brown vs. Board of Education</hi> decision, Sillers and
+            <p xml:id="sc05-5_10117">During the latter half of the 1950s, following the <hi rend="italic">Brown vs. Board of Education</hi> decision, Sillers and
 his loyal followers in the Mississippi House ran roughshod over the
 then moderate governor, J. P. Coleman, who, though a supporter of
 segregation, opposed putting the state on a collision course with the
 federal government.</p>
-          <p xml:id="sc05-5_10118">When Coleman sought a new state constitution in late 1957 to
+            <p xml:id="sc05-5_10118">When Coleman sought a new state constitution in late 1957 to
 replace the state's 1890 document, the Sillers forces, with Newman a
 leading spear-carrier, soundly repelled the Coleman effort, implying
 that he was seeking to undermine the foundation of the state's
@@ -928,24 +1014,24 @@ segregated society. Instead of a new constitution, the Delta
 conservatives pushed through a constitutional amendment providing that
 the legislature by a majority vote could abolish public schools if
 they were ever integrated.</p>
-          <p xml:id="sc05-5_10119">A quarter of a century later, Mississippi still has its same
+            <p xml:id="sc05-5_10119">A quarter of a century later, Mississippi still has its same
 antiquated constitution. Newman. who became Speaker of the House in
 1974, has been one of those largely responsible for perpetuating the
 old document with its school abolition provision and a one-term
 limitation on governors, putting chief executives at a distinct
 disadvantage in dealing with the legislature.</p>
-          <p xml:id="sc05-5_10120">For years, the legislature has been encroaching upon the executive
+            <p xml:id="sc05-5_10120">For years, the legislature has been encroaching upon the executive
 branch of government in Mississippi, putting lawmakers by statute on
 the most powerful state boards and commissions. When the state's
 attorney general, Bill Allain, precipitated a showdown with the
 lawmakers last year, Newman rallied the legislative forces to resist
 by going to court with their own attorney, a Newman crony.</p>
-          <p xml:id="sc05-5_10121">A lower court judge ruled last January that the lawmakers were
+            <p xml:id="sc05-5_10121">A lower court judge ruled last January that the lawmakers were
 violating the state constitutional provision on separation of powers,
 and the case is now pending before the Mississippi Supreme Court. In
 the meantime, Allain has become the Democratic nominee for governor
 and is heavily favored to win the November 8 general election.</p>
-          <p xml:id="sc05-5_10122">In the Mississippi House, the Speaker apoints all committees, even
+            <p xml:id="sc05-5_10122">In the Mississippi House, the Speaker apoints all committees, even
 designating the chairs and vice-chairs. On key committees, almost
 invariable, Newman's most loyal lieutenants sit in charge:
 Representative H. I,. "Sonny" Merideth of Greenville, his closest
@@ -956,15 +1042,15 @@ chairmen know which bills "Mr. Speaker" wants brought out or left to
 die in their committees. Since the committee chairs control which
 bills will be considered and which will not, they hold the power of
 life and death over legislation.</p>
-          <p xml:id="sc05-5_10123">Under the "deadline" system for considering legislation, which the
+            <p xml:id="sc05-5_10123">Under the "deadline" system for considering legislation, which the
 Old Guard pushed through in the early '70s (and which is now
 untouchable), a convenient graveyard is provided for three-fourths of
 the bills introduced at each session before they get any real
 consideration.</p>
-          <p xml:id="sc05-5_10124">And, when a committee fails to stop some measure Mr. Speaker
+            <p xml:id="sc05-5_10124">And, when a committee fails to stop some measure Mr. Speaker
 doesn't want, he has other devices--his Rules Committee which can put
 bills up or down on the calendar, or his own gavel.</p>
-          <p xml:id="sc05-5_10126">With the fall of his gavel, Newman, in the 1982 session, 
+            <p xml:id="sc05-5_10126">With the fall of his gavel, Newman, in the 1982 session, 
 <pb xml:id="sc05-5_10125" n="4"/>
 choked off
 a drive launched by Governor William Winter to create the state's
@@ -973,38 +1059,38 @@ kindergartens with an increase in the state's severance tax on oil and
 gas production, a tax which had remained unchanged since 1944. Not
 surprisingly, Newman has been a longtime foe of increased oil and gas
 tax.</p>
-          <p xml:id="sc05-5_10127">Newman had taken refuge on the kindergarten issue for several years
+            <p xml:id="sc05-5_10127">Newman had taken refuge on the kindergarten issue for several years
 by saying that the only way he could support kindergartens was if they
 were funded largely by local school districts. Yet, because of a
 taxation straitjacket placed upon school districts by the legislature,
 such a system of funding was virtually impossible.</p>
-          <p xml:id="sc05-5_10128">Kindergartens had also become a last line of defense among oldtime
+            <p xml:id="sc05-5_10128">Kindergartens had also become a last line of defense among oldtime
 segregationists in the Mississippi Legislature who privately regarded
 the proposed system as "nothing but a babysitting service for black
 kids."</p>
-          <p xml:id="sc05-5_10129">With the kindergarten bill awaiting action on the House calendar,
+            <p xml:id="sc05-5_10129">With the kindergarten bill awaiting action on the House calendar,
 Newman called for a voice vote on adjournment which would have the
 effect of killing the measure. Despite a heavy chorus of "no's,"
 Newman rapped the gavel and ruled the House adjourned. He then stalked
 off the podium, amid shouts by kindergarten backers for a roll call
 vote.</p>
-          <p xml:id="sc05-5_10130">Newman's action brought down upon him the wrath of public school
+            <p xml:id="sc05-5_10130">Newman's action brought down upon him the wrath of public school
 forces as never before and became a focal point four months later for
 an ABC-TV 20/20 feature making him the culprit for depriving children
 in the nation's most educationally deprived state of the opportunity
 to attend kindergartens. The 20/20 segment tied Newman's outside
 interest as a gas company representative to his willingness to kill
 kindergarten.</p>
-          <p xml:id="sc05-5_10131">The ABC show forced a turn-around in Newman's attitude and
+            <p xml:id="sc05-5_10131">The ABC show forced a turn-around in Newman's attitude and
 triggered a succession of events which, in a winter special session,
 culminated in the passage of the Educational Reform Act of 1982.</p>
-          <p xml:id="sc05-5_10132">Newman, stung by national exposure, created a special House
+            <p xml:id="sc05-5_10132">Newman, stung by national exposure, created a special House
 committee to draft the school reform act containing the features
 wanted by Governor Winter, together with a financing plan. To the
 surprise of critics, the House committee brought forth a package which
 included an increase in the oil-gas tax, plus a laundry list of other
 tax hikes providing $140 million for the education measure.</p>
-          <p xml:id="sc05-5_10133">What some have termed the "Christmas miracle" in Mississippi
+            <p xml:id="sc05-5_10133">What some have termed the "Christmas miracle" in Mississippi
 happened in mid-December, 1982 when the Educational Reform Act won
 enactment after unprecedented editorial pressure from the Jackson
 <title>Clarion-Ledger</title>, which later won a Pulitzer Prize for
@@ -1016,39 +1102,39 @@ placing a large portion of the tax increase on the poor.) Nonetheless,
 the way opened for Mississippi public kindergartens by 1986 and for
 other education improvements. (See "Mississippi Makes Up Its Mind,"
 <title>Southern Changes</title>, March/April 1983.)</p>
-          <p xml:id="sc05-5_10134">The arrogance of Newman in killing the kindergarten bill in 1982
+            <p xml:id="sc05-5_10134">The arrogance of Newman in killing the kindergarten bill in 1982
 precipitated formation of a statewide bi-racial organization called
 "Mississippi First" to elect a more progressive legislature. Out of
 this came Ms. Farragut's candidacy and a dozen or more foes for Old
 Guardsmen. While Mississippi First failed to unseat Newman, it did
 manage to topple seven of his committee chairmen and remove some other
 deadwood members.</p>
-          <p xml:id="sc05-5_10135">How Newman, despite his old identity as a strong racist in the
+            <p xml:id="sc05-5_10135">How Newman, despite his old identity as a strong racist in the
 heyday of the white Citizens Councils and afterwards, has been able to
 establish rapport with the black power structure is one of the
 Mississippi political anomalies which Ms. Farragut discovered at first
 hand.</p>
-          <p xml:id="sc05-5_10136">It was not until the early 1970s, after black voting strength began
+            <p xml:id="sc05-5_10136">It was not until the early 1970s, after black voting strength began
 to show in Mississippi politics, that Newman discovered any need to
 communicate with blacks, even though he had always represented a black
 majority population area.</p>
-          <p xml:id="sc05-5_10137">His first perceptible move came in 1974 when he shrewdly
+            <p xml:id="sc05-5_10137">His first perceptible move came in 1974 when he shrewdly
 outmaneuvered several other able legislators to gain the House
 speakership. As one of those to nominate him for the post, Newman
 picked Representative Robert Clark of Ebenezer, who, in 1967, had
 become the first black member of the Mississippi Legislature since
 1888. Three years later when the chairmanship of the House Education
 Committee became vacant, Newman rewarded Clark with the post.</p>
-          <p xml:id="sc05-5_10138">Perhaps the true indication of how much Newman trusted Clark to
+            <p xml:id="sc05-5_10138">Perhaps the true indication of how much Newman trusted Clark to
 pass on major education matters came afterwards when Newman began
 referring such measures to both the Education Committee and the
 Appropriations Committee--headed by a faithful lieutenant of the
 Speaker.</p>
-          <p xml:id="sc05-5_10139">The most powerful black figure in Newman's home county of Issaquena
+            <p xml:id="sc05-5_10139">The most powerful black figure in Newman's home county of Issaquena
 is Mayor Unita Blackwell of Mayersville. Many have wondered why
 Ms. Blackwell had not challenged Newman for his legislative seat,
 since she would have swept the black vote in the district.</p>
-          <p xml:id="sc05-5_10141">Newman evidently began courting Ms. Blackwell several years back so
+            <p xml:id="sc05-5_10141">Newman evidently began courting Ms. Blackwell several years back so
 as to dissuade her from launching an opposition movement. Observers
 remember the occasion of the Third Congressional District Democratic
 caucus in April 1980 when Newman sat at Blackwell's elbow for eight
@@ -1056,18 +1142,18 @@ solid hours, voting down the line with her to make certain she would
 be a delegate from the district 
 <pb xml:id="sc05-5_10140" n="5"/>
 to the Democratic National Convention.</p>
-          <p xml:id="sc05-5_10142">For weeks before the August primary contest with Newman,
+            <p xml:id="sc05-5_10142">For weeks before the August primary contest with Newman,
 Ms. Farragut had tried to contact Blackwell and enlist her support. "I
 was never able to see her," Farragut said, "but she sent word she was
 going to be out of the state working on an advanced college degree
 most of the summer and would not take part in the campaign." This,
 Farragut later discovered, would not exactly be the case.</p>
-          <p xml:id="sc05-5_10143">"I found I had been led down the primrose path, and that Unita
+            <p xml:id="sc05-5_10143">"I found I had been led down the primrose path, and that Unita
 Blackwell had organized her forces for Newman before she left," she
 declared. "A lot of people say you can't get the black vote by getting
 to the leaders anymore. I don't think that is so in Sharkey and
 Issaquena Counties."</p>
-          <p xml:id="sc05-5_10144">In a number of instances where old hands in the Mississippi
+            <p xml:id="sc05-5_10144">In a number of instances where old hands in the Mississippi
 legislature were turned out of office this past summer, it was said to
 be a case of their having lost touch with their constituents. A
 notable exception came in State Senatorial District Thirteen, a
@@ -1075,7 +1161,7 @@ decidedly black-majority district in the heart of the Delta where
 Senator Robert L. Crook, fifty-four, won his sixth successive term in
 the Legislature even though he doesn't really reside among his
 constituents.</p>
-          <p xml:id="sc05-5_10145">Crook, a white attorney, lists Ruleville as his hometown, but it is
+            <p xml:id="sc05-5_10145">Crook, a white attorney, lists Ruleville as his hometown, but it is
 common knowledge in the legislature and among many in his alleged home
 county of Sunflower that he and his family have resided in Jackson,
 120 miles to the south, for the past twenty-three years. Once a dry
@@ -1086,51 +1172,51 @@ school, Crook had gotten a law diploma from a night school in Jackson
 and became a member of the state bar, getting elected to the
 Mississippi state senate from Sunflower County in 1963 when only
 whites voted in the black-majority county.</p>
-          <p xml:id="sc05-5_10146">In most of the election years since, Crook has encountered only
+            <p xml:id="sc05-5_10146">In most of the election years since, Crook has encountered only
 token opposition, usually a little-known black candidate. This time,
 he was put to his sternest test when the district was reshaped to
 include a substantial chunk of neighboring Coahoma County and the city
 of Clarksdale, giving the district a fi3.6 percent black voting age
 population.</p>
-          <p xml:id="sc05-5_10147">Not only did he have a rather prominent black opponent,
+            <p xml:id="sc05-5_10147">Not only did he have a rather prominent black opponent,
 fifty-year-old Elijah Wilson of Clarksdale, the president of the
 Coahoma County NAACP, but also fifty-two-year old Turner Arant, member
 of a prominent Delta cotton farming family.</p>
-          <p xml:id="sc05-5_10148">Crook was fresh from having led Senate forces in blocking Governor
+            <p xml:id="sc05-5_10148">Crook was fresh from having led Senate forces in blocking Governor
 Winter's proposed reforms in the prison system. Winter sought to
 provide alternative sentencing and decentralization of prison
 facilities as a solution to overcrowding at Parchman Penitentiary and
 county jails around the state.</p>
-          <p xml:id="sc05-5_10149">Labelling the Winter proposals "soft on crime," Crook had mounted a
+            <p xml:id="sc05-5_10149">Labelling the Winter proposals "soft on crime," Crook had mounted a
 campaign which almost destroyed the model state corrections board
 created in 1976 in response to a federal court order directing
 modernization of the penal system. For years. Crook has considered
 Parchman Penitentiary, located in Sunflower County, his personal
 fiefdom, involving himself in who is hired and fired, and serving as
 the "outside world" lawyer for inmates.</p>
-          <p xml:id="sc05-5_10150">Significantly, when prison guards living on the premises at
+            <p xml:id="sc05-5_10150">Significantly, when prison guards living on the premises at
 Parchman didn't want to send their kids to integrated public schools
 in Sunflower County, Crook got through a bill providing tuition grants
 to send them to private, segregated academies.</p>
-          <p xml:id="sc05-5_10151">In the old days of the Citizens' Councils. Crook had been a loyal
+            <p xml:id="sc05-5_10151">In the old days of the Citizens' Councils. Crook had been a loyal
 supporter of the segregationist organization. In 1966 he sponsored the
 CC's bill for a "Mississippi Relocation Commission," to provide
 one-way bus tickets for blacks to go North. It would offer assistance
 to any families who believed "they can improve their economic and
 social status by relinquishing residence and citizenship in this state
 and by going to and residing in another state."</p>
-          <p xml:id="sc05-5_10152">Prospective clients for relocation would be taken from the county
+            <p xml:id="sc05-5_10152">Prospective clients for relocation would be taken from the county
 welfare rolls. Funds would be provided to any family to move their
 belongings and transport themselves to another state, but acceptance
 of the funds would constitute a lien against any property the
 expatriated family may have in Mississippi. The debt would be
 cancelled after a certain number of years.</p>
-          <p xml:id="sc05-5_10153">The "one-way ticket" measure never passed the legislature, and
+            <p xml:id="sc05-5_10153">The "one-way ticket" measure never passed the legislature, and
 veteran lawmakers now concerned about their image with black voters
 don't like to talk about the bill. When the Relocation Commission
 proposal was brought up by Crook's opponents in the past summer's
 campaign, he shrugged it off as "just newspaper talk."</p>
-          <p xml:id="sc05-5_10155">Wilson, the black opponent of Crook in the August 2 Democratic
+            <p xml:id="sc05-5_10155">Wilson, the black opponent of Crook in the August 2 Democratic
 primary, had the backing of Mississippi First, which considered Crook
 to be one of the negative forces in the legislature. The organization
 put its 
@@ -1141,129 +1227,129 @@ than one thousand dollars beyond that from black political activists,
 even though a majority of the residents of the district were in
 Coahoma County, and that part of the district was seventy percent
 black.</p>
-          <p xml:id="sc05-5_10156">Coahoma County and Clarksdale happen to be the home of Aaron Henry,
+            <p xml:id="sc05-5_10156">Coahoma County and Clarksdale happen to be the home of Aaron Henry,
 the state NAACP president. However, as Wilson's campaign developed, it
 became evident that he was not getting the support from Henry which he
 would expect from a fellow black leader.</p>
-          <p xml:id="sc05-5_10157">Six months earlier, Wilson had been elected president of the
+            <p xml:id="sc05-5_10157">Six months earlier, Wilson had been elected president of the
 Coahoma County NAACP chapter, replacing Henry, who had held that title
 for nearly thirty years. "I didn't campaign for it. The nominating
 committee came back with the recommendation that I be elected
 president, and that is what happened," says Wilson.</p>
-          <p xml:id="sc05-5_10158">Sources of campaign funds Wilson expected to tap in the black
+            <p xml:id="sc05-5_10158">Sources of campaign funds Wilson expected to tap in the black
 community "just didn't come through . . . I don't know if Aaron had
 anything to do with that or not." The lack of money didn't give him
 the kind of exposure he needed, especially in Sunflower County, which
 has seven small municipalities, the largest being Indianola with a
 population of around nine thousand.</p>
-          <p xml:id="sc05-5_10159">Although Sunflower County has a fifty-five percent black majority,
+            <p xml:id="sc05-5_10159">Although Sunflower County has a fifty-five percent black majority,
 Crook got four to one the number of votes Wilson received, and almost
 double the number Arant received. Even with a clear majority over his
 two opponents in the 2900 votes Coahoma cast in the election, Wilson
 finished out of the money in third place, setting up a runoff between
 Crook and Arant.</p>
-          <p xml:id="sc05-5_10160">Crook contends the utility companies went after him "with all the
+            <p xml:id="sc05-5_10160">Crook contends the utility companies went after him "with all the
 money and influence" they could throw into the second primary on the
 side of his opponent because of Crook's stand for strong utility
 regulatory laws and his opposition to rate increases in recent
 years. "It's unbelievable what they tried to do," he says, "they spent
 $160,000, I believe, trying to defeat me."</p>
-          <p xml:id="sc05-5_10161">If the figure of $150,000 were accurate, it would be the largest
+            <p xml:id="sc05-5_10161">If the figure of $150,000 were accurate, it would be the largest
 amount ever expended in a single legislative race in Mississippi. In
 any case, Arant put on a major campaign for a largely rural area,
 utilizing phone banks, billboards and special spots on regional
 television stations during the three-week runoff campaign.</p>
-          <p xml:id="sc05-5_10162">Crook, despite his heavy black constituency, has never learned how
+            <p xml:id="sc05-5_10162">Crook, despite his heavy black constituency, has never learned how
 to pronounce the word "Negro," or use the word "black."</p>
-          <p xml:id="sc05-5_10163">"This <hi rend="italic">nigra</hi> woman called me," Crook said
+            <p xml:id="sc05-5_10163">"This <hi rend="italic">nigra</hi> woman called me," Crook said
 later, "and said she had been in a meeting with the Arant folks that
 morning and she was offered $350 to work at the polls on election
 day." The black lady had been told that she and some twenty-five
 others at the meeting would get the $350 plus $150 if Arant carried
 the voting precinct.</p>
-          <p xml:id="sc05-5_10165">"She told me," says Crook, "'Mr. Crook, I don't have 
+            <p xml:id="sc05-5_10165">"She told me," says Crook, "'Mr. Crook, I don't have 
 <pb xml:id="sc05-5_10164" n="8"/>
 anything
 against you . . . you tried to help me one time, and I don't know what
 to do.'" His advice, she told this reporter, was to accept the money
 "and let your conscience tell you how to vote."</p>
-          <p xml:id="sc05-5_10166">In the runoff Wilson decided to do a radio spot endorsing Arant
+            <p xml:id="sc05-5_10166">In the runoff Wilson decided to do a radio spot endorsing Arant
 because of some underhanded tactics he had learned that Crook used
 against him in the first primary. "He's [Crook] a good manipulator. I
 thought I had all of the black mayors and aldermen in Sunflower
 County, but he went around after me and said Aaron Henry was
 supporting him. I never had a chance to counteract that," Wilson
 said.</p>
-          <p xml:id="sc05-5_10167">Wilson came out of the political race critical of his longtime
+            <p xml:id="sc05-5_10167">Wilson came out of the political race critical of his longtime
 black colleague, Aaron Henry. "He doesn't speak for black folks in
 this state, but a lot of white folks think that he does," Wilson
 declared. "Aaron is looking out for himself, not for the rest of
 us."</p>
-          <p xml:id="sc05-5_10168">Nobody underestimates the fact that Crook is a tiger when it comes
+            <p xml:id="sc05-5_10168">Nobody underestimates the fact that Crook is a tiger when it comes
 to waging a campaign to hold on to his political base. "He has the
 qualifications," said James Robinson, an alderman and black
 businessman in Indianola, who voted for him, "even though he might not
 have been the best man."</p>
-          <p xml:id="sc05-5_10169">Sylvester Ingram, a black grocery store operator at Moorhead,
+            <p xml:id="sc05-5_10169">Sylvester Ingram, a black grocery store operator at Moorhead,
 admitted he had voted for Crook. "I've known Senator Crook a long
 while, and I think he has made us a good senator. I don't think he has
 said too much against the blacks. He's for poor people, and that's
 okay with me."</p>
-          <p xml:id="sc05-5_10170"/>
-          <p xml:id="sc05-5_10171">Four years ago, state senate district thirty-seven in southwest
+            <p xml:id="sc05-5_10170"/>
+            <p xml:id="sc05-5_10171">Four years ago, state senate district thirty-seven in southwest
 Mississippi had more or less been tailor-made for Fayette Mayor
 Charles Evers. Many whites felt it better to give him a forum in the
 legislature rather than have him as a constant critic from the
 outside. The district had a 61.5 percent black voting age majority and
 included Jefferson and Claiborne Counties, considered "Evers
 Country."</p>
-          <p xml:id="sc05-5_10172">But the charismatic black political figure did not campaign very
+            <p xml:id="sc05-5_10172">But the charismatic black political figure did not campaign very
 hard, assuming that his name recognition was all he needed to win
 handily. A year before, Evers had run as an independent for the
 U.S. Senate in the race won by Republican Thad Cochran and polled over
 8600 votes in the four counties (Jefferson, Claiborne, Franklin and
 Copiah) in the senatorial district. That was believed more than
 adequate to win the seat in the state senate.</p>
-          <p xml:id="sc05-5_10173">Meanwhile, however, some other factors entered the political
+            <p xml:id="sc05-5_10173">Meanwhile, however, some other factors entered the political
 picture. Significant opposition developed around Fayette because of
 Evers' high-handed style of governing. In addition, he lost the
 backing of Mississippi AFL-CIO President Claude Ramsay for
 discouraging unionization of a new industry in Fayette.</p>
-          <p xml:id="sc05-5_10174">Organized labor, which is not strong in southwest Mississippi,
+            <p xml:id="sc05-5_10174">Organized labor, which is not strong in southwest Mississippi,
 nevertheless proved to be a critical factor in defeating Evers and
 electing white Hazlehurst attorney Jay Disharoon, who had made an
 all-out bid for labor support. Disharoon, thirty-four, also had
 developed good relations with area blacks in a previous race for a
 U.S. congressional seat.</p>
-          <p xml:id="sc05-5_10175">Evers fell some thirteen hundred votes below what he had received
+            <p xml:id="sc05-5_10175">Evers fell some thirteen hundred votes below what he had received
 the year before in the U.S. Senate race in the four counties, and
 Disharoon wound up the winner by nine hundred votes in the November,
 1979 general election.</p>
-          <p xml:id="sc05-5_10176">This was the first of two political setbacks for the veteran
+            <p xml:id="sc05-5_10176">This was the first of two political setbacks for the veteran
 Mississippi civil rights leader in his supposed stronghold. A year and
 a half later, Kennie Middleton, a thirty-year-old black attorney, came
 along and upset Evers for the mayor's job in Fayette.</p>
-          <p xml:id="sc05-5_10177">Disharoon kept his fences mended with his black constituents and
+            <p xml:id="sc05-5_10177">Disharoon kept his fences mended with his black constituents and
 when this year's elections rolled around, he drew no opponents.</p>
-          <p xml:id="sc05-5_10178"/>
-          <p xml:id="sc05-5_10179">Newly created house district twenty-nine, a 67.1 percent majority
+            <p xml:id="sc05-5_10178"/>
+            <p xml:id="sc05-5_10179">Newly created house district twenty-nine, a 67.1 percent majority
 black voting district in Bolivar County was considered almost a
 certainty to elect a black this year. The race pitted two white
 incumbent representatives, Ed Jackson of Cleveland and Hilliard Lawler
 of Rosedale, both of whom had rather good "moderate" credentials,
 along with a black candidate, Reverend Henry Ward, Jr.</p>
-          <p xml:id="sc05-5_10180">Ward led the field in the August 2 first Democratic primary, going
+            <p xml:id="sc05-5_10180">Ward led the field in the August 2 first Democratic primary, going
 into a runoff with Jackson, forty-one year old printing company owner,
 on August 23. Jackson had done a lot of personal favors for his black
 constituents and was able to pull enough votes out of the black
 community to edge Ward by three hundred votes in the second
 primary. Ward's defeat was blamed largely on a poor turnout of black
 voters in the runoff.</p>
-          <p xml:id="sc05-5_10181"/>
-          <p xml:id="sc05-5_10182">Jealousies and divisiveness among black leadership in Mississippi
+            <p xml:id="sc05-5_10181"/>
+            <p xml:id="sc05-5_10182">Jealousies and divisiveness among black leadership in Mississippi
 continue to plague efforts of blacks to win political offices that are
 within their grasp.</p>
-          <p xml:id="sc05-5_10184">The classic example was the failure of State Rep. Robert Clark of
+            <p xml:id="sc05-5_10184">The classic example was the failure of State Rep. Robert Clark of
 Ebeneezer to win the Second Congressional District seat last year
 after impressively capturing the Democratic nomination in the first
 Democratic primary of June, 1982. The fifty-three year old Clark, a
@@ -1271,30 +1357,31 @@ popular black legislative figure, was given strong endorsements by
 Governor William Winter and all leading white Democrats in the state
 in his general election face-off with Republican Webb Franklin last
 November.
-<pb xml:id="sc05-5_10183" n="9"/></p>
-          <p xml:id="sc05-5_10185">Clark's own campaign organization estimated he needed only about
+<pb xml:id="sc05-5_10183" n="9"/>
+            </p>
+            <p xml:id="sc05-5_10185">Clark's own campaign organization estimated he needed only about
 twelve percent of the white vote in the twenty-one county district to
 win comfortably. The district, embracing eleven Delta counties, had a
 53.6 percent black population majority, and unofficial voter
 registration figures indicated blacks made up a fifty-five percent
 majority of registered voters district-wide.</p>
-          <p xml:id="sc05-5_10186">The white vote that Clark needed materialized, but he fell two
+            <p xml:id="sc05-5_10186">The white vote that Clark needed materialized, but he fell two
 thousand votes short of winning when the black vote failed to reach
 expectations in a half dozen counties where he ran significantly below
 the black vote Jimmy Carter received in 1980.</p>
-          <p xml:id="sc05-5_10187">Many of Clark's campaign supporters blame the defeat of the Holmes
+            <p xml:id="sc05-5_10187">Many of Clark's campaign supporters blame the defeat of the Holmes
 County legislator on a few black political leaders and office-holders
 in the Delta who feared that the election of a moderate like Clark
 would diminish their local power and make him the consummate spokesman
 for the black community.</p>
-          <p xml:id="sc05-5_10188">Instances were found where close supporters of former Tchula Mayor
+            <p xml:id="sc05-5_10188">Instances were found where close supporters of former Tchula Mayor
 Eddie Carthan, now serving a federal prison sentence for falsifying
 statements to receive federal funds, discouraged blacks from voting
 for Clark because the Ebeneezer lawmaker had not defended
 Carthan. Several black mayors were also believed cool toward Clark
 because he was chosen by an informal caucus of blacks to be the
 candidate, rather than they.</p>
-          <p xml:id="sc05-5_10189">Since the not-too-distant past when Robert Clark was the one black
+            <p xml:id="sc05-5_10189">Since the not-too-distant past when Robert Clark was the one black
 to sit in the Mississippi Legislature, there has been a dramatic
 increase in the number of black lawmakers. Four years ago, following
 creation of single-member legislative districts under federal court
@@ -1303,7 +1390,7 @@ seventeen--two in the Senate and fifteen in the House. As a result of
 this year's elections, to be completed on, November 8, blacks are
 assured of two additional seats in the House, and possibly a third,
 with a good chance of increasing the number of senators to three.</p>
-          <p xml:id="sc05-5_10190">However, this total of twenty or twenty-one black lawmakers in
+            <p xml:id="sc05-5_10190">However, this total of twenty or twenty-one black lawmakers in
 Mississippi still falls considerably below the potential of black
 representation based on the number of legislative districts with
 majority black voting age populations. Ten Senate districts have a
@@ -1311,29 +1398,39 @@ black VAP of fifty percent or more, four of them over sixty
 percent. Among House districts, a total of twenty-six districts have
 fifty percent or more black VAP, sixteen of them more than sixty
 percent.</p>
-          <p xml:id="sc05-5_10191">Although they represent only fifteen percent of the total
+            <p xml:id="sc05-5_10191">Although they represent only fifteen percent of the total
 membership of the Mississippi House, the bloc of black lawmakers has
 been effective by standing together on several mayor issues, primarily
 against increases in taxes which hit the poor and blacks
 hardest. Reluctantly, some of the younger, more aggressive black
 lawmakers have come around to the philosophy of Robert Clark that they
 must first work within the system before they can change it.</p>
-          <p xml:id="sc05-5_10192">Because Buddie Newman and his "Delta barons" have once more
+            <p xml:id="sc05-5_10192">Because Buddie Newman and his "Delta barons" have once more
 consolidated power, the prospect looms for at least four more years of
 waiting for change. What impact the black legislators can have in the
 meantime depends upon a dole system, in whose features lie a glimpse
 of plantation days.</p>
-          <div3 xml:id="sc05-5_025" type="About">
-            <p xml:id="sc05-5_10193">Bill Minor, a longtime observer of Mississippi polities,
+            <div3 xml:id="sc05-5_025" type="About">
+               <p xml:id="sc05-5_10193">Bill Minor, a longtime observer of Mississippi polities,
 lives in Jackson. </p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_006" n="7" type="Article">
-          <head>Testing for Competency</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Dixon, Hortense</reg><sic>Hortense Dixon</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
-          
-          <p xml:id="sc05-5_10194">Twenty-one states now base teacher certification on the results of
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_006" n="7" type="Article">
+            <head>Testing for Competency</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Dixon, Hortense</reg>
+                        <sic>Hortense Dixon</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 20-22</docDate>
+            <interp>
+               <certainty ana="#T02" degree="41.2"/>
+            </interp>
+            <p xml:id="sc05-5_10194">Twenty-one states now base teacher certification on the results of
 competency tests. These tests measure what is considered to be "basic
 knowledge" appropriate for the eighth grade level. At the same time,
 an increasing number of states and metropolitan school districts are
@@ -1341,7 +1438,7 @@ requiring the passing of a standardized test as a requirement for
 receiving a high school diploma. Those who fail the test will receive
 either a certificate of attendance or a diploma noting recipients'
 deficiencies in basic skills.</p>
-          <p xml:id="sc05-5_10195">In the city where I live, the Houston Independent School District
+            <p xml:id="sc05-5_10195">In the city where I live, the Houston Independent School District
 recently adopted competency testing for all currently certified
 teachers and standardized testing in all subjects in grades nine
 through twelve with the passing grade for the subject determined by
@@ -1350,14 +1447,14 @@ conducted hearings on major curriculum changes that would require more
 time on the study of science, math and English. The President of the
 United States has placed his stamp of approval on a "return to the
 basics."</p>
-          <p xml:id="sc05-5_10196">The national search to discover what has gone wrong with our
+            <p xml:id="sc05-5_10196">The national search to discover what has gone wrong with our
 schools has drawn a tiny circle around teachers, students and
 standardized test results. This search seeks the comfort zone of an
 earlier time in a simplistic return to the tree it's. Such a tightly
 drawn circle zeros in on minimal considerations of what knowledge
 teachers and students must have today and on the least powerful tools
 for learning.</p>
-          <p xml:id="sc05-5_10197">Of course teachers and graduates must be capable of reading,
+            <p xml:id="sc05-5_10197">Of course teachers and graduates must be capable of reading,
 writing and computing. But they must also be excellent in
 comprehending what they read, of analyzing what they hear, of
 synthesizing new and old information and of judging what is of
@@ -1365,18 +1462,18 @@ immediate and what is of long-term value. It is only within a large
 circle of interpretation that we can make sense of ourselves and of
 the people and events that are moving us into the twenty-first
 century.</p>
-          <p xml:id="sc05-5_10198">We are in the midst of a transformation from an industrially
+            <p xml:id="sc05-5_10198">We are in the midst of a transformation from an industrially
 oriented society to a society of high-tech, information and
 education. An historical shift as significant as that from an
 agricultural to an industrial society is underway. As individuals and
 groups within American society grapple with the shape, direction and
 speed of this transformation, the educational system reflects the
 current fuzzy state of misunderstanding.</p>
-          <p xml:id="sc05-5_10199">Teachers and school administrators, trained for what used to be,
+            <p xml:id="sc05-5_10199">Teachers and school administrators, trained for what used to be,
 are caught between the demands of an educational program designed for
 the industrial society that is passing and the fuzzy and contentious
 terrain of emerging patterns of leisure and work.</p>
-          <p xml:id="sc05-5_10201">Sources of information are stratified by special 
+            <p xml:id="sc05-5_10201">Sources of information are stratified by special 
 <pb xml:id="sc05-5_10200" n="21"/>
 interest,
 fragmented and frequently without conceptual frameworks and
@@ -1388,7 +1485,7 @@ electronics, computers and the criminal justice system than most
 adults. They question and challenge the contradictions and paradoxes
 that their parents and teachers have been taught to accept or
 dismiss. Teaching them is much more complex than ever before.</p>
-          <p xml:id="sc05-5_10202">Our children have knowledge in areas with which the school has not
+            <p xml:id="sc05-5_10202">Our children have knowledge in areas with which the school has not
 been historically concerned. Much of their knowledge is attuned to the
 emerging society. While the educational system enforces the old
 curriculum, young people are already looking beyond the schools trying
@@ -1396,20 +1493,20 @@ to figure out a way to satisfy their interests and needs. Educators
 continue to teach and test for the simpler skills of an older
 day. Alarmed, they think competence can be attained by getting tougher
 and by adding on more years of the same old thing.</p>
-          <p xml:id="sc05-5_10203">Parents, both literate and illiterate, find their education,
+            <p xml:id="sc05-5_10203">Parents, both literate and illiterate, find their education,
 knowledge and skills useless and obsolete as they are "laid-off,"
 never to be recalled to what they believed to be their life's work in
 industrial society. They, too, know that their education no longer
 serves them well. No wonder that they wonder about their children's
 education, still very similar to their own.</p>
-          <p xml:id="sc05-5_10204">Why don't our children learn to read? Is it because they receive
+            <p xml:id="sc05-5_10204">Why don't our children learn to read? Is it because they receive
 most of their information from sources other than books and printed
 material? Is it because what we teach them to read is out of touch
 with the world as they know it? Is is because they learn twice as much
 from what they see and hear than from what they read? The answers to
 these questions will not come through competency testing or stratified
 diplomas.</p>
-          <p xml:id="sc05-5_10205">We did not discover in 1970 or 1980 that "Johnny could not read."
+            <p xml:id="sc05-5_10205">We did not discover in 1970 or 1980 that "Johnny could not read."
 It was posed as a question in the 1950s. The most significant answer
 then, as it is today, concerned the relationship between poverty and
 learning. We know today, just as we knew then, of the destructive
@@ -1417,17 +1514,17 @@ effects of socioeconomic deprivation into which many children are born
 and continue to live. These findings. which require drawing the larger
 circle, have yet to be integrated into discussions of educational
 policy.</p>
-          <p xml:id="sc05-5_10206">Other answers, learned in the 1950s and still outside the circle,
+            <p xml:id="sc05-5_10206">Other answers, learned in the 1950s and still outside the circle,
 showed the importance of caring teachers and of the attention given to
 developing self-concepts and creative adaptations of the curriculum
 linked to the child's experiences and exposures. Another fifties"
 lesson taught us that the expectations of teachers have more to do
 with students" performance than do IQ scores.</p>
-          <p xml:id="sc05-5_10207">How do we measure a teacher's skills in helping students from
+            <p xml:id="sc05-5_10207">How do we measure a teacher's skills in helping students from
 impoverished backgrounds overcome their circumstances? Can such
 learning be measured by a standardized test? Or such teachers by a
 competency test?</p>
-          <p xml:id="sc05-5_10208">How do we measure the important role that many black colleges and
+            <p xml:id="sc05-5_10208">How do we measure the important role that many black colleges and
 universities have played in educating black youngsters even while
 these institutions themselves suffered under discriminatory
 circumstances? Given this history, what are we to make of the fact
@@ -1438,7 +1535,7 @@ eighties and nineties with only four falling below seventy-five
 percent. Such figures raise serious questions about the competency
 test used, its design and standardized process, the selection criteria
 and cultural bias.</p>
-          <p xml:id="sc05-5_10209">Such test results also demonstrate how blacks may be more adversely
+            <p xml:id="sc05-5_10209">Such test results also demonstrate how blacks may be more adversely
 affected by the competency testing movement. The number of black
 teachers in the South may be reduced at a time when more and more
 education is required if students are to have hopes for a satisfying
@@ -1448,7 +1545,7 @@ factor associated with the completion rate of students is whether or
 not there are teachers who are like them, teachers with whom they can
 identify. Still another generation of under-educated and uneducated
 blacks stand on the edge of perpetuating a black underclass.</p>
-          <p xml:id="sc05-5_10210">But there is a further failing with regard to competency
+            <p xml:id="sc05-5_10210">But there is a further failing with regard to competency
 testing. What the testers are satisfied with--a narrowly conceived
 "body of knowledge" known as eighth grade competence--gives a false
 impression to teachers, parents and students that such minimal skills,
@@ -1459,7 +1556,7 @@ kitchen helper jobs whose low pay and un-unioned status represent the
 foundation of exploitation upon which the economic inequalities of the
 South will be perpetuated. Another generation of cheap and contented
 labor?</p>
-          <p xml:id="sc05-5_10211">As the movement toward standardized testing and "basics" teaching
+            <p xml:id="sc05-5_10211">As the movement toward standardized testing and "basics" teaching
 sweeps the South we must see it in relation to this section's old
 habits and tendencies. We must raise, even if we cannot yet answer,
 some familiar sounding questions. Is the racial dilemma that has
@@ -1472,52 +1569,62 @@ inequalities undergirding this movement? Are we, in the rush to
 simple-minded basics, about to position the South for the back-end
 rather than the front-end of the economic, social and cultural
 revolution that is already underway?</p>
-          <p xml:id="sc05-5_10213">A new society is unfolding in America and in the South. Its key
+            <p xml:id="sc05-5_10213">A new society is unfolding in America and in the South. Its key
 lies in learning how to learn. In requires 
 <pb xml:id="sc05-5_10212" n="22"/>
 greater attention to an
 expenditures for education than we have ever committed. It requires,
 if we are to honor our pledge toward the promotion of equality, the
 pursuit of public policy not private advantage.</p>
-          <p xml:id="sc05-5_10214">As we work toward the creation of a just society in the South, we
+            <p xml:id="sc05-5_10214">As we work toward the creation of a just society in the South, we
 must be sure that what we teach is of value and that how we teach
 fosters an unquenchable desire to learn. Competency testing does
 neither.</p>
-          <div3 xml:id="sc05-5_026" type="About">
-            <p xml:id="sc05-5_10215">Hortense Dixon is profesor of home economics at Texas
+            <div3 xml:id="sc05-5_026" type="About">
+               <p xml:id="sc05-5_10215">Hortense Dixon is profesor of home economics at Texas
 Southern University and serves on the executive committee of the
 Southern Regional Council.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_007" n="3" type="Article">
-          <head>Aaron Henry from Clarksdale</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Long, Worth</reg><sic>Worth Long</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
-          
-          <p xml:id="sc05-5_10216">This is Aaron Henry and I'm from Clarksdale, have always lived
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_007" n="3" type="Article">
+            <head>Aaron Henry from Clarksdale</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Long, Worth</reg>
+                        <sic>Worth Long</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 9-12</docDate>
+            <interp>
+               <certainty ana="#T07" degree="42.9"/>
+            </interp>
+            <p xml:id="sc05-5_10216">This is Aaron Henry and I'm from Clarksdale, have always lived
 here. Born outside of the city limits on a plantation called Flowers'
 Brothers. It's still out there. I grew up chopping cotton, picking
 cotton, slopping hogs, milking cows, doing all the things that a
 country boy does. No nostalgia, that's simply the area of my
 beginning.</p>
-          <p xml:id="sc05-5_10217">When I was a youngster, going to school out in the country, white
+            <p xml:id="sc05-5_10217">When I was a youngster, going to school out in the country, white
 kids were able to go to school seven months and black kids went
 five. Now the rationale for that was the black kids had to help
 cultivate and harvest the crops and do the work. Many of the white
 kids were sons and daughters of the plantation owners.</p>
-          <p xml:id="sc05-5_10218">It was not right, from my earliest perception, that white kids
+            <p xml:id="sc05-5_10218">It was not right, from my earliest perception, that white kids
 would go to school seven months, we couldn't go but five. That was one
 of the things I worried my mother about. I also worried her about why
 did I have to step back when a white person walked into a store
 although I was there first and why couldn't I drink water out of
 certain barrels which were marked for whites. But most of all I kept
 on her case about the school months.</p>
-          <p xml:id="sc05-5_10219">One day my momma called me. She say, "Aaron, come here." She say,
+            <p xml:id="sc05-5_10219">One day my momma called me. She say, "Aaron, come here." She say,
 "About this five months and seven months school deal. I want you to
 know you my boy--and you don't need but five. The rest of them jokers
 they go to have seven, but you my boy, you don't need but five." Hell,
 I been cocky ever since.</p>
-          <p xml:id="sc05-5_10220">My mother was involved with the Methodist church as long as I can
+            <p xml:id="sc05-5_10220">My mother was involved with the Methodist church as long as I can
 remember. And the white and black women of the Woman's Society of
 Christian Service--they were trying to Christianize Japan--often were
 in our home. My parents were in their homes. When they came they
@@ -1526,26 +1633,26 @@ like their kids got to learn and to know me. In that way I developed
 very early an understanding that white folks put on their pants one
 leg at a time. I always had the feeling that there was no such thing
 as white supremacy and black inferiority.</p>
-          <p xml:id="sc05-5_10221">Neighbors used to tell my momma, "This boy going to get his fool
+            <p xml:id="sc05-5_10221">Neighbors used to tell my momma, "This boy going to get his fool
 self killed. I heard him talking to Mr. So-and-so and he wasn't being
 mannerable. He says 'yes' and 'new' to white folks and he don't call
 them Mr. and Mrs. He don't say 'yazzum' end 'nome.' You oughta teach
 him better cause he's going to get hurt if you don't."</p>
-          <p xml:id="sc05-5_10223">I heard it often. Neighbors come into the house--and in those days,
+            <p xml:id="sc05-5_10223">I heard it often. Neighbors come into the house--and in those days,
 grown people talked and they asked the 
 <pb xml:id="sc05-5_10222" n="10"/>
 children to leave. A lady'd
 say, "Mattie, I got something I want to talk to you about." Momma'd
 say, "Aaron, you; need to go outside for awhile." I'd listen and I'd
 hear what they were saying.</p>
-          <p xml:id="sc05-5_10224">In my time when a child was growing up, every adult in the
+            <p xml:id="sc05-5_10224">In my time when a child was growing up, every adult in the
 neighborhood was his momma and his poppa. You messed up and they got a
 hold of you. When your momma come home, they told her and you got
 another whipping. So I was always anxious to know what they were
 telling momma, cause I was kinda tough. I was doing what I felt came
 natural being a boy: climbing trees, shooting birds, stealing
 watermelons and plums, all those kinds of things.</p>
-          <p xml:id="sc05-5_10225">The major kind of resistance that blacks were engaged in as I grew
+            <p xml:id="sc05-5_10225">The major kind of resistance that blacks were engaged in as I grew
 up had to do with the farm economy and the determination of blacks to
 earn or to obtain what they'd earned. In many instances, the white
 landlord at the end of the year had the habit of not dealing
@@ -1555,27 +1662,27 @@ you heard the horror stories as I was a child, about how blacks were
 misused by whites largely because of either their unwillingness to do
 work that they felt was more and above the reward they would receive
 for it, or their demands for pay for the work that they done.</p>
-          <p xml:id="sc05-5_10226">You remember the old black folksong, "When Do We Get Paid for the
+            <p xml:id="sc05-5_10226">You remember the old black folksong, "When Do We Get Paid for the
 Work That We've Done?" That's pretty much the basic reaction of blacks
 toward white supremacy as I grew up.</p>
-          <p xml:id="sc05-5_10227">As an eleventh grade student at Coahoma County Agricultural High
+            <p xml:id="sc05-5_10227">As an eleventh grade student at Coahoma County Agricultural High
 School, we had a teacher, a young lady who had finished school at
 Dillard and had done some work at Fisk. Her name was T.K. Shelby. She
 was very much aware of the NAACP and black life. As extra reading
 material she had our class engaged in stuff like The Soul of Black
 Folk by W.E.B. Dubois, Black Boy by Richard Wright, and Strange Fruit
 by Lillian Smith.</p>
-          <p xml:id="sc05-5_10228">Well, at the conclusion of our junior year, she encouraged us to
+            <p xml:id="sc05-5_10228">Well, at the conclusion of our junior year, she encouraged us to
 take out a membership in the NAACP Youth Convention--which at that
 time was a quarter. And most of us did.</p>
-          <p xml:id="sc05-5_10229">Now that sort of ties into my further activity upon graduation from
+            <p xml:id="sc05-5_10229">Now that sort of ties into my further activity upon graduation from
 high school and the next year going directly into the armed
 service. The armed services in World War II, when I went in, was as
 segregated and discriminated as any facet of American life. Black and
 whites didn't live in the same areas, didn't eat in the same dining
 room, didn't play on the same playground. We even went to the movies
 on separate days. It was a completely apartheid situation.</p>
-          <p xml:id="sc05-5_10230">Those of us who had come into the armed services with at least a
+            <p xml:id="sc05-5_10230">Those of us who had come into the armed services with at least a
 smattering of a feeling that this was legally wrong often found
 ourselves allying with the NAACP unit in the nearest big town. We did
 basic training in Fort McClellan, Alabama. There was an NAACP chapter
@@ -1584,7 +1691,7 @@ trying to overcome segregation and discrimination in the armed
 forces. We later were billeted in California. So I just can't remember
 any time in my adult life when I was not involved in trying to
 overcome the evils of segregation.</p>
-          <p xml:id="sc05-5_10231">Now ever since I can remember anything about black life, blacks
+            <p xml:id="sc05-5_10231">Now ever since I can remember anything about black life, blacks
 have always resented mistreatment at the hands of whites. Even during
 slave ship days there were blacks who jumped overboard rather than be
 slaves. And women who threw their children in the mouths of sharks in
@@ -1596,7 +1703,7 @@ do that, we are as stupid as the fourteen year old boy who thought he
 discovered sex. It has been around a long time. Don't remember when
 there was not a movement by the black community that said, this is
 wrong and we are going to overcome it.</p>
-          <p xml:id="sc05-5_10232">But certainly the efforts of blacks in this state to have an equal
+            <p xml:id="sc05-5_10232">But certainly the efforts of blacks in this state to have an equal
 voice and a fair share of what it was, really goes back to an
 organization known as the Black and Tan Republicans which was the
 early voice for black freedom in this state. Before Roosevelt in '32,
@@ -1606,7 +1713,7 @@ ended during the time we had a Republican president in the White
 House, Abraham Lincoln. The Republican party in the South continued to
 permit blacks to participate, wherein the Democratic party became a
 white exclusive club.</p>
-          <p xml:id="sc05-5_10233">On the event of the presidential election of 1876, which brought
+            <p xml:id="sc05-5_10233">On the event of the presidential election of 1876, which brought
 together Samuel J. Tilden and Rutherford B. Hayes, when Hayes became
 President of the United States, the end of the first effort at
 participation began to erode because of the positions and the edicts
@@ -1620,7 +1727,7 @@ room you've got to sit behind the curtain." Of course Plessy refused
 to sit behind the curtain and was thrown in jail. And the Supreme
 Court ruled in 1896 that segregation was the law of the land, when it
 decided that as long as things are equal, they may be separate.</p>
-          <p xml:id="sc05-5_10235">Restaurants had an aisle generally down the center and whites went
+            <p xml:id="sc05-5_10235">Restaurants had an aisle generally down the center and whites went
 on one side and blacks went on the other. Stores had a custom--if not
 a law, to always serve all the white folks present before any of the
 blacks were server! regardless to when who came into the store. There
@@ -1633,7 +1740,7 @@ had to stand. Blacks rode in the front car on trains, right behind the
 coal car with all its soot and debris. The whole system was geared
 toward making things as comfortable as possible for whites, and as
 difficult as possible for blacks.</p>
-          <p xml:id="sc05-5_10236">We lived with this damnable separate but equalness from 1896 until
+            <p xml:id="sc05-5_10236">We lived with this damnable separate but equalness from 1896 until
 1954 when another Supreme Court overturned <hi rend="italic">Plessy
 vs. Ferguson</hi> in <hi rend="italic">Brown vs. Kansas</hi>. In the
 school desegregation case which says when you educate children and you
@@ -1643,7 +1750,7 @@ America turned around to some degree in 1954, but it was around 1965,
 '66 and some areas as late as 1970, before the integration orders from
 courts and from the people themselves in the areas actually began to
 take effect.</p>
-          <p xml:id="sc05-5_10237">White Citizens Councils were formed in response to the 1954
+            <p xml:id="sc05-5_10237">White Citizens Councils were formed in response to the 1954
 decision. The catalyst that ignited the White Citizen's Council was
 the fact that in fourteen towns in Mississippi, immediately after the
 Supreme Court decision, petitions were presented signed by more than a
@@ -1655,7 +1762,7 @@ cages of banks and lending institutions. Most of these people became
 victims of economic pressure, to the extent in some places like Yazoo
 City, those who signed petitions Y were not able to even purchase food
 although they had the money.</p>
-          <p xml:id="sc05-5_10238">Medgar Evers signed the petition for Jackson. Medgar was able to
+            <p xml:id="sc05-5_10238">Medgar Evers signed the petition for Jackson. Medgar was able to
 maneuver in the Jackson area as he did because of the allies that were
 there to give him encouragement and assist him in every way. Now you
 might recall Medgar and I became involved in the Mississippi NAACP at
@@ -1667,12 +1774,12 @@ institution. Dr. Howard was also the- president of an organization
 known as the Regional Council of Negro Leadership which was touted by
 many newspapers as the home grown NAACP. And that was a pretty good
 characterization of it.</p>
-          <p xml:id="sc05-5_10239">Upon graduation, Medgar agreed to come to Magnolia Mutual. He
+            <p xml:id="sc05-5_10239">Upon graduation, Medgar agreed to come to Magnolia Mutual. He
 worked for a year with us and the abilities of the young fellow were
 so evident that anybody who came in contact with him immediately
 recognized that there was something great in this particular
 individual.</p>
-          <p xml:id="sc05-5_10240">The first NAACP unit in Mississippi was organized in Vicksburg in
+            <p xml:id="sc05-5_10240">The first NAACP unit in Mississippi was organized in Vicksburg in
 1918, about nine years after the organization was founded in
 Springfield, Missouri. In the early 1950's there was strong talk that
 Mississippi needed someone to coordinate the efforts of fourteen or
@@ -1685,11 +1792,11 @@ that every branch president must understand that you are to be enraged
 and involved in those issues that make it possible for the progress of
 the black community to come up to the standards that you yourself feel
 that it ought.</p>
-          <p xml:id="sc05-5_10241">Medgar and I travelled over this state together a tremendous
+            <p xml:id="sc05-5_10241">Medgar and I travelled over this state together a tremendous
 amount. We had three real intimate years of working together, working
 with each other, from the time I became president of the Mississippi
 state conference in 1960 until Medgar was killed in June of 1963.</p>
-          <p xml:id="sc05-5_10242">We had gotten word that the Klan was determined to get both of
+            <p xml:id="sc05-5_10242">We had gotten word that the Klan was determined to get both of
 us. They were going to take us off one at a time. They were going to
 flip a coin and see who went first. About fifteen, sixteen persons
 were marked for extinction--Dr. Edward Stringer from Columbus,
@@ -1697,7 +1804,7 @@ Dr. Howard, Amzie Moore from Cleveland, Gilbert Mason from Gulfport,
 Vernon Dahmer from Hattiesburg, Gus Courts who was shot in his grocery
 store at Belzoni and after that he went to Chicago, and several
 others. I guess that's the mark of effectiveness.</p>
-          <p xml:id="sc05-5_10243">You know I've made my peace with God a long time ago. By the time I
+            <p xml:id="sc05-5_10243">You know I've made my peace with God a long time ago. By the time I
 got involved in the NAACP, it had been my blessing to have finished
 one of the major universities in this country and to have gone into
 the pharmaceutical business in a way that I could give some comfort
@@ -1709,25 +1816,25 @@ several things here. We've had the house bombed. The piece of tin you
 see up there in the store now a result of the last bombing of the
 drugstore. We do that to keep reminding ourselves as to what the
 situation has been, and what it can be.</p>
-          <p xml:id="sc05-5_10244">To show you what justice can come to, I'll tell you a story that
+            <p xml:id="sc05-5_10244">To show you what justice can come to, I'll tell you a story that
 begins in 1963. SNCC, CORE, NAACP and SCLC were determined to offset
 the vituperation that was being expressed by Senator Stennis, Senator
 Eastland, Jamie Whitten and other members of the Mississippi
 congressional delegation on Capitol Hill. They said that if you give
 blacks the right to vote, they won't use it. We decided that we would
 put that lie to rest. We would run for governor.</p>
-          <p xml:id="sc05-5_10245">We organized the Freedom Vote Campaign which had as its main
+            <p xml:id="sc05-5_10245">We organized the Freedom Vote Campaign which had as its main
 instrument a little newspaper, <title>The Free Press</title>. Medgar
 Evers, R.L.T. Smith, Bill Minor and several other people were involved
 in the <title>Free Press</title>. It was the instrument that we used
 to alert people throughout the state that the Freedom Vote was going
 to take place.</p>
-          <p xml:id="sc05-5_10246">I also went down to WLBT television in Jackson and asked the
+            <p xml:id="sc05-5_10246">I also went down to WLBT television in Jackson and asked the
 manager for the opportunity to buy time to run my campaign. He looked
 at me and said, "Niggah, you know we ain't go'n sell you no time on TV
 for no political campaign. We don't sell black folks no time."</p>
-          <p xml:id="sc05-5_10247">I said, "Well, I'm running and I came by to ask you."</p>
-          <p xml:id="sc05-5_10249">That night I went back to a mass meeting and reported the fact that
+            <p xml:id="sc05-5_10247">I said, "Well, I'm running and I came by to ask you."</p>
+            <p xml:id="sc05-5_10249">That night I went back to a mass meeting and reported the fact that
 the man at the television station wouldn't sell me no time, and what
 he had said to me. The National Council of Churches had a cadre of
 folks in the state at 
@@ -1738,17 +1845,17 @@ niggah, but I would like for you to go back down there with me
 tomorrow. If this is the answer we get again, the United Church of
 Christ will move to divest the station of its license. This is blatant
 racism and is against the rules and regulations of the FCC."</p>
-          <p xml:id="sc05-5_10250">So we walked in the next morning. The cat looked over the room and
+            <p xml:id="sc05-5_10250">So we walked in the next morning. The cat looked over the room and
 saw me and said, "Look niggah, I told you yesterday," he said <hi rend="italic">yestiddy</hi>, "we wadn't gotn sell you any damn time, and
 here you are back today with a damn yankee."</p>
-          <p xml:id="sc05-5_10251">I said, "Well, all right. I just come back to try."</p>
-          <p xml:id="sc05-5_10252">We walked out. The suit was filed. We fought it from 1963, won the
+            <p xml:id="sc05-5_10251">I said, "Well, all right. I just come back to try."</p>
+            <p xml:id="sc05-5_10252">We walked out. The suit was filed. We fought it from 1963, won the
 revoking of the license and finally the privilege to operate the
 station in 1979—that's fifteen, sixteen, seventeen years of
 fighting. The niggah that they wouldn't sell time to in 1963 today
 sits as the chairman of the board of directors of that damn television
 station.</p>
-          <p xml:id="sc05-5_10253">But anyway, when we decided to do the Freedom Vote Campaign in
+            <p xml:id="sc05-5_10253">But anyway, when we decided to do the Freedom Vote Campaign in
 1963, we set a date and put ballot boxes in churches and stores. There
 was one here in this drug store. In all the places where black folks
 congregated. And out of that effort we garnered the participation of
@@ -1759,8 +1866,8 @@ arguing for the Voting Rights Act of 1965. Ninety-thousand blacks in
 Mississippi who knew that their votes couldn't count but who were
 willing to cast them to demonstrate their concern for the right to
 vote.</p>
-          <div3 xml:id="sc05-5_027" type="About">
-            <p xml:id="sc05-5_10254">The following autobiographical recollections of Aaron
+            <div3 xml:id="sc05-5_027" type="About">
+               <p xml:id="sc05-5_10254">The following autobiographical recollections of Aaron
 Henry (born 1922 in Coahoma County, Mississippi) sketch his
 involvement in the movement for black civil rights up to the formation
 of the Mississippi Freedom Democratic Party and the Democratic
@@ -1769,33 +1876,40 @@ form, this interview, conducted earlier this year by Worth Long, is
 one in a series documenting the modern civil rights movement in the
 Deep South. Worth Long is director of the SRC's Civil Rights Radio
 Project.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_008" n="5" type="Article">
-          <head>Black Women's Health Conference</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Chaney, Betty Norwood</reg><sic>Betty Norwood Chaney</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
-          
-          <p xml:id="sc05-5_10255">In 1970 Byllye Avery had it made. She was married to a wonderful
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_008" n="5" type="Article">
+            <head>Black Women's Health Conference</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Chaney, Betty Norwood</reg>
+                        <sic>Betty Norwood Chaney</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, pp. 18-20</docDate>
+            <p xml:id="sc05-5_10255">In 1970 Byllye Avery had it made. She was married to a wonderful
 man. He was college educated and had a good job. They owned their
 home, had a station wagon and two children. They were a black family
 achieving the American dream.</p>
-          <p xml:id="sc05-5_10256">Suddenly, Byllye Avery's husband died of a heart attack at age
+            <p xml:id="sc05-5_10256">Suddenly, Byllye Avery's husband died of a heart attack at age
 thirty-three, a casualty of hypertension (killer of one out of every
 four blacks). Only after years of cardiovascular stress, usually
 producing no symptoms which require medical attention, does high blood
 pressure result in major complications: stroke, heart attack, heart or
 kidney failure and the premature death and disability of hundreds of
 thousands of people each year.</p>
-          <p xml:id="sc05-5_10257">High blood pressure occurs more frequently among blacks than
+            <p xml:id="sc05-5_10257">High blood pressure occurs more frequently among blacks than
 whites; it develops earlier in life, is more severe and causes higher
 mortality at younger ages. Deaths from hypertension before age forty
 are six to seven times more common in blacks than whites.</p>
-          <p xml:id="sc05-5_10258">The loss of her husband changed Byllye Avery's life. Realizing that
+            <p xml:id="sc05-5_10258">The loss of her husband changed Byllye Avery's life. Realizing that
 degrees, jobs, money or middle class trappings matter little without
 good health, she began a crusade to improve health care education and
 conditions for blacks.</p>
-          <p xml:id="sc05-5_10259">Avery co-founded the Gainesville (Florida) Women's Health Center
+            <p xml:id="sc05-5_10259">Avery co-founded the Gainesville (Florida) Women's Health Center
 and Birthplace, Alternative Birthing Center. Her discoveries about the
 conditions of black women's health appalled her. Not only was the
 incidence of hypertension in black women double that of the rest of
@@ -1806,10 +1920,10 @@ black mothers lead to psychological distress for more than half of the
 black female population. Additionally, the problem of teenage
 pregnancy is a major health and social concern and black infant
 mortality rates are twice those of whites.</p>
-          <p xml:id="sc05-5_10260">"If sickness and suffering among blacks is to be reduced," Avery
+            <p xml:id="sc05-5_10260">"If sickness and suffering among blacks is to be reduced," Avery
 said, "it will be through the development of a new consciousness about
 health and well being among black women."</p>
-          <p xml:id="sc05-5_10261">Over two years ago, Byllye Avery conceived the idea of a national
+            <p xml:id="sc05-5_10261">Over two years ago, Byllye Avery conceived the idea of a national
 conference on black women and health. Sponsored by the Black Women's
 Health Project and the National Women's Health Network, the conference
 convened this summer on the campus of Spelman College in Atlanta. Over
@@ -1821,7 +1935,7 @@ cultural and physical fitness activities. Discussion topics included
 hypertension, diabetes, cancer, lupus, domestic violence, stress,
 maternal and infant health, teenage pregnancy, elderly abuse and
 occupational and environmental health.</p>
-          <p xml:id="sc05-5_10262">Dedicated to Fannie Lou Hamer (1917-1977), activist and freedom
+            <p xml:id="sc05-5_10262">Dedicated to Fannie Lou Hamer (1917-1977), activist and freedom
 fighter, the conference theme was "I'm sick and Tired of Being Sick
 and Tired," words which Ms. Hamer said often as she struggled to
 effect change in rural Mississippi. According to conference
@@ -1829,14 +1943,14 @@ coordinator Eleanor Hinton-Hoytt, the theme symbolized not only "the
 struggles and suffering of black women, but also our commitment to
 seize control of these conditions which affect our lifestyles and
 health."</p>
-          <p xml:id="sc05-5_10264">Keynoting the conference, Dr. June Jackson Christmas of the School
+            <p xml:id="sc05-5_10264">Keynoting the conference, Dr. June Jackson Christmas of the School
 of Bio-Medical Education, City College of New York, insisted that "we
 must do more to learn and understand the causes of our being sick; the
 reasons for our being tired. Black women face the triple jeopardy of
 being black, female and poor in a racist, sexist and class 
 <pb xml:id="sc05-5_10263" n="19"/>
 structured society."</p>
-          <p xml:id="sc05-5_10265">The goal was to help black women learn to take care of their bodies
+            <p xml:id="sc05-5_10265">The goal was to help black women learn to take care of their bodies
 and take charge of their lives. "At the conference," says Byllye
 Avery, "we tried to take care of black women in the way that we think
 we need to be taken care of--in a way that nobody has taken care of us
@@ -1845,12 +1959,12 @@ self-help demonstrations. You could be tested for sickle cell anemia,
 see a film on natural childbirth or a photo exhibit on black women's
 life cycles. The second and third days began with yoga and physical
 fitness sessions.</p>
-          <p xml:id="sc05-5_10266">All the workshops were well attended but the most popular ones
+            <p xml:id="sc05-5_10266">All the workshops were well attended but the most popular ones
 dealt with the psychological conditions of black women. Many illnesses
 that black women suffer develop amid living conditions of continuous
 emotional stress. "If we are going to improve our health," argues
 Avery, "we first have got to deal with our minds."</p>
-          <p xml:id="sc05-5_10267">The most popular workshop was, "Black and Female: What is the
+            <p xml:id="sc05-5_10267">The most popular workshop was, "Black and Female: What is the
 Reality?" This session, designed and conducted by Lillie Allen, a
 family medicine educator at the Morehouse School of Medicines' Family
 Practice Center. was held three times to overflow crowds. Allen sought
@@ -1859,12 +1973,12 @@ strength. The women who attended (whites were excluded) shared deeply
 personal, often painful experiences. The conclusion of this workshop
 found hundreds of women in tears, embracing one another. "We felt,"
 said one woman, "tremendous relief."</p>
-          <p xml:id="sc05-5_10268">"It was amazing," Allen says, "how one person in talking about an
+            <p xml:id="sc05-5_10268">"It was amazing," Allen says, "how one person in talking about an
 area that was difficult for her helped the other women present. They
 were able to relate to it and it opened them up. By the end of the
 workshop the women had become genuinely interested in and supportive
 of each other."</p>
-          <p xml:id="sc05-5_10270">Allen's workshop has prompted the Black Women's Health Project to
+            <p xml:id="sc05-5_10270">Allen's workshop has prompted the Black Women's Health Project to
 make the formation of self-help health 
 <pb xml:id="sc05-5_10269" n="20"/>
 groups across the nation a
@@ -1877,7 +1991,7 @@ instance, aims at reducing high blood pressure through diet and
 exercise, while a Georgia group has hosted a women's health weekend in
 a rural area which included demonstrations on breast self-examination
 and gynecological self-help.</p>
-          <p xml:id="sc05-5_10271">While the popular cry at the end of the Atlanta conference was for
+            <p xml:id="sc05-5_10271">While the popular cry at the end of the Atlanta conference was for
 another gathering next year, Avery cautioned that "the real work has
 yet to be done." She does not project another national conference
 until 1986. In the meantime, the BWHP has set as a goal the creation
@@ -1886,24 +2000,31 @@ on health issues, regional conferences, and production and
 distribution of video health education materials and the production of
 a documentary on the national conference to be shown on Cable Atlanta
 and other cable television systems.</p>
-          <p xml:id="sc05-5_10272">Individuals or groups who seek more information should contact the
+            <p xml:id="sc05-5_10272">Individuals or groups who seek more information should contact the
 Black Women's Health Project, M.L. King, Jr. Health Center, 450 Auburn
 Avenue, Suite 157, Atlanta, Georgia 30312, (404) 659-3854.</p>
-          <div3 xml:id="sc05-5_028" type="About">
-            <p xml:id="sc05-5_10273">Betty Norwood Chaney, a former editor of <title>Southern
+            <div3 xml:id="sc05-5_028" type="About">
+               <p xml:id="sc05-5_10273">Betty Norwood Chaney, a former editor of <title>Southern
 Changes</title>, lives in Atlanta where she is a teacher, mother, and
 freelance writer.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc05-5_009" n="6" type="Article">
-          <head>Findings from U.S. Commission on Civil Rights, <title>A Growing
+            </div3>
+         </div2>
+         <div2 xml:id="sc05-5_009" n="6" type="Article">
+            <head>Findings from U.S. Commission on Civil Rights, <title>A Growing
 Crisis: Disadvantaged Women and Their Children,</title> May
 1983.</head>
-          <byline>By <docAuthor><name><choice><reg>Staff</reg><sic>Staff</sic></choice></name></docAuthor></byline>
-          <docDate when="1983-10">Vol. 5, No. 5, 1983, p. 19</docDate>
-          
-          <list>
-            <item> In its 1982 report on health insurance coverage and employment
+            <byline>By <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Staff</reg>
+                        <sic>Staff</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1983-10">Vol. 5, No. 5, 1983, p. 19</docDate>
+            <list>
+               <item> In its 1982 report on health insurance coverage and employment
 for minorities and women, the U.S. Commission on Civil Rights noted
 that black, Hispanic, and other minority women were disproportionately
 without any type of insurance coverage in case of illness. The report
@@ -1913,7 +2034,7 @@ private insurance companies. Noting that the insurance industry is not
 adequately equipped to meet the needs of these minorities and women,
 the report endorsed passage of national health insurance
 legislation.</item>
-            <item> Minority women and children have extraordinarily high rates of
+               <item> Minority women and children have extraordinarily high rates of
 morbidity and mortality. For example, in 1979 black women had a
 maternal mortality rate about four times that of white women and their
 children were twice as likely to die as white infants. The substantial
@@ -1921,7 +2042,7 @@ differences in maternal mortality and infant mortality between groups
 and differences in utilization of services suggest that significant
 barriers to good health exist that are not related to differences in
 need.</item>
-            <item> Disadvantaged women, particularly minority women, suffer from
+               <item> Disadvantaged women, particularly minority women, suffer from
 a variety of health problems associated with poverty and, in some
 instances, their race or ethnicity. Disadvantaged black women have
 higher rates of breast and cervical cancer than other groups. Among
@@ -1931,41 +2052,49 @@ harmful pesticides, debilitating living environments, and little or no
 access to health care. Poor, rural, white women have health care
 problems compounded by the extreme deprivations of poverty,
 poor-sanitation and malnutrition.</item>
-            <item> Significant barriers to health care confronting disadvantaged
+               <item> Significant barriers to health care confronting disadvantaged
 women are (1) lack of a regular primary source of care for routine
 services; (2) language and cultural differences for Hispanic women;
 (3) the cost of health care; and (4) inadequate transportation to
 facilities relocated outside of inner cities.</item>
-            <item> Research documents that the medical establishment tends to
+               <item> Research documents that the medical establishment tends to
 diagnose a majority of female complaints as psychosomatic while
 treating the complaints of male patients more seriously. This has led
 to a tendency to overprescribe drugs to women more than to men,
 particularly mood-modifying drugs.</item>
-            <item> Poverty, particularly when linked with single parenthood, poor
+               <item> Poverty, particularly when linked with single parenthood, poor
 education, and the presence of young children, is a major cause of
 emotional stress. Stress can elicit destructive responses, such as
 alcoholism, drug abuse, depressive violence, and various forms of
 mental illness. Disadvantaged women living in poverty experience
 higher lovers of stress than other subgroups.</item>
-            <item> Disadvantaged children have a greater susceptibility to
+               <item> Disadvantaged children have a greater susceptibility to
 serious health complications than other children. Poor children are
 also less likely to receive immunizations against dangerous childhood
 diseases or have routine checkups than are their peers.</item>
-          </list>
-          <p xml:id="sc05-5_10274">For many black, white, and Hispanic women. poverty means inadequate
+            </list>
+            <interp>
+               <certainty ana="#T05" degree="35"/>
+               <certainty ana="#T20" degree="27.2"/>
+            </interp>
+            <p xml:id="sc05-5_10274">For many black, white, and Hispanic women. poverty means inadequate
 and infrequent use of medical services, reduced employment
 opportunities, and increased household responsibilities. Children,
 when their mothers live in poverty, run an increased risk of birth
 defects and malnutrition and subsist in an environment that could
 interfere with education and future employability.</p>
-          <p xml:id="sc05-5_10275">As more and more women and children enter the ranks of the
+            <p xml:id="sc05-5_10275">As more and more women and children enter the ranks of the
 impoverished, the implications for the future of our society become
 overwhelming. To ignore these implications is unconscionable
 negligence. The bodies, minds, and spirits of millions of women and
 children are being inevitably and ineluctably affected by the
 dispiriting hand of poverty.</p>
-        </div2>
+         </div2>
       </div1>
-    </body>
-  </text>
+      <body>
+         <back>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="interp.xml"/>
+         </back>
+      </body>
+   </text>
 </TEI>

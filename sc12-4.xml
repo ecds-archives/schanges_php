@@ -1,19 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc12-4_1204">
-  <teiHeader xml:id="sc12-41201"><fileDesc>
-      <titleStmt>
-        <title>Southern Changes.  Volume 12, Number 4</title>
-        <respStmt>
-          <resp>Compiled and edited by</resp>
-          <name>staff</name>
-        <name/></respStmt>
-      </titleStmt>
-      <extent/>
-      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory
-University</pubPlace><address>
-          <addrLine>Atlanta,
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sc12-4_1204">
+   <teiHeader xml:id="sc12-41201">
+      <fileDesc>
+         <titleStmt>
+            <title>Southern Changes.  Volume 12, Number 4</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>staff</name>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory
+University</pubPlace>
+            <address>
+               <addrLine>Atlanta,
 Georgia</addrLine>
-        </address><idno type="ark" n="sc12-4_002">http://pid.emory.edu/ark:/25593/14nwv</idno><idno type="ark" n="sc12-4_003">http://pid.emory.edu/ark:/25593/14nx0</idno><idno type="ark" n="sc12-4_004">http://pid.emory.edu/ark:/25593/14nz4</idno><idno type="ark" n="sc12-4_005">http://pid.emory.edu/ark:/25593/14p0c</idno><idno type="ark" n="sc12-4_006">http://pid.emory.edu/ark:/25593/14p1h</idno><idno type="ark" n="sc12-4_007">http://pid.emory.edu/ark:/25593/14p2n</idno><idno type="ark" n="sc12-4_008">http://pid.emory.edu/ark:/25593/14p3s</idno><idno type="ark" n="sc12-4_009">http://pid.emory.edu/ark:/25593/14p4x</idno><idno type="ark" n="sc12-4_010">http://pid.emory.edu/ark:/25593/14p52</idno><availability>
-          <p xml:id="sc12-4_101">1996 Emory
+            </address>
+            <idno type="ark" n="sc12-4_002">http://pid.emory.edu/ark:/25593/14nwv</idno>
+            <idno type="ark" n="sc12-4_003">http://pid.emory.edu/ark:/25593/14nx0</idno>
+            <idno type="ark" n="sc12-4_004">http://pid.emory.edu/ark:/25593/14nz4</idno>
+            <idno type="ark" n="sc12-4_005">http://pid.emory.edu/ark:/25593/14p0c</idno>
+            <idno type="ark" n="sc12-4_006">http://pid.emory.edu/ark:/25593/14p1h</idno>
+            <idno type="ark" n="sc12-4_007">http://pid.emory.edu/ark:/25593/14p2n</idno>
+            <idno type="ark" n="sc12-4_008">http://pid.emory.edu/ark:/25593/14p3s</idno>
+            <idno type="ark" n="sc12-4_009">http://pid.emory.edu/ark:/25593/14p4x</idno>
+            <idno type="ark" n="sc12-4_010">http://pid.emory.edu/ark:/25593/14p52</idno>
+            <availability>
+               <p xml:id="sc12-4_101">1996 Emory
 University. Permission is granted to download, transmit, or otherwise
 reproduce, distribute or display the contributions to the work claimed
 by Emory University for non-profit educational purposes, provided
@@ -21,34 +37,71 @@ this header is included in its entirety.  For inquiries about
 commercial uses, contact either: Southern Changes Digital Archive or Lewis
 H. Beck Center for Electronic collections and services, Emory
 University, Atlanta, Georgia 30322</p>
-        </availability><date>1996</date></publicationStmt>
-      <seriesStmt>
-        <title>Southern Changes Digital Archive</title>
-      </seriesStmt>
-      <sourceDesc>
-        <bibl><title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date when="1990-09">September-October 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
-      </sourceDesc>
-    </fileDesc><encodingDesc><projectDesc>
-        <p xml:id="sc12-4_102">This text is produced in conjunction with the
+            </availability>
+            <date>1996</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Southern Changes Digital Archive</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Southern Changes</title>. <biblScope type="volume">Volume 12</biblScope>, <biblScope type="issue">Number 4</biblScope>. <date when="1990-09">September-October 1990</date>. <pubPlace>Atlanta, GA</pubPlace>: <publisher>Southern Regional Council</publisher>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:id="sc12-4_102">This text is produced in conjunction with the
 Southern Changes Digital Archive at Emory University and the Southern
 Regional Council, 133 Carnegie Way, Suite 900, Atlanta, GA
 30303-1024</p>
-      </projectDesc>
-            <refsDecl><p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
-                In the div2 element the n attribute is a number used to sort the articles into publication order.</p></refsDecl></encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>1998</date><label>Staff</label><name>Beck Center</name>SGML tags
-inserted in compliance with TEI guidelines using TEILITE</change><change><date>2007</date><label>Electronic text specialist</label><name>Alice Hickcox</name>text in div2/@n replaced with number</change><change><date>April 2008</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change></revisionDesc></teiHeader>
-  <text xml:id="sc12-4_1203">
-    <body xml:id="sc12-4_1202">
+         </projectDesc>
+         <refsDecl>
+            <p>The "n" attribute is used in two ways in this document. In the publicationStmt/idno the n attribute contains the id of the corresponding div2.
+                In the div2 element the n attribute is a number used to sort the articles into publication order.</p>
+         </refsDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date>
+         </change>
+         <change>
+            <date>1998</date>
+            <label>Staff</label>
+            <name>Beck Center</name>SGML tags
+inserted in compliance with TEI guidelines using TEILITE</change>
+         <change>
+            <date>2007</date>
+            <label>Electronic text specialist</label>
+            <name>Alice Hickcox</name>text in div2/@n replaced with number</change>
+         <change>
+            <date>April 2008</date>
+            <label>Electronic Text Specialist</label>
+            <name>Alice Hickcox</name>idno elements containing ark identifiers added to publicationStmt.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:id="sc12-4_1203">
       <div1 xml:id="sc12-4_001" n="Southern Changes 12:4" type="Issue">
-        <head>Southern Changes.  Volume 12, Number 4, 1990</head>
-        <p xml:id="sc12-4_103"><title>Southern Changes</title>.  Volume 12, Number 4,
-	       <date when="1990-09">1990</date></p>
-        <div2 xml:id="sc12-4_002" n="5" type="Article">
-          <head>South of Art</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Willett, Henry</reg><sic>Henry Willett</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 14-15</docDate>
-          
-          <p xml:id="sc12-4_104">In 1974, Walker Percy, with a bit of subtle equivocation, wrote,
+         <head>Southern Changes.  Volume 12, Number 4, 1990</head>
+         <p xml:id="sc12-4_103">
+            <title>Southern Changes</title>.  Volume 12, Number 4,
+	       <date when="1990-09">1990</date>
+         </p>
+         <div2 xml:id="sc12-4_002" n="5" type="Article">
+            <head>South of Art</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Willett, Henry</reg>
+                        <sic>Henry Willett</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 14-15</docDate>
+            <interp>
+               <certainty ana="#T04" degree="38.8"/>
+            </interp>
+            <p xml:id="sc12-4_104">In 1974, Walker Percy, with a bit of subtle equivocation, wrote,
 "Well, the so-called Southern thing is over and done with, I
 think." Of course he was wrong. The Southern thing is as strong as
 it has ever been. This past year saw the publication of the 1,600-page
@@ -59,7 +112,7 @@ Daisy. Steel Magnolias was the most popular stage production in
 America last year. Though often flattered, we know the Steel Magnolias
 audiences in New York or Chicago or Los Angeles aren't laughing for
 the same reasons the Nachitoches, Louisiana, audience is laughing.</p>
-          <p xml:id="sc12-4_105">This regional ambivalence is typical when Southerners showcase
+            <p xml:id="sc12-4_105">This regional ambivalence is typical when Southerners showcase
 their cultural expression for the rest of the world. Several years ago
 Atlantans had high hopes that So Long On Lonely Street, an Alliance
 Theater production of a new work by Atlanta playwright Sandra Deer,
@@ -71,24 +124,24 @@ concluded that "like that other recent Atlanta export, New Coke,
 this play is not the real thing." The New York Post's Clive Barnes
 called the play "preposterous hokum-Southern fried chicken without
 the chicken."</p>
-          <p xml:id="sc12-4_106">The Atlanta critics responded to the New York critics in
+            <p xml:id="sc12-4_106">The Atlanta critics responded to the New York critics in
 kind. Helen Smith of the Atlanta Journal referred to the "rigged
 mindset" that scorns Southern playwrights and characterized New York
 as "the most arrogant and the most provincial place in the
 world."</p>
-          <p xml:id="sc12-4_107">We Southerners, it seems, have historically reacted rather
+            <p xml:id="sc12-4_107">We Southerners, it seems, have historically reacted rather
 defensively when confronted with criticism. In 1911, Georgia-born
 University of Florida professor Enoch Banks was fired after suggesting
 somewhat timidly that in the Civil War "the North was relatively in
 the right, while the South was relatively in the wrong." Even
 Mr. Banks's "relatives" weren't enough to save his position.</p>
-          <p xml:id="sc12-4_108">When the Alabama Shakespeare Festival received criticism for its
+            <p xml:id="sc12-4_108">When the Alabama Shakespeare Festival received criticism for its
 presentation of a country-pop musical based on life in rural Georgia,
 a production considered inappropriate fare and somehow beneath the
 dignity of the state Shakespeare theater, it relied on that tried and
 true New York legitimacy test--rave reviews in the Big Apple and a
 Tony award nomination--to justify its programming decision.</p>
-          <p xml:id="sc12-4_109">Southerners rely all too heavily on others to select, package,
+            <p xml:id="sc12-4_109">Southerners rely all too heavily on others to select, package,
 market and critically-legitimize Southern cultural expression,
 resulting in a commodity-marketing of Southern culture that avoids
 this culture's power and complexity, instead capitalizing on the
@@ -108,17 +161,17 @@ of the stereotypical view of Southerners as weird, as inbred, full of
 pellagra and cholera and any other disease, biological or
 psychological." Vlach's characterization of this phenomenon, I
 regret, is only slightly exaggerated.</p>
-          <p xml:id="sc12-4_1010">In the current issue of Art and Antiques magazine Eleanor Gaver
+            <p xml:id="sc12-4_1010">In the current issue of Art and Antiques magazine Eleanor Gaver
 offers the following account of the opening of a recent show of
 Thornton Dial's work at the Ricco/Maresca Gallery in New York:</p>
-          <p xml:id="sc12-4_1011">
-            <q>...a row of limousines waited, their engines idling. Inside, a
+            <p xml:id="sc12-4_1011">
+               <q>...a row of limousines waited, their engines idling. Inside, a
 well-heeled crowd of collectors, dealers and artists marveled at the
 paintings, though some were nonplused at the price list. "Fifty
 thousand dollars for work by an untrained Negro" asked one educated
 and successful neoexpressionist painter.</q>
-          </p>
-          <p xml:id="sc12-4_1013">I stood back and watched the crowd gape at a prominently displayed
+            </p>
+            <p xml:id="sc12-4_1013">I stood back and watched the crowd gape at a prominently displayed
 black-and-white photograph misrepresenting the Dial family as poor,
 down-trodden and huddled together in front of a tin shack. Nowhere was
 it 
@@ -129,10 +182,10 @@ Frank Maresca and said "It's too bad the Dials aren't here for
 their opening." Maresca just shook his head. "They shouldn't be
 exposed to the art world," he said, "it might corrupt
 them. It's better they stay where they belong."</p>
-          <p xml:id="sc12-4_1014">Perhaps Maresca really meant that the art world shouldn't be
+            <p xml:id="sc12-4_1014">Perhaps Maresca really meant that the art world shouldn't be
 exposed to the Dial family, for it might shatter some of those
 Southern stereotypes that he markets so lucratively.</p>
-          <p xml:id="sc12-4_1015">Like many other resources of the region, Southern culture has
+            <p xml:id="sc12-4_1015">Like many other resources of the region, Southern culture has
 chiefly been an export product, something sturdy, beautiful and fine
 which has often contributed richly to the shaping of American
 culture. But Southern culture has also often been expropriated,
@@ -140,34 +193,44 @@ marketed in a package of stereotypes, and sold for profit. And it will
 no doubt continue to be so expropriated until the region develops the
 will and the mechanisms for assuming the critical proprietorship of
 its own culture.</p>
-          <div3 xml:id="sc12-4_022" type="About">
-            <p xml:id="sc12-4_1016">Hank Willett is the former regional representative to the
+            <div3 xml:id="sc12-4_022" type="About">
+               <p xml:id="sc12-4_1016">Hank Willett is the former regional representative to the
 Southern states for thc National Endowment for thc arts. He has
 recently left that position to organize and direct thc Alabama Center
 for Traditional Culture.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_003" n="2" type="Article">
-          <head>Driving Mr. Walker</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Suitts, Steve</reg><sic>Steve Suitts</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 5-7</docDate>
-          
-          <p xml:id="sc12-4_1017">I was taken for a ride on Memorial Day Sunday. At home without my
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_003" n="2" type="Article">
+            <head>Driving Mr. Walker</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Suitts, Steve</reg>
+                        <sic>Steve Suitts</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 5-7</docDate>
+            <interp>
+               <certainty ana="#T07" degree="63.8"/>
+            </interp>
+            <p xml:id="sc12-4_1017">I was taken for a ride on Memorial Day Sunday. At home without my
 family (off visiting relatives) I was sitting on my front porch when a
 stranger approached. Dressed in a golf shirt, shorts, and running
 shoes, the black man had a story--one I had heard dozens of times.</p>
-          <p xml:id="sc12-4_1018">"My family and I were driving through Atlanta and our car broke
+            <p xml:id="sc12-4_1018">"My family and I were driving through Atlanta and our car broke
 down on I-20. I have been stranded with my wife and two little babies
 all night... "</p>
-          <p xml:id="sc12-4_1019">It's a line that has been used by panhandlers and hustlers in
+            <p xml:id="sc12-4_1019">It's a line that has been used by panhandlers and hustlers in
 Atlanta so often in the last few years that even the local radio talk
 shows have discussed the come-on. "The wrecker service has my car
 and we haven't eaten all night..."</p>
-          <p xml:id="sc12-4_1020">"What do you want me to do?" I asked.</p>
-          <p xml:id="sc12-4_1021">"I need a ride to my car and get it from the
+            <p xml:id="sc12-4_1020">"What do you want me to do?" I asked.</p>
+            <p xml:id="sc12-4_1021">"I need a ride to my car and get it from the
 wrecker. . . "</p>
-          <p xml:id="sc12-4_1022">This time I said, "All right. Let me get my keys."</p>
-          <p xml:id="sc12-4_1023">We drove my car, a 1978 Chevy Malibu with a loud muffler, and he
+            <p xml:id="sc12-4_1022">This time I said, "All right. Let me get my keys."</p>
+            <p xml:id="sc12-4_1023">We drove my car, a 1978 Chevy Malibu with a loud muffler, and he
 talked non-stop. He was from Boston...in the Air Force as a career
 man...had been stationed in Panama...now he wanted to come down
 South...his car had broken down late yesterday afternoon...he had been
@@ -176,78 +239,78 @@ taken in his wife and kids...a police lieutenant had helped him with
 some money until called away on an emergency...the wrecker repair shop
 wanted $120 and he had paid them all he had... "What's your name,
 sir?"</p>
-          <p xml:id="sc12-4_1024">"You look like a lawyer, are you, sir? Do you need to go by a
+            <p xml:id="sc12-4_1024">"You look like a lawyer, are you, sir? Do you need to go by a
 money machine to get any cash?"</p>
-          <p xml:id="sc12-4_1025">"How much do you owe for your car?" I asked.</p>
-          <p xml:id="sc12-4_1026">"Fifty-seven dollars. Do you have it? Do you need to go by a
+            <p xml:id="sc12-4_1025">"How much do you owe for your car?" I asked.</p>
+            <p xml:id="sc12-4_1026">"Fifty-seven dollars. Do you have it? Do you need to go by a
 money machine to get the cash?"</p>
-          <p xml:id="sc12-4_1027">"I think I have that much."</p>
-          <p xml:id="sc12-4_1028">We were traveling down Memorial Drive where a Baptist hospital and
+            <p xml:id="sc12-4_1027">"I think I have that much."</p>
+            <p xml:id="sc12-4_1028">We were traveling down Memorial Drive where a Baptist hospital and
 the Martin Luther King Center stand as landmarks. I hadn't expected
 him to ask for so much cash, whether his story was genuine or fake.</p>
-          <p xml:id="sc12-4_1029">"Sir, don't you wear a seat belt?"</p>
-          <p xml:id="sc12-4_1030">Only then, as I pulled up my strap with a thank-you, did I realize
+            <p xml:id="sc12-4_1029">"Sir, don't you wear a seat belt?"</p>
+            <p xml:id="sc12-4_1030">Only then, as I pulled up my strap with a thank-you, did I realize
 how tense I had become.</p>
-          <p xml:id="sc12-4_1031">Mr. Walker continued to talk and talk. About his car...about his
+            <p xml:id="sc12-4_1031">Mr. Walker continued to talk and talk. About his car...about his
 life...he had bought the car from his lieutenant...He was "one of
 the lieutenant's boys...We looked after him and he looked after
 us..." He talked about his family...about how hard it is to have
 someone help you when you're in a strange place...</p>
-          <p xml:id="sc12-4_1033">As we turned right, following his instructions, the monologue began
+            <p xml:id="sc12-4_1033">As we turned right, following his instructions, the monologue began
 to blur as I realized that the city wrecker service was actually in
 another direction. "I think we're 
 <pb xml:id="sc12-4_1032" n="6"/>
 gonna like it down
 here. ..Atlanta is such a clean city. . .look over at that parking
 lot...there's nothing there...no trash. . .nothing.. . "</p>
-          <p xml:id="sc12-4_1034">Finally, when he said to turn left, I asked him: "What was your
+            <p xml:id="sc12-4_1034">Finally, when he said to turn left, I asked him: "What was your
 name, again?"</p>
-          <p xml:id="sc12-4_1035">"Walker. Robert Walker."</p>
-          <p xml:id="sc12-4_1036">We were now at the edge of Capitol Homes, one of the federal
+            <p xml:id="sc12-4_1035">"Walker. Robert Walker."</p>
+            <p xml:id="sc12-4_1036">We were now at the edge of Capitol Homes, one of the federal
 housing projects squeezed between the interstate highway and the
 Georgia government buildings. He asked me to stop.</p>
-          <p xml:id="sc12-4_1037">"Where's the lot-the wrecker service, Mr. Walker?" I
+            <p xml:id="sc12-4_1037">"Where's the lot-the wrecker service, Mr. Walker?" I
 asked.</p>
-          <p xml:id="sc12-4_1038">"Oh, I have to call him first on his beeper...I just thought you
+            <p xml:id="sc12-4_1038">"Oh, I have to call him first on his beeper...I just thought you
 might want to give me the money here so that we don't do it out in the
 open. ..This is a rough neighborhood and I wouldn't want folks to get
 the wrong idea. ..Do you have a pen or pencil and I'll get your name
 and number and send you your money as soon as I get to the
 base. . . ?"</p>
-          <p xml:id="sc12-4_1039">With no wrecker service, tow-truck, or family in sight, I ripped a
+            <p xml:id="sc12-4_1039">With no wrecker service, tow-truck, or family in sight, I ripped a
 piece of paper and wrote down my name and telephone number while
 Mr. Walker did the same.</p>
-          <p xml:id="sc12-4_1040">"See, I even wrote down that I owe you $57." He now had my
+            <p xml:id="sc12-4_1040">"See, I even wrote down that I owe you $57." He now had my
 money.</p>
-          <p xml:id="sc12-4_1041">"I could just walk on over from here by myself, if you don't
+            <p xml:id="sc12-4_1041">"I could just walk on over from here by myself, if you don't
 mind."</p>
-          <p xml:id="sc12-4_1042">"Sure."</p>
-          <p xml:id="sc12-4_1043">As I drove away, I looked back in the rear view mirror at
+            <p xml:id="sc12-4_1042">"Sure."</p>
+            <p xml:id="sc12-4_1043">As I drove away, I looked back in the rear view mirror at
 Mr. Walker. He was walking away with the same brisk step, the same
 sense of purpose with which he had arrived on my porch. I tried to
 understand what had happened. Why had I given a not-so-perfect
 stranger $57 when two or three times a day I stubbornly turn down
 pleas on the street for a quarter?</p>
-          <p xml:id="sc12-4_1044">Part of it was fear and part was comfort, I suspect. While
+            <p xml:id="sc12-4_1044">Part of it was fear and part was comfort, I suspect. While
 listening to Mr. Walker's monologue, I realized that there was
 something large, bulky, and sharp in his short pants. He kept his hand
 near it. The object could have been a knife or it could have been a
 long key chain. Sitting within two feet of me in the car, Mr. Walker
 left me more vulnerable on a deserted Sunday morning than do most
 panhandlers on the street.</p>
-          <p xml:id="sc12-4_1045">Also, Mr. Walker didn't appear to be entirely destitute of drive or
+            <p xml:id="sc12-4_1045">Also, Mr. Walker didn't appear to be entirely destitute of drive or
 ambition. A middle-aged black man, he was dressed just like my brother
 would have been had he been coming down from Chicago. He was
 articulate and talked clearly about values of family and work-all
 characteristics that probably made him seem all the more deserving in
 my eyes.</p>
-          <p xml:id="sc12-4_1046">But, why did I allow myself to be put into that situation? Why did
+            <p xml:id="sc12-4_1046">But, why did I allow myself to be put into that situation? Why did
 I let that chain of events happen in the first place?</p>
-          <p xml:id="sc12-4_1047">Looking back, I think it was one of those moments in my life when I
+            <p xml:id="sc12-4_1047">Looking back, I think it was one of those moments in my life when I
 needed to risk something, a little money and perhaps my own faith in
 human beings, in order to see if I was really living in a community
 where people do help strangers in need.</p>
-          <p xml:id="sc12-4_1049">This wasn't an organized decision to witness my concern for the
+            <p xml:id="sc12-4_1049">This wasn't an organized decision to witness my concern for the
 poor, as is volunteering at a homeless shelter. While important, that
 commitment could not touch the 
 <pb xml:id="sc12-4_1048" n="7"/>
@@ -256,7 +319,7 @@ there I could no longer go on turning down strangers blindly without
 knowing if I was truly able as an individual to do something
 meaningful about the suffering and distress that I see walking down
 the streets everyday near my office and home.</p>
-          <p xml:id="sc12-4_1050">For ten years I have negotiated with my conscience and with the
+            <p xml:id="sc12-4_1050">For ten years I have negotiated with my conscience and with the
 homeless, hustlers, peddlers, and the distressed as I walk the
 streets. Telling most of them, "No, I'm sorry I can't help you
 today...but good luck," I have built an elaborate set of rules of
@@ -271,24 +334,24 @@ South of concern for all had become so narrowed over time that I can
 now count as my neighbors only those individuals I know in
 person. Simply, I needed to know if I could truly be a good Samaritan
 living in the heart of the South.</p>
-          <p xml:id="sc12-4_1051">Apparently not. Mr. Walker took my money and I have not heard from
+            <p xml:id="sc12-4_1051">Apparently not. Mr. Walker took my money and I have not heard from
 him since. Don't expect I will. Clearly, I was more of a sucker than a
 Samaritan. Suspecting as much, I called the phone number Mr. Walker
 gave me for the "naval air side base." It was probably a random
 number--a phone recording for someone who tried to sound like
 W.C. Fields when asking that you leave a message.</p>
-          <p xml:id="sc12-4_1052">Looking back, I know that I was willing to run a risk from the time
+            <p xml:id="sc12-4_1052">Looking back, I know that I was willing to run a risk from the time
 Mr. Walker came to my porch to the time I handed over the money
 because I thought both he and I had promise. He was energetic and
 able-bodied. He was someone who, if helped, could prevent tragedy in
 his life, make something out of his life. My little act of charity
 could possibly make a big difference in his life, I hoped.</p>
-          <p xml:id="sc12-4_1053">Of course, I didn't get nor deserve such self-satisfaction. Had
+            <p xml:id="sc12-4_1053">Of course, I didn't get nor deserve such self-satisfaction. Had
 Mr. Walker's family been sitting in a car as we turned the curve at
 Capitol Homes, I now see that I would have been the victim of a false
 sense of community, a bogus self satisfaction about what I alone can
 do in the face of societal homelessness and poverty.</p>
-          <p xml:id="sc12-4_1054">Until the society in which I am an active, productive member acts
+            <p xml:id="sc12-4_1054">Until the society in which I am an active, productive member acts
 in its own collective self interest, I am virtually paralyzed as a
 neighbor to stop the violence of poverty that empties the spirit,
 soul, and pocketbook of individuals and communities. My own individual
@@ -296,19 +359,26 @@ need for neighborliness--my own need to be open and generous to those
 who are different and strange--cannot be quieted for now. I must live
 with convenience and compromise because I do not live in a city or
 region where neighborliness cares for all.</p>
-          <p xml:id="sc12-4_1055">If Mr. Walker had returned my money, that would have been the real
+            <p xml:id="sc12-4_1055">If Mr. Walker had returned my money, that would have been the real
 hoax.</p>
-        </div2>
-        <div2 xml:id="sc12-4_004" n="3" type="Article">
-          <head>A Walk on the Supply Side</head>
-          <byline>
-            <docAuthor>
-              <name type="person"><choice><reg>Katz, Michael B.</reg><sic>Michael B. Katz</sic></choice></name>
-            </docAuthor>
-          </byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, p. 6</docDate>
-          
-          <p xml:id="sc12-4_1056">"One of the most enduring and indivious social categories is
+         </div2>
+         <div2 xml:id="sc12-4_004" n="3" type="Article">
+            <head>A Walk on the Supply Side</head>
+            <byline>
+               <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Katz, Michael B.</reg>
+                        <sic>Michael B. Katz</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, p. 6</docDate>
+            <interp>
+               <certainty ana="#T16" degree="40.1"/>
+            </interp>
+            <p xml:id="sc12-4_1056">"One of the most enduring and indivious social categories is
 'stranger.' We engage the world as a series of concentric circles
 based on degrees of relation: family, friends, neighbors, community,
 strangers. The composition of the circles shifts over time, but
@@ -320,7 +390,7 @@ obligation. Parents and children remained responsible for each other;
 communities were to ease the suffering of their members. But the
 public owed nothing to strangers, who were to be shunted back to their
 community of origin.</p>
-          <p xml:id="sc12-4_1057">"Within cities, poor people have almost always remained
+            <p xml:id="sc12-4_1057">"Within cities, poor people have almost always remained
 strangers. We pass their houses on a train or in a car; read about
 them as individual cases; study them as abstract statistics; and
 encounter them asking for help in public places. Most of the writing
@@ -332,15 +402,25 @@ requires personal transformation, such as the acquisition of skills,
 commitment to the work ethic, or the practice of chastity. This
 "supply-side" view of poverty, often despite powerful evidence, has
 coursed through American social thought for centuries."</p>
-          <p xml:id="sc12-4_1058">--from the introduction to <title>The Undeserving Poor</title>, by
+            <p xml:id="sc12-4_1058">--from the introduction to <title>The Undeserving Poor</title>, by
 Michael B. Katz (Pantheon Books, 1989).</p>
-        </div2>
-        <div2 xml:id="sc12-4_005" n="8" type="Review">
-          <head>Feud</head>
-          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Hall, Suzanne M.</reg><sic>Suzanne M. Hall</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 18-19</docDate>
-          
-          <p xml:id="sc12-4_1060">A local, essentially family-based dispute arose after Ranel McCoy
+         </div2>
+         <div2 xml:id="sc12-4_005" n="8" type="Review">
+            <head>Feud</head>
+            <byline>Reviewed by <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Hall, Suzanne M.</reg>
+                        <sic>Suzanne M. Hall</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 18-19</docDate>
+            <interp>
+               <certainty ana="#T04" degree="35.2"/>
+            </interp>
+            <p xml:id="sc12-4_1060">A local, essentially family-based dispute arose after Ranel McCoy
 accused Floyd Hatfield, who was "Devil" Anse Hatfield's cousin, of
 stealing a hog. The two families, however, did not resort at once to
 the bloody vengeance for which they are famed. Like other good
@@ -351,7 +431,7 @@ decision, both Hatfields and McCoys obeyed. The violence popularly
 associated with the Hatfield-McCoy feud legend did later occur, but
 the reasons for the violence stem from deeper economic and social
 changes in the region than the myth suggests.</p>
-          <p xml:id="sc12-4_1061">People often prefer myths to historical explanations. Myths do many
+            <p xml:id="sc12-4_1061">People often prefer myths to historical explanations. Myths do many
 things. They obscure contradictions and disturbing aspects of the
 past, and depict events as people wish they had happened. After the
 passage of time and the telling and re-telling of the myths, recall of
@@ -360,7 +440,7 @@ impossible. Can the historian determine what is historical fact or
 truth and what is myth? Moreover, are not myths as well as histories
 to be understood as strategies people devise to comprehend and survive
 the past?</p>
-          <p xml:id="sc12-4_1062">Altina L. Waller does a fine job of extracting the history and
+            <p xml:id="sc12-4_1062">Altina L. Waller does a fine job of extracting the history and
 meaning from the notorious late nineteenth century Hatfield-McCoy feud
 myth. The story compellingly reveals the complexities of Appalachian
 life at a time of great change from what Waller calls a pre-modern
@@ -370,7 +450,7 @@ poor, backward mountain folk railing against the forces of modern,
 industrial exploiters. Rather, it is a careful explanation that shows
 the varied facets of change in the Tug Valley of adjoining Kentucky
 and West Virginia.</p>
-          <p xml:id="sc12-4_1063">The Hatfield-McCoy conflict was not one interminable, violent
+            <p xml:id="sc12-4_1063">The Hatfield-McCoy conflict was not one interminable, violent
 exchange between two families but a feud with two major, and
 contrasting, phases. The first phase, 1878-1882, began before
 industrial capitalism exerted its power in the region and involved a
@@ -383,7 +463,7 @@ provides a photographic essay which adds another dimension,
 dramatically showing the growing contrasts between the rural
 traditional culture of the Tug Valley dwellers and the rising middle
 class town people.</p>
-          <p xml:id="sc12-4_1064">Waller challenges the view that mountaineers were inherently prone
+            <p xml:id="sc12-4_1064">Waller challenges the view that mountaineers were inherently prone
 to violence. She shows that the feudists did not have an ancient
 heritage of violent behavior. Instead, she argues that economic and
 social exploitation by both industrialists and townspeople initiated
@@ -395,7 +475,7 @@ them. The mountaineers, such as "Devil" Anse Hatfield, turned to
 violence only when the legal system, as they understood it, changed to
 support the interests of the industrialists and their town
 boosters.</p>
-          <p xml:id="sc12-4_1065">The South has a strong violent tradition, one which includes
+            <p xml:id="sc12-4_1065">The South has a strong violent tradition, one which includes
 numerous manifestations from dueling to Iynching to wife-beating to
 capital punishment. These varied forms of violence undoubtedly require
 different analyses and explanations. It seems probable that a violent
@@ -404,7 +484,7 @@ discover. From where, then, does the Southern--and not only
 Southern mountain people's--proclivity for violent behavior stem?
 Does it arise solely from the upheavals of cultural transformation or
 does it come from a deeper source?</p>
-          <p xml:id="sc12-4_1066">Waller exposes the social conflicts within the Tug Valley. For
+            <p xml:id="sc12-4_1066">Waller exposes the social conflicts within the Tug Valley. For
 instance, she finds that Anderson Hatfield, former Confederate and
 leader of the Tug Valley home guard, began to threaten traditional
 ways when he entered the timber business. People considered that
@@ -417,7 +497,7 @@ thousands of acres in a law suit. Later, in the second phase of the
 feud, the cantankerous Ranel McCoy no longer led the attack on the
 Hatfields. The vengeful foe was none other than Cline and his new
 powerful allies.</p>
-          <p xml:id="sc12-4_1067">Cline's personal vendetta against Hatfield could only be
+            <p xml:id="sc12-4_1067">Cline's personal vendetta against Hatfield could only be
 successfully waged during the second phase of the feud when he could
 ally with Pikeville merchants, who sought outside investors and
 catered to the timber and coal interests, and the governor of Kentucky
@@ -426,7 +506,7 @@ fact, Waller argues, "Cline and the governor literally recreated
 the feud in order to suppress it." By doing so, Kentucky would be
 seen as a strong law and order state that could suppress the violent
 tendencies of its inhabitants and thereby attract capitalists.</p>
-          <p xml:id="sc12-4_1068">Hatfield, ironically, becomes a symbol as preserver of the
+            <p xml:id="sc12-4_1068">Hatfield, ironically, becomes a symbol as preserver of the
 independent mountain culture, even though he had been a pioneer of
 industry himself. Cline and the Pikeville townspeople represented the
 Republican, pro-industrial order with their middle class values
@@ -435,24 +515,35 @@ feud with its themes of honor and revenge. Waller tells a complex
 story in a captivating style which satisfies the needs of scholars and
 the general reading public. Her account of the feud is vastly more
 thought-provoking and entertaining than the Hatfield-McCoy myth. K</p>
-          <div3 xml:id="sc12-4_025" type="About">
-            <p xml:id="sc12-4_1069">Suzanne Hall is a
+            <div3 xml:id="sc12-4_025" type="About">
+               <p xml:id="sc12-4_1069">Suzanne Hall is a
 member of the History faculty at Kennesaw State College in Marietta,
 Georgia.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_006" n="6" type="Review">
-          <head>A View from Death Row.</head>
-          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Finlator, W.W.</reg><sic>W.W. Finlator</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 16-17</docDate>
-          
-          <bibl><title>Last Rights</title> by Joseph
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_006" n="6" type="Review">
+            <head>A View from Death Row.</head>
+            <byline>Reviewed by <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Finlator, W.W.</reg>
+                        <sic>W.W. Finlator</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 16-17</docDate>
+            <bibl>
+               <title>Last Rights</title> by Joseph
 B. Ingle (Abingdon Press, 1990).</bibl>
-          <p xml:id="sc12-4_1070">Seldom do I have the honor to review a book written by a personal
+            <interp>
+               <certainty ana="#T14" degree="27.3"/>
+            </interp>
+            <p xml:id="sc12-4_1070">Seldom do I have the honor to review a book written by a personal
 friend and respected colleague, and I welcome the opportunity to
 identify myself with the prison ministry of Joseph Ingle and his
 eloquent presentation of it in Last Rights.</p>
-          <p xml:id="sc12-4_1071">Dr. Frank Porter Graham, former president of the University of
+            <p xml:id="sc12-4_1071">Dr. Frank Porter Graham, former president of the University of
 North Carolina, U.S. Senator, and U.N. Ambassador, used to tell us
 that when a person, born and bred in the South, steeped in and loyal
 to the best in its traditions, yet possessing the capacity for
@@ -473,7 +564,7 @@ but to the prison ministry; and, finally, his growing conviction that
 it was in Dixie Land that he must take his stand and hence his return
 "home," to take part in the founding of the Southern Coalition of
 Jails and Prisons. Quite a pilgrimage.</p>
-          <p xml:id="sc12-4_1072">The jacket of the book describes the author's involvement with
+            <p xml:id="sc12-4_1072">The jacket of the book describes the author's involvement with
 twelve men and one woman who have been executed since 1976 as "13
 fatal encounters." The phrase is on the mark. There is a sad
 inevitability in each story, for the reader is painfully aware that in
@@ -484,14 +575,14 @@ to see King Lear or Othello again, and though Joe's friends on Death
 Row show genuine character development through his loving ministry,
 their tragic ends don't bring cleansing to my soul, as such dramas are
 reputed to do.</p>
-          <p xml:id="sc12-4_1073">But there are unforgettable services Last Rights offers. The state
+            <p xml:id="sc12-4_1073">But there are unforgettable services Last Rights offers. The state
 refers to capital punishment as execution. Joe Ingle always terms it
 "killing," and he calls governors, judges, and D.A.s murderers--in our
 name. However legal the case, no matter the quantity of due process
 and exhaustion of appeals, the governor who will not grant clemency,
 the judge who will not set aside, the D A. who will not relent, is a
 killer.</p>
-          <p xml:id="sc12-4_1074">This hard ball stance by a tender hearted man can only be
+            <p xml:id="sc12-4_1074">This hard ball stance by a tender hearted man can only be
 understood in light of the life affirming nature of Joe
 Ingle. Throughout the hectic, frenetic pace of the narratives there is
 time to notice the laughter of little children, to hear the song of
@@ -500,7 +591,7 @@ fertile soil of eastern North Carolina, to listen to, smell and feel a
 Mississippi night, to remember to carry two roses to Velma Barfield
 during her last hours on Death Row. Just the man to affirm with a
 passion the lives of those who have been condemned to die.</p>
-          <p xml:id="sc12-4_1076">Without exception he demonstrates in each fatal en-
+            <p xml:id="sc12-4_1076">Without exception he demonstrates in each fatal en-
 <pb xml:id="sc12-4_1075" n="17"/>
 counter the
 humaneness of his approach and wins the love and confidence of every
@@ -517,14 +608,14 @@ unable to cope. Yet, despite their sad and sordid histories, they can
 and do change and mature and love and forgive. Joe Ingle is a man of
 simple Christian faith and the grace of God is in his book. As a
 subtitle I would suggest "The Humanization of Death Row."</p>
-          <p xml:id="sc12-4_1077">I am uncomfortable, however, when he uses the Christian faith to
+            <p xml:id="sc12-4_1077">I am uncomfortable, however, when he uses the Christian faith to
 pressure judges and governors, reminding them of Jesus and the woman
 taken in adultery or of their Presbyterian backgrounds, etc. In the
 first place it's ineffective. These "Christian" magistrates are far
 more aware of votes and constituents and their political futures than
 they are of the Bible. In the second place such a practice can be
 counter productive.</p>
-          <p xml:id="sc12-4_1078">If I were Catholic, I would deeply resent the threats Cardinal
+            <p xml:id="sc12-4_1078">If I were Catholic, I would deeply resent the threats Cardinal
 O'Connor would visit upon me if I failed to vote "Christian" on the
 abortion issue. And should the Fundamentalists some day come to
 outnumber the rest of us may Heaven and the Constitution preserve us
@@ -532,7 +623,7 @@ from a "Christian America." I dare not presume to counsel Joseph Ingle
 in his prophetic and courageous ministry, but I hope he will put a
 major emphasis upon justice and equity and due process and, yes,
 outrage.</p>
-          <p xml:id="sc12-4_1079">And indeed the author could counter my reservations by pointing to
+            <p xml:id="sc12-4_1079">And indeed the author could counter my reservations by pointing to
 those frequent passages in his book that tell me that 90 percent of
 all people on Death Row are too poor to hire lawyers to defend them,
 that court-appointed lawyers are not given to hot pursuit and often
@@ -542,61 +633,71 @@ that the number of executions is disproportionately high in the South,
 and that the majority of those on Death Row are poor, unschooled, and
 have serious emotional disorders--figures to suggest that the death
 penalty is used as a method of social control.</p>
-          <p xml:id="sc12-4_1080">Some day the pendulum will swing. Some day America will reclaim its
+            <p xml:id="sc12-4_1080">Some day the pendulum will swing. Some day America will reclaim its
 conscience and refuse to stay in company with South Africa and Iran as
 the nations with the largest number of executions. Some day we shall
 live under a government that refuses to kill its citizens. And a major
 factor in this return to sanity and humanity could be these 13 souls
 who were put to death by the state and who Joe Ingle has here kept
 alive.</p>
-          <div3 xml:id="sc12-4_026" type="About">
-            <p xml:id="sc12-4_1081">W.W. Finlator, preacher, prophet, man of justice,  lives
+            <div3 xml:id="sc12-4_026" type="About">
+               <p xml:id="sc12-4_1081">W.W. Finlator, preacher, prophet, man of justice,  lives
 as he long has in Raleigh, North Carolina.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_007" n="1" type="Article">
-          <head>You Gotta Serve Somebody</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Davis, Murphy</reg><sic>Murphy Davis</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 1-5</docDate>
-          
-          <p xml:id="sc12-4_1082">I want to begin by saying a word about my life in the Open Door
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_007" n="1" type="Article">
+            <head>You Gotta Serve Somebody</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Davis, Murphy</reg>
+                        <sic>Murphy Davis</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 1-5</docDate>
+            <interp>
+               <certainty ana="#T07" degree="37.8"/>
+            </interp>
+            <p xml:id="sc12-4_1082">I want to begin by saying a word about my life in the Open Door
 Community since this so deeply affects anything else I would say.</p>
-          <p xml:id="sc12-4_1083">We are a residential Christian Community of 32 folks. We are
+            <p xml:id="sc12-4_1083">We are a residential Christian Community of 32 folks. We are
 African-American, white, Hispanic, young and old, women and men,
 formerly homeless, formerly prisoners and those of us who have always
 been housed, Ph.D.'s and illiterates, from backgrounds of the middle
 class, obscene wealth, and utter poverty.</p>
-          <p xml:id="sc12-4_1084">As a family we live together, eat together, worship, work, and sing
+            <p xml:id="sc12-4_1084">As a family we live together, eat together, worship, work, and sing
 together, share our money and other resources, and try to understand,
 learn from, and love each other.</p>
-          <p xml:id="sc12-4_1085">Out of our family life and shared faith we live a life of
+            <p xml:id="sc12-4_1085">Out of our family life and shared faith we live a life of
 servanthood and advocacy among and on behalf of the homeless poor of
 Atlanta: many more than 10,000 men, women, children and families who
 have nowhere to go; and servanthood and advocacy among and on behalf
 of prisoners in our state: the many and increasing thousands of women,
 men and children who live in cages. We particularly work among the 111
 people who are on death row in Georgia.</p>
-          <p xml:id="sc12-4_1086">As a way of beginning to discuss the challenge of service, let me
+            <p xml:id="sc12-4_1086">As a way of beginning to discuss the challenge of service, let me
 introduce you to three friends.</p>
-          <p xml:id="sc12-4_1087">First there's Charlie. When I left home yesterday morning Charlie
+            <p xml:id="sc12-4_1087">First there's Charlie. When I left home yesterday morning Charlie
 was lying in the sunshine in our front yard waiting for the soup
 kitchen to open. He is, like hundreds of thousands of men and women
 and children across this land, homeless.</p>
-          <p xml:id="sc12-4_1089">Charlie has been a working man since he was 17 years old. The last
+            <p xml:id="sc12-4_1089">Charlie has been a working man since he was 17 years old. The last
 job he held was one he had for five years. He 
 <pb xml:id="sc12-4_1088" n="2"/>
 had worked his way up to
 four dollars an hour. But at age 45, Charlie was slowing down a little
 and the employer realized there were any number of 22-year-olds to be
 had for the minimum wage.</p>
-          <p xml:id="sc12-4_1090">So Charlie was fired. He had no savings and no benefits. The weeks
+            <p xml:id="sc12-4_1090">So Charlie was fired. He had no savings and no benefits. The weeks
 and months of job hunting were fruitless: "Sorry," they all
 said, "but you know we're really looking for somebody a little
 younger." The strain on Charlie's marriage grew to the breaking
 point. By the time he found himself with no job and no family and no
 home, he began to wonder what kind of a sorry excuse for a man he was
 anyway.</p>
-          <p xml:id="sc12-4_1091">He gets an occasional job out of a labor pool. He crawls out of his
+            <p xml:id="sc12-4_1091">He gets an occasional job out of a labor pool. He crawls out of his
 cat hole at 4:30 a.m. and goes to sit in a dingy room full of hopeless
 humanity and prays for eight hours of work. Usually there's nothing
 for Charlie. But if he does go to work, he goes out hungry, and the
@@ -605,11 +706,11 @@ he can expect, though his employer for the day might pay the labor
 pool seven dollars an hour for his work, is the minimum wage minus a
 few bucks for transportation, hard-hat rental, and all-maybe he'll
 have $19 or $21 at the end of a day.</p>
-          <p xml:id="sc12-4_1092">The only place that will cash his labor pool check is a liquor
+            <p xml:id="sc12-4_1092">The only place that will cash his labor pool check is a liquor
 store across the street-with a purchase, that is. So by nightfall the
 best he's looking at is a bottle, a pack of cigarettes, and sixteen
 bucks. Try to live on it.</p>
-          <p xml:id="sc12-4_1094">Charlie gets locked up a lot. From time to time he does twenty to
+            <p xml:id="sc12-4_1094">Charlie gets locked up a lot. From time to time he does twenty to
 forty days in the City Prison farm for the terrible crime of public
 urination. We jail those who relieve themselves in public even though
 Atlanta has not one single public toilet. In other words, there is not
@@ -618,109 +719,109 @@ a legal alternative. The money we spend in one year of punishing this
 heinous crime we could build and maintain public toilets all over the
 city. But for doing what every human body must do Charlie goes to
 jail.</p>
-          <p xml:id="sc12-4_1095">Charlie also did ten months on a one-year sentence for criminal
+            <p xml:id="sc12-4_1095">Charlie also did ten months on a one-year sentence for criminal
 trespass. That was from the time he was caught sleeping in an
 abandoned warehouse. He has another court charge pending because he
 went into Underground Atlanta and walked down the street. The police
 told him he didn't belong because he stank. So he was arrested.</p>
-          <p xml:id="sc12-4_1096">When the pain gets to be too much for him, Charlie drinks. As he
+            <p xml:id="sc12-4_1096">When the pain gets to be too much for him, Charlie drinks. As he
 lay in the sunshine in our front yard yesterday a car drove by. A
 young man stuck his head out the window and screamed, "Get a job, you
 bums!" Charlie raised his head for a minute and dropped it on his arm
 again.</p>
-          <p xml:id="sc12-4_1097">Next I'd like for you to meet Jerome. Jerome was young,
+            <p xml:id="sc12-4_1097">Next I'd like for you to meet Jerome. Jerome was young,
 African-American, poor and retarded. He was executed by the state of
 Georgia in June 1986. He was convicted of being involved with another
 man who killed a woman in Columbus, Ga.</p>
-          <p xml:id="sc12-4_1098">When Jerome got his death warrant, the Georgia Association for
+            <p xml:id="sc12-4_1098">When Jerome got his death warrant, the Georgia Association for
 Retarded Citizens got involved in his case. GARC examined him
 extensively, confirmed that he was clinically retarded, and made a
 passionate appeal on his behalf.</p>
-          <p xml:id="sc12-4_1099">But our society had long ago given up on Jerome. I read one school
+            <p xml:id="sc12-4_1099">But our society had long ago given up on Jerome. I read one school
 record from the time he was about eleven. A counselor wrote this
 advice to Jerome's teachers and guides: "Jerome is slow and
 probably unfit for anything other than simple factory work. He's not
 worth your time."</p>
-          <p xml:id="sc12-4_10100">The admonition was apparently heeded. Nobody wasted any time on
+            <p xml:id="sc12-4_10100">The admonition was apparently heeded. Nobody wasted any time on
 Jerome. His mama loved him, but her life was hard. She was a maid for
 the county sheriff end though she worked more than full time, she was
 paid so little that her family had to depend on government surplus
 powdered eggs and milk to keep from going hungry.</p>
-          <p xml:id="sc12-4_10101">His life was one of degradation and neglect but Jerome, in his own
+            <p xml:id="sc12-4_10101">His life was one of degradation and neglect but Jerome, in his own
 simple way, tried to do right. When the state set his execution date
 they sent their own psychiatrist to examine him. Jerome tried his best
 on the intelligence test and he was very proud. The shrink said that
 he wasn't quite retarded enough to be spared from the electric
 chair.</p>
-          <p xml:id="sc12-4_10102">The doctor was paid and Jerome died with 2,300 volts of electricity
+            <p xml:id="sc12-4_10102">The doctor was paid and Jerome died with 2,300 volts of electricity
 through his body once, twice, three times.</p>
-          <p xml:id="sc12-4_10103">Before he died Jerome said to me one of the wisest things I've ever
+            <p xml:id="sc12-4_10103">Before he died Jerome said to me one of the wisest things I've ever
 heard. We had been talking about prison life and Jerome looked at me
 and said: "You know-peoples was not made to dog around. Peoples was
 made to be respected."</p>
-          <p xml:id="sc12-4_10104">Third, I'd like for you to meet Nancy. If you had met Nancy a few
+            <p xml:id="sc12-4_10104">Third, I'd like for you to meet Nancy. If you had met Nancy a few
 years back you would not have expected her to end up with a ruined
 life.</p>
-          <p xml:id="sc12-4_10105">She was a school teacher and her second marriage was to a prominent
+            <p xml:id="sc12-4_10105">She was a school teacher and her second marriage was to a prominent
 lawyer in a small Georgia town. He had once worked for the state
 attorney general's office and had friends in high places.</p>
-          <p xml:id="sc12-4_10106">For all his prominence Nancy's husband was a violent man. Soon
+            <p xml:id="sc12-4_10106">For all his prominence Nancy's husband was a violent man. Soon
 after they were married he began to have outbursts that would leave
 Nancy bruised or with an occasional broken tooth or bone. Didn't
 Nancy's coworkers and friends and family wonder that she was
 <soCalled>"falling down the stairs"</soCalled> so often?</p>
-          <p xml:id="sc12-4_10107">But we learn from Nancy that the problem of male violence against
+            <p xml:id="sc12-4_10107">But we learn from Nancy that the problem of male violence against
 women and children cuts across every class line and every racial
 line. Our leaders like to talk about Willie Horton and stranger
 violence against women on the streets, and it's a problem. But we most
 often avoid the most obvious truth. And that truth is that the very
 most dangerous place for a woman to be in the United States of America
 is in a relationship with a man.</p>
-          <p xml:id="sc12-4_10108">The most dangerous place for a child to be in the United States of
+            <p xml:id="sc12-4_10108">The most dangerous place for a child to be in the United States of
 America is in a family.</p>
-          <p xml:id="sc12-4_10110">Hear it! Most women and children who are victims of
+            <p xml:id="sc12-4_10110">Hear it! Most women and children who are victims of
 <pb xml:id="sc12-4_10109" n="4"/>
 violence are victimized at home. That's how deep our sickness is.</p>
-          <p xml:id="sc12-4_10111">For Nancy the sickness was eventually fatal. One night her husband 
+            <p xml:id="sc12-4_10111">For Nancy the sickness was eventually fatal. One night her husband 
 came across the room toward her with a 2x4 in his hand. She turned, 
 picked up his gun and shot him dead.</p>
-          <p xml:id="sc12-4_10112">She was convicted of first degree murder and sentenced to life 
+            <p xml:id="sc12-4_10112">She was convicted of first degree murder and sentenced to life 
 in prison.</p>
-          <p xml:id="sc12-4_10113">She really and truly tried to make the best of her life in prison. 
+            <p xml:id="sc12-4_10113">She really and truly tried to make the best of her life in prison. 
 She taught other prisoners to read. She wrote letters for the 
 illiterate. She helped to set up a special program for mothers 
 and solicited transportation for their children to be able to visit.</p>
-          <p xml:id="sc12-4_10114">The prison doctor told her that the lump that developed in her 
+            <p xml:id="sc12-4_10114">The prison doctor told her that the lump that developed in her 
 breast was benign. When it grew he insisted that it was "nothing to 
 worry about" and accused her of malingering.</p>
-          <p xml:id="sc12-4_10115">When she finally got another biopsy, itwas too late. This "dangerous 
+            <p xml:id="sc12-4_10115">When she finally got another biopsy, itwas too late. This "dangerous 
 criminal" was sent home in a wheelchair to spend the two remaining 
 months of her life with her teenage son and her elderly parents.</p>
-          <p xml:id="sc12-4_10116">Now that you have met my three friends I can discuss the challenge of service. The title of this article should actually have been, "You Gonna Have to Serve Somebody." Bob Dylan sings that song:</p>
-          <lg>
-            <l>You might like to wear cotton</l>
-            <l>Might like to wear silk</l>
-            <l>Might like to drink whiskey</l>
-            <l>Might like to drink milk</l>
-            <l>Might like to eat caviar</l>
-            <l>Might like to eat bread</l>
-            <l>May be sleepin' on the floor</l>
-            <l>or sleepin' on a kingsize bed</l>
-            <l>But you gonna have to serve somebody...</l>
-            <l>It may be the Devil or it may be the Lord</l>
-            <l>But you gonna have to serve somebody.</l>
-          </lg>
-          <p xml:id="sc12-4_10117">The point is: Everybody is serving somebody or 
+            <p xml:id="sc12-4_10116">Now that you have met my three friends I can discuss the challenge of service. The title of this article should actually have been, "You Gonna Have to Serve Somebody." Bob Dylan sings that song:</p>
+            <lg>
+               <l>You might like to wear cotton</l>
+               <l>Might like to wear silk</l>
+               <l>Might like to drink whiskey</l>
+               <l>Might like to drink milk</l>
+               <l>Might like to eat caviar</l>
+               <l>Might like to eat bread</l>
+               <l>May be sleepin' on the floor</l>
+               <l>or sleepin' on a kingsize bed</l>
+               <l>But you gonna have to serve somebody...</l>
+               <l>It may be the Devil or it may be the Lord</l>
+               <l>But you gonna have to serve somebody.</l>
+            </lg>
+            <p xml:id="sc12-4_10117">The point is: Everybody is serving somebody or 
 something.</p>
-          <p xml:id="sc12-4_10118">Not having made a decision does not mean we are 
+            <p xml:id="sc12-4_10118">Not having made a decision does not mean we are 
 not serving. I really believe that anyone, especially 
 of the middle or upper class, who is not serving her 
 oppressed neighbor is serving the status quo.</p>
-          <p xml:id="sc12-4_10119">In other words, as long as our neighbors are being 
+            <p xml:id="sc12-4_10119">In other words, as long as our neighbors are being 
 oppressed among us--and they are--and we are not 
 serving them, then we are serving those who benefit 
 because of our neighbor's oppression.</p>
-          <p xml:id="sc12-4_10120">We would not have homeless people if it did not benefit 
+            <p xml:id="sc12-4_10120">We would not have homeless people if it did not benefit 
 someone. We would not be spending millions, billions 
 of dollars a year at every federal, state, county and 
 municipal level to build prisons and jails if it didn't 
@@ -729,71 +830,73 @@ billions and we can't build housing for people. Where
 do you think crime comes from? Despair! But prison 
 construction is big business. Beware when you raise a 
 question.</p>
-          <p xml:id="sc12-4_10121">The oppression of some benefits others. Our government 
+            <p xml:id="sc12-4_10121">The oppression of some benefits others. Our government 
 speaks, for example, of "acceptable levels of unemployment." 
 Meaning, of course, that a certain level of unemployment 
 is actually good for the economy.</p>
-          <p xml:id="sc12-4_10122">Tell that to the unemployed!</p>
-          <p xml:id="sc12-4_10123"><hi rend="italic">You gonna have to serve somebody.</hi> 
+            <p xml:id="sc12-4_10122">Tell that to the unemployed!</p>
+            <p xml:id="sc12-4_10123">
+               <hi rend="italic">You gonna have to serve somebody.</hi> 
 The question is who?</p>
-          <p xml:id="sc12-4_10124">In traditional terms, when we talk about serving our 
+            <p xml:id="sc12-4_10124">In traditional terms, when we talk about serving our 
 neighbors, we really have in mind charity.</p>
-          <p xml:id="sc12-4_10125">That's a great word: caritas. Love; passionate caring; 
+            <p xml:id="sc12-4_10125">That's a great word: caritas. Love; passionate caring; 
 compassion; advocating love; stand-up love.</p>
-          <p xml:id="sc12-4_10126">But charity is often taken to be serving somebody a bowl of 
+            <p xml:id="sc12-4_10126">But charity is often taken to be serving somebody a bowl of 
 soup and thinking that's it.</p>
-          <p xml:id="sc12-4_10127">The bowl of soup is critical. A hungry person has to cat 
+            <p xml:id="sc12-4_10127">The bowl of soup is critical. A hungry person has to cat 
 and the sooner the better.</p>
-          <p xml:id="sc12-4_10128">But let a love for justice walk hand in hand so that at 
+            <p xml:id="sc12-4_10128">But let a love for justice walk hand in hand so that at 
 the very same time we serve the food we ask, "Why is my 
 neighbor hungry?" What's going on in our system that creates 
 so much hunger in a land where we throw away more food than 
 any people in human history ever dreamed of!</p>
-          <p xml:id="sc12-4_10129">Charity and justice together provide a night's shelter 
+            <p xml:id="sc12-4_10129">Charity and justice together provide a night's shelter 
 while asking why? Why? Why are all these thousands of people 
 homeless? Women and men and boys and girls and families?</p>
-          <p xml:id="sc12-4_10130">We have huge quantities of construction materials--and 
+            <p xml:id="sc12-4_10130">We have huge quantities of construction materials--and 
 buildings every where--church buildings, college buildings, 
 government buildings, so many of them standing empty most 
 of the time.</p>
-          <p xml:id="sc12-4_10131">Why? Why are so many of our neighbors homeless?</p>
-          <p xml:id="sc12-4_10132">At many points in history women have taken important roles 
+            <p xml:id="sc12-4_10131">Why? Why are so many of our neighbors homeless?</p>
+            <p xml:id="sc12-4_10132">At many points in history women have taken important roles 
 in the struggle for justice for the oppressed. One group of 
 our foremothers who are a resource for us today is the 
 ASWPL--the Association of Southern Women for the Prevention 
 of Lynching.</p>
-          <p xml:id="sc12-4_10133">After the Civil War, African -American people were freed from 
+            <p xml:id="sc12-4_10133">After the Civil War, African -American people were freed from 
 chattel slavery. But Southern whites were determined to 
 maintain a tight social control. In three decades after the 
 war it is estimated that more than 10,000 African-Americans 
 were lynched.</p>
-          <p xml:id="sc12-4_10134">Gradually the myth of the black rapist became the excuse 
+            <p xml:id="sc12-4_10134">Gradually the myth of the black rapist became the excuse 
 for lynchings well into the twentieth century. And it was 
 done in the name of Southern white women.</p>
-          <p xml:id="sc12-4_10136">Ida B. Wells, Mary Church Terrell, Mary Tolbert: bold, 
+            <p xml:id="sc12-4_10136">Ida B. Wells, Mary Church Terrell, Mary Tolbert: bold, 
 courageous, outspoken African women, stood up, protested, 
 pleaded with their white sisters to take up the cause. "Because 
 it is done in your name," they argued, "you are the very 
 ones who can stop it."
-<pb xml:id="sc12-4_10135" n="5"/></p>
-          <p xml:id="sc12-4_10137">It took about 35 years to get some real action. But in 1930, 
+<pb xml:id="sc12-4_10135" n="5"/>
+            </p>
+            <p xml:id="sc12-4_10137">It took about 35 years to get some real action. But in 1930, 
 Jessie Daniel Ames joined with white church women from around 
 the South to form the ASWPL.</p>
-          <p xml:id="sc12-4_10138">Their motto as they picked up the crusade against lynching 
+            <p xml:id="sc12-4_10138">Their motto as they picked up the crusade against lynching 
 was "Not in our Names."</p>
-          <p xml:id="sc12-4_10139">They were tireless in their petition drives, meetings, letter 
+            <p xml:id="sc12-4_10139">They were tireless in their petition drives, meetings, letter 
 writing, and demonstrations and in taking on their own men. 
 Their effectiveness in bringing to an end the public acceptance 
 of lynching is a reminder to us of the power of women working 
 together to end oppression.</p>
-          <p xml:id="sc12-4_10140">The crusade against lynching had its problems, but it was 
+            <p xml:id="sc12-4_10140">The crusade against lynching had its problems, but it was 
 genuinely an interracial womens' movement: the sort we need so 
 desperately today.</p>
-          <p xml:id="sc12-4_10141">Do you know? Do you have any idea how much the poor and 
+            <p xml:id="sc12-4_10141">Do you know? Do you have any idea how much the poor and 
 your oppressed neighbor need you? Do you have any idea how much 
 your life, your service, your compassion and love is needed by 
 the many who suffer because of injustice?</p>
-          <p xml:id="sc12-4_10142">Oppression in the form of racism, sexism, war and poverty 
+            <p xml:id="sc12-4_10142">Oppression in the form of racism, sexism, war and poverty 
 is causing death and destruction around the world and right 
 under our noses. The flagrant destruction of the earth and 
 its precious resources and the destruction of human hope and 
@@ -801,32 +904,42 @@ human dignity are a part of the same death-dealing spirit that
 says: Serve yourself. Take what's yours and then get yourself 
 a gun and an insurance policy to protect it. Use up whatever 
 you want right now and let somebody else worry about it tomorrow.</p>
-          <p xml:id="sc12-4_10143">Our earth and the earth's people (most of whom are in this very 
+            <p xml:id="sc12-4_10143">Our earth and the earth's people (most of whom are in this very 
 moment poor and hungry ) need us to give our lives to service of 
 our neighbors toward the goals of justice and social transformation.</p>
-          <p xml:id="sc12-4_10144">It is so easy to be blinded by our class, our privilege, and yes, 
+            <p xml:id="sc12-4_10144">It is so easy to be blinded by our class, our privilege, and yes, 
 even blinded by our educations and educational institutions.</p>
-          <p xml:id="sc12-4_10145">But in these days our ignorance of our neighbors' plight--whether 
+            <p xml:id="sc12-4_10145">But in these days our ignorance of our neighbors' plight--whether 
 willful or unwitting ignorance--our silence and our inaction mean, 
 literally and powerfully, service to a public policy that is 
 killing our neighbors at home and around the world.</p>
-          <p xml:id="sc12-4_10146">You gonna have to serve somebody.</p>
-          <div3 xml:id="sc12-4_027" type="About">
-            <p xml:id="sc12-4_10147">Murphy Davis is the Open Door Community's Southern Prison
+            <p xml:id="sc12-4_10146">You gonna have to serve somebody.</p>
+            <div3 xml:id="sc12-4_027" type="About">
+               <p xml:id="sc12-4_10147">Murphy Davis is the Open Door Community's Southern Prison
 Ministry Director. This article is adapted from a symposium talk in
 May 1990 at Converse College. (Open Door Community, 910 Ponce de Leon
 Avenue, Atlanta, GA 30306-4212; (404)-874-9652.)</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_008" n="9" type="Review">
-          <head>Mississippi and the WPA</head>
-          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Campbell, Will</reg><sic>Will Campbell</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 20-23</docDate>
-          
-          <p xml:id="sc12-4_10148">If I were asked to name one agency of government which has done the
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_008" n="9" type="Review">
+            <head>Mississippi and the WPA</head>
+            <byline>Reviewed by <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Campbell, Will</reg>
+                        <sic>Will Campbell</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 20-23</docDate>
+            <interp>
+               <certainty ana="#T07" degree="50.8"/>
+            </interp>
+            <p xml:id="sc12-4_10148">If I were asked to name one agency of government which has done the
 most good in my lifetime I would not hesitate. The Works Progress
 Administration of the Great Depression. The WPA.</p>
-          <p xml:id="sc12-4_10149">For proof, I offer the newly republished <title>Mississippi: The 
+            <p xml:id="sc12-4_10149">For proof, I offer the newly republished <title>Mississippi: The 
 WPA Guide to the Magnolia State,</title>
 with a new introduction by Robert S. McElvaine. This volume, first
 published 52 years ago, is about a lot of things. But to me, for the
@@ -836,7 +949,7 @@ made it possible in the first place. So I wish to join the applause
 for the WPA. It seems appropriate, so that the majority of Americans
 who were not even born when the book was first published might know
 from whence it came.</p>
-          <p xml:id="sc12-4_10150">When millions of people were idle in the mid-1930s they were given
+            <p xml:id="sc12-4_10150">When millions of people were idle in the mid-1930s they were given
 jobs. Thus few "street people." Not high paying jobs but something to
 do for pay. My father, a yeoman farmer, among them. Because of his
 work for the WPA he was able to save the family farm when crops failed
@@ -846,7 +959,7 @@ for the children with nothing left over for the women, and the bank
 came calling. I remember it well. This summer, at 92, my father died,
 leaving the small Mississippi acreage to his children and
 grandchildren.</p>
-          <p xml:id="sc12-4_10151">I also remember that the WPA built two ten-hole outhouses for the
+            <p xml:id="sc12-4_10151">I also remember that the WPA built two ten-hole outhouses for the
 East Fork Consolidated School which we attended. I was never allowed
 to see the one for girls but the one for boys is vivid in my mind. I
 was in the fifth grade. The day it was completed my friend,
@@ -856,7 +969,7 @@ wall. J.D. suggested that we scratch our initials on the glistening
 surface of the still soft cement so that all the world would know we
 had been there, sure that this sturdy structure would be there at
 least as long as the world stood.</p>
-          <p xml:id="sc12-4_10153">The proud proprietor of this facility, the school principal,
+            <p xml:id="sc12-4_10153">The proud proprietor of this facility, the school principal,
 appeared in the fifth-grade room shortly after we had resumed our
 places. He moved directly to J.D.'s desk, bellowing with each
 stride. "And who is H.B.?" I had feared at the time that leaving our
@@ -882,14 +995,14 @@ held firm. He never told. And J.D. "Wart" Pray is still one of my
 dearest buddies, despite serious ideological differences during the
 civil rights days in Mississippi. Such is the stuff of friendships
 forged by the WPA.</p>
-          <p xml:id="sc12-4_10154">But the WPA did more than save small family farms and build
+            <p xml:id="sc12-4_10154">But the WPA did more than save small family farms and build
 outhouses. They built parks, theaters, museums, roads, bridges,
 gymnasiums, and many other projects of long-range public benefit.</p>
-          <p xml:id="sc12-4_10155">There were also arts programs known collectively as Federal
+            <p xml:id="sc12-4_10155">There were also arts programs known collectively as Federal
 One. Under this umbrella were the Federal Writers' Project, the
 Federal Theater Project, the Federal Art Project, and the Federal
 Music Project.</p>
-          <p xml:id="sc12-4_10157">In addition to my father's road building job and the East Fork
+            <p xml:id="sc12-4_10157">In addition to my father's road building job and the East Fork
 outhouse I was further introduced to the work of the WPA through
 Federal One, the parent of this volume. There was a program for people
 in the various communities to read and study literary works as well as
@@ -919,51 +1032,52 @@ recognized, and given permission to
 speak, not generally a part of
 marital mores in Amite County, Mississippi in this rural depression
 era, he asked his question.</p>
-          <p xml:id="sc12-4_10158">"Yes, yes," he began. "I have a question. What is a eunuch?"</p>
-          <p xml:id="sc12-4_10159">Aunt Ruth, embarrassed by her husband's question, looked at the
+            <p xml:id="sc12-4_10158">"Yes, yes," he began. "I have a question. What is a eunuch?"</p>
+            <p xml:id="sc12-4_10159">Aunt Ruth, embarrassed by her husband's question, looked at the
 visiting supervisor, a woman none of us knew. The woman nodded that it
 was the discussion leader's responsibility to deal with any
 inquiry.</p>
-          <p xml:id="sc12-4_10160">When vexed Aunt Ruth pronounced her husband's name as "Beale." "Now
+            <p xml:id="sc12-4_10160">When vexed Aunt Ruth pronounced her husband's name as "Beale." "Now
 Beale!" she pleaded.</p>
-          <p xml:id="sc12-4_10161">Uncle Coot, as we knew him, had been urged to participate, to ask
+            <p xml:id="sc12-4_10161">Uncle Coot, as we knew him, had been urged to participate, to ask
 questions. So he persisted. "What's a eunuch?"</p>
-          <p xml:id="sc12-4_10162">A few of the older boys and girls snickered. The adults sat in
+            <p xml:id="sc12-4_10162">A few of the older boys and girls snickered. The adults sat in
 squirming silence, waiting for Aunt Ruth to answer. "Beale. Now
 Beale. You know what a eunuch is."</p>
-          <p xml:id="sc12-4_10163">Uncle Coot, getting impatient and sensing that he had asked an
+            <p xml:id="sc12-4_10163">Uncle Coot, getting impatient and sensing that he had asked an
 inappropriate question, asserted himself further. "No, Ruth, I
 understood everything you explained except what a eunuch is. Now if
 you know yourself, just tell me what it means."</p>
-          <p xml:id="sc12-4_10164">Aunt Ruth, seeing that he wasn't going to let go, made answer. Soft
+            <p xml:id="sc12-4_10164">Aunt Ruth, seeing that he wasn't going to let go, made answer. Soft
 but awkward. "A eunuch is like an ox."</p>
-          <p xml:id="sc12-4_10165">Uncle Coot was on his feet, roaring with incredulous laughter. "Now
+            <p xml:id="sc12-4_10165">Uncle Coot was on his feet, roaring with incredulous laughter. "Now
 Ruth, you know damn well no ox didn't get up in a chariot with a man!
 Now what the hell is a eunuch?"</p>
-          <p xml:id="sc12-4_10166">That pretty much ended our literary evening but I lived it again as
+            <p xml:id="sc12-4_10166">That pretty much ended our literary evening but I lived it again as
 I examined the new edition of <hi rend="italic">Mississippi: The WPA
-Guide to the Magnolia State.</hi></p>
-          <p xml:id="sc12-4_10167">With a helpful new introduction by Professor Robert S. McElvaine of
+Guide to the Magnolia State.</hi>
+            </p>
+            <p xml:id="sc12-4_10167">With a helpful new introduction by Professor Robert S. McElvaine of
 Millsaps College the book takes the young back in time half a
 century. At the same time it reminds my generation of how many things
 have changed in, to us, so short a time. And how many things have
 remained the same.</p>
-          <p xml:id="sc12-4_10168">It is a one volume history of one of our most complex states, going
+            <p xml:id="sc12-4_10168">It is a one volume history of one of our most complex states, going
 as far back as history can go. It is an archaeological and
 geographical study, an outline of four centuries, a treatise on
 religion, folkways, education, architecture, music, arts and
 letters. It is also a detailed guide of twenty-four interesting tours,
 from the Delta to the Gulf Coast. And it is a fascinating reading
 experience.</p>
-          <p xml:id="sc12-4_10169">Young readers will be appalled to learn that in a serious book of
+            <p xml:id="sc12-4_10169">Young readers will be appalled to learn that in a serious book of
 the 1930s it was written of black citizens:</p>
-          <p xml:id="sc12-4_10170">As for the so-called Negro question-that, too, is just another
+            <p xml:id="sc12-4_10170">As for the so-called Negro question-that, too, is just another
 problem he has left for the white man to cope with. Seated in the
 white man's wagon, and subtly letting the white man worry with the
 reins, the Negro assures himself a share of all good things.</p>
-          <p xml:id="sc12-4_10171">But it was written, and yes, believed, and the WPA did us a service
+            <p xml:id="sc12-4_10171">But it was written, and yes, believed, and the WPA did us a service
 by having it recorded so that we never forget.</p>
-          <p xml:id="sc12-4_10173">Maybe it is a weakness of the book that we know the names of none
+            <p xml:id="sc12-4_10173">Maybe it is a weakness of the book that we know the names of none
 of the researchers and writers. A few of the photographers, like
 Eudora Welty, are named but not the wordsmiths. They were people who
 could write but were not well enough known to make a living at it. So
@@ -976,9 +1090,9 @@ aren't told. And maybe it is just as well. Still and yet, maybe there
 should have been a byline for the men and women who put these words to
 paper and received in return a small check from the WPA. Words such as
 these:</p>
-          <p xml:id="sc12-4_10174">
-            <q>
-              <hi rend="italic">The earth is not ours, and if we should doubt, 
+            <p xml:id="sc12-4_10174">
+               <q>
+                  <hi rend="italic">The earth is not ours, and if we should doubt, 
 we need only to
 look to the clean, unsodded plot flanking the church-house. Here
 sunlight by day and moonlight by night glide down cold marble
@@ -988,9 +1102,9 @@ over the mountains and down the wilderness with just such a zealous
 preacher leading them. We came out of the land and we will return to
 the land, and, the preacher's voice drones on, we will be contented
 there.</hi>
-            </q>
-          </p>
-          <p xml:id="sc12-4_10175">It would be an ambitious project for someone to search the
+               </q>
+            </p>
+            <p xml:id="sc12-4_10175">It would be an ambitious project for someone to search the
 records. From Harry Hopkins, administrator for the WPA, to county
 courthouses, bank and family records and elsewhere to let us know what
 happened to the hundreds of Mississippians who strung pretty words
@@ -998,30 +1112,38 @@ together because that was what they did best and because there once
 existed a federal administration that believed in feeding the hungry
 and clothing the naked. As for me, I will be content knowing that the
 words were written and are once more available to us. </p>
-          <div3 xml:id="sc12-4_028" type="About">
-            <p xml:id="sc12-4_10176">Will Campbell's most recent book is Covenant, with
+            <div3 xml:id="sc12-4_028" type="About">
+               <p xml:id="sc12-4_10176">Will Campbell's most recent book is Covenant, with
 photographs by AI Clayton. <title>Mississippi: The WPA Guide to the
 Magnolia State,</title> with a new introduction by Robert
 S. McElvaine, is available from the University Press of
 Mississippi.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_009" n="7" type="Review">
-          <head>Black and White and Rosy.</head>
-          <byline>Reviewed by <docAuthor><name type="person"><choice><reg>Bussey, Charles J.</reg><sic>Charles J. Bussey</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 17-18</docDate>
-          
-          <bibl><title>Black, White, and Southern:
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_009" n="7" type="Review">
+            <head>Black and White and Rosy.</head>
+            <byline>Reviewed by <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Bussey, Charles J.</reg>
+                        <sic>Charles J. Bussey</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 17-18</docDate>
+            <bibl>
+               <title>Black, White, and Southern:
 Race Relations and Southern Culture, 1940 to the Present</title> by
 David R Goldfield (Baton Rogue: Louisiana State University Press,
 1990. xviii, pp. 321.)</bibl>
-          <p xml:id="sc12-4_10177">The American South reminds me of ancient Sparta. Both were
+            <p xml:id="sc12-4_10177">The American South reminds me of ancient Sparta. Both were
 entrapped by their past, by their fear of change, and by their using
 every means at their disposal to keep outside ideas and people
 away. The charge "outside agitator" was prevalent in Sparta, as it was
 in the American South. David Goldfield's book, Black, White and
 Southern, reinforces this analogy.</p>
-          <p xml:id="sc12-4_10178">"Appearances are important in the South," writes Goldfield,
+            <p xml:id="sc12-4_10178">"Appearances are important in the South," writes Goldfield,
 "and white Southerners have a great capacity for ignoring
 unpleasant things.... But at some point it is no longer possible to
 pretend." Goldfield has written a book using religious
@@ -1031,7 +1153,7 @@ white supremacy and how it poisoned a region and its people; it
 continues by relating how that sin came to be expiated, and how the
 sinner and the redeemer managed to be transformed without destroying
 their unique land, the South.... "</p>
-          <p xml:id="sc12-4_10179">Goldfield's analysis of "racial etiquette" is provocative, and I
+            <p xml:id="sc12-4_10179">Goldfield's analysis of "racial etiquette" is provocative, and I
 think correct in the conclusion that it "was, above all, a system of
 control." Southern racial etiquette bolstered the notion of white
 supremacy and strengthened the concept of black inferiority. By
@@ -1041,14 +1163,14 @@ lived down to low expectations, were punished when they attempted to
 secure an education or to develop landowning ambitions. Loud protests
 to the contrary, white Southerners like my Mississippi family never
 knew or understood their black neighbors.</p>
-          <p xml:id="sc12-4_10180">In fact, they only rarely saw them. William Alexander Percy
+            <p xml:id="sc12-4_10180">In fact, they only rarely saw them. William Alexander Percy
 understood that, and wrote in 1941 "that whites and blacks live
 side by side, exchange affection liberally, and believe they have an
 innate and miraculous understanding of one another. But the sober fact
 is we understand one another not at all." The Mississippi Delta
 aristocrat was right, but was as trapped as the rest of the white
 South and could take no action.</p>
-          <p xml:id="sc12-4_10182">Goldfield is especially articulate and convincing in 
+            <p xml:id="sc12-4_10182">Goldfield is especially articulate and convincing in 
 <pb xml:id="sc12-4_10181" n="18"/>
 analyzing
 change in the South. He argues persuasively that change had to come
@@ -1059,7 +1181,7 @@ not only marginal to the process of change, but in some cases actually
 inhibited it; and the intrusion of the outside world did not set back
 the cause of racial equality but, to the contrary, enhanced its
 chances for success."</p>
-          <p xml:id="sc12-4_10183">One thing particularly disturbing to me, a white Southerner, was
+            <p xml:id="sc12-4_10183">One thing particularly disturbing to me, a white Southerner, was
 the "respectable resistance" movement led by white intellectuals and
 members of the aristocracy. A key figure in resisting the 1954 Brown
 decision to integrate the school was James Kilpatrick. Kilpatrick,
@@ -1067,7 +1189,7 @@ today a respected conservative and syndicated columnist, wrote
 editorial after editorial in the 1950s and early 1960s in support of
 the dual school system, offering arcane arguments to support an
 anachronistic way of life.</p>
-          <p xml:id="sc12-4_10184">Although this is not a history of the civil rights movement,
+            <p xml:id="sc12-4_10184">Although this is not a history of the civil rights movement,
 Goldfield provides an adequate account of that era. But though he
 emphasizes the role of school desegregation in bringing change to the
 South, he fails to mention the role of Head Start. From the beginning,
@@ -1079,12 +1201,12 @@ programs." Although not always successful, Richmond said, Head
 Start at least "highlighted the issue, and we kept working toward
 this and communities kept learning that we were serious about
 this."</p>
-          <p xml:id="sc12-4_10185">Goldfield is not very convincing in his argument that Southern
+            <p xml:id="sc12-4_10185">Goldfield is not very convincing in his argument that Southern
 mores have shifted regarding race. He believes that "the debate
 over black poverty has shifted from race to class issues.... " And
 that "for the crusade against economic injustice, Southern blacks
 and whites are likely to be partners."</p>
-          <p xml:id="sc12-4_10186">There is considerable evidence that race remains vitally important
+            <p xml:id="sc12-4_10186">There is considerable evidence that race remains vitally important
 as a Southern dynamic and as an inhibiting factor in the fight against
 poverty. Likewise, there is a significant debate going on right now
 concerning the effect integration has had on improving the quality of
@@ -1096,29 +1218,39 @@ circumstances warrant. His desire, along with mine, is that black and
 white together can descend from "the mountaintops of hope" to "the
 green valleys of complete equality and justice." That, however,
 remains a dream, not a foreseeable reality.</p>
-          <p xml:id="sc12-4_10187">Nonetheless, Goldfield's book is an important contribution for
+            <p xml:id="sc12-4_10187">Nonetheless, Goldfield's book is an important contribution for
 people who seek to understand being black, white and southern. His
 bibliographical essay is thorough and provides a key starting point
 for any reader.</p>
-          <div3 xml:id="sc12-4_029" type="About">
-            <p xml:id="sc12-4_10188">Originally from Mississippi, Charles Bussey now  is on
+            <div3 xml:id="sc12-4_029" type="About">
+               <p xml:id="sc12-4_10188">Originally from Mississippi, Charles Bussey now  is on
 the History faculty of Western Kentucky University. He is  researching
 the life and work of Julius Richmond, the  architect and first
 director of Head Start.</p>
-          </div3>
-        </div2>
-        <div2 xml:id="sc12-4_010" n="4" type="Article">
-          <head>Cooked Food</head>
-          <byline>By <docAuthor><name type="person"><choice><reg>Bondi, Roberta</reg><sic>Roberta Bondi</sic></choice></name></docAuthor></byline>
-          <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 8-12</docDate>
-          
-          <p xml:id="sc12-4_10189">When Benjamin was five, he looked down at his plate one morning at
+            </div3>
+         </div2>
+         <div2 xml:id="sc12-4_010" n="4" type="Article">
+            <head>Cooked Food</head>
+            <byline>By <docAuthor>
+                  <name type="person">
+                     <choice>
+                        <reg>Bondi, Roberta</reg>
+                        <sic>Roberta Bondi</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+            </byline>
+            <docDate when="1990-09">Vol. 12, No. 4, 1990, pp. 8-12</docDate>
+            <interp>
+               <certainty ana="#T07" degree="71.3"/>
+            </interp>
+            <p xml:id="sc12-4_10189">When Benjamin was five, he looked down at his plate one morning at
 breakfast. Then he looked up at me and asked, "Mama, when you were a
 little girl, did they have cooked food?" "Are you kidding?" I
 answered, sympathetically, knocked breathless by the question. Who did
 he think his mama was? How many aeons of life does he think mine has
 spanned?</p>
-          <p xml:id="sc12-4_10190">When my own Mama, in Louisville, Kentucky, moved from her big house
+            <p xml:id="sc12-4_10190">When my own Mama, in Louisville, Kentucky, moved from her big house
 on Willow Avenue into her tiny two-bedroom condo on Village Drive, my
 two aunts came to help. My mother's sisters, Kas and Suzie, had awaken
 early to leave their farms outside Sturgis in Union County. They
@@ -1126,13 +1258,13 @@ arrived after their four-hour trip shortly after I'd gotten up. It was
 late in the move, and most of the work of dismantling my mother's
 household and reassembling it in a very small space was already
 done.</p>
-          <p xml:id="sc12-4_10191">Immediately, they started in on wrapping the jelly glasses in
+            <p xml:id="sc12-4_10191">Immediately, they started in on wrapping the jelly glasses in
 newspaper. I tried to stay quiet and absorb caffeine as quickly as I
 could. I knew I was in for it when they started to talk about how hard
 life used to be, end how my great aunt Blacky who was eighty at the
 time still works, and how people just don't work like they used to. Of
 course, they were right on all points.</p>
-          <p xml:id="sc12-4_10192">Life on a farm is no picnic right now, but it is nothing like my
+            <p xml:id="sc12-4_10192">Life on a farm is no picnic right now, but it is nothing like my
 memories of visiting my grandmother when I was a city child. Until I
 was eleven I grew up in Bayside, New York, within striking distance of
 my other grandparents who lived in Manhattan. Our home in Queens was a
@@ -1141,7 +1273,7 @@ complex called "garden apartments." To go from playing in the yard
 with a flock of assorted children in New York to a farm in western
 Kentucky for three weeks each summer was to enter a world that was at
 the same time intensely boring and amazingly terrifying.</p>
-          <p xml:id="sc12-4_10194">My grandparents' house was old, built around the time of the Civil
+            <p xml:id="sc12-4_10194">My grandparents' house was old, built around the time of the Civil
 War. It was one fairly dilapidated story, white frame, with four huge,
 high-ceilinged, long-windowed rooms, and two little rooms. The fixed
 rooms were the living room on the front, and the kitchen on the
@@ -1151,8 +1283,9 @@ grandparents' room connected the kitchen and the living
 room. Sometimes it was the dining room that lay between the front and
 back. My uncle Quentin and my Aunt Suzie were not married yet. The two
 small rooms were theirs.
-<pb xml:id="sc12-4_10193" n="9"/></p>
-          <p xml:id="sc12-4_10195">The central focus of the house, however, was the kitchen, and this
+<pb xml:id="sc12-4_10193" n="9"/>
+            </p>
+            <p xml:id="sc12-4_10195">The central focus of the house, however, was the kitchen, and this
 is where I remember most of the household work being done. It had
 three windows. Two of them on the side almost overlooked a neighbor's
 house, which was partially hidden by a rickety and overgrown trellis
@@ -1163,7 +1296,7 @@ stood on tip-toes and strained to look to the right), and the chicken
 yard containing the terrible out-house beyond it. Straight out the
 window were open fields, and at a great distance beyond the fields lay
 the low ridge of Dyer Hills that enclosed the landscape.</p>
-          <p xml:id="sc12-4_10196">My grandmother indeed did work hard in that kitchen. There was an
+            <p xml:id="sc12-4_10196">My grandmother indeed did work hard in that kitchen. There was an
 enormous black coal stove she cooked on, with its kettles and skillets
 and dented-up enamelled pan. When she opened that stove, the red light
 of the fire looked like hell itself and scared me twice as
@@ -1174,13 +1307,13 @@ that always seemed mostly worn out stood in the middle. Off to one
 side of the kitchen was a cold room for storing canned and preserved
 foods, and in the floor of that room, a cold cellar you got to by
 lifting a trap-door in the floor and descending into the earth.</p>
-          <p xml:id="sc12-4_10197">This wasn't the farm my mother had grown up on. My grandparents had
+            <p xml:id="sc12-4_10197">This wasn't the farm my mother had grown up on. My grandparents had
 lost that one in the Depression. That former farm, however, was close
 enough to the farm of my childhood to make me wonder. How did my
 grandmother rear six children and feed all the farm workers? Nothing
 anybody ate ever seemed to come easily or cleanly out of that
 kitchen.</p>
-          <p xml:id="sc12-4_10198">Every meal was a hot meal, including biscuits or rolls or corn
+            <p xml:id="sc12-4_10198">Every meal was a hot meal, including biscuits or rolls or corn
 bread. I remember taking turns with my little brother Freddie churning
 sour butter that I couldn't eat in a tall tapered wooden churn from
 unpasteurized milk. My grandmother made wonderful fruit pies, but the
@@ -1195,7 +1328,7 @@ feel of those feathers coming off in my hands began to
 fade. Vegetables grown in the garden, eggs from the hen house, canning
 and preserving, the smoking of hams and the making of sausage all
 boggle my mind and memory.</p>
-          <p xml:id="sc12-4_10199">Though they most certainly took place, I don't remember large
+            <p xml:id="sc12-4_10199">Though they most certainly took place, I don't remember large
 family gatherings of cousins, aunts and uncles, and great aunts and
 uncles before the big kitchen was redone as another bedroom and one of
 the small rooms was turned into a modern kitchen. The new kitchen was
@@ -1207,13 +1340,13 @@ sink, a refrigerator, a gas stove, a washing machine, and a chrome and
 formica dinette set with the table still covered by a worn-out table
 cloth. I remember very well the family dinners that came out of the
 new kitchen when we visited in the summers as I grew older.</p>
-          <p xml:id="sc12-4_10201">These dinners were complex affairs. Orchestrated by my aunts and my
+            <p xml:id="sc12-4_10201">These dinners were complex affairs. Orchestrated by my aunts and my
 mother, they took place on Sunday after church. The assembled family
 included not only Panny and Papa Charles, my grandparents, my aunts
 and uncles, and my first cousins. They usually also included at least
 <pb xml:id="sc12-4_10200" n="10"/>
 a great aunt or two and occasionally some second cousins as well.</p>
-          <p xml:id="sc12-4_10202">These gatherings occurred in three movements. The first movement,
+            <p xml:id="sc12-4_10202">These gatherings occurred in three movements. The first movement,
 of moderately quick tempo, was in three parts. Providing one part, the
 men-folk sat on the wide front porch staring toward the road and
 talking about the crops and other uninteresting subjects. The next was
@@ -1224,13 +1357,13 @@ tussled. The third and central part came out of my grandmother's
 kitchen, and the players were my mother, my aunts and my grandmother
 with an occasional female first cousin to set the table, pour the iced
 tea, and so forth.</p>
-          <p xml:id="sc12-4_10203">The second movement was much slower and was in two parts. All the
+            <p xml:id="sc12-4_10203">The second movement was much slower and was in two parts. All the
 men and the younger children performed first, coming in off the porch
 to eat by themselves without the women. Men at one end, children at
 the other, they would assemble in the darkened dining room at the long
 white dining room table, while the overhead fan would stir the hot
 summer air.</p>
-          <p xml:id="sc12-4_10204">Sometimes the meal would be pot-roast, new potatoes, and beans
+            <p xml:id="sc12-4_10204">Sometimes the meal would be pot-roast, new potatoes, and beans
 boiled forever with a piece of salt pork. Sometimes it would be ham or
 the infamous fried chicken and fried corn. Never were we without
 tomatoes from the garden, slaw, and little onions, and usually a white
@@ -1243,7 +1376,7 @@ hovering aunts who kept them coming steadily, always hot, always crisp
 on the outside and soft on the inside. Only after the men and children
 had eaten, and the table was cleared did the women gather together
 their own meal and go to the dining room for the "second sitting."</p>
-          <p xml:id="sc12-4_10205">For the women, the major portion of the much more rapid third
+            <p xml:id="sc12-4_10205">For the women, the major portion of the much more rapid third
 movement was again the kitchen and clean-up. Unlike the time before
 dinner, when conversation was fairly well restricted to discussion of
 food and gossip about the present, during clean-up time my
@@ -1252,7 +1385,7 @@ stories of their own aunts, great-aunts, grandmothers, cousins, and
 great-grandmothers. All the while, the men smoked smelly cigars on the
 porch, continued to talk about crops, deals, and the weather, and the
 children played and napped around the house and yard.</p>
-          <p xml:id="sc12-4_10206">How to understand these dinners from this distance, One key is in
+            <p xml:id="sc12-4_10206">How to understand these dinners from this distance, One key is in
 the breads. I'm not sure how old I was when I began to realize the
 special importance hot homemade breads held for me as a female family
 member, and how it was that I came to know that everything a woman is
@@ -1267,11 +1400,11 @@ their power, their honor, and their mysterious authority lay in their
 ability to make those perfect biscuits like the women in the family
 before them, and bring them to the table throughout the meal, forever
 golden, full of buttermilk, and always hot.</p>
-          <p xml:id="sc12-4_10207">I may not know how old I was when I began to understand about the
+            <p xml:id="sc12-4_10207">I may not know how old I was when I began to understand about the
 significance of biscuits for a real woman, but I do know that it is
 only recently that I have come to begin to understand the real power
 structure of my family which was revealed in those Sunday dinners.</p>
-          <p xml:id="sc12-4_10209">Although I lived in New York City as a child, and although I was
+            <p xml:id="sc12-4_10209">Although I lived in New York City as a child, and although I was
 the daughter of Kentucky on my mother's side, the law of my father's
 Yankee family prevailed in our household. A dazzlingly intelligent and
 entertaining so-
@@ -1280,14 +1413,14 @@ phisticated Manhattanite, my father ruled our home with the same grace
 and power as any other absolute monarch. Obedience without argument or questioning was demanded and received from wife and children equally, 
 and speeches detailing the moral, psychological, and physical weakness 
 of women provided the justification for the law.</p>
-          <p xml:id="sc12-4_10210">Naturally, therefore, on my grandmother's farm, all I could see 
+            <p xml:id="sc12-4_10210">Naturally, therefore, on my grandmother's farm, all I could see 
 were the men on the porch rocking while the women worked, sitting to 
 cat while the women stood up to wait on them. I was afraid of my big 
 uncles. I knew they believed women should work while men played. Even 
 on Sunday in their good clothes their hands were huge and rough and 
 cracked, and the smell and feel of large animals as well as of intricate 
 and spiked farm equipment enveloped them.</p>
-          <p xml:id="sc12-4_10211">When I would come onto the porch Uncle Bob Wesley and Uncle Bo 
+            <p xml:id="sc12-4_10211">When I would come onto the porch Uncle Bob Wesley and Uncle Bo 
 especially would tease me. "You talk like an Eye-talian! " "Say 'Pie 
 in the sky when I die!'" And most humiliating of all, "Well, well, 
 little lady, you ain't nothing but a horse's titty!" I thought they 
@@ -1299,14 +1432,14 @@ know how grindingly hard my farming uncles worked. I could not see
 much of their relationships with my aunts, though I know now as an 
 adult that the marriages in my family were remarkably happy, and were 
 based on a kind of equality and respect that was invisible to me.</p>
-          <p xml:id="sc12-4_10212">The truth is, as I have been able to work it out over the intervening 
+            <p xml:id="sc12-4_10212">The truth is, as I have been able to work it out over the intervening 
 years, the position of the men in the family is somewhat ambiguous. 
 I know now, as I did not then, that my family is an intricately 
 structured matriarchy. Living as I had with only a mother, an 
 authoritarian father, and younger brothers in New York, the patterns 
 of the larger family had escaped me, and so I could not see the 
 smaller ones within the larger family, either.</p>
-          <p xml:id="sc12-4_10213">Yet even then, if I had been asked to diagram the Wynns and the 
+            <p xml:id="sc12-4_10213">Yet even then, if I had been asked to diagram the Wynns and the 
 Wesleys, I would have known that my greatgrandmother Grammar, a Withers 
 before she was married to Bob Wynn, was the center and source of power 
 in the family. Only incidentally, it seemed to me as a child, was Papa 
@@ -1317,7 +1450,7 @@ mother, and that her son John Bundy didn't marry at all but continued
 to live with his mother. I knew that among my grandmother Roberta's 
 children, the same was true. They all settled around their mother. Only 
 the oldest, my own mother, had broken that pattern.</p>
-          <p xml:id="sc12-4_10214">I knew even as a child that within the hierarchy of the family, 
+            <p xml:id="sc12-4_10214">I knew even as a child that within the hierarchy of the family, 
 one's status depended upon whether one was male or female first, and 
 only after, whether one was born into the family or married into it. 
 In the Wesley family, the aunts ranked first, followed by their husbands, 
@@ -1325,14 +1458,14 @@ then came the aunts-in-law, trailed by their husbands, the natural-born
 uncles. Among the cousins, the children of daughters were closer to the 
 sources of power than the children of sons, and the daughters of 
 daughters both were most favored and had the most expected of them.</p>
-          <p xml:id="sc12-4_10215">Once when I was about ten, when it was the turn of the front room 
+            <p xml:id="sc12-4_10215">Once when I was about ten, when it was the turn of the front room 
 to be the dining room, I watched my mother ironing. I saw a little 
 white pique skirt on the ironing, board. "Whose little tiny skirt is 
 that?" I asked. Immediately, I received a shock. For the moment I 
 asked the question I knew the answer. "Why, it's yours, silly! Whose 
 did you think it was?" "I knew that," I said, pitifully. I had thought 
 I was almost grown up.</p>
-          <p xml:id="sc12-4_10216">When I see those childhood dinners, now, I find the players in them 
+            <p xml:id="sc12-4_10216">When I see those childhood dinners, now, I find the players in them 
 have changed size and shape as radically as I changed myself when I 
 saw the real nature of that white skirt on my grandmother's ironing 
 board. From this distance the men in the family appear dull, living 
@@ -1343,7 +1476,7 @@ the children because they were like the children. They were too simple for
 the company of women, and their memories were too short. They did not 
 carry in their bodies and their minds the skills, jokes, and history of 
 the family.</p>
-          <p xml:id="sc12-4_10218">Now I remember the plates of fried chicken with some of the best 
+            <p xml:id="sc12-4_10218">Now I remember the plates of fried chicken with some of the best 
 pieces saved back for the women. Though my mother was my father's weak 
 woman at home, I recognize now how articulate, self-confident and strong 
 even my mother as well as my aunts were in that place. Their skills at 
@@ -1360,7 +1493,7 @@ I would betray my father. If I did not take it, I turned my back on my
 own strength. As it happened, I wanted my father too much. I chose the
 second option long ago, and only many years later did I begin
 seriously to undo that choice.</p>
-          <p xml:id="sc12-4_10219">It is true that on me fall the expectations and responsibilities of
+            <p xml:id="sc12-4_10219">It is true that on me fall the expectations and responsibilities of
 the oldest daughter from all those generations of women whose memories
 I inherit. I suppose this is why sometimes I feel myself to be a
 failure in the family in some important respects. Though the biscuits
@@ -1373,7 +1506,7 @@ outside of Eden. Though I hang on to the memories of my great-aunt's
 and grandmother's generation, I don't keep track of my cousins as I
 should. I'm a city woman. I can't can. I don't quilt. I certainly
 don't know how to work like my aunts and my mother.</p>
-          <p xml:id="sc12-4_10220">Even in that far off time, however, when I was twelve I began to
+            <p xml:id="sc12-4_10220">Even in that far off time, however, when I was twelve I began to
 cast in my lot with Kentucky women. I had a second cousin my own age
 named Sam. Sam was my great aunt Blacky's son. He was mean and didn't
 like my Yankee mouth and cringing shyness. One day, out in the yard
@@ -1385,7 +1518,7 @@ uncle, say uncle!" he yelled, and he kept on bending. By the time he
 was finished my fingers were bent so out of shape they never
 recovered. They hurt all through high school, and they are still
 misshapen.</p>
-          <p xml:id="sc12-4_10221">After my aunts and mama and I finished our morning packing to get
+            <p xml:id="sc12-4_10221">After my aunts and mama and I finished our morning packing to get
 her out of the big house and into the little condo, we had a lunch
 unthinkable from my childhood-fancy chicken salad, a green salad with
 an intricate dressing, and croissants. While we scraped the plates
@@ -1394,7 +1527,7 @@ mentioned my memories of Aunt Suzie's biscuits. "Oh, no," she
 laughed. "I never make biscuits any more. They're not so good for you,
 you know. They have too much cholesterol, and we're all too fat,
 anyway."</p>
-          <p xml:id="sc12-4_10222">Astounded, I mull over the meaning of what Aunt Suzie
+            <p xml:id="sc12-4_10222">Astounded, I mull over the meaning of what Aunt Suzie
 said. Earlier, and inexplicably, she has told me how proud of me my
 aunts are because of the work I do. For years within my own family, I
 have felt embarrassed by my university work. I have avoided talking
@@ -1405,17 +1538,21 @@ Has she just taken away from me the power of my womanhood or has she
 set me free? Feeling a bit betrayed by the aunts I thought I had
 myself betrayed, I wonder over the mystery of time passing, and of
 cooked food. </p>
-          <div3 xml:id="sc12-4_030" type="About">
-            <p xml:id="sc12-4_10223">Roberta Bondi is professor of church history at the
+            <div3 xml:id="sc12-4_030" type="About">
+               <p xml:id="sc12-4_10223">Roberta Bondi is professor of church history at the
 Candler School of Theology at Emory University. She is the author of
 <title>To Love as God Loved: Conversations with the Early
 Church</title> (Philadelphia: Fortress Press, 1987). Illustrations
 with this article are from John Egerton's <title>Southern
 Food</title> (New York: Knopf; 1987), photographed Al
 Clayton.</p>
-          </div3>
-        </div2>
+            </div3>
+         </div2>
       </div1>
-    </body>
-  </text>
+      <body>
+         <back>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="interp.xml"/>
+         </back>
+      </body>
+   </text>
 </TEI>
